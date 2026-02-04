@@ -2,6 +2,7 @@
 """
 Simple HTTP-based job scraper for Built In - no Playwright needed.
 Uses requests library instead of browser automation.
+Downloads with 8 threads for parallel processing.
 """
 import os
 import time
@@ -9,6 +10,8 @@ import csv
 import random
 from pathlib import Path
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 import requests
 from bs4 import BeautifulSoup
@@ -56,6 +59,30 @@ def fetch_html(url, timeout=60, retries=3):
             return None, str(e)
 
 
+# Thread-safe counter and lock
+counter_lock = threading.Lock()
+success_count = 0
+failed_count = 0
+
+
+def process_url(idx, url, total):
+    """Process a single URL - fetch and save HTML."""
+    global success_count, failed_count
+
+    html, error = fetch_html(url)
+
+    with counter_lock:
+        if html:
+            filename = save_html(url, html)
+            success_count += 1
+            print(f"  [{idx}/{total}] {filename}")
+            return True
+        else:
+            failed_count += 1
+            print(f"  [{idx}/{total}] Failed: {error[:50] if error else 'Unknown'}")
+            return False, f"{url}|{error}"
+
+
 def save_html(url, html):
     """Save HTML to file."""
     from urllib.parse import urlparse
@@ -90,8 +117,16 @@ def save_html(url, html):
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description='Download job HTMLs with 8 threads')
+    parser.add_argument('--limit', type=int, help='Limit number of URLs to download (for testing)')
+    args = parser.parse_args()
+
+    global success_count, failed_count
+
     print("="*60)
     print("Simple HTTP Job Scraper (no Playwright)")
+    print("8-Threaded Download")
     print("="*60)
 
     # Read URLs from CSV
@@ -104,32 +139,33 @@ def main():
         reader = csv.DictReader(f)
         urls = [row['link'] for row in reader if row.get('link')]
 
+    if args.limit:
+        urls = urls[:args.limit]
+        print(f"\nTEST MODE: Limited to {args.limit} URLs")
+
     print(f"\nFound {len(urls)} URLs to download")
+    print(f"Threads: 8")
     print(f"Retries per URL: 3")
     print(f"Output: {RAW_DIR}")
     print(f"\nStarting download...\n")
 
-    success_count = 0
-    failed_count = 0
     failed_urls = []
 
-    for i, url in enumerate(urls, 1):
-        html, error = fetch_html(url)
+    # Process with 8 threads
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {
+            executor.submit(process_url, i, url, len(urls)): (i, url)
+            for i, url in enumerate(urls, 1)
+        }
 
-        if html:
-            filename = save_html(url, html)
-            success_count += 1
-            print(f"  [{i}/{len(urls)}] {filename}")
-        else:
-            failed_count += 1
-            failed_urls.append(f"{url}|{error}")
-            print(f"  [{i}/{len(urls)}] Failed: {error[:50] if error else 'Unknown'}")
-
-        # Small delay between requests
-        time.sleep(0.5)
+        for future in as_completed(futures):
+            result = future.result()
+            if result is not True:  # Failed
+                failed_urls.append(result[1] if isinstance(result, tuple) else result)
 
     # Save failed URLs
     if failed_urls:
+        FAILED_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(FAILED_FILE, 'w', encoding='utf-8') as f:
             f.write('\n'.join(failed_urls))
         print(f"\n{len(failed_urls)} URLs failed - saved to {FAILED_FILE}")

@@ -16,24 +16,38 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def extract_from_json_ld(html_content):
-    """Extract job data from JSON-LD script tag."""
-    pattern = r'<script type="application/ld\+json">(.*?)</script>'
-    matches = re.findall(pattern, html_content, re.DOTALL)
+    """Extract job data from JSON-LD script tag using BeautifulSoup."""
+    soup = BeautifulSoup(html_content, 'html.parser')
 
-    for match in matches:
+    # Find all script tags with type containing ld+json (with or without HTML entity)
+    # BeautifulSoup handles HTML entity decoding automatically
+    script_tags = soup.find_all('script', type=lambda x: x and 'ld' in x and 'json' in x)
+
+    for script in script_tags:
+        if not script.string:
+            continue
+
+        json_str = script.string.strip()
+
+        # Unescape any HTML entities (e.g., &#x2B; -> +)
+        json_str = html.unescape(json_str)
+
         try:
-            json_str = match.strip()
             data = json.loads(json_str)
+
+            # Handle @graph wrapper
             if isinstance(data, dict) and '@graph' in data:
                 data = data['@graph']
             elif isinstance(data, dict):
                 data = [data]
 
+            # Find JobPosting
             for item in data:
                 if item.get('@type') == 'JobPosting':
                     return item
-        except json.JSONDecodeError:
+        except (json.JSONDecodeError, ValueError):
             continue
+
     return None
 
 
@@ -215,6 +229,38 @@ def sanitize_filename(name):
     return name.strip('_')
 
 
+def write_yaml_file(job, yaml_file):
+    """Write job data to YAML file, skipping empty fields."""
+    with open(yaml_file, 'w', encoding='utf-8') as f:
+        f.write(f"title: {job['title']}\n")
+        f.write(f"company: {job['company']}\n")
+        f.write(f"location: {job['location']}\n")
+        if job['work_type']:
+            f.write(f"work_type: {job['work_type']}\n")
+        if job['level']:
+            f.write(f"level: {job['level']}\n")
+        if job['skills']:
+            f.write(f"skills:\n")
+            for skill in job['skills']:
+                f.write(f"  - {skill}\n")
+        if job['company_size']:
+            f.write(f"company_size: {job['company_size']}\n")
+        if job['compensation']:
+            f.write(f"compensation: {job['compensation']}\n")
+        if job['description']:
+            f.write(f"description: |\n")
+            for line in job['description'].split('\n'):
+                f.write(f"  {line}\n")
+        if job['industries']:
+            f.write(f"industries:\n")
+            for ind in job['industries']:
+                f.write(f"  - {ind}\n")
+        if job['posted_date']:
+            f.write(f"posted_date: {job['posted_date']}\n")
+        f.write(f"url: {job['url']}\n")
+        f.write(f"source: {job['source']}\n")
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Extract jobs from raw HTML')
@@ -236,36 +282,8 @@ def main():
         title_slug = sanitize_filename(job['title'][:50])
         yaml_file = OUTPUT_DIR / f"{company}_{title_slug}.yaml"
 
-        # Write YAML with proper formatting
-        with open(yaml_file, 'w', encoding='utf-8') as f:
-            f.write(f"title: {job['title']}\n")
-            f.write(f"company: {job['company']}\n")
-            f.write(f"location: {job['location']}\n")
-            f.write(f"work_type: {job['work_type']}\n")
-            f.write(f"level: {job['level']}\n")
-
-            if job['skills']:
-                f.write(f"skills:\n")
-                for skill in job['skills']:
-                    f.write(f"  - {skill}\n")
-
-            f.write(f"company_size: {job['company_size']}\n")
-            f.write(f"compensation: {job['compensation']}\n")
-
-            # Description as literal block scalar (preserves formatting)
-            if job['description']:
-                f.write(f"description: |\n")
-                for line in job['description'].split('\n'):
-                    f.write(f"  {line}\n")
-
-            if job['industries']:
-                f.write(f"industries:\n")
-                for ind in job['industries']:
-                    f.write(f"  - {ind}\n")
-
-            f.write(f"posted_date: {job['posted_date']}\n")
-            f.write(f"url: {job['url']}\n")
-            f.write(f"source: {job['source']}\n")
+        # Write YAML (skips empty fields)
+        write_yaml_file(job, yaml_file)
 
         print(f"Saved: {yaml_file.name}")
         print(f"  Title: {job['title']}")
@@ -285,36 +303,8 @@ def main():
             title_slug = sanitize_filename(job['title'][:50])
             yaml_file = OUTPUT_DIR / f"{company}_{title_slug}.yaml"
 
-            # Write YAML with proper formatting
-            with open(yaml_file, 'w', encoding='utf-8') as f:
-                f.write(f"title: {job['title']}\n")
-                f.write(f"company: {job['company']}\n")
-                f.write(f"location: {job['location']}\n")
-                f.write(f"work_type: {job['work_type']}\n")
-                f.write(f"level: {job['level']}\n")
-
-                if job['skills']:
-                    f.write(f"skills:\n")
-                    for skill in job['skills']:
-                        f.write(f"  - {skill}\n")
-
-                f.write(f"company_size: {job['company_size']}\n")
-                f.write(f"compensation: {job['compensation']}\n")
-
-                # Description as literal block scalar
-                if job['description']:
-                    f.write(f"description: |\n")
-                    for line in job['description'].split('\n'):
-                        f.write(f"  {line}\n")
-
-                if job['industries']:
-                    f.write(f"industries:\n")
-                    for ind in job['industries']:
-                        f.write(f"  - {ind}\n")
-
-                f.write(f"posted_date: {job['posted_date']}\n")
-                f.write(f"url: {job['url']}\n")
-                f.write(f"source: {job['source']}\n")
+            # Write YAML (skips empty fields)
+            write_yaml_file(job, yaml_file)
 
             print(f"[{html_files.index(html_file)+1}/{len(html_files)}] {yaml_file.name}")
     else:
