@@ -18,8 +18,8 @@ Built In is server-side rendered - no JavaScript/Playwright needed!
 gh codespace ssh
 cat > .env << 'EOF'
 OXYLABS_ENDPOINT='pr.oxylabs.io:7777'
-OXYLABS_USER='scrape_UWOhB'
-OXYLABS_PASSWORD='9PFFaLPfvOtC='
+OXYLABS_USER='user'
+OXYLABS_PASSWORD='pass'
 EOF
 ```
 
