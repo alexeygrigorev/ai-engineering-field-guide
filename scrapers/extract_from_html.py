@@ -161,7 +161,12 @@ def html_to_markdown(html_content):
         tag.unwrap()
 
     # Convert block elements
-    for tag in soup.find_all(['p', 'div', 'br']):
+    for tag in soup.find_all(['p', 'div']):
+        tag.insert_before('\n\n')
+        tag.insert_after('\n\n')
+        tag.unwrap()
+
+    for tag in soup.find_all('br'):
         tag.insert_before('\n')
         tag.unwrap()
 
