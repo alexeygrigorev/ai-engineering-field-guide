@@ -16,171 +16,250 @@ skills:
   - SQL
 company_size: 257 Employees
 description: |
-  **About Ovative Group:**
+  About Ovative Group:
   
-  Ovative Group is an independent, full-funnel media, measurement, and creative firm. Leveraging our deep industry expertise, we help brands like Best Buy, Domino's, American Eagle, The Home Depot, Post, Disney, Tumi, Michael Kors, Boost Mobile, and UnitedHealth Group transform their media and measurement programs. The result? Profitable growth that speaks for itself.
+  Ovative Group is an independent, full-funnel media,
+  measurement, and creative firm. Leveraging our deep industry
+  expertise, we help brands like Best Buy, Domino's, American
+  Eagle, The Home Depot, Post, Disney, Tumi, Michael Kors,
+  Boost Mobile, and UnitedHealth Group transform their media
+  and measurement programs. The result? Profitable growth that
+  speaks for itself.
   
-   
   
-  At Ovative, we don't just track data, we redefine success. How do we do it? Our proprietary MarTech platform, EMRge helps businesses transform marketing into a driver of sustainable growth. Powered by Enterprise Marketing Return (EMR), our differentiated approach to holistic media buying, planning, and measurement, EMRge is the first MarTech platform to measure businesses holistically. We're all about raising the bar every day, and it shows. Our work has been recognized by organizations like Digiday, Google, Inc. 5000, USA Today, and Search Engine Land.
   
-  **About the Role: **
+  At Ovative, we don't just track data, we redefine success.
+  How do we do it? Our proprietary MarTech platform, EMRge
+  helps businesses transform marketing into a driver of
+  sustainable growth. Powered by Enterprise Marketing Return
+  (EMR), our differentiated approach to holistic media buying,
+  planning, and measurement, EMRge is the first MarTech
+  platform to measure businesses holistically. We're all about
+  raising the bar every day, and it shows. Our work has been
+  recognized by organizations like Digiday, Google, Inc. 5000,
+  USA Today, and Search Engine Land.
   
-  In this role, you will be the technical owner of Ovative’s AI Analytics Platform, leading the design and delivery of a Retrieval-Augmented Generation (RAG) system and the supporting services required to make it secure, scalable, and usable across the business. 
+  About the Role:
   
-   
+  In this role, you will be the technical owner of Ovative’s
+  AI Analytics Platform, leading the design and delivery of a
+  Retrieval-Augmented Generation (RAG) system and the
+  supporting services required to make it secure, scalable,
+  and usable across the business.
   
-  This role is intentionally hands-on and requires prior experience building RAG-style or AI-driven analytics systems. Ovative is early in this capability area, and this role is expected to bring proven architectural patterns and execution experience rather than learning them from scratch. 
   
-   
   
-  You will lead the build of platform components that do not exist today, including document ingestion and storage, indexing and vector search, semantic modeling, and system integrations. Many of these capabilities will leverage Databricks-native services, while others will require thoughtful integration with enterprise systems such as Confluence, Slack, and SSO via Entra. 
+  This role is intentionally hands-on and requires prior
+  experience building RAG-style or AI-driven analytics
+  systems. Ovative is early in this capability area, and this
+  role is expected to bring proven architectural patterns and
+  execution experience rather than learning them from scratch.
   
-   
   
-  **Responsibilities of a Lead Engineer:**
   
-  - Serve as the technical owner of Ovative’s RAG-based AI Analytics Platform, leading the system from initial design through production use. 
+  You will lead the build of platform components that do not
+  exist today, including document ingestion and storage,
+  indexing and vector search, semantic modeling, and system
+  integrations. Many of these capabilities will leverage
+  Databricks-native services, while others will require
+  thoughtful integration with enterprise systems such as
+  Confluence, Slack, and SSO via Entra.
   
-  - Partner closely with Product Management to translate ambiguous business questions into clear, feasible platform capabilities, framing options and tradeoffs (accuracy, latency, security, and cost) with clear connection to business outcomes 
   
-  - Design and build new platform components, including: 
   
-  - Document ingestion and storage services 
+  Responsibilities of a Lead Engineer:
   
-  - Indexing and vector database capabilities 
+  - Serve as the technical owner of Ovative’s RAG-based AI
+    Analytics Platform, leading the system from initial design
+    through production use.
   
-  - Semantic layer abstractions for governed analytics 
+  - Partner closely with Product Management to translate
+    ambiguous business questions into clear, feasible platform
+    capabilities, framing options and tradeoffs (accuracy,
+    latency, security, and cost) with clear connection to
+    business outcomes
   
-  - Orchestration logic coordinating retrieval, SQL generation, and model interaction 
+  - Design and build new platform components, including:
   
-  - Lead integrations with enterprise systems including: 
+  - Document ingestion and storage services
   
-  - Authentication and authorization (SSO, entitlements) 
+  - Indexing and vector database capabilities
   
-  - Knowledge sources (e.g., Confluence, internal file stores) 
+  - Semantic layer abstractions for governed analytics
   
-  - User interfaces and request channels (e.g., Slack, EMRge, BI tools) 
+  - Orchestration logic coordinating retrieval, SQL generation,
+    and model interaction
   
-  - Apply established RAG and AI analytics patterns to prevent hallucinations, enforce business logic, and ensure traceability of answers. 
+  - Lead integrations with enterprise systems including:
   
-  - Leverage and extend native solutions where appropriate, while defining clear system boundaries. 
+  - Authentication and authorization (SSO, entitlements)
   
-  - Follow technical standards for AI safety, access control, observability, and cost management. 
+  - Knowledge sources (e.g., Confluence, internal file stores)
   
-  - Translate business questions into platform capabilities by partnering with Product and domain stakeholders. 
+  - User interfaces and request channels (e.g., Slack, EMRge, BI
+    tools)
   
-  - Break down complex platform initiatives into sequenced work that a small engineering team can execute effectively. 
+  - Apply established RAG and AI analytics patterns to prevent
+    hallucinations, enforce business logic, and ensure
+    traceability of answers.
   
-  - Mentor other engineers by transferring context and patterns as the platform matures. 
+  - Leverage and extend native solutions where appropriate,
+    while defining clear system boundaries.
   
-   
+  - Follow technical standards for AI safety, access control,
+    observability, and cost management.
   
-  **Experience Needed** 
+  - Translate business questions into platform capabilities by
+    partnering with Product and domain stakeholders.
   
-  **Requirements:**  
+  - Break down complex platform initiatives into sequenced work
+    that a small engineering team can execute effectively.
   
-  - 8+ years of experience in software engineering, data engineering, or applied analytics roles. 
+  - Mentor other engineers by transferring context and patterns
+    as the platform matures.
   
-  - Demonstrated experience designing and delivering RAG-based systems, search platforms, or AI-powered analytics applications in production. 
   
-  - Experience working with embeddings, vector databases, and retrieval pipelines. 
   
-  - Strong proficiency in Python and SQL, with experience building production data or platform services. 
+  Experience Needed
   
-  - Experience integrating multiple systems and tools (data platforms, document systems, authentication, user interfaces). 
+  Requirements:
   
-  - Experience utilizing large complex datasets in advanced AI models to surface insights and recommendations. 
+  - 8+ years of experience in software engineering, data
+    engineering, or applied analytics roles.
   
-  - Familiarity with cloud data platforms (AWS, GCP, or Azure); experience with Databricks is strongly preferred. 
+  - Demonstrated experience designing and delivering RAG-based
+    systems, search platforms, or AI-powered analytics
+    applications in production.
   
-  - Strong communication skills and comfort leading technical discussions across disciplines. 
+  - Experience working with embeddings, vector databases, and
+    retrieval pipelines.
   
-  - Experience partnering with Product Management and stakeholders to define platform capabilities, including communicating technical feasibility, constraints, and tradeoffs to non-technical audiences. 
+  - Strong proficiency in Python and SQL, with experience
+    building production data or platform services.
   
-   
+  - Experience integrating multiple systems and tools (data
+    platforms, document systems, authentication, user
+    interfaces).
   
-  **Preferred:** 
+  - Experience utilizing large complex datasets in advanced AI
+    models to surface insights and recommendations.
   
-  - Experience operating AI systems in governed or compliance-sensitive environments. 
+  - Familiarity with cloud data platforms (AWS, GCP, or Azure);
+    experience with Databricks is strongly preferred.
   
-  - Experience building or extending semantic layers for analytics or BI. 
+  - Strong communication skills and comfort leading technical
+    discussions across disciplines.
   
-  - Experience integrating enterprise tools such as Confluence, Slack, or similar collaboration platforms. 
+  - Experience partnering with Product Management and
+    stakeholders to define platform capabilities, including
+    communicating technical feasibility, constraints, and
+    tradeoffs to non-technical audiences.
   
-  - Exposure to recommendation systems, insight generation, or other applied AI use cases beyond Q&A. 
   
   
+  Preferred:
   
-  **Pay Transparency **
+  - Experience operating AI systems in governed or compliance-
+    sensitive environments.
   
-  At Ovative, we offer a transparent view into three core components of your total compensation package: Base Salary, Annual Bonus, and Benefits. The salary range for this position below is inclusive of an annual bonus. Actual offers are made with consideration for relevant experience and anticipated impact. Additional benefits information is provided below. 
+  - Experience building or extending semantic layers for
+    analytics or BI.
   
-  For our Lead Engineer positions, our compensation ranges from $111,000 to $186,000, which is inclusive of a 25% bonus.
+  - Experience integrating enterprise tools such as Confluence,
+    Slack, or similar collaboration platforms.
   
-  **Benefits of Working at Ovative Group: **
+  - Exposure to recommendation systems, insight generation, or
+    other applied AI use cases beyond Q&A.
   
-  We provide strong, competitive, holistic benefits that understand the importance of your life inside and out of work.  
   
-  **Culture: ** 
   
-  Culture matters and we’ve been recognized as a Top Workplace for ten years running because of it. We demand trust and transparency from each other. We believe in doing the hard and complicated work others put off. We’re open in communication and floor plan. We’re flat – our interns sit next to VPs, our analysts work closely with senior leaders, and our CEO interacts with every single person daily. Put together, these elements help foster an environment where smart people can support each other in performing to their highest potential.  
+  Pay Transparency
   
-  Ovative is committed to fostering an inclusive environment where everyone can participate and thrive. We do not tolerate discrimination of any kind, including on the basis of race, sexual orientation, gender identity, or gender expression. Our policies reflect this commitment—for example, our medical leave benefits are inclusive of same-sex partners, ensuring equitable care and support for all families. 
+  At Ovative, we offer a transparent view into three core
+  components of your total compensation package: Base Salary,
+  Annual Bonus, and Benefits. The salary range for this
+  position below is inclusive of an annual bonus. Actual
+  offers are made with consideration for relevant experience
+  and anticipated impact. Additional benefits information is
+  provided below.
   
-  **Compensation and Insurance: ** 
+  For our Lead Engineer positions, our compensation ranges
+  from $111,000 to $186,000, which is inclusive of a 25%
+  bonus.
   
-  We strive to hire and retain the best talent. Paying fair, competitive compensation, with a large bonus incentive, and phenomenal health insurance is an important part of this mix.  
+  Benefits of Working at Ovative Group:
   
-  We’re rewarded fairly and when the company performs well, we all benefit.  
+  We provide strong, competitive, holistic benefits that
+  understand the importance of your life inside and out of
+  work. 
   
-    
+  Culture: 
   
-  **Tangible amenities we enjoy: ** 
+  Culture matters and we’ve been recognized as a Top Workplace
+  for ten years running because of it. We demand trust and
+  transparency from each other. We believe in doing the hard
+  and complicated work others put off. We’re open in
+  communication and floor plan. We’re flat – our interns sit
+  next to VPs, our analysts work closely with senior leaders,
+  and our CEO interacts with every single person daily. Put
+  together, these elements help foster an environment where
+  smart people can support each other in performing to their
+  highest potential. 
   
-  - 
+  Ovative is committed to fostering an inclusive environment
+  where everyone can participate and thrive. We do not
+  tolerate discrimination of any kind, including on the basis
+  of race, sexual orientation, gender identity, or gender
+  expression. Our policies reflect this commitment—for
+  example, our medical leave benefits are inclusive of same-
+  sex partners, ensuring equitable care and support for all
+  families.
   
-  Access to all office spaces in MSP, NYC, and CHI  
+  Compensation and Insurance: 
   
-  - 
+  We strive to hire and retain the best talent. Paying fair,
+  competitive compensation, with a large bonus incentive, and
+  phenomenal health insurance is an important part of this
+  mix. 
   
-  Frequent, paid travel to our Minneapolis headquarters for company events, team events, and in-person collaboration with teams
+  We’re rewarded fairly and when the company performs well, we
+  all benefit. 
   
-  - 
   
-  Generous paid vacation policy  
   
-  - 
+  Tangible amenities we enjoy: 
   
-  401k match program  
+  - Access to all office spaces in MSP, NYC, and CHI
   
-  - 
+  - Frequent, paid travel to our Minneapolis headquarters for
+    company events, team events, and in-person collaboration
+    with teams
   
-  Top-notch health insurance options, inclusive of same sex partners 
+  - Generous paid vacation policy
   
-  - 
+  - 401k match program
   
-  Family formation benefits including reimbursement options for fertility, pregnancy, and parenting needs 
+  - Top-notch health insurance options, inclusive of same sex
+    partners
   
-  - 
+  - Family formation benefits including reimbursement options
+    for fertility, pregnancy, and parenting needs
   
-  Monthly stipend for your mobile phone and data plan  
+  - Monthly stipend for your mobile phone and data plan
   
-  - 
+  - Sabbatical program
   
-  Sabbatical program  
+  - Charitable giving via our time and a financial match program
   
-  - 
+  - Shenanigan’s Day
   
-  Charitable giving via our time and a financial match program  
   
-  - 
   
-  Shenanigan’s Day  
-  
-    
-  
-  Working at Ovative won’t be easy, but if you like getting your hands dirty, driving results, and being surrounded by the best talent, it’ll be the most rewarding job you’ll ever have. If you think you can make us better, we want to hear from you!
+  Working at Ovative won’t be easy, but if you like getting
+  your hands dirty, driving results, and being surrounded by
+  the best talent, it’ll be the most rewarding job you’ll ever
+  have. If you think you can make us better, we want to hear
+  from you!
 posted_date: 2026-01-20
 url: https://builtin.com/job/lead-engineer-ai-business-intelligence/8255376
 source: Built In

@@ -12,79 +12,111 @@ skills:
   - Rust
   - Slurm
 description: |
-  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+  NVIDIA has been transforming computer graphics, PC gaming,
+  and accelerated computing for more than 25 years. It’s a
+  unique legacy of innovation that’s fueled by great
+  technology—and amazing people. Today, we’re tapping into the
+  unlimited potential of AI to define the next era of
+  computing. An era in which our GPU acts as the brains of
+  computers, robots, and self-driving cars that can understand
+  the world. Doing what’s never been done before takes vision,
+  innovation, and the world’s best talent. As an NVIDIAN,
+  you’ll be immersed in a diverse, supportive environment
+  where everyone is inspired to do their best work. Come join
+  the team and see how you can make a lasting impact on the
+  world.
   
-  We are now looking for a Senior System Software Engineer to work on user facing tools for Dynamo Inference Server! NVIDIA is hiring software engineers for its GPU-accelerated deep learning software team, and we are a remote friendly work environment. Academic and commercial groups around the world are using GPUs to power a revolution in deep learning, enabling breakthroughs in problems from LLM, image classification to speech recognition to natural language processing. We are a fast-paced team building tools and software to make the design and deployment of new deep learning models easier and accessible to more data scientists.
+  We are now looking for a Senior System Software Engineer to
+  work on user facing tools for Dynamo Inference Server!
+  NVIDIA is hiring software engineers for its GPU-accelerated
+  deep learning software team, and we are a remote friendly
+  work environment. Academic and commercial groups around the
+  world are using GPUs to power a revolution in deep learning,
+  enabling breakthroughs in problems from LLM, image
+  classification to speech recognition to natural language
+  processing. We are a fast-paced team building tools and
+  software to make the design and deployment of new deep
+  learning models easier and accessible to more data
+  scientists.
   
-  **What you’ll be doing:**
+  What you’ll be doing:
   
-  - 
+  - Build and maintain distributed model management systems,
+    including Rust-based runtime components, for large-scale
+    AI inference workloads.
+  - Implement inference scheduling and deployment solutions on
+    Kubernetes and Slurm, while driving advances in scaling,
+    orchestration, and resource management.
+  - Collaborate with infrastructure engineers and researchers to
+    develop scalable APIs, services, and end-to-end inference
+    workflows.
+  - Create monitoring, benchmarking, automation, and
+    documentation processes to ensure low-latency, robust, and
+    production-ready inference systems on GPU clusters.
   
-  Build and maintain distributed model management systems, including Rust-based runtime components, for large-scale AI inference workloads.
+  What we need to see:
   
-  - 
+  - Bachelor’s, Master’s, or PhD in Computer Science, ECE, or
+    related field (or equivalent experience).
+  - 6+ years of professional software engineering experience.
+  - Strong understanding of modern ML architectures with a keen
+    intuition for optimizing inference performance.
+  - Take full ownership of problems end-to-end, proactively
+    acquiring any knowledge or skills needed to deliver
+    results.
+  - Familiar with  or able to quickly gain expertise in vLLM,
+    SGLang, PyTorch, NVIDIA GPUs, and supporting software
+    stacks such as NIXL, NCCL, CUDA, as well as HPC
+    technologies like InfiniBand, MPI, and NVLink.
+  - Experienced in architecting, building, monitoring, and
+    debugging production-grade distributed systems; bonus if
+    you’ve worked on performance-critical ones.
   
-  Implement inference scheduling and deployment solutions on Kubernetes and Slurm, while driving advances in scaling, orchestration, and resource management.
+  Ways to stand out from the crowd:
   
-  - 
+  - Experience with inference-serving frameworks (e.g., Dynamo
+    Inference Server, TensorRT, ONNX Runtime) and
+    deploying/managing LLM inference pipelines at scale.
+  - Contributions to large-scale, low-latency distributed
+    systems (open-source preferred) with proven expertise in
+    high-availability infrastructure.
+  - Strong background in GPU inference performance tuning, CUDA-
+    based systems, and operating across cloud-native and
+    hybrid environments (AWS, GCP, Azure).
   
-  Collaborate with infrastructure engineers and researchers to develop scalable APIs, services, and end-to-end inference workflows.
+  NVIDIA has continuously reinvented itself over three
+  decades. Our invention of the GPU in 1999 sparked the growth
+  of the PC gaming market, redefined modern computer graphics,
+  and revolutionized parallel computing. More recently, GPU
+  deep learning ignited modern AI — the next era of computing.
+  We are widely considered to be the leader of AI computing,
+  and one of the technology world’s most desirable employers.
+  We have some of the most forward-thinking and committed
+  people in the world working for us. If you're creative and
+  autonomous, we want to hear from you!
   
-  - 
-  
-  Create monitoring, benchmarking, automation, and documentation processes to ensure low-latency, robust, and production-ready inference systems on GPU clusters.
-  
-  **What we need to see:**
-  
-  - 
-  
-  Bachelor’s, Master’s, or PhD in Computer Science, ECE, or related field (or equivalent experience).
-  
-  - 
-  
-  6+ years of professional software engineering experience.
-  
-  - 
-  
-  Strong understanding of modern ML architectures with a keen intuition for optimizing inference performance.
-  
-  - 
-  
-  Take full ownership of problems end-to-end, proactively acquiring any knowledge or skills needed to deliver results.
-  
-  - 
-  
-  Familiar with  or able to quickly gain expertise in vLLM, SGLang, PyTorch, NVIDIA GPUs, and supporting software stacks such as NIXL, NCCL, CUDA, as well as HPC technologies like InfiniBand, MPI, and NVLink.
-  
-  - 
-  
-  Experienced in architecting, building, monitoring, and debugging production-grade distributed systems; bonus if you’ve worked on performance-critical ones.
-  
-  **Ways to stand out from the crowd:**
-  
-  - 
-  
-  Experience with inference-serving frameworks (e.g., Dynamo Inference Server, TensorRT, ONNX Runtime) and deploying/managing LLM inference pipelines at scale.
-  
-  - 
-  
-  Contributions to large-scale, low-latency distributed systems (open-source preferred) with proven expertise in high-availability infrastructure.
-  
-  - 
-  
-  Strong background in GPU inference performance tuning, CUDA-based systems, and operating across cloud-native and hybrid environments (AWS, GCP, Azure).
-  
-  NVIDIA has continuously reinvented itself over three decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. We are widely considered to be the leader of AI computing, and one of the technology world’s most desirable employers. We have some of the most forward-thinking and committed people in the world working for us. If you're creative and autonomous, we want to hear from you!
-  
-  Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  The base salary range is 184,000 USD - 287,500 USD for Level
+  4, and 224,000 USD - 356,500 USD for Level 5.
   
   You will also be eligible for equity and benefits.
-  Applications for this job will be accepted at least until January 13, 2026.
   
-  This posting is for an existing vacancy. 
+  Applications for this job will be accepted at least until
+  January 13, 2026.
+  
+  This posting is for an existing vacancy.
   
   NVIDIA uses AI tools in its recruiting processes.
-  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+  
+  NVIDIA is committed to fostering a diverse work environment
+  and proud to be an equal opportunity employer. As we highly
+  value diversity in our current and future employees, we do
+  not discriminate (including in our hiring and promotion
+  practices) on the basis of race, religion, color, national
+  origin, gender, gender expression, sexual orientation, age,
+  marital status, veteran status, disability status or any
+  other characteristic protected by law.
 industries:
   - Artificial Intelligence
   - Computer Vision

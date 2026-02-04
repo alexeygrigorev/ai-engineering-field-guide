@@ -17,149 +17,203 @@ skills:
   - Vertex Ai
 company_size: 12,000 Employees
 description: |
-  **Location Designation:** Hybrid - 3 days per quarter 
-  The GCP Platform Engineer at New York Life is responsible for designing, building, and operating secure, compliant, and scalable cloud and AI-enabled platforms on Google Cloud Platform (GCP). This role enables application, data, and analytics teams by providing standardized cloud infrastructure, Kubernetes platforms, and approved Google AI services, while meeting financial services regulatory, security, and resiliency requirements.
-  The engineer partners with the Cloud, Data & AI teams, Information Security, and Risk to ensure AI workloads are deployed with appropriate governance, data controls, and observability.
-  **What You'll Do:**
-  **Enterprise Cloud & AI Platform**
+  Location Designation: Hybrid - 3 days per quarter  The GCP
+  Platform Engineer at New York Life is responsible for
+  designing, building, and operating secure, compliant, and
+  scalable cloud and AI-enabled platforms on Google Cloud
+  Platform (GCP). This role enables application, data, and
+  analytics teams by providing standardized cloud
+  infrastructure, Kubernetes platforms, and approved Google AI
+  services, while meeting financial services regulatory,
+  security, and resiliency requirements. The engineer partners
+  with the Cloud, Data & AI teams, Information Security, and
+  Risk to ensure AI workloads are deployed with appropriate
+  governance, data controls, and observability. What You'll
+  Do: Enterprise Cloud & AI Platform
   
-  - Design and maintain enterprise GCP landing zones using Google Cloud Deployment Manager, Terraform, and Cloud Foundation Toolkit aligned with NYL governance standards. Build and operate shared cloud services supporting AI and non-AI workloads on GCP components like Cloud Storage, Cloud Functions, Cloud Run, Cloud Pub/Sub, and Cloud Spanner. Implement Infrastructure as Code (Terraform) for platform, networking, and AI service enablement
+  - Design and maintain enterprise GCP landing zones using
+    Google Cloud Deployment Manager, Terraform, and Cloud
+    Foundation Toolkit aligned with NYL governance standards.
+    Build and operate shared cloud services supporting AI and
+    non-AI workloads on GCP components like Cloud Storage,
+    Cloud Functions, Cloud Run, Cloud Pub/Sub, and Cloud
+    Spanner. Implement Infrastructure as Code (Terraform) for
+    platform, networking, and AI service enablement
+  - Support hybrid connectivity and secure data access patterns
+    for AI use cases using Cloud Interconnect and Cloud VPN.
   
-  - Support hybrid connectivity and secure data access patterns for AI use cases using Cloud Interconnect and Cloud VPN.
+  Kubernetes, Containers & AI Workloads
   
-  **Kubernetes, Containers & AI Workloads**
-  
-  - Engineer and operate GKE (Google Kubernetes Engine) clusters for application and AI inference workloads
-  
-  - Enable containerized AI services and microservices using approved base images from Google Container Registry (GCR) or JFrog Artifact Registry.
-  
+  - Engineer and operate GKE (Google Kubernetes Engine) clusters
+    for application and AI inference workloads
+  - Enable containerized AI services and microservices using
+    approved base images from Google Container Registry (GCR)
+    or JFrog Artifact Registry.
   - Support GPU-enabled workloads where approved
+  - Implement standardized deployment patterns for AI APIs and
+    services using Helm for Kubernetes deployment management
   
-  - Implement standardized deployment patterns for AI APIs and services using Helm for Kubernetes deployment management
-  
-  **Google AI / GenAI Enablement **
+  Google AI / GenAI Enablement
   
   - Enable and operate approved Google AI services, including:
+  - Implement secure access controls, networking, and monitoring
+    for AI services using Cloud Identity & Access Management
+    (IAM), VPC Service Controls, and Cloud Monitoring.
+  - Integrate AI platforms with CI/CD pipelines and enterprise
+    SDLC controls using tools like Harness CICD
+  - Partner with Data & AI teams to operationalize AI workloads
+    safely and compliantly within Google Cloud environments.
   
-  - Vertex AI (model hosting, endpoints, pipelines - platform enablement only, agentic AI deployments and communication protocols in Vertex AI Agent Builder and Agent Engine)
+  DevOps, Automation & MLOps Foundations
   
-  - Gemini APIs and other managed GenAI services (as approved by NYL governance)
-  
-  - BigQuery ML and AI-integrated analytics platforms
-  
-  - Implement secure access controls, networking, and monitoring for AI services using Cloud Identity & Access Management (IAM), VPC Service Controls, and Cloud Monitoring.
-  
-  - Integrate AI platforms with CI/CD pipelines and enterprise SDLC controls using tools like Harness CICD
-  
-  - Partner with Data & AI teams to operationalize AI workloads safely and compliantly within Google Cloud environments.
-  
-  **DevOps, Automation & MLOps Foundations**
-  
-  - Build secure CI/CD pipelines for application and AI workloads using Harness CI/CD
-  
+  - Build secure CI/CD pipelines for application and AI
+    workloads using Harness CI/CD
   - Support MLOps foundations such as:
+  - Enforce guardrails, approvals, and policy-as-code for AI
+    usage with Cloud Security Command Center, Google Cloud
+    Policy Analyzer, and Open Policy Agent (OPA).
   
-  - Model deployment automation via Kubeflow, TensorFlow Extended (TFX), Vertex AI Pipelines, and Vertex AI Model Registry.
+  Security, Risk & Compliance
   
-  - Environment promotion and rollback using Terraform
+  - Implement IAM, workload identity, and least-privilege models
+    for AI services using Cloud Identity & Access Management
+    (IAM) and Workload Identity Federation.
+  - Enforce data residency, encryption, and access policies
+    using Cloud Key Management Service (KMS) and Cloud Data
+    Loss Prevention (DLP).
+  - Integrate AI platform telemetry with enterprise logging,
+    monitoring, and SIEM using Cloud Logging, Cloud
+    Monitoring, and New Relic.
+  - Support audits, risk reviews, and regulatory requirements
+    (SOC2, SOX, data privacy) by leveraging Google Cloud
+    Security Command Center, Cloud Audit Logs, and Cloud Data
+    Loss Prevention API.
   
-  - Monitoring and logging for AI endpoints using New Relic for synthetic monitoring, and Cloud Logging and Cloud Monitoring for deeper observability and troubleshooting.
+  Reliability, Observability & Cost Management
   
-  - Enforce guardrails, approvals, and policy-as-code for AI usage with Cloud Security Command Center, Google Cloud Policy Analyzer, and Open Policy Agent (OPA).
+  - Design platforms for high availability and resilience,
+    including AI services using GKE, Cloud Spanner, Cloud SQL,
+    and Google Cloud Load Balancing.
+  - Monitor AI workloads for performance, reliability, and cost
+    usage using New Relic for synthetic monitoring, Cloud
+    Monitoring, and Cloud Trace for performance insight and
+    Harness CCM for cost
+  - Optimize cloud and AI service costs using budgets and usage
+    controls using Google Cloud Billing, Budgets, Alerts and
+    Harness CCM
+  - Participate in incident response and root-cause analysis
+    logged in service now and manage incident notifications
+    through PagerDuty.
   
-  **Security, Risk & Compliance**
+  Collaboration & Governance
   
-  - Implement IAM, workload identity, and least-privilege models for AI services using Cloud Identity & Access Management (IAM) and Workload Identity Federation.
+  - Partner withData & AI, InfoSec, Security, Risk, and
+    Application teams to ensure secure, compliant, and
+    efficient AI platform usage.
+  - Contribute to enterprise standards for cloud and AI platform
+    usage including Best Practices for GCP and Google Cloud
+    Architecture Framework.
+  - Provide guidance on responsible AI platform adoption using
+    frameworks like Google's AI Principles and Fairness
+    Indicators.
+  - Document reference architectures and best practices for GCP
+    AI services, MLOps, and cloud infrastructure.
   
-  - Enforce data residency, encryption, and access policies using Cloud Key Management Service (KMS) and Cloud Data Loss Prevention (DLP).
+  What You'll Bring:
   
-  - Integrate AI platform telemetry with enterprise logging, monitoring, and SIEM using Cloud Logging, Cloud Monitoring, and New Relic.
+  - 5+ years of experience in cloud, platform, or DevOps
+    engineering
+  - Strong hands-on experience with Google Cloud Platform
+    specifically services like GKE, BigQuery, Cloud Storage,
+    Cloud Functions, and Vertex AI.
+  - Expertise in Terraform and Infrastructure as Code
+  - Experience operating Kubernetes / GKE in enterprise
+    environments with tools like kubectl, Helm
+  - Proficiency in scripting with languages like Python, Bash,
+    or Go.
+  - Strong understanding of cloud security, IAM, and networking
+    using VPC, Cloud IAM, and VPC Service Controls.
+  - Experience working in regulated or highly governed
+    environments
   
-  - Support audits, risk reviews, and regulatory requirements (SOC2, SOX, data privacy) by leveraging Google Cloud Security Command Center, Cloud Audit Logs, and Cloud Data Loss Prevention API.
+  Desired / Preferred Qualifications (AI-Focused)
   
-  **Reliability, Observability & Cost Management**
+  - Experience enabling or operating Google AI services, such
+    as:
+  - Familiarity with MLOps concepts (model deployment,
+    versioning, monitoring) using Kubeflow, TensorFlow
+    Extended (TFX), and Vertex AI Pipelines.
+  - Experience supporting AI inference workloads (not
+    necessarily model training) in GKE or Cloud Run
+  - Understanding of Responsible AI, data governance, and model
+    risk controls
+  - GCP certifications like Google Cloud Certified -
+    Professional Cloud Architect, Google Cloud Certified -
+    Professional Cloud DevOps Engineer; AI-related
+    certifications such as Google Cloud Certified -
+    Professional Machine Learning Engineer are a plus
   
-  - Design platforms for **high availability and resilience**, including AI services using GKE, Cloud Spanner, Cloud SQL, and Google Cloud Load Balancing.
+  What Success Looks Like
   
-  - Monitor AI workloads for performance, reliability, and cost usage using New Relic for synthetic monitoring, Cloud Monitoring, and Cloud Trace for performance insight and Harness CCM for cost
-  
-  - Optimize cloud and AI service costs using budgets and usage controls using Google Cloud Billing, Budgets, Alerts and Harness CCM
-  
-  - Participate in incident response and root-cause analysis logged in service now and manage incident notifications through PagerDuty.
-  
-  **Collaboration & Governance**
-  
-  - Partner withData & AI, InfoSec, Security, Risk, and Application teams to ensure secure, compliant, and efficient AI platform usage.
-  
-  - Contribute to enterprise standards for cloud and AI platform usage including Best Practices for GCP and Google Cloud Architecture Framework.
-  
-  - Provide guidance on responsible AI platform adoption using frameworks like Google's AI Principles and Fairness Indicators.
-  
-  - Document reference architectures and best practices for GCP AI services, MLOps, and cloud infrastructure.
-  
-  **What You'll Bring:**
-  
-  - 5+ years of experience in cloud, platform, or DevOps engineering
-  
-  - Strong hands-on experience with Google Cloud Platform specifically services like GKE, BigQuery, Cloud Storage, Cloud Functions, and Vertex AI.
-  
-  - Expertise in Terraform and Infrastructure as Code 
-  
-  - Experience operating Kubernetes / GKE in enterprise environments with tools like kubectl, Helm
-  
-  - Proficiency in scripting with languages like Python, Bash, or Go.
-  
-  - Strong understanding of cloud security, IAM, and networking using VPC, Cloud IAM, and VPC Service Controls.
-  
-  - Experience working in regulated or highly governed environments
-  
-  **Desired / Preferred Qualifications (AI-Focused)**
-  
-  - Experience enabling or operating Google AI services, such as:
-  
-  - Vertex AI (endpoints, pipelines, monitoring, agentic AI engine and communication protocols)
-  
-  - Gemini APIs or other managed GenAI services
-  
-  - BigQuery ML and AI-integrated analytics platforms
-  
-  - Familiarity with MLOps concepts (model deployment, versioning, monitoring) using Kubeflow, TensorFlow Extended (TFX), and Vertex AI Pipelines.
-  
-  - Experience supporting AI inference workloads (not necessarily model training) in GKE or Cloud Run
-  
-  - Understanding of Responsible AI, data governance, and model risk controls
-  
-  - GCP certifications like Google Cloud Certified - Professional Cloud Architect, Google Cloud Certified - Professional Cloud DevOps Engineer; AI-related certifications such as Google Cloud Certified - Professional Machine Learning Engineer are a plus 
-  
-  **What Success Looks Like**
-  
-  - Secure, compliant cloud and AI platforms aligned to NYL standards
-  
+  - Secure, compliant cloud and AI platforms aligned to NYL
+    standards
   - Safe and governed enablement of Google AI capabilities
-  
   - Faster delivery of AI-powered applications with reduced risk
+  - Strong collaboration across Cloud, Data, AI, Security, and
+    Risk teams
   
-  - Strong collaboration across Cloud, Data, AI, Security, and Risk teams
-  
-  #LI-TL2
-  **Pay Transparency**
-  Salary Range: $147,500-$211,000 
-  Overtime eligible: Exempt 
-  Discretionary bonus eligible: Yes 
-  Sales bonus eligible: No 
-  Actual base salary will be determined based on several factors but not limited to individual's experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program.
-  **Company Overview **
-  At New York Life, our 180-year legacy of purpose and integrity fuels our future. As we evolve into a more technology-, data-, and AI-enabled organization, we remain grounded in the values that drive lasting impact. 
-  Our diverse business portfolio creates opportunities to make a difference across industries and communities-inviting bold thinking, collaborative problem-solving, and purpose-driven innovation. Here, you'll find the rare balance of long-standing stability and forward momentum, supported by an inclusive team that honors tradition while embracing progress. 
-  As a Fortune 100 mutual company, we offer a place to grow your skills, contribute to meaningful work, and deliver solutions that matter. Your ideas drive what's next, and your growth powers it. 
-  **Our Benefits**
-  We provide a full package of benefits for employees - and have unique offerings for a modern workforce, including leave programs, adoption assistance, and student loan repayment programs. Based on feedback from our employees, we continue to refine and add benefits to our offering, so that you can flourish both inside and outside of work.Click hereto discover more about our comprehensive benefit options or visit our NYL Benefits Site.
-  **Our Commitment to Inclusion**
-  At New York Life, fostering an inclusive workplace is fundamental to who we are and how we serve our communities. We have a longstanding commitment to creating an environment where individuals can contribute their best and succeed together. This foundation is rooted in our core values of humanity and integrity, ensuring that every employee feels valued and supported. By embracing a broad range of perspectives and experiences, we achieve greater success and fulfill our promise of providing financial security and peace of mind to families across all communities. Click here to learn more about New York Life's leadership in this space. 
-  Recognized as one of Fortune's World's Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation. We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com.
-  Visit our LinkedIn to see how our employees and agents are leading the industry and impacting communities.
-  Visit our Newsroom to learn more about how our company is constantly evolving to meet our clients' and employees' needs.
-  Job Requisition ID: 93259
+  #LI-TL2 Pay Transparency Salary Range: $147,500-$211,000
+  Overtime eligible: Exempt Discretionary bonus eligible: Yes
+  Sales bonus eligible: No Actual base salary will be
+  determined based on several factors but not limited to
+  individual's experience, skills, qualifications, and job
+  location. Additionally, employees are eligible for an annual
+  discretionary bonus. In addition to base salary, employees
+  may also be eligible to participate in an incentive program.
+  Company Overview At New York Life, our 180-year legacy of
+  purpose and integrity fuels our future. As we evolve into a
+  more technology-, data-, and AI-enabled organization, we
+  remain grounded in the values that drive lasting impact. Our
+  diverse business portfolio creates opportunities to make a
+  difference across industries and communities-inviting bold
+  thinking, collaborative problem-solving, and purpose-driven
+  innovation. Here, you'll find the rare balance of long-
+  standing stability and forward momentum, supported by an
+  inclusive team that honors tradition while embracing
+  progress. As a Fortune 100 mutual company, we offer a place
+  to grow your skills, contribute to meaningful work, and
+  deliver solutions that matter. Your ideas drive what's next,
+  and your growth powers it. Our Benefits We provide a full
+  package of benefits for employees - and have unique
+  offerings for a modern workforce, including leave programs,
+  adoption assistance, and student loan repayment programs.
+  Based on feedback from our employees, we continue to refine
+  and add benefits to our offering, so that you can flourish
+  both inside and outside of work.Click hereto discover more
+  about our comprehensive benefit options or visit our NYL
+  Benefits Site. Our Commitment to Inclusion At New York Life,
+  fostering an inclusive workplace is fundamental to who we
+  are and how we serve our communities. We have a longstanding
+  commitment to creating an environment where individuals can
+  contribute their best and succeed together. This foundation
+  is rooted in our core values of humanity and integrity,
+  ensuring that every employee feels valued and supported. By
+  embracing a broad range of perspectives and experiences, we
+  achieve greater success and fulfill our promise of providing
+  financial security and peace of mind to families across all
+  communities. Click here to learn more about New York Life's
+  leadership in this space. Recognized as one of Fortune's
+  World's Most Admired Companies, New York Life is committed
+  to improving local communities through a culture of employee
+  giving and volunteerism, supported by the Foundation. We're
+  proud that due to our mutuality, we operate in the best
+  interests of our policy owners. To learn more about career
+  opportunities at New York Life, please visit the Careers
+  page of www.NewYorkLife.com. Visit our LinkedIn to see how
+  our employees and agents are leading the industry and
+  impacting communities. Visit our Newsroom to learn more
+  about how our company is constantly evolving to meet our
+  clients' and employees' needs. Job Requisition ID: 93259
 industries:
   - Artificial Intelligence
   - Cloud

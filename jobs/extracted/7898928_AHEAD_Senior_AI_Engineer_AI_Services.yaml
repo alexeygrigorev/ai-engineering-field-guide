@@ -17,157 +17,168 @@ skills:
   - Llamaindex
 company_size: 1,154 Employees
 description: |
-  AHEAD builds platforms for digital business. By weaving together advances in cloud infrastructure, automation and analytics, and software delivery, we help enterprises deliver on the promise of digital transformation.
-  
-  **
-  
-  At AHEAD, we prioritize creating a culture of belonging, where all perspectives and voices are represented, valued, respected, and heard. We create spaces to empower everyone to speak up, make change, and drive the culture at AHEAD. 
-  
-  We are an equal opportunity employer, and do not discriminate based on an individual's race, national origin, color, gender, gender identity, gender expression, sexual orientation, religion, age, disability, marital status, or any other protected characteristic under applicable law, whether actual or perceived. 
-  
-  *We embrace all candidates that will contribute to the diversification and enrichment of ideas and perspectives at AHEAD. ***
-  
-  **
-  
-  Role Overview** 
-  
-  **
-  
-  The Senior AI Engineer is a hands-on builder responsible for designing, developing, and deploying agentic AI solutions for AHEAD’s clients. This role blends software engineering, multi-agent orchestration, and applied AI to deliver real business outcomes across workflows like document intelligence, coding automation, service desk, operations, and decision support. 
-  
-  You will design agents, build pipelines, integrate models with enterprise systems, and operate production-grade agentic automations. You will collaborate directly with clients, solution managers, and other engineers to turn ambiguous ideas into scalable, resilient solutions. This role is central to AHEAD’s strategy of delivering enterprise-grade agentic AI. 
-  
-  Key Responsibilities **
-  
-  - **Solution Development & Deployment** 
-  
-  - Build and deploy multi-agent systems using frameworks such as LangChain, LangGraph, Autogen, CrewAI, and LlamaIndex. 
-  
-  - Develop custom agents for document processing, workflow automation, SDLC acceleration, data analysis, and business process orchestration. 
-  
-  - Integrate LLMs, SLMs, embeddings, and retrieval pipelines (Pinecone, Elasticsearch, Snowflake Cortex, pgvector) 
-  
-  - Create and operate LLM/ML endpoints, agent memory/state stores, and event-driven triggers. 
-  
-  - Implement reusable components that become part of AHEAD’s agent library and client solution accelerators 
-  
-  **
-  
-  - Enterprise Integration & Workflow Automation** 
-  
-  - Build real-time and batch workflows using Python, Kafka, EventBridge, Airflow, Snowflake, S3, n8n, AWS Batch, and similar tools. 
-  
-  - Connect agents to enterprise systems (SharePoint, Salesforce, ServiceNow, Jira, Oracle, databases, APIs). 
-  
-  - Implement RAG, tool-calling, function calling, and structured output pipelines for production-ready agentic tasks. 
-  
-  - Ensure robust data transformations, validation, and versioning for downstream agent workflows. 
-  
-  **
-  
-  - Quality, Observability & Reliability** 
-  
-  - Implement monitoring, metrics, and guardrails for multi-agent systems (timeouts, retries, constraints, circuit breakers). 
-  
-  - Build automated testing for agent behaviors, prompts, ETL/batch jobs, and model outputs. 
-  
-  - Participate in incident reviews, debugging multi-agent flows, and ensuring predictable performance. 
-  
-  **
-  
-  - Client Collaboration & Delivery Excellence** 
-  
-  - Work closely with client stakeholders to understand use cases, pain points, and success criteria. 
-  
-  - Translate business needs into technical agent designs and execution roadmaps. 
-  
-  - Participate in agile ceremonies, demos, and working sessions with client teams. 
-  
-  - Contribute to proposals, SOWs, architecture diagrams, and client documentation when needed. 
-  
-  **
-  
-  - Security, Governance & Compliance** 
-  
-  - Apply enterprise standards for data security, access control, auditing, model governance, and safe AI usage. 
-  
-  - Embed monitoring, lineage, PII handling, and policy constraints into agentic flows. 
-  
-  **
-  
-  - Mentorship & Internal Development** 
-  
-  - Coach junior engineers on agent design patterns, RAG, orchestration, and clean engineering practices. 
-  
-  - Contribute to internal best practices, reference architectures, and reusable components. 
-  
-  - Support onboarding of new engineers and help scale AHEAD's agentic engineering community. 
-  
-  **Qualifications **
-  
-  - **Required** 
-  
-  - Strong Python engineering background, including async patterns, APIs, and event-driven design. 
-  
-  - Hands-on experience with multi-agent frameworks (LangGraph, Autogen, CrewAI, LangChain, etc.). 
-  
-  - Demonstrated ability to build production ETL, orchestration, or workflow automation pipelines (Kafka, EventBridge, Airflow, Celery, n8n, AWS services). 
-  
-  - Experience with vector DBs and retrieval pipelines (Pinecone, pgvector, Elasticsearch, LlamaIndex). 
-  
-  - Familiarity with MLOps, observability, CI/CD, containerization, and model deployment patterns. 
-  
-  - Strong documentation habits and comfort working in fast-paced agile environments. 
-  
-  - Experience integrating with enterprise systems or APIs in production. 
-  
-  **
-  
-  - Preferred** 
-  
-  - Experience with Snowflake Cortex, Databricks Mosaic, NVIDIA NIMs, or similar AI platform components. 
-  
-  - Experience operating agentic systems at scale, including safety constraints and system-level debugging. 
-  
-  - Experience in consulting, client-facing engineering, or co-development models. 
-  
-  **
-  
-  - Success Metrics & Environment** 
-  
-  - Delivery of reliable, scalable agentic solutions that measurably improve client outcomes. 
-  
-  - High client satisfaction, repeat demand, and strong cross-functional collaboration. 
-  
-  - Consistent contribution to reusable accelerators and internal knowledge base. 
-  
-  - Predictable delivery cadence with strong engineering quality and observability. 
-  
-  - Visible growth of AHEAD's reputation for agentic AI expertise. 
-  
-  **Why AHEAD:**
-  
-  **
-  
-  Through our daily work and internal groups like Moving Women AHEAD and RISE AHEAD, we value and benefit from diversity of people, ideas, experience, and everything in between.
-  
-  We fuel growth by stacking our office with top-notch technologies in a multi-million-dollar lab, by encouraging cross department training and development, sponsoring certifications and credentials for continued learning.
-  
-  USA Employment Benefits include: **
-  
-  - Medical, Dental, and Vision Insurance 
-  
-  - 401(k) 
-  
-  - Paid company holidays 
-  
-  - Paid time off 
-  
-  - Paid parental and caregiver leave 
-  
-  - Plus more! See benefits https://www.aheadbenefits.com/ for additional details. 
-  
-  The compensation range indicated in this posting reflects the On-Target Earnings (“OTE”) for this role, which includes a base salary and any applicable target bonus amount. This OTE range may vary based on the candidate’s relevant experience, qualifications, and geographic location.
+  AHEAD builds platforms for digital business. By weaving
+  together advances in cloud infrastructure, automation and
+  analytics, and software delivery, we help enterprises
+  deliver on the promise of digital transformation.
+  
+  At AHEAD, we prioritize creating a culture of belonging,
+  where all perspectives and voices are represented, valued,
+  respected, and heard. We create spaces to empower everyone
+  to speak up, make change, and drive the culture at AHEAD.
+  
+  We are an equal opportunity employer, and do not
+  discriminate based on an individual's race, national origin,
+  color, gender, gender identity, gender expression, sexual
+  orientation, religion, age, disability, marital status, or
+  any other protected characteristic under applicable law,
+  whether actual or perceived.
+  
+  We embrace all candidates that will contribute to the
+  diversification and enrichment of ideas and perspectives at
+  AHEAD.
+  
+  Role Overview
+  
+  The Senior AI Engineer is a hands-on builder responsible for
+  designing, developing, and deploying agentic AI solutions
+  for AHEAD’s clients. This role blends software engineering,
+  multi-agent orchestration, and applied AI to deliver real
+  business outcomes across workflows like document
+  intelligence, coding automation, service desk, operations,
+  and decision support.
+  
+  You will design agents, build pipelines, integrate models
+  with enterprise systems, and operate production-grade
+  agentic automations. You will collaborate directly with
+  clients, solution managers, and other engineers to turn
+  ambiguous ideas into scalable, resilient solutions. This
+  role is central to AHEAD’s strategy of delivering
+  enterprise-grade agentic AI.
+  
+  Key Responsibilities
+  
+  - Solution Development & Deployment
+  - Build and deploy multi-agent systems using frameworks such
+    as LangChain, LangGraph, Autogen, CrewAI, and LlamaIndex.
+  - Develop custom agents for document processing, workflow
+    automation, SDLC acceleration, data analysis, and business
+    process orchestration.
+  - Integrate LLMs, SLMs, embeddings, and retrieval pipelines
+    (Pinecone, Elasticsearch, Snowflake Cortex, pgvector)
+  - Create and operate LLM/ML endpoints, agent memory/state
+    stores, and event-driven triggers.
+  - Implement reusable components that become part of AHEAD’s
+    agent library and client solution accelerators
+  - Enterprise Integration & Workflow Automation
+  - Build real-time and batch workflows using Python, Kafka,
+    EventBridge, Airflow, Snowflake, S3, n8n, AWS Batch, and
+    similar tools.
+  - Connect agents to enterprise systems (SharePoint,
+    Salesforce, ServiceNow, Jira, Oracle, databases, APIs).
+  - Implement RAG, tool-calling, function calling, and
+    structured output pipelines for production-ready agentic
+    tasks.
+  - Ensure robust data transformations, validation, and
+    versioning for downstream agent workflows.
+  - Quality, Observability & Reliability
+  - Implement monitoring, metrics, and guardrails for multi-
+    agent systems (timeouts, retries, constraints, circuit
+    breakers).
+  - Build automated testing for agent behaviors, prompts,
+    ETL/batch jobs, and model outputs.
+  - Participate in incident reviews, debugging multi-agent
+    flows, and ensuring predictable performance.
+  - Client Collaboration & Delivery Excellence
+  - Work closely with client stakeholders to understand use
+    cases, pain points, and success criteria.
+  - Translate business needs into technical agent designs and
+    execution roadmaps.
+  - Participate in agile ceremonies, demos, and working sessions
+    with client teams.
+  - Contribute to proposals, SOWs, architecture diagrams, and
+    client documentation when needed.
+  - Security, Governance & Compliance
+  - Apply enterprise standards for data security, access
+    control, auditing, model governance, and safe AI usage.
+  - Embed monitoring, lineage, PII handling, and policy
+    constraints into agentic flows.
+  - Mentorship & Internal Development
+  - Coach junior engineers on agent design patterns, RAG,
+    orchestration, and clean engineering practices.
+  - Contribute to internal best practices, reference
+    architectures, and reusable components.
+  - Support onboarding of new engineers and help scale AHEAD's
+    agentic engineering community.
+  
+  Qualifications
+  
+  - Required
+  - Strong Python engineering background, including async
+    patterns, APIs, and event-driven design.
+  - Hands-on experience with multi-agent frameworks (LangGraph,
+    Autogen, CrewAI, LangChain, etc.).
+  - Demonstrated ability to build production ETL, orchestration,
+    or workflow automation pipelines (Kafka, EventBridge,
+    Airflow, Celery, n8n, AWS services).
+  - Experience with vector DBs and retrieval pipelines
+    (Pinecone, pgvector, Elasticsearch, LlamaIndex).
+  - Familiarity with MLOps, observability, CI/CD,
+    containerization, and model deployment patterns.
+  - Strong documentation habits and comfort working in fast-
+    paced agile environments.
+  - Experience integrating with enterprise systems or APIs in
+    production.
+  - Preferred
+  - Experience with Snowflake Cortex, Databricks Mosaic, NVIDIA
+    NIMs, or similar AI platform components.
+  - Experience operating agentic systems at scale, including
+    safety constraints and system-level debugging.
+  - Experience in consulting, client-facing engineering, or co-
+    development models.
+  - Success Metrics & Environment
+  - Delivery of reliable, scalable agentic solutions that
+    measurably improve client outcomes.
+  - High client satisfaction, repeat demand, and strong cross-
+    functional collaboration.
+  - Consistent contribution to reusable accelerators and
+    internal knowledge base.
+  - Predictable delivery cadence with strong engineering quality
+    and observability.
+  - Visible growth of AHEAD's reputation for agentic AI
+    expertise.
+  
+  Why AHEAD:
+  
+  Through our daily work and internal groups like Moving Women
+  AHEAD and RISE AHEAD, we value and benefit from diversity of
+  people, ideas, experience, and everything in between.
+  
+  We fuel growth by stacking our office with top-notch
+  technologies in a multi-million-dollar lab, by encouraging
+  cross department training and development, sponsoring
+  certifications and credentials for continued learning.
+  
+  USA Employment Benefits include:
+  
+  - Medical, Dental, and Vision Insurance
+  
+  - 401(k)
+  
+  - Paid company holidays
+  
+  - Paid time off
+  
+  - Paid parental and caregiver leave
+  
+  - Plus more! See benefits https://www.aheadbenefits.com/ for
+    additional details.
+  
+  The compensation range indicated in this posting reflects
+  the On-Target Earnings (“OTE”) for this role, which includes
+  a base salary and any applicable target bonus amount. This
+  OTE range may vary based on the candidate’s relevant
+  experience, qualifications, and geographic location.
 industries:
   - Cloud
   - Information Technology

@@ -17,147 +17,129 @@ skills:
   - Megatron-Lm
 company_size: 11 Employees
 description: |
-  **Location:** Cambridge, MA (Eastern Time / UTC -4) **Relocation package available or Remote option for Out-Of-State applicants******Start date:** ASAP
-  **Languages:** English (required)
-  
-  **About the Role****
-  
-  Pragmatike is hiring on behalf of a **fast-growing AI startup recognized as a Top 10 GenAI company by GTM Capital**, founded by MIT CSAIL researchers.
-  
-  We are seeking a **Principal AI/ML Engineer** to lead the design, implementation, and scaling of the companys ML infrastructure and production AI systems. This is a high-impact, architecture-defining role where youll work across the entire model lifecycletraining, evaluation, deployment, observability, and continuous optimization.
-  
-  You will partner closely with AI researchers, GPU systems engineers, backend teams, and product stakeholders to ensure the companys large-scale AI systems are **robust, efficient, automated, and production-grade**. This role is ideal for someone who has already built and owned ML platforms at scale and can drive strategy as well as hands-on execution.
-  
-  ****What Youll Do****
-  - 
-  
-  Architect, build, and scale the end-to-end ML Ops pipeline, including training, fine-tuning, evaluation, rollout, and monitoring.
-  
-  - 
-  
-  Design reliable infrastructure for model deployment, versioning, reproducibility, and orchestration across cloud and on-prem GPU clusters.
-  
-  - 
-  
-  Optimize compute usage across distributed systems (Kubernetes, autoscaling, caching, GPU allocation, checkpointing workflows).
-  
-  - 
-  
-  Lead the implementation of observability for ML systems (monitor drift, performance, throughput, reliability, cost).
-  
-  - 
-  
-  Build automated workflows for dataset curation, labeling, feature pipelines, evaluation, and CI/CD for ML models.
-  
-  - 
-  
-  Collaborate with researchers to productionize models and accelerate training/inference pipelines.
-  
-  - 
-  
-  Establish ML Ops best practices, internal standards, and cross-team tooling.
-  
-  - 
-  
-  Mentor engineers and influence architectural direction across the entire AI platform.
-  
-  ****What Are Looking For****
-  - 
-  
-  Deep hands-on experience designing and operating production ML systems at scale (Staff/Principal-level expected).
-  
-  - 
-  
-  Strong background in ML Ops, distributed systems, and cloud infrastructure (AWS, GCP, or Azure).
-  
-  - 
-  
-  Proficiency with Python and familiarity with TypeScript or Go for platform integration.
-  
-  - 
-  
-  Expertise in ML frameworks: PyTorch, Transformers, vLLM, Llama-factory, Megatron-LM, CUDA / GPU acceleration (practical understanding)
-  
-  - 
-  
-  Strong experience with containerization and orchestration (Docker, Kubernetes, Helm, autoscaling).
-  
-  - 
-  
-  Deep understanding of ML lifecycle workflows: training, fine-tuning, evaluation, inference, model registries.
-  
-  - 
-  
-  Ability to lead technical strategy, collaborate cross-functionally, and operate in fast-paced environments
-  
-  ****Bonus Points****
-  - 
-  
-  Experience deploying and operating LLMs and generative models in production at enterprise scale.
-  
-  - 
-  
-  Familiarity with DevOps, CI/CD, automated deployment pipelines, and infrastructure-as-code.
-  
-  - 
-  
-  Experience optimizing GPU clusters, scheduling, and distributed training frameworks.
-  
-  - 
-  
-  Prior startup experience or comfort operating with ambiguity and high ownership.
-  
-  - 
-  
-  Experience working with data engineering, feature pipelines, or real-time ML systems.
-  
-  ****Why This Role Will Pivot Your Career****
-  - 
-  
-  **Research pedigree:** MIT CSAIL founders recognized for breakthrough AI and systems contributions.
-  
-  - 
-  
-  **Customer impact:** Deploy AI solutions powering **Fortune 500 clients**.
-  
-  - 
-  
-  **Industry momentum:** Lab alumni have led high-value acquisitions (MosaicML Databricks, Run:AI Nvidia, W&B CoreWeave).
-  
-  - 
-  
-  **Funding & growth:** Oversubscribed seed round, next funding in 2026.
-  
-  - 
-  
-  **Career growth & influence:** Lead AI initiatives, optimize pipelines, and **directly impact production AI systems at scale**.
-  
-  - 
-  
-  **Culture & autonomy:** Own critical systems while collaborating with world-class engineers.
-  
-  - 
-  
-  **Aspirational impact:** Solve AI performance challenges few engineers ever face.
-  
-  ****Benefits****
-  - 
-  
-  Competitive salary & equity options
-  
-  - 
-  
-  Sign-on bonus
-  
-  - 
-  
-  Health, Dental, and Vision
-  
-  - 
-  
-  401k
-  
-  ***Pragmatike **is an Equal Opportunity Employer and is committed to providing equal employment opportunities to all applicants without discrimination. We recruit on behalf of our clients and prohibit discrimination and harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.We are committed to a fair and inclusive hiring process. We process your personal data solely for recruitment purposes, in accordance with applicable privacy laws, and maintain reasonable safeguards to protect your information. Your data may be shared with our client(s) for hiring consideration, but will not be disclosed to third parties outside of the recruitment process.*
+  Location: Cambridge, MA (Eastern Time / UTC -4) Relocation
+  package available or Remote option for Out-Of-State
+  applicants Start date: ASAP Languages: English (required)
+  
+  About the Role
+  
+  Pragmatike is hiring on behalf of a fast-growing AI startup
+  recognized as a Top 10 GenAI company by GTM Capital, founded
+  by MIT CSAIL researchers.
+  
+  We are seeking a Principal AI/ML Engineer to lead the
+  design, implementation, and scaling of the companys ML
+  infrastructure and production AI systems. This is a high-
+  impact, architecture-defining role where youll work across
+  the entire model lifecycletraining, evaluation, deployment,
+  observability, and continuous optimization.
+  
+  You will partner closely with AI researchers, GPU systems
+  engineers, backend teams, and product stakeholders to ensure
+  the companys large-scale AI systems are robust, efficient,
+  automated, and production-grade. This role is ideal for
+  someone who has already built and owned ML platforms at
+  scale and can drive strategy as well as hands-on execution.
+  
+  What Youll Do
+  
+  - Architect, build, and scale the end-to-end ML Ops pipeline,
+    including training, fine-tuning, evaluation, rollout, and
+    monitoring.
+  - Design reliable infrastructure for model deployment,
+    versioning, reproducibility, and orchestration across
+    cloud and on-prem GPU clusters.
+  - Optimize compute usage across distributed systems
+    (Kubernetes, autoscaling, caching, GPU allocation,
+    checkpointing workflows).
+  - Lead the implementation of observability for ML systems
+    (monitor drift, performance, throughput, reliability,
+    cost).
+  - Build automated workflows for dataset curation, labeling,
+    feature pipelines, evaluation, and CI/CD for ML models.
+  - Collaborate with researchers to productionize models and
+    accelerate training/inference pipelines.
+  - Establish ML Ops best practices, internal standards, and
+    cross-team tooling.
+  - Mentor engineers and influence architectural direction
+    across the entire AI platform.
+  
+  What Are Looking For
+  
+  - Deep hands-on experience designing and operating production
+    ML systems at scale (Staff/Principal-level expected).
+  - Strong background in ML Ops, distributed systems, and cloud
+    infrastructure (AWS, GCP, or Azure).
+  - Proficiency with Python and familiarity with TypeScript or
+    Go for platform integration.
+  - Expertise in ML frameworks: PyTorch, Transformers, vLLM,
+    Llama-factory, Megatron-LM, CUDA / GPU acceleration
+    (practical understanding)
+  - Strong experience with containerization and orchestration
+    (Docker, Kubernetes, Helm, autoscaling).
+  - Deep understanding of ML lifecycle workflows: training,
+    fine-tuning, evaluation, inference, model registries.
+  - Ability to lead technical strategy, collaborate cross-
+    functionally, and operate in fast-paced environments
+  
+  Bonus Points
+  
+  - Experience deploying and operating LLMs and generative
+    models in production at enterprise scale.
+  - Familiarity with DevOps, CI/CD, automated deployment
+    pipelines, and infrastructure-as-code.
+  - Experience optimizing GPU clusters, scheduling, and
+    distributed training frameworks.
+  - Prior startup experience or comfort operating with ambiguity
+    and high ownership.
+  - Experience working with data engineering, feature pipelines,
+    or real-time ML systems.
+  
+  Why This Role Will Pivot Your Career
+  
+  - Research pedigree: MIT CSAIL founders recognized for
+    breakthrough AI and systems contributions.
+  - Customer impact: Deploy AI solutions powering Fortune 500
+    clients.
+  - Industry momentum: Lab alumni have led high-value
+    acquisitions (MosaicML Databricks, Run:AI Nvidia, W&B
+    CoreWeave).
+  - Funding & growth: Oversubscribed seed round, next funding in
+    2026.
+  - Career growth & influence: Lead AI initiatives, optimize
+    pipelines, and directly impact production AI systems at
+    scale.
+  - Culture & autonomy: Own critical systems while collaborating
+    with world-class engineers.
+  - Aspirational impact: Solve AI performance challenges few
+    engineers ever face.
+  
+  Benefits
+  
+  - Competitive salary & equity options
+  - Sign-on bonus
+  - Health, Dental, and Vision
+  - 401k
+  
+  Pragmatike is an Equal Opportunity Employer and is committed
+  to providing equal employment opportunities to all
+  applicants without discrimination. We recruit on behalf of
+  our clients and prohibit discrimination and harassment based
+  on race, color, religion, age, sex, national origin,
+  disability status, genetics, protected veteran status,
+  sexual orientation, gender identity or expression, or any
+  other characteristic protected by federal, state, or local
+  laws. This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation, and training.We are committed to a
+  fair and inclusive hiring process. We process your personal
+  data solely for recruitment purposes, in accordance with
+  applicable privacy laws, and maintain reasonable safeguards
+  to protect your information. Your data may be shared with
+  our client(s) for hiring consideration, but will not be
+  disclosed to third parties outside of the recruitment
+  process.
 industries:
   - Information Technology
   - Software

@@ -17,80 +17,151 @@ skills:
   - Nvme-Of
 company_size: 84 Employees
 description: |
-  ****About the Role****
+  About the Role
   
-  In this role, you will design and deliver multi-petabyte storage systems purpose-built for the world’s largest AI training and inference workloads. You’ll architect high-performance parallel filesystems and object stores, evaluate and integrate cutting-edge technologies such as WekaFS, Ceph, and Lustre, and drive aggressive cost optimization-routinely achieving 30-50% savings through intelligent tiering, lifecycle policies, capacity forecasting, and right-sizing. 
+  In this role, you will design and deliver multi-petabyte
+  storage systems purpose-built for the world’s largest AI
+  training and inference workloads. You’ll architect high-
+  performance parallel filesystems and object stores, evaluate
+  and integrate cutting-edge technologies such as WekaFS,
+  Ceph, and Lustre, and drive aggressive cost optimization-
+  routinely achieving 30-50% savings through intelligent
+  tiering, lifecycle policies, capacity forecasting, and
+  right-sizing.
   
-  You will also build Kubernetes-native storage operators and self-service platforms that provide automated provisioning, strict multi-tenancy, performance isolation, and quota enforcement at cluster scale. Day-to-day, you’ll optimize end-to-end data paths for 10-50 GB/s per node, design multi-tier caching architectures, implement intelligent prefetching and model-weight distribution, and tune parallel filesystems for AI workloads. 
+  You will also build Kubernetes-native storage operators and
+  self-service platforms that provide automated provisioning,
+  strict multi-tenancy, performance isolation, and quota
+  enforcement at cluster scale. Day-to-day, you’ll optimize
+  end-to-end data paths for 10-50 GB/s per node, design multi-
+  tier caching architectures, implement intelligent
+  prefetching and model-weight distribution, and tune parallel
+  filesystems for AI workloads.
   
   Hybrid Working 2 days a week at our offices in Amsterdam
   
-  **Responsibilities**
+  Responsibilities
   
-  - Design multi-petabyte AI/ML storage systems; integrate WekaFS, Ceph, etc.; lead capacity planning and cost optimization (30-50% savings via tiering, lifecycle policies, right-sizing).
+  - Design multi-petabyte AI/ML storage systems; integrate
+    WekaFS, Ceph, etc.; lead capacity planning and cost
+    optimization (30-50% savings via tiering, lifecycle
+    policies, right-sizing).
+  - Design/optimize RDMA, InfiniBand, 400GbE networks; tune for
+    max throughput/min latency; implement NVMe-oF/iSCSI;
+    troubleshoot bottlenecks; optimize TCP/IP for storage.
+  - Build Kubernetes storage operators/controllers; enable
+    automated provisioning, self-service abstractions, multi-
+    tenant isolation, quotas; create reusable Helm/Terraform
+    patterns.
+  - Deliver 10-50 GB/s per GPU node; optimize caching
+    (weights/datasets/checkpoints), parallel filesystems, and
+    data paths; troubleshoot with profiling tools; scale to
+    thousands of nodes.
+  - Build multi-tier caches (local NVMe, distributed, object);
+    optimize data locality and model-weight distribution;
+    implement smart prefetching/eviction.
+  - Implement monitoring, alerting, SLOs; design DR/backups with
+    runbooks; run chaos engineering; ensure 99.9%+ uptime via
+    proactive/automated remediation.
+  - Partner with ML/SRE teams; mentor on storage best practices;
+    contribute to open-source; write docs, postmortems, and
+    public learnings.
   
-  - Design/optimize RDMA, InfiniBand, 400GbE networks; tune for max throughput/min latency; implement NVMe-oF/iSCSI; troubleshoot bottlenecks; optimize TCP/IP for storage.
+  Requirements
   
-  - Build Kubernetes storage operators/controllers; enable automated provisioning, self-service abstractions, multi-tenant isolation, quotas; create reusable Helm/Terraform patterns.
+  - 8+ years in storage engineering with 3+ years managing
+    distributed storage at multi-petabyte scale
   
-  - Deliver 10-50 GB/s per GPU node; optimize caching (weights/datasets/checkpoints), parallel filesystems, and data paths; troubleshoot with profiling tools; scale to thousands of nodes.
+  - Proven track record deploying and operating high-performance
+    storage for GPU/HPC clusters
   
-  - Build multi-tier caches (local NVMe, distributed, object); optimize data locality and model-weight distribution; implement smart prefetching/eviction.
+  - Deep Kubernetes and cloud-native storage experience in
+    production environments
   
-  - Implement monitoring, alerting, SLOs; design DR/backups with runbooks; run chaos engineering; ensure 99.9%+ uptime via proactive/automated remediation.
+  - Strong coding skills in Go and Python with demonstrated
+    ability to build production-grade tools
   
-  - Partner with ML/SRE teams; mentor on storage best practices; contribute to open-source; write docs, postmortems, and public learnings.
-  ****Requirements****
-  - 8+ years in storage engineering with 3+ years managing distributed storage at multi-petabyte scale
+  - BS/MS in Computer Science, Engineering, or equivalent
+    practical experience
   
-  - Proven track record deploying and operating high-performance storage for GPU/HPC clusters
+  - History of technical leadership: designing systems that
+    significantly improved performance (>3x), reliability
+    (99.9%+ uptime), or cost efficiency
   
-  - Deep Kubernetes and cloud-native storage experience in production environments
+  - Distributed Storage Systems: Deep expertise in WekaFS,
+    Lustre, GPFS, BeeGFS, or similar parallel filesystems at
+    multi-petabyte scale
   
-  - Strong coding skills in Go and Python with demonstrated ability to build production-grade tools
+  - Object Storage: Production experience with S3, MinIO, Ceph,
+    or R2 including performance optimization and cost
+    management
   
-  - BS/MS in Computer Science, Engineering, or equivalent practical experience
+  - Kubernetes Storage: CSI drivers, StatefulSets,
+    PersistentVolumes, storage operators, and custom
+    controllers
   
-  - History of technical leadership: designing systems that significantly improved performance (>3x), reliability (99.9%+ uptime), or cost efficiency
+  - Storage optimization for GPU workloads, RDMA/InfiniBand
+    networking, parallel filesystem optimization (100+ GB/s
+    aggregate cluster throughput)
   
-  - Distributed Storage Systems: Deep expertise in WekaFS, Lustre, GPFS, BeeGFS, or similar parallel filesystems at multi-petabyte scale
+  - Programming: Go and Python for automation, operators, and
+    tooling
   
-  - Object Storage: Production experience with S3, MinIO, Ceph, or R2 including performance optimization and cost management
+  - Infrastructure as Code: Terraform, Ansible, Helm, GitOps
+    (ArgoCD)
   
-  - Kubernetes Storage: CSI drivers, StatefulSets, PersistentVolumes, storage operators, and custom controllers
+  - Linux Storage Stack: Advanced knowledge of filesystems
+    (ext4, xfs), LVM, NVMe optimization, RAID configurations
   
-  - Storage optimization for GPU workloads, RDMA/InfiniBand networking, parallel filesystem optimization (100+ GB/s aggregate cluster throughput)
+  - Observability: Prometheus, Grafana, Thanos architecture and
+    operations
   
-  - Programming: Go and Python for automation, operators, and tooling
+  Nice to Have Skills
   
-  - Infrastructure as Code: Terraform, Ansible, Helm, GitOps (ArgoCD)
+  - GPU Direct Storage (GDS), NVMe-oF, storage networking
+    (100GbE/400GbE)
   
-  - Linux Storage Stack: Advanced knowledge of filesystems (ext4, xfs), LVM, NVMe optimization, RAID configurations
+  - ML/AI storage patterns (model weights, checkpointing,
+    dataset caching)
   
-  - Observability: Prometheus, Grafana, Thanos architecture and operations
-  ****Nice to Have Skills****
-  - GPU Direct Storage (GDS), NVMe-oF, storage networking (100GbE/400GbE)
-  
-  - ML/AI storage patterns (model weights, checkpointing, dataset caching)
-  
-  - Kubernetes operator development (controller-runtime, kubebuilder)
+  - Kubernetes operator development (controller-runtime,
+    kubebuilder)
   
   - Storage snapshots, cloning, and thin provisioning
   
-  - Backup and disaster recovery (Velero, Restic, cross-region replication)
+  - Backup and disaster recovery (Velero, Restic, cross-region
+    replication)
   
-  - Storage encryption (at-rest and in-transit), security and compliance
+  - Storage encryption (at-rest and in-transit), security and
+    compliance
+  - Storage benchmarking and profiling tools (fio, iperf3,
+    iostat, blktrace)
   
-  - Storage benchmarking and profiling tools (fio, iperf3, iostat, blktrace)
+  About Together AI
   
-  **About Together AI**
+  Together AI is a research-driven artificial intelligence
+  company. We believe open and transparent AI systems will
+  drive innovation and create the best outcomes for society,
+  and together we are on a mission to significantly lower the
+  cost of modern AI systems by co-designing software,
+  hardware, algorithms, and models. We have contributed to
+  leading open-source research, models, and datasets to
+  advance the frontier of AI, and our team has been behind
+  technological advancement such as FlashAttention, Hyena,
+  FlexGen, and RedPajama. We invite you to join a passionate
+  group of researchers in our journey in building the next
+  generation AI infrastructure.
   
-  Together AI is a research-driven artificial intelligence company. We believe open and transparent AI systems will drive innovation and create the best outcomes for society, and together we are on a mission to significantly lower the cost of modern AI systems by co-designing software, hardware, algorithms, and models. We have contributed to leading open-source research, models, and datasets to advance the frontier of AI, and our team has been behind technological advancement such as FlashAttention, Hyena, FlexGen, and RedPajama. We invite you to join a passionate group of researchers in our journey in building the next generation AI infrastructure.
-  ****Equal Opportunity****
+  Equal Opportunity
   
-  Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.
+  Together AI is an Equal Opportunity Employer and is proud to
+  offer equal employment opportunity to everyone regardless of
+  race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender identity, veteran status, and more.
   
-  Please see our privacy policy at https://www.together.ai/privacy
+  Please see our privacy policy at
+  https://www.together.ai/privacy
 industries:
   - Artificial Intelligence
   - Information Technology

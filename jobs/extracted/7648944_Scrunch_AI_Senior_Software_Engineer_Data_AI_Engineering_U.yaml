@@ -17,77 +17,89 @@ skills:
   - Pandas
 company_size: 0 Employees
 description: |
-  **About Scrunch**
+  About Scrunch
   
-  Scrunch, a venture-backed startup, is on a mission to bring brands to an AI-first future—where people increasingly rely on LLMs to discover, understand, and act on information that matters to them.
+  Scrunch, a venture-backed startup, is on a mission to bring
+  brands to an AI-first future—where people increasingly rely
+  on LLMs to discover, understand, and act on information that
+  matters to them.
   
-  As AI search and conversational agents replace traditional web search and browsing, Scrunch helps marketing teams rethink how their products and services are discovered and surfaced on AI platforms like ChatGPT, Claude, Gemini, and more—working *with* AI platforms, not against them. This shift represents the biggest change to marketing since the dawn of the internet.
+  As AI search and conversational agents replace traditional
+  web search and browsing, Scrunch helps marketing teams
+  rethink how their products and services are discovered and
+  surfaced on AI platforms like ChatGPT, Claude, Gemini, and
+  more—working with AI platforms, not against them. This shift
+  represents the biggest change to marketing since the dawn of
+  the internet.
   
-  With $26M in backing from Mayfield Fund, Decibel, Homebrew, GTM Capital, and leading Silicon Valley founders and operators, Scrunch has scaled rapidly since commercial launch. Today, more than 500 paying brands—including Fortune 500 companies like Lenovo, category-defining brands like Skims, and breakout startups like Clerk—use the platform.
+  With $26M in backing from Mayfield Fund, Decibel, Homebrew,
+  GTM Capital, and leading Silicon Valley founders and
+  operators, Scrunch has scaled rapidly since commercial
+  launch. Today, more than 500 paying brands—including Fortune
+  500 companies like Lenovo, category-defining brands like
+  Skims, and breakout startups like Clerk—use the platform.
   
-  ****About the Role****
+  About the Role
   
-  The Scrunch product involves acquiring and processing a *lot* of data, both using LLMs and more traditional analytics methods. In this role you will play a huge part in successfully delivering our roadmap and ultimately in giving our customers the tools they need to succeed in the AI era.
+  The Scrunch product involves acquiring and processing a lot
+  of data, both using LLMs and more traditional analytics
+  methods. In this role you will play a huge part in
+  successfully delivering our roadmap and ultimately in giving
+  our customers the tools they need to succeed in the AI era.
   
-  Because we are a small organization, this is a full stack role. While most of your work will be focused on building features related to our data pipelines, usage of LLMs, analytics APIs, etc., you'll need to do whatever is necessary to deliver value to our customers. This can include some light React work but also work creating notifications, alert emails, scheduled reports, connectors into third party systems, etc.
+  Because we are a small organization, this is a full stack
+  role. While most of your work will be focused on building
+  features related to our data pipelines, usage of LLMs,
+  analytics APIs, etc., you'll need to do whatever is
+  necessary to deliver value to our customers. This can
+  include some light React work but also work creating
+  notifications, alert emails, scheduled reports, connectors
+  into third party systems, etc.
   
-  This role is open to candidates located in and legally authorized to work in the US. Scrunch is a remote organization, but in-office or hybrid work is possible for candidates based in the NYC or Salt Lake City metro areas (and we love to jam in person from time to time!)
+  This role is open to candidates located in and legally
+  authorized to work in the US. Scrunch is a remote
+  organization, but in-office or hybrid work is possible for
+  candidates based in the NYC or Salt Lake City metro areas
+  (and we love to jam in person from time to time!)
   
   For this role, we'd like to see candidates that:
   
-  - 
+  - Have extensive experience building & using web APIs,
+    including handling authentication, authorization, caching,
+    rate limiting, etc.
+    - Experience building API for external customers is a big
+      plus.
+  - Experience with relational (transactional) databases,
+    particularly PostgreSQL.
+  - Experience with analytics tools and technologies, such as:
+    - Analytical SQL, maybe with a modern analytical data platform
+      like Snowflake, Google BigQuery, DuckDB, Spark SQL, etc.
+    - Experience with analytics packages like Pandas or Polars is
+      a plus.
+    - Experience with streaming analytics is a plus.
+  - Experience writing batch and streaming/interactive data
+    processing pipelines. This could mean any of:
+    - Big data tools like Flink, Beam (GCP Dataflow), Spark, etc.
+    - Job queues and task processing frameworks (Celery, Resque,
+      or cloud-based options like Google Cloud Tasks)
+    - Multi-step durable execution frameworks like Temporal or
+      Inngest
+    - In-house or home-rolled versions of any of the above you've
+      used at previous companies.
+  - The ability to quickly understand source data and validate
+    output data quality
+  - Experience using LLMs and/or traditional ML techniques to
+    build classifiers, data extractors, summarizers, etc.
+    - Not required but a big plus: experience building evals for
+      LLM-based tools to assess and improve accuracy at these
+      kinds of tasks
   
-  Have extensive experience building & using web APIs, including handling authentication, authorization, caching, rate limiting, etc.
-  
-  Experience building API for external customers is a big plus.
-  
-  - 
-  
-  Experience with relational (transactional) databases, particularly PostgreSQL.
-  
-  - 
-  
-  Experience with analytics tools and technologies, such as:
-  
-  Analytical SQL, maybe with a modern analytical data platform like Snowflake, Google BigQuery, DuckDB, Spark SQL, etc.
-  
-  - 
-  
-  Experience with analytics packages like Pandas or Polars is a plus.
-  
-  - 
-  
-  Experience with streaming analytics is a plus.
-  
-  - 
-  
-  Experience writing batch and streaming/interactive data processing pipelines. This could mean any of:
-  
-  Big data tools like Flink, Beam (GCP Dataflow), Spark, etc.
-  
-  - 
-  
-  Job queues and task processing frameworks (Celery, Resque, or cloud-based options like Google Cloud Tasks)
-  
-  - 
-  
-  Multi-step durable execution frameworks like Temporal or Inngest
-  
-  - 
-  
-  In-house or home-rolled versions of any of the above you've used at previous companies.
-  
-  - 
-  
-  The ability to quickly understand source data and validate output data quality
-  
-  - 
-  
-  Experience using LLMs and/or traditional ML techniques to build classifiers, data extractors, summarizers, etc.
-  
-  Not required but a big plus: experience building evals for LLM-based tools to assess and improve accuracy at these kinds of tasks
-  
-  *Scrunch is an equal opportunity employer. We welcome people of all backgrounds, experiences, perspectives, and identities. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+  Scrunch is an equal opportunity employer. We welcome people
+  of all backgrounds, experiences, perspectives, and
+  identities. We do not discriminate on the basis of race,
+  religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or
+  disability status.
 industries:
   - Artificial Intelligence
   - Information Technology

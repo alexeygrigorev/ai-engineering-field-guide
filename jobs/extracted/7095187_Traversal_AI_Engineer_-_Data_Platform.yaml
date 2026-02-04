@@ -17,70 +17,131 @@ skills:
   - Zig
 company_size: 0 Employees
 description: |
-  **About Traversal**
+  About Traversal
   
-  Traversal is the AI Site Reliability Engineer (SRE) for the enterprise—already trusted by some of the largest companies in the world to troubleshoot, remediate, and even prevent the most complex production incidents. Our mission is to free engineers from endless firefighting and enable them to focus on creative, high-impact work. 
+  Traversal is the AI Site Reliability Engineer (SRE) for the
+  enterprise—already trusted by some of the largest companies
+  in the world to troubleshoot, remediate, and even prevent
+  the most complex production incidents. Our mission is to
+  free engineers from endless firefighting and enable them to
+  focus on creative, high-impact work.
   
-  Our roots remain deeply embedded in AI research, and we’re channeling that scientific rigor and creativity into building the premier AI agent lab for the enterprise. Hence, what we’re proudest of is assembling the most talented yet nicest group of individuals, including researchers from MIT, Harvard, and Berkeley, to world-class engineers from industry: Citadel Securities, Cockroach Labs, Datadog, DE Shaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to take on one of the hardest problems for AI to solve. Without the entire team, none of this would be possible.
+  Our roots remain deeply embedded in AI research, and we’re
+  channeling that scientific rigor and creativity into
+  building the premier AI agent lab for the enterprise. Hence,
+  what we’re proudest of is assembling the most talented yet
+  nicest group of individuals, including researchers from MIT,
+  Harvard, and Berkeley, to world-class engineers from
+  industry: Citadel Securities, Cockroach Labs, Datadog, DE
+  Shaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to
+  take on one of the hardest problems for AI to solve. Without
+  the entire team, none of this would be possible.
   
-  **The Role**
+  The Role
   
-  As an Infrastructure Engineer on the Data Platform team at Traversal, you’ll design, build, and maintain the backend systems that power our AI-driven observability platform. You’ll work across both cloud and on-prem deployments, ensuring our systems are highly reliable, performant, and capable of supporting large-scale AI operations. This hands-on role blends distributed systems engineering, low-level system design, performance optimization, observability, and AI integration—collaborating closely with engineers across the company to deliver resilient infrastructure that enables our AI agents to diagnose and remediate production incidents in real time.
+  As an Infrastructure Engineer on the Data Platform team at
+  Traversal, you’ll design, build, and maintain the backend
+  systems that power our AI-driven observability platform.
+  You’ll work across both cloud and on-prem deployments,
+  ensuring our systems are highly reliable, performant, and
+  capable of supporting large-scale AI operations. This hands-
+  on role blends distributed systems engineering, low-level
+  system design, performance optimization, observability, and
+  AI integration—collaborating closely with engineers across
+  the company to deliver resilient infrastructure that enables
+  our AI agents to diagnose and remediate production incidents
+  in real time.
   
-  **Responsibilities**
+  Responsibilities
   
-  - **Architecture & Implementation: **Contribute to the design and implementation of scalable, resilient infrastructure systems that power AI-driven root cause analysis and observability workflows across diverse on-premises environments.
+  - Architecture & Implementation: Contribute to the design and
+    implementation of scalable, resilient infrastructure
+    systems that power AI-driven root cause analysis and
+    observability workflows across diverse on-premises
+    environments.
+  - Low-Level System Design: Work on the foundational building
+    blocks of our infrastructure, ensuring efficient use of
+    resources and high performance at scale.Performance
+    Optimization: Profile and tune backend systems to improve
+    throughput, reduce latency, and minimize bottlenecks
+    across the stack.
+  - Observability Systems: Help build and maintain the internal
+    observability stack—logs, metrics, and traces—used by our
+    agents to understand and act on production issues.
+  - Hybrid Infrastructure: Support architectures for both cloud-
+    hosted (SaaS) and on-prem deployments to serve enterprise
+    customers.
+  - Data Infrastructure: Develop and maintain low-latency, high-
+    throughput pipelines using tools like Kafka, Postgres, and
+    S3 for real-time telemetry workflows.
+  - Tooling & Automation: Contribute to infrastructure-as-code,
+    CI/CD tooling, and deployment systems to increase platform
+    velocity and stability.
+  - Cross-Team Collaboration: Work with AI, platform, and
+    product teams to ensure smooth integration and shared
+    reliability goals.
+  - Using Traversal Internally: Help ensure our own
+    observability tooling supports how we debug, monitor, and
+    operate our systems.
   
-  - **Low-Level System Design: **Work on the foundational building blocks of our infrastructure, ensuring efficient use of resources and high performance at scale.**
-  ****Performance Optimization: **Profile and tune backend systems to improve throughput, reduce latency, and minimize bottlenecks across the stack.
+  Requirements
   
-  - **Observability Systems: **Help build and maintain the internal observability stack—logs, metrics, and traces—used by our agents to understand and act on production issues.
+  - Professional experience with Rust (our primary language for
+    infrastructure), or strong systems-level programming
+    experience in OCaml, C++, C or Zig.
+  - Experience building distributed systems using a variety of
+    application-appropriate datastores (e.g., Postgres, object
+    storage, etc.).
+  - Strength in debugging across cloud infrastructure,
+    networking layers, and production systems
+    (instrumentation, provisioning, bug fixes, reliability
+    improvements).
+  - Experience with performance profiling and optimization in
+    backend systems.
+  - Exposure to low-level system design concepts (e.g.,
+    concurrency models, storage internals, OS, and DB level
+    tuning).
   
-  - **Hybrid Infrastructure:** Support architectures for both cloud-hosted (SaaS) and on-prem deployments to serve enterprise customers.
+  Nice to Have
   
-  - **Data Infrastructure: **Develop and maintain low-latency, high-throughput pipelines using tools like Kafka, Postgres, and S3 for real-time telemetry workflows.
-  
-  - **Tooling & Automation: **Contribute to infrastructure-as-code, CI/CD tooling, and deployment systems to increase platform velocity and stability.
-  
-  - **Cross-Team Collaboration: **Work with AI, platform, and product teams to ensure smooth integration and shared reliability goals.
-  
-  - **Using Traversal Internally: **Help ensure our own observability tooling supports how we debug, monitor, and operate our systems.
-  
-  **Requirements**
-  
-  - Professional experience with **Rust** (our primary language for infrastructure), or strong systems-level programming experience in OCaml, C++, C or Zig.
-  
-  - Experience building distributed systems using a variety of application-appropriate datastores (e.g., Postgres, object storage, etc.).
-  
-  - Strength in debugging across cloud infrastructure, networking layers, and production systems (instrumentation, provisioning, bug fixes, reliability improvements).
-  
-  - Experience with performance profiling and optimization in backend systems.
-  
-  - Exposure to low-level system design concepts (e.g., concurrency models, storage internals, OS, and DB level tuning).
-  
-  **Nice to Have**
-  
-  - Experience making complex software systems observable using logs, metrics, and traces.
-  
+  - Experience making complex software systems observable using
+    logs, metrics, and traces.
   - Familiarity with Python-based ecosystems.
-  
-  - Background in large-scale, complex, data-driven applications, and familiarity with event streaming platforms such as Kafka.
-  
-  - Experience provisioning and managing infrastructure using Terraform, Pulumi, or other IaC tools.
-  
+  - Background in large-scale, complex, data-driven
+    applications, and familiarity with event streaming
+    platforms such as Kafka.
+  - Experience provisioning and managing infrastructure using
+    Terraform, Pulumi, or other IaC tools.
   - Familiarity with AI or LLM-powered products.
   
-  **Compensation**
+  Compensation
   
-  We offer competitive compensation, startup equity, health insurance, and additional benefits. The U.S. base salary range for this full-time, in-person role in New York is $150,000–$300,000, plus equity and benefits. Our salary ranges are based on location, level, and role. Individual compensation is determined by experience, skills, and job-related knowledge.
+  We offer competitive compensation, startup equity, health
+  insurance, and additional benefits. The U.S. base salary
+  range for this full-time, in-person role in New York is
+  $150,000–$300,000, plus equity and benefits. Our salary
+  ranges are based on location, level, and role. Individual
+  compensation is determined by experience, skills, and job-
+  related knowledge.
   
-  **Why You Should Join Us**
+  Why You Should Join Us
   
-  We’ll make sure you’re fully supported with health insurance, a great tech setup, flexible time off, and plenty of in-office snacks. We offer competitive salary and equity packages, and take thoughtful consideration with every hire on our small, high-impact team.
+  We’ll make sure you’re fully supported with health
+  insurance, a great tech setup, flexible time off, and plenty
+  of in-office snacks. We offer competitive salary and equity
+  packages, and take thoughtful consideration with every hire
+  on our small, high-impact team.
   
-  Traversal is fully in-office, 5 days a week, based in New York near Madison Square Park. We have a collaborative, hard-working culture and are energized by building the future of AI-powered software maintenance.
+  Traversal is fully in-office, 5 days a week, based in New
+  York near Madison Square Park. We have a collaborative,
+  hard-working culture and are energized by building the
+  future of AI-powered software maintenance.
   
-  Working here means owning meaningful parts of the product, having the flexibility to move fast, and learning constantly. This is a place to grow your career, make a real impact, and help define a new category of infrastructure software.
+  Working here means owning meaningful parts of the product,
+  having the flexibility to move fast, and learning
+  constantly. This is a place to grow your career, make a real
+  impact, and help define a new category of infrastructure
+  software.
 posted_date: 2026-01-17
 url: https://builtin.com/job/ai-engineer-data-platform/7095187
 source: Built In

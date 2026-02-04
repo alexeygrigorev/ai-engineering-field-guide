@@ -16,139 +16,135 @@ skills:
   - Vector Databases
 company_size: 13 Employees
 description: |
-  **About Qumis**
-  
-  Qumis is a venture-backed AI startup building the most advanced platform for reading and interpreting insurance policies. We help P&C insurance professionals—claims advocates, brokers, underwriters, and legal teams—move faster, make better decisions, and reduce reliance on siloed expertise. Our customers include some of the largest insurance organizations in the U.S.
-  
-  We combine legal-grade natural language understanding with structured analysis and intuitive workflows to modernize one of the most complex and outdated parts of the insurance industry: reading the policy. Our vision is a world where anyone can read any insurance policy like a lawyer.
-  
-  We’re a small, high-trust team of engineers, designers, and insurance/legal experts. We move fast, operate with autonomy, and hold each other to a Michelin-star standard. We value grit, speed, ownership, clarity of thinking, and deep curiosity. If you're energized by building at the edge of AI, transforming massive legacy industries, and working with people who care deeply—welcome.
-  
-  **About the Role**
-  
-  We're hiring a Founding Staff AI Engineer to build and ship production-grade AI that powers the core workflows of Qumis. You’ll partner closely with the CTO and co-founders to design, implement, and own every part of our AI pipeline—from unstructured document ingestion to interactive LLM outputs that shape legal-grade decisions.
-  
-  It’s a product-critical role for someone who thrives in ambiguity, ships fast, and is excited to be the technical owner of a new AI stack inside a real-world, high-stakes domain.
-  
-  You’ll play a key role in shaping our architecture, roadmap, and engineering culture. Your work will touch every customer, every week.
-  
-  **What You’ll Do**
-  - 
-  
-  **Build and ship production AI features** end-to-end—from R&D to SaaS integration, observability, and iteration
-  
-  - 
-  
-  **Design and deploy advanced document understanding systems**, including RAG pipelines, clause segmentation, summarization, risk detection, and more
-  
-  - 
-  
-  **Create scalable APIs** that deliver real-time coverage analysis, comparisons, and recommendations inside a modern SaaS UI
-  
-  - 
-  
-  **Engineer robust data workflows** across OCR, PDF ingestion, parsing, normalization, and embedding generation
-  
-  - 
-  
-  **Own evaluation and observability**, from automated accuracy pipelines to human-in-the-loop systems that maintain trust and reliability
-  
-  - 
-  
-  **Design for explainability**—develop transparent workflows that help legal, claims, and compliance professionals understand what the AI sees and says
-  
-  - 
-  
-  **Collaborate across disciplines** with designers, PMs, and domain experts to translate insurance workflows into AI-powered systems
-  
-  - 
-  
-  **Set technical direction**—you’ll shape our infra, tooling, and AI product roadmap from the ground up
-  
-  **What We’re Looking For**
-  
-  This role blends the ambition of a research scientist, the urgency of a product engineer, and the ownership of a founder. You’ll be our first AI hire, helping architect and scale our AI systems from the ground up. You should bring **most or all** of the following:
-  
-  - 
-  
-  6–10+ years of experience building and deploying production machine learning systems, with a focus on NLP, document intelligence, or unstructured data
-  
-  - 
-  
-  Strong track record shipping ML models into production—API design, observability, iteration, and scaling included
-  
-  - 
-  
-  Deep experience with RAG pipelines, multi-step LLM workflows, and vector databases (e.g., Pinecone, Weaviate, Qdrant)
-  
-  - 
-  
-  Comfortable working with complex, messy documents (e.g., insurance policies, contracts), including parsing, OCR, clause-level segmentation, and normalization
-  
-  - 
-  
-  Strong software engineering background, with experience in fullstack dev, containerization (Docker), and DevOps/MLOps best practices
-  
-  - 
-  
-  Ability to design secure, compliant systems in regulated environments (insurance, legal, healthcare, or finance)
-  
-  - 
-  
-  Experience architecting agentic workflows and AI-native products that go beyond simple chatbot interfaces
-  
-  - 
-  
-  Product-first mindset—you build models to solve real user pain, and love working closely with cross-functional teams
-  
-  - 
-  
-  Operates like a founder—driven, hands-on, scrappy, and thrives in fast-paced, zero-to-one environments with extreme ownership
-  
-  **Why Join Qumis**
-  - 
-  
-  Backed by top-tier venture capital funds including Armory Square Ventures, MTech Capital, Grand Ventures, and Alumni Ventures, and strategic angels in AI and insurance including the founder and CEO of Chicago insurtech unicorn Kin Insurance
-  
-  - 
-  
-  Used and loved by leading brokerages and claims teams to transform how work gets done including multiple top 15 brokerages with tremendous expansion potential
-  
-  - 
-  
-  Shape the future of how generative AI transforms one of the world's most complex, critical industries
-  
-  - 
-  
-  High-ownership role on a high-standards founding team with grit, urgency, and big ambition
-  
-  - 
-  
-  Build a generational company—the kind of opportunity that only comes once in a career
-  
-  **We've Got You Covered**
-  
-  We offer a comprehensive benefits package so you can choose what’s best for you and your family. Our benefits include:
-  
-  - 
-  
-  Medical, dental, and vision insurance (Aetna + Guardian) with 100% of premiums covered for employees on select plans and up to 90% coverage for dependents
-  
-  - 
-  
-  Life Insurance (company-paid), plus supplemental options, short- and long-term disability insurance, pre-tax FSA and HSA options, and pre-tax commuter benefits
-  
-  - 
-  
-  Unlimited PTO & $1,000 home office setup stipend
-  
-  - 
-  
-  Hybrid work environment: 1–2 days/week in our Chicago office
-  
-  - 
-  
-  Professional development support and growth opportunities
+  About Qumis
+  
+  Qumis is a venture-backed AI startup building the most
+  advanced platform for reading and interpreting insurance
+  policies. We help P&C insurance professionals—claims
+  advocates, brokers, underwriters, and legal teams—move
+  faster, make better decisions, and reduce reliance on siloed
+  expertise. Our customers include some of the largest
+  insurance organizations in the U.S.
+  
+  We combine legal-grade natural language understanding with
+  structured analysis and intuitive workflows to modernize one
+  of the most complex and outdated parts of the insurance
+  industry: reading the policy. Our vision is a world where
+  anyone can read any insurance policy like a lawyer.
+  
+  We’re a small, high-trust team of engineers, designers, and
+  insurance/legal experts. We move fast, operate with
+  autonomy, and hold each other to a Michelin-star standard.
+  We value grit, speed, ownership, clarity of thinking, and
+  deep curiosity. If you're energized by building at the edge
+  of AI, transforming massive legacy industries, and working
+  with people who care deeply—welcome.
+  
+  About the Role
+  
+  We're hiring a Founding Staff AI Engineer to build and ship
+  production-grade AI that powers the core workflows of Qumis.
+  You’ll partner closely with the CTO and co-founders to
+  design, implement, and own every part of our AI
+  pipeline—from unstructured document ingestion to interactive
+  LLM outputs that shape legal-grade decisions.
+  
+  It’s a product-critical role for someone who thrives in
+  ambiguity, ships fast, and is excited to be the technical
+  owner of a new AI stack inside a real-world, high-stakes
+  domain.
+  
+  You’ll play a key role in shaping our architecture, roadmap,
+  and engineering culture. Your work will touch every
+  customer, every week.
+  
+  What You’ll Do
+  
+  - Build and ship production AI features end-to-end—from R&D to
+    SaaS integration, observability, and iteration
+  - Design and deploy advanced document understanding systems,
+    including RAG pipelines, clause segmentation,
+    summarization, risk detection, and more
+  - Create scalable APIs that deliver real-time coverage
+    analysis, comparisons, and recommendations inside a modern
+    SaaS UI
+  - Engineer robust data workflows across OCR, PDF ingestion,
+    parsing, normalization, and embedding generation
+  - Own evaluation and observability, from automated accuracy
+    pipelines to human-in-the-loop systems that maintain trust
+    and reliability
+  - Design for explainability—develop transparent workflows that
+    help legal, claims, and compliance professionals
+    understand what the AI sees and says
+  - Collaborate across disciplines with designers, PMs, and
+    domain experts to translate insurance workflows into AI-
+    powered systems
+  - Set technical direction—you’ll shape our infra, tooling, and
+    AI product roadmap from the ground up
+  
+  What We’re Looking For
+  
+  This role blends the ambition of a research scientist, the
+  urgency of a product engineer, and the ownership of a
+  founder. You’ll be our first AI hire, helping architect and
+  scale our AI systems from the ground up. You should bring
+  most or all of the following:
+  
+  - 6–10+ years of experience building and deploying production
+    machine learning systems, with a focus on NLP, document
+    intelligence, or unstructured data
+  - Strong track record shipping ML models into production—API
+    design, observability, iteration, and scaling included
+  - Deep experience with RAG pipelines, multi-step LLM
+    workflows, and vector databases (e.g., Pinecone, Weaviate,
+    Qdrant)
+  - Comfortable working with complex, messy documents (e.g.,
+    insurance policies, contracts), including parsing, OCR,
+    clause-level segmentation, and normalization
+  - Strong software engineering background, with experience in
+    fullstack dev, containerization (Docker), and DevOps/MLOps
+    best practices
+  - Ability to design secure, compliant systems in regulated
+    environments (insurance, legal, healthcare, or finance)
+  - Experience architecting agentic workflows and AI-native
+    products that go beyond simple chatbot interfaces
+  - Product-first mindset—you build models to solve real user
+    pain, and love working closely with cross-functional teams
+  - Operates like a founder—driven, hands-on, scrappy, and
+    thrives in fast-paced, zero-to-one environments with
+    extreme ownership
+  
+  Why Join Qumis
+  
+  - Backed by top-tier venture capital funds including Armory
+    Square Ventures, MTech Capital, Grand Ventures, and Alumni
+    Ventures, and strategic angels in AI and insurance
+    including the founder and CEO of Chicago insurtech unicorn
+    Kin Insurance
+  - Used and loved by leading brokerages and claims teams to
+    transform how work gets done including multiple top 15
+    brokerages with tremendous expansion potential
+  - Shape the future of how generative AI transforms one of the
+    world's most complex, critical industries
+  - High-ownership role on a high-standards founding team with
+    grit, urgency, and big ambition
+  - Build a generational company—the kind of opportunity that
+    only comes once in a career
+  
+  We've Got You Covered
+  
+  We offer a comprehensive benefits package so you can choose
+  what’s best for you and your family. Our benefits include:
+  
+  - Medical, dental, and vision insurance (Aetna + Guardian)
+    with 100% of premiums covered for employees on select
+    plans and up to 90% coverage for dependents
+  - Life Insurance (company-paid), plus supplemental options,
+    short- and long-term disability insurance, pre-tax FSA and
+    HSA options, and pre-tax commuter benefits
+  - Unlimited PTO & $1,000 home office setup stipend
+  - Hybrid work environment: 1–2 days/week in our Chicago office
+  - Professional development support and growth opportunities
 industries:
   - Artificial Intelligence
   - Fintech

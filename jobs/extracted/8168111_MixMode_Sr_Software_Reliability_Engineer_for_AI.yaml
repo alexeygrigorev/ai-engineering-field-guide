@@ -17,73 +17,113 @@ skills:
   - Spark Streaming
 company_size: 81 Employees
 description: |
-  MixMode is a leading provider of AI-powered cybersecurity solutions at scale, pioneering a patented third-wave, context-aware AI approach that automatically learns and adapts to dynamic environments. The MixMode platform delivers self-supervised, real-time threat detection for known and unknown threats across cloud, hybrid, and on-premises environments. Large organizations with big data workloads – including those in enterprise, critical infrastructure, US Department of War and US Intelligence Community – trust MixMode to defend their most important assets. Backed by PSG and Entrada Ventures, MixMode is headquartered in Santa Barbara, California. Learn more at www.mixmode.ai.
+  MixMode is a leading provider of AI-powered cybersecurity
+  solutions at scale, pioneering a patented third-wave,
+  context-aware AI approach that automatically learns and
+  adapts to dynamic environments. The MixMode platform
+  delivers self-supervised, real-time threat detection for
+  known and unknown threats across cloud, hybrid, and on-
+  premises environments. Large organizations with big data
+  workloads – including those in enterprise, critical
+  infrastructure, US Department of War and US Intelligence
+  Community – trust MixMode to defend their most important
+  assets. Backed by PSG and Entrada Ventures, MixMode is
+  headquartered in Santa Barbara, California. Learn more at
+  www.mixmode.ai.
   
   Job Title: Senior Software Reliability Engineer for AI
   
-  Location: Santa Barbara, CA or Remote 
-  **Job Summary: **
+  Location: Santa Barbara, CA or Remote  Job Summary:
   
-  We are looking for a Senior Software Engineer to improve the reliability, performance, and scalability of our production AI systems. This role focuses on understanding, refining, and strengthening existing distributed services across application, database, and Kubernetes layers. This individual will work closely with ML researchers to make our systems more robust, maintainable, flexible, and scalable.
+  We are looking for a Senior Software Engineer to improve the
+  reliability, performance, and scalability of our production
+  AI systems. This role focuses on understanding, refining,
+  and strengthening existing distributed services across
+  application, database, and Kubernetes layers. This
+  individual will work closely with ML researchers to make our
+  systems more robust, maintainable, flexible, and scalable.
   
-  **Responsibilities:**
+  Responsibilities:
   
-  - Own the reliability, performance, and operational health of production AI systems, focusing on improving complex, existing services. 
+  - Own the reliability, performance, and operational health of
+    production AI systems, focusing on improving complex,
+    existing services.
+  - Lead efforts to refactor and harden the AI codebase to
+    improve observability, maintainability, and resilience.
+  - Diagnose and resolve issues across distributed systems,
+    including latency, throughput, data pipelines, and
+    resource utilization.
+  - Design and build monitoring, alerting, and debugging tools
+    for high-availability services.
+  - Partner with researchers and ML engineers to productionize
+    models at scale.
+  - Establish best practices for testing, deployment, capacity
+    planning, and incident response.
+  - Serve as a technical leader during on-call rotations,
+    driving incident response, postmortems, and continuous
+    system improvements.
   
-  - Lead efforts to refactor and harden the AI codebase to improve observability, maintainability, and resilience. 
-  
-  - Diagnose and resolve issues across distributed systems, including latency, throughput, data pipelines, and resource utilization. 
-  
-  - Design and build monitoring, alerting, and debugging tools for high-availability services. 
-  
-  - Partner with researchers and ML engineers to productionize models at scale. 
-  
-  - Establish best practices for testing, deployment, capacity planning, and incident response. 
-  
-  - Serve as a technical leader during on-call rotations, driving incident response, postmortems, and continuous system improvements.
-  
-  **Requirements:**
+  Requirements:
   
   - 7+ years of professional software engineering experience
+  - Strong proficiency in Python and at least one JVM language
+    (Java, Scala, or Kotlin preferred)
+  - Proven experience designing, building, and operating
+    distributed systems in production
+  - Strong understanding of service architecture, concurrency,
+    resource management, and distributed failure modes
+  - Prior experience with streaming data pipelines (e.g. Spark
+    streaming, Flink, Kafka)
+  - Hands-on experience running production services on
+    Kubernetes, including pod lifecycle management and fault
+    tolerance.
+  - Strong experience with relational databases (e.g.,
+    PostgreSQL, MySQL), including query performance analysis,
+    indexing, and connection management
+  - Demonstrated ability to diagnose and resolve performance,
+    scalability, and reliability issues across application,
+    database, and infrastructure layers
+  - Experience implementing automated testing (unit,
+    integration, end-to-end) and production observability
+    (logging, metrics, tracing)
+  - Experience collaborating with ML or data science teams to
+    productionize predictive systems. (Note: ML expertise is
+    not required.)
+  - Ability to improve system architecture and engineering
+    practices over time through design, code review, and
+    mentorship
   
-  - Strong proficiency in Python and at least one JVM language (Java, Scala, or Kotlin preferred)
-  
-  - Proven experience designing, building, and operating distributed systems in production
-  
-  - Strong understanding of service architecture, concurrency, resource management, and distributed failure modes
-  
-  - Prior experience with streaming data pipelines (e.g. Spark streaming, Flink, Kafka)
-  
-  - Hands-on experience running production services on Kubernetes, including pod lifecycle management and fault tolerance.
-  
-  - Strong experience with relational databases (e.g., PostgreSQL, MySQL), including query performance analysis, indexing, and connection management
-  
-  - Demonstrated ability to diagnose and resolve performance, scalability, and reliability issues across application, database, and infrastructure layers
-  
-  - Experience implementing automated testing (unit, integration, end-to-end) and production observability (logging, metrics, tracing)
-  
-  - Experience collaborating with ML or data science teams to productionize predictive systems. (Note: ML expertise is *not* required.)
-  
-  - Ability to improve system architecture and engineering practices over time through design, code review, and mentorship
-  
-  **Compensation and benefits** are competitive based on industry standards. Benefits for full-time team members include:
+  Compensation and benefits are competitive based on industry
+  standards. Benefits for full-time team members include:
   
   - Remote-First Work Culture
-  
   - Healthcare (Medical, Dental, Vision, Accident)
-  
   - Basic & Voluntary Life and AD&D
-  
   - Flexible Spending Account (FSA)
-  
   - 401(k) with Employer Match
-  
   - Paid Holidays & Flexible Paid Time Off (PTO)
   
-  MixMode provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.  This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
-  Disability and Reasonable Accommodations  |  E-Verify  |  Right to Work
+  MixMode provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training. Disability and
+  Reasonable Accommodations  |  E-Verify  |  Right to Work
   
-  Please note: MixMode does not accept unsolicited resumes from recruiters or employment agencies. In the event of a recruiter or agency submitting a resume or candidate without a signed agreement being in place, we explicitly reserve the right to pursue and hire such candidates without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted directly to hiring managers, are deemed to be the property of MixMode.
+  Please note: MixMode does not accept unsolicited resumes
+  from recruiters or employment agencies. In the event of a
+  recruiter or agency submitting a resume or candidate without
+  a signed agreement being in place, we explicitly reserve the
+  right to pursue and hire such candidates without any
+  financial obligation to the recruiter or agency. Any
+  unsolicited resumes, including those submitted directly to
+  hiring managers, are deemed to be the property of MixMode.
 industries:
   - Big Data
   - Cybersecurity

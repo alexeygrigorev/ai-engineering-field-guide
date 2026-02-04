@@ -17,197 +17,293 @@ skills:
   - Prometheus
 company_size: 26,259 Employees
 description: |
-  **At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. **
+  At GEICO, we offer a rewarding career where your ambitions
+  are met with endless possibilities.
   
-  **Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose. **
+  Every day we honor our iconic brand by offering quality
+  coverage to millions of customers and being there when they
+  need us most. We thrive through relentless innovation to
+  exceed our customers’ expectations while making a real
+  impact for our company through our shared purpose.
   
-  **When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+  When you join our company, we want you to feel valued,
+  supported and proud to work here. That’s why we offer The
+  GEICO Pledge: Great Company, Great Culture, Great Rewards
+  and Great Careers.
   
-  GEICO AI platform and Infrastructure team is seeking an exceptional Senior ML Platform Engineer to build and scale our machine learning infrastructure with a focus on Large Language Models (LLMs) and AI applications. This role combines deep technical expertise in cloud platforms, container orchestration, and ML operations with strong leadership and mentoring capabilities. You will be responsible for designing, implementing, and maintaining scalable, reliable systems that enable our data science and engineering teams to deploy and operate LLMs efficiently at scale. The candidate must have excellent verbal and written communication skills with a proven ability to work independently and in a team environment.
+  GEICO AI platform and Infrastructure team is seeking an
+  exceptional Senior ML Platform Engineer to build and scale
+  our machine learning infrastructure with a focus on Large
+  Language Models (LLMs) and AI applications. This role
+  combines deep technical expertise in cloud platforms,
+  container orchestration, and ML operations with strong
+  leadership and mentoring capabilities. You will be
+  responsible for designing, implementing, and maintaining
+  scalable, reliable systems that enable our data science and
+  engineering teams to deploy and operate LLMs efficiently at
+  scale. The candidate must have excellent verbal and written
+  communication skills with a proven ability to work
+  independently and in a team environment.
   
   KEY RESPONSIBILITIES
   
   ML Platform & Infrastructure
   
-  - Design and implement scalable infrastructure for training, fine-tuning, and serving open source LLMs (Llama, Mistral, Gemma, etc.)
-  
-  - Architect and manage Kubernetes clusters for ML workloads, including GPU scheduling, autoscaling, and resource optimization
-  
-  - Design, implement, and maintain feature stores for ML model training and inference pipelines
-  
-  - Build and optimize LLM inference systems using frameworks like vLLM, TensorRT-LLM, and custom serving solutions
-  
-  - Ensure 99.9%+ uptime for ML platforms through robust monitoring, alerting, and incident response procedures
-  
-  - Design and implement ML platforms using DataRobot, Azure Machine Learning, Azure Kubernetes Service (AKS), and Azure Container Instances
-  
-  - Develop and maintain infrastructure using Terraform, ARM templates, and Azure DevOps
-  
-  - Implement cost-effective solutions for GPU compute, storage, and networking across Azure regions
-  
-  - Ensure ML platforms meet enterprise security standards and regulatory compliance requirements
-  
-  - Evaluate and potentially implement hybrid cloud solutions with AWS/GCP as backup or specialized use cases
+  - Design and implement scalable infrastructure for training,
+    fine-tuning, and serving open source LLMs (Llama, Mistral,
+    Gemma, etc.)
+  - Architect and manage Kubernetes clusters for ML workloads,
+    including GPU scheduling, autoscaling, and resource
+    optimization
+  - Design, implement, and maintain feature stores for ML model
+    training and inference pipelines
+  - Build and optimize LLM inference systems using frameworks
+    like vLLM, TensorRT-LLM, and custom serving solutions
+  - Ensure 99.9%+ uptime for ML platforms through robust
+    monitoring, alerting, and incident response procedures
+  - Design and implement ML platforms using DataRobot, Azure
+    Machine Learning, Azure Kubernetes Service (AKS), and
+    Azure Container Instances
+  - Develop and maintain infrastructure using Terraform, ARM
+    templates, and Azure DevOps
+  - Implement cost-effective solutions for GPU compute, storage,
+    and networking across Azure regions
+  - Ensure ML platforms meet enterprise security standards and
+    regulatory compliance requirements
+  - Evaluate and potentially implement hybrid cloud solutions
+    with AWS/GCP as backup or specialized use cases
   
   DevOps & Platform Engineering
   
-  - Design and maintain robust CI/CD pipelines for ML model deployment using Azure DevOps, GitHub Actions, and MLOps tools
-  
-  - Implement automated model training, validation, deployment, and monitoring workflows
-  
-  - Set up comprehensive observability using Prometheus, Grafana, Azure Monitor, and custom dashboards
-  
-  - Continuously optimize platform performance, reducing latency and improving throughput for ML workloads
-  
-  - Design and implement backup, recovery, and business continuity plans for ML platforms
+  - Design and maintain robust CI/CD pipelines for ML model
+    deployment using Azure DevOps, GitHub Actions, and MLOps
+    tools
+  - Implement automated model training, validation, deployment,
+    and monitoring workflows
+  - Set up comprehensive observability using Prometheus,
+    Grafana, Azure Monitor, and custom dashboards
+  - Continuously optimize platform performance, reducing latency
+    and improving throughput for ML workloads
+  - Design and implement backup, recovery, and business
+    continuity plans for ML platforms
   
   Technical Leadership & Mentoring
   
-  - Mentor junior engineers and data scientists on platform best practices, infrastructure design, and ML operations
-  
-  - Lead comprehensive code reviews focusing on scalability, reliability, security, and maintainability
-  
-  - Design and deliver technical onboarding programs for new team members joining the ML platform team
-  
-  - Establish and champion engineering standards for ML infrastructure, deployment practices, and operational procedures
-  
-  - Create technical documentation, runbooks, and deliver internal training sessions on platform capabilities
+  - Mentor junior engineers and data scientists on platform best
+    practices, infrastructure design, and ML operations
+  - Lead comprehensive code reviews focusing on scalability,
+    reliability, security, and maintainability
+  - Design and deliver technical onboarding programs for new
+    team members joining the ML platform team
+  - Establish and champion engineering standards for ML
+    infrastructure, deployment practices, and operational
+    procedures
+  - Create technical documentation, runbooks, and deliver
+    internal training sessions on platform capabilities
   
   Cross-Functional Collaboration
   
-  - Work closely with data scientists to understand requirements and optimize workflows for model development and deployment
-  
-  - Collaborate with product engineering teams to integrate ML capabilities into customer-facing applications
-  
-  - Support research teams with infrastructure for experimenting with cutting-edge LLM techniques and architectures
-  
-  - Present technical solutions and platform roadmaps to leadership and cross-functional stakeholders
+  - Work closely with data scientists to understand requirements
+    and optimize workflows for model development and
+    deployment
+  - Collaborate with product engineering teams to integrate ML
+    capabilities into customer-facing applications
+  - Support research teams with infrastructure for experimenting
+    with cutting-edge LLM techniques and architectures
+  - Present technical solutions and platform roadmaps to
+    leadership and cross-functional stakeholders
   
   REQUIRED QUALIFICATIONS
   
   Experience & Education
   
-  - Bachelor’s degree in computer science, Engineering, or related technical field (or equivalent experience)
-  
-  - 8+ years of software engineering experience with focus on infrastructure, platform engineering, or MLOps
-  
-  - 3+ years of hands-on experience with machine learning infrastructure and deployment at scale
-  
-  - 2+ years of experience working with Large Language Models and transformer architectures
+  - Bachelor’s degree in computer science, Engineering, or
+    related technical field (or equivalent experience)
+  - 8+ years of software engineering experience with focus on
+    infrastructure, platform engineering, or MLOps
+  - 3+ years of hands-on experience with machine learning
+    infrastructure and deployment at scale
+  - 2+ years of experience working with Large Language Models
+    and transformer architectures
   
   Technical Skills - Core Requirements
   
-  - Proficient in Python; strong skills in Go, Rust, or Java preferred
-  
-  - Proven experience working with open source LLMs (Llama 2/3, Qwen, Mistral, Gemma, Code Llama, etc.)
-  
-  -  Proficient in Kubernetes including custom operators, helm charts, and GPU scheduling
-  
-  - Deep expertise in Azure services (AKS, Azure ML, Container Registry, Storage, Networking)
-  
-  - Experience implementing and operating feature stores (Chronon, Feast, Tecton, Azure ML Feature Store, or custom solutions)
-  
-  - Hands-on experience with inference optimization using vLLM, TensorRT-LLM, Triton Inference Server, or similar
+  - Proficient in Python; strong skills in Go, Rust, or Java
+    preferred
+  - Proven experience working with open source LLMs (Llama 2/3,
+    Qwen, Mistral, Gemma, Code Llama, etc.)
+  - Proficient in Kubernetes including custom operators, helm
+    charts, and GPU scheduling
+  - Deep expertise in Azure services (AKS, Azure ML, Container
+    Registry, Storage, Networking)
+  - Experience implementing and operating feature stores
+    (Chronon, Feast, Tecton, Azure ML Feature Store, or custom
+    solutions)
+  - Hands-on experience with inference optimization using vLLM,
+    TensorRT-LLM, Triton Inference Server, or similar
   
   DevOps & Platform Skills
   
-  - Advanced experience with Azure DevOps, GitHub Actions, Jenkins, or similar CI/CD platforms
-  
-  - Proficiency with Terraform, ARM templates, Pulumi, or CloudFormation
-  
-  - Deep understanding of Docker, container optimization, and multi-stage builds
-  
-  - Experience with Prometheus, Grafana, ELK stack, Azure Monitor, and distributed tracing
-  
-  - Knowledge of both SQL and NoSQL databases, data warehousing, and vector databases
+  - Advanced experience with Azure DevOps, GitHub Actions,
+    Jenkins, or similar CI/CD platforms
+  - Proficiency with Terraform, ARM templates, Pulumi, or
+    CloudFormation
+  - Deep understanding of Docker, container optimization, and
+    multi-stage builds
+  - Experience with Prometheus, Grafana, ELK stack, Azure
+    Monitor, and distributed tracing
+  - Knowledge of both SQL and NoSQL databases, data warehousing,
+    and vector databases
   
   Leadership & Soft Skills
   
-  - Demonstrated track record of mentoring engineers and leading technical initiatives
-  
-  - Experience leading design reviews with focus on compliance, performance, and reliability
-  
-  - Excellent ability to explain complex technical concepts to diverse audiences
-  
-  - Strong analytical and troubleshooting skills for complex distributed systems
-  
-  - Experience managing cross-functional technical projects and coordinating with multiple stakeholders
+  - Demonstrated track record of mentoring engineers and leading
+    technical initiatives
+  - Experience leading design reviews with focus on compliance,
+    performance, and reliability
+  - Excellent ability to explain complex technical concepts to
+    diverse audiences
+  - Strong analytical and troubleshooting skills for complex
+    distributed systems
+  - Experience managing cross-functional technical projects and
+    coordinating with multiple stakeholders
   
   PREFERRED QUALIFICATIONS
   
   Advanced Experience
   
-  - Master’s degree in computer science, Machine Learning, or related field
-  
-  - 8+ years of platform engineering or infrastructure experience
-  
-  - Experience with Staff Engineer or Tech Lead roles in ML/AI organizations
-  
-  - Background in distributed systems and high-performance computing
-  
-  - Open-source contributions to ML infrastructure projects or LLM frameworks
+  - Master’s degree in computer science, Machine Learning, or
+    related field
+  - 8+ years of platform engineering or infrastructure
+    experience
+  - Experience with Staff Engineer or Tech Lead roles in ML/AI
+    organizations
+  - Background in distributed systems and high-performance
+    computing
+  - Open-source contributions to ML infrastructure projects or
+    LLM frameworks
   
   Specialized Skills
   
-  - Multi-Cloud Experience: Hands-on experience with Azure, AWS (SageMaker, EKS) and/or GCP (Vertex AI, GKE)
-  
-  - Experience with specialized hardware (A100s, H100s, TPUs, TEEs) and optimization
-  
-  - RLHF & Fine-tuning: Experience with Reinforcement Learning from Human Feedback and LLM fine-tuning workflows
-  
-  - Experience with Milvus, Pinecone, Weaviate, Qdrant, or similar vector storage solutions
-  
-  - Deep experience with MLflow, Kubeflow, DataRobot, or similar platforms
+  - Multi-Cloud Experience: Hands-on experience with Azure, AWS
+    (SageMaker, EKS) and/or GCP (Vertex AI, GKE)
+  - Experience with specialized hardware (A100s, H100s, TPUs,
+    TEEs) and optimization
+  - RLHF & Fine-tuning: Experience with Reinforcement Learning
+    from Human Feedback and LLM fine-tuning workflows
+  - Experience with Milvus, Pinecone, Weaviate, Qdrant, or
+    similar vector storage solutions
+  - Deep experience with MLflow, Kubeflow, DataRobot, or similar
+    platforms
   
   Industry Knowledge
   
-  - Understanding of AI safety principles, model governance, and regulatory compliance
-  
-  - Background in regulated industries with understanding of data privacy requirements
-  
-  - Experience supporting ML research teams and academic partnerships
-  
-  - Deep understanding of GPU optimization, memory management, and high-throughput systems
+  - Understanding of AI safety principles, model governance, and
+    regulatory compliance
+  - Background in regulated industries with understanding of
+    data privacy requirements
+  - Experience supporting ML research teams and academic
+    partnerships
+  - Deep understanding of GPU optimization, memory management,
+    and high-throughput systems
   
   Hybrid- (2 days a week)
   
-  ** 
   
-  Annual Salary**
+  
+  Annual Salary
+  
   $115,000.00 - $300,000.00
   
-  The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+  The above annual salary range is a general guideline.
+  Multiple factors are taken into consideration to arrive at
+  the final hourly rate/ annual salary to be offered to the
+  selected candidate. Factors include, but are not limited to,
+  the scope and responsibilities of the role, the selected
+  candidate’s work experience, education and training, the
+  work location as well as market and business considerations.
   
-  ** 
-  At this time, GEICO will not sponsor a new applicant for employment authorization for this position.
   
-   
   
-  The GEICO Pledge:**
+  At this time, GEICO will not sponsor a new applicant for
+  employment authorization for this position.
   
-  **Great Company:** At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
   
-  We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
   
-  **Great Careers:** We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind.  You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
+  The GEICO Pledge:
   
-  **Great Culture:** We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+  Great Company: At GEICO, we help our customers through
+  life’s twists and turns. Our mission is to protect people
+  when they need it most and we’re constantly evolving to stay
+  ahead of their needs.
   
-  As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
+  We’re an iconic brand that thrives on innovation, exceeding
+  our customers’ expectations and enabling our collective
+  success. From day one, you’ll take on exciting challenges
+  that help you grow and collaborate with dynamic teams who
+  want to make a positive impact on people’s lives.
   
-  **Great Rewards:** We offer compensation and benefits built to enhance your physical well-being, mental and emotional health and financial future.
+  Great Careers: We offer a career where you can learn, grow,
+  and thrive through personalized development programs,
+  created with your career – and your potential – in mind.
+  You’ll have access to industry leading training,
+  certification assistance, career mentorship and coaching
+  with supportive leaders at all levels.
   
-  - Comprehensive Total Rewards program that offers personalized coverage tailor-made for you and your family’s overall well-being.
+  Great Culture: We foster an inclusive culture of shared
+  success, rooted in integrity, a bias for action and a
+  winning mindset. Grounded by our core values, we have an an
+  established culture of caring, inclusion, and belonging,
+  that values different perspectives. Our teams are led by
+  dynamic, multi-faceted teams led by supportive leaders,
+  driven by performance excellence and unified under a shared
+  purpose.
   
-  - Financial benefits including market-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition-based incentives; and tuition assistance.
+  As part of our culture, we also offer employee engagement
+  and recognition programs that reward the positive impact our
+  work makes on the lives of our customers.
   
-  - Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
+  Great Rewards: We offer compensation and benefits built to
+  enhance your physical well-being, mental and emotional
+  health and financial future.
   
-  - Supports flexibility- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+  - Comprehensive Total Rewards program that offers personalized
+    coverage tailor-made for you and your family’s overall
+    well-being.
+  - Financial benefits including market-competitive
+    compensation; a 401K savings plan vested from day one that
+    offers a 6% match; performance and recognition-based
+    incentives; and tuition assistance.
+  - Access to additional benefits like mental healthcare as well
+    as fertility and adoption assistance.
+  - Supports flexibility- We provide workplace flexibility as
+    well as our GEICO Flex program, which offers the ability
+    to work from anywhere in the US for up to four weeks per
+    year.
   
-  The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+  The equal employment opportunity policy of the GEICO
+  Companies provides for a fair and equal employment
+  opportunity for all associates and job applicants regardless
+  of race, color, religious creed, national origin, ancestry,
+  age, gender, pregnancy, sexual orientation, gender identity,
+  marital status, familial status, disability or genetic
+  information, in compliance with applicable federal, state
+  and local law. GEICO hires and promotes individuals solely
+  on the basis of their qualifications for the job to be
+  filled.
   
-  GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
+  GEICO reasonably accommodates qualified individuals with
+  disabilities to enable them to receive equal employment
+  opportunity and/or perform the essential functions of the
+  job, unless the accommodation would impose an undue hardship
+  to the Company. This applies to all applicants and
+  associates. GEICO also provides a work environment in which
+  each associate is able to be productive and work to the best
+  of their ability. We do not condone or tolerate an
+  atmosphere of intimidation or harassment. We expect and
+  require the cooperation of all associates in maintaining an
+  atmosphere free from discrimination and harassment with
+  mutual respect by and for all associates and applicants.
 posted_date: 2026-01-16
 url: https://builtin.com/job/staff-software-engineer-ai-ml-infra/7801916
 source: Built In

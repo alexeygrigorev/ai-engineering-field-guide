@@ -17,107 +17,185 @@ skills:
   - Temporal
 company_size: 135 Employees
 description: |
-  **Who We Are**  
+  Who We Are
   
-  Stylitics is the leading visual outfitting and styling solution for the world’s top retailers and brands. Our clients include Nike, Macy’s, Revolve, Puma, Crate & Barrel, Bloomingdale’s, and dozens of others. Founded in 2011, Stylitics uses a powerful combination of algorithms, trend data, and stylist expertise to deliver millions of on-brand outfit recommendations daily across multiple channels such as e-commerce, email, advertising, stores, and social media. About 100 million shoppers use Stylitics content and technology on retail sites each month to find inspiration, discover new products and brands, and gain confidence in how to style their purchases.
+  Stylitics is the leading visual outfitting and styling
+  solution for the world’s top retailers and brands. Our
+  clients include Nike, Macy’s, Revolve, Puma, Crate & Barrel,
+  Bloomingdale’s, and dozens of others. Founded in 2011,
+  Stylitics uses a powerful combination of algorithms, trend
+  data, and stylist expertise to deliver millions of on-brand
+  outfit recommendations daily across multiple channels such
+  as e-commerce, email, advertising, stores, and social media.
+  About 100 million shoppers use Stylitics content and
+  technology on retail sites each month to find inspiration,
+  discover new products and brands, and gain confidence in how
+  to style their purchases.
   
-  **The Role**
+  The Role
   
-  We're building the future of AI-powered fashion & retail automation, and we need a craftsperson who lives and breathes Clojure. This isn't just about managing pipelines or writing glue code, this is about shipping intelligent systems that matter.
+  We're building the future of AI-powered fashion & retail
+  automation, and we need a craftsperson who lives and
+  breathes Clojure. This isn't just about managing pipelines
+  or writing glue code, this is about shipping intelligent
+  systems that matter.
   
-  Here's what we're actually building: AI workflows that generate outfit images at scale. Systems that write product copy and attribution automatically. Intelligent review flows where humans and AI collaborate to produce millions of styled recommendations. Vector search architectures that power semantic discovery across our catalog. Temporal-orchestrated workflows that coordinate LLMs, image generation, data pipelines, and human review loops. All of it needs to be fast, reliable, and integrated into our existing platform serving 100M+ shoppers monthly.
+  Here's what we're actually building: AI workflows that
+  generate outfit images at scale. Systems that write product
+  copy and attribution automatically. Intelligent review flows
+  where humans and AI collaborate to produce millions of
+  styled recommendations. Vector search architectures that
+  power semantic discovery across our catalog. Temporal-
+  orchestrated workflows that coordinate LLMs, image
+  generation, data pipelines, and human review loops. All of
+  it needs to be fast, reliable, and integrated into our
+  existing platform serving 100M+ shoppers monthly.
   
-  You'll work in Clojure and ClojureScript across the stack, but this is backend-heavy. You'll design data models in PostgreSQL, build Temporal workflows that orchestrate complex AI operations, integrate with Qdrant for vector search and RAG, and create ClojureScript interfaces for human audits. You'll own features end-to-end: from schema design to API implementation to the review UI that your colleagues use daily.
+  You'll work in Clojure and ClojureScript across the stack,
+  but this is backend-heavy. You'll design data models in
+  PostgreSQL, build Temporal workflows that orchestrate
+  complex AI operations, integrate with Qdrant for vector
+  search and RAG, and create ClojureScript interfaces for
+  human audits. You'll own features end-to-end: from schema
+  design to API implementation to the review UI that your
+  colleagues use daily.
   
-  We're a team of 12+ Clojure engineers who move fast and care about craft. We value ownership deeply. You'll have autonomy to architect solutions, make technical decisions, and ship production code quickly. If you're curious, opinionated about good code, and excited to build AI systems that actually work at scale, keep reading.
+  We're a team of 12+ Clojure engineers who move fast and care
+  about craft. We value ownership deeply. You'll have autonomy
+  to architect solutions, make technical decisions, and ship
+  production code quickly. If you're curious, opinionated
+  about good code, and excited to build AI systems that
+  actually work at scale, keep reading.
   
-  **What You'll Build**
+  What You'll Build
   
-  - Temporal workflows that orchestrate multi-step AI operations: product attribution, copy generation, image generation, outfit creation.
+  - Temporal workflows that orchestrate multi-step AI
+    operations: product attribution, copy generation, image
+    generation, outfit creation.
+  - Backend services in Clojure that integrate with LLM APIs
+    (GPT, Gemini, etc.), manage context and prompts, handle
+    streaming responses, and process structured outputs
+  - Data models and PostgreSQL schemas that support complex AI
+    workflows, vector embeddings, and integration with our
+    existing product catalog
+  - RAG pipelines using Qdrant for semantic search, similarity
+    matching, and context retrieval that powers smarter AI
+    recommendations
+  - MCP (Model Context Protocol) integrations and tool-calling
+    architectures that let LLMs interact with our systems,
+    query data, and trigger actions
+  - ClojureScript UIs for review workflows where humans
+    validate, edit, and improve AI-generated content
+  - APIs and data pipelines that connect everything together,
+    monitoring systems that track AI quality, and the
+    infrastructure that lets us ship fast
   
-  - Backend services in Clojure that integrate with LLM APIs (GPT, Gemini, etc.), manage context and prompts, handle streaming responses, and process structured outputs
+  What You Bring
   
-  - Data models and PostgreSQL schemas that support complex AI workflows, vector embeddings, and integration with our existing product catalog
+  - Strong Clojure and ClojureScript experience. You've built
+    production systems, you understand functional programming
+    deeply, and you're comfortable with the ecosystem (shadow-
+    cljs, re-frame, reagent etc.)
+  - Solid SQL skills and database design experience. You can
+    model complex domains in PostgreSQL, write efficient
+    queries, design schemas, and handle migrations. This is
+    important.
+  - Experience integrating LLMs into production systems. You
+    understand prompt engineering, managing context windows,
+    handling non-deterministic outputs, and the practical
+    challenges of building reliable AI features
+  - Backend engineering fundamentals. You know how to build
+    APIs, design data flows, handle errors gracefully, and
+    architect systems that scale
+  - High velocity. You ship often. You balance speed with
+    quality, you know when to refactor and when to iterate,
+    and you don't let perfect be the enemy of good
+  - Ownership mindset. You take responsibility for features from
+    conception to production. You care about the outcome, not
+    just writing code
+  - Curiosity. You're interested in AI, workflow orchestration,
+    vector search, frontend UIs, data modeling, and figuring
+    out how all the pieces fit together
   
-  - RAG pipelines using Qdrant for semantic search, similarity matching, and context retrieval that powers smarter AI recommendations
-  
-  - MCP (Model Context Protocol) integrations and tool-calling architectures that let LLMs interact with our systems, query data, and trigger actions
-  
-  - ClojureScript UIs for review workflows where humans validate, edit, and improve AI-generated content
-  
-  - APIs and data pipelines that connect everything together, monitoring systems that track AI quality, and the infrastructure that lets us ship fast
-  
-  **What You Bring**
-  
-  - Strong Clojure and ClojureScript experience. You've built production systems, you understand functional programming deeply, and you're comfortable with the ecosystem (shadow-cljs, re-frame, reagent etc.)
-  
-  - Solid SQL skills and database design experience. You can model complex domains in PostgreSQL, write efficient queries, design schemas, and handle migrations. This is important.
-  
-  - Experience integrating LLMs into production systems. You understand prompt engineering, managing context windows, handling non-deterministic outputs, and the practical challenges of building reliable AI features
-  
-  - Backend engineering fundamentals. You know how to build APIs, design data flows, handle errors gracefully, and architect systems that scale
-  
-  - High velocity. You ship often. You balance speed with quality, you know when to refactor and when to iterate, and you don't let perfect be the enemy of good
-  
-  - Ownership mindset. You take responsibility for features from conception to production. You care about the outcome, not just writing code
-  
-  - Curiosity. You're interested in AI, workflow orchestration, vector search, frontend UIs, data modeling, and figuring out how all the pieces fit together
-  
-  **Great to Have**
+  Great to Have
   
   - Experience with Java and the JVM ecosystem
-  
-  - Experience with Temporal or similar workflow orchestration systems (Airflow, Dagster, Step Functions)
-  
-  - Familiarity with vector databases like Qdrant, Pinecone, or Weaviate, and RAG architectures
-  
-  - Experience with MCP (Model Context Protocol) or building tool-calling systems where LLMs interact with external services
-  
-  - Understanding of image generation models, multimodal AI, or working with vision APIs
-  
+  - Experience with Temporal or similar workflow orchestration
+    systems (Airflow, Dagster, Step Functions)
+  - Familiarity with vector databases like Qdrant, Pinecone, or
+    Weaviate, and RAG architectures
+  - Experience with MCP (Model Context Protocol) or building
+    tool-calling systems where LLMs interact with external
+    services
+  - Understanding of image generation models, multimodal AI, or
+    working with vision APIs
   - Contributions to open-source Clojure projects
+  - Background in other functional programming languages
+    (Haskell, OCaml, Elixir, Scala)
+  - Experience building developer tools, automation systems, or
+    human-in-the-loop workflows
   
-  - Background in other functional programming languages (Haskell, OCaml, Elixir, Scala)
+  Why Join Us
   
-  - Experience building developer tools, automation systems, or human-in-the-loop workflows
-  
-  **Why Join Us**
-  
-  - Modern stack: Clojure/ClojureScript, Temporal, PostgreSQL, Qdrant, LLM APIs, cloud infrastructure
-  
-  - Lots of greenfield opportunities. You'll build new systems while also integrating into our existing platform
-  
-  - Ownership and autonomy. You'll make architectural decisions, influence product direction, and see your work in production quickly
-  
-  - Team of 12+ Clojure engineers who value craft, velocity, and learning from each other
-  
-  - Flexible remote-first culture with optional NYC office collaboration
-  
+  - Modern stack: Clojure/ClojureScript, Temporal, PostgreSQL,
+    Qdrant, LLM APIs, cloud infrastructure
+  - Lots of greenfield opportunities. You'll build new systems
+    while also integrating into our existing platform
+  - Ownership and autonomy. You'll make architectural decisions,
+    influence product direction, and see your work in
+    production quickly
+  - Team of 12+ Clojure engineers who value craft, velocity, and
+    learning from each other
+  - Flexible remote-first culture with optional NYC office
+    collaboration
   - Be part of defining how AI transforms fashion and e-commerce
   
-  **Salary**
+  Salary
   
-  When we find the right person, we try to put our best foot forward with an offer that excites you and is fair on our end. We consider the skills and experience you bring, what similar jobs pay, and make sure there's equal pay for equal work among those you'll be working with. The compensation amount for this role is targeted at $135,000 - $155,000 USD annually. The final offer also takes into account other factors of a total compensation package, including what is market-based on the region. Please note that the range is being shared in good faith and is subject to modification based on changing market and business conditions.
+  When we find the right person, we try to put our best foot
+  forward with an offer that excites you and is fair on our
+  end. We consider the skills and experience you bring, what
+  similar jobs pay, and make sure there's equal pay for equal
+  work among those you'll be working with. The compensation
+  amount for this role is targeted at $135,000 - $155,000 USD
+  annually. The final offer also takes into account other
+  factors of a total compensation package, including what is
+  market-based on the region. Please note that the range is
+  being shared in good faith and is subject to modification
+  based on changing market and business conditions.
   
-  **Our Values**
+  Our Values
   
-  Our values reflect what is important to us at Stylitics and serve as the foundation in which we do business. Each core value is best illustrated by actions and attitudes that each Stylitics team member practices. They define what working at Stylitics means and what our teams embody through their time here.
+  Our values reflect what is important to us at Stylitics and
+  serve as the foundation in which we do business. Each core
+  value is best illustrated by actions and attitudes that each
+  Stylitics team member practices. They define what working at
+  Stylitics means and what our teams embody through their time
+  here.
   
   - We care deeply about delivering high quality work
-  
   - We work to be the best partners possible
-  
   - We get things done
-  
   - We believe the right team matters most
-  
   - We think like customers and act like owners
-  
   - We relish being pioneers
   
-  **Join Us**
+  Join Us
   
-  We strive to create a place where all feel safe, empowered, engaged, championed, and inspired. Equal Employment Opportunity has been and will continue to be, a fundamental principle at Stylitics where employment is based upon personal capabilities and qualifications without discrimination because of race, religion, color, gender, national origin, age, citizenship, ancestry, marital status, sexual orientation, gender identity and expression, pregnancy and related medical conditions, veteran status, genetic information, disability or any other reason prohibited by federal, state or local law. This applies to all policies and employment practices relating to recruitment and hiring, compensation, benefits, termination and all other terms and conditions of employment.
+  We strive to create a place where all feel safe, empowered,
+  engaged, championed, and inspired. Equal Employment
+  Opportunity has been and will continue to be, a fundamental
+  principle at Stylitics where employment is based upon
+  personal capabilities and qualifications without
+  discrimination because of race, religion, color, gender,
+  national origin, age, citizenship, ancestry, marital status,
+  sexual orientation, gender identity and expression,
+  pregnancy and related medical conditions, veteran status,
+  genetic information, disability or any other reason
+  prohibited by federal, state or local law. This applies to
+  all policies and employment practices relating to
+  recruitment and hiring, compensation, benefits, termination
+  and all other terms and conditions of employment.
 industries:
   - Artificial Intelligence
   - eCommerce

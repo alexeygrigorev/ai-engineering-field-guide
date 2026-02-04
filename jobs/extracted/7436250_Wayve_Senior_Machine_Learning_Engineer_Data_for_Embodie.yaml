@@ -12,93 +12,177 @@ skills:
   - Spark
 company_size: 200 Employees
 description: |
-  At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition  (including breastfeeding) or any other basis as protected by applicable law.  
-  ****About us **  **
+  At Wayve we're committed to creating a diverse, fair and
+  respectful culture that is inclusive of everyone based on
+  their unique skills and perspectives, and regardless of sex,
+  race, religion or belief, ethnic or national origin,
+  disability, age, citizenship, marital, domestic or civil
+  partnership status, sexual orientation, gender identity,
+  veteran status, pregnancy or related condition  (including
+  breastfeeding) or any other basis as protected by applicable
+  law.
   
-  Founded in 2017, Wayve is the leading developer of Embodied AI technology.  Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.
+  About us
   
-  Our vision is to create autonomy that propels the world forward.  Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.  **In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.
+  Founded in 2017, Wayve is the leading developer of Embodied
+  AI technology.  Our advanced AI software and foundation
+  models enable vehicles to perceive, understand, and navigate
+  any complex environment, enhancing the usability and safety
+  of automated driving systems.
   
-  At Wayve, your contributions matter.  We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.  
+  Our vision is to create autonomy that propels the world
+  forward.  Our intelligent, mapless, and hardware-agnostic AI
+  products are designed for automakers, accelerating the
+  transition from assisted to automated driving.   In our
+  fast-paced environment big problems ignite us—we embrace
+  uncertainty, leaning into complex challenges to unlock
+  groundbreaking solutions. We aim high and stay humble in our
+  pursuit of excellence, constantly learning and evolving as
+  we pave the way for a smarter, safer future.
   
-  Make Wayve the experience that defines your career!  
-  **The role ****
+  At Wayve, your contributions matter.  We value diversity,
+  embrace new perspectives, and foster an inclusive work
+  environment; we back each other to deliver impact.
   
-  Science is the team that is advancing our end-to-end autonomous driving research. The team’s mission is to accelerate our journey to AV2.0 and ensure the future success of Wayve by incubating and investing in new ideas that have the potential to become game-changing technological advances for the company.
+  Make Wayve the experience that defines your career!
   
-   The goal of this role is to build, scale, and optimise next-generation world model architectures (e.g. GAIA and successors) and bridge them into high-throughput training infrastructure, enabling synthetic data and simulation to dramatically accelerate autonomy development. You’ll design systems to acquire, process, and curate multimodal data at scale. You’ll turn raw experience into the high-quality datasets that fuel our models.
+  The role
   
-  You’ll sit at the intersection of **machine learning research and data engineering**, collaborating closely with scientists and infrastructure teams to ensure our workflows are robust, efficient, and deeply integrated with our model training stack.
+  Science is the team that is advancing our end-to-end
+  autonomous driving research. The team’s mission is to
+  accelerate our journey to AV2.0 and ensure the future
+  success of Wayve by incubating and investing in new ideas
+  that have the potential to become game-changing
+  technological advances for the company.
   
-  Your work will directly impact how quickly and effectively we can train, evaluate, and deploy embodied AI systems in the real world.
+   The goal of this role is to build, scale, and optimise
+  next-generation world model architectures (e.g. GAIA and
+  successors) and bridge them into high-throughput training
+  infrastructure, enabling synthetic data and simulation to
+  dramatically accelerate autonomy development. You’ll design
+  systems to acquire, process, and curate multimodal data at
+  scale. You’ll turn raw experience into the high-quality
+  datasets that fuel our models.
+  
+  You’ll sit at the intersection of machine learning research
+  and data engineering, collaborating closely with scientists
+  and infrastructure teams to ensure our workflows are robust,
+  efficient, and deeply integrated with our model training
+  stack.
+  
+  Your work will directly impact how quickly and effectively
+  we can train, evaluate, and deploy embodied AI systems in
+  the real world.
   
   Key responsibilities:
   
-  - Design and implement large-scale data acquisition, processing, and curation pipelines, owning the full lifecycle of high-quality datasets used to train advanced robotics and foundation models.
+  - Design and implement large-scale data acquisition,
+    processing, and curation pipelines, owning the full
+    lifecycle of high-quality datasets used to train advanced
+    robotics and foundation models.
+  - Continuously improve dataset quality and utility through
+    sophisticated data analysis, debugging, and
+    experimentation; developing metrics, tests, and monitoring
+    mechanisms that directly drive model performance
+    improvements.
+  - Develop and scale multimodal data pipelines for ingestion,
+    preprocessing, filtering, annotation, and storage across
+    video, LiDAR, and telemetry modalities.
+  - Run systematic experiments on data ablations and composition
+    to assess their impact on model training dynamics,
+    generalisation, and downstream performance.
+  - Collaborate with ML researchers and platform engineers to
+    ensure datasets are fit for purpose and efficiently
+    integrated into large-scale training workflows.
+  - Build internal tools and workflows for dataset auditing,
+    visualization, and versioning to streamline iteration and
+    reproducibility.
+  - Advance best practices for data governance, reliability, and
+    scalability across the data lifecycle; ensuring data
+    safety, privacy, and long-term maintainability.
   
-  - Continuously improve dataset quality and utility through sophisticated data analysis, debugging, and experimentation; developing metrics, tests, and monitoring mechanisms that directly drive model performance improvements.
+  About you
   
-  - Develop and scale multimodal data pipelines for ingestion, preprocessing, filtering, annotation, and storage across video, LiDAR, and telemetry modalities.
+  To set you up for success as a Senior MLE at Wayve, we’re
+  looking for the following skills and experience:
   
-  - Run systematic experiments on data ablations and composition to assess their impact on model training dynamics, generalisation, and downstream performance.
-  
-  - Collaborate with ML researchers and platform engineers to ensure datasets are fit for purpose and efficiently integrated into large-scale training workflows.
-  
-  - Build internal tools and workflows for dataset auditing, visualization, and versioning to streamline iteration and reproducibility.
-  
-  - Advance best practices for data governance, reliability, and scalability across the data lifecycle; ensuring data safety, privacy, and long-term maintainability.
-  
-  About you  
-  
-  To set you up for success as a Senior MLE at Wayve, we’re looking for the following skills and experience:
-  
-  - Experience in ML engineering, data engineering, or applied ML roles focused on large-scale data systems.
-  
-  - Proven experience **building and maintaining large-scale data pipelines** for machine learning, including data ingestion, transformation, and validation.
-  
-  - Strong Python fundamentals and experience with modern ML and data frameworks (e.g. **PyTorch**, **Ray**, **Dask**, **Spark**, or equivalent).
-  
-  - Solid understanding of **multimodal data** (video, lidar, sensor telemetry) and its challenges in large-scale training.
-  
-  - Experience defining and tracking **data quality metrics**, conducting dataset analysis, and driving data-informed improvements in model performance.
-  
-  - Demonstrated ability to **work collaboratively** with ML researchers, platform engineers, and product teams in a fast-paced, experimental environment.
-  
-  - Strong problem-solving skills, a data-driven mindset, and the ability to translate research needs into reliable data solutions.
+  - Experience in ML engineering, data engineering, or applied
+    ML roles focused on large-scale data systems.
+  - Proven experience building and maintaining large-scale data
+    pipelines for machine learning, including data ingestion,
+    transformation, and validation.
+  - Strong Python fundamentals and experience with modern ML and
+    data frameworks (e.g. PyTorch, Ray, Dask, Spark, or
+    equivalent).
+  - Solid understanding of multimodal data (video, lidar, sensor
+    telemetry) and its challenges in large-scale training.
+  - Experience defining and tracking data quality metrics,
+    conducting dataset analysis, and driving data-informed
+    improvements in model performance.
+  - Demonstrated ability to work collaboratively with ML
+    researchers, platform engineers, and product teams in a
+    fast-paced, experimental environment.
+  - Strong problem-solving skills, a data-driven mindset, and
+    the ability to translate research needs into reliable data
+    solutions.
   
   Desirable
   
-  - Exposure to large-scale storage, distributed training systems, or cloud compute environments (Azure, AWS, GCP).
-  
-  - Experience designing **high-throughput, distributed data pipelines** (e.g. with Spark, Ray, Beam, or similar frameworks).
-  
-  - Familiarity with **data versioning, lineage, and governance tools** (e.g. LakeFS, DVC, MLflow, Delta Lake).
-  
-  - Experience in AVs, robotics, simulation, or other embodied AI domains.
-  
-  - Familiarity with **foundation models, generative models, or simulation-based data pipelines.**
+  - Exposure to large-scale storage, distributed training
+    systems, or cloud compute environments (Azure, AWS, GCP).
+  - Experience designing high-throughput, distributed data
+    pipelines (e.g. with Spark, Ray, Beam, or similar
+    frameworks).
+  - Familiarity with data versioning, lineage, and governance
+    tools (e.g. LakeFS, DVC, MLflow, Delta Lake).
+  - Experience in AVs, robotics, simulation, or other embodied
+    AI domains.
+  - Familiarity with foundation models, generative models, or
+    simulation-based data pipelines.
   
   Why Join Us
   
-  - **Shape the future of embodied AI through data.** Your work will directly determine the quality, scale, and impact of the foundation models that drive our autonomy systems.
+  - Shape the future of embodied AI through data. Your work will
+    directly determine the quality, scale, and impact of the
+    foundation models that drive our autonomy systems.
+  - Tackle data challenges at unprecedented scale. Work with
+    petabytes of multimodal data — video, lidar, and telemetry
+    — and build pipelines that enable training at the frontier
+    of AI.
+  - Collaborate with world-class talent. Partner with leading ML
+    researchers, software engineers, and data scientists who
+    are redefining how AI learns from real-world experience.
+  - Make your mark on real-world autonomy. Your data systems
+    will power models that see, understand, and act in the
+    world.
+  - Work in a high-trust, high-autonomy environment. We value
+    creativity, experimentation, and rigorous thinking. You’ll
+    have the freedom to explore bold ideas and the support to
+    make them real.
   
-  - **Tackle data challenges at unprecedented scale.** Work with petabytes of multimodal data — video, lidar, and telemetry — and build pipelines that enable training at the frontier of AI.
+  Wayve is committed to creating an inclusive interview
+  experience. If you require any accommodations or adjustments
+  to participate fully in our interview process, please let us
+  know
   
-  - **Collaborate with world-class talent.** Partner with leading ML researchers, software engineers, and data scientists who are redefining how AI learns from real-world experience.
+  We understand that everyone has a unique set of skills and
+  experiences and that not everyone will meet all of the
+  requirements listed above. If you’re passionate about self-
+  driving cars and think you have what it takes to make a
+  positive impact on the world, we encourage you to apply.
   
-  - **Make your mark on real-world autonomy.** Your data systems will power models that see, understand, and act in the world.
+  For more information visit Careers at Wayve.
   
-  - **Work in a high-trust, high-autonomy environment.** We value creativity, experimentation, and rigorous thinking. You’ll have the freedom to explore bold ideas and the support to make them real.
+  To learn more about what drives us, visit Values at Wayve
   
-  Wayve is committed to creating an inclusive interview experience. If you require any accommodations or adjustments to participate fully in our interview process, please let us know
-  
-  We understand that everyone has a unique set of skills and experiences and that not everyone will meet all of the requirements listed above. If you’re passionate about self-driving cars and think you have what it takes to make a positive impact on the world, we encourage you to apply.
-  
-  For more information visit Careers at Wayve. 
-  
-  To learn more about what drives us, visit Values at Wayve 
-  
-  DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional DEI Monitoring form to help us identify areas of improvement in our hiring process and ensure that the process is inclusive and non-discriminatory.
+  DISCLAIMER: We will not ask about marriage or pregnancy,
+  care responsibilities or disabilities in any of our job
+  adverts or interviews. However, we do look to capture
+  information about care responsibilities, and disabilities
+  among other diversity information as part of an optional DEI
+  Monitoring form to help us identify areas of improvement in
+  our hiring process and ensure that the process is inclusive
+  and non-discriminatory.
 industries:
   - Artificial Intelligence
   - Transportation

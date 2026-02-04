@@ -12,112 +12,162 @@ skills:
   - PyTorch
   - Ros
 description: |
-  **Summary**
+  Summary
   
-  Headquartered in sunny Los Angeles, GrayMatter Robotics is a well-capitalized AI robotics startup serving the manufacturing industry. We empower shop floor workers with our smart robots that assist with tedious and ergonomically challenging tasks, specifically in automated surface finishing. Our proprietary GMR-AI™ software is integrated with state-of-the-art industrial robots, sensors, and tools to create application-specific turnkey solutions for customers through a Robot-as-a-Service (RaaS) model.
+  Headquartered in sunny Los Angeles, GrayMatter Robotics is a
+  well-capitalized AI robotics startup serving the
+  manufacturing industry. We empower shop floor workers with
+  our smart robots that assist with tedious and ergonomically
+  challenging tasks, specifically in automated surface
+  finishing. Our proprietary GMR-AI™ software is integrated
+  with state-of-the-art industrial robots, sensors, and tools
+  to create application-specific turnkey solutions for
+  customers through a Robot-as-a-Service (RaaS) model.
   
-  You will join the Special Projects: AI team at GrayMatter Robotics, a cross-functional group responsible for designing, building, and operationalizing AI capabilities across GMR’s products and customer deployments. The team serves as a horizontal AI function, working across simulation, data, perception, inspection, learning-based control, process optimization, and system validation to enable robust autonomy for GMR’s robots and factories in high-mix manufacturing environments. The team operates end-to-end from problem formulation and data strategy to model development, simulation, deployment, and long-term performance monitoring collaborating closely with robotics software, solutions engineering, applications, process engineering, hardware, and deployment teams. The team’s mandate is to ensure that AI systems scale across processes, customers, and sites, and perform reliably on real robots in real factories, today, not just in controlled demonstrations.
+  You will join the Special Projects: AI team at GrayMatter
+  Robotics, a cross-functional group responsible for
+  designing, building, and operationalizing AI capabilities
+  across GMR’s products and customer deployments. The team
+  serves as a horizontal AI function, working across
+  simulation, data, perception, inspection, learning-based
+  control, process optimization, and system validation to
+  enable robust autonomy for GMR’s robots and factories in
+  high-mix manufacturing environments. The team operates end-
+  to-end from problem formulation and data strategy to model
+  development, simulation, deployment, and long-term
+  performance monitoring collaborating closely with robotics
+  software, solutions engineering, applications, process
+  engineering, hardware, and deployment teams. The team’s
+  mandate is to ensure that AI systems scale across processes,
+  customers, and sites, and perform reliably on real robots in
+  real factories, today, not just in controlled
+  demonstrations.
   
-  This role values strong technical depth and sound research judgment, but places a clear priority on system ownership, execution, and measurable business impact. Publishing and external technical contributions are encouraged when they naturally emerge from deployed systems while meaningfully advancing both GMR’s products and the broader robotics community; however, successful delivery, robustness, and customer-visible outcomes are the primary measures of success.
+  This role values strong technical depth and sound research
+  judgment, but places a clear priority on system ownership,
+  execution, and measurable business impact. Publishing and
+  external technical contributions are encouraged when they
+  naturally emerge from deployed systems while meaningfully
+  advancing both GMR’s products and the broader robotics
+  community; however, successful delivery, robustness, and
+  customer-visible outcomes are the primary measures of
+  success.
   
-  ****Key Responsibilities****
-  - 
+  Key Responsibilities
   
-  Design, implement, and train state-of-the-art AI models for perception, inspection, decision-making, and control in real-world robotic manufacturing systems.
+  - Design, implement, and train state-of-the-art AI models for
+    perception, inspection, decision-making, and control in
+    real-world robotic manufacturing systems.
+  - Lead the development of simulation-based tooling used across
+    a broad range of AI use cases at GMR, including
+    reinforcement learning for recipe learning, scalable
+    synthetic data generation, and autonomous robotic cell
+    setup.
+  - Own and advance synthetic data generation pipelines,
+    leveraging generative AI techniques for complex 3D
+    geometry and environment, physics-based simulation, and
+    image data, and scaling them across diverse processes and
+    applications.
+  - Develop and deploy multi-modal inspection and health
+    monitoring systems, integrating vision, 3D sensing,
+    force/torque, and other sensor modalities.
+  - Bridge the gap between simulation and reality, ensuring
+    models trained in simulation transfer robustly to physical
+    robotic cells.
+  - Optimize, deploy, and maintain ML models on production
+    robotic systems, considering latency, reliability, and
+    hardware constraints.
+  - Troubleshoot complex, cross-disciplinary issues spanning ML
+    models, simulation environments, robotics software,
+    sensors, and hardware.
   
-  - 
+  Minimum Qualifications
   
-  Lead the development of simulation-based tooling used across a broad range of AI use cases at GMR, including reinforcement learning for recipe learning, scalable synthetic data generation, and autonomous robotic cell setup.
+  - Master’s Degree or PhD in Computer Science, Robotics,
+    Mechanical Engineering or a closely related field plus 5-8
+    years of experience.
+  - Strong proficiency in Python is required; candidates with
+    strong working knowledge of both Python and C++ in
+    robotics systems will be preferred.
+  - Deep expertise in machine learning and deep learning, with
+    hands-on experience using frameworks such as PyTorch.
+  - Demonstrated experience working with real robotic
+    manipulators, including deploying and testing machine
+    learning models on physical robots operating in real-world
+    environments.
+  - Demonstrated experience working with simulation environments
+    and/or physics-based modeling for robotics (e.g., Isaac
+    Lab or MuJoCo).
+  - Strong software engineering discipline, including writing
+    clean, maintainable, well-tested, and performance-
+    optimized code.
+  - Proven ability to diagnose and solve ambiguous, system-level
+    problems and iterate quickly under real-world constraints.
   
-  - 
+  Preferred Qualifications
   
-  Own and advance synthetic data generation pipelines, leveraging generative AI techniques for complex 3D geometry and environment, physics-based simulation, and image data, and scaling them across diverse processes and applications.
+  - Experience with synthetic data generation and simulation-
+    driven dataset creation for perception and inspection
+    tasks, including the use of generative models such as
+    Gaussian Splatting, diffusion models, or flow matching-
+    based approaches.
+  - Deep understanding and hands-on experience using physics
+    engines and robotics simulation platforms (e.g., Isaac
+    Lab, MuJoCo) to solve complex real-world robotics
+    problems.
+  - Experience with reinforcement learning, imitation learning,
+    or policy optimization for robotic manipulation or process
+    control.
+  - Hands-on experience with 3D data (point clouds, meshes,
+    SDFs, CAD-derived geometry) and related tooling.
+  - Exposure to robotics inspection or quality assurance
+    problems involving multimodal sensing (e.g., vision +
+    force, vision + acoustics, vision + tactile, etc.).
+  - Experience with robotics middleware and tooling (e.g.,
+    ROS/ROS 2) and deployment on real robotic hardware.
+  - Prior experience working in industrial, manufacturing, or
+    high-mix automation environments.
+  - A publication track record, or demonstrated interest in
+    publishing applied research in venues such as ICRA, CoRL,
+    RSS, IROS, RA-L, or T-RO, balanced with a strong bias
+    toward real-world production impact.
   
-  - 
+  GrayMatter Robotics provides equal employment opportunities
+  to all employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training. We celebrate diversity
+  and are committed to creating an inclusive environment for
+  all employees. We encourage and embrace applicants of all
+  backgrounds to apply!
   
-  Develop and deploy multi-modal inspection and health monitoring systems, integrating vision, 3D sensing, force/torque, and other sensor modalities.
+  GrayMatter Robotics is committed to providing reasonable
+  accommodations for candidates with disabilities. If you
+  believe you require accommodations during the recruiting
+  process, please contact accommodations@graymatter-
+  robotics.com to submit your request.
   
-  - 
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee for this
+  job. Duties, responsibilities and activities may change at
+  any time with or without notice.
   
-  Bridge the gap between simulation and reality, ensuring models trained in simulation transfer robustly to physical robotic cells.
-  
-  - 
-  
-  Optimize, deploy, and maintain ML models on production robotic systems, considering latency, reliability, and hardware constraints.
-  
-  - 
-  
-  Troubleshoot complex, cross-disciplinary issues spanning ML models, simulation environments, robotics software, sensors, and hardware.
-  
-  ****Minimum Qualifications****
-  - 
-  
-  Master’s Degree or PhD in Computer Science, Robotics, Mechanical Engineering or a closely related field plus 5-8 years of experience. 
-  
-  - 
-  
-  Strong proficiency in Python is required; candidates with strong working knowledge of both Python and C++ in robotics systems will be preferred.
-  
-  - 
-  
-  Deep expertise in machine learning and deep learning, with hands-on experience using frameworks such as PyTorch.
-  
-  - 
-  
-  Demonstrated experience working with real robotic manipulators, including deploying and testing machine learning models on physical robots operating in real-world environments.
-  
-  - 
-  
-  Demonstrated experience working with simulation environments and/or physics-based modeling for robotics (e.g., Isaac Lab or MuJoCo).
-  
-  - 
-  
-  Strong software engineering discipline, including writing clean, maintainable, well-tested, and performance-optimized code.
-  
-  - 
-  
-  Proven ability to diagnose and solve ambiguous, system-level problems and iterate quickly under real-world constraints.
-  
-  ****Preferred Qualifications****
-  - 
-  
-  Experience with synthetic data generation and simulation-driven dataset creation for perception and inspection tasks, including the use of generative models such as Gaussian Splatting, diffusion models, or flow matching-based approaches.
-  
-  - 
-  
-  Deep understanding and hands-on experience using physics engines and robotics simulation platforms (e.g., Isaac Lab, MuJoCo) to solve complex real-world robotics problems.
-  
-  - 
-  
-  Experience with reinforcement learning, imitation learning, or policy optimization for robotic manipulation or process control.
-  
-  - 
-  
-  Hands-on experience with 3D data (point clouds, meshes, SDFs, CAD-derived geometry) and related tooling.
-  
-  - 
-  
-  Exposure to robotics inspection or quality assurance problems involving multimodal sensing (e.g., vision + force, vision + acoustics, vision + tactile, etc.).
-  
-  - 
-  
-  Experience with robotics middleware and tooling (e.g., ROS/ROS 2) and deployment on real robotic hardware.
-  
-  - 
-  
-  Prior experience working in industrial, manufacturing, or high-mix automation environments.
-  
-  - 
-  
-  A publication track record, or demonstrated interest in publishing applied research in venues such as ICRA, CoRL, RSS, IROS, RA-L, or T-RO, balanced with a strong bias toward real-world production impact.
-  
-  *GrayMatter Robotics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. We celebrate diversity and are committed to creating an inclusive environment for all employees. We encourage and embrace applicants of all backgrounds to apply!*
-  
-  *GrayMatter Robotics is committed to providing reasonable accommodations for candidates with disabilities. If you believe you require accommodations during the recruiting process, please contact accommodations@graymatter-robotics.com to submit your request.*
-  
-  *Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.*
-  
-  *Compensation for this position includes the base salary range of $150,000 - $170,000 USD plus bonus and equity. We also provide comprehensive benefits and perks which include but are not limited to medical, dental, vision, unlimited PTO, 401(k) plan + employer match, regular offsite events, a discretionary fund for enhancing productivity and so much more! The range listed on job postings reflect the minimum and maximum new hire salary across levels in Los Angeles, CA.*
+  Compensation for this position includes the base salary
+  range of $150,000 - $170,000 USD plus bonus and equity. We
+  also provide comprehensive benefits and perks which include
+  but are not limited to medical, dental, vision, unlimited
+  PTO, 401(k) plan + employer match, regular offsite events, a
+  discretionary fund for enhancing productivity and so much
+  more! The range listed on job postings reflect the minimum
+  and maximum new hire salary across levels in Los Angeles,
+  CA.
 industries:
   - Artificial Intelligence
   - Hardware

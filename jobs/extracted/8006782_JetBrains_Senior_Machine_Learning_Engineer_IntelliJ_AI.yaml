@@ -9,59 +9,86 @@ skills:
   - Python
 company_size: 2,209 Employees
 description: |
-  At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create.
+  At JetBrains, code is our passion. Ever since we started,
+  back in 2000, we have strived to make the strongest, most
+  effective developer tools on earth. By automating routine
+  checks and corrections, our tools speed up production,
+  freeing developers to grow, discover, and create.
   
-  AI features in JetBrains IDEs, developed by the IntelliJ AI team, have quickly become a core part of how developers work inside our IDEs. The IntelliJ AI team partners with product groups across JetBrains to embed advanced AI features that accelerate developer workflows and deliver real value to software engineers.
+  AI features in JetBrains IDEs, developed by the IntelliJ AI
+  team, have quickly become a core part of how developers work
+  inside our IDEs. The IntelliJ AI team partners with product
+  groups across JetBrains to embed advanced AI features that
+  accelerate developer workflows and deliver real value to
+  software engineers.
   
-  We are currently looking to hire a Senior Machine Learning Engineer to help us realize our ambitious vision of creating AI assistance that supports the entire development lifecycle across JetBrains IDEs. If selected, you will join the ML subteam within IntelliJ AI, driving the development of our ML system from end to end by defining evaluation and metrics, shaping context orchestration, and helping product teams tailor AI capabilities to their needs.
+  We are currently looking to hire a Senior Machine Learning
+  Engineer to help us realize our ambitious vision of creating
+  AI assistance that supports the entire development lifecycle
+  across JetBrains IDEs. If selected, you will join the ML
+  subteam within IntelliJ AI, driving the development of our
+  ML system from end to end by defining evaluation and
+  metrics, shaping context orchestration, and helping product
+  teams tailor AI capabilities to their needs.
   
-  **In this role, you will:**
+  In this role, you will:
   
-  - Design and drive evaluation frameworks for AI features, including metrics, experiments, and agent trace analysis.
+  - Design and drive evaluation frameworks for AI features,
+    including metrics, experiments, and agent trace analysis.
+  - Diagnose model performance issues (e.g. prompt drift,
+    context mismatches, and latency/quality trade-offs) and
+    translate findings into actionable improvements.
+  - Experiment with contexts and lightweight models to
+    continuously develop our ML system.
+  - Act as the ML liaison for product teams across JetBrains,
+    adapting and scaling AI capabilities in JetBrains IDEs to
+    their needs.
+  - Build and maintain small helper models (e.g. re-rankers,
+    classifiers, embedding models) to support domain-specific
+    tasks.
+  - Collaborate with colleagues in ML, product, engineering, and
+    analytic teams to deliver improvements and monitor their
+    impact in production.
+  - Stay up to date with research in the fields of LLMs, agents,
+    and evaluation, bringing best practices into our
+    workflows.
+  - Mentor junior engineers and help shape team culture,
+    processes, and tooling around experimentation and
+    evaluation.
   
-  - Diagnose model performance issues (e.g. prompt drift, context mismatches, and latency/quality trade-offs) and translate findings into actionable improvements.
+  We’d be happy to have you on our team if you:
   
-  - Experiment with contexts and lightweight models to continuously develop our ML system.
-  
-  - Act as the ML liaison for product teams across JetBrains, adapting and scaling AI capabilities in JetBrains IDEs to their needs.
-  
-  - Build and maintain small helper models (e.g. re-rankers, classifiers, embedding models) to support domain-specific tasks.
-  
-  - Collaborate with colleagues in ML, product, engineering, and analytic teams to deliver improvements and monitor their impact in production.
-  
-  - Stay up to date with research in the fields of LLMs, agents, and evaluation, bringing best practices into our workflows.
-  
-  - Mentor junior engineers and help shape team culture, processes, and tooling around experimentation and evaluation.
-  
-  **We’d be happy to have you on our team if you: **
-  
-  - Have 5+ years of experience as an ML Engineer, with a solid background in production-grade ML systems (especially LLMs and agent architectures).
-  
+  - Have 5+ years of experience as an ML Engineer, with a solid
+    background in production-grade ML systems (especially LLMs
+    and agent architectures).
   - Have experience with LLM evaluation methods and frameworks.
-  
-  - Can design and run end-to-end experiments – hypotheses, metrics, data collection (including traces/logs), analysis, and decision-making.
-  
-  - Are skilled in context-aware pipelines or conversational/agent systems.
-  
+  - Can design and run end-to-end experiments – hypotheses,
+    metrics, data collection (including traces/logs),
+    analysis, and decision-making.
+  - Are skilled in context-aware pipelines or
+    conversational/agent systems.
   - Have strong Python programming skills.
+  - Bring hands-on experience in fine-tuning or training smaller
+    models (e.g. domain-specific fine-tuning and lightweight
+    customizations).
+  - Communicate clearly and effectively across teams,
+    translating ML/AI insights into product features.
+  - Have prior mentorship experience with ML/evaluation
+    engineers.
+  - Thrive in a cross-functional, fast-moving environment,
+    taking ownership, iterating quickly, and delivering
+    results.
   
-  - Bring hands-on experience in fine-tuning or training smaller models (e.g. domain-specific fine-tuning and lightweight customizations).
+  We’d be especially thrilled if you have:
   
-  - Communicate clearly and effectively across teams, translating ML/AI insights into product features.
-  
-  - Have prior mentorship experience with ML/evaluation engineers.
-  
-  - Thrive in a cross-functional, fast-moving environment, taking ownership, iterating quickly, and delivering results.
-  
-  **We’d be especially thrilled if you have: **
-  
-  - Familiarity with agent-based systems and orchestrating multi-step reasoning agents.
-  
+  - Familiarity with agent-based systems and orchestrating
+    multi-step reasoning agents.
   - Experience with the Kotlin programming language.
   
   #LI-MR1
   
-  *We process the data provided in your job application in accordance with the Recruitment Privacy Policy.*
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
 posted_date: 2026-01-11
 url: https://builtin.com/job/senior-machine-learning-engineer-intellij-ai/8006782
 source: Built In

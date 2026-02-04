@@ -17,205 +17,244 @@ skills:
   - Qdrant
 company_size: 95 Employees
 description: |
-  **WHO WE ARE:** MagicSchool is the premier generative AI platform for teachers. We're just over 2 years old, and more than 7 million teachers from all over the world have joined our platform. Join a top team at a fast growing company that is working towards real social impact. Make an account and try us out at our website and connect with our passionate community on our Wall of Love.
-  
-  **The Role**
-  
-  As a Staff AI Engineer specializing in RAG, Knowledge Graphs, and Memory Systems, you'll architect the information infrastructure that powers MagicSchool's AI agents. You'll design and build the knowledge organization, retrieval, and memory systems that determine what educational content our agents can access, how they navigate complex curriculum relationships, and how they maintain coherent understanding across extended teaching workflows serving millions of educators.
-  
-  This is a high-impact IC role where you'll define how educational knowledge is structured, indexed, embedded, and retrieved for AI consumption, mentor engineers on advanced retrieval and graph systems, and ensure our agents can reason over rich educational content with precision and reliability.
-  
-  **What You'll Do**
-  
-  **Knowledge Graph & Semantic Architecture**
-  
-  - 
-  
-  **Knowledge Graph Design**: Architect and implement graph-based knowledge systems (Neo4j, Neptune, etc) that represent educational content relationships, standards alignments, prerequisite chains, curriculum coherence, learning progressions, and pedagogical connections. Thus enabling agents to reason over structured educational knowledge.
-  
-  - 
-  
-  **Graph Schema & Ontology Development**: Design and evolve ontologies and schemas for educational content, defining entity types (standards, concepts, skills, assessments), relationship semantics, and property models that support both human comprehension and AI reasoning.
-  
-  - 
-  
-  **GraphRAG Implementation**: Build GraphRAG systems that combine knowledge graph traversal with vector similarity, enabling agents to retrieve not just similar content but contextually connected educational materials through semantic and structural relationships.
-  
-  **Retrieval Pipeline Architecture**
-  
-  - 
-  
-  **Advanced RAG Systems**: Architect and implement sophisticated retrieval-augmented generation pipelines including hybrid search (dense + sparse), multi-stage retrieval, reranking strategies, and query understanding that surface the most relevant educational content for agent reasoning.
-  
-  - 
-  
-  **Embedding & Vectorization Strategy**: Design and operationalize embedding pipelines for educational content, selecting and fine-tuning embedding models, implementing chunking strategies appropriate for curriculum materials, and managing vector stores at scale for fast, accurate retrieval.
-  
-  - 
-  
-  **Retrieval Evaluation & Optimization**: Design evaluation pipelines that measure retrieval precision, recall, MRR, and NDCG across educational content types. Continuously optimize retrieval quality through experimentation with embedding models, chunking strategies, and ranking algorithms.
-  
-  **Document Ingestion & Processing**
-  
-  - 
-  
-  **Content Ingestion Pipelines**: Build robust ingestion systems that process structured (standards documents, curriculum frameworks, JSON) and unstructured (PDFs, lesson plans, textbooks) educational content, extracting entities, relationships, and metadata for knowledge base population.
-  
-  - 
-  
-  **Semantic Parsing & Extraction**: Implement NLP pipelines for educational content that extract key concepts, prerequisite relationships, learning objectives, and pedagogical metadata, enriching raw content with structured annotations for improved retrieval and reasoning.
-  
-  **Memory & Context Management**
-  
-  - 
-  
-  **Long-Horizon Memory Systems**: Invent and operationalize memory compaction mechanisms, session state management, and cross-conversation memory patterns that allow agents to maintain coherence across extended teaching workflows while respecting token budgets.
-  
-  - 
-  
-  **Context Evaluation & Monitoring**: Design evaluation frameworks that measure retrieval precision, token relevance, attention allocation, and reasoning coherence as context evolves across sessions. Work with the evaluations team on detecting context degradation and retrieval failures.
-  
-  **Cross-Functional & Educational Domain Collaboration**
-  
-  - 
-  
-  **Cross-Functional Collaboration**: Partner with Product, Research, and Educators to understand content relationships, retrieval requirements, and context needs across different teaching scenarios, translating domain expertise into technical architecture.
-  
-  - 
-  
-  **Model & Platform Integration**: Collaborate with ML researchers / evaluations team and context engineers to co-design architectures that integrate knowledge graphs, vector stores, and retrieval systems with agent runtimes and LLM inference pipelines.
-  
-  **Mentorship & Standards**
-  
-  - 
-  
-  **Technical Mentorship**: Guide engineers on knowledge graph design, RAG architecture patterns, embedding strategies, and retrieval optimization, elevating the team's capability in building knowledge-intensive AI systems.
-  
-  **What We're Looking For**
-  - 
-  
-  **Deep Knowledge Systems Experience**: 5+ years building large-scale information systems with at least 2+ years in staff/senior roles. Extensive hands-on experience with RAG systems, knowledge graphs, or semantic search platforms in production environments.
-  
-  - 
-  
-  **Graph Database Expertise**: Deep experience with graph databases (Neo4j, Neptune, or similar), including schema design, query optimization (Cypher, Gremlin), and building graph-based applications. Understanding of when graph structures provide advantages over relational or vector-only approaches.
-  
-  - 
-  
-  **RAG & Retrieval Mastery**: Demonstrated expertise building production RAG systems including embedding selection, chunking strategies, hybrid search, reranking, and retrieval evaluation. Familiarity with vector databases (pgvector, Pinecone, Weaviate, Qdrant) and their performance characteristics.
-  
-  - 
-  
-  **Embedding & NLP Background**: Strong understanding of embedding models (sentence transformers, domain-specific embeddings), fine-tuning approaches, and semantic similarity. Experience with document processing, entity extraction, and text chunking for optimal retrieval.
-  
-  - 
-  
-  **Technical Stack**: Strong coding skills in Python and/or TypeScript/Node.js. Experience with our stack (TypeScript, Node.js, PostgreSQL, NextJS, Supabase) plus graph databases and vector stores. Familiarity with LLM APIs and context management patterns.
-  
-  - 
-  
-  **Information Architecture**: Deep understanding of information retrieval theory, semantic search, knowledge representation, and strategies for organizing complex domain knowledge for both human and AI consumption.
-  
-  - 
-  
-  **Leadership & Impact**: Track record of architecting complex knowledge systems, making high-leverage technical decisions about information architecture, and mentoring engineers on sophisticated retrieval and graph concepts.
-  
-  **Nice to Have**
-  - 
-  
-  **Educational Context Awareness**: Understanding of or interest in how educational content is structured (standards, curricula, learning progressions), curriculum relationships, and how knowledge organization differs across teaching scenarios.
-  
-  - 
-  
-  Experience with GraphRAG, knowledge graph embeddings (node2vec, TransE), or graph neural networks for link prediction and entity resolution
-  
-  - 
-  
-  Familiarity with educational knowledge graphs, standards alignment systems (CASE framework), or EdTech content taxonomies
-  
-  - 
-  
-  Background in semantic web technologies (RDF, OWL, SPARQL), ontology engineering, or knowledge graph construction from unstructured text
-  
-  - 
-  
-  Experience with model context protocol (MCP) for tool-based retrieval, or building context-aware agent frameworks
-  
-  - 
-  
-  Knowledge of curriculum standards, learning science, or educational metadata schemas (LOM, schema.org/LearningResource)
-  
-  - 
-  
-  Experience with fine-tuning embedding models for domain-specific retrieval or building learned sparse retrievers
-  
-  **Application Notice:**
-  
-  **Notice: Priority Deadline and Review Start Date**
-  
-  Please note that applications for this position will be accepted until 2/8/26 - applications received after this date will be reviewed on an intermittent basis. While we encourage early submissions, all applications received by the priority deadline will receive equal consideration. Thank you for your interest, and we look forward to reviewing your application.
-  
-  **Why Join Us?**
-  
-  - 
-  
-  Work on cutting-edge AI technology that directly impacts educators and students.
-  
-  - 
-  
-  Join a mission-driven team passionate about making education more efficient and equitable.
-  
-  - 
-  
-  Flexibility of working from home, while fostering a unique culture built on relationships, trust, communication, and collaboration with our team - no matter where they live.
-  
-  **For full time employees:**
-  
-  - 
-  
-  Unlimited time off to empower our employees to manage their work-life balance. We work hard for our teachers and users, and encourage our employees to rest and take the time they need.
-  
-  - 
-  
-  Choice of employer-paid health insurance plans so that you can take care of yourself and your family. Dental and vision are also offered at very low premiums.
-  
-  - 
-  
-  Every employee is offered generous stock options, vested over 4 years.
-  
-  - 
-  
-  401k match & monthly wellness stipend.
-  
-  **Our Values:**
-  
-  - 
-  
-  **Educators are Magic:**  Educators are the most important ingredient in the educational process - they are the magic, not the AI. Trust them, empower them, and put them at the center of leading change in service of students and families.
-  
-  - 
-  
-  **Joy and Magic:** Bring joy and magic into every learning experience - push the boundaries of what’s possible with AI.
-  
-  - 
-  
-  **Community:**  Foster community that supports one another during a time of rapid technological change. Listen to them and serve their needs.
-  
-  - 
-  
-  **Innovation:**  The education system is outdated and in need of innovation and change - AI is an opportunity to bring equity, access, and serve the individual needs of students better than we ever have before.
-  
-  - 
-  
-  **Responsibility:** Put responsibility and safety at the forefront of the technological change that AI is bringing to education.
-  
-  - 
-  
-  **Diversity:** Diversity of thought, perspectives, and backgrounds helps us serve the wide audience of educators and students around the world.
-  
-  - 
-  
-  **Excellence:**  Educators and students deserve the best - and we strive for the highest quality in everything we do.
+  WHO WE ARE: MagicSchool is the premier generative AI
+  platform for teachers. We're just over 2 years old, and more
+  than 7 million teachers from all over the world have joined
+  our platform. Join a top team at a fast growing company that
+  is working towards real social impact. Make an account and
+  try us out at our website and connect with our passionate
+  community on our Wall of Love.
+  
+  The Role
+  
+  As a Staff AI Engineer specializing in RAG, Knowledge
+  Graphs, and Memory Systems, you'll architect the information
+  infrastructure that powers MagicSchool's AI agents. You'll
+  design and build the knowledge organization, retrieval, and
+  memory systems that determine what educational content our
+  agents can access, how they navigate complex curriculum
+  relationships, and how they maintain coherent understanding
+  across extended teaching workflows serving millions of
+  educators.
+  
+  This is a high-impact IC role where you'll define how
+  educational knowledge is structured, indexed, embedded, and
+  retrieved for AI consumption, mentor engineers on advanced
+  retrieval and graph systems, and ensure our agents can
+  reason over rich educational content with precision and
+  reliability.
+  
+  What You'll Do
+  
+  Knowledge Graph & Semantic Architecture
+  
+  - Knowledge Graph Design: Architect and implement graph-based
+    knowledge systems (Neo4j, Neptune, etc) that represent
+    educational content relationships, standards alignments,
+    prerequisite chains, curriculum coherence, learning
+    progressions, and pedagogical connections. Thus enabling
+    agents to reason over structured educational knowledge.
+  - Graph Schema & Ontology Development: Design and evolve
+    ontologies and schemas for educational content, defining
+    entity types (standards, concepts, skills, assessments),
+    relationship semantics, and property models that support
+    both human comprehension and AI reasoning.
+  - GraphRAG Implementation: Build GraphRAG systems that combine
+    knowledge graph traversal with vector similarity, enabling
+    agents to retrieve not just similar content but
+    contextually connected educational materials through
+    semantic and structural relationships.
+  
+  Retrieval Pipeline Architecture
+  
+  - Advanced RAG Systems: Architect and implement sophisticated
+    retrieval-augmented generation pipelines including hybrid
+    search (dense + sparse), multi-stage retrieval, reranking
+    strategies, and query understanding that surface the most
+    relevant educational content for agent reasoning.
+  - Embedding & Vectorization Strategy: Design and
+    operationalize embedding pipelines for educational
+    content, selecting and fine-tuning embedding models,
+    implementing chunking strategies appropriate for
+    curriculum materials, and managing vector stores at scale
+    for fast, accurate retrieval.
+  - Retrieval Evaluation & Optimization: Design evaluation
+    pipelines that measure retrieval precision, recall, MRR,
+    and NDCG across educational content types. Continuously
+    optimize retrieval quality through experimentation with
+    embedding models, chunking strategies, and ranking
+    algorithms.
+  
+  Document Ingestion & Processing
+  
+  - Content Ingestion Pipelines: Build robust ingestion systems
+    that process structured (standards documents, curriculum
+    frameworks, JSON) and unstructured (PDFs, lesson plans,
+    textbooks) educational content, extracting entities,
+    relationships, and metadata for knowledge base population.
+  - Semantic Parsing & Extraction: Implement NLP pipelines for
+    educational content that extract key concepts,
+    prerequisite relationships, learning objectives, and
+    pedagogical metadata, enriching raw content with
+    structured annotations for improved retrieval and
+    reasoning.
+  
+  Memory & Context Management
+  
+  - Long-Horizon Memory Systems: Invent and operationalize
+    memory compaction mechanisms, session state management,
+    and cross-conversation memory patterns that allow agents
+    to maintain coherence across extended teaching workflows
+    while respecting token budgets.
+  - Context Evaluation & Monitoring: Design evaluation
+    frameworks that measure retrieval precision, token
+    relevance, attention allocation, and reasoning coherence
+    as context evolves across sessions. Work with the
+    evaluations team on detecting context degradation and
+    retrieval failures.
+  
+  Cross-Functional & Educational Domain Collaboration
+  
+  - Cross-Functional Collaboration: Partner with Product,
+    Research, and Educators to understand content
+    relationships, retrieval requirements, and context needs
+    across different teaching scenarios, translating domain
+    expertise into technical architecture.
+  - Model & Platform Integration: Collaborate with ML
+    researchers / evaluations team and context engineers to
+    co-design architectures that integrate knowledge graphs,
+    vector stores, and retrieval systems with agent runtimes
+    and LLM inference pipelines.
+  
+  Mentorship & Standards
+  
+  - Technical Mentorship: Guide engineers on knowledge graph
+    design, RAG architecture patterns, embedding strategies,
+    and retrieval optimization, elevating the team's
+    capability in building knowledge-intensive AI systems.
+  
+  What We're Looking For
+  
+  - Deep Knowledge Systems Experience: 5+ years building large-
+    scale information systems with at least 2+ years in
+    staff/senior roles. Extensive hands-on experience with RAG
+    systems, knowledge graphs, or semantic search platforms in
+    production environments.
+  - Graph Database Expertise: Deep experience with graph
+    databases (Neo4j, Neptune, or similar), including schema
+    design, query optimization (Cypher, Gremlin), and building
+    graph-based applications. Understanding of when graph
+    structures provide advantages over relational or vector-
+    only approaches.
+  - RAG & Retrieval Mastery: Demonstrated expertise building
+    production RAG systems including embedding selection,
+    chunking strategies, hybrid search, reranking, and
+    retrieval evaluation. Familiarity with vector databases
+    (pgvector, Pinecone, Weaviate, Qdrant) and their
+    performance characteristics.
+  - Embedding & NLP Background: Strong understanding of
+    embedding models (sentence transformers, domain-specific
+    embeddings), fine-tuning approaches, and semantic
+    similarity. Experience with document processing, entity
+    extraction, and text chunking for optimal retrieval.
+  - Technical Stack: Strong coding skills in Python and/or
+    TypeScript/Node.js. Experience with our stack (TypeScript,
+    Node.js, PostgreSQL, NextJS, Supabase) plus graph
+    databases and vector stores. Familiarity with LLM APIs and
+    context management patterns.
+  - Information Architecture: Deep understanding of information
+    retrieval theory, semantic search, knowledge
+    representation, and strategies for organizing complex
+    domain knowledge for both human and AI consumption.
+  - Leadership & Impact: Track record of architecting complex
+    knowledge systems, making high-leverage technical
+    decisions about information architecture, and mentoring
+    engineers on sophisticated retrieval and graph concepts.
+  
+  Nice to Have
+  
+  - Educational Context Awareness: Understanding of or interest
+    in how educational content is structured (standards,
+    curricula, learning progressions), curriculum
+    relationships, and how knowledge organization differs
+    across teaching scenarios.
+  - Experience with GraphRAG, knowledge graph embeddings
+    (node2vec, TransE), or graph neural networks for link
+    prediction and entity resolution
+  - Familiarity with educational knowledge graphs, standards
+    alignment systems (CASE framework), or EdTech content
+    taxonomies
+  - Background in semantic web technologies (RDF, OWL, SPARQL),
+    ontology engineering, or knowledge graph construction from
+    unstructured text
+  - Experience with model context protocol (MCP) for tool-based
+    retrieval, or building context-aware agent frameworks
+  - Knowledge of curriculum standards, learning science, or
+    educational metadata schemas (LOM,
+    schema.org/LearningResource)
+  - Experience with fine-tuning embedding models for domain-
+    specific retrieval or building learned sparse retrievers
+  
+  Application Notice:
+  
+  Notice: Priority Deadline and Review Start Date
+  
+  Please note that applications for this position will be
+  accepted until 2/8/26 - applications received after this
+  date will be reviewed on an intermittent basis. While we
+  encourage early submissions, all applications received by
+  the priority deadline will receive equal consideration.
+  Thank you for your interest, and we look forward to
+  reviewing your application.
+  
+  Why Join Us?
+  
+  - Work on cutting-edge AI technology that directly impacts
+    educators and students.
+  - Join a mission-driven team passionate about making education
+    more efficient and equitable.
+  - Flexibility of working from home, while fostering a unique
+    culture built on relationships, trust, communication, and
+    collaboration with our team - no matter where they live.
+  
+  For full time employees:
+  
+  - Unlimited time off to empower our employees to manage their
+    work-life balance. We work hard for our teachers and
+    users, and encourage our employees to rest and take the
+    time they need.
+  - Choice of employer-paid health insurance plans so that you
+    can take care of yourself and your family. Dental and
+    vision are also offered at very low premiums.
+  - Every employee is offered generous stock options, vested
+    over 4 years.
+  - 401k match & monthly wellness stipend.
+  
+  Our Values:
+  
+  - Educators are Magic:  Educators are the most important
+    ingredient in the educational process - they are the
+    magic, not the AI. Trust them, empower them, and put them
+    at the center of leading change in service of students and
+    families.
+  - Joy and Magic: Bring joy and magic into every learning
+    experience - push the boundaries of what’s possible with
+    AI.
+  - Community:  Foster community that supports one another
+    during a time of rapid technological change. Listen to
+    them and serve their needs.
+  - Innovation:  The education system is outdated and in need of
+    innovation and change - AI is an opportunity to bring
+    equity, access, and serve the individual needs of students
+    better than we ever have before.
+  - Responsibility: Put responsibility and safety at the
+    forefront of the technological change that AI is bringing
+    to education.
+  - Diversity: Diversity of thought, perspectives, and
+    backgrounds helps us serve the wide audience of educators
+    and students around the world.
+  - Excellence:  Educators and students deserve the best - and
+    we strive for the highest quality in everything we do.
 industries:
   - Artificial Intelligence
   - Edtech

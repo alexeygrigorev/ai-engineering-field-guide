@@ -11,69 +11,112 @@ skills:
   - Python
 company_size: 154 Employees
 description: |
-  Tidal Financial Group is a leading ETF investment technology platform dedicated to creating, operating, and growing ETFs. We combine expertise and innovative partnership approaches to offer comprehensive, value-generating ETF solutions. Our platform offers best-in-class strategic guidance, product planning, trust and fund services, legal support, operations support, marketing and research, and sales and distribution services.
+  Tidal Financial Group is a leading ETF investment technology
+  platform dedicated to creating, operating, and growing ETFs.
+  We combine expertise and innovative partnership approaches
+  to offer comprehensive, value-generating ETF solutions. Our
+  platform offers best-in-class strategic guidance, product
+  planning, trust and fund services, legal support, operations
+  support, marketing and research, and sales and distribution
+  services.
   
-  ****Role summary****
+  Role summary
   
-  Tidal is an ETF investment and technology platform that helps partners create, operate, and grow ETFs across the ETF lifecycle—from strategy and product planning to operations, regulatory/compliance, trading support, and distribution. We’re hiring an AI Lead to own the end-to-end delivery of production AI solutions across the organization.
+  Tidal is an ETF investment and technology platform that
+  helps partners create, operate, and grow ETFs across the ETF
+  lifecycle—from strategy and product planning to operations,
+  regulatory/compliance, trading support, and distribution.
+  We’re hiring an AI Lead to own the end-to-end delivery of
+  production AI solutions across the organization.
   
-  You will define and execute AI strategy, build and ship high-impact solutions, establish the standards and governance for secure AI in a regulated environment, and build a high-performing team over time.
+  You will define and execute AI strategy, build and ship
+  high-impact solutions, establish the standards and
+  governance for secure AI in a regulated environment, and
+  build a high-performing team over time.
   
-  **
+  Key Responsibilities
   
-  **Key Responsibilities****
+  Qualifications
   
-  ****Qualifications****
+  AI solution delivery: Design, develop, and deploy LLM-
+  powered applications, including retrieval (RAG/hybrid),
+  intelligent automation, and agentic AI. Deliver production-
+  grade systems that integrate with existing data sources,
+  internal APIs, and operational tools.
   
-  ****AI solution delivery:**** Design, develop, and deploy LLM-powered applications, including retrieval (RAG/hybrid), intelligent automation, and agentic AI. Deliver production-grade systems that integrate with existing data sources, internal APIs, and operational tools.
+  Model development Lead the definition, development, and
+  delivery of machine learning models and AI solutions,
+  including training/fine-tuning, evaluation, and deployment
+  in cloud environments (AWS-first; additional cloud
+  experience is a plus).
   
-  ****Model development ****Lead the definition, development, and delivery of machine learning models and AI solutions, including training/fine-tuning, evaluation, and deployment in cloud environments (AWS-first; additional cloud experience is a plus).
+   Engineering ownership: Lead the testing, deployment, and
+  ongoing maintenance of AI systems, including operational
+  runbooks, support processes, and reliability improvements.
   
-   ****Engineering ownership:**** Lead the testing, deployment, and ongoing maintenance of AI systems, including operational runbooks, support processes, and reliability improvements.
+  Performance and cost optimization: Optimize AI systems for
+  performance, scalability, latency, and cost (model
+  selection/routing, caching, batching, and other
+  architectural techniques).
   
-  ****Performance and cost optimization:**** Optimize AI systems for performance, scalability, latency, and cost (model selection/routing, caching, batching, and other architectural techniques).
+   Architecture & collaboration: Partner with data and
+  engineering leads to architect AI-powered systems end-to-end
+  (data pipelines, permissions, service boundaries,
+  integrations, and operational controls).
   
-   ****Architecture & collaboration:**** Partner with data and engineering leads to architect AI-powered systems end-to-end (data pipelines, permissions, service boundaries, integrations, and operational controls).
+   Evaluation & reliability: Establish evaluation frameworks,
+  monitoring, and observability to ensure AI systems perform
+  accurately and reliably. Build test datasets, track quality
+  metrics, detect drift, and implement regression prevention.
+  In fund operations, incorrect outputs carry real
+  consequences.
   
-   ****Evaluation & reliability:**** Establish evaluation frameworks, monitoring, and observability to ensure AI systems perform accurately and reliably. Build test datasets, track quality metrics, detect drift, and implement regression prevention. In fund operations, incorrect outputs carry real consequences.
+   Cross-functional partnership: Collaborate with business
+  teams to identify automation opportunities and translate
+  requirements into technical solutions. Prioritize
+  initiatives based on operational impact, risk, and
+  feasibility.
   
-   ****Cross-functional partnership:**** Collaborate with business teams to identify automation opportunities and translate requirements into technical solutions. Prioritize initiatives based on operational impact, risk, and feasibility.
+  Technical standards: Define architecture patterns,
+  development standards, and reusable components that enable
+  AI delivery to scale beyond individual projects. Evaluate
+  emerging technologies and recommend adoption paths when they
+  create measurable advantage.
   
-  ****Technical standards:**** Define architecture patterns, development standards, and reusable components that enable AI delivery to scale beyond individual projects. Evaluate emerging technologies and recommend adoption paths when they create measurable advantage.
   
-  **** ****
   
-  ****Required****
+  Required
   
-  - 8+ years building production software systems, including technical leadership on complex initiatives.
+  - 8+ years building production software systems, including
+    technical leadership on complex initiatives.
+  - Proven experience shipping LLM-based applications to
+    production (beyond prototypes), including:
+    - retrieval (RAG/hybrid), vector search patterns, and
+      grounding
+    - structured outputs and validation
+    - evaluation/monitoring and regression prevention
+  - Strong Python development skills and experience building
+    APIs/services.
+  - Experience deploying secure, observable systems in AWS
+    (e.g., IAM, logging/monitoring, CI/CD; specific services
+    may vary).
+  - Hands-on experience integrating LLMs via APIs/SDKs across
+    one or more providers (commercial and/or open-source),
+    including model selection and safe usage patterns.
   
-  - Proven experience shipping LLM-based applications to production (beyond prototypes), including:
+  Preferred
   
-  - retrieval (RAG/hybrid), vector search patterns, and grounding
-  
-  - structured outputs and validation
-  
-  - evaluation/monitoring and regression prevention
-  
-  - Strong Python development skills and experience building APIs/services.
-  
-  - Experience deploying secure, observable systems in AWS (e.g., IAM, logging/monitoring, CI/CD; specific services may vary).
-  
-  - Hands-on experience integrating LLMs via APIs/SDKs across one or more providers (commercial and/or open-source), including model selection and safe usage patterns.
-  
-  ****Preferred****
-  
-  - Experience in financial services, asset management, or similarly regulated industries.
-  
-  - Experience implementing automation with approvals, controlled documents, and audit trails.
-  
-  - Experience with multi-model strategies (provider selection, routing, fallback patterns).
-  
-  - Experience building internal platforms or reusable AI components (shared libraries, templates, evaluation harnesses).
-  
-  - Familiarity with AI governance practices and model risk documentation.
-  
-  **** ****
+  - Experience in financial services, asset management, or
+    similarly regulated industries.
+  - Experience implementing automation with approvals,
+    controlled documents, and audit trails.
+  - Experience with multi-model strategies (provider selection,
+    routing, fallback patterns).
+  - Experience building internal platforms or reusable AI
+    components (shared libraries, templates, evaluation
+    harnesses).
+  - Familiarity with AI governance practices and model risk
+    documentation.
 industries:
   - Fintech
   - Software

@@ -17,118 +17,106 @@ skills:
   - SQL
 company_size: 386 Employees
 description: |
-  ****Why Socure?****
+  Why Socure?
   
-  Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.
+  Socure is building the identity trust infrastructure for the
+  digital economy — verifying 100% of good identities in real
+  time and stopping fraud before it starts. The mission is
+  big, the problems are complex, and the impact is felt by
+  businesses, governments, and millions of people every day.
   
-  We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.
+  We hire people who want that level of responsibility. People
+  who move fast, think critically, act like owners, and care
+  deeply about solving customer problems with precision. If
+  you want predictability or narrow scope, this won’t be your
+  place. If you want to help build the future of identity with
+  a team that holds a high bar for itself — keep reading.
   
-  **About the Role**
+  About the Role
   
-  As a Senior Software Engineer on Socure’s AI Platform team, you’ll design and build infrastructure that supports model training, validation, deployment, and serving at scale. You will work with modern AWS-native technologies, focusing on low-latency microservices, automated pipelines, and robust deployment workflows to enable safe and efficient delivery of machine learning models into production.
+  As a Senior Software Engineer on Socure’s AI Platform team,
+  you’ll design and build infrastructure that supports model
+  training, validation, deployment, and serving at scale. You
+  will work with modern AWS-native technologies, focusing on
+  low-latency microservices, automated pipelines, and robust
+  deployment workflows to enable safe and efficient delivery
+  of machine learning models into production.
   
-  This role is ideal for someone who enjoys building platforms and tools that abstract complexity for ML and data science teams, and who thrives in fast-paced environments where engineering excellence and reliability are paramount.**
-  **What You'll Do****
-  - 
+  This role is ideal for someone who enjoys building platforms
+  and tools that abstract complexity for ML and data science
+  teams, and who thrives in fast-paced environments where
+  engineering excellence and reliability are paramount.
   
-  Build and maintain scalable systems and infrastructure for deploying and serving ML models.
+  What You'll Do
   
-  - 
+  - Build and maintain scalable systems and infrastructure for
+    deploying and serving ML models.
+  - Design low-latency, fault-tolerant model inference systems
+    using Amazon SageMaker.
+  - Implement safe deployment strategies like blue/green
+    deployments and rollbacks.
+  - Create and manage CI/CD pipelines for ML workflows.
+  - Monitor model performance and system health using AWS
+    observability tools (e.g., CloudWatch).
+  - Develop internal tools and APIs to help ML teams deploy and
+    monitor models easily.
+  - Collaborate with ML engineers, data scientists, and DevOps
+    to productionize new models.
+  - Participate in code reviews, system design, and platform
+    roadmap discussions.
+  - Continuously improve deployment reliability, speed, and
+    usability of the ML platform.
   
-  Design low-latency, fault-tolerant model inference systems using Amazon SageMaker.
+  What You Bring
   
-  - 
+  - 4+ years of experience as a software engineer, with at least
+    2 years focused on low latency and highly available
+    backend systems.
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, AI, Machine Learning, or a related field with a
+    strong academic record.
+  - Strong fundamentals in data structures, algorithms, and
+    distributed computing principles.
+  - Strong analytical and problem-solving skills, with a passion
+    for AI and machine learning.
+  - Strong programming skills in Python; familiarity with
+    Go/Rust is a plus.
+  - Hands-on experience with model systems including low latency
+    model serving, registry, and pipeline
+    orchestration(preferably SageMaker)
+  - Solid understanding of MLOps best practices, including model
+    versioning, testing, deployment, and reproducibility.
+  - Experience building and maintaining CI/CD pipelines for ML
+    workflows.
+  - Experience with ML frameworks such as TensorFlow, PyTorch,
+    or Scikit-learn.
+  - Experience with database technologies (SQL, NoSQL, or data
+    warehouses like Snowflake or Redshift).
   
-  Implement safe deployment strategies like blue/green deployments and rollbacks.
+  Preferred Qualifications
   
-  - 
+  - Experience building internal ML platform services or self-
+    service tooling for model deployment and monitoring.
+  - Understanding of model optimization techniques (e.g.,
+    TorchScript, ONNX, quantization, batching).
+  - Experience with feature stores, real-time feature serving,
+    or caching systems for ML workloads.
+  - Background in deploying ML models into high-availability,
+    mission-critical environments.
   
-  Create and manage CI/CD pipelines for ML workflows.
+  Please note that Socure cannot provide sponsorship now or in
+  the future for this opening.
   
-  - 
+  Socure is an equal opportunity employer that values
+  diversity in all its forms within our company. We do not
+  discriminate based on race, religion, color, national
+  origin, gender, sexual orientation, age, marital status,
+  veteran status, or disability status. If you need an
+  accommodation during any stage of the application or hiring
+  process—including interview or onboarding support—please
+  reach out to your Socure recruiting partner directly.
   
-  Monitor model performance and system health using AWS observability tools (e.g., CloudWatch).
-  
-  - 
-  
-  Develop internal tools and APIs to help ML teams deploy and monitor models easily.
-  
-  - 
-  
-  Collaborate with ML engineers, data scientists, and DevOps to productionize new models.
-  
-  - 
-  
-  Participate in code reviews, system design, and platform roadmap discussions.
-  
-  - 
-  
-  Continuously improve deployment reliability, speed, and usability of the ML platform.
-  
-  ****What You Bring****
-  - 
-  
-  4+ years of experience as a software engineer, with at least 2 years focused on low latency and highly available backend systems.
-  
-  - 
-  
-  Bachelor’s or Master’s degree in Computer Science, Data Science, AI, Machine Learning, or a related field with a strong academic record.
-  
-  - 
-  
-  Strong fundamentals in data structures, algorithms, and distributed computing principles.
-  
-  - 
-  
-  Strong analytical and problem-solving skills, with a passion for AI and machine learning.
-  
-  - 
-  
-  Strong programming skills in Python; familiarity with Go/Rust is a plus.
-  
-  - 
-  
-  Hands-on experience with model systems including low latency model serving, registry, and pipeline orchestration(preferably SageMaker)
-  
-  - 
-  
-  Solid understanding of MLOps best practices, including model versioning, testing, deployment, and reproducibility.
-  
-  - 
-  
-  Experience building and maintaining CI/CD pipelines for ML workflows.
-  
-  - 
-  
-  Experience with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
-  
-  - 
-  
-  Experience with database technologies (SQL, NoSQL, or data warehouses like Snowflake or Redshift).
-  
-  ****Preferred Qualifications****
-  - 
-  
-  Experience building internal ML platform services or self-service tooling for model deployment and monitoring.
-  
-  - 
-  
-  Understanding of model optimization techniques (e.g., TorchScript, ONNX, quantization, batching).
-  
-  - 
-  
-  Experience with feature stores, real-time feature serving, or caching systems for ML workloads.
-  
-  - 
-  
-  Background in deploying ML models into high-availability, mission-critical environments.
-  
-  *Please note that Socure cannot provide sponsorship now or in the future for this opening*.
-  
-  *Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-  If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.*
-  
-  **Follow Us!**
+  Follow Us!
   
   YouTube | LinkedIn | X (Twitter) | Facebook
 industries:

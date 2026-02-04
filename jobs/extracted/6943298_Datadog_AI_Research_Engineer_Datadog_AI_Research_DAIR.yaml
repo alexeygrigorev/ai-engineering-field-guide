@@ -16,115 +16,186 @@ skills:
   - Slurm
 company_size: 6,500 Employees
 description: |
-  As a research engineer on our team, you will partner with research scientists to turn research ideas into working systems; building the data, tooling, and infrastructure that enable rapid iteration, trustworthy evaluation, and a smooth path from prototype to production.
+  As a research engineer on our team, you will partner with
+  research scientists to turn research ideas into working
+  systems; building the data, tooling, and infrastructure that
+  enable rapid iteration, trustworthy evaluation, and a smooth
+  path from prototype to production.
   
-  Building on our proven track record of AI-powered solutions (e.g., Bits AI, Watchdog, and Toto), Datadog AI Research is tackling high-risk, high-reward projects grounded in real-world challenges in cloud observability and security. 
+  Building on our proven track record of AI-powered solutions
+  (e.g., Bits AI, Watchdog, and Toto), Datadog AI Research is
+  tackling high-risk, high-reward projects grounded in real-
+  world challenges in cloud observability and security.
   
   We are currently focused on three key research areas:
   
-  - 
+  - Observability Foundation Models – Building state-of-the-art
+    models for advanced forecasting, anomaly detection, and
+    multi-modal telemetry analysis (logs, metrics, traces,
+    etc.). These models will also provide the foundation for
+    our agents (described below) to natively analyze telemetry
+    data.
+  - Site Reliability Engineering (SRE) Autonomous Agents –
+    Creating AI agents to automatically detect, diagnose, and
+    resolve incidents in production environments, pushing the
+    boundaries of multi-step planning, reasoning, and domain-
+    specific knowledge.
+  - Production Code Repair Agents – Developing agents and models
+    that leverage code, logs, runtime data, and other signals
+    to identify, fix, and even preempt performance issues and
+    security vulnerabilities in production code.
   
-  **Observability Foundation Models** – Building state-of-the-art models for advanced forecasting, anomaly detection, and multi-modal telemetry analysis (logs, metrics, traces, etc.). These models will also provide the foundation for our agents (described below) to natively analyze telemetry data.
   
-  - 
   
-  **Site Reliability Engineering (SRE) Autonomous Agents** – Creating AI agents to automatically detect, diagnose, and resolve incidents in production environments, pushing the boundaries of multi-step planning, reasoning, and domain-specific knowledge.
+  What You’ll Do:
   
-  - 
+  - Build and operate datasets, training and evaluation
+    pipelines, benchmarks, and internal tooling
+  - Implement models, run experiments at scale, and profile for
+    reliability, performance, and cost
+  - Orchestrate distributed training and distributed RL with
+    Ray, including scheduling, scaling, and failure recovery
+  - Make the research stack observable, reproducible, and easier
+    to use
+  - Establish rigorous automated benchmarks and regression tests
+    for forecasting, anomaly detection, multi-modal analysis,
+    agents, and code repair tasks
+  - Collaborate with Research Scientists, Product, and
+    Engineering to integrate advanced AI capabilities into
+    Datadog’s product ecosystem and to harden prototypes into
+    reliable services
+  - Contribute high-quality code, documentation, and open-source
+    artifacts that enable the community and internal teams to
+    reproduce, extend, and evaluate results
   
-  **Production Code Repair Agents** – Developing agents and models that leverage code, logs, runtime data, and other signals to identify, fix, and even preempt performance issues and security vulnerabilities in production code.
   
-   
   
-  **What You’ll Do: **
+  Who You Are:
   
-  - Build and operate datasets, training and evaluation pipelines, benchmarks, and internal tooling
+  - You have strong software engineering skills with experience
+    in domains such as observability, SRE, or security
+  - You have depth in distributed computing and ML systems for
+    training and inference at scale; experience with Ray,
+    Slurm, or similar frameworks is a plus
+  - You are proficient in Python, familiar with a systems
+    language (e.g., Rust, C++, or Go), and you are comfortable
+    with modern cloud and data infrastructure
+  - You have practical experience implementing and operating ML
+    training and inference systems (e.g., PyTorch or JAX),
+    including containerization, orchestration, and GPU
+    acceleration
+  - You are familiar with efficient training, fine-tuning, and
+    inference techniques for large foundation models
+  - You can explain design and performance trade-offs clearly to
+    both technical and non-technical audiences
+  - You have a strong interest in open-science and open-source
+    contributions, including establishing rigorous benchmarks
+    and sharing artifacts with the community
   
-  - Implement models, run experiments at scale, and profile for reliability, performance, and cost
   
-  - Orchestrate distributed training and distributed RL with Ray, including scheduling, scaling, and failure recovery
   
-  - Make the research stack observable, reproducible, and easier to use
+  Bonus Points:
   
-  - Establish rigorous automated benchmarks and regression tests for forecasting, anomaly detection, multi-modal analysis, agents, and code repair tasks
+  - You have a demonstrated ability to bridge cutting-edge
+    research prototypes and real-world product applications,
+    ideally with large foundation models, generative AI
+    agents, or domain-specific LLM deployments
+  - You are passionate about pushing the boundaries of AI while
+    maintaining a strong focus on customer impact,
+    scalability, and responsible deployment of new
+    technologies
+  - You have hands-on experience with GPU programming and
+    optimization, including experience in CUDA
+  - You have experience writing production data pipelines and
+    applications
+  - You have experience supporting or contributing to research
+    publications
   
-  - Collaborate with Research Scientists, Product, and Engineering to integrate advanced AI capabilities into Datadog’s product ecosystem and to harden prototypes into reliable services
+  Datadog values people from all walks of life. We understand
+  not everyone will meet all the above qualifications on day
+  one. That's okay. If you’re passionate about AI Research and
+  want to grow your skills, we encourage you to apply.
   
-  - Contribute high-quality code, documentation, and open-source artifacts that enable the community and internal teams to reproduce, extend, and evaluate results
   
-   
   
-  **Who You Are: **
+  Benefits and Growth:
   
-  - You have strong software engineering skills with experience in domains such as observability, SRE, or security
-  
-  - You have depth in distributed computing and ML systems for training and inference at scale; experience with Ray, Slurm, or similar frameworks is a plus
-  
-  - You are proficient in Python, familiar with a systems language (e.g., Rust, C++, or Go), and you are comfortable with modern cloud and data infrastructure
-  
-  - You have practical experience implementing and operating ML training and inference systems (e.g., PyTorch or JAX), including containerization, orchestration, and GPU acceleration
-  
-  - You are familiar with efficient training, fine-tuning, and inference techniques for large foundation models
-  
-  - You can explain design and performance trade-offs clearly to both technical and non-technical audiences
-  
-  - You have a strong interest in open-science and open-source contributions, including establishing rigorous benchmarks and sharing artifacts with the community
-  
-   
-  
-  **Bonus Points:**
-  
-  - You have a demonstrated ability to bridge cutting-edge research prototypes and real-world product applications, ideally with large foundation models, generative AI agents, or domain-specific LLM deployments
-  
-  - You are passionate about pushing the boundaries of AI while maintaining a strong focus on customer impact, scalability, and responsible deployment of new technologies
-  
-  - You have hands-on experience with GPU programming and optimization, including experience in CUDA
-  
-  - You have experience writing production data pipelines and applications
-  
-  - You have experience supporting or contributing to research publications
-  
-  *Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about AI Research and want to grow your skills, we encourage you to apply. *
-  
-   
-  
-  **Benefits and Growth: **
-  
-  - Competitive global benefits 
-  
-  - New hire stock equity (RSUs) and employee stock purchase plan (ESPP)
-  
-  - Opportunity to collaborate closely with colleagues across the Datadog offices in New York City and Paris
-  
+  - Competitive global benefits
+  - New hire stock equity (RSUs) and employee stock purchase
+    plan (ESPP)
+  - Opportunity to collaborate closely with colleagues across
+    the Datadog offices in New York City and Paris
   - Opportunity to attend and present at conferences and meetups
+  - Intra-departmental mentor and buddy program for in-house
+    networking
+  - An inclusive company culture, ability to join our Community
+    Guilds (Datadog employee resource groups)
   
-  - Intra-departmental mentor and buddy program for in-house networking
+  Benefits and Growth listed above may vary based on the
+  country of your employment and the nature of your employment
+  with Datadog.
   
-  - An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)
   
-  *Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.*
   
-   
+  Datadog offers a competitive salary and equity package, and
+  may include variable compensation. Actual compensation is
+  based on factors such as the candidate's skills,
+  qualifications, and experience. In addition, Datadog offers
+  a wide range of best in class, comprehensive and inclusive
+  employee benefits for this role including healthcare,
+  dental, parental planning, and mental health benefits, a
+  401(k) plan and match, paid time off, fitness
+  reimbursements, and a discounted employee stock purchase
+  plan.
   
-  Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.
-  
-  The reasonably estimated yearly salary for this role at Datadog is:
+  The reasonably estimated yearly salary for this role at
+  Datadog is:
   
   $140,000—$400,000 USD
   
-  **About Datadog: **
+  About Datadog:
   
-  Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers’ entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about #DatadogLife on Instagram, LinkedIn, and Datadog Learning Center. 
+  Datadog (NASDAQ: DDOG) is a global SaaS business, delivering
+  a rare combination of growth and profitability. We are on a
+  mission to break down silos and solve complexity in the
+  cloud age by enabling digital transformation, cloud
+  migration, and infrastructure monitoring of our customers’
+  entire technology stacks. Built by engineers, for engineers,
+  Datadog is used by organizations of all sizes across a wide
+  range of industries. Together, we champion professional
+  development, diversity of thought, innovation, and work
+  excellence to empower continuous growth. Join the pack and
+  become part of a collaborative, pragmatic, and thoughtful
+  people-first community where we solve tough problems, take
+  smart risks, and celebrate one another. Learn more about
+  #DatadogLife on Instagram, LinkedIn, and Datadog Learning
+  Center.
   
-  **Equal Opportunity at Datadog:**
+  Equal Opportunity at Datadog:
   
-  Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference. 
+  Datadog is proud to offer equal employment opportunity to
+  everyone regardless of race, color, ancestry, religion, sex,
+  national origin, sexual orientation, age, citizenship,
+  marital status, disability, gender identity, veteran status,
+  and other characteristics protected by law. We also consider
+  qualified applicants regardless of criminal histories,
+  consistent with legal requirements. Here are our Candidate
+  Legal Notices for your reference.
   
-  Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete this form. This form is for accommodation requests only and cannot be used to inquire about the status of applications. 
+  Datadog endeavors to make our Careers Page accessible to all
+  users. If you would like to contact us regarding the
+  accessibility of our website or need assistance completing
+  the application process, please complete this form. This
+  form is for accommodation requests only and cannot be used
+  to inquire about the status of applications.
   
-  **Privacy and AI Guidelines:**
+  Privacy and AI Guidelines:
   
-  Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice. For information on our AI policy, please visit Interviewing at Datadog AI Guidelines.
+  Any information you submit to Datadog as part of your
+  application will be processed in accordance with Datadog’s
+  Applicant and Candidate Privacy Notice. For information on
+  our AI policy, please visit Interviewing at Datadog AI
+  Guidelines.
 industries:
   - Artificial Intelligence
   - Cloud

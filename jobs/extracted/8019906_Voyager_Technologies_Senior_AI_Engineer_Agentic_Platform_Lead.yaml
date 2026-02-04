@@ -16,79 +16,161 @@ skills:
   - Microservice Architectures
   - Python
 description: |
-  Voyager is an innovative defense, national security and space technology company committed to advancing and delivering transformative, mission-critical solutions. We tackle the most complex challenges to unlock new frontiers for human progress, fortify national security, and protect critical assets to lead in the race for technological and operational superiority from ground to space. 
+  Voyager is an innovative defense, national security and
+  space technology company committed to advancing and
+  delivering transformative, mission-critical solutions. We
+  tackle the most complex challenges to unlock new frontiers
+  for human progress, fortify national security, and protect
+  critical assets to lead in the race for technological and
+  operational superiority from ground to space.
   
-  **Forge the Future: Join Voyager Technologies** 
+  Forge the Future: Join Voyager Technologies
   
-  The future belongs to those who build it. At Voyager Technologies, we’re building technologies that protect lives, expand frontiers and prepare us for what’s next. And we’re doing that with people who are wired to solve, build, adapt and lead. These roles are not for the faint of heart.  
+  The future belongs to those who build it. At Voyager
+  Technologies, we’re building technologies that protect
+  lives, expand frontiers and prepare us for what’s next. And
+  we’re doing that with people who are wired to solve, build,
+  adapt and lead. These roles are not for the faint of heart. 
   
-  You’ll help lay the foundation for humanity's future. Join a culture where innovation thrives, curiosity is rewarded, and impact is real. We’re a company of doers, thinkers and builders, united by purpose and grounded in reality. 
+  You’ll help lay the foundation for humanity's future. Join a
+  culture where innovation thrives, curiosity is rewarded, and
+  impact is real. We’re a company of doers, thinkers and
+  builders, united by purpose and grounded in reality.
   
-  If you want to put your skills to work where the stakes are real and the mission is bigger than any one person,** forge the future with Voyager.** 
+  If you want to put your skills to work where the stakes are
+  real and the mission is bigger than any one person, forge
+  the future with Voyager.
   
-  **____________________________________________________________________________________** 
+  ____________________________________________________________
+  ________________________
   
-  **Job Summary:** 
+  Job Summary:
   
-  We are seeking a Senior AI Engineer – Agentic Platform Lead to serve as one of the senior technical leaders for the Agentic Computational Engineering (ACE) team. In this role, you will architect and build the multi-agent platform, execution environment, and core services that allow AI agents to design complex hardware systems end-to-end.
+  We are seeking a Senior AI Engineer – Agentic Platform Lead
+  to serve as one of the senior technical leaders for the
+  Agentic Computational Engineering (ACE) team. In this role,
+  you will architect and build the multi-agent platform,
+  execution environment, and core services that allow AI
+  agents to design complex hardware systems end-to-end.
   
-  You will own the technical roadmap for the ACE platform, lead a small team of exceptional engineers, and partner closely with domain experts across propulsion, electronics, and manufacturing. This role is ideal for a builder who is obsessed with velocity, comfortable in ambiguity, and excited to spend their days turning cutting-edge AI research into hard industrial capability. You are the kind of engineer who uses AI as leverage, not a novelty, and who views waiting on slow tools as a bug in the system to be eliminated.
+  You will own the technical roadmap for the ACE platform,
+  lead a small team of exceptional engineers, and partner
+  closely with domain experts across propulsion, electronics,
+  and manufacturing. This role is ideal for a builder who is
+  obsessed with velocity, comfortable in ambiguity, and
+  excited to spend their days turning cutting-edge AI research
+  into hard industrial capability. You are the kind of
+  engineer who uses AI as leverage, not a novelty, and who
+  views waiting on slow tools as a bug in the system to be
+  eliminated.
   
-  You will be joining the Agentic Computational Engineering (ACE) team, a specialized group within our Advanced Technology Development organization. ACE is responsible for building Voyager’s Generative Engine – the AI-native platform that compresses complex hardware development cycles from years to days. We design agentic AI systems that pair deeply with physics simulation, test data, and modern manufacturing so that Design for Manufacturing (DfM), Design for Assembly (DfA), and Design for Test (DfT) are built into the very first line of code and the very first sketch of a design.
+  You will be joining the Agentic Computational Engineering
+  (ACE) team, a specialized group within our Advanced
+  Technology Development organization. ACE is responsible for
+  building Voyager’s Generative Engine – the AI-native
+  platform that compresses complex hardware development cycles
+  from years to days. We design agentic AI systems that pair
+  deeply with physics simulation, test data, and modern
+  manufacturing so that Design for Manufacturing (DfM), Design
+  for Assembly (DfA), and Design for Test (DfT) are built into
+  the very first line of code and the very first sketch of a
+  design.
   
-  **Responsibilities:**  
+  Responsibilities:
   
-  - Architect and own the full stack ACE platform for the Generative Engine, including agent orchestration, execution runtimes, and frontend and backend services.
+  - Architect and own the full stack ACE platform for the
+    Generative Engine, including agent orchestration,
+    execution runtimes, and frontend and backend services.
+  - Design and implement distributed systems patterns (e.g.,
+    orchestrator–worker, swarms) that coordinate AI agents
+    across the full hardware design lifecycle.
+  - Build the secure execution layer where agents can
+    autonomously run code, simulations, and analyses against
+    internal tools and data sources.
+  - Design and implement memory, context, and provenance systems
+    (RAG, vector stores, decision logs) so agents can recall
+    and justify prior design decisions.
+  - Aggressively profile and optimize system performance, with a
+    focus on latency, reliability, and observability for large
+    numbers of concurrent agents.
+  - Lead and mentor a small team of exceptional engineers,
+    scientists, and/or mathematicians setting standards,
+    reviewing code, and growing early-career talent.
+  - Collaborate with domain teams (electronics, propulsion,
+    manufacturing) to translate their workflows into scalable
+    agentic capabilities on the platform.
+  - Influence long-range technical strategy for ACE and help
+    define how agentic AI is used across Voyager’s engineering
+    stack.
   
-  - Design and implement distributed systems patterns (e.g., orchestrator–worker, swarms) that coordinate AI agents across the full hardware design lifecycle.
+  Required Qualifications:
   
-  - Build the secure execution layer where agents can autonomously run code, simulations, and analyses against internal tools and data sources.
+  - Master’s degree + 5 years, or PhD + 3 years, in Computer
+    Science, Physics, Mathematics, or a related technical
+    field; or equivalent practical experience.
+  - 5+ years of experience building production-grade backend or
+    distributed systems in high-throughput or mission-critical
+    environments.
+  - Deep experience with modern programming languages such as
+    Python, Go, or Rust, and with microservice architectures,
+    message buses, and containerization.
+  - Hands-on experience building or integrating LLM-based
+    systems, including agent orchestration frameworks (e.g.,
+    LangGraph, AutoGen, custom runtimes).
+  - Demonstrated “AI-first” workflow: you routinely use LLMs and
+    agents to accelerate coding, documentation, and testing
+    and have examples of where this 10×’d your output.
+  - Proven ability to lead technical projects, mentor other
+    engineers, and make architectural decisions in a fast-
+    paced, highly ambiguous environment.
   
-  - Design and implement memory, context, and provenance systems (RAG, vector stores, decision logs) so agents can recall and justify prior design decisions.
+  Preferred Qualifications:
   
-  - Aggressively profile and optimize system performance, with a focus on latency, reliability, and observability for large numbers of concurrent agents.
+  - Background or minor in Mechanical, Aerospace, Electrical
+    Engineering, Physics, Chemistry, or Applied Mathematics.
+  - Experience designing systems that connect AI agents to
+    engineering tools (e.g., Ansys, Altium, CAD/CAE platforms)
+    and internal services.
+  - Experience with observability stacks (logging, tracing,
+    metrics) for complex distributed systems.
+  - Prior experience building platforms that support safety-
+    critical or mission-critical applications at companies
+    like SpaceX.
+  - A track record of personal projects or open-source work that
+    shows your passion for building systems, not just doing a
+    job.
   
-  - Lead and mentor a small team of exceptional engineers, scientists, and/or mathematicians setting standards, reviewing code, and growing early-career talent.
+  Voyager offers a comprehensive, total compensation package,
+  which includes competitive salary, a discretionary annual
+  bonus plan, paid time off (PTO), a comprehensive health
+  benefit package, retirement savings, wellness program, and
+  various other benefits. When you join our team, you’re not
+  just an employee; you become part of a dynamic community
+  dedicated to innovation and excellence.
   
-  - Collaborate with domain teams (electronics, propulsion, manufacturing) to translate their workflows into scalable agentic capabilities on the platform.
+  To conform to U.S. Government space technology export
+  regulations, including the International Traffic in Arms
+  Regulations (ITAR) you must be a U.S. citizen, lawful
+  permanent resident of the U.S., protected individual as
+  defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the
+  required authorizations from the U.S. Department of State.
   
-  - Influence long-range technical strategy for ACE and help define how agentic AI is used across Voyager’s engineering stack.
+  Voyager is an Equal Opportunity Employer. Employment
+  decisions are made without regard to race, color, religion,
+  national or ethnic origin, sex, sexual orientation, gender
+  identity or expression, age, disability, protected veteran
+  status or other characteristics protected by law. 
   
-  **Required Qualifications:**  
+  Minority/Female/Disabled/Veteran
   
-  - Master’s degree + 5 years, or PhD + 3 years, in Computer Science, Physics, Mathematics, or a related technical field; or equivalent practical experience.
-  
-  - 5+ years of experience building production-grade backend or distributed systems in high-throughput or mission-critical environments.
-  
-  - Deep experience with modern programming languages such as Python, Go, or Rust, and with microservice architectures, message buses, and containerization.
-  
-  - Hands-on experience building or integrating LLM-based systems, including agent orchestration frameworks (e.g., LangGraph, AutoGen, custom runtimes).
-  
-  - Demonstrated “AI-first” workflow: you routinely use LLMs and agents to accelerate coding, documentation, and testing and have examples of where this 10×’d your output.
-  
-  - Proven ability to lead technical projects, mentor other engineers, and make architectural decisions in a fast-paced, highly ambiguous environment.
-  
-  **Preferred Qualifications:**  
-  
-  - Background or minor in Mechanical, Aerospace, Electrical Engineering, Physics, Chemistry, or Applied Mathematics.
-  
-  - Experience designing systems that connect AI agents to engineering tools (e.g., Ansys, Altium, CAD/CAE platforms) and internal services.
-  
-  - Experience with observability stacks (logging, tracing, metrics) for complex distributed systems.
-  
-  - Prior experience building platforms that support safety-critical or mission-critical applications at companies like SpaceX.
-  
-  - A track record of personal projects or open-source work that shows your passion for building systems, not just doing a job.
-  
-  Voyager offers a comprehensive, total compensation package, which includes competitive salary, a discretionary annual bonus plan, paid time off (PTO), a comprehensive health benefit package, retirement savings, wellness program, and various other benefits. When you join our team, you’re not just an employee; you become part of a dynamic community dedicated to innovation and excellence. 
-  
-  To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. 
-  
-  Voyager is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.  
-  
-  Minority/Female/Disabled/Veteran 
-  
-  *The statements contained in this job description are intended to describe the general content and requirements for performance of this job. It is not intended to be an exhaustive list of all job duties, responsibilities, and requirements. This job description is not an employment agreement or contract. Management has the exclusive right to alter the scope of work within the framework of this job description at any time without prior notice.* 
+  The statements contained in this job description are
+  intended to describe the general content and requirements
+  for performance of this job. It is not intended to be an
+  exhaustive list of all job duties, responsibilities, and
+  requirements. This job description is not an employment
+  agreement or contract. Management has the exclusive right to
+  alter the scope of work within the framework of this job
+  description at any time without prior notice.
   
   California pay range
   

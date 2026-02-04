@@ -8,140 +8,114 @@ skills:
   - Rust
 company_size: 280 Employees
 description: |
-  We’re seeking a Senior Software Engineer to help power the future of agentic AI workflows. You’ll take our MCP Server to the next level, turning it into an enterprise-grade service that lets diverse tools and systems be exposed effortlessly to AI agents. Looking ahead, you’ll also help architect the MCP Gateway—a new layer that will route requests across tools, enforce policies, and provide the runtime foundation for scalable multi-agent systems. Along the way, you’ll tackle challenges in scalability, performance, and developer experience to ensure our platform feels seamless, powerful, and enterprise-ready.
-  
-  ****🚀 About the Team****
-  
-  The Graph DX AI Runtime Team builds and maintains the MCP Server and Gateway—the backbone of agent-to-tool communication and the routing layer that keeps everything flowing. We make it simple for developers to wire up agents, orchestrate workflows, and scale interactions reliably. Our focus is on speed, security, and seamless integration, so teams can spend less time managing infrastructure and more time building intelligent experiences.
-  
-  ****🔧 What You'll Do****
-  - 
-  
-  Scale an enterprise AI/MCP Server and Gateway that powers multi-agent workflows across Apollo, including routing, orchestration, and integration boundaries.**
-  
-  - 
-  
-  Implement robust server infrastructure to ensure reliability, performance, and security at scale.
-  
-  - 
-  
-  Build and maintain tools for agent discovery, communication, and coordination.
-  
-  - 
-  
-  Define deployment strategies and runtime optimizations to maximize efficiency and minimize operational overhead.
-  
-  - 
-  
-  Develop frameworks and patterns that enable seamless multi-agent collaboration and AI-driven orchestration.
-  
-  - 
-  
-  Integrate observability, logging, and monitoring for full visibility into server and agent behavior.
-  
-  - 
-  
-  Explore and implement AI-enhanced developer workflows to optimize orchestration and agent interactions.
-  
-  - 
-  
-  Collaborate with teams within our org to ensure the MCP Server meets evolving product and developer needs.
-  
-  **🧠 Technical Challenges You’ll Tackle****
-  - 
-  
-  Build and scale the MCP Gateway—Apollo’s routing layer for agentic workflows—ensuring tools and services can be discovered, invoked, and orchestrated reliably across diverse environments.**
-  
-  - 
-  
-  Design and implement high-performance routing infrastructure with reliability, scalability, and security at its core.
-  
-  - 
-  
-  Build and maintain routing patterns and coordination mechanisms that let agents interact with the right tools at the right time.
-  
-  - 
-  
-  Define deployment strategies and runtime optimizations to minimize latency and operational overhead.
-  
-  - 
-  
-  Explore and implement **AI-driven routing strategies** to optimize context retrieval, reduce cost, and improve decision accuracy.
-  
-  - 
-  
-  Collaborate with teams across Apollo to ensure the MCP Server and Gateway integrates seamlessly with Apollo’s control plane for AI tools.
-  
-  - 
-  
-  Integrate observability and monitoring into the routing layer to provide full visibility into traffic flows, tool availability, and agent interactions.
-  
-  **✅ What We’re Looking For****
-  
-  **Required Skills**
-  
-  - 
-  
-  Expertise in **agent-to-tool orchestration, routing, and coordination** in scalable, fault-tolerant systems.
-  
-  - 
-  
-  Deep expertise in Rust programming language. 
-  
-  - 
-  
-  Strong background in **distributed systems, server architecture, and high-performance backend development**.
-  
-  - 
-  
-  Proven experience with **protocol design, message routing, and server-side orchestration frameworks**.
-  
-  - 
-  
-  Experience building and maintaining robust** runtime infrastructure** that supports **AI-driven workflows** and enables reliable** agent-to-tool interactions**.
-  
-  - 
-  
-  Proven experience with **protocol design, message routing**, and** building server-side frameworks** that enable scalable, reliable multi-tool agent workflows.
-  
-  - 
-  
-  Hands-on experience with **observability, monitoring, and debugging frameworks** for complex systems.
-  
-  - 
-  
-  Passion for **clean, maintainable code, high system reliability, and scalable architecture**.
-  
-  - 
-  
-  Experience in **strategic system design**, making architectural trade-offs, and planning for long-term scalability and maintainability.
-  
-  - 
-  
-  Strong **technical leadership and mentorship**, including guiding junior engineers and driving engineering best practices across teams.
-  
-  - 
-  
-  Ability to **influence cross-team architecture decisions** and align engineering efforts with product and business objectives.
-  
-  - 
-  
-  Production ownership experience: leading **incident response, debugging, and performance optimization** in high-impact backend systems.
-   
-  
-  **Bonus**
-  
-  - 
-  
-  Exposure to **AI/ML-enabled developer tooling** or **autonomous system orchestration**.
-  
-  - 
-  
-  Familiarity with **cloud-native architectures**, **containerization**, or **orchestration frameworks**.
-  
-  - 
-  
-  Experience with **performance optimization** and **cost-efficient scaling** of high-throughput distributed systems.
+  We’re seeking a Senior Software Engineer to help power the
+  future of agentic AI workflows. You’ll take our MCP Server
+  to the next level, turning it into an enterprise-grade
+  service that lets diverse tools and systems be exposed
+  effortlessly to AI agents. Looking ahead, you’ll also help
+  architect the MCP Gateway—a new layer that will route
+  requests across tools, enforce policies, and provide the
+  runtime foundation for scalable multi-agent systems. Along
+  the way, you’ll tackle challenges in scalability,
+  performance, and developer experience to ensure our platform
+  feels seamless, powerful, and enterprise-ready.
+  
+  🚀 About the Team
+  
+  The Graph DX AI Runtime Team builds and maintains the MCP
+  Server and Gateway—the backbone of agent-to-tool
+  communication and the routing layer that keeps everything
+  flowing. We make it simple for developers to wire up agents,
+  orchestrate workflows, and scale interactions reliably. Our
+  focus is on speed, security, and seamless integration, so
+  teams can spend less time managing infrastructure and more
+  time building intelligent experiences.
+  
+  🔧 What You'll Do
+  
+  - Scale an enterprise AI/MCP Server and Gateway that powers
+    multi-agent workflows across Apollo, including routing,
+    orchestration, and integration boundaries.
+  - Implement robust server infrastructure to ensure
+    reliability, performance, and security at scale.
+  - Build and maintain tools for agent discovery, communication,
+    and coordination.
+  - Define deployment strategies and runtime optimizations to
+    maximize efficiency and minimize operational overhead.
+  - Develop frameworks and patterns that enable seamless multi-
+    agent collaboration and AI-driven orchestration.
+  - Integrate observability, logging, and monitoring for full
+    visibility into server and agent behavior.
+  - Explore and implement AI-enhanced developer workflows to
+    optimize orchestration and agent interactions.
+  - Collaborate with teams within our org to ensure the MCP
+    Server meets evolving product and developer needs.
+  
+  🧠 Technical Challenges You’ll Tackle
+  
+  - Build and scale the MCP Gateway—Apollo’s routing layer for
+    agentic workflows—ensuring tools and services can be
+    discovered, invoked, and orchestrated reliably across
+    diverse environments.
+  - Design and implement high-performance routing infrastructure
+    with reliability, scalability, and security at its core.
+  - Build and maintain routing patterns and coordination
+    mechanisms that let agents interact with the right tools
+    at the right time.
+  - Define deployment strategies and runtime optimizations to
+    minimize latency and operational overhead.
+  - Explore and implement AI-driven routing strategies to
+    optimize context retrieval, reduce cost, and improve
+    decision accuracy.
+  - Collaborate with teams across Apollo to ensure the MCP
+    Server and Gateway integrates seamlessly with Apollo’s
+    control plane for AI tools.
+  - Integrate observability and monitoring into the routing
+    layer to provide full visibility into traffic flows, tool
+    availability, and agent interactions.
+  
+  ✅ What We’re Looking For
+  
+  Required Skills
+  
+  - Expertise in agent-to-tool orchestration, routing, and
+    coordination in scalable, fault-tolerant systems.
+  - Deep expertise in Rust programming language.
+  - Strong background in distributed systems, server
+    architecture, and high-performance backend development.
+  - Proven experience with protocol design, message routing, and
+    server-side orchestration frameworks.
+  - Experience building and maintaining robust runtime
+    infrastructure that supports AI-driven workflows and
+    enables reliable agent-to-tool interactions.
+  - Proven experience with protocol design, message routing, and
+    building server-side frameworks that enable scalable,
+    reliable multi-tool agent workflows.
+  - Hands-on experience with observability, monitoring, and
+    debugging frameworks for complex systems.
+  - Passion for clean, maintainable code, high system
+    reliability, and scalable architecture.
+  - Experience in strategic system design, making architectural
+    trade-offs, and planning for long-term scalability and
+    maintainability.
+  - Strong technical leadership and mentorship, including
+    guiding junior engineers and driving engineering best
+    practices across teams.
+  - Ability to influence cross-team architecture decisions and
+    align engineering efforts with product and business
+    objectives.
+  - Production ownership experience: leading incident response,
+    debugging, and performance optimization in high-impact
+    backend systems.
+  
+  Bonus
+  
+  - Exposure to AI/ML-enabled developer tooling or autonomous
+    system orchestration.
+  - Familiarity with cloud-native architectures,
+    containerization, or orchestration frameworks.
+  - Experience with performance optimization and cost-efficient
+    scaling of high-throughput distributed systems.
 industries:
   - Artificial Intelligence
   - Big Data

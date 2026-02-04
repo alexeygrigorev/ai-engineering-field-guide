@@ -15,91 +15,153 @@ skills:
   - SQL
 company_size: 1,286 Employees
 description: |
-  **THE JOB / Data Engineer (AI Enablement)**
+  THE JOB / Data Engineer (AI Enablement)
   
-  **STRATEGY / **Responsible for building and operating the data foundations that power Octagon’s AI solutions and enterprise search.
+  STRATEGY / Responsible for building and operating the data
+  foundations that power Octagon’s AI solutions and enterprise
+  search.
   
-  * *****Our headquarters are in Stamford, CT, but the location of this position can be 100% remote for qualified candidates. *
+   ***Our headquarters are in Stamford, CT, but the location
+  of this position can be 100% remote for qualified
+  candidates.
   
-  You’re a systems-minded builder who turns messy, multi-source data into reliable, searchable, and governed knowledge. Your mission is to stand up the pipelines, vector search, and metadata standards that make AI tools accurate, fast, and safe. You’ll partner closely with the Solutions Engineer (peer role) to take prototypes and ship durable infrastructure—ingestion, embeddings, indexing, and APIs—so teams can find and use what they need. You’ll report to the Director, Data Strategy and work across departments to reduce manual effort, improve data quality, and enable AI-powered workflows at scale.
+  You’re a systems-minded builder who turns messy, multi-
+  source data into reliable, searchable, and governed
+  knowledge. Your mission is to stand up the pipelines, vector
+  search, and metadata standards that make AI tools accurate,
+  fast, and safe. You’ll partner closely with the Solutions
+  Engineer (peer role) to take prototypes and ship durable
+  infrastructure—ingestion, embeddings, indexing, and APIs—so
+  teams can find and use what they need. You’ll report to the
+  Director, Data Strategy and work across departments to
+  reduce manual effort, improve data quality, and enable AI-
+  powered workflows at scale.
   
-  ** ****THE WORK YOU’LL DO**
+   THE WORK YOU’LL DO
   
-  - Data foundations: Design and operate the vector database/search layer (e.g., FAISS/pgvector/Milvus) and document-chunking/embedding pipelines that make Octagon’s content discoverable and auditable. 
+  - Data foundations: Design and operate the vector
+    database/search layer (e.g., FAISS/pgvector/Milvus) and
+    document-chunking/embedding pipelines that make Octagon’s
+    content discoverable and auditable.
+  - Scalable pipelines for AI/ML/LLM: Implement and maintain
+    ELT/ETL to support downstream workflows such as data
+    labeling, classification, and document parsing; build
+    robust validations, lineage, and observability.
+  - Retrieval APIs: Expose governed retrieval endpoints that
+    respect permissions (ACLs), support metadata filters, and
+    return source snippets/IDs for grounding and citations.
+  - Data structuring & manipulation: Normalize, transform, and
+    move JSON and other structured payloads cleanly through
+    workflows to ensure reliable handoffs and automation
+    outputs.
+  - Align & collaborate: Align product peers, design, data
+    science, engineering, and commercial teams around a
+    unified roadmap and shared data contracts.
+  - Operationalize prototypes: Take MVPs from the Solutions
+    Engineer and productionize with CI/CD, telemetry,
+    cost/usage guardrails, and pilot → rollout gating.
+  - Reliability & security: Build monitoring (freshness, re-
+    index SLAs, retrieval quality), secrets management, access
+    controls, and audit logging aligned with enterprise
+    governance.
+  - Flexibility and willingness to travel and work weekends or
+    holidays as needed. Anticipated travel level: Low (0–15%).
   
-  - Scalable pipelines for AI/ML/LLM: Implement and maintain ELT/ETL to support downstream workflows such as data labeling, classification, and document parsing; build robust validations, lineage, and observability. 
+   THE BIGGER TEAM YOU’LL JOIN
   
-  - Retrieval APIs: Expose governed retrieval endpoints that respect permissions (ACLs), support metadata filters, and return source snippets/IDs for grounding and citations. 
+  Recognized as one of the “Best Places to Work in Sports”,
+  Octagon is the global sports, entertainment, and
+  experiential marketing arm of the Interpublic Group.
   
-  - Data structuring & manipulation: Normalize, transform, and move JSON and other structured payloads cleanly through workflows to ensure reliable handoffs and automation outputs. 
+  We take pride in being Playmakers – finding insightful, bold
+  ways to create play in our work, our lives, and in the
+  world. We believe in the power of play to create big ideas
+  and unlock potential for our clients and talent.
   
-  - Align & collaborate: Align product peers, design, data science, engineering, and commercial teams around a unified roadmap and shared data contracts. 
-  
-  - Operationalize prototypes: Take MVPs from the Solutions Engineer and productionize with CI/CD, telemetry, cost/usage guardrails, and pilot → rollout gating. 
-  
-  - Reliability & security: Build monitoring (freshness, re-index SLAs, retrieval quality), secrets management, access controls, and audit logging aligned with enterprise governance. 
-  
-  - Flexibility and willingness to travel and work weekends or holidays as needed. Anticipated travel level: Low (0–15%). 
-  
-  ** ****THE BIGGER TEAM YOU’LL JOIN**
-  
-  Recognized as one of the “Best Places to Work in Sports”, Octagon is the global sports, entertainment, and experiential marketing arm of the Interpublic Group.
-  
-  We take pride in being Playmakers – finding insightful, bold ways to create play in our work, our lives, and in the world. We believe in the power of play to create big ideas and unlock potential for our clients and talent.
-  
-  We can put ourselves in the shoes of fans because we ARE fans – of sports, entertainment, and culture at large. This expertise allows us to continually evolve the fan experience across sports and entertainment alongside some of the biggest brands and talent in the world.
+  We can put ourselves in the shoes of fans because we ARE
+  fans – of sports, entertainment, and culture at large. This
+  expertise allows us to continually evolve the fan experience
+  across sports and entertainment alongside some of the
+  biggest brands and talent in the world.
   
   The world needs play more than ever. Are you a Playmaker?
   
-  **WHO WE’RE LOOKING FOR**
+  WHO WE’RE LOOKING FOR
   
-  - 3+ years (or equivalent portfolio) building data systems: data modeling, ELT/ETL, Python + SQL; experience with cloud object storage and relational databases. 
+  - 3+ years (or equivalent portfolio) building data systems:
+    data modeling, ELT/ETL, Python + SQL; experience with
+    cloud object storage and relational databases.
+  - Hands-on with embeddings and vector databases (e.g.,
+    FAISS/pgvector/Milvus) and document processing pipelines
+    for RAG-style retrieval.
+  - Scalable pipeline experience supporting AI/ML/LLM use cases
+    (labeling, classification, doc parsing) and partnering
+    closely with Data Science and Data Labeling teams.
+  - Data structuring & manipulation expertise: cleanly
+    normalizing and transforming JSON/Parquet/CSV payloads;
+    designing resilient data contracts and schemas.
+  - Orchestration/ops: Airflow/Prefect (or similar), CI/CD,
+    structured logging/monitoring, cost/usage guardrails;
+    secure secrets management.
+  - Strong collaboration and communication skills; proven
+    ability to align product/design/engineering/commercial
+    stakeholders around a unified roadmap.
   
-  - Hands-on with embeddings and vector databases (e.g., FAISS/pgvector/Milvus) and document processing pipelines for RAG-style retrieval. 
+  Nice-To-Haves
   
-  - Scalable pipeline experience supporting AI/ML/LLM use cases (labeling, classification, doc parsing) and partnering closely with Data Science and Data Labeling teams. 
+  - Enterprise connectors and productivity stacks (e.g.,
+    Microsoft 365/SharePoint/Teams/Graph, Copilot or Copilot
+    Studio/Power Automate; Google Workspace; Salesforce;
+    DAMs).
+  - Experience implementing LLM inference patterns, similarity
+    search, guardrails, and memory; familiarity with agent
+    frameworks or custom orchestration.
+  - Additional languages for systems work (e.g., C++, C#, Java,
+    or Go).
+  - Containers (Docker), GitHub Actions, IaC; lightweight
+    internal UIs (Streamlit or R Shiny) to expose services.
+  - Familiarity with marketing/media-measurement datasets and
+    associated normalization/quality checks.
   
-  - Data structuring & manipulation expertise: cleanly normalizing and transforming JSON/Parquet/CSV payloads; designing resilient data contracts and schemas. 
-  
-  - Orchestration/ops: Airflow/Prefect (or similar), CI/CD, structured logging/monitoring, cost/usage guardrails; secure secrets management. 
-  
-  - Strong collaboration and communication skills; proven ability to align product/design/engineering/commercial stakeholders around a unified roadmap. 
-  
-  **Nice-To-Haves** 
-  
-  - Enterprise connectors and productivity stacks (e.g., Microsoft 365/SharePoint/Teams/Graph, Copilot or Copilot Studio/Power Automate; Google Workspace; Salesforce; DAMs). 
-  
-  - Experience implementing LLM inference patterns, similarity search, guardrails, and memory; familiarity with agent frameworks or custom orchestration. 
-  
-  - Additional languages for systems work (e.g., C++, C#, Java, or Go). 
-  
-  - Containers (Docker), GitHub Actions, IaC; lightweight internal UIs (Streamlit or R Shiny) to expose services. 
-  
-  - Familiarity with marketing/media-measurement datasets and associated normalization/quality checks. 
-  
-  The base range for this position is $90,000 – $100,000. Where an employee or prospective employee is** **paid within this range will depend on, among other factors, actual ranges for current/former employees in the subject position; market considerations; budgetary considerations; tenure and standing with the company (applicable to current employees); as well as the employee’s/applicant’s background pertinent experience, and qualifications
+  The base range for this position is $90,000 – $100,000.
+  Where an employee or prospective employee is paid within
+  this range will depend on, among other factors, actual
+  ranges for current/former employees in the subject position;
+  market considerations; budgetary considerations; tenure and
+  standing with the company (applicable to current employees);
+  as well as the employee’s/applicant’s background pertinent
+  experience, and qualifications
   
   Octagon’s comprehensive benefits package includes:
   
   - Unlimited PTO policy – we understand you need time for play!
-  
-  - Competitive medical/dental/vision insurance plans with FSA/HSA and Dependent Care FSA options. Pet Insurance for those who need it too!
-  
-  - Generous Family and Parental Leave Policy (12 weeks) with eligibility extended to all parents regardless of gender or primary/secondary caregiver status 
-  
-  - Access to our parent company (IPG) Savings plan (401K program) with company match as well as an Employee Stock Purchase Plan (ESPP)
-  
-  - Pretax Transportation/Commuter Benefits and Parent Travel Program
-  
-  - Dedicated Mental Health resources including Headspace membership, Employee Assistance Program (CCA) and more
-  
+  - Competitive medical/dental/vision insurance plans with
+    FSA/HSA and Dependent Care FSA options. Pet Insurance for
+    those who need it too!
+  - Generous Family and Parental Leave Policy (12 weeks) with
+    eligibility extended to all parents regardless of gender
+    or primary/secondary caregiver status
+  - Access to our parent company (IPG) Savings plan (401K
+    program) with company match as well as an Employee Stock
+    Purchase Plan (ESPP)
+  - Pretax Transportation/Commuter Benefits and Parent Travel
+    Program
+  - Dedicated Mental Health resources including Headspace
+    membership, Employee Assistance Program (CCA) and more
   - Discount portal for everyday goods and services
+  - Employee Resource Groups and inclusive diversity programming
+    and initiatives
+  - Personal Development programs
   
-  - Employee Resource Groups and inclusive diversity programming and initiatives
-  
-  - Personal Development programs 
-  
-  *We make our careers website accessible to any and all users. If you need an accommodation to participate in the application process, please contact us at JobAppAccommodation@ipgdxtra.com. This email address is not for general employment inquiries or vendors; rather it is strictly for applicants who require special assistance accessing our employment website. Due to volume, messages sent to this email address that are not related to an accommodation cannot be answered.*
+  We make our careers website accessible to any and all users.
+  If you need an accommodation to participate in the
+  application process, please contact us at
+  JobAppAccommodation@ipgdxtra.com. This email address is not
+  for general employment inquiries or vendors; rather it is
+  strictly for applicants who require special assistance
+  accessing our employment website. Due to volume, messages
+  sent to this email address that are not related to an
+  accommodation cannot be answered.
 posted_date: 2026-01-26
 url: https://builtin.com/job/data-engineer-ai-enablement/7646246
 source: Built In

@@ -17,110 +17,184 @@ skills:
   - Langgraph
 company_size: 17 Employees
 description: |
-  AI Technology Partners (AITP) is a leader in delivering cutting-edge generative AI solutions and managed services, specializing in secure, customizable AI deployments for enterprises. Our offerings are designed to help organizations unlock the full value of AI while maintaining robust security and compliance across their infrastructures.
+  AI Technology Partners (AITP) is a leader in delivering
+  cutting-edge generative AI solutions and managed services,
+  specializing in secure, customizable AI deployments for
+  enterprises. Our offerings are designed to help
+  organizations unlock the full value of AI while maintaining
+  robust security and compliance across their infrastructures.
   
-  **
+  About the role
   
-  **About the role****
+  At AI Technology Partners (AITP), we empower enterprises to
+  scale revenue & profit —with secure, compliant generative AI
+  solutions.
   
-  **
+  In this role, you’ll lead the design and delivery of agentic
+  systems that orchestrate tools, data, and policies to solve
+  real business workflows—safely, reliably, and at scale. If
+  you like greenfield architecture, fast iteration, and
+  measurable impact with enterprise clients, this is your
+  playground.
   
-  At AI Technology Partners (AITP), we empower enterprises to scale revenue & profit —with secure, compliant generative AI solutions.
+  What you'll do
   
-  In this role, you’ll lead the design and delivery of agentic systems that orchestrate tools, data, and policies to solve real business workflows—safely, reliably, and at scale. If you like greenfield architecture, fast iteration, and measurable impact with enterprise clients, this is your playground.
+  Architecture & System Design (Agentic)
   
-  **What you'll do****
-  ****Architecture & System Design (Agentic)****
+  ·      Design multi-agent architectures with robust state
+  management, memory, and routing.
   
-  ·      Design multi-agent architectures with robust state management, memory, and routing.
+  ·      Choose and implement leading frameworks such as
+  LangGraph/LangChain Agents, Microsoft AutoGen, CrewAI,
+  LlamaIndex Agents, Semantic Kernel, or Haystack Agents—and
+  justify trade-offs.
   
-  ·      Choose and implement leading frameworks such as LangGraph/LangChain Agents, Microsoft AutoGen, CrewAI, LlamaIndex Agents, Semantic Kernel, or Haystack Agents—and justify trade-offs.
+  ·      Build modular components (planners, tool registries,
+  policy guards, evaluators) that are reusable across clients
+  and domains.
   
-  ·      Build modular components (planners, tool registries, policy guards, evaluators) that are reusable across clients and domains.
-  ****Tooling & Orchestration****
+  Tooling & Orchestration
   
-  ·      Integrate enterprise tools and data sources via function/tool calling, webhooks, and event-driven flows (Queues/Service Bus/Functions).
+  ·      Integrate enterprise tools and data sources via
+  function/tool calling, webhooks, and event-driven flows
+  (Queues/Service Bus/Functions).
   
-  ·      Implement retrieval-augmented generation (RAG) patterns with vector stores (Azure AI Search, pgvector, MongoDB Atlas, Pinecone, Weaviate, Milvus) and structured knowledge (SQL/Graph).
+  ·      Implement retrieval-augmented generation (RAG)
+  patterns with vector stores (Azure AI Search, pgvector,
+  MongoDB Atlas, Pinecone, Weaviate, Milvus) and structured
+  knowledge (SQL/Graph).
   
-  ·      Add deterministic fallbacks, circuit breakers, and caching to keep latency and cost predictable.
-  ****Reliability, Observability & MLOps****
+  ·      Add deterministic fallbacks, circuit breakers, and
+  caching to keep latency and cost predictable.
   
-  ·      Define SLIs/SLOs for agent runs; implement tracing, metrics, and logging (e.g., Langfuse + OpenTelemetry) and build dashboards for run-level analytics.
+  Reliability, Observability & MLOps
   
-  ·      Create evaluation harnesses (automatic + human-in-the-loop) using tools such as Ragas, DeepEval, promptfoo to measure groundedness, task success, safety, and cost.
+  ·      Define SLIs/SLOs for agent runs; implement tracing,
+  metrics, and logging (e.g., Langfuse + OpenTelemetry) and
+  build dashboards for run-level analytics.
   
-  ·      Productionize with CI/CD, environment promotion, feature flags, and canary strategies; optimize cost-per-task and time-to-success.
-  ****Safety, Security & Governance****
+  ·      Create evaluation harnesses (automatic + human-in-
+  the-loop) using tools such as Ragas, DeepEval, promptfoo to
+  measure groundedness, task success, safety, and cost.
   
-  ·      Enforce content and safety policies (redaction, classification, guardrails) with policy-as-code; implement role/tenant isolation and data minimization.
+  ·      Productionize with CI/CD, environment promotion,
+  feature flags, and canary strategies; optimize cost-per-task
+  and time-to-success.
   
-  ·      Collaborate with security teams to align to ISO 27001/SOC 2/NIST/HIPAA/GDPR contexts; deliver audit-ready evidence for agentic workflows.
+  Safety, Security & Governance
   
-  ·      Build privacy-first patterns (no data exfiltration by default, least-privilege tool access, secure prompt/trace storage).
-  ****Product & Client Impact****
+  ·      Enforce content and safety policies (redaction,
+  classification, guardrails) with policy-as-code; implement
+  role/tenant isolation and data minimization.
   
-  ·      Work directly with enterprise client teams to translate business processes into agentic designs; present trade-offs and proofs-of-value that lead to production.
+  ·      Collaborate with security teams to align to ISO
+  27001/SOC 2/NIST/HIPAA/GDPR contexts; deliver audit-ready
+  evidence for agentic workflows.
   
-  ·      Partner with solution leads to create domain-specific agents (e.g., RFP assist, incident RCA drafting, knowledge ops) and reusable templates.
+  ·      Build privacy-first patterns (no data exfiltration by
+  default, least-privilege tool access, secure prompt/trace
+  storage).
   
-  **
+  Product & Client Impact
   
-  **Qualifications****
-  ****Must-have****
+  ·      Work directly with enterprise client teams to
+  translate business processes into agentic designs; present
+  trade-offs and proofs-of-value that lead to production.
   
-  ·      5–8+ years in software/platform engineering with recent production LLM applications (not just prototypes).
+  ·      Partner with solution leads to create domain-specific
+  agents (e.g., RFP assist, incident RCA drafting, knowledge
+  ops) and reusable templates.
   
-  ·      Hands-on expertise with agentic frameworks (one or more of: LangGraph/LangChain Agents, AutoGen, CrewAI, LlamaIndex Agents, Semantic Kernel, Haystack Agents) and tool/function-calling patterns.
+  Qualifications
   
-  ·      Strong RAG engineering across vector DBs, chunking/embedding strategies, metadata/search ranking, and grounding techniques.
+  Must-have
   
-  ·      Proven track record building observable, cost-aware, and secure LLM systems (tracing, evals, guardrails, secrets/IAM, PII handling).
+  ·      5–8+ years in software/platform engineering with
+  recent production LLM applications (not just prototypes).
   
-  ·      Solid software engineering fundamentals: Python/TypeScript, async patterns, APIs, testing, CI/CD, containerization.
+  ·      Hands-on expertise with agentic frameworks (one or
+  more of: LangGraph/LangChain Agents, AutoGen, CrewAI,
+  LlamaIndex Agents, Semantic Kernel, Haystack Agents) and
+  tool/function-calling patterns.
   
-  ·      Clear communicator who can interface with clients and write crisp technical docs.
-  ****Nice to have****
+  ·      Strong RAG engineering across vector DBs,
+  chunking/embedding strategies, metadata/search ranking, and
+  grounding techniques.
   
-  ·      Azure-first experience (Azure OpenAI, Azure AI Studio, Azure Functions/Container Apps/AKS, Private Link/VNet, Key Vault, Entra ID).
+  ·      Proven track record building observable, cost-aware,
+  and secure LLM systems (tracing, evals, guardrails,
+  secrets/IAM, PII handling).
   
-  ·      Cross-cloud exposure (AWS/GCP) and hybrid integrations; experience with enterprise connectors (SharePoint/OneDrive, ServiceNow, Salesforce).
+  ·      Solid software engineering fundamentals:
+  Python/TypeScript, async patterns, APIs, testing, CI/CD,
+  containerization.
   
-  ·      Experience with structured output, constrained decoding, JSON Schemas, and program-of-thought planning.
+  ·      Clear communicator who can interface with clients and
+  write crisp technical docs.
   
-  **
+  Nice to have
   
-  **Location****
+  ·      Azure-first experience (Azure OpenAI, Azure AI
+  Studio, Azure Functions/Container Apps/AKS, Private
+  Link/VNet, Key Vault, Entra ID).
   
-  **Remote, US-based candidates preferred. The role may involve working across multiple time zones.
+  ·      Cross-cloud exposure (AWS/GCP) and hybrid
+  integrations; experience with enterprise connectors
+  (SharePoint/OneDrive, ServiceNow, Salesforce).
   
-  **How we work****
+  ·      Experience with structured output, constrained
+  decoding, JSON Schemas, and program-of-thought planning.
   
-  ·      ****Ownership & velocity:**** Small team, big surface area. You’ll design, ship, and iterate quickly.
+  Location
   
-  ·      ****Security by design:**** Data governance and safety are table stakes, not afterthoughts.
+  Remote, US-based candidates preferred. The role may involve
+  working across multiple time zones.
   
-  ·      ****Evidence over vibes:**** We measure task success, grounding, and cost—and improve with data.
+  How we work
   
-  ·      ****AI as leverage:**** We use LLMs to accelerate engineering—not replace it.
-  ****Compensation****
+  ·      Ownership & velocity: Small team, big surface area.
+  You’ll design, ship, and iterate quickly.
   
-  ·      Competitive salary for full-time or hourly rate for contract hire, commensurate with experience and engagement model.
-  ****What we offer****
+  ·      Security by design: Data governance and safety are
+  table stakes, not afterthoughts.
   
-  ·      ****Challenging work**** on meaningful, production agentic systems for enterprise clients.
+  ·      Evidence over vibes: We measure task success,
+  grounding, and cost—and improve with data.
   
-  ·      ****Learning & sharing culture**** with deep dives, brown bags, and support for certifications/publication.
+  ·      AI as leverage: We use LLMs to accelerate
+  engineering—not replace it.
   
-  ·      ****Inclusive, flexible workplace****—bring your whole self; work where you do your best thinking.
+  Compensation
   
-  ****How to Apply****
+  ·      Competitive salary for full-time or hourly rate for
+  contract hire, commensurate with experience and engagement
+  model.
   
-  **Interested candidates are encouraged to submit their resumes and a brief cover letter outlining relevant experience and why they are a good fit for this role.
+  What we offer
   
-  **Equal Opportunity Statement****
+  ·      Challenging work on meaningful, production agentic
+  systems for enterprise clients.
   
-  AI Technology Partners is committed to equal employment opportunity in all practices and reaffirms that there shall be no unlawful discrimination against any employee or applicant for employment on the grounds of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status.
+  ·      Learning & sharing culture with deep dives, brown
+  bags, and support for certifications/publication.
+  
+  ·      Inclusive, flexible workplace—bring your whole self;
+  work where you do your best thinking.
+  
+  How to Apply
+  
+  Interested candidates are encouraged to submit their resumes
+  and a brief cover letter outlining relevant experience and
+  why they are a good fit for this role.
+  
+  Equal Opportunity Statement
+  
+  AI Technology Partners is committed to equal employment
+  opportunity in all practices and reaffirms that there shall
+  be no unlawful discrimination against any employee or
+  applicant for employment on the grounds of race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, age, disability, or veteran status.
 industries:
   - Artificial Intelligence
   - Information Technology

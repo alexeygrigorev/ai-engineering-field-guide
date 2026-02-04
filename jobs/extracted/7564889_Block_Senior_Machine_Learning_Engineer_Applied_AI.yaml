@@ -11,54 +11,138 @@ skills:
   - Machine Learning
   - Mlops
 description: |
-  Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams - People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more - provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.
-  **The Role**
-  Block is organized into business groups, each with dedicated product and engineering teams. Our team plays a vital role in delivering better-than-human customer support experiences, using AI to make support faster, smarter, and more reliable. By improving how millions of customers get support, we build lasting trust and create meaningful operational leverage across Block.
-  We are looking for an enthusiastic and experienced Machine Learning Engineer to join our team to build AI customer support products. In this role, you will collaborate closely with teams across Block to understand their challenges and opportunities. You'll design, develop, and launch AI driven features and tools that solve real customer needs, working in an environment that values creativity, experimentation, and practical problem solving.
-  This is a unique opportunity to shape the future of AI-powered support at Block. You will work on projects that directly impact customers, advocates, and the business, transforming how we serve people and scale trust. We are looking for builders who are passionate about pragmatic AI, motivated by real world impact, and excited to build systems that help people get the help they need.
-  **You Will**
-   
-  - Leverage AI to automate support workflows and deliver new AI-powered support product experiences
-   
-  - Design, build, and maintain scalable machine learning systems, including developing, fine-tuning, and integrating large language models and related systems, that power real customer and advocate experiences.
-   
-  - Collaborate cross-functionally with product, engineering, design, and operations teams to ship impactful AI features at scale
-   
-  - Build generative AI systems that scale intelligently across multiple business units, adapting to diverse products, users, and use cases
-   
-  - Stay current on the latest developments in LLMs and applied ML, assessing where new techniques (e.g., RAG, distillation, fine-tuning, prompt orchestration) can enhance our systems.
-   
-  - Mentor peers and contribute to technical documentation, design reviews, and shared best practices that raise the engineering bar for applied ML systems.
-   
-  **You Have**
-   
-  - 8+ years of experience in training and deploying ML models, developing ML software, and shipping customer-facing ML products.
-   
-  - Deep understanding of modern ML techniques (e.g. Large Language Models) and the ML lifecycle from data gathering, training, model evaluation, MLOps, and productionizing models.
-   
-  - Ruthless pragmatism when solving new and unconventional problems
-   
-  - A desire to understand our clients' needs in order to design tools and systems that solve our customer's problems. As a platform team, our main customers are internal developers and products.
-   
-  - Ability to produce production-quality code and services incorporating testing, evaluation, monitoring as well as the ability to quickly adapt to a new domain, hack MVP's, and iterate to improve product.
-   
-  - Experience using any of the major cloud vendors for high scale production use cases
-   
-  - Strong communication skills (verbal and written) with technical and non-technical stakeholders.
-   
-  We're working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and "fair chance" ordinances.
-  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. **Want to learn more about what we're doing to build a workplace that is fair and square? Check out our** I+D page .
-  While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
-  Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate's starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.
-  Zone A: USD $228,700 - USD $343,100
-  Zone B: USD $217,300 - USD $325,900
-  Zone C: USD $205,900 - USD $308,900
-  Zone D: USD $194,500 - USD $291,700
-  **Use of AI in Our Hiring Process**
-  We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
-  Contact us here with hiring practice or data usage questions.
-  Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering. Check out our other benefits at Block. 
-  Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people. **Square** makes commerce and financial services accessible to sellers. **Cash App** is the easy way to spend, send, and store money. **Afterpay** is transforming the way customers manage their spending over time. **TIDAL** is a music platform that empowers artists to thrive as entrepreneurs. **Bitkey** is a simple self-custody wallet built for bitcoin. **Proto** is a suite of bitcoin mining products and services. Together, we're helping build a financial system that is open to everyone.
+  Block is one company built from many blocks, all united by
+  the same purpose of economic empowerment. The blocks that
+  form our foundational teams - People, Finance, Counsel,
+  Hardware, Information Security, Platform Infrastructure
+  Engineering, and more - provide support and guidance at the
+  corporate level. They work across business groups and around
+  the globe, spanning time zones and disciplines to develop
+  inclusive People policies, forecast finances, give legal
+  counsel, safeguard systems, nurture new initiatives, and
+  more. Every challenge creates possibilities, and we need
+  different perspectives to see them all. Bring yours to
+  Block. The Role Block is organized into business groups,
+  each with dedicated product and engineering teams. Our team
+  plays a vital role in delivering better-than-human customer
+  support experiences, using AI to make support faster,
+  smarter, and more reliable. By improving how millions of
+  customers get support, we build lasting trust and create
+  meaningful operational leverage across Block. We are looking
+  for an enthusiastic and experienced Machine Learning
+  Engineer to join our team to build AI customer support
+  products. In this role, you will collaborate closely with
+  teams across Block to understand their challenges and
+  opportunities. You'll design, develop, and launch AI driven
+  features and tools that solve real customer needs, working
+  in an environment that values creativity, experimentation,
+  and practical problem solving. This is a unique opportunity
+  to shape the future of AI-powered support at Block. You will
+  work on projects that directly impact customers, advocates,
+  and the business, transforming how we serve people and scale
+  trust. We are looking for builders who are passionate about
+  pragmatic AI, motivated by real world impact, and excited to
+  build systems that help people get the help they need. You
+  Will
+  
+  - Leverage AI to automate support workflows and deliver new
+    AI-powered support product experiences
+  - Design, build, and maintain scalable machine learning
+    systems, including developing, fine-tuning, and
+    integrating large language models and related systems,
+    that power real customer and advocate experiences.
+  - Collaborate cross-functionally with product, engineering,
+    design, and operations teams to ship impactful AI features
+    at scale
+  - Build generative AI systems that scale intelligently across
+    multiple business units, adapting to diverse products,
+    users, and use cases
+  - Stay current on the latest developments in LLMs and applied
+    ML, assessing where new techniques (e.g., RAG,
+    distillation, fine-tuning, prompt orchestration) can
+    enhance our systems.
+  - Mentor peers and contribute to technical documentation,
+    design reviews, and shared best practices that raise the
+    engineering bar for applied ML systems.
+  
+  
+  You Have
+  
+  - 8+ years of experience in training and deploying ML models,
+    developing ML software, and shipping customer-facing ML
+    products.
+  - Deep understanding of modern ML techniques (e.g. Large
+    Language Models) and the ML lifecycle from data gathering,
+    training, model evaluation, MLOps, and productionizing
+    models.
+  - Ruthless pragmatism when solving new and unconventional
+    problems
+  - A desire to understand our clients' needs in order to design
+    tools and systems that solve our customer's problems. As a
+    platform team, our main customers are internal developers
+    and products.
+  - Ability to produce production-quality code and services
+    incorporating testing, evaluation, monitoring as well as
+    the ability to quickly adapt to a new domain, hack MVP's,
+    and iterate to improve product.
+  - Experience using any of the major cloud vendors for high
+    scale production use cases
+  - Strong communication skills (verbal and written) with
+    technical and non-technical stakeholders.
+  
+  
+  We're working to build a more inclusive economy where our
+  customers have equal access to opportunity, and we strive to
+  live by these same values in building our workplace. Block
+  is an equal opportunity employer evaluating all employees
+  and job applicants without regard to identity or any legally
+  protected class. We will consider qualified applicants with
+  arrest or conviction records for employment in accordance
+  with state and local laws and "fair chance" ordinances. We
+  believe in being fair, and are committed to an inclusive
+  interview experience, including providing reasonable
+  accommodations to disabled applicants throughout the
+  recruitment process. We encourage applicants to share any
+  needed accommodations with their recruiter, who will treat
+  these requests as confidentially as possible. Want to learn
+  more about what we're doing to build a workplace that is
+  fair and square? Check out our I+D page . While there is no
+  specific deadline to apply for this role, U.S. roles are
+  typically open for an average of 55 days before being filled
+  by a successful candidate. Please refer to the date listed
+  at the top of this job page for when this role was first
+  posted. Block takes a market-based approach to pay, and pay
+  may vary depending on your location. U.S. locations are
+  categorized into one of four zones based on a cost of labor
+  index for that geographic area. The successful candidate's
+  starting pay will be determined based on job-related skills,
+  experience, qualifications, work location, and market
+  conditions. These ranges may be modified in the future. Zone
+  A: USD $228,700 - USD $343,100 Zone B: USD $217,300 - USD
+  $325,900 Zone C: USD $205,900 - USD $308,900 Zone D: USD
+  $194,500 - USD $291,700 Use of AI in Our Hiring Process We
+  may use automated AI tools to evaluate job applications for
+  efficiency and consistency. These tools comply with local
+  regulations, including bias audits, and we handle all
+  personal data in accordance with state and local privacy
+  laws. Contact us here with hiring practice or data usage
+  questions. Every benefit we offer is designed with one goal:
+  empowering you to do the best work of your career while
+  building the life you want. Remote work, medical insurance,
+  flexible time off, retirement savings plans, and modern
+  family planning are just some of our offering. Check out our
+  other benefits at Block. Block, Inc. (NYSE: XYZ) builds
+  technology to increase access to the global economy. Each of
+  our brands unlocks different aspects of the economy for more
+  people. Square makes commerce and financial services
+  accessible to sellers. Cash App is the easy way to spend,
+  send, and store money. Afterpay is transforming the way
+  customers manage their spending over time. TIDAL is a music
+  platform that empowers artists to thrive as entrepreneurs.
+  Bitkey is a simple self-custody wallet built for bitcoin.
+  Proto is a suite of bitcoin mining products and services.
+  Together, we're helping build a financial system that is
+  open to everyone.
 industries:
   - Blockchain
   - eCommerce

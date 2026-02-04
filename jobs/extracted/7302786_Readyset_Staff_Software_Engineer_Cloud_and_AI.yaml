@@ -14,75 +14,178 @@ skills:
   - Rust
 company_size: 25 Employees
 description: |
-  **About Readyset**At Readyset, we are building a database cache with zero integration cost - just swap your connection string and take read latencies from ~100's of ms to under a ms while reducing costs. It precomputes the results of prepared statements (i.e. parameterized SQL queries) and incrementally updates these results over time as the underlying data in your database changes.
+  About Readyset
   
-  Readyset is wire-compatible with MySQL and Postgres, so it can be integrated with your existing application without code or database changes– Readyset makes it easy for developers to build performant web, analytical, and internal applications regardless of whether they’re deployed to a single region or around the world. 
+  At Readyset, we are building a database cache with zero
+  integration cost - just swap your connection string and take
+  read latencies from ~100's of ms to under a ms while
+  reducing costs. It precomputes the results of prepared
+  statements (i.e. parameterized SQL queries) and
+  incrementally updates these results over time as the
+  underlying data in your database changes.
   
-  We’re looking for people who are excited about exploring and productionizing the frontier of distributed systems and DB research to join our fully-remote team. You’d be a great fit at Readyset if you're excited about bringing to market data infrastructure that makes applications faster, simpler, and easier to deploy.
-  **About this role**
+  Readyset is wire-compatible with MySQL and Postgres, so it
+  can be integrated with your existing application without
+  code or database changes– Readyset makes it easy for
+  developers to build performant web, analytical, and internal
+  applications regardless of whether they’re deployed to a
+  single region or around the world.
   
-  We’re looking for a Staff Software Engineer to help build the next generation of AI-native cloud infrastructure: systems that power data-intensive products and bring advanced AI capabilities into production. Our Cloud and AI team moves fast and delivers what others call impossible, shipping ambitious systems at breakneck speed while maintaining engineering rigor.
+  We’re looking for people who are excited about exploring and
+  productionizing the frontier of distributed systems and DB
+  research to join our fully-remote team. You’d be a great fit
+  at Readyset if you're excited about bringing to market data
+  infrastructure that makes applications faster, simpler, and
+  easier to deploy.
   
-  The challenges we’re tackling are the ones that define enterprise-scale AI systems:
+  About this role
   
-  - **Freshness:** ensuring data is always current, since stale results immediately erode user trust.
+  We’re looking for a Staff Software Engineer to help build
+  the next generation of AI-native cloud infrastructure:
+  systems that power data-intensive products and bring
+  advanced AI capabilities into production. Our Cloud and AI
+  team moves fast and delivers what others call impossible,
+  shipping ambitious systems at breakneck speed while
+  maintaining engineering rigor.
   
-  - **Memory:** designing structured, retrievable memory so agents can behave reliably over time, not just like short-lived chatbots.
+  The challenges we’re tackling are the ones that define
+  enterprise-scale AI systems:
   
-  - **Cost:** keeping re-embedding, reranker passes, and LLM calls sustainable through batching, caching, and smart model routing.
+  - Freshness: ensuring data is always current, since stale
+    results immediately erode user trust.
+  - Memory: designing structured, retrievable memory so agents
+    can behave reliably over time, not just like short-lived
+    chatbots.
+  - Cost: keeping re-embedding, reranker passes, and LLM calls
+    sustainable through batching, caching, and smart model
+    routing.
   
-  We believe solving these challenges is key to making AI systems production-grade: responsive, reliable, and affordable at scale. As a Staff Engineer, you’ll play a central role in designing and operating the infrastructure that makes this possible.
-  **Responsibilities **
-  - Design and own critical services**:** hands-on development of systems that are robust, scalable, and simple to operate in production.
+  We believe solving these challenges is key to making AI
+  systems production-grade: responsive, reliable, and
+  affordable at scale. As a Staff Engineer, you’ll play a
+  central role in designing and operating the infrastructure
+  that makes this possible.
   
-  - Lead high-impact architectural decisions, balancing speed with sound engineering for 3–4 9s availability.
+  Responsibilities
   
-  - Work across the stack, from distributed cloud infrastructure to AI-driven features like retrieval, memory, and agent orchestration.
+  - Design and own critical services: hands-on development of
+    systems that are robust, scalable, and simple to operate
+    in production.
+  - Lead high-impact architectural decisions, balancing speed
+    with sound engineering for 3–4 9s availability.
+  - Work across the stack, from distributed cloud infrastructure
+    to AI-driven features like retrieval, memory, and agent
+    orchestration.
+  - Collaborate with leadership and product teams to translate
+    ambitious ideas into reality, fast.
+  - Act as a technical leader: mentor engineers, drive
+    engineering culture, and shape the way we build as we
+    scale.
+  - Contribute to Readyset’s engineering strategy and vision,
+    not just individual projects
   
-  - Collaborate with leadership and product teams to translate ambitious ideas into reality, fast.
+  You may be a good fit if you have…
   
-  - Act as a technical leader: mentor engineers, drive engineering culture, and shape the way we build as we scale.
+  - 10+ years of software engineering experience, ideally with
+    exposure to databases, data platforms, or large-scale
+    systems.
+  - Proven ability to design and run cloud services at scale
+    with high availability (3–4 9s).
+  - Experience with AI/ML systems or integrating LLMs into
+    production (retrieval pipelines, memory systems, agent
+    frameworks).
+  - Expert backend development experience in Python, Golang,
+    Java, Rust etc.; familiarity with modern frontend
+    frameworks a plus.
+  - Deep familiarity with AWS (experience with GCP/Azure a
+    plus).
+  - Demonstrated technical leadership: shaping architecture,
+    influencing design, and guiding teams through complexity.
+  - A mindset for velocity with rigor: moving fast without
+    compromising sound engineering
   
-  - Contribute to Readyset’s engineering strategy and vision, not just individual projects
-  **You may be a good fit if you have…**
-  - 10+ years of software engineering experience, ideally with exposure to databases, data platforms, or large-scale systems.
+  Why Readyset
   
-  - Proven ability to design and run cloud services at scale with high availability (3–4 9s).
+  At Readyset, you’ll join a high-caliber team of engineers
+  who have repeatedly built and shipped complex systems at
+  extraordinary speed. We are now adapting our proven database
+  performance technology to address the next generation of AI
+  infrastructure. This is an opportunity to help build one of
+  the next foundational companies in AI and data
+  infrastructure, with the resources and runway to match.
+  We’ve raised over $28M from top-tier investors to power our
+  growth. As a staff engineer, you won’t just execute; you’ll
+  set direction, shape architecture.
   
-  - Experience with AI/ML systems or integrating LLMs into production (retrieval pipelines, memory systems, agent frameworks).
+  Compensation
   
-  - Expert backend development experience in Python, Golang, Java, Rust etc.; familiarity with modern frontend frameworks a plus.
+  The salary range for this role is $190,000-240,000 USD per
+  year. This salary range may include multiple levels. Your
+  level is based on our assessment of your interview
+  performance and experience, which you can always ask the
+  hiring manager about to understand in more detail.  In
+  addition to salary, you’ll receive meaningful equity, giving
+  you real ownership in the company’s growth and success.
   
-  - Deep familiarity with AWS (experience with GCP/Azure a plus).
+  Health & Wellness
   
-  - Demonstrated technical leadership: shaping architecture, influencing design, and guiding teams through complexity.
+  We offer top-tier medical, dental, and vision coverage. Our
+  plans are designed with flexibility in mind, so you can
+  choose the coverage that best fits your needs.
   
-  - A mindset for velocity with rigor: moving fast without compromising sound engineering
-  ****Why Readyset ****
+  PTO & Parental Leave
   
-  At Readyset, you’ll join a high-caliber team of engineers who have repeatedly built and shipped complex systems at extraordinary speed. We are now adapting our proven database performance technology to address the next generation of AI infrastructure.**This is an opportunity to help build one of the next foundational companies in AI and data infrastructure, with the resources and runway to match. We’ve raised over $28M from top-tier investors to power our growth. As a staff engineer, you won’t just execute; you’ll set direction, shape architecture.
-  Compensation **
+  We offer unlimited PTO with minimum vacation recommendations
+  and encourage our team members to take time off whenever
+  they need it. We also offer 90 days of paid parental leave.
+  #LI-Remote
   
-  The salary range for this role is $190,000-240,000 USD per year. This salary range may include multiple levels. Your level is based on our assessment of your interview performance and experience, which you can always ask the hiring manager about to understand in more detail. **In addition to salary, you’ll receive meaningful equity, giving you real ownership in the company’s growth and success. 
+  Our Values Continuous Learning and Growth
   
-  Health & Wellness** ****
+  Having a product rooted in research out of MIT, a commitment
+  to learning is a requisite trait of every team member. We
+  work on cutting-edge problems in distributed systems and are
+  looking for engineers ready to rise to the challenge as we
+  revolutionize the use of SQL in modern web applications. We
+  want to be a company where all employees are excited to
+  continue learning and growing in their area of expertise, no
+  matter which role or team they are a part of.
   
-  We offer top-tier medical, dental, and vision coverage. Our plans are designed with flexibility in mind, so you can choose the coverage that best fits your needs.
-  **
-  PTO & Parental Leave **
+  Healthy Collaboration
   
-  We offer unlimited PTO with minimum vacation recommendations and encourage our team members to take time off whenever they need it. We also offer 90 days of paid parental leave.**#LI-Remote
+  Though every team member at Readyset is individually
+  exceptional, many of the problems we are solving have not
+  been solved before. This means engineering at Readyset is a
+  team sport.  We strive to give every engineer ownership over
+  their work while giving them the resources they need to
+  produce high-quality solutions. We welcome feedback on our
+  own ideas and create timelines with the assumption that part
+  of every day will be spent helping others. We also trust
+  that during disagreements, every teammate will prioritize
+  finding the best possible solution over being right. We
+  encourage collaboration and humility over ego.
   
-  Our Values ****Continuous Learning and Growth**Having a product rooted in research out of MIT, a commitment to learning is a requisite trait of every team member. We work on cutting-edge problems in distributed systems and are looking for engineers ready to rise to the challenge as we revolutionize the use of SQL in modern web applications. We want to be a company where all employees are excited to continue learning and growing in their area of expertise, no matter which role or team they are a part of.
-  **Healthy Collaboration**
+  Safety to Fail
   
-  Though every team member at Readyset is individually exceptional, many of the problems we are solving have not been solved before. This means engineering at Readyset is a team sport.  We strive to give every engineer ownership over their work while giving them the resources they need to produce high-quality solutions. We welcome feedback on our own ideas and create timelines with the assumption that part of every day will be spent helping others. We also trust that during disagreements, every teammate will prioritize finding the best possible solution over being right. We encourage collaboration and humility over ego. 
-  **Safety to Fail**
+  As a growth stage company tackling huge engineering
+  challenges, sometimes we fail. When this happens, we don’t
+  place blame or keep score and are willing to acknowledge
+  when we could have done better. Most importantly, we are
+  committed to learning and improving as much as possible from
+  every failure so we have a higher chance of succeeding the
+  next time.
   
-  As a growth stage company tackling huge engineering challenges, sometimes we fail. When this happens, we don’t place blame or keep score and are willing to acknowledge when we could have done better. Most importantly, we are committed to learning and improving as much as possible from every failure so we have a higher chance of succeeding the next time.
-  **Diversity and Inclusion**
+  Diversity and Inclusion
   
-  ReadySet knows that a diverse workforce directly contributes to a higher quality product for our customers. We have put immense effort into fostering an inclusive, diverse work environment from the time of the company’s founding. We expect everyone to bring empathy and respect to all of their interactions with coworkers and customers. Encouraging everyone to bring their unique perspectives to the table when solving problems helps us build and deliver stronger products.
+  ReadySet knows that a diverse workforce directly contributes
+  to a higher quality product for our customers. We have put
+  immense effort into fostering an inclusive, diverse work
+  environment from the time of the company’s founding. We
+  expect everyone to bring empathy and respect to all of their
+  interactions with coworkers and customers. Encouraging
+  everyone to bring their unique perspectives to the table
+  when solving problems helps us build and deliver stronger
+  products.
 industries:
   - Cloud
   - Software

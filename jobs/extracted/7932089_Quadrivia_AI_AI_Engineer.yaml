@@ -17,130 +17,106 @@ skills:
   - Python
 company_size: 29 Employees
 description: |
-  **About Us**
+  About Us
   
-  Quadrivia is the health technology company behind Qu, a comprehensive, controllable, and customizable assistant AI built by clinicians, for clinicians. Addressing the urgent shortage of healthcare professionals, Qu provides real-time, personal, and reliable support for clinical tasks across the care continuum. Designed for providers, payers, and pharmaceutical companies, Qu is easy to customize and integrates seamlessly into workflows, delivering precise assistance across the care spectrum.
+  Quadrivia is the health technology company behind Qu, a
+  comprehensive, controllable, and customizable assistant AI
+  built by clinicians, for clinicians. Addressing the urgent
+  shortage of healthcare professionals, Qu provides real-time,
+  personal, and reliable support for clinical tasks across the
+  care continuum. Designed for providers, payers, and
+  pharmaceutical companies, Qu is easy to customize and
+  integrates seamlessly into workflows, delivering precise
+  assistance across the care spectrum.
   
-  ****The Role****
+  The Role
   
-  Own and evolve the core “brain” service that powers Qu. Design, build, and operate multi-agent LLM systems that communicate in real time over text and voice. Ship fast Python services with FastAPI, keep latency low, quality high, and evaluation continuous.
+  Own and evolve the core “brain” service that powers Qu.
+  Design, build, and operate multi-agent LLM systems that
+  communicate in real time over text and voice. Ship fast
+  Python services with FastAPI, keep latency low, quality
+  high, and evaluation continuous.
   
-  ****What You’ll Do****
-  - 
+  What You’ll Do
   
-  **Own Qu’s brain service** end to end: architecture, SLAs, latency budgets, error modes, rollouts.
+  - Own Qu’s brain service end to end: architecture, SLAs,
+    latency budgets, error modes, rollouts.
+  - Low-latency comms: streaming text and voice, VAD, barge-in,
+    turn-taking, interruption handling. WebRTC, SIP, and
+    LiveKit experience is a strong plus.
+  - Multi-agent orchestration: planner–executor–critic patterns,
+    role routing, shared memory, tool routers, coordination
+    protocols and evaluation.
+  - Reasoning & optimization: ReAct, Chain-of-Thought, plus
+    Tree-/Graph-of-Thoughts when useful.
+  - Programmatic prompt optimization: DSPy for prompt/program
+    compilation; integrate MiPRO and GEPA for iterative prompt
+    evolution under eval constraints.
+  - RAG engineering: high-signal retrieval (chunking, hybrid
+    search, re-ranking), query rewriting, compression,
+    caching, freshness, and strong grounding; evaluate
+    faithfulness, context precision/recall, and answer
+    relevancy.
+  - Evaluation & observability: Pre-call validate inputs,
+    enforce safety, and verify retrieval quality for RAG; in-
+    call trace prompts, tool calls, token/latency/cost and
+    enforce streaming guardrails; post-call run automated task
+    evals (faithfulness, relevancy, hallucination, safety),
+    regressions, red-teaming, and CI/CD gates. Instrument with
+    structured logs and OpenTelemetry, surface dashboards and
+    alerts, and feed live traffic slices into shadow evals for
+    drift detection.
   
-  - 
+  Minimum Qualifications
   
-  **Low-latency comms:** streaming text and voice, VAD, barge-in, turn-taking, interruption handling. WebRTC, SIP, and LiveKit experience is a strong plus.
+  - 5+ years in ML or backend engineering in product
+    environments; recent focus on LLM systems.
+  - Expert Python. Strong FastAPI, asyncio, pydantic, and
+    production observability.
+  - Real-time systems: you’ve built or integrated low-latency
+    text/voice. You have used LiveKit, Pipecat or similar
+    tech.
+  - Working knowledge of agent patterns and eval-driven
+    development.
+  - Hands-on with ReAct and CoT; pragmatic with ToT/GoT
+    tradeoffs.
+  - Prior startup experience.
   
-  - 
+  Nice To Have
   
-  **Multi-agent orchestration:** planner–executor–critic patterns, role routing, shared memory, tool routers, coordination protocols and evaluation.
+  - DSPy for compilation and self-improving workflows;
+    MiPRO/GEPA integration.
+  - Experience with evaluation tooling and LLM-as-judge setups.
+  - WebRTC/SRTP, jitter buffers, SIP basics; LiveKit a plus.
+  - LiveKit Agents, SIP–WebRTC gateways, TURN/SFU tuning.
+  - GCP: Cloud Run/GKE, Pub/Sub, Vertex AI, GCS, Secret Manager,
+    Cloud Logging/Trace.
+  - Healthcare data familiarity.
   
-  - 
+  Example Problems You’ll Tackle
   
-  **Reasoning & optimization:** ReAct, Chain-of-Thought, plus Tree-/Graph-of-Thoughts when useful.
+  - Push median voice round-trip under 2 seconds while
+    preserving turn-taking and barge-in.
+  - Set up OTEL-first tracing for the agent graph with automated
+    eval triggers on production traffic slices.
+  - Improve our RAG pipeline with hybrid retrieval and re-
+    ranking, then prove gains via faithfulness and context
+    metrics with regression harnesses.
+  - Turn EHR integrations into LLM tools.
   
-  - 
+  Tech Stack
   
-  **Programmatic prompt optimization:** DSPy for prompt/program compilation; integrate MiPRO and GEPA for iterative prompt evolution under eval constraints.
+  Python, FastAPI, pydantic, asyncio, Redis, Postgres, vector
+  stores, WebRTC stacks, LiveKit, SIP gateways, STT/TTS,
+  Docker, Terraform, K8s, OTEL, DeepEval.
   
-  - 
+  What You Get
   
-  **RAG engineering:** high-signal retrieval (chunking, hybrid search, re-ranking), query rewriting, compression, caching, freshness, and strong grounding; evaluate faithfulness, context precision/recall, and answer relevancy.
-  
-  - 
-  
-  **Evaluation & observability:** Pre-call validate inputs, enforce safety, and verify retrieval quality for RAG; in-call trace prompts, tool calls, token/latency/cost and enforce streaming guardrails; post-call run automated task evals (faithfulness, relevancy, hallucination, safety), regressions, red-teaming, and CI/CD gates. Instrument with structured logs and OpenTelemetry, surface dashboards and alerts, and feed live traffic slices into shadow evals for drift detection.
-  
-  ****Minimum Qualifications****
-  - 
-  
-  5+ years in ML or backend engineering in product environments; recent focus on LLM systems.
-  
-  - 
-  
-  Expert Python. Strong FastAPI, asyncio, pydantic, and production observability.
-  
-  - 
-  
-  Real-time systems: you’ve built or integrated low-latency text/voice. You have used LiveKit, Pipecat or similar tech.
-  
-  - 
-  
-  Working knowledge of agent patterns and eval-driven development.
-  
-  - 
-  
-  Hands-on with ReAct and CoT; pragmatic with ToT/GoT tradeoffs.
-  
-  - 
-  
-  Prior startup experience.
-  
-  ****Nice To Have****
-  - 
-  
-  DSPy for compilation and self-improving workflows; MiPRO/GEPA integration.
-  
-  - 
-  
-  Experience with evaluation tooling and LLM-as-judge setups.
-  
-  - 
-  
-  WebRTC/SRTP, jitter buffers, SIP basics; LiveKit a plus.
-  
-  - 
-  
-  LiveKit Agents, SIP–WebRTC gateways, TURN/SFU tuning.
-  
-  - 
-  
-  GCP: Cloud Run/GKE, Pub/Sub, Vertex AI, GCS, Secret Manager, Cloud Logging/Trace.
-  
-  - 
-  
-  Healthcare data familiarity.
-  
-  ****Example Problems You’ll Tackle****
-  - 
-  
-  Push median voice round-trip under 2 seconds while preserving turn-taking and barge-in.
-  
-  - 
-  
-  Set up OTEL-first tracing for the agent graph with automated eval triggers on production traffic slices.
-  
-  - 
-  
-  Improve our RAG pipeline with hybrid retrieval and re-ranking, then prove gains via faithfulness and context metrics with regression harnesses.
-  
-  - 
-  
-  Turn EHR integrations into LLM tools.
-  
-  ****Tech Stack****
-  
-  Python, FastAPI, pydantic, asyncio, Redis, Postgres, vector stores, WebRTC stacks, LiveKit, SIP gateways, STT/TTS, Docker, Terraform, K8s, OTEL, DeepEval.
-  
-  ****What You Get****
-  - 
-  
-  Work on cutting-edge real-time agent tech with a best-in-class team in healthtech.
-  
-  - 
-  
-  Fun off-sites in Barcelona.
-  
-  - 
-  
-  High-tech laptop and solid dev ergonomics.
-  
-  - 
-  
-  Flexibility: work from home or hybrid in Barcelona/London.
+  - Work on cutting-edge real-time agent tech with a best-in-
+    class team in healthtech.
+  - Fun off-sites in Barcelona.
+  - High-tech laptop and solid dev ergonomics.
+  - Flexibility: work from home or hybrid in Barcelona/London.
 industries:
   - Artificial Intelligence
   - Healthtech

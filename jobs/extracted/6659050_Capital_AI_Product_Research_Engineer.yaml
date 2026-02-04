@@ -17,77 +17,105 @@ skills:
   - Langchain
 company_size: 18 Employees
 description: |
-  We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only the best, so we are always in search of the best people to join our ever-growing talented team.
+  We are a leading trading platform that is ambitiously
+  expanding to the four corners of the globe. Our top-rated
+  products have won prestigious industry awards for their
+  cutting-edge technology and seamless client experience. We
+  deliver only the best, so we are always in search of the
+  best people to join our ever-growing talented team.
   
-  **
+  We’re spinning up a brand-new AI department and need a
+  first-on-the-ground engineer who can turn wild LLM ideas
+  into working demos overnight, teach everyone around you why
+  automation matters, and have fun doing it.
   
-  We’re spinning up a brand-new AI department and need a *first-on-the-ground* engineer who can turn wild LLM ideas into working demos overnight, teach everyone around you why automation matters, and have fun doing it.
+  If you can ship Python or TypeScript prototypes, keep
+  reading.
   
-  If you can ship Python or TypeScript prototypes, keep reading.
+  Responsibilities:
   
-  Responsibilities:**
+  - Prompt Engineering & Orchestration: Craft, iterate, and
+    optimize prompts for APIs (OpenAI, Cohere, Anthropic).
+    Build multi-step “chains” using LangChain, LlamaIndex, or
+    custom controllers. Develop and maintain AI microservices
+    using Docker, Kubernetes, and FastAPI, ensuring smooth
+    model serving and error handling;
+  - Vector Search & Retrieval: Implement retrieval-augmented
+    workflows: ingest documents, index embeddings (Pinecone,
+    FAISS, Weaviate), and build similarity search features.
+  - Rapid Prototyping: Create interactive AI demos and proofs-
+    of-concept with Streamlit, Gradio, or Next.js for
+    stakeholder feedback;
+  - MLOps & Deployment: Implement CI/CD pipelines (e.g., GitLab
+    Actions, Apache Airflow), experiment tracking (MLflow),
+    and model monitoring for reliable production workflows;
+  - Cross-Functional Collaboration: Participate in code reviews,
+    architectural discussions, and sprint planning to deliver
+    features end-to-end.
   
-  - **Prompt Engineering & Orchestration: **Craft, iterate, and optimize prompts for APIs (OpenAI, Cohere, Anthropic). Build multi-step “chains” using LangChain, LlamaIndex, or custom controllers. Develop and maintain AI microservices using Docker, Kubernetes, and FastAPI, ensuring smooth model serving and error handling;
-  
-  - **Vector Search & Retrieval: **Implement retrieval-augmented workflows: ingest documents, index embeddings (Pinecone, FAISS, Weaviate), and build similarity search features.
-  
-  - **Rapid Prototyping:** Create interactive AI demos and proofs-of-concept with Streamlit, Gradio, or Next.js for stakeholder feedback;
-  
-  - **MLOps & Deployment:** Implement CI/CD pipelines (e.g., GitLab Actions, Apache Airflow), experiment tracking (MLflow), and model monitoring for reliable production workflows;
-  
-  - **Cross-Functional Collaboration:** Participate in code reviews, architectural discussions, and sprint planning to deliver features end-to-end.
-  
-  **Requirements:**
+  Requirements:
   
   - Master’s degree in AI and/or Computer Science;
-  
-  - Hands-on experience integrating LLM APIs (e.g. OpenAI, Hugging Face Inference);
-  
-  - Practical experience fine-tuning LLMs via OpenAI, HuggingFace or similar APIs;
-  
+  - Hands-on experience integrating LLM APIs (e.g. OpenAI,
+    Hugging Face Inference);
+  - Practical experience fine-tuning LLMs via OpenAI,
+    HuggingFace or similar APIs;
   - Strong proficiency in Python;
+  - Deep expertise in prompt engineering and tooling like
+    LangChain or LlamaIndex;
+  - Proficiency with vector databases (Pinecone, FAISS,
+    Weaviate) and document embedding pipelines;
+  - Proven rapid-prototyping skills using Streamlit or
+    equivalent frameworks for UI demos.
+  - Familiarity with containerization (Docker) and at least one
+    orchestration/deployment platform;
+  - Excellent communication and ability to frame AI solutions in
+    business terms.
   
-  - Deep expertise in prompt engineering and tooling like LangChain or LlamaIndex;
+  Nice-to-have:
   
-  - Proficiency with vector databases (Pinecone, FAISS, Weaviate) and document embedding pipelines;
-  
-  - Proven rapid-prototyping skills using Streamlit or equivalent frameworks for UI demos.
-  
-  - Familiarity with containerization (Docker) and at least one orchestration/deployment platform;
-  
-  - Excellent communication and ability to frame AI solutions in business terms.
-  
-  **Nice-to-have:**
-  
-  - Familiarity with database systems (PostgreSQL, MongoDB) and caching layers (Redis);
-  
+  - Familiarity with database systems (PostgreSQL, MongoDB) and
+    caching layers (Redis);
   - Open-source contributions or published AI demos;
+  - Understanding of cost-optimization, monitoring for LLM usage
+    and model-API trade-offs;
+  - Familiarity with prompt engineering best practices and
+    “vibe-coding” tools (e.g., GitHub Copilot, Cursor IDE);
+  - Willingness to travel occasionally for team offsites or
+    workshops.
   
-  - Understanding of cost-optimization, monitoring for LLM usage and model-API trade-offs;
+  What you will get in return:
   
-  - Familiarity with prompt engineering best practices and “vibe-coding” tools (e.g., GitHub Copilot, Cursor IDE);
+  - Competitive Salary: We believe great work deserves great
+    pay! Your skills and talents will be rewarded with a
+    salary that makes you feel valued and motivated.
+  - Work-Life Harmony: Join a company that genuinely cares about
+    you - because your life outside of work matters just as
+    much as your time on the clock. #LI-Hybrid
+  - Annual Performance Bonus: Your hard work doesn’t go
+    unnoticed! Celebrate your achievements with a well-
+    deserved annual bonus tied to your performance.
+  - Generous Time Off: Need a breather? Our annual leave policy
+    lets you recharge and enjoy life outside of work without a
+    worry.
+  - Employee Referral Program: Love working here? Share the
+    love! Bring your talented friends on board and get
+    rewarded for growing our awesome team.
+  - Comprehensive Health & Pension Benefits: From medical
+    insurance to pension plans, we’ve got your back. Plus,
+    location-specific benefits and perks!
+  - Workation Wonderland: Live your digital nomad dreams with 30
+    extra days to work remotely from anywhere in the world
+    (some restrictions apply). Adventure awaits!
+  - Volunteer Days: Make a difference! Take two additional paid
+    days each year to support causes you care about and give
+    back to the community.
   
-  - Willingness to travel occasionally for team offsites or workshops.
-  
-  **What you will get in return:**
-  
-  - **Competitive Salary:** We believe great work deserves great pay! Your skills and talents will be rewarded with a salary that makes you feel valued and motivated.
-  
-  -  **Work-Life Harmony:** Join a company that genuinely cares about you - because your life outside of work matters just as much as your time on the clock. #LI-Hybrid
-  
-  - **Annual Performance Bonus:** Your hard work doesn’t go unnoticed! Celebrate your achievements with a well-deserved annual bonus tied to your performance.
-  
-  - **Generous Time Off:** Need a breather? Our annual leave policy lets you recharge and enjoy life outside of work without a worry.
-  
-  - **Employee Referral Program:** Love working here? Share the love! Bring your talented friends on board and get rewarded for growing our awesome team.
-  
-  - **Comprehensive Health & Pension Benefits:** From medical insurance to pension plans, we’ve got your back. Plus, location-specific benefits and perks!
-  
-  - **Workation Wonderland:** Live your digital nomad dreams with 30 extra days to work remotely from anywhere in the world (some restrictions apply). Adventure awaits!
-  
-  - **Volunteer Days:** Make a difference! Take two additional paid days each year to support causes you care about and give back to the community.
-  
-  Be a key player at the forefront of the digital assets movement, propelling your career to new heights! Join a dynamic and rapidly expanding company that values and rewards talent, initiative, and creativity. Work alongside one of the most brilliant teams in the industry.
+  Be a key player at the forefront of the digital assets
+  movement, propelling your career to new heights! Join a
+  dynamic and rapidly expanding company that values and
+  rewards talent, initiative, and creativity. Work alongside
+  one of the most brilliant teams in the industry.
 posted_date: 2026-01-11
 url: https://builtin.com/job/ai-product-research-engineer/6659050
 source: Built In

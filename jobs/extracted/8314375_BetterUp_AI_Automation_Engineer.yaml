@@ -17,243 +17,260 @@ skills:
   - Python
 company_size: 510 Employees
 description: |
-  **Let’s face it, a company whose mission is human transformation better have some fresh thinking about the employer/employee relationship.**
-  
-  We do. We can’t cram it all in here, but you’ll start noticing it from the first interview.
-  
-  Even our candidate experience is different. And when you get an offer from us (and accept it), you get way more than a paycheck. You get a personal BetterUp Coach, a development plan, a trained and coached manager, the most amazing team you’ve ever met (yes, each with their own personal BetterUp Coach), and most importantly, work that matters.
-  
-  This makes for a remarkably focused and fulfilling work experience. Frankly, it’s not for everyone. But for people with fire in their belly, it’s a game-changing, career-defining, soul-lifting move.
-  
-  **Join us and we promise you the most intense and fulfilling years of your career, doing life-changing work in a fun, inventive, soulful culture.**
-  
-  If that sounds exciting—and the job description below feels like a fit—we really should start talking.
-  
-  **We are a hybrid company with a focus on in-person collaboration when necessary. Employees are expected to be available to work from one of our office hubs at least two days per week, or eight days per month. Our US hub locations include: Austin, TX; Chicago, IL; New York City, NY; San Francisco, CA; and the Washington, DC metro area. If this is a role based in Europe, our Europe hub locations are London, UK and Amsterdam, NL. Please ensure you can realistically commit to this structure before applying.**
-  
-  We’re looking for an AI Automation and Integration Engineer to join our rapidly evolving IT & AI Workspace Technology team. This role is for a hands-on builder who thrives on creating smarter, more connected systems—someone who can transform manual workflows into intelligent, AI-enabled automations using cutting-edge tools like Model Context Protocol (MCP), Slack workflows, and secure system integrations.
-  
-  You’ll design and implement scalable automations across our SaaS ecosystem, partner closely with our AI product and infrastructure teams, and bring a high degree of technical rigor and curiosity to every problem you solve.
-  
-  This is a key role on a small, fast-moving team where your work will directly impact how we scale, automate, and future-proof our internal operations.
-  
-  **What you’ll do:**
-  
-  **MCP & AI Workflow Engineering**
-  
-  - 
-  
-  Implement and scale our Model Context Protocol (MCP) to support secure, composable AI workflows across Slack, Jira, Salesforce, GitHub, AWS-based infrastructure, LLM providers (e.g., Claude), and internal APIs.
-  
-  - 
-  
-  Design agentic systems that enable AI tooling to integrate seamlessly with operational data and user identity services.
-  
-  - 
-  
-  Author requests for comments (RFCs), technical requirements documents (TRDs), and internal documentation to align MCP features with enterprise use cases.
-  
-  **Automation & Integration Development**
-  
-  - 
-  
-  Build and maintain scalable automations and secure APIs to reduce operational overhead in onboarding, provisioning, and data lifecycle management.
-  
-  - 
-  
-  Own development and maintenance of reusable modules for identity sync, data uploads (e.g., CSV bulk importers), and AI-to-API orchestration.
-  
-  - 
-  
-  Drive continuous improvement across automation platforms by collaborating with stakeholder teams across the business.
-  
-  **Security, Identity & System Governance**
-  
-  - 
-  
-  Work with InfoSec and IT teams to enforce role-based access controls and SAML/SSO integrations
-  
-  - 
-  
-  Harden identity workflows across US and EU regions, ensuring compliance with internal and external standards.
-  
-  - 
-  
-  Support audit readiness through traceable change management and data integrity practices.
-  
-  **Cross-Functional Collaboration**
-  
-  - 
-  
-  Attend cross functional standups, Architecture Roundtables, and AI working groups to ensure engineering solutions align with company goals.
-  
-  - 
-  
-  Partner closely with stakeholders to balance speed and safety in fast-moving pilot initiatives.
-  
-  - 
-  
-  Advocate for test-driven development (TDD), documentation, and open source-inspired code reusability.
-  
-  **What Success Looks Like **
-  
-  - 
-  
-  MCP server scaled and adopted across multiple workflows with stable, secure integrations
-  
-  - 
-  
-  Automation measurably reduced manual data entry through bulk import and automation tooling (e.g., 50% reduction).
-  
-  - 
-  
-  Onboarding and provisioning latency improved through identity automation (e.g., 30% faster completion).
-  
-  - 
-  
-  Clear documentation, playbooks, and dashboards enable stakeholders to self-serve with AI tools and automation templates, not rely on ad-hoc IT custom work.
-  
-  - 
-  
-  All automation systems have strong test coverage, robust monitoring, and meet security review requirements, with audit-ready logs for provisioning and data movement.
-  
-  - 
-  
-  Impact is visible and quantified through simple time-saved and adoption metrics layered on top of Jira, dashboards, and usage telemetry.
-  
-  **If you have some or all of the following, please apply:**
-  
-  **Required:**
-  
-  - 
-  
-  3–6 years of professional experience in software or systems engineering, with demonstrated ability to own backend services, integrations, or automation workflows with minimal oversight.
-  
-  - 
-  
-  Experience integrating AI capabilities into production systems, including orchestrating LLM-powered workflows across APIs, event-driven systems, and internal services.
-  
-  - 
-  
-  Hands-on experience designing AI-assisted automations that operate on real business data with appropriate context, permissions, and safeguards.
-  
-  - 
-  
-  Familiarity with using LLM providers (e.g., Claude or similar) as part of larger systems rather than standalone chat or prompt-based tools.
-  
-  - 
-  
-  Demonstrated experience integrating APIs and building automations across complex SaaS ecosystems.
-  
-  - 
-  
-  Proficiency in n8n and Zapier or custom-built orchestration tools
-  
-  - 
-  
-  Hands-on experience building pipelines or automations using MCP, Step Functions, or equivalent event-driven architectures
-  
-  - 
-  
-  Strong scripting or development skills (e.g., Python, ROR or JavaScript) for writing custom connectors or data transformations
-  
-  - 
-  
-  Familiarity with common SaaS platforms including Okta, Jira, Slack, Workday, Google Workspace, FreshService, and their APIs
-  
-  - 
-  
-  Experience working with authentication protocols (e.g., SAML, OAuth), and systems like Okta, GCP, or AWS.
-  
-  **Preferred:**
-  
-  - 
-  
-  Experience operating MCP-based or similar AI-enabled workflows in production environments, including considerations for reliability, observability, and ongoing maintenance.
-  
-  - 
-  
-  Prior contributions to audit, compliance, or governance-related tooling, such as provisioning logs, access tracking, or data integrity checks.
-  
-  - 
-  
-  Strong documentation practices, including maintaining technical artifacts (RFCs, diagrams, runbooks, and playbooks) as part of day-to-day work.
-  
-  - 
-  
-  Comfort acting as an embedded technical partner to non-technical stakeholders (e.g., HR, Recruiting, People Ops, Finance), with the ability to explain complex systems clearly, set expectations, and co-own automation roadmaps.
-  
-  - 
-  
-  Familiarity with operating and debugging production systems using tools such as logging, monitoring, and basic data stores (e.g., DataDog, Postgres, Redis), as well as supporting file-based or “last mile” integrations when needed.
-  
-  - 
-  
-  Comfort with working as an embedded partner with non-technical stakeholders (EAs, HR, Recruiting, People Ops, Finance), including training them on automation patterns and co-owning roadmaps for the next set of high-impact automations.
-  
-  **AI at BetterUp**
-  
-  Our team thrives at the intersection of human expertise and AI capability. As an AI-forward company, adaptation and continuous learning are part of our daily work. We're looking for teammates who are excited to evolve alongside technology – people who experiment boldly, share their discoveries openly, and help define best practices for AI-augmented work. These professionals thoughtfully integrate AI into their work to deliver exceptional results while maintaining the human judgment and creativity that drives real innovation. During our interview process, you’ll have opportunities to showcase how you harness AI to learn, iterate, and amplify your impact.
-  
-  **Benefits: **
-  
-  At BetterUp, we are committed to living out our mission every day and that starts with providing benefits that allow our employees to care for themselves, support their families, and give back to their community. 
-  
-  - 
-  
-  Access to BetterUp coaching; one for you and one for a friend or family member 
-  
-  - 
-  
-  A competitive compensation plan with opportunity for advancement
-  
-  - 
-  
-  Medical, dental, and vision insurance
-  
-  - 
-  
-  Flexible paid time off
-  
-  - 
-  
-  Per year: 
-  
-  All federal/statutory holidays observed
-  
-  - 
-  
-  4 BetterUp Inner Workdays (https://www.betterup.co/inner-work)
-  
-  - 
-  
-  5 Volunteer Days to give back
-  
-  - 
-  
-  Learning and Development stipend
-  
-  - 
-  
-  Company wide Summer & Winter breaks
-  
-  - 
-  
-  Year-round charitable contribution of your choice on behalf of BetterUp
-  
-  - 
-  
-  401(k) self contribution
-  
-  We are dedicated to building diverse teams that fuel an authentic workplace and sense of belonging for each and every employee. We know applying for a job can be intimidating, please don’t hesitate to reach out — we encourage everyone interested in joining us to apply.
-  
-  BetterUp Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, disability, genetics, gender, sexual orientation, age, marital status, veteran status. In addition to federal law requirements, BetterUp Inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
-  
-  At BetterUp, we compensate our employees fairly for their work. Base salary is determined by job-related experience, education/training, residence location, as well as market indicators. The range below is representative of base salary only and does not include equity, sales bonus plans (when applicable) and benefits. This range may be modified in the future.
+  Let’s face it, a company whose mission is human
+  transformation better have some fresh thinking about the
+  employer/employee relationship.
+  
+  We do. We can’t cram it all in here, but you’ll start
+  noticing it from the first interview.
+  
+  Even our candidate experience is different. And when you get
+  an offer from us (and accept it), you get way more than a
+  paycheck. You get a personal BetterUp Coach, a development
+  plan, a trained and coached manager, the most amazing team
+  you’ve ever met (yes, each with their own personal BetterUp
+  Coach), and most importantly, work that matters.
+  
+  This makes for a remarkably focused and fulfilling work
+  experience. Frankly, it’s not for everyone. But for people
+  with fire in their belly, it’s a game-changing, career-
+  defining, soul-lifting move.
+  
+  Join us and we promise you the most intense and fulfilling
+  years of your career, doing life-changing work in a fun,
+  inventive, soulful culture.
+  
+  If that sounds exciting—and the job description below feels
+  like a fit—we really should start talking.
+  
+  We are a hybrid company with a focus on in-person
+  collaboration when necessary. Employees are expected to be
+  available to work from one of our office hubs at least two
+  days per week, or eight days per month. Our US hub locations
+  include: Austin, TX; Chicago, IL; New York City, NY; San
+  Francisco, CA; and the Washington, DC metro area. If this is
+  a role based in Europe, our Europe hub locations are London,
+  UK and Amsterdam, NL. Please ensure you can realistically
+  commit to this structure before applying.
+  
+  We’re looking for an AI Automation and Integration Engineer
+  to join our rapidly evolving IT & AI Workspace Technology
+  team. This role is for a hands-on builder who thrives on
+  creating smarter, more connected systems—someone who can
+  transform manual workflows into intelligent, AI-enabled
+  automations using cutting-edge tools like Model Context
+  Protocol (MCP), Slack workflows, and secure system
+  integrations.
+  
+  You’ll design and implement scalable automations across our
+  SaaS ecosystem, partner closely with our AI product and
+  infrastructure teams, and bring a high degree of technical
+  rigor and curiosity to every problem you solve.
+  
+  This is a key role on a small, fast-moving team where your
+  work will directly impact how we scale, automate, and
+  future-proof our internal operations.
+  
+  What you’ll do:
+  
+  MCP & AI Workflow Engineering
+  
+  - Implement and scale our Model Context Protocol (MCP) to
+    support secure, composable AI workflows across Slack,
+    Jira, Salesforce, GitHub, AWS-based infrastructure, LLM
+    providers (e.g., Claude), and internal APIs.
+  - Design agentic systems that enable AI tooling to integrate
+    seamlessly with operational data and user identity
+    services.
+  - Author requests for comments (RFCs), technical requirements
+    documents (TRDs), and internal documentation to align MCP
+    features with enterprise use cases.
+  
+  Automation & Integration Development
+  
+  - Build and maintain scalable automations and secure APIs to
+    reduce operational overhead in onboarding, provisioning,
+    and data lifecycle management.
+  - Own development and maintenance of reusable modules for
+    identity sync, data uploads (e.g., CSV bulk importers),
+    and AI-to-API orchestration.
+  - Drive continuous improvement across automation platforms by
+    collaborating with stakeholder teams across the business.
+  
+  Security, Identity & System Governance
+  
+  - Work with InfoSec and IT teams to enforce role-based access
+    controls and SAML/SSO integrations
+  - Harden identity workflows across US and EU regions, ensuring
+    compliance with internal and external standards.
+  - Support audit readiness through traceable change management
+    and data integrity practices.
+  
+  Cross-Functional Collaboration
+  
+  - Attend cross functional standups, Architecture Roundtables,
+    and AI working groups to ensure engineering solutions
+    align with company goals.
+  - Partner closely with stakeholders to balance speed and
+    safety in fast-moving pilot initiatives.
+  - Advocate for test-driven development (TDD), documentation,
+    and open source-inspired code reusability.
+  
+  What Success Looks Like
+  
+  - MCP server scaled and adopted across multiple workflows with
+    stable, secure integrations
+  - Automation measurably reduced manual data entry through bulk
+    import and automation tooling (e.g., 50% reduction).
+  - Onboarding and provisioning latency improved through
+    identity automation (e.g., 30% faster completion).
+  - Clear documentation, playbooks, and dashboards enable
+    stakeholders to self-serve with AI tools and automation
+    templates, not rely on ad-hoc IT custom work.
+  - All automation systems have strong test coverage, robust
+    monitoring, and meet security review requirements, with
+    audit-ready logs for provisioning and data movement.
+  - Impact is visible and quantified through simple time-saved
+    and adoption metrics layered on top of Jira, dashboards,
+    and usage telemetry.
+  
+  If you have some or all of the following, please apply:
+  
+  Required:
+  
+  - 3–6 years of professional experience in software or systems
+    engineering, with demonstrated ability to own backend
+    services, integrations, or automation workflows with
+    minimal oversight.
+  - Experience integrating AI capabilities into production
+    systems, including orchestrating LLM-powered workflows
+    across APIs, event-driven systems, and internal services.
+  - Hands-on experience designing AI-assisted automations that
+    operate on real business data with appropriate context,
+    permissions, and safeguards.
+  - Familiarity with using LLM providers (e.g., Claude or
+    similar) as part of larger systems rather than standalone
+    chat or prompt-based tools.
+  - Demonstrated experience integrating APIs and building
+    automations across complex SaaS ecosystems.
+  - Proficiency in n8n and Zapier or custom-built orchestration
+    tools
+  - Hands-on experience building pipelines or automations using
+    MCP, Step Functions, or equivalent event-driven
+    architectures
+  - Strong scripting or development skills (e.g., Python, ROR or
+    JavaScript) for writing custom connectors or data
+    transformations
+  - Familiarity with common SaaS platforms including Okta, Jira,
+    Slack, Workday, Google Workspace, FreshService, and their
+    APIs
+  - Experience working with authentication protocols (e.g.,
+    SAML, OAuth), and systems like Okta, GCP, or AWS.
+  
+  Preferred:
+  
+  - Experience operating MCP-based or similar AI-enabled
+    workflows in production environments, including
+    considerations for reliability, observability, and ongoing
+    maintenance.
+  - Prior contributions to audit, compliance, or governance-
+    related tooling, such as provisioning logs, access
+    tracking, or data integrity checks.
+  - Strong documentation practices, including maintaining
+    technical artifacts (RFCs, diagrams, runbooks, and
+    playbooks) as part of day-to-day work.
+  - Comfort acting as an embedded technical partner to non-
+    technical stakeholders (e.g., HR, Recruiting, People Ops,
+    Finance), with the ability to explain complex systems
+    clearly, set expectations, and co-own automation roadmaps.
+  - Familiarity with operating and debugging production systems
+    using tools such as logging, monitoring, and basic data
+    stores (e.g., DataDog, Postgres, Redis), as well as
+    supporting file-based or “last mile” integrations when
+    needed.
+  - Comfort with working as an embedded partner with non-
+    technical stakeholders (EAs, HR, Recruiting, People Ops,
+    Finance), including training them on automation patterns
+    and co-owning roadmaps for the next set of high-impact
+    automations.
+  
+  AI at BetterUp
+  
+  Our team thrives at the intersection of human expertise and
+  AI capability. As an AI-forward company, adaptation and
+  continuous learning are part of our daily work. We're
+  looking for teammates who are excited to evolve alongside
+  technology – people who experiment boldly, share their
+  discoveries openly, and help define best practices for AI-
+  augmented work. These professionals thoughtfully integrate
+  AI into their work to deliver exceptional results while
+  maintaining the human judgment and creativity that drives
+  real innovation. During our interview process, you’ll have
+  opportunities to showcase how you harness AI to learn,
+  iterate, and amplify your impact.
+  
+  Benefits:
+  
+  At BetterUp, we are committed to living out our mission
+  every day and that starts with providing benefits that allow
+  our employees to care for themselves, support their
+  families, and give back to their community.
+  
+  - Access to BetterUp coaching; one for you and one for a
+    friend or family member
+  - A competitive compensation plan with opportunity for
+    advancement
+  - Medical, dental, and vision insurance
+  - Flexible paid time off
+  - Per year:
+    - All federal/statutory holidays observed
+    - 4 BetterUp Inner Workdays (https://www.betterup.co/inner-
+      work)
+    - 5 Volunteer Days to give back
+    - Learning and Development stipend
+    - Company wide Summer & Winter breaks
+  - Year-round charitable contribution of your choice on behalf
+    of BetterUp
+  - 401(k) self contribution
+  
+  We are dedicated to building diverse teams that fuel an
+  authentic workplace and sense of belonging for each and
+  every employee. We know applying for a job can be
+  intimidating, please don’t hesitate to reach out — we
+  encourage everyone interested in joining us to apply.
+  
+  BetterUp Inc. provides equal employment opportunities (EEO)
+  to all employees and applicants for employment without
+  regard to race, color, religion, sex, national origin,
+  disability, genetics, gender, sexual orientation, age,
+  marital status, veteran status. In addition to federal law
+  requirements, BetterUp Inc. complies with applicable state
+  and local laws governing nondiscrimination in employment in
+  every location in which the company has facilities. This
+  policy applies to all terms and conditions of employment,
+  including recruiting, hiring, placement, promotion,
+  termination, layoff, recall, transfer, leaves of absence,
+  compensation, and training.
+  
+  At BetterUp, we compensate our employees fairly for their
+  work. Base salary is determined by job-related experience,
+  education/training, residence location, as well as market
+  indicators. The range below is representative of base salary
+  only and does not include equity, sales bonus plans (when
+  applicable) and benefits. This range may be modified in the
+  future.
   
   The base salary range for the role is $144,000 to $227,000.
   
-  *Protecting your privacy and treating your personal information with care is very important to us, and central to the entire BetterUp family. By submitting your application, you acknowledge that your personal information will be processed in accordance with our **Applicant Privacy Notice**. If you have any questions about the privacy of your personal information or your rights with regards to your personal information, please reach out to support@betterup.co*
+  Protecting your privacy and treating your personal
+  information with care is very important to us, and central
+  to the entire BetterUp family. By submitting your
+  application, you acknowledge that your personal information
+  will be processed in accordance with our Applicant Privacy
+  Notice. If you have any questions about the privacy of your
+  personal information or your rights with regards to your
+  personal information, please reach out to
+  support@betterup.co
   
   #LI-Hybrid
 industries:

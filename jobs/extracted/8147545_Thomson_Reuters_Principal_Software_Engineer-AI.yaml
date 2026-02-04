@@ -15,142 +15,299 @@ skills:
   - Vercel
 company_size: 33,822 Employees
 description: |
-  This posting is for proactive recruitment purposes and may be used to fill current openings or future vacancies within our organization.**
+  This posting is for proactive recruitment purposes and may
+  be used to fill current openings or future vacancies within
+  our organization.
   
-  Principal Software Engineer-AI**
+  Principal Software Engineer-AI
   
-  Thomson Reuters is building the AI platform that will power the next decade of tax and accounting products, including CoCounsel for Tax and Accounting – a suite of AI‑native products used by accountants on real client work every day. As a **Principal Software Engineer**, you will own core backend and AI orchestration systems that turn frontier models into reliable, production‑grade workflows at scale.
+  Thomson Reuters is building the AI platform that will power
+  the next decade of tax and accounting products, including
+  CoCounsel for Tax and Accounting – a suite of AI‑native
+  products used by accountants on real client work every day.
+  As a Principal Software Engineer, you will own core backend
+  and AI orchestration systems that turn frontier models into
+  reliable, production‑grade workflows at scale.
   
-  This role is for the **CoCounsel for Tax and Accounting team**, formed from the recent acquisition of the startup **Materia**.
+  This role is for the CoCounsel for Tax and Accounting team,
+  formed from the recent acquisition of the startup Materia.
   
-  **Why this role is different:**
+  Why this role is different:
   
-  - **Own the AI backbone**: You will be the principal engineer responsible for the backend and orchestration layer powering AI agents, conversations, workspaces, and knowledge base across CoCounsel for Tax and Accounting.
+  - Own the AI backbone: You will be the principal engineer
+    responsible for the backend and orchestration layer
+    powering AI agents, conversations, workspaces, and
+    knowledge base across CoCounsel for Tax and Accounting.
+  - Shape the company's AI platform and patterns: Define
+    patterns for building MCP servers, designing agents, novel
+    uses of LLMs, experimentation, and scalable
+    infrastructure. Your decisions will influence multiple
+    product lines, not just a single feature.
+  - Work at real production scale: Build and evolve systems that
+    operate over millions of documents, highly structured tax
+    data, ever changing laws, and thousands of concurrent AI
+    interactions from accountants doing time‑sensitive work.
+  - Small team, big surface area: Join a tight group of senior
+    engineers and researchers shipping quickly, with direct
+    access to product leadership and customers. Think
+    ownership of a startup with the runway of a public
+    company.
+  - Great fit for managers who miss building: This role is
+    intentionally designed for senior engineers and
+    engineering managers who want to move back into a
+    high‑impact IC track. You keep the scope and influence of
+    an EM – driving multi‑team initiatives, setting technical
+    direction, mentoring senior engineers – but spend most of
+    your time in the code and architecture of AI systems
+    instead of in 1:1s and status meetings.
   
-  - **Shape the company's AI platform and patterns**: Define patterns for building MCP servers, designing agents, novel uses of LLMs, experimentation, and scalable infrastructure. Your decisions will influence multiple product lines, not just a single feature.
+  About the Role  In this role as a Principal Software
+  Engineer-AI you will:
   
-  - **Work at real production scale**: Build and evolve systems that operate over millions of documents, highly structured tax data, ever changing laws, and thousands of concurrent AI interactions from accountants doing time‑sensitive work.
+  Technical leadership and cross‑functional influence
   
-  - **Small team, big surface area**: Join a tight group of senior engineers and researchers shipping quickly, with direct access to product leadership and customers. Think ownership of a startup with the runway of a public company.
+  - Lead multi‑quarter initiatives that cut across AI, product,
+    and infra (e.g., a new orchestration layer, a low-latency
+    retrieval system, or a unified knowledge base).
+  - Mentor staff and senior engineers, raising the bar on system
+    design, code quality, and AI integration practices across
+    the org.
+  - Be the expert in new model capabilities, collaborating
+    closely with AI/ML engineers, researchers, designers, and
+    PMs to translate industry improvements into reliable,
+    user‑facing workflows that accountants trust.
+  - Help shape the team’s roadmap, technical strategy, and
+    engineering culture – from experimentation practices to
+    testing, rollout, and postmortems.
   
-  - **Great fit for managers who miss building**: This role is intentionally designed for senior engineers and engineering managers who want to move back into a high‑impact IC track. You keep the scope and influence of an EM – driving multi‑team initiatives, setting technical direction, mentoring senior engineers – but spend most of your time in the code and architecture of AI systems instead of in 1:1s and status meetings.
-  **
+  Design and own AI‑first backend systems
   
-  About the Role 
-  *In this role as a *Principal Software Engineer-AI* you will:*** 
+  - Architect and implement backend services (Python, FastAPI,
+    PostgreSQL, AWS, Vercel) that power generative AI agents,
+    complex workflows (e.g., tax filing, advisory, audit), and
+    document‑centric experiences.
+  - Build and evolve AI orchestration: routing, tool calling,
+    MCP servers, multi‑step workflows, safety and guardrails,
+    and robust error handling around third‑party LLMs (OpenAI,
+    Anthropic, and others).
   
-  **Technical leadership and cross‑functional influence**
+  Scale, reliability, and performance
   
-  - Lead multi‑quarter initiatives that cut across AI, product, and infra (e.g., a new orchestration layer, a low-latency retrieval system, or a unified knowledge base).
+  - Design for high‑throughput, low‑latency AI workloads:
+    caching, queuing, rate‑limiting, model failover, and
+    cost/performance tradeoffs.
+  - Work with large‑scale data: millions of documents, retrieval
+    and search, vector stores, and indexing strategies
+    tailored to tax and accounting use cases.
+  - Establish and refine SLOs, observability, and incident
+    response for AI systems that must be correct, auditable,
+    and trustworthy in professional workflows.
   
-  - Mentor staff and senior engineers, raising the bar on system design, code quality, and AI integration practices across the org.
+  About You:
   
-  - Be the expert in new model capabilities, collaborating closely with AI/ML engineers, researchers, designers, and PMs to translate industry improvements into reliable, user‑facing workflows that accountants trust.
+  You are a fit for the position of Principal Software
+  Engineer,AI if your background includes:
   
-  - Help shape the team’s roadmap, technical strategy, and engineering culture – from experimentation practices to testing, rollout, and postmortems.
+  - Bachelors Degree in Computer Science, Computer Engineering,
+    Related Field, or Equivalent Experience
+  - 8-10+ years of experience in backend development, building
+    scalable web services and APIs.
+  - Deep Python expertise and experience with production systems
+    using frameworks like FastAPI (or similar), relational
+    databases (PostgreSQL or equivalent), and a major cloud
+    provider (AWS preferred).
+  - Strong background in distributed systems: data modeling, API
+    contracts, observability, resilience patterns, and
+    performance tuning under load.
+  - Proven track record owning large, complex projects
+    end‑to‑end: architecture, execution, rollout, and
+    long‑term operation.
+  - Excellent communication skills and the ability to partner
+    with product, design, and ML teams in a fast‑moving
+    environment.
+  - Demonstrated interest in AI systems and new engineering
+    paradigms: LLMs, agents, retrieval, or similar – you care
+    about what “AI‑native” software should look like.
   
-  **Design and own AI‑first backend systems**
+  Preferred Skills & Experience
   
-  - Architect and implement backend services (Python, FastAPI, PostgreSQL, AWS, Vercel) that power generative AI agents, complex workflows (e.g., tax filing, advisory, audit), and document‑centric experiences.
+  - Hands‑on experience integrating LLM APIs (e.g., OpenAI,
+    Anthropic) into production applications, including
+    prompt/response management, cost controls, and safety
+    considerations.
+  - Experience with AI‑adjacent infrastructure: vector
+    databases, embeddings, semantic search, or custom
+    retrieval pipelines.
+  - Opinions and experience around automated testing,
+    reliability, and release practices for systems with
+    nondeterministic model behavior.
+  - Prior experience in domains where correctness, auditability,
+    and compliance matter (fintech, tax, legal, or similar),
+    or strong interest in applying AI in those contexts.
+  - Many of our strongest candidates have bounced between EM and
+    senior IC roles. If you’ve been managing for the last few
+    years and want to get closer to the hard technical
+    problems again – without giving up scope or career
+    progression – this principal IC role is built for that
+    pivot.
   
-  - Build and evolve AI orchestration: routing, tool calling, MCP servers, multi‑step workflows, safety and guardrails, and robust error handling around third‑party LLMs (OpenAI, Anthropic, and others).
-  
-  **Scale, reliability, and performance**
-  
-  - Design for high‑throughput, low‑latency AI workloads: caching, queuing, rate‑limiting, model failover, and cost/performance tradeoffs.
-  
-  - Work with large‑scale data: millions of documents, retrieval and search, vector stores, and indexing strategies tailored to tax and accounting use cases.
-  
-  - Establish and refine SLOs, observability, and incident response for AI systems that must be correct, auditable, and trustworthy in professional workflows.
-  
-  **About You:**
-  
-  You are a fit for the position of **Principal Software Engineer,AI** if your background includes:
-  
-  - Bachelors Degree in Computer Science, Computer Engineering, Related Field, or Equivalent Experience
-  
-  - **8-10+ years of experience in backend development**, building scalable web services and APIs.
-  
-  - Deep **Python expertise **and experience with **production systems **using frameworks like FastAPI (or similar), relational databases (PostgreSQL or equivalent), and a **major cloud provider **(AWS preferred).
-  
-  - Strong background in distributed systems: **data modeling, API contracts, observability, resilience patterns, and performance tuning** under load.
-  
-  - Proven track record owning large, complex projects end‑to‑end: **architecture, execution, rollout, and long‑term operation**.
-  
-  - **Excellent communication skills** and the ability to partner with product, design, and ML teams in a fast‑moving environment.
-  
-  - Demonstrated interest in AI systems and new engineering paradigms: LLMs, agents, retrieval, or similar – **you care about what “AI‑native” software should look like**.
-  
-  **Preferred Skills & Experience**
-  
-  - Hands‑on experience integrating LLM APIs (e.g., **OpenAI, Anthropic**) into production applications, including prompt/response management, cost controls, and safety considerations.
-  
-  - Experience with AI‑adjacent infrastructure: **vector databases, embeddings, semantic search, or custom retrieval pipelines**.
-  
-  - Opinions and experience around **automated testing, reliability, and release practices **for systems with nondeterministic model behavior.
-  
-  - Prior experience in domains where **correctness, auditability, and compliance** matter (fintech, tax, legal, or similar), or strong interest in applying AI in those contexts.
-  
-  - Many of our strongest candidates have bounced between EM and senior IC roles. If you’ve been managing for the last few years and want to get closer to the hard technical problems again – without giving up scope or career progression – this principal IC role is built for that pivot.
-  
-  Note if you are looking for roles at other levels, we are also hiring Staff and Senior engineers. Search for "Materia AI" within all open roles at Thomson Reuters.
+  Note if you are looking for roles at other levels, we are
+  also hiring Staff and Senior engineers. Search for "Materia
+  AI" within all open roles at Thomson Reuters.
   
   #LI-SM2
   
-  **What’s in it For You?**
+  What’s in it For You?
   
-  - 
+  - Hybrid Work Model: We’ve adopted a flexible hybrid working
+    environment (2-3 days a week in the office depending on
+    the role) for our office-based roles while delivering a
+    seamless experience that is digitally and physically
+    connected.
+  - Flexibility & Work-Life Balance: Flex My Way is a set of
+    supportive workplace policies designed to help manage
+    personal and professional responsibilities, whether caring
+    for family, giving back to the community, or finding time
+    to refresh and reset. This builds upon our flexible work
+    arrangements, including work from anywhere for up to 8
+    weeks per year, empowering employees to achieve a better
+    work-life balance.
+  - Career Development and Growth: By fostering a culture of
+    continuous learning and skill development, we prepare our
+    talent to tackle tomorrow’s challenges and deliver real-
+    world solutions. Our Grow My Way programming and skills-
+    first approach ensures you have the tools and knowledge to
+    grow, lead, and thrive in an AI-enabled future.
+  - Industry Competitive Benefits: We offer comprehensive
+    benefit plans to include flexible vacation, two company-
+    wide Mental Health Days off, access to the Headspace app,
+    retirement savings, tuition reimbursement, employee
+    incentive programs, and resources for mental, physical,
+    and financial wellbeing.
+  - Culture: Globally recognized, award-winning reputation for
+    inclusion and belonging, flexibility, work-life balance,
+    and more. We live by our values: Obsess over our
+    Customers, Compete to Win, Challenge (Y)our Thinking, Act
+    Fast / Learn Fast, and Stronger Together.
+  - Social Impact: Make an impact in your community with our
+    Social Impact Institute. We offer employees two paid
+    volunteer days off annually and opportunities to get
+    involved with pro-bono consulting projects and
+    Environmental, Social, and Governance (ESG) initiatives.
+  - Making a Real-World Impact: We are one of the few companies
+    globally that helps its customers pursue justice, truth,
+    and transparency. Together, with the professionals and
+    institutions we serve, we help uphold the rule of law,
+    turn the wheels of commerce, catch bad actors, report the
+    facts, and provide trusted, unbiased information to people
+    all over the world.
   
-  **Hybrid Work Model:** We’ve adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected.
+  Our use of AI within the recruitment process Thomson Reuters
+  utilizes Artificial Intelligence (AI) to support parts of
+  our global recruitment process. Unless you opt-out, our AI
+  system will assess the information provided by you and
+  compare it to the requirements listed for the role, and
+  present the result to our recruitment personnel for further
+  review. The AI system acts as a supporting tool, but there
+  is always a human making the decision if you will be
+  considered for the role.
   
-  - 
+  In the United States, Thomson Reuters offers a comprehensive
+  benefits package to our employees. Our benefit package
+  includes market competitive health, dental, vision,
+  disability, and life insurance programs, as well as a
+  competitive 401k plan with company match. In addition,
+  Thomson Reuters offers market leading work life benefits
+  with competitive vacation, sick and safe paid time off, paid
+  holidays (including two company mental health days off),
+  parental leave, sabbatical leave. These benefits meet or
+  exceeds the requirements of paid time off in accordance with
+  any applicable state or municipal laws. Finally, Thomson
+  Reuters offers the following additional benefits: optional
+  hospital, accident and sickness insurance paid 100% by the
+  employee; optional life and AD&D insurance paid 100% by the
+  employee; Flexible Spending and Health Savings Accounts;
+  fitness reimbursement; access to Employee Assistance
+  Program; Group Legal Identity Theft Protection benefit paid
+  100% by employee; access to 529 Plan; commuter benefits;
+  Adoption & Surrogacy Assistance; Tuition Reimbursement; and
+  access to Employee Stock Purchase Plan.
   
-  **Flexibility & Work-Life Balance:** Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset. This builds upon our flexible work arrangements, including work from anywhere for up to 8 weeks per year, empowering employees to achieve a better work-life balance.
+  Thomson Reuters complies with local laws that require
+  upfront disclosure of the expected pay range for a position.
+  The base compensation range varies across locations.
   
-  - 
+  Eligible office location(s) for this role include one or
+  more of the following: New York City, San Francisco, Los
+  Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The
+  base compensation range for the role in any of those
+  locations is $183,100 USD - $340,000 USD. For any eligible
+  US locations, unless otherwise noted, the base compensation
+  range for this role is $158,900 USD - $295,100 USD.
   
-  **Career Development and Growth:** By fostering a culture of continuous learning and skill development, we prepare our talent to tackle tomorrow’s challenges and deliver real-world solutions. Our Grow My Way programming and skills-first approach ensures you have the tools and knowledge to grow, lead, and thrive in an AI-enabled future.
+  Base pay is positioned within the range based on several
+  factors including an individual’s knowledge, skills and
+  experience with consideration given to internal equity. Base
+  pay is one part of a comprehensive Total Reward program
+  which also includes flexible and supportive benefits and
+  other wellbeing programs. This role may also be eligible for
+  an Annual Bonus based on a combination of enterprise and
+  individual performance.
   
-  - 
+  About Us
   
-  **Industry Competitive Benefits:** We offer comprehensive benefit plans to include flexible vacation, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing.
+  Thomson Reuters informs the way forward by bringing together
+  the trusted content and technology that people and
+  organizations need to make the right decisions. We serve
+  professionals across legal, tax, accounting, compliance,
+  government, and media. Our products combine highly
+  specialized software and insights to empower professionals
+  with the data, intelligence, and solutions needed to make
+  informed decisions, and to help institutions in their
+  pursuit of justice, truth, and transparency. Reuters, part
+  of Thomson Reuters, is a world leading provider of trusted
+  journalism and news.
   
-  - 
+  We are powered by the talents of 26,000 employees across
+  more than 70 countries, where everyone has a chance to
+  contribute and grow professionally in flexible work
+  environments. At a time when objectivity, accuracy,
+  fairness, and transparency are under attack, we consider it
+  our duty to pursue them. Sound exciting? Join us and help
+  shape the industries that move society forward.
   
-  **Culture:** Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more. We live by our values: Obsess over our Customers, Compete to Win, Challenge (Y)our Thinking, Act Fast / Learn Fast, and Stronger Together.
+  As a global business, we rely on the unique backgrounds,
+  perspectives, and experiences of all employees to deliver on
+  our business goals. To ensure we can do that, we seek
+  talented, qualified employees in all our operations around
+  the world regardless of race, color, sex/gender, including
+  pregnancy, gender identity and expression, national origin,
+  religion, sexual orientation, disability, age, marital
+  status, citizen status, veteran status, or any other
+  protected classification under applicable law. Thomson
+  Reuters is proud to be an Equal Employment Opportunity
+  Employer providing a drug-free workplace.
   
-  - 
+  Thomson Reuters makes reasonable accommodations for
+  applicants with disabilities, including veterans with
+  disabilities, and for sincerely held religious beliefs in
+  accordance with applicable law. If you reside in the United
+  States and require an accommodation in the recruiting
+  process, you may contact our Human Resources Department at
+  HR.Leave-Expert@thomsonreuters.com. Disability
+  accommodations in the recruiting process may include things
+  like a sign language interpreter, making interview rooms
+  accessible, providing assistive technology, or other
+  relevant accommodations. Please note this email is not
+  intended for general recruitment questions and we will
+  promptly respond to inquiries regarding accommodations. More
+  information on requesting an accommodation here.
   
-  **Social Impact:** Make an impact in your community with our Social Impact Institute. We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives. 
+  Learn more on how to protect yourself from fraudulent job
+  postings here.
   
-  - 
-  
-  **Making a Real-World Impact:** We are one of the few companies globally that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
-  
-  Our use of AI within the recruitment process Thomson Reuters utilizes Artificial Intelligence (AI) to support parts of our global recruitment process. Unless you opt-out, our AI system will assess the information provided by you and compare it to the requirements listed for the role, and present the result to our recruitment personnel for further review. The AI system acts as a supporting tool, but there is always a human making the decision if you will be considered for the role.**
-  In the United States, Thomson Reuters offers a comprehensive benefits package to our employees. Our benefit package includes market competitive health, dental, vision, disability, and life insurance programs, as well as a competitive 401k plan with company match. In addition, Thomson Reuters offers market leading work life benefits with competitive vacation, sick and safe paid time off, paid holidays (including two company mental health days off), parental leave, sabbatical leave. These benefits meet or exceeds the requirements of paid time off in accordance with any applicable state or municipal laws. Finally, Thomson Reuters offers the following additional benefits: optional hospital, accident and sickness insurance paid 100% by the employee; optional life and AD&D insurance paid 100% by the employee; Flexible Spending and Health Savings Accounts; fitness reimbursement; access to Employee Assistance Program; Group Legal Identity Theft Protection benefit paid 100% by employee; access to 529 Plan; commuter benefits; Adoption & Surrogacy Assistance; Tuition Reimbursement; and access to Employee Stock Purchase Plan.
-  
-  Thomson Reuters complies with local laws that require upfront disclosure of the expected pay range for a position. The base compensation range varies across locations.
-  
-  Eligible office location(s) for this role include one or more of the following: New York City, San Francisco, Los Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The base compensation range for the role in any of those locations is $183,100 USD - $340,000 USD.
-  For any eligible US locations, unless otherwise noted, the base compensation range for this role is $158,900 USD - $295,100 USD.
-  
-  Base pay is positioned within the range based on several factors including an individual’s knowledge, skills and experience with consideration given to internal equity. Base pay is one part of a comprehensive Total Reward program which also includes flexible and supportive benefits and other wellbeing programs.
-  This role may also be eligible for an Annual Bonus based on a combination of enterprise and individual performance.
-  
-  About Us**
-  
-  Thomson Reuters informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. We serve professionals across legal, tax, accounting, compliance, government, and media. Our products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth, and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news.
-  
-  We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments. At a time when objectivity, accuracy, fairness, and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
-  
-  As a global business, we rely on the unique backgrounds, perspectives, and experiences of all employees to deliver on our business goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity Employer providing a drug-free workplace.
-  
-  Thomson Reuters makes reasonable accommodations for applicants with disabilities, including veterans with disabilities, and for sincerely held religious beliefs in accordance with applicable law. If you reside in the United States and require an accommodation in the recruiting process, you may contact our Human Resources Department at HR.Leave-Expert@thomsonreuters.com. Disability accommodations in the recruiting process may include things like a sign language interpreter, making interview rooms accessible, providing assistive technology, or other relevant accommodations. Please note this email is not intended for general recruitment questions and we will promptly respond to inquiries regarding accommodations. More information on requesting an accommodation here.
-  
-  Learn more on how to protect yourself from fraudulent job postings here.
-  
-  More information about Thomson Reuters can be found on thomsonreuters.com
+  More information about Thomson Reuters can be found on
+  thomsonreuters.com
 posted_date: 2026-01-15
 url: https://builtin.com/job/principal-software-engineer-ai/8147545
 source: Built In

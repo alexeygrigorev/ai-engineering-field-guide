@@ -12,70 +12,156 @@ skills:
   - Typescript
 company_size: 28 Employees
 description: |
-  **🚀 About Us**
+  🚀 About Us
   
   We’re Bolt.new by StackBlitz!
   
-  We’re the team that brought you WebContainers, the first-of-its-kind technology that made it possible to run Node.js right inside your browser. That breakthrough kicked off our journey in 2019, and it’s what powers the blazing-fast online IDE used by over 1 million developers every month.
+  We’re the team that brought you WebContainers, the first-of-
+  its-kind technology that made it possible to run Node.js
+  right inside your browser. That breakthrough kicked off our
+  journey in 2019, and it’s what powers the blazing-fast
+  online IDE used by over 1 million developers every month.
   
-  But we didn’t stop there. We doubled down on everything we learned and built **Bolt.new** — the fastest way to go from idea to production without writing traditional code. It’s a next-gen, AI-powered app builder that helps you create, edit, and deploy full-stack web and mobile apps instantly, right in your browser. No installs. No setup. Just smart automation and instant dev environments that let you move at the speed of thought.
+  But we didn’t stop there. We doubled down on everything we
+  learned and built Bolt.new — the fastest way to go from idea
+  to production without writing traditional code. It’s a next-
+  gen, AI-powered app builder that helps you create, edit, and
+  deploy full-stack web and mobile apps instantly, right in
+  your browser. No installs. No setup. Just smart automation
+  and instant dev environments that let you move at the speed
+  of thought.
   
-  We’re a fully remote team, globally distributed, deeply collaborative, and seriously passionate about building the future of software development.
+  We’re a fully remote team, globally distributed, deeply
+  collaborative, and seriously passionate about building the
+  future of software development.
   
-  This is your chance to join a small team with a big vision. If you love shipping fast, solving real problems, and pushing the boundaries of what’s possible, we’d love to meet you.
-  **✨ About This Opportunity**
+  This is your chance to join a small team with a big vision.
+  If you love shipping fast, solving real problems, and
+  pushing the boundaries of what’s possible, we’d love to meet
+  you.
   
-  Join us on the forefront of AI-powered development as we revolutionize how software gets built. As a Senior Applied Engineer, you will be the driving force behind our AI agents that transform natural language into production ready applications. You will work with state-of-the art LLMs, pioneering new ways to make AI understand, reason about, and generate complex full-stack applications. This isn’t just about integrating APIs, instead it’s about pushing the boundaries of what AI can do to empower our users to build stunning apps. As part of this role, you will work in an interesting problem space and tackle challenges like maintaining context across large codebases, orchestrating multi-step workflows that feel intuitive to users, and making sure our AI agents can handle everything from simple UI changes to complex architectural decisions. Your work will directly impact how millions of users bring their ideas to life.
+  ✨ About This Opportunity
   
-  This is a unique opportunity to shape the future of AI-assisted development in a fully remote, globally distributed team that ships fast and thinks big. If you are passionate about making AI more capable, reliable, and accessible to builders everywhere, this role offers the perfect opportunity to innovate and see your work deployed at scale.
-  **🛠️ How You'll Contribute **
-  - **Develop AI Agents:** Design and implement AI agent features and extend existing agents with new capabilities. This includes managing the agent’s context (using techniques like sub-agents, retrieval based context management, sliding context windows, etc.) so it can handle long conversations or large knowledge and code bases efficiently.
+  Join us on the forefront of AI-powered development as we
+  revolutionize how software gets built. As a Senior Applied
+  Engineer, you will be the driving force behind our AI agents
+  that transform natural language into production ready
+  applications. You will work with state-of-the art LLMs,
+  pioneering new ways to make AI understand, reason about, and
+  generate complex full-stack applications. This isn’t just
+  about integrating APIs, instead it’s about pushing the
+  boundaries of what AI can do to empower our users to build
+  stunning apps. As part of this role, you will work in an
+  interesting problem space and tackle challenges like
+  maintaining context across large codebases, orchestrating
+  multi-step workflows that feel intuitive to users, and
+  making sure our AI agents can handle everything from simple
+  UI changes to complex architectural decisions. Your work
+  will directly impact how millions of users bring their ideas
+  to life.
   
-  - **Integrate Multiple LLM Providers:** Leverage models from providers such as OpenAI (GPT series), Anthropic (Claude), and Google (Gemini). Quantitatively evaluate and choose the best model for a given task, and incorporate new model features or improvements (often by beta-testing new releases and assessing their strengths).
+  This is a unique opportunity to shape the future of AI-
+  assisted development in a fully remote, globally distributed
+  team that ships fast and thinks big. If you are passionate
+  about making AI more capable, reliable, and accessible to
+  builders everywhere, this role offers the perfect
+  opportunity to innovate and see your work deployed at scale.
   
-  - **Tool Use and Workflow Orchestration:** Enable the AI agent to call external tools and APIs safely and effectively. Implement structured approaches to allow the agent to perform actions like web searches, database queries, fetch additional information, or other domain-specific operations. Utilize frameworks such as Vercel’s AI SDK, LangGraph and others for building multi-step AI workflows.
+  🛠️ How You'll Contribute
   
-  - **Team Collaboration**: Work closely with your immediate team and adjacent teams to deliver AI-powered features. Collaborate effectively with peer engineers and product managers to ensure AI-driven features are production-ready, efficient, maintainable, and well-monitored in deployment. Share knowledge and help lift up mid-level and junior engineers on the team.
+  - Develop AI Agents: Design and implement AI agent features
+    and extend existing agents with new capabilities. This
+    includes managing the agent’s context (using techniques
+    like sub-agents, retrieval based context management,
+    sliding context windows, etc.) so it can handle long
+    conversations or large knowledge and code bases
+    efficiently.
+  - Integrate Multiple LLM Providers: Leverage models from
+    providers such as OpenAI (GPT series), Anthropic (Claude),
+    and Google (Gemini). Quantitatively evaluate and choose
+    the best model for a given task, and incorporate new model
+    features or improvements (often by beta-testing new
+    releases and assessing their strengths).
+  - Tool Use and Workflow Orchestration: Enable the AI agent to
+    call external tools and APIs safely and effectively.
+    Implement structured approaches to allow the agent to
+    perform actions like web searches, database queries, fetch
+    additional information, or other domain-specific
+    operations. Utilize frameworks such as Vercel’s AI SDK,
+    LangGraph and others for building multi-step AI workflows.
+  - Team Collaboration: Work closely with your immediate team
+    and adjacent teams to deliver AI-powered features.
+    Collaborate effectively with peer engineers and product
+    managers to ensure AI-driven features are production-
+    ready, efficient, maintainable, and well-monitored in
+    deployment. Share knowledge and help lift up mid-level and
+    junior engineers on the team.
+  - Data Collection and Analysis: Collect and curate datasets
+    from agent responses and multi-turn conversations to
+    understand agent behavior. Analyze conversation patterns,
+    failure modes, and success signals to derive actionable
+    insights that drive improvements to agent performance and
+    user experience.
+  - Continuous Improvement and Evaluation: Stay up-to-date with
+    the latest research in NLP and LLMs, and experiment with
+    novel techniques (e.g. new prompting strategies, context
+    handling methods, model fine-tuning opportunities).
+    Continuously evaluate the AI system’s performance using
+    systematic tests and user feedback, and iterate on
+    prompts, agents and workflows to improve output quality
+    and reliability (for example, by developing automated LLM
+    evaluation benchmarks).
   
-  - **Data Collection and Analysis**: Collect and curate datasets from agent responses and multi-turn conversations to understand agent behavior. Analyze conversation patterns, failure modes, and success signals to derive actionable insights that drive improvements to agent performance and user experience.
+  💡 Qualifications
   
-  - **Continuous Improvement and Evaluation:** Stay up-to-date with the latest research in NLP and LLMs, and experiment with novel techniques (e.g. new prompting strategies, context handling methods, model fine-tuning opportunities). Continuously evaluate the AI system’s performance using systematic tests and user feedback, and iterate on prompts, agents and workflows to improve output quality and reliability (for example, by developing automated LLM evaluation benchmarks).
-  **💡 Qualifications**
-  - **TypeScript:** Familiarity with TypeScript is important. Our entire stack is built on it. Willingness to work in TS daily is key.
+  - TypeScript: Familiarity with TypeScript is important. Our
+    entire stack is built on it. Willingness to work in TS
+    daily is key.
+  - LLM Experience: Hands-on experience working with Large
+    Language Models (LLMs) and understanding their
+    capabilities and limitations. Proven experience building
+    applications or systems powered by LLMs.
+  - Prompt Engineering: Deep understanding of prompt engineering
+    best practices to guide LLM behavior. Able to craft,
+    refine, and optimize prompts for different tasks and
+    models.
+  - Software Engineering Skills: Solid software engineering
+    fundamentals with experience in building production-ready
+    systems.
+  - Autonomous Execution: Ability to deliver high-quality work
+    with minimal oversight. Comfortable owning tasks end-to-
+    end, managing complexity, and driving projects to
+    completion within your functional area.
+  - Problem-Solving: Strong analytical and problem-solving
+    skills with the ability to debug complex AI behaviors and
+    bring clarity to ambiguous tasks.
+  - Data-Driven Mindset: Comfortable collecting, curating, and
+    analyzing data to inform decisions. Able to build
+    datasets, identify patterns in agent behavior, and
+    translate findings into actionable improvements.
+  - Strong verbal and written English communication skills are
+    required, as this role involves frequent collaboration
+    with team members, stakeholders, and customers where
+    English is the primary working language.
   
-  - **LLM Experience:** Hands-on experience working with Large Language Models (LLMs) and understanding their capabilities and limitations. Proven experience building applications or systems powered by LLMs.
+  🎯 Bonus Points
   
-  - **Prompt Engineering:** Deep understanding of prompt engineering best practices to guide LLM behavior. Able to craft, refine, and optimize prompts for different tasks and models.
+  - DSPy Framework: Familiarity with DSPy (Declarative Self-
+    improving Python) for building modular AI systems and
+    optimizing prompts programmatically.
+  - Machine Learning Background: Understanding of ML
+    fundamentals and experience with model evaluation metrics.
+  - Open Source Contributions: Experience contributing to or
+    maintaining open-source AI/ML projects.
+  - Research Background: Experience reading and implementing
+    techniques from AI/ML research papers.
   
-  - **Software Engineering Skills:** Solid software engineering fundamentals with experience in building production-ready systems.
+  📌 A Few Notes
   
-  - **Autonomous Execution**: Ability to deliver high-quality work with minimal oversight. Comfortable owning tasks end-to-end, managing complexity, and driving projects to completion within your functional area.
-  
-  - **Problem-Solving**: Strong analytical and problem-solving skills with the ability to debug complex AI behaviors and bring clarity to ambiguous tasks.
-  
-  - **Data-Driven Mindset**: Comfortable collecting, curating, and analyzing data to inform decisions. Able to build datasets, identify patterns in agent behavior, and translate findings into actionable improvements.
-  
-  - Strong verbal and written English communication skills are required, as this role involves frequent collaboration with team members, stakeholders, and customers where English is the primary working language.
-  **🎯 Bonus Points **
-  - **DSPy Framework:** Familiarity with DSPy (Declarative Self-improving Python) for building modular AI systems and optimizing prompts programmatically.
-  
-  - **Machine Learning Background:** Understanding of ML fundamentals and experience with model evaluation metrics.
-  
-  - **Open Source Contributions:** Experience contributing to or maintaining open-source AI/ML projects.
-  
-  - **Research Background:** Experience reading and implementing techniques from AI/ML research papers.
-  **📌 A Few Notes**
-  - 
-  
-  You do **not** need a college degree to apply
-  
-  - 
-  
-  You do **not** need to be located in the U.S. — we’re remote-friendly
-  
-  - 
-  
-  You do **not** need to meet every qualification listed above
+  - You do not need a college degree to apply
+  - You do not need to be located in the U.S. — we’re remote-
+    friendly
+  - You do not need to meet every qualification listed above
 industries:
   - Software
   - Web3

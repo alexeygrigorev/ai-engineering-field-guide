@@ -11,75 +11,123 @@ skills:
   - Telemetry Systems
 company_size: 0 Employees
 description: |
-  **About Traversal**
+  About Traversal
   
-  Traversal is the AI Site Reliability Engineer (SRE) for the enterprise—already trusted by some of the largest companies in the world to troubleshoot, remediate, and even prevent the most complex production incidents. Our mission is to free engineers from endless firefighting and enable them to focus on creative, high-impact work. 
+  Traversal is the AI Site Reliability Engineer (SRE) for the
+  enterprise—already trusted by some of the largest companies
+  in the world to troubleshoot, remediate, and even prevent
+  the most complex production incidents. Our mission is to
+  free engineers from endless firefighting and enable them to
+  focus on creative, high-impact work.
   
-  Our roots remain deeply embedded in AI research, and we’re channeling that scientific rigor and creativity into building the premier AI agent lab for the enterprise. Hence, what we’re proudest of is assembling the most talented yet nicest group of individuals, including researchers from MIT, Harvard, and Berkeley, to world-class engineers from industry: Citadel Securities, Cockroach Labs, Datadog, DE Shaw, Meta, Hebbia, Perplexity, Glean, Pinecone, and more, to take on one of the hardest problems for AI to solve. Without the entire team, none of this would be possible.
+  Our roots remain deeply embedded in AI research, and we’re
+  channeling that scientific rigor and creativity into
+  building the premier AI agent lab for the enterprise. Hence,
+  what we’re proudest of is assembling the most talented yet
+  nicest group of individuals, including researchers from MIT,
+  Harvard, and Berkeley, to world-class engineers from
+  industry: Citadel Securities, Cockroach Labs, Datadog, DE
+  Shaw, Meta, Hebbia, Perplexity, Glean, Pinecone, and more,
+  to take on one of the hardest problems for AI to solve.
+  Without the entire team, none of this would be possible.
   
-  **The Role**
+  The Role
   
-  As an AI Platform Engineer at Traversal, you’ll work on the core foundations that make Traversal’s AI possible, spanning both agent infrastructure and evaluation systems.
+  As an AI Platform Engineer at Traversal, you’ll work on the
+  core foundations that make Traversal’s AI possible, spanning
+  both agent infrastructure and evaluation systems.
   
-  - Agent Infrastructure — Build the frameworks, orchestration layers, and developer tooling that power Traversal’s AI agents for root cause analysis, alert triage, and “chat with your infrastructure/telemetry.” This involves designing scalable distributed systems and abstractions (e.g., MCP servers, multi-agent orchestration, toolkits) that balance research flexibility with production reliability.
+  - Agent Infrastructure — Build the frameworks, orchestration
+    layers, and developer tooling that power Traversal’s AI
+    agents for root cause analysis, alert triage, and “chat
+    with your infrastructure/telemetry.” This involves
+    designing scalable distributed systems and abstractions
+    (e.g., MCP servers, multi-agent orchestration, toolkits)
+    that balance research flexibility with production
+    reliability.
+  - Evaluation — Define what “good” looks like for AI
+    performance in the incident management domain. You’ll
+    build live evaluation pipelines, automated scoring
+    systems, and benchmarks; integrate evaluation into the
+    developer lifecycle; and surface these insights to
+    customers as a value-add.
   
-  - Evaluation — Define what “good” looks like for AI performance in the incident management domain. You’ll build live evaluation pipelines, automated scoring systems, and benchmarks; integrate evaluation into the developer lifecycle; and surface these insights to customers as a value-add.
+  This work combines research (agentic architectures,
+  benchmarking, calibration, finetuning) with engineering
+  (production-scale infra, APIs, distributed systems) to
+  accelerate the entire AI loop: build → evaluate → improve →
+  ship.
   
-  This work combines research (agentic architectures, benchmarking, calibration, finetuning) with engineering (production-scale infra, APIs, distributed systems) to accelerate the entire AI loop: build → evaluate → improve → ship.
+  Responsibilities
   
-  **Responsibilities**
+  - Design and build agent frameworks, orchestration layers, and
+    developer tooling for Traversal’s AI agents.
+  - Architect scalable distributed systems to support real-time
+    workloads over petabytes of heterogeneous telemetry data.
+  - Build live evaluation pipelines, automated scoring systems,
+    and benchmarks to measure and drive AI performance.
+  - Integrate evaluation systems into the developer lifecycle to
+    create a fast research-to-production loop.
+  - Surface evaluation signals and benchmarks to customers as a
+    core product capability.
+  - Partner with research scientists to prototype and
+    productionize agentic architectures.
+  - Own observability, latency, and reliability for agents in
+    production.
+  - Evolve and scale the agent + evaluation platform as the
+    backbone of Traversal’s AI systems.
   
-  - Design and build agent frameworks, orchestration layers, and developer tooling for Traversal’s AI agents.
-  
-  - Architect scalable distributed systems to support real-time workloads over petabytes of heterogeneous telemetry data.
-  
-  - Build live evaluation pipelines, automated scoring systems, and benchmarks to measure and drive AI performance.
-  
-  - Integrate evaluation systems into the developer lifecycle to create a fast research-to-production loop.
-  
-  - Surface evaluation signals and benchmarks to customers as a core product capability.
-  
-  - Partner with research scientists to prototype and productionize agentic architectures.
-  
-  - Own observability, latency, and reliability for agents in production.
-  
-  - Evolve and scale the agent + evaluation platform as the backbone of Traversal’s AI systems.
-  
-  **Requirements**
+  Requirements
   
   - Strong system design skills for distributed systems.
-  
   - Proven production-scale software engineering experience.
+  - Experience with LLM-based applications and/or multi-agent
+    systems.
+  - Strong data modeling skills and a track record of writing
+    clean, maintainable code.
+  - Collaborative, impact-driven mindset and ability to work
+    across research and engineering teams.
   
-  - Experience with LLM-based applications and/or multi-agent systems.
+  Nice to Have
   
-  - Strong data modeling skills and a track record of writing clean, maintainable code.
-  
-  - Collaborative, impact-driven mindset and ability to work across research and engineering teams.
-  
-  **Nice to Have**
-  
-  - Knowledge of software incidents and production SRE workflows.
-  
+  - Knowledge of software incidents and production SRE
+    workflows.
   - Prior experience with AI benchmarking or evaluation systems.
+  - Experience creating quantitative scoring systems or
+    benchmarks in new problem domains.
+  - Familiarity with observability stacks (logs, metrics,
+    traces) and telemetry systems.
+  - Background in agentic architectures, orchestration
+    frameworks, or applied AI research.
   
-  - Experience creating quantitative scoring systems or benchmarks in new problem domains.
+  Compensation
   
-  - Familiarity with observability stacks (logs, metrics, traces) and telemetry systems.
+  We offer competitive compensation, startup equity, health
+  insurance, and additional benefits. The U.S. base salary
+  range for this full-time, in-person role in New York is
+  $150,000–$300,000, plus equity and benefits. Our salary
+  ranges are based on location, level, and role. Individual
+  compensation is determined by experience, skills, and job-
+  related knowledge.
   
-  - Background in agentic architectures, orchestration frameworks, or applied AI research.
+  Why You Should Join Us
   
-  **Compensation**
+  We’ll make sure you’re fully supported with health
+  insurance, a great tech setup, flexible time off, and plenty
+  of in-office snacks. We offer competitive salary and equity
+  packages, and take thoughtful consideration with every hire
+  on our small, high-impact team.
   
-  We offer competitive compensation, startup equity, health insurance, and additional benefits. The U.S. base salary range for this full-time, in-person role in New York is $150,000–$300,000, plus equity and benefits. Our salary ranges are based on location, level, and role. Individual compensation is determined by experience, skills, and job-related knowledge.
+  Traversal is fully in-office, 5 days a week, based in New
+  York near Madison Square Park. We have a collaborative,
+  hard-working culture and are energized by building the
+  future of AI-powered software maintenance.
   
-  **Why You Should Join Us**
-  
-  We’ll make sure you’re fully supported with health insurance, a great tech setup, flexible time off, and plenty of in-office snacks. We offer competitive salary and equity packages, and take thoughtful consideration with every hire on our small, high-impact team.
-  
-  Traversal is fully in-office, 5 days a week, based in New York near Madison Square Park. We have a collaborative, hard-working culture and are energized by building the future of AI-powered software maintenance.
-  
-  Working here means owning meaningful parts of the product, having the flexibility to move fast, and learning constantly. This is a place to grow your career, make a real impact, and help define a new category of infrastructure software.
+  Working here means owning meaningful parts of the product,
+  having the flexibility to move fast, and learning
+  constantly. This is a place to grow your career, make a real
+  impact, and help define a new category of infrastructure
+  software.
 posted_date: 2026-01-14
 url: https://builtin.com/job/ai-engineer-ai-platform/7298636
 source: Built In

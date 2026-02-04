@@ -15,163 +15,177 @@ skills:
   - Typescript
 company_size: 95 Employees
 description: |
-  **WHO WE ARE:** MagicSchool is the premier generative AI platform for teachers. We're just over 2 years old, and more than 7 million teachers from all over the world have joined our platform. Join a top team at a fast growing company that is working towards real social impact. Make an account and try us out at our website and connect with our passionate community on our Wall of Love.
-  
-  **The Role**
-  
-  As a Senior Context Engineer for AI Systems, you'll architect and optimize how MagicSchool's AI agents reason, remember, and operate within complex educational workflows. You'll design context management systems that determine what information our agents see, how they maintain state across multi-turn interactions, and how they retrieve knowledge without overwhelming their attention budget—ensuring reliable, coherent AI assistance for educators.
-  
-  In this role you'll implement the technical foundation of how AI agents manage their "mental workspace", and ensure our agentic capabilities remain accurate and focused in classroom scenarios.
-  
-  **What You'll Do**
-  
-  **Context Pipeline Architecture**
-  
-  - 
-  
-  **Context Architecture & Token Optimization**: Architect and implement adaptive context curation pipelines that determine what information enters each agent inference step, balancing comprehensiveness with the finite attention budget of LLMs to prevent context rot.
-  
-  - 
-  
-  **Long-Horizon Task Management**: Invent and operationalize memory compaction mechanisms and state management patterns that allow agents to maintain coherence across extended teaching workflows (lesson planning, differentiation, assessment creation).
-  
-  - 
-  
-  **Context Evaluation & Monitoring**: Design evaluation pipelines that measure retrieval precision, token relevance, and reasoning coherence as context evolves across sessions. Work with the evaluations team on developing frameworks for measuring attention allocation and agent performance degradation.
-  
-  **Dynamic Information Retrieval**
-  
-  - 
-  
-  **Just-in-Time Knowledge Retrieval**: Build dynamic, runtime data fetching systems that enable agents to autonomously pull relevant curriculum content, student data, and educational resources exactly when needed, rather than pre-loading context with unnecessary information.
-  
-  **Tooling & Integration Design**
-  
-  - 
-  
-  **Tool & Integration Design**: Engineer token-efficient tool APIs and retrieval layers where each tool earns its place in the context window through clear utility and minimal overlap, with robust metadata to guide agent decision-making.
-  
-  **Cross-Functional & Educational Domain Collaboration**
-  
-  - 
-  
-  **Cross-Functional Collaboration**: Partner with Product, Research, and Education teams to translate complex educational workflows into optimal context configurations, understanding which information signals matter most for different teaching scenarios.
-  
-  - 
-  
-  **Model & Platform Integration**: Collaborate with ML researchers and platform engineers to co-design architectures that integrate memory modules, retrieval adapters, and human-in-the-loop correction systems.
-  
-  **Mentorship & Standards**
-  
-  - 
-  
-  **Technical Mentorship**: Guide engineers on context engineering patterns, teaching the shift from prompt-first thinking to holistic context management, token budget awareness, and dynamic information curation.
-  
-  **What We're Looking For**
-  - 
-  
-  4+ years building distributed systems. Hands-on experience with RAG systems, knowledge graphs, or semantic search platforms in production environments.
-  
-  - 
-  
-  Strong coding skills in Python, TypeScript/Node.js. Experience with our stack (TypeScript, Node.js, PostgreSQL, NextJS, Supabase) or similar. Proficiency with LLM APIs (OpenAI, Anthropic, etc.) and their context management patterns.
-  
-  - 
-  
-  Experience with Model Context Protocol (MCP), context window optimization for specific model families, or building context-aware agent frameworks.
-  
-  - 
-  
-  Understanding of or interest in how educational content is structured (standards, curricula, taxonomies), privacy requirements (FERPA/COPPA), and how context needs differ across teaching scenarios.
-  
-  - 
-  
-  Experience with agent evaluation, measuring context quality/relevance, or instrumentation for attention budget tracking.
-  
-  - 
-  
-  Knowledge of curriculum standards, learning progressions, or educational metadata schemas that inform context design.
-  
-  **Nice to Have**
-  - 
-  
-  Familiarity with educational technology platforms, curriculum databases, or EdTech content management
-  
-  - 
-  
-  Background in semantic search or hybrid retrieval systems
-  
-  - 
-  
-  Knowledge of curriculum standards, learning progressions, or educational metadata schemas that inform context design
-  
-  **Application Notice:**
-  
-  **Notice: Priority Deadline and Review Start Date**
-  
-  Please note that applications for this position will be accepted until 2/8/26 - applications received after this date will be reviewed on an intermittent basis. While we encourage early submissions, all applications received by the priority deadline will receive equal consideration. Thank you for your interest, and we look forward to reviewing your application.
-  
-  **Why Join Us?**
-  
-  - 
-  
-  Work on cutting-edge AI technology that directly impacts educators and students.
-  
-  - 
-  
-  Join a mission-driven team passionate about making education more efficient and equitable.
-  
-  - 
-  
-  Flexibility of working from home, while fostering a unique culture built on relationships, trust, communication, and collaboration with our team - no matter where they live.
-  
-  **For full time employees:**
-  
-  - 
-  
-  Unlimited time off to empower our employees to manage their work-life balance. We work hard for our teachers and users, and encourage our employees to rest and take the time they need.
-  
-  - 
-  
-  Choice of employer-paid health insurance plans so that you can take care of yourself and your family. Dental and vision are also offered at very low premiums.
-  
-  - 
-  
-  Every employee is offered generous stock options, vested over 4 years.
-  
-  - 
-  
-  401k match & monthly wellness stipend.
-  
-  **Our Values:**
-  
-  - 
-  
-  **Educators are Magic:**  Educators are the most important ingredient in the educational process - they are the magic, not the AI. Trust them, empower them, and put them at the center of leading change in service of students and families.
-  
-  - 
-  
-  **Joy and Magic:** Bring joy and magic into every learning experience - push the boundaries of what’s possible with AI.
-  
-  - 
-  
-  **Community:**  Foster community that supports one another during a time of rapid technological change. Listen to them and serve their needs.
-  
-  - 
-  
-  **Innovation:**  The education system is outdated and in need of innovation and change - AI is an opportunity to bring equity, access, and serve the individual needs of students better than we ever have before.
-  
-  - 
-  
-  **Responsibility:** Put responsibility and safety at the forefront of the technological change that AI is bringing to education.
-  
-  - 
-  
-  **Diversity:** Diversity of thought, perspectives, and backgrounds helps us serve the wide audience of educators and students around the world.
-  
-  - 
-  
-  **Excellence:**  Educators and students deserve the best - and we strive for the highest quality in everything we do.
+  WHO WE ARE: MagicSchool is the premier generative AI
+  platform for teachers. We're just over 2 years old, and more
+  than 7 million teachers from all over the world have joined
+  our platform. Join a top team at a fast growing company that
+  is working towards real social impact. Make an account and
+  try us out at our website and connect with our passionate
+  community on our Wall of Love.
+  
+  The Role
+  
+  As a Senior Context Engineer for AI Systems, you'll
+  architect and optimize how MagicSchool's AI agents reason,
+  remember, and operate within complex educational workflows.
+  You'll design context management systems that determine what
+  information our agents see, how they maintain state across
+  multi-turn interactions, and how they retrieve knowledge
+  without overwhelming their attention budget—ensuring
+  reliable, coherent AI assistance for educators.
+  
+  In this role you'll implement the technical foundation of
+  how AI agents manage their "mental workspace", and ensure
+  our agentic capabilities remain accurate and focused in
+  classroom scenarios.
+  
+  What You'll Do
+  
+  Context Pipeline Architecture
+  
+  - Context Architecture & Token Optimization: Architect and
+    implement adaptive context curation pipelines that
+    determine what information enters each agent inference
+    step, balancing comprehensiveness with the finite
+    attention budget of LLMs to prevent context rot.
+  - Long-Horizon Task Management: Invent and operationalize
+    memory compaction mechanisms and state management patterns
+    that allow agents to maintain coherence across extended
+    teaching workflows (lesson planning, differentiation,
+    assessment creation).
+  - Context Evaluation & Monitoring: Design evaluation pipelines
+    that measure retrieval precision, token relevance, and
+    reasoning coherence as context evolves across sessions.
+    Work with the evaluations team on developing frameworks
+    for measuring attention allocation and agent performance
+    degradation.
+  
+  Dynamic Information Retrieval
+  
+  - Just-in-Time Knowledge Retrieval: Build dynamic, runtime
+    data fetching systems that enable agents to autonomously
+    pull relevant curriculum content, student data, and
+    educational resources exactly when needed, rather than
+    pre-loading context with unnecessary information.
+  
+  Tooling & Integration Design
+  
+  - Tool & Integration Design: Engineer token-efficient tool
+    APIs and retrieval layers where each tool earns its place
+    in the context window through clear utility and minimal
+    overlap, with robust metadata to guide agent decision-
+    making.
+  
+  Cross-Functional & Educational Domain Collaboration
+  
+  - Cross-Functional Collaboration: Partner with Product,
+    Research, and Education teams to translate complex
+    educational workflows into optimal context configurations,
+    understanding which information signals matter most for
+    different teaching scenarios.
+  - Model & Platform Integration: Collaborate with ML
+    researchers and platform engineers to co-design
+    architectures that integrate memory modules, retrieval
+    adapters, and human-in-the-loop correction systems.
+  
+  Mentorship & Standards
+  
+  - Technical Mentorship: Guide engineers on context engineering
+    patterns, teaching the shift from prompt-first thinking to
+    holistic context management, token budget awareness, and
+    dynamic information curation.
+  
+  What We're Looking For
+  
+  - 4+ years building distributed systems. Hands-on experience
+    with RAG systems, knowledge graphs, or semantic search
+    platforms in production environments.
+  - Strong coding skills in Python, TypeScript/Node.js.
+    Experience with our stack (TypeScript, Node.js,
+    PostgreSQL, NextJS, Supabase) or similar. Proficiency with
+    LLM APIs (OpenAI, Anthropic, etc.) and their context
+    management patterns.
+  - Experience with Model Context Protocol (MCP), context window
+    optimization for specific model families, or building
+    context-aware agent frameworks.
+  - Understanding of or interest in how educational content is
+    structured (standards, curricula, taxonomies), privacy
+    requirements (FERPA/COPPA), and how context needs differ
+    across teaching scenarios.
+  - Experience with agent evaluation, measuring context
+    quality/relevance, or instrumentation for attention budget
+    tracking.
+  - Knowledge of curriculum standards, learning progressions, or
+    educational metadata schemas that inform context design.
+  
+  Nice to Have
+  
+  - Familiarity with educational technology platforms,
+    curriculum databases, or EdTech content management
+  - Background in semantic search or hybrid retrieval systems
+  - Knowledge of curriculum standards, learning progressions, or
+    educational metadata schemas that inform context design
+  
+  Application Notice:
+  
+  Notice: Priority Deadline and Review Start Date
+  
+  Please note that applications for this position will be
+  accepted until 2/8/26 - applications received after this
+  date will be reviewed on an intermittent basis. While we
+  encourage early submissions, all applications received by
+  the priority deadline will receive equal consideration.
+  Thank you for your interest, and we look forward to
+  reviewing your application.
+  
+  Why Join Us?
+  
+  - Work on cutting-edge AI technology that directly impacts
+    educators and students.
+  - Join a mission-driven team passionate about making education
+    more efficient and equitable.
+  - Flexibility of working from home, while fostering a unique
+    culture built on relationships, trust, communication, and
+    collaboration with our team - no matter where they live.
+  
+  For full time employees:
+  
+  - Unlimited time off to empower our employees to manage their
+    work-life balance. We work hard for our teachers and
+    users, and encourage our employees to rest and take the
+    time they need.
+  - Choice of employer-paid health insurance plans so that you
+    can take care of yourself and your family. Dental and
+    vision are also offered at very low premiums.
+  - Every employee is offered generous stock options, vested
+    over 4 years.
+  - 401k match & monthly wellness stipend.
+  
+  Our Values:
+  
+  - Educators are Magic:  Educators are the most important
+    ingredient in the educational process - they are the
+    magic, not the AI. Trust them, empower them, and put them
+    at the center of leading change in service of students and
+    families.
+  - Joy and Magic: Bring joy and magic into every learning
+    experience - push the boundaries of what’s possible with
+    AI.
+  - Community:  Foster community that supports one another
+    during a time of rapid technological change. Listen to
+    them and serve their needs.
+  - Innovation:  The education system is outdated and in need of
+    innovation and change - AI is an opportunity to bring
+    equity, access, and serve the individual needs of students
+    better than we ever have before.
+  - Responsibility: Put responsibility and safety at the
+    forefront of the technological change that AI is bringing
+    to education.
+  - Diversity: Diversity of thought, perspectives, and
+    backgrounds helps us serve the wide audience of educators
+    and students around the world.
+  - Excellence:  Educators and students deserve the best - and
+    we strive for the highest quality in everything we do.
 industries:
   - Artificial Intelligence
   - Edtech

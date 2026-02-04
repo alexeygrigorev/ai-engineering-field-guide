@@ -13,147 +13,156 @@ skills:
   - Typescript
 company_size: 732 Employees
 description: |
-  Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achieve. 
-  
-  Hims & Hers is a public company, traded on the NYSE under the ticker symbol “HIMS.” To learn more about the brand and offerings, you can visit hims.com/about and hims.com/how-it-works . For information on the company’s outstanding benefits, culture, and its talent-first flexible/remote work approach, see below and visit www.hims.com/careers-professionals.
-  
-  **About the Role:**
-  
-  We’re looking for a **Sr. Full-Stack Engineer** to join the **Applied AI team** to build the core infrastructure that powers our next generation of AI-powered health experiences.
-  
-  Our **Applied AI organization** is building the foundation for all AI-powered products and experiences at Hims & Hers. This team is responsible for the models, platforms, tools, and systems that enable intelligent, safe, and scalable health automation — from conversational agents and care coaching to logistics and fulfillment.
-  
-  The ideal candidate is **curious, action-oriented, and deeply technical** — someone who loves learning, experiments fast, and iterates toward high-quality outcomes. You’re a fast learner who thrives at the intersection of **AI, systems, and product engineering**. You care about building technology that improves patient care, makes providers more effective, and simplifies complex health operations. You’ll work across TypeScript and Python, collaborating with AI researchers, product managers, and data scientists to bring powerful, safe AI features to life.
-  
-  **You Will:**
-  - 
-  
-  **Design and build scalable AI workflow systems** — including orchestration runtimes, SDKs, and observability pipelines that power real-time, intelligent experiences.
-  
-  - 
-  
-  Develop **end-to-end features** using **TypeScript (Cloudflare Workers, React/Next.js)** and **Python (Databricks, evaluation, data processing)**.
-  
-  - 
-  
-  Integrate and evaluate **large language models (LLMs)** and other ML systems (OpenAI, Anthropic, Vertex, Databricks) via a unified AI Gateway.
-  
-  - 
-  
-  Build **tool connectors and APIs** for our internal domains — EHR, Pharmacy, Payments, Orders, Care — enabling safe and automated cross-system workflows.
-  
-  - 
-  
-  Develop **evaluation and feedback systems** that measure quality, grounding, latency, and safety of AI-powered flows.
-  
-  - 
-  
-  Partner closely with **AI, Product, and Infra** teams to design, prototype, and iterate quickly — turning research into production capabilities.
-  
-  - 
-  
-  Contribute to shared **TypeScript and Python SDKs** that standardize event schemas, tool contracts, and developer experience across Applied AI.
-  
-  - 
-  
-  Ensure everything you build meets **security-by-design** and **privacy-first** principles, supporting HIPAA and compliance requirements.
-  
-  - 
-  
-  Foster a **build → measure → learn** culture by testing fast, gathering feedback, and continuously improving the system.
-  
-  **You Have:**
-  - 
-  
-  **4+ years of professional full-stack experience**, spanning backend APIs, frontend apps, infra, and data systems.
-  
-  - 
-  
-  Proficient in **TypeScript** (Node.js, React) and **Python** (data pipelines, ML evaluation, orchestration).
-  
-  - 
-  
-  Familiarity with **LLM- or ML-based systems**, including prompt orchestration, evaluation harnesses, or RAG pipelines.
-  
-  - 
-  
-  Experience with **workflow orchestration tools**
-  
-  - 
-  
-  Understanding of **system design for AI workloads** — including state management, retries, idempotency, and performance optimization.
-  
-  - 
-  
-  Experience with **data/ML infrastructure** (Databricks, AWS, vector stores, or BigQuery).
-  
-  - 
-  
-  A **bias toward action and iteration** — you build fast, validate ideas early, and improve based on results.
-  
-  - 
-  
-  Collaborative mindset, with strong communication skills.
-  
-  - 
-  
-  Awareness of **AI lifecycle management** — from experimentation and evaluation to safety and deployment.
-  
-  **Nice to Have:**
-  - 
-  
-  Building **AI evaluation or observability systems**, such as LLM-as-a-judge frameworks or human review pipelines.
-  
-  - 
-  
-  Experience with **Databricks**, **Cloudflare Durable Objects**, or other edge orchestration systems.
-  
-  - 
-  
-  Background in **healthcare, life sciences, or regulated industries**.
-  
-  - 
-  
-  Contributions to **open-source SDKs or AI infrastructure** projects.
-  
-  - 
-  
-  Experience creating **visual workflow editors** or n8n-style automation tools.
-  
-  ****Our Benefits (there are more but here are some highlights):****
-  - 
-  
-  Competitive salary & equity compensation for full-time roles
-  
-  - 
-  
-  Unlimited PTO, company holidays, and quarterly mental health days
-  
-  - 
-  
-  Comprehensive health benefits including medical, dental & vision, and parental leave
-  
-  - 
-  
-  Employee Stock Purchase Program (ESPP)
-  
-  - 
-  
-  401k benefits with employer matching contribution
-  
-  - 
-  
-  Offsite team retreats
-  
-  We are committed to building a workforce that reflects diverse perspectives and prioritizes ethics, wellness, and a strong sense of belonging. If you're excited about this role, we encourage you to apply—even if you're not sure if your background or experience is a perfect match.
-  
-  Hims considers all qualified applicants for employment, including applicants with arrest or conviction records, in accordance with the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance, the California Fair Chance Act, and any similar state or local fair chance laws.
-  
-  It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
-  
-  Hims & Hers is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodations@forhims.com and describe the needed accommodation. Your privacy is important to us, and any information you share will only be used for the legitimate purpose of considering your request for accommodation. Hims & Hers gives consideration to all qualified applicants without regard to any protected status, including disability. Please do not send resumes to this email address.
-  
-  To learn more about how we collect, use, retain, and disclose Personal Information, please visit our Global Candidate Privacy Statement.
+  Hims & Hers is the leading health and wellness platform, on
+  a mission to help the world feel great through the power of
+  better health. We are redefining healthcare by putting the
+  customer first and delivering access to care that is
+  affordable, accessible, and personal, from diagnosis to
+  treatment to delivery. No two people are the same, so we
+  provide access to personalized care designed for results. By
+  normalizing health & wellness challenges and innovating on
+  their solutions, we’re making better health outcomes easier
+  to achieve.
+  
+  Hims & Hers is a public company, traded on the NYSE under
+  the ticker symbol “HIMS.” To learn more about the brand and
+  offerings, you can visit hims.com/about and hims.com/how-it-
+  works . For information on the company’s outstanding
+  benefits, culture, and its talent-first flexible/remote work
+  approach, see below and visit www.hims.com/careers-
+  professionals.
+  
+  About the Role:
+  
+  We’re looking for a Sr. Full-Stack Engineer to join the
+  Applied AI team to build the core infrastructure that powers
+  our next generation of AI-powered health experiences.
+  
+  Our Applied AI organization is building the foundation for
+  all AI-powered products and experiences at Hims & Hers. This
+  team is responsible for the models, platforms, tools, and
+  systems that enable intelligent, safe, and scalable health
+  automation — from conversational agents and care coaching to
+  logistics and fulfillment.
+  
+  The ideal candidate is curious, action-oriented, and deeply
+  technical — someone who loves learning, experiments fast,
+  and iterates toward high-quality outcomes. You’re a fast
+  learner who thrives at the intersection of AI, systems, and
+  product engineering. You care about building technology that
+  improves patient care, makes providers more effective, and
+  simplifies complex health operations. You’ll work across
+  TypeScript and Python, collaborating with AI researchers,
+  product managers, and data scientists to bring powerful,
+  safe AI features to life.
+  
+  You Will:
+  
+  - Design and build scalable AI workflow systems — including
+    orchestration runtimes, SDKs, and observability pipelines
+    that power real-time, intelligent experiences.
+  - Develop end-to-end features using TypeScript (Cloudflare
+    Workers, React/Next.js) and Python (Databricks,
+    evaluation, data processing).
+  - Integrate and evaluate large language models (LLMs) and
+    other ML systems (OpenAI, Anthropic, Vertex, Databricks)
+    via a unified AI Gateway.
+  - Build tool connectors and APIs for our internal domains —
+    EHR, Pharmacy, Payments, Orders, Care — enabling safe and
+    automated cross-system workflows.
+  - Develop evaluation and feedback systems that measure
+    quality, grounding, latency, and safety of AI-powered
+    flows.
+  - Partner closely with AI, Product, and Infra teams to design,
+    prototype, and iterate quickly — turning research into
+    production capabilities.
+  - Contribute to shared TypeScript and Python SDKs that
+    standardize event schemas, tool contracts, and developer
+    experience across Applied AI.
+  - Ensure everything you build meets security-by-design and
+    privacy-first principles, supporting HIPAA and compliance
+    requirements.
+  - Foster a build → measure → learn culture by testing fast,
+    gathering feedback, and continuously improving the system.
+  
+  You Have:
+  
+  - 4+ years of professional full-stack experience, spanning
+    backend APIs, frontend apps, infra, and data systems.
+  - Proficient in TypeScript (Node.js, React) and Python (data
+    pipelines, ML evaluation, orchestration).
+  - Familiarity with LLM- or ML-based systems, including prompt
+    orchestration, evaluation harnesses, or RAG pipelines.
+  - Experience with workflow orchestration tools
+  - Understanding of system design for AI workloads — including
+    state management, retries, idempotency, and performance
+    optimization.
+  - Experience with data/ML infrastructure (Databricks, AWS,
+    vector stores, or BigQuery).
+  - A bias toward action and iteration — you build fast,
+    validate ideas early, and improve based on results.
+  - Collaborative mindset, with strong communication skills.
+  - Awareness of AI lifecycle management — from experimentation
+    and evaluation to safety and deployment.
+  
+  Nice to Have:
+  
+  - Building AI evaluation or observability systems, such as
+    LLM-as-a-judge frameworks or human review pipelines.
+  - Experience with Databricks, Cloudflare Durable Objects, or
+    other edge orchestration systems.
+  - Background in healthcare, life sciences, or regulated
+    industries.
+  - Contributions to open-source SDKs or AI infrastructure
+    projects.
+  - Experience creating visual workflow editors or n8n-style
+    automation tools.
+  
+  Our Benefits (there are more but here are some highlights):
+  
+  - Competitive salary & equity compensation for full-time roles
+  - Unlimited PTO, company holidays, and quarterly mental health
+    days
+  - Comprehensive health benefits including medical, dental &
+    vision, and parental leave
+  - Employee Stock Purchase Program (ESPP)
+  - 401k benefits with employer matching contribution
+  - Offsite team retreats
+  
+  We are committed to building a workforce that reflects
+  diverse perspectives and prioritizes ethics, wellness, and a
+  strong sense of belonging. If you're excited about this
+  role, we encourage you to apply—even if you're not sure if
+  your background or experience is a perfect match.
+  
+  Hims considers all qualified applicants for employment,
+  including applicants with arrest or conviction records, in
+  accordance with the San Francisco Fair Chance Ordinance, the
+  Los Angeles County Fair Chance Ordinance, the California
+  Fair Chance Act, and any similar state or local fair chance
+  laws.
+  
+  It is unlawful in Massachusetts to require or administer a
+  lie detector test as a condition of employment or continued
+  employment. An employer who violates this law shall be
+  subject to criminal penalties and civil liability.
+  
+  Hims & Hers is committed to providing reasonable
+  accommodations for qualified individuals with disabilities
+  and disabled veterans in our job application procedures. If
+  you need assistance or an accommodation due to a disability,
+  please contact us at accommodations@forhims.com and describe
+  the needed accommodation. Your privacy is important to us,
+  and any information you share will only be used for the
+  legitimate purpose of considering your request for
+  accommodation. Hims & Hers gives consideration to all
+  qualified applicants without regard to any protected status,
+  including disability. Please do not send resumes to this
+  email address.
+  
+  To learn more about how we collect, use, retain, and
+  disclose Personal Information, please visit our Global
+  Candidate Privacy Statement.
 industries:
   - Beauty
   - eCommerce

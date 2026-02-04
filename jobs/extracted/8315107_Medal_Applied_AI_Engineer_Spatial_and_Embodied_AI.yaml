@@ -17,181 +17,180 @@ skills:
   - Numpy
 company_size: 57 Employees
 description: |
-  ****The Company: General Intuition****
+  The Company: General Intuition
   
-  Today’s most powerful foundation models are trained on written words. But human intelligence extends far beyond language. Truly intelligent machines must move from words to worlds, developing the ability to perceive, anticipate, and act within complex environments.
+  Today’s most powerful foundation models are trained on
+  written words. But human intelligence extends far beyond
+  language. Truly intelligent machines must move from words to
+  worlds, developing the ability to perceive, anticipate, and
+  act within complex environments.
   
-  We believe games represent the highest density expression of ingenuity and problem-solving. General Intuition builds on Medal, the world’s largest and fastest-growing platform for gaming moments. Each year, players capture billions of gameplay clips across countless environments, producing uniquely rich data for learning systems.
+  We believe games represent the highest density expression of
+  ingenuity and problem-solving. General Intuition builds on
+  Medal, the world’s largest and fastest-growing platform for
+  gaming moments. Each year, players capture billions of
+  gameplay clips across countless environments, producing
+  uniquely rich data for learning systems.
   
-  Over the past year, we’ve been advancing the frontier across:
+  Over the past year, we’ve been advancing the frontier
+  across:
   
-  - 
+  - agents capable of deep spatial and temporal reasoning,
+  - world models and simulation environments for training and
+    evaluation, and
+  - video understanding with an emphasis on generalization
+    beyond games.
   
-  agents capable of deep spatial and temporal reasoning,
+  The Role
   
-  - 
+  We are looking for an Applied AI Engineer to connect our
+  research with the reality of our partners’ environments that
+  are constrained by hardware, power, and real world
+  interference.
   
-  world models and simulation environments for training and evaluation, and
+  We work with customers operating in complex areas across
+  robotics, simulation, aerospace and defense, manufacturing,
+  logistics, industrial automation, and more. You will be
+  responsible for taking our model, focusing on post-training,
+  evaluation data, and integrations to ensure our customer's
+  platforms work regardless of a messy, constrained tech stack
+  and hardware.
   
-  - 
+  You will embed with our partners to understand their actual
+  problems, not just what they put in an RFP. You’ll look at
+  their legacy control systems, latency challenges, and power
+  needs and figure out how our AI helps them achieve something
+  that was never possible before.
   
-  video understanding with an emphasis on generalization beyond games.
+  You'll be a key part of the feedback loop. When a model
+  fails because of sensor noise or unexpected physics, you
+  don't just log a bug. You figure out why, and you work
+  across our team to fix the underlying architecture. You
+  ensure we are building technology that survives contact with
+  the real world, for years to come.
   
-  ****The Role****
+  We're looking for a technical polyglot. You might have
+  started in systems engineering, physics, or neuroscience and
+  moved to ML, or the other way around. You know Python and
+  PyTorch, but you aren't afraid of C++ or low-level hardware
+  constraints.
   
-  We are looking for an Applied AI Engineer to connect our research with the reality of our partners’ environments that are constrained by hardware, power, and real world interference.
+  Most importantly, you have high agency and want to be a part
+  of an amazing team.
   
-  We work with customers operating in complex areas across robotics, simulation, aerospace and defense, manufacturing, logistics, industrial automation, and more. You will be responsible for taking our model, focusing on post-training, evaluation data, and integrations to ensure our customer's platforms work regardless of a messy, constrained tech stack and hardware.
-  
-  You will embed with our partners to understand their actual problems, not just what they put in an RFP. You’ll look at their legacy control systems, latency challenges, and power needs and figure out how our AI helps them achieve something that was never possible before.
-  
-  You'll be a key part of the feedback loop. When a model fails because of sensor noise or unexpected physics, you don't just log a bug. You figure out why, and you work across our team to fix the underlying architecture. You ensure we are building technology that survives contact with the real world, for years to come.
-  
-  We're looking for a technical polyglot. You might have started in systems engineering, physics, or neuroscience and moved to ML, or the other way around. You know Python and PyTorch, but you aren't afraid of C++ or low-level hardware constraints.
-  
-  Most importantly, you have high agency and want to be a part of an amazing team. 
-  
-  ****Key Responsibilities****
+  Key Responsibilities
   
   Applied AI/ML Engineering & Mission Ownership
   
-  - 
-  
-  Embed with partners to solve the problems with our frontier AI/ML tools, informing our research and product development plan along the way…not just deploy software.
-  
-  - 
-  
-  Be the primary filter between the messy reality of the physical world and our research and technical staff, surfacing real commercial challenges and pain-points.
-  
-  - 
-  
-  Build and tune models, prototype, script, and patch (often in the field), turning ambiguous requirements into executable code.
+  - Embed with partners to solve the problems with our frontier
+    AI/ML tools, informing our research and product
+    development plan along the way…not just deploy software.
+  - Be the primary filter between the messy reality of the
+    physical world and our research and technical staff,
+    surfacing real commercial challenges and pain-points.
+  - Build and tune models, prototype, script, and patch (often
+    in the field), turning ambiguous requirements into
+    executable code.
   
   Systems Integration & Edge Compute
   
-  - 
-  
-  Build the connective tissue between our AI and the customer's reality, and then help them rethink the art of the possible. This means writing high-performance code (C++/Go/Python) that integrates our inference engine with legacy sensors, RTOS, and diverse hardware peripherals.
-  
-  - 
-  
-  Optimize complex ML models for survival in harsh computing environments. 
-  
-  - 
-  
-  Leverage our simulation and world-model capabilities to validate operational plans before they touch physical hardware.
+  - Build the connective tissue between our AI and the
+    customer's reality, and then help them rethink the art of
+    the possible. This means writing high-performance code
+    (C++/Go/Python) that integrates our inference engine with
+    legacy sensors, RTOS, and diverse hardware peripherals.
+  - Optimize complex ML models for survival in harsh computing
+    environments.
+  - Leverage our simulation and world-model capabilities to
+    validate operational plans before they touch physical
+    hardware.
   
   Technical Diplomacy
   
-  - 
+  - Translate the probabilistic nature of AI into the
+    deterministic language of industrial control systems and
+    mission operators.
+  - Explain trade-offs to non-technical individuals and deep
+    technical details to systems engineers, building the trust
+    required to deploy autonomous systems in critical paths.
   
-  Translate the probabilistic nature of AI into the deterministic language of industrial control systems and mission operators.
-  
-  - 
-  
-  Explain trade-offs to non-technical individuals and deep technical details to systems engineers, building the trust required to deploy autonomous systems in critical paths.
-  
-  ****Qualifications****
+  Qualifications
   
   Required
   
-  - 
-  
-  5+ years experience taking complex systems from prototype to production, within software engineering or applied AI/ML
-  
-  - 
-  
-  Strong experience in the ML stack (Python, Docker, Kubernetes, infrastructure-as-code, and CI/CD for ML pipelines) with competent systems programming skills (C++, Go, Rust, or Java), and ability to use modern AI coding tools
-  
-  - 
-  
-  Strong applied machine learning experience, specifically in the lifecycle of deploying, evaluating, and debugging models
-  
-  - 
-  
-  Experience in at least one of the following, with working knowledge of the others:
-  
-  Agents or policy learning (e.g., RL, planning, control theory, spatial reasoning)
-  
-  - 
-  
-  World models, simulation environments (Unity/Unreal, Omniverse, Isaac Sim), or model-based learning
-  
-  - 
-  
-  Perception, sensor fusion, or inverse dynamics models (IDMs)
-  
-  - 
-  
-  Exposure to bridging the "hardware-software" gap: integrating AI inference with sensors, edge devices, RTOS, or legacy industrial networks
-  
-  - 
-  
-  Full-stack systems mindset: understanding of memory management, concurrency, networking, and APIs
-  
-  - 
-  
-  U.S. citizenship and ability to obtain and maintain a national security clearance (TS/SCI preferred)
-  
-  - 
-  
-  Ability to comply with export control requirements (ITAR/EAR)
+  - 5+ years experience taking complex systems from prototype to
+    production, within software engineering or applied AI/ML
+  - Strong experience in the ML stack (Python, Docker,
+    Kubernetes, infrastructure-as-code, and CI/CD for ML
+    pipelines) with competent systems programming skills (C++,
+    Go, Rust, or Java), and ability to use modern AI coding
+    tools
+  - Strong applied machine learning experience, specifically in
+    the lifecycle of deploying, evaluating, and debugging
+    models
+  - Experience in at least one of the following, with working
+    knowledge of the others:
+    - Agents or policy learning (e.g., RL, planning, control
+      theory, spatial reasoning)
+    - World models, simulation environments (Unity/Unreal,
+      Omniverse, Isaac Sim), or model-based learning
+    - Perception, sensor fusion, or inverse dynamics models (IDMs)
+  - Exposure to bridging the "hardware-software" gap:
+    integrating AI inference with sensors, edge devices, RTOS,
+    or legacy industrial networks
+  - Full-stack systems mindset: understanding of memory
+    management, concurrency, networking, and APIs
+  - U.S. citizenship and ability to obtain and maintain a
+    national security clearance (TS/SCI preferred)
+  - Ability to comply with export control requirements
+    (ITAR/EAR)
   
   Preferred
   
-  - 
+  - Experience, and comfort in, forward-type environments often
+    found with partners across the industrial base, defense,
+    intelligence, aerospace, and robotics environments at the
+    edge
+  - Edge AI, inference optimization, or deployment in
+    constrained settings (TensorRT, ONNX, or mobile inference
+    as examples)
+  - Background in autonomous systems, control, or real-time
+    systemsStartup or early-stage engineering experience
+  - Understanding of secure systems engineering or DevSecOps
+    experience in regulated industries, including degraded,
+    intermittent, limited) networking constraints
+  - Open-source contributions or demonstrable applied systems
+    work, or a portfolio of "side projects" that demonstrate
+    AI/ML, and engineering curiosity
   
-  Experience, and comfort in, forward-type environments often found with partners across the industrial base, defense, intelligence, aerospace, and robotics environments at the edge
+  The Stack
   
-  - 
+  - ML & Research: Python, PyTorch, NumPy, OpenCV, Triton, CUDA
+    for large-scale training, real-time inference, and applied
+    CV/ML
+  - Pipelines & Experimentation: Kubeflow Pipelines and Airflow
+    with continuous evaluation, A/B testing, and performance
+    monitoring across training and production
+  - Backend & Systems: Java services with Redis and RabbitMQ,
+    plus performance-critical C++ components; containerized
+    with Docker and Kubernetes on GCP or on-prem
+  - Clients & Edge Software: Electron/React desktop apps, C# and
+    C++ high-performance recorders, and mobile clients in
+    Swift (iOS) and Kotlin (Android)
+  - Infra, Hardware & Other Deployments: Terraform-managed
+    infrastructure, CI/CD via GitHub Actions and CircleCI;
+    deployment to NVIDIA GPU clusters, air-gapped or on-prem
+    environments, hardened Linux systems (FIPS/STIG), and
+    constrained real-world hardware requiring model
+    optimization, hardware-specific acceleration, and secure
+    supply-chain practices
   
-  Edge AI, inference optimization, or deployment in constrained settings (TensorRT, ONNX, or mobile inference as examples)
+  Benefits
   
-  - 
-  
-  Background in autonomous systems, control, or real-time systems**Startup or early-stage engineering experience
-  
-  - 
-  
-  Understanding of secure systems engineering or DevSecOps experience in regulated industries, including degraded, intermittent, limited) networking constraints
-  
-  - 
-  
-  Open-source contributions or demonstrable applied systems work, or a portfolio of "side projects" that demonstrate AI/ML, and engineering curiosity
-  
-  **The Stack****
-  - 
-  
-  ML & Research: Python, PyTorch, NumPy, OpenCV, Triton, CUDA for large-scale training, real-time inference, and applied CV/ML
-  
-  - 
-  
-  Pipelines & Experimentation: Kubeflow Pipelines and Airflow with continuous evaluation, A/B testing, and performance monitoring across training and production
-  
-  - 
-  
-  Backend & Systems: Java services with Redis and RabbitMQ, plus performance-critical C++ components; containerized with Docker and Kubernetes on GCP or on-prem
-  
-  - 
-  
-  Clients & Edge Software: Electron/React desktop apps, C# and C++ high-performance recorders, and mobile clients in Swift (iOS) and Kotlin (Android)
-  
-  - 
-  
-  Infra, Hardware & Other Deployments: Terraform-managed infrastructure, CI/CD via GitHub Actions and CircleCI; deployment to NVIDIA GPU clusters, air-gapped or on-prem environments, hardened Linux systems (FIPS/STIG), and constrained real-world hardware requiring model optimization, hardware-specific acceleration, and secure supply-chain practices
-  
-  ****Benefits****
-  - 
-  
-  Competitive salary and meaningful equity
-  
-  - 
-  
-  Comprehensive health insurance including dental and vision insurance
-  
-  - 
-  
-  401k
+  - Competitive salary and meaningful equity
+  - Comprehensive health insurance including dental and vision
+    insurance
+  - 401k
 industries:
   - Gaming
   - Mobile

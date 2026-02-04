@@ -13,175 +13,156 @@ skills:
   - PyTorch
 company_size: 115 Employees
 description: |
-  **About Anyscale:**
-  
-  At Anyscale, we're on a mission to democratize distributed computing and make it accessible to software developers of all skill levels. We’re commercializing Ray, a popular open-source project that's creating an ecosystem of libraries for scalable machine learning. Companies like OpenAI, Uber, Spotify, Instacart, Cruise, and many more, have Ray in their tech stacks to accelerate the progress of AI applications out into the real world.
-  
-  With Anyscale, we’re building the best place to run Ray, so that any developer or data scientist can scale an ML application from their laptop to the cluster without needing to be a distributed systems expert.
-  
-  Proud to be backed by Andreessen Horowitz, NEA, and Addition with $250+ million raised to date.
-  
-   
-  
-  **Anyscale** is looking for a **Sr/Staff AI Engineer **to be a **technical advocate** for **Ray** within the **ML and AI community**. You’ll spend your time building real AI systems with Ray, writing code and demos, and sharing your experience through blogs, talks, videos, and open technical discussions. You will be responsible for driving Ray adoption. The role focuses on educating, inspiring, and motivating engineers on the value of Ray to power their AI workloads. The role centers on technical content and evangelism that demonstrates an understanding of the requirements for AI workloads, the challenges and implications of not using Ray, and the technical value and differentiation of Ray.
-  
-  This is **NOT** a marketing role. We're looking for someone who has built ML systems in production, understands the pain of distributed training and inference at scale, and can credibly teach others how to solve these problems with Ray.
-  
-  You'll work at the intersection of distributed systems and modern AI, from scaling LLM training and fine-tuning, to building production RAG pipelines, to orchestrating agentic AI systems.
-  
-  ****What You'll Do****
-  - 
-  
-  **Engage the Community:** Present at conferences, participate in the open-source community, speak at first-party and third-party in-person and virtual events, build relationships with relevant community organizers in region, and engage with ML practitioners on GitHub, Discord, and social platforms
-  
-  - 
-  
-  **Learn, Build & Share:** Create production-quality demos, sample applications, and reference architectures that showcase Ray's capabilities across different AI workloads.
-  
-  - 
-  
-  **Be a Subject Matter Expert: **Develop deep expertise in one or more of Ray's core workload areas, distributed training, LLM serving, and agentic AI, becoming a trusted technical authority both internally and in the broader ML community.
-  
-  - 
-  
-  **Teach & Educate:** Develop technical content (blogs, tutorials, workshops, videos) that helps ML engineers understand how to scale their workloads
-  
-  - 
-  
-  **Shape the Product:** Bring real-world feedback from the community back to engineering and product teams; contribute to Ray's open-source libraries where appropriate
-  
-  - 
-  
-  **Research & Experiment:** Stay current with ML/AI research and translate emerging techniques into practical, scalable implementations on Ray
-  
-  You're an **ML Engineer or AI Researcher** who:
-  
-  - 
-  
-  Lives in a major AI hub in EMEA (like London)
-  
-  - 
-  
-  Has 4+ years of hands-on experience building ML/AI systems (training, fine-tuning, inference, RAG, agents)
-  
-  - 
-  
-  Has practical experience building end-to-end ML pipelines or deploying models to production using ML platforms (e.g., OSS Ray, Amazon SageMaker, Vertex AI, Azure ML, Databricks, or similar)
-  
-  - 
-  
-  Has some experience with technical writing, teaching, conference speaking, or open-source contributions
-  
-  - 
-  
-  Can write production-quality Python code and work fluently with PyTorch, HuggingFace, or similar frameworks
-  
-  - 
-  
-  Is genuinely excited about helping others learn and succeed
-  
-  - 
-  
-  Enjoys traveling and speaking publicly
-  
-  - 
-  
-  May not have formal DevRel experience, but has demonstrated teaching/sharing through **at least one** of the following:
-  
-  - 
-  
-  Open-source contributions with good documentation
-  
-  - 
-  
-  Technical blog posts or tutorials
-  
-  - 
-  
-  Conference talks, meetup presentations, or workshop facilitation
-  
-  - 
-  
-  Research papers or technical reports
-  
-  - 
-  
-  Active engagement in ML communities (GitHub, Discord, Reddit, Twitter/X)
-  
-  ****Preferred qualifications:****
-  - 
-  
-  Strong Python programming and software engineering fundamentals
-  
-  - 
-  
-  Deep hands-on experience with **at least one** ML framework (PyTorch, TensorFlow, JAX, scikit-learn)
-  
-  - 
-  
-  Solid understanding of ML fundamentals: model architectures, training loops, loss functions, optimization, evaluation metrics, etc.
-  
-  - 
-  
-  Experience with the ML development lifecycle: data preprocessing, feature engineering, model training, hyperparameter tuning, model evaluation
-  
-  - 
-  
-  Familiarity with LLM concepts: fine-tuning (LoRA, QLoRA, full fine-tuning), RLHF, tokenization, MoE, etc.
-  
-  ****Nice to Have:****
-  - 
-  
-  Understanding of distributed systems concepts (parallelism, fault tolerance, resource management)
-  
-  - 
-  
-  Prior experience with Ray or similar distributed computing frameworks
-  
-  - 
-  
-  Experience with agentic AI systems and multi-agent orchestration
-  
-  - 
-  
-  GPU programming knowledge (CUDA, optimization techniques)
-  
-  - 
-  
-  Understanding of inference optimization: quantization, batching, KV caching, speculative decoding
-  
-  - 
-  
-  Published research or significant open-source contributions
-  
-  - 
-  
-  Existing presence in the ML/AI community (research or industry)
-  
-  - 
-  
-  Experience with cloud platforms (AWS, GCP, or Azure)
-  
-   
-  **Location & Eligibility **
-  - 
-  
-  This role is **based in London, UK**, with a hybrid work arrangement
-  
-  - 
-  
-  Candidates must be **eligible to work in the UK**
-  
-  - 
-  
-  Regular travel across EMEA is expected
-  
-   
-  **Compensation**
-  
-  At Anyscale, we take a market-based approach to compensation. We are data-driven, transparent, and consistent. As market data evolves, the target salary range for this role may be adjusted accordingly.
-  
-  *Anyscale Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by law.*
+  About Anyscale:
+  
+  At Anyscale, we're on a mission to democratize distributed
+  computing and make it accessible to software developers of
+  all skill levels. We’re commercializing Ray, a popular open-
+  source project that's creating an ecosystem of libraries for
+  scalable machine learning. Companies like OpenAI, Uber,
+  Spotify, Instacart, Cruise, and many more, have Ray in their
+  tech stacks to accelerate the progress of AI applications
+  out into the real world.
+  
+  With Anyscale, we’re building the best place to run Ray, so
+  that any developer or data scientist can scale an ML
+  application from their laptop to the cluster without needing
+  to be a distributed systems expert.
+  
+  Proud to be backed by Andreessen Horowitz, NEA, and Addition
+  with $250+ million raised to date.
+  
+  
+  
+  Anyscale is looking for a Sr/Staff AI Engineer to be a
+  technical advocate for Ray within the ML and AI community.
+  You’ll spend your time building real AI systems with Ray,
+  writing code and demos, and sharing your experience through
+  blogs, talks, videos, and open technical discussions. You
+  will be responsible for driving Ray adoption. The role
+  focuses on educating, inspiring, and motivating engineers on
+  the value of Ray to power their AI workloads. The role
+  centers on technical content and evangelism that
+  demonstrates an understanding of the requirements for AI
+  workloads, the challenges and implications of not using Ray,
+  and the technical value and differentiation of Ray.
+  
+  This is NOT a marketing role. We're looking for someone who
+  has built ML systems in production, understands the pain of
+  distributed training and inference at scale, and can
+  credibly teach others how to solve these problems with Ray.
+  
+  You'll work at the intersection of distributed systems and
+  modern AI, from scaling LLM training and fine-tuning, to
+  building production RAG pipelines, to orchestrating agentic
+  AI systems.
+  
+  What You'll Do
+  
+  - Engage the Community: Present at conferences, participate in
+    the open-source community, speak at first-party and third-
+    party in-person and virtual events, build relationships
+    with relevant community organizers in region, and engage
+    with ML practitioners on GitHub, Discord, and social
+    platforms
+  - Learn, Build & Share: Create production-quality demos,
+    sample applications, and reference architectures that
+    showcase Ray's capabilities across different AI workloads.
+  - Be a Subject Matter Expert: Develop deep expertise in one or
+    more of Ray's core workload areas, distributed training,
+    LLM serving, and agentic AI, becoming a trusted technical
+    authority both internally and in the broader ML community.
+  - Teach & Educate: Develop technical content (blogs,
+    tutorials, workshops, videos) that helps ML engineers
+    understand how to scale their workloads
+  - Shape the Product: Bring real-world feedback from the
+    community back to engineering and product teams;
+    contribute to Ray's open-source libraries where
+    appropriate
+  - Research & Experiment: Stay current with ML/AI research and
+    translate emerging techniques into practical, scalable
+    implementations on Ray
+  
+  You're an ML Engineer or AI Researcher who:
+  
+  - Lives in a major AI hub in EMEA (like London)
+  - Has 4+ years of hands-on experience building ML/AI systems
+    (training, fine-tuning, inference, RAG, agents)
+  - Has practical experience building end-to-end ML pipelines or
+    deploying models to production using ML platforms (e.g.,
+    OSS Ray, Amazon SageMaker, Vertex AI, Azure ML,
+    Databricks, or similar)
+  - Has some experience with technical writing, teaching,
+    conference speaking, or open-source contributions
+  - Can write production-quality Python code and work fluently
+    with PyTorch, HuggingFace, or similar frameworks
+  - Is genuinely excited about helping others learn and succeed
+  - Enjoys traveling and speaking publicly
+  - May not have formal DevRel experience, but has demonstrated
+    teaching/sharing through at least one of the following:
+  
+  - Open-source contributions with good documentation
+  - Technical blog posts or tutorials
+  - Conference talks, meetup presentations, or workshop
+    facilitation
+  - Research papers or technical reports
+  - Active engagement in ML communities (GitHub, Discord,
+    Reddit, Twitter/X)
+  
+  Preferred qualifications:
+  
+  - Strong Python programming and software engineering
+    fundamentals
+  - Deep hands-on experience with at least one ML framework
+    (PyTorch, TensorFlow, JAX, scikit-learn)
+  - Solid understanding of ML fundamentals: model architectures,
+    training loops, loss functions, optimization, evaluation
+    metrics, etc.
+  - Experience with the ML development lifecycle: data
+    preprocessing, feature engineering, model training,
+    hyperparameter tuning, model evaluation
+  - Familiarity with LLM concepts: fine-tuning (LoRA, QLoRA,
+    full fine-tuning), RLHF, tokenization, MoE, etc.
+  
+  Nice to Have:
+  
+  - Understanding of distributed systems concepts (parallelism,
+    fault tolerance, resource management)
+  - Prior experience with Ray or similar distributed computing
+    frameworks
+  - Experience with agentic AI systems and multi-agent
+    orchestration
+  - GPU programming knowledge (CUDA, optimization techniques)
+  - Understanding of inference optimization: quantization,
+    batching, KV caching, speculative decoding
+  - Published research or significant open-source contributions
+  - Existing presence in the ML/AI community (research or
+    industry)
+  - Experience with cloud platforms (AWS, GCP, or Azure)
+  
+  
+  
+  Location & Eligibility
+  
+  - This role is based in London, UK, with a hybrid work
+    arrangement
+  - Candidates must be eligible to work in the UK
+  - Regular travel across EMEA is expected
+  
+  
+  
+  Compensation
+  
+  At Anyscale, we take a market-based approach to
+  compensation. We are data-driven, transparent, and
+  consistent. As market data evolves, the target salary range
+  for this role may be adjusted accordingly.
+  
+  Anyscale Inc. is an Equal Opportunity Employer. Candidates
+  are evaluated without regard to age, race, color, religion,
+  sex, disability, national origin, sexual orientation,
+  veteran status, or any other characteristic protected by
+  law.
 industries:
   - Artificial Intelligence
   - Software
