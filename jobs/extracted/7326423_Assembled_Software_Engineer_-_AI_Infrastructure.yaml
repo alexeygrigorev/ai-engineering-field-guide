@@ -1,0 +1,141 @@
+job_id: 7326423
+title: Software Engineer - AI Infrastructure
+company: Assembled
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic
+  - AWS
+  - Buildkite
+  - CircleCI
+  - Cloudwatch
+  - Datadog
+  - Go
+  - Karpenter
+  - Kubernetes
+  - Mezmo
+company_size: 130 Employees
+description: |
+  **About Assembled**
+  
+  Great customer support requires human agents and AI in perfect balance, and Assembled is the only unified platform that orchestrates both at scale. Companies like Canva, Etsy, and Robinhood use Assembled to coordinate their entire support operation — in-house agents, BPOs, and AI — in a single operating system. With AI Agents that resolve cases end-to-end, AI Copilot for agent assistance, and AI-powered workforce management that optimizes both human and AI capacity, Assembled helps teams deliver faster, better service while making smarter decisions about how to staff and automate. Backed by $70M from NEA, Emergence Capital, and Stripe, we're building the platform that makes AI and human collaboration actually work.
+  
+  ****The Role ****
+  
+  We’re looking for a software engineer to join our Infrastructure team—building and operating the core systems that power our rapidly growing AI agent platform for customer support. Our AI Agents automates support workflows across email, chat, and voice, and has grown from $0 to $1M in ARR in just 3 months. As adoption accelerates, we’re investing deeply in scaling its infrastructure to meet increasing demand and security expectations from enterprise customers.
+  
+  As part of the AI Infrastructure team, you’ll be responsible for the systems that enable Assist to be fast, reliable, and secure. You’ll work on foundational platform components that power real-time LLM usage at scale, while also exploring how AI can be leveraged internally to make our engineering team more productive. This team is highly cross-functional, working closely with the AI, security, and product engineering teams.
+  
+  This is a high-ownership role for someone who’s excited by 0-to-1 building and shaping the infrastructure backbone of our AI products.
+  
+  ****Some projects owned by the Infrastructure team****
+  - 
+  
+  **Agent service reliability and scaling**: We manage and scale the infrastructure that serves LLM-powered agents across chat, email, and voice. This includes selecting inference strategies, integrating with model providers (e.g. OpenAI, Anthropic), and dynamically routing traffic for performance and cost efficiency.
+  
+  - 
+  
+  **Prompt and embedding storage systems**: Assist relies heavily on dynamically generated prompts and semantic search across support content. The team owns highly-available, fast-access storage and indexing layers optimized for real-time AI interactions.
+  
+  - 
+  
+  **Privacy and security**: Enterprises expect strict guardrails around AI use. We’re building systems like network-level intrusion detection (IDS/IPS), audit logging, and LLM usage policy enforcement to meet these expectations and unlock new sales channels.
+  
+  - 
+  
+  **Observability and usage analytics**: We operate systems that surface key metrics—token usage, latency, cost per response, and quality signals—so the Assist team can continuously improve Assist’s performance and accuracy.
+  
+  - 
+  
+  **AI-powered developer tools**: We are beginning to explore and evangelize the use of AI to accelerate internal engineering workflows—through internal chat agents, pair programming tools, and intelligent automation for deployment, debugging, and on-call. Our goal is to empower engineers across the company to build faster and more confidently with AI. 
+  
+  ****You may be a good fit if you:****
+  - 
+  
+  Have 6+ years of engineering experience, with past ownership of high-scale, production-critical infrastructure
+  
+  - 
+  
+  Have experience with distributed systems and container orchestration (especially Kubernetes)
+  
+  - 
+  
+  Have worked with AI/ML platforms or are excited to build foundational infrastructure for LLM-based applications
+  
+  - 
+  
+  Thrive in fast-paced environments with shifting requirements and ambiguous problem spaces
+  
+  - 
+  
+  Are motivated by impact, enjoy deep technical challenges, and want to work cross-functionally across security, AI, and product
+  
+  - 
+  
+  Have strong familiarity with one or more parts of our tech stack:
+  
+  **Cloud provider**: AWS
+  
+  - 
+  
+  **Orchestration**: Kubernetes + Karpenter
+  
+  - 
+  
+  **LLM integration**: Experience with OpenAI, Anthropic, or open-source model serving (e.g., vLLM, HuggingFace TGI, Ray Serve)
+  
+  - 
+  
+  **Prompt & embedding infrastructure**: Vector databases (e.g., Pinecone, Weaviate, PGVector), semantic search, prompt templating systems
+  
+  - 
+  
+  **Datastores**: Postgres + PgBouncer, Snowflake, Redis
+  
+  - 
+  
+  **Languages**: Go and Python
+  
+  - 
+  
+  **Monitoring & CI/CD**: Datadog, Mezmo, CloudWatch, Buildkite, CircleCI
+  
+  ****Our U.S. benefits****
+  - 
+  
+  Generous medical, dental, and vision benefits 
+  
+  - 
+  
+  Paid company holidays, sick time, and unlimited time off
+  
+  - 
+  
+  Monthly credits to spend on each: professional development, general wellness, Assembled customers, and commuting
+  
+  - 
+  
+  Paid parental leave 
+  
+  - 
+  
+  Hybrid work model with catered lunches everyday (M-F), snacks, and beverages in our SF & NY offices
+  
+  - 
+  
+  401(k) plan enrollment
+  
+  *We know great candidates don’t always meet every requirement listed in a job description. If the role excites you and you believe you can make an impact at Assembled, we encourage you to apply. We value diverse perspectives and are committed to building an inclusive workplace where everyone feels like they belong and has the opportunity to do their best work. We look forward to hearing from you!*
+  
+  *For United States Applicants:*
+  *Assembled participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the United States.*
+  *For United Kingdom Applicants:*
+  *Assembled is required to verify your right to work in the UK and will conduct a Right to Work check prior to employment in accordance with applicable law.*
+industries:
+  - Artificial Intelligence
+  - Software
+  - Automation
+posted_date: 2026-01-18
+url: https://builtin.com/job/software-engineer-ai-infrastructure/7326423
+source: Built In

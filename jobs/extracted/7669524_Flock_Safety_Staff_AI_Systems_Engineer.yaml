@@ -1,0 +1,206 @@
+job_id: 7669524
+title: Staff AI Systems Engineer
+company: Flock Safety
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic Apis
+  - AWS
+  - Clickhouse
+  - Express
+  - Fastapi
+  - Gemini Apis
+  - Grafana
+  - Kubernetes
+  - Langchain
+  - Langgraph
+company_size: 1,600 Employees
+description: |
+  ****Who is Flock?****
+  
+  Flock Safety is the leading safety technology platform, helping communities thrive by taking a proactive approach to crime prevention and security. Our hardware and software suite connects cities, law enforcement, businesses, schools, and neighborhoods in a nationwide public-private safety network. Trusted by over 5,000 communities, 4,500 law enforcement agencies, and 1,000 businesses, Flock delivers real-time intelligence while prioritizing privacy and responsible innovation.
+  
+  We’re a high-performance, low-ego team driven by urgency, collaboration, and bold thinking. Working at Flock means tackling big challenges, moving fast, and continuously improving. It’s intense but deeply rewarding for those who want to make an impact.
+  
+  With nearly $700M in venture funding and a $7.5B valuation, we’re scaling intentionally and seeking top talent to help build the impossible. If you value teamwork, ownership, and solving tough problems, Flock could be the place for you.
+  
+  ****The Opportunity****
+  
+  We’re hiring a **Staff. AI Systems Engineer** to help support our emerging product, Night Shift, an AI research assistant that amplifies the impact of investigators by automating the tedious, repetitive steps involved in working a case. This role sits within the Machine Learning team and will work closely with partners in Engineering (Backend, Frontend, and Design) in a fast-paced environment. You will be one of the earliest technical contributors to our system architecture for agentic AI, and will own our AI evaluation framework. The outcome we’re after is clear and ambitious: measurably faster, more accurate leads for every officer and every shift.
+  
+  ****The Skillset****
+  
+  **Familiarity with Agentic Systems:** Hands-on experience with LLM agents including:
+  
+  - 
+  
+  LLM API use (e.g. LangChain/LangGraph, vLLM, OpenAI/Gemini/Anthropic APIs)
+  
+  - 
+  
+  Agent Design: tool use (e.g. via MCP), retrieval, memory, grounding/attribution for claims, and guardrails.
+  
+  - 
+  
+  Architectural patterns: planning and hand-off for multi-agent systems, context management
+  
+  - 
+  
+  RAG: vector/hybrid search (e.g. pgvector, turbopuffer, rerankers, etc.)
+  
+  **ML Platform expertise:** 5+ years building and shipping ML systems to production; experience in the following areas:
+  
+  - 
+  
+  Backend Python and JS familiarity required; Typescript/Golang familiarity welcome
+  
+  - 
+  
+  Web services (e.g. Express/FastAPI, REST, SSE, JWTs)
+  
+  - 
+  
+  Cloud Infrastructure (e.g. AWS, Terraform, VPC, Networking)
+  
+  - 
+  
+  Backend databases/stores (e.g. Postgres, Redis)
+  
+  - 
+  
+  Observability (e.g. Prometheus, Grafana, OpenTelemetry, LangSmith/Langfuse)
+  
+  - 
+  
+  [Preferred] Durable execution (e.g. Temporal, Hatchet)
+  
+  - 
+  
+  [Preferred] OLAP (e.g. ClickHouse, Bigquery)
+  
+  - 
+  
+  [Preferred] ML Inference (e.g. PyTorch, TensorRT, NVIDIA Triton), ideally in multimodal domains (text/image/video)
+  
+  - 
+  
+  [Preferred] Compute orchestration (e.g. Kubernetes, Prefect, Ray)
+  
+  **Experience with LLM Evaluations at scale:** You’ve built offline/online eval harnesses and are familiar with the methodologies and metrics to measure:
+  
+  - 
+  
+  Search, retrieval, and recommendation performance
+  
+  - 
+  
+  Safety & robustness (security, compliance, red-teaming, regression testing)
+  
+  - 
+  
+  Cost, performance and latency trade-offs
+  
+  - 
+  
+  [Preferred] Agentic task success, trajectory quality, preference learning (e.g. SFT, DPO, RLHF, LLM-as-judge)
+  
+  *Feeling uneasy that you haven’t ticked every box? That’s okay; we’ve felt that way too. Studies have shown women and minorities are less likely to apply unless they meet all qualifications. We encourage you to break the status quo and apply to roles that would make you excited to come to work every day.*
+  
+  ****90 Days at Flock****
+  
+  We are a results-oriented culture and believe job descriptions are a thing of the past. We prescribe 90 day plans and believe that good days lead to good weeks, which lead to good months. This serves as a preview of the 90 day plan you will receive if you were to be hired in this role at Flock Safety.
+  
+  **The First 30 Days**
+  
+  - 
+  
+  Immerse yourself in the current system design and agent/tooling landscape. Understand the core customer use cases and data flows.
+  
+  - 
+  
+  Support the team by shipping a few quick wins (e.g., refining tool APIs, prompt engineering, fixing bugs)
+  
+  - 
+  
+  Stand up the foundational eval and observability scaffolding (datasets, metrics, KPIs, reporting)
+  
+  - 
+  
+  Propose a technical architecture and implementation plan for an agent evaluation framework.
+  
+  **The First 60 Days**
+  
+  - 
+  
+  Deliver the MVP evaluation harness to produce initial metrics, enable debugging and perform regression testing.
+  
+  - 
+  
+  Take on a system feature that offers demonstrated improvement against your MVP evaluation suite
+  
+  **90 Days & Beyond**
+  
+  - 
+  
+  Productionize the evaluation and observability platform and make it the source of truth for quality and safety. (e.g. Online/offline tracing, alerting, dashboards, evaluations and PR-gated regression suite)
+  
+  - 
+  
+  Own the roadmap for evolving the agent evaluation platform
+  
+  - 
+  
+  Lead deeper R&D threads (e.g., lightweight fine-tuned projection layers, specialized embeddings, multimodal understanding) that can improve system performance on core metrics.
+  
+  If you’re excited to build AI that tangibly amplifies real-world public safety outcomes—and you love making complex systems measurable, dependable, and fast—we’d love to talk.
+  
+  **Salary & Equity**
+  
+  In this role, you’ll receive a starting salary between $200,000 and $225,000 as well as Flock Safety Stock Options. Base salary is determined by job-related experience, education/training, as well as market indicators. Your recruiter will discuss this in-depth with you during our first chat.
+  
+  **Location**
+  
+  We’re building the impossible, together. To drive innovation through in-person collaboration, we’re prioritizing candidates in our key hubs: Atlanta, Boston, Chicago, Denver, Los Angeles, New York City, San Francisco, and Austin. While we value the energy of our hub communities, we embrace remote work and welcome applications from exceptional talent across the United States.
+  
+  **The Perks**
+  
+  🌴**Flexible PTO**: We offer non-accrual PTO, plus 11 company holidays.
+  
+  ⚕️**Fully-paid ****health benefits**** plan for employees**: including Medical, Dental, and Vision and an HSA match.
+  
+  👪**Family Leave**: All employees receive 12 weeks of 100% paid parental leave. Birthing parents are eligible for an additional 6-8 weeks of physical recovery time.
+  
+  🍼**Fertility & Family Benefits: **We have partnered with Maven, a complete digital health benefit for starting and raising a family. Flock will provide a $50,000-lifetime maximum benefit related to eligible adoption, surrogacy, or fertility expenses.
+  
+  🧠**Spring Health: **Spring Health offers a variety of mental health benefits, including therapy, coaching, medication management, and digital tools, all tailored to each individual's needs.
+  
+  💖**Caregiver Support:** We have partnered with Cariloop to provide our employees with caregiver support
+  
+  💸**Carta Tax Advisor:** Employees receive 1:1 sessions with Equity Tax Advisors who can address individual grants, model tax scenarios, and answer general questions.
+  
+  💚**ERGs:** We want all employees to thrive and feel like they belong at Flock. We offer four ERGs today - Women of Flock, Flock Proud, LEOs and Melanin Motion. If you are interested in talking to a representative from one of these, please let your recruiter know.
+  
+  **💻WFH Stipend:** $150 per month to cover the costs of working from home.
+  
+  **📚Productivity Stipend:** $300 per year to use on Audible, Calm, Masterclass, Duolingo and so much more.
+  
+  **🏠Home Office Stipend:** A one-time $750 to help you create your dream office.
+  
+  *If an offer is extended and accepted, this position requires the ability to obtain and maintain Criminal Justice Information Services (CJIS) certification as a condition of employment. Applicants must meet all FBI CJIS Security Policy requirements, including a fingerprint-based background check.*
+  
+  *Flock is an equal opportunity employer. We celebrate diverse backgrounds and thoughts and welcome everyone to apply for employment with us. We are committed to fostering an environment that is inclusive, transparent, and collaborative. Mutual respect is central to how Flock operates, and we believe the best solutions come from diverse perspectives, experiences, and skills. We embrace our differences and know that we are stronger working together.*
+  
+  *If you need assistance or an accommodation due to a disability, please email us at recruiting@flocksafety.com. This information will be treated as confidential and used only to determine an appropriate accommodation for the interview process.*
+  
+  *At Flock Safety, we compensate our employees fairly for their work. Base salary is determined by job-related experience, education/training, as well as market indicators. The range above is representative of base salary only and does not include equity, sales bonus plans (when applicable) and benefits. This range may be modified in the future. This job posting may span more than one career level. *
+  
+  *Flock Safety is aware of fraudulent individuals and agencies falsely claiming to represent our company. All legitimate communication from Flock Safety will come from an email address ending in **@******flocksafety.com****. We do not make job offers through messaging apps, social platforms, or unauthorized third parties, and we will never request payment or sensitive personal information during the hiring process. If you encounter suspicious outreach related to a Flock Safety role, please report it to **recruiting@flocksafety.com*
+industries:
+  - Hardware
+  - Machine Learning
+  - Security
+  - Software
+posted_date: 2026-01-28
+url: https://builtin.com/job/senior-ai-systems-engineer/7669524
+source: Built In

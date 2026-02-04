@@ -1,0 +1,86 @@
+job_id: 8198846
+title: AI Engineer - Infrastructure
+company: Traversal
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Eks
+  - Helm
+  - Kafka
+  - Kubernetes
+  - Kustomize
+  - Opentelemetry
+  - Python
+  - Rust
+  - Terraform
+company_size: 0 Employees
+description: |
+  ****About Traversal****
+  
+  Traversal is the AI Site Reliability Engineer (SRE) for the enterprise—already trusted by some of the largest companies in the world to troubleshoot, remediate, and even prevent the most complex production incidents. Our mission is to free engineers from endless firefighting and enable them to focus on creative, high-impact work. 
+  
+  Our roots remain deeply embedded in AI research, and we’re channeling that scientific rigor and creativity into building the premier AI agent lab for the enterprise. Hence, what we’re proudest of is assembling the most talented yet nicest group of individuals, including researchers from MIT, Harvard, and Berkeley, to world-class engineers from industry: Citadel Securities, Cockroach Labs, Datadog, DE Shaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to take on one of the hardest problems for AI to solve. Without the entire team, none of this would be possible.
+  ****The Role****
+  
+  As an AI Infrastructure Engineer on the Platform / Reliability team, you’ll design, secure, and operate the core systems that power Traversal’s AI products. We already serve Fortune 50 enterprises with multi-tenancy and SOC 2 Type II controls, and we’re rapidly scaling.
+  
+  You’ll focus on high-concurrency inference, Kafka data pipelines, and agentic tooling (via MCP) — building infrastructure that’s reliable under extreme load. This includes safe concurrency, graceful retries, queue management, autoscaling, observability, and Kubernetes-native scheduling.
+  
+  This is a senior, high-impact role: you’ll own foundational systems, work across Python, Rust, Kubernetes, and Kafka, and shape how enterprise AI reliability is built and scaled.
+  ****Responsibilities****
+  - **System Design & Architecture:** Design scalable, reliable infrastructure for AI inference, data pipelines, and agentic workflows.
+  
+  - **Queue & Job Scheduling (K8s-native):** Migrate from Python multiprocessing + Postgres-as-queue to Kubernetes-native queuing and orchestration (KEDA/HPA, Jobs/CronJobs, Kueue/Argo).
+  
+  - **Managed Kafka Operations:** Tune partitioning and throughput, design DLQ + replay runbooks, implement idempotent sinks to avoid duplicates
+  
+  - **Autoscaling:** Scale on real signals (queue lag, in-flight requests, latency); add burst capacity and safe drains
+  
+  - **Per-Tool Reliability:** Productionize MCP toolchains with circuit breaking, timeouts, sandboxing, and audit
+  
+  - **Progressive Delivery:** Implement canary and blue/green rollouts for stateful services, pre-warm caches/weights, and enable graceful termination
+  
+  - **Observability:** Build RED/USE dashboards and OpenTelemetry traces across gateway → agent → tool → Kafka → sinks
+  
+  - **Infrastructure as Code:** Evolve Terraform/Helm/Kustomize for multi-environment deployments, secrets, policy-as-code (OPA/Rego), and workload identity
+  ****Requirements****
+  - 3+ years of experience at technically rigorous companies or teams
+  
+  - Proven experience operating high-concurrency backends with managed Kafka fan-in/out and at-least-once processing
+  
+  - Experience designing idempotent systems (outbox, dedupe keys, safe replay)
+  
+  - Production experience building and maintaining systems in Python and Rust (Rust 2024)
+  
+  - Incident response, chaos testing, capacity planning
+  
+  - Familiarity with AWS, EKS, Terraform, Helm/Kustomize
+  
+  - Strong debugging skills across runtime, Kafka, network, and auth layers
+  
+  - Security-minded, with experience implementing least privilege, default-deny egress, auditability, and policy-as-code
+  
+  **Nice to Have**
+  
+  - GPU workload operations (MIG, topology-aware placement), inference servers, token streaming gateways
+  
+  - Data governance (PII discovery/redaction), lineage, tokenization
+  
+  - Cross-region active/active for Kafka and stateless services
+  
+  - Service mesh (Envoy/Istio), Cilium/eBPF, ClickHouse for analytics
+  ****Compensation****
+  
+  We offer competitive compensation, startup equity, health insurance, and additional benefits. The U.S. base salary range for this full-time, in-person role in New York is $150,000–$300,000, plus equity and benefits. Our salary ranges are based on location, level, and role. Individual compensation is determined by experience, skills, and job-related knowledge.
+  ****Why You Should Join Us****
+  
+  We’ll make sure you’re fully supported with health insurance, a great tech setup, flexible time off, and plenty of in-office snacks. We offer competitive salary and equity packages, and take thoughtful consideration with every hire on our small, high-impact team.
+  
+  Traversal is fully in-office, 5 days a week, based in New York near Madison Square Park. We have a collaborative, hard-working culture and are energized by building the future of AI-powered software maintenance.
+  
+  Working here means owning meaningful parts of the product, having the flexibility to move fast, and learning constantly. This is a place to grow your career, make a real impact, and help define a new category of infrastructure software.
+posted_date: 2026-01-14
+url: https://builtin.com/job/ai-engineer-infrastructure/8198846
+source: Built In

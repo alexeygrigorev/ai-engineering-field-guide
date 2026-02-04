@@ -1,0 +1,93 @@
+job_id: 8281490
+title: Senior AI Engineer
+company: Ethos
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Datadog
+  - Fastapi
+  - Gpus
+  - Kubernetes
+  - Opensearch
+  - Otel
+  - Pgvector
+  - Pinecone
+  - Postgres
+  - Python
+company_size: 687 Employees
+description: |
+  ****About Ethos****Ethos was built to make it faster and easier to get life insurance for the next million families. Our approach blends industry expertise, technology, and the human touch to find you the right policy to protect your loved ones. 
+  
+  We leverage deep technology and data science to streamline the life insurance process, making it more accessible and convenient. Using predictive analytics, we are able to transform a traditionally multi-week process into a modern digital experience for our users that can take just minutes! We’ve issued billions in coverage each month and eliminated the traditional barriers, ushering the industry into the modern age. Our full-stack technology platform is the backbone of family financial health.
+  
+  We make getting life insurance easier, faster and better for everyone. 
+  
+  Our investors include General Catalyst, Sequoia Capital, Accel Partners, Google Ventures, SoftBank, and the investment vehicles of Jay-Z, Kevin Durant, Robert Downey Jr and others. This year, we were named on CB Insights' Global Insurtech 50 list and BuiltIn's Top 100 Midsize Companies in San Francisco. We are scaling quickly and looking for passionate people to protect the next million families! 
+  ****About the Role****
+  
+  We’re building several **LLM-powered copilots** across critical workflows (e.g., underwriting productivity, agent enablement, customer support, operations/compliance, fraud). We need an AI engineer to own the **LLM + retrieval + context layer** that makes these copilots accurate, auditable, fast, and cost-efficient. 
+  
+  Typical stack: Python/FastAPI, Postgres + vector (pgvector/Pinecone/Weaviate), OpenSearch, optional graph DB, Kubernetes + GPUs, OTEL/Datadog
+  ****Duties and Responsibilities:****
+  - **Production RAG**: indexing, retrieval, hybrid search, reranking, query rewriting, grounding, citations
+  
+  - **Context Graph**: entity resolution + linking + provenance; graph + vector retrieval; supports multi-hop context
+  
+  - **LLM orchestration**: tool/function calling, structured outputs, routing across model tiers, failure modes
+  
+  - **GPU/inference cost optimization**: batching, caching/KV reuse, quantization, autoscaling; optimize $/session + latency
+  
+  - **Safety + compliance**: PII/PHI handling, redaction, audit logs, deterministic replay, hallucination mitigation
+  
+  - **LLMOps**: eval harness (golden sets, regression, adversarial), monitoring for quality/cost/drift
+  
+  - Design/ship the end-to-end pipeline: retrieve → assemble context → generate → cite → log/monitor
+  
+  - Improve quality and trust via evaluation, feedback loops, and clear evidence-backed outputs
+  
+  - Partner with product, security, and domain teams; write crisp design docs; raise engineering bar
+  
+  - Ship RAG v1 with citations + measurable quality metrics
+  
+  - Deliver Context Graph v1 that improves retrieval on real copilot tasks
+  
+  - Reduce cost/latency with a concrete inference optimization plan shipped to prod
+  ****Qualifications and Skills:****
+  - 7+ years building production systems; 2+ years hands-on **LLMs/RAG**
+  
+  - Proven RAG experience (embeddings, vector DBs, hybrid search, reranking, eval)
+  
+  - Strong backend/distributed systems + observability
+  
+  - Track record shipping in high-stakes environments with auditability/correctness
+  
+  - Knowledge graph / entity resolution / provenance systems
+  
+  - GPU inference optimization (vLLM/TGI/TensorRT-LLM, quantization AWQ/GPTQ, batching)
+  
+  - Regulated domain experience (insurance/fintech/healthcare)
+  
+  **#LI-Remote ****#LI-MK1**
+  
+  The US national base salary range for this full-time position is $146,000 - $236,000. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. 
+  
+  Please note that the compensation details listed in US role postings reflect the base salary only and do not include applicable bonus, equity, or benefits. 
+  
+  You can find further details of our US benefits at https://www.ethoslife.com/careers/
+  
+  Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. At Ethos we are dedicated to building a diverse, inclusive and authentic workplace.
+  
+  We are an equal opportunity employer who values diversity and inclusion and look for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the SF Fair Chance Ordinance, we will consider employment for qualified applicants with arrests and conviction records.
+  
+  To learn more about what information we collect and how it may be used, please refer to our California Candidate Privacy Notice.
+  
+  ***Recruitment Notice: Please be aware of recruitment scams. All legitimate communication from our team will only come from email addresses ending in @ethos.com or @getethos.com.
+  We will never ask for payment, banking details, or sensitive personal information during the hiring process. If you are contacted by someone claiming to represent us from a different email address, please treat it as fraudulent.***
+industries:
+  - Consumer Web
+  - Fintech
+  - Insurance
+posted_date: 2026-01-22
+url: https://builtin.com/job/ai-engineer/8281490
+source: Built In

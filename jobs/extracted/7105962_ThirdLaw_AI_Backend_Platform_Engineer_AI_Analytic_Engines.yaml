@@ -1,0 +1,129 @@
+job_id: 7105962
+title: Backend / Platform Engineer, AI Analytic Engines
+company: ThirdLaw AI
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Faiss
+  - Go
+  - Kafka
+  - Kubernetes
+  - Opentelemetry
+  - Pgvector
+  - Pulsar
+  - Python
+  - Qdrant
+company_size: 4 Employees
+description: |
+  ****About the Company****
+  
+  ThirdLaw is building the control layer for AI in the enterprise. As companies rush to adopt LLMs and AI agents, they face new safety, compliance, and operational risks that traditional observability tools were never designed to detect. Metrics like latency or cost don’t capture when a model makes a bad decision, leaks sensitive data, or behaves unpredictably.
+  ****
+  
+  We help IT and Security teams answer the foundational question: **"Is this OK?"**—and take real-time action when it’s not.
+  ****
+  
+  Backed by top-tier venture firms and trusted by forward-looking enterprise design partners, we’re building the infrastructure to monitor, evaluate, and control AI behavior in real-world environments—**at runtime, where it matters**. If you're excited to build systems that help AI work as intended—and stop it when it doesn’t—we’d love to meet you.
+  
+  ****About the Role****
+  
+  You won’t just be piping logs or tuning models—you’ll build and scale systems that reconcile latency, correctness, and observability across distributed pipelines. You’ll be designing the nervous system of a new class of software—where AI Agents reason, act, and fail in unpredictable ways. If you're excited by AI and want to shape its safe deployment—not just watch from the sidelines—this is your opportunity.
+  
+  ****What You’ll Do****
+  - 
+  
+  Architect scalable, low-latency services for running evaluations in real-time and batch, integrating with streaming data pipelines and trace-based event models.
+  
+  - 
+  
+  Design and build the core evaluation engine within ThirdLaw that applies heuristics, semantic models, and foundation model calls to detect violations across LLM inputs and outputs.
+  
+  - 
+  
+  Build a runtime intervention layer to determine and execute appropriate enforcement actions—such as block, redact, notify, escalate—based on evaluation results and risk context.
+  
+  - 
+  
+  Create reusable frameworks for pluggable evaluators and intervention policies, supporting no-code authoring and automated deployment pipelines.
+  
+  - 
+  
+  Configure and operationalize a vector database pipeline for RAG-like use cases.
+  
+  - 
+  
+  Build for scale. Mitigate blocking gRPC threads, implement micro-batching & streaming for LLM/embedding calls and add reliability controls such as queue-based back-pressure and graceful degradation paths.
+  
+  ****
+  Who We Are Looking For********Required****
+  - 
+  
+  5+ years of **Backend** software engineering experience, including designing and shipping production software services
+  
+  - 
+  
+  Strong coding proficiency in **Python** and/or **Go**
+  
+  - 
+  
+  Deep experience with **streaming data pipelines** (e.g. Kafka, Pulsar, Redis Streams) and batch processing systems
+  
+  - 
+  
+  Proven track record scaling **high-QPS, low-latency** services (p95/p99 ownership a plus).
+  
+  - 
+  
+  Familiarity with vector databases (e.g. FAISS, Weaviate, Qdrant, pgvector) and embedding-based matching
+  
+  - 
+  
+  Strong grasp of cloud-native infrastructure: containers, Kubernetes, serverless functions, CI/CD pipelines
+  
+  - 
+  
+  Exposure to structured observability patterns, including OpenTelemetry (or similar tracing standards)
+  
+  - 
+  
+  Comfortable designing—then defending—trade-offs around build vs buy vs OSS.
+  
+  ****Nice-to-Have****
+  - 
+  
+  Experience with modern Python APIs & concurrency, e.g. gRPC, FastAPI, asyncio, multithreading/processes
+  
+  - 
+  
+  Familiarity with ClickHouse, Apache Arrow, or fast analytical storage engines
+  
+  - 
+  
+  Prior work on agent frameworks (e.g. LangChain, CrewAI, AutoGen) or LLM orchestration
+  
+  - 
+  
+  Experience in trust & safety, compliance, or AI safety domains
+  
+  - 
+  
+  Hands-on experience with secure enterprise integrations (authorization/authentication, webhooks, SIEM, IAM)
+  
+  ****
+  
+  **Why Apply?**
+  
+  Our team is small and focused, valuing autonomy and real impact over titles and management. We need strong technical skills, a proactive mindset, and clear written communication, as much of our work is asynchronous. If you're organized, take initiative, and want to work closely with customers to shape our products, you'll fit in well here.
+  
+  Finally, we pay market cash compensation and generally above-market equity. The compensation package for this role is benchmarked using Carta Total Compensation and reflects real-time market data for our company’s size, this role’s level, and your geographic location. We have well-designed and generous benefits.
+  
+  https://www.thirdlaw.io/
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-01-17
+url: https://builtin.com/job/backend-platform-engineer-ai-analytic-engines/7105962
+source: Built In

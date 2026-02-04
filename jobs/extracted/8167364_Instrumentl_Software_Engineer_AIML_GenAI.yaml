@@ -1,0 +1,97 @@
+job_id: 8167364
+title: Software Engineer, AI/ML GenAI
+company: Instrumentl
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Celery
+  - Docker
+  - Fastapi
+  - GCP
+  - Node.js
+  - Python
+  - Ruby On Rails
+  - SQL
+  - Typescript
+company_size: 23 Employees
+description: |
+  👋**Hello, we’re Instrumentl. **We’re a mission-driven startup helping the nonprofit sector to drive impact, and we’re well on our way to becoming the #1 most-loved grant discovery and management tool. 
+  
+  **
+  
+  About us: **Instrumentl is a hyper growth YC-backed startup with over 4,000 nonprofit clients, from local homeless shelters to larger organizations like the San Diego Zoo and the University of Alaska. We are building the future of fundraising automation, helping nonprofits to discover, track, and manage grants efficiently through our SaaS platform. Our charts are dramatically up-and-to-the-right 📈 — we’re cash flow positive and doubling year-over-year, with customers who love us (NPS is 65+ and Ellis PMF survey is 60+). Join us on this rocket ship to Mars!
+  
+  **
+  
+  About the Role : **As a **Software Engineer, AI/ML GenAI** at Instrumentl, you’ll own the full lifecycle of AI features—from **rapid prototyping** to **production deployment and ongoing evaluation**. You will build **agentic LLM systems** that can plan and use tools, implement **RAG pipelines** over our domain data, manage and evolve **embeddings** and indices, run **fine‑tuning** where it’s the right lever, and stand up **evaluation/observability** so our AI is grounded, safe, and cost‑effective. You’ll embed with one of the above groups in a hands-on role, collaborating closely with Product and Design, while partnering with DTI on platform‑level AI capabilities. 
+  
+  **
+  
+  The Instrumentl team is fully distributed (though if you’d like to work from our Oakland office, we would love to see you there). For this position, we are looking for someone who has significant overlap with Pacific Time Zone working hours.
+  
+  What you will do**
+  
+  - **Design agentic systems & ship AI to production: **Turn prototypes into resilient, observable services with clear SLAs, rollback/fallback strategies, and cost/latency budgets. Build tool‑using LLM “agents” (task planning, function/tool calling, multi‑step workflows, guardrails) for tasks like grant discovery, application drafting, and research assistance.
+  
+  - **Own RAG end‑to‑end: **Ingest and normalize content, choose chunking/embedding strategies, implement hybrid retrieval, re‑ranking, citations, and grounding. Continuously improve recall/precision while managing index health.
+  
+  - **Manage embeddings at scale: **Select, evaluate, and migrate embedding models; maintain vector stores (e.g., pgvector/FAISS/Pinecone/Weaviate/Milvus/Qdrant); monitor drift and rebuild strategies.
+  
+  - **Fine‑tune & build evaluation: **Run SFT/LoRA or instruction‑tuning on curated datasets; evaluate the ROI vs. prompt engineering/model selection; manage data versioning and reproducibility. Create offline and online eval harnesses (helpfulness, groundedness, hallucination, toxicity, latency, cost), synthetic test sets, red‑teaming, and human‑in‑the‑loop review. 
+  
+  - **Collaborate cross‑functionally while raising engineering standards: **Work side by side with Product, Design, and GTM on scoping, UX, and measurement; run experiments (A/B, canaries), interpret results, and iterate. Write clear, maintainable code, add tests and docs, and contribute to reliability practices (alerts, dashboards, incident response).
+  
+  **What we're looking for **
+  
+  - **Software engineering background: **5+ years of professional software engineering experience, including 2+ years working with modern LLMs (as an IC). Startup experience and comfort operating in fast, scrappy environments is a plus.
+  
+  - **Proven production impact: **You’ve taken LLM/RAG systems from prototype to production, owned reliability/observability, and iterated post‑launch based on evals and user feedback.
+  
+  - **LLM agentic systems: **Experience building tool/function‑calling workflows, planning/execution loops, and safe tool integrations (e.g., with LangChain/LangGraph, LlamaIndex, Semantic Kernel, or custom orchestration).
+  
+  - **RAG expertise: **Strong grasp of document ingestion, chunking/windowing, embeddings, hybrid search (keyword + vector), re‑ranking, and grounded citations. Experience with re‑rankers/cross‑encoders, hybrid retrieval tuning, or search/recommendation systems.
+  
+  - **Embeddings & vector stores:** Hands‑on with embedding model selection/versioning and vector DBs (e.g., pgvector, FAISS, Pinecone, Weaviate, Milvus, Qdrant). 
+  
+  - **Evaluation mindset: **Comfort designing eval suites (RAG/QA, extraction, summarization), using automated and human‑in‑the‑loop methods; familiarity with frameworks like Ragas/DeepEval/OpenAI Evals or equivalent.
+  
+  - **Infrastructure & languages: **Proficiency in Python (FastAPI, Celery) and TypeScript/Node; Experience with AWS/GCP, Docker, CI/CD, and observability (logs/metrics/traces).
+  
+  - **Data chops: **Comfortable with SQL, schema design, and building/maintaining data pipelines that power retrieval and evaluation.
+  
+  - **Collaborative approach: **You thrive in a cross‑functional environment and can translate researchy ideas into shippable, user‑friendly features.
+  
+  - **Results‑driven: **Bias for action and ownership with an eye for speed, quality, and simplicity.
+  
+  **Nice to have **
+  
+  - **Fine‑tuning: **Practical experience with SFT/LoRA or instruction‑tuning (and good intuition for when fine‑tuning vs. prompting vs. model choice is the right lever).
+  
+  - **Exposure to open‑source LLMs **(e.g., Llama) and providers (e.g., OpenAI, Anthropic, Google, Mistral).
+  
+  - **Familiarity with responsible AI,** red‑teaming, and domain‑specific safety policies.
+  
+  **
+  
+  Compensation & Benefits **
+  
+  - Salary ranges are based on market data, relative to our size, industry, and stage of growth. Salary is one part of total compensation, which also includes equity, perks, and competitive benefits. 
+  
+  - For US-based candidates, our target salary band is **$175,000 - $220,000/year **+ equity. Salary decisions will be based on multiple factors including geographic location, qualifications for the role, skillset, proficiency, and experience level. 
+  
+  - 100% covered health, dental, and vision insurance for employees, 50% for dependents
+  
+  - Generous PTO policy, including parental leave
+  
+  - 401(k)
+  
+  - Company laptop + stipend to set up your home workstation
+  
+  - Company retreats for in-person time with your colleagues
+  
+  - Work with awesome nonprofits around the US. We partner with incredible organizations doing meaningful work, and you get to help power their success.
+posted_date: 2026-01-22
+url: https://builtin.com/job/software-engineer-ai-ml-genai/8167364
+source: Built In

@@ -1,0 +1,72 @@
+job_id: 6907294
+title: Senior AI Engineer
+company: Translucent
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Deepeval
+  - Kotlin
+  - Langsmith
+  - Phoenix
+  - Promptfoo
+  - Python
+  - Trulens
+  - Typescript
+company_size: 18 Employees
+description: |
+  **About Translucent**
+  
+  Translucent is building the future of accounting with AI. We're reimagining how companies handle their finances by making AI a trusted teammate for finance teams—safe, transparent, and always with humans in control.
+  
+  We're not starting from zero. We've built an established business that processes Xero and QuickBooks data at the transaction level for thousands of companies across multiple entities. Our users rely on our consolidation, intercompany, and search tools daily—and their feedback is driving exactly what we build next.
+  
+  Small team, big ownership, high bar. If you like working close to customers, in a high quality team shipping fast, and the challenge of building something really different, you will fit right in.
+  
+   
+  
+  **Role overview **
+  
+  You will design and build production LLM applications and agent infrastructure, own our eval and reliability stack, and help shape both architecture and product direction.
+  
+   
+  
+  **What you will do**
+  
+  - Collaborate with product and domain experts to tackle messy problems, define what to build, then lead the building of it.
+  
+  - Stand up an evaluation harness: curate golden datasets from real user intents and MCP responses, run offline unit-style evals and online canary evals, and gate releases in CI on eval outcomes.
+  
+  - Define and track LLM quality metrics: groundedness, correctness, refusal correctness, tool-use success rate, context precision and recall for RAG, latency budgets, and cost per successful task.
+  
+  - Implement prompt and tool versioning with experiment tracking, pairwise comparisons, PR checks, and rollback.
+  
+  - Instrument and monitor production systems for performance, reliability, and cost-effectiveness.
+  
+  - Build guardrails: schema-validated structured outputs, auth scopes for writeback, PII redaction before logging, moderation and confidence checks, and circuit breakers.
+  
+  - Drive RAG quality: chunking and indexing strategy, filters and hybrid search, document attribution and deduplication, plus retriever evaluation vs latency and cost.
+  
+  - Manage cost and latency: caching, streaming UX, model routing, and token accounting. Compare models with the eval harness before changing defaults.
+  
+  **What you will bring**
+  
+  - Curiosity, pragmatism, and genuine excitement to build something that doesn't exist today but should.
+  
+  - 4+ years of software engineering with strong backend and API design. Full-stack profile with TypeScript (and modern frontend frameworks) plus Python and Kotlin experience.
+  
+  - Shipped LLM apps or agents in production, including hands-on evals using LangSmith, Promptfoo, TruLens, Phoenix, DeepEval, or an equivalent home-grown setup.
+  
+  - Practical prompt engineering and tool-use design, including structured outputs and function calling.
+  
+  - RAG experience: embeddings, vector stores, retrieval patterns, and measurement of relevance and faithfulness.
+  
+  - System design for secure, observable, and scalable services handling sensitive business data.
+  
+  - High ownership, clear communication, and comfort in a fast-moving startup environment.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-01-20
+url: https://builtin.com/job/senior-ai-engineer/6907294
+source: Built In

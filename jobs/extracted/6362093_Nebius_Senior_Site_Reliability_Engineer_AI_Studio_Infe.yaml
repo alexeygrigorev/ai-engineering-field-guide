@@ -1,0 +1,51 @@
+job_id: 6362093
+title: Senior Site Reliability Engineer — AI Studio (Inference Platform)
+company: Nebius
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Bash
+  - Grafana
+  - Kubernetes
+  - Mlops
+  - Prometheus
+  - Python
+  - Ray
+  - Terraform
+  - Triton
+  - Vllm
+company_size: 473 Employees
+description: |
+  **Why work at Nebius
+  **Nebius is leading a new era in cloud computing to serve the global AI economy. We create the tools and resources our customers need to solve real-world challenges and transform industries, without massive infrastructure costs or the need to build large in-house AI/ML teams. Our employees work at the cutting edge of AI cloud infrastructure alongside some of the most experienced and innovative leaders and engineers in the field.
+  
+  **Where we work
+  **Headquartered in Amsterdam and listed on Nasdaq, Nebius has a global footprint with R&D hubs across Europe, North America, and Israel. The team of over 800 employees includes more than 400 highly skilled engineers with deep expertise across hardware and software engineering, as well as an in-house AI R&D team.
+  
+  AI Studio is a part of  **Nebius Cloud**, one of the world’s largest GPU clouds, running tens of thousands of GPUs. We are building an inference platform that makes every kind of foundation model — text, vision, audio, and emerging multimodal architectures — fast, reliable, and effortless to deploy at massive scale. To deliver on that promise, we need an engineer who can make the platform behave flawlessly under extreme load and recover gracefully when the unexpected happens.
+  
+  In this role you will own the reliability, performance, and observability of the entire inference stack. Your day starts with designing and refining telemetry pipelines — metrics, logs, and traces that turn hundreds of terabytes of signal into clear, actionable insight. From there you might tune Kubernetes autoscalers to squeeze more efficiency out of GPUs, craft Terraform modules that bake resilience into every new cluster, or harden our request-routing and retry logic so even transient failures go unnoticed by users. When incidents do arise, you’ll rely on the automation and runbooks you helped create to detect, isolate, and remediate problems in minutes, then drive the post-mortem culture that prevents recurrence. All of this effort points toward a single goal: scaling the platform smoothly while hitting aggressive cost and reliability targets.
+  
+  Success in the role calls for deep fluency with Kubernetes, Prometheus, Grafana, Terraform, and the craft of infrastructure-as-code. You script comfortably in Python or Bash, understand the nuances of alert design and SLOs for high-throughput APIs, and have spent enough time in production to know how distributed back-ends fail in the real world. Experience shepherding GPU-heavy workloads — whether with vLLM, Triton, Ray, or another accelerator stack — will serve you well, as will a background in MLOps or model-hosting platforms. Above all, you care about building self-healing systems, thrive on debugging performance from kernel to application layer, and enjoy collaborating with software engineers to turn reliability into a feature users never have to think about.
+  
+  If the idea of safeguarding the infrastructure that powers tomorrow’s multimodal AI energizes you, we’d love to hear your story.
+  
+  **What we offer** 
+  
+  - Competitive salary and comprehensive benefits package.
+  
+  - Opportunities for professional growth within Nebius.
+  
+  - Flexible working arrangements.
+  
+  - A dynamic and collaborative work environment that values initiative and innovation.
+  
+  We’re growing and expanding our products every day. If you’re up to the challenge and are excited about AI and ML as much as we are, join us!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-01-22
+url: https://builtin.com/job/senior-site-reliability-engineer-ai-studio-inference-platform/6362093
+source: Built In

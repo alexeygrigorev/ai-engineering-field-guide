@@ -1,0 +1,133 @@
+job_id: 8313283
+title: AI Engineer
+company: MVF
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Azure
+  - Buildkite
+  - CircleCI
+  - Datadog
+  - Docker
+  - Fastapi
+  - GCP
+  - Github Actions
+  - Jenkins
+company_size: 500 Employees
+description: |
+  **AI Engineer** 
+  **The Opportunity** 
+  Our next frontier is a strategic shift: We're evolving beyond traditional analytics to build AI agents that actively participate in our operations. Rather than using data to inform decisions, we're creating intelligent systems that autonomously deliver better outcomes for customers and clients alike. You will build the systems that transform our data from a passive record into an active participant, learning from history to autonomously optimise the business. 
+  You'll be our first dedicated AI engineer, working directly with the Head of Data. You'll collaborate weekly on architecture, especially in the first 6 months, to define the technical roadmap. You'll own the build, but you're not figuring this out alone. 
+  We have a small data science team shipping traditional ML such as lead scoring. Your remit is production of GenAI systems. However, we intentionally overlap deployment patterns, monitoring standards, and evaluation approaches so we build one coherent AI capability. 
+  **What you will do** 
+  
+  - **Architect & Engineer Agentic Systems** 
+   **Build agents that act, not just answer:** You will design agents that perform deterministic actions based on probabilistic reasoning. This means building systems that can reliably analyse data, execute function calls, and manage state across multi-step workflows without getting stuck in loops.
+  
+  - **Production-Grade RAG:** You will go beyond basic vector search. You will implement hybrid search (keyword + semantic), re-ranking strategies, and metadata filtering to ensure our agents have the exact context they need to make decisions.
+  
+  - **Structured Data Extraction:** You will build pipelines that turn unstructured conversations into structured data that our downstream systems can use.
+  
+  - **Establish AI Engineering Foundations** 
+   **Observability First: **You will implement the "nervous system" of our AI. You will choose and set up tools (e.g., LangSmith, LangFuse, ADK, or custom) to trace execution chains, giving us visibility into why an agent made a specific decision.
+  
+  - **Evals as a Service:** You will build the testing harness. You will create automated evaluation pipelines that test prompts against "Golden Datasets" so we can deploy with confidence, ensuring a prompt change doesn't degrade performance.
+  
+  - **Cost & Latency Engineering:** You will monitor token usage and inference latency, optimising the trade-off between model intelligence and speed/cost for different parts of the chain.
+  
+  - **Collaborate and Standardise** 
+   **Partner on Architecture:** You will work with the Head of Data to define the technical roadmap. You aren't just taking tickets; you are helping decide what we build based on technical feasibility and business value.
+  
+  - **Unify with Data Science: **You will define shared standards with our Data Science team on deployment patterns, monitoring, and security, ensuring we build one coherent AI platform, not silos.
+  
+  **What This Role Requires:** 
+  **Must Have** 
+  
+  - **Python and service development:** You write clean, typed, production-ready code. You are comfortable with Pydantic (for data validation), Asyncio (for handling concurrent model calls), and FastAPI. You treat prompts as code: versioned, tested, and decoupled from business logic.
+  
+  - **Cloud-native experience: **You have hands-on experience deploying and operating containerised services on AWS (or GCP/Azure) using CI/CD platforms (Jenkins, GitHub Actions, CircleCI, BuildKite), cloud monitoring tools (Datadog, Sumologic, NewRelic), and container orchestrators (EKS, ECS). You're comfortable with Terraform for infrastructure as code.
+  
+  - **Hands-on LLM experience:** You've built something real with language models, whether production systems, serious side projects, or internal tools. You understand that prompting is engineering, not magic.
+  
+  **Nice to Have** 
+  
+  - **Production GenAI at scale: **Experience with structured outputs, managing context window constraints, and handling model latency/timeouts in user-facing applications. You know how to evaluate a change in prompt logic before deploying it.
+  
+  - **Observability and evaluation pipelines: **You've implemented tracing for LLM workflows or built automated evaluation against golden datasets.
+  
+  **Important Traits** 
+  
+  - **Proactive Ownership & Communication: **GenAI projects are prone to hype. You have the confidence to manage stakeholder expectations effectively, explaining trade-offs between cost, latency, and quality. When blocked, you don't just ask for help, you present options.
+  
+  - **Translating "Fuzzy" to "Formal". **Marketing problems are often vague ("Find better leads"). You can take a fuzzy business objective and break it down into a deterministic engineering problem: a set of tools, a prompting strategy, and a metric to measure success.
+  
+  - **Pragmatism over Hype. **You read the AI research papers, but you deploy what works. You'd rather use a simple few-shot prompt that is reliable and cheap than a complex autonomous agent framework that is flaky and expensive. You understand that "boring" code is easier to debug.
+  
+  **The Tech Reality** 
+  **The Foundation (Fixed & Reliable)** We believe in "innovation tokens". We spend them on the AI application layer, not the infrastructure. 
+  
+  - **AWS:** ECS/Fargate, ECR. We prioritise velocity over complexity. CI/CD pipelines and Terraform to deploy, essentially shipping containerised services without the operational headache of managing raw Kubernetes clusters.
+  
+  - **Data Layer:** Snowflake & dbt. Our data is modeled, clean, and accessible. You won't spend your first 3 months scraping PDFs; you have rich, structured data ready to consume.
+  
+  **The Canvas (Your Architectural Decisions)** The "AI Layer" is currently undefined. You will work with the Head of Data to select the stack that fits our specific agentic needs. 
+  
+  - **Model Strategy: **Totally open. We're pragmatic: we use whatever model offers the best trade-off for the task, and build the necessary infrastructure to access it securely.
+  
+  - **Orchestration: **Do we use a framework like LangChain or LlamaIndex, or do we write lightweight, controllable Python code? That's your call.
+  
+  - **Observability: **How do we trace complex agent workflows? Options include LangSmith, LangFuse, or custom solutions. You will choose the tool that gives us the best visibility into "why did the bot do that?"
+  
+  - **Retrieval/Memory: **Do we use a vector database like Pinecone or Weaviate? Do we leverage Snowflake Cortex for native vector search to keep data in one place? How do we handle long-term agent memory?
+  
+  - **Evaluation: **How do we unit test a prompt? You will define the frameworks and "Golden Datasets" we use to measure success.
+  
+  **What We Offer** 
+  
+  - **Architectural Authority:** As the first hire, you define the patterns and standards, not inherit legacy debt.
+  
+  - **Engineering Leverage:** You have the resources for proper tools (LangSmith, Model APIs) and access to clean data immediately.
+  
+  - **Strategic Partnership:** You work with the Head of Data as a technical co-founder for internal AI products, shaping the roadmap together.
+  
+  - **High-Velocity Impact:** We ship in weeks. Your agents will directly touch spend and revenue.
+  
+  **Benefits we offer:** 
+  
+  - Summer Fridays
+  
+  - Competitive holiday benefits - 25 days a year paid holiday, plus 8 bank holidays (increases 1 day a year up to 30 days)
+  
+  - Hybrid working - 3 days a week in the office
+  
+  - Closed for Christmas holidays - Extra days not taken from your annual holiday allowance.
+  
+  - Work from anywhere for 2 weeks a year
+  
+  - Life Assurance and Income Protection to protect your loved ones
+  
+  - Benefits allowance for health, dental, and vision coverage
+  
+  - Six months paid maternity leave, and one month paid paternity leave (subject to qualifying conditions) inclusive of same-sex and adoptive parents
+  
+  - Defined Contribution Pension and Salary Sacrifice Scheme
+  
+  - Be Well: Our award-winning wellbeing and mental health programme to support all MVFers and their families
+  
+  - Family Forward support for our MVF parents and their mini-mes
+  
+  - 2 charity days a year
+  
+  - Free breakfast when in the office
+industries:
+  - AdTech
+  - Digital Media
+  - eCommerce
+  - Marketing Tech
+  - Sales
+posted_date: 2026-01-27
+url: https://builtin.com/job/ai-engineer/8313283
+source: Built In

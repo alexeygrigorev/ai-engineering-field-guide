@@ -1,0 +1,103 @@
+job_id: 7281085
+title: Software Engineer III/Senior, AI Gateway
+company: ngrok
+location: USA
+work_type: FULL_TIME
+company_size: 5000 Employees
+description: |
+  ****About ngrok Inc.****ngrok is an all-in-one cloud networking platform that secures, transforms, and routes traffic to services running anywhere. Instead of cobbling together nginx, NLBs, VPNs, model routers, and oodles other tools, developers solve every networking problem with one gateway. Doesn’t matter if they’re sharing localhost or running AI workloads in production.
+  
+  We're trusted by more than 9 million developers at companies like GitHub, Okta, HashiCorp, and Twilio. What started as a way to put your local app on a public URL has grown into a universal gateway for API delivery, AI inference, device fleets, and site-to-site connectivity. It’s the same ngrok that millions of developers have loved and leaned on every day for years, now with the power to run production traffic at scale.
+  
+  A few things you should know:
+  
+  - Our mascot is a rock
+  
+  - We are obsessed with our pets, Viper sunglasses and Bufo (yes, the toad)
+  
+  - We have a designated Chief Emoji Officer - they are vital to our success!
+  
+  - We like software that’s serious and culture that’s not
+  
+  Most people skim to 'requirements' and bounce. You're actually reading this. That's the kind of thoroughness we respect, or you're just procrastinating. Either way, same same and you should keep reading.
+  **About the AI Gateway Team**
+  
+  Our AI Gateway team builds the systems that define how AI traffic is identified, controlled, and understood as it passes through ngrok.
+  
+  We own the AI-specific control plane at the gateway layer: policies, usage tracking, and enforcement that sit directly on live customer traffic. Our systems must behave correctly under real-world conditions—traffic spikes, unexpected model behavior, misconfigured policies, and customers asking, “Why was this blocked?” or “Where did my tokens go?”
+  **What You’ll Actually Do**
+  - **Build and evolve the AI Gateway**: You’ll work on the AI-aware gateway components that classify and handle AI traffic in real time. This code runs directly in the request path and must be fast, safe, and predictable.
+  
+  - **Own AI traffic policy enforcement**: You’ll design and implement AI Gateway Traffic Policy Objects—rate limits, usage caps, and access rules specific to AI workloads. These policies exist to prevent runaway costs, misuse, and accidental exposure without breaking legitimate traffic.
+  
+  - **Track AI usage and token consumption**: You’ll build and maintain systems that accurately measure AI usage—requests, tokens, and related metadata—so customers can understand how their AI systems behave and what they’re consuming.
+  
+  - **Make AI behavior observable and explainable**: You’ll expose clear, trustworthy signals around AI traffic: what was allowed or blocked, which policies applied, and how usage accumulated. When customers ask “what happened?”, the gateway should already know.
+  
+  - **Design abstractions that hide complexity**: You’ll work with product and design to build AI-specific gateway primitives that feel intentional and safe, without leaking provider quirks or infrastructure details into customer workflows.
+  
+  - **Ship systems customers trust in production**: You’ll collaborate closely with Gateway, Customer Data, and Platform teams to ensure AI usage data, policy enforcement, and billing signals line up—so customers can turn these features on with confidence.
+  **You Might Be a Great Fit If…**
+  - You’re comfortable in a statically typed, compiled language such as Go, Rust, C++, or Java (with bonus points for Go)
+  
+  - You’ve worked with AI/LLMs and can appreciate their unique brand of edge-cases
+  
+  - You care about developer experience and thoughtful abstractions
+  
+  - You enjoy defining system behavior, not just plumbing
+  
+  - You’ve thought about retries, limits, and costs before being asked
+  
+  - You like systems that move complexity from the user to the system
+  
+  Extra credit if you’ve worked on:
+  
+  - AI platforms or inference infrastructure
+  
+  - API gateways with product-level opinions
+  
+  - Usage limits, quotas, or billing-adjacent systems
+  
+  - Customer-facing observability tools
+  **Tech Stack**
+  
+  ngrok runs entirely on AWS. Engineers develop by using remote development tools and/or ssh to connect to remote EC2 environments that run a full Kubernetes cluster of the ngrok stack, closely mirroring production. The codebase is primarily Go and TypeScript. We use Postgres for persistence, Kafka for streaming, Protobuf for service boundaries, and Kubernetes, Terraform, Helm, and Buildkite to operate and ship reliably. React is used for user interfaces, and GitHub supports our development workflows and remembers everything.
+  ****Location****
+  
+  This is a remote position for candidates outside of the Bay Area and a hybrid role for candidates within commuting distance to San Francisco. Our Bay Area employees commute to the office on Tuesdays and Wednesdays.
+  **Sponsorship**
+  
+  All candidates must be US-based, and legally authorized to work in the United States.
+  
+  At this time, ngrok is unable to provide visa sponsorship for this position. Applicants must be authorized to work in the United States on a permanent, ongoing basis without the need for current or future sponsorship.
+  **Compensation**
+  
+  **Senior Software Engineer**
+  
+  - Tier 1 (SF, LA, Seattle, NYC): $180,000 – $225,000
+  
+  - Tier 2 (rest of US): $165,600 – $207,000
+  
+  **Software Engineer III**
+  
+  - Tier 1 (SF, LA, Seattle, NYC): $160,000 – $200,000
+  
+  - Tier 2 (rest of US): $147,200 – $184,000
+  
+  Job level and actual compensation will be evaluated based on factors including, but not limited to, qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), internal equity with other team members, market data, and specific work location. We provide an attractive mix of salary and equity.
+  
+  #LI-Remote
+  
+  ****Full Time Employee Benefits****Compensation for this role depends on level, but we provide a competitive mix of salary and equity.
+  
+  We provide a 401(k) with a 100% match up to 3% of your salary and a 50% match up to another 2%.
+  
+  We provide healthcare, dental, and vision with premiums fully covered on the base plan for employees. Half of premiums are covered for dependents.
+  
+  We offer unlimited PTO and a culture in which the overwhelming majority of employees take more than four weeks. Your manager is also on the hook for encouraging you to do the same.
+industries:
+  - Cloud
+  - Internet of Things
+posted_date: 2026-01-11
+url: https://builtin.com/job/software-engineer-iii-senior-ai-gateway/7281085
+source: Built In
