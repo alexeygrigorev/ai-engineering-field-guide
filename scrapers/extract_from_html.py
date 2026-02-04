@@ -106,7 +106,7 @@ def html_to_markdown(html_content, wrap_width=60):
     def process_list(ul, indent=0):
         """Process a list (ul or ol) and return markdown string."""
         prefix = '  ' * indent
-        items = []
+        lines = []
         for li in ul.find_all('li', recursive=False):
             # Find nested list if any
             nested_list = li.find('ul') or li.find('ol')
@@ -135,20 +135,23 @@ def html_to_markdown(html_content, wrap_width=60):
             # Fix spacing before colons
             label = re.sub(r'\s+:', ':', label)
             if label:
-                items.append(f"{prefix}- {label}")
+                lines.append(f"{prefix}- {label}")
 
             if nested_list:
-                nested_md = process_list(nested_list, indent + 1)
-                items.append(nested_md)
+                # Process nested list with increased indent
+                nested_lines = process_list(nested_list, indent + 1)
+                # Split and add each nested line
+                for nested_line in nested_lines.split('\n'):
+                    lines.append(nested_line)
 
-        return '\n'.join(items)
+        return '\n'.join(lines)
 
-    # Process all lists - innermost first (to avoid double-processing nested lists)
+    # Process only top-level lists (not nested inside other lists)
+    # Nested lists will be handled recursively by process_list
     all_lists = soup.find_all(['ul', 'ol'])
-    # Sort by depth (number of parents) - process deepest first
-    all_lists.sort(key=lambda el: len(list(el.parents)), reverse=True)
+    top_level_lists = [ul for ul in all_lists if not ul.find_parent(['ul', 'ol'])]
 
-    for ul in all_lists:
+    for ul in top_level_lists:
         md_list = process_list(ul)
         ul.replace_with('\n\n' + md_list + '\n\n')
 
@@ -169,9 +172,17 @@ def html_to_markdown(html_content, wrap_width=60):
     # Get text
     text = soup.get_text()
 
-    # Clean up
+    # Clean up - preserve leading spaces for list indentation
     text = re.sub(r'\n\n\n+', '\n\n', text)  # Collapse excessive newlines
-    text = re.sub(r'[ \t]+', ' ', text)     # Collapse spaces
+    # Collapse spaces within each line, but preserve leading spaces
+    lines = []
+    for line in text.split('\n'):
+        # Count leading spaces
+        leading_spaces = len(line) - len(line.lstrip(' \t'))
+        # Collapse spaces in the rest of the line
+        rest = re.sub(r'[ \t]+', ' ', line[leading_spaces:])
+        lines.append(' ' * leading_spaces + rest)
+    text = '\n'.join(lines)
     text = text.replace('\xa0', ' ')
     text = text.replace('\u200b', '')
     text = text.strip()
@@ -187,25 +198,39 @@ def html_to_markdown(html_content, wrap_width=60):
         if not line.strip():
             wrapped_lines.append('')
             i += 1
-        elif line.startswith('  -'):
-            # Nested list item - use textwrap with proper indentation
-            wrapped = textwrap.fill(line, width=wrap_width, initial_indent='  ', subsequent_indent='    ')
-            wrapped_lines.extend(wrapped.split('\n'))
-            i += 1
-        elif line.startswith('-'):
-            # Top-level list item
-            wrapped = textwrap.fill(line, width=wrap_width, initial_indent=' ', subsequent_indent='  ')
-            wrapped_lines.extend(wrapped.split('\n'))
-            i += 1
         else:
-            # Regular paragraph - collect consecutive non-list lines
-            para_text = line
-            i += 1
-            while i < len(lines) and not lines[i].startswith('-') and lines[i].strip():
-                para_text += ' ' + lines[i].strip()
+            # Check if this is a list item (starts with optional spaces + dash)
+            list_match = re.match(r'^(\s*)-(\s+)(.*)', line)
+            if list_match:
+                indent_spaces = list_match.group(1)  # Leading spaces before dash
+                after_dash = list_match.group(2)  # Spaces after dash
+                content = list_match.group(3)  # Actual content
+
+                # Calculate indentation for continuation lines
+                # Continuation should align with the content (indent spaces + dash + after_dash spaces)
+                base_indent = len(indent_spaces) + 1 + len(after_dash)
+                subsequent = ' ' * base_indent
+
+                wrapped = textwrap.fill(content, width=wrap_width, initial_indent='', subsequent_indent=subsequent)
+
+                # Build each line with proper prefix
+                prefix = indent_spaces + '-' + after_dash
+                wrapped_lines_list = wrapped.split('\n')
+                for j, wrapped_line in enumerate(wrapped_lines_list):
+                    if j == 0:
+                        wrapped_lines.append(prefix + wrapped_line if wrapped_line else prefix.rstrip())
+                    else:
+                        wrapped_lines.append(wrapped_line if wrapped_line else '')
                 i += 1
-            wrapped = textwrap.fill(para_text, width=wrap_width)
-            wrapped_lines.extend(wrapped.split('\n'))
+            else:
+                # Regular paragraph - collect consecutive non-list lines
+                para_text = line
+                i += 1
+                while i < len(lines) and not re.match(r'^\s*-', lines[i]) and lines[i].strip():
+                    para_text += ' ' + lines[i].strip()
+                    i += 1
+                wrapped = textwrap.fill(para_text, width=wrap_width)
+                wrapped_lines.extend(wrapped.split('\n'))
 
     text = '\n'.join(wrapped_lines)
 
