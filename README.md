@@ -69,7 +69,7 @@ EOF
 3. **Install dependencies**:
 ```bash
 uv sync
-npx playwright install chromium
+uv run playwright install chromium
 ```
 
 #### Run Scraper
