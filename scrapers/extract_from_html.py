@@ -93,12 +93,13 @@ def months_to_level(months):
         return 'Expert/Leader'
 
 
-def html_to_markdown(html_content):
+def html_to_markdown(html_content, wrap_width=60):
     """Convert HTML description to Markdown using BeautifulSoup."""
     if not html_content:
         return ""
 
     from bs4 import BeautifulSoup
+    import textwrap
 
     soup = BeautifulSoup(html_content, 'html.parser')
 
@@ -142,19 +143,14 @@ def html_to_markdown(html_content):
 
         return '\n'.join(items)
 
-    # Process all lists - build markdown strings
-    list_replacements = []
-    for ul in soup.find_all('ul'):
+    # Process all lists - innermost first (to avoid double-processing nested lists)
+    all_lists = soup.find_all(['ul', 'ol'])
+    # Sort by depth (number of parents) - process deepest first
+    all_lists.sort(key=lambda el: len(list(el.parents)), reverse=True)
+
+    for ul in all_lists:
         md_list = process_list(ul)
-        list_replacements.append((ul, '\n\n' + md_list + '\n\n'))
-
-    for ol in soup.find_all('ol'):
-        md_list = process_list(ol)
-        list_replacements.append((ol, '\n\n' + md_list + '\n\n'))
-
-    # Now do replacements
-    for element, replacement in list_replacements:
-        element.replace_with(replacement)
+        ul.replace_with('\n\n' + md_list + '\n\n')
 
     # Remove formatting tags
     for tag in soup.find_all(['strong', 'b', 'em', 'i', 'a']):
@@ -180,44 +176,38 @@ def html_to_markdown(html_content):
     text = text.replace('\u200b', '')
     text = text.strip()
 
-    # Wrap text at 100 characters (but preserve list items and blank lines)
-    def wrap_text(text, width=100):
-        """Wrap text at width while preserving list structure and blank lines."""
-        lines = text.split('\n')
-        wrapped = []
-        for line in lines:
-            if not line:  # Preserve blank lines
-                wrapped.append('')
-            elif line.startswith('  -'):  # Nested list item
-                # Wrap nested list item
-                prefix = '  - '
-                rest = line[3:]
-                if len(rest) <= width - 3:
-                    wrapped.append(line)
-                else:
-                    wrapped.append(prefix + rest[:width-3])
-                    rest = rest[width-3:]
-                    while rest:
-                        wrapped.append('  ' + rest[:width])
-                        rest = rest[width:]
-            elif line.startswith('-'):  # List item
-                # Wrap list item content
-                prefix = '- '
-                rest = line[2:]
-                if len(rest) <= width - 2:
-                    wrapped.append(line)
-                else:
-                    wrapped.append(prefix + rest[:width-2])
-                    rest = rest[width-2:]
-                    while rest:
-                        wrapped.append('  ' + rest[:width])
-                        rest = rest[width:]
-            else:  # Regular text
-                wrapped.extend(textwrap.wrap(line, width=width))
-        return '\n'.join(wrapped)
+    # Wrap text at wrap_width characters (word-based, preserve list structure)
+    wrapped_lines = []
+    lines = text.split('\n')
 
-    import textwrap
-    text = wrap_text(text, 70)
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+
+        if not line.strip():
+            wrapped_lines.append('')
+            i += 1
+        elif line.startswith('  -'):
+            # Nested list item - use textwrap with proper indentation
+            wrapped = textwrap.fill(line, width=wrap_width, initial_indent='  ', subsequent_indent='    ')
+            wrapped_lines.extend(wrapped.split('\n'))
+            i += 1
+        elif line.startswith('-'):
+            # Top-level list item
+            wrapped = textwrap.fill(line, width=wrap_width, initial_indent=' ', subsequent_indent='  ')
+            wrapped_lines.extend(wrapped.split('\n'))
+            i += 1
+        else:
+            # Regular paragraph - collect consecutive non-list lines
+            para_text = line
+            i += 1
+            while i < len(lines) and not lines[i].startswith('-') and lines[i].strip():
+                para_text += ' ' + lines[i].strip()
+                i += 1
+            wrapped = textwrap.fill(para_text, width=wrap_width)
+            wrapped_lines.extend(wrapped.split('\n'))
+
+    text = '\n'.join(wrapped_lines)
 
     return text
 
