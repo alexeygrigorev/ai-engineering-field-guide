@@ -180,6 +180,45 @@ def html_to_markdown(html_content):
     text = text.replace('\u200b', '')
     text = text.strip()
 
+    # Wrap text at 100 characters (but preserve list items and blank lines)
+    def wrap_text(text, width=100):
+        """Wrap text at width while preserving list structure and blank lines."""
+        lines = text.split('\n')
+        wrapped = []
+        for line in lines:
+            if not line:  # Preserve blank lines
+                wrapped.append('')
+            elif line.startswith('  -'):  # Nested list item
+                # Wrap nested list item
+                prefix = '  - '
+                rest = line[3:]
+                if len(rest) <= width - 3:
+                    wrapped.append(line)
+                else:
+                    wrapped.append(prefix + rest[:width-3])
+                    rest = rest[width-3:]
+                    while rest:
+                        wrapped.append('  ' + rest[:width])
+                        rest = rest[width:]
+            elif line.startswith('-'):  # List item
+                # Wrap list item content
+                prefix = '- '
+                rest = line[2:]
+                if len(rest) <= width - 2:
+                    wrapped.append(line)
+                else:
+                    wrapped.append(prefix + rest[:width-2])
+                    rest = rest[width-2:]
+                    while rest:
+                        wrapped.append('  ' + rest[:width])
+                        rest = rest[width:]
+            else:  # Regular text
+                wrapped.extend(textwrap.wrap(line, width=width))
+        return '\n'.join(wrapped)
+
+    import textwrap
+    text = wrap_text(text, 70)
+
     return text
 
 
