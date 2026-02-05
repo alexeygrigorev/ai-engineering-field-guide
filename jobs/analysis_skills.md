@@ -6,11 +6,10 @@ I searched for jobs containing "AI Engineer" keyword from LA, NY, London, Amster
 
 Summary
 
-- 70% of "AI Engineer" roles work directly ON AI (RAG, agents, fine-tuning)
-- AI Engineers need Python (88%), Cloud (42%), Docker (30%+)
+- 70% of roles work directly on AI (RAG, agents)
 - 93% need skills beyond just GenAI - it's a full-stack role
-- Only 1.4% of roles are pure GenAI; the rest require deployment/infra/web
-- Most commonly required GenAI skills are RAG (36%) and agents (14%)
+- 35.9% of roles mention RAG - the most common pattern in all jobs 
+- AWS (359 jobs) > Azure (214 jobs) > GCP (205 jobs)
 
 
 ## AI Job Types
@@ -249,52 +248,6 @@ Top languages:
 - Go - 101 jobs (11.3%)
 - SQL - 88 jobs (9.8%)
 
-
-## Interesting Findings
-
-### Title Inflation
-
-"AI Engineer" doesn't always mean working on AI. I found 19 roles with "AI Engineer" in the title that are actually AI-Support (working on infrastructure, platforms, or data pipelines, not building AI systems).
-
-Examples:
-
-- Traversal: AI Engineer - Data Platform (building data infrastructure)
-- Traversal: AI Engineer - Site Reliability Researcher (infrastructure)
-- Eloquent AI: AI Engineer, London (general software engineering)
-
-Job title alone is not a reliable filter. You need to analyze actual responsibilities.
-
-### Customer-Facing AI Roles
-
-I found 61 AI-Support roles that are customer-facing (sales engineering, solutions engineering, customer success). This makes sense - these roles support AI products but don't build the AI itself.
-
-### Minimal GenAI Skills In Some "AI-First" Roles
-
-I found 85 roles classified as AI-First that have minimal or no GenAI skills listed. This could indicate:
-
-- Incomplete extraction (skills not mentioned in JD)
-- Traditional ML roles misclassified
-- Roles focused on deployment/infrastructure rather than framework expertise
-
-### Forward Deployed Engineers
-
-I found 18 FDE roles and all are correctly classified as AI-First. This confirms the classification: FDEs who deploy AI solutions to customers are working on AI, not just supporting it.
-
-### Pure ML Roles Are Rare
-
-Only 16 roles (1.8%) are ML-First - traditional ML/DL without LLMs/agents. Most "AI Engineering" roles today are focused on GenAI (LLMs, RAG, agents), not traditional ML.
-
-### Python Dominance
-
-82.5% of roles require Python. This is the universal language for AI/ML work. TypeScript is second at 23.4%, reflecting the full-stack nature of many AI roles.
-
-### RAG Is Universal
-
-35.9% of roles mention RAG - making it the most common GenAI pattern after general LLMs.
-
-### Cloud Preferences
-
-AWS (359 jobs) > Azure (214 jobs) > GCP (205 jobs), but most roles expect multi-cloud familiarity.
 
 
 ## Title Keywords vs Actual AI Type
@@ -705,82 +658,14 @@ Key Findings
 Bottom Line: Fine-tuning is optional for most AI Engineers. Focus on RAG and agents first. Learn fine-tuning if targeting domain-specific roles (healthcare, finance, legal), performance optimization roles, or specialized model development.
 
 
-## AI Use Cases: What Are AI Engineers Building?
-
-From 4,525 extracted use cases across 895 jobs
-
-Use case categories:
-
-Agents / Agentic AI - 623 mentions
-
-Autonomous agents that perform tasks, make decisions
-
-Enterprise deployments - 579 mentions
-
-Business process automation, internal tools
-
-Fine-tuning / Custom models - 431 mentions
-
-Domain-specific model adaptation
-
-Customer-facing products - 410 mentions
-
-End-user applications with AI features
-
-RAG / Knowledge retrieval - 246 mentions
-
-Search, document Q&A, knowledge bases
-
-Inference / Serving - 188 mentions
-
-Model deployment, optimization
-
-Evaluation / Testing - 174 mentions
-
-Quality assurance, LLM-as-judge
-
-Search / Semantic search - 161 mentions
-
-Vector search, semantic discovery
-
-Common use case patterns:
-
-Enterprise (579 mentions):
-
-- Document analysis and summarization
-- Internal knowledge search (RAG over company docs)
-- Customer support automation
-- Data analysis and reporting
-- Workflow automation
-
-Customer-facing (410 mentions):
-
-- Chatbots and assistants
-- Content generation
-- Recommendation systems
-- Search and discovery
-- Personalization
-
-Agent systems (623 mentions):
-
-- Multi-agent workflows
-- Tool-calling agents
-- Autonomous task execution
-- Agent orchestration (LangGraph patterns)
-
-Fine-tuning (431 mentions):
-
-- Domain-specific LLMs
-- Company-specific fine-tunes
-- Instruction following
-- Style/personality adaptation
+## Key Insight 
 
 Key Insight: RAG + Agents = 70%+ of use cases
 
 The two dominant patterns are:
 
-1. RAG - Connect LLMs to your data (documents, databases)
-2. Agents - LLMs that use tools to accomplish tasks
+- RAG - Connect LLMs to your data (documents, databases)
+- Agents - LLMs that use tools to accomplish tasks
 
 If you learn these two patterns deeply, you can handle most AI Engineering use cases.
 
