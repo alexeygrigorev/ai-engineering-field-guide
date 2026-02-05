@@ -9,10 +9,11 @@ Summary
 - 70% of roles work directly on AI (RAG, agents)
 - 93% need skills beyond just GenAI - it's a full-stack role
 - 35.9% of roles mention RAG - the most common pattern in all jobs 
+- 64.3% of AI Engineering roles require some ML knowledge
 - AWS (359 jobs) > Azure (214 jobs) > GCP (205 jobs)
 
 
-## AI Job Types
+## "AI Engineering" Job Types
 
 Job positions we analyzed fail into these categories:
 
@@ -40,15 +41,15 @@ Example responsibilities:
 - "Deploy AI models to production"
 - "Optimize prompts and model performance"
 
-Most common position titles:
+Position title examples
 
-- AI Engineer (51 jobs)
-- Senior AI Engineer (31 jobs)
-- Applied AI Engineer (18 jobs)
-- Lead AI Engineer (10 jobs)
-- Staff AI Engineer (7 jobs)
-- Principal AI Engineer (6 jobs)
-- AI/ML Engineer (6 jobs)
+- AI Engineer
+- Senior AI Engineer
+- Applied AI Engineer
+- Lead AI Engineer
+- Staff AI Engineer
+- Principal AI Engineer
+- AI/ML Engineer
 
 
 ### AI-Support: 255 jobs (28.5%)
@@ -73,12 +74,14 @@ Example responsibilities:
 - "Build prompt management UI"
 - "Create internal tooling for AI experimentation"
 
-Most common position titles:
+Position title examples
 
-- AI Sales Engineer (3 jobs)
-- AI Data Engineer (2 jobs)
-- Senior Infrastructure Engineer - AI/ML (2 jobs)
-- AI Platform Engineer (2 jobs)
+- AI Sales Engineer
+- AI Data Engineer
+- AI Infrastructure Engineer
+- AI Platform Engineer
+- Backend Engineer - AI Systems
+- Full-Stack Engineer (AI/LLM Platform)
 
 
 ### Machine Learning: 16 jobs (1.8%)
@@ -93,12 +96,12 @@ What they build:
 - Recommendation systems
 - Model training pipelines
 
-Most common position titles:
+Position title examples
 
-- Computer Vision AI Engineer (2 jobs)
-- AI Research Engineer - AI Safety (1 job)
-- AI Research Engineer - Reinforcement Learning (1 job)
-- AI Research Engineer - Robotics, Control, RL (1 job)
+- Computer Vision AI Engineer
+- AI Research Engineer - AI Safety
+- AI Research Engineer - Reinforcement Learning
+- AI Research Engineer - Robotics, Control, RL
 
 These "AI Engineer" roles are traditional ML roles rebranded with the AI title. They do classical ML work (PyTorch, TensorFlow, computer vision) without any GenAI components.
 
@@ -123,7 +126,7 @@ AI-Support:
 - Creates deployment tooling
 - Builds UIs for AI products
 
-ML-First:
+ML:
 
 - Trains traditional ML models
 - Works with structured data
@@ -131,7 +134,7 @@ ML-First:
 - Does NOT work with LLMs/agents
 
 
-## Company and Role Analysis
+## Dataset Statistics
 
 Unique companies: 590
 
@@ -158,12 +161,14 @@ Top 20 companies by job count:
 - Coinbase - 5 jobs
 - Cloudflare - 4 jobs
 
-Company stage distribution:
+Company stage distribution
 
-- Public - 293 jobs (32.7%)
-- Series B - 126 jobs (14.1%)
-- Series A - 59 jobs (6.6%)
-- Seed - 36 jobs (4.0%)
+| Stage | Jobs | % |
+|-------|-----:|--:|
+| Public | 293 | 32.7% |
+| Series B | 126 | 14.1% |
+| Series A | 59 | 6.6% |
+| Seed | 36 | 4.0% |
 
 Roles:
 
@@ -249,44 +254,6 @@ Top languages:
 - SQL - 88 jobs (9.8%)
 
 
-
-## Title Keywords vs Actual AI Type
-
-I analyzed whether job titles accurately predict the actual work. Can you tell from a job title if someone works directly on AI or just supports AI work?
-
-Title words that indicate support roles (infrastructure, platforms, data):
-
-- Infrastructure - 14 jobs, 7.1% work on AI
-- DevOps/SRE - 8 jobs, 12.5% work on AI
-- Backend - 22 jobs, 27.3% work on AI
-- Data Engineer - 21 jobs, 28.6% work on AI
-- Platform - 83 jobs, 44.6% work on AI (still mostly support)
-
-Title words that indicate AI roles (building models, RAG, agents):
-
-- Full Stack - 47 jobs, 57.4% work on AI
-- Product - 53 jobs, 62.3% work on AI
-- Solutions - 24 jobs, 66.7% work on AI
-- Research - 38 jobs, 76.3% work on AI
-
-Common keywords in job titles:
-
-In AI-first titles (621 titles):
-
-- "ai" appears in 99.5% of titles
-- "applied" appears in 10.8%
-- "ml" appears in 9.7%
-- "research" appears in 3.9%
-
-In AI-support titles (255 titles):
-
-- "platform" appears in 18.0% of titles
-- "ml" appears in 11.8%
-- "product" appears in 7.8%
-
-Key insight: Title words like "Infrastructure", "DevOps", "SRE", "Backend", "Data Engineer" indicate support roles. "Research", "Solutions", "Product" indicate AI work.
-
-
 ## GenAI Framework Ecosystem
 
 Framework popularity:
@@ -297,136 +264,24 @@ Framework popularity:
 - CrewAI - 28 jobs (3.1%)
 - AutoGen - 17 jobs (1.9%)
 
-Framework combinations (appearing together):
-
-- LangChain + LangGraph - 53 jobs
-- LangChain + LlamaIndex - 51 jobs
-- CrewAI + LangChain - 23 jobs
-- AutoGen + LangChain - 16 jobs
-- LangGraph + LlamaIndex - 15 jobs
-
-Key Insight: LangChain dominates, but LangGraph (agent orchestration) is growing. Most roles use one primary framework, not multiple.
-
-
-## Core GenAI Skill Combinations
-
-Most common GenAI skill pairs:
-
-- RAG + prompt engineering - 165 jobs
-- LangChain + RAG - 122 jobs
-- RAG + agents - 97 jobs
-- agents + prompt engineering - 87 jobs
-- LLMs + RAG - 86 jobs
-- LangChain + prompt engineering - 86 jobs
-- LLMs + prompt engineering - 82 jobs
-- LangChain + agents - 55 jobs
-- LangGraph + RAG - 55 jobs
-- LangChain + LangGraph - 53 jobs
-- LangChain + LlamaIndex - 51 jobs
-
-Key Insight: RAG is the foundational pattern - it combines with prompt engineering, agents, and frameworks. This is the "hello world" of GenAI engineering.
-
-
-## Skills by Company Stage
-
-Early stage (Seed) - Top skills:
-
-- Python - 37 jobs
-- prompt engineering - 19 jobs
-- RAG - 17 jobs
-- TypeScript - 16 jobs
-- CI/CD - 11 jobs
-
-Growth stage (Series A-C) - Top skills:
-
-- Python - 228 jobs
-- TypeScript - 102 jobs
-- AWS - 97 jobs
-- RAG - 92 jobs
-- prompt engineering - 85 jobs
-- Docker - 72 jobs
-- LLMs - 70 jobs
-- Kubernetes - 66 jobs
-
-Late stage (Series D+/Public) - Top skills:
-
-- Python - 283 jobs
-- AWS - 160 jobs
-- Kubernetes - 116 jobs
-- RAG - 111 jobs
-- Azure - 108 jobs
-- Docker - 108 jobs
-- CI/CD - 107 jobs
-- PyTorch - 101 jobs
-- LLMs - 90 jobs
-- Java - 87 jobs
-
-Key Insight: Early-stage startups are more GenAI-focused (prompt engineering, RAG). Late-stage companies need more infrastructure (Kubernetes, AWS, Azure) and traditional ML (PyTorch, Java integration).
-
 
 ## Supporting Roles: What AI-Support Engineers Do
 
 255 jobs (28.5%) classified as AI-Support
 
-By category:
-
-Platform/Infrastructure - 168 jobs
-
-Build AI platforms, GPU clusters, MLOps tooling
-
-Sales/Solutions - 21 jobs
-
-Pre-sales, customer demos, AI solutions consulting
-
-Frontend/UI - 20 jobs
-
-Build UIs for AI products, chatbots, AI dashboards
-
-Backend/General SWE - 20 jobs
-
-APIs, microservices, internal tools for AI teams
-
-Data/Pipelines - 11 jobs
-
-Data pipelines, ETL, dataset preparation for ML
-
-Observability/Monitoring - 1 job
-
-AI evaluation, testing, monitoring frameworks
-
-Key distinctions:
-
-AI-First Engineer:
-
-- "Build RAG system"
-- "Fine-tune Llama 3"
-- "Implement agent workflow"
-- "Deploy AI to production"
-- "Optimize prompts"
-
-AI-Support Engineer:
-
-- "Build platform for RAG systems"
-- "Pipeline data for fine-tuning"
-- "Build agent framework library"
-- "Build deployment infrastructure"
-- "Build prompt management UI"
-
-Sample AI-Support titles:
-
-- AI Platform Engineer
-- AI Infrastructure Engineer
-- AI Data Engineer
-- AI Sales Engineer
-- Backend Engineer - AI Systems
-- Full-Stack Engineer (AI/LLM Platform)
+| Category | Jobs | Description |
+|----------|------:|-------------|
+| Platform/Infrastructure | 168 | Build AI platforms, GPU clusters, MLOps tooling |
+| Sales/Solutions | 21 | Pre-sales, customer demos, AI solutions consulting |
+| Frontend/UI | 20 | Build UIs for AI products, chatbots, AI dashboards |
+| Backend/General SWE | 20 | APIs, microservices, internal tools for AI teams |
+| Data/Pipelines | 11 | Data pipelines, ETL, dataset preparation for ML |
 
 
-## Do AI-Support Roles Need AI Knowledge?
+Do AI-Support roles need AI knowledge?
 
-57.3% of AI-Support roles require SOME GenAI knowledge
-
-42.7% require NO GenAI skills at all
+- 57.3% of AI-Support roles require SOME GenAI knowledge
+- 42.7% require NO GenAI skills at all
 
 GenAI skills in AI-Support roles:
 
@@ -436,51 +291,27 @@ GenAI skills in AI-Support roles:
 - LangChain - 6.7%
 - OpenAI API - 5.5%
 
-Skill comparison (AI-First vs AI-Support):
 
-RAG - AI-First: 50.2%, AI-Support: 17.3%
+### Skill Comparison (AI-First vs AI-Support)
 
-Prompt engineering - AI-First: 42.4%, AI-Support: 9.0%
-
-Agents - AI-First: 33.3%, AI-Support: 8.2%
-
-LangChain - AI-First: 24.3%, AI-Support: 6.7%
-
-Docker - AI-First: 31.2%, AI-Support: 30.6%
-
-Kubernetes - AI-First: 26.4%, AI-Support: 36.1%
-
-AWS - AI-First: 43.3%, AI-Support: 40.8%
-
-React - AI-First: 14.2%, AI-Support: 20.8%
-
-
-## Is AI-Support a Good Entry Point for Career Switchers?
-
-Not necessarily. This analysis is for people switching careers into AI.
-
-Key findings:
-
-Entry-level AI-First roles: 3.2%
-
-Entry-level AI-Support roles: 2.4%
-
-Surprising insight: AI-Support roles are NOT more entry-level friendly for career switchers. They require strong infrastructure skills (Kubernetes, Docker, cloud) and often MORE web/devops experience than AI-First roles.
-
-Good AI-Support entry paths for existing engineers:
-
-- AI Platform roles (if you have K8s/cloud experience)
-- AI Data Engineer (if you have data pipeline experience)
-- Frontend for AI products (if you have React/TS experience)
-
-Not ideal for AI beginners - you still need strong engineering skills, just different ones.
+| Skill | AI-First | AI-Support |
+|:-------|---------:|------------:|
+| RAG | 50.2% | 17.3% |
+| Prompt engineering | 42.4% | 9.0% |
+| Agents | 33.3% | 8.2% |
+| LangChain | 24.3% | 6.7% |
+| Docker | 31.2% | 30.6% |
+| Kubernetes | 26.4% | 36.1% |
+| AWS | 43.3% | 40.8% |
+| React | 14.2% | 20.8% |
 
 
 ## Research vs Applied Roles
 
-Research Roles: 39 jobs (4.4%)
-
-Applied/Production Roles: 856 jobs (95.6%)
+| Role Type | Jobs | Percentage |
+|----------|-----:|------------:|
+| Research | 39 | 4.4% |
+| Applied/Production | 856 | 95.6% |
 
 Research roles work on:
 
@@ -507,25 +338,20 @@ Applied / Production roles work on:
 - Implementing existing models in production
 - Building applications with AI APIs
 - Deploying and monitoring AI systems
-- Fine-tuning models for specific use cases
 - Customer-facing AI solutions
 - Infrastructure and platforms for AI
+- Fine-tuning models for specific use cases
 
 Keywords: production, deploy, customer, enterprise, product, API integration, shipping, implementation
 
-Example comparison:
 
-Research: "Run pre-training, post-training and deploy state of the art models on clusters with thousands of GPU" (Mistral Research)
+### Example Comparison
 
-Applied: "Deploy production AI solutions with measurable business impact across various industries" (Mistral FDE)
-
-Research: "Develop novel reinforcement learning algorithms"
-
-Applied: "Implement RAG patterns with vector store integration"
-
-Research: "Publish papers at top conferences"
-
-Applied: "Ship AI features to customers"
+| Research | Applied |
+|----------|---------|
+| "Run pre-training, post-training and deploy state of the art models on clusters with thousands of GPU" (Mistral Research) | "Deploy production AI solutions with measurable business impact across various industries" (Mistral FDE) |
+| "Develop novel reinforcement learning algorithms" | "Implement RAG patterns with vector store integration" |
+| "Publish papers at top conferences" | "Ship AI features to customers" |
 
 
 ## What Other Titles Do "AI Engineers" Go Under?
@@ -565,12 +391,12 @@ Most common ML skills in AI Engineer roles:
 - Model training - 80 jobs (12.9%)
 - Model evaluation - 69 jobs (11.1%)
 
-Key Findings
+
+Key findings:
 
 1. Most AI Engineers need basic ML knowledge - 64% require some ML skills
 2. Fine-tuning is the most common ML task - more common than model training from scratch
 3. PyTorch dominates - 2.6x more common than TensorFlow for GenAI roles
-4. Deep ML knowledge is rare - only ~8% expect general ML expertise
 
 Bottom Line: AI Engineers need practical ML knowledge (PyTorch basics, fine-tuning, embeddings) but don't need deep ML expertise unless specifically working on model development.
 
@@ -587,15 +413,14 @@ Skill combinations in AI Engineer roles:
 - GenAI + ANY other tech - 93.1%
 - Pure GenAI (nothing else) - 1.4%
 
-Non-GenAI skills expected:
+### Non-GenAI Skills Expected
 
-Cloud - AWS (41.7%), Azure (24.8%), GCP (22.2%) - Most expect one cloud platform
-
-Ops - Docker (31.4%), CI/CD (27.7%), Kubernetes (26.6%) - Deployment is expected
-
-Web - React (12.9%), FastAPI (12.9%) - About 50% do web work
-
-Languages - Python (88.6%), TypeScript (23.3%), Java (15.1%) - Python is mandatory
+| Category | Skills | % |
+|----------|--------|--:|
+| Cloud | AWS (41.7%), Azure (24.8%), GCP (22.2%) | - |
+| Ops | Docker (31.4%), CI/CD (27.7%), Kubernetes (26.6%) | - |
+| Web | React (12.9%), FastAPI (12.9%) | ~50% do web work |
+| Languages | Python (88.6%), TypeScript (23.3%), Java (15.1%) | Python mandatory |
 
 Full-stack expectations:
 
@@ -610,64 +435,47 @@ Bottom Line: AI Engineers are full-stack engineers who specialize in AI. Only 1.
 
 30.8% of AI-First roles mention fine-tuning
 
-Depth of fine-tuning expectation:
+### Depth of Fine-Tuning Expectation
 
-Primary FT responsibility - 25 jobs (4.0%) - FT is main focus (model architecture, LoRA, PEFT)
+| Level | Jobs | % | Description |
+|-------|------:|--:|-------------|
+| Primary FT responsibility | 25 | 4.0% | FT is main focus (model architecture, LoRA, PEFT) |
+| Secondary/occasional FT | 94 | 15.1% | FT mentioned but not core |
+| No FT mentioned | 502 | 80.8% | No fine-tuning expected |
 
-Secondary/occasional FT - 94 jobs (15.1%) - FT mentioned but not core
+### Fine-Tuning Use Cases
 
-No FT mentioned - 502 jobs (80.8%) - No fine-tuning expected
+- Instruction following - Agents that follow complex instructions, task execution
+- Domain knowledge - Medical, legal, finance, industry-specific applications
+- Style/Tone - Brand voice, personality, formatting requirements
+- Company data - Internal documents, proprietary data
+- Performance - Smaller/faster models, latency optimization
+- Language - Multilingual, non-English support
+- Privacy - On-prem, offline, secure environments
 
-Fine-tuning use cases:
-
-Instruction following - 143 mentions
-
-- Agents that follow complex instructions, task execution
-
-Domain knowledge - 113 mentions
-
-- Medical, legal, finance, industry-specific applications
-
-Style/Tone - 53 mentions
-
-- Brand voice, personality, formatting requirements
-
-Company data - 35 mentions
-
-- Internal documents, proprietary data
-
-Performance - 32 mentions
-
-- Smaller/faster models, latency optimization
-
-Language - 24 mentions
-
-- Multilingual, non-English support
-
-Privacy - 10 mentions
-
-- On-prem, offline, secure environments
-
-Key Findings
+Key findings:
 
 1. Most AI Engineers don't fine-tune - Only ~20% have any FT expectation
 2. Primary FT roles are rare - Only 4% focus on fine-tuning as main responsibility
 3. Most common FT use case - Domain knowledge (medical, legal, finance) and instruction following for agents
 4. FT is a specialization - Not a core AI Engineer skill, more advanced
 
-Bottom Line: Fine-tuning is optional for most AI Engineers. Focus on RAG and agents first. Learn fine-tuning if targeting domain-specific roles (healthcare, finance, legal), performance optimization roles, or specialized model development.
+Bottom Line
+
+- Fine-tuning is optional for most AI Engineers.
+- Focus on RAG and agents first. 
+- Learn fine-tuning if targeting domain-specific roles (healthcare, finance, legal), performance optimization roles, or specialized model development.
 
 
-## Key Insight 
-
-Key Insight: RAG + Agents = 70%+ of use cases
+## Key Insight: RAG + Agents = 70%+ of Use Cases
 
 The two dominant patterns are:
 
 - RAG - Connect LLMs to your data (documents, databases)
 - Agents - LLMs that use tools to accomplish tasks
 
-If you learn these two patterns deeply, you can handle most AI Engineering use cases.
+If you learn these two patterns deeply, you can handle most
+AI Engineering use cases.
 
 
 ## Learning Path for AI Engineers
@@ -678,9 +486,6 @@ If you learn these two patterns deeply, you can handle most AI Engineering use c
 - Frameworks - LangChain or LlamaIndex
 - Agents - LangGraph, agent orchestration
 - Production - Docker, Kubernetes, CI/CD, monitoring
-
-
-## AI Tech Stack
 
 The typical AI engineering stack:
 
