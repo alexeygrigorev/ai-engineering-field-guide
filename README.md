@@ -1,113 +1,35 @@
 # AI Engineering Field Guide
 
-A practical guide to AI engineering - learning paths, job market insights, interview preparation, and real-world patterns.
+Data-driven field guide to AI engineering roles, skills, and interviews.
 
-Based on research from 895+ job descriptions and 65+ interview assignments from Q4 2025 / Q1 2026.
+## What's Inside
 
----
+### Job Market Data (January 2026)
 
-## Quick Start
+- TODO - script for scraping the data
+- [Raw extracted postings](job-market/data_raw/) - original extracted data from builtin.com
+- [Structured job descriptions](job-market/data_structured/) - YAML files with title, company, skills, compensation, and full descriptions
 
-New to AI Engineering? Start here:
 
-- **[What is AI Engineering?](jobs/analysis_role_research.md)** - Understanding the role landscape
-- **[Learning Path](jobs/analysis_skills.md#learning-path-for-ai-engineers)** - Skills you need to learn
-- **[Interview Prep](interviews/interview.md)** - What to expect in the interview loop
+### Defining the AI Engineer Role
 
----
+based on the analysis of the data
 
-## Contents
+- [Reality vs. job postings](role/reality-vs-postings.md) - what candidates actually experience vs. what's advertised
+- [Responsibilities breakdown](role/responsibilities.md) - from 5,694 extracted responsibilities across 895 jobs
+- [Use cases](role/use-cases.md) - what companies are building, from 4,525 real job descriptions
+- [Skills analysis](role/skills.md) - top skills, job types, cloud platforms, and more
 
-### Roadmaps & Learning
 
-| Topic | Description |
-|-------|-------------|
-| [Skills Analysis](jobs/analysis_skills.md) | What skills are in demand (RAG, agents, frameworks, cloud) |
-| [Role Types](jobs/analysis_role_research.md) | AI-First vs AI-Support vs ML roles - which fits you? |
-| [Responsibilities](jobs/analysis_responsibilities.md) | What AI Engineers actually do day-to-day |
-| [Use Cases](jobs/analysis_use_cases.md) | Common patterns: RAG, agents, fine-tuning |
+### Interview Preparation (WIP)
 
-### Interview Prep
+- [Interview process](_work-in-progress/interviews/process.md) - typical loop, what to expect at each stage
+- [Take-home assignments](_work-in-progress/interviews/take-home/) - real examples and research
 
-| Topic | Description |
-|-------|-------------|
-| [Interview Process](interviews/interview.md) | Loop structure, common questions, company experiences |
-| [Take-Home Assignments](interviews/take-home/) | Real interview assignments with solutions |
-| [Trends Analysis](interviews/analysis_trends.md) | How interviews are evolving in 2026 |
-| [Assignment Methodology](challenges/methodology.md) | How we research and categorize assignments |
 
-### Job Market
+## Coming Soon
 
-Based on analysis of 895 job postings from January 2026:
-
-- **70%** work directly on AI (RAG, agents)
-- **93%** need skills beyond just GenAI
-- **35.9%** mention RAG - the most common pattern
-- **64.3%** require some ML knowledge
-- **AWS > Azure > GCP** in cloud preferences
-
-See full analysis: [Skills & Market Data](jobs/analysis_skills.md)
-
----
-
-## Key Insights
-
-### The Two Patterns That Matter
-
-> **RAG + Agents = 70%+ of AI Engineering work**
-
-If you learn these two patterns deeply, you can handle most AI engineering use cases.
-
-- **RAG** - Connect LLMs to your data (documents, databases)
-- **Agents** - LLMs that use tools to accomplish tasks
-
-### AI Engineers Are Full-Stack
-
-Only 1.4% of roles expect pure GenAI work. Most need:
-
-- **Cloud** - AWS, Azure, or GCP
-- **Ops** - Docker, Kubernetes, CI/CD
-- **Web** - React, FastAPI (for 50%+ of roles)
-- **Python** is mandatory (82.5% of jobs)
-
-### Three Types of "AI Engineer" Roles
-
-| Type | What They Build | % of Jobs |
-|------|-----------------|-----------|
-| **AI-First** | RAG systems, agents, fine-tuned LLMs | 69.4% |
-| **AI-Support** | Platforms, infrastructure, tooling | 28.5% |
-| **ML** | Traditional ML/DL (rebranded) | 1.8% |
-
----
-
-## Learning Path
-
-```
-Foundation
-    Python, APIs, basic web (FastAPI/React)
-        ↓
-LLM Basics
-    Prompt engineering, OpenAI/Anthropic APIs
-        ↓
-Core Patterns
-    RAG (vector DBs, embeddings)
-    Agents (LangGraph, orchestration)
-        ↓
-Production
-    Docker, Kubernetes, CI/CD, monitoring
-```
-
-[Full learning guide](jobs/analysis_skills.md#learning-path-for-ai-engineers)
-
----
-
-## Contributing
-
-This is a research repository. Contributions welcome:
-- Additional interview experiences
-- New take-home assignment examples
-- Corrections and updates
-
----
-
-*Last updated: February 2026*
+- Learning paths for becoming an AI engineer
+- AI engineer portfolio guide
+- Company-specific interview guides
+- Community-contributed interview experiences

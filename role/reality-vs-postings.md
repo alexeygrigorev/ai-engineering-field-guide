@@ -2,8 +2,6 @@
 
 Based on what candidates actually experience in the market. Complements the quantitative job analysis with qualitative insights from people's stories.
 
-Full sources: [research/sources.md](../research/sources.md)
-
 
 ## AI Engineer vs ML Engineer: The Confusion
 

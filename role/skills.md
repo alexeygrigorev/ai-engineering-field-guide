@@ -2,7 +2,7 @@
 
 Generated from 895 job descriptions extracted from builtin.com.
 
-I searched for jobs containing "AI Engineer" keyword from LA, NY, London, Amsterdam and Berlin for last 4 weeks. I did it at the beginning of February 2026, so it mostly contains jobs published in January 2026. 
+I searched for jobs containing "AI Engineer" keyword from LA, NY, London, Amsterdam and Berlin for last 4 weeks. I did it at the beginning of February 2026, so it mostly contains jobs published in January 2026.
 
 Summary
 
