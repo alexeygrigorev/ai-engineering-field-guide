@@ -1,0 +1,710 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Defining the AI Engineer Role</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/black.css">
+<style>
+  .reveal h1, .reveal h2, .reveal h3 { text-transform: none; }
+  .reveal h1 { font-size: 2.2em; }
+  .reveal h2 { font-size: 1.6em; }
+  .reveal h3 { font-size: 1.2em; }
+  .reveal { font-size: 32px; }
+  .reveal ul, .reveal ol { text-align: left; }
+  .reveal li { margin-bottom: 0.3em; }
+  .reveal .big-number { font-size: 3em; color: #60a5fa; font-weight: bold; }
+  .reveal .medium-number { font-size: 2em; color: #60a5fa; font-weight: bold; }
+  .reveal table { margin: 0 auto; font-size: 0.8em; }
+  .reveal th, .reveal td { padding: 0.3em 0.8em; }
+  .reveal .subtitle { color: #666; font-size: 0.7em; }
+  .reveal .section-title { color: #60a5fa; font-size: 0.6em; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0; }
+</style>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<!-- ==================== TITLE ==================== -->
+
+<section>
+  <h1>Defining<br>The AI Engineer<br>Role</h1>
+  <p>Alexey Grigorev</p>
+  <p class="subtitle">February 24, 2026</p>
+</section>
+
+<!-- Agenda -->
+<section>
+  <h2>Today's Agenda</h2>
+  <ol>
+    <li>Dataset - 895 job descriptions from builtin.com</li>
+    <li>Skills - what companies actually hire for</li>
+    <li>Responsibilities - what AI engineers do day-to-day</li>
+    <li>Use cases - what companies build with AI</li>
+  </ol>
+</section>
+
+<!-- Dataset -->
+<section>
+  <h2>The Dataset</h2>
+  <p class="big-number">895</p>
+  <p>job descriptions from 590 companies</p>
+  <p>5,694 responsibilities &middot; 4,525 use cases</p>
+  <p class="subtitle">Searched for "AI Engineer" on builtin.com, January 2026</p>
+</section>
+
+<!-- builtin screenshot -->
+<section>
+  <img src="ai-engineer-role/builtin.png" style="max-height: 600px;">
+</section>
+
+<!-- 1400 jobs screenshot -->
+<section>
+  <img src="ai-engineer-role/1400-jobs.png" style="max-height: 600px;">
+  <p class="subtitle"><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/job-market/_internal/all_jobs.csv">job-market/_internal/all_jobs.csv</a></p>
+</section>
+
+<!-- 800 jobs dedup screenshot -->
+<section>
+  <img src="ai-engineer-role/800-jobs-dedup.png" style="max-height: 600px;">
+  <p class="subtitle">After deduplication &middot; <a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/job-market/_internal/all_jobs_dedup.csv">job-market/_internal/all_jobs_dedup.csv</a></p>
+</section>
+
+<!-- Raw data example -->
+<section>
+  <img src="ai-engineer-role/raw-data.png" style="max-height: 600px;">
+  <p class="subtitle"><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/job-market/data_raw/1393425_Speechify_Applied_AI_Engineer_Researcher.yaml">1393425_Speechify_Applied_AI_Engineer_Researcher.yaml</a></p>
+</section>
+
+<!-- Structured data example -->
+<section>
+  <img src="ai-engineer-role/structured-data.png" style="max-height: 600px;">
+  <p class="subtitle"><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/job-market/data_structured/1393425_Speechify_Applied_AI_Engineer_Researcher.yaml">1393425_Speechify_Applied_AI_Engineer_Researcher.yaml</a></p>
+</section>
+
+<!-- Three types -->
+<section>
+  <h2>Three Types of "AI Engineer"</h2>
+  <table>
+    <tr><th>Type</th><th>Jobs</th><th>What they do</th></tr>
+    <tr><td>AI-First</td><td>621 (69.4%)</td><td>Build RAG, agents, LLM features</td></tr>
+    <tr><td>AI-Support</td><td>255 (28.5%)</td><td>Build platforms, infra, tooling</td></tr>
+    <tr><td>ML</td><td>16 (1.8%)</td><td>Traditional ML rebranded</td></tr>
+  </table>
+  <p><br>The key question: does this role work ON AI, or NEAR it?</p>
+</section>
+
+<!-- Research vs Applied -->
+<section>
+  <h2>Research vs Applied</h2>
+  <table>
+    <tr><th>Type</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>Applied/Production</td><td>856</td><td>95.6%</td></tr>
+    <tr><td>Research</td><td>39</td><td>4.4%</td></tr>
+  </table>
+  <br>
+  <table>
+    <tr><th>Research</th><th>Applied</th></tr>
+    <tr><td>Novel algorithms, SOTA</td><td>Implement existing models in production</td></tr>
+    <tr><td>Publish papers</td><td>Ship AI features to customers</td></tr>
+    <tr><td>Model architecture design</td><td>Build applications with AI APIs</td></tr>
+  </table>
+  <p><br>The market wants people who ship, not people who publish</p>
+</section>
+
+<!-- Part 1 -->
+<section>
+  <p class="section-title">Part 1</p>
+  <h1>Skills</h1>
+  <p><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/02-skills.md">role/02-skills.md</a></p>
+</section>
+
+<!-- Analysis links -->
+<section>
+  <h2>Analysis</h2>
+  <ul>
+    <li><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/job-market/analysis.ipynb">job-market/analysis.ipynb</a> - data analysis notebook</li>
+    <li><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/02-skills.md">role/02-skills.md</a> - full skills writeup</li>
+  </ul>
+</section>
+
+<!-- RAG -->
+<section>
+  <h2>RAG Is the #1 Pattern</h2>
+  <p class="big-number">35.9%</p>
+  <p>of all jobs mention RAG</p>
+  <br>
+  <p>Connect LLMs to your data (documents, databases, knowledge bases)</p>
+</section>
+
+
+<!-- Full-stack -->
+<section>
+  <h2>AI Engineers Are Full-Stack</h2>
+  <p class="big-number">93.1%</p>
+  <p>of roles need skills beyond just GenAI</p>
+  <br>
+  <ul>
+    <li>Frontend skills - 195/621 (31.4%)</li>
+    <li>Backend skills - 308/621 (49.6%)</li>
+    <li>Full-stack (both) - 134/621 (21.6%)</li>
+  </ul>
+  <p><br>Only 1.4% of roles expect pure GenAI work</p>
+</section>
+
+<!-- Top skills overview -->
+<section>
+  <h2>Top Skills Demanded</h2>
+  <table>
+    <tr><th>Skill</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>Python</td><td>738</td><td>82.5%</td></tr>
+    <tr><td>AWS</td><td>359</td><td>40.1%</td></tr>
+    <tr><td>RAG</td><td>321</td><td>35.9%</td></tr>
+    <tr><td>Docker</td><td>277</td><td>31.0%</td></tr>
+    <tr><td>Prompt engineering</td><td>260</td><td>29.1%</td></tr>
+    <tr><td>CI/CD</td><td>262</td><td>29.3%</td></tr>
+    <tr><td>Kubernetes</td><td>260</td><td>29.1%</td></tr>
+    <tr><td>LLMs</td><td>227</td><td>25.4%</td></tr>
+    <tr><td>TypeScript</td><td>209</td><td>23.4%</td></tr>
+  </table>
+</section>
+
+
+<!-- GenAI skills deep dive -->
+<section>
+  <h2>GenAI Skills</h2>
+  <table>
+    <tr><th>Skill</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>RAG</td><td>321</td><td>35.9%</td></tr>
+    <tr><td>Prompt engineering</td><td>260</td><td>29.1%</td></tr>
+    <tr><td>LLMs</td><td>227</td><td>25.4%</td></tr>
+    <tr><td>LangChain</td><td>168</td><td>18.8%</td></tr>
+    <tr><td>Agents</td><td>129</td><td>14.4%</td></tr>
+    <tr><td>OpenAI API</td><td>78</td><td>8.7%</td></tr>
+    <tr><td>LangGraph</td><td>72</td><td>8.0%</td></tr>
+    <tr><td>LlamaIndex</td><td>52</td><td>5.8%</td></tr>
+    <tr><td>Anthropic API</td><td>49</td><td>5.5%</td></tr>
+  </table>
+</section>
+
+<!-- Frameworks -->
+<section>
+  <h2>GenAI Framework Ecosystem</h2>
+  <table>
+    <tr><th>Framework</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>LangChain</td><td>168</td><td>18.8%</td></tr>
+    <tr><td>LangGraph</td><td>72</td><td>8.0%</td></tr>
+    <tr><td>LlamaIndex</td><td>52</td><td>5.8%</td></tr>
+    <tr><td>CrewAI</td><td>28</td><td>3.1%</td></tr>
+    <tr><td>AutoGen</td><td>17</td><td>1.9%</td></tr>
+  </table>
+  <p><br>LangChain dominates. LangGraph growing fast for agents.</p>
+</section>
+
+<!-- ML knowledge -->
+<section>
+  <h2>How Much ML Do You Need?</h2>
+  <p class="medium-number">64.3%</p>
+  <p>of AI-First roles require some ML knowledge</p>
+  <br>
+  <table>
+    <tr><th>ML Skill</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>PyTorch</td><td>165</td><td>26.6%</td></tr>
+    <tr><td>Fine-tuning</td><td>159</td><td>25.6%</td></tr>
+    <tr><td>TensorFlow</td><td>93</td><td>15.0%</td></tr>
+    <tr><td>Embeddings</td><td>81</td><td>13.0%</td></tr>
+    <tr><td>Model evaluation</td><td>69</td><td>11.1%</td></tr>
+  </table>
+  <p><br>Practical ML (PyTorch, fine-tuning, embeddings), not deep research</p>
+</section>
+
+<!-- Fine-tuning -->
+<section>
+  <h2>Fine-Tuning Is Overhyped</h2>
+  <table>
+    <tr><th>Level</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>Primary FT responsibility</td><td>25</td><td>4.0%</td></tr>
+    <tr><td>Secondary/occasional</td><td>94</td><td>15.1%</td></tr>
+    <tr><td>No FT mentioned</td><td>502</td><td>80.8%</td></tr>
+  </table>
+  <p><br>Focus on RAG and agents first.<br>
+  Learn fine-tuning for domain-specific roles (healthcare, finance, legal).</p>
+</section>
+
+<!-- Production -->
+<section>
+  <h2>Production/Ops Skills</h2>
+  <table>
+    <tr><th>Skill</th><th>Jobs</th></tr>
+    <tr><td>Docker</td><td>277</td></tr>
+    <tr><td>CI/CD</td><td>262</td></tr>
+    <tr><td>Kubernetes</td><td>260</td></tr>
+    <tr><td>MLOps</td><td>107</td></tr>
+    <tr><td>Terraform</td><td>104</td></tr>
+  </table>
+  <p><br>50.2% of AI-First roles require production/ops skills</p>
+</section>
+
+<!-- Evaluation -->
+<section>
+  <h2>Evaluation Is the Differentiator</h2>
+  <p class="medium-number">39.6%</p>
+  <p>of AI-First roles explicitly require evaluation skills</p>
+  <br>
+  <ul>
+    <li>LLM-as-judge systems</li>
+    <li>Golden datasets for RAG performance</li>
+    <li>Hallucination detection</li>
+    <li>Drift monitoring</li>
+  </ul>
+  <p><br>Anyone can build a chatbot. Companies hire people who can measure if it works.</p>
+</section>
+
+<!-- Databases -->
+<section>
+  <h2>Databases</h2>
+  <table>
+    <tr><th>Database</th><th>Jobs</th></tr>
+    <tr><td>Vector databases (general)</td><td>97</td></tr>
+    <tr><td>PostgreSQL</td><td>83</td></tr>
+    <tr><td>Pinecone</td><td>53</td></tr>
+    <tr><td>Redis</td><td>43</td></tr>
+    <tr><td>Weaviate</td><td>41</td></tr>
+  </table>
+  <p><br>Vector DBs are the new requirement. PostgreSQL still essential.</p>
+</section>
+
+<!-- Cloud -->
+<section>
+  <h2>Cloud Platforms</h2>
+  <table>
+    <tr><th>Cloud</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>AWS</td><td>359</td><td>40.1%</td></tr>
+    <tr><td>Azure</td><td>214</td><td>23.9%</td></tr>
+    <tr><td>GCP</td><td>205</td><td>22.9%</td></tr>
+  </table>
+</section>
+
+<!-- Languages -->
+<section>
+  <h2>Programming Languages</h2>
+  <table>
+    <tr><th>Language</th><th>Jobs</th><th>%</th></tr>
+    <tr><td>Python</td><td>738</td><td>82.5%</td></tr>
+    <tr><td>TypeScript</td><td>209</td><td>23.4%</td></tr>
+    <tr><td>Java</td><td>133</td><td>14.9%</td></tr>
+    <tr><td>Go</td><td>101</td><td>11.3%</td></tr>
+    <tr><td>SQL</td><td>88</td><td>9.8%</td></tr>
+  </table>
+</section>
+
+<!-- Stack -->
+<section>
+  <h2>The AI Engineering Stack</h2>
+  <table>
+    <tr><th>Layer</th><th>Technologies</th></tr>
+    <tr><td>Application</td><td>React, Next.js, FastAPI</td></tr>
+    <tr><td>AI orchestration</td><td>LangChain, LangGraph, LlamaIndex</td></tr>
+    <tr><td>LLM APIs</td><td>OpenAI, Anthropic, local models</td></tr>
+    <tr><td>Vector databases</td><td>Pinecone, Weaviate, pgvector</td></tr>
+    <tr><td>Infrastructure</td><td>Docker, K8s, AWS/GCP/Azure</td></tr>
+  </table>
+</section>
+
+
+<!-- Part 2 -->
+<section>
+  <p class="section-title">Part 2</p>
+  <h1>Responsibilities</h1>
+  <p><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/03-responsibilities.md">role/03-responsibilities.md</a></p>
+</section>
+
+<!-- Responsibilities dataset -->
+<section>
+  <h2>The Dataset</h2>
+  <p class="big-number">5,694</p>
+  <p>responsibilities extracted from 895 job descriptions</p>
+</section>
+
+<!-- Building AI Systems -->
+<section>
+  <h2>Building AI Systems</h2>
+  <p class="subtitle">Very common</p>
+  <ul>
+    <li>Design and develop RAG systems for knowledge retrieval</li>
+    <li>Build agents using LangChain, LangGraph, CrewAI</li>
+    <li>Create LLM-powered applications and features</li>
+    <li>Build evaluation frameworks and testing systems</li>
+    <li>Develop prompt and template libraries</li>
+  </ul>
+  <p><br>Core challenge: translating business problems into reliable, scalable AI systems</p>
+</section>
+
+<!-- Productionizing AI -->
+<section>
+  <h2>Productionizing AI</h2>
+  <p class="subtitle">Very common</p>
+  <ul>
+    <li>Deploy AI software with testing, QA, and monitoring</li>
+    <li>Deliver production-ready APIs and microservices</li>
+    <li>Take ownership from concept through shipped feature</li>
+    <li>Participate in on-call rotation</li>
+    <li>Build infrastructure for model serving and inference</li>
+  </ul>
+  <p><br>Core challenge: making probabilistic AI systems reliable enough for production</p>
+</section>
+
+<!-- Evaluation and Quality -->
+<section>
+  <h2>Evaluation and Quality</h2>
+  <p class="subtitle">Very common</p>
+  <ul>
+    <li>Design evaluation frameworks and testing harnesses</li>
+    <li>Implement bias assessment and safety guardrails</li>
+    <li>Build observability tooling and dashboards</li>
+    <li>Monitor for performance, drift, and safety</li>
+    <li>Hallucination detection with citations and faithfulness metrics</li>
+  </ul>
+  <p><br>Core challenge: defining meaningful metrics for non-deterministic systems</p>
+</section>
+
+<!-- Using Provider APIs -->
+<section>
+  <h2>Using Provider APIs</h2>
+  <p class="subtitle">Very common</p>
+  <ul>
+    <li>Integrate OpenAI, Anthropic, and other provider APIs</li>
+    <li>Handle errors, retries, and fallbacks</li>
+    <li>Optimize prompt design for specific models</li>
+    <li>Manage costs through token tracking and caching</li>
+  </ul>
+  <p><br>Core challenge: building reliable apps on third-party APIs while managing costs and rate limits</p>
+</section>
+
+<!-- RAG and Retrieval -->
+<section>
+  <h2>RAG and Retrieval</h2>
+  <p class="subtitle">Common</p>
+  <ul>
+    <li>Implement RAG with vector databases and semantic search</li>
+    <li>Document processing and chunking (PDFs, Word, HTML, audio)</li>
+    <li>Hybrid search with re-ranking and query rewriting</li>
+    <li>Knowledge graphs and enterprise data integrations</li>
+    <li>Context window management</li>
+  </ul>
+  <p><br>Core challenge: accurate semantic retrieval at scale with domain-specific terminology</p>
+</section>
+
+<!-- Data Processing -->
+<section>
+  <h2>Data Processing</h2>
+  <p class="subtitle">Common</p>
+  <ul>
+    <li>Build data pipelines for document processing, indexing, retrieval</li>
+    <li>Work with proprietary datasets for fine-tuning and RAG</li>
+    <li>Data preprocessing and transformation systems</li>
+    <li>Dataset curation, versioning, and quality checks</li>
+  </ul>
+  <p><br>Core challenge: ensuring data quality at scale while handling diverse formats</p>
+</section>
+
+<!-- Collaboration -->
+<section>
+  <h2>Collaboration</h2>
+  <p class="subtitle">Common</p>
+  <ul>
+    <li>Work with product teams on roadmaps</li>
+    <li>Cross-functional collaboration with engineering and design</li>
+    <li>Gather business requirements and translate to technical solutions</li>
+    <li>Mentor junior engineers</li>
+    <li>Maintain documentation and knowledge bases</li>
+  </ul>
+  <p><br>Core challenge: bridging technical and non-technical communication</p>
+</section>
+
+<!-- Infrastructure and Platforms -->
+<section>
+  <h2>Infrastructure and Platforms</h2>
+  <p class="subtitle">Common</p>
+  <ul>
+    <li>Architect scalable distributed systems</li>
+    <li>Build GPU clusters and inference infrastructure</li>
+    <li>Contribute to AI platform tooling and Kubernetes ecosystem</li>
+    <li>Create platforms that other engineers use to build AI</li>
+    <li>Security and compliance infrastructure</li>
+  </ul>
+  <p><br>Core challenge: building flexible platforms that accommodate rapid AI evolution</p>
+</section>
+
+<!-- Agents and Agentic Workflows -->
+<section>
+  <h2>Agents and Agentic Workflows</h2>
+  <p class="subtitle">Common</p>
+  <ul>
+    <li>Design agentic workflows for multi-step tasks</li>
+    <li>Configure tool-calling functions, agent memory/state</li>
+    <li>Build autonomous systems that execute complex tasks</li>
+    <li>Communication protocols for hierarchical agent systems</li>
+  </ul>
+  <p><br>Core challenge: reliable multi-step planning with graceful failure handling</p>
+</section>
+
+<!-- Uncommon responsibilities -->
+<section>
+  <h2>Less Common Responsibilities</h2>
+  <table>
+    <tr><th>Responsibility</th><th>Frequency</th></tr>
+    <tr><td>Working with customers</td><td>Uncommon</td></tr>
+    <tr><td>Frontend and UI</td><td>Uncommon</td></tr>
+    <tr><td>Performance optimization</td><td>Uncommon</td></tr>
+    <tr><td>Self-hosting models</td><td>Uncommon</td></tr>
+    <tr><td>Fine-tuning models</td><td>Uncommon</td></tr>
+    <tr><td>Experimentation and research</td><td>Uncommon</td></tr>
+    <tr><td>Security and compliance</td><td>Rare</td></tr>
+  </table>
+</section>
+
+<!-- Most common action words -->
+<section>
+  <h2>Most Common Words in Responsibilities</h2>
+  <table>
+    <tr><th>Word</th><th>Mentions</th></tr>
+    <tr><td>build</td><td>684</td></tr>
+    <tr><td>deploy</td><td>565</td></tr>
+    <tr><td>design</td><td>551</td></tr>
+    <tr><td>teams</td><td>493</td></tr>
+    <tr><td>product</td><td>464</td></tr>
+    <tr><td>implement</td><td>432</td></tr>
+    <tr><td>develop</td><td>407</td></tr>
+    <tr><td>models</td><td>405</td></tr>
+    <tr><td>collaborate</td><td>403</td></tr>
+  </table>
+  <p><br>The language emphasizes action: build, deploy, design, collaborate</p>
+</section>
+
+
+<!-- Part 3 -->
+<section>
+  <p class="section-title">Part 3</p>
+  <h1>Use Cases</h1>
+  <p><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/04-use-cases.md">role/04-use-cases.md</a></p>
+</section>
+
+<!-- Use cases dataset -->
+<section>
+  <h2>The Dataset</h2>
+  <p class="big-number">4,525</p>
+  <p>use cases extracted from 895 job descriptions</p>
+  <br>
+  <p>AI-First roles: 3,177 (70.2%) &middot; AI-Support roles: 1,259 (27.8%)</p>
+</section>
+
+<!-- Automating manual workflows -->
+<section>
+  <h2>Automating Manual Workflows</h2>
+  <p class="medium-number">696 mentions (15.4%)</p>
+  <br>
+  <ul>
+    <li>Automate business workflows across Salesforce platforms</li>
+    <li>IT operations automation through AI agents with stateful memory</li>
+    <li>Autonomous supply chain orchestration</li>
+    <li>Process millions of issues for hundreds of customers at scale</li>
+  </ul>
+  <p><br>AI solution: agents that execute multi-step workflows autonomously</p>
+</section>
+
+<!-- Internal operational efficiency -->
+<section>
+  <h2>Internal Operational Efficiency</h2>
+  <p class="medium-number">519 mentions (11.5%)</p>
+  <br>
+  <ul>
+    <li>Early signal detection of emerging risks and threats</li>
+    <li>Secure, compliant AI infrastructure for enterprise requirements</li>
+    <li>Automated reasoning and evaluation of insurance claims</li>
+    <li>Fraud detection and risk assessment for financial services</li>
+  </ul>
+  <p><br>AI solution: enterprise-grade AI systems for internal operations</p>
+</section>
+
+<!-- Finding information -->
+<section>
+  <h2>Finding Information in Company Data</h2>
+  <p class="medium-number">360 mentions (8.0%)</p>
+  <br>
+  <ul>
+    <li>Enterprise knowledge retrieval from internal documents</li>
+    <li>Medical literature search over millions of articles</li>
+    <li>RAG-based system for financial information and guidance</li>
+    <li>Knowledge Graph RAG for complex enterprise data</li>
+  </ul>
+  <p><br>AI solution: RAG and semantic search over proprietary data</p>
+</section>
+
+<!-- Answering customer questions -->
+<section>
+  <h2>Answering Customer Questions at Scale</h2>
+  <p class="medium-number">312 mentions (6.9%)</p>
+  <br>
+  <ul>
+    <li>Real-time personalized customer experiences</li>
+    <li>AI system that understands phone conversations</li>
+    <li>Conversational AI for patient interactions and follow-up care</li>
+    <li>Process customer inquiries without human intervention</li>
+  </ul>
+  <p><br>AI solution: customer-facing AI with access to company knowledge</p>
+</section>
+
+<!-- Deploying AI to production -->
+<section>
+  <h2>Deploying AI to Production Reliably</h2>
+  <p class="medium-number">219 mentions (4.8%)</p>
+  <br>
+  <ul>
+    <li>Low-latency production inference systems</li>
+    <li>AI inference as a service on edge GPUs worldwide</li>
+    <li>Scalable AI-powered UIs at production scale</li>
+    <li>Large-scale language model deployment with complex networking</li>
+  </ul>
+  <p><br>AI works in notebooks but fails in production - latency, scalability, cost</p>
+</section>
+
+<!-- Making decisions from data -->
+<section>
+  <h2>Making Decisions from Data</h2>
+  <p class="medium-number">163 mentions (3.6%)</p>
+  <br>
+  <ul>
+    <li>Transform complex financial data into actionable insights</li>
+    <li>AI-driven health data analysis for improved outcomes</li>
+    <li>Predictive signals through AI-enhanced research</li>
+    <li>Intelligent event data analysis for marketing workflows</li>
+  </ul>
+  <p><br>AI solution: AI-powered data analysis and insights</p>
+</section>
+
+<!-- Ensuring AI quality and safety -->
+<section>
+  <h2>Ensuring AI Quality and Safety</h2>
+  <p class="medium-number">141 mentions (3.1%)</p>
+  <br>
+  <ul>
+    <li>Real-time content integrity and safety detection</li>
+    <li>Automated reasoning and evaluation for accuracy</li>
+    <li>Sensitive data handling with appropriate safeguards</li>
+  </ul>
+  <p><br>AI systems can hallucinate, produce unsafe content, or behave unpredictably</p>
+</section>
+
+<!-- More use cases -->
+<section>
+  <h2>More Use Cases</h2>
+  <table>
+    <tr><th>Problem</th><th>Mentions</th><th>%</th></tr>
+    <tr><td>Personalizing user experiences</td><td>128</td><td>2.8%</td></tr>
+    <tr><td>Creating content at scale</td><td>118</td><td>2.6%</td></tr>
+    <tr><td>Helping developers write code</td><td>60</td><td>1.3%</td></tr>
+    <tr><td>Handling specialized domain knowledge</td><td>38</td><td>0.8%</td></tr>
+  </table>
+</section>
+
+<!-- Domains -->
+<section>
+  <h2>Domains Served</h2>
+  <table>
+    <tr><th>Domain</th><th>Mentions</th></tr>
+    <tr><td>Finance</td><td>340+</td></tr>
+    <tr><td>Healthcare</td><td>232+</td></tr>
+    <tr><td>Education</td><td>181+</td></tr>
+    <tr><td>Cybersecurity</td><td>177+</td></tr>
+    <tr><td>Legal/Regulatory</td><td>157+</td></tr>
+    <tr><td>Manufacturing</td><td>57+</td></tr>
+    <tr><td>Retail/E-commerce</td><td>40+</td></tr>
+  </table>
+</section>
+
+<!-- Key takeaways -->
+<section>
+  <h2>Key Takeaways</h2>
+  <ul>
+    <li>69.4% of roles are AI-First - RAG, agents, LLMs</li>
+    <li>93.1% need skills beyond GenAI - it's a full-stack role</li>
+    <li>RAG (35.9%) is the #1 pattern, automation (15.4%) is the #1 use case</li>
+    <li>Evaluation (39.6%) is the emerging differentiator</li>
+    <li>AI Engineers are builders first - build, deploy, monitor</li>
+    <li>Python mandatory (82.5%), then AWS, Docker, K8s</li>
+  </ul>
+</section>
+
+<!-- Bonus: Learning Paths -->
+<section>
+  <p class="section-title">Bonus</p>
+  <h1>Learning Paths</h1>
+  <p><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/tree/main/learning-paths">learning-paths/</a></p>
+</section>
+
+<!-- Core learning path -->
+<section>
+  <h2>Core Learning Path</h2>
+  <ol>
+    <li>Foundation - LLMs, RAG and search</li>
+    <li>RAG use cases - FAQ assistants, document Q&A, different data sources</li>
+    <li>AI agents - function calling, tool use, agent frameworks</li>
+    <li>Testing - tests for agents, LLM-as-judge, cost tracking</li>
+    <li>Monitoring - logging, tracing, OpenTelemetry, Grafana</li>
+    <li>Evaluation - offline eval, synthetic data, prompt optimization</li>
+    <li>Production - deployment, guardrails, end-to-end project</li>
+  </ol>
+</section>
+
+<!-- Skills by priority -->
+<section>
+  <h2>Skills by Priority</h2>
+  <table>
+    <tr><th>Must have</th><th>High value</th></tr>
+    <tr><td>Python</td><td>Agent frameworks</td></tr>
+    <tr><td>Prompt engineering</td><td>TypeScript</td></tr>
+    <tr><td>RAG patterns</td><td>FastAPI</td></tr>
+    <tr><td>Cloud (AWS/Azure/GCP)</td><td>Kubernetes</td></tr>
+    <tr><td>Docker</td><td>CI/CD</td></tr>
+  </table>
+</section>
+
+<!-- Role-specific transitions -->
+<section>
+  <h2>Transition Guides</h2>
+  <table>
+    <tr><th>From</th><th>Difficulty</th><th>Key advantage</th></tr>
+    <tr><td>ML Engineer</td><td>Easiest</td><td>Replace model call with API call</td></tr>
+    <tr><td>Data Engineer</td><td>Smooth (3-4 mo)</td><td>Pipelines directly relevant to RAG</td></tr>
+    <tr><td>Backend Engineer</td><td>Smooth (2-3 mo)</td><td>Add AI on top of engineering</td></tr>
+    <tr><td>Data Scientist</td><td>Moderate</td><td>Evaluation is your superpower</td></tr>
+    <tr><td>Frontend Engineer</td><td>Longer path</td><td>Full-stack end-to-end advantage</td></tr>
+  </table>
+  <p><br><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide/tree/main/learning-paths">github.com/.../learning-paths/</a></p>
+</section>
+
+<!-- End -->
+<section>
+  <h2>AI Engineering Field Guide</h2>
+  <p><a href="https://github.com/alexeygrigorev/ai-engineering-field-guide">github.com/alexeygrigorev/ai-engineering-field-guide</a></p>
+  <p>&#11088; Star the repo to keep an eye on updates</p>
+  <br>
+  <p>Newsletter: <a href="https://alexeyondata.substack.com/">alexeyondata.substack.com</a></p>
+</section>
+
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+Reveal.initialize({
+  hash: true,
+  slideNumber: true,
+  transition: 'slide',
+  width: 1200,
+  height: 700,
+});
+</script>
+</body>
+</html>
