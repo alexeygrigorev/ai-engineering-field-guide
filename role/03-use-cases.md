@@ -2,6 +2,8 @@
 
 Based on 4,525 extracted use cases from 895 job descriptions.
 
+**Methodology note:** I collected all use cases into a single file and used AI (Claude) to analyze and categorize them. This is not a quantitative analysis like the [skills analysis](01-skills.md) (see the [analysis notebook](../job-market/analysis.ipynb) for that) - it's based on the questions I asked and the patterns Claude identified in the data. It may be less precise, but I believe it's still representative of what's happening in the market.
+
 ## Summary
 
 The use cases reveal what companies are actually building with AI today. This is the real-world application landscape that AI Engineers work on daily.
