@@ -1,64 +1,113 @@
-# AI Engineering Interview Research
+# AI Engineering Field Guide
 
-Research into AI engineering interview assignments, take-home challenges, and hiring practices from Q4 2025 / Q1 2026.
+A practical guide to AI engineering - learning paths, job market insights, interview preparation, and real-world patterns.
 
+Based on research from 895+ job descriptions and 65+ interview assignments from Q4 2025 / Q1 2026.
 
-## Job Scraper Setup
+---
 
-### Built In Job Scraper (with Oxylabs proxy)
+## Quick Start
 
-Built In is server-side rendered - no JavaScript/Playwright needed!
+New to AI Engineering? Start here:
 
-#### Setup on GitHub Codespace
+- **[What is AI Engineering?](jobs/analysis_role_research.md)** - Understanding the role landscape
+- **[Learning Path](jobs/analysis_skills.md#learning-path-for-ai-engineers)** - Skills you need to learn
+- **[Interview Prep](interviews/interview.md)** - What to expect in the interview loop
 
-1. **Create Codespace**: https://github.com/alexeygrigorev/ai-engineer-research → Code → Codespaces → Create
+---
 
-2. **Add .env file** (via SSH):
-```bash
-gh codespace ssh
-cat > .env << 'EOF'
-OXYLABS_ENDPOINT='pr.oxylabs.io:7777'
-OXYLABS_USER='user'
-OXYLABS_PASSWORD='pass'
-EOF
+## Contents
+
+### Roadmaps & Learning
+
+| Topic | Description |
+|-------|-------------|
+| [Skills Analysis](jobs/analysis_skills.md) | What skills are in demand (RAG, agents, frameworks, cloud) |
+| [Role Types](jobs/analysis_role_research.md) | AI-First vs AI-Support vs ML roles - which fits you? |
+| [Responsibilities](jobs/analysis_responsibilities.md) | What AI Engineers actually do day-to-day |
+| [Use Cases](jobs/analysis_use_cases.md) | Common patterns: RAG, agents, fine-tuning |
+
+### Interview Prep
+
+| Topic | Description |
+|-------|-------------|
+| [Interview Process](interviews/interview.md) | Loop structure, common questions, company experiences |
+| [Take-Home Assignments](interviews/take-home/) | Real interview assignments with solutions |
+| [Trends Analysis](interviews/analysis_trends.md) | How interviews are evolving in 2026 |
+| [Assignment Methodology](challenges/methodology.md) | How we research and categorize assignments |
+
+### Job Market
+
+Based on analysis of 895 job postings from January 2026:
+
+- **70%** work directly on AI (RAG, agents)
+- **93%** need skills beyond just GenAI
+- **35.9%** mention RAG - the most common pattern
+- **64.3%** require some ML knowledge
+- **AWS > Azure > GCP** in cloud preferences
+
+See full analysis: [Skills & Market Data](jobs/analysis_skills.md)
+
+---
+
+## Key Insights
+
+### The Two Patterns That Matter
+
+> **RAG + Agents = 70%+ of AI Engineering work**
+
+If you learn these two patterns deeply, you can handle most AI engineering use cases.
+
+- **RAG** - Connect LLMs to your data (documents, databases)
+- **Agents** - LLMs that use tools to accomplish tasks
+
+### AI Engineers Are Full-Stack
+
+Only 1.4% of roles expect pure GenAI work. Most need:
+
+- **Cloud** - AWS, Azure, or GCP
+- **Ops** - Docker, Kubernetes, CI/CD
+- **Web** - React, FastAPI (for 50%+ of roles)
+- **Python** is mandatory (82.5% of jobs)
+
+### Three Types of "AI Engineer" Roles
+
+| Type | What They Build | % of Jobs |
+|------|-----------------|-----------|
+| **AI-First** | RAG systems, agents, fine-tuned LLMs | 69.4% |
+| **AI-Support** | Platforms, infrastructure, tooling | 28.5% |
+| **ML** | Traditional ML/DL (rebranded) | 1.8% |
+
+---
+
+## Learning Path
+
+```
+Foundation
+    Python, APIs, basic web (FastAPI/React)
+        ↓
+LLM Basics
+    Prompt engineering, OpenAI/Anthropic APIs
+        ↓
+Core Patterns
+    RAG (vector DBs, embeddings)
+    Agents (LangGraph, orchestration)
+        ↓
+Production
+    Docker, Kubernetes, CI/CD, monitoring
 ```
 
-3. **Install dependencies**:
-```bash
-uv sync
-```
+[Full learning guide](jobs/analysis_skills.md#learning-path-for-ai-engineers)
 
-#### Run Scraper
+---
 
-```bash
-# 1. Download all job HTMLs (1,416 jobs, retries=3)
-uv run python scrapers/download_all_html.py
+## Contributing
 
-# 2. Extract all HTML files to YAML
-uv run python scrapers/extract_from_html.py --all
+This is a research repository. Contributions welcome:
+- Additional interview experiences
+- New take-home assignment examples
+- Corrections and updates
 
-# 3. Extract a single HTML file
-uv run python scrapers/extract_from_html.py jobs/raw/file.html
-```
-
-**Output:** `jobs/extracted/*.yaml`
-
-**YAML fields:**
-```yaml
-title: Senior AI/Data Engineer
-company: WorkWave
-location: USA
-work_type: FULL_TIME
-level: Expert/Leader
-skills: [Python, AWS, Airflow, dbt]
-company_size: 1,000 Employees
-compensation: $160,000 - $180,000/year
-description: |
-  Full job description with line breaks preserved...
-posted_date: 2026-01-18
-url: https://builtin.com/job/...
-source: Built In
-```
-
+---
 
 *Last updated: February 2026*
