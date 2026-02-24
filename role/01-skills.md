@@ -428,6 +428,8 @@ Full-stack expectations:
 - Backend skills - 308/621 (49.6%)
 - Full-stack (both) - 134/621 (21.6%)
 
+Production/ops skills appear in 50.2% of AI-First roles. "deploy" appears in 565 of 5,694 responsibilities, "monitor" in 258.
+
 Bottom Line: AI Engineers are full-stack engineers who specialize in AI. Only 1.4% of roles expect pure GenAI work. Most need cloud deployment (AWS/Azure/GCP), containerization (Docker, K8s), CI/CD, and often web development (React, FastAPI).
 
 
@@ -465,6 +467,13 @@ Bottom Line
 - Fine-tuning is optional for most AI Engineers.
 - Focus on RAG and agents first. 
 - Learn fine-tuning if targeting domain-specific roles (healthcare, finance, legal), performance optimization roles, or specialized model development.
+
+
+## Evaluation Skills
+
+39.6% of AI-First roles explicitly require evaluation-related skills (model evaluation, monitoring, observability, testing, quality). Evaluation appears in 69 jobs (11.1%) as an explicit ML skill, but the real demand is broader - it shows up across responsibilities, not just skill lists.
+
+This is the emerging differentiator. RAG and agents are becoming baseline expectations. The ability to measure whether an AI system actually works - LLM-as-judge, golden datasets, hallucination detection, drift monitoring - is what separates candidates.
 
 
 ## Key Insight: RAG + Agents = 70%+ of Use Cases
