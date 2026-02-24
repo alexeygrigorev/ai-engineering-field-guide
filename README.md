@@ -17,13 +17,14 @@ It's a work in progress, and I'm actively adding more content. Your input is ver
 
 ## The AI Engineer Role
 
-Analysis of what AI engineers actually do, based on the job market data below.
+- [My vision of the role](role/01-my-vision.md) - how I see AI engineering, comparison with DS/ML/DE roles, CRISP-DM for AI
 
-- [Skills analysis](role/01-skills.md) - top skills, job types, cloud platforms, frameworks
-- [Responsibilities](role/02-responsibilities.md) - 5,694 extracted responsibilities across 895 jobs
-- [Use cases](role/03-use-cases.md) - 4,525 real use cases showing what companies build with AI
-- [Reality vs. job postings](role/04-reality-vs-postings.md) - what candidates experience vs. what's advertised
-- [Learning path](role/05-learning-path.md) - what to learn and in what order
+Analysis of what AI engineers actually do, based on 895 job descriptions:
+
+- [Skills analysis](role/02-skills.md) - top skills, job types, cloud platforms, frameworks
+- [Responsibilities](role/03-responsibilities.md) - 5,694 extracted responsibilities across 895 jobs
+- [Use cases](role/04-use-cases.md) - 4,525 real use cases showing what companies build with AI
+- [Reality vs. job postings](role/05-reality-vs-postings.md) - what candidates experience vs. what's advertised
 
 Key findings
 
@@ -33,6 +34,21 @@ Key findings
 - Python (82.5%), AWS (40.1%), Docker (31.0%) are the top skills
 - 64.3% of roles still require some ML knowledge
 - Only 1.4% of roles expect pure GenAI work
+
+
+## Learning Paths
+
+- [General learning path](learning-paths/) - what to learn and in what order
+- [From Data Engineer](learning-paths/from-data-engineer.md) - smoothest transition, 3-4 months
+- [From Data Scientist](learning-paths/from-data-scientist.md) - evaluation is your superpower, add engineering
+- [From ML Engineer](learning-paths/from-ml-engineer.md) - easiest transition, replace model call with API call
+- [From Backend Engineer](learning-paths/from-backend-engineer.md) - 2-3 months, add AI on top of engineering
+- [From Frontend Engineer](learning-paths/from-frontend-engineer.md) - backend first, then AI, unique full-stack advantage
+
+
+## Portfolio
+
+- [Project ideas](portfolio/) - real project examples that demonstrate AI engineering skills
 
 
 ## Job Market Data

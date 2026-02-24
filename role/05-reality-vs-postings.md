@@ -2,6 +2,10 @@
 
 Based on what candidates actually experience in the market. Complements the quantitative job analysis with qualitative insights from people's stories.
 
+![Event series announcement and a response from @thewhychain about the gap between job descriptions and actual AI engineer work](../assets/images/event-series-tweet.jpg)
+
+From Dmitrii Malakhov ([@thewhychain](https://x.com/thewhychain)): "hired for 'AI engineer' roles twice. the job description said RAG and embeddings. the job turned out to be 80% prompt engineering + glue code + monitoring. the 1500 JDs probably have the same problem - they describe ambition, not what you do all day"
+
 
 ## AI Engineer vs ML Engineer: The Confusion
 
