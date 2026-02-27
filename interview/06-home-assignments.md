@@ -356,15 +356,15 @@ Reddit story (r/developpeurs, Jan 2026): one candidate was asked to build an LLM
 
 From a developer's retrospective on their first take-home code challenge ([source](https://dev.to/aidiri/learn-from-my-mistakes-my-first-take-home-code-challenge-778)):
 
-1. **Ask questions** -- asking clarifying questions after receiving the challenge demonstrates communication skills and prevents costly mistakes
-2. **Double your time estimate** -- Hofstadter's Law applies: work always takes longer than expected, even when you account for that
-3. **Hold yourself to an earlier deadline** -- tell the interviewer you need the full time, but privately commit to finishing sooner (Parkinson's Law: work expands to fill available time)
-4. **Emulate the company's brand** -- copy the company's existing style rather than spending excessive time on design
-5. **Stop searching for the "perfect" way** -- trust your knowledge and implement solutions you understand rather than endlessly seeking ideal approaches
-6. **Test your code** -- even if testing isn't explicitly required, include basic tests; interviewers often ask about them
-7. **Comment your code** -- clear, concise comments explaining function purposes and logic demonstrate your thought process
-8. **Stop doubting yourself** -- whether your code suffices is the interviewer's judgment, not yours
-9. **Don't spend excessive time** -- recognize when additional effort yields diminishing returns
+1. Ask questions -- asking clarifying questions after receiving the challenge demonstrates communication skills and prevents costly mistakes
+2. Double your time estimate -- Hofstadter's Law applies: work always takes longer than expected, even when you account for that
+3. Hold yourself to an earlier deadline -- tell the interviewer you need the full time, but privately commit to finishing sooner (Parkinson's Law: work expands to fill available time)
+4. Emulate the company's brand -- copy the company's existing style rather than spending excessive time on design
+5. Stop searching for the "perfect" way -- trust your knowledge and implement solutions you understand rather than endlessly seeking ideal approaches
+6. Test your code -- even if testing isn't explicitly required, include basic tests; interviewers often ask about them
+7. Comment your code -- clear, concise comments explaining function purposes and logic demonstrate your thought process
+8. Stop doubting yourself -- whether your code suffices is the interviewer's judgment, not yours
+9. Don't spend excessive time -- recognize when additional effort yields diminishing returns
 
 ### Using LLMs to practice for technical interviews
 
@@ -378,7 +378,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### RAG & Document Q&A
 
-**1. Blood test report processor with web-sourced suggestions**
+1. Blood test report processor with web-sourced suggestions
 - What to build: An AI project that takes a blood test report as a PDF, understands the medical issues, and generates suggestions by fetching content from online blog articles with source links
 - Time limit: A few hours (submitted same day)
 - Company: Gen AI startup (unnamed)
@@ -386,7 +386,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Speed of execution, ability to learn new frameworks on the fly, working end-to-end solution
 - Source: [Medium - Khushal Kumar](https://medium.com/@khushalkumar/my-generative-ai-engineer-interview-experience-got-hired-f8a027e070b0)
 
-**2. Production-ready RAG customer support chatbot (system design + implementation)**
+2. Production-ready RAG customer support chatbot (system design + implementation)
 - What to build: Design a production-ready customer support chatbot using RAG with open-source models. Must handle 100+ concurrent users, ground responses in company documentation (no hallucinations), keep latency under 2 seconds, track analytics on query types and user satisfaction, and remain cost-effective
 - Time limit: Not specified
 - Company: LLM engineer role (unnamed)
@@ -394,7 +394,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Architecture diagram, model selection justification, RAG implementation details, deployment strategy with infrastructure, monitoring/evaluation plan, cost estimation. Candidate scored 9/10
 - Source: [Dev.to - Mai Chi Bao](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
 
-**3. Document Q&A system with citation tracking for multi-hop questions**
+3. Document Q&A system with citation tracking for multi-hop questions
 - What to build: Create a document Q&A system that tracks citations across multi-hop questions (questions that require combining information from multiple documents)
 - Time limit: Not specified (take-home)
 - Company: Recommended by PromptLayer as standard AI engineer assessment
@@ -402,7 +402,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Working functionality and thoughtful architecture over perfect accuracy; meaningful evaluation implementation is essential
 - Source: [PromptLayer blog](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
 
-**4. CLI tool for summarizing long PDFs with configurable models and chunking**
+4. CLI tool for summarizing long PDFs with configurable models and chunking
 - What to build: A CLI tool for summarizing long PDFs, including a config file so the hiring manager could test different models and chunking strategies
 - Time limit: Not specified (take-home)
 - Company: AI startup (unnamed)
@@ -410,7 +410,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Polish, documentation, configurability. The candidate who built this had two competing offers within 72 hours
 - Source: [Medium - Fonzi AI / Sammi Cox](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4)
 
-**5. AI-powered feature or tool using an LLM API**
+5. AI-powered feature or tool using an LLM API
 - What to build: Choice of (A) building a small AI-powered feature or tool (intelligent search, summarization, validation, or assistant-style workflow) using an LLM API, or (B) contributing a small, scoped AI-related pull request or prototype demonstrating applied AI integration in an existing codebase
 - Time limit: 2-3 hours (time-boxed)
 - Company: FlowFuse
@@ -422,7 +422,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Agents & Workflows
 
-**6. AI agent demonstrating agentic behavior and reasoning**
+6. AI agent demonstrating agentic behavior and reasoning
 - What to build: Build an AI agent that demonstrates natural interaction, agentic behavior, clear reasoning steps, and strong technical decision-making. Candidates were given two assignment options and asked to choose one
 - Time limit: 3-day window (given Nov 21, due Nov 24 at 2 PM)
 - Company: Eightfold.ai (Agentic AI Engineering Intern)
@@ -430,7 +430,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Agentic behavior, reasoning clarity, alignment between personal AI projects and the role
 - Source: [Medium - Tushar Bhardwaj](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
 
-**7. Agent with CSV data for personalized email campaigns**
+7. Agent with CSV data for personalized email campaigns
 - What to build: Build an agent that reads customer CSV data and generates personalized email campaigns with evaluation metrics
 - Time limit: Not specified (take-home)
 - Company: Recommended by PromptLayer as standard AI engineer assessment
@@ -438,7 +438,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Working functionality, thoughtful architecture, meaningful evaluation implementation
 - Source: [PromptLayer blog](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
 
-**8. Conversational calendar booking agent**
+8. Conversational calendar booking agent
 - What to build: A conversational calendar booking agent with LangGraph for orchestration, Streamlit chat interface, FastAPI backend, and Google Calendar integration. Must handle function calling, state management, and natural language scheduling
 - Time limit: 2-3 days
 - Company: Not specified (reported by candidates on Reddit/blogs)
@@ -446,7 +446,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Function calling implementation, state management, natural language understanding, API integration
 - Source: Candidate reports aggregated from Reddit and interview discussion sites
 
-**9. AI-first CRM module with agentic workflow**
+9. AI-first CRM module with agentic workflow
 - What to build: React/Redux frontend, FastAPI backend, LangGraph with 5+ tools. Deliverable includes GitHub repo plus a 10-15 minute demo video
 - Time limit: ~60 hours expected
 - Company: Not specified (AI startup)
@@ -454,7 +454,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Full-stack implementation, agentic tool orchestration, demo presentation quality
 - Source: Candidate reports aggregated from Reddit and interview discussion sites
 
-**10. LLM agent for financial report analysis with stock price charts**
+10. LLM agent for financial report analysis with stock price charts
 - What to build: Build an LLM agent to ingest years of financial reports, with stock price analysis and chart generation -- using only freemium APIs
 - Time limit: 72 hours (Round 1 assignment)
 - Company: Unnamed (candidate withdrew, calling it "an unpaid mini-consulting project")
@@ -466,7 +466,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Code Review & Refactoring
 
-**11. Refactor convoluted code for maintainability (OpenAI onsite)**
+11. Refactor convoluted code for maintainability (OpenAI onsite)
 - What to build: Given roughly 100-120 lines of intentionally convoluted, deeply nested code that works and passes its test cases. Refactor it for long-term maintainability while keeping existing tests green and extending to new test cases representing incoming requirements
 - Time limit: ~45-60 minutes (onsite round)
 - Company: OpenAI
@@ -474,7 +474,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Architectural judgment, code quality, ability to balance immediate functionality with long-term thinking. Described by one candidate as "one of the better rounds" because it tests judgment that AI tools struggle with
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 
-**12. Code review agent for Python files**
+12. Code review agent for Python files
 - What to build: Implement a code review agent that analyzes Python files and provides actionable feedback
 - Time limit: Not specified (take-home)
 - Company: Recommended by PromptLayer as standard AI engineer assessment
@@ -486,7 +486,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Data Processing & Pipelines
 
-**13. JSON parsing + AI summarization speed test (IBM)**
+13. JSON parsing + AI summarization speed test (IBM)
 - What to build: Parse a complicated JSON file to extract a specific part following a pattern, then feed that extracted data to an AI model to get a summary
 - Time limit: 30 minutes (live, during managerial round)
 - Company: IBM (AI Engineer, Watsonx team)
@@ -494,7 +494,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Speed, practical problem-solving under time pressure, ability to use tools effectively. The candidate got stuck at one point but kept going and finished in time
 - Source: [Medium - Khushal Kumar](https://medium.com/@khushalkumar/my-generative-ai-engineer-interview-experience-got-hired-f8a027e070b0)
 
-**14. OpenAI progressive coding assessment (credits management system)**
+14. OpenAI progressive coding assessment (credits management system)
 - What to build: A credits management system -- OpenAI grants credits to customers with different expiration rules and usage requirements. Write algorithms to track credit state across a series of issued and used credits. Four progressive gates of increasing difficulty; clearing two gates is the passing bar
 - Time limit: ~60 minutes (coding screen)
 - Company: OpenAI
@@ -502,7 +502,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Ability to reason through novel problems methodically; strong fundamentals over memorized patterns
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 
-**15. Anthropic online assessment: progressive database operations**
+15. Anthropic online assessment: progressive database operations
 - What to build: One question divided into four progressive levels. Level 1: basic database operations (SET, GET, DELETE) managing key-field-value pairs. Level 2: SCAN and SCAN_BY_PREFIX operations returning formatted field lists in alphabetical order. Level 3: timestamped operations and TTL (time-to-live), requiring backward compatibility. Level 4: file compression/decompression with user storage management and ownership validation
 - Time limit: 90 minutes (online assessment)
 - Company: Anthropic
@@ -510,7 +510,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Code extensibility, backward compatibility, correctness under increasingly complex requirements
 - Source: [LinkJob.ai - Anthropic interview](https://www.linkjob.ai/interview-questions/anthropic-software-engineer-interview/)
 
-**16. Real-world integration/tooling project (Column Tax)**
+16. Real-world integration/tooling project (Column Tax)
 - What to build: A project that mirrors the kind of integration or tooling work the company does every day. Full freedom to do it your way
 - Time limit: ~3 hours
 - Company: Column Tax (Software Engineer, Applied AI)
@@ -522,7 +522,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### ML Model Tasks (Training, Fine-Tuning, Evaluation)
 
-**17. Anthropic performance optimization take-home (now open-sourced)**
+17. Anthropic performance optimization take-home (now open-sourced)
 - What to build: Optimize a kernel implementation for a simulated VLIW SIMD processor to minimize clock cycles. The task is a parallel tree traversal inspired by branchless SIMD decision tree inference. Baseline starts at 18,532 cycles (2-hour version) or 147,734 cycles (original 4-hour version)
 - Time limit: Originally 4 hours, later reduced to 2 hours. Now open-sourced with unlimited time
 - Company: Anthropic
@@ -530,7 +530,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Performance optimization skills. Benchmark: Claude Opus 4.5 achieved 1,487 cycles (99x speedup from baseline); best human performance "substantially better." If you beat 1,487 cycles, Anthropic wants to hear from you (performance-recruiting@anthropic.com)
 - Source: [GitHub - anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)
 
-**18. Improve a sentiment classifier while maintaining interpretability (OpenAI-style)**
+18. Improve a sentiment classifier while maintaining interpretability (OpenAI-style)
 - What to build: Given a sentiment classifier with 80% baseline accuracy, improve it while maintaining interpretability. Emphasis on sarcasm detection edge cases
 - Time limit: Not specified (take-home)
 - Company: OpenAI (reported by InterviewNode)
@@ -538,7 +538,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Diagnostic analysis of misclassifications, feature engineering with embeddings, trade-off analysis between performance and explainability, bias detection. Best submissions framed improvements as scientific hypotheses
 - Source: [InterviewNode](https://interviewnode.com/post/cracking-ml-take-home-assignments-real-examples-and-best-practices)
 
-**19. User retention prediction model (Meta-style)**
+19. User retention prediction model (Meta-style)
 - What to build: Build a model to predict whether a user will remain active after 30 days, given anonymized engagement data for a social media app
 - Time limit: Not specified (take-home)
 - Company: Meta (reported by InterviewNode)
@@ -546,7 +546,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Problem definition clarity, EDA and behavioral distribution analysis, model selection, metric choice tied to business impact, communication in plain English. Winners connected model metrics to user engagement strategies rather than chasing raw accuracy
 - Source: [InterviewNode](https://interviewnode.com/post/cracking-ml-take-home-assignments-real-examples-and-best-practices)
 
-**20. Demand forecasting model (Amazon-style)**
+20. Demand forecasting model (Amazon-style)
 - What to build: Forecast product demand for the next quarter using historical sales and marketing data
 - Time limit: Not specified (take-home)
 - Company: Amazon (reported by InterviewNode)
@@ -554,7 +554,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Feature engineering (lag features, rolling averages, calendar encoding), model interpretability via SHAP values, business-aware metrics (MAPE, RMSE with overstock/understock trade-off), scalability considerations. Top submissions treated code as production-ready with structured folders (src/, notebooks/) and comprehensive README
 - Source: [InterviewNode](https://interviewnode.com/post/cracking-ml-take-home-assignments-real-examples-and-best-practices)
 
-**21. Anthropic alignment research exploration**
+21. Anthropic alignment research exploration
 - What to build: Given access to Anthropic's API, explore the system "like it was a mysterious black box" inspired by some research or blog post, then present findings
 - Time limit: 5 hours, followed by a presentation call
 - Company: Anthropic (alignment-focused role)
@@ -562,7 +562,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Research creativity, ability to form and test hypotheses about model behavior, presentation quality
 - Source: [Blog - Goncharov](https://blog.goncharov.page/i-failed-my-anthropic-interview-and-came-to-tell-you-all-about-it-so-you-dont-have-to)
 
-**22. Reproduce a research paper or write pseudo-working implementation**
+22. Reproduce a research paper or write pseudo-working implementation
 - What to build: At some US-based AI startups, candidates interviewing for AI Research Engineer roles were asked not just to report and critique research papers, but to reproduce one of the assigned papers or write a pseudo-working implementation of the problem solved in the paper
 - Time limit: Not specified (take-home)
 - Company: US-based AI startups (unnamed)
@@ -574,7 +574,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Live Coding / Speed Tests
 
-**23. OpenAI 48-hour take-home project**
+23. OpenAI 48-hour take-home project
 - What to build: Not described in detail (project-based, not puzzle-based), followed by virtual onsite with versioned key-value store, One-NN implementation, feedforward neural network implementation, transformer bug-fixing (position embedding and KV cache issues), and PyTorch code completion
 - Time limit: 48-hour window for take-home; virtual onsite is 5 rounds in one day
 - Company: OpenAI
@@ -582,7 +582,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: "Relentless pursuit of depth," real-world problem approach, how candidates think through open-ended problems step by step
 - Source: [LinkJob.ai - OpenAI loop interview](https://www.linkjob.ai/interview-questions/openai-loop-interview)
 
-**24. Design the OpenAI Playground (system design with frontend/UX focus)**
+24. Design the OpenAI Playground (system design with frontend/UX focus)
 - What to build: Design the OpenAI Playground -- specifically the feature that lets developers simulate full conversations and threads. Focus on frontend and UX design: drawing wireframes, thinking through developer workflow, reasoning about product questions like thread history, remixing past conversations, and making the API intuitive. Backend infrastructure and model serving are abstracted away
 - Time limit: ~45-60 minutes (phone screen)
 - Company: OpenAI
@@ -590,7 +590,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Product thinking blended with technical architecture, scope management, clarifying questions, UX reasoning
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 
-**25. Convert synchronous report generation to async (live coding with AI agent)**
+25. Convert synchronous report generation to async (live coding with AI agent)
 - What to build: Given a gRPC service with a synchronous report generation process causing client timeouts, diagnose the bottleneck using an AI coding agent (Claude Code), then implement the conversion to asynchronous processing. Follow-up: handle failure scenarios, scaling to 100 concurrent batch requests
 - Time limit: ~45 minutes (live)
 - Company: Unnamed (Exponent mock interview, but modeled on real-world interview patterns emerging in 2025-2026)
@@ -598,7 +598,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Three "gates": (1) understanding that async is the solution, (2) knowing where to place the async call, (3) handling scale with multi-threading/queues. Also evaluated: how candidates use AI responsibly -- understanding before implementing, not blindly pasting AI output
 - Source: [Exponent YouTube mock interview](https://www.youtube.com/watch?v=exponent-ai-coding-mock)
 
-**26. Real-world case study project (Melotech)**
+26. Real-world case study project (Melotech)
 - What to build: A real-world case study project that showcases your skills and working style. First step in the process -- no screen or intro call before this
 - Time limit: Not specified
 - Company: Melotech (AI/ML Engineer + Intern)
@@ -610,7 +610,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Full-Stack AI Apps
 
-**27. Build a project with Roboflow and present to CTO**
+27. Build a project with Roboflow and present to CTO
 - What to build: Build a project using Roboflow's product (computer vision platform), then present it in a 45-minute session to the company's CTO
 - Time limit: ~45 minutes for presentation (prep time unspecified but advance preparation expected)
 - Company: Roboflow (Full Stack Engineer, AI Agents)
@@ -618,7 +618,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Direct presentation to CTO; ability to build with the company's product, explain design choices, and demonstrate understanding of computer vision workflows
 - Source: Job description analysis, Roboflow listing
 
-**28. ML/AI challenge showing pipeline thinking (boam)**
+28. ML/AI challenge showing pipeline thinking (boam)
 - What to build: Solve a real Boam-style ML/AI challenge that shows your modeling approach, pipeline thinking, and execution muscle
 - Time limit: Not specified
 - Company: boam (Applied AI Engineer)
@@ -630,7 +630,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Paid Work Trials
 
-**29. PostHog SuperDay (1-day paid work trial)**
+29. PostHog SuperDay (1-day paid work trial)
 - What to build: A full day of real work with the team, paid
 - Time limit: 1 day
 - Company: PostHog
@@ -638,7 +638,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: How candidates work in practice, collaboration, code quality in a real environment
 - Source: Job description analysis
 
-**30. Lorikeet ~2-day paid work trial**
+30. Lorikeet ~2-day paid work trial
 - What to build: Ship with the team for approximately 2 days, paid
 - Time limit: ~2 days
 - Company: Lorikeet
@@ -646,7 +646,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Ability to ship real code in a team context
 - Source: Job description analysis
 
-**31. Infinity Constellation 1-week paid trial (replaces all traditional interviews)**
+31. Infinity Constellation 1-week paid trial (replaces all traditional interviews)
 - What to build: Build something real for a full week, paid. This replaces all traditional interview formats
 - Time limit: 1 week
 - Company: Infinity Constellation
@@ -654,7 +654,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Real output over interview performance
 - Source: Job description analysis
 
-**32. Fifth Dimension 1-week paid trial (alternative track)**
+32. Fifth Dimension 1-week paid trial (alternative track)
 - What to build: Paid 1-week trial as an alternative to the standard interview pipeline
 - Time limit: 1 week
 - Company: Fifth Dimension
@@ -662,7 +662,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Work output during the trial period
 - Source: Job description analysis
 
-**33. CompuGroup Medical US 3-month stipended internship**
+33. CompuGroup Medical US 3-month stipended internship
 - What to build: 3-month stipended internship with performance-based conversion to full-time
 - Time limit: 3 months
 - Company: CompuGroup Medical US
@@ -674,7 +674,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### System Design Presentations (Hybrid Take-Home + Live)
 
-**34. Present your most technically challenging project (OpenAI)**
+34. Present your most technically challenging project (OpenAI)
 - What to build: Prepare slides and present your most technically challenging past project in a 45-minute discussion with a peer engineer. Not designing something new -- showing deep ownership of something you built
 - Time limit: 45 minutes (presentation + Q&A)
 - Company: OpenAI (mandatory for L5/Staff+ roles)
@@ -700,9 +700,9 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 
 ### Key Patterns Across All Assignments
 
-**AI tools policy**: The trend is shifting toward explicitly allowing AI tools. OpenAI allows AI during coding rounds (must narrate reasoning). IBM allowed browser + ChatGPT during a live speed test. FlowFuse explicitly encourages AI tools. Emerging interview formats (like the Exponent mock) now provide AI coding agents and evaluate how candidates use them.
+AI tools policy: The trend is shifting toward explicitly allowing AI tools. OpenAI allows AI during coding rounds (must narrate reasoning). IBM allowed browser + ChatGPT during a live speed test. FlowFuse explicitly encourages AI tools. Emerging interview formats (like the Exponent mock) now provide AI coding agents and evaluate how candidates use them.
 
-**What consistently differentiates top submissions**:
+What consistently differentiates top submissions:
 - Working end-to-end solutions over partial perfection
 - Documentation of design decisions and tradeoffs
 - Loom/video walkthroughs of the submission
@@ -711,7 +711,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Production-readiness signals (error handling, monitoring, deployment)
 - Connecting technical metrics to business outcomes
 
-**Common pitfalls reported by evaluators**:
+Common pitfalls reported by evaluators:
 - Rushing take-homes without documenting decisions
 - Over-engineering (building more than asked for without justification)
 - Ignoring evaluation/testing of AI outputs

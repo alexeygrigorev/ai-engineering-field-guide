@@ -2,7 +2,7 @@
 
 Case study interviews test how you think about approaching a problem, not how you implement it. They are similar to home assignments but without code -- a discussion on how you would approach a problem.
 
-**Case study vs. system design**: Case studies focus on formulating the problem and the approach -- understanding requirements, asking clarifying questions, proposing a methodology, and reasoning about trade-offs. System design interviews (see [AI System Design](05-ai-system-design.md)) are about concrete technical implementation where you draw architecture diagrams, specify components, and discuss scaling.
+Case study vs. system design: Case studies focus on formulating the problem and the approach -- understanding requirements, asking clarifying questions, proposing a methodology, and reasoning about trade-offs. System design interviews (see [AI System Design](05-ai-system-design.md)) are about concrete technical implementation where you draw architecture diagrams, specify components, and discuss scaling.
 
 ## What to Expect
 
@@ -28,29 +28,3 @@ These are "how would you approach X?" questions reported by candidates -- they f
 - How would you surface model limitations or errors to users without breaking trust? ([igotanoffer](https://igotanoffer.com/en/advice/generative-ai-system-design-interview))
 - How would you design the UX for an AI assistant that is often slow? ([igotanoffer](https://igotanoffer.com/en/advice/generative-ai-system-design-interview))
 - What are major scaling challenges for LLM-powered applications? ([System Design Handbook](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/))
-
-## Four GenAI System Design Patterns
-
-According to InterviewNode, most GenAI system design interviews follow four repeatable patterns that cover 80-90% of questions ([source](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know)):
-
-1. **RAG (Retrieval-Augmented Generation)** - The most common pattern (2025-2026). Tests system orchestration and grounding accuracy. Senior candidates distinguish themselves by balancing constraints, not just describing components
-2. **Feedback and reinforcement systems** - "How does it get better over time?" Used by OpenAI, Anthropic, and Meta AI. Tests RLHF understanding, implicit/explicit feedback signals, active learning loops
-3. **Hallucination mitigation** - Every senior GenAI role includes at least one hallucination-focused question. Strong answers cover retrieval-grounded pipelines, confidence estimation based on retrieval density and token entropy, source transparency
-4. **Scalability and cost optimization** - Tests engineering realism. Strong answers discuss multi-layer caching (retrieval, prompt, response), model tiering (small distilled model for routine requests, large LLM for high-impact), prompt compression, dynamic throttling
-
-## Common Mistakes in GenAI System Design
-
-Red flags identified by interviewers ([source](https://igotanoffer.com/en/advice/generative-ai-system-design-interview)):
-
-- **Treating the LLM like a source of truth** instead of grounding with retrieval, tools, or citations
-- **Skipping evaluation/monitoring** -- signals lack of production readiness
-- **Defaulting to fine-tuning too early** without considering prompting, retrieval, or tools first
-- **Ignoring safety and abuse vectors** -- prompt injection, data leakage, unsafe tool execution
-- **Overlooking latency and cost** -- designing as if model calls are unlimited
-- **Not addressing failure modes** -- avoiding discussion of what breaks and how the system degrades
-
-Additional pitfalls from practitioner reports ([source](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know)):
-
-- **Over-indexing on tools** -- mentioning LangChain without explaining why you chose it
-- **Under-explaining data flow** -- omitting how retrieved context is validated or cached
-- **Forgetting evaluation** -- never mentioning post-deployment quality measurement

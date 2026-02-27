@@ -26,7 +26,7 @@ OpenAI looks for evidence you can "own work completely, deliver without heavy pr
 Many companies require a presentation round - not just research roles. Mimansa Jaiswal reports presentations across multiple role types at Big Tech companies. OpenAI's presentation round is 45 minutes presenting your most technically challenging project to a peer engineer, with very specific technical follow-ups ("Is there an actual eval framework here, or is it vibes-based?"). Choose a project that demonstrates ownership; recent and greenfield is better ([sources](https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-fall-2024-process/), [Exponent](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c))
 
 ### OpenAI's two behavioral rounds at staff level
-OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The **Leadership** round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level -- leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The **Collaboration** round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments ([source](https://www.hellointerview.com/guides/openai/l5))
+OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The Leadership round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level -- leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The Collaboration round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments ([source](https://www.hellointerview.com/guides/openai/l5))
 
 ### The first five minutes decide everything
 From observing 50+ AI engineer interviews at top startups: engineers with strong resumes fall flat in the opening minutes, while bootcamp grads crush it by immediately framing experience around impact. The best openers sound like: "At my last job, I built a RAG pipeline to reduce customer support response time by 40%. Happy to dive into how we structured it." No buzzwords, no model names -- just clear value. Hiring managers want to know two things immediately: can you solve real problems with LLMs, and can you explain your thinking clearly? ([source](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4))
@@ -46,9 +46,9 @@ When interviewing at AI startups, demonstrating business awareness during behavi
 ## STAR vs SAIL
 
 Two common frameworks for structuring behavioral answers:
-- **STAR**: Situation, Task, Action, Result - widely used, well-known
-- **SAIL**: Situation, Action, Impact, Learning - recommended by [Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/) for mapping responses to company values
-- **SPSIL**: Situation, Problem, Solution, Impact, Lessons - recommended by [IGotAnOffer](https://igotanoffer.com/en/advice/openai-interview-questions) for OpenAI interviews
+- STAR: Situation, Task, Action, Result - widely used, well-known
+- SAIL: Situation, Action, Impact, Learning - recommended by [Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/) for mapping responses to company values
+- SPSIL: Situation, Problem, Solution, Impact, Lessons - recommended by [IGotAnOffer](https://igotanoffer.com/en/advice/openai-interview-questions) for OpenAI interviews
 
 ## Comprehensive Question Bank
 

@@ -26,33 +26,50 @@ This is the list of resources I used while researching content for the [AI Engin
 - [How I Fought (and passed) Technical Interviews with LLMs in 2025](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-f328e9df8e84) - using LLMs to prepare for AI system design (RAG, vector DB, LLM serving)
 - [xAI Software Engineer Interview 2026 - Full Recap](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0) - pitfalls and real prep tips
 
+## Architecture Lessons and Patterns (2025-2026)
+
+- [DataA.dev: From AI Pilots to Production Reality](https://www.dataa.dev/2026/01/01/from-ai-pilots-to-production-reality-architecture-lessons-from-2025-and-what-2026-demands/) - 7/10 GenAI projects never made it past pilot, Jan 2026
+- [FlowHunt: Context Engineering Guide](https://www.flowhunt.io/blog/context-engineering/) - evolution from prompt to context engineering, 2025
+- [LangWatch: Ultimate RAG Blueprint 2025/2026](https://langwatch.ai/blog/the-ultimate-rag-blueprint-everything-you-need-to-know-about-rag-in-2025-2026)
+- [TensorZero: Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client)
+- [ML System Design Post-GenAI (Medium)](https://medium.com/machine-learning-system-design-post-genai/machine-learning-system-design-post-genai-part-1-071af68b0ce4)
+- [PromptLayer: Prompt Routers and Flow Engineering](https://blog.promptlayer.com/prompt-routers-and-flow-engineering-building-modular-self-correcting-agent-systems/)
+- [Alex Ewerlof: AI Systems Engineering Patterns](https://blog.alexewerlof.com/p/ai-systems-engineering-patterns) - 30 patterns, Nov 2025
+
+
+## Interview Question Collections
+
+- [TechEon: Complete Agentic AI Interview Guide 2026](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf) - agent architecture patterns, autonomy boundaries, memory systems, tool use, evaluation, Jan 2026
+- [KDnuggets: 10 Essential Agentic AI Interview Questions](https://www.kdnuggets.com/10-essential-agentic-ai-interview-questions-for-ai-engineers)
+- [DataCamp: Top 30 RAG Interview Questions for 2026](https://www.datacamp.com/blog/rag-interview-questions)
+- [DataCamp: Top 30 Agentic AI Interview Questions for 2026](https://www.datacamp.com/blog/agentic-ai-interview-questions)
+
+
 ## AI System Design Guides and Frameworks
 
 - [PromptLayer: The Agentic System Design Interview](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/) - Jared Zoneraich, how to evaluate AI engineers, July 2025
 - [Bhavishya Pandit: 7 Deep-Cut AI System Design Interview Questions](https://bhavishyapandit9.substack.com/p/7-deep-cut-ai-system-design-interview) - advanced real-world questions, July 2025
 - [Chip Huyen: Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) - definitive practitioner reference, 5-step architecture
 - [InterviewNode: Generative AI System Design Interview Patterns](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know) - repeatable blueprints, Nov 2025
-- [TechEon: Complete Agentic AI System Design Interview Guide 2026](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf) - Jan 2026
-- [System Design Handbook](https://www.systemdesignhandbook.com/) - guides on [GenAI](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/) (SCALED framework), [Agentic](https://www.systemdesignhandbook.com/guides/agentic-system-design/), [AI](https://www.systemdesignhandbook.com/guides/ai-system-design/), [LLM](https://www.systemdesignhandbook.com/guides/llm-system-design/), and [Anthropic](https://www.systemdesignhandbook.com/guides/anthropic-system-design-interview/) system design
+- [System Design Handbook](https://www.systemdesignhandbook.com/) - guides on [GenAI](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/), [Agentic Design](https://www.systemdesignhandbook.com/guides/agentic-system-design/), [AI](https://www.systemdesignhandbook.com/guides/ai-system-design/), [LLM](https://www.systemdesignhandbook.com/guides/llm-system-design/)
+- [Anthropic System Design Innterview](https://www.systemdesignhandbook.com/guides/anthropic-system-design-interview/) system design
 - [HelloInterview: OpenAI L5 Interview Guide](https://www.hellointerview.com/guides/openai/l5) - OpenAI-specific
 - [IGotAnOffer: Generative AI System Design Interview](https://igotanoffer.com/en/advice/generative-ai-system-design-interview) - Google, Apple, OpenAI questions
 - [Design Gurus](https://www.designgurus.io/) - guides on [OpenAI System Design](https://www.designgurus.io/blog/openai-system-design-interview-questions) and [RAG System Design](https://www.designgurus.io/blog/system-design-for-rag)
 
-## Company Official Interview Guides
 
-- [OpenAI: Interview Guide](https://openai.com/interview-guide/) - official, includes system design round details
-- [Doctolib: Tech Interview Guide](https://careers.doctolib.com/blog/hiring-advice/tech-interview-guide/) - official process
-- [Doctolib: Feature Building Interview](https://careers.doctolib.com/blog/hiring-advice/all-about-our-feature-building-interview/) - collaborative coding round
-- [Datadog: AI Guidelines](https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/) - AI use policy for candidates
-- [CDW: AI Applicant Notice](https://www.cdwjobs.com/pages/ai-applicant-notice) - AI use encouraged with guidelines
-- [Oscar Health: AI Guidelines](https://www.hioscar.com/careers/ai-guidelines) - AI acceptable for resumes, misrepresentation may disqualify
-- [Invisible Technologies: AI Interview Guidelines](https://invisibletech.ai/ai-interview-guidelines) - stage-by-stage AI policy
-- [Anthropic: Guidance on Candidates' AI Usage](https://www.anthropic.com/candidate-ai-guidance) - AI use policy for candidates
-- [Zapier: How to Collaborate with AI During Hiring](https://zapier.com/l/jobs/ai-at-zapier) - encourages AI tools with guidance
-- [AssemblyAI: Candidate AI Guidance](https://www.assemblyai.com/candidate-ai-guidance) - AI use policy for candidates
-- [SandboxAQ: AI in Interviews](https://www.sandboxaq.com/ai-in-interviews) - AI use policy for candidates
 
-## Company Engineering Blogs: AI Systems in Production
+
+## Case Studies and Engineering Blogs: AI Systems in Production
+
+### Case Study Collections
+
+- [Evidently AI: 800 ML/LLM System Design Case Studies](https://www.evidentlyai.com/ml-system-design) - 150+ companies, filterable
+- [GitHub: 500+ GenAI/LLM/ML Case Studies](https://github.com/themanojdesai/genai-llm-ml-case-studies) - 100+ companies
+- [GitHub: AI System Design Guide](https://github.com/ombharatiya/ai-system-design-guide) - living document
+- [GitHub: AIE Book Resources](https://github.com/chiphuyen/aie-book/blob/main/resources.md) - supporting materials for AI Engineering book
+- [ZenML: 287 LLMOps Case Studies](https://www.zenml.io/blog/llmops-in-production-287-more-case-studies-of-what-actually-works)
+
 
 ### Anthropic
 - [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) - workflows vs agents, composable patterns, Dec 2024
@@ -133,43 +150,23 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Google Cloud: Lessons from 2025 on Agents and Trust](https://cloud.google.com/transform/ai-grew-up-and-got-a-job-lessons-from-2025-on-agents-and-trust)
 - [Microsoft Build 2025: Open Agentic Web](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/)
 
-## Key Practitioner Voices
 
-- [Chip Huyen](https://huyenchip.com/) - author of "Designing ML Systems" and "AI Engineering," Stanford instructor
-- [Eugene Yan](https://eugeneyan.com/writing/llm-patterns/) - Anthropic, patterns for LLM-based systems, [how to interview](https://eugeneyan.com/writing/how-to-interview/)
-- [Shreya Shankar](https://www.sh-reya.com/) - AI evals researcher, [In Defense of AI Evals](https://www.sh-reya.com/blog/in-defense-ai-evals/)
-- [Hamel Husain](https://hamel.dev/blog/posts/evals/) - AI evals, former Airbnb/GitHub, [LLM Evals FAQ](https://hamel.dev/blog/posts/evals-faq/), [LLM-as-Judge](https://hamel.dev/blog/posts/llm-judge/)
-- [Swyx (Shawn Wang)](https://www.latent.space/p/ai-engineer) - Latent Space, [Agent Engineering](https://www.latent.space/p/agent)
-- [Andrej Karpathy: 2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) - Dec 2025
-- [Gergely Orosz: AI Engineering with Chip Huyen](https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen) - Pragmatic Engineer
-- [Gergely Orosz: Software Engineering with LLMs in 2025](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)
-- [Alex Ewerlof: AI Systems Engineering Patterns](https://blog.alexewerlof.com/p/ai-systems-engineering-patterns) - 30 patterns, Nov 2025
+## Company Official Interview Guides
 
-## Podcast Interviews
+- [OpenAI: Interview Guide](https://openai.com/interview-guide/) - official, includes system design round details
+- [Doctolib: Tech Interview Guide](https://careers.doctolib.com/blog/hiring-advice/tech-interview-guide/) - official process
+- [Doctolib: Feature Building Interview](https://careers.doctolib.com/blog/hiring-advice/all-about-our-feature-building-interview/) - collaborative coding round
+- [Datadog: AI Guidelines](https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/) - AI use policy for candidates
+- [CDW: AI Applicant Notice](https://www.cdwjobs.com/pages/ai-applicant-notice) - AI use encouraged with guidelines
+- [Oscar Health: AI Guidelines](https://www.hioscar.com/careers/ai-guidelines) - AI acceptable for resumes, misrepresentation may disqualify
+- [Invisible Technologies: AI Interview Guidelines](https://invisibletech.ai/ai-interview-guidelines) - stage-by-stage AI policy
+- [Anthropic: Guidance on Candidates' AI Usage](https://www.anthropic.com/candidate-ai-guidance) - AI use policy for candidates
+- [Zapier: How to Collaborate with AI During Hiring](https://zapier.com/l/jobs/ai-at-zapier) - encourages AI tools with guidance
+- [AssemblyAI: Candidate AI Guidance](https://www.assemblyai.com/candidate-ai-guidance) - AI use policy for candidates
+- [SandboxAQ: AI in Interviews](https://www.sandboxaq.com/ai-in-interviews) - AI use policy for candidates
 
-- [Paul Iusztin: AI Engineering Skill Stack, Agents, LLMOps, and How to Ship AI Products](https://datatalks.club/podcast/s23e01-ai-engineering-skill-stack-agents-llmops-and-how-to-ship-ai-products.html) - essential skills beyond API calls, portfolio advice, full-stack AI engineering (DataTalks.Club)
-- [Ranjitha Kulkarni: Building Agentic AI Systems - Tooling, Retrieval & Evaluation](https://datatalks.club/podcast/building-agentic-ai-engineering-tooling-retrieval-evaluation.html) - pragmatic agent engineering, context engineering, RAG trade-offs, agent evaluation methods (DataTalks.Club)
-- [Micheal Lanham: From Game AI to LLM Agents - 20-Year Evolution of Multi-Agent Systems](https://datatalks.club/podcast/from-game-ai-to-modern-ai-agents.html) - agent architecture patterns (sequential, orchestration, collaboration), evolutionary algorithms, career transition advice (DataTalks.Club)
-- [Getting a Data Science Job](https://www.youtube.com/watch?v=jYYR1fH8k7o) - full job search process: networking, applying, interview stages (theory, coding, case study, system design, behavioral), offer negotiation
-- [PropTech Founder: AI Engineer Interview Questions (From Senior AI Engineer)](https://www.youtube.com/watch?v=leXRiJ5TuQo) - interviewer who conducted 22+ interviews, triple dipper triangle (latency/cost/relevancy), HyDE retrieval
-- [Exponent: AI Coding Mock Interview with Senior FAANG Engineer](https://www.youtube.com/watch?v=C6CdzcU7I18) - live AI-assisted coding interview using Claude Code, interviewer evaluation rubric for AI tool usage
-- [Fahd Mirza: How-To Prepare for AI LLM Engineer Interview](https://www.youtube.com/watch?v=Zt-h5BiBWH0) - concepts asked at NVIDIA, Google, Amazon interviews
-- [Interview Kickstart: ML Mock Interview with Microsoft AI Engineer](https://www.youtube.com/watch?v=ZE_YEn-okfk) - real-time audio transcription system design, EM-level feedback
 
-## Market Data and Trends
 
-- [InterviewQuery: AI Interview Trends 2025](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025) - AI roles surged 240%, AI questions tripled since 2023
-- [LockedIn AI: LLM & AI Engineer Interview Questions in Silicon Valley](https://www.lockedinai.com/blog/llm-ai-engineer-interview-questions-silicon-valley) - OpenAI, Anthropic, Google, Scale AI
-- [InterviewNode: AI Interview Evolution 2026](https://www.interviewnode.com/post/ai-interview-evolution-what-2026-will-look-like-for-ml-engineers) - hybrid AI-human interviews
-
-## Architecture Lessons and Patterns (2025-2026)
-
-- [DataA.dev: From AI Pilots to Production Reality](https://www.dataa.dev/2026/01/01/from-ai-pilots-to-production-reality-architecture-lessons-from-2025-and-what-2026-demands/) - 7/10 GenAI projects never made it past pilot, Jan 2026
-- [FlowHunt: Context Engineering Guide](https://www.flowhunt.io/blog/context-engineering/) - evolution from prompt to context engineering, 2025
-- [LangWatch: Ultimate RAG Blueprint 2025/2026](https://langwatch.ai/blog/the-ultimate-rag-blueprint-everything-you-need-to-know-about-rag-in-2025-2026)
-- [TensorZero: Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client)
-- [ML System Design Post-GenAI (Medium)](https://medium.com/machine-learning-system-design-post-genai/machine-learning-system-design-post-genai-part-1-071af68b0ce4)
-- [PromptLayer: Prompt Routers and Flow Engineering](https://blog.promptlayer.com/prompt-routers-and-flow-engineering-building-modular-self-correcting-agent-systems/)
 
 ## Books
 
@@ -187,13 +184,42 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Lenny's Newsletter: Building Eval Systems](https://www.lennysnewsletter.com/p/building-eval-systems-that-improve-cec) - Shreya Shankar
 - [Lenny's Newsletter: Why AI Evals Are the Hottest New Skill](https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill)
 
-## Case Study Collections
 
-- [Evidently AI: 800 ML/LLM System Design Case Studies](https://www.evidentlyai.com/ml-system-design) - 150+ companies, filterable
-- [GitHub: 500+ GenAI/LLM/ML Case Studies](https://github.com/themanojdesai/genai-llm-ml-case-studies) - 100+ companies
-- [GitHub: AI System Design Guide](https://github.com/ombharatiya/ai-system-design-guide) - living document
-- [GitHub: AIE Book Resources](https://github.com/chiphuyen/aie-book/blob/main/resources.md) - supporting materials for AI Engineering book
-- [ZenML: 287 LLMOps Case Studies](https://www.zenml.io/blog/llmops-in-production-287-more-case-studies-of-what-actually-works)
+
+## Communities
+
+- [AI Shipping Labs](https://aishippinglabs.com/) - invite-only community for builders who ship AI projects, structured learning and peer collaboration
+- [DataTalks.Club](https://datatalks.club/) - community of 80,000+ data enthusiasts, free courses (ML Zoomcamp, LLM Zoomcamp), weekly events
+- [MLOps Community](https://mlops.community/) - ML/LLM Ops, AI engineering, agents, and production AI systems
+- [Hugging Face Discord](https://huggingface.co/discord-community) - 200,000+ members, open-source ML collaboration, paper discussions, project sharing
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Reddit's main ML community, paper discussions, industry news
+- [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community focused on running and fine-tuning open-source LLMs locally
+
+
+
+## Podcast Interviews
+
+- [Paul Iusztin: AI Engineering Skill Stack, Agents, LLMOps, and How to Ship AI Products](https://datatalks.club/podcast/s23e01-ai-engineering-skill-stack-agents-llmops-and-how-to-ship-ai-products.html) - essential skills beyond API calls, portfolio advice, full-stack AI engineering (DataTalks.Club)
+- [Ranjitha Kulkarni: Building Agentic AI Systems - Tooling, Retrieval & Evaluation](https://datatalks.club/podcast/building-agentic-ai-engineering-tooling-retrieval-evaluation.html) - pragmatic agent engineering, context engineering, RAG trade-offs, agent evaluation methods (DataTalks.Club)
+- [Micheal Lanham: From Game AI to LLM Agents - 20-Year Evolution of Multi-Agent Systems](https://datatalks.club/podcast/from-game-ai-to-modern-ai-agents.html) - agent architecture patterns (sequential, orchestration, collaboration), evolutionary algorithms, career transition advice (DataTalks.Club)
+- [Getting a Data Science Job](https://www.youtube.com/watch?v=jYYR1fH8k7o) - full job search process: networking, applying, interview stages (theory, coding, case study, system design, behavioral), offer negotiation
+- [PropTech Founder: AI Engineer Interview Questions (From Senior AI Engineer)](https://www.youtube.com/watch?v=leXRiJ5TuQo) - interviewer who conducted 22+ interviews, triple dipper triangle (latency/cost/relevancy), HyDE retrieval
+- [Exponent: AI Coding Mock Interview with Senior FAANG Engineer](https://www.youtube.com/watch?v=C6CdzcU7I18) - live AI-assisted coding interview using Claude Code, interviewer evaluation rubric for AI tool usage
+- [Fahd Mirza: How-To Prepare for AI LLM Engineer Interview](https://www.youtube.com/watch?v=Zt-h5BiBWH0) - concepts asked at NVIDIA, Google, Amazon interviews
+- [Interview Kickstart: ML Mock Interview with Microsoft AI Engineer](https://www.youtube.com/watch?v=ZE_YEn-okfk) - real-time audio transcription system design, EM-level feedback
+
+
+## Key Practitioner Voices
+
+- [Chip Huyen](https://huyenchip.com/) - author of "Designing ML Systems" and "AI Engineering," Stanford instructor
+- [Eugene Yan](https://eugeneyan.com/writing/llm-patterns/) - Anthropic, patterns for LLM-based systems, [how to interview](https://eugeneyan.com/writing/how-to-interview/)
+- [Shreya Shankar](https://www.sh-reya.com/) - AI evals researcher, [In Defense of AI Evals](https://www.sh-reya.com/blog/in-defense-ai-evals/)
+- [Hamel Husain](https://hamel.dev/blog/posts/evals/) - AI evals, former Airbnb/GitHub, [LLM Evals FAQ](https://hamel.dev/blog/posts/evals-faq/), [LLM-as-Judge](https://hamel.dev/blog/posts/llm-judge/)
+- [Swyx (Shawn Wang)](https://www.latent.space/p/ai-engineer) - Latent Space, [Agent Engineering](https://www.latent.space/p/agent)
+- [Andrej Karpathy: 2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) - Dec 2025
+- [Gergely Orosz: AI Engineering with Chip Huyen](https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen) - Pragmatic Engineer
+- [Gergely Orosz: Software Engineering with LLMs in 2025](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)
+
 
 ## Hacker News & Reddit Discussions
 
@@ -213,21 +239,12 @@ This is the list of resources I used while researching content for the [AI Engin
 - [r/usajobs: Ghosted after take-home for US Treasury AI Engineer role](https://www.reddit.com/r/usajobs/comments/1qoolmw/am_i_being_ghosted_after_a_takehome_assignment_for/) - government AI hiring experience
 - [r/developpeurs: Asked to build a complete LLM agent for an interview](https://www.reddit.com/r/developpeurs/comments/1m84v47/on_ma_demand%C3%A9_de_construire_un_agent_llm_complet/) - scope of interview assignments
 
-## Communities
+## Market Data and Trends
 
-- [AI Shipping Labs](https://aishippinglabs.com/) - invite-only community for builders who ship AI projects, structured learning and peer collaboration
-- [DataTalks.Club](https://datatalks.club/) - community of 80,000+ data enthusiasts, free courses (ML Zoomcamp, LLM Zoomcamp), weekly events
-- [MLOps Community](https://mlops.community/) - ML/LLM Ops, AI engineering, agents, and production AI systems
-- [Hugging Face Discord](https://huggingface.co/discord-community) - 200,000+ members, open-source ML collaboration, paper discussions, project sharing
-- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Reddit's main ML community, paper discussions, industry news
-- [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community focused on running and fine-tuning open-source LLMs locally
+- [InterviewQuery: AI Interview Trends 2025](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025) - AI roles surged 240%, AI questions tripled since 2023
+- [LockedIn AI: LLM & AI Engineer Interview Questions in Silicon Valley](https://www.lockedinai.com/blog/llm-ai-engineer-interview-questions-silicon-valley) - OpenAI, Anthropic, Google, Scale AI
+- [InterviewNode: AI Interview Evolution 2026](https://www.interviewnode.com/post/ai-interview-evolution-what-2026-will-look-like-for-ml-engineers) - hybrid AI-human interviews
 
-## Interview Question Collections
-
-- [KDnuggets: 10 Essential Agentic AI Interview Questions](https://www.kdnuggets.com/10-essential-agentic-ai-interview-questions-for-ai-engineers)
-- [DataCamp: Top 30 RAG Interview Questions for 2026](https://www.datacamp.com/blog/rag-interview-questions)
-- [DataCamp: Top 30 Agentic AI Interview Questions for 2026](https://www.datacamp.com/blog/agentic-ai-interview-questions)
-- [Pragmatic Engineer: A Pragmatic Guide to LLM Evals](https://newsletter.pragmaticengineer.com/p/evals)
 
 ## ML System Design & Interviews
 

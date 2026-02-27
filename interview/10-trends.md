@@ -119,10 +119,10 @@ The AI engineering role is still being defined, and interviews reflect this. Jan
 
 Brian Kihoon Lee (~70 interviews, 7 offers from ~15 companies) critiques common ML system design interview failures ([source](https://www.moderndescartes.com/essays/ml_eng_interviewing/)):
 
-- **System design in ML clothing**: Generic systems questions with superficial ML terminology that fail to assess either domain
-- **Outdated content**: Interview problems become obsolete as ML advances rapidly. One interviewer expected traditional embedding + classifier approaches when LLMs offered superior solutions
-- **Algorithmic rederivation**: Expecting candidates to independently derive established algorithms (like MinHash) in 45 minutes - testing memorization, not learning capacity
-- **"Cog in a machine" interviewers**: Hyper-specific questions about their narrow project experience while missing big-picture evaluation
+- System design in ML clothing: Generic systems questions with superficial ML terminology that fail to assess either domain
+- Outdated content: Interview problems become obsolete as ML advances rapidly. One interviewer expected traditional embedding + classifier approaches when LLMs offered superior solutions
+- Algorithmic rederivation: Expecting candidates to independently derive established algorithms (like MinHash) in 45 minutes - testing memorization, not learning capacity
+- "Cog in a machine" interviewers: Hyper-specific questions about their narrow project experience while missing big-picture evaluation
 
 Lee proposes that ML system design interviews require staff-level execution expertise to conduct well and should only appear in senior candidate evaluations. His recommended alternative loop varies by seniority, replacing ML system design at junior levels with data modeling (live coding on real datasets with intentional bugs) and project deep dives.
 
@@ -131,9 +131,9 @@ Lee proposes that ML system design interviews require staff-level execution expe
 
 System design interviews increasingly test seniority through depth of thinking rather than tool knowledge ([InterviewNode](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know)):
 
-- **Junior**: Focus on the prompt alone
-- **Mid-level**: Describe embeddings or RAG mechanisms
-- **Senior**: Design an evolving ecosystem - document chunking strategies, how retrieval affects context windows, how outputs are validated and stored, how user feedback improves retrieval scoring
+- Junior: Focus on the prompt alone
+- Mid-level: Describe embeddings or RAG mechanisms
+- Senior: Design an evolving ecosystem - document chunking strategies, how retrieval affects context windows, how outputs are validated and stored, how user feedback improves retrieval scoring
 
 "At senior levels, system design interviews aren't about frameworks, they're about foresight."
 
@@ -154,8 +154,8 @@ InterviewQuery frames it as: "Knowledge is free -- judgment isn't." The intervie
 
 Yuan Meng identifies several scarier rounds now appearing at top companies that didn't exist in earlier interview cycles ([source](https://www.yuan-meng.com/posts/mle_interviews_2.0/)):
 
-- **ML Infra Design**: Detailed questions about feature stores, distributed training, and online serving (not just modeling)
-- **Multi-level OOP**: Building toy backend systems with incremental complexity
-- **LLM Coding**: Implementing Transformers, LoRA, KV cache, and autograd mechanics from scratch
-- **Research Presentations**: Job talk-style presentations defending technical work
-- **References becoming standard**: Most top companies now require 2-3 references from recent managers/colleagues
+- ML Infra Design: Detailed questions about feature stores, distributed training, and online serving (not just modeling)
+- Multi-level OOP: Building toy backend systems with incremental complexity
+- LLM Coding: Implementing Transformers, LoRA, KV cache, and autograd mechanics from scratch
+- Research Presentations: Job talk-style presentations defending technical work
+- References becoming standard: Most top companies now require 2-3 references from recent managers/colleagues

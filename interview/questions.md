@@ -331,29 +331,29 @@ These are follow-up probes from AI agents conducting interviews (emerging trend 
 
 ### RAG / Chatbot Systems
 
-- **Blood test report AI**: Create a project that takes a blood test report in PDF format, understands medical issues, and provides suggestions by fetching them from online blog articles. Submit in a few hours. [^khushal-kumar]
-- **Customer support RAG chatbot**: Design a production-ready chatbot using open-source tools. Requirements: 100+ concurrent users, <2 second latency, grounded in company docs, cost-effective, analytics tracking. Score: 9/10. [^devto-mai-chi-bao]
-- **Document Q&A system**: Build a document Q&A system with citation tracking for multi-hop questions. [^promptlayer]
+- Blood test report AI: Create a project that takes a blood test report in PDF format, understands medical issues, and provides suggestions by fetching them from online blog articles. Submit in a few hours. [^khushal-kumar]
+- Customer support RAG chatbot: Design a production-ready chatbot using open-source tools. Requirements: 100+ concurrent users, <2 second latency, grounded in company docs, cost-effective, analytics tracking. Score: 9/10. [^devto-mai-chi-bao]
+- Document Q&A system: Build a document Q&A system with citation tracking for multi-hop questions. [^promptlayer]
 
 ### Agent Systems
 
-- **Build an AI agent** demonstrating natural interaction, agentic behavior, clear reasoning steps, and strong technical decision-making. 3-day window. Company: Eightfold.ai. [^eightfold]
-- **Customer email campaign agent**: Build an agent reading customer CSV data and generating personalized email campaigns with evaluation metrics. [^promptlayer]
-- **Code review agent**: Implement a code review agent for Python files with actionable feedback. [^promptlayer]
-- **Conversational Calendar Booking Agent**: LangGraph/LangChain orchestration, Streamlit chat interface, FastAPI backend, Google Calendar integration via Service Accounts, function calling for booking logic. [^process-analysis]
+- Build an AI agent demonstrating natural interaction, agentic behavior, clear reasoning steps, and strong technical decision-making. 3-day window. Company: Eightfold.ai. [^eightfold]
+- Customer email campaign agent: Build an agent reading customer CSV data and generating personalized email campaigns with evaluation metrics. [^promptlayer]
+- Code review agent: Implement a code review agent for Python files with actionable feedback. [^promptlayer]
+- Conversational Calendar Booking Agent: LangGraph/LangChain orchestration, Streamlit chat interface, FastAPI backend, Google Calendar integration via Service Accounts, function calling for booking logic. [^process-analysis]
 
 ### Full-Stack AI Applications
 
-- **AI-First CRM: HCP Module**: React/Redux frontend, FastAPI backend, LangGraph with 5+ tools (summarization, entity extraction). Models: gemma2-9b-it or llama-3.3-70b via Groq API. Deliverable: GitHub repo + 10-15 minute demo video. Expected time: ~60 hours. [^process-analysis]
-- **Login page with validations**: Create a login page accepting email and password with basic validations. Estimated 2-3 hours within 2-3 day window. [^devto-aidi-rivera]
+- AI-First CRM: HCP Module: React/Redux frontend, FastAPI backend, LangGraph with 5+ tools (summarization, entity extraction). Models: gemma2-9b-it or llama-3.3-70b via Groq API. Deliverable: GitHub repo + 10-15 minute demo video. Expected time: ~60 hours. [^process-analysis]
+- Login page with validations: Create a login page accepting email and password with basic validations. Estimated 2-3 hours within 2-3 day window. [^devto-aidi-rivera]
 
 ### Performance / Optimization
 
-- **Anthropic performance take-home**: Code optimization for speed. 4-hour limit. Python workload simulating TPU-like operations. Tests low-level optimization skills. Now open-sourced for practice. [^process-analysis]
+- Anthropic performance take-home: Code optimization for speed. 4-hour limit. Python workload simulating TPU-like operations. Tests low-level optimization skills. Now open-sourced for practice. [^process-analysis]
 
 ### OpenAI-Specific
 
-- **48-hour technical project**: Take-home assignment delivered day after recruiter call, 48-hour completion window. Practical coding, not puzzle-based. [^linkjob-openai]
+- 48-hour technical project: Take-home assignment delivered day after recruiter call, 48-hour completion window. Practical coding, not puzzle-based. [^linkjob-openai]
 
 ### Red Flags (Unreasonable Assignments)
 
