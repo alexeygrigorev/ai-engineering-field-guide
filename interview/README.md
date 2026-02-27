@@ -8,8 +8,6 @@ Analysis of interview processes, home assignments, and hiring practices across A
 - [Home Assignments](home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
 - [Interview Questions](interview-questions.md) - technical and behavioral questions (work in progress)
 
-## Company Data
-
 Individual interview process descriptions for 51 companies, each linking to the source job posting.
 
 | # | Company | Role(s) |
