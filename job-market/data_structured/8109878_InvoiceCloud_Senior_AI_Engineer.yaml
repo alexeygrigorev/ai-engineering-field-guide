@@ -1,0 +1,51 @@
+company:
+  name: InvoiceCloud
+  stage: Growth-stage
+  focus: Digital bill payment platform for essential services
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing LLM and AI-powered systems. The engineer owns the
+      full lifecycle from prototyping to production, works
+      directly with LLMs, agentic frameworks, and GenAI tools like
+      Azure OpenAI, LangChain, and Semantic Kernel - all direct
+      AI/ML development work, not supporting infrastructure.
+  responsibilities:
+  - Own end-to-end development and delivery of AI, ML, and LLM-powered solutions from
+    design through production
+  - Define reusable AI frameworks, components, and standards that accelerate development
+  - Implement MLOps pipelines, monitoring, and evaluation workflows for AI systems
+  - Evaluate and prototype emerging AI technologies including LLMs, agentic frameworks,
+    and multimodal systems
+  - Collaborate with Product, Data Science, and Platform teams to translate business
+    goals into AI implementations
+  - Drive applied experimentation to validate new AI approaches and evolve architecture
+    patterns
+  - Ensure data governance, security, compliance, and operational stability across
+    AI deployments
+  use_cases:
+  - Enhance payer engagement and personalization in bill payment workflows
+  - Improve operational outcomes through AI-powered platform intelligence
+  - Enable self-learning and automation strategies for billing operations
+  - Provide AI-powered capabilities for customer-facing payment experiences
+  - Support responsible AI practices with fairness and transparency in financial transactions
+  skills:
+    genai: [LangChain, Semantic Kernel, Azure OpenAI, LLM, prompt tuning, agentic
+        frameworks]
+    ml: [model evaluation]
+    web: [FastAPI]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [inference optimization, MLOps pipelines, observability]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8109878'
+  extracted_at: '2026-02-27T11:44:41.732828'

@@ -1,0 +1,45 @@
+company:
+  name: Trexquant Investment
+  stage: null
+  focus: Systematic quantitative hedge fund
+position:
+  title: AI Research Engineer - Alpha Discovery (USA)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-driven systems with LLM-based
+      agents (Claude Code, GPT-based agents) and creating agentic
+      workflows for autonomous data exploration. The engineer will
+      directly implement and integrate AI coding agents into
+      quantitative research pipelines, which constitutes hands-on
+      work with AI models and agents.
+  responsibilities:
+  - Design AI-assisted research pipelines for data ingestion, feature engineering,
+    alpha generation, and backtesting
+  - Build agentic workflows that autonomously explore datasets and propose candidate
+    signals
+  - Rapidly prototype and evaluate systematic strategies with robust validation frameworks
+  - Improve research efficiency by integrating AI coding agents into the quant workflow
+  - Partner with researchers and PMs to transition validated alphas into production-ready
+    implementations
+  use_cases:
+  - Alpha discovery for quantitative trading
+  - Automated feature engineering and signal generation
+  - Systematic trading strategy development and backtesting
+  - AI-augmented quantitative research workflows
+  skills:
+    genai: [Claude Code, LLM-based agents, GPT-based agents, agentic workflows]
+    ml: [machine learning, statistics]
+    web: []
+    databases: []
+    data: [data ingestion, feature engineering]
+    cloud: []
+    ops: [research infrastructure]
+    languages: [Python]
+    domains: [backtesting]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8586583'
+  extracted_at: '2026-02-27T11:43:20.448300'

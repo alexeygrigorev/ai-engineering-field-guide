@@ -1,0 +1,50 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: Construction technology and AI solutions
+position:
+  title: Integrations Engineer, Agentic AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Integrations Engineer role focused on helping
+      customers understand and deploy an existing Agentic AI
+      Platform. The responsibilities center on customer education,
+      technical support, integration implementation, and
+      translating customer feedback to engineering teams - not on
+      building, training, or fine-tuning AI models themselves.
+  responsibilities:
+  - Serve as a technical subject matter expert on the Agentic AI Platform for customers
+    and partners
+  - Educate clients on Agentic AI concepts, terminology, and use-case possibilities
+  - Design and implement custom technical solutions by tailoring the Agentic AI Platform
+    to meet customer-specific needs
+  - Develop scripts, tools, and documentation to facilitate and streamline the integration
+    process
+  - Collaborate with clients' technical teams to ensure successful deployment and
+    adoption of the platform
+  - Act as a key liaison between customers and core engineering teams to translate
+    feedback into actionable requirements
+  use_cases:
+  - Enterprise AI agent deployment and integration
+  - Customer-specific AI solution customization
+  - Cross-functional AI platform adoption
+  - AI-powered product integration
+  - Technical solution design for business problems
+  - End-to-end customer integration lifecycle support
+  skills:
+    genai: [Large Language Models, LangChain, LlamaIndex, agentic AI]
+    ml: []
+    web: [REST, gRPC, JSON, Protobuf]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [Jira]
+    languages: [Python, TypeScript, JavaScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7521302'
+  extracted_at: '2026-02-27T11:45:53.349446'

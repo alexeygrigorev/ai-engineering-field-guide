@@ -1,0 +1,56 @@
+company:
+  name: Acuity Insurance
+  stage: Public
+  focus: Insurance company providing property and casualty coverage
+position:
+  title: Senior Software Engineer - Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying
+      Generative AI systems including RAG pipelines, agent
+      orchestrations, and LLM-based solutions. The engineer
+      directly develops AI applications, manages model
+      selection/deployment, and tunes prompts and model
+      parameters.
+  responsibilities:
+  - Partner with business analysts, engineers, and stakeholders to understand business
+    challenges and design strong AI solutions, including LLM based and agentic systems
+  - Lead planning and scoping of AI projects, providing input on timelines, model
+    selection, infrastructure, and deliverables
+  - Develop and enhance AI applications including RAG pipelines, model evaluation
+    frameworks, and agent orchestrations
+  - Direct and manage AI projects from initiation through delivery including model
+    selection, benchmarking, deployment, and monitoring
+  - Identify and develop solutions for highly complex AI integration challenges like
+    prompt chaining, retrieval design, agent coordination, and enterprise scale integrations
+  - Mentor other engineers in AI best practices, model behavior, prompt design, and
+    responsible AI principles
+  - Perform testing, debugging, and output validation to ensure AI responses are accurate,
+    safe, and aligned with business logic
+  - Produce and maintain clear technical documentation including integration specs,
+    system diagrams, integration guides, and operational runbooks
+  use_cases:
+  - Enterprise AI integration for insurance operations and business processes
+  - Retrieval-Augmented Generation (RAG) systems for document search and knowledge
+    retrieval
+  - Agentic AI systems for automated workflows and decision support
+  - Secure, scalable AI solutions within existing insurance applications and platforms
+  - Model evaluation frameworks to ensure AI response accuracy and safety
+  skills:
+    genai: [LLMs, Retrieval-Augmented Generation (RAG), agent frameworks, prompt engineering,
+      LangChain]
+    ml: []
+    web: [Vue, React, Angular, API Management]
+    databases: [vector databases, Db2, PostgreSQL, SQL Server]
+    data: []
+    cloud: [Azure, IBM, GCP, AWS]
+    ops: [AI Observability tools, CI/CD pipelines, version control tools]
+    languages: [Java, Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8567192'
+  extracted_at: '2026-02-27T12:09:06.809975'

@@ -1,0 +1,50 @@
+company:
+  name: Octopus Energy
+  stage: Public
+  focus: Renewable energy technology platform
+position:
+  title: AI/ ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building and scaling systems for Generative AI
+      models including LLMs, RAG, and agents. Responsibilities
+      include knowledge retrieval systems, prompt engineering, and
+      AI model evaluation - all hands-on work implementing AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Design and develop reusable AI platform services that expose GenAI models, knowledge
+    retrieval pipelines, and agent workflows
+  - Build and maintain knowledge retrieval systems including embedding generation,
+    chunking, and database management strategies
+  - Set up frameworks for monitoring and evaluating AI output quality including relevance,
+    accuracy, safety, drift, and cost
+  - Design systems for prompt assembly including creating prompt templates, system
+    prompts, and guidelines for platform users
+  - Build flagship AI projects with cross-functional teams and develop best practices
+    for AI at Octopus
+  - Integrate AI models into wider applications through backend services that encapsulate
+    business logic and data flows
+  use_cases:
+  - Generate tens of thousands of customer-facing emails combining energy industry
+    knowledge with customer-specific data
+  - Enable teams across Octopus to use Generative AI models for various applications
+  - Build knowledge base systems for information retrieval and grounding
+  - Implement AI solutions that contribute to Net Zero goals
+  - Create agent workflows for automating energy specialist tasks
+  skills:
+    genai: [LLMs, RAG, Agents, Prompt engineering, Tool calling, Agentic workflows]
+    ml: [Fine-tuning, Reinforcement learning]
+    web: []
+    databases: [Embeddings, Vector databases]
+    data: [Data pipelines]
+    cloud: []
+    ops: [Git, CI/CD, Model evaluation, Monitoring, Logging, Tracing, Testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8494136'
+  extracted_at: '2026-02-27T11:42:31.609760'

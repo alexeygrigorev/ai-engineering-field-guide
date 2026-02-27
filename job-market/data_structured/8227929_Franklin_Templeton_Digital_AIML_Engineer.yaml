@@ -1,0 +1,47 @@
+company:
+  name: Franklin Templeton
+  stage: Public
+  focus: Asset management, wealth management, fintech
+position:
+  title: Digital & AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML systems including
+      model training, evaluation, inference pipelines, and
+      developing AI-powered applications like summarization and
+      classification. The engineer builds proofs of concept and
+      internal AI tools, working directly with models and AI
+      deployment rather than just supporting infrastructure.
+  responsibilities:
+  - Implement model training, evaluation, and inference pipelines under senior guidance
+  - Build proofs of concept and internal AI tools to validate ideas quickly
+  - Engineer features and preprocess data from curated datasets for experiments
+  - Develop and maintain AI-powered applications like summarization and classification
+  - Monitor and troubleshoot AI services in production for continuous improvement
+  - Collaborate with teams to understand pain points and tailor AI solutions
+  - Maintain clear documentation for models, APIs, and experiments
+  - Take ownership of smaller projects and escalate risks early
+  use_cases:
+  - Document summarization for wealth management
+  - Text classification for financial documents
+  - AI-powered productivity tools for internal teams
+  - Decision support systems for investment management
+  - Data analytics and business intelligence solutions
+  skills:
+    genai: []
+    ml: [machine learning fundamentals, deep learning frameworks, ML libraries, model
+        training, model optimization, feature engineering]
+    web: []
+    databases: []
+    data: [data preprocessing]
+    cloud: [cloud platforms]
+    ops: [AI/ML deployment tools]
+    languages: [Python, SQL]
+    domains: []
+    other: [software engineering best practices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8227929'
+  extracted_at: '2026-02-27T11:49:16.706479'

@@ -1,0 +1,53 @@
+company:
+  name: Minted
+  stage: Series D
+  focus: Marketplace for independent artists
+position:
+  title: AI & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI assistants, copilots, and
+      custom AI agents using LLMs, prompt engineering, RAG, and
+      agentic design patterns. The engineer is directly
+      implementing generative AI solutions and deploying them to
+      production for internal business use.
+  responsibilities:
+  - Design, build, and maintain AI assistants and copilots for HR, Finance, Operations,
+    and other business units
+  - Develop custom AI agents for task automation using APIs, middleware, and modern
+    AI frameworks
+  - Implement prompt engineering strategies and agentic design patterns for optimal
+    AI performance
+  - Integrate generative AI capabilities into service desk ticketing, employee onboarding,
+    and knowledge base systems
+  - Create end-to-end automated workflows that reduce manual tasks and improve efficiency
+  - Build and maintain integrations between AI platforms and corporate systems including
+    Okta, HRIS, and collaboration tools
+  - Measure and report on automation ROI, adoption metrics, and user satisfaction
+  - Partner with IT Operations and Security teams to ensure compliant, secure AI deployments
+  use_cases:
+  - Internal AI copilots for business operations across HR, Finance, and Operations
+    departments
+  - Service desk ticketing automation and employee onboarding assistance
+  - Knowledge base systems with AI-powered search and retrieval
+  - Enterprise workflow automation reducing manual tasks across departments
+  - AI-driven data integration between corporate systems and platforms
+  skills:
+    genai: [OpenAI, Anthropic, Google AI, Azure OpenAI, Prompt engineering, RAG (Retrieval-Augmented
+        Generation), Agentic AI patterns]
+    ml: []
+    web: [RESTful APIs, Webhooks, Postman]
+    databases: [Vector databases, Semantic search]
+    data: [Okta Workflows, Zapier, Make.com, n8n]
+    cloud: [Microsoft Copilot Studio, Salesforce Einstein, ServiceNow AI, AWS, Azure,
+      GCP, Okta, Azure AD]
+    ops: [Git, CI/CD pipelines, DevOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8578881'
+  extracted_at: '2026-02-27T11:33:17.736814'

@@ -1,0 +1,51 @@
+company:
+  name: SimCorp
+  stage: Public
+  focus: |-
+    Integrated investment management solutions for financial
+    institutions
+position:
+  title: Senior Software Engineer - (.Net and AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of generative AI
+      models, Agentic AI solutions, plugins, and tools. The
+      engineer works directly with OpenAI for Azure,
+      SemanticKernel, and implements AI functionality from proof-
+      of-concept to production.
+  responsibilities:
+  - Develop plugins and tools for generative AI models and Agentic AI solutions
+  - Transition proof-of-concepts to high quality, production-ready solutions
+  - Integrate AI functionality with modules and agents developed by other teams
+  - Collaborate with product management, design, and quality assurance teams to ensure
+    seamless software delivery
+  - Troubleshoot and resolve complex technical issues ensuring scalable, reliable,
+    and performant solutions
+  - Ensure adherence to software development best practices including coding standards,
+    testing, and documentation
+  - Continuously assess and improve engineering processes and recommend new tools
+    and technologies
+  - Participate in code reviews to maintain high standards for software quality
+  use_cases:
+  - Agentic AI solutions for financial operations
+  - Generative AI plugins and tools for investment management systems
+  - AI-powered automation for accounting and operations workflows
+  - Integration of AI agents with existing financial software modules
+  skills:
+    genai: [OpenAI for Azure, Semantic Kernel, Agentic AI, Generative AI, A2A/MCP
+        plugins, Function calls]
+    ml: []
+    web: [.NET]
+    databases: []
+    data: []
+    cloud: [Azure, Azure DevOps]
+    ops: [DevOps, CI/CD]
+    languages: [C#]
+    domains: []
+    other: [Application Architecture, Agile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8511799'
+  extracted_at: '2026-02-27T11:24:36.312992'

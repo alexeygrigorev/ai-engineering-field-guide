@@ -1,0 +1,52 @@
+company:
+  name: Western Digital
+  stage: Public
+  focus: Data storage technologies and solutions for AI era
+position:
+  title: Senior AI & Automation Engineer (Generative AI, Agentic AI, LLMs, Python,
+    APIs, MCP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building intelligent virtual agents,
+      agentic AI systems, and LLM-powered solutions. The engineer
+      works directly on implementing prompt engineering, tool
+      usage, multi-step reasoning, and orchestration patterns
+      using generative AI technologies.
+  responsibilities:
+  - Design, develop, and maintain intelligent chatbots and AI agents using enterprise
+    AI platforms like Moveworks, Glean, and Power Virtual Agents
+  - Build and manage Python-based automation scripts, backend services, and microservices
+    to support AI-driven workflows
+  - Implement and optimize LLM-powered solutions including prompt engineering, conversational
+    design, and contextual reasoning
+  - Apply agentic AI concepts including tool usage, multi-step reasoning, orchestration
+    patterns, and Model Context Protocol (MCP)
+  - Develop REST APIs and backend services to integrate AI solutions with enterprise
+    systems such as ServiceNow, Workday, and Microsoft 365
+  - Monitor, troubleshoot, and optimize AI agent performance, reliability, and response
+    accuracy using analytics, logging, and feedback loops
+  use_cases:
+  - Automated IT support and service desk workflows through intelligent chatbots
+  - HR and employee self-service automation for common queries and processes
+  - Procurement workflow automation and order processing assistance
+  - Enterprise knowledge search and information retrieval using AI-powered agents
+  - Operations task automation and workflow orchestration across business functions
+  skills:
+    genai: [Generative AI, LLMs, Prompt engineering, Agentic AI, Model Context Protocol
+        (MCP), Conversational AI]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLMOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [Moveworks, Glean, Power Virtual Agents, Power Automate, Power Apps, ServiceNow,
+      Workday, Microsoft 365, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8583777'
+  extracted_at: '2026-02-27T11:52:44.388521'

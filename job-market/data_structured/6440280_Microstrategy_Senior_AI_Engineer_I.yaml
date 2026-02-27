@@ -1,0 +1,49 @@
+company:
+  name: Microstrategy
+  stage: Public
+  focus: Enterprise analytics, BI, and AI solutions
+position:
+  title: Senior AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work directly with AI systems,
+      specifically developing AI-powered applications, working
+      with LLMs (OpenAI, Azure OpenAI), implementing text
+      embeddings and RAG (Retrieval-Augmented Generation), and
+      interfacing with vector databases. The engineer is
+      responsible for optimizing and deploying AI applications,
+      not just supporting infrastructure or data pipelines for
+      others.
+  responsibilities:
+  - Develop, maintain, and optimize AI-driven applications using Python
+  - Design and build RESTful APIs with FastAPI for seamless integration of AI services
+  - Work with various Large Language Models including OpenAI and Azure OpenAI to enhance
+    AI-driven functionalities
+  - Interface with relational and vector databases for efficient AI data retrieval
+    and storage
+  - Implement text embedding techniques and RAG to improve AI-powered natural language
+    processing tasks
+  - Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP
+    using Docker for containerization
+  use_cases:
+  - Enterprise analytics and business intelligence solutions
+  - AI-powered natural language processing applications
+  - RAG-based intelligent information retrieval and knowledge management
+  - AI-driven data analysis and decision support systems
+  skills:
+    genai: [OpenAI API, Azure OpenAI, Text embeddings, RAG]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Vector databases, Relational databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Git]
+    languages: [Python]
+    domains: []
+    other: [Unit testing, Object-oriented programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6440280'
+  extracted_at: '2026-02-27T11:58:29.828913'

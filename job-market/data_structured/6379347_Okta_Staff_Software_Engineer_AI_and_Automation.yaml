@@ -1,0 +1,53 @@
+company:
+  name: Okta
+  stage: Public
+  focus: Identity and access management platform
+position:
+  title: Staff Software Engineer, AI and Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building an Agentic AI Platform
+      including orchestration, lifecycle management, guardrails,
+      and RAG pipelines. The engineer is directly working with AI
+      agent frameworks (LangGraph), vector databases, and
+      implementing core agentic AI capabilities, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and develop platform services for AI agents, including orchestration, lifecycle
+    management, observability, and guardrails
+  - Build scalable APIs, frameworks, and reusable components that enable teams to
+    rapidly create and deploy secure AI agents
+  - Contribute to monitoring, evaluation, and governance features that make AI adoption
+    safe, reliable, and enterprise-ready
+  - Collaborate with global team counterparts to align on architecture, share roadmaps,
+    and ensure consistency
+  - Mentor engineers within the team, raising the bar on technical craftsmanship and
+    platform design
+  - Partner with Applied AI engineers, product managers, and designers to ensure the
+    platform supports real-world use cases
+  - Stay current with advances in agentic AI, orchestration frameworks, and enterprise
+    AI infrastructure
+  use_cases:
+  - Enterprise-grade agentic AI platform for building secure AI agents
+  - AI agent orchestration and lifecycle management
+  - RAG pipelines and vector database integration for AI agents
+  - Secure deployment and management of intelligent AI agents at scale
+  - Enterprise AI governance, monitoring, and observability
+  skills:
+    genai: [LangGraph, AI agent frameworks, RAG pipelines]
+    ml: []
+    web: [React, Vue, Angular, APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [ECS, EKS, AWS, GCP, Azure]
+    ops: [distributed systems, microservices, container orchestration, monitoring,
+      observability]
+    languages: [Python, Java, Node.js, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6379347'
+  extracted_at: '2026-02-27T11:57:51.629878'

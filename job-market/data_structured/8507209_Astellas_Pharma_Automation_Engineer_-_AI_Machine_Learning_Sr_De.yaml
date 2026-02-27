@@ -1,0 +1,58 @@
+company:
+  name: Astellas Pharma
+  stage: Public
+  focus: Pharmaceutical company developing innovative therapies
+position:
+  title: Automation Engineer - AI & Machine Learning  Sr Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an Automation Engineer focused on workflow
+      automation using Python and Microsoft Power Automate. While
+      the job title mentions AI & ML, the actual responsibilities
+      involve developing automation scripts, integrating business
+      workflows, and supporting IT solutions - not building,
+      training, or deploying AI/ML models. The ML knowledge
+      appears to be optional (mentioned only as
+      training/certification preference) rather than a core
+      function of the role.
+  responsibilities:
+  - Design and implement robust Python applications for maximum speed and scalability
+  - Develop automated workflows using Microsoft Power Automate and integrate with
+    Microsoft products
+  - Analyze business process requirements to identify areas for workflow automation
+    and optimization
+  - Implement and manage workflow management tools to streamline business processes
+    ensuring security and data protection
+  - Collaborate with business stakeholders and cross-functional teams to gather requirements
+    and integrate solutions
+  - Monitor, troubleshoot, and optimize workflow processes to ensure smooth operations
+    and improve application performance
+  - Provide technical support to internal users and train users on workflow management
+    tools and best practices
+  - Participate in continuous delivery pipeline adhering to DevOps best practices
+    for version control and deployment
+  use_cases:
+  - Business process automation across Commercial, Manufacturing, and Medical domains
+  - Workflow management and optimization using Python and Power Automate
+  - Integration of Microsoft products including Power Apps, SharePoint, and Dynamics
+    365
+  - Data visualization and reporting for automated processes
+  - Technical support and system troubleshooting for internal users
+  skills:
+    genai: [Artificial Intelligence]
+    ml: [Machine Learning]
+    web: [HTML, CSS, API Integration]
+    databases: [SQL]
+    data: [Data Visualization]
+    cloud: []
+    ops: [DevOps, CI/CD, Workflow Automation]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Microsoft Power Automate, Microsoft Power Apps, SharePoint, Dynamics 365,
+      Agile, Automation Anywhere, Ignio, MyWizard]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8507209'
+  extracted_at: '2026-02-27T12:10:06.705128'

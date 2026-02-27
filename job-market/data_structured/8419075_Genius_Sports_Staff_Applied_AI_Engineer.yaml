@@ -1,0 +1,57 @@
+company:
+  name: Genius Sports
+  stage: Public
+  focus: Sports data and fan engagement platform
+position:
+  title: Staff Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      architecting a multi-agent LLM system. The engineer owns the
+      multi-agent LLM reasoning layer, designs agent orchestration
+      patterns, implements RAG and tool use, and deploys these
+      systems to production with real-time constraints. This is
+      hands-on work with models and agents, not just support
+      infrastructure.
+  responsibilities:
+  - Own the end-to-end technical direction for the multi-agent, multimodal platform
+    that converts broadcast/radio inputs into validated, structured outputs from prototype
+    to production
+  - Design and evolve the agent architecture including agent boundaries, interfaces,
+    orchestration patterns, evidence fusion, traceability/provenance, and schema-first
+    outputs
+  - Define reliability standards for probabilistic systems including confidence scoring,
+    gating, escalation paths, and safe correction semantics
+  - Drive performance and cost optimization through model routing strategies, batching,
+    caching, and retries under real-time constraints
+  - Partner across product, platform, and domain experts to translate ambiguous sport
+    scenarios into system logic
+  - Champion continuous improvement by evaluating new technologies, tools, and approaches
+    where they provide clear value
+  - Mentor and coach engineers across teams, supporting technical growth and raising
+    the overall engineering bar
+  use_cases:
+  - Convert broadcast and radio inputs into validated structured outputs in real-time
+  - Analyze multimodal sports data including audio, video, transcripts, and rules
+  - Generate structured, schema-first outputs with versioning for sports analytics
+  - Apply multi-agent reasoning to complex sports scenarios and decisions
+  - Provide confidence scoring and human-in-the-loop escalation for uncertain outputs
+  skills:
+    genai: [LLM application architecture, Multi-agent systems, RAG (Retrieval-Augmented
+        Generation), MCP (Model Context Protocol), Structured outputs, Tool use/function
+        calling, Multimodal AI, Prompt engineering]
+    ml: []
+    web: [RESTful APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed systems, Docker, Kubernetes, Git, CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8419075'
+  extracted_at: '2026-02-27T11:48:50.229393'

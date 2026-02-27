@@ -1,0 +1,66 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology platform
+position:
+  title: Data and AI Engineer (Manager)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Data Engineering Manager role that focuses on
+      building data infrastructure and platforms to enable AI/ML
+      workloads. The role involves creating feature stores, model
+      serving infrastructure, and data pipelines for GenAI
+      applications, but does not include building, training, fine-
+      tuning, or deploying models directly. The position enables
+      AI work through data engineering and MLOps practices rather
+      than hands-on AI model development.
+  responsibilities:
+  - Design and build enterprise-scale data platforms using modern big data technologies
+    and cloud-native services
+  - Architect robust, scalable data pipelines that process petabytes of data for batch,
+    streaming, and real-time analytics
+  - Build data infrastructure that supports AI/ML workloads including feature stores,
+    training pipelines, and model serving infrastructure
+  - Implement streaming data pipelines using Kafka and Spark Streaming for real-time
+    analytics and decision-making
+  - Manage and optimize cloud infrastructure on AWS/Azure including S3, EMR, EC2,
+    Lambda, Glue, Redshift, and SageMaker
+  - Design and implement data pipelines for GenAI applications including embeddings
+    generation, vector storage, and retrieval systems
+  - Mentor junior data engineers and drive technical decisions on architecture, tooling,
+    and engineering practices
+  - Partner with product managers, data scientists, and business stakeholders to translate
+    requirements into technical solutions
+  use_cases:
+  - Global payments processing infrastructure for Visa's 200+ countries and territories
+  - Enterprise-scale data analytics and insights for global clients and financial
+    institutions
+  - Real-time fraud detection and decision-making using streaming data pipelines
+  - GenAI applications with RAG architectures for enhanced data retrieval and semantic
+    search
+  - AI/ML model serving infrastructure supporting fraud detection, risk assessment,
+    and payment analytics
+  - Feature engineering pipelines enabling machine learning models for payment security
+    and optimization
+  skills:
+    genai: [RAG, Model Context Protocol, embeddings generation, semantic search, LangChain,
+      LlamaIndex]
+    ml: []
+    web: []
+    databases: [Cassandra, MongoDB, Redis, Snowflake, Pinecone, Weaviate, Milvus,
+      ChromaDB, FAISS]
+    data: [Apache Spark, Spark SQL, Spark Streaming, Hadoop, HDFS, Hive, HBase, YARN,
+      Kafka, Databricks]
+    cloud: [AWS, Azure, GCP, S3, EMR, EC2, Lambda, Glue, Redshift, SageMaker, AWS
+        Bedrock, Azure OpenAI, Vertex AI]
+    ops: [Jenkins, GitLab CI, GitHub Actions, Docker, Kubernetes, Airflow, Prefect,
+      Control-M, Great Expectations, Datadog, Prometheus, TensorFlow Serving, Triton]
+    languages: [Python, Scala, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8450609'
+  extracted_at: '2026-02-27T11:46:43.875186'

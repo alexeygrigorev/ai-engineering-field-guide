@@ -1,0 +1,45 @@
+company:
+  name: Deel
+  stage: Series C+
+  focus: Global payroll and HR platform with AI-powered tools
+position:
+  title: Senior Backend Engineer (AI focus)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on integrating AI
+      APIs into production systems and building backend services
+      that bring AI capabilities to payroll workflows. The
+      engineer collaborates with ML engineers but does not
+      directly build, train, fine-tune, or deploy models - they
+      integrate existing AI services and build the infrastructure
+      to support AI-powered tools.
+  responsibilities:
+  - Build backend services that bring AI capabilities to life inside Payroll workflows
+  - Collaborate with ML engineers and operations to create real-world AI-powered tools
+  - Integrate AI APIs into production systems
+  - Work with unstructured/messy data and ETL pipelines
+  - Build and maintain robust API integrations
+  - Develop backend services using JavaScript, Node.js, and PostgreSQL
+  use_cases:
+  - AI-powered payroll workflows automation
+  - Integrating AI capabilities into global HR and payroll systems
+  - AI-powered tools for global workforce management
+  - Conversational interfaces and chatbots for payroll operations
+  - Document and file processing (CSV, PDF, Excel) with AI
+  skills:
+    genai: [AI API integration, OpenAI API, Gemini API, Anthropic API, Prompt engineering]
+    ml: []
+    web: [Node.js, API integration, Chatbot interfaces]
+    databases: [PostgreSQL]
+    data: [Document parsing, ETL pipelines, Unstructured data processing]
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8539026'
+  extracted_at: '2026-02-27T11:29:57.284350'

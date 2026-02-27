@@ -1,0 +1,193 @@
+job_id: 8409598
+title: Principal Engineer - Generative AI Infra Capabilities
+company: Wells Fargo
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apigee
+  - Arize
+  - Cuda
+  - Cudnn
+  - Jfrog
+  - Nvlink
+  - Nvswitch
+  - Openshift Ai
+  - Overwatch
+  - Tensorrt-Llm
+company_size: 205,000 Employees
+description: |
+  About this role: Wells Fargo is seeking a Principal Engineer
+  - Generative Gen AI GPU Infrastructure Capabilities. In this
+  role, you will:
+  
+  - Act as an advisor to leadership to develop or influence
+    applications, network, information security, database,
+    operating systems, or web technologies for highly complex
+    business and technical needs across multiple groups
+  - Lead the strategy and resolution of highly complex and
+    unique challenges requiring in-depth evaluation across
+    multiple areas or the enterprise, delivering solutions
+    that are long-term, large-scale and require vision,
+    creativity, innovation, advanced analytical and inductive
+    thinking
+  - Translate advanced technology experience, an in-depth
+    knowledge of the organizations tactical and strategic
+    business objectives, the enterprise technological
+    environment, the organization structure, and strategic
+    technological opportunities and requirements into
+    technical engineering solutions
+  - Provide vision, direction and expertise to leadership on
+    implementing innovative and significant business solutions
+  - Maintain knowledge of industry best practices and new
+    technologies and recommends innovations that enhance
+    operations or provide a competitive advantage to the
+    organization
+  - Strategically engage with all levels of professionals and
+    managers across the enterprise and serve as an expert
+    advisor to leadership
+  
+  Required Qualifications:
+  
+  - 7+ years of Engineering experience, or equivalent
+    demonstrated through one or a combination of the
+    following: work experience, training, military experience,
+    education
+  
+  Desired Qualifications:
+  
+  - Design GPU cluster topologies (H100/H200, NVLink/NVSwitch),
+    networking, and storage paths for high-throughput
+    inferencing; document sizing and perf baselines.
+  - Implement Run: AI constructs
+    (Collections/Departments/Projects/workloads) for
+    MDEV/MDEP/UCEP/MRM; codify quota, priority, and fair-share
+    policies.
+  - POC & benchmark disaggregated inferencing (prefill/decode)
+    with vLLM/TensorRT-LLM; publish guidance for H100/H200
+    tuning (FP8/INT8/AWQ) and KV-transfer behavior over
+    NVLink.
+  - Operationalize OpenShift AI parity for GPU scheduling, time
+    slicing/MIG profiles, and preemption; validate upgrade
+    paths and helm/kustomize packaging.
+  - Integrate Triton Inference Server for multi-model serving;
+    standardize model repository structure, batching, dynamic
+    shapes, and telemetry hooks. (Supported broadly by
+    platform docs; add repo specifics when you share them.)
+  - Harden NGDC environments with AVI/GSLB patterns
+    (Prod1/Prod2) and BCP; execute DR failover runbooks and
+    steady-state capacity planning.
+  - Publish steady-state runbooks (deploy → certify → promote):
+    DEV → UAT → MDEP-Beta → MDEP-GA / UCEP; define promotion
+    criteria and risk exceptions.
+  - Own endpoint product ionization via Apigee (AI
+    Gateway)-authN/Z, rate limiting, API SLAs,
+    versioning/deprecation and SDK generation for internal
+    consumers.
+  - Embed observability/evaluations with Overwatch + Arize:
+    prompt/agent/tool tracing, SLO dashboards, alerting, and
+    data-retention/export workflows.
+  - Automate CI/CD for infra and model artifacts: image scanning
+    (JFrog remote repo), chart releases, canaries, and
+    rollback plans across OCP/GKE.
+  - Tune CUDA kernels/graph execution paths; profile NCCL
+    collectives; resolve performance bottlenecks (HBM
+    bandwidth, kernel fusion, p2p comms). (NCCL inferred per
+    assumption.)
+  - Qualify LLM/SLM runtimes (Gemma, Llama, GPT-OSS, etc.) with
+    Run: AI scheduling; publish per-model recipes for
+    throughput, latency, cost and stability.
+  - Define GPU estate hygiene: image provenance, secrets
+    handling, namespace/network policy baselines, and change
+    controls for upgrades (e.g., Run: AI v2.21+).
+  - Partner with product/TPM/PO to align backlog to platform
+    milestones (OpenShift AI go-forward, SuperPOD activation
+    waves, endpoint rollouts).
+  - Mentor engineers; lead deep-dive reviews and present in
+    exec/tech forums (CIO/ARB/offsites) with architecture
+    readouts, performance data, and risk mitigations.
+  - NVIDIA & CUDA: CUDA/cuDNN usage, NVLink/NVSwitch
+    understanding, MIG setup, NCCL tuning, GPU profiling,
+    H100/H200 optimization. Optimize kernels and collectives,
+    choose MIG profiles, validate interconnect bandwidth and
+    NUMA/PCIe topology for LLM/SLM workloads.
+  - LLM/SLM Runtimes: Work with vLLM, TensorRT-LLM, Triton;
+    apply FP8/INT4 quantization; tune KV-cache strategies.
+    Build POCs for disaggregated prefill/decode, standardize
+    Triton repos, and optimize batching.
+  - Orchestration: Use Run: AI structures
+    (Collections/Departments/Projects), manage OCP/GKE
+    environments. Implement GPU allocation patterns, enforce
+    quotas, preemption, fair-share scheduling.
+  - OpenShift AI: Configure RHOAI GPU scheduling and time
+    slicing, use helm/kustomize, validate upgrades. Achieve
+    platform parity, certify charts and policies, ensure
+    admission controls function reliably.
+  - API & Gateway: Apply Apigee authN/Z, manage quotas, rate
+    limits, OpenAPI specs, SDK generation, SLA operations.
+    Productionize model endpoints, manage versioning and
+    deprecation, enforce gateway-level SLAs
+  - Observability & Evaluation: Use Overwatch + Arize for
+    tracing and evals, define SLOs, alerts, retention/export
+    processes. Trace prompts/tools/agents, enforce data
+    retention, publish standardized dashboards.
+  - CI/CD & Artifacts: Manage JFrog repos, image scanning, helm
+    releases, canary/rollback workflows. Standardize artifact
+    flow, automate safe promotions, ensure compliant releases.
+  - Performance Engineering: Model throughput/latency, optimize
+    token/sec, batch shaping, cache policies. Produce per-
+    model performance recipes, tune cost/performance tradeoffs
+    for LLM/SLM.
+  - Controls & SDLC: Apply JAD lite practices, manage change
+    controls, secrets hygiene, namespace/network policies.
+    Maintain compliance across GPU estate, ensure full
+    auditability and proper access boundaries.
+  - Communication: Create executive-friendly narratives, write
+    architectures and runbooks, present in forums. Deliver
+    content in offsites/CIO forums, publish clear decision
+    memos.
+  
+  Posting End Date:  3 Mar 2026 *Job posting may come down
+  early due to volume of applicants. We Value Equal
+  Opportunity Wells Fargo is an equal opportunity employer.
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability, status as a protected veteran, or any other
+  legally protected characteristic. Employees support our
+  focus on building strong customer relationships balanced
+  with a strong risk mitigating and compliance-driven culture
+  which firmly establishes those disciplines as critical to
+  the success of our customers and company. They are
+  accountable for execution of all applicable risk programs
+  (Credit, Market, Financial Crimes, Operational, Regulatory
+  Compliance), which includes effectively following and
+  adhering to applicable Wells Fargo policies and procedures,
+  appropriately fulfilling risk and compliance obligations,
+  timely and effective escalation and remediation of issues,
+  and making sound risk decisions. There is emphasis on
+  proactive monitoring, governance, risk identification and
+  escalation, as well as making sound risk decisions
+  commensurate with the business unit's risk appetite and all
+  risk and compliance program requirements. Candidates
+  applying to job openings posted in Canada: Applications for
+  employment are encouraged from all qualified candidates,
+  including women, persons with disabilities, aboriginal
+  peoples and visible minorities. Accommodation for applicants
+  with disabilities is available upon request in connection
+  with the recruitment process. Applicants with Disabilities
+  To request a medical accommodation during the application or
+  interview process, visit Disability Inclusion at Wells Fargo
+  . Drug and Alcohol Policy Wells Fargo maintains a drug free
+  workplace. Please see our Drug and Alcohol Policy to learn
+  more. Wells Fargo Recruitment and Hiring Requirements: a.
+  Third-Party recordings are prohibited unless authorized by
+  Wells Fargo. b. Wells Fargo requires you to directly
+  represent your own experiences during the recruiting and
+  hiring process.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-02-26
+url: "https://builtin.com/job/principal-engineer/8409598"
+source: Built In

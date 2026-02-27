@@ -1,0 +1,55 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software and AI solutions
+position:
+  title: Sr Staff Software Engineer - AI | Studio
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Staff Software Engineer role focused on
+      developing microservices and infrastructure for AI products.
+      The position involves building the platform and backend
+      systems that integrate AI technologies from OpenAI, Google,
+      IBM Watson, and Amazon, rather than directly building,
+      training, or fine-tuning AI models. The role emphasizes
+      distributed systems architecture, cloud platforms
+      (GCP/AWS/Azure), and backend development using Java and
+      Spring Boot, which are support functions enabling AI
+      applications.
+  responsibilities:
+  - Take deep ownership of product software engineering including feature development,
+    technical debt management, and production incident response
+  - Provide mentorship and technical leadership to local engineering teams while serving
+    as go-to expert for complex challenges
+  - Own end-to-end design and implementation of features including scope definition,
+    backlog refinement, and timely delivery
+  - Write clean, maintainable code to deliver new product features and establish coding
+    standards and best practices
+  - Lead investigations and root cause analyses for production issues to improve system
+    stability and reliability
+  - Work closely with senior leadership and cross-functional teams to communicate
+    system health and drive technical initiatives
+  use_cases:
+  - AI-powered self-service customer experience agents that operate at high speed
+  - Intelligent handoff between AI agents and live human agents when required
+  - AI support for live agents to enhance their capabilities during customer interactions
+  - Supervisor and manager tools to optimize the blend of human and AI resources
+  - Contact center solutions integrating Generative AI and Large Language Models from
+    OpenAI, Google, IBM Watson, and Amazon
+  skills:
+    genai: [Generative AI, Large Language Models]
+    ml: []
+    web: [Spring Boot, Microservices, Vue.js, React, Laravel]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubernetes, Docker, CI/CD, Git, New Relic, Grafana, Prometheus]
+    languages: [Java, Python, JavaScript, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7624758'
+  extracted_at: '2026-02-27T11:55:32.489713'

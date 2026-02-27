@@ -1,0 +1,52 @@
+company:
+  name: ABBYY
+  stage: Public
+  focus: |-
+    AI-powered document processing and intelligent automation
+    platform
+position:
+  title: Staff Software Engineer (AI/ML/ SaaS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is an AI/ML platform engineering position focused
+      on building infrastructure and platforms that enable ML
+      workflows. The engineer builds deployment pipelines,
+      Kubernetes platforms, and MLOps workflows to support ML
+      researchers, but does not directly build, train, or fine-
+      tune models themselves.
+  responsibilities:
+  - Design and build scalable AI platform services using Python and microservice architectures
+  - Own DevOps and MLOps workflows including CI/CD, model deployment, versioning,
+    and rollback
+  - Build and maintain Kubernetes-based platforms for AI workloads
+  - Work on data pipelines, dataset versioning, and auto-labeling workflows for model
+    training
+  - 'Enable end-to-end ML lifecycle: data ingestion, training, evaluation, deployment,
+    and monitoring'
+  - Collaborate closely with ML researchers, product teams, and other platform engineers
+  - Drive best practices in software design, reliability, security, and observability
+  - Lead technical discussions, review designs, and mentor team members
+  use_cases:
+  - Document processing and capture automation
+  - Enterprise information transformation
+  - Intelligent document processing (IDP) platform
+  - AI-powered workflow automation
+  - Natural Language Processing for documents
+  - Computer Vision for document understanding
+  skills:
+    genai: []
+    ml: []
+    web: [microservices]
+    databases: []
+    data: [data pipelines]
+    cloud: [Azure]
+    ops: [Kubernetes, MLOps, DevOps, CI/CD, model deployment, observability]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8321968'
+  extracted_at: '2026-02-27T11:37:59.929224'

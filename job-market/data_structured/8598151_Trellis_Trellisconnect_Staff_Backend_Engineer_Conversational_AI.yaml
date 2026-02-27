@@ -1,0 +1,51 @@
+company:
+  name: Trellis (Trellisconnect)
+  stage: Series A
+  focus: Insurance technology and customer experience platform
+position:
+  title: Staff Backend Engineer, Conversational AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff Backend Engineer role on the Conversational
+      AI team, but the work focuses on building infrastructure,
+      APIs, and systems that support AI rather than directly
+      building models. The role involves working with the Data
+      Science team to leverage MLMs in tools like DataRobot, but
+      the engineer's primary responsibilities are backend
+      architecture, API design, and platform scalability rather
+      than model development, fine-tuning, or deploying LLMs
+      directly.
+  responsibilities:
+  - Own the ideation and execution of high-impact projects that directly influence
+    the user experience and business outcomes
+  - Flesh out and evolve the Conversational AI Engineering roadmap alongside product
+    and technical leadership
+  - 'Incept projects: identify opportunities, design solutions, and lead implementation'
+  - Guide integration efforts with external agencies and insurance carriers
+  - Normalize, rank, and evaluate results using ML-based predictions to determine
+    optimal user paths
+  - Work closely with the Data Science team to leverage MLMs in tools like DataRobot
+    for retention forecasting and decision logic
+  use_cases:
+  - Insurance customer experience through conversational AI
+  - Retention forecasting and decision logic using ML-based predictions
+  - Optimal user path determination for insurance shopping
+  - Integration with external agencies and insurance carriers
+  - Natural, engaging conversations between users and the insurance platform
+  skills:
+    genai: [Conversational AI]
+    ml: [DataRobot]
+    web: [RESTful APIs]
+    databases: [BigQuery]
+    data: [Looker]
+    cloud: [GCP]
+    ops: []
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: [Backend systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8598151'
+  extracted_at: '2026-02-27T12:02:41.042455'

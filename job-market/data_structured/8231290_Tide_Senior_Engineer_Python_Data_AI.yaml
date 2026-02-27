@@ -1,0 +1,46 @@
+company:
+  name: Tide
+  stage: Series C+
+  focus: Business banking and administrative solutions for SMEs
+position:
+  title: Senior Engineer, Python (Data & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Backend Python Engineer who integrates
+      already-trained ML models into services rather than
+      building, training, or fine-tuning models. The focus is on
+      architecting, designing, and maintaining backend services
+      that support ML infrastructure, which aligns with ai-
+      support.
+  responsibilities:
+  - Work with product owners, backend engineers, and data scientists to translate
+    requirements into well-engineered solutions
+  - Architect, design, test, implement, deploy, monitor and maintain end-to-end backend
+    services with build it, own it mentality
+  - Integrate already trained ML models into backend services
+  - Collaborate with cross-functional teams to ensure efficient project execution
+    and deliver value to members
+  - Align team vision and roadmap with target architecture to ensure success of multi-domain
+    initiatives
+  use_cases:
+  - Business banking services for SMEs
+  - Invoicing and accounting solutions
+  - Data-driven decision support for small business operations
+  - ML model integration for financial services
+  skills:
+    genai: []
+    ml: []
+    web: [Django, FastAPI, Flask, REST APIs]
+    databases: [Snowflake]
+    data: [Event-driven architectures, Databricks, ML feature store, Kafka, Tecton]
+    cloud: [AWS]
+    ops: [CI/CD, GitHub Actions, Fiddler]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231290'
+  extracted_at: '2026-02-27T11:28:15.247538'

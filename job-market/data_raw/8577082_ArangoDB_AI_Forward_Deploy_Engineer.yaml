@@ -1,0 +1,174 @@
+job_id: 8577082
+title: AI Forward Deploy Engineer
+company: ArangoDB
+location: New Delhi, IND
+work_type: FULL_TIME
+level: Senior level
+company_size: 110 Employees
+description: |
+  About Arango:
+  
+  At Arango we're on a mission to make working with complex
+  data simple, powerful, and AI-ready. Based in California and
+  in Cologne (with a global team), we’re building a cutting-
+  edge data platform that helps organizations bring all their
+  data together — graph, document, key/value, full-text, and
+  vector search — in one engine.
+  
+  Why does that matter? Because it means developers and data
+  teams can build next-gen AI applications like RAG, knowledge
+  graphs, and smart agents — without gluing together a bunch
+  of tools that were never meant to work together.
+  
+  Our platform makes it easy to work with any kind of data-
+  structured, semi-structured, or unstructured, and it gives
+  teams everything they need to build faster, smarter, and
+  with way more context. From our easy-to-learn AQL query
+  language to modern integration tools, we’re here to help
+  teams grow and scale with AI.
+  
+  About the role:
+  
+   Arango is looking for an AI Forward Deploy Engineer to
+  embed with our customers and deliver real, production‑grade
+  AI solutions—fast. You’ll run discovery, design and
+  prototype systems, ship secure and reliable services, and
+  ensure adoption and measurable business impact. Think
+  full‑stack AI + MLOps + product sense, delivered
+  side‑by‑side with users.
+  
+  This is a hands-on, customer-facing role for engineers who
+  are as comfortable whiteboarding with executives as they are
+  profiling latency in a retrieval pipeline.
+  
+  
+  Location: INDIA - only applicants living in India will be
+  considered (Must be fluent in English)
+  
+  Key Responsibilities:
+  
+  - Partner with customer sponsors, SMEs, and operators to
+    identify high‑value AI use cases.
+  - Define success metrics, SLAs/SLOs, data access needs, and a
+    delivery plan (PoV → pilot → production)
+  - Build end‑to‑end prototypes (data connectors, RAG pipelines,
+    prompts/tools, UIs/APIs).
+  - Productionize into secure, observable services with CI/CD,
+    infrastructure‑as‑code, and proper testing
+  - Implement retrieval‑augmented generation (chunking,
+    embeddings, ranking, caching) and tool/call orchestration.
+  - Evaluate and iterate prompts, models, and retrieval
+    strategies using offline/online metrics and A/B tests.
+  - Where needed, fine‑tune or adapt models (LoRA/PEFT,
+    preference optimization/DPO, distillation) and optimize
+    inference (quantization, batching, vLLM/TGI/TensorRT‑LLM)
+  - Build robust data pipelines (ETL/ELT), vector indices, and
+    metadata governance.
+  - Monitor quality, drift, hallucination/guardrail events,
+    latency, and cost; set up alerting and dashboards
+  - Implement role‑based access, secrets management, audit
+    logging, PII redaction, and content safety filters.
+  - Align solutions to customer requirements (e.g., SOC2/ISO
+    27001, GDPR/CCPA, HIPAA as applicable)
+  - Document architectures and playbooks; train customer
+    engineers and end users.
+  - Capture product feedback and influence [Company]’s roadmap
+    with field learnings.
+  
+  Required Qualifications:
+  
+  - 4+ years of software engineering experience building and
+    operating production systems (or equivalent).
+  - Strong AI, Python skills; solid understanding of data
+    structures, networking, concurrency, and systems design.
+  - Hands‑on experience with modern LLMs and tooling (e.g.,
+    OpenAI/Anthropic/Llama, Hugging Face,
+    LangChain/LlamaIndex, function/tool calling).
+  - Retrieval and vector databases (FAISS, pgvector, Pinecone,
+    Weaviate, or similar).
+  - Cloud & containers (AWS/GCP/Azure), Docker/Kubernetes, IaC
+    (Terraform/CloudFormation), and CI/CD.
+  - Observability (metrics, logs, traces) and performance tuning
+    for latency‑sensitive services.
+  - Excellent communication; experience working directly with
+    customers or cross‑functional stakeholders.
+  
+  Nice to have:
+  
+  - Front‑end or full‑stack experience (TypeScript/React,
+    Next.js) for light UI prototyping.
+  - Search/IR fundamentals (BM25, hybrid retrieval, re‑ranking).
+  - MLOps platforms (MLflow, Weights & Biases), evaluation
+    frameworks (Ragas, promptfoo, DeepEval).
+  - Inference optimization (vLLM, Text Generation Inference,
+    Triton, TensorRT‑LLM, quantization).
+  - Domain experience in [finance/healthcare/public
+    sector/manufacturing/retail].
+  - Security/compliance familiarity; prior work with data
+    residency, KMS/HSM, or private networking.
+  - Government/industry clearances where relevant.
+  
+  What Success Looks Like (6–12 months):
+  
+  - 2–4 customer use cases deployed to production with
+    agreed‑upon uptime, latency, and cost targets.
+  - Demonstrable quality lifts (e.g., task accuracy, deflection
+    rate, cycle time) backed by evals and telemetry.
+  - Reusable building blocks (templates/operators/connectors)
+    adopted by the broader delivery team.
+  - Customer enablement completed (runbooks, docs, training)
+    with strong satisfaction/NPS.
+  
+  Our Toolset:
+  
+  - Models & SDKs: OpenAI, Anthropic, Meta Llama, Hugging Face
+  - Retrieval: FAISS, pgvector, Pinecone, Weaviate; rerankers
+    (ColBERT, cross‑encoders)
+  - Pipelines & Orchestration: LangChain, LlamaIndex, Ray,
+    Airflow
+  - MLOps & Evals: MLflow, Weights & Biases, Ragas, promptfoo,
+    Great Expectations
+  - Serving & Infra: vLLM, TGI, FastAPI/gRPC, Docker/K8s,
+    Terraform, GitHub Actions
+  - Observability & Guardrails: OpenTelemetry,
+    Prometheus/Grafana, Llama Guard/Content Safety, custom
+    filters
+  - Data: Postgres/BigQuery/Snowflake; Kafka; object storage
+  
+  Sample Projects You Might Tackle:
+  
+  - Secure RAG assistant over millions of documents with hybrid
+    search, guardrails, and cost‑aware caching.
+  - High‑volume customer support copilot that integrates with
+    CRM/ITSM and meets a strict response‑time SLO.
+  - Document intake pipeline with PII detection/redaction and
+    structured extraction (LLM + regex + heuristics).
+  - Fine‑tuned classification/routing model that reduces human
+    triage by 40%+.
+  
+  Why Join Arango:
+  
+  Our headquarters is in San Francisco (US) and we have an
+  office in Cologne (Germany), but most of our diverse team
+  works remotely worldwide. So, do you prefer your desk at
+  home or do you want to join us at one of our locations? Your
+  choice.
+  
+  The global minds of Arango team comes from 5 different
+  continents and more than 20 countries. Diverse backgrounds
+  enable us to see new solutions. We invite people from every
+  culture, national origin, religion, sexual orientation,
+  gender identity or expression, and of every age to apply to
+  our positions. All employment decisions are based on
+  business needs, job requirements, and individual
+  qualifications. Arango is committed to a workplace free of
+  discrimination and harassment based on any of these
+  characteristics. We love this diversity and encourage
+  everyone curious and visionary to join the multi-model
+  movement.
+industries:
+  - Database
+  - Analytics
+posted_date: 2026-02-24
+url: "https://builtin.com/job/ai-forward-deploy-engineer/8577082"
+source: Built In

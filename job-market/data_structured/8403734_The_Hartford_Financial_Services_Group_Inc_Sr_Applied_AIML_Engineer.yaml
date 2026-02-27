@@ -1,0 +1,54 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: Public
+  focus: Insurance and financial services
+position:
+  title: Sr Applied AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role focused on building,
+      deploying, and fine-tuning LLM-powered systems including
+      agentic AI, RAG, and multi-agent workflows. The role
+      directly works with AI/ML models and architectures rather
+      than just supporting infrastructure for others.
+  responsibilities:
+  - Design and develop AI/ML solutions to drive transformation and improve processes
+    in underwriting, claims, operations, and corporate functions
+  - Design, build and maintain scalable Agentic AI systems including multi-agent workflows,
+    remote agent orchestration, tool calling, and human-in-the-loop feedback
+  - Implement evaluation-driven development harness with grading logic and rubrics
+    for evaluating AI agents and tuning for quality, safety, and reliability
+  - Build full stack AI agents using latest Agentic AI/UI frameworks and standards
+    including A2A, AAIF, A2UI, agent skills, and MCP
+  - Develop advanced RAG systems including Agentic RAG and GraphRAG to enhance accuracy
+    and relevancy
+  - Build scalable, fault-tolerant solutions on AWS and/or GCP in a multi-cloud ecosystem
+  - Instrument AI observability using OpenTelemetry and set up offline evaluation,
+    drift monitoring, and playbacks
+  use_cases:
+  - Insurance underwriting transformation
+  - Claims processing automation
+  - Operational process improvement
+  - Enterprise search and knowledge retrieval
+  - Multi-agent workflow orchestration
+  - AI-powered customer service
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG, Agentic RAG, GraphRAG, MCP, Prompt
+        engineering, LLMs, GPT]
+    ml: [Embedding models, BERT]
+    web: [FastAPI, REST APIs, Microservices, React]
+    databases: [PostgreSQL, MongoDB]
+    data: [Spark, Hadoop, Hive, Data pipelines]
+    cloud: [AWS Bedrock, AWS SageMaker, Google Vertex AI, Vertex AI Search, Vertex
+        AI RAG Engine, AWS, GCP]
+    ops: [OpenTelemetry, MLflow, Kubernetes, Docker]
+    languages: [Python, TypeScript, JavaScript, NodeJS]
+    domains: [Semantic search]
+    other: [SOLID principles, 12 Factor App, Design patterns, SAFe, Agile, OAuth2.1,
+      SAML, OIDC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8403734'
+  extracted_at: '2026-02-27T11:21:15.718892'

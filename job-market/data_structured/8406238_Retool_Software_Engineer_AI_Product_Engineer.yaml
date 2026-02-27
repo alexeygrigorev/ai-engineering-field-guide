@@ -1,0 +1,48 @@
+company:
+  name: Retool
+  stage: Series D+
+  focus: Internal tools development platform
+position:
+  title: Software Engineer, AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on working directly with LLMs and AI
+      systems - building RAG implementations, few-shot prompting,
+      agentic architectures, and generative UIs that create apps
+      from natural language. The engineer is developing,
+      evaluating, and optimizing AI features, not just supporting
+      infrastructure for other AI practitioners.
+  responsibilities:
+  - Build generative UIs that enable users to create real applications from natural
+    language descriptions
+  - Improve performance, observability, and safety of internal model architecture
+  - Extend AI evaluation systems to support smarter ranking, feedback loops, and product
+    metrics
+  - Develop patterns for retrieval-augmented generation (RAG), few-shot prompting,
+    and agentic architecture
+  - Contribute to building internal tools that accelerate iteration on AI features
+    and workflows
+  use_cases:
+  - Natural language to app generation
+  - Intelligent internal tools development
+  - Developer productivity automation
+  - AI-powered software building
+  - Enterprise operational tools
+  skills:
+    genai: [RAG, Few-shot prompting, CoT, Embeddings, Agentic architecture, Prompt
+        orchestration]
+    ml: [Fine-tuning pipelines]
+    web: [Node.js, React]
+    databases: [Vector databases, PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Evaluation techniques, Model hosting]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8406238'
+  extracted_at: '2026-02-27T11:38:29.350995'

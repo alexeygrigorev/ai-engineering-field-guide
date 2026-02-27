@@ -1,0 +1,52 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: Cloud infrastructure monitoring and SaaS platform
+position:
+  title: Staff AI Engineer - Notebooks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI-driven features
+      including agent systems, retrieval strategies, prompt
+      management, and human-in-the-loop processes for Notebooks.
+      The engineer is responsible for model deployment, training,
+      fine-tuning, and evaluation, which indicates hands-on work
+      with AI/ML systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Spearhead AI initiatives within Notebooks, serving as the technical owner for
+    the design, development, and deployment of ML/AI-driven features
+  - Shape the long-term technical direction and strategy for AI workflows within Notebooks
+    and related products
+  - Champion the full development cycle from rapid prototyping and defining success
+    metrics to production-ready scale and reliability
+  - Drive product direction with a strong user focus, advocating for the best end-user
+    experience
+  - Develop robust agent systems including tools, retrieval and planning strategies,
+    guardrails, prompt management, evaluations, and human-in-the-loop processes
+  - Coordinate with other leaders and product teams to leverage Notebooks in AI-powered
+    workflows
+  use_cases:
+  - Natural-language data analysis
+  - Assisted graph generation
+  - Automated investigations
+  - Ad-hoc data analysis
+  - Collaborative investigations
+  - Technical documentation
+  skills:
+    genai: [LLMs, agents, RAG, prompt engineering]
+    ml: [PyTorch, TensorFlow, model fine-tuning, ML evaluation]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [model deployment, Docker, Kubernetes, MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8532101'
+  extracted_at: '2026-02-27T11:44:22.879763'

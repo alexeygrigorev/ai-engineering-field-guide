@@ -1,0 +1,46 @@
+company:
+  name: Unisys
+  stage: Public
+  focus: Global IT services and solutions
+position:
+  title: Full Stack Developer (Cloud & AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of agentic AI systems
+      using LLMs, LangChain, and LangGraph. The developer will
+      build intelligent agents, implement memory mechanisms, and
+      perform prompt engineering - all direct work on AI systems
+      rather than supporting infrastructure.
+  responsibilities:
+  - Provide ongoing maintenance, bug fixing, and production support for existing Java
+    applications
+  - Analyze, design, and implement feature enhancements to meet evolving business
+    requirements
+  - Work with Azure and AWS cloud platforms to deploy and manage application infrastructure
+  - Design and implement Infrastructure as Code using Terraform to automate resource
+    provisioning
+  - Build intelligent AI-driven agents using Large Language Models (LLMs)
+  - Develop AI orchestration scripts and automation tools using Python
+  use_cases:
+  - Agentic AI workflows with contextual reasoning
+  - Enterprise application maintenance and enhancement
+  - Cloud infrastructure automation and deployment
+  - AI-driven automation tools and scripts
+  - Memory-enabled agentic AI systems
+  skills:
+    genai: [LLMs, LangChain, LangGraph, ReAct, Prompt engineering]
+    ml: []
+    web: [Angular, Spring Boot, REST API]
+    databases: [MySQL]
+    data: [RabbitMQ]
+    cloud: [Azure, AWS]
+    ops: [Terraform, CI/CD, Git]
+    languages: [Java, TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8489789'
+  extracted_at: '2026-02-27T11:47:34.017434'

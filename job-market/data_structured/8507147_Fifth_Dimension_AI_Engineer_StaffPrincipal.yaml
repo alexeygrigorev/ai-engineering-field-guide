@@ -1,0 +1,54 @@
+company:
+  name: Fifth Dimension
+  stage: Seed
+  focus: |-
+    AI-powered workspace for document-heavy industries, focusing
+    on real estate
+position:
+  title: AI Engineer (Staff/Principal)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      generative AI systems including multi-step agentic content
+      generation, advanced data extraction pipelines, and workflow
+      automation for document analysis. The engineer will own the
+      complete lifecycle from architecture through deployment of
+      AI solutions, working hands-on with AI models rather than
+      just supporting infrastructure.
+  responsibilities:
+  - Own end-to-end delivery of complex features from initial concept to production
+    deployment and customer adoption
+  - Architect and implement innovative AI technology including advanced data extraction
+    systems and multi-step agentic content generation
+  - Collaborate with product and commercial teams to understand customer needs and
+    translate them into robust technical solutions
+  - Leverage AI coding tools like Claude Code to accelerate development workflows
+    and tackle higher-level architectural challenges
+  - Implement data privacy and security by design across all AI solutions
+  - Mentor other engineers and help establish engineering best practices while balancing
+    technical excellence with business impact
+  use_cases:
+  - Automated extraction of valuable insights from property leases and real estate
+    documents
+  - Workflow automation for analyzing planning documents and drafting advice
+  - Multi-step agentic content generation for creating market research reports
+  - Enterprise document management system integration for real estate firms
+  - AI-powered analysis to help investment managers and developers make faster, more
+    informed decisions
+  skills:
+    genai: [Claude Code, GitHub Copilot, Cursor, Generative AI, Agentic systems]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Microservices, Data privacy, Testing, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8507147'
+  extracted_at: '2026-02-27T11:42:20.267173'

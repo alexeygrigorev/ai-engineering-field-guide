@@ -1,0 +1,49 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI/ML
+position:
+  title: Senior AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with foundation
+      models and LLMs including training, inference, optimization,
+      and deployment. The responsibilities explicitly mention
+      building AI software components for LLM inference,
+      similarity search, and implementing state-of-the-art LLM
+      optimization techniques for production systems.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that change
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, large language model inference, similarity search, guardrails,
+    model evaluation, experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve performance,
+    scalability, cost, latency, and throughput of large scale production AI systems
+  - Contribute to the technical vision and long term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and fraud detection
+  - Answering customer questions in real time through conversational AI
+  - Enterprise search and similarity search capabilities
+  - AI-powered associate tools and productivity enhancements
+  skills:
+    genai: [Large Language Models, RAG, Nemo Guardrails]
+    ml: [PyTorch, Hugging Face, Foundation Model Training, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Similarity Search]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [LLM Inference, LLM Optimization, Experimentation, ML Governance, ML Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7555103'
+  extracted_at: '2026-02-27T11:52:38.459355'

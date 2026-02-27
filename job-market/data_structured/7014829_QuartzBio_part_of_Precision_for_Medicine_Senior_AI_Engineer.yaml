@@ -1,0 +1,50 @@
+company:
+  name: QuartzBio, part of Precision for Medicine
+  stage: null
+  focus: SaaS biomarker data management & analytics for life sciences
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building GenAI systems including
+      RAG architectures, vector search, embeddings, LLMs, and
+      conversational data exploration features deployed to
+      production environments. This is directly working ON AI
+      systems, not just supporting AI infrastructure.
+  responsibilities:
+  - Architect and scale GenAI systems for conversational data exploration, addressing
+    real-world biomarker data challenges through production-ready features
+  - Design and implement AI-first architectures, including GenAI pipelines, embeddings,
+    vector search, and semantic search technologies
+  - Make strategic architectural decisions that balance performance, cost, scalability,
+    and maintainability across AI systems
+  - Continuously improve AI-powered features, optimizing for accuracy, latency, and
+    user experience
+  - Shape the roadmap for AI experiences, aligning technical innovation with product
+    goals and user needs
+  - Collaborate with cross-functional teams including Product, Design, and Engineering
+    teams to design, develop, test, and maintain software applications
+  use_cases:
+  - Conversational data exploration for biomarker data
+  - Semantic search and insight generation for clinical and biospecimen data
+  - Automated data management workflows for biotech/pharma R&D teams
+  - Enterprise-level sample and biomarker data management solutions
+  - Connecting biospecimen, assay, and clinical data sources for integrated analytics
+  skills:
+    genai: [semantic search, RAG architectures, LLMs, embedding models, LangChain,
+      LlamaIndex, GitHub Copilot]
+    ml: [Data Structures and Algorithms]
+    web: [Django, FastAPI, Flask, React]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7014829'
+  extracted_at: '2026-02-27T12:06:39.900676'

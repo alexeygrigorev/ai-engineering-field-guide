@@ -1,0 +1,55 @@
+company:
+  name: Cepheid
+  stage: Public
+  focus: Diagnostics and life sciences technology
+position:
+  title: Senior Data and AI engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is focused on building data pipelines, data lakes,
+      and data platforms that support AI/ML workloads. The primary
+      responsibilities involve data engineering tasks (pipeline
+      development, data architecture, data lakes) to enable data
+      scientists and ML teams, rather than directly building,
+      training, or deploying AI models themselves. While the role
+      supports agentic AI applications, the hands-on work is on
+      the data infrastructure side, not the model development
+      side.
+  responsibilities:
+  - Design, develop, and maintain robust, scalable, and efficient data pipelines to
+    ingest, transform, and serve data for AI/ML and analytics workloads
+  - Architect and maintain scalable, secure, and low-latency data pipelines and systems
+    to support agentic AI applications
+  - Collaborate with data scientists and engineering teams to translate business requirements
+    into technical data solutions
+  - Develop and manage data architecture, data lakes, and data warehouses supporting
+    Service AI use cases
+  - Optimize data storage, compute, and retrieval strategies for structured and unstructured
+    data including logs, text, images, and telemetry
+  - Support MLOps workflows by enabling model deployment, monitoring, and versioning
+    pipelines
+  use_cases:
+  - Ticket analytics for service operations
+  - Customer interaction insights and analysis
+  - Predictive maintenance for equipment
+  - Resource planning optimization
+  - Equipment failure prediction
+  - Service AI applications for technical support
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, Redshift, BigQuery, Data Lakehouse]
+    data: [PySpark, Spark, Databricks, Azure Synapse, Airflow, Prefect, Azure Data
+        Factory, Kafka, Power BI, Real-time Streaming, Data Integration]
+    cloud: [AWS, Azure, GCP, S3, Kinesis, Pub/Sub]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power App, Power Automate, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476329'
+  extracted_at: '2026-02-27T11:53:06.637888'

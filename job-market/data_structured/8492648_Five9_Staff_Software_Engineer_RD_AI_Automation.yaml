@@ -1,0 +1,57 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software
+position:
+  title: Staff Software Engineer | R&D AI Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily focused on re-architecting and
+      modernizing the Studio product into Java microservices on
+      GCP, with responsibilities around backend development,
+      scalability, and operational ownership. While the team works
+      with AI services (Azure OpenAI, Google AI APIs), the
+      engineer is building the infrastructure and platform that
+      supports AI solutions rather than building, training, or
+      fine-tuning models directly. The role is a general software
+      engineering position in an AI company, placing it in the ai-
+      support category.
+  responsibilities:
+  - Lead the design, development, and implementation of new features and change requests
+    for the Studio product
+  - Re-architect and modernize the Studio platform into Java-based microservices on
+    GCP
+  - Take operational ownership of service performance and quality, including on-call
+    rotation and incident management
+  - Collaborate with product owners and designers to expand the feature set and deliver
+    high-quality user experiences
+  - Write high-quality, efficient, and maintainable code focusing on scalability and
+    multi-tenancy
+  - Serve as a technical expert and mentor, providing guidance to peers and cross-functional
+    teams
+  use_cases:
+  - AI-powered self-service agents delivering efficient customer support at super-human
+    speeds
+  - Seamless integration between AI agents and live human agents for enhanced customer
+    experience
+  - AI-assisted live agents with intelligent support and guidance
+  - Workforce optimization for supervisors managing human and AI resources
+  - Drag-and-drop flow builder for integrating voice, SMS, and chatbot channels
+  - Contact center automation with virtual agents and IVR systems
+  skills:
+    genai: [Azure OpenAI, Google AI APIs]
+    ml: []
+    web: [Spring Boot, Vue.js, React]
+    databases: [SQL, NoSQL, MySQL, Redis, MongoDB]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubernetes, Docker, CI/CD, New Relic, Grafana, Prometheus]
+    languages: [Java, Python, PHP, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8492648'
+  extracted_at: '2026-02-27T11:46:16.326303'

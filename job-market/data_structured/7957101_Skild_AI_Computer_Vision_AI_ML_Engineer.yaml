@@ -1,0 +1,52 @@
+company:
+  name: Skild AI
+  stage: null
+  focus: General purpose robotic intelligence
+position:
+  title: Computer Vision AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      deep learning models for computer vision perception systems
+      in robotics. The engineer will work across the full ML
+      lifecycle including model development, optimization,
+      training, and real-time deployment, which directly aligns
+      with building AI systems.
+  responsibilities:
+  - Develop and optimize deep learning models for object detection, segmentation,
+    tracking, and 3D scene understanding using multi-modal sensor data
+  - Build scalable pipelines for data processing, training, evaluation, and deployment
+    into real-world and real-time systems
+  - Design labeling strategies and tooling for automated annotation, QA workflows,
+    dataset management, augmentation, and versioning
+  - Implement monitoring and reliability frameworks, including uncertainty estimation,
+    failure detection, and automated performance reporting
+  - Conduct proof-of-concept experiments to evaluate new algorithms and perception
+    techniques; translate research insights into practical prototypes
+  - Collaborate with robotics, systems, and simulation teams to integrate perception
+    models into production pipelines and improve end-to-end performance
+  use_cases:
+  - General purpose robotic intelligence for widespread deployment
+  - Real-world robotics and automation perception systems
+  - Multi-modal sensor fusion for scene understanding
+  - Robust perception adapting to unseen scenarios
+  - Real-time computer vision for robotics applications
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX, Data Augmentation, Uncertainty Modeling]
+    web: []
+    databases: []
+    data: [Dataset Management]
+    cloud: []
+    ops: [Real-time Systems, Reliability Engineering, ML Monitoring, MLOps]
+    languages: [Python, C++]
+    domains: [Computer Vision, Object Detection, Segmentation, Tracking, 3D Scene
+        Understanding, 3D Geometry, Sensor Processing, Multi-sensor Fusion, RGB-D,
+      LiDAR, Stereo, Robotics]
+    other: [Data Annotation Tools, Isaac Sim, Gazebo, Blender]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7957101'
+  extracted_at: '2026-02-27T11:40:13.051170'

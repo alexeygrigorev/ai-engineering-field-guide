@@ -1,0 +1,168 @@
+job_id: 8490306
+title: Lead AI Developer (Hybrid)
+company: Parsec Automation
+location: Anaheim, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Asp.Net
+  - Azure
+  - "C#"
+  - Llm Apis
+  - SQL Server
+description: |
+  About Parsec
+  
+  Parsec Automation, LLC is a global leader in manufacturing
+  operations management software. Recognized by Gartner, IDC,
+  and numerous industry awards, Parsec’s flagship MES
+  platform, TrakSYS™, powers efficiency, quality, and
+  compliance improvements at over 11,000 plants across 140+
+  countries. Manufacturers such as Johnson & Johnson, Merck,
+  Toyota, Procter & Gamble, Hershey, Siemens, and DuPont rely
+  on TrakSYS to manage complex operations with clarity and
+  precision.
+  
+  Parsec is backed by BVP Forge, part of the $20B Bessemer
+  platform, known for supporting category-defining companies
+  such as LinkedIn, Procore, Shopify, and Toast.
+  
+  About the Role
+  
+  The Lead AI Developer will architect and implement advanced
+  AI capabilities inside our Microsoft-based, customer-network
+  (on-prem) platform. A primary focus of this role is building
+  production-grade agentic AI functionality, including an MCP-
+  based tool ecosystem and secure integrations with hosted LLM
+  providers.
+  
+  This role goes beyond experimentation. You will design AI
+  systems that are safe, observable, scalable, and supportable
+  in regulated manufacturing environments. You will be hands-
+  on in architecture and development while also providing
+  technical leadership, mentorship, and design oversight
+  across AI-related initiatives within the platform.
+  
+  Key Responsibilities
+  
+  AI Architecture & Implementation (80%)
+  
+  - Define the reference architecture for AI capabilities within
+    an on-prem Microsoft stack (ASP.NET, .NET services, SQL
+    Server).
+  - Design and implement a production-grade agent runtime
+    integrated into web and service layers with clear
+    boundaries, policy controls, and auditability.
+  - Build agent/orchestrator services to manage:
+    - Conversation and task state
+    - Tool routing and execution
+    - Retries, timeouts, and step limits
+  - Integrate with hosted LLM providers (Azure OpenAI, OpenAI,
+    others) using function/tool calling patterns and response
+    quality guardrails.
+  - Establish patterns for MCP servers/clients, tool contracts
+    (schemas, semantics), versioning, and backward
+    compatibility.
+  - Build and maintain locally hosted MCP tool servers to
+    securely access:
+    - SQL Server (stored procedures, parameterized queries, row
+      limiting)
+    - Internal REST APIs and service endpoints
+    - File/report generation subsystems
+  - Implement safety boundaries (read-only vs. gated write
+    tools), validation layers, and consistent error handling.
+  - Design and implement human-in-the-loop workflows for
+    sensitive actions, including confirmations, approvals, and
+    UI transparency.
+  - Ensure secure-by-design principles including:
+    - Least privilege access
+    - Data minimization
+    - Secrets management
+    - Environment configuration standards
+    - Audit logging of tool calls and outputs
+  - Build comprehensive observability (structured logging,
+    tracing, metrics, dashboards).
+  - Develop and maintain a strong testing strategy (unit,
+    integration, contract testing, simulated tool failures)
+  
+  Technical Leadership & Collaboration (20%)
+  
+  - Provide technical leadership and mentorship across AI
+    development initiatives.
+  - Lead architecture discussions, conduct design/code reviews,
+    and drive implementation to completion.
+  - Partner with Product Management to translate prioritized use
+    cases into an actionable AI roadmap aligned to platform
+    constraints and release cadence.
+  - Create developer documentation and “golden path” templates
+    for building new agents and tools.
+  - Support on-prem deployment design (upgrade paths, rollback
+    strategies, diagnostics).
+  - Assist implementation and support teams in troubleshooting
+    AI-related issues.
+  - Continue expanding expertise in relevant technologies, the
+    TrakSYS™ platform, and manufacturing domain concepts.
+  
+  Required Qualifications
+  
+  - Bachelor’s degree in Computer Science, Engineering,
+    Information Technology, or related field.
+  - 7+ years of professional software development experience,
+    including production distributed systems.
+  - Strong .NET experience (C#, ASP.NET, Windows Services and/or
+    .NET Worker Services).
+  - Microsoft SQL Server experience (schema design, safe query
+    patterns, stored procedures/views, performance
+    fundamentals).
+  - Experience integrating with LLM APIs and implementing
+    production-grade tool/function calling patterns.
+  - Experience designing API/tool contracts (schemas,
+    versioning, error handling, idempotency,
+    pagination/limits).
+  - Solid understanding of security fundamentals
+    (authentication, authorization, least privilege, secrets
+    management, threat modeling).
+  - Ability to lead architecture discussions and produce clear
+    technical designs.
+  - Familiarity with Windows client/server environments and on-
+    prem deployment considerations.
+  
+  
+  
+  Preferred Qualifications
+  
+  - Experience with MCP (Model Context Protocol) or similar
+    plugin/tool ecosystems.
+  - Experience with Semantic Kernel and/or
+    Microsoft.Extensions.AI in .NET applications.
+  - Experience deploying enterprise software.
+  - Familiarity with manufacturing/MES concepts (ISA-95
+    hierarchies, production events, downtime, quality
+    workflows).
+  - Experience with Azure (identity, networking, OpenAI service
+    integration, monitoring).
+  - Experience implementing policy and guardrail layers
+    (approval flows, content filtering, RAG constraints).
+  
+  Benefits
+  
+  - $150,000 to $165,000 annual salary
+  - Flexible schedule
+  - Variable Bonus based on company and individual performance
+  - 401(k) with company match
+  - 100% company-paid health insurance premiums for employees
+  - Flexible vacation / PTO
+  - Flexible Spending Account (FSA) plan available for eligible
+    healthcare and dependent care expenses
+  - Outstanding team environment
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Internet of Things
+  - Software
+  - Analytics
+  - Automation
+  - Manufacturing
+posted_date: 2026-02-13
+url: "https://www.builtinla.com/job/lead-ai-developer-hybrid/8490306"
+source: Built In

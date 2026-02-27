@@ -1,0 +1,61 @@
+company:
+  name: Schonfeld
+  stage: Public
+  focus: |-
+    Global multi-manager hedge fund managing quantitative,
+    tactical, fundamental equity, and discretionary macro
+    strategies
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building data pipelines and
+      infrastructure that power AI systems rather than building or
+      training models themselves. The engineer is responsible for
+      data ingestion, ETL processes, and maintaining data
+      infrastructure (vector databases, semantic search) that
+      ENABLE AI engineers and data scientists to work with AI
+      systems, but does not directly build, deploy, or fine-tune
+      models.
+  responsibilities:
+  - Design and build scalable data pipelines using Prefect to ingest and transform
+    structured and unstructured data for SchonAI platform
+  - Develop ETL/ELT processes for diverse data sources including market data, research
+    documents, internal databases, and third-party APIs
+  - Build and maintain data infrastructure optimized for AI/ML workloads including
+    vector databases and semantic search systems
+  - Partner with AI engineers, software developers, and data scientists to understand
+    and fulfill data requirements for AI applications
+  - Integrate data pipelines with existing firm systems including risk platforms,
+    trading systems, and portfolio management tools
+  - Implement data access controls, encryption, and compliance measures to ensure
+    data governance and regulatory adherence
+  - Implement real-time and batch data processing workflows to meet varying latency
+    requirements for AI systems
+  - Implement data versioning, lineage tracking, and observability for AI training
+    and inference pipelines
+  use_cases:
+  - Investment research and analysis platform (SchonAI) for investment professionals
+  - Semantic search and retrieval over research documents and internal knowledge bases
+  - RAG (Retrieval Augmented Generation) systems for LLM-powered applications
+  - Market data processing and analysis for quantitative trading strategies
+  - Real-time data delivery for AI-powered investment insights and recommendations
+  skills:
+    genai: [RAG, Embedding pipelines]
+    ml: []
+    web: []
+    databases: [PostgreSQL, MySQL, MongoDB, DynamoDB, Elasticsearch, Pinecone, Weaviate,
+      Qdrant, BigQuery, SingleStore, RedShift, ClickHouse, Vector databases]
+    data: [Prefect, Apache Airflow, Dagster, Spark, Flink, Kafka, Kinesis, Pub/Sub,
+      ETL/ELT, Great Expectations, Deequ]
+    cloud: [AWS, GCP, S3]
+    ops: [Kubernetes, Docker, MLOps, Data versioning, Data lineage]
+    languages: [Python, SQL, Java, Scala, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8414840'
+  extracted_at: '2026-02-27T12:04:49.437476'

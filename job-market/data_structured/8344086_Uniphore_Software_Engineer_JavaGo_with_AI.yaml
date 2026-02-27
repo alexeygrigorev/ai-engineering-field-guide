@@ -1,0 +1,55 @@
+company:
+  name: Uniphore
+  stage: Public
+  focus: |-
+    B2B AI-native enterprise platform with multimodal AI
+    combining Generative AI, Knowledge AI, Emotion AI, and
+    workflow automation for customer experience
+position:
+  title: Software Engineer (Java/Go with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building LLM-based
+      features including RAG, vector search, and familiarity with
+      agent frameworks like LangChain and LangGraph. This
+      represents direct work on implementing AI/ML systems rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Design, develop, test, and maintain scalable backend and frontend components for
+    enterprise-grade SaaS applications
+  - Translate product and business requirements into clear technical designs and implementation
+    plans
+  - Contribute to system and API design, ensuring maintainability, performance, and
+    scalability
+  - Write high-quality, well-documented, and testable code following best practices
+  - Participate in peer code reviews and provide constructive feedback
+  - Collaborate effectively with cross-functional and multi-region teams to deliver
+    features within agreed timelines
+  - Support and improve existing systems through refactoring, optimization, and bug
+    fixes
+  - Follow Agile development practices and contribute to continuous improvement of
+    engineering processes
+  use_cases:
+  - Multimodal customer experience platform combining Generative AI, Knowledge AI,
+    and Emotion AI
+  - Enterprise workflow automation and AI-powered copilot guidance
+  - Voice, video, and text capture and analysis for customer interactions
+  - RAG-powered knowledge retrieval and vector search for enterprise data
+  - AI-powered agent systems for customer service automation
+  skills:
+    genai: [MCP, RAG, vector search, LangChain, LangGraph]
+    ml: [LoRA, QLoRA, instruction tuning]
+    web: [REST, WebSockets, gRPC]
+    databases: [Postgres, MongoDB, Redis, ClickHouse]
+    data: [Kafka]
+    cloud: []
+    ops: [MLOps, LLMOps]
+    languages: [Java, Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344086'
+  extracted_at: '2026-02-27T11:23:44.033674'

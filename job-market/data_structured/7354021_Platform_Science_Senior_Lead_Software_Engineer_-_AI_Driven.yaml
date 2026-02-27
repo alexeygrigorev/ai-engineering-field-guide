@@ -1,0 +1,48 @@
+company:
+  name: Platform Science
+  stage: Series C
+  focus: Open IoT platform for transportation industry
+position:
+  title: Senior Lead Software Engineer - AI Driven
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying AI/ML systems
+      including on-device machine learning models, AI agents using
+      LangChain and Google ADK, and full-stack AI capabilities.
+      The engineer is responsible for the entire MLOps lifecycle
+      and transitioning models from research to production, which
+      is direct AI work rather than support.
+  responsibilities:
+  - Lead the design and hands-on development of scalable, high-performance AI-driven
+    features for mobile and web products
+  - Develop and optimize on-device machine learning models and build robust backend
+    APIs for complex model serving on cloud platforms
+  - Collaborate with product managers and data scientists to define the technical
+    roadmap for AI integration and assess build vs. buy decisions
+  - Establish best practices for software development, microservices architecture,
+    and the full MLOps lifecycle
+  - Work with SMEs to transition models from research to production and partner with
+    other engineering teams to bring innovative solutions to market
+  use_cases:
+  - AI-driven features for Driver App and web platforms
+  - On-device machine learning for mobile applications
+  - Backend AI/ML model serving on cloud platforms
+  - AI agent implementation for transportation workflows
+  skills:
+    genai: [LangChain, Google ADK]
+    ml: [Firebase ML Kit, on-device ML]
+    web: [Android development, iOS development]
+    databases: []
+    data: [Apache Kafka, RabbitMQ]
+    cloud: [GCP, AWS, Azure]
+    ops: [MLOps, microservices architecture, Docker, Kubernetes, CI/CD pipelines,
+      Git]
+    languages: [Python]
+    domains: []
+    other: [TDD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7354021'
+  extracted_at: '2026-02-27T11:55:53.897074'

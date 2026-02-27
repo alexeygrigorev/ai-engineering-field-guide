@@ -1,0 +1,55 @@
+company:
+  name: DXC Technology
+  stage: Public
+  focus: Global IT services and consulting
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including Transformer-based architectures, fine-
+      tuning LLMs, implementing RAG pipelines, and building
+      intelligent agents. The engineer directly develops,
+      optimizes, and integrates AI solutions rather than providing
+      supporting infrastructure or general software engineering.
+  responsibilities:
+  - Design, develop, and optimize Transformer-based architectures including GPT, LLaMA,
+    Mistral, and Claude
+  - Fine-tune large language models for domain-specific applications
+  - Implement advanced prompt engineering strategies and RAG pipelines for enhanced
+    contextual performance
+  - Build intelligent agents using frameworks like LangChain, LlamaIndex, CrewAI,
+    and AutoGen
+  - Apply reinforcement learning techniques including Q-learning, policy gradients,
+    and RLlib
+  - Collaborate with cross-functional teams to integrate AI solutions into scalable
+    products
+  - Ensure best practices in data engineering and contribute to architectural decisions
+  - Mentor junior team members and support senior team members in identifying data
+    science opportunities
+  use_cases:
+  - Domain-specific language model applications
+  - Context-aware AI systems using RAG
+  - Intelligent agent-based solutions
+  - Reinforcement learning-powered systems
+  - Scalable AI product integration
+  - Data science opportunity identification
+  skills:
+    genai: [GPT, LLaMA, Mistral, Claude, prompt engineering, RAG, LangChain, LlamaIndex,
+      CrewAI, AutoGen]
+    ml: [fine-tuning, reinforcement learning, Q-learning, policy gradients, RLlib,
+      Transformer models]
+    web: []
+    databases: []
+    data: [data cleansing, exploratory data analysis, data visualization]
+    cloud: [Azure AI]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7635419'
+  extracted_at: '2026-02-27T11:39:01.774695'

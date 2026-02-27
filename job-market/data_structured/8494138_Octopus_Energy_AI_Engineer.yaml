@@ -1,0 +1,51 @@
+company:
+  name: Octopus Energy
+  stage: Public
+  focus: Energy supplier and technology platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building and scaling systems for LLMs, RAG,
+      and agents. Hands-on work with prompt engineering, knowledge
+      retrieval pipelines, and AI model evaluation - directly
+      working ON GenAI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and develop reusable, scalable platform services that expose GenAI models,
+    knowledge retrieval pipelines, and agent workflows to application teams
+  - Build and maintain knowledge retrieval systems including embedding generation,
+    chunking, and database management strategies
+  - Set up frameworks for monitoring and evaluating AI output quality including relevance,
+    accuracy, safety, drift, and cost
+  - Create prompt templates, system prompts, and guidelines for context engineering
+    and platform users
+  - Work with cross-functional teams to build flagship AI projects and develop best
+    practices for AI at Octopus
+  - Design and build backend applications and services that connect AI models into
+    wider applications and business logic
+  use_cases:
+  - Generate tens of thousands of high-quality customer emails combining energy industry
+    knowledge with customer-specific data
+  - Enterprise knowledge retrieval and search using RAG systems
+  - AI-powered customer support and communication systems
+  - Agent-based workflows for energy specialist assistance
+  - Platform services enabling multiple teams to deploy GenAI applications
+  skills:
+    genai: [LLMs, RAG, agents, agentic workflows, prompt engineering, prompt design,
+      tool calling, fine-tuning]
+    ml: [reinforcement learning, embeddings, ML evaluation]
+    web: [backend development]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: []
+    ops: [CI/CD, Git, logging, tracing, monitoring, testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8494138'
+  extracted_at: '2026-02-27T11:29:03.581601'

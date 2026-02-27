@@ -1,0 +1,53 @@
+company:
+  name: True Anomaly
+  stage: null
+  focus: |-
+    Space security technology at the intersection of spacecraft,
+    software, and AI
+position:
+  title: Staff Platform Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Platform Engineer role building infrastructure and
+      tooling to enable AI adoption across the company. The role
+      focuses on AI platform infrastructure, integrations, and
+      enablement rather than building, training, or fine-tuning
+      models directly.
+  responsibilities:
+  - Build and maintain AI platform infrastructure including API integrations, model
+    access pipelines, system connectors, and on-premises compute environments
+  - Develop custom AI-powered applications and workflows connecting frontier models
+    to internal systems like project management, documentation, and operational tools
+  - Own technical evaluation and selection of AI providers, tools, and platforms making
+    build-vs-buy decisions
+  - Design and deliver AI training and enablement programs including workshops, office
+    hours, and documentation
+  - Partner with engineering, security, and IT teams to ensure AI deployments meet
+    government security and compliance requirements
+  - Stay current with the rapidly evolving AI landscape and bring recommendations
+    on new models, tools, and capabilities
+  use_cases:
+  - Enterprise AI workflow automation across project management, documentation, communications,
+    and operational tools
+  - AI-assisted work acceleration for engineers, program managers, operators, and
+    business teams
+  - Government-regulated AI deployments with compliance for data classification levels
+  - On-premises GPU infrastructure for secure model hosting and deployment
+  - AI training and enablement to build organizational fluency with AI tools
+  skills:
+    genai: [LLM APIs, prompt engineering, tool use, RAG, agent frameworks]
+    ml: [CUDA, embedding pipelines, knowledge retrieval systems]
+    web: [API integrations, webhooks]
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS GovCloud, Azure Government, FedRAMP, IL4/IL5]
+    ops: [authentication flows, on-premises GPU infrastructure, NVIDIA]
+    languages: [Python, TypeScript]
+    domains: [enterprise search]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8591486'
+  extracted_at: '2026-02-27T11:35:27.512612'

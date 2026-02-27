@@ -1,0 +1,50 @@
+company:
+  name: Red Hat
+  stage: Public
+  focus: Enterprise open source software solutions
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      agents using Generative AI technologies. The engineer will
+      architect and implement Agentic AI applications, RAG
+      pipelines, and work directly with frameworks like LangChain,
+      LangGraph, and LLamaStack to build cutting-edge AI systems.
+  responsibilities:
+  - Architect, design, document, and develop applications in Python and frameworks
+    like LangChain, LangGraph, LLamaStack
+  - Architect and lead the implementation of Agentic AI applications and scalable
+    open-source solutions using Machine Learning models on OpenShift AI
+  - Architect and design new features with RAG, RAFT, GraphRAG, InstructLab, and their
+    pipelines
+  - Develop and optimize retrieval-augmented generation (RAG) pipelines and ensure
+    non-functional requirements including performance, scalability, and security
+  - Collaborate with cross-functional teams to analyze business requirements and implement
+    data models and business logic
+  - Mentor distributed team members, review code merge requests, and communicate with
+    stakeholders on development efforts
+  use_cases:
+  - Enterprise AI agents that augment human capabilities and accelerate workflows
+  - Scalable digital workforce solutions with distributed computing capabilities
+  - Knowledge retrieval systems using RAG, RAFT, and GraphRAG techniques
+  - Agentic AI applications for enterprise operations automation
+  - Chatbots and conversational AI interfaces integrated with collaboration platforms
+  skills:
+    genai: [LangChain, LangGraph, LLamaStack, RAG, RAFT, GraphRAG, InstructLab, Agentic
+        AI, AutoGen, LLM, MCP servers]
+    ml: []
+    web: [REST, HTTP]
+    databases: []
+    data: []
+    cloud: [OpenShift, Kubernetes, Google Cloud Platform, AWS]
+    ops: [Jenkins]
+    languages: [Python, Java]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6871374'
+  extracted_at: '2026-02-27T11:44:29.982747'

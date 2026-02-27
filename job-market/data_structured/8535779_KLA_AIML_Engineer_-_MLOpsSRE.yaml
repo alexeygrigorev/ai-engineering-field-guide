@@ -1,0 +1,56 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing equipment and systems
+position:
+  title: AI/ML Engineer - MLOps/SRE
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an MLOps/SRE role focused on building
+      infrastructure, platforms, and tooling for ML/LLM systems.
+      The role supports data science and engineering teams by
+      implementing CI/CD pipelines, monitoring, observability, and
+      deployment infrastructure, but does not involve building,
+      training, or fine-tuning models directly.
+  responsibilities:
+  - Design and implement reusable MLOps platform capabilities for training, deployment,
+    and monitoring of ML/LLM systems
+  - Build standardized pipelines for data validation, feature generation, training,
+    evaluation, model packaging, and release
+  - Deploy models and AI services using containers and orchestration with robust rollout
+    strategies
+  - Implement end-to-end observability including structured logging, metrics, tracing,
+    dashboards, and alerting
+  - Implement monitoring for model quality and data health including drift, bias,
+    performance degradation, and data pipeline anomalies
+  - Integrate security best practices including secrets management, RBAC, network
+    controls, and vulnerability scanning
+  - Partner with data science and engineering teams to translate business requirements
+    into reliable, scalable ML solutions
+  - Create developer-friendly documentation, templates, and internal best practices
+    for MLOps and reliability standards
+  use_cases:
+  - Production ML infrastructure for semiconductor manufacturing analytics
+  - Automated ML model deployment and serving at scale
+  - Model quality monitoring and drift detection
+  - Data pipeline observability and anomaly detection
+  - Enterprise AI governance and compliance
+  - High-throughput inference services for manufacturing systems
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [REST, gRPC]
+    databases: []
+    data: [Airflow, Feast, Great Expectations, DVC, Feature stores]
+    cloud: [SageMaker, Vertex AI, Azure Machine Learning, AWS, Azure, GCP]
+    ops: [MLflow, Kubeflow, Kubernetes, Docker, CI/CD, Infrastructure as code, Evidently,
+      whylogs, Model monitoring, Observability, Model serving]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8535779'
+  extracted_at: '2026-02-27T11:39:52.419401'

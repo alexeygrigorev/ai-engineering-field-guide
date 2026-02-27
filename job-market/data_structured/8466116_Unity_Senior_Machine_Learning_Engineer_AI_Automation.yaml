@@ -1,0 +1,51 @@
+company:
+  name: Unity
+  stage: Public
+  focus: Game development platform and ad-tech ecosystem
+position:
+  title: Senior Machine Learning Engineer, AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building, deploying, and integrating
+      LLM-based agentic systems, RAG applications, and
+      conversational agents using frameworks like LangChain,
+      LlamaIndex, and Semantic Kernel. The engineer directly works
+      with vector databases, prompt engineering, and AI agent
+      orchestration rather than supporting infrastructure for
+      other AI developers.
+  responsibilities:
+  - Design and deploy intelligent agentic systems integrating LLMs with enterprise
+    data and workflows using LangChain, LlamaIndex, and Semantic Kernel
+  - Develop Retrieval-Augmented Generation (RAG) applications using Azure AI Search,
+    vector databases, and secure enterprise connectors
+  - Build and iterate on conversational agents that solve real-world problems and
+    deliver measurable business value
+  - Deliver high-impact features by collaborating across teams and aligning technical
+    solutions with business goals
+  - Drive quality and performance through automated testing, monitoring, and data-driven
+    evaluation of success criteria
+  - Mentor teammates and contribute to a culture of innovation and technical excellence
+  use_cases:
+  - AI-powered campaign experience and advertiser growth optimization
+  - Enterprise search and contextual insights through RAG applications
+  - Conversational agents for stakeholder problem-solving and business value delivery
+  - Integration of AI models with enterprise data sources and workflows using MCP
+    protocol
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, RAG, LLM orchestration, prompt
+        engineering, MCP Protocol]
+    ml: []
+    web: []
+    databases: [Azure AI Search, vector databases, Pinecone, Milvus, Weaviate]
+    data: [Kafka, Flink, Spark]
+    cloud: [distributed systems]
+    ops: []
+    languages: [Java, Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8466116'
+  extracted_at: '2026-02-27T12:09:43.750412'

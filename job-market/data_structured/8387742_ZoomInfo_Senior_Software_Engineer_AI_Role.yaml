@@ -1,0 +1,54 @@
+company:
+  name: ZoomInfo
+  stage: Public
+  focus: |-
+    Go-To-Market Intelligence Platform with AI-powered data and
+    automation
+position:
+  title: Senior Software Engineer (AI Role)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, deploying, and
+      optimizing LLM-powered agentic AI systems with hands-on work
+      on agent frameworks, LLM APIs, function calling, and multi-
+      step workflows. The engineer will architect reasoning
+      systems and integrate emerging LLM technologies, which is
+      core AI development work rather than supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and deploy production-grade agentic AI systems powered by LLMs
+  - Build scalable Python services and orchestration pipelines for complex multi-step
+    agent workflows
+  - Architect frameworks that enable agents to reason, plan, use tools, and execute
+    autonomous tasks
+  - Integrate LLM APIs (OpenAI, Anthropic, etc.) into robust, reliable production
+    systems
+  - Optimize system performance, reliability, and cost-efficiency of LLM-powered applications
+  - Evaluate and integrate emerging LLM technologies and agentic patterns into the
+    product stack
+  - Mentor other engineers and promote best practices in building AI-powered systems
+  use_cases:
+  - Autonomous AI agents that can reason, plan, and execute multi-step tasks
+  - LLM-powered applications with tool use and function calling capabilities
+  - Agentic systems leveraging language models to solve real-world business challenges
+  - AI-ready insights and automation for Go-To-Market intelligence
+  - Enterprise-level agentic AI workflows integrated into business operations
+  skills:
+    genai: ['LLM APIs (OpenAI, Anthropic)', AI agents and agentic systems, Function
+        calling, Prompt engineering, RAG systems, LangChain, LlamaIndex, MCP (Model
+        Context Protocol)]
+    ml: [Machine learning concepts]
+    web: []
+    databases: [Vector databases, Semantic search]
+    data: [Airflow, Temporal]
+    cloud: []
+    ops: [Distributed systems]
+    languages: [Python]
+    domains: []
+    other: [Software design patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8387742'
+  extracted_at: '2026-02-27T11:25:25.031350'

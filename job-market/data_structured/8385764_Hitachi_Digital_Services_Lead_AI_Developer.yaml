@@ -1,0 +1,65 @@
+company:
+  name: Hitachi Digital Services
+  stage: Public
+  focus: Digital transformation services and AI solutions
+position:
+  title: Lead AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI development role focused on building,
+      deploying, and implementing production-grade AI models,
+      agents, and algorithms using Agentic AI frameworks and LLM
+      technologies. The role involves direct work with Gemini
+      Enterprise, multi-agent orchestration, RAG pipelines, and
+      LLMOps practices, which are core ai-first responsibilities
+      rather than supporting or enabling work.
+  responsibilities:
+  - Design, develop, and implement production-grade AI models, agents, and algorithms
+    using Agentic AI frameworks including multi-agent orchestration, tool-use, memory,
+    and judge/ranker patterns
+  - Lead delivery of Gemini Enterprise solutions including Agent Workspace/Agent Builder,
+    defining agent roles, toolchains, and safety guardrails for enterprise workflows
+  - Drive new AI initiatives across operating companies and corporate functions, ensuring
+    secure integration with existing systems, data sources, and processes
+  - Implement RAG pipelines including document ingestion, embeddings, vector search,
+    grounding, and citations
+  - Establish LLMOps/MLOps practices including CI/CD, versioning, evaluation harnesses,
+    rollback, and prompt/test suites with AI Ops observability
+  - Enhance and scale current Agentic AI capabilities for improved performance, latency,
+    reliability, and cost efficiency
+  - Collaborate with product, engineering, data, and business teams to translate requirements
+    into high-impact AI features and APIs
+  - Troubleshoot complex production issues across models, agents, tooling, and integrations;
+    drive root-cause analysis and corrective actions
+  use_cases:
+  - Enterprise workflow automation using Agentic AI with safety guardrails and secure
+    system integration
+  - Knowledge management and information retrieval using RAG pipelines with document
+    ingestion, embeddings, and vector search
+  - Enterprise system integration connecting agents with ERP, CRM, ITSM, Finance,
+    and Procurement systems via APIs and eventing
+  - Intelligent document processing with grounding, citations, and context-aware responses
+  - Enterprise AI governance with compliance standards, audit logs, model cards, and
+    policy checks
+  - Operational efficiency improvements through AI-powered automation of cross-functional
+    business processes
+  skills:
+    genai: [Gemini Enterprise, Agentic AI frameworks, Multi-agent orchestration, Tool-use
+        frameworks, RAG, Retrieval-augmented generation, Embeddings, Prompt engineering,
+      LLMs, SLMs, Generative AI, LangChain, LangGraph]
+    ml: [TensorFlow, PyTorch]
+    web: [REST, gRPC]
+    databases: [Vector databases, Vertex AI Vector Search, Neo4j]
+    data: []
+    cloud: [GCP, Google Cloud Platform, Vertex AI, Pub/Sub, IAM, Secret Manager, VPC-SC]
+    ops: [Vertex AI Pipelines, Vertex AI Endpoints, Vertex AI Model Registry, Vertex
+        AI Monitoring, MLOps, LLMOps, AI Ops, CI/CD, Docker]
+    languages: [Python, Java, C++, TypeScript]
+    domains: [NLP, Knowledge graphs]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8385764'
+  extracted_at: '2026-02-27T12:07:23.151337'

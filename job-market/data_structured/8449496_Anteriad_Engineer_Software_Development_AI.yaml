@@ -1,0 +1,55 @@
+company:
+  name: Anteriad
+  stage: null
+  focus: B2B marketing data solutions
+position:
+  title: Engineer, Software Development (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI-assisted development tools like GitHub
+      Copilot, Claude, and Cursor to enhance coding efficiency,
+      but does not involve building, training, fine-tuning, or
+      deploying AI/ML models. The focus is on traditional software
+      engineering (React.js, Node.js, REST APIs) with AI tools as
+      productivity enhancers rather than working directly on AI
+      systems.
+  responsibilities:
+  - Leverage AI-assisted development tools to accelerate development, improve code
+    quality, and support problem-solving across the development lifecycle
+  - Use AI tools to assist in code refactoring, debugging, test case generation, and
+    documentation
+  - Manage code using GitHub, including versioning, pull requests, and code reviews
+  - Identify performance bottlenecks and reliability issues, using AI-driven insights
+    to optimize applications
+  - Design, develop, and maintain scalable web applications using React.js on the
+    frontend and Node.js/Express.js on the backend
+  - Build reusable, responsive UI components using React, Tailwind CSS, and modern
+    component libraries
+  - Develop, integrate, and optimize RESTful APIs, ensuring performance, scalability,
+    and security best practices
+  - Work closely with product, design, and QA teams in an agile environment
+  use_cases:
+  - B2B marketing data-driven decision making
+  - Customer acquisition and demand generation
+  - Account-based marketing solutions
+  - Web applications for marketing analytics
+  - Enterprise search and data visualization
+  - API-driven marketing platform
+  skills:
+    genai: [GitHub Copilot, Claude, ChatGPT, Cursor, Lovable.ai]
+    ml: []
+    web: [React.js, Tailwind CSS, Node.js, Express.js, REST APIs, Spring Boot, Spring
+        MVC]
+    databases: [PostgreSQL, MySQL, MongoDB]
+    data: []
+    cloud: []
+    ops: [GitHub]
+    languages: [Java, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8449496'
+  extracted_at: '2026-02-27T11:25:01.867756'

@@ -1,0 +1,55 @@
+company:
+  name: Boomi
+  stage: Public
+  focus: Intelligent integration and automation platform
+position:
+  title: Senior Software Quality Engineer - AI-  Bangalore
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Quality Engineering role that focuses on testing
+      and evaluating AI systems, not building or deploying them.
+      The role designs test frameworks, evaluation metrics, and
+      quality processes for Generative AI features but does not
+      involve training, fine-tuning, or building models directly.
+  responsibilities:
+  - Design and execute comprehensive test plans for backend services, APIs, and microservices
+    architectures
+  - Develop automated testing frameworks using tools like Pytest, Playwright, and
+    unittest
+  - Build end-to-end test suites that validate the integration between backend systems,
+    AI agents, databases, and services
+  - Design and implement automated evaluation frameworks for Generative AI features
+    including LLM/SLM model testing and behavioral assessment
+  - Develop quality metrics and evaluation methodologies for LLM-based applications
+    assessing accuracy, consistency, and reliability
+  - Establish observability and monitoring requirements including structured logging,
+    metrics collection, and tracing for AI agent behavior
+  - Implement performance testing, load testing, and reliability testing for production
+    backend services and AI inference pipelines
+  - Mentor junior quality engineers and champion quality standards for both traditional
+    backend systems and AI applications
+  use_cases:
+  - Agentic applications powered by Generative AI features
+  - LLM/SLM model testing and prompt/output validation
+  - Multi-turn conversations and tool orchestration in agentic workflows
+  - RAG systems for enterprise integration
+  - AI inference pipelines for production workloads
+  - Quality assessment of non-deterministic AI systems
+  skills:
+    genai: [Generative AI, LLM/SLM model testing, Agentic frameworks, ReAct, Chain-of-thought,
+      RAG, Tool orchestration]
+    ml: []
+    web: [Playwright]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Pytest, unittest, Selenium, CI/CD, Linux/Unix, Git]
+    languages: [Python, Java]
+    domains: []
+    other: [Jira, Confluence]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8412145'
+  extracted_at: '2026-02-27T12:08:36.206954'

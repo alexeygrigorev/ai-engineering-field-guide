@@ -1,0 +1,55 @@
+company:
+  name: Diligent
+  stage: Public
+  focus: AI-powered governance, risk, and compliance SaaS
+position:
+  title: Senior AI Engineer - Python & AWS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and scaling ML and
+      LLM-based systems, including RAG pipelines, prompt
+      engineering, embeddings, and LLM integration. This is hands-
+      on work with models (building, deploying, fine-tuning,
+      optimizing) rather than just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design, develop, deploy, monitor, scale, and troubleshoot AI, ML, and LLM-based
+    systems that power services across the platform
+  - Build and maintain Retrieval-Augmented Generation (RAG) pipelines, including document
+    ingestion, embeddings, vector search, and response orchestration
+  - Develop AI solutions using AWS Bedrock and related AWS services for secure and
+    scalable model inference
+  - Build automated AI testing and evaluation frameworks to measure quality, performance,
+    and reliability of LLM outputs
+  - Collaborate with Applied Scientists and Software Engineers to implement and productize
+    AI-based capabilities
+  - Shape and evolve the team's AI platform infrastructure, leveraging established
+    architectural patterns and infrastructure-as-code practices
+  - Design and develop AI libraries and frameworks to accelerate value delivery across
+    AI platform services
+  - Work on projects involving sensitive customer content used for board communications,
+    requiring strong privacy and security controls
+  use_cases:
+  - Board communications and governance workflows
+  - Governance, risk, and compliance (GRC) solutions
+  - Enterprise search and document retrieval
+  - Automated insights generation for decision making
+  - Secure AI processing of sensitive customer content
+  skills:
+    genai: [RAG, Retrieval-Augmented Generation, LLMs, prompt engineering, agentic
+        AI, MCP servers]
+    ml: [embeddings, model evaluation]
+    web: []
+    databases: [vector search]
+    data: []
+    cloud: [AWS Bedrock, AWS, AWS CDK]
+    ops: [infrastructure-as-code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7015143'
+  extracted_at: '2026-02-27T11:59:33.495833'

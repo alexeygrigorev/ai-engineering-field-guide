@@ -1,0 +1,53 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and banking
+position:
+  title: Lead Software Engineer - Predictive AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role as it requires hands-on experience
+      building Generative AI, RAG pipelines, and agentic AI
+      systems using frameworks like LangGraph, Crew AI, LangChain,
+      and Microsoft AutoGen. The role involves developing full-
+      stack agentic AI automations, from chat experiences to
+      multi-agent systems, with direct work on LLMs, prompt
+      engineering, and vector databases.
+  responsibilities:
+  - Lead complex technology initiatives with companywide impact including AI and automation
+    solutions
+  - Design, code, test, debug, and document AI solutions including GenAI and agentic
+    systems
+  - Develop standards and companywide best practices for engineering complex and large-scale
+    AI technology solutions
+  - Review and analyze complex, large-scale AI technology solutions for strategic
+    business objectives
+  - Collaborate with technical experts and external industry groups to resolve complex
+    AI technical issues
+  - Lead projects and teams, serving as a peer mentor for AI and automation initiatives
+  use_cases:
+  - Agentic AI automations from chat experiences to multi-agent systems
+  - RAG (Retrieval Augmented Generation) pipelines for enterprise search and knowledge
+    retrieval
+  - Generative AI solutions for banking and financial services operations
+  - Enterprise-scale AI deployments and model migration projects
+  - AI-powered automation solutions for business process optimization
+  skills:
+    genai: [LangGraph, Crew AI, AutoGen, LangChain, Chainlit, Generative AI, RAG pipelines,
+      agentic AI systems, LLMs, prompt engineering]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: [NoSQL, vector databases]
+    data: []
+    cloud: [Vertex AI, Azure ML, Google Cloud Platform, Microsoft Azure]
+    ops: [Terraform, Ansible, GitHub Actions, Harness CD, Playwright, MLOps frameworks,
+      Docker, OpenShift, Crossplane]
+    languages: [Python, Java, Shell scripting, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8409634'
+  extracted_at: '2026-02-27T11:53:23.331873'

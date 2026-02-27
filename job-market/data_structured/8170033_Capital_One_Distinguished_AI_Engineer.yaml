@@ -1,0 +1,51 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Distinguished AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI systems including
+      foundation model training, large language model inference,
+      LLM optimization techniques, similarity search, and
+      guardrails. The engineer will design, develop, deploy and
+      support AI software components directly working with models
+      and inference systems, not just infrastructure or data
+      pipelines.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that change
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, large language model inference, similarity search, guardrails,
+    model evaluation, experimentation, governance, and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve performance,
+    scalability, cost, latency, and throughput of large scale production AI systems
+  - Contribute to the technical vision and long term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and fraud detection
+  - Answering customer questions in real time through conversational AI
+  - Enhancing associate productivity with AI-powered tools
+  - Responsible and scalable AI deployment for millions of banking customers
+  skills:
+    genai: [Large Language Model Inference, Foundation Model Training, Nemo Guardrails,
+      Similarity Search]
+    ml: [PyTorch, Huggingface, Model Evaluation]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS]
+    ops: [LLM Optimization, Experimentation, Governance, Observability]
+    languages: [Python, Go, Java, Scala, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8170033'
+  extracted_at: '2026-02-27T11:59:57.679850'

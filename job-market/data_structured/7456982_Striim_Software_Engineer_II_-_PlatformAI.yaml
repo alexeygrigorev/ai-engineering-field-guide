@@ -1,0 +1,55 @@
+company:
+  name: Striim
+  stage: Pre-IPO
+  focus: Real-time data integration and streaming platform
+position:
+  title: Software Engineer II - Platform/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role building infrastructure
+      for AI capabilities rather than directly working with AI
+      models. The focus is on distributed systems, data streaming,
+      microservices, and cloud infrastructure that enables AI
+      features (automation, intelligent data enrichment,
+      contextual insights) to be embedded across the platform.
+      While exposure to agentic AI frameworks and LLM-based
+      automation is mentioned as a plus, the core work is on
+      platform components and orchestration frameworks that
+      support AI, not building or training models directly.
+  responsibilities:
+  - Design, implement, and maintain core components of Striim's AI/Platform infrastructure
+    for scalable, real-time data processing
+  - Collaborate with cross-functional teams to embed AI capabilities across the platform
+  - Develop and optimize microservices for performance, reliability, and cost efficiency
+    in multi-cloud environments
+  - Contribute to platform observability, automation, and intelligent orchestration
+    frameworks
+  - Write clean, efficient, and testable code following modern best practices including
+    CI/CD
+  - Participate in technical design discussions and influence architectural decisions
+  - Troubleshoot and resolve production issues quickly and effectively
+  use_cases:
+  - Real-time data integration and streaming across clouds, data, and applications
+  - AI-driven automation for data integration workflows
+  - Intelligent data enrichment with contextual insights in real time
+  - Event monitoring across any environment for enterprise companies
+  - Real-time analytics to enable digital transformation applications
+  skills:
+    genai: [Model Context Protocol (MCP), agentic AI frameworks, LLM-based automation]
+    ml: []
+    web: [REST APIs, microservices]
+    databases: []
+    data: [Kafka, Flink, Spark Streaming, message queues, event-driven systems, real-time
+        analytics, ETL pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, CI/CD, Git, Jenkins, Prometheus, Grafana, OpenTelemetry,
+      distributed systems]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7456982'
+  extracted_at: '2026-02-27T11:42:57.894446'

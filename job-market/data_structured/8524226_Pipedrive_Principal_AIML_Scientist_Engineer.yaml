@@ -1,0 +1,51 @@
+company:
+  name: Pipedrive
+  stage: Series B+ / Private Equity-backed (Unicorn)
+  focus: Cloud-based CRM software for sales and marketing teams
+position:
+  title: Principal AI/ML Scientist & Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building AI-native CRM features including
+      autonomous agentic workflows, real-time reasoning engines,
+      and RAG architectures. The Principal Engineer will work
+      directly on designing and implementing agentic systems
+      (LangGraph), vector databases, and LLM operations - hands-on
+      work with models and agents.
+  responsibilities:
+  - Lead and mentor a team of Applied Scientists and AI/ML Engineers, fostering a
+    culture of technical excellence and scientific rigor
+  - Lead the technical strategy for AI/ML-based solutions focused on extracting actionable
+    value from structured CRM data and unstructured content
+  - Build the intelligence within an AI-native CRM, including autonomous agentic workflows
+    and real-time reasoning engines
+  - Partner with the AI Platform team to drive LLMOps strategy for efficient experimentation
+    and robust deployment
+  - Apply deep scientific intuition to AI system design, optimizing models and data-intensive
+    solutions for customer centricity
+  - Lead as a high-impact individual contributor on critical systems while growing
+    team technical capabilities
+  use_cases:
+  - Extract actionable insights and value from structured CRM data and unstructured
+    content
+  - Autonomous agentic workflows that execute business actions safely at scale
+  - Real-time reasoning engines for sales and marketing intelligence
+  - AI-native CRM features for small and medium-sized businesses
+  - Transparent and performant AI solutions that create real business value
+  skills:
+    genai: [LangGraph, RAG architectures, Agentic systems, Large Language Models]
+    ml: [Machine Learning, Deep Learning]
+    web: []
+    databases: [Vector databases]
+    data: [Kafka, Data pipelines]
+    cloud: [AWS, GCP, Distributed systems]
+    ops: [LLMOps, Kubernetes, Feature store]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8524226'
+  extracted_at: '2026-02-27T11:33:49.351387'

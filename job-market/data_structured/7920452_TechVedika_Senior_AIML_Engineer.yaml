@@ -1,0 +1,50 @@
+company:
+  name: TechVedika
+  stage: Series B+
+  focus: |-
+    AI product engineering for healthcare, retail,
+    manufacturing, hospitality
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with Generative AI and
+      LLMs, including prompt engineering, RAG systems, and
+      integrating them into enterprise applications. It explicitly
+      mentions working with Agentic AI frameworks like LangChain,
+      crewAI, and AutoGen for workflow orchestration.
+  responsibilities:
+  - Build and deploy Generative AI and LLM solutions with prompt engineering and RAG
+    systems
+  - Implement Agentic AI frameworks and workflow orchestration using LangChain, crewAI,
+    or AutoGen
+  - Integrate AI systems with enterprise platforms through API development and connections
+  - Handle large enterprise-scale datasets with data engineering and transformation
+    practices
+  - Develop scalable and maintainable Python solutions with emphasis on performance
+  - Deploy and integrate AI models into production environments for enterprise customers
+  use_cases:
+  - Enterprise AI application integration using Generative AI and LLMs
+  - Agentic AI workflow automation and orchestration
+  - RAG-based knowledge retrieval systems
+  - Healthcare analytics and solutions
+  - Retail and e-commerce AI applications
+  - Face and image recognition solutions
+  - IoT and Vision Analytics solutions
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, LangChain, crewAI, AutoGen]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [API Integration]
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7920452'
+  extracted_at: '2026-02-27T12:01:01.960083'

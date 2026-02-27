@@ -1,0 +1,50 @@
+company:
+  name: Baseten
+  stage: Series E
+  focus: AI inference infrastructure platform
+position:
+  title: Software Engineer - AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, integrating, and operating
+      custom AI agents and LLM-powered workflows. The engineer
+      works directly on AI systems (agentic tools, coding agents,
+      LLM-powered workflows) rather than just supporting
+      infrastructure. They own the entire internal AI stack from
+      model selection to deployment and monitoring.
+  responsibilities:
+  - Own and operate the end-to-end internal AI stack from model selection and integration
+    to deployment and monitoring
+  - Build and maintain custom AI agents and LLM-powered tools tailored to engineering
+    workflows
+  - Evaluate and roll out third-party AI developer tools, configuration, and onboarding
+  - Instrument AI tool usage and measure impact on engineering velocity, code quality,
+    and developer satisfaction
+  - Stay at the cutting edge of AI tooling, agents, and developer productivity research
+    and bring best ideas to the team
+  - Actively support engineering teams to ensure they have AI-powered resources and
+    workflows for productivity
+  use_cases:
+  - Agentic coding workflows and code generation
+  - Incident triage and on-call support automation
+  - Codebase Q&A and internal knowledge retrieval
+  - Automated change management and PR review workflows
+  - AI-assisted documentation generation
+  - Engineering productivity acceleration across SDLC
+  skills:
+    genai: [LLMs, agents, RAG, OpenAI/Anthropic APIs]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8577829'
+  extracted_at: '2026-02-27T12:08:09.424887'

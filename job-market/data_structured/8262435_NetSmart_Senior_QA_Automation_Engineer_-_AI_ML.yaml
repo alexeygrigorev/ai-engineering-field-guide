@@ -1,0 +1,55 @@
+company:
+  name: NetSmart
+  stage: null
+  focus: null
+position:
+  title: Senior QA Automation Engineer - AI / ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Automation Engineer role focused on validating
+      and testing applications integrated with AI/ML/GenAI
+      workflows. The role does not involve building, training, or
+      deploying models, but rather testing, validating outputs,
+      and ensuring quality of AI-driven features built by other
+      teams.
+  responsibilities:
+  - Design, develop, and maintain modular, extensible, and reusable test automation
+    frameworks and scripts
+  - Develop and execute automated test scripts to validate stability and responsiveness
+    of applications
+  - Perform validation and create test data for applications, APIs, and Agents integrated
+    with AI/ML/GenAI workflows
+  - Implement Risk Gating processes to validate AI model outputs for accuracy, bias,
+    toxicity, correctness, and traceability
+  - Develop automation frameworks for continuous validation of applications and AI-driven
+    features
+  - Design checks for accuracy, hallucinations, bias, correctness, and traceability
+    of model outputs
+  - Identify, report, and track product defects with clear documentation
+  - Participate in product design reviews to provide input on automation feasibility
+    and testing implications
+  use_cases:
+  - Validation of AI/ML/GenAI integrated applications and workflows
+  - Risk gating for AI model outputs including accuracy, bias, and toxicity detection
+  - Testing of agent-based applications integrated with AI systems
+  - Model evaluation using metrics such as precision/recall, BLEU/ROUGE, and bias
+    scores
+  - Continuous validation and regression testing for AI-driven features
+  - Test data generation and validation for ML pipelines and data drift detection
+  skills:
+    genai: [guardrail patterns, GenAI workflows, LLM-integrated workflows]
+    ml: [model evaluation metrics, AI/ML testing, dataset drift detection]
+    web: [Selenium, Playwright, API testing, Postman]
+    databases: []
+    data: [feature store checks, Matplotlib, Seaborn]
+    cloud: [AWS, Azure, GCP]
+    ops: [test automation]
+    languages: [Python, Java, JavaScript, TypeScript, C#, SQL]
+    domains: []
+    other: [test data generation, data masking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8262435'
+  extracted_at: '2026-02-27T11:38:22.101816'

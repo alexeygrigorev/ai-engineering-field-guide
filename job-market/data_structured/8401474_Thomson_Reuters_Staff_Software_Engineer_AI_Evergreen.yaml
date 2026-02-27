@@ -1,0 +1,55 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology for legal, tax, accounting,
+    compliance, government, and media professionals
+position:
+  title: Staff Software Engineer AI (Evergreen)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on building AI systems: designing RAG
+      pipelines, creating agentic workflows with tool/function
+      calling, developing Semantic Kernel skills, and implementing
+      Azure OpenAI capabilities. This is direct work on LLM-based
+      systems (RAG, agents, function calling) rather than
+      supporting infrastructure or general software engineering.
+  responsibilities:
+  - Build and own .NET services and REST APIs integrated with Azure OpenAI and Azure
+    AI Services
+  - Design RAG pipelines using Azure AI Search with hybrid retrieval, chunking strategies,
+    grounding, and citations
+  - Create agentic workflows using tool/function calling, planning, memory, and guardrails
+    for safe execution
+  - Develop Semantic Kernel skills, connectors, and planners to orchestrate intelligent
+    behavior
+  - Implement robust observability across latency, cost, token usage, and quality
+    metrics using App Insights and OpenTelemetry
+  - Lead through engineering excellence by mentoring teammates, writing RFCs, and
+    guiding architecture decisions
+  use_cases:
+  - Enterprise search and information retrieval with hybrid search capabilities
+  - AI-powered workflows with agentic systems for intelligent task automation
+  - Document intelligence and knowledge management with citation accuracy
+  - Safe and compliant AI applications with guardrails and PII handling
+  - Real-time AI interactions with streaming responses and cost optimization
+  skills:
+    genai: [Azure OpenAI, RAG, Semantic Kernel, function calling, agentic workflows,
+      tool calling]
+    ml: []
+    web: [ASP.NET Core, REST APIs, OAuth2/OIDC/JWT, React, Blazor]
+    databases: [Azure AI Search, Neo4j]
+    data: []
+    cloud: [Azure AI Studio, Azure App Service, Azure Functions, Azure Kubernetes
+        Service (AKS), Azure Container Apps, Azure API Management, Azure Key Vault,
+      Azure Cognitive Services]
+    ops: [OpenTelemetry, Application Insights, CI/CD]
+    languages: [C#, .NET 7/8]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8401474'
+  extracted_at: '2026-02-27T11:45:44.688230'

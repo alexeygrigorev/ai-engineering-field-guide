@@ -1,0 +1,54 @@
+company:
+  name: Visia
+  stage: null
+  focus: AI-powered platform for recycled materials supply chain
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a software engineering position
+      building web/mobile apps and data pipelines that support the
+      company's AI-powered computer vision platform. The
+      description mentions working on client-facing applications
+      and optimizing data pipelines rather than directly building,
+      training, or fine-tuning ML models, which places it in the
+      ai-support category.
+  responsibilities:
+  - Design, develop, and maintain new features across Visia's engineering services
+    including client-facing web and mobile apps, computer vision pipeline, and IoT
+    software
+  - Maintain system reliability by monitoring, debugging, and resolving technical
+    issues across multiple platforms
+  - Collaborate with other engineers to write well-documented and maintainable code
+    supporting the company's mission
+  - Participate in cross-functional team meetings and contribute to Visia's overall
+    product roadmap
+  - Build customer-facing applications to facilitate alerting on prohibited items
+    in material streams
+  - Develop internal tooling for remote monitoring, configuration, and control of
+    device fleet
+  - Accelerate machine learning workflows by optimizing data pipelines and enabling
+    seamless data transfer between edge devices and cloud
+  use_cases:
+  - Real-time detection and alerting of prohibited items in recycled material streams
+  - Material audits and automated KPI tracking for recycling processors
+  - Remote monitoring and control of IoT fleet in recycling facilities
+  - Optimizing throughput in recycled materials processing (over 300% increase)
+  - Creating transparent, traceable, and automated supply chain for waste materials
+  skills:
+    genai: []
+    ml: []
+    web: [React, React Native]
+    databases: [Postgres, ClickHouse]
+    data: [dbt, data streaming pipelines]
+    cloud: [Google Cloud Platform, AWS, Azure]
+    ops: [Docker, Terraform, GitHub Actions, MLOps]
+    languages: [Python, TypeScript, Go, SQL]
+    domains: [computer vision]
+    other: [UI/UX]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8590254'
+  extracted_at: '2026-02-27T11:28:39.860129'

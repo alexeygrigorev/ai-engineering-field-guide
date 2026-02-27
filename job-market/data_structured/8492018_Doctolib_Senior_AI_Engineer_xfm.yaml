@@ -1,0 +1,50 @@
+company:
+  name: Doctolib
+  stage: Series C
+  focus: Healthcare platform connecting patients with practitioners
+position:
+  title: Senior AI Engineer (x/f/m)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building agentic LLM systems
+      including memory, reasoning orchestration, and tool
+      adapters. The engineer will design, ship, and operate
+      production-grade AI systems with direct responsibility for
+      model evaluation, guardrails, and system performance.
+  responsibilities:
+  - Design, ship, and operate production-grade agentic LLM systems that improve patient-practitioner
+    interaction and streamline healthcare workflows
+  - Validate hypotheses with offline evaluation datasets and A/B tests on real traffic
+  - Partner with other machine learning teams to design and improve evaluation pipelines,
+    security/safety guardrails, and metrics
+  - Develop and maintain core agentic capabilities, including memory, reasoning orchestration,
+    and tool adapters, ensuring strong observability, fallback mechanisms, and fail-safe
+    behaviors
+  - 'Own performance, observability, and security: monitoring dashboards, SLO/SLI,
+    security posture'
+  - Ensure privacy and security by design
+  - Contribute to cross-functional initiatives that shape Doctolib's future AI platform
+    and best practices in building agentic systems
+  use_cases:
+  - Phone Assistant for automated patient-practitioner communication
+  - Streamlining healthcare workflows and practice management
+  - Revolutionizing access to care for patients
+  - Improving day-to-day practice management for practitioners
+  - Agentic conversational AI for healthcare interactions
+  skills:
+    genai: [LLMs, agentic systems, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: [A/B testing]
+    cloud: []
+    ops: [CI/CD, DevOps, monitoring, SLO/SLI]
+    languages: [Python, TypeScript, Java]
+    domains: [NLP, speech recognition]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8492018'
+  extracted_at: '2026-02-27T11:30:57.530821'

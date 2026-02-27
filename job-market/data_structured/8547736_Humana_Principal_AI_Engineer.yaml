@@ -1,0 +1,56 @@
+company:
+  name: Humana
+  stage: Public
+  focus: Health insurance and healthcare services
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building internal developer platforms
+      and infrastructure that ENABLE agentic AI development for
+      other teams, not building the AI systems themselves. The
+      Principal AI Engineer architects cloud infrastructure, CI/CD
+      pipelines, developer tooling, and platform services that
+      support agent-driven applications - which is
+      infrastructure/platform work for AI teams rather than hands-
+      on model/agent development.
+  responsibilities:
+  - Lead the design, development, and evolution of internal developer platforms tailored
+    for agentic AI use cases
+  - Architect, deploy, and manage core infrastructure and platform services on cloud
+    platforms, leveraging agentic AI and ML services
+  - Build and maintain robust CI/CD and agentic AI pipeline automation for automated
+    testing, deployment, and agent lifecycle management
+  - Develop scalable backend services and APIs using Python specifically designed
+    to power agentic AI platform functionalities
+  - Establish comprehensive monitoring, logging, tracing, and alerting systems for
+    agent workflows, models, and applications
+  - Partner with application, data science, security, and operations teams to understand
+    agentic AI needs and evolve the platform
+  use_cases:
+  - Agentic AI systems for autonomous action and complex reasoning across multiple
+    environments
+  - Agent orchestration and human-AI collaboration workflows
+  - Self-service agent training, deployment, and monitoring for application and data
+    science teams
+  - Enterprise-wide agent-driven applications for healthcare operations
+  - Internal developer tools for building and deploying AI agents at scale
+  skills:
+    genai: [LangChain, LlamaIndex, LLM integration, RAG, embeddings, generative AI
+        patterns, agentic AI, agent orchestration]
+    ml: [PyTorch, TensorFlow, model deployment]
+    web: [FastAPI, Flask, REST, gRPC, OpenAPI/Swagger]
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Azure, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, GitLab CI/CD, Jenkins, Kubeflow, ArgoCD, Terraform/IaC,
+      MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8547736'
+  extracted_at: '2026-02-27T11:27:18.762854'

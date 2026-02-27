@@ -1,0 +1,51 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology
+position:
+  title: Senior Data Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Data Engineer role focused on building data
+      pipelines, infrastructure, and platforms to support AI-
+      driven molecular design. The responsibilities involve data
+      integration, pipeline development, and cloud platform setup
+      - all enabling work for AI engineers and scientists rather
+      than building or deploying models directly.
+  responsibilities:
+  - Support data integration efforts by collaborating with scientists, bioinformaticians,
+    and AI engineers to ensure data is accessible and well-structured for downstream
+    modeling
+  - Build and maintain data pipelines to ingest, transform, and store structured and
+    unstructured biological data from wet lab experiments, public databases, and internal
+    platforms
+  - Implement data quality checks and validation routines to ensure reliability and
+    reproducibility of datasets used in molecular design workflows
+  - Contribute to infrastructure development by assisting in the setup and optimization
+    of cloud-based data platforms and tools for scalable storage and compute
+  - Document workflows and processes to support reproducibility, collaboration, and
+    knowledge sharing across teams
+  use_cases:
+  - AI-driven molecular design for life sciences and biotechnology applications
+  - Processing and integrating biological data including genomic sequences, protein
+    structures, and assay results
+  - Enabling downstream AI/ML modeling and analysis for research and development in
+    diagnostics and life sciences
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, BigQuery]
+    data: [Airflow, Argo, NextFlow, Valohai, Luigi, Joblib, Dask, Ray, Prefect, Azure
+        Data Factory, Kafka, Kinesis, Pub/Sub]
+    cloud: [AWS, Azure, GCP, S3, Redshift, Synapse]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8337434'
+  extracted_at: '2026-02-27T11:53:40.424291'

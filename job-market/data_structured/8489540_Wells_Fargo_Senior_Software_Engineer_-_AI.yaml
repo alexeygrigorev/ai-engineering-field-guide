@@ -1,0 +1,49 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and banking
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with training and
+      fine-tuning LLMs, generative models, and predictive
+      analytics. Desired qualifications include expertise in AI
+      frameworks (TensorFlow, PyTorch, Hugging Face), RAG
+      implementations, and agentic AI, indicating direct work on
+      building and deploying AI systems.
+  responsibilities:
+  - Lead moderately complex initiatives and deliverables within technical domain environments
+  - Design, code, test, debug, and document for projects and programs associated with
+    technology domain
+  - Review and resolve moderately complex technical challenges requiring in-depth
+    evaluation of technologies
+  - Collaborate and consult with peers and managers to resolve technical challenges
+    and achieve goals
+  - Lead projects and act as an escalation point providing guidance to less experienced
+    staff
+  - Contribute to large scale planning of strategies
+  use_cases:
+  - Predictive analytics using regression, time series forecasting, and classification
+  - Large Language Model (LLM) applications and generative AI systems
+  - Agentic AI implementations
+  - Graph-based AI leveraging knowledge graphs and graph neural networks
+  - Retrieval-Augmented Generation (RAG) systems
+  skills:
+    genai: [LLMs, Generative AI, Agentic AI, RAG, LangChain, LangGraph, MCP]
+    ml: [TensorFlow, PyTorch, Hugging Face, Scikit-learn, Predictive modeling, Time
+        series forecasting]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Knowledge graphs, Graph Neural Networks]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8489540'
+  extracted_at: '2026-02-27T11:44:16.904714'

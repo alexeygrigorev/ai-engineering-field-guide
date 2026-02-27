@@ -1,0 +1,152 @@
+job_id: 8522368
+title: Software Engineer, AI Compiler
+company: Normal Computing
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Glow
+  - Jax
+  - Llvm
+  - Mlir
+  - Onnx
+  - PyTorch
+  - TensorFlow
+  - Tvm
+  - Xla
+company_size: 51 Employees
+description: |
+  Normal Computing | Incredible Opportunities
+  
+  The Normal Team builds foundational software and hardware
+  that help move technology forward - supporting the
+  semiconductor industry, critical AI infrastructure, and the
+  broader systems that power our world. We work as one team
+  across New York, San Francisco, Copenhagen, Seoul, and
+  London. Your Role in Our Mission:
+  
+  We're building an AI accelerator from the ground up, and we
+  need a strong ML compiler engineer to be at the heart of
+  hardware-software co-design. This isn't about inheriting a
+  mature compiler stack - it's about creating one.
+  
+  You'll join at the architecture definition stage, directly
+  influencing ISA design and the trade-offs that determine
+  what our hardware can do. As we progress toward hardware
+  bringup, you'll build the complete compiler toolchain that
+  takes machine learning models from high-level frameworks
+  down to efficient execution on our novel architecture.
+  
+  This role offers the rare opportunity to shape both silicon
+  and software simultaneously. You'll work alongside hardware
+  architects and researchers to co-design compiler strategies
+  that unlock the full potential of our accelerator, building
+  infrastructure that bridges the gap between ML model graphs
+  and custom ISA primitives. Your compiler decisions will
+  directly inform hardware features, and hardware capabilities
+  will open new optimisation frontiers for your toolchain.
+  
+  If you want to architect a compiler stack from first
+  principles, optimise ML workloads on new hardware, and see
+  your decisions realised in silicon, this is the role.
+  
+  Responsibilities:
+  
+  - Work across the full stack with software, systems, and
+    hardware teams to ensure correctness, performance, and
+    deployment readiness for real workloads
+  - Contribute to shaping the long-term compiler architecture
+    and tooling strategy in a fast-moving startup environment
+  - Design and implement parts of the compiler stack targeting
+    our novel AI accelerator, including front-end lowering, IR
+    transformations, optimization passes, and backend code
+    generation
+  - Build and evolve MLIR/LLVM based infrastructure to support
+    graph lowering, hardware-aware optimizations, and
+    performance-centric code emission
+  - Collaborate closely with hardware architects,
+    microarchitects, and research teams to co-design compiler
+    strategies that align with evolving ISA and hardware
+    constraints
+  - Develop profiling and analysis tools to identify performance
+    bottlenecks, validate generated code, and ensure high
+    throughput/low latency execution of AI workloads
+  - Enable efficient mapping of high-level ML models to hardware
+    by working with model frameworks and graph representations
+    (e.g., ONNX, JAX, PyTorch)
+  - Drive performance tuning strategies including kernel
+    authoring, schedule generation, and hardware-specific
+    optimization passes
+  
+  What Makes You A Great Fit:
+  
+  - BS, MS, or PhD in Computer Science, Electrical/Computer
+    Engineering, or related field
+  - 4+ years of hands-on ML compiler or systems engineering
+    experience
+  - Demonstrated experience building and owning an end-to-end
+    compiler stack (front-end, IR, optimization, and backend
+    code generation)
+  - Experience working with machine learning models, neural
+    network graphs, and graph optimizations as part of
+    lowering and acceleration, using frameworks like TVM, XLA,
+    or Glow
+  - Comfortable collaborating with hardware teams to map novel
+    architectural primitives from IR to efficient lowerings,
+    kernel implementations, and runtime support
+  - Strong understanding of compiler performance trade-offs,
+    profiling, bottleneck analysis, and optimization
+    strategies for ML workloads
+  
+  Bonus Points For:
+  
+  - Prior experience on compilers for AI/ML accelerators, GPUs,
+    DSPs, or domain-specific architectures
+  - Contributions to LLVM, MLIR, XLA, TVM, or related open-
+    source compiler projects
+  - Experience in kernel performance optimization and
+    accelerator-specific code generation
+  - Demonstrated work in hardware-software co-design where
+    compiler insights shaped ISA or architectural decisions
+  - Experience building or contributing to cycle-accurate
+    simulators for performance modeling
+  - Prior work building profiling tools, performance evaluation
+    suites, or bottleneck analyzers for compiler or runtime
+    stacks
+  - Familiarity with deep learning frameworks and model formats
+    (e.g., JAX, ONNX**, PyTorch, TensorFlow**) and graph
+    transformations
+  - Experience designing custom IR dialects, optimization
+    passes, and domain-specific lowering transformations
+  
+  Equal Employment Opportunity Statement
+  
+  Normal Computing is an Equal Opportunity Employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, national origin, disability, veteran
+  status, or any other legally protected status.
+  
+  Accessibility Accommodations
+  
+  Normal Computing is committed to providing reasonable
+  accommodations to individuals with disabilities. If you need
+  assistance or an accommodation due to a disability, please
+  let us know at accomodations@normalcomputing.ai.
+  
+  Privacy Notice
+  
+  By submitting your application, you agree that Normal
+  Computing may collect, use, and store your personal
+  information for employment-related purposes in accordance
+  with our Privacy Policy.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Semiconductor
+posted_date: 2026-02-18
+url: "https://builtin.com/job/software-engineer-ai-compiler/8522368"
+source: Built In

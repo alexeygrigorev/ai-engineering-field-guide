@@ -1,0 +1,51 @@
+company:
+  name: Ema Unlimited
+  stage: Well-funded startup
+  focus: Enterprise AI agent and chatbot platform
+position:
+  title: Senior AI Applications Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a post-deployment support role focused on
+      configuring and troubleshooting AI workflows rather than
+      building, training, or fine-tuning models. The role involves
+      working with existing AI systems through APIs, prompt
+      refinement, and customer solution design, but does not
+      include hands-on model development or deployment
+      engineering.
+  responsibilities:
+  - Configure and integrate AI/GenAI workflows using platform APIs and customer data
+  - Translate customer requirements into technical solutions and refine prompts for
+    optimal performance
+  - Develop and automate tasks using Python, SQL, and open-source Agentic Frameworks
+  - Design, run, and analyze A/A experiments to measure and improve workflow quality
+  - Monitor AI workflows using business metrics and observability dashboards
+  - Diagnose and resolve platform issues related to APIs, data integration, and workflow
+    configurations
+  - Provide proactive solutions and maintain high customer satisfaction through effective
+    troubleshooting
+  - Write custom scripts to query databases and create reports for ROI analysis
+  use_cases:
+  - Enterprise AI assistant/employee automation
+  - Agent Assist and chatbot solutions
+  - Customer experience workflow automation
+  - CRM and ATS tool integration
+  - Enterprise task delegation and productivity enhancement
+  skills:
+    genai: [Prompt engineering, Agentic Frameworks, LLM application development, AI
+        agents]
+    ml: []
+    web: [API integration, REST, SOAP, JSON, CRM integration, ATS integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLM evaluation frameworks, A/A testing, Observability dashboards]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4802406'
+  extracted_at: '2026-02-27T11:22:33.906001'

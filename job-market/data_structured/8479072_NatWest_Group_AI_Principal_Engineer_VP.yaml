@@ -1,0 +1,56 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: AI Principal Engineer, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      optimizing pipelines for LLMs, implementing RAG, embedding
+      pipelines, LLM orchestration, and model fine-tuning. The
+      role involves direct work with AI/ML systems including model
+      deployment, evaluation, and integration with
+      OpenAI/Anthropic models, which goes beyond AI-support
+      infrastructure.
+  responsibilities:
+  - Define and develop architecture models and roadmaps for application and software
+    components to meet business and technical requirements
+  - Build and optimize pipelines for LLMs, traditional ML models, and data processing
+    using OSS frameworks or AWS/GCP ecosystems
+  - Implement supervised and unsupervised learning, time-series forecasting, RAG,
+    embedding pipelines, LLM orchestration, and prompt engineering
+  - Define and enforce standards for MLOps, CI/CD, experiment tracking, model deployment,
+    observability, security, and performance tuning
+  - Evaluate and integrate capabilities across OpenAI/Anthropic models, fine-tuning,
+    GPU compute, AutoML, and feature stores
+  - Collaborate with feature teams to produce high-quality software rapidly that adds
+    business value
+  - Design and engineer complex software, scripts, and tools to enable delivery of
+    bank platforms, applications, and services
+  use_cases:
+  - Time-series forecasting for financial predictions
+  - RAG-based systems for knowledge retrieval and question answering
+  - LLM-powered applications for customer service and banking operations
+  - Supervised and unsupervised learning for fraud detection and risk assessment
+  - Data processing pipelines for financial data transformation and analysis
+  skills:
+    genai: [LLM orchestration, RAG, Embedding pipelines, Prompt engineering, Fine-tuning,
+      OpenAI API, Anthropic API]
+    ml: [Supervised learning, Unsupervised learning, Time-series forecasting, Feature
+        engineering, Model evaluation, Retraining strategies, AutoML]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS, GCP]
+    ops: [MLOps, CI/CD, Experiment tracking, Model deployment, Observability, GPU
+        compute, Feature stores]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8479072'
+  extracted_at: '2026-02-27T11:31:29.783676'

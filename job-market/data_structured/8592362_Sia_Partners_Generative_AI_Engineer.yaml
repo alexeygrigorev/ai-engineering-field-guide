@@ -1,0 +1,54 @@
+company:
+  name: Sia Partners
+  stage: unknown
+  focus: |-
+    Global management consulting firm combining strategy, data
+    science, and technology
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deploying GenAI
+      systems including LLM applications, RAG pipelines,
+      autonomous agents, and fine-tuning models. This is direct
+      work on AI systems, not just supporting infrastructure or
+      general software engineering.
+  responsibilities:
+  - Build LLM-powered applications using LangChain, LlamaIndex, and related GenAI
+    frameworks
+  - Implement RAG pipelines with vector databases for grounding LLM responses with
+    internal knowledge
+  - Develop multimodal AI solutions and build autonomous agents for various use cases
+  - Design robust prompt templates using CoT, ReAct, Graph-of-Thought, and Agent flows
+  - Deploy GenAI models on AWS/GCP/Azure using services like SageMaker, Bedrock, Vertex
+    AI
+  - Benchmark LLMs and evaluate fine-tuning strategies including PEFT, LoRA, and RLHF
+  - Support solution architects and cross-functional teams in delivering PoCs and
+    enterprise-grade rollouts
+  - Ensure performance observability, security guardrails, and compliance with GDPR
+    and Responsible AI principles
+  use_cases:
+  - Enterprise search and knowledge management through RAG systems
+  - Multimodal AI applications processing text, audio, and image data
+  - Autonomous agents for automating complex business workflows
+  - Customer-facing applications powered by LLMs across diverse industries
+  - Domain-specific solutions through fine-tuning on proprietary data
+  - PoC development and enterprise-grade AI deployments for consulting clients
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic API, RAG, Prompt engineering,
+      Agents, CoT, ReAct, Graph-of-Thought, PEFT, LoRA, RLHF]
+    ml: [PyTorch, Hugging Face]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Pinecone, FAISS, pgvector, ChromaDB, Qdrant, Milvus, Weaviate]
+    data: []
+    cloud: [AWS, GCP, Azure, SageMaker, Bedrock, Vertex AI]
+    ops: [CI/CD, MLflow, Docker, Kubernetes, Drift detection, Canary releases]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8592362'
+  extracted_at: '2026-02-27T11:33:41.796267'

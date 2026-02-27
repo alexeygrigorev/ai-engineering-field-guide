@@ -1,0 +1,54 @@
+company:
+  name: Blue Altair
+  stage: null
+  focus: Consulting firm for AI and digital transformation
+position:
+  title: Consultant/Sr. Consultant - AI Engineer (INAI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with AI/ML systems, building and
+      deploying GenAI models, LLM applications, and RAG pipelines.
+      The engineer directly trains, fine-tunes, and deploys models
+      rather than just supporting infrastructure or platforms.
+  responsibilities:
+  - Research, design, and implement GenAI-powered solutions for complex business problems
+  - Build and deploy LLM-based applications including chatbots, copilots, and autonomous
+    agents
+  - Architect and optimize RAG pipelines for enterprise knowledge retrieval and augmentation
+  - Develop and evaluate embedding-based solutions for semantic search, personalization,
+    and recommendation
+  - Experiment with agentic AI frameworks to design multi-agent workflows and autonomous
+    decision-making systems
+  - Research machine learning algorithms, develop solution formulations, and test
+    on large datasets
+  - Design experiments, test hypotheses, and build actionable models
+  - Translate unstructured, complex business problems into abstract mathematical frameworks
+    to produce working algorithms at scale
+  use_cases:
+  - Enterprise knowledge retrieval and augmentation using RAG
+  - Semantic search and personalization for recommendation systems
+  - Chatbots, copilots, and autonomous agents for business automation
+  - Unstructured business problem solving with tailored analytic solutions
+  - Data-driven insights including trend identification and anomaly detection
+  skills:
+    genai: [Generative AI, LLMs, GPT, LLaMA, Mistral, Claude, RAG, Embeddings, LangChain,
+      LlamaIndex, AutoGen, CrewAI, Hugging Face, OpenAI APIs]
+    ml: [SAS, SPSS, MATLAB, Machine Learning, Classification, Regression, Feature
+        Selection, Feature Engineering, Hyperparameter Tuning, Unsupervised Learning,
+      Time Series Analysis, Forecasting, Model Training, Fine-tuning, BERT, ELMo,
+      LSTM, CNN, Named Entity Recognition, Dependency Parsing, Coreference Resolution,
+      SpaCy, NLTK, Probabilistic Graphical Models, Reinforcement Learning]
+    web: []
+    databases: [Vector Databases, Pinecone, Weaviate, Milvus, FAISS]
+    data: []
+    cloud: [AWS SageMaker, Azure Machine Learning]
+    ops: []
+    languages: [Python, R]
+    domains: [NLP, Multimodal AI]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8261826'
+  extracted_at: '2026-02-27T11:52:26.387981'

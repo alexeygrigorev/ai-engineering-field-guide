@@ -1,0 +1,57 @@
+company:
+  name: CoreWeave
+  stage: Public
+  focus: AI cloud infrastructure platform
+position:
+  title: AI Solutions Engineer, Pre-Sales- W&B
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Solutions Engineer role that requires hands-on
+      experience training, fine-tuning, evaluating, and deploying
+      deep learning and LLM-based systems. The role involves
+      architecting RAG pipelines, multi-agent systems, LLM fine-
+      tuning workflows, and building working prototypes that
+      demonstrate real customer value, which aligns with building
+      and deploying AI/ML systems rather than just supporting AI
+      work.
+  responsibilities:
+  - Build proof of value engagements and partner with Account Executives to drive
+    discovery, solution design, and technical evaluations
+  - Lead technical conversations with ML engineers and researchers to architect scalable
+    solutions across the CoreWeave and Weights & Biases ecosystem
+  - Design and deliver demos and prototypes showcasing experiment tracking, distributed
+    training, agentic workflows, fine-tuning, evaluation, and inference at scale
+  - Architect modern ML and GenAI systems including distributed training, RAG pipelines,
+    multi-agent systems, and LLM fine-tuning workflows
+  - Translate business objectives into measurable technical outcomes such as model
+    quality improvements, cost reductions, and performance gains
+  - Serve as a trusted technical advisor influencing architectural decisions and best
+    practices across MLOps, LLMOps, and platform engineering
+  - Partner with Product and Engineering to relay customer feedback and shape roadmap
+    priorities
+  use_cases:
+  - Distributed training of deep learning models at scale
+  - Retrieval-augmented generation (RAG) pipelines for enterprise applications
+  - Multi-agent systems with tool-using capabilities
+  - LLM fine-tuning and evaluation workflows
+  - Experiment tracking and model optimization
+  - Inference serving and optimization at scale
+  skills:
+    genai: [LangChain, DSPy, LlamaIndex, CrewAI, RAG, LLM fine-tuning, Prompt engineering,
+      Agents]
+    ml: [PyTorch, Hugging Face Transformers, PEFT, LoRA, QLoRA, TRL, Unsloth, Ragas,
+      TruLens, DeepEval]
+    web: []
+    databases: [Vector databases, Embeddings]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, vLLM, TensorRT-LLM, Triton, TGI, Kubernetes, Docker, Slurm, Ray]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8551241'
+  extracted_at: '2026-02-27T12:07:49.049872'

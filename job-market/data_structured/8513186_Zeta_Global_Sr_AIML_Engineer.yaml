@@ -1,0 +1,52 @@
+company:
+  name: Zeta Global
+  stage: Public
+  focus: AI-powered marketing cloud platform
+position:
+  title: Sr AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying ML
+      models and LLM-powered features, including agentic workflows
+      for advertising use cases. The engineer is responsible for
+      the complete ML lifecycle from training through real-time
+      inference, with direct work on model optimization and
+      deployment to production.
+  responsibilities:
+  - Design, implement, and ship scalable ML solutions for core AdTech use cases including
+    targeting, ranking, pacing, and measurement
+  - Build and evolve the ML lifecycle from data preparation and training to real-time
+    inference with low-latency, high-throughput requirements
+  - Develop and integrate LLM-powered features and agentic workflows for campaign
+    operations, audience insights, and creative generation
+  - Operate ML services in high-concurrency, latency-sensitive environments with monitoring,
+    model drift management, and safe deployment practices
+  - Collaborate cross-functionally with engineering, product, and data science to
+    translate marketing objectives into ML-driven solutions
+  - Evaluate tools and techniques including deep learning, LLMs, and retrieval/feature
+    systems to contribute to the AI/ML technical roadmap
+  use_cases:
+  - Campaign optimization and management for advertising
+  - User personalization and audience targeting for ad delivery
+  - Creative intelligence and generation for ad campaigns
+  - Real-time ad bidding and budget recommendations
+  - Audience insights and bid/budget optimization
+  - Ad copy generation and creative optimization using generative AI
+  skills:
+    genai: [LLMs, agentic workflows, RAG, generative AI, ad copy generation]
+    ml: [PyTorch, TensorFlow, classification, ranking, embeddings, deep learning]
+    web: []
+    databases: [PostgreSQL, MySQL, Cassandra, DynamoDB, Redis]
+    data: [Spark, Kafka, Apache Iceberg, Apache Hudi]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, model serving, real-time inference, A/B testing,
+      model drift, canary deployments]
+    languages: [Python, Java, Go]
+    domains: [DSP, SSP, RTB, programmatic advertising]
+    other: [microservices architecture, event-driven design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8513186'
+  extracted_at: '2026-02-27T11:37:29.297363'

@@ -1,0 +1,127 @@
+job_id: 8354601
+title: Lead AI/ML Engineer – Regulatory Reporting - Senior Vice President
+company: Citi
+location: Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Gradio
+  - Langchain
+  - Llamaindex
+  - Milvus
+  - Pgvector
+  - Pinecone
+  - PyTorch
+  - Scikit-Learn
+  - Streamlit
+  - TensorFlow
+company_size: 223,850 Employees
+description: |
+  Role Summary: We are establishing a specialized AI/ML team
+  in Mumbai to modernize our Regulatory Reporting function. We
+  are looking for a hands-on technical leader to build and
+  deploy two classes of solutions: (1) Anomaly Detection
+  Models to catch data quality issues before they reach the
+  regulators, and (2) GenAI Workflows (LLMs/Agents) to
+  automate manual reconciliation and document reviews.
+  Crucially, you will solve the "Validation Bottleneck." You
+  will design "Human-in-the-Loop" (HITL) workflows that make
+  it easy for business users to validate model outputs against
+  legal loan documents, bridging the gap between "Black Box"
+  AI and auditable regulatory standards.
+  
+  
+  Key Responsibilities: •  Build unsupervised and semi-
+  supervised ML models (e.g., Isolation Forests, Autoencoders)
+  to scan millions of transactional records for outliers. •
+  The Challenge: Go beyond simple "threshold checks." Detect
+  complex patterns (e.g., "This trade structure looks valid in
+  isolation but is anomalous for this specific counterparty
+  type"). •Reduce false positives to ensure the Reporting Team
+  trusts the model alerts. •Design RAG (Retrieval-Augmented
+  Generation) pipelines to "chat" with unstructured data
+  (Credit Agreements, Loan Docs) and extract key regulatory
+  attributes (Maturity Dates, Collateral Clauses). •Build
+  "Agentic" workflows where GenAI proactively suggests mapping
+  logic or identifies the root cause of a break, requiring
+  only a "thumbs up/down" from the human SME. •This is a
+  critical success factor. You must build "Explainability"
+  (XAI) into every model. You cannot just output a score; you
+  must output why (e.g., "Flagged because this value is 3x
+  higher than the historical average for this product").
+  •Create Validation Interfaces: Build simple UIs (using
+  Streamlit or React) where business users can see the Model's
+  Prediction side-by-side with the Source Document to rapidly
+  approve/reject the finding. •Work with Model Risk Management
+  (MRM) to establish a "fast-track" validation framework for
+  non-deterministic GenAI models. • Hire and mentor a squad of
+  4-5 junior data scientists/engineers in Mumbai. •Act as the
+  "AI Evangelist" to the Operations/Finance teams,
+  demonstrating how AI assists them rather than replacing
+  them.
+  
+  Requirement:  • Core ML: 8+ years in Data
+  Science/Engineering. Deep experience with Scikit-learn,
+  TensorFlow, or PyTorch. • GenAI Stack: Hands-on experience
+  with LLM orchestration frameworks (LangChain, LlamaIndex)
+  and Vector Databases (Pinecone, Milvus, or pgvector). •The
+  "Validation" Stack: Experience building tools like Streamlit
+  or Gradio for rapid prototyping of human-review interfaces.
+  •Experience in Financial Services (specifically Fraud
+  Detection, AML, or Risk Modeling). •Able to communicate and
+  explain "Hallucination Risk" to a non-technical Chief Risk
+  Officer?
+  
+  ------------------------------------------------------
+  
+  Job Family Group:
+  
+  Finance
+  
+  ------------------------------------------------------
+  
+  Job Family:
+  
+  Regulatory Reporting
+  
+  ------------------------------------------------------
+  
+  Time Type:
+  
+  Full time
+  
+  ------------------------------------------------------
+  
+  Most Relevant Skills
+  
+  Business Acumen, Change Management, Communication, Data
+  Analysis, Financial Acumen, Internal Controls, Issue
+  Management, Problem Solving, Regulatory Reporting.
+  
+  ------------------------------------------------------
+  
+  Other Relevant Skills
+  
+  For complementary skills, please see above and/or contact
+  the recruiter.
+  
+  ------------------------------------------------------
+  
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+  
+  
+  
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-02-24
+url: "https://builtin.com/job/lead-ai-ml-engineer-regulatory-reporting-senior-vice-president/8354601"
+source: Built In

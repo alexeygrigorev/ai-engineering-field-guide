@@ -1,0 +1,48 @@
+company:
+  name: Workday
+  stage: Public
+  focus: AI platform for managing people, money, and agents
+position:
+  title: Sr Software Development Engineer (AI & Full Stack)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AIOps role building automation platforms and
+      frameworks for orchestration, not directly building AI
+      models. While bonus qualifications mention langchain and AI
+      agents, the core role focuses on automation platforms,
+      deployment tools, and infrastructure at scale to support
+      other teams' automation needs.
+  responsibilities:
+  - Contribute to the design of Workday's future applications and automation platforms
+  - Write code, develop tools, and perform software engineering tasks to prove out
+    architecture in an iterative environment
+  - Document design and code for maintainability and collaborate on deploying technologies
+    at scale
+  - Collaborate with architects and technical product managers to devise scalable,
+    low-latency, high-availability architecture designs
+  - Contribute ideas for improving team efficiency, job satisfaction, and code quality
+  - Influence and collaborate across functional teams toward common business goals
+    and data architecture
+  use_cases:
+  - Automation and orchestration platform for service teams
+  - Central framework for running automation operations across teams
+  - Scalable orchestration platform supporting agile product delivery
+  - Reliability and availability management for customer environments
+  - Modern tooling and automation for operations-to-engineering transformation
+  skills:
+    genai: [LangChain, AI agents]
+    ml: []
+    web: [A2A APIs, MCP APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, Jenkins, Terraform, Fluxcd]
+    languages: [Python, Go, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8565175'
+  extracted_at: '2026-02-27T11:37:36.096892'

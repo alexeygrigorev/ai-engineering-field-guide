@@ -1,0 +1,55 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and AI solutions
+position:
+  title: Principal AI/ML Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, training, and
+      deploying Machine Learning models including deep learning,
+      Transformers, and Large Language Models. The candidate is
+      required to have experience with LLM alignment,
+      optimization, and state-of-the-art architectures like GNNs,
+      GANs, and SSMs, which are core AI/ML engineering tasks.
+  responsibilities:
+  - Drive end-to-end Machine Learning projects with high ambiguity, scale, and complexity
+  - Build Machine Learning models, perform proof-of-concept, experiment, optimize,
+    and deploy models into production
+  - Perform hands-on analysis and modeling of healthcare data sets to develop insights
+    that increase business value
+  - Run A/B experiments, gather data, and perform statistical analysis
+  - Establish scalable, efficient, automated processes for large-scale data analysis,
+    ML model development, validation, and serving
+  - Research and implement innovative machine learning approaches including state-of-the-art
+    algorithms
+  - Mentor and help recruit AI/ML scientists and machine learning engineers to the
+    team
+  - Present findings and insights to senior leadership and pursue IP submissions as
+    a thought leader in AI research
+  use_cases:
+  - Healthcare data analysis and modeling for business insights
+  - Deploying ML models across UnitedHealth Group businesses including healthcare,
+    financial services, and pharmacy
+  - Optimization of Large Language Models for healthcare applications
+  - NLP and multimodal modeling for healthcare use cases
+  - A/B testing and statistical analysis for ML model validation
+  - Enterprise AI/ML development platform for healthcare solutions
+  skills:
+    genai: [LLMs, Generative AI, LLM alignment, DPO, PPO]
+    ml: [PyTorch, TensorFlow, Transformers, GNNs, GANs, SSMs, Deep Learning, Model
+        optimization, Optimization theory, Stochastic algorithms]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Multimodal modeling]
+    other: [A/B testing, Statistical analysis]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8504339'
+  extracted_at: '2026-02-27T11:33:57.946060'

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Extract job data from raw HTML files and save as YAML."""
+import csv
 import json
 import re
 import html
@@ -10,8 +11,9 @@ from bs4 import BeautifulSoup
 # Get script directory and project root
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+REPO_ROOT = PROJECT_ROOT.parent  # job-market/
 RAW_DIR = PROJECT_ROOT / "jobs" / "raw"
-OUTPUT_DIR = PROJECT_ROOT / "jobs" / "extracted"
+OUTPUT_DIR = REPO_ROOT / "data_raw"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -399,12 +401,34 @@ def write_yaml_file(job, yaml_file):
         f.write(f"source: {yaml_quote(job['source'])}\n")
 
 
+def load_csv_ids(csv_path):
+    """Load job IDs from a CSV file."""
+    ids = set()
+    with open(csv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            job_id = row.get("id", "")
+            if job_id:
+                ids.add(str(job_id))
+    return ids
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Extract jobs from raw HTML')
     parser.add_argument('html_file', nargs='?', help='Specific HTML file to process')
     parser.add_argument('--all', action='store_true', help='Process all HTML files')
+    parser.add_argument('--csv', type=str, help='CSV file to filter which HTML files to process (by job ID)')
     args = parser.parse_args()
+
+    # Load CSV filter if provided
+    csv_ids = None
+    if args.csv:
+        csv_path = Path(args.csv)
+        if not csv_path.is_absolute():
+            csv_path = PROJECT_ROOT / args.csv
+        csv_ids = load_csv_ids(csv_path)
+        print(f"Filtering to {len(csv_ids)} job IDs from {csv_path.name}")
 
     if args.html_file:
         # Process single file
@@ -431,8 +455,14 @@ def main():
         print(f"  Skills: {', '.join(job['skills'][:5])}")
 
     elif args.all:
-        # Process all files
+        # Process all files (optionally filtered by CSV)
         html_files = list(RAW_DIR.glob("*.html"))
+
+        if csv_ids is not None:
+            # Filter HTML files to only those whose job ID is in the CSV
+            # HTML filename format: {title}_{job_id}.html
+            html_files = [f for f in html_files if f.stem.split("_")[-1] in csv_ids]
+
         print(f"Processing {len(html_files)} HTML files...\n")
 
         for html_file in html_files:

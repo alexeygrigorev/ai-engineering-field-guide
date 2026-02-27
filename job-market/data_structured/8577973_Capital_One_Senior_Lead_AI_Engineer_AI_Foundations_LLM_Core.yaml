@@ -1,0 +1,50 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs and foundation
+      models including training, inference optimization,
+      guardrails implementation, and deploying proprietary AI
+      solutions. The engineer will invent and apply state-of-the-
+      art LLM optimization techniques for production systems,
+      which is core AI engineering work rather than supporting
+      infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    associate workflows and customer interactions
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies including AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of large-scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Informing customers about unusual charges and fraud detection
+  - Answering customer questions in real time through AI-powered interactions
+  - Creating real-time, personalized customer experiences in banking
+  - Enhancing products with transformative AI capabilities for millions of customers
+  - Supporting associate workflows through AI-powered internal tools
+  skills:
+    genai: [Nemo Guardrails]
+    ml: [PyTorch, Huggingface, Foundation model training, Model evaluation, Experimentation]
+    web: []
+    databases: [VectorDBs, Similarity Search]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [LLM Inference, LLM optimization, Governance, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8577973'
+  extracted_at: '2026-02-27T11:37:06.349649'

@@ -1,0 +1,46 @@
+company:
+  name: HYCU
+  stage: Series B
+  focus: Multi-cloud and SaaS data protection as a service
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI-powered
+      workflows, agents, and RAG implementations using LLMs and
+      generative AI frameworks like LangChain/LlamaIndex. The
+      engineer is directly responsible for designing, developing,
+      and deploying AI solutions to production, not just
+      supporting infrastructure or platforms for AI work.
+  responsibilities:
+  - Design and build AI-driven workflows for data analysis, summarization, and recommendations
+  - Develop and orchestrate AI agents that reason across multiple tools and data sources
+  - Integrate Generative AI capabilities into applications, dashboards, and APIs
+  - Validate AI outputs against business requirements and real-world scenarios
+  - Build reliable and scalable AI workflows for production use
+  - Troubleshoot and improve AI behavior in production environments
+  use_cases:
+  - Enterprise data analysis and summarization
+  - AI-powered recommendations and decision support
+  - Actionable data insights at enterprise scale
+  - Data protection and recovery intelligence
+  - Ransomware protection and threat analysis
+  - Enterprise search and knowledge retrieval
+  skills:
+    genai: [RAG implementation, OpenAI API, Anthropic API, Prompt design & optimization,
+      Guardrail implementation, LangChain, LlamaIndex]
+    ml: [Embeddings, PyTorch]
+    web: [APIs]
+    databases: [Vector search, OpenSearch]
+    data: []
+    cloud: []
+    ops: [Ragas]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8520844'
+  extracted_at: '2026-02-27T11:51:58.544359'

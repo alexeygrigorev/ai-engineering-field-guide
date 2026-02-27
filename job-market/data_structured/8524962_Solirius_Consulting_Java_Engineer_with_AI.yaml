@@ -1,0 +1,45 @@
+company:
+  name: Solirius Consulting
+  stage: null
+  focus: Technical consultancy and application delivery
+position:
+  title: Java Engineer with AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a backend Java engineering position
+      focused on integrating AI/ML models into production systems,
+      not building or training models directly. The engineer
+      collaborates with data scientists to deploy ML solutions,
+      indicating they work near AI but not on AI itself.
+  responsibilities:
+  - Design, develop, and maintain high-performance Java-based applications
+  - Integrate AI/ML models into production-grade backend systems
+  - Build RESTful APIs and microservices using modern Java frameworks
+  - Collaborate with data scientists to deploy and scale machine learning solutions
+  - Optimize system performance, scalability, and security
+  - Implement CI/CD pipelines and ensure high code quality standards
+  - Work with cloud platforms to deploy AI-powered services
+  - Contribute to architecture decisions and technical roadmaps
+  use_cases:
+  - Integrating machine learning models into backend systems
+  - Deploying AI-powered services on cloud platforms
+  - Building scalable applications with AI capabilities
+  - Implementing NLP, computer vision, or recommendation systems
+  - Deploying generative AI and large language models
+  skills:
+    genai: [Generative AI, Large Language Models]
+    ml: [TensorFlow, PyTorch]
+    web: [Spring Boot, REST APIs, Microservices]
+    databases: [SQL, NoSQL databases]
+    data: [Kafka]
+    cloud: [AWS, Google Cloud Platform, Microsoft Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Java]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8524962'
+  extracted_at: '2026-02-27T11:26:51.003038'

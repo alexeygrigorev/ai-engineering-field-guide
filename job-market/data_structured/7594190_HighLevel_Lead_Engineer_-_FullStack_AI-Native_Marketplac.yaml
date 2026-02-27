@@ -1,0 +1,48 @@
+company:
+  name: HighLevel
+  stage: Series B
+  focus: |-
+    All-in-one AI-powered sales and marketing platform for
+    agencies
+position:
+  title: Lead Engineer - FullStack ( AI-Native & Marketplace Integrations)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a FullStack Lead Engineer role for a CRM platform
+      that USES AI tools (Cursor, GitHub Copilot, MCP) to
+      accelerate development workflows, but does not build, train,
+      or deploy AI/ML models. The role focuses on building CRM
+      features, marketplace integrations, and real-time systems
+      using Vue.js, Node.js, Kafka, and MongoDB - supporting AI
+      development rather than working directly ON AI systems.
+  responsibilities:
+  - Use Cursor, GitHub Copilot, and other AI-enhanced tools to accelerate development
+    workflows
+  - Leverage the Model Context Protocol (MCP) to manage model-aware context
+  - Design and build scalable integrations with external APIs and marketplace ecosystems
+  - Build robust CRM features using Vue.js and Node.js
+  - Architect event-based applications powered by Kafka, RabbitMQ, and ActiveMQ
+  - Work with ElasticSearch, MongoDB, and related data engineering tooling at scale
+  use_cases:
+  - AI-powered CRM system for lead capture and customer management
+  - Third-party marketplace integrations extending platform capabilities
+  - Real-time messaging and communication systems
+  - High-scale API and message event processing
+  - Sales and marketing automation for agencies and businesses
+  skills:
+    genai: [Cursor, GitHub Copilot, Model Context Protocol (MCP), LLM context management]
+    ml: []
+    web: [Vue.js, Node.js, API integrations]
+    databases: [MongoDB, ElasticSearch, Database sharding]
+    data: [Kafka, RabbitMQ, ActiveMQ]
+    cloud: [Autoscaling]
+    ops: [CI/CD, Git]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7594190'
+  extracted_at: '2026-02-27T12:06:47.152367'

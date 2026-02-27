@@ -1,0 +1,55 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology
+position:
+  title: Senior Data and AI engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building data pipelines, data lakes, and
+      data platforms to support AI/ML workloads, not on building,
+      training, or deploying models. Responsibilities include data
+      engineering, pipeline orchestration, and enabling MLOps
+      workflows for data science teams rather than hands-on AI/ML
+      development.
+  responsibilities:
+  - Design, develop, and maintain robust, scalable, and efficient data pipelines to
+    ingest, transform, and serve data for AI/ML and analytics workloads
+  - Architect and maintain scalable, secure, and low-latency data pipelines and systems
+    to support agentic AI applications
+  - Partner with Data Science teams to support model training, feature engineering,
+    and deployment processes
+  - Collaborate with data scientists, project managers, and software engineering teams
+    to understand data needs and translate business requirements into technical solutions
+  - Develop and manage data architecture, data lakes, and data warehouses supporting
+    Service AI use cases
+  - Optimize data storage, compute, and retrieval strategies for structured and unstructured
+    data
+  - Support MLOps workflows by enabling model deployment, monitoring, and versioning
+    pipelines
+  use_cases:
+  - Ticket analytics
+  - Customer interaction insights
+  - Predictive maintenance
+  - Resource planning
+  - Equipment failure prediction
+  - Agentic AI applications
+  skills:
+    genai: []
+    ml: [Feature engineering]
+    web: [APIs]
+    databases: [Snowflake]
+    data: [PySpark, Spark, Databricks, Airflow, Prefect, Azure Data Factory, Kafka,
+      Power BI, Power App, Power Automate, Data integration, Real-time streaming,
+      Data Lakehouse, Data pipelines]
+    cloud: [AWS, Azure, GCP, S3, Redshift, BigQuery, Synapse, Kinesis, Pub/Sub]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8337867'
+  extracted_at: '2026-02-27T11:38:55.437211'

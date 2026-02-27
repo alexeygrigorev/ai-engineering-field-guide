@@ -1,0 +1,45 @@
+company:
+  name: Riveron
+  stage: null
+  focus: Finance consulting solving complex challenges
+position:
+  title: Technology and Innovation - AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying
+      generative AI models and LLMs, including training, fine-
+      tuning, and prompt engineering. The engineer will optimize
+      models for specific use cases and mitigate issues like
+      hallucinations, which is direct work on AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy innovative generative AI models optimized for specific
+    use cases
+  - Lead the training and fine-tuning of LLMs while enhancing performance through
+    prompt engineering
+  - Identify and mitigate model inaccuracies and hallucinations in generated content
+  - Collaborate with cross-functional teams to build robust AI solutions
+  - Conduct research to advance the state-of-the-art in generative AI technologies
+  - Mentor junior engineers and foster a culture of collaboration and innovation
+  use_cases:
+  - Enterprise client solutions using large language models
+  - Generative AI applications for diverse business needs
+  - AI systems for finance and business consulting
+  - Custom LLMs tailored for specific enterprise use cases
+  skills:
+    genai: [LLMs, Generative AI, Prompt engineering]
+    ml: [TensorFlow, PyTorch, Neural networks, Machine learning, Deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: [Natural language processing]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7770199'
+  extracted_at: '2026-02-27T12:08:03.496022'

@@ -1,0 +1,53 @@
+company:
+  name: Savvy Wealth
+  stage: Series B
+  focus: AI-powered wealth management platform for financial advisors
+position:
+  title: Software Engineer, Applied AI (all levels)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI role building AI-powered product
+      features including copilots, skilled agents, RAG systems,
+      classification/extraction pipelines, and agentic workflows.
+      The engineer directly implements AI systems using prompting,
+      tool/function calling, retrieval, and orchestrates complex
+      layers of AI tools - not just supporting infrastructure.
+  responsibilities:
+  - Build AI-powered product features for advisors and operations teams including
+    copilots, skilled agents, automations, summarization, routing, extraction, and
+    recommendations
+  - Rapidly prototype and deliver using modern AI tooling with complex orchestration
+    layers to string together multiple tools
+  - Own the end-to-end product development lifecycle from opportunity identification
+    through production shipping and iteration
+  - Build AI systems including RAG, classification/extraction pipelines, and agentic
+    workflows
+  - Establish team patterns for rapid AI development including prompt/versioning strategies,
+    evaluation harnesses, rollouts, observability, and testing
+  - Partner with Product, Design, Data, and business stakeholders to define scope,
+    de-risk execution, and deliver high-impact outcomes
+  - Work directly with financial advisors to learn their workflows and needs
+  use_cases:
+  - AI copilots for financial advisors to automate manual workflows
+  - Document summarization and extraction for financial plans and client communications
+  - Intelligent routing systems to direct client inquiries and tasks
+  - RAG-based systems for retrieving relevant financial information and advice
+  - Agentic workflows that automate multi-step financial advisor tasks
+  - Sales and marketing automation powered by AI to help advisors scale
+  skills:
+    genai: [OpenAI/Anthropic APIs, prompt engineering, RAG, agents, function calling]
+    ml: []
+    web: [Rails, React, Next.js, GraphQL]
+    databases: [Postgres]
+    data: []
+    cloud: []
+    ops: [Datadog, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8550322'
+  extracted_at: '2026-02-27T11:43:27.061448'

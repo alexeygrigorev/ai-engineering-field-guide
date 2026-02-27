@@ -1,0 +1,53 @@
+company:
+  name: OpenGov
+  stage: Growth/Scale-up
+  focus: AI and ERP solutions for government
+position:
+  title: Sr. AI Platform and Orchestration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role focused on building AI
+      systems directly, including RAG systems, agent workflows,
+      embedding pipelines, and LLM applications. The role
+      explicitly mentions transforming AI use cases into
+      production-ready systems using LLM frameworks and
+      orchestration platforms.
+  responsibilities:
+  - Design and implement Snowflake-native AI pipelines to support enterprise automation
+    and intelligent workflows
+  - Build Retrieval-Augmented Generation (RAG) systems, embedding pipelines, and vector-based
+    retrieval architectures
+  - Configure and manage AI orchestration workflows using agent frameworks
+  - Develop scalable context-routing and orchestration logic to support multi-step
+    agentic workflows
+  - Integrate structured and unstructured enterprise data into AI systems with cost
+    efficiency
+  - Implement monitoring, evaluation, and feedback mechanisms to track agent reliability
+    and adoption
+  - Optimize Snowflake AI feature usage for performance, cost-efficiency, and scalability
+  - Develop prompt libraries, context schemas, and reusable AI workflow components
+  use_cases:
+  - Enterprise automation for GTM, G&A, and internal operations
+  - Intelligent workflow orchestration for public sector organizations
+  - Context-aware agent systems for government operations
+  - Document retrieval and semantic search for government data
+  - AI-powered enterprise asset management and procurement workflows
+  - Automated permitting, licensing, and compliance systems
+  skills:
+    genai: [RAG, LangChain, CrewAI, Airia, OpenAI API, Anthropic API, Gemini API,
+      Agent orchestration, Prompt engineering]
+    ml: [Embedding models]
+    web: [FastAPI, Flask, React, Streamlit]
+    databases: [Snowflake, Vector databases]
+    data: [dbt, Data pipelines]
+    cloud: [Snowflake AI/Cortex]
+    ops: [Model Context Protocol]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8592417'
+  extracted_at: '2026-02-27T11:41:19.475099'

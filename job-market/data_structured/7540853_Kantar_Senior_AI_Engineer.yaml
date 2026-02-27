@@ -1,0 +1,53 @@
+company:
+  name: Kantar
+  stage: Public
+  focus: Global insights, consulting, and analytics
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on deploying, monitoring, and maintaining
+      AI models rather than building, training, or fine-tuning
+      them. The position is primarily responsible for
+      infrastructure, pipelines, and productionizing solutions
+      developed by data scientists and AI engineers.
+  responsibilities:
+  - Develop and maintain scalable and efficient AI pipelines and infrastructure for
+    deployment
+  - Deploy AI models and solutions into production environments, ensuring stability
+    and performance
+  - Monitor and maintain deployed AI systems to ensure they operate effectively and
+    efficiently
+  - Troubleshoot and resolve issues related to AI deployment, including performance
+    bottlenecks and system failures
+  - Optimize deployment processes to reduce latency and improve the scalability of
+    AI solutions
+  - Implement robust version control and model management practices to track AI model
+    changes and updates
+  - Ensure the security and compliance of deployed AI systems with industry standards
+    and regulations
+  - Provide technical support and guidance for deployment-related queries and issues
+  use_cases:
+  - Marketing analytics and consulting solutions
+  - Enterprise AI and GenAI applications
+  - Data-driven decision support tools
+  - Predictive analytics for business optimization
+  - NLP and computer vision applications for insights
+  - Machine learning products for global organizations
+  skills:
+    genai: [OpenAI LLMs, Google Foundation Models, Anthropic LLMs, Generative AI]
+    ml: []
+    web: [RESTful APIs]
+    databases: [MySQL, MongoDB]
+    data: [Spark]
+    cloud: [Azure ML Service, AWS SageMaker, Google Cloud AI]
+    ops: [Docker, Kubernetes, CI/CD, Azure DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7540853'
+  extracted_at: '2026-02-27T11:32:17.674566'

@@ -1,0 +1,48 @@
+company:
+  name: Innovaccer
+  stage: Series F
+  focus: Healthcare data platform and intelligence cloud
+position:
+  title: 3199-AI-Software Development Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI/ML
+      systems including LLM fine-tuning, multi-agent systems, and
+      predictive analytics tools. The engineer will work directly
+      with prompt engineering, vector databases, and agent
+      frameworks to create AI solutions for healthcare
+      personalization.
+  responsibilities:
+  - Design and lead the development of various artificial intelligence initiatives
+    to help improve health and wellness of patients
+  - Work with business leaders and customers to understand pain-points and build large-scale
+    solutions for them
+  - Break down complex business problems into machine learning problems and design
+    solution workflows
+  - Integrate agent capabilities or algorithms into data platform products and workflows
+  - Build tools for repeatable data tasks that will accelerate and automate the development
+    cycle
+  use_cases:
+  - Personalize treatments based on clinical and behavioral history of patients
+  - Build predictive analytics tools for healthcare
+  - Improve health and wellness of patients through AI initiatives
+  - Enable intelligent and connected experiences in healthcare delivery
+  - Transform fragmented healthcare data into proactive, coordinated actions
+  skills:
+    genai: [Prompt Engineering, LLM fine-tuning, CrewAI, LangChain, AutoGen, Multi-Agent
+        Systems]
+    ml: [Reinforcement Learning]
+    web: [FastAPI, Django]
+    databases: [ChromaDB, FAISS, Snowflake]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6872535'
+  extracted_at: '2026-02-27T11:42:13.104360'

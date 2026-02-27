@@ -1,0 +1,48 @@
+company:
+  name: Microstrategy
+  stage: Public
+  focus: Enterprise analytics, BI software, and AI-powered solutions
+position:
+  title: AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work with Large Language Models
+      (OpenAI, Azure OpenAI), implementing RAG pipelines, text
+      embeddings, and deploying AI applications. The
+      responsibilities focus on building, optimizing, and
+      integrating AI/LLM solutions rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Develop, maintain, and optimize AI-driven applications using Python
+  - Design and build RESTful APIs with FastAPI for seamless integration of AI services
+  - Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI,
+    to enhance AI-driven functionalities
+  - Interface with relational and vector databases for efficient AI data retrieval
+    and storage
+  - Implement text embedding techniques and RAG to improve AI-powered natural language
+    processing tasks
+  - Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP
+  - Utilize Docker for containerization, ensuring scalable and efficient deployment
+  use_cases:
+  - Enterprise analytics and business intelligence with AI-powered insights
+  - Natural language processing applications leveraging LLMs
+  - Retrieval-augmented generation (RAG) systems for enhanced AI responses
+  - Vector database integration for efficient AI data retrieval
+  - Scalable AI service deployment through REST APIs
+  skills:
+    genai: [OpenAI API, Azure OpenAI, RAG, text embeddings]
+    ml: []
+    web: [FastAPI, RESTful APIs]
+    databases: [vector databases, relational databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Git, unit testing]
+    languages: [Python, object-oriented programming]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6178416'
+  extracted_at: '2026-02-27T11:30:05.330299'

@@ -1,0 +1,57 @@
+company:
+  name: Miratech
+  stage: null
+  focus: Global IT services and consulting for digital transformation
+position:
+  title: Senior Conversational AI Engineer (Google ADK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on building of agentic AI
+      systems using Google's Agent Development Kit (ADK),
+      including multi-agent orchestration, tool integration, and
+      production deployment. The engineer is responsible for
+      designing, developing, and scaling conversational AI agents,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Design, develop, and scale agentic AI systems using Google Agent Development Kit
+    (ADK), ensuring enterprise-grade performance, security, and scalability
+  - Architect and implement multi-agent workflows, tool orchestration, and stateful
+    conversational systems integrated with Dialogflow CX/ES
+  - Develop production-grade Python services (FastAPI, Flask, or equivalent) to support
+    middleware, APIs, and enterprise integrations
+  - Design and deploy scalable solutions on Google Cloud Platform (GCP), leveraging
+    services such as CCAI, Cloud Run, Cloud Functions, Pub/Sub, and BigQuery
+  - Implement advanced prompt engineering strategies, NLP/NLU best practices, context
+    management, and robust error handling to optimize conversational experiences
+  - Integrate conversational agents with enterprise platforms (CRM systems, contact
+    centers, databases) while ensuring observability through logging, monitoring,
+    and performance optimization
+  - Provide technical leadership through architecture reviews, mentorship, best-practice
+    enforcement, and cross-functional collaboration with product, DevOps, and business
+    stakeholders
+  use_cases:
+  - Enterprise-grade conversational AI solutions and chatbots
+  - Contact center automation and customer service systems
+  - Multi-agent AI systems with tool orchestration
+  - Enterprise conversational platforms integrated with CRM and business systems
+  - Stateful conversational workflows for business process automation
+  skills:
+    genai: [Google Agent Development Kit (ADK), Dialogflow CX, Dialogflow ES, Google
+        Contact Center AI (CCAI), Prompt engineering, Multi-agent orchestration, Agentic
+        AI systems]
+    ml: []
+    web: [FastAPI, Flask, Django, RESTful APIs, Webhook fulfillment services]
+    databases: [BigQuery]
+    data: []
+    cloud: [Google Cloud Platform (GCP), Google Cloud Run, Google Cloud Functions,
+      Google Pub/Sub]
+    ops: [Git, CI/CD pipelines, GitHub Actions, Terraform, Logging and monitoring]
+    languages: [Python]
+    domains: [NLP/NLU]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8582607'
+  extracted_at: '2026-02-27T12:06:31.510853'

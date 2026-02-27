@@ -1,0 +1,51 @@
+company:
+  name: Cantina (cantina.xyz)
+  stage: Seed
+  focus: Web3 security platform connecting researchers with projects
+position:
+  title: AI Growth Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building of AI agents, LLM
+      workflows, RAG systems, and agent orchestration - working
+      directly ON AI systems for growth and marketing automation
+      rather than supporting AI work for others. The requirements
+      explicitly mention 3+ years working with AI systems
+      including LLMs, embeddings, RAG, and prompt engineering,
+      with responsibility to build AI agents that run
+      continuously.
+  responsibilities:
+  - Build AI agents that run continuously to identify, enrich, and qualify prospects
+  - Design automated lead-generation systems and multi-channel marketing automation
+    infrastructure
+  - Build lead scoring, segmentation, and routing pipelines using Python, TypeScript,
+    SQL, and data tooling
+  - Develop monitoring systems that detect market events and trigger contextual outreach
+  - Build AI-driven content systems with LLM workflows, structured prompt pipelines,
+    and retrieval systems
+  - Optimize Cantina's marketing website for performance, SEO, AEO, and conversion
+    architecture
+  use_cases:
+  - Automated prospect identification and qualification using AI agents
+  - Multi-channel marketing campaign orchestration and automation
+  - Real-time market event monitoring and contextual outreach triggering
+  - AI-driven content generation and workflow automation
+  - Lead scoring, segmentation, and intelligent routing for sales teams
+  - Data pipeline automation for CRM integration and marketing data flows
+  skills:
+    genai: [LLMs, embeddings, RAG, agent orchestration, prompt engineering, LangChain]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: [ETL, data pipelines, web scraping]
+    cloud: [AWS, GCP, Azure]
+    ops: [monitoring systems]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [HubSpot, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8530098'
+  extracted_at: '2026-02-27T11:36:17.861542'

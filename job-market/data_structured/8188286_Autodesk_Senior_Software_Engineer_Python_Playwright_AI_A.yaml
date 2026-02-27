@@ -1,0 +1,44 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: Design and engineering software
+position:
+  title: Senior Software Engineer (Python, Playwright, AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on AI agent development using
+      LangGraph and similar frameworks, LLM integration with RAG
+      patterns, and prompt engineering. The engineer will build
+      and deploy AI-driven test automation systems that directly
+      work with models and agents.
+  responsibilities:
+  - Lead teams in designing and delivering scalable cloud and desktop applications
+  - Drive adoption of AI agents, LLMs, and automation frameworks into engineering
+    workflows
+  - Own business outcomes and ensure engineering excellence across projects
+  - Recruit, mentor, and inspire high-performing engineers
+  - Collaborate with stakeholders to define vision, priorities, and delivery plans
+  - Champion Agile practices, DevOps, and continuous improvement
+  use_cases:
+  - AI-powered test automation for cloud and desktop applications
+  - Automated UI/API testing using AI-driven approaches
+  - Intelligent test generation and execution using LLMs
+  - Self-healing test frameworks with AI agents
+  - Scalable automation infrastructure for engineering workflows
+  skills:
+    genai: [LangGraph, LLM integration, Prompt engineering, RAG, AI Agent Development]
+    ml: []
+    web: [Playwright, Cypress, Pytest]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Jenkins, CI/CD, Git]
+    languages: [Python, JavaScript, TypeScript, async/await]
+    domains: []
+    other: [MCP]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8188286'
+  extracted_at: '2026-02-27T12:03:52.540155'

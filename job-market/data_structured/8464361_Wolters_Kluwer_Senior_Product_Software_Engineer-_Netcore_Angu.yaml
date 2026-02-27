@@ -1,0 +1,52 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Professional information, software solutions, and services
+position:
+  title: Senior Product Software Engineer- (.Netcore + Angular + SQL) - AI Fluent
+    (Mandatory)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineering role focused on building and
+      maintaining enterprise applications using .NET Core,
+      Angular, and SQL. While the role requires AI-assisted
+      development skills using GitHub Copilot for code generation
+      and automation, it does not involve building, training, or
+      deploying AI/ML models. The AI tools are used as
+      productivity aids rather than working directly on AI
+      systems.
+  responsibilities:
+  - Collaborate across Agile teams to design, develop, test, implement, and support
+    technical solutions using a variety of tools and technologies
+  - Design and develop front-end solutions using Angular, React, and ASP.NET Core,
+    as well as back-end APIs used internally and by third-party systems
+  - Participate in architectural and technical decision-making processes and produce
+    technical designs aligned with business requirements
+  - Enhance and maintain existing applications through performance improvements, code
+    refactoring, and bug fixing
+  - Develop dashboards and reports using Power BI to support business intelligence
+    and decision-making
+  - Follow established organizational standards for design, coding, testing, and documentation
+  use_cases:
+  - Enterprise software solutions for business challenges
+  - Front-end web applications with responsive design
+  - Back-end API development for internal and third-party systems
+  - Business intelligence dashboards and data visualization
+  - Microservices architecture for scalable applications
+  skills:
+    genai: [GitHub Copilot, AI Agents]
+    ml: []
+    web: [.NET Core, Angular, React, ASP.NET MVC, Web API, WCF, REST, Node.js, NestJS]
+    databases: [RxDB, MS SQL, NoSQL]
+    data: [Power BI]
+    cloud: [Dapr, Microsoft Azure]
+    ops: [Docker, Kubernetes, Azure DevOps, Git, Unit testing, Integration testing]
+    languages: [TypeScript, C#]
+    domains: []
+    other: [Agile, Scrum, SAFe, TDD, BDD, DDD, UML, OWASP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8464361'
+  extracted_at: '2026-02-27T11:41:09.562525'

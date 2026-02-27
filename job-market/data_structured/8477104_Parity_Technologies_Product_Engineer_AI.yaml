@@ -1,0 +1,49 @@
+company:
+  name: Parity Technologies
+  stage: null
+  focus: Blockchain infrastructure and Web3 platform development
+position:
+  title: Product Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves leveraging AI tools (Cursor, Copilot,
+      Claude) to accelerate development workflows, but the core
+      work is building production web applications and product
+      features. The AI is used as a development tool rather than
+      the role being focused on building, training, or deploying
+      AI/ML models or agents.
+  responsibilities:
+  - Lead feature development through scoping, architecture, deployment, and iteration
+    based on live user data
+  - Integrate AI tools into daily workflow to accelerate development velocity and
+    maximize output
+  - Navigate ambiguity by exercising sound product judgment and filling requirement
+    gaps
+  - Deploy MVPs quickly to gather real-world feedback and validated learning
+  - Partner with stakeholders and users to understand pain points and translate them
+    into functional software
+  - Work proactively across the organization to remove blockers and maintain high
+    shipping cadence
+  use_cases:
+  - Accelerate feature development using AI-powered coding tools
+  - Build and deploy web applications for blockchain ecosystem
+  - Develop tools and experiences that accelerate Polkadot platform adoption
+  - Translate ecosystem needs into functional developer tools
+  - Enable rapid iteration and feedback-driven product development
+  skills:
+    genai: [Cursor, Copilot, Claude]
+    ml: []
+    web: [React, Frontend architecture, Component-driven development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Build pipelines]
+    languages: [TypeScript]
+    domains: []
+    other: [System design, Product intuition]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8477104'
+  extracted_at: '2026-02-27T12:06:53.068281'

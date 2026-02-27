@@ -1,0 +1,254 @@
+job_id: 7933255
+title: "Marketing Platform Engineer (Data & AI)"
+company: Bloomreach
+location: GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Api Integrations
+  - N8N
+  - Postgres
+  - Salesforce
+  - Supabase
+company_size: 600 Employees
+description: |
+  Bloomreach is building the world’s premier agentic platform
+  for personalization.We’re revolutionizing how businesses
+  connect with their customers, building and deploying AI
+  agents to personalize the entire customer journey.
+  
+  - We're taking autonomous search mainstream, making product
+    discovery more intuitive and conversational for customers,
+    and more profitable for businesses.
+  - We’re making conversational shopping a reality, connecting
+    every shopper with tailored guidance and product expertise
+    — available on demand, at every touchpoint in their
+    journey.
+  - We're designing the future of autonomous marketing, taking
+    the work out of workflows, and reclaiming the creative,
+    strategic, and customer-first work marketers were always
+    meant to do.
+  
+  And we're building all of that on the intelligence of a
+  single AI engine — Loomi AI — so that personalization isn't
+  only autonomous…it's also consistent.From retail to
+  financial services, hospitality to gaming, businesses use
+  Bloomreach to drive higher growth and lasting loyalty. We
+  power personalization for more than 1,400 global brands,
+  including American Eagle, Sonepar, and Pandora.
+  
+  Bloomreach is seeking a Context Layer & Platform Engineer to
+  architect and maintain the intelligent data backbone
+  powering our GTM AI ecosystem. In this role, you will work
+  hand-in-hand with the AI Ops team, Sales, and Marketing to
+  design and scale a centralized, real-time context retrieval
+  system that serves 50-200 GTM agents with precision, speed,
+  and minimal noise. You'll engineer the architecture so that
+  agents call clean, versioned endpoints to access the right
+  data at the right time, in the right channel, at the right
+  freshness - without redundant work or data drift. You'll own
+  Salesforce data quality, enrichment, and deduplication while
+  simultaneously building the infrastructure that makes our
+  agents smarter, faster, and more reliable. The ideal
+  candidate combines deep technical expertise in data
+  pipelines and API architecture with product thinking about
+  how data flows through systems, thrives solving complex
+  orchestration challenges, and is motivated to turn messy
+  data into intelligence at scale.
+  
+  Your job will be to:
+  
+  - Own Salesforce data integrity: Take responsibility for data
+    quality, deduplication, and enrichment across Salesforce.
+    Use AI enriching accounts and contacts with the right
+    data, eliminating duplicates, standardizing fields,
+    validating data freshness, and ensuring that all context
+    flowing through the system is reliable. You are the keeper
+    of the single source of truth.
+  - Engineer the context retrieval backbone: Design and ship
+    versioned, documented API endpoints that GTM agents call
+    to retrieve context - contacts, accounts, engagement
+    history, intent signals, enrichment data - with consistent
+    response contracts, fast latency, and intelligent
+    filtering/boosting/time-decay logic. These endpoints
+    become the foundation for scaling from 10 to 200 agents.
+  - Optimize retrieval performance: Continuously tune query
+    logic, filters, boosts, and ranking algorithms so answers
+    are contextually relevant, fast (sub-second latency), and
+    cost-effective. Every agent query should return signal,
+    not noise.
+  - Scale “GTM Brain” data sources without breaking agents: Add
+    new sources - product usage, web signals, third-party
+    enrichment, intent platforms - to the context layer
+    without forcing agents to rebuild their logic. Design the
+    system so agents stay stable while context grows richer.
+  - Keep context fresh and resilient: Build and operate
+    background jobs that refresh context on schedule, detect
+    and fix failed re-embeddings, backfill deltas, and
+    maintain data pipelines that feed agents with up-to-date
+    intelligence without disruption or drift.
+  - Enable agent developers and operators: Create starter
+    queries and templated context patterns that new agents can
+    adopt quickly. Coordinate with the enablement and AI Ops
+    teams to make context accessible to non-engineers.
+  - Collaborate on vendor strategy: Help evaluate, integrate,
+    and own relationships with key vendors like N8N, Clay,
+    Rattle - ensuring their data flows cleanly into your
+    context architecture and meets our latency and freshness
+    requirements.
+  - Participate in building the GTM data stack of the future:
+    Work with RevOps, and AI Ops to understand how Salesforce,
+    enrichment platforms, N8N, Supabase/Postgres, LLM tools,
+    and analytics integrate - co-creating a scalable,
+    maintainable system that can grow to support 200+ agents
+    without technical debt.
+  
+  Your success story will be:
+  
+  - Within the first 30-60 days: The first set of centralized
+    context endpoints are shipped, versioned, and documented.
+    At least 3 existing agents are migrated from custom
+    context logic to calling these endpoints. Salesforce data
+    quality audit is complete, enrichment roadmap is clear,
+    and foundational data cleanup is underway.
+  - After 60-90 days: GTM Brain architecture designed, Clear
+    context layer roadmap to BigQuery, SFDC and others defined
+    and in works.
+  - By 6 months: 15-20 agents are operating on the platform
+    connected to GTM Brain. Salesforce data quality has
+    improved by 40%+ (measured by duplicate rates, field
+    completeness, freshness). A new data source (usage
+    signals, enrichment vendor, etc.) has been integrated
+    without disrupting existing agents. The context layer is
+    stable and predictable enough that the AI Ops team
+    confidently plans to scale to 50+ agents.
+  
+  You have the following experience and qualities:
+  
+  - You've built or scaled data pipelines, ETL systems, or API
+    backends that serve multiple downstream consumers - and
+    understand the discipline of versioning, backward
+    compatibility, and operational stability.
+  - You know Salesforce deeply - data model, custom objects,
+    field governance, deduplication strategies, API
+    limitations - and can architect data quality processes
+    that scale.
+  - You're expert with N8N, Supabase/Postgres, and API
+    integrations. You can design schemas, optimize queries,
+    version APIs, and think about performance at scale. You've
+    built systems that balance flexibility with simplicity.
+  - You understand LLM-adjacent tooling and can reason about
+    prompt versioning, retrieval quality, latency trade-offs,
+    and how to structure data so agents consume it
+    predictably.
+  - You love operational rigor - monitoring, alerting,
+    observability, runbooks. You believe that boring
+    infrastructure is good infrastructure, and you want to
+    measure and communicate it.
+  - You're comfortable with ambiguity and can break down a big
+    architectural challenge ("serve 200 agents with consistent
+    context") into testable, shippable milestones.
+  - You thrive in cross-functional environments and can
+    translate between data engineers, product teams, AI
+    researchers, and business stakeholders. You can speak both
+    technical and business language.
+  - You're driven by the challenge of turning messy data into
+    clean intelligence - and seeing that intelligence power
+    products and decisions in real time.
+  - You're curious about how GTM works and motivated to
+    understand not just the "what" but the "why" - so you
+    build systems that are useful, not just technically sound.
+  - You have strong project ownership instincts - you see things
+    through from design to maintenance, and you take pride in
+    systems that run reliably at scale.
+  
+  #LI-KP1
+  
+  More things you'll like about Bloomreach:Culture:
+  
+  - A great deal of freedom and trust. At Bloomreach we don’t
+    clock in and out, and we have neither corporate rules nor
+    long approval processes. This freedom goes hand in hand
+    with responsibility. We are interested in results from day
+    one.
+  - We have defined our 5 values and the 10 underlying key
+    behaviors that we strongly believe in. We can only succeed
+    if everyone lives these behaviors day to day. We've
+    embedded them in our processes like recruitment,
+    onboarding, feedback, personal development, performance
+    review and internal communication.
+  - We believe in flexible working hours to accommodate your
+    working style.
+  - We work virtual-first with several Bloomreach Hubs available
+    across three continents.
+  - We organize company events to experience the global spirit
+    of the company and get excited about what's ahead.
+  - We encourage and support our employees to engage in
+    volunteering activities - every Bloomreacher can take 5
+    paid days off to volunteer*.
+  - The Bloomreach Glassdoor page elaborates on our stellar
+    4.4/5 rating. The Bloomreach Comparably page Culture score
+    is even higher at 4.9/5
+  
+  Personal Development:
+  
+  - We have a People Development Program -- participating in
+    personal development workshops on various topics run by
+    experts from inside the company. We are continuously
+    developing & updating competency maps for select
+    functions.
+  - Our resident communication coach Ivo Večeřa is available to
+    help navigate work-related communications & decision-
+    making challenges.*
+  - Our managers are strongly encouraged to participate in the
+    Leader Development Program to develop in the areas we
+    consider essential for any leader. The program includes
+    regular comprehensive feedback, consultations with a coach
+    and follow-up check-ins.
+  - Bloomreachers utilize the $1,500 professional education
+    budget on an annual basis to purchase education products
+    (books, courses, certifications, etc.)*
+  
+  Well-being:
+  
+  - The Employee Assistance Program -- with counselors -- is
+    available for non-work-related challenges.*
+  - Subscription to Calm - sleep and meditation app.*
+  - We organize ‘DisConnect’ days where Bloomreachers globally
+    enjoy one additional day off each quarter, allowing us to
+    unwind together and focus on activities away from the
+    screen with our loved ones.
+  - We facilitate sports, yoga, and meditation opportunities for
+    each other.
+  - Extended parental leave up to 26 calendar weeks for Primary
+    Caregivers.*
+  
+  Compensation:
+  
+  - Restricted Stock Units or Stock Options are granted
+    depending on a team member’s role, seniority, and
+    location.*
+  - Everyone gets to participate in the company's success
+    through the company performance bonus.*
+  - We offer an employee referral bonus of up to $3,000 paid out
+    immediately after the new hire starts.
+  - We reward & celebrate work anniversaries -- Bloomversaries!*
+  
+  (*Subject to employment type. Interns are exempt from marked
+  benefits, usually for the first 6 months.)
+  
+  Excited? Join us and transform the future of commerce
+  experiences!
+  
+  If this position doesn't suit you, but you know someone who
+  might be a great fit, share it - we will be very grateful!
+  
+  Any unsolicited resumes/candidate profiles submitted through
+  our website or to personal email accounts of employees of
+  Bloomreach are considered property of Bloomreach and are not
+  subject to payment of agency fees.
+  
+  #LI-Remote
+posted_date: 2026-02-25
+url: "https://builtin.com/job/context-layer-gtm-engineer/7933255"
+source: Built In

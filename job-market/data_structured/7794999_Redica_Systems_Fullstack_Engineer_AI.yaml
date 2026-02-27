@@ -1,0 +1,51 @@
+company:
+  name: Redica Systems
+  stage: Series B+
+  focus: AI-driven Quality and Regulatory Intelligence platform
+position:
+  title: Fullstack Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building backend APIs for Generative AI
+      functionalities and integrating LLMs/GenAI applications with
+      frameworks like LangChain, LangGraph, and LlamaIndex.
+      Although it's a full-stack position, the engineer is
+      directly implementing AI features including RAG systems and
+      working with Foundation Model APIs, which qualifies as
+      working directly on AI systems.
+  responsibilities:
+  - Collaborate with the Product Team to understand and solidify business requirements
+    and use cases for AI Applications
+  - Contribute to the architecture, design, and implementation of Backend APIs using
+    Python and FastAPI for Generative AI functionalities
+  - Contribute to the architecture, design, and implementation of Frontend UI using
+    React and NextJS for AI Applications
+  - Contribute to designing the AWS architecture and service stack to host the Frontend
+    and Backend of AI applications
+  - Develop effective Unit, Integration, and E2E testing strategies for the developed
+    components
+  - Interface with other engineering teams and ensure clean deployment of AI applications
+  use_cases:
+  - AI-driven Quality and Regulatory Intelligence for life sciences industry
+  - Predictive quality analysis using AI workflows
+  - Regulatory compliance risk assessment and reduction
+  - Supplier risk quantification and identification of market opportunities
+  - Government inspection and enforcement data mining and analysis
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, RAG, OpenAI API, Anthropic API, Gemini
+        API]
+    ml: []
+    web: [React, NextJS, FastAPI, Flask, Django]
+    databases: [Postgres, MySQL, DynamoDB, MongoDB]
+    data: []
+    cloud: [AWS, ECS, Lambda, EC2, ALB, API Gateway, CloudFront]
+    ops: [Docker, E2E testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7794999'
+  extracted_at: '2026-02-27T11:29:18.759710'

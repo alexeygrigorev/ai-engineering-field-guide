@@ -1,0 +1,44 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: Global marketing and advertising agency
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The job title includes "AI Lead Engineer" but the
+      description focuses entirely on general software engineering
+      practices: development lifecycle, code reusability,
+      security, testing, and mentoring. There is no mention of
+      building, training, fine-tuning, or deploying AI/ML models,
+      suggesting this is a general SWE role at an AI-related
+      company (dentsu/Merkle) rather than hands-on AI development.
+  responsibilities:
+  - Participates in the entire software development cycle including requirements analysis,
+    design, development, unit testing and documentation
+  - Ensures long-term code reusability and stability of software solutions
+  - Proactively identifies security and usability issues and formulates strategies
+    to resolve them
+  - Takes ownership for delivery of complex application features and resolves key
+    technical issues
+  - Mentors new software engineers and participates in knowledge sharing and training
+    delivery
+  - Integrates new technologies and follows company release processes
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Unit Testing, CI/CD, Agile Development, Docker, Kubernetes, Git]
+    languages: [Python, TypeScript, Java, SQL]
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8449477'
+  extracted_at: '2026-02-27T11:45:11.599717'

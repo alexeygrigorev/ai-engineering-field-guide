@@ -1,0 +1,46 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Building proactive AI systems for practical global benefits
+position:
+  title: Backend Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role focuses on building and operating backend systems
+      that power AI-powered features, specifically designing
+      inference pipelines and orchestration layers around LLMs and
+      embeddings. The engineer works directly with models,
+      optimizing inference latency and throughput, and implements
+      AI systems for production use.
+  responsibilities:
+  - Build and operate backend systems that serve AI-powered features in production
+  - Design inference pipelines, orchestration layers, and service boundaries around
+    models
+  - Own production concerns including monitoring, logging, alerting, and incident
+    response
+  - Optimize latency and throughput across inference, caching, batching, and streaming
+  use_cases:
+  - Proactive AI system that carries work forward across conversations, tools, and
+    time
+  - AI-powered features in production environments
+  - LLM-based inference and orchestration systems
+  - Multimodal AI inference pipelines
+  - High-throughput, low-latency AI services
+  skills:
+    genai: [OpenAI API, Anthropic API, Open-source LLMs, LLM inference patterns]
+    ml: [PyTorch, Embeddings]
+    web: []
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Inference pipelines, Orchestration layers, Distributed
+        systems]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8463872'
+  extracted_at: '2026-02-27T11:44:06.137210'

@@ -1,0 +1,122 @@
+job_id: 8541149
+title: "Senior Data & AI Platform Engineer (AWS, Snowflake, Vector Search)"
+company: RevenueBase
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+description: |
+  RevenueBase:
+  
+  - We're building the data infrastructure that makes AI agents
+    trustworthy instead of error-prone.
+  - We provide continuously refreshed, verified B2B data for
+    autonomous AI agents and GTM workflows.
+  - We've tripled growth while maintaining 100% gross dollar
+    retention and staying cashflow positive.
+  - We power AI agents for Clay, Zoominfo, Dun & Bradstreet, and
+    the next generation of AI GTM tools.
+  
+  About the Role
+  
+  We are looking for a Senior Data & AI Platform Engineer to
+  build internal tools and services on top of our large-scale
+  data infrastructure. Your primary focus will be developing
+  systems that leverage vector embeddings, LLM APIs, and
+  semantic search to unlock value from structured and
+  unstructured data.
+  
+  This is a hands-on engineering role for someone who enjoys
+  building practical AI-powered tools — not just experiments —
+  and shipping them into production in a fast-moving startup
+  environment.
+  
+  What You’ll Do
+  
+  - Design and build data-driven tools that operate on large
+    datasets stored in S3 and Snowflake
+  - Implement pipelines that:
+    - Extract specific columns or datasets from Snowflake
+    - Generate vector embeddings via APIs such as OpenAI
+    - Store and manage embeddings in vector databases like
+      Pinecone
+    - Enable semantic search and similarity-based retrieval
+  - Develop enrichment workflows that:
+    - Query structured data
+    - Use LLM APIs to generate new derived columns
+    - Write enriched results back into Snowflake
+  - Build reusable internal services and SDKs around embedding
+    generation, prompt orchestration, and data augmentation
+  - Optimize performance and cost across AWS infrastructure
+  - Work closely with product and data teams to turn use cases
+    into scalable engineering solutions
+  - Ensure reliability, observability, and maintainability of
+    AI-powered pipelines
+  
+  Example Projects
+  
+  - Tool to extract a single Snowflake column, generate
+    embeddings, push to Pinecone, and expose a semantic search
+    API
+  - Batch enrichment pipeline that queries records from
+    Snowflake, calls OpenAI APIs for structured enrichment,
+    and writes new columns back
+  - Internal framework for LLM-based data transformation and
+    validation
+  - Query abstraction layer to make AI-enhanced analytics
+    accessible to non-engineering teams
+  
+  Required Qualifications
+  
+  - 5+ years of software engineering experience
+  - Strong backend engineering skills (Python preferred; other
+    modern languages acceptable)
+  - Solid experience with:
+    - AWS (IAM, Lambda, ECS/EKS, S3, networking, security best
+      practices)
+    - Data warehousing (Snowflake preferred)
+    - API design and distributed systems
+  - Hands-on experience working with LLM APIs (e.g., OpenAI) and
+    embedding workflows
+  - Experience with vector databases (Pinecone or similar)
+  - Strong understanding of data modeling, ETL/ELT patterns, and
+    performance optimization
+  - Production experience in at least one startup environment
+  - Ability to operate independently and ship high-impact
+    systems end-to-end
+  
+  Nice to Have
+  
+  - Experience building internal developer platforms or data
+    tooling
+  - Familiarity with prompt engineering and evaluation pipelines
+  - Experience with orchestration frameworks (Airflow, Prefect,
+    Dagster)
+  - Exposure to retrieval-augmented generation (RAG) systems
+  - Infrastructure-as-code experience (Terraform, CDK)
+  - Experience managing large-scale embedding refresh and re-
+    indexing workflows
+  
+  What Success Looks Like
+  
+  - Engineers and analysts can easily leverage AI-powered data
+    enrichment
+  - Embedding-based search works reliably at scale
+  - New AI use cases can be implemented quickly using shared
+    internal tooling
+  - Systems are robust, observable, and cost-efficient
+  
+  Why Join Us?
+  
+  - Work on practical, production-grade AI systems
+  - Direct impact on how data is leveraged across the company
+  - Startup speed with real ownership and autonomy
+  - Opportunity to define the internal AI platform from the
+    ground up
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Database
+posted_date: 2026-02-19
+url: "https://www.builtinla.com/job/senior-data-ai-platform-engineer-aws-snowflake-vector-search/8541149"
+source: Built In

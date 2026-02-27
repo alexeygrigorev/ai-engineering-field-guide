@@ -1,0 +1,133 @@
+job_id: 8256201
+title: Senior AI Infrastructure Engineer
+company: Together AI
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - Ci/Cd
+  - GCP
+  - Go
+  - Kafka
+  - Kinesis
+  - Kubernetes
+  - Postgres
+company_size: 84 Employees
+description: |
+  About the Role
+  
+  Together AI is building the AI Acceleration Cloud, an end-
+  to-end platform for the full generative AI lifecycle,
+  combining the fastest LLM inference engine with state-of-
+  the-art AI cloud infrastructure.
+  
+  As a Senior AI Infrastructure Engineer, you will play a key
+  role in building the next generation AI cloud platform – a
+  highly available, global, blazing-fast cloud infrastructure
+  that virtualizes cutting-edge ML hardware (GB200s/GB300s,
+  BlueField DPUs) and enables state-of-the-art ML
+  practitioners with self-serve AI cloud services, such as on-
+  demand + managed Kubernetes and Slurm clusters. This
+  platform serves both our internal SaaS products (inference,
+  fine-tuning) and our external cloud customers, spanning
+  dozens of data centers across the world.
+  
+  Hybrid working two days a week in the Amsterdam office.
+  
+  Responsibilities
+  
+  - Design, build, and maintain performant, secure, and highly-
+    available backend services/operators that run in our data
+    centers and automate hardware management, such as
+    Infiniband partitioning, in-DC parallel storage
+    provisioning, and VM provisioning.
+  - Design and build out the IaaS software layer for a new GB200
+    data center with thousands of GPUs.
+  - Work on a global multi-exabyte high-performance object
+    store, serving massive datasets for pretraining.
+  - Build advanced observability stacks for our customers with
+    automated node lifecycle management for fault-tolerant
+    distributed pretraining.
+  - Perform architecture and research work for decentralized AI
+    workloads
+  - Work on the core, open-source Together AI platform
+  - Create services, tools, and developer documentation
+  - Create testing frameworks for robustness and fault-tolerance
+  
+  To be successful, you’ll need to be deeply technical and
+  possess excellent communication, collaboration, and
+  diplomacy skills. You have strong fundamental software
+  development skills. In addition, you have strong systems
+  knowledge and troubleshooting abilities.
+  
+  Requirements
+  
+  - 5+ years of professional software development experience and
+    proficiency in at least one backend programming language
+    (Golang desired)
+  - 5+ years experience writing high-performance, well-tested,
+    production quality code
+  - Demonstrated experience with building and operating high-
+    performance and/or globally distributed micro-service
+    architectures across one or more cloud providers (AWS,
+    Azure, GCP)
+  - Excellent communication skills – able to write clear design
+    docs and work effectively with both technical and non-
+    technical team members
+  - Deep experience with Kubernetes internals a big plus, such
+    as implementing non-trivial Kubernetes operators,
+    device/storage/network plugins, custom schedulers, or
+    patches thereon or Kubernetes itself
+  - Deep experience with VMs/hypervisors a big plus, such as
+    QEMU/KVM, cloud-hypervisor, VFIO, virtio, PCIE
+    passthrough, Kubevirt, SR-IOV
+  - Deep experience with DC networking tech + solutions a big
+    plus, such as VLAN, VXLAN, VPN, VPC, OVS/OVN
+  - Experience with Cluster API or similar a big plus
+  - Experience working on high-performance compute, networking,
+    and/or storage a big plus
+  - Experience virtualizing GPUs and/or Infiniband a big plus
+  - Strong systems knowledge across compute, networking, and
+    storage, including concurrency, memory management,
+    performant I/O, and scale
+  - Experience with infrastructure automation tools (Terraform,
+    Ansible), monitoring/observability stacks (Prometheus,
+    Grafana), and CI/CD pipelines (GitHub Actions, ArgoCD)
+  - Experience building IaaS or PaaS systems at scale a plus
+  - Experience with DPUs/SmartNICs a plus
+  - GPU programming, NCCL, CUDA knowledge a plus
+  
+  About Together AI
+  
+  Together AI is a research-driven artificial intelligence
+  company. We believe open and transparent AI systems will
+  drive innovation and create the best outcomes for society,
+  and together we are on a mission to significantly lower the
+  cost of modern AI systems by co-designing software,
+  hardware, algorithms, and models. We have contributed to
+  leading open-source research, models, and datasets to
+  advance the frontier of AI, and our team has been behind
+  technological advancement such as FlashAttention, Hyena,
+  FlexGen, and RedPajama. We invite you to join a passionate
+  group of researchers in our journey in building the next
+  generation AI infrastructure.
+  
+  Equal Opportunity
+  
+  Together AI is an Equal Opportunity Employer and is proud to
+  offer equal employment opportunity to everyone regardless of
+  race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender identity, veteran status, and more.
+  
+  Please see our privacy policy at
+  https://www.together.ai/privacy
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-02-15
+url: "https://builtin.com/job/senior-backend-engineer-together-cloud/8256201"
+source: Built In

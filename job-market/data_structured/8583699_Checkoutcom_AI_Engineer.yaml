@@ -1,0 +1,49 @@
+company:
+  name: Checkout.com
+  stage: Public
+  focus: Global digital payments processing platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building, deployment, and
+      iteration of Generative AI solutions including LLM-based
+      applications, agents, and automation solutions. The engineer
+      will design, build, deploy, and measure AI solutions end-to-
+      end, working directly with models and AI frameworks.
+  responsibilities:
+  - Partner with product managers, non-technical business users and engineers to research,
+    validate, and deliver high-impact Generative AI use cases
+  - Design and build user facing products that leverage AI capabilities for optimising
+    internal workflows with a focus on adoption and user satisfaction
+  - Build, deploy, measure and iterate on LLM-based applications including agents,
+    knowledge extraction, and automation solutions
+  - Develop end-to-end AI solutions on cloud platforms taking a build-it-yourself
+    attitude to the entire development lifecycle including test suites, deployment
+    pipelines, agent evaluations and observability
+  - Design systems that continuously optimise performance, reliability, and scalability
+    of AI systems
+  use_cases:
+  - Internal workflow optimization for cross-functional teams
+  - Knowledge extraction from business data and documents
+  - Automation of business processes using AI agents
+  - User-facing AI-powered products enhancing operational efficiency
+  - Agent-based solutions for streamlining team operations
+  skills:
+    genai: [LangChain, PydanticAI, Google Agent Development Kit, 'LLMs (GPT, Gemini,
+        Claude Code)', agents, RAG, prompt engineering]
+    ml: [model fine-tuning]
+    web: [RESTful APIs, microservices, React]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, observability]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8583699'
+  extracted_at: '2026-02-27T11:39:33.198089'

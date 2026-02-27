@@ -1,0 +1,50 @@
+company:
+  name: Homeprotect Home Insurance
+  stage: null
+  focus: Non-standard home insurance with AI-driven tech
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents and LLM-
+      based systems including an internal AI agent (Alfred) and
+      claims handling automation. The engineer will work directly
+      with LLMs, embeddings, RAG patterns, function calling, and
+      agent evaluation frameworks.
+  responsibilities:
+  - Develop AI-first products including internal AI agents for productivity enhancement
+    across email drafting, templates, summaries, training materials, and process documentation
+  - Build and deploy AI agents to automate the entire claims handling process from
+    logging and validation through assessment, fulfilment, and settlement
+  - Design and implement agent evaluation frameworks to continuously test and monitor
+    AI behavior, response completeness, accuracy, and client outcomes
+  - Collaborate with business stakeholders particularly in Claims Operations to demonstrate
+    AI functionality and validate business value
+  use_cases:
+  - Internal productivity AI agent (Alfred) for staff support including communications
+    drafting, template generation, document summaries, training content creation,
+    and meeting materials
+  - Automated claims handling system that processes insurance claims through logging,
+    validation, assessment, fulfilment, and settlement stages
+  - Agent evaluation and monitoring system ensuring completeness, accuracy, and satisfactory
+    outcomes for AI-driven interactions
+  skills:
+    genai: [LLMs, OpenAI, Gemini, Llama, Claude, Prompt design, Function calling,
+      RAG]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases, BigQuery, Postgres, Redis]
+    data: [Text normalisation, Chunking strategies]
+    cloud: [Google Cloud Platform, Vertex AI, Model Garden, Cloud Run Functions, Azure
+        Blob Storage]
+    ops: [Git, CI/CD, Azure DevOps, Docker, Observability, Evaluation frameworks,
+      A/B testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8450541'
+  extracted_at: '2026-02-27T11:54:10.076247'

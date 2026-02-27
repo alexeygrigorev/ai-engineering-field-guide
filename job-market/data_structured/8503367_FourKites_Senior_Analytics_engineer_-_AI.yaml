@@ -1,0 +1,59 @@
+company:
+  name: FourKites
+  stage: null
+  focus: AI-driven supply chain visibility and optimization
+position:
+  title: Senior Analytics engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Analytics Engineer role that primarily focuses on
+      building data models, dashboards, and analytics
+      infrastructure. While it mentions leveraging AI/ML
+      techniques and LLM-based tools for insights and predictions,
+      the core work involves analytics engineering, data modeling,
+      and building foundations that support AI applications rather
+      than directly building, training, or deploying AI models.
+      The role is more about enabling AI-driven insights and
+      predictive modeling within an analytics context.
+  responsibilities:
+  - Partner with Sales, Marketing, Operations, and CSM leaders to define and operationalize
+    Growth & Retention KPIs including acquisition, activation, expansion, churn, LTV,
+    and NRR
+  - Build and maintain a B2B Customer 360 data model integrating product usage, contracts,
+    billing, support, engagement, and operational signals
+  - Design, build, and maintain analytics data models and semantic layers that power
+    dashboards and AI-driven insights
+  - Develop churn prediction models, customer health scores, and expansion propensity
+    models to identify leading indicators for business outcomes
+  - Leverage AI/ML and LLM-based techniques for automated insight generation, anomaly
+    detection, opportunity and risk scoring, and natural language analytics
+  - Ensure high data quality, reliability, and observability while driving best practices
+    in analytics engineering including testing, version control, and documentation
+  use_cases:
+  - B2B Customer 360 analytics creating unified customer views across product usage,
+    commercial, operational, and engagement data
+  - Growth and retention analytics with predictive models for churn risk, customer
+    health scoring, and expansion propensity
+  - AI-driven insights including automated anomaly detection, opportunity scoring,
+    and natural language text-to-SQL analytics
+  - Executive and operational dashboards for monitoring growth performance, customer
+    health, and revenue outcomes
+  - Supply chain and logistics analytics supporting real-time visibility and proactive
+    supply chain orchestration
+  skills:
+    genai: [LLM-powered analytics, GenAI systems, text-to-SQL, natural language analytics]
+    ml: [predictive modeling, churn prediction, anomaly detection]
+    web: [BI tools]
+    databases: [cloud data warehouses]
+    data: [dimensional modeling, dbt, semantic modeling]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8503367'
+  extracted_at: '2026-02-27T11:33:28.822246'

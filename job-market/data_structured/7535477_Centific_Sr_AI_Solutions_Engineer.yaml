@@ -1,0 +1,49 @@
+company:
+  name: Centific
+  stage: null
+  focus: AI data foundry and GenAI solutions platform
+position:
+  title: Sr AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing NVIDIA models, ML training
+      and inference, building AI-enabled applications, and
+      deploying AI solutions. The role directly works with NeMo,
+      Riva, Triton, and RAPIDS SDKs for building and deploying
+      AI/ML systems, making it hands-on AI/ML engineering work
+      rather than just support infrastructure.
+  responsibilities:
+  - Productize requirements as Centific AI offerings as stable and reliable software
+    releases
+  - Implement NVIDIA and other open source models for AI solutions
+  - Perform ML training and inference for data and AI solution engineering
+  - Build AI-enabled web UI and mobile applications for interactive user engagement
+  - Develop test-driven APIs and backend data pipelines
+  - Handle cloud deployments and provide warranty support
+  - Apply NVIDIA processing and interconnect products including NeMo, Riva, RAPIDS,
+    and Triton SDKs
+  - Provide regular updates on solutions and benefits/feature scope to leadership
+    and stakeholders
+  use_cases:
+  - GenAI deployment at scale for enterprise clients
+  - Industry-specific LLM fine-tuning and deployment
+  - RAG pipelines supported by vector databases
+  - AI-enabled interactive user engagement applications
+  - Contextual multilingual pre-trained datasets for AI training
+  skills:
+    genai: [LLMs, RAG]
+    ml: [NeMo, Riva, RAPIDS, ML training, ML inference]
+    web: [web UI development, mobile applications, API development]
+    databases: [vector databases]
+    data: [backend data pipelines]
+    cloud: [cloud deployments]
+    ops: [Triton, GPU application acceleration, high-performance networking]
+    languages: []
+    domains: []
+    other: [test-driven development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7535477'
+  extracted_at: '2026-02-27T11:40:03.994605'

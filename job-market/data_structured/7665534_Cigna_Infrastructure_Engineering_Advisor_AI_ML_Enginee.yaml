@@ -1,0 +1,57 @@
+company:
+  name: Cigna
+  stage: Public
+  focus: |-
+    Global health services, pharmacy, care, and benefits
+    solutions
+position:
+  title: Infrastructure Engineering Advisor – AI ML Engineer - HIH
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design, building, and deployment
+      of GenAI solutions including LLMs, RAG, agents, and agentic
+      workflows. The engineer will work directly on model
+      optimization, fine-tuning, prompt engineering, and deploying
+      AI solutions to customers, not just supporting
+      infrastructure for AI teams.
+  responsibilities:
+  - Design, build, and deploy cutting-edge machine learning and generative AI solutions
+    including chatbots, LLMs, AI agents, RAG, and large-scale search
+  - Develop innovative agentic workflows and solutions for strategic customers using
+    ML technologies combined with AWS and Azure cloud platforms
+  - Work directly with key customers to understand requirements, design solutions,
+    and collaborate with ML engineering teams to remove blockers
+  - Design and implement agentic workflows using diverse frameworks with prompt engineering
+    to optimize performance
+  - Dive deep into model structure to optimize model performance and scalability
+  - Diagnose, troubleshoot, and resolve issues in AI model training and serving
+  - Build reusable solution patterns and reference solutions that can apply across
+    multiple customers
+  - Act as a product evangelist by engaging with customers and presenting at conferences
+    and external events
+  use_cases:
+  - Enterprise healthcare solutions leveraging generative AI
+  - Chatbot and conversational AI systems for customer support
+  - Large-scale search and information retrieval using RAG architectures
+  - Code generation and automation through AI agents
+  - Agentic workflows for complex enterprise problem-solving
+  - Customer-facing AI solutions in healthcare and benefits management
+  skills:
+    genai: [Large Language Models (LLMs), Generative AI, RAG (Retrieval-Augmented
+        Generation), AI Agents, LangChain, LangGraph, LlamaIndex, MCP, Prompt Engineering,
+      Agentic Workflows]
+    ml: [Fine-tuning, PyTorch, TensorFlow, JAX, Transformers]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [AWS, Azure]
+    ops: [Model Optimization, MLflow, KServe, Kubeflow, Triton]
+    languages: [Python, Shell Scripting]
+    domains: [NLP, NLU]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7665534'
+  extracted_at: '2026-02-27T11:29:11.873441'

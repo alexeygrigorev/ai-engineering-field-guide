@@ -1,0 +1,51 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud platform for P&C insurance
+position:
+  title: AI Workflow Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including AI-driven agents, automated coding assistants, and
+      workflow orchestration tools. The engineer will directly
+      architect and implement LLM-based applications, RAG/GraphRAG
+      pipelines, and agentic frameworks like LangChain and
+      LangGraph.
+  responsibilities:
+  - Architect and implement AI-driven agents and automated coding assistants to eliminate
+    manual developer toil
+  - Build internal tools and LLM-based applications using frameworks like LangGraph
+    and LangChain to assist consultants
+  - Identify bottlenecks in the Guidewire implementation lifecycle and design AI-powered
+    agents to automate repetitive developer tasks
+  - Develop and optimize RAG & GraphRag pipelines tapping into internal documentation,
+    best practices, and codebase
+  - Create reusable AI modules and prompt libraries for consistent implementation
+    quality across global teams
+  - Act as subject matter expert and train Professional Services developers on effective
+    AI tool usage
+  use_cases:
+  - Code generation for Guidewire software implementation
+  - Unit test creation automation for developer workflows
+  - Configuration mapping assistance using AI agents
+  - Context-aware developer assistance from internal documentation and codebase
+  - Guidewire software configuration, integration, and deployment automation
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, RAG, GraphRag, LLM APIs, prompt engineering,
+      agentic frameworks, Claude Code]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker]
+    ops: [CI/CD, Git, Monitoring/Observability]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8593351'
+  extracted_at: '2026-02-27T11:36:07.680809'

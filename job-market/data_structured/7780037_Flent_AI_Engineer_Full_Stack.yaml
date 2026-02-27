@@ -1,0 +1,55 @@
+company:
+  name: Flent
+  stage: null
+  focus: AI-powered rental marketplace and living platform
+position:
+  title: AI Engineer (Full Stack)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building an AI Broker with conversational
+      search, integrating AI/NLP modules, and implementing
+      embeddings/RAG with vector stores. The engineer is
+      responsible for understanding renter intent, delivering
+      explainable matches, and building ML-driven recommendation
+      systems - all hands-on AI/ML work.
+  responsibilities:
+  - Architect the AI Broker conversational search platform to understand renter intent
+    and deliver curated home matches
+  - Build spatial home tours with 3D interfaces and use interaction data to create
+    a smarter discovery engine
+  - Build the resident-facing platform including payments, smart access control, maintenance
+    ticketing, and lifestyle services
+  - Develop backend APIs and services using Node/TypeScript, Go, Python, Postgres,
+    Redis, and GraphQL/gRPC
+  - Build and optimize responsive UIs and 3D interactions with React/Next.js, WebGL,
+    and Three.js
+  - Integrate and productionize AI/NLP modules and ML-driven recommendation systems
+  - Establish foundational engineering culture including technical standards, security
+    practices, and development methodologies
+  use_cases:
+  - Conversational AI broker for rental home search that interprets fuzzy user requirements
+  - Explainable home recommendations that trade off multiple attributes like budget,
+    location, and amenities
+  - Spatial 3D virtual tours that capture user interaction signals to improve home
+    discovery
+  - ML-driven recommendation engine for matching renters with homes based on preferences
+  - Integrated resident platform for payments, access control, maintenance ticketing,
+    and lifestyle services
+  skills:
+    genai: [RAG]
+    ml: [embeddings, recommendation systems, AI/NLP modules]
+    web: [GraphQL, gRPC, React, Next.js, WebGL, Three.js, state management, authentication,
+      authorization, validation, rate-limiting]
+    databases: [vector stores, pgvector, Postgres, Redis, caching]
+    data: [queues]
+    cloud: [AWS, GCP]
+    ops: [CI/CD, feature flags, monitoring, logging]
+    languages: [Node/TypeScript, Go, Python]
+    domains: []
+    other: [A/B testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7780037'
+  extracted_at: '2026-02-27T11:38:37.849243'

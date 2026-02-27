@@ -1,0 +1,56 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Investment, advisory, and risk management technology
+    platform
+position:
+  title: AI Platform Engineering (SRE & DevOps), Aladdin Engineering, Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Platform Engineering/SRE leadership role focused
+      on building AI infrastructure and platforms that enable AI
+      workloads. The role involves architecting cloud-native
+      infrastructure, Kubernetes orchestration for GPU scheduling,
+      CI/CD pipelines for AI models, and observability frameworks
+      - all of which are platform/infrastructure support functions
+      rather than hands-on work with building, training, or
+      deploying AI models.
+  responsibilities:
+  - Define and execute the SRE and DevOps strategy for AI platforms, ensuring high
+    availability, scalability, and security
+  - Architect and oversee cloud-native infrastructure across AWS, GCP, and Azure for
+    AI workloads
+  - Drive Kubernetes-based orchestration for AI models, including GPU scheduling and
+    resource optimization
+  - Establish CI/CD pipelines for AI platform and AI model lifecycle management with
+    enterprise-grade security and compliance
+  - Implement observability frameworks and reliability standards (SLIs, SLOs, SLAs)
+    for distributed AI systems
+  - Lead incident management, root cause analysis, and performance optimization across
+    compute, storage, and network layers
+  use_cases:
+  - Investment and risk management platform powered by AI capabilities
+  - Unified data, analytics, and workflows across public and private markets
+  - Advanced AI capabilities at scale across firm-wide applications
+  - Distributed AI systems requiring high availability and scalability
+  - AI model lifecycle management including training, testing, and deployment
+  skills:
+    genai: []
+    ml: [PyTorch, JAX]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Helm, Kustomize, CRDs, Docker, containerd, Azure DevOps, Jenkins,
+      GitHub Actions, Prometheus, Grafana, ELK, Terraform, CloudFormation, GPU orchestration,
+      MLOps]
+    languages: [Python, Bash/Shell, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8412160'
+  extracted_at: '2026-02-27T11:49:45.813438'

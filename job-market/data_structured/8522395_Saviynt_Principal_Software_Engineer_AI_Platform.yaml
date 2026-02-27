@@ -1,0 +1,59 @@
+company:
+  name: Saviynt
+  stage: null
+  focus: |-
+    Cloud identity governance and enterprise access management
+    platform
+position:
+  title: Principal Software Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Principal Software Engineer role for an AI
+      Platform focused on building Java-based backend services,
+      distributed systems, and platform infrastructure. The role
+      involves creating the foundational platform and APIs that
+      support AI workloads, but does not involve hands-on model
+      development, training, fine-tuning, or deploying AI/ML
+      models directly.
+  responsibilities:
+  - Lead the design, development, and scalability of core Java-based backend services
+    that power the multi-tenant platform
+  - Architect and optimize platform components to support high-throughput, low-latency,
+    and mission-critical workflows
+  - Integrate and manage core data systems including relational databases, Redis,
+    Elasticsearch, and LDAP
+  - Drive the modernization of backend services, refactoring legacy Java components
+    and adopting modern patterns like reactive programming and event-driven architectures
+  - Build and maintain platform APIs, service orchestration logic, and critical workflows
+    that support core business operations
+  - Evaluate and implement scalable solutions for authentication, authorization, tenant
+    isolation, and configuration management
+  - Identify and remediate bottlenecks in Java services including JVM performance,
+    GC tuning, thread management, and memory footprint
+  - Mentor engineers across teams in deep Java design principles, debugging complex
+    issues, and engineering for reliability
+  use_cases:
+  - Multi-tenant platform infrastructure supporting high-concurrency enterprise workloads
+  - Identity and access management with authentication, authorization, and SSO integration
+  - High-throughput data processing and management across distributed systems
+  - Service orchestration and workflow automation for core business operations
+  - Observability and monitoring platform for distributed microservices environment
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, RESTful APIs, Microservices]
+    databases: [PostgreSQL, MySQL, Redis, Elasticsearch, LDAP]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, Prometheus, Grafana, OpenTelemetry, ELK stack, CI/CD,
+      Terraform, Helm, Ansible, JVM performance tuning]
+    languages: [Java]
+    domains: []
+    other: [Distributed systems, Reactive programming, Event-driven architecture,
+      Multi-tenant architecture, Authentication and authorization, SSO, OIDC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8522395'
+  extracted_at: '2026-02-27T11:41:59.460908'

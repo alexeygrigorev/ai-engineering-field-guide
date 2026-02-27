@@ -1,0 +1,54 @@
+company:
+  name: Assembled
+  stage: Series B
+  focus: |-
+    Unified platform orchestrating human agents and AI for
+    customer support operations
+position:
+  title: Software Engineer - AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building autonomous AI agents and
+      working directly with LLMs. The engineer will implement RAG
+      systems, improve model performance with vector search and
+      re-ranking, and build infrastructure for LLM integration -
+      all core AI development work.
+  responsibilities:
+  - Build foundational new features like translation capabilities powered by LLMs
+    and intelligent ticket categorization
+  - Design and build a workflow builder that simplifies complex workflows for support
+    agents
+  - Enhance RAG engine using vector search, document re-ranking, and hypothetical
+    document embeddings
+  - Architect abstractions for integrating various LLM types and implement evaluation
+    and logging systems
+  - Collaborate with customers including support agents and managers to understand
+    needs and improve product interactions
+  - Contribute to multiple areas including coding, user research, planning, brainstorming,
+    interviewing, and cross-team collaboration
+  use_cases:
+  - Autonomous AI agents that resolve customer support cases end-to-end
+  - AI Copilot for agent assistance to help human agents send faster, more accurate
+    replies
+  - Translation capabilities powered by LLMs for multilingual support
+  - Intelligent categorization of incoming customer support tickets
+  - RAG-based knowledge retrieval using past tickets, macros, and document embeddings
+  - AI-powered workforce management optimizing both human and AI capacity
+  skills:
+    genai: [LLMs, RAG, vector search, document re-ranking, Reciprocal Rank Fusion,
+      hybrid search, prompt engineering, agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation systems, logging systems]
+    languages: [Golang, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8283258'
+  extracted_at: '2026-02-27T11:54:58.326875'

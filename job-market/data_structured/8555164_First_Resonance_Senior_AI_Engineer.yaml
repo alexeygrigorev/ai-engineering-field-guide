@@ -1,0 +1,51 @@
+company:
+  name: First Resonance
+  stage: null
+  focus: Factory OS platform for advanced hardware manufacturing
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI/ML systems
+      including RAG pipelines, generative procedure creation,
+      anomaly detection, and recommendations. The engineer
+      directly designs and implements AI features using LLMs and
+      connects models to data sources via MCP, which is direct AI
+      system development.
+  responsibilities:
+  - Lead the design, implementation, and optimization of production-ready AI systems
+    within the ION Factory OS
+  - Ship customer-facing features including AI-driven functionality such as generative
+    procedure creation, anomaly detection, and recommendations
+  - Design and implement AI features using retrieval-augmented generation (RAG) pipelines
+    to deliver context-aware insights
+  - Leverage Model Context Protocol (MCP) and frameworks to connect AI models with
+    data sources and external tools
+  - Architect and maintain scalable software systems including AI/ML pipelines and
+    broader product infrastructure
+  - Partner with data engineering to process and transform structured and unstructured
+    manufacturing data
+  use_cases:
+  - Generative procedure creation for manufacturing workflows
+  - Anomaly detection in manufacturing processes
+  - Context-aware recommendations using RAG
+  - Manufacturing workflow acceleration for hardware builders
+  - Data processing and insights for eVTOLs, rockets, robots, and autonomous vehicles
+  skills:
+    genai: [Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), LLMs,
+      Diffusion models, GANs]
+    ml: [Model evaluation]
+    web: [APIs]
+    databases: []
+    data: [Data modeling, Data preprocessing]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Cloud-native workflows]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8555164'
+  extracted_at: '2026-02-27T11:29:50.214923'

@@ -1,0 +1,50 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Pharmaceutical research and medicines
+position:
+  title: AI Solution Expert - Agent Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI agents using
+      agentic orchestration frameworks, RAG architecture, vector
+      databases, and LLM principles. The candidate will build,
+      deploy, and optimize agent-based systems directly rather
+      than supporting others who work on AI.
+  responsibilities:
+  - Develop Agentic AI Solutions for the Commercial Organization using multi-agent
+    frameworks
+  - Collaborate with product, data, and engineering teams to align AI priorities with
+    business outcomes
+  - Support development and implementation of scalable, efficient, and secure AI or
+    data systems
+  - Participate in development of automation workflows and APIs that integrate with
+    business tools
+  - Utilize cloud infrastructure and MLOps frameworks for continuous delivery
+  - Partner with Business Translators, UI/UX, and Change Management teams to translate
+    needs into deployable AI solutions
+  - Drive innovation through participation in hackathons, proof-of-concepts, and partnerships
+    with vendors
+  use_cases:
+  - Automate enterprise workflows using AI agents
+  - Enhance decision-making through intelligent agent systems
+  - Enable intelligent user interactions across the enterprise
+  - Integrate multi-agent frameworks for scalable AI solutions
+  - Deliver RAG-based knowledge retrieval and question answering
+  skills:
+    genai: [LangChain, RAG architecture, LLM principles]
+    ml: [Embedding models]
+    web: [API development]
+    databases: [Vector databases, Pinecone]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, DevOps]
+    languages: []
+    domains: []
+    other: [Agile methodologies]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8550364'
+  extracted_at: '2026-02-27T11:52:56.852166'

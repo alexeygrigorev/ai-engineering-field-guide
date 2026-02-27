@@ -1,0 +1,54 @@
+company:
+  name: FE fundinfo
+  stage: null
+  focus: |-
+    Fund data collection, validation, and dissemination for
+    investment industry
+position:
+  title: Senior AI Developer - 12 Months Contract
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deploying AI systems
+      including agent-based architectures, LLM orchestration, RAG
+      pipelines, and LLMOps practices. The engineer directly
+      implements multi-step reasoning workflows, tool-calling
+      flows, and inference systems rather than just providing
+      supporting infrastructure.
+  responsibilities:
+  - Designing and implementing agent-based AI systems, multi-step reasoning workflows,
+    and LLM-orchestrated automation pipelines
+  - Building scalable AI services using LLM orchestration frameworks, inference APIs,
+    and modern RAG architectures
+  - Developing retrieval systems, tool-calling flows, memory management processes,
+    and end-to-end RAG pipelines
+  - Applying LLMOps/MLOps practices including prompt versioning, evaluation processes,
+    monitoring, telemetry, and cost optimization
+  - Working with Databricks and MLflow for experimentation, telemetry, and AI observability
+  - Developing AI-enabled applications using React, Next.js, Python (FastAPI), or
+    .NET Core while integrating AI with enterprise systems
+  - Ensuring reliable cloud deployments, CI/CD automation, and production-level operational
+    standards across all AI services
+  use_cases:
+  - Agent-based AI systems for automation and multi-step reasoning
+  - RAG-powered applications for information retrieval and knowledge management
+  - LLM-orchestrated data processing workflows for fund information analysis
+  - AI-enabled investment fund data tools and selection platforms
+  - Enterprise search and document analysis using vector embeddings
+  skills:
+    genai: [LangChain, LangGraph, OpenAI/Anthropic APIs, RAG, agents, function calling,
+      prompt engineering, embeddings, vector search]
+    ml: []
+    web: [FastAPI, .NET Core, React, Next.js]
+    databases: [PostgreSQL, SQL Server]
+    data: [Databricks]
+    cloud: [Azure]
+    ops: [MLflow, Docker, CI/CD, LLMOps, MLOps]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8341248'
+  extracted_at: '2026-02-27T12:08:42.418426'

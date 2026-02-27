@@ -1,0 +1,48 @@
+company:
+  name: Finster AI
+  stage: Series A
+  focus: AI-native financial research and task automation platform
+position:
+  title: Senior AI Engineer (London)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building multi-modal LLM-based AI agents,
+      implementing RAG, fine-tuning, function calling, and working
+      directly on LLM reasoning. This is hands-on work building
+      and deploying AI systems, not supporting infrastructure or
+      data pipelines for others.
+  responsibilities:
+  - Work on building scalable multi-modal LM based AI agents
+  - Research and build innovative solutions to Finster relevant AI problems including
+    RAG, semantic search, knowledge representation, function calling, fine-tuning
+    and reasoning in LLMs
+  - Research and build evaluations, metrics, benchmarks for Finster relevant AI problems
+  - Present innovative solutions through POCs and demos and convert solutions into
+    high-quality production ready code
+  - Collaborate with other engineers, product managers, designers and team members
+    to innovate, design and build
+  use_cases:
+  - AI agents that read, analyse and integrate disparate sources of financial and
+    market data
+  - Financial research automation for institutional investors
+  - Semantic search across financial documents and data
+  - Knowledge representation and reasoning for financial insights
+  - Multi-modal analysis of financial information
+  skills:
+    genai: [RAG, semantic search, knowledge representation, function calling, LLMs,
+      AI agents, multi-modal models]
+    ml: [PyTorch, JAX, TensorFlow, fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8576887'
+  extracted_at: '2026-02-27T11:37:41.911534'

@@ -1,0 +1,56 @@
+company:
+  name: Parsec Automation
+  stage: Private
+  focus: Manufacturing operations management software (MES platform)
+position:
+  title: Lead AI Developer (Hybrid)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building production-grade agentic AI
+      systems including MCP-based tool ecosystems, agent runtimes,
+      and LLM integrations. The primary work involves directly
+      implementing and deploying AI agents, tool calling, and
+      orchestration - not just supporting AI infrastructure.
+  responsibilities:
+  - Define the reference architecture for AI capabilities within an on-prem Microsoft
+    stack including ASP.NET and SQL Server
+  - Design and implement production-grade agent runtime integrated into web and service
+    layers with policy controls and auditability
+  - Build agent/orchestrator services to manage conversation state, tool routing,
+    retries, timeouts, and step limits
+  - Integrate with hosted LLM providers using function/tool calling patterns and response
+    quality guardrails
+  - Establish patterns for MCP servers/clients, tool contracts, versioning, and backward
+    compatibility
+  - Build locally hosted MCP tool servers to securely access SQL Server, REST APIs,
+    and file/report generation subsystems
+  - Implement safety boundaries, validation layers, human-in-the-loop workflows, and
+    secure-by-design principles
+  - Build comprehensive observability with structured logging, tracing, metrics, and
+    dashboards
+  use_cases:
+  - Manufacturing operations management and MES platform automation
+  - Agent-based conversational interfaces for manufacturing data access and analysis
+  - Secure SQL database querying via natural language through agent tools
+  - Human-in-the-loop approval workflows for sensitive manufacturing operations
+  - Automated report and document generation from manufacturing systems
+  skills:
+    genai: [LangChain, OpenAI API, Azure OpenAI, Model Context Protocol (MCP), Semantic
+        Kernel, Microsoft.Extensions.AI, prompt engineering, RAG, agents, function
+        calling]
+    ml: []
+    web: [ASP.NET, REST APIs]
+    databases: [SQL Server]
+    data: []
+    cloud: [Azure]
+    ops: [Windows Services, authentication, authorization, secrets management, audit
+        logging, structured logging, observability, threat modeling]
+    languages: [C#, .NET Worker Services]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8490306'
+  extracted_at: '2026-02-27T12:09:18.602736'

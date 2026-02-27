@@ -1,0 +1,44 @@
+company:
+  name: Rapid7
+  stage: Public
+  focus: Cybersecurity threat detection and response
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs, RAG pipelines,
+      and agentic AI workflows using LangChain and LangGraph. The
+      engineer directly builds, deploys, optimizes, and evaluates
+      AI models on AWS, making this an AI-first position.
+  responsibilities:
+  - Design and implement sophisticated ML pipelines for security use cases, including
+    malware detection and user behavioral analytics
+  - Architect and maintain RAG pipelines and agentic AI workflows using toolchains
+    like LangChain and LangGraph to automate complex security tasks
+  - Optimize and deploy models within the AWS ecosystem, utilizing SageMaker and Bedrock
+    while ensuring robust monitoring, drift detection, and retraining workflows
+  - Collaborate and mentor across the team to establish architectural standards, conduct
+    code reviews, and support the technical growth of junior engineers
+  use_cases:
+  - Malware detection
+  - User behavioral analytics
+  - Security threat detection
+  - Automating complex security tasks
+  - Cybersecurity threat response
+  skills:
+    genai: [LangChain, LangGraph, RAG, agents]
+    ml: [scikit-learn, PyTorch, TensorFlow, HuggingFace, Transformers, SHAP, LIME]
+    web: []
+    databases: [vector databases]
+    data: [numpy, pandas]
+    cloud: [AWS, SageMaker, Bedrock, Lambda, EKS]
+    ops: [MLOps, CI/CD, GitHub Actions, Jenkins, model registries, Promptfoo, HELM]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8547087'
+  extracted_at: '2026-02-27T11:32:25.909838'

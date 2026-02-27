@@ -1,0 +1,91 @@
+job_id: 8133057
+title: "REMOTE (INDIA):   AI Engineer- SaaS Platform"
+company: Marrina Decisions
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Docker
+  - Dramatiq
+  - Fastapi
+  - Flask
+  - GCP
+  - Gunicorn
+  - Openrouter
+  - Python
+  - Uvicorn
+company_size: 79 Employees
+description: |
+  Role Overview
+  
+  We are looking for an AI Engineer to maintain and enhance
+  the AI-driven backbone of the Sootra platform. This role
+  involves ensuring production stability of LLM/VLM pipelines,
+  optimizing model interactions, maintaining APIs and queues,
+  and building feedback loops that continuously improve AI
+  outputs.
+  
+  Responsibilities
+  
+  - Maintain and optimize LLM- and VLM-powered services for
+    content generation, compliance scoring, and campaign
+    testing.
+  - Manage and scale Flask/FastAPI microservices, ensuring high
+    uptime and low latency.
+  - Maintain Dramatiq queues for async AI workflows, campaign
+    generation, and pipeline orchestration.
+  - Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in
+    production environments.
+  - Integrate with OpenRouter and equivalent LLM routing tools
+    to balance cost, latency, and quality.
+  - Design and refine prompt engineering strategies for
+    reliability, context-awareness, and compliance.
+  - Build and maintain feedback pipelines for AI model
+    evaluation (human-in-the-loop scoring, automated quality
+    checks, reinforcement).
+  - Expose and maintain REST APIs for AI services, ensuring
+    secure, versioned endpoints.
+  - Collaborate with backend/frontend teams to keep microservice
+    architecture aligned and maintainable.
+  - Track token consumption, latency, and error rates to ensure
+    production-grade performance.
+  
+  Required Skills
+  
+  - Programming: Strong in Python, with experience in
+    production-grade codebases.
+  - Frameworks: Flask (for APIs), FastAPI (optional),
+    Uvicorn/Gunicorn for async hosting.
+  - Queues/Workers: Dramatiq (or Celery/RQ equivalent) for
+    background jobs.
+  - AI/ML: Hands-on with LLMs and VLMs, including prompt
+    engineering, fine-tuning, and evaluation.
+  - AI Infrastructure: Familiar with OpenRouter or equivalent
+    LLM/VLM routing & fallback tools.
+  - Architecture: Experience designing and maintaining
+    microservice architectures.
+  - APIs: Strong experience with REST API design (auth, rate
+    limiting, documentation).
+  - Production: Dockerized deployments, CI/CD pipelines,
+    logging/monitoring, error handling.
+  - Feedback Loops: Building structured evaluation/feedback
+    systems for AI model performance.
+  - Cloud: AWS/GCP experience preferred (deployment, monitoring,
+    scaling).
+  
+  Experience
+  
+  - 3–5 years as an AI Engineer or Python Backend Engineer
+    working with production systems.
+  - Prior work with SaaS platforms, LLM/VLM integrations, or AI-
+    first products is highly valued.
+  
+  Demonstrated ability to maintain AI pipelines in production,
+  not just prototypes.
+industries:
+  - AdTech
+  - Marketing Tech
+posted_date: 2026-02-03
+url: "https://builtin.com/job/remote-india-ai-engineer-saas-platform/8133057"
+source: Built In

@@ -1,0 +1,45 @@
+company:
+  name: Side
+  stage: null
+  focus: Global video game development and services provider
+position:
+  title: Microservices AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building APIs that leverage LLMs and
+      Generative AI models, making calls to OpenAI, Llama, and
+      Gemini. The developer writes core AI code, deploys models,
+      and optimizes AI systems - hands-on work with models rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Develop and architect Python-based API microservices that integrate LLMs and generative
+    models
+  - Work as a product manager to translate business automation needs into API requirements
+  - Deploy and maintain Python-based APIs as microservices in cloud environments with
+    DevOps
+  - Refine and optimize AI systems for performance and functionality across platforms
+  - Write and debug core AI code ensuring maintainable and scalable solutions
+  - Integrate API microservices with existing software and tools across the organization
+  use_cases:
+  - Business process automation
+  - AI-enabled solutions for game services and products
+  - Internal tools powered by LLMs
+  - User-facing product features with generative AI
+  - Cross-functional AI/ML solutions across organization brands
+  skills:
+    genai: [LLMs, Generative AI, OpenAI API, Llama, Gemini]
+    ml: []
+    web: [API development, Microservices]
+    databases: []
+    data: []
+    cloud: [Cloud deployment]
+    ops: [Open Weights model deployment, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7880558'
+  extracted_at: '2026-02-27T11:30:44.330368'

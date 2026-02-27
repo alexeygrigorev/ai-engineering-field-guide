@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Extract structured data from job descriptions using Z.ai LLM."""
 import os
+import csv
 import yaml
 import json
 import textwrap
@@ -17,8 +18,9 @@ load_dotenv()
 
 # Directories
 SCRIPT_DIR = Path(__file__).parent
-EXTRACTED_DIR = SCRIPT_DIR / "extracted"
-OUTPUT_DIR = SCRIPT_DIR / "structured"
+REPO_ROOT = SCRIPT_DIR.parent  # job-market/
+EXTRACTED_DIR = REPO_ROOT / "data_raw"
+OUTPUT_DIR = REPO_ROOT / "data_structured"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # Z.ai client
@@ -212,16 +214,16 @@ Note: Customer-facing does NOT mean ai-support. FDEs who deploy AI solutions are
 Extract ALL skills as Skill objects {name: string, category: string}.
 
 Categories:
-- genai: LangChain, LangGraph, LlamaIndex, DSPy, Haystack, Semantic Kernel, OpenAI/Anthropic APIs, AutoGen, CrewAI, Phidata, Instructor, Marvin, Guardrails, prompt engineering, RAG, agents, function calling, MCP, PEFT, LoRA
-- ml: PyTorch, TensorFlow, Keras, JAX, scikit-learn, XGBoost, LightGBM, huggingface, model training, fine-tuning, CUDA
-- web: FastAPI, Flask, Django, REST, GraphQL, gRPC, Protobuf, OpenAPI, React, Vue, Next.js
-- databases: Postgres, MySQL, Redis, MongoDB, vector DBs (Pinecone, Weaviate, Chroma, Qdrant, Milvus, Faiss, pgvector), Snowflake, BigQuery
-- data: Spark, Databricks, Kafka, Airflow, dbt, Prefect, Dagster, Ray, ETL, data pipelines
-- cloud: AWS, Azure, GCP, AI services (Bedrock, SageMaker, Vertex AI, Azure AI Studio)
-- ops: MLflow, Kubeflow, W&B, Docker, Kubernetes, Terraform, CI/CD, monitoring (Datadog, Prometheus, Grafana, Arize, LangSmith), VLLM, Triton, TensorRT, inference/serving
-- languages: Python, TypeScript, Java, Go, Rust, C++, C#, SQL, Scala
-- domains: CV, NLP, RL, robotics, diffusion models (ONLY when primary focus)
-- other: Anything else
+- genai: LangChain, LangGraph, LlamaIndex, DSPy, Haystack, Semantic Kernel, OpenAI/Anthropic APIs, AutoGen, CrewAI, Phidata, Instructor, Marvin, Guardrails, prompt engineering, RAG, agents, function calling, MCP, PEFT, LoRA, or similar GenAI/LLM tools and techniques
+- ml: PyTorch, TensorFlow, Keras, JAX, scikit-learn, XGBoost, LightGBM, huggingface, model training, fine-tuning, CUDA, or similar ML/DL frameworks and techniques
+- web: FastAPI, Flask, Django, REST, GraphQL, gRPC, Protobuf, OpenAPI, React, Vue, Next.js, or similar web frameworks and APIs
+- databases: Postgres, MySQL, Redis, MongoDB, vector DBs (Pinecone, Weaviate, Chroma, Qdrant, Milvus, Faiss, pgvector), Snowflake, BigQuery, or similar databases and data warehouses
+- data: Spark, Databricks, Kafka, Airflow, dbt, Prefect, Dagster, Ray, ETL, data pipelines, or similar data engineering tools
+- cloud: AWS, Azure, GCP, AI services (Bedrock, SageMaker, Vertex AI, Azure AI Studio), or similar cloud platforms and services
+- ops: MLflow, Kubeflow, W&B, Docker, Kubernetes, Terraform, CI/CD, monitoring (Datadog, Prometheus, Grafana, Arize, LangSmith), VLLM, Triton, TensorRT, inference/serving, or similar MLOps/DevOps tools
+- languages: Python, TypeScript, Java, Go, Rust, C++, C#, SQL, Scala, or similar programming languages
+- domains: CV, NLP, RL, robotics, diffusion models, or similar (ONLY when primary focus)
+- other: Anything that doesn't fit the categories above
 
 ## Responsibilities
 
@@ -266,8 +268,8 @@ Description:
 
 Extract the structured information as specified.
 
-IMPORTANT: Return valid JSON objects for nested fields (company_info, responsibilities, skills).
-Do NOT return JSON strings - return actual objects/dicts."""
+Return valid objects for nested fields (company_info, responsibilities, skills).
+"""
 
     structured_output_tool = {
         "name": "job_extraction",
@@ -355,17 +357,39 @@ def extract_job(yaml_file: Path) -> tuple[str | None, dict | None]:
     return output_filename, structured.model_dump()
 
 
+def load_csv_ids(csv_path):
+    """Load job IDs from a CSV file."""
+    ids = set()
+    with open(csv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            job_id = row.get("id", "")
+            if job_id:
+                ids.add(str(job_id))
+    return ids
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Enrich jobs with LLM extraction')
     parser.add_argument('yaml_file', nargs='?', help='Specific YAML file to process')
     parser.add_argument('--all', action='store_true', help='Process all YAML files')
+    parser.add_argument('--csv', type=str, help='CSV file to filter which YAML files to process (by job ID)')
     parser.add_argument('--limit', type=int, help='Limit number of files to process')
     args = parser.parse_args()
 
     if not os.getenv("ZAI_API_KEY"):
         print("Error: ZAI_API_KEY environment variable not set")
         return
+
+    # Load CSV filter if provided
+    csv_ids = None
+    if args.csv:
+        csv_path = Path(args.csv)
+        if not csv_path.is_absolute():
+            csv_path = SCRIPT_DIR / args.csv
+        csv_ids = load_csv_ids(csv_path)
+        print(f"Filtering to {len(csv_ids)} job IDs from {csv_path.name}")
 
     if args.yaml_file:
         # Process single file
@@ -382,8 +406,13 @@ def main():
             print(f"\nSaved: {output_file}")
 
     elif args.all:
-        # Process all files
+        # Process all files (optionally filtered by CSV)
         yaml_files = list(EXTRACTED_DIR.glob("*.yaml"))
+
+        if csv_ids is not None:
+            # Filter YAML files: filename format {job_id}_{company}_{title}.yaml
+            yaml_files = [f for f in yaml_files if f.stem.split("_")[0] in csv_ids]
+
         if args.limit:
             yaml_files = yaml_files[:args.limit]
 

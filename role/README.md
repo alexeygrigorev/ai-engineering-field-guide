@@ -28,7 +28,7 @@ Analysis of what AI engineers actually do, based on 895 job descriptions from bu
 ### What actually gets you hired
 
 - Evaluation is the differentiator. 39.6% of AI-First roles explicitly require evaluation skills. Anyone can build a chatbot - companies hire people who can measure if it works (LLM-as-judge, golden datasets, hallucination detection).
-- Production thinking wins over accuracy obsession. 50.2% of AI-First roles require production/ops skills (Docker, Kubernetes, CI/CD, MLOps, Terraform). "deploy" appears in 565 of 5,694 responsibilities, "monitor" in 258.
+- Production thinking wins over accuracy obsession. 50.2% of AI-First roles require production/ops skills (Docker, Kubernetes, CI/CD, MLOps, Terraform).
 - 95.6% of roles are applied/production, not research. Only 4.4% are research roles. The market wants people who ship, not people who publish.
 
 

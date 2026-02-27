@@ -1,0 +1,52 @@
+company:
+  name: AbsenceSoft
+  stage: null
+  focus: Employee experience and HR technology platform
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Data Engineer focused on building data
+      pipelines, infrastructure, and platforms that support ML and
+      LLM workloads. The engineer enables AI work by providing
+      scalable data architecture, vector databases, and feature
+      stores, but does not build, train, fine-tune, or deploy
+      models directly. The role explicitly states they partner
+      with data scientists and AI software engineers to support
+      model development, which is characteristic of ai-support.
+  responsibilities:
+  - Design, build, and maintain data pipelines for structured, unstructured, and semi-structured
+    data sources
+  - Develop and optimize data models, ETL processes, and batch/streaming data infrastructure
+  - Partner with data scientists to support training, evaluation, and deployment of
+    ML and LLM models
+  - Implement scalable architectures for embeddings, vector databases, and retrieval
+    pipelines
+  - Ensure data quality, lineage, observability, and governance across all data products
+  - Deploy secure, cloud-native data infrastructure for high-volume AI workloads
+  - Contribute to the design of feature stores and MLOps platforms for continuous
+    learning and model updates
+  use_cases:
+  - HR and employee experience management through intelligent AI applications
+  - ML and LLM model training, evaluation, and deployment for HR workflows
+  - Vector search and retrieval pipelines for enterprise knowledge management
+  - Real-time and offline analytics for workplace insights and decision-making
+  - Compliant data usage with Responsible AI workflows in regulated HR environments
+  skills:
+    genai: [txtai, embeddings]
+    ml: [feature stores]
+    web: []
+    databases: [Snowflake, BigQuery, Redshift, FAISS, Pinecone, Weaviate, vector databases]
+    data: [Spark, Flink, Beam, Airflow, dbt, Prefect, Dagster, Databricks, Kafka,
+      Parquet, Delta Lake, ETL]
+    cloud: [AWS, Azure, GCP, Kinesis, Pub/Sub]
+    ops: [Docker, Terraform, CI/CD, MLOps]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7977014'
+  extracted_at: '2026-02-27T11:26:10.635768'

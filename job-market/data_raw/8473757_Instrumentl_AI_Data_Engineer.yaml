@@ -1,0 +1,150 @@
+job_id: 8473757
+title: AI Data Engineer
+company: Instrumentl
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Celery
+  - Docker
+  - Faiss
+  - Fastapi
+  - GCP
+  - Milvus
+  - Node.js
+  - Pgvector
+  - Pinecone
+description: |
+  👋Hello, we’re Instrumentl. We’re a mission-driven startup
+  helping the nonprofit sector to drive impact, and we’re well
+  on our way to becoming the #1 most-loved grant discovery and
+  management tool.
+  
+  About us: Instrumentl is a hypergrowth YC-backed startup
+  with over 5,000 nonprofit clients, from local homeless
+  shelters to larger organizations like the San Diego Zoo and
+  the University of Alaska. We are building the future of
+  fundraising automation, helping nonprofits to discover,
+  track, and manage grants efficiently through our SaaS
+  platform.
+  
+  Our charts are dramatically up-and-to-the-right 📈 — we’re
+  cash flow positive and doubling year-over-year, with
+  customers who love us (NPS is 65+ and Ellis PMF survey is
+  60+). Join us on this rocket ship to Mars!
+  
+  About the Role
+  
+  As an AI Data Engineer at Instrumentl, you'll own the
+  systems that discover, acquire, and transform unstructured
+  content into clean, structured, queryable data. You'll build
+  automated content discovery from the web, design LLM-powered
+  extraction pipelines that convert grant documents,
+  foundation profiles, and third-party data into canonical
+  business objects—enabling our product teams to build
+  intelligent features on a reliable data foundation. This is
+  a data platform role: you'll own the extraction quality that
+  populates our canonical data models and the pipeline
+  reliability that keeps them current. You'll build evaluation
+  harnesses, optimize for cost at scale, and ensure our AI-
+  derived data is accurate enough to trust. You'll be part of
+  the AI Engineering team, partnering closely with product
+  engineers who consume your data products.
+  
+  What you’ll do
+  
+  - Build content discovery pipelines: Automate discovery and
+    acquisition of grant-related content from the
+    web—foundation websites, RFPs, program
+    announcements—turning the open web into structured,
+    actionable data.
+  - Build LLM extraction pipelines: Implement production
+    pipelines to transform unstructured text into canonical
+    business objects—including document ingestion (PDFs, HTML,
+    Word), OCR, table extraction, and layout-aware parsing.
+    Partner with product engineers to evolve schemas as domain
+    needs change.
+  - Own semantic chunking and embeddings: Design chunking
+    strategies optimized for retrieval; select and manage
+    embedding models; maintain vector indices that power
+    downstream search and RAG features.
+  - Optimize for cost and latency: Profile token usage,
+    implement caching and batching strategies, choose
+    appropriate models for different tasks, and manage the
+    cost/quality tradeoff at scale.
+  - Maintain data quality and serve downstream consumers:
+    Implement validation, anomaly detection, and alerting for
+    extraction drift. Expose clean data via APIs, materialized
+    views, or event streams that product teams can rely on
+    without understanding the extraction complexity. Integrate
+    and normalize data from external providers—resolving
+    entities, mapping to internal schemas, and ensuring "Ford
+    Foundation" and "The Ford Foundation" resolve to the same
+    canonical record.
+  
+  What we're looking for
+  
+  - Software engineering background: 5+ years of professional
+    software engineering experience, including 2+ years
+    working with modern LLMs (as an IC). Startup experience
+    and comfort operating in fast, scrappy environments is a
+    plus.
+  - Proven production impact: You’ve taken LLM/RAG systems from
+    prototype to production, owned reliability/observability,
+    and iterated post‑launch based on evals and user feedback.
+  - LLM agentic systems: Experience building
+    tool/function‑calling workflows, planning/execution loops,
+    and safe tool integrations (e.g., with
+    LangChain/LangGraph, LlamaIndex, Semantic Kernel, or
+    custom orchestration).
+  - RAG expertise: Strong grasp of document ingestion,
+    chunking/windowing, embeddings, hybrid search (keyword +
+    vector), re‑ranking, and grounded citations.Experience
+    with re‑rankers/cross‑encoders, hybrid retrieval tuning,
+    or search/recommendation systems.
+  - Embeddings & vector stores: Hands‑on with embedding model
+    selection/versioning and vector DBs (e.g., pgvector,
+    FAISS, Pinecone, Weaviate, Milvus, Qdrant). Document
+    processing at scale (PDF parsing/OCR), structured
+    extraction with JSON schemas, and schema‑guided
+    generation.
+  - Evaluation mindset: Comfort designing eval suites (RAG/QA,
+    extraction, summarization), using automated and
+    human‑in‑the‑loop methods; familiarity with frameworks
+    like Ragas/DeepEval/OpenAI Evals or equivalent.
+  - Infrastructure & languages: Proficiency in Python (FastAPI,
+    Celery) and TypeScript/Node; familiarity with Ruby on
+    Rails (our core platform) or willingness to learn.
+  - Experience with AWS/GCP, Docker, CI/CD, and observability
+    (logs/metrics/traces).
+  - Data chops: Comfortable with SQL, schema design, and
+    building/maintaining data pipelines that power retrieval
+    and evaluation
+  - Collaborative approach: You thrive in a cross‑functional
+    environment and can translate researchy ideas into
+    shippable, user‑friendly features.
+  - Results‑driven: Bias for action and ownership with an eye
+    for speed, quality, and simplicity.
+  - Fine‑tuning: Practical experience with SFT/LoRA or
+    instruction‑tuning (and good intuition for when
+    fine‑tuning vs. prompting vs. model choice is the right
+    lever).Exposure to open‑source LLMs (e.g., Llama) and
+    providers (e.g., OpenAI, Anthropic, Google,
+    Mistral).Familiarity with responsible AI, red‑teaming, and
+    domain‑specific safety policies.
+  
+  Compensation & Benefits
+  
+  - For US-based candidates, our target salary band is $175,000
+    - $220,000 USD + equity. Salary decisions consider
+    experience, location, and technical depth
+  - 100% covered health, dental, and vision insurance for
+    employees (50% for dependents)
+  - Generous PTO, including parental leave
+  - 401(k)
+  - Company laptop and home-office stipend
+  - Bi-Annual Company Retreats for in-person collaboration
+posted_date: 2026-02-12
+url: "https://www.builtinla.com/job/ai-data-engineer/8473757"
+source: Built In

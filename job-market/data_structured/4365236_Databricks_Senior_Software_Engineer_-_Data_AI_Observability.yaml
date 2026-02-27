@@ -1,0 +1,49 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: Data and AI infrastructure platform
+position:
+  title: Senior Software Engineer - Data + AI Observability
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds observability infrastructure and data
+      pipelines that process billions of entries daily for AI and
+      data workloads. The focus is on enabling visibility and
+      optimization for customers' AI systems, not on building,
+      training, or deploying models directly.
+  responsibilities:
+  - Develop systems that provide reliable and timely observability interfaces for
+    customers to answer questions about their Databricks environment
+  - Make it easy for internal framework teams to publish their data to customers through
+    data infrastructure
+  - Lead large milestones from the observability roadmap and contribute to long-term
+    product vision and requirements
+  - Mentor other engineers on product contributions and career growth
+  - Optimize scalability and cost of large data pipelines to reduce customer costs
+    and enable new product opportunities
+  - Drive integration with popular tools and services in the broader data warehousing
+    ecosystem
+  use_cases:
+  - AI and data workload observability and monitoring
+  - Performance optimization and cost reduction for DevOps, FinOps, SecOps, and AIOps
+    jobs
+  - Customer insights on Databricks environment usage and metrics
+  - Cross-cloud deployment across 65+ regions worldwide
+  - Large-scale data pipeline processing handling billions of entries daily
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, distributed systems]
+    languages: [Python, Java, Scala, C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4365236'
+  extracted_at: '2026-02-27T12:09:10.453023'

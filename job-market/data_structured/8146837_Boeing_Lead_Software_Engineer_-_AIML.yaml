@@ -1,0 +1,55 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: Aerospace manufacturing and technology
+position:
+  title: Lead Software Engineer - AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional computer vision and
+      perception systems including SLAM, sensor fusion,
+      calibration, multi-view geometry, and localization using
+      cameras, LiDAR, and IMUs. The work involves implementing
+      GPU-enabled solutions for detection, segmentation, and
+      localization on embedded platforms, which aligns with
+      classical ML/CV rather than generative AI or LLMs.
+  responsibilities:
+  - Develop innovative perception systems for manufacturing automation, mobile devices,
+    cabin features, and flight-deck automation
+  - Own end-to-end development of perception pipelines for robotic and mobile platforms
+    including mobile robots, hand-held, and airborne systems
+  - Implement GPU-enabled solutions for indoor and outdoor localization, mapping,
+    detection, and segmentation using cameras, LiDAR, IMUs, and satellite navigation
+  - Design perception rigs and associated lifecycle software including calibration
+    and health management for field applications
+  - Use rapid-prototyping techniques to model and simulate perception systems with
+    software and hardware in the loop testing
+  - Collaborate with ML teams to produce scalable perception solutions suitable for
+    large datasets while minimizing labeling needs
+  use_cases:
+  - Manufacturing automation and operational efficiency for aircraft fleet operators
+  - Mobile robotics platforms with indoor/outdoor localization and mapping capabilities
+  - Flight-deck automation and cabin feature perception systems
+  - Aircraft lifecycle scenario simulation for potential customers
+  - Sensor fusion systems combining cameras, LiDAR, and IMUs for aerospace applications
+  - Robotic perception for manufacturing, maintenance, and operations environments
+  skills:
+    genai: []
+    ml: [SLAM, Sensor Fusion, State Estimation, Localization, Tracking, OpenCV, Open3D,
+      GTSAM, CUDA, Embedded GPU Development, Synthetic Data Generation, Self-supervised
+        Learning]
+    web: []
+    databases: []
+    data: [LiDAR, IMU]
+    cloud: []
+    ops: [ROS, Unit Testing, Integration Testing, CI/CD, Version Control]
+    languages: [Python, C++]
+    domains: [Computer Vision, 3D Computer Vision, Calibration, Multi-view Geometry,
+      Photogrammetry]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8146837'
+  extracted_at: '2026-02-27T11:54:39.737304'

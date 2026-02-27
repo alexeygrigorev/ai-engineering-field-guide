@@ -1,0 +1,54 @@
+company:
+  name: Prodigal
+  stage: Series B
+  focus: Agentic AI for loan servicing and collections
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building
+      AI agents that handle financial conversations. The role
+      involves directly working with LLMs, prompt engineering,
+      orchestration, model routing, and voice AI systems - all
+      core AI/ML development tasks rather than supporting
+      infrastructure.
+  responsibilities:
+  - Design the agentic runtime that powers natural, multi-turn conversations while
+    executing complex business logic
+  - Build primitives that balance conversational fluidity with structured reasoning
+    for human-like agent interactions
+  - Create context management systems that track consumer state, conversation history,
+    and business rules across long dialogues
+  - Architect real-time voice pipeline for sub-1s latency across transcription, reasoning,
+    and synthesis
+  - Design prompting, orchestration, and model routing strategies for LLM infrastructure
+  - Build evaluation frameworks that measure agent quality beyond accuracy including
+    conversation quality, empathy, and compliance
+  - Set architectural direction for proAgent platform and mentor engineers on engineering
+    practices
+  - Partner with Product and Client teams to translate customer problems into technical
+    roadmaps
+  use_cases:
+  - AI agents for loan servicing and collections
+  - Handling nuanced financial conversations with payment negotiations
+  - Real-time voice agents for consumer finance interactions
+  - Compliance-driven customer engagement with objection handling
+  - Millions of daily live consumer conversations with automated reasoning
+  skills:
+    genai: [LLM, prompt engineering, agentic systems, model orchestration, RAG, voice
+        AI]
+    ml: [speech recognition, speech synthesis, STT, TTS, ElevenLabs, Deepgram, Cartesia]
+    web: [WebRTC, streaming audio, Twilio, LiveKit]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks, model routing, VAD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [telephony systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7836931'
+  extracted_at: '2026-02-27T11:37:51.104400'

@@ -1,0 +1,50 @@
+company:
+  name: Oaktree Capital Management, L.P.
+  stage: Public
+  focus: Global alternative investment management
+position:
+  title: AVP, Senior Power Platform Developer & Architect – Power Apps, Power Automate
+    & Power AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves working with AI Builder, Copilot Studio,
+      and Power Platform AI features as components within
+      Microsoft's low-code platform. However, the primary focus is
+      on Power Apps/Power Automate architecture and development,
+      with AI features used as capabilities rather than building,
+      training, or fine-tuning models directly. The role is about
+      configuring and integrating AI services into business
+      applications rather than hands-on model development or
+      deployment.
+  responsibilities:
+  - Architect scalable, secure, and enterprise-grade applications and workflows using
+    Power Apps, Power Automate, Power Platform AI, and Dataverse
+  - Design Power Platform architecture including environment strategy, ALM, governance,
+    security, and DLP
+  - Leverage AI Builder, Copilot Studio, and generative AI features to deliver intelligent
+    business applications
+  - Define governance models and implement enterprise ALM practices
+  - Lead architecture discussions, create solution diagrams, and document platform
+    decisions
+  use_cases:
+  - Intelligent business applications using Power Platform
+  - Workflow automation and integration across enterprise systems
+  - AI-powered document processing and data extraction
+  - Conversational AI and copilot capabilities for business users
+  skills:
+    genai: [Power Platform AI, AI Builder, Copilot Studio]
+    ml: []
+    web: [Power Apps, REST APIs]
+    databases: [Dataverse]
+    data: []
+    cloud: [Azure services]
+    ops: [JIRA, Azure DevOps, CI/CD, ALM]
+    languages: [SQL]
+    domains: []
+    other: [Power Automate, Solution architecture, Governance models]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8311009'
+  extracted_at: '2026-02-27T11:52:31.988758'

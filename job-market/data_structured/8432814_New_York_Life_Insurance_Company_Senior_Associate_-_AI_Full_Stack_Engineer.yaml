@@ -1,0 +1,55 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Life insurance and financial services
+position:
+  title: Senior Associate - AI Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including RAG architectures, AI agents with autonomous
+      reasoning, and multi-agent orchestration frameworks. The
+      engineer directly designs, implements, and deploys AI/ML
+      models and agentic AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and implement end-to-end AI-powered applications, from data pipelines and
+    ML models to APIs and user interfaces
+  - Build and optimize RAG systems leveraging embeddings, vector databases, and document
+    pipelines
+  - Develop AI agents with autonomous reasoning, multi-step task execution, and external
+    tool/API integration
+  - Implement Agentic AI protocols including Model Context Protocol (MCP) and multi-agent
+    orchestration frameworks
+  - Build scalable frontend applications using React, Angular, or Vue, and backend
+    services with Python, Node.js, Java, or Go
+  - Deploy, monitor, and scale applications on cloud platforms (AWS, GCP, Azure) with
+    Docker and Kubernetes
+  - Ensure system reliability through monitoring, observability, drift detection,
+    and alerting for ML models in production
+  - Mentor junior developers and contribute to a culture of engineering excellence
+  use_cases:
+  - Enterprise search and document retrieval using RAG architectures
+  - Autonomous AI agents for business workflow automation
+  - AI-powered applications embedding intelligence into insurance business processes
+  - Multi-agent systems for complex task orchestration and execution
+  - Real-time AI systems with low-latency inference for customer-facing applications
+  skills:
+    genai: [RAG, AI agents, Model Context Protocol (MCP), LangChain, LlamaIndex, multi-agent
+        orchestration]
+    ml: [embeddings]
+    web: [React, Angular, Vue, RESTful APIs]
+    databases: [Pinecone, Weaviate, ChromaDB, PostgreSQL, MySQL, MongoDB, Redis]
+    data: [Kafka, Redis Streams]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD pipelines, Git, ML pipeline automation, model
+        versioning, model drift detection]
+    languages: [Python, Node.js, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8432814'
+  extracted_at: '2026-02-27T11:42:42.472489'

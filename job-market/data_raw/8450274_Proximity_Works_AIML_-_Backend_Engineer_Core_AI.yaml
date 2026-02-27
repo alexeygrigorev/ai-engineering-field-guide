@@ -1,0 +1,167 @@
+job_id: 8450274
+title: AI/ML - Backend Engineer (Core AI)
+company: Proximity Works
+location: Navi Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Elasticsearch
+  - Faiss
+  - GCP
+  - Grafana
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Milvus
+  - Opentelemetry
+  - Pinecone
+company_size: 55 Employees
+description: |
+  We are looking for a Senior Backend Engineer to build and
+  operate the core AI/ML-backed systems that power large-
+  scale, consumer-facing products. You will work on
+  production-grade AI runtimes, retrieval systems, and ML-
+  adjacent backend infrastructure, making pragmatic tradeoffs
+  across quality, latency, reliability, and cost.
+  
+  We are hiring applied AI engineers, not engineering-for-ML
+  profiles.
+  
+  This role is not an entry point into AI/ML. You are expected
+  to already have hands-on experience shipping ML-backed
+  backend systems in production.
+  
+  At Proximity, you won’t just build APIs — you’ll own
+  critical backend systems end-to-end, collaborate closely
+  with Applied ML and Product teams, and help define the
+  foundations that power intelligent experiences at scale.
+  
+  Responsibilities
+  
+  - Own and deliver end-to-end backend systems for AI product
+    runtime, including orchestration, request lifecycle
+    management, state/session handling, and policy
+    enforcement.
+  - Design and implement retrieval and memory primitives end-to-
+    end — document ingestion, chunking strategies, embeddings
+    generation, indexing, vector/hybrid search, re-ranking,
+    caching, freshness, and deletion semantics.
+  - Productionize ML workflows and interfaces, including feature
+    and metadata services, online/offline parity, model
+    integration contracts, and evaluation instrumentation.
+  - Drive performance, reliability, and cost optimization,
+    owning P50/P95 latency, throughput, cache hit rates, token
+    and inference costs, and infrastructure efficiency.
+  - Build observability by default, including structured logs,
+    metrics, distributed tracing, guardrail signals, failure
+    taxonomies, and reliable fallback paths.
+  - Collaborate closely with Applied ML teams on model routing,
+    prompt and tool schemas, evaluation datasets, and release
+    safety gates.
+  - Write clean, testable, and maintainable backend code,
+    contributing to design reviews, code reviews, and
+    operational best practices.
+  - Take systems from design → build → deploy → operate,
+    including on-call ownership and incident response.
+  - Continuously identify bottlenecks and failure modes in AI-
+    backed systems and proactively improve system robustness.
+  
+  Requirements
+  
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience.
+  
+  - 6–10 years of experience building backend systems in
+    production, with 2–3+ years working on ML/AI-backed
+    products such as search, recommendations, ranking, RAG
+    pipelines, or AI assistants.
+  - Strong practical understanding of ML system fundamentals,
+    including embeddings, vector similarity, reranking,
+    retrieval quality, and evaluation metrics
+    (precision/recall, nDCG, MRR).
+  - Proven experience implementing or operating RAG pipelines,
+    covering ingestion, chunking, indexing, query
+    understanding, hybrid retrieval, and rerankers.
+  - Solid distributed systems fundamentals, including API
+    design, idempotency, concurrency, retries, circuit
+    breakers, rate limiting, and multi-tenant reliability.
+  - Experience with common ML/AI platform components, such as
+    feature stores, metadata systems, streaming or batch
+    pipelines, offline evaluation jobs, and A/B measurement
+    hooks.
+  - Strong proficiency in backend programming languages and
+    frameworks and API development.
+  
+  What matters (non-negotiable):
+  
+  - Has built AI applications end-to-end, not just pipelines
+    (RAG systems, agentic workflows, chatbots, internal AI
+    tools).
+  - Deep understanding of retrieval including chunking
+    strategies, Embeddings, indexing & re-ranking, retrieval
+    failures & tuning
+  - Has owned full RAG pipelines: ingestion → chunking →
+    indexing → retrieval → generation
+  - Experience with agentic frameworks (tool calling, Memory,
+    multi-step reasoning)
+  - Thinks in terms of intelligence delivery
+  - Production mindset ( evals, guardrails, latency / cost
+    trade-offs)
+  - Clear understanding of Managed AI Services (fallback
+    mechanisms, service reliability & failure handling)
+  - Clear understanding of MCPs (Model Control / Management
+    Plans)
+  
+  Desired Skills
+  
+  - Experience with agentic runtimes, including tool-calling or
+    function-calling patterns, structured outputs, and
+    production guardrails.
+  - Hands-on exposure to vector and hybrid retrieval stacks such
+    as FAISS, Milvus, Pinecone, or Elasticsearch.
+  - Experience running systems on Kubernetes, with strong
+    knowledge of observability stacks like OpenTelemetry,
+    Prometheus, Grafana, and distributed tracing.
+  - Familiarity with privacy, security, and data governance
+    considerations for user and model data.
+  - Expected exposure of Python, LangChain / LangGraph, Vector
+    DBs, LLM APIs, GCP tooling (plus, not mandatory)
+  - Candidate must
+  
+  Benefits
+  
+  - Best in class compensation: We hire only the best, and we
+    pay accordingly.
+  - Proximity Talks: Learn from experienced engineers,
+    designers, and product leaders across the organization.
+  
+  - Work with a world-class team: Build scalable mobile
+    products, push technical boundaries, and learn something
+    new every day.
+  
+  About us
+  
+  We are Proximity — a global team of coders, designers,
+  product managers, geeks, and experts. We solve complex
+  problems and build cutting-edge technology at scale.
+  
+  Our team of Proxonauts is growing quickly, which means your
+  impact on the company’s success will be significant. You’ll
+  work with experienced leaders who have built and led high-
+  performing tech, product, and design teams.
+  
+  Here’s a quick guide to getting to know us better:
+  
+  - Watch our CEO, Hardik Jagda, tell you all about Proximity.
+  - Read about Proximity’s values and meet some of our
+    Proxonauts.
+  - Explore our website, blog, and design wing — Studio
+    Proximity.
+  - Get behind the scenes with us on Instagram — follow
+    @ProxWrks and @H.Jagda.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-02-10
+url: "https://builtin.com/job/ai-ml-backend-engineer-core-ai/8450274"
+source: Built In

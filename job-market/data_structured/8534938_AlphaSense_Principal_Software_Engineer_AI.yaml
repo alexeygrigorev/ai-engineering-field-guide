@@ -1,0 +1,47 @@
+company:
+  name: AlphaSense
+  stage: Series C
+  focus: AI-powered market intelligence and search platform
+position:
+  title: Principal Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, Computer Vision,
+      and machine learning models for document classification,
+      entity extraction, and image search. The engineer will
+      research, prototype, and deploy AI solutions while managing
+      LLM latency, prompt engineering, and production ML pipelines
+      - all core AI/ML development activities rather than
+      supporting infrastructure.
+  responsibilities:
+  - Research, evaluate, and prototype cutting-edge solutions using Large Language
+    Models, Computer Vision, and ML techniques
+  - Design and build robust, highly scalable AI services and data processing pipelines
+  - Solve practical production AI challenges including LLM latency management and
+    prompt engineering strategies
+  - Build fault-tolerant, defensive AI systems that perform consistently at scale
+  - Act as technical mentor and thought leader for the engineering team
+  - Drive mission-critical AI initiatives from concept to production
+  use_cases:
+  - Document classification for millions of unstructured documents
+  - Entity extraction from diverse content sources
+  - Image search and multi-media content analysis
+  - Market intelligence and insights extraction
+  - Processing equity research, company filings, and expert call transcripts
+  skills:
+    genai: [Large Language Models, Prompt Engineering]
+    ml: [Document Classification, Entity Extraction]
+    web: [FastAPI, Django, Sanic, Spring Boot]
+    databases: []
+    data: [Streaming, Queuing, Caching]
+    cloud: []
+    ops: [Observability, Docker, Kubernetes, CI/CD, Infrastructure as Code, MLOps]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [Distributed Systems, Asynchronous Patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534938'
+  extracted_at: '2026-02-27T11:43:15.310854'

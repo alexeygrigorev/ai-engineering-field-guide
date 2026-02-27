@@ -1,0 +1,52 @@
+company:
+  name: hyperexponential
+  stage: Series B
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Senior AI Engineer (Document Extraction)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      based document extraction systems, including designing
+      evaluation frameworks, productionizing models, and directly
+      integrating with customers. The engineer takes end-to-end
+      ownership from experimentation through production rollout,
+      working directly on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and deliver high-accuracy document extraction pipelines that automate key
+    data capture across specialty insurance lines
+  - Build and productionise data cleansing and manipulation capabilities within the
+    ingestion system to improve downstream pricing inputs
+  - Define and enforce evaluation-driven development practices, creating robust evaluation
+    sets and benchmarks for model improvements
+  - Improve evaluation infrastructure for complex ingestion scenarios to enable faster
+    iteration cycles and performance visibility
+  - Partner directly with customers during go-live to diagnose integration bottlenecks
+    and resolve production issues
+  - Lead technical deep-dives and brainstorming sessions to unblock complex extraction
+    challenges and raise experimentation standards
+  use_cases:
+  - Automated extraction of structured data from messy insurance-specific documents
+  - Data cleansing and transformation for pricing and underwriting workflows
+  - Document understanding for specialty insurance lines of business
+  - Production-grade ingestion systems that enable insurers to automate workflows
+    with confidence
+  - Evaluation-driven AI systems for high-stakes insurance decision-making
+  skills:
+    genai: [LLMs, document extraction, document understanding, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: [data pipelines, ETL]
+    cloud: []
+    ops: [evaluation-driven development, production deployment]
+    languages: [Python]
+    domains: []
+    other: [system design, customer-facing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8492552'
+  extracted_at: '2026-02-27T12:08:28.859067'

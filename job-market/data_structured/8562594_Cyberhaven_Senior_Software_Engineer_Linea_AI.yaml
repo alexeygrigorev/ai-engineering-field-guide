@@ -1,0 +1,45 @@
+company:
+  name: Cyberhaven
+  stage: Series B+
+  focus: AI-enabled data security and lineage
+position:
+  title: Senior Software Engineer (Linea AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Backend Engineer on the Linea AI team focused
+      on operationalizing and scaling AI prototypes to production,
+      not building or fine-tuning models. The engineer works on
+      infrastructure, microservices, and large-scale systems that
+      support AI work rather than directly working with models.
+  responsibilities:
+  - Design and optimize large-scale, highly scalable, and fault-tolerant systems handling
+    large graph datasets at enterprise scale in realtime
+  - Solve real-world scaling problems requiring thorough performance analysis and
+    troubleshooting skills
+  - Work with modern microservices-based software stack including Go, Kubernetes,
+    Docker, and Redis
+  - Write secure-by-design hardened software that withstands real-world attacks while
+    processing untrusted data
+  - Operationalize and scale AI prototypes to production across many customers
+  use_cases:
+  - Data security with AI-enabled data lineage
+  - Real-time analysis of billions of workflows
+  - Data risk detection and threat prevention
+  - Enterprise-scale data protection and monitoring
+  skills:
+    genai: [Foundational models, Transformer architecture, GenAI]
+    ml: []
+    web: []
+    databases: [Redis]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Large-scale systems, Performance optimization]
+    languages: [Go, Python]
+    domains: []
+    other: [Microservices, Secure software design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8562594'
+  extracted_at: '2026-02-27T11:30:15.593952'

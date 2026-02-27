@@ -1,0 +1,54 @@
+company:
+  name: FNZ Group
+  stage: Public
+  focus: Global wealth management platform technology
+position:
+  title: Senior Analyst Developer (AI + .Net)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires expertise in AI/ML with
+      specific mention of Gen AI, Semantic Kernel, MCP, LangGraph,
+      and Agentic AI. While the primary platform is .NET/C#, the
+      role involves creating novel solutions using cutting-edge AI
+      technologies and requires building AI-powered features end-
+      to-end, placing it in ai-first rather than ai-support.
+  responsibilities:
+  - Work with analysts to create user story definitions and acceptance criteria for
+    cohesive implementation
+  - Design underlying solutions for features including APIs and external system integrations
+  - Translate complex financial business requirements into high-transactional, high-availability,
+    secure systems
+  - Build high complexity features end-to-end across the full stack
+  - Ensure code quality through automated testing, code reviews, and adherence to
+    coding standards
+  - Collaborate with developers to share knowledge and establish expertise in multiple
+    technical areas
+  - Analyze, design, and maintain ETL workflows for data mapping solutions in migrations
+  - Mentor new starters and provide training on technical topics of expertise
+  use_cases:
+  - Real-time transaction processing for investment securities across multiple world
+    markets
+  - Intuitive user interfaces and interactive financial tools for financial advisers
+    and investors
+  - High-volume data migration and ETL workflows for complex financial data mapping
+  - API development for integration with core FNZ products and third-party vendor
+    applications
+  - Secure and compliant wealth management platform processing millions of trades
+    daily
+  skills:
+    genai: [Gen AI, Semantic Kernel, MCP, LangGraph, Agentic AI]
+    ml: []
+    web: [ASP.NET, JavaScript, ReactJS, ASP.NET MVC, REST APIs]
+    databases: [SQL Server]
+    data: [ETL]
+    cloud: []
+    ops: [Code analysis tools, Automated testing, Unit testing, Code review]
+    languages: [.NET, C#, VB.NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7879053'
+  extracted_at: '2026-02-27T11:57:13.650247'

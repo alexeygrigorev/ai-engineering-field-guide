@@ -1,0 +1,53 @@
+company:
+  name: LogicMonitor
+  stage: null
+  focus: AI-first hybrid observability platform for IT infrastructure
+position:
+  title: Sr. UI Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior UI Engineer role building frontend
+      interfaces for AI-powered observability features (Edwin AI,
+      AIOps workflows, GenAI copilots). The role focuses on
+      visualizing and presenting AI-driven insights through
+      dashboards, chat consoles, and data visualizations, but does
+      not involve building, training, fine-tuning, or deploying
+      the actual AI models or reasoning engines.
+  responsibilities:
+  - Build and deliver AI-powered interfaces for Edwin AI and AIOps workflows including
+    chat consoles, anomaly correlation explorers, and root-cause investigation views
+  - Utilize GenAI-based UI offerings like Lovable to prototype and productionise UI
+    features
+  - Enable real-time interactions between observability data (metrics, logs, traces)
+    and the AI reasoning engine
+  - Develop with React and TypeScript, contributing to the migration of legacy ReScript
+    code
+  - Style scalable, accessible interfaces using Tailwind CSS v4 and Material UI
+  - Manage complex UI state via Zustand and Tanstack Query/Forms/Router for data orchestration
+  - Collaborate with data science and AI teams to visualize anomaly explanations,
+    event correlations, and root-cause predictions
+  use_cases:
+  - Chat-driven troubleshooting for IT operations
+  - Intelligent dashboards for observability data visualization
+  - Anomaly correlation and root-cause investigation
+  - Real-time monitoring of metrics, logs, and traces
+  - GenAI copilots for IT infrastructure insights
+  - AIOps workflows for predictive operations
+  skills:
+    genai: [GenAI UI tools]
+    ml: []
+    web: [React, Tailwind CSS, Material UI, Zustand, Tanstack Query, Tanstack Forms,
+      Tanstack Router]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, CI/CD, DevOps, Bash]
+    languages: [TypeScript, ReScript]
+    domains: []
+    other: [Functional programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435452'
+  extracted_at: '2026-02-27T11:43:58.504757'

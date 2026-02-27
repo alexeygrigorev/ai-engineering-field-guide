@@ -1,0 +1,60 @@
+company:
+  name: HubSpot
+  stage: Public
+  focus: AI-powered customer platform with CRM
+position:
+  title: Principal Software Engineer- AI Context
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building data
+      infrastructure, ingestion pipelines, and storage systems
+      that enable AI-powered experiences at HubSpot. The role
+      emphasizes distributed systems, data processing, and
+      platform architecture rather than building, training, or
+      deploying AI/ML models directly - the AI context is
+      supported by the platform, not built by it.
+  responsibilities:
+  - Drive technical direction across the entire AI context group including ingestion,
+    processing, storage, sync, reliability, and intelligence surfaces
+  - Design and evolve large-scale, fault-tolerant distributed systems processing billions
+    of events per day
+  - Define and drive reusable platform patterns across ingestion, processing, quality,
+    sync, and observability layers
+  - Ship high-impact software end-to-end as a hands-on contributor with deep technical
+    engagement
+  - Align platform architecture with HubSpot's CRM, AI/ML, and extensibility goals
+    to enable product evolution
+  - Provide technical mentorship and leadership through design reviews, incident postmortems,
+    and architectural decisions
+  - Partner with product and engineering leadership to define strategy and execute
+    for product-line-wide outcomes
+  - Elevate HubSpot's brand externally and help attract senior talent while sharing
+    knowledge across the company
+  use_cases:
+  - Mining, curating, and reconciling facts about customers and their business processes
+    to power AI experiences
+  - Processing billions of events including calls, chats, emails, and unstructured
+    documents to maintain up-to-date customer insights
+  - Building an ecosystem of ingestion pipelines, storage layers, synchronization
+    systems, and AI/ML data infrastructure
+  - Providing a context layer that serves as the foundation for AI-powered features
+    across HubSpot's platform
+  - Supercharging customer experiences through actionable, real-time business intelligence
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Data Storage]
+    data: [Data Pipelines, ETL, Data Ingestion, Data Synchronization]
+    cloud: []
+    ops: [Distributed Systems, Scalability, Fault Tolerance, Observability]
+    languages: []
+    domains: []
+    other: [System Design, Platform Architecture, Technical Leadership, Mentorship,
+      Cross-functional Collaboration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8484850'
+  extracted_at: '2026-02-27T12:09:27.770546'

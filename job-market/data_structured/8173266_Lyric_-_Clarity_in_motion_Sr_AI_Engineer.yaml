@@ -1,0 +1,52 @@
+company:
+  name: Lyric - Clarity in motion.
+  stage: Public
+  focus: AI-first healthcare payment accuracy platform
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on traditional ML model development with
+      PyTorch/TensorFlow, building ML pipelines, and MLOps
+      practices. There is no mention of LLMs, RAG, agents, or
+      modern GenAI technologies like LangChain or OpenAI APIs.
+  responsibilities:
+  - Design, train, and optimize ML models using PyTorch or TensorFlow for production-grade
+    applications
+  - Build scalable data pipelines for feature engineering and model training using
+    distributed computing frameworks
+  - Develop and maintain ML workflows using Airflow, Kedro, and MLflow for reproducibility
+    and traceability
+  - Automate model deployment and lifecycle management across dev, staging, and production
+    environments
+  - Implement model drift detection, performance tracking, and automated retraining
+    strategies
+  - Collaborate with business and analytics teams to design dashboards and visualizations
+    for actionable insights
+  - Ensure data quality, consistency, and compliance with governance standards for
+    large-scale datasets
+  use_cases:
+  - Healthcare payment accuracy and pre-pay editing
+  - Preventing inaccurate payments in healthcare claims
+  - Reducing waste in the healthcare ecosystem
+  - Optimizing resource use to reduce cost of care
+  - Monitoring model performance and business impact through KPIs
+  - Delivering actionable insights to stakeholders from ML outputs
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Scikit-learn, GPU optimization]
+    web: [Power BI]
+    databases: [Snowflake]
+    data: [Pandas, Dask, NumPy, Spark, Databricks, Feast, Tecton, DVC]
+    cloud: [Azure, AWS, GCP]
+    ops: [Airflow, Kedro, MLflow, Azure DevOps, GitHub Actions, Weights & Biases,
+      Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8173266'
+  extracted_at: '2026-02-27T11:43:47.600519'

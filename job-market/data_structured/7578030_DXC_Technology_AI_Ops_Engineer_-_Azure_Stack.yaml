@@ -1,0 +1,45 @@
+company:
+  name: DXC Technology
+  stage: Public
+  focus: IT services and consulting
+position:
+  title: AI Ops Engineer - Azure Stack
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on development of bots using Azure
+      Bot Service, implementation of Azure OpenAI LLMs for
+      advanced summary generation, and real-time speech-to-text
+      transcription. This involves building and deploying AI
+      applications rather than just supporting AI infrastructure
+      or data pipelines.
+  responsibilities:
+  - Develop bots using Azure Bot Service and Bot Framework SDK with Python and NodeJS
+  - Implement Azure OpenAI LLMs including GPT-4o for advanced summary generation
+  - Utilize Azure AI Cognitive Speech Service for real-time speech-to-text transcription
+    and speaker diarization
+  - Integrate with Microsoft Graph API for Teams meeting management
+  - Build and maintain data pipelines using Apache Airflow and MLOps/DevOps practices
+  - Implement CI/CD pipelines and containerization using Docker and Kubernetes
+  use_cases:
+  - Enterprise meeting transcription and summarization using AI-powered speech services
+  - Automated bot solutions for business process automation
+  - Real-time speech-to-text with speaker identification
+  - Teams meeting management and automation
+  - Intelligent document and content summarization
+  skills:
+    genai: [Bot Framework SDK, Azure OpenAI, GPT-4o]
+    ml: []
+    web: [Microsoft Graph API, REST APIs]
+    databases: []
+    data: [Apache Airflow]
+    cloud: [Azure Bot Service, Azure AI Cognitive Speech Service, Azure AD]
+    ops: [CI/CD, Docker, Kubernetes, AIOps]
+    languages: [Python, NodeJS]
+    domains: [Speech-to-text, Speaker diarization]
+    other: [GDPR/CCPA, ITIL]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7578030'
+  extracted_at: '2026-02-27T12:00:27.694766'

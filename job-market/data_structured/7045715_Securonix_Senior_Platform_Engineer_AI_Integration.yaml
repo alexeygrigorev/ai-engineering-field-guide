@@ -1,0 +1,56 @@
+company:
+  name: Securonix
+  stage: Private, backed by Vista Equity Partners
+  focus: AI-powered cybersecurity SIEM platform
+position:
+  title: Senior Platform Engineer (AI Integration)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Senior Platform Engineer focused on AWS
+      infrastructure automation and cloud-native platform
+      delivery. While the company builds an AI-powered SIEM
+      product, this role involves building and maintaining the
+      infrastructure/platform that supports AI workflows rather
+      than directly building, training, or deploying AI/ML models.
+      The role mentions enabling AI-driven workflows as a nice-to-
+      have but the core responsibilities are infrastructure
+      provisioning, IaC, CI/CD pipelines, and cloud platform
+      operations.
+  responsibilities:
+  - Develop automation-first solutions for cloud data services provisioning, integrating
+    IAM, networking, security policies as code, and observability
+  - Build and maintain Infrastructure as Code (IaC) and CI/CD pipelines for cloud
+    data platforms, data pipelines, and infrastructure components
+  - Deploy and manage AWS services like EC2, S3, RDS, VPC, DMS, Redis, EMR, EKS for
+    multi-tier, auto-scaling, high-availability architectures
+  - Implement cloud security best practices, partner compatibility assessments, and
+    continuous monitoring for performance and security
+  - Enable AI-driven workflows for infrastructure monitoring, optimization, and predictive
+    maintenance with orchestration experience
+  - Estimate AWS usage costs, implement FinOps best practices, and deliver on cloud
+    network administration, security, and optimization
+  use_cases:
+  - SIEM (Security Information and Event Management) platform for cybersecurity
+  - Threat detection, investigation, and response using agentic AI
+  - Cloud-native data analytics and real-time security monitoring
+  - User and Entity Behavior Analytics (UEBA) for security insights
+  - Automated security response and threat intelligence enrichment
+  skills:
+    genai: [AI workflow orchestration]
+    ml: []
+    web: []
+    databases: []
+    data: [Hadoop, HDFS, YARN, HBase, Kafka, Solr]
+    cloud: [AWS, EC2, S3, RDS, VPC, DMS, Redis, EMR, EKS, Cloud security, Cloud networking,
+      FinOps]
+    ops: [Terraform, CI/CD, Kubernetes, Docker, Cloud monitoring, Observability tools,
+      Infrastructure as Code, ITIL]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7045715'
+  extracted_at: '2026-02-27T11:29:29.091405'

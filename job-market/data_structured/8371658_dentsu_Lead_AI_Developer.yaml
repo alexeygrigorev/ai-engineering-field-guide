@@ -1,0 +1,45 @@
+company:
+  name: dentsu
+  stage: null
+  focus: Global advertising and digital marketing agency
+position:
+  title: Lead AI Developer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title mentions "AI Developer" but the description
+      focuses entirely on general software development lifecycle,
+      code quality, testing, documentation, and mentoring - with
+      no mention of AI/ML model development, deployment, or
+      related technologies. Cannot determine if this is an AI-
+      first, ML-first, or AI-support role based on the provided
+      information.
+  responsibilities:
+  - Participate in the entire software development cycle including requirements analysis,
+    design, development, unit testing, and documentation
+  - Ensure long-term code reusability and stability of software applications
+  - Proactively identify security, usability, and other issues and formulate strategies
+    to resolve them
+  - Take ownership for the delivery of complex application features and resolve key
+    technical issues
+  - Deliver trainings and participate in knowledge sharing activities
+  - Mentor new software engineers in the team
+  - Integrate new technologies into projects and follow company release processes
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Software Development Lifecycle, Unit Testing, Code Quality, Documentation,
+      Security]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8371658'
+  extracted_at: '2026-02-27T11:38:11.699469'

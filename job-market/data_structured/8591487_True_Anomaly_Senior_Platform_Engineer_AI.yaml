@@ -1,0 +1,52 @@
+company:
+  name: True Anomaly
+  stage: Series A
+  focus: Space security and sustainability technology
+position:
+  title: Senior Platform Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      infrastructure, tooling, and integrations that enable AI
+      capabilities across the company. The role explicitly states
+      it is not a research role and involves building the platform
+      that puts AI into workflows, not building, training, or
+      deploying models directly.
+  responsibilities:
+  - Build and maintain AI platform infrastructure including API integrations, model
+    access pipelines, and on-premises compute environments
+  - Develop custom AI-powered applications and integrations connecting frontier models
+    to internal systems like project management, documentation, and operational tools
+  - Contribute to technical evaluation and selection of AI providers, tools, and platforms
+    based on capability and compliance requirements
+  - Design and deliver AI training and enablement programs including workshops, office
+    hours, and documentation
+  - Partner with engineering, security, and IT teams to ensure AI deployments meet
+    government security and compliance requirements
+  - Stay current with the AI landscape and surface new models, tools, and capabilities
+    that could accelerate the company
+  use_cases:
+  - AI-assisted workflows across engineering, program management, operations, and
+    business teams
+  - Internal project management, documentation, communications, and operational tools
+    automation
+  - Enterprise search and knowledge retrieval systems
+  - On-premises GPU infrastructure for government compliance requirements
+  - AI training and enablement for cross-company fluency
+  skills:
+    genai: [LLM APIs, prompt engineering, tool use, RAG, agent frameworks, MCP]
+    ml: [NVIDIA, CUDA, fine-tuning]
+    web: [API integrations, webhooks, enterprise search]
+    databases: [embedding pipelines, knowledge retrieval systems]
+    data: [data pipelines]
+    cloud: [AWS GovCloud, Azure Government, FedRAMP, IL4/IL5]
+    ops: [on-premises GPU infrastructure]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8591487'
+  extracted_at: '2026-02-27T11:39:16.667288'

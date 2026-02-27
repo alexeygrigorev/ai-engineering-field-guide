@@ -1,0 +1,56 @@
+company:
+  name: Home Solutions
+  stage: Series B
+  focus: AI-powered customer acquisition platform for home services
+position:
+  title: Staff Backend Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend infrastructure role focused on building
+      platforms and APIs that support AI-driven systems, not on
+      building, training, or deploying AI models directly. The
+      engineer will orchestrate between AI agents and business
+      logic, build backend services for experimentation, and
+      design the cloud infrastructure that enables AI
+      capabilities, making this a classic ai-support platform
+      engineering role.
+  responsibilities:
+  - Design and evolve the backend architecture powering AI-driven acquisition systems
+    with FastAPI and Python
+  - Own cloud architecture in GCP/AWS/Digital Ocean with Infrastructure-as-Code and
+    multi-environment production systems
+  - Support orchestration between AI agents, business logic, and partner systems with
+    clean abstraction layers
+  - Build backend services enabling experimentation, optimization, and real-time decisioning
+    and lead routing
+  - Design clean APIs and abstraction layers over partner APIs for real-time booking,
+    routing, and multi-channel engagement
+  - Improve system resilience, monitoring, alerting, and failure recovery patterns
+    across critical services
+  - Set architectural standards, mentor engineers, and identify and eliminate system
+    bottlenecks before they constrain growth
+  use_cases:
+  - AI-powered voice and messaging customer acquisition platform for home services
+  - Real-time decisioning and lead routing to connect homeowners with service providers
+  - Intelligent scheduling systems with partner API integrations
+  - Compliance-aware dialing systems for customer engagement
+  - Multi-channel engagement combining media, alerts, and brand solutions
+  - Matching homeowners with right service providers through intelligent workflows
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, API Design]
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS, GCP, Digital Ocean]
+    ops: [Infrastructure as Code, Kubernetes, Docker, Monitoring and Alerting, Distributed
+        Systems, System Performance Optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8589430'
+  extracted_at: '2026-02-27T12:03:23.396725'

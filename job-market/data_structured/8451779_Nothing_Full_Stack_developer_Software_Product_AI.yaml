@@ -1,0 +1,54 @@
+company:
+  name: Nothing
+  stage: Series B
+  focus: |-
+    Consumer technology company designing innovative hardware
+    and software products
+position:
+  title: Full Stack developer, Software Product (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the developer is building
+      AI interfaces and services directly - working with LLMs, RAG
+      systems, agents, MCPs, and vector databases. The role
+      involves prototyping novel AI interactions, optimizing AI
+      performance for real-time responsiveness, and architecting
+      the AI service layer that powers these experiences.
+  responsibilities:
+  - Rapidly prototype and ship novel AI interfaces including chat, voice, and multi-modal
+    interactions for Nothing OS
+  - Translate experimental concepts into production-grade full-stack applications
+    using Next.js, React, and Node/Python
+  - Optimize AI latency, real-time performance, and micro-interactions to make digital
+    assistants feel responsive and human
+  - Define and architect underlying patterns and frameworks for the AI service layer
+    to scale globally
+  - Collaborate with hardware and OS teams to create seamless experiences across web,
+    mobile, and embedded surfaces
+  - Work with Product Designers to invent new interaction models beyond traditional
+    screen-tap paradigms
+  - Manage deployment pipelines and infrastructure choices to maintain high shipping
+    velocity
+  use_cases:
+  - AI-powered conversational interfaces and chat experiences
+  - Voice-based interactions and digital assistant experiences
+  - Multi-modal human-computer interaction combining voice, chat, and other inputs
+  - Seamless cross-device AI experiences spanning web, mobile, and embedded platforms
+  - Consumer-facing AI companion features within Nothing OS
+  skills:
+    genai: [LLMs, RAG systems, agents, MCPs]
+    ml: []
+    web: [Next.js, React, Node.js, APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [cloud-native infrastructure]
+    ops: [microservices]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8451779'
+  extracted_at: '2026-02-27T11:30:51.223565'

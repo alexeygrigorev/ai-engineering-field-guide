@@ -1,0 +1,47 @@
+company:
+  name: Loyalty Juggernaut
+  stage: null
+  focus: Enterprise loyalty and engagement technology
+position:
+  title: Senior Product Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building, deploying, and
+      optimizing ML and generative AI solutions directly into the
+      product ecosystem. Responsibilities include building end-to-
+      end ML pipelines, model training, deployment to
+      microservices, and integrating GenAI/ML technologies into
+      core product features.
+  responsibilities:
+  - Design, develop, and deploy AI-driven product features using ML, NLP, or GenAI
+    technologies
+  - Build and maintain end-to-end ML pipelines from data preparation to deployment
+    and monitoring
+  - Integrate models into production microservices and APIs
+  - Analyze data and experiment with techniques to improve model accuracy and business
+    impact
+  - Collaborate with product managers, data scientists, and platform engineers to
+    deliver scalable AI solutions
+  - Follow best practices in software development, version control, CI/CD, and testing
+  use_cases:
+  - Intelligent customer engagement across loyalty platforms
+  - AI-powered loyalty and brand devotion experiences
+  - Next-generation customer experience design and deployment
+  - Scalable cloud-native loyalty technology solutions
+  skills:
+    genai: [GenAI]
+    ml: [Scikit-learn, TensorFlow, PyTorch, Machine Learning]
+    web: [Microservices, APIs]
+    databases: []
+    data: [NumPy, Pandas, Data analysis]
+    cloud: []
+    ops: [ML pipelines, Model deployment, CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7487239'
+  extracted_at: '2026-02-27T11:52:09.599450'

@@ -141,6 +141,7 @@ def save_html(url, html):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Download job HTMLs with 8 threads')
+    parser.add_argument('--csv', type=str, help='Path to CSV file with job links (default: jobs/all_jobs_dedup.csv)')
     parser.add_argument('--limit', type=int, help='Limit number of URLs to download (for testing)')
     args = parser.parse_args()
 
@@ -151,8 +152,13 @@ def main():
     print("8-Threaded Download")
     print("="*60)
 
-    # Read URLs from deduplicated CSV
-    csv_file = PROJECT_ROOT / "jobs" / "all_jobs_dedup.csv"
+    # Read URLs from CSV
+    if args.csv:
+        csv_file = Path(args.csv)
+        if not csv_file.is_absolute():
+            csv_file = PROJECT_ROOT / args.csv
+    else:
+        csv_file = PROJECT_ROOT / "all_jobs_dedup.csv"
     if not csv_file.exists():
         print(f"ERROR: {csv_file} not found!")
         return

@@ -1,0 +1,46 @@
+company:
+  name: ProArch
+  stage: null
+  focus: |-
+    IT services spanning cybersecurity, cloud, data, AI, and app
+    development
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, implementing, and optimizing
+      AI/ML models and algorithms directly. The responsibilities
+      include hands-on work with machine learning frameworks, data
+      preprocessing for model training, and deploying AI solutions
+      to production.
+  responsibilities:
+  - Design and implement AI/ML models and algorithms to solve complex problems
+  - Collaborate with cross-functional teams to define project requirements and deliver
+    robust software solutions
+  - Evaluate and select appropriate AI tools and technologies to enhance product performance
+  - Analyze and preprocess large datasets to train and validate machine learning models
+  - Monitor and optimize AI model performance, identifying areas for improvement
+  - Mentor and guide junior engineers in best practices for AI engineering
+  use_cases:
+  - Building intelligent applications for clients
+  - Solving complex business challenges through AI-driven solutions
+  - Natural language processing applications
+  - Computer vision applications
+  - Deploying and optimizing AI models in cloud environments
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, model evaluation]
+    web: []
+    databases: []
+    data: [data preprocessing, feature engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, C++]
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8260721'
+  extracted_at: '2026-02-27T11:56:09.263107'

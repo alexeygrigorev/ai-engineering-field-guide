@@ -1,0 +1,53 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Enterprise AI solutions and agentic AI
+position:
+  title: Senior Lead AI/ML Engineer - R01560291
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is hands-on work building AI systems - specifically
+      multi-agent AI architectures using LangGraph, LLM
+      orchestration, and RAG. The role involves designing,
+      developing, and optimizing autonomous AI agents with
+      reinforcement learning, not supporting others who work on
+      AI.
+  responsibilities:
+  - Design and develop multi-agent AI systems using LangGraph for workflow automation
+    and autonomous problem-solving
+  - Build memory-augmented, context-aware AI agents capable of planning, reasoning,
+    and executing tasks
+  - Develop and optimize agent orchestration workflows using LangGraph for high performance
+    and scalability
+  - Implement knowledge graphs, vector databases, and RAG techniques for enhanced
+    agent reasoning
+  - Apply reinforcement learning methodologies (RLHF/RLAIF) to fine-tune AI agents
+    for improved decision-making
+  - Lead Agentic AI proof-of-concept projects and scale successful prototypes into
+    production
+  - Mentor a team of AI Engineers and Data Scientists on LangGraph and multi-agent
+    architectures
+  use_cases:
+  - Enterprise workflow automation using multi-agent AI systems
+  - Autonomous problem-solving across multiple business domains
+  - Complex decision-making with context-aware AI agents
+  - Enhanced reasoning through RAG and knowledge graph integration
+  - Self-improving AI agents that adapt based on real-time feedback
+  skills:
+    genai: [LangGraph, Multi-agent systems, LLM orchestration, RAG (Retrieval-Augmented
+        Generation)]
+    ml: [Reinforcement Learning (RLHF/RLAIF), Fine-tuning]
+    web: []
+    databases: [Knowledge graphs, Pinecone, Weaviate, FAISS]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8414157'
+  extracted_at: '2026-02-27T11:40:49.123243'

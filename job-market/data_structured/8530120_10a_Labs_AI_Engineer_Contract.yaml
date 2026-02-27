@@ -1,0 +1,48 @@
+company:
+  name: 10a Labs
+  stage: null
+  focus: AI safety and threat intelligence platform
+position:
+  title: AI Engineer (Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building of AI-driven systems
+      using language models, implementing RAG architectures, and
+      integrating AI APIs for real-world applications. The
+      engineer will work directly on prototyping and production
+      workflows that leverage LLMs for classification, evaluation,
+      and synthetic data generation.
+  responsibilities:
+  - Design and implement AI-driven systems using AI APIs in creative and smart ways
+  - Build prototypes and production workflows that leverage language models for tasks
+    such as classification, evaluation, and synthetic data generation
+  - Integrate AI APIs, vector stores, and supporting infrastructure to enable scalable
+    applications
+  - Experiment with and evaluate both hosted and open-source models where appropriate
+  - Partner with product managers, analysts, and technical writers to translate complex
+    systems into well-defined requirements and clear external materials
+  - Provide technical feedback to product and engineering teams to improve system
+    quality and performance
+  use_cases:
+  - AI system safety evaluations and red teaming
+  - Threat intelligence collection and analysis
+  - Model evaluation and classification systems
+  - Synthetic data generation for AI testing
+  - Adversarial testing and vulnerability assessment
+  skills:
+    genai: [OpenAI/Anthropic APIs, RAG, LLM APIs, Claude Code, Codex]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, FAISS, Milvus]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8530120'
+  extracted_at: '2026-02-27T11:50:34.036585'

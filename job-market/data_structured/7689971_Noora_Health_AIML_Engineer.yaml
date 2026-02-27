@@ -1,0 +1,48 @@
+company:
+  name: Noora Health
+  stage: null
+  focus: Healthcare education and caregiver training programs
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI systems end-to-end including
+      data curation, model prototyping, deployment, and
+      monitoring. The candidate must have shipped deep learning
+      projects (CV, NLP, or RL) through the complete pipeline,
+      which indicates hands-on work directly on AI/ML systems
+      rather than support functions.
+  responsibilities:
+  - Build AI systems end-to-end from data curation through deployment and monitoring
+  - Define success metrics and iterate to improve model accuracy, relevance, and efficiency
+  - Integrate AI features into existing product infrastructure with focus on performance
+    and scalability
+  - Provide guidance on best practices and encourage adoption of cutting-edge AI/ML
+    techniques
+  - Document research findings and share knowledge across teams
+  - Collaborate with cross-functional teams to identify AI opportunities for user
+    experience and care delivery
+  use_cases:
+  - Improve user experience for caregiver education platforms
+  - Enhance care delivery through AI-powered features
+  - Support caregiver training and education programs
+  - Analyze patient and caregiver data for insights
+  - Optimize content delivery and personalization
+  - Reduce complications and mortality through AI interventions
+  skills:
+    genai: []
+    ml: [machine learning fundamentals, deep learning]
+    web: []
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: []
+    languages: [Python]
+    domains: [computer vision, NLP, reinforcement learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7689971'
+  extracted_at: '2026-02-27T11:42:06.700035'

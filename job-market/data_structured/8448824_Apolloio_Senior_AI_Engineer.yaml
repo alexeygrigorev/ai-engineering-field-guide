@@ -1,0 +1,59 @@
+company:
+  name: Apollo.io
+  stage: Series D
+  focus: |-
+    B2B sales and go-to-market platform with AI-powered contact
+    data, engagement tools
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and productionizing of
+      LLM-powered systems including multi-agent architectures, LLM
+      chaining, and prompt engineering. The engineer directly
+      deploys AI systems to millions of users, working with GPT,
+      Claude, Llama, and other modern LLMs in production
+      environments.
+  responsibilities:
+  - Design and deploy production LLM systems that serve millions of users with high
+    availability and performance requirements
+  - Create sophisticated AI agents that can chain multiple LLM calls, integrate with
+    external APIs, and maintain state across complex workflows
+  - Develop and optimize prompting strategies, understand trade-offs between prompt
+    engineering vs fine-tuning, and implement advanced prompting techniques
+  - Build robust APIs and integrate AI capabilities with existing Apollo infrastructure
+    and external services
+  - Implement comprehensive evaluation frameworks, A/B testing, and monitoring systems
+    to ensure AI systems meet accuracy, safety, and reliability standards
+  - Optimize for cost, latency, and scalability across different LLM providers and
+    deployment scenarios
+  - Work closely with product teams, backend engineers, and stakeholders to translate
+    business requirements into technical AI solutions
+  use_cases:
+  - AI Assistant that automates research, scoring, and outreach processes for sales
+    teams
+  - Autonomous AI Agents for reasoning, planning, and executing complex sales workflows
+  - Deep Research Agents for in-depth information gathering and analysis
+  - Conversational Assistant with multi-turn context management
+  - Semantic Search and Search Personalization for B2B contact discovery
+  - AI Power Automation including personalized email generation and natural language
+    search
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API (GPT), Anthropic API (Claude), LLaMA,
+      RAG, agents, prompt engineering, chain-of-thought, few-shot learning, context
+        management]
+    ml: [search ranking and relevance, recommendation systems, entity extraction]
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, A/B testing, monitoring and alerting]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8448824'
+  extracted_at: '2026-02-27T12:05:37.800853'

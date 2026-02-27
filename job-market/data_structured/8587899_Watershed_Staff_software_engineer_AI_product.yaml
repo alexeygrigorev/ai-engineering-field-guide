@@ -1,0 +1,48 @@
+company:
+  name: Watershed
+  stage: Series B
+  focus: |-
+    Enterprise sustainability platform for climate and ESG data
+    management and reporting
+position:
+  title: Staff software engineer, AI product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will directly
+      leverage LLMs, embeddings, and other AI technologies to
+      build AI features for customers. The role involves
+      prototyping and productionizing AI tools for information
+      extraction and report generation, which is hands-on work
+      building with AI models.
+  responsibilities:
+  - Ship code to production immediately
+  - Prototype, develop and iterate on new AI product area delivering information extraction
+    and report generation tools
+  - Productionize and launch core AI technologies powered by operational sustainability
+    data
+  - Keep up with AI developments to determine relevance to Watershed's products
+  - Write performant, well-crafted, tested, and maintainable code across the technical
+    stack
+  use_cases:
+  - Information extraction from sustainability data using AI
+  - AI-powered report generation for sustainability metrics
+  - Management and reporting on sustainability progress for enterprise customers
+  - Climate and ESG data processing and analysis
+  - Audit-ready metrics generation for regulatory reporting including CSRD
+  skills:
+    genai: [LLMs, embeddings]
+    ml: []
+    web: [full-stack development, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8587899'
+  extracted_at: '2026-02-27T11:42:25.442332'

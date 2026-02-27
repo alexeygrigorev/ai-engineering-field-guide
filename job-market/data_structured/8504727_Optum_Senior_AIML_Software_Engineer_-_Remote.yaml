@@ -1,0 +1,47 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services enterprise
+position:
+  title: Senior AI/ML Software Engineer - Remote
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on MLOps, data pipelines, and deployment of
+      ML models rather than building or training them.
+      Responsibilities emphasize managing inference, scaling ML
+      systems, building pipelines, and delivering ML insights to
+      customers, which supports but does not directly work on AI
+      models.
+  responsibilities:
+  - Own the inference and delivery of machine learning insights to multiple customers
+  - Manage, monitor, and scale machine learning systems delivering insights to multiple
+    customers
+  - Partner with cross-functional engineering teams to implement scalable, flexible
+    pipelines that bring AI innovations into real-world products
+  - Work with large-scale data and distributed computing frameworks to process and
+    analyze high-volume healthcare datasets efficiently
+  - Drive pipeline efficiency and reliability through profiling, refactoring and advanced
+    engineering
+  - Develop new data pipelines to improve ML model usage
+  use_cases:
+  - Patient engagement through smart nudging
+  - Predicting onset and progression of disease
+  - Large Language Model solutions for summarizing large scale patient information
+  - Optimizing clinical trials using structured and unstructured data
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL, Snowflake]
+    data: [PySpark, Databricks, Spark]
+    cloud: [Azure, AWS, Google Cloud, AzureML]
+    ops: [CI/CD, MLOps, model monitoring, drift detection]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504727'
+  extracted_at: '2026-02-27T11:40:43.235290'

@@ -1,0 +1,46 @@
+company:
+  name: GSK
+  stage: Public
+  focus: 'Global biopharma: specialty medicines and vaccines'
+position:
+  title: AI/ML Engineer – Clinical AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role involves hands-on development and validation of
+      state-of-the-art machine learning models, including deep
+      learning frameworks (PyTorch, TensorFlow) for biomedical
+      prediction tasks. The focus is on traditional/deep learning
+      approaches rather than LLMs or generative AI agents.
+  responsibilities:
+  - Design and implement AI/ML-driven solutions along the entire model development
+    life cycle
+  - Research and develop state-of-the-art machine learning models, including deep
+    learning models, to optimize model performance on biomedical prediction tasks
+  - Deliver robust, tested and performant code in an agile environment
+  - Liaise with experts in biology, medicine and experimentation to ensure optimal
+    collection of data to train biomedical machine learning models
+  use_cases:
+  - Development of novel therapies for existing diseases
+  - Personalized drug development for better health outcomes
+  - Biomedical prediction tasks in clinical applications
+  - Rapid response to emerging or changing diseases
+  - Clinical AI solutions for priority disease applications
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, deep learning, machine learning literature, foundation
+        models, representation learning, transfer learning]
+    web: []
+    databases: []
+    data: [biomedical data]
+    cloud: []
+    ops: [version control, continuous integration, continuous development, containerization,
+      shell scripting]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8494958'
+  extracted_at: '2026-02-27T11:38:45.879801'

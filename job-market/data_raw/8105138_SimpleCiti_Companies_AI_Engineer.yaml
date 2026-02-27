@@ -1,0 +1,108 @@
+job_id: 8105138
+title: AI Engineer
+company: SimpleCiti Companies
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Crewai
+  - Langchain
+  - Langgraph
+  - Microservices
+  - Python
+description: |
+  The Mission: Build the OS for Access to Justice
+  
+  Every year, 400,000 Americans are injured in accidents and
+  struggle to access legal representation because the system
+  is broken. We believe this is not a legal problem—it's an
+  engineering problem. SimpleCITI is seeking a Lead AI
+  Architect for one of its portfolio companies to build the
+  operating system for the modern law firm: a fully autonomous
+  personal injury pre-litigation back office that runs on a
+  sophisticated multi-agent system.
+  
+  This is a pure systems architecture and engineering
+  challenge. We are looking for a world-class builder who
+  understands that the future of AI is in the sophisticated
+  software architecture that harnesses the power of existing
+  models. If you are an expert in building reliable, high-
+  impact AI systems, this is your opportunity to build
+  something that matters.
+  
+  The Core Challenge: Architecting the Agentic Harness
+  
+  This is not a research or model-tuning role. Your mission is
+  to architect and build the "agentic harness"—the production-
+  grade software system that orchestrates foundational models
+  to perform complex, real-world work. This requires deep
+  expertise in three key areas of systems design:
+  
+  1. Deep Architecture (Orchestration & Tooling): You will
+  design the core framework that allows multiple specialized
+  agents to coordinate on long-running tasks. This includes
+  building a robust library of tools (APIs), managing state
+  across a distributed system, and implementing sophisticated
+  error recovery.
+  
+  2. Advanced Memory Systems (High-Fidelity RAG): You will
+  architect a high-fidelity memory system that gives agents
+  the precise context they need to reason over thousands of
+  pages of unstructured, domain-specific documents. This goes
+  beyond simple RAG to include complex data ingestion,
+  chunking, and retrieval strategies.
+  
+  3. Reliability & Validation Frameworks (Reasoning Loops):
+  You will build the systems that ensure 99.9%+ accuracy. This
+  involves implementing multi-agent validation loops (e.g., a
+  "reviewer" agent that critiques a "drafter" agent),
+  confidence scoring, and human-in-the-loop escalation paths
+  for high-stakes decisions.
+  
+  Example Agent Architectures You Will Build
+  
+  You will apply your expertise in agentic harnessing to build
+  a suite of specialized AI agents. Examples include:
+  
+  Medical Record Intelligence Agent: This is more than just
+  OCR. You will architect a multi-step agent that ingests
+  thousands of pages of unstructured medical records (faxes,
+  handwritten notes, EMR exports), builds a structured
+  timeline, and performs causation analysis to distinguish
+  pre-existing conditions from accident-related injuries. This
+  requires a high-fidelity RAG system with medical domain-
+  specific chunking and a validation loop where a secondary
+  agent reviews the primary agent's findings for accuracy
+  before finalizing the output.
+  
+  Demand Package Generation Agent: This is not a simple text
+  generator. You will build a multi-agent system where a
+  "researcher" agent gathers relevant case law and medical
+  data, a "drafter" agent writes a persuasive legal argument,
+  and a "validator" agent checks citations and ensures the
+  argument aligns with jurisdiction-specific rules. This
+  requires sophisticated agent coordination and tool
+  integration with legal research APIs.
+  
+  RequirementsTechnical Requirements
+  
+  - Demonstrable experience architecting and deploying
+    production-grade, multi-agent AI systems (3+ specialized,
+    coordinating agents) serving real, external users.
+  - Deep, hands-on expertise with agentic AI frameworks (e.g.,
+    LangChain, LangGraph, CrewAI) and the architectural
+    patterns that make them reliable at scale.
+  - Expert-level Python and a strong background in designing
+    complex, distributed systems (e.g., microservices, APIs,
+    data orchestration).
+  - Experience building AI systems in regulated industries
+    (healthcare, legal, finance) with HIPAA or SOC 2
+    compliance.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-02-25
+url: "https://www.builtinla.com/job/lead-ai-architect/8105138"
+source: Built In

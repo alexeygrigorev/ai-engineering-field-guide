@@ -1,0 +1,48 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: Data and AI platform - unified analytics, data, and ML
+position:
+  title: Sr Software Engineer, Search Relevance (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on ML engineering for search relevance
+      systems, explicitly mentioning developing and deploying ML-
+      based models, applying LLMs to search relevance, building
+      NLP pipelines for query understanding and ranking, and
+      designing automated ML systems. The engineer will directly
+      work with models (LLMs, relevance models) and deploy them in
+      production, not just support infrastructure.
+  responsibilities:
+  - Drive the development and deployment of ML based search and discovery relevance
+    models and systems integrated with Databricks' products and services
+  - Design and implement automated ML and NLP pipelines for data preprocessing, query
+    understanding and rewrite, ranking and retrieval, and model evaluation
+  - Collaborate with product managers and cross-functional teams to drive technology-first
+    initiatives for search and discovery experience
+  - Contribute to building a robust framework for evaluating search ranking improvements
+    - both offline and online
+  use_cases:
+  - Enterprise search for data platform assets including tables, notebooks, dashboards,
+    pipelines, and ML models
+  - Search relevance and ranking for millions of platform assets
+  - Query understanding and query rewriting for improved search results
+  - Automated search evaluation and quality measurement
+  skills:
+    genai: [LLMs, NLP, Query understanding, Query rewriting]
+    ml: [Search relevance, Ranking models, Retrieval systems, Model evaluation, ML
+        pipelines]
+    web: []
+    databases: []
+    data: [Data preprocessing]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8086870'
+  extracted_at: '2026-02-27T11:31:05.801236'

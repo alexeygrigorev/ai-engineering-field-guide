@@ -1,0 +1,44 @@
+company:
+  name: Couchbase
+  stage: Public
+  focus: Operational data platform for AI, cloud database
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves building enterprise-grade AI tools and
+      operating AI pipeline services, but the focus is on
+      infrastructure-level software development (distributed
+      systems, reliability, observability) rather than hands-on
+      model work. The responsibilities center on building scalable
+      platforms that support AI workloads, not building, training,
+      or deploying models directly.
+  responsibilities:
+  - Design, develop, and maintain performant, scalable, and highly available enterprise-level
+    software
+  - Develop distributed systems that handle real-time and batch processing at scale
+  - Ensure reliability, observability, and fault tolerance of AI pipeline services
+  - Participate in architecture reviews, code reviews, and technical design discussions
+  use_cases:
+  - Enterprise-grade AI tools merging databases with AI
+  - Real-time and batch processing pipelines for AI workloads
+  - Inference and data pipelines in production environments
+  - Feature serving systems for ML applications
+  - Vector search or embedding-based retrieval pipelines
+  skills:
+    genai: []
+    ml: [ML pipelines, Inference]
+    web: [RESTful APIs]
+    databases: [Vector search, NoSQL databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed systems, Event-driven architectures]
+    languages: [Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8253465'
+  extracted_at: '2026-02-27T11:29:42.263582'

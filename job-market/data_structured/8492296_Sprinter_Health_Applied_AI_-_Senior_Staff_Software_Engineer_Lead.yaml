@@ -1,0 +1,50 @@
+company:
+  name: Sprinter Health
+  stage: Series B
+  focus: In-home healthcare delivery platform
+position:
+  title: Applied AI - Senior/ Staff Software Engineer, Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role that involves
+      building production AI systems using LLMs, RAG, embeddings,
+      and multi-agent architectures. The engineer will directly
+      develop, deploy, and ship AI features like clinical visit
+      summaries, patient risk models, and workflow agents, which
+      is core AI work rather than supporting infrastructure or
+      data pipelines.
+  responsibilities:
+  - Build AI-powered features that improve patient care, coordination, and clinical
+    workflows
+  - Develop production systems using LLMs, RAG, embeddings, and multi-agent architectures
+  - Ship products like clinical visit summaries, patient risk models, and voice coordination
+    assistants
+  - Design workflow agents that automate scheduling, follow-ups, and operational tasks
+  - Collaborate with product, clinical ops, and data partners to deliver measurable
+    results
+  - Help define the technical direction, tooling, and standards for a brand-new team
+  use_cases:
+  - Clinical visit summaries for patients and clinicians
+  - Patient risk prediction models for proactive care
+  - Voice coordination assistants for patient interactions
+  - Workflow automation for scheduling and follow-ups
+  - AI-powered clinical workflow optimization
+  - Automated patient care coordination systems
+  skills:
+    genai: [LLMs, RAG, embeddings, multi-agent architectures, LangChain, LlamaIndex,
+      voice agents]
+    ml: [NLP]
+    web: [GraphQL, REST APIs, telephony APIs]
+    databases: [vector stores, DynamoDB, BigQuery, Elasticsearch, OpenSearch]
+    data: [Airflow]
+    cloud: [AWS Lambda, AppSync]
+    ops: []
+    languages: [Python, Node.js, TypeScript]
+    domains: [FHIR, HL7]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8492296'
+  extracted_at: '2026-02-27T12:02:16.632293'

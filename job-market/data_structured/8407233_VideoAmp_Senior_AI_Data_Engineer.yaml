@@ -1,0 +1,54 @@
+company:
+  name: VideoAmp
+  stage: null
+  focus: |-
+    Linear TV and digital video advertising measurement and
+    optimization
+position:
+  title: Senior AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and productionizing LLM-powered
+      systems and integrating them directly into data pipelines.
+      The engineer will own the end-to-end AI lifecycle, combining
+      LLMs with ML models for specific business problems like
+      network schedules and viewership logs.
+  responsibilities:
+  - Design and operate AI- and LLM-enabled data pipelines processing billions of linear
+    and digital records
+  - Build and productionize LLM-driven systems for network schedules, hourly viewership
+    logs, and commercial metadata
+  - Combine LLMs with rules, heuristics, and ML models to ensure deterministic, auditable
+    outcomes
+  - Integrate LLMs responsibly into batch and event-driven workflows, balancing accuracy,
+    latency, and cost
+  - Build human-in-the-loop workflows for high-impact or low-confidence cases
+  - Collaborate with Measurement, Identity, Library, and Product teams to translate
+    data issues into scalable AI solutions
+  - Provide technical leadership through design reviews, mentorship, and architectural
+    guidance
+  use_cases:
+  - Process network-specific schedules and program metadata for linear TV
+  - Handle hourly viewership logs that vary by partner, format, and quality
+  - Extract and structure commercial and ad spot metadata
+  - Enable audience measurement, currency, and identity workflows across linear and
+    digital media
+  - Detect and explain data quality issues in measurement pipelines
+  - Make measurement pipelines adaptive to partner-specific formats
+  skills:
+    genai: [LLMs, prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: [data pipelines, distributed systems, batch processing, event-driven workflows]
+    cloud: []
+    ops: [MLOps, LLMOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8407233'
+  extracted_at: '2026-02-27T12:09:33.652083'

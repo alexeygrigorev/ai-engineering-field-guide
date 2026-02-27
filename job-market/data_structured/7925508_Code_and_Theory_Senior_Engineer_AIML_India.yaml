@@ -1,0 +1,52 @@
+company:
+  name: Code and Theory
+  stage: Established (2001, ~2000 employees)
+  focus: |-
+    Digital-first creative agency solving business problems
+    through technology and creativity
+position:
+  title: Senior Engineer, AI/ML (India)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building and deploying
+      generative AI models, specifically multimodal systems (text-
+      to-image, image-to-text). The candidate will work directly
+      with diffusion models, transformer architectures, fine-
+      tuning (LoRA), and deploying models to production, which
+      clearly falls under working ON AI/ML systems.
+  responsibilities:
+  - Build and deploy multimodal generative AI models including text-to-image and image-to-text
+    applications
+  - Work with cross-modal architectures and multimodal fusion techniques across text,
+    vision, audio, and video
+  - Develop solutions using diffusion models, transformer-based generative models,
+    and GANs
+  - Optimize and serve ML models in production with monitoring capabilities
+  - Mentor team members and advocate for adoption of emerging AI technologies
+  - Collaborate on novel multimodal applications across diverse client industries
+  use_cases:
+  - Text-to-image generation for creative and marketing applications
+  - Image-to-text processing for content understanding and analysis
+  - Cross-modal content generation across text, vision, audio, and video formats
+  - Enterprise solutions leveraging generative AI for diverse industries including
+    tech, financial services, media, and government
+  - Creative applications for Fortune 100 clients and startups across multiple business
+    categories
+  skills:
+    genai: [Diffusion models, Generative AI models, Prompt engineering]
+    ml: [PyTorch, HuggingFace Transformers, HuggingFace Diffusers, HuggingFace Accelerate,
+      Transformer architectures, GANs, Multimodal fusion, Fine-tuning, LoRA]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS SageMaker, GCP Vertex AI, Azure ML]
+    ops: [Model optimization, Model serving, Model monitoring]
+    languages: [Python]
+    domains: [Computer vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7925508'
+  extracted_at: '2026-02-27T11:37:16.607432'

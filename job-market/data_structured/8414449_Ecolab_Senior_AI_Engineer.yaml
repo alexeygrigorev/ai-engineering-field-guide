@@ -1,0 +1,59 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water treatment and industrial solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role focuses on building agentic AI systems, autonomous
+      agents, and LLM-based applications using RAG architectures
+      and multi-agent systems. The engineer is directly
+      responsible for designing, developing, and deploying
+      production-grade AI solutions with Azure OpenAI, not just
+      supporting infrastructure or data pipelines for AI teams.
+  responsibilities:
+  - Design and develop sophisticated agentic AI systems capable of autonomous decision-making
+    and task execution
+  - Architect and implement production-grade AI solutions using Azure services including
+    Azure Functions, Azure OpenAI, and Azure Cognitive Services
+  - Build and maintain CI/CD pipelines using Azure DevOps and GitHub Actions for automated
+    testing and deployment
+  - Develop scalable data processing workflows using Azure Databricks and Apache Spark
+  - Implement comprehensive testing strategies for AI applications including unit
+    tests, integration tests, and performance testing
+  - Optimize AI agent performance, reliability, and cost-efficiency in production
+    environments
+  - Design and implement monitoring, logging, and observability solutions for AI systems
+  - Mentor junior engineers and lead technical discussions on AI architecture and
+    best practices
+  - Collaborate with cross-functional teams to integrate AI agents into existing systems
+  - Implement security best practices including managed identities, Key Vault integration,
+    and RBAC
+  use_cases:
+  - Autonomous AI agents for decision-making and task execution
+  - RAG-based knowledge retrieval and generation systems
+  - Large-scale data processing and ML workflows with Databricks and Spark
+  - Multi-agent systems for complex problem-solving
+  - Enterprise-grade AI solutions deployed on Azure cloud infrastructure
+  skills:
+    genai: [Agentic AI, Multi-agent systems, RAG (Retrieval-Augmented Generation),
+      Large language models (LLMs), Prompt engineering, Vector databases, Semantic
+        search]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Transformers, Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: [Apache Spark]
+    cloud: [Azure OpenAI, Azure Cognitive Services, Azure Functions, Azure ML, Azure
+        Databricks]
+    ops: [Azure DevOps, GitHub Actions, Application Insights, Log Analytics, Grafana,
+      Docker, Kubernetes, AKS, MLflow, CI/CD, MLOps]
+    languages: [Python, SQL]
+    domains: [Natural Language Processing]
+    other: [Microservices architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8414449'
+  extracted_at: '2026-02-27T11:43:35.490855'

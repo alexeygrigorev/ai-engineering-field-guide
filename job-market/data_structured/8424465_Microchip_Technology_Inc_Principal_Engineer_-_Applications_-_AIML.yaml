@@ -1,0 +1,50 @@
+company:
+  name: Microchip Technology Inc.
+  stage: Public
+  focus: Semiconductors and embedded systems
+position:
+  title: Principal Engineer - Applications - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work training, tuning, and
+      optimizing AI models for edge computing environments. The
+      engineer develops AI/ML applications using frameworks like
+      TensorFlow, PyTorch, and ONNX, directly implementing TinyML
+      algorithms on resource-constrained embedded platforms.
+  responsibilities:
+  - Develop embedded applications using Microchip AI offerings demonstrating product
+    capabilities with focus on Edge AI solutions
+  - Develop reference solutions and proof of concept demos to assist customers in
+    designing Edge AI applications including audio/voice implementation using TinyML
+  - Train and tune AI models for efficient execution on hardware platforms using TFLite,
+    TensorFlow, ONNX, and PyTorch
+  - Provide presentations and trainings on technical topics to customers and other
+    stakeholders
+  - Provide feedback on improvements in Microchip's hardware, software, tools and
+    documentation targeting Edge AI solutions
+  - Work with software engineers to develop methodologies in gathering, applying and
+    evaluating data for consumption by AI models
+  use_cases:
+  - Audio/voice recognition and implementation on MCU platforms
+  - TinyML algorithm deployment on resource-constrained embedded devices
+  - Edge AI inference on ARM M0 to M7 class MCUs and DSP platforms
+  - Signal processing and analysis within ML frameworks
+  - Real-time AI processing for IoT and embedded applications
+  skills:
+    genai: []
+    ml: [TensorFlow, TFLite, PyTorch, ONNX, Keras, TinyML, MPLAB Machine Learning
+        Development Suite]
+    web: [MPLAB IDE, IAR Workbench, Keil MDK, Atmel Studio]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [RTOS, Zephyr, CI/CD]
+    languages: [Python, Embedded C]
+    domains: [Audio processing, DSP]
+    other: [I2C, SPI, UART, USB, Ethernet MAC]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8424465'
+  extracted_at: '2026-02-27T11:34:10.317442'

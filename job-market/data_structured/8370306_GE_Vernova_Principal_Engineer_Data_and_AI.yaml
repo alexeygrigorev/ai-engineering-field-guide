@@ -1,0 +1,54 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Power generation, grid planning, energy software
+position:
+  title: Principal Engineer – Data and AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily focused on data architecture, data
+      engineering, and platform development for power system
+      planning. While it mentions identifying and leading AI/ML
+      use cases, the core work involves building data
+      infrastructure, governance, and integration workflows that
+      support others to apply AI, not directly building, training,
+      or deploying models.
+  responsibilities:
+  - Own the end-to-end data architecture and reporting strategy for PlanOS planning
+    platform
+  - Design and govern data models and schemas for planning inputs, intermediate results,
+    and outputs
+  - Ensure data versioning, lineage, and reproducibility to support auditable planning
+    results
+  - Optimize storage and data access patterns for large multi-scenario planning studies
+  - Enable clear reporting through dashboards, narratives, and interactive analysis
+    tools
+  - Identify and lead AI/ML use cases that add value to long-term grid planning
+  - Partner with engineering teams to integrate data and AI workflows into production
+    software
+  - Own data governance, quality assurance, and validation processes
+  use_cases:
+  - Long-term transmission and generation planning
+  - Capacity expansion planning for power systems
+  - Reliability assessment of interconnected power grids
+  - Scenario analysis for system operators and regulators
+  - Production cost modeling and market simulation
+  - Steady-state and transient stability simulation
+  skills:
+    genai: []
+    ml: []
+    web: [API design, Pyramid]
+    databases: [SQLAlchemy]
+    data: [Data modeling, Data architecture, Data governance, Data lineage, Data lakes,
+      Distributed compute, Pyomo, CVXPY, OR-Tools, Gurobi, CPLEX]
+    cloud: [AWS, Azure]
+    ops: [Data versioning]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8370306'
+  extracted_at: '2026-02-27T11:31:15.606009'

@@ -1,0 +1,54 @@
+company:
+  name: GoTo
+  stage: Public
+  focus: Remote work technology solutions
+position:
+  title: Senior Data Engineer – ML / AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses primarily on data engineering (PySpark,
+      Airflow, Databricks, data pipelines) and ML infrastructure
+      (feature pipelines, MLOps, model deployment) rather than
+      hands-on model development or training. The engineer enables
+      ML work for others by building the data platform, feature
+      engineering pipelines, and MLOps infrastructure that support
+      production ML solutions, which aligns with ai-support.
+  responsibilities:
+  - Design, build, and optimize scalable batch and near-real-time data pipelines using
+    PySpark, SQL, Airflow, and Databricks/AWS services
+  - Develop and maintain data models for structured and semi-structured datasets
+  - Work with Delta Lake, Hive, and Lakehouse architectures to manage large-scale
+    datasets efficiently
+  - Implement data quality, governance, observability, and security best practices
+    across pipelines
+  - Design, build, and deploy ML/AI solutions end-to-end for real SaaS use cases
+  - Own ML productionization including feature pipelines, training/inference workflows,
+    model packaging, deployment, and monitoring
+  - Implement and maintain MLOps pipelines including model versioning, retraining
+    strategies, performance tracking, and rollback mechanisms
+  - Mentor junior engineers and contribute to data platform and engineering best practices
+  use_cases:
+  - Recommendations for SaaS products
+  - Churn prediction and retention analysis
+  - Usage intelligence and analytics
+  - Anomaly detection for system monitoring
+  - Automation of business processes
+  - AI-assisted development and data tools
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Delta Lake, Hive]
+    data: [PySpark, Airflow, Databricks, ETL/ELT, Spark Streaming, Kafka, Unity Catalog,
+      feature engineering pipelines]
+    cloud: [AWS, EMR, EKS, S3, Kinesis]
+    ops: [MLOps, CI/CD]
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7263200'
+  extracted_at: '2026-02-27T11:30:32.806396'

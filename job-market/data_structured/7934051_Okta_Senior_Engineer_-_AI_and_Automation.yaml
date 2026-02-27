@@ -1,0 +1,48 @@
+company:
+  name: Okta
+  stage: Public
+  focus: Identity and access management platform
+position:
+  title: Senior Engineer - AI and Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is building an Agentic AI Platform with direct
+      hands-on work on AI agent orchestration, lifecycle
+      management, RAG pipelines, and guardrails. The engineer is
+      working directly with LangGraph, vector databases, and AI
+      agent frameworks to deploy and manage intelligent agents,
+      which is core AI/ML systems development rather than
+      supporting infrastructure.
+  responsibilities:
+  - Design and develop platform services for AI agents including orchestration, lifecycle
+    management, observability, and guardrails
+  - Build scalable APIs, frameworks, and reusable components that enable teams to
+    rapidly create and deploy secure AI agents
+  - Contribute to monitoring, evaluation, and governance features that make AI adoption
+    safe, reliable, and enterprise-ready
+  - Partner with Applied AI engineers, product managers, and designers to ensure the
+    platform supports real-world use cases
+  - Stay current with advances in agentic AI, orchestration frameworks, and enterprise
+    AI infrastructure
+  use_cases:
+  - Enterprise-grade AI agent platform for secure deployment and management
+  - Internal AI tools and intelligent automation for Okta employees
+  - Secure AI adoption with governance, monitoring, and evaluation features
+  - RAG pipelines and agentic AI systems for enterprise workflows
+  skills:
+    genai: [LangGraph, RAG pipelines, AI agents, orchestration frameworks]
+    ml: []
+    web: [React, Vue, Angular, APIs, microservices]
+    databases: [vector databases]
+    data: []
+    cloud: [ECS, EKS, AWS, GCP, Azure]
+    ops: [distributed systems, monitoring, observability]
+    languages: [Python, Java, Node.js, Go]
+    domains: []
+    other: [enterprise security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7934051'
+  extracted_at: '2026-02-27T11:36:49.718409'

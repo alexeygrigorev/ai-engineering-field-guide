@@ -1,0 +1,47 @@
+company:
+  name: PIMCO
+  stage: Public
+  focus: Global asset management firm
+position:
+  title: AI Developer Enablement Lead
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on enabling developers to adopt AI tools
+      and creating guardrails for AI development, rather than
+      building or training models directly. The position is about
+      operationalizing AI adoption across the software development
+      lifecycle through training, governance, and enablement
+      strategies - supporting others who work with AI rather than
+      working on AI systems directly.
+  responsibilities:
+  - Own the end-to-end enablement strategy for AI for Tech across engineering teams
+  - Help teams adopt and operationalize AI development tools throughout the SDLC
+  - Provide practical training and enablement for developers on AI tools and methodologies
+  - Establish clear guardrails and create lightweight playbooks for AI development
+  - Collaborate with engineering leaders and delivery teams to drive AI adoption
+  - Apply AI tools to software development workflows including testing and monitoring
+  - Ensure enterprise governance standards are met for AI systems implementation
+  use_cases:
+  - AI-assisted software development across the SDLC
+  - AI tools for testing and monitoring applications
+  - AI development tool adoption and operationalization in enterprise
+  - Governance and guardrails for AI systems in financial services
+  - Developer enablement for AI tools and practices
+  - AI workflow integration in enterprise engineering
+  skills:
+    genai: [AI tools for software development]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps tools, AI testing and monitoring]
+    languages: [Software development]
+    domains: []
+    other: [Enterprise AI governance, Training and enablement, AI system guardrails]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8577440'
+  extracted_at: '2026-02-27T11:34:18.845054'

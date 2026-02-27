@@ -1,0 +1,55 @@
+company:
+  name: KKR
+  stage: Public
+  focus: |-
+    Global investment firm offering alternative asset management
+    and capital markets solutions
+position:
+  title: Digital AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deployment of AI/ML
+      systems including end-to-end implementation of data
+      ingestion, feature engineering, model training, evaluation,
+      deployment, and monitoring. The engineer directly works on
+      applying machine learning, deep learning, NLP, or generative
+      AI techniques and productionizes models.
+  responsibilities:
+  - Design, develop, and deploy AI/ML-powered applications and digital platforms in
+    production environments
+  - Implement end-to-end AI systems including data ingestion, feature engineering,
+    model training, evaluation, deployment, and monitoring
+  - Implement scalable APIs, microservices, and event-driven architectures supporting
+    AI workflows
+  - Collaborate with data scientists to productionize models and experiments
+  - Implement MLOps practices including versioning, model lifecycle management, drift
+    detection, and retraining
+  - Lead initiatives spanning strategy, architecture definition, product selection,
+    application and integration design and implementation
+  - Mentor junior engineers and review code and designs
+  - Partner with product managers, business stakeholders, and domain experts to define
+    AI use cases
+  use_cases:
+  - Production-grade AI applications for business process automation
+  - Machine learning and deep learning systems for data-driven insights
+  - NLP-powered solutions for text analysis and processing
+  - Generative AI and LLM applications for content generation and analysis
+  - Event-driven architectures supporting real-time AI workflows
+  - AI-driven solutions for investment and financial services use cases
+  skills:
+    genai: [generative AI, LLMs, prompt engineering]
+    ml: [machine learning, deep learning, NLP]
+    web: [REST APIs, webhooks, event-driven architectures]
+    databases: [databases]
+    data: [data pipelines, distributed systems]
+    cloud: [AWS, Azure]
+    ops: [CI/CD, model monitoring, orchestration, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8360385'
+  extracted_at: '2026-02-27T12:03:45.740472'

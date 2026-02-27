@@ -1,0 +1,56 @@
+company:
+  name: Instrumentl
+  stage: Series B
+  focus: Grant discovery and fundraising automation SaaS platform
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building LLM-powered
+      extraction pipelines, implementing RAG systems, and
+      deploying agentic workflows with tool/function-calling. The
+      engineer directly works on LLM systems, fine-tuning models,
+      and optimizing inference at scale - not just providing
+      infrastructure support.
+  responsibilities:
+  - Build automated content discovery pipelines that acquire grant-related content
+    from foundation websites and RFPs
+  - transforming web content into structured data
+  - Implement LLM extraction pipelines that convert unstructured documents (PDFs,
+    HTML, Word) into canonical business objects using OCR, table extraction, and layout-aware
+    parsing
+  - Design and maintain semantic chunking strategies, embedding model selection, and
+    vector indices that power search and RAG features
+  - Optimize LLM systems for cost and latency at scale through token profiling, caching,
+    batching, and model selection strategies
+  - Implement data quality validation, anomaly detection, and alerting for extraction
+    drift while serving clean data to product teams via APIs and event streams
+  - Integrate and normalize data from external providers by resolving entities and
+    mapping to internal schemas
+  use_cases:
+  - Grant discovery and matching for nonprofit organizations
+  - Automated extraction of structured data from unstructured grant documents and
+    foundation profiles
+  - Enterprise search over grant-related content using vector embeddings and RAG
+  - Data normalization and entity resolution across multiple grant data sources
+  - Content ingestion and processing from web sources at scale
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, Semantic Kernel, RAG, agents, function
+        calling, prompt engineering, embeddings, OpenAI, Anthropic, SFT, LoRA, instruction
+        tuning, Ragas, DeepEval, OpenAI Evals]
+    ml: []
+    web: [FastAPI]
+    databases: [vector databases, pgvector, FAISS, Pinecone, Weaviate, Milvus, Qdrant,
+      SQL, schema design]
+    data: [OCR, data pipelines]
+    cloud: [AWS, GCP]
+    ops: [Celery, Docker, CI/CD, observability]
+    languages: [Python, TypeScript, Node.js, Ruby on Rails]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8473757'
+  extracted_at: '2026-02-27T11:39:43.497984'

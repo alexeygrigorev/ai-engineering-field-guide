@@ -1,0 +1,227 @@
+job_id: 8444921
+title: Senior AI Software Engineer
+company: Monstro
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Docker
+  - Go
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Llama
+  - Mistral
+  - Ml
+  - Python
+company_size: 24 Employees
+description: |
+  About Monstro
+  
+  Monstro is the operating system for governed financial
+  intelligence. We build governance and intelligence
+  infrastructure that enables artificial intelligence to
+  operate safely, explainably, and at institutional scale.
+  
+  We exist because the level of financial guidance
+  historically available to a small group should be accessible
+  to many more people. By combining AI with deep institutional
+  infrastructure, we help financial institutions deliver more
+  personalized, responsible, and life-changing financial
+  support to millions of individuals.
+  
+  We’re building mission-critical systems in a highly
+  regulated domain, and we care deeply about doing it right.
+  If you’re motivated by meaningful problems, high standards,
+  and shaping infrastructure that improves financial outcomes,
+  you’ll feel at home here.
+  
+  About the Role
+  
+  We're looking for a Senior AI Engineer who is, first and
+  foremost, a strong software engineer—someone who writes
+  clean, well-tested, production-grade code and brings the
+  same engineering rigor you'd expect from any senior engineer
+  on our team. On top of that foundation, you'll bring deep
+  expertise in AI systems: building agentic workflows,
+  deploying both commercial and open-source models, and
+  designing intelligent features that work reliably at scale.
+  
+  You'll build the AI-powered capabilities at the core of our
+  platform—systems that can reason, plan, and act on behalf of
+  users while remaining trustworthy, explainable, and aligned
+  with user intent. Because we deploy within our partners'
+  infrastructure, you'll work with both commercial model APIs
+  (such as Anthropic's Claude) and self-hosted open-weight
+  models, choosing the right tool for each use case based on
+  performance, cost, security, and deployment constraints.
+  
+  What You’ll Do
+  
+  Build Production Software
+  
+  Write clean, maintainable, well-tested code. Design APIs,
+  services, and data models with the same rigor expected of
+  any senior engineer. Participate in code reviews, contribute
+  to architecture decisions, and uphold engineering best
+  practices across the codebase. You'll own features end-to-
+  end—from design through deployment and monitoring.
+  
+  Design and Build Agentic AI Systems
+  
+  Design and implement autonomous AI agents with planning,
+  memory, and tool-use capabilities. Build orchestration
+  layers that coordinate multi-step agent workflows, manage
+  conversational context, and handle fallback behaviors
+  gracefully. Integrate both commercial model APIs and self-
+  hosted open-weight models depending on the requirements of
+  each use case.
+  
+  Deploy and Operate AI Models
+  
+  Deploy and manage self-hosted open-weight LLMs within secure
+  cloud environments. Optimize inference performance through
+  quantization, batching strategies, and efficient serving
+  frameworks (vLLM, TGI, or similar). Integrate commercial
+  model APIs (Anthropic, OpenAI, etc.) where appropriate,
+  managing cost, latency, and reliability. Build systems that
+  can operate in environments with limited or no external
+  network access.
+  
+  Build RAG & Knowledge Systems
+  
+  Design retrieval-augmented generation pipelines that ground
+  AI responses in authoritative, up-to-date information.
+  Develop chunking, indexing, and retrieval strategies
+  optimized for financial content. Integrate AI systems with
+  structured knowledge bases and real-time data sources.
+  
+  Ensure AI Quality and Safety
+  
+  Develop evaluation frameworks that measure reliability,
+  consistency, and safety—not just accuracy. Build automated
+  testing pipelines for AI systems, including regression
+  testing, adversarial testing, and edge case detection.
+  Implement guardrails that prevent harmful, biased, or off-
+  topic outputs. Design transparency mechanisms and audit
+  trails that support compliance and debugging.
+  
+  Adapt and Fine-Tune Models
+  
+  Adapt open-weight foundation models for domain-specific
+  tasks using techniques like instruction tuning, LoRA, QLoRA,
+  and parameter-efficient fine-tuning. Implement prompt
+  engineering strategies and evaluate their effectiveness.
+  Optimize model performance for latency, cost, and quality
+  tradeoffs.
+  
+  Monitor and Improve Production AI
+  
+  Implement monitoring for model drift, latency, error rates,
+  and output quality. Design for graceful degradation when
+  models or services underperform. Create feedback loops that
+  surface production issues and drive continuous improvement.
+  Collaborate with Data Engineers and ML Engineers to ensure
+  seamless integration with data pipelines and feature stores.
+  
+  Mentor and Collaborate
+  
+  Mentor junior engineers on AI development and software
+  engineering best practices. Collaborate with product
+  managers and domain experts to translate business needs into
+  AI capabilities. Communicate complex AI concepts clearly to
+  technical and non-technical stakeholders.
+  
+  What We’re Looking For
+  
+  Core Engineering Experience
+  
+  - 7+ years of software engineering experience, with a track
+    record of shipping production systems
+  - Strong proficiency in Python and/or Go, with clean, well-
+    structured code
+  - Solid understanding of software engineering fundamentals:
+    system design, API design, testing, code review, CI/CD,
+    and version control
+  - Experience with containerization (Docker, Kubernetes) and
+    cloud infrastructure
+  - Comfort owning features end-to-end, from design through
+    deployment and observability
+  
+  AI & ML Expertise
+  
+  - 3+ years of hands-on experience building AI/ML-powered
+    features or products
+  - Experience building agentic AI systems—chat interfaces,
+    multi-step workflows, tool-use patterns, and orchestration
+    frameworks (LangChain, LangGraph, or similar)
+  - Working experience with both commercial LLM APIs (Anthropic,
+    OpenAI) and open-weight models (LLaMA, Mistral, Qwen, or
+    similar)
+  - Experience designing and implementing RAG pipelines with
+    vector databases
+  - Strong understanding of prompt engineering and LLM behavior
+    optimization
+  - Familiarity with model serving frameworks (vLLM, TGI,
+    Triton, or similar) and inference optimization techniques
+  - Experience with model adaptation techniques (LoRA, QLoRA,
+    PEFT, instruction tuning)
+  - Experience building evaluation and testing frameworks for AI
+    systems
+  
+  Mindset & Approach
+  
+  - A problem solver at heart—you dig into complex problems,
+    explore options, and find practical solutions rather than
+    waiting for direction
+  - Proactive and self-driven; you identify opportunities and
+    risks before they become blockers
+  - Innovative and curious; you keep up with a fast-moving field
+    and bring new ideas to the team
+  - Passionate about building AI systems that are both powerful
+    and trustworthy
+  - Excellent communicator who can explain AI behavior and
+    limitations clearly to any audience
+  
+  Why Monstro?
+  
+  - Ownership & Impact: Shape the future of AI-powered
+    finance—building a category-defining product used by
+    consumers and institutions around the world.
+  - Elite Team: Join a team with leadership that has a track
+    record of scaling companies from early stage to major
+    exits.
+  - Principles-Driven Culture: Work in a culture that values
+    speed, ownership, and impact—what most companies achieve
+    in 90 days, we do in 45.
+  - Comprehensive Compensation Package: Competitive salary,
+    equity, and robust benefits package, including paid
+    health, vision, dental, and disability coverage.
+  
+  Note: This role will be hybrid in office for those in the
+  NYC metro or remote for those in the Denver metro area (but
+  with the expectation of periodic travel to our NYC office)
+  
+  Base Compensation Range (New York City): $189,000 - $235,000
+  Base Compensation Range (Denver Metro): $166,000 - $207,000
+  
+  *The posted range reflects the base salary for this role
+  across the market ranges for each location. Final
+  compensation will depend on a variety of factors, including
+  experience, skills, internal leveling, and market
+  conditions, and will be offered within the stated range in
+  accordance with applicable pay transparency laws.
+  
+  Ready to Build With Us?
+  
+  If you’re excited to contribute to a high-bar team building
+  something meaningful, we love to hear from you!
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Business Intelligence
+  - Financial Services
+posted_date: 2026-02-09
+url: "https://builtin.com/job/senior-ai-engineer/8444921"
+source: Built In

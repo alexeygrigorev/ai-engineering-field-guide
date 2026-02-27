@@ -1,0 +1,58 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Principal Engineer - Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a Principal Engineer position focused
+      on data architecture, distributed systems, and technical
+      leadership. While the job mentions "Gen AI" and desired
+      experience with AI/GenAI solutions, the core
+      responsibilities revolve around advising leadership,
+      defining engineering standards, and building data pipelines.
+      The AI experience is described as supporting design and
+      development rather than hands-on model building, training,
+      or deployment, which characterizes this as an ai-support
+      role.
+  responsibilities:
+  - Act as advisor to leadership to develop or influence applications, network, information
+    security, database, operating systems, or web technologies for complex business
+    needs
+  - Lead strategy and resolution of highly complex challenges requiring in-depth evaluation
+    across multiple areas of the enterprise
+  - Translate advanced technology experience and knowledge of business objectives
+    into technical engineering solutions
+  - Provide vision, direction and expertise to leadership on implementing innovative
+    business solutions
+  - Maintain knowledge of industry best practices and new technologies and recommend
+    innovations that enhance operations
+  - Strategically engage with all levels of professionals and managers across the
+    enterprise as expert advisor
+  use_cases:
+  - Distributed data pipeline architecture for large-scale analytics and enterprise
+    data needs
+  - AI and GenAI solution design and development for enterprise applications
+  - Agentic automation solutions for business process optimization
+  - Microservices architecture design for scalable enterprise applications
+  - Data engineering infrastructure supporting batch and streaming workflows
+  skills:
+    genai: [AI/GenAI, Agentic automation]
+    ml: []
+    web: [Spring Boot, Microservices, APIs]
+    databases: []
+    data: [Apache Flink, Apache Spark, Distributed systems design, Data pipelines,
+      Streaming workflows, Batch workflows, Data Architecture, Data Engineering]
+    cloud: []
+    ops: [Monitoring, Alerting, Incident management]
+    languages: []
+    domains: []
+    other: [Engineering standards, Reference architectures, Technical leadership,
+      Design reviews, Scalability, Fault tolerance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8499737'
+  extracted_at: '2026-02-27T12:09:52.258445'

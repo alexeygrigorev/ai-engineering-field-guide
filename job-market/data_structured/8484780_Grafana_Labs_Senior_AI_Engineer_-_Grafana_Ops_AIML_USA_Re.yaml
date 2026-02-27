@@ -1,0 +1,51 @@
+company:
+  name: Grafana Labs
+  stage: Series B+
+  focus: Observability and monitoring platform
+position:
+  title: Senior AI Engineer - Grafana Ops, AI/ML | USA | Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI solutions with
+      LLMs and AI agents for incident management and
+      observability. The engineer will prototype, test, and ship
+      LLM-powered workflows and agent-based features, which is
+      direct work on AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Build and deliver high-performance AI features for incident detection, triage,
+    and resolution using observability data
+  - Implement rapid prototyping and iteration of LLM- or agent-powered workflows for
+    incident lifecycle management
+  - Collaborate cross-functionally with data analysts, product managers, and designers
+    to shape AI-driven product features
+  - Integrate agentic components with internal tools, alerting systems, runbooks,
+    and developer workflows
+  - Take full ownership of AI solutions ensuring they are scalable, maintainable,
+    and aligned with real user workflows
+  - Utilize AI and automation tools to enhance product functionality and development
+    workflows
+  use_cases:
+  - Automated incident detection and triage using observability data
+  - AI-powered incident response and automated analysis tasks
+  - AI agents for incident lifecycle management across the observability stack
+  - Integration of agentic components with alerting systems and runbooks
+  - Reduction of toil and domain expertise barriers through AI-driven automation
+  skills:
+    genai: [LLMs, prompt engineering, GenAI applications, agent frameworks, multi-agent
+        workflows]
+    ml: [model fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, Terraform]
+    languages: []
+    domains: []
+    other: [observability tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8484780'
+  extracted_at: '2026-02-27T11:35:16.975522'

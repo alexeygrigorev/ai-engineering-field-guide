@@ -1,0 +1,52 @@
+company:
+  name: OpenGov
+  stage: Series C+
+  focus: AI and ERP solutions for government
+position:
+  title: Staff AI Application and Cloud Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building applications and
+      infrastructure that support AI workflows rather than working
+      directly on models. The position involves containerizing
+      applications, deploying AI capabilities built by other
+      teams, and creating front-end interfaces and APIs that
+      expose RAG pipelines and agent workflows developed by AI
+      Platform engineers.
+  responsibilities:
+  - Design, architect, and develop internal AI-powered applications using React or
+    Streamlit
+  - Build backend services and APIs using FastAPI or Flask to support AI-driven workflows
+  - Containerize and deploy applications using Snowflake Snowpark Container Services
+  - Design and maintain CI/CD pipelines using GitHub Actions
+  - Implement authentication, authorization, and secure access patterns across internal
+    tools
+  - Integrate AI workflows into enterprise platforms such as Slack and Salesforce
+  - Partner with AI Platform engineers to expose RAG pipelines and agent workflows
+    through scalable APIs
+  - Implement logging, monitoring, and observability best practices across deployed
+    applications
+  use_cases:
+  - Internal AI-powered copilots and productivity tools
+  - Enterprise search and knowledge retrieval through RAG pipelines
+  - AI-driven workflow automation for government operations
+  - Slack-integrated AI assistants for enterprise teams
+  - Multi-component AI applications with frontend, backend, and orchestration services
+  skills:
+    genai: [RAG, Agent workflows]
+    ml: []
+    web: [React, Streamlit, FastAPI, Flask, Node.js]
+    databases: []
+    data: []
+    cloud: [Snowflake Snowpark Container Services]
+    ops: [Docker, GitHub Actions, Git, CI/CD, Authentication, Authorization, Logging,
+      Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [Slack, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8592422'
+  extracted_at: '2026-02-27T11:27:56.844226'

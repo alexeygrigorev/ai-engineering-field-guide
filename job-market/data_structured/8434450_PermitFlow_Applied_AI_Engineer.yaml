@@ -1,0 +1,47 @@
+company:
+  name: PermitFlow
+  stage: Series B
+  focus: AI-powered construction permitting and compliance platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, deploying, and optimizing AI
+      agents for permitting workflows, owning the full lifecycle
+      from model development to orchestration and
+      productionization. The engineer works directly on multi-step
+      AI systems and agentic workflows, not just supporting
+      infrastructure for AI teams.
+  responsibilities:
+  - Develop and deploy AI agents that automate permitting workflows end-to-end
+  - Orchestrate multiple models and tools to create reliable, multi-step AI systems
+  - Build internal tools and infrastructure that power and monitor AI agents
+  - Design and implement backend and frontend services, APIs, and data pipelines with
+    AI integration
+  - Design and maintain evaluations and benchmarks to measure agent accuracy, reliability,
+    and cost-effectiveness
+  - Optimize inference pipelines and backend systems for speed, scalability, and cost
+  use_cases:
+  - Automate construction permitting and licensing workflows
+  - Navigate inspections and project closeouts for construction companies
+  - Reduce compliance time and de-risk construction projects
+  - Accelerate housing, clean-energy, and infrastructure development
+  - Support data center, factory, housing, and renewable energy projects in capex
+    supercycle
+  skills:
+    genai: [AI agents, Agentic workflows]
+    ml: [Multi-step ML systems]
+    web: [Backend development, API development, Frontend development]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Inference optimization, Evaluations and benchmarks]
+    languages: []
+    domains: []
+    other: [System architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8434450'
+  extracted_at: '2026-02-27T12:07:10.716825'

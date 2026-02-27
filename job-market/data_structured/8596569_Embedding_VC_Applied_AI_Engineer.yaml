@@ -1,0 +1,46 @@
+company:
+  name: Embedding VC
+  stage: Seed
+  focus: AI-powered creative tools and canvas for professionals
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role focused on building agentic
+      systems, multi-step pipelines, and tool-using agents. The
+      engineer will architect and deploy AI systems that
+      orchestrate text, image, and video models directly for end-
+      users.
+  responsibilities:
+  - Architect and build the agentic systems powering FLORA
+  - Design and implement the intelligence layer with multi-modal creative workflows
+  - Build agentic features that integrate text, image, and video models
+  - Implement evaluation frameworks including automated checks and human-in-the-loop
+    scoring
+  - Develop memory and retrieval systems using vector databases and embeddings
+  - Create orchestration logic across models, APIs, and tools with retries and fallbacks
+  - Collaborate across frontend, backend, and infrastructure to ship AI features
+  use_cases:
+  - Generative AI canvas for creative professionals
+  - Multi-modal creative workflows orchestrating text, image, and video models
+  - Agentic systems that enable creatives to speak ideas into existence
+  - Node-based interfaces for AI-powered creative tools
+  - Enterprise creative workflows for brands and agencies
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, RAG, agents,
+      function calling, prompt engineering, context management, multi-modal workflows]
+    ml: []
+    web: [REST APIs, React]
+    databases: [Pinecone, Weaviate, Chroma, pgvector, embeddings]
+    data: []
+    cloud: []
+    ops: [evaluation frameworks, human-in-the-loop, regression testing]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596569'
+  extracted_at: '2026-02-27T11:39:25.437316'

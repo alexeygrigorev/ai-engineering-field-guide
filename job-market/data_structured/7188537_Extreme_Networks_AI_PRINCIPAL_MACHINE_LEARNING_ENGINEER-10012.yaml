@@ -1,0 +1,54 @@
+company:
+  name: Extreme Networks
+  stage: Public
+  focus: |-
+    Cloud-driven networking solutions with AI-powered network
+    management
+position:
+  title: AI PRINCIPAL MACHINE LEARNING ENGINEER-10012
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying
+      Generative AI solutions including RAG, AI Agents, and LLM
+      fine-tuning at scale. The responsibilities explicitly
+      include architecting production-grade ML platforms and
+      frameworks for next-generation real-time ML and Generative
+      AI systems, directly working on AI/ML systems rather than
+      supporting infrastructure.
+  responsibilities:
+  - Serve as a thought leader and forward thinker, setting the technical vision and
+    driving innovation across products and platforms
+  - Own and guide the full software development lifecycle at scale, including architecture,
+    design, testing, deployment, and operations
+  - Architect and deliver high-performance, production-grade ML platforms and frameworks,
+    enabling next-generation real-time ML and Generative AI systems
+  - Partner with senior engineers, scientists, and cross-functional leaders to accelerate
+    experimentation, validation, and model integration
+  - Shape long-term strategy by designing and launching strategic ML solutions that
+    deliver company-wide impact
+  - Lead technical discussions, define best practices, and ensure engineering rigor
+    through design and code reviews
+  use_cases:
+  - AI-driven network management and monitoring
+  - Real-time anomaly detection for network operations
+  - Intelligent multi-agent systems that perceive, learn, and act on network data
+    in real time
+  - Knowledge base management and retrieval for network troubleshooting
+  - Generative AI-powered network assistance and automation
+  skills:
+    genai: [RAG, AI Agents, LLM fine-tuning, Graph RAG]
+    ml: [Graph ML, GNNs, Anomaly Detection]
+    web: []
+    databases: []
+    data: [PySpark, Spark, Flink, Kafka, Lakehouse, Druid, Hudi, Glue, Data Mining]
+    cloud: [AWS, Azure, GCP, Cloud Computing]
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7188537'
+  extracted_at: '2026-02-27T11:44:58.314844'

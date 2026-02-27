@@ -1,0 +1,53 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Grid software and electrification for power utilities
+position:
+  title: Principal Engineer – AI and Data Science
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily focused on building data
+      infrastructure (data fabric, database systems, semantic
+      modeling, knowledge graphs) that enables AI applications
+      rather than directly building AI models themselves. While
+      the role involves shaping AI strategy and working with ML/DL
+      technologies, the core technical work is on distributed data
+      systems, database architecture, and data integration layers
+      that support AI workloads rather than training, fine-tuning,
+      or deploying models.
+  responsibilities:
+  - Design and build next generation data fabric system with semantic modeling, data
+    catalog development, and data access layers
+  - Drive innovation in database systems focusing on performance, correctness, durability,
+    and scalability using AI technologies
+  - Develop high performance distributed systems with key database concepts like concurrency
+    control, consensus algorithms, replication, and view maintenance
+  - Implement AI technologies including Text Mining, Machine Learning, and Deep Learning
+    to improve product capabilities
+  - Provide technical leadership and architectural guidance while shaping AI strategy
+    for Grid Software business
+  - Lead development of semantic modeling and knowledge graph technologies to enable
+    AI-based applications
+  use_cases:
+  - Grid software for power utilities serving 40% of the world
+  - Data fabric for next generation power grid management
+  - Semantic data modeling for power transmission and distribution applications
+  - Knowledge graph-based applications for energy grid operations
+  - AI-based applications for distribution and transmission grid management
+  skills:
+    genai: []
+    ml: [Text Mining, Machine Learning, Deep Learning]
+    web: []
+    databases: [Knowledge Graphs, Database Systems]
+    data: [Semantic Modeling, Data Fabric, Data Catalog, Data Integration]
+    cloud: [Distributed Systems, Consensus Algorithms]
+    ops: [Concurrency Control]
+    languages: [C#, C++, Java, Kotlin, Rust, Scala]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7254469'
+  extracted_at: '2026-02-27T12:09:59.065256'

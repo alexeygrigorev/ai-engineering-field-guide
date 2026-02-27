@@ -1,0 +1,49 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: Outsourced digital services and customer experience
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building AI/ML solutions
+      using NLP, NLU, LLMs, and Generative AI technologies. The
+      responsibilities include fine-tuning models, implementing
+      RAG with vector databases, developing agentic frameworks
+      with LangChain, and deploying AI systems to production - all
+      direct AI engineering work.
+  responsibilities:
+  - Lead architecture and development of advanced AI/ML solutions
+  - Define and implement end-to-end AI pipelines from data to deployment and monitoring
+  - Establish AI engineering standards, best practices, and governance
+  - Mentor AI/ML engineers and enforce code quality and technical excellence
+  - Collaborate with product and business teams to translate requirements into AI
+    solutions
+  - Optimize models for performance, scalability, and production reliability
+  - Evaluate and adopt new AI tools, frameworks, and technologies
+  - Own delivery timelines, risk management, and quality standards
+  use_cases:
+  - Agentic AI systems with multi-agent orchestration
+  - RAG-based enterprise search and knowledge retrieval
+  - LLM-powered natural language understanding applications
+  - Generative AI solutions for customer experience automation
+  - NLP systems for content processing and analysis
+  skills:
+    genai: [LangChain, Prompt Engineering, RAG, Fine-tuning, LoRA, PEFT, Guardrails,
+      Multi-agent systems]
+    ml: [Embeddings, CUDA]
+    web: [FastAPI]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, AWS SageMaker, AWS S3, AWS Lambda, AWS ECS, AWS EKS, AWS Secrets
+        Manager]
+    ops: [Docker, Jenkins, GitHub Actions, CI/CD, MLOps]
+    languages: [Python]
+    domains: [NLP, NLU]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8513705'
+  extracted_at: '2026-02-27T11:28:08.671736'

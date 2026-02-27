@@ -1,0 +1,51 @@
+company:
+  name: Electrolux
+  stage: Public
+  focus: Global home appliances and consumer electronics
+position:
+  title: Engineer – Marketing Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      monitoring AI models for consumer engagement applications
+      including audience segmentation, propensity scoring, and
+      content recommendations. The engineer directly develops AI-
+      driven solutions and improves models through testing and
+      tuning, which qualifies as working directly on AI/ML systems
+      rather than supporting infrastructure.
+  responsibilities:
+  - Design and develop AI-driven solutions for Consumer Engagement platforms, including
+    CDPs, Marketing Automation, Personalization or Experience Management
+  - Deliver prototypes, proofs of concept (PoCs), and production-grade implementations
+    for audience segmentation, propensity scoring, content recommendations, and predictive
+    analytics
+  - Monitor and improve AI models through testing, tuning, and feedback loops
+  - Contribute to AI architecture decisions and align solutions with enterprise standards
+    and cloud infrastructure
+  - Translate business needs into scalable AI models that empower marketing and CX
+    stakeholders
+  use_cases:
+  - Audience segmentation and targeting for marketing campaigns
+  - Propensity scoring for predicting customer behavior and purchase likelihood
+  - Content recommendations for personalized consumer experiences
+  - Predictive analytics for marketing and customer engagement optimization
+  - Consumer Data Platform (CDP) integration with AI-powered insights
+  - Personalization across pre-purchase and post-purchase customer journeys
+  skills:
+    genai: []
+    ml: [Data Science, Audience segmentation, Propensity scoring, Content recommendations,
+      Predictive analytics]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [Cloud-native application design]
+    ops: [AI model monitoring and tuning]
+    languages: [Python, JavaScript, Node.js]
+    domains: [NLP]
+    other: [Agile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8275671'
+  extracted_at: '2026-02-27T12:08:16.121633'

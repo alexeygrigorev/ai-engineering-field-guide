@@ -1,0 +1,46 @@
+company:
+  name: Rightway
+  stage: Series B+
+  focus: Healthcare navigation and benefits management platform
+position:
+  title: Sr. Full Stack Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineer role focused on integrating AI
+      features into a healthcare platform, not building or
+      training AI models. The role involves architecting full-
+      stack solutions and transforming AI concepts into
+      production-ready applications, but does not include hands-on
+      work with model development, training, or fine-tuning.
+  responsibilities:
+  - Pioneer AI-driven solutions that enhance care navigation and PBM services
+  - Lead rapid prototyping cycles to transform concepts into production features
+  - Architect and implement full-stack solutions using modern tech stack
+  - Drive technical decisions independently while collaborating with cross-functional
+    teams
+  - Build and maintain scalable production-grade systems handling healthcare data
+  - Establish technical standards and best practices for AI integration
+  - Mentor team members and contribute to engineering culture
+  use_cases:
+  - Healthcare care navigation and guidance
+  - Pharmacy benefits management (PBM) services
+  - Member healthcare decision support
+  - Healthcare cost optimization and guidance
+  - Clinical and pharmacist consultation integration
+  skills:
+    genai: [AI/ML feature integration, LLM optimization, Prompt engineering]
+    ml: []
+    web: [Node.js, React, GraphQL, Full-stack development]
+    databases: [Postgres]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Ruby]
+    domains: []
+    other: [HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8551621'
+  extracted_at: '2026-02-27T11:36:55.792516'

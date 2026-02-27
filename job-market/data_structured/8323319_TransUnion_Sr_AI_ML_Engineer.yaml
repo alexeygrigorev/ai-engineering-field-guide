@@ -1,0 +1,56 @@
+company:
+  name: TransUnion
+  stage: Public
+  focus: Credit reporting and data analytics
+position:
+  title: Sr AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building LLM applications,
+      RAG pipelines, and AI systems including fine-tuning,
+      deployment, and optimization of models. The engineer will
+      directly work with GenAI frameworks (LangChain, LangGraph,
+      LangChain4j), vector databases, and implement agentic AI
+      workflows - all core AI engineering tasks rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Lead the design and delivery of enterprise-scale AI/GenAI solutions including
+    LLM apps and RAG pipelines
+  - Architect end-to-end AI platforms integrating LLMs, RAG, streaming, vector search,
+    and CI/CD using Python and Java microservices
+  - Lead LLM fine-tuning, evaluation, and deployment with optimized retrieval pipelines
+    using various vector stores
+  - Build LangChain4j pipelines for prompts, tools, and agents interoperable with
+    Python-hosted model endpoints
+  - Guide deployments on cloud platforms using Docker, Kubernetes, Helm, and managed
+    ML services
+  - Define architecture standards, patterns, and best practices while mentoring engineers
+    and architects
+  use_cases:
+  - Enterprise-scale LLM applications and conversational AI systems
+  - RAG-based knowledge retrieval and semantic search solutions
+  - Real-time AI processing with streaming and event-driven architectures
+  - Agentic AI workflows with tools and function calling
+  - Cloud-native ML services and model deployment platforms
+  skills:
+    genai: [LangChain, LangGraph, LangChain4j, RAG, CrewAI, AutoGen, Semantic Kernel,
+      Spring AI, MCP, LlamaIndex, LLM fine-tuning, Prompt engineering, Agents, Function
+        calling]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, DJL, ONNX Runtime,
+      MLlib]
+    web: [FastAPI, Flask, REST, gRPC, Spring Boot, Quarkus, Micronaut, Vert.x, Netty]
+    databases: [PostgreSQL, MongoDB, Cassandra, Redis, Elasticsearch, OpenSearch,
+      pgvector, Pinecone, Weaviate, Milvus, Qdrant, Chroma]
+    data: [Spark, Databricks, Kafka]
+    cloud: [AWS, GCP, Azure, Vertex AI, SageMaker, Azure ML]
+    ops: [MLflow, DVC, Docker, Kubernetes, Helm, KServe, Seldon Core, CI/CD, Terraform,
+      OpenTelemetry, vLLM, Ray Serve, Langfuse, TruLens, Istio, Linkerd]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8323319'
+  extracted_at: '2026-02-27T11:41:49.598257'

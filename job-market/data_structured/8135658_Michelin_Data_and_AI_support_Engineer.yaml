@@ -1,0 +1,52 @@
+company:
+  name: Michelin
+  stage: Public
+  focus: Global tire manufacturer and mobility solutions
+position:
+  title: Data and AI support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a support engineer role focused on maintaining and
+      troubleshooting Azure-based data and AI infrastructure
+      applications. The position involves supporting existing
+      applications, data pipelines, and systems rather than
+      building, training, or deploying AI/ML models directly.
+      Knowledge of LLM, Vector DB, and RAG is listed as a plus but
+      not a primary responsibility, indicating support work rather
+      than hands-on model development.
+  responsibilities:
+  - Provide technical support and troubleshooting for Azure-based applications and
+    data pipelines
+  - Contribute to feasibility analysis, functional design, and solution validation
+    for data systems
+  - Build and deploy data collection infrastructure including IoT sensors and databases
+  - Monitor and analyze system performance, security, and production incidents
+  - Support API-based applications and Python web applications hosted on Azure
+  - Perform impact analysis related to data collection, system performance, and security
+  - Document implemented solutions and maintain data security and confidentiality
+    rules
+  use_cases:
+  - Data collection and infrastructure for IoT sensors and connected objects
+  - Support for Azure-based data pipelines and data warehouse applications
+  - Application performance monitoring and incident management
+  - Power BI reporting and business intelligence dashboards
+  - Data application support using Databricks, PySpark, and Azure Data Factory
+  skills:
+    genai: [LLM, RAG architecture]
+    ml: []
+    web: []
+    databases: [Cosmos DB, Vector DB]
+    data: [Databricks, PySpark, Azure Data Factory, Power BI]
+    cloud: [Microsoft Azure, Azure Kubernetes Service, Azure App Services, Azure Storage
+        Accounts, Azure Virtual Networks, Azure Active Directory, Azure Python SDK,
+      Azure Key Vault, Azure Logic Apps]
+    ops: [Azure Monitor]
+    languages: [Python, PowerShell, Bash, SQL]
+    domains: []
+    other: [TCP/IP, DNS, IoT]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8135658'
+  extracted_at: '2026-02-27T11:48:41.295168'

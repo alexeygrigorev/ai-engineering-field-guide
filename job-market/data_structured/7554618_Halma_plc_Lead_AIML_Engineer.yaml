@@ -1,0 +1,45 @@
+company:
+  name: Halma plc
+  stage: Public
+  focus: Safety, environmental, and medical technology solutions
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building, integrating, and optimizing AI/ML
+      models into production web applications. Hands-on work with
+      TensorFlow, PyTorch, and model deployment, not just
+      infrastructure or support functions.
+  responsibilities:
+  - Lead the development and integration of AI/ML models into web applications
+  - Architect and optimize AI-driven web solutions using TensorFlow, PyTorch, and
+    Scikit-learn
+  - Oversee the deployment of AI models using cloud services like AWS, Azure, and
+    Google Cloud
+  - Collaborate with cross-functional teams to define AI strategies and implementation
+  - Guide the development of scalable web applications using Angular, C#, and NestJS
+  - Optimize AI models for performance, accuracy, and scalability
+  - Mentor junior engineers and foster a culture of innovation
+  use_cases:
+  - AI-powered web applications
+  - Model deployment in production environments
+  - Scalable web application development
+  - Large dataset processing
+  - AI model optimization for production
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn]
+    web: [Angular, NestJS, RESTful APIs]
+    databases: [Database management]
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [MLOps]
+    languages: [Python, JavaScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7554618'
+  extracted_at: '2026-02-27T11:50:19.437258'

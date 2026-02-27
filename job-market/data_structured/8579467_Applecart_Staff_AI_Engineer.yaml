@@ -1,0 +1,54 @@
+company:
+  name: Applecart
+  stage: Series C
+  focus: |-
+    Technology platform for reaching business-critical decision
+    makers
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI systems - leading design
+      of end-to-end AI solutions using foundation models, multi-
+      agent orchestration, and RAG pipelines. The engineer will
+      architect agentic ecosystems and implement efficient RAG
+      architectures, directly working with models and agents
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Lead the design of end-to-end AI solutions using foundation models, multi-agent
+    orchestration (MAS), and RAG pipelines
+  - Identify systemic risks and infrastructure bottlenecks before they impact production
+    and ensure reliability, availability, and scalability of data pipelines and systems
+  - Mentor other engineers and provide design feedback that builds a culture of technical
+    excellence
+  - Implement efficient Retrieval-Augmented Generation (RAG) architectures and integrate
+    with enterprise data infrastructure
+  - Stay up to date with industry advancements in GenAI and apply modern technologies
+    and methodologies to systems
+  - Work closely with the data infrastructure team to build a unified data management
+    and processing platform
+  use_cases:
+  - Mapping billions of social relationships between American adults to identify key
+    stakeholders
+  - Enabling clients to deliver content directly to business-critical decision makers
+    and their trusted networks
+  - Identity resolution and data product development for the Identity team
+  - Building agentic ecosystems to handle next phase of platform growth
+  skills:
+    genai: [Agentic frameworks, LangGraph, CrewAI, AutoGen, RAG, Prompt/Context Engineering,
+      Foundation models, Multi-agent orchestration]
+    ml: [Deep Learning, NLP, GNNs]
+    web: [API design]
+    databases: [Vector Search, Neo4, PuppyGraph]
+    data: [Apache Spark, Unity Catalog, Iceberg, Dagster, Kafka, Snowflake, Databricks]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8579467'
+  extracted_at: '2026-02-27T11:34:47.897785'

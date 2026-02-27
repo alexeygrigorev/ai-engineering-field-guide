@@ -1,0 +1,44 @@
+company:
+  name: Cribl
+  stage: null
+  focus: Data engine for IT and Security observability data
+position:
+  title: Staff Software Engineer, Cribl AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the engineer will work directly
+      on building, fine-tuning, and deploying Generative AI/LLM
+      features. The responsibilities include prompt engineering,
+      working with inference platforms, and integrating AI
+      technologies into core products - hands-on model work rather
+      than supporting infrastructure.
+  responsibilities:
+  - Prototype and experiment with new AI features across backend, frontend, and ML
+    models
+  - Productionize, launch, and operate AI-based technology integrations into Cribl's
+    core products
+  - Work closely with fine-tuning models, prompt engineering, and inference platforms
+  - Stay up-to-date with the latest AI technologies and trends
+  - Collaborate with development partners and stakeholders to design and deliver AI-powered
+    products
+  use_cases:
+  - Search and analytics of observability data
+  - Solving real customer problems through AI-based technology integrations
+  - Generative AI-powered features for IT and Security data engine
+  skills:
+    genai: [prompt engineering, LLMs]
+    ml: [fine-tuning]
+    web: [React, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML Ops, inference platforms]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8258879'
+  extracted_at: '2026-02-27T11:34:54.455387'

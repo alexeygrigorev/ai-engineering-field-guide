@@ -1,0 +1,48 @@
+company:
+  name: Rocket Money
+  stage: Public
+  focus: Personal finance management app
+position:
+  title: Senior Full Stack Engineer, AI & Data Products
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role that implements
+      AI/LLM/ML tools built by ML engineers, with the option to
+      contribute to model building. The primary responsibility is
+      shipping full-stack user-facing features that integrate AI
+      capabilities, not directly building or training models.
+  responsibilities:
+  - Implement full-stack user-facing features working cross-functionally with software
+    engineers, ML engineers, and product managers
+  - Implement AI/LLM/ML tools built by ML engineers with optional contribution to
+    model building
+  - Develop backend features using TypeScript, Node.js, GraphQL, and PostgreSQL, and
+    build user interfaces with React
+  - Own complex features end-to-end from design through production deployment with
+    proper engineering rigor
+  - Maintain high technical bar through code reviews and design discussions
+  - Support collaborative culture by sharing ideas via RFCs and participating in solution
+    ideation
+  use_cases:
+  - Data- and AI-driven experiences for personal finance
+  - Financial data analysis and insights for millions of users
+  - ML-powered features to improve users' financial lives
+  - Complex personal finance data handling with many edge cases
+  - User-facing financial management tools and services
+  skills:
+    genai: [AI/LLM/ML tools integration]
+    ml: [ML model training/tuning]
+    web: [Node.js, GraphQL, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8541334'
+  extracted_at: '2026-02-27T12:03:59.068496'

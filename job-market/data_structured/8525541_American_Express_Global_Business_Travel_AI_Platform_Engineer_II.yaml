@@ -1,0 +1,52 @@
+company:
+  name: American Express Global Business Travel
+  stage: Series C
+  focus: Corporate travel management platform
+position:
+  title: AI Platform Engineer II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an AI Platform Engineer focused on building
+      infrastructure and platforms that support AI/ML
+      applications. The job emphasizes data integration, platform
+      development, cloud infrastructure (AWS, Kubernetes), and
+      enabling data products for data scientists and ML teams,
+      rather than directly building, training, or fine-tuning
+      models. While knowledge of LLM/RAG is mentioned as a "basic"
+      nice-to-have, the core work involves architecting scalable
+      systems and platforms to enable AI work for others.
+  responsibilities:
+  - Partner with technologists across the business to collaboratively solve complex
+    problems
+  - Architect design solution patterns considering business and application needs
+  - Develop scalable, resilient, and stable software design and coding methodologies
+  - Build data products to support batch and real-time DS, AI/ML and Deep learning
+    applications
+  - Lead collaboration with key partners and contribute subject matter expertise
+  - Design and execute architecture for moderately sophisticated data products
+  - Guide others in designing testable and observable software systems
+  - Provide mentorship and identify rising talent across the organization
+  use_cases:
+  - Data integration supporting customers and internal business areas
+  - Business intelligence, reporting, and analytics
+  - Batch and real-time data science and machine learning applications
+  - Deep learning model support infrastructure
+  - AI/ML model serving platforms
+  - RAG and agentic AI system infrastructure
+  skills:
+    genai: [LLM, RAG, Agentic AI, guardrails]
+    ml: [feature store]
+    web: [API design]
+    databases: []
+    data: [data modeling, schema design, data lakes, streaming data]
+    cloud: [AWS, SageMaker]
+    ops: [Kubernetes, testing, monitoring, observability]
+    languages: [Java, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8525541'
+  extracted_at: '2026-02-27T12:07:58.132740'

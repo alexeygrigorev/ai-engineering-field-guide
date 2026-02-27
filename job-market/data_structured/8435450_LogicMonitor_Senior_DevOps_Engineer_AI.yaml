@@ -1,0 +1,56 @@
+company:
+  name: LogicMonitor
+  stage: Public
+  focus: AI-first hybrid observability platform
+position:
+  title: Senior DevOps Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps Engineer role focused on infrastructure and
+      platform support for an AI team. The responsibilities
+      involve deploying and managing infrastructure, CI/CD
+      pipelines, and observability for AI/LLM solutions, but not
+      building, training, or fine-tuning models directly. The role
+      enables the AI/ML work of others by providing the underlying
+      cloud infrastructure, automation, and deployment systems.
+  responsibilities:
+  - Expand and manage application hosting across AWS and Google Cloud, ensuring performance,
+    flexibility, and resilience
+  - Develop and maintain Terraform or similar IaC installers for Azure and GCP to
+    fully automate infrastructure deployments
+  - Design and implement AWS cost optimization strategies including reserved instances,
+    right-sizing, and resource efficiency initiatives
+  - Strengthen infrastructure security with robust access controls, encryption, monitoring,
+    and alerting frameworks
+  - Build and enhance monitoring platforms with Grafana dashboards and Prometheus
+    alerts for real-time performance insights
+  - Implement Role-Based Access Control (RBAC) and optimize Ingress controllers for
+    enhanced security and delivery resilience
+  - Create Python and Bash scripts to automate repetitive tasks, streamline workflows,
+    and improve operational efficiency
+  - Deploy and manage LLM-related solutions requiring MCP, LangFuse, Airflow, GraphDB,
+    VectorDB, and Redis
+  use_cases:
+  - Hybrid observability platform for digital infrastructure monitoring
+  - Real-time performance insights and proactive issue resolution for IT infrastructure
+  - LLM solution deployment and infrastructure support
+  - Internal self-hosted AI services management
+  - Multi-cloud infrastructure orchestration and optimization
+  skills:
+    genai: [LangFuse, MCP]
+    ml: []
+    web: []
+    databases: [GraphDB, VectorDB, Redis]
+    data: [Airflow]
+    cloud: [AWS, Google Cloud Platform, Azure, VPC, Cloud security]
+    ops: [Terraform, Kubernetes, EKS, Grafana, Prometheus, Traefik, CI/CD, Teleport,
+      Ingress controllers, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435450'
+  extracted_at: '2026-02-27T11:47:03.519232'

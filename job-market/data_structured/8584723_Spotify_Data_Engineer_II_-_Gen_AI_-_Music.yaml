@@ -1,0 +1,46 @@
+company:
+  name: Spotify
+  stage: Public
+  focus: Audio streaming and music platform
+position:
+  title: Data Engineer II - Gen AI - Music
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building large-
+      scale data pipelines and infrastructure to support
+      generative AI products. The engineer is not building,
+      training, or deploying models, but rather creating the data
+      processing frameworks and systems that enable the AI team to
+      work with data at scale.
+  responsibilities:
+  - Build and maintain large-scale data pipelines with data processing frameworks
+    like Scio on Google Cloud Platform
+  - Leverage data engineering standard processes in continuous integration and delivery
+  - Help drive optimization, testing and tooling to improve data quality and reliability
+  - Collaborate with engineers, product managers, domain experts, and partners while
+    taking on learning and leadership opportunities
+  - Work in multi-functional, agile teams to continuously experiment, iterate, and
+    deliver on new product objectives
+  use_cases:
+  - Generative music creation tools for artists and fans
+  - AI-powered listening experiences that celebrate artists and creatives
+  - Artist-fan connection tools using generative AI
+  - Fair compensation systems for rightsholders and artists using AI
+  - Participatory AI platforms where artists choose how their work is used
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [Apache Spark, Scio, Dataflow, data modeling, ETL, distributed systems]
+    cloud: [Google Cloud Platform]
+    ops: [CI/CD]
+    languages: [Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8584723'
+  extracted_at: '2026-02-27T11:31:36.528559'

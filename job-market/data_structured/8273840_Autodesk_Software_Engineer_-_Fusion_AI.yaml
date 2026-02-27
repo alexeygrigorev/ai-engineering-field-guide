@@ -1,0 +1,51 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: 3D design, engineering, and entertainment software
+position:
+  title: Software Engineer - Fusion AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is for a Software Engineer working on AI/ML
+      features in Fusion 360, but the primary focus is general
+      software engineering with C++ development. The only AI-
+      related requirements listed are "experience with AI tools
+      (example: Copilot) usage" and "cloud technologies like AWS
+      SageMaker" as preferred qualifications. The role involves
+      building features for an AI/ML product rather than directly
+      building, training, or deploying models.
+  responsibilities:
+  - Work on Agile team with 2-week sprints and strong emphasis on test automation
+  - Design, implement, test, and maintain features for Fusion 360 based on stakeholders'
+    requirements, mostly in C++
+  - Own the quality of work delivered with strong sense of ownership for excellence
+  - Write technical design documents, participate in design and code reviews, develop
+    estimates, and document code
+  - Work closely with developers, quality team, and user experience designers in iterative
+    development
+  - Collaborate with extended teams in India and worldwide engineering sites
+  - Program primarily in C++ using Microsoft Visual Studio on Windows and Xcode on
+    macOS
+  use_cases:
+  - AI/ML features integration in CAD software
+  - Design to Manufacture workflow optimization
+  - Cloud-based 3D design and engineering tools
+  skills:
+    genai: [Copilot]
+    ml: []
+    web: [JSON, HTTP APIs, Postman]
+    databases: []
+    data: [Data Structures]
+    cloud: [AWS, AWS SageMaker]
+    ops: [Jenkins, Splunk, Dynatrace]
+    languages: [C++, Microsoft Visual Studio, Xcode, Windows programming, Mac programming,
+      Python, JavaScript]
+    domains: [3D/2D CAD software development]
+    other: [Object Oriented Programming, Design Patterns, Agile software development,
+      QT, Jira, VS Code, Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8273840'
+  extracted_at: '2026-02-27T11:43:06.177341'

@@ -1,0 +1,61 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Energy transition, electrification, decarbonization
+position:
+  title: Sr. Staff Software Engineer - AI-Augmented Full Stack
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building of AI systems including
+      RAG architectures, agentic workflows, prompt engineering,
+      and model optimization. The engineer directly architects and
+      implements multi-modal AI systems and LLM-powered
+      applications, not just infrastructure or support.
+  responsibilities:
+  - Lead the design and architecture of enterprise-scale full stack applications using
+    modern frameworks and AI-assisted development workflows
+  - Architect and implement sophisticated full stack applications incorporating advanced
+    AI capabilities such as natural language processing, computer vision, and predictive
+    analytics
+  - Design and implement advanced RAG (Retrieval-Augmented Generation) systems and
+    multi-modal AI architectures
+  - Architect and implement agentic workflows that enable autonomous AI systems to
+    perform complex, multi-step tasks with minimal human intervention
+  - Provide technical oversight and mentorship for third-party contractors, ensuring
+    deliverables meet architectural standards and integrate seamlessly with internal
+    systems
+  - Establish and enforce comprehensive testing strategies for AI-integrated features,
+    including advanced prompt regression testing and model performance validation
+  - Evaluate and integrate emerging AI technologies and tools to maintain competitive
+    advantage
+  - Establish monitoring, observability, and cost management frameworks for AI systems
+    at scale
+  use_cases:
+  - Enterprise RAG systems for knowledge retrieval and question answering
+  - Agentic workflows enabling autonomous AI systems to perform complex multi-step
+    tasks
+  - Multi-modal AI applications combining text, vision, and predictive analytics
+  - AI-powered full stack applications for energy sector solutions
+  - Natural language processing interfaces for enterprise systems
+  - Semantic search and conversation memory management at scale
+  skills:
+    genai: [OpenAI API, Anthropic Claude API, LangChain, LlamaIndex, RAG, Agentic
+        workflows, Prompt engineering, Model optimization, Model fine-tuning, Embedding
+        models]
+    ml: []
+    web: [Node.js, Express, FastAPI, RESTful APIs, Microservices, React, Next.js,
+      Vue.js]
+    databases: [PostgreSQL, Redis, MongoDB, Pinecone, Weaviate, pgvector]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, LLM cost monitoring,
+      AI observability]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: [GitHub Copilot, Agile Development]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7133866'
+  extracted_at: '2026-02-27T11:59:10.015813'

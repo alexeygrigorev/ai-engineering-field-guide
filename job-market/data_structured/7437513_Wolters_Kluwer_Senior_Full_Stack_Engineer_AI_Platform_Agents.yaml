@@ -1,0 +1,58 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Professional information services for healthcare, legal,
+    tax, and compliance industries
+position:
+  title: Senior Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of AI agents using
+      LangChain/LangGraph, implementing LLM patterns (RAG,
+      retrieval, routing, tool-use, evals), and directly building
+      customer-facing AI solutions like UpToDate Expert AI. This
+      is direct work building, deploying, and optimizing AI
+      systems rather than just supporting AI infrastructure.
+  responsibilities:
+  - Design and implement full-stack applications, AI agents, and platform components
+    that enable rapid GenAI agent development, validation, and deployment
+  - Build developer tooling, CI/CD, and observability for safe, fast iteration including
+    evals, canaries, rollout/rollback, and cost and quality telemetry
+  - Apply secure SDLC and privacy-by-design practices including threat modeling and
+    least privilege access
+  - Collaborate with product, UX, and domain experts to deliver customer-focused solutions
+    with measurable outcomes
+  - Apply current LLM patterns including RAG, retrieval, routing, tool-use, and evals
+    to deliver measurable customer value
+  - Lead by example through writing high-quality, maintainable code that demonstrates
+    engineering craftsmanship
+  use_cases:
+  - Medical research and clinical reasoning assistance through UpToDate Expert AI
+    for differential diagnosis and treatment decisions
+  - GenAI platform for healthcare, legal, tax, and compliance industries enabling
+    rapid AI agent development and deployment
+  - Real-time medical assistant that reduces cognitive load for physicians while maintaining
+    safety and guideline fidelity
+  - AI agents that accelerate decision-making and improve outcomes across multiple
+    critical business domains
+  - Reduced hallucination and improved latency/reliability for enterprise AI applications
+  skills:
+    genai: [LangChain, LangGraph, MCP/A2A, RAG, retrieval, tool-use, evals, Azure
+        OpenAI, AWS Anthropic, Google Gemini]
+    ml: []
+    web: [React]
+    databases: [DocumentDB, DynamoDB, OpenSearch, Azure AI Search]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Terraform, GitHub Actions, CI/CD, Infrastructure as Code, Site Reliability
+        Engineering]
+    languages: [TypeScript, Node.js, Python, Rust]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7437513'
+  extracted_at: '2026-02-27T11:56:40.271343'
