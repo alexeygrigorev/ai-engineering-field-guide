@@ -1,0 +1,52 @@
+company:
+  name: CreateFuture
+  stage: null
+  focus: |-
+    AI-native consulting partner building digital products and
+    services
+position:
+  title: Lead Engineer (AI Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about using AI tools as a force multiplier for
+      software engineering and consulting - not building,
+      training, or deploying AI models. The role focuses on
+      applying AI to improve software delivery practices,
+      observability, and documentation while working as a
+      consultant helping clients with AI-native transformation.
+      The engineer uses AI tools extensively but the core work is
+      software architecture and delivery, not model development.
+  responsibilities:
+  - Work closely with client teams to understand their context, constraints, and goals,
+    turning ambiguous problems into clear, workable approaches
+  - Design and build software across different parts of a system, making pragmatic
+    decisions that balance speed, quality, and long-term maintainability
+  - Use AI tools extensively throughout the delivery lifecycle to support research,
+    context exploration, architecture, implementation, testing, and documentation
+  - Help clients make deliberate AI-focused technology and tooling choices that avoid
+    unnecessary lock-in and allow delivery approaches to evolve
+  - Share learning with both client teams and colleagues to improve delivery practices
+    and deliver external thought leadership at conferences and meetups
+  use_cases:
+  - AI-native transformation of client teams and ways of working
+  - Software development acceleration using AI tools across the delivery lifecycle
+  - AI-assisted research, context exploration, and architecture design
+  - AI-powered testing, verification, and build automation
+  - Technology and tooling selection to avoid vendor lock-in in AI implementations
+  skills:
+    genai: [AI tools and platforms, AI safety and ethics]
+    ml: []
+    web: [Software architecture, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Observability, Build automation, Testing, Infrastructure ownership]
+    languages: [Java, .NET, Python, TypeScript]
+    domains: []
+    other: [Consulting, Mentoring and coaching, Stakeholder management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8450768'
+  extracted_at: '2026-02-27T12:56:19.831587'

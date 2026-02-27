@@ -1,0 +1,50 @@
+company:
+  name: CompuGroup Medical US
+  stage: Public
+  focus: Digital healthcare, EHR, billing, RCM services
+position:
+  title: Generative AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building Generative AI and
+      Agentic systems including prompt engineering, fine-tuning
+      models (GPT-5, Gemini 2.5 Pro), implementing RAG, and
+      developing/training generative models. The position directly
+      works ON AI systems rather than just supporting them.
+  responsibilities:
+  - Write clean, efficient, and well-documented code manually and in an automated
+    fashion using tools like GitHub Copilot
+  - Work with product teams to understand user requirements and translate them into
+    AI-driven solutions
+  - Develop and refine prompts for known large language models (LLMs) to enhance AI
+    model performance using techniques like Retrieval-Augmented Generation (RAG)
+  - Develop, train, and optimize generative AI models including text, image, audio,
+    or video generation systems
+  - Fine-tune pre-trained models such as GPT-5 and Gemini 2.5 Pro for specific use
+    cases and datasets
+  - Develop Agentic AI solutions and integrate AI models into scalable production
+    pipelines and applications
+  use_cases:
+  - Healthcare information access and utilization enhancement
+  - Electronic Health Records (EHR) systems with AI capabilities
+  - Billing, Payment services, and Revenue Cycle Management (RCM) optimization
+  - AI-powered content creation, enhancement, and analysis for healthcare professionals
+  - Automated manual process automation through Agentic AI systems
+  skills:
+    genai: [GPT, Claude 3.5 Sonnet, Gemini, prompt engineering, RAG, Agentic AI, fine-tuning,
+      LLMs]
+    ml: [machine learning model training]
+    web: [API development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, computer vision]
+    other: [GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8065953'
+  extracted_at: '2026-02-27T12:29:59.270197'

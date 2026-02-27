@@ -1,0 +1,48 @@
+company:
+  name: Forter
+  stage: Series C+
+  focus: Fraud prevention and trust for digital commerce
+position:
+  title: Senior Software AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role directly builds and deploys AI systems including RAG,
+      autonomous agents, and evaluation frameworks. Hands-on work
+      with models, MCP server, and agentic patterns - clearly
+      working on AI implementation, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, build, and maintain reusable AI capabilities including models, tools,
+    APIs, and platforms for internal and customer-facing solutions
+  - Develop and maintain internal MCP server that securely exposes data stores to
+    AI agents
+  - Create and implement robust evaluation frameworks and AI guardrails to ensure
+    performance and safety
+  - Build and optimize RAG (Retrieval-Augmented Generation) systems
+  - Take full ownership of projects from requirements gathering to development, deployment,
+    and operation
+  - Partner with teams across the company to accelerate AI adoption and productization
+    efforts
+  use_cases:
+  - Fraud detection and prevention for e-commerce transactions
+  - Identity verification and pattern analysis across billions of identities
+  - AI-powered tools and automation for internal teams
+  - Customer trust and experience optimization
+  - Autonomous agents for interactive AI solutions
+  skills:
+    genai: [RAG, Agents, MCP (Model Context Protocol), AI guardrails, Strands Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Bedrock]
+    ops: [Docker, DevOps]
+    languages: [Python]
+    domains: []
+    other: [Copilot, Cursor, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8451240'
+  extracted_at: '2026-02-27T12:12:51.121864'

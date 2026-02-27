@@ -1,0 +1,48 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Senior Software Engineer - full stack (java/.net) + AI/GenAI/Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on AI implementation including
+      agentic frameworks for autonomous reasoning, RAG components
+      (parsing, chunking, indexing, re-ranking), and Generative AI
+      Operations. The focus is on building and deploying AI
+      solutions rather than just supporting infrastructure or data
+      pipelines.
+  responsibilities:
+  - Lead moderately complex initiatives and deliverables within technical domain environments
+  - Design, code, test, debug, and document for projects and programs associated with
+    technology domain
+  - Review moderately complex technical challenges that require in-depth evaluation
+    of technologies and procedures
+  - Resolve moderately complex issues and lead a team to meet existing client needs
+  - Collaborate and consult with peers, colleagues, and mid-level managers to resolve
+    technical challenges
+  - Lead projects and act as an escalation point, provide guidance and direction to
+    less experienced staff
+  use_cases:
+  - Enterprise-scale AI adoption strategies in financial services
+  - Autonomous multi-step reasoning and planning using agentic AI frameworks
+  - Document processing and information retrieval using RAG techniques
+  - AI model lifecycle management with compliance and risk mitigation
+  - Human-centered AI design for workplace applications
+  skills:
+    genai: [Agentic AI frameworks, RAG]
+    ml: [Test and eval driven development]
+    web: [Full stack development]
+    databases: [Vector indexing and re-ranking]
+    data: [Document parsing and chunking]
+    cloud: []
+    ops: [Generative AI Operations, AI model lifecycle management]
+    languages: [Java, .NET]
+    domains: []
+    other: [AI compliance and risk mitigation, Human-centered AI design, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8387231'
+  extracted_at: '2026-02-27T12:24:33.820093'

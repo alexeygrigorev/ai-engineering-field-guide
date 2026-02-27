@@ -1,0 +1,50 @@
+company:
+  name: AHEAD
+  stage: null
+  focus: Digital transformation platforms
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and managing AI/ML
+      infrastructure platforms rather than directly building,
+      training, or fine-tuning models. The engineer creates the
+      environment (Kubernetes, GPU orchestration, MLOps pipelines)
+      that enables data scientists to do the actual AI work.
+  responsibilities:
+  - Architect and manage Kubernetes clusters tailored for AI/ML workloads
+  - Implement Run:ai and operators for GPU resource orchestration and workload scheduling
+  - Develop Python-based automation scripts and ML pipelines; automate infrastructure
+    with Terraform and Ansible
+  - Create and manage Jupyter Notebooks for experimentation and collaboration
+  - Integrate and optimize NVIDIA Enterprise Suite components including CUDA, NeMo,
+    Triton, and TensorRT
+  - Establish MLOps best practices for model lifecycle management, CI/CD, and monitoring
+    using MLflow and Kubeflow
+  - Collaborate with data scientists and platform engineers to ensure efficient resource
+    utilization and scalability
+  use_cases:
+  - Enterprise AI/ML infrastructure platform enabling scalable model training and
+    deployment
+  - GPU-accelerated computing workloads with orchestration and scheduling
+  - Hybrid cloud environments for running ML workloads
+  - Collaborative ML experimentation environments for data science teams
+  - Automated MLOps pipelines for model lifecycle management
+  skills:
+    genai: [NVIDIA NeMo Framework]
+    ml: [TensorFlow, PyTorch, CUDA, TensorRT]
+    web: []
+    databases: []
+    data: [Jupyter Notebooks]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, 'Run:ai', Terraform, Ansible, Triton, MLflow, Kubeflow, MLOps,
+      GPU orchestration, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8353951'
+  extracted_at: '2026-02-27T12:47:33.081581'

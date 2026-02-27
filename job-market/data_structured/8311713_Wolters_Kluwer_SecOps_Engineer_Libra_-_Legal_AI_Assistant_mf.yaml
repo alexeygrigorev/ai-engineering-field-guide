@@ -1,0 +1,57 @@
+company:
+  name: Wolters Kluwer
+  stage: Series B-acquired
+  focus: Legal AI assistant platform for lawyers
+position:
+  title: SecOps Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security engineering role focused on SecOps -
+      securing infrastructure, implementing security controls,
+      managing IAM/RBAC, and operating detection/response systems.
+      The role supports the AI platform (Libra's legal AI
+      assistant) by building and maintaining the security
+      infrastructure that enables safe AI deployment, but does not
+      involve building, training, or deploying AI models directly.
+  responsibilities:
+  - Own end-to-end security for internal and external traffic across Open Telekom
+    Cloud and Microsoft Azure including network segmentation, mTLS, WAF, and IDS/IPS
+  - Define and operate IAM and RBAC including role design, SSO/SCIM provisioning,
+    least-privilege policies, and periodic access reviews
+  - Implement and manage secrets and key management including rotation, revocation,
+    and encryption standards
+  - Build and operate audit logging and SIEM pipelines with log collection, correlation
+    rules, alert tuning, and on-call runbooks
+  - Lead incident response readiness and execution including playbooks, tabletop exercises,
+    forensics coordination, and post-incident reviews
+  - Drive vulnerability and patch management integrating SCA/SAST/DAST into CI/CD,
+    container/OS hardening, and remediation tracking
+  - Conduct security reviews and threat modeling for architecture changes, releases,
+    and third-party integrations ensuring secure-by-default guardrails
+  - Partner with DevOps and engineering to embed security controls into Terraform,
+    Ansible, CI/CD pipelines, and the SDLC
+  use_cases:
+  - Legal research assistance for lawyers using AI-powered reasoning
+  - Document drafting and generation for legal professionals
+  - AI-powered legal workspace combining authoritative content with generative technology
+  - Localized legal AI solutions across European markets with deep local content integrations
+  - Enterprise-grade legal AI platform for law firms and legal teams requiring strong
+    security and compliance
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Open Telekom Cloud, Microsoft Azure]
+    ops: [IAM/RBAC, SSO/SCIM, mTLS, WAF, IDS/IPS, Vault, KMS, HSM, SIEM, EDR, SCA/SAST/DAST,
+      Terraform, Ansible, CI/CD, Zero Trust, incident response, container scanning]
+    languages: [English, German]
+    domains: []
+    other: [GDPR, ISO 27001, SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8311713'
+  extracted_at: '2026-02-27T12:11:13.470028'

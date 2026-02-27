@@ -1,0 +1,51 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and digital currency
+position:
+  title: Lead AI Engineer - Data and AI Platform (Business Intelligence)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying GenAI
+      solutions including LLM integration, RAG systems, prompt
+      engineering, and domain-specific model customization. The
+      engineer will directly implement AI/ML models and systems,
+      not just support infrastructure or data pipelines for other
+      teams.
+  responsibilities:
+  - Lead the design, development, and deployment of GenAI solutions including LLM
+    integration, prompt engineering, RAG systems, and domain-specific model customization
+  - Evaluate emerging AI capabilities and prototype innovative solutions to accelerate
+    business transformation
+  - Architect and build data-intensive analytical applications that enable real-time
+    insights, predictive intelligence, and automated decisioning
+  - Architect cloud-native applications capable of handling large-scale, high-availability
+    workloads
+  - Design and evolve microservices architectures using domain-driven design, event-driven
+    patterns, and API-first development
+  - Mentor engineering and data science teams in modern AI, GenAI adoption, and architectural
+    excellence
+  use_cases:
+  - Real-time business intelligence and analytics for payment transactions
+  - Automated decisioning systems for fraud detection and risk assessment
+  - Enterprise-scale data platforms delivering insights to internal teams and external
+    clients
+  - Generative AI applications for business process automation and transformation
+  - Predictive intelligence for payment trends and customer behavior analysis
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, prompt engineering, LLM integration]
+    ml: [Hugging Face, model fine-tuning, embeddings]
+    web: [REST, gRPC, microservices]
+    databases: []
+    data: [data pipelines, feature stores]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, CI/CD, MLOps, model lifecycle management]
+    languages: [Python, Java, Scala, Go]
+    domains: []
+    other: [domain-driven design, event-driven patterns, distributed processing]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8503903'
+  extracted_at: '2026-02-27T12:26:46.192572'

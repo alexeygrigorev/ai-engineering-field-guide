@@ -1,0 +1,56 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud company providing IT services and
+    solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses heavily on traditional ML/DL model
+      development, training, and deployment for classification,
+      prediction, NLP, and computer vision. While Generative AI is
+      listed as preferred knowledge, the core responsibilities
+      involve building PyTorch/TensorFlow models and MLOps
+      pipelines rather than LLM-specific development.
+  responsibilities:
+  - Design, train, and optimize ML/DL models for classification, prediction, NLP,
+    computer vision, and recommendation systems
+  - Deploy ML models into production using MLOps frameworks such as Kubeflow, MLflow,
+    SageMaker, Vertex AI, and Azure ML
+  - Build end-to-end automated ML lifecycle pipelines including training, testing,
+    deployment, and monitoring
+  - Implement data pipelines for real-time and batch ML workloads with focus on feature
+    extraction and data quality
+  - Optimize algorithms for speed, accuracy, and cost efficiency using GPU/TPU environments
+  - Implement drift detection, continuous learning, and retraining strategies for
+    production models
+  - Ensure compliance with ethical AI practices and regulatory frameworks while implementing
+    security measures for ML models
+  - Collaborate with data scientists, data engineers, and business analysts to align
+    AI solutions with business outcomes
+  use_cases:
+  - Classification systems for enterprise data
+  - Predictive analytics and forecasting models
+  - Natural language processing applications
+  - Computer vision solutions
+  - Recommendation engines
+  - Real-time and batch ML inference pipelines
+  skills:
+    genai: [Generative AI, LLMs, diffusion models]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, transformers]
+    web: []
+    databases: [NoSQL]
+    data: [Airflow, Kafka, Flink, Spark Streaming]
+    cloud: [AWS SageMaker, Azure ML, GCP Vertex AI]
+    ops: [Kubeflow, MLflow, Docker, Kubernetes, CI/CD]
+    languages: [Python, R, Scala, SQL]
+    domains: [NLP, CV, reinforcement learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8506181'
+  extracted_at: '2026-02-27T12:38:44.457890'

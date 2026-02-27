@@ -1,0 +1,45 @@
+company:
+  name: Tietoevry
+  stage: Public
+  focus: Software and digital engineering services
+position:
+  title: Senior Full Stack Gen AI Developer- Tietoevry Create (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with Azure OpenAI
+      integration and full-scale GenAI project execution,
+      indicating direct work on AI systems. The developer will
+      build and maintain server-side logic that integrates with AI
+      services, not just support infrastructure for others.
+  responsibilities:
+  - Develop and maintain server-side logic with Python and C#
+  - Build RESTful applications and microservices
+  - Integrate with Azure components including Azure OpenAI and Cosmos DB
+  - Implement full-scale GenAI projects and solutions
+  - Develop frontend applications using React with TypeScript
+  - Set up and maintain CI/CD pipelines using GitHub Actions
+  - Apply software design patterns and best practices
+  - Collaborate within cross-functional teams on AI initiatives
+  use_cases:
+  - Enterprise AI application development
+  - RESTful API and microservices architecture
+  - Knowledge graph integration and management
+  - Cloud-native AI solutions on Azure
+  - Full-stack GenAI application deployment
+  skills:
+    genai: [Azure OpenAI]
+    ml: []
+    web: [REST APIs, Microservices, React]
+    databases: [Redis Cache, Cosmos DB]
+    data: [Knowledge Graphs]
+    cloud: [Azure, Azure API Management, Azure Functions]
+    ops: [GitHub, GitHub Actions, CI/CD, Docker]
+    languages: [C#, Python, TypeScript]
+    domains: []
+    other: [Design Patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7182129'
+  extracted_at: '2026-02-27T12:55:02.046890'

@@ -1,0 +1,51 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace platform
+position:
+  title: MTS 2-AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing machine learning models and Gen
+      AI tools, including LLMs, with hands-on experience in
+      PyTorch and TensorFlow required. The engineer will build and
+      run AI/ML/GenAI models in production environments, making
+      this hands-on AI development rather than support work.
+  responsibilities:
+  - Build large-scale applications, low-latency APIs, data pipelines, and foundational
+    architectures to support eBay's business operations and customer experiences
+  - Design and deploy high-performance APIs and data pipelines that seamlessly integrate
+    machine learning models to extract valuable insights
+  - Design and implement highly configurable, metadata-driven platforms to enable
+    seamless ingestion of attributes, rules, models, policies, and derived aggregates
+  - Develop machine learning models and Gen AI tools to generate insights and improve
+    customer experiences across eBay
+  - Partner with architects, business leaders, and industry experts to devise strategies
+    and scalable solutions
+  - Be responsible for the entire software lifecycle, including design, development,
+    testing, and experimentation
+  - Foster a collaborative team environment by mentoring junior members, guiding them
+    through projects to achieve transformed outcomes
+  use_cases:
+  - Prohibited, restricted, and counterfeit compliance detection for marketplace listings
+  - Automatic identification and assessment of items that may be illegal, harmful,
+    non-compliant with trade regulations, or counterfeit
+  - AI-driven detection systems for maintaining platform trust and customer safety
+  - Scalable backend systems for real-time compliance monitoring of listed products
+  skills:
+    genai: [Gen AI, LLMs]
+    ml: [PyTorch, TensorFlow]
+    web: [RESTful APIs, GraphQL]
+    databases: [SQL, NoSQL]
+    data: [Spark, Flink, Kafka, Hadoop, HDFS, MapReduce, Hive]
+    cloud: [Distributed Systems]
+    ops: []
+    languages: [Java, Scala, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6638234'
+  extracted_at: '2026-02-27T12:23:50.882076'

@@ -1,0 +1,56 @@
+company:
+  name: Rearc
+  stage: null
+  focus: Cloud computing and AI engineering services
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building GenAI solutions
+      including LLMs, RAG architectures, fine-tuning, prompt
+      engineering, and deploying models via Amazon Bedrock or
+      Databricks AI. The engineer directly implements AI
+      orchestration tools, compound AI systems, and integrates
+      generative models with production services, not just
+      supporting infrastructure.
+  responsibilities:
+  - Collaborate with colleagues to understand customer business objectives and technical
+    challenges, designing and developing effective GenAI solutions
+  - Build scalable, reliable, and maintainable Compound AI systems using tools like
+    LangGraph and other modern frameworks
+  - Implement Retrieval Augmented Generation architectures and integrate retrieval
+    systems with generative models
+  - Integrate Generative AI scripts with AWS, Databricks, and other cloud services
+    to build scalable and secure AI solutions
+  - Stay current with state of the art AI application development technologies and
+    patterns
+  - Share knowledge about AI engineering best practices through blog posts, articles,
+    and internal talks to foster continuous learning
+  use_cases:
+  - Customer-specific GenAI solutions tailored to business objectives
+  - Intelligent systems deployment in customer environments
+  - Compound AI systems for enterprise applications
+  - Knowledge base integration with LLMs for enhanced retrieval
+  - Scalable and secure AI solutions built on cloud platforms
+  - RAG-powered applications leveraging vector databases and similarity search
+  skills:
+    genai: [LangGraph, CrewAI, Bedrock Agents, smolagents, RAG, LLMs, text generation,
+      prompt engineering, fine-tuning, LLM evaluation, human-in-the-loop, LLM judge
+        paradigms, LLM tool calling, Model Context Protocol, MCP, NLP libraries]
+    ml: [LLM training, diffusion models]
+    web: []
+    databases: [Pinecone, PostgreSQL, pgvector, Opensearch, vector stores, similarity
+        search]
+    data: [ETL, data ingestion]
+    cloud: [Amazon Bedrock, Databricks Mosaic AI, AWS S3, AWS Lambda, Databricks Apps,
+      cloud security, cloud architecture]
+    ops: [CI/CD, MLOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8073654'
+  extracted_at: '2026-02-27T13:05:49.666690'

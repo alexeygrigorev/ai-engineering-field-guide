@@ -1,0 +1,47 @@
+company:
+  name: Microchip Technology Inc.
+  stage: Public
+  focus: Semiconductors and embedded systems
+position:
+  title: Senior Engineer II-Software AI/ML - Cloud Eco-system
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing AI models using TensorFlow,
+      PyTorch, TFLite, and ONNX frameworks for edge computing
+      hardware platforms. The engineer will create, define, tune,
+      and optimize AI models for efficient execution on hardware
+      platforms, which is hands-on model development work.
+  responsibilities:
+  - Develop AI models for edge computing hardware platforms using TensorFlow, PyTorch,
+    TFLite, and ONNX frameworks
+  - Design and implement AI/ML applications, models, and algorithms optimized for
+    edge computing environments in cloud-based development space
+  - Implement accelerated AI training software platforms and tune models for efficient
+    execution on hardware platforms
+  - Collaborate with applications engineers to develop methodologies for gathering,
+    applying, and evaluating data for AI model consumption
+  - Work with cross-functional teams to analyze project requirements and propose innovative
+    AI solutions
+  use_cases:
+  - Edge AI model deployment on hardware platforms
+  - Cloud-based AI/ML development and application platforms
+  - AI model optimization for resource-constrained edge devices
+  - Data collection and preprocessing for neural network training in edge computing
+    environments
+  skills:
+    genai: []
+    ml: [TensorFlow, TFLite, PyTorch, ONNX, Keras]
+    web: [React, Angular, Node.js, HTML, CSS]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Jenkins, Git, Docker, Agile/DevOps]
+    languages: [Python, JavaScript, TypeScript, C/C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8244642'
+  extracted_at: '2026-02-27T12:37:01.898947'

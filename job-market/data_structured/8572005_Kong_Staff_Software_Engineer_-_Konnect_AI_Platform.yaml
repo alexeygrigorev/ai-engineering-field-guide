@@ -1,0 +1,62 @@
+company:
+  name: Kong
+  stage: Public
+  focus: API and AI connectivity technologies
+position:
+  title: Staff Software Engineer - Konnect AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data infrastructure for AI
+      systems - specifically data pipelines, vector search
+      infrastructure, document ingestion, and knowledge base
+      management. While the role works with AI technologies
+      (embedding models, vector databases, RAG systems), it does
+      not involve building, training, fine-tuning, or deploying
+      models directly. The engineer provides the data foundation
+      and retrieval systems that enable other AI engineers to work
+      with models, which is characteristic of an ai-support role.
+  responsibilities:
+  - Design and implement documentation ingestion pipelines for AWS Bedrock Knowledge
+    Base and other vector stores
+  - Build semantic chunking and document processing systems optimized for retrieval
+    quality and context preservation
+  - Develop vector embedding pipelines with hybrid search strategies combining semantic
+    and keyword search
+  - Create real-time telemetry collection systems for model monitoring, performance
+    tracking, and quality assurance
+  - Implement data anonymization and PII detection systems to ensure privacy-compliant
+    AI operations
+  - Build automated knowledge base refresh and quality monitoring systems for maintaining
+    data freshness
+  - Optimize vector indexes and database performance for low-latency retrieval at
+    scale
+  - Collaborate with AI engineers to optimize retrieval strategies and improve RAG
+    system performance
+  use_cases:
+  - Enterprise knowledge management and semantic search
+  - RAG-powered AI applications with context-aware responses
+  - Real-time data ingestion and processing for AI systems
+  - Privacy-compliant document processing and retrieval
+  - Hybrid search combining semantic and keyword approaches
+  - Model monitoring and quality assurance telemetry
+  skills:
+    genai: [RAG, Prompt compression, Context window optimization]
+    ml: [OpenAI Ada-3, Cohere, BGE, E5, Vector search, NER, Embeddings, Semantic search,
+      Hybrid search, Reranking models, Cross-encoders, Synthetic data generation]
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant, OpenSearch, NoSQL databases, Neo4j, Amazon
+        Neptune]
+    data: [Kafka, Kinesis, ETL, ELT, DVC, Pachyderm, Spark, Ray, Dask]
+    cloud: [AWS Bedrock, AWS S3, AWS DynamoDB, AWS RDS, AWS Glue]
+    ops: [Weights & Biases, MLflow, Kubeflow, Seldon, KServe, BentoML, Kubernetes,
+      Docker]
+    languages: [Python, Go, SQL]
+    domains: [Information retrieval, Search relevance, Ranking algorithms, NLP]
+    other: [Knowledge graphs, Data anonymization, PII detection, GDPR, Knowledge graph
+        construction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8572005'
+  extracted_at: '2026-02-27T12:48:59.510304'

@@ -1,0 +1,52 @@
+company:
+  name: Get Well Network
+  stage: null
+  focus: AI-native healthcare precision care technology
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience fine-tuning LLMs,
+      training models, building multimodal AI systems, and
+      deploying them to production using PEFT, LoRA, and prompt
+      engineering. This is direct model development and deployment
+      work, not enabling infrastructure or support for other AI
+      engineers.
+  responsibilities:
+  - Fine-tune LLMs and ML models for healthcare-specific use cases using PEFT, LoRA,
+    and prompt engineering
+  - Build multimodal AI systems integrating text, structured medical data, and images
+    with STT/TTS models
+  - Lead end-to-end model deployment with cloud-native infrastructure and implement
+    performance monitoring and auto-retraining pipelines
+  - Process and curate large-scale healthcare datasets while ensuring HIPAA and GDPR
+    compliance
+  - Develop bias mitigation strategies and robust evaluation frameworks combining
+    technical KPIs with clinical relevance
+  - Provide technical guidance and drive adoption of best practices in model reproducibility,
+    validation, and explainability
+  use_cases:
+  - Voice assistants and conversational AI interfaces for healthcare settings
+  - Multimodal AI systems integrating text, medical data, and images for patient care
+  - Healthcare precision care technology connecting clinical insight with patient
+    engagement
+  - AI-powered care orchestration for health systems and providers
+  - STT/TTS integration for voice-enabled healthcare products
+  skills:
+    genai: [LLM fine-tuning, PEFT, LoRA, Prompt engineering, RAG, LangChain, Whisper,
+      Elevenlabs, STT/TTS, NLP, NLU]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure ML]
+    ops: [MLOps, Model serving, CI/CD, Container orchestration, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8157719'
+  extracted_at: '2026-02-27T13:07:23.717582'

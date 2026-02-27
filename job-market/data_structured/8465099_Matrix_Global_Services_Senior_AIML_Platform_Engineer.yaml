@@ -1,0 +1,56 @@
+company:
+  name: Matrix Global Services
+  stage: Public
+  focus: Global technology consultancy and IT services
+position:
+  title: Senior AI/ML Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      based applications including RAG pipelines, prompt
+      engineering, fine-tuning, and multi-agent workflows. The
+      engineer directly works with generative AI models and
+      implements production-grade AI solutions, not just
+      supporting infrastructure.
+  responsibilities:
+  - Architect and implement end-to-end generative AI solutions using cloud AI ecosystems
+    such as Azure AI and Google Vertex AI
+  - Lead development of production-grade LLM applications, including RAG pipelines,
+    prompt engineering, fine-tuning, LLM grounding, and multi-agent workflows
+  - Implement and maintain AI security controls, such as prompt-injection defenses,
+    adversarial attack mitigation, data-poisoning detection, and prompt-shielding
+    mechanisms
+  - Design and maintain scalable MLOps and AIOps pipelines, ensuring automated retraining,
+    model versioning, observability, and explainability
+  - Translate strategic objectives into actionable AI/ML Proof-of-Concepts and production
+    systems demonstrating ROI through iterative development
+  - Shape technical strategy for expanding AI/ML capabilities across hybrid cloud
+    environments, assessing emerging technologies such as small language models and
+    agentic AI
+  - Provide mentorship and technical leadership to platform engineers and data scientists
+    on advanced ML, LLMOps, and responsible AI methodologies
+  use_cases:
+  - Enterprise generative AI applications using RAG and LLM grounding
+  - Multi-agent workflow systems for business process automation
+  - AI security and safety guardrails for enterprise deployment
+  - Real-time inference and low-latency edge AI applications
+  - Multi-modal content generation including computer vision and advanced NLP
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt Engineering, Multi-agent Workflows,
+      LLMs]
+    ml: [PyTorch, TensorFlow, Fine-tuning]
+    web: []
+    databases: []
+    data: [Kafka]
+    cloud: [Azure OpenAI Service, Azure ML Studio, Google Vertex AI]
+    ops: [Databricks MLflow, CI/CD, Azure DevOps, GitHub Actions, Terraform, Docker,
+      Kubernetes]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8465099'
+  extracted_at: '2026-02-27T13:07:47.955626'

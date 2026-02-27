@@ -1,0 +1,54 @@
+company:
+  name: ClickHouse
+  stage: Series D
+  focus: Real-time analytics database and cloud platform
+position:
+  title: Senior Software Engineer (Typescript / Backend) - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineering role focused on building
+      features that integrate AI/ML capabilities into ClickHouse's
+      database platform. The responsibilities involve creating
+      APIs, UI/UX implementations, and ecosystem integrations that
+      bridge database technology with AI inference services, but
+      do not include building, training, or deploying models
+      directly. The role involves working with inference APIs and
+      vector databases as integrations rather than implementing
+      the core AI systems.
+  responsibilities:
+  - Design and implement AI-powered features across the full stack, from backend inference
+    services to frontend interfaces within the ClickHouse Cloud platform
+  - Create robust, scalable APIs that connect ClickHouse's database capabilities with
+    modern AI/ML inference systems and external/internal AI services
+  - Build responsive, intuitive user interfaces that make complex AI functionalities
+    accessible to users of all technical backgrounds
+  - Implement and maintain integrations with the broader AI/ML ecosystem and standards
+    ensuring seamless operation with popular frameworks and tools
+  - Integrate models into production systems with proper monitoring, versioning, observability,
+    and evaluation
+  use_cases:
+  - AI-powered data analytics and insights extraction from ClickHouse databases
+  - Integration of AI inference capabilities directly within the ClickHouse Cloud
+    platform
+  - Enhanced data exploration through AI-assisted querying and visualization
+  - Seamless connection between high-performance database technology and modern AI/ML
+    services
+  - User-friendly interfaces for accessing complex AI functionalities within data
+    workflows
+  skills:
+    genai: []
+    ml: []
+    web: [React, API design, REST APIs]
+    databases: [Vector databases, ClickHouse]
+    data: [Data visualization, Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Inference APIs]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8503509'
+  extracted_at: '2026-02-27T13:06:48.379978'

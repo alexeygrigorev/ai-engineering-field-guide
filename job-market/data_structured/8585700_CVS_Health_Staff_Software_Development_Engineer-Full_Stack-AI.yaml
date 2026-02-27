@@ -1,0 +1,48 @@
+company:
+  name: CVS Health
+  stage: Public
+  focus: Healthcare services and pharmacy
+position:
+  title: Staff Software Development Engineer-Full Stack-AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Full Stack / Frontend role focusing on
+      Angular frameworks and real-time chat UI development. The AI
+      work involves consuming AI/ML APIs and implementing AI-
+      powered features in the UI, but does not include building,
+      training, fine-tuning, or deploying models directly.
+  responsibilities:
+  - Develop and enhance real-time UI components for platform products and reusable
+    Angular frameworks
+  - Architect and develop reusable UI frameworks and enhance platform-wide capabilities
+  - Support cloud integrations, configuration, and troubleshooting within Google Cloud
+    Platform for UI and platform product services
+  - Contribute to DevOps activities including CI/CD pipelines, deployment automation,
+    and environment support
+  - Partner with Product, Backend, Architecture, and UX teams to deliver seamless
+    and performant chat solutions
+  - Collaborate with cross-functional teams through code reviews, mentoring, and cross-team
+    coordination
+  use_cases:
+  - Real-time chat experiences across the enterprise
+  - AI-powered chat interfaces with smart suggestions and automated insights
+  - Intelligent chat and search experiences using LLMs
+  - Chat intelligence and recommendation features for healthcare applications
+  - Generative UI enhancements for improved user experience
+  skills:
+    genai: [AI/ML API integration, NLP services, LLM concepts, Prompt engineering]
+    ml: [Recommendation APIs]
+    web: [Angular, RxJS, HTML5, CSS3/SASS, REST APIs, WebSockets, GraphQL]
+    databases: []
+    data: []
+    cloud: [Google Cloud Platform, Google Vertex AI, Azure OpenAI]
+    ops: [Container-based technologies, CI/CD pipelines]
+    languages: [TypeScript]
+    domains: []
+    other: [GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8585700'
+  extracted_at: '2026-02-27T12:30:15.310230'

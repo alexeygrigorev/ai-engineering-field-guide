@@ -1,0 +1,48 @@
+company:
+  name: Findem
+  stage: Series B+
+  focus: Talent data platform with 3D data and AI
+position:
+  title: Staff Quality Assurance Engineer(QA with AI Expertise)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Quality Assurance Engineer role that uses AI tools
+      to improve testing processes and automation, but does not
+      involve building, training, or deploying AI models. The role
+      focuses on leveraging AI-assisted development tools
+      (Copilot, ChatGPT, etc.) to enhance QA workflows, test
+      generation, and automation - supporting the engineering team
+      rather than working directly on AI systems.
+  responsibilities:
+  - Scale QA operations using AI tools and frameworks
+  - Use AI technologies to enhance testing coverage and automation across multiple
+    teams and locations
+  - Write, execute, and report comprehensive test plans and test cases
+  - Develop and maintain automated tests for web and backend systems
+  - Accelerate CI/CD automation pipelines and improve test coverage analysis
+  - Identify changes across repositories and commits to help QA focus testing efficiently
+  - Champion best practices for testing, automation, and AI integration in QA processes
+  use_cases:
+  - AI-powered campaign creation and assistance
+  - AI copilot for candidate search functionality
+  - Profile enrichment using AI-generated insights
+  - Auto-suggested job titles for candidates
+  - Company list generation for sourcing
+  - Talent analytics and competitive intelligence
+  skills:
+    genai: [VS Cline, ChatGPT, GitHub Copilot, Codeium, Claude, Cursor, Cody]
+    ml: []
+    web: [Playwright, Selenium]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Jenkins, Jira, Bitbucket, Git, CI/CD]
+    languages: [TypeScript, Java, Python, Shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7576819'
+  extracted_at: '2026-02-27T13:08:43.108105'

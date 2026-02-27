@@ -1,0 +1,47 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: Design and engineering software platform
+position:
+  title: Senior Software Developer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role building, fine-tuning, and deploying
+      LLM-based agentic AI systems with RAG and MCP integrations.
+      The role requires direct model work (fine-tuning,
+      evaluation, deployment) and implementing agentic
+      architectures, not just supporting infrastructure.
+  responsibilities:
+  - Build and ship production-grade cloud-native Agentic AI applications that are
+    resilient, performant, and scale well in production
+  - Fine-tune, evaluate, and deploy large language models in production environments
+  - Implement evaluation and observability standards including regression tests, monitoring,
+    and feedback loops
+  - Integrate agents with internal and external services using MCP-based integrations
+    or equivalent tool/context integration patterns
+  - Partner with product managers, architects, developers, and data scientists to
+    bring AI features to Autodesk products
+  - Use AI coding agents to accelerate delivery of production features and fixes with
+    rigorous verification and security-aware usage
+  use_cases:
+  - Product Data Management (PDM) workflows enhanced with AI agents
+  - Product Lifecycle Management (PLM) workflows with intelligent automation
+  - CAD and manufacturing domain applications with AI assistance
+  - Enterprise tool integration through MCP-based agent architectures
+  skills:
+    genai: [RAG, MCP, Agentic architectures, LangGraph, CrewAI]
+    ml: [Fine-tuning, LLM deployment, PyTorch]
+    web: [REST APIs]
+    databases: []
+    data: [Ray]
+    cloud: [AWS, Azure, Google Cloud, SageMaker]
+    ops: [CI/CD, Monitoring, Distributed systems]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8425972'
+  extracted_at: '2026-02-27T12:41:03.989281'

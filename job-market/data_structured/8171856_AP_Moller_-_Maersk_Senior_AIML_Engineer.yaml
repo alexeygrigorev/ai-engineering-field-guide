@@ -1,0 +1,52 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: Global container shipping and logistics
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI/ML
+      solutions including Generative AI and NLP models.
+      Responsibilities span the full end-to-end lifecycle from
+      model development and validation to deployment and
+      production monitoring, directly working on AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Partner with business, product, and engineering teams to define problem statements
+    and design AI/ML-driven solutions
+  - Lead and execute end-to-end AI/ML projects from data exploration and model development
+    to deployment and monitoring
+  - Drive solution architecture using data engineering, programming, machine learning,
+    NLP, and Generative AI techniques
+  - Champion scalability and reproducibility of AI solutions through best practices
+    in model development and CI/CD
+  - Guide junior AI/ML engineers through technical mentoring, code reviews, and solution
+    reviews
+  - Identify and evangelize adoption of emerging tools, technologies, and methodologies
+    across teams
+  - Translate technical outputs into actionable insights for business stakeholders
+    through storytelling and data visualizations
+  use_cases:
+  - Text analytics and NLP applications for supply chain optimization
+  - Generative AI solutions for logistics operations
+  - AI-driven decision support for shipping and logistics
+  - Machine learning models for business value delivery in container logistics
+  - Enterprise-grade AI solutions for global trade operations
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Model Evaluation, Model Optimization, Bias Mitigation]
+    web: [Web Apps]
+    databases: []
+    data: [PySpark, Databricks, ADF, Data Engineering]
+    cloud: [Azure, Synapse]
+    ops: [Production Monitoring, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP, Text Analytics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8171856'
+  extracted_at: '2026-02-27T12:35:21.893495'

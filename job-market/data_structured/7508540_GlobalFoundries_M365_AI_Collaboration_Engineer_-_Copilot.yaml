@@ -1,0 +1,50 @@
+company:
+  name: GlobalFoundries
+  stage: Public
+  focus: Semiconductor foundry and manufacturing services
+position:
+  title: M365 AI & Collaboration Engineer - Copilot
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of Copilot Agents
+      using Copilot Studio with pro-code development methodology
+      and copilot connectors. This is directly building and
+      deploying AI agents/copilots, not just supporting AI
+      infrastructure or working near AI systems.
+  responsibilities:
+  - Hands-on development of Copilot Agents using pro-code development methodology
+    and copilot connectors in Copilot Studio
+  - Implement governance policies for Copilot agents and Power Platform environments
+  - Administer Power Platform environments across Dev/Test/Prod and enforce DLP policies
+    and compliance monitoring
+  - Configure and maintain Viva Connections/Home and SharePoint portals with audience
+    targeting and content governance
+  - Operate service reliability runbooks for SharePoint/Teams and validate Copilot
+    readiness for meeting experiences
+  - Collaborate with Security teams on compliance audits and manage platform-security
+    escalations
+  - Maintain analytics dashboards for adoption and compliance across Copilot, Viva,
+    and Power Platform
+  use_cases:
+  - AI-driven employee productivity solutions using Microsoft Copilot
+  - Enterprise collaboration and knowledge management via SharePoint and Viva Suite
+  - Automated workflows through Power Platform with AI integration
+  - Meeting experience enhancement with Copilot readiness
+  - Governed AI agent deployment for enterprise productivity
+  skills:
+    genai: [Copilot Studio, Copilot Agents, Model Context Protocol (MCP)]
+    ml: []
+    web: [Power Platform, SharePoint, Viva Suite, Microsoft Teams, Microsoft 365]
+    databases: []
+    data: []
+    cloud: [DLP (Data Loss Prevention)]
+    ops: [ALM (Application Lifecycle Management), Governance policies]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7508540'
+  extracted_at: '2026-02-27T13:02:47.285971'

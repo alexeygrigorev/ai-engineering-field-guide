@@ -1,0 +1,59 @@
+company:
+  name: Sezzle
+  stage: null
+  focus: Fintech payments and buy-now-pay-later shopping platform
+position:
+  title: AI Engineer II (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will build AI-
+      powered platforms and systems from scratch, implement RAG
+      and LLM application patterns, develop agentic systems, and
+      deploy AI solutions directly into customer-facing products
+      and internal tools. The role requires hands-on experience
+      with transformer architectures, fine-tuning strategies,
+      embeddings, vector databases, and intelligent automation -
+      all core AI/ML engineering activities.
+  responsibilities:
+  - Lead the design, development, and ownership of AI-powered internal platforms and
+    systems built from the ground up
+  - Own end-to-end delivery of complex projects from problem discovery through production
+    rollout and iteration
+  - Design and implement AI-driven features, intelligent automation, and orchestration
+    systems
+  - Embed AI capabilities into customer-facing products, internal tools, and operational
+    workflows
+  - Build full-stack systems spanning backend services, APIs, data layers, and frontend
+    interfaces
+  - Apply systems thinking to ensure reliability, performance, security, permissions,
+    and auditability across platforms
+  - Participate in production support and incident response for owned systems
+  - Mentor AI team members through code reviews, design feedback, and hands-on guidance
+  use_cases:
+  - AI-powered platforms for internal operations
+  - Intelligent automation and orchestration of workflows
+  - Customer-facing AI-enhanced shopping experiences
+  - Decision support systems for business operations
+  - NLP applications including text classification, semantic search, and information
+    extraction
+  - AI-assisted or agentic systems interacting with tools and data
+  skills:
+    genai: [RAG, prompt engineering, LLM application patterns, agentic systems, semantic
+        search]
+    ml: [transformer architectures, BERT, GPT, fine-tuning, embeddings, text classification,
+      named entity recognition, information extraction, supervised learning, unsupervised
+        learning, feature engineering, model evaluation, statistical inference]
+    web: [React]
+    databases: [vector databases, Pinecone, Weaviate, pgvector]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitLab]
+    languages: [Python, SQL, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8590444'
+  extracted_at: '2026-02-27T12:50:28.269785'

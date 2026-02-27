@@ -1,0 +1,45 @@
+company:
+  name: GetYourGuide
+  stage: null
+  focus: Travel experience booking platform
+position:
+  title: Senior ML Ops Engineer, AI Platform Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an MLOps Engineer role on an AI Platform Team that
+      builds infrastructure, tools, and platforms to enable Data
+      Products teams to deploy ML/AI systems. The role focuses on
+      designing systems and tools for ML solutions and
+      implementing MLOps best practices rather than building,
+      training, or fine-tuning models directly.
+  responsibilities:
+  - Design and implement systems and tools for scalable and efficient machine learning
+    solutions
+  - Increase the number of data products in production reliably while reducing time
+    to production and operational costs
+  - Partner with product teams to bring advanced algorithms into production following
+    MLOps best practices
+  - Build systems that enable ML/AI algorithms to go to production
+  - Enable diverse teams and ML/AI use-cases via self-service tools and automation
+  use_cases:
+  - Supporting diverse ML/AI use-cases across data products
+  - Enabling production deployment of machine learning algorithms
+  - Scaling machine learning solutions for travel experience platform
+  - Providing infrastructure for data products team ML systems
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: []
+    web: []
+    databases: [data warehouses]
+    data: [Spark]
+    cloud: [cloud]
+    ops: [MLOps, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8428380'
+  extracted_at: '2026-02-27T12:40:01.044593'

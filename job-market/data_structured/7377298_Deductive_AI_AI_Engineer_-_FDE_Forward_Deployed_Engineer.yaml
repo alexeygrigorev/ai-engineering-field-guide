@@ -1,0 +1,49 @@
+company:
+  name: Deductive AI
+  stage: Series A
+  focus: AI SRE Agents for production incident resolution
+position:
+  title: AI Engineer - FDE (Forward Deployed Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This Forward Deployed Engineer role involves configuring and
+      fine-tuning Deductive's AI platform for customer
+      deployments, working directly on adapting AI agents to
+      customer environments. The role requires hands-on
+      optimization and extension of AI systems to solve production
+      incidents, which qualifies as building/deploying AI
+      solutions rather than just supporting AI infrastructure.
+  responsibilities:
+  - Own and drive successful deployments of Deductive, guiding customers from scoping
+    and integration through production readiness and measurable impact
+  - Configure and optimize Deductive deployments to fit the use cases in customer
+    environments and deliver value quickly
+  - Act as a trusted technical partner to customers, helping them navigate observability
+    and reliability challenges while shaping effective practices
+  - Build automations and scripts that extend Deductive across observability platforms,
+    codebases, and knowledge systems
+  - Collaborate with Product and Engineering to translate customer insights into product
+    enhancements and reusable best practices
+  use_cases:
+  - Troubleshoot and resolve complex production incidents using AI agents
+  - Free engineers from constant firefighting to focus on building and achieving potential
+  - Transform reliability and software engineering practices through AI automation
+  - Integrate AI capabilities across observability platforms, codebases, and knowledge
+    systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Datadog, Grafana, Prometheus, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7377298'
+  extracted_at: '2026-02-27T12:40:57.150979'

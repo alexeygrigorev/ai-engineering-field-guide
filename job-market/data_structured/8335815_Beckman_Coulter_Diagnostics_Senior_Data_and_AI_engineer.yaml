@@ -1,0 +1,58 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology
+position:
+  title: Senior Data and AI engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building data infrastructure, pipelines,
+      and platforms that support AI/ML workloads rather than
+      directly building or deploying models. While it mentions
+      supporting agentic AI applications and model
+      training/deployment processes, the core work involves data
+      engineering, data lakes, and enabling MLOps workflows for
+      data science teams, which aligns with ai-support.
+  responsibilities:
+  - Design, develop, and maintain robust, scalable, and efficient data pipelines to
+    ingest, transform, and serve data for AI/ML and analytics workloads
+  - Architect and maintain scalable, secure, and low-latency data pipelines and systems
+    to support agentic AI applications
+  - Partner with Data Science teams to support model training, feature engineering,
+    and deployment processes
+  - Develop and manage data architecture, data lakes, and data warehouses supporting
+    Service AI use cases including ticket analytics, customer interaction insights,
+    predictive maintenance, and resource planning
+  - Optimize data storage, compute, and retrieval strategies for structured and unstructured
+    data including logs, text, images, and telemetry data
+  - Support MLOps workflows by enabling model deployment, monitoring, and versioning
+    pipelines
+  - Collaborate with data scientists, project managers, software engineering teams,
+    and service support stakeholders to translate business requirements into technical
+    solutions
+  use_cases:
+  - Ticket analytics for service and support operations
+  - Customer interaction insights and analysis
+  - Predictive maintenance for equipment
+  - Resource planning optimization
+  - Agentic AI applications for service support
+  - Enterprise-scale data integration for CRM and service platforms
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, Redshift, BigQuery]
+    data: [PySpark, Spark, Databricks, Airflow, Prefect, Azure Data Factory, Kafka,
+      Power BI, Power App, Power Automate, Real-time streaming pipelines, Data Lakehouse
+        architectures]
+    cloud: [AWS, Azure, GCP, S3, Synapse, Kinesis, Pub/Sub]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD, Distributed systems]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8335815'
+  extracted_at: '2026-02-27T12:35:09.500915'

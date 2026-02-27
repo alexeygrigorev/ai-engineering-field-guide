@@ -1,0 +1,54 @@
+company:
+  name: Vanta
+  stage: Series C
+  focus: Security compliance and trust management platform
+position:
+  title: Systems Engineer AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design and implementation of AI-
+      driven solutions, including internal assistants, automation,
+      and intelligence layers. The role requires building and
+      configuring AI solutions using both declarative tools and
+      custom code, and leading cross-functional AI initiatives
+      across the company.
+  responsibilities:
+  - Partner with G&A teams to identify high-impact opportunities for AI-driven improvements
+  - Analyze existing systems and workflows to uncover areas where AI can reduce toil,
+    improve accuracy, or accelerate outcomes
+  - Design and implement AI-enabled solutions that align with functional needs and
+    company standards
+  - Lead AI solutions that span multiple teams or apply broadly across the company,
+    such as internal assistants, automation, and intelligence layers
+  - Build and configure AI-driven solutions using a mix of declarative tools and custom
+    development
+  - Integrate AI capabilities into existing internal systems while maintaining security,
+    privacy, and data integrity
+  - Translate business problems into technical solutions through close partnership
+    with internal stakeholders
+  - Partner with Security, Legal, and IT to ensure AI solutions meet compliance, privacy,
+    and governance requirements
+  use_cases:
+  - Operational efficiency improvements for General & Administrative functions including
+    People, Finance, Legal, IT, and Security
+  - Internal AI assistants and automation tools to reduce manual work
+  - Decision-making support systems through AI-driven insights and intelligence layers
+  - Workflow optimization and toil reduction across cross-functional business processes
+  - Security compliance and governance automation with AI capabilities
+  skills:
+    genai: [LangChain, OpenAI API, prompt engineering, RAG, agents]
+    ml: []
+    web: [API integration]
+    databases: [PostgreSQL, vector databases]
+    data: [data integration]
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: [security compliance]
+    other: [workflow automation, systems engineering, governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8516978'
+  extracted_at: '2026-02-27T12:11:44.894572'

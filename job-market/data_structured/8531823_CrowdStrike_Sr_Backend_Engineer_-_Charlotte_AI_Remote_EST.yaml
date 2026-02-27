@@ -1,0 +1,48 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform
+position:
+  title: Sr. Backend Engineer - Charlotte AI  (Remote, EST)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with Large Language Models
+      including developing and refining Charlotte AI's
+      capabilities, contributing to training and implementation of
+      custom LLMs, and innovating with LLMs directly. This is
+      active model development and deployment work rather than
+      infrastructure or support roles.
+  responsibilities:
+  - Advance backend microservices, pinpointing and addressing critical concerns to
+    implement effective solutions
+  - Employ established CrowdStrike tools and services to build cloud solutions for
+    detecting and countering targeted cyber assaults
+  - Innovate with Large Language Models to develop and refine Charlotte AI's capabilities
+  - Construct and maintain data pipelines, engage in data upkeep, and contribute to
+    the training and implementation of custom LLMs
+  - Collaborate across various teams to brainstorm, define, and devise solutions
+  - 'Own your work with autonomy, end to end: develop, test, deploy and monitor your
+    changes'
+  use_cases:
+  - Generative AI security analyst that assists users of all skill levels
+  - Leverage high-fidelity security data within the Falcon Platform
+  - Reduce security operations complexity and cost
+  - Seamless integration with threat hunters and incident response experts
+  - Empower users to query and analyze security data using natural language
+  skills:
+    genai: [Large Language Models, LLM training]
+    ml: []
+    web: [Microservices]
+    databases: [Redis, S3, Cassandra, ElasticSearch]
+    data: [Kafka, Data pipelines, Data Science, Data Engineering, Big data]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Distributed systems, Git]
+    languages: [Golang, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8531823'
+  extracted_at: '2026-02-27T12:29:35.544350'

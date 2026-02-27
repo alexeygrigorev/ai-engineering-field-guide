@@ -1,0 +1,49 @@
+company:
+  name: Brillio
+  stage: null
+  focus: null
+position:
+  title: Senior AI/ML Engineer - R01558791
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title is Senior AI/ML Engineer but the description
+      and skills focus heavily on traditional statistical
+      analysis, ML frameworks (PyTorch, TensorFlow, scikit-learn),
+      and data engineering tasks. "Agentic AI" is mentioned under
+      requirements but no specifics are provided about building
+      agents, LLM systems, or related AI work, making it
+      impossible to definitively classify the role.
+  responsibilities:
+  - Perform statistical analysis including hypothesis testing, T-tests, Z-tests, and
+    regression analysis
+  - Implement classification algorithms using decision trees, SVM, and other ML techniques
+  - Develop forecasting models using exponential smoothing, ARIMA, and ARIMAX methods
+  - Utilize ML frameworks including TensorFlow, PyTorch, and scikit-learn for model
+    development
+  - Work with probabilistic graph models and distance-based algorithms
+  - Use data quality and monitoring tools like Great Expectations and Evidently AI
+  use_cases:
+  - Statistical analysis and hypothesis testing for business insights
+  - Classification and regression modeling for predictive analytics
+  - Time series forecasting for business planning
+  - Data quality monitoring and validation
+  skills:
+    genai: []
+    ml: [Hypothesis Testing, T-Test, Z-Test, Linear Regression, Logistic Regression,
+      Statistical Analysis, Probabilistic Graph Models, Exponential Smoothing, ARIMA,
+      ARIMAX, Decision Trees, SVM, TensorFlow, PyTorch, scikit-learn, CNTK, Keras,
+      MXNet, Hamming Distance, Euclidean Distance, Manhattan Distance]
+    web: []
+    databases: []
+    data: [PySpark, SAS, SPSS, Great Expectations]
+    cloud: []
+    ops: [Evidently AI, KubeFlow, BentoML]
+    languages: [Python, R]
+    domains: []
+    other: [R Studio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8564801'
+  extracted_at: '2026-02-27T12:34:15.280228'

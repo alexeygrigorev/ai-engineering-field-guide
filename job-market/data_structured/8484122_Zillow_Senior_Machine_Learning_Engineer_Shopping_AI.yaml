@@ -1,0 +1,48 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: Digital real estate marketplace platform
+position:
+  title: Senior Machine Learning Engineer, Shopping AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, deploying, and owning
+      production machine learning models including personalized
+      ranking, recommendations, and pioneering applications of
+      LLMs. The engineer works hands-on with models throughout the
+      full lifecycle from experimentation to online deployment and
+      A/B testing.
+  responsibilities:
+  - Design, build, and ship production machine learning models that power core product
+    features across Zillow platforms
+  - Re-architect core home ranking and recommendation systems to support advanced
+    neural networks
+  - Own the full lifecycle of models from offline experimentation and prototyping
+    to online deployment, A/B testing, and performance monitoring
+  - Pioneer the application of cutting-edge deep learning and large language models
+    (LLMs) to improve the home shopping experience
+  - Develop AI components that optimize display timing and home recommendations
+  - Improve machine learning infrastructure, development standards, and shared tooling
+  use_cases:
+  - Personalized home ranking and recommendations for millions of users
+  - Semantic search and autocomplete for home discovery
+  - Display optimization for home listings
+  - Generative AI-powered intuitive and personalized home shopping experiences
+  - Email and push notification recommendations for home shoppers
+  skills:
+    genai: [huggingface, LLMs, generative AI]
+    ml: [PyTorch, TensorFlow, CatBoost, scikit-learn, deep learning, neural networks]
+    web: []
+    databases: []
+    data: [Spark, Hive, Airflow, Databricks]
+    cloud: []
+    ops: [A/B testing, model deployment, performance monitoring]
+    languages: [Python, Java]
+    domains: [recommender systems, personalized ranking, semantic search]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8484122'
+  extracted_at: '2026-02-27T13:09:09.545965'

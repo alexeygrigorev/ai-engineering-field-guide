@@ -1,0 +1,60 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted information and technology for legal, tax,
+    accounting, compliance, government, and media professionals
+position:
+  title: Solutions Engineer – Automation and AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on establishing software engineering best
+      practices, DevOps processes, CI/CD pipelines, and
+      infrastructure for AI solutions rather than building,
+      training, or fine-tuning models. The position bridges AI
+      development capabilities with enterprise-grade software
+      delivery practices, emphasizing deployment, monitoring, and
+      governance over hands-on model development.
+  responsibilities:
+  - Lead and mentor a team of AI/Automation solution developers, providing technical
+    guidance on best practices
+  - Establish CI/CD pipelines, version control practices, and Infrastructure as Code
+    for automated builds and deployments
+  - Design scalable, secure, and cost-effective cloud architectures on AWS and GCP
+    platforms with serverless deployment strategies
+  - Implement comprehensive logging, monitoring, and observability practices for production
+    AI systems
+  - Create testing frameworks including unit, integration, and end-to-end testing
+    for AI/Automation solutions
+  - Translate business requirements into technical specifications and collaborate
+    with security and compliance teams
+  - Establish design standards, reusable component libraries, and configuration management
+    practices
+  - Prototype new technologies and troubleshoot complex technical issues with architectural
+    guidance
+  use_cases:
+  - Enterprise automation solutions using LangGraph, AWS Agentcore, and Google Agentspace
+  - AI agent development with Crew.ai and custom Python solutions
+  - Robotic Process Automation (RPA) using UiPath for business process automation
+  - Multi-environment deployment strategies for AI/ML solutions (Development, UAT,
+    QA, Production)
+  - Cloud-native, serverless deployment strategies for global accessibility and flexible
+    scaling
+  skills:
+    genai: [LangGraph, Crew.ai, AWS Agentcore, Google Agentspace]
+    ml: [TensorFlow, PyTorch, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Serverless]
+    ops: [Terraform, CloudFormation, CI/CD, Infrastructure as Code, Docker, Kubernetes,
+      DataDog, Grafana, Containerization, Automated testing, Monitoring and observability]
+    languages: [Python, Java]
+    domains: []
+    other: [UiPath]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8111284'
+  extracted_at: '2026-02-27T12:25:25.671452'

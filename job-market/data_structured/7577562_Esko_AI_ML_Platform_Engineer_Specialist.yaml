@@ -1,0 +1,50 @@
+company:
+  name: Esko
+  stage: Public
+  focus: Packaging and printing software solutions
+position:
+  title: AI / ML Platform Engineer Specialist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an ML Platform Engineer role focused on building and
+      maintaining MLOps infrastructure, tooling, and platform
+      services. The role enables data science and AI teams by
+      providing infrastructure for training, fine-tuning, and
+      deployment but does not involve building, training, or
+      deploying models directly.
+  responsibilities:
+  - Develop, improve, and maintain the MLOps platform to enable scalable, reproducible,
+    and observable machine learning and generative AI workflows
+  - Design and operate core ML infrastructure including feature stores, model registries,
+    CI/CD pipelines, and data pipelines using AWS services
+  - Enable and support AI and ML development teams by providing best practices, tooling,
+    and technical guidance on leveraging the platform
+  - Drive technology and architecture decisions across the ML stack including frameworks,
+    data processing, orchestration, and monitoring tools
+  - Collaborate with AI engineering teams to integrate LLMs and generative AI capabilities
+    into products through standardized infrastructure
+  - Ensure platform scalability, reliability, and compliance by applying DevOps, infrastructure-as-code,
+    and observability best practices
+  use_cases:
+  - Enabling scalable ML and generative AI workflows for internal teams
+  - Supporting packaging and printing industry business problems through AI solutions
+  - Integrating LLM and generative AI capabilities into packaging software products
+  - Providing model training, fine-tuning, and deployment infrastructure
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt orchestration]
+    ml: [Hugging Face]
+    web: []
+    databases: [FAISS, Pinecone, Weaviate]
+    data: [Ray, Feature stores]
+    cloud: [AWS SageMaker, AWS ECS/EKS, AWS Lambda, AWS Step Functions]
+    ops: [Terraform, CloudFormation, Docker, Kubernetes, MLflow, Kubeflow, Model serving,
+      CI/CD, Infrastructure-as-code, GitHub Actions, Argo]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7577562'
+  extracted_at: '2026-02-27T12:19:14.518569'

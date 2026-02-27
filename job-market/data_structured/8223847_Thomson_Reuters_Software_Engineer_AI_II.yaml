@@ -1,0 +1,50 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Professional information services for legal, tax, risk, and
+    compliance domains
+position:
+  title: Software Engineer, AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including RAG pipelines, custom AI agents with multi-step
+      reasoning, and integrating AI models into production. The
+      engineer is directly implementing and deploying LLM-based
+      solutions, not just supporting infrastructure for AI teams.
+  responsibilities:
+  - Architect and implement advanced AI systems including multi-component pipelines,
+    retrieval-augmented generation (RAG), and custom AI agents with multi-step reasoning
+  - Integrate AI models into production software through robust APIs and scalable
+    data pipelines
+  - Adapt AI models and techniques to specialized domains including legal, tax, and
+    compliance
+  - Evaluate and prototype cutting-edge AI techniques and conduct proof-of-concept
+    projects for new AI-driven features
+  - Contribute to MLOps and LLMOps practices in both design and implementation
+  - Implement comprehensive testing frameworks and monitoring systems for AI model
+    performance
+  use_cases:
+  - Legal expert systems and research solutions
+  - Tax and compliance automation systems
+  - Risk management and analysis tools
+  - Enterprise search and information retrieval
+  - AI-powered professional workflows across legal, tax, and accounting domains
+  skills:
+    genai: [RAG, AI agents, OpenAI API, Anthropic API, LLMs]
+    ml: [PyTorch, TensorFlow, embeddings]
+    web: [APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8223847'
+  extracted_at: '2026-02-27T12:32:55.800279'

@@ -1,0 +1,50 @@
+company:
+  name: CompuGroup Medical US
+  stage: Public
+  focus: Electronic Health Records and healthcare software
+position:
+  title: Quality Assurance Engineer- Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Quality Assurance Engineer role focused on testing
+      and validating AI services, not building or training AI
+      models. The responsibilities involve writing test plans,
+      executing automation scripts, and identifying bugs in
+      codebases - all support activities that enable the AI
+      development team rather than directly working on the AI
+      systems themselves.
+  responsibilities:
+  - Write comprehensive functional and system test plans and test automation scripts
+    using Selenium with Python
+  - Maintain and improve testing environments, frameworks, and processes
+  - Identify, record, and document bugs within codebases written in Python, Angular,
+    and other technologies
+  - Work with colleagues to track and document test plan progress and quality assurance
+    metrics
+  - Review system requirements and track QA metrics such as defect densities and test
+    execution progress
+  - Take ownership for individual deadlines and product releases as part of a collaborative
+    team unit
+  use_cases:
+  - Quality assurance testing for AI-powered healthcare applications
+  - Testing integrations for Electronic Health Records (EHR) systems
+  - Validating AI services within healthcare billing and revenue cycle management
+  - Ensuring reliability of AI features in digital healthcare products
+  - Automated testing of healthcare software solutions
+  skills:
+    genai: []
+    ml: []
+    web: [Selenium, Angular]
+    databases: []
+    data: []
+    cloud: []
+    ops: [test automation]
+    languages: [Python]
+    domains: []
+    other: [test planning, QA metrics tracking, bug tracking and documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7549634'
+  extracted_at: '2026-02-27T12:58:41.115359'

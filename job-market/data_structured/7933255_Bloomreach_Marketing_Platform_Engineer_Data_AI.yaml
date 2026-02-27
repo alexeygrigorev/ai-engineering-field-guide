@@ -1,0 +1,57 @@
+company:
+  name: Bloomreach
+  stage: Series B
+  focus: AI-powered personalization and marketing automation platform
+position:
+  title: Marketing Platform Engineer (Data & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds the data infrastructure and API backbone
+      that enables AI agents to function, rather than building,
+      training, or deploying the AI models themselves. The
+      engineer is responsible for data pipelines, context
+      retrieval systems, and API architecture that support AI
+      operations - this is enabling work for AI systems, not
+      hands-on AI/ML development.
+  responsibilities:
+  - Own Salesforce data integrity including data quality, deduplication, and enrichment
+    while maintaining the single source of truth
+  - Engineer the context retrieval backbone by designing versioned, documented API
+    endpoints for GTM agents
+  - Optimize retrieval performance through tuning query logic, filters, boosts, and
+    ranking algorithms for sub-second latency
+  - Scale GTM Brain data sources by integrating new sources without disrupting existing
+    agents
+  - Maintain context freshness through background jobs, re-embeddings, and data pipelines
+    that prevent drift
+  - Enable agent developers with starter queries and templated context patterns for
+    rapid adoption
+  - Collaborate on vendor strategy integrating tools like N8N, Clay, and Rattle into
+    the context architecture
+  - Build the GTM data stack coordinating with RevOps and AI Ops on Salesforce, enrichment
+    platforms, and LLM tools integration
+  use_cases:
+  - Conversational shopping assistant providing personalized product guidance
+  - Autonomous search for intuitive product discovery
+  - AI-powered autonomous marketing workflow automation
+  - Real-time customer journey personalization across touchpoints
+  - Sales and marketing agent context retrieval and intelligence
+  - Data enrichment and deduplication for customer relationship management
+  skills:
+    genai: [prompt versioning, retrieval optimization, LLM tooling]
+    ml: []
+    web: [API design, REST APIs, API versioning]
+    databases: [Salesforce, Supabase, Postgres, BigQuery, query optimization, schema
+        design]
+    data: [N8N, ETL, data pipelines, data quality management, data deduplication]
+    cloud: []
+    ops: [monitoring, alerting, observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7933255'
+  extracted_at: '2026-02-27T12:36:22.230571'

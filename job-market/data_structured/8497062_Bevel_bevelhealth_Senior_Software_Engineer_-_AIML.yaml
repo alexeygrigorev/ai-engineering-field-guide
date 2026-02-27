@@ -1,0 +1,46 @@
+company:
+  name: Bevel (bevel.health)
+  stage: Series A
+  focus: AI Health Companion providing personalized health guidance
+position:
+  title: Senior Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML models including
+      prototyping, productionizing, running experiments, and
+      managing ML ops. The responsibilities explicitly mention
+      improving accuracy, speed, and cost of AI/ML models, along
+      with model versioning, monitoring, and alerting, which are
+      core AI engineering tasks.
+  responsibilities:
+  - Ship features across the entire backend stack, from data infra to product endpoints
+  - Build extensible and robust business logic for processing health data
+  - Prototype, productionize, and run experiments to improve accuracy, speed, and
+    cost of AI/ML models
+  - Establish best practices for scalability, security, testing, and ML ops including
+    model versioning, monitoring, and alerting
+  - Continuously iterate on the engineering process and culture
+  use_cases:
+  - Personalized health guidance based on sleep, recovery, activity, and nutrition
+    data
+  - Real-time health recommendations and insights
+  - Health data processing and analysis
+  - AI-powered health decision support
+  skills:
+    genai: []
+    ml: [Algorithms, Statistics]
+    web: [Backend systems]
+    databases: []
+    data: [Data infrastructure]
+    cloud: []
+    ops: [ML ops, Model versioning, Model monitoring, Training pipelines, Experiment
+        tracking, Feature stores, Evaluation frameworks, Scalability, Security, Testing]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8497062'
+  extracted_at: '2026-02-27T12:28:14.367978'

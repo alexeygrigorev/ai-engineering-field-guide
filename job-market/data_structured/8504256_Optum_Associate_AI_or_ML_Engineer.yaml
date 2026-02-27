@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+position:
+  title: Associate AI or ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI/ML solutions including LLMs,
+      prompt engineering, and multi-agentic architectures. The
+      engineer will build and integrate models for clinical
+      workflows like Touchless Intake, Voice AI, and Prior
+      Authorization, which is hands-on work with AI systems rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Develop AI/ML solutions for ECS Big Bets and AI 10.0 initiatives focusing on automation
+    of clinical workflows
+  - Build and integrate models for Touchless Intake, Scheduling, Voice AI, and Prior
+    Authorization
+  - Implement unit testing, code coverage, and test automation to ensure quality and
+    reliability
+  - Collaborate with global engineering teams to deliver secure, scalable, and compliant
+    solutions
+  - Work on front-end and back-end components using React, Next.js, and PostgreSQL
+  - Optimize data pipelines and model performance for production environments
+  - Stay current with AI technologies including LLMs, prompt engineering, and multi-agentic
+    architectures
+  use_cases:
+  - Touchless Intake for clinical workflows
+  - Automated Scheduling systems
+  - Voice AI for healthcare interactions
+  - Prior Authorization automation
+  - Clinical workflow automation
+  - Operational efficiency improvements
+  skills:
+    genai: [LLMs, prompt engineering, multi-agentic architectures, MCP, agentic solutions]
+    ml: [pre-trained models]
+    web: [React, Next.js]
+    databases: [PostgreSQL]
+    data: [data pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Arize AX, Jest, PyTest]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504256'
+  extracted_at: '2026-02-27T12:51:58.622237'

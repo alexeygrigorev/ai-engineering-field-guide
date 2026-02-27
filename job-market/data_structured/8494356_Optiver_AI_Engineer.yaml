@@ -1,0 +1,44 @@
+company:
+  name: Optiver
+  stage: Public
+  focus: Market making and financial trading
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Engineer role focused on designing, building,
+      and deploying AI agents using Python. The responsibilities
+      include developing agents, understanding third-party models,
+      maintaining evaluation platforms, and directly working on AI
+      system deployment and optimization - all hands-on work
+      building AI systems rather than supporting infrastructure.
+  responsibilities:
+  - Design and develop robust AI agents using Python
+  - Integrate AI solutions with existing enterprise systems
+  - Understand the landscape of 3rd party models and their capabilities
+  - Collaborate with cross-functional teams to understand user needs and deliver effective
+    agents
+  - Maintain a platform for the evaluation of agents
+  - Troubleshoot and debug AI systems to ensure optimal performance
+  use_cases:
+  - Orchestrate data, workflows, and decisions across the firm
+  - Integrate AI agents with enterprise systems for workflow automation
+  - Deploy agents that translate business strategy into measurable outcomes
+  - Build evaluation platforms for AI agent performance
+  skills:
+    genai: [AI agents, 3rd party AI/ML services]
+    ml: [AI/ML libraries]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, unit testing]
+    languages: [Python, Python 3.x, asyncio, type hints]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8494356'
+  extracted_at: '2026-02-27T12:45:54.878051'

@@ -1,0 +1,46 @@
+company:
+  name: McCain Foods
+  stage: Public
+  focus: Global food products and CPG company
+position:
+  title: Forward Deployed Engineer - AI Strategist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on strategic planning, project management,
+      and driving AI adoption across the organization rather than
+      hands-on model development or deployment. While the title
+      mentions "Forward Deployed Engineer," the actual
+      responsibilities emphasize stakeholder collaboration,
+      performance monitoring, and overseeing AI projects rather
+      than building, training, fine-tuning, or deploying models
+      directly.
+  responsibilities:
+  - Drive strategic direction and adoption of AI solutions aligned with organizational
+    goals
+  - Lead deployment of solutions onsite/remote as technical owner and point of contact
+  - Lead POCs, pilots, and MVP-to-production transitions
+  - Conduct demos, training sessions, documentation walkthroughs, and knowledge transfer
+  - Coordinate with product managers, DevOps, security teams, and client IT departments
+  - Own delivery milestones, timelines, and technical outcomes for deployments
+  use_cases:
+  - Optimize business processes through AI implementation
+  - Improve organizational decision-making using AI solutions
+  - Deliver innovative AI solutions across departments
+  - Integrate AI technologies for process optimization in CPG industry
+  skills:
+    genai: []
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: [Databricks, data governance]
+    cloud: [Azure]
+    ops: []
+    languages: []
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8512655'
+  extracted_at: '2026-02-27T12:28:46.799116'

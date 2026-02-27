@@ -1,0 +1,55 @@
+company:
+  name: The College Board
+  stage: Nonprofit
+  focus: Educational assessment and college readiness
+position:
+  title: Data Engineer, AWS & AI/ML Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Data Engineer role that builds data platforms and
+      infrastructure to enable AI/ML work for data science teams.
+      While the role supports AI use cases like RAG and
+      recommendation systems through feature pipelines and ML-
+      ready datasets, the focus is on data engineering (pipelines,
+      ETL, data models) that powers AI work rather than building,
+      training, or deploying models directly.
+  responsibilities:
+  - Design, build, and maintain scalable batch and streaming data pipelines using
+    AWS services like S3, Glue, Lambda, Kinesis, Step Functions, Redshift, Athena,
+    and DynamoDB
+  - Develop and optimize data models and complex SQL queries to support analytics,
+    reporting, and downstream consumers
+  - Partner with Data Science and AI teams to productionize ML-ready datasets, including
+    training, evaluation, and inference data pipelines
+  - Build and maintain feature pipelines and embedding workflows that support ML models
+    and experimentation
+  - Enable AI use cases such as recommendation systems, personalization, and retrieval-augmented
+    generation (RAG) through robust data foundations
+  - Ensure data quality, reliability, and observability through automated testing,
+    validation, monitoring, and alerting
+  - Implement cloud-first, microservices-based architectures ensuring high availability,
+    performance, and cost efficiency
+  use_cases:
+  - College recruitment and student engagement analytics
+  - Personalization systems for student outreach
+  - Recommendation systems connecting students with colleges
+  - Retrieval-augmented generation for AI-powered search and insights
+  - Strategic enrollment planning for higher education institutions
+  skills:
+    genai: [Amazon Bedrock, RAG]
+    ml: [Feature pipelines]
+    web: [Microservices]
+    databases: [Amazon Redshift, Amazon DynamoDB, Amazon QuickSight]
+    data: [ETL/ELT pipelines]
+    cloud: [AWS S3, AWS Glue, AWS Lambda, AWS Kinesis, AWS Step Functions, Amazon
+        Athena, Amazon SageMaker]
+    ops: [CI/CD, MLOps, LLMOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7669331'
+  extracted_at: '2026-02-27T12:29:16.924286'

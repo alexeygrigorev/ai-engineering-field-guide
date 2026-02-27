@@ -1,0 +1,45 @@
+company:
+  name: Boomi
+  stage: Public
+  focus: Intelligent integration and automation platform
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is a Senior AI/ML Engineer position at an
+      integration platform company. The job title suggests hands-
+      on AI/ML engineering work building and deploying machine
+      learning systems, aligning with ai-first classification for
+      roles directly working on AI/ML implementations.
+  responsibilities:
+  - Design, develop, and deploy machine learning models and AI solutions
+  - Build and maintain scalable ML infrastructure and data pipelines
+  - Collaborate with cross-functional teams to integrate AI capabilities into the
+    Boomi platform
+  - Optimize model performance and inference latency for production environments
+  - Implement MLOps best practices for model lifecycle management
+  - Evaluate and implement new AI/ML technologies and frameworks
+  use_cases:
+  - Intelligent automation and business process optimization
+  - Data integration and connectivity solutions
+  - Predictive analytics for business insights
+  - AI-powered workflow automation
+  - Machine learning for integration platform intelligence
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, model training, machine learning,
+      deep learning]
+    web: [REST, FastAPI]
+    databases: [Postgres, MongoDB]
+    data: [Kafka, Airflow, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8109060'
+  extracted_at: '2026-02-27T12:17:22.727881'

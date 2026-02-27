@@ -1,0 +1,46 @@
+company:
+  name: Nightfall AI
+  stage: Series B+
+  focus: AI-native data loss prevention and security platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building and enhancing AI models
+      that power security products, including NLP architectures
+      and LLMs. The engineer works hands-on with model training,
+      deployment, and real-time inferencing for data leak
+      detection systems.
+  responsibilities:
+  - Build and ship the AI systems that power Nightfall's Security products
+  - Work with Python to analyze data, experiment with model architectures, benchmark
+    and monitor model accuracy, and build automation for training and deployment
+  - Work with Go to build microservices that ingest and process data at scale using
+    streaming infrastructure, distributed caching, and concurrent execution
+  - Collaborate across engineering and product to turn ideas into live AI features
+  - Participate in the team's oncall rotation to help drive operational excellence
+  use_cases:
+  - Detect and prevent data leaks in real-time for organizations
+  - Data loss prevention across SaaS apps, GenAI tools, email, and endpoint devices
+  - Insider risk management through automated monitoring
+  - Automatic remediation of security violations before they become incidents
+  - Real-time detection of sensitive data exfiltration
+  - End-user coaching and self-healing of security violations
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, Spacy, Transformer, CNN, LSTM, deep learning, model training, real-time
+        inferencing]
+    web: [microservices]
+    databases: [Redis, Postgres, distributed caching]
+    data: [Kafka, streaming infrastructure]
+    cloud: [AWS, GCP]
+    ops: [MLOps]
+    languages: [Python, Go, C++, Java]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596215'
+  extracted_at: '2026-02-27T13:04:25.158921'

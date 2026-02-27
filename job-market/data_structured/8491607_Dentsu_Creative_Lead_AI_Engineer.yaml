@@ -1,0 +1,60 @@
+company:
+  name: Dentsu Creative
+  stage: null
+  focus: |-
+    Creative marketing agency delivering AI-powered customer
+    engagement solutions
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building LLM
+      applications, fine-tuning models, implementing RAG systems,
+      and deploying AI solutions. The responsibilities directly
+      involve model development, agentic frameworks, and
+      production deployment of AI systems, which are core ai-first
+      activities.
+  responsibilities:
+  - Build conversational and multimodal AI applications using LLMs and frameworks
+    such as LangChain, LangGraph, LlamaIndex, AutoGen, or similar
+  - Design AI workflows incorporating reasoning, planning, tool-use, memory, grounding,
+    and external system integrations
+  - Transform models into scalable APIs and microservices using Python, FastAPI/Flask,
+    and Docker
+  - Deploy and monitor ML/AI systems in AWS/Azure/GCP, optimizing for cost, latency,
+    and reliability
+  - Build and optimize transformer-based and multimodal models using deep learning
+    frameworks like PyTorch and TensorFlow
+  - Implement fine-tuning, alignment (RLHF/RLAIF), LoRA/QLoRA, pruning, and model
+    evaluation pipelines
+  - Develop information retrieval systems including hybrid dense-sparse retrieval,
+    ranking, knowledge graphs, and relevance optimization
+  - Mentor junior engineers and contribute to internal best practices, reusable components,
+    and R&D initiatives
+  use_cases:
+  - Intelligent agents for customer engagement automation
+  - Multimodal conversational experiences for brand interactions
+  - Personalization systems for customer engagement
+  - Knowledge-grounded AI solutions using retrieval augmented generation
+  - Enterprise-grade knowledge graph applications
+  - Multi-turn multilingual dialogue systems for global brands
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, AutoGen, RAG, LLMs, multimodal architectures,
+      agents, prompt engineering, grounding, knowledge graphs]
+    ml: [fine-tuning, RLHF, RLAIF, LoRA, QLoRA, model pruning, PyTorch, TensorFlow,
+      deep learning, embeddings, vector search, model evaluation, predictive modeling,
+      transformers, RNNs, LSTMs]
+    web: [FastAPI, Flask, Django, REST APIs]
+    databases: [MongoDB]
+    data: [Apache Spark, Hadoop, data pipelines, data engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, CI/CD, Docker, monitoring, model deployment]
+    languages: [Python, SQL]
+    domains: []
+    other: [linear algebra, probability, statistics]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8491607'
+  extracted_at: '2026-02-27T13:11:38.196722'

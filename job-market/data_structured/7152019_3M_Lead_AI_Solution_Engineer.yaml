@@ -1,0 +1,53 @@
+company:
+  name: 3M
+  stage: Public
+  focus: Innovation-driven diversified technology company
+position:
+  title: Lead AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI
+      systems including LLMs, agentic AI systems, RAG pipelines,
+      and vector databases. While it includes leadership and MLOps
+      responsibilities, the core technical work is directly
+      developing AI/ML solutions rather than just supporting
+      infrastructure for others.
+  responsibilities:
+  - Lead the design, development, and deployment of AI/ML and Generative AI solutions
+    ensuring scalability, security, and performance
+  - Define standards for LLMOps/MLOps, model lifecycle management, governance, and
+    compliance while embedding responsible AI principles
+  - Lead, mentor, and upskill engineers, data scientists, and architects while fostering
+    an innovation-driven culture
+  - Develop and deploy agentic AI systems, RAG pipelines, vector databases, and AI
+    orchestration frameworks for enterprise workflows
+  - Implement robust security, privacy, and ethical AI practices with policies for
+    model explainability, drift monitoring, and lineage tracking
+  - Evaluate and adopt emerging AI technologies including LLMs, LangChain, Semantic
+    Kernel, and vector databases through proof-of-concept initiatives
+  - Collaborate with business stakeholders, cloud architects, and product teams as
+    the AI thought leader to deliver transformative solutions
+  use_cases:
+  - Enterprise agentic AI systems integration
+  - RAG-based knowledge retrieval and document processing
+  - Vector database powered semantic search applications
+  - Generative AI workflow automation and orchestration
+  - AI governance, compliance, and responsible AI deployment
+  - Multi-cloud AI solution deployment across global environments
+  skills:
+    genai: [LangChain, Semantic Kernel, RAG, LLMs, prompt engineering, agentic AI]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, OpenSearch, vector databases]
+    data: [Airflow]
+    cloud: [AWS, Azure, CloudFormation, Bicep]
+    ops: [MLOps, LLMOps, Docker, Kubernetes, MLflow, CI/CD, Terraform]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7152019'
+  extracted_at: '2026-02-27T12:49:06.843533'

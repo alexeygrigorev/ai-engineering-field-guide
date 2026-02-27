@@ -1,0 +1,57 @@
+company:
+  name: Normal Computing
+  stage: Startup
+  focus: AI accelerator and compiler infrastructure
+position:
+  title: Software Engineer, AI Compiler
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an ML compiler engineer role building compiler
+      infrastructure to support AI accelerator hardware. The role
+      focuses on developing compiler toolchains, IR
+      transformations, and code generation infrastructure that
+      enables ML models to run on hardware, rather than building,
+      training, or fine-tuning models themselves. This is
+      infrastructure work that supports AI/ML workloads.
+  responsibilities:
+  - Work across the full stack with software, systems, and hardware teams to ensure
+    correctness, performance, and deployment readiness for real workloads
+  - Contribute to shaping the long-term compiler architecture and tooling strategy
+    in a fast-moving startup environment
+  - Design and implement parts of the compiler stack targeting our novel AI accelerator,
+    including front-end lowering, IR transformations, optimization passes, and backend
+    code generation
+  - Build and evolve MLIR/LLVM based infrastructure to support graph lowering, hardware-aware
+    optimizations, and performance-centric code emission
+  - Collaborate closely with hardware architects, microarchitects, and research teams
+    to co-design compiler strategies that align with evolving ISA and hardware constraints
+  - Develop profiling and analysis tools to identify performance bottlenecks, validate
+    generated code, and ensure high throughput/low latency execution of AI workloads
+  - Enable efficient mapping of high-level ML models to hardware by working with model
+    frameworks and graph representations
+  - Drive performance tuning strategies including kernel authoring, schedule generation,
+    and hardware-specific optimization passes
+  use_cases:
+  - Machine learning model acceleration on custom hardware
+  - Efficient execution of AI workloads on novel accelerator architecture
+  - Graph lowering and optimization from high-level ML frameworks
+  - Hardware-aware code generation for neural network workloads
+  - Performance optimization and profiling for ML inference
+  skills:
+    genai: []
+    ml: [ONNX, PyTorch, TensorFlow, JAX]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLIR, LLVM, TVM, XLA, Glow, Compiler design, IR transformations, Code generation,
+      Hardware-software co-design, Kernel optimization, Performance profiling]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8522368'
+  extracted_at: '2026-02-27T12:18:06.722856'

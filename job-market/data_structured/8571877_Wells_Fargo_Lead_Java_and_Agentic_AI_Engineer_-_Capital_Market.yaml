@@ -1,0 +1,51 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Lead Java and Agentic AI Engineer - Capital Markets
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a Java software engineering position
+      focused on building distributed systems for capital markets.
+      While the title mentions "Agentic AI," the actual
+      responsibilities leverage GenAI tools to produce code and
+      propose AI solutions for technology processes, rather than
+      building, training, or deploying AI models or agents
+      directly. The core work involves Java development,
+      microservices architecture, and database design, with AI
+      used as a productivity tool rather than the primary
+      deliverable.
+  responsibilities:
+  - Develop software for EF&F components as an individual contributor
+  - Translate business specifications into functional specifications and architectures
+  - Analyze and refactor legacy code into scalable microservice architecture
+  - Write high-quality Java code using object-oriented principles and design patterns
+  - Create and modify RDBMS objects including tables, views, and stored procedures
+  - Build applications requiring minimal or no L2 support
+  - Leverage GenAI tools to produce high-quality code and maintain productivity
+  - Identify technology process improvements and propose AI technology solutions
+  use_cases:
+  - Clearing and market making functions in capital markets
+  - Equity swaps and equity derivatives trading applications
+  - Risk and margin management for financial instruments
+  - Trade lifecycle processing including confirmation, clearing and settlement
+  - Low-latency, high-throughput trading platforms
+  - Risk applications and regulatory compliance systems
+  skills:
+    genai: [GenAI tools]
+    ml: []
+    web: [microservices, APIs]
+    databases: [Oracle Coherence, Redis, RDBMS, in-memory cache architectures]
+    data: []
+    cloud: [distributed systems]
+    ops: [memory management, concurrency]
+    languages: [Java, SQL]
+    domains: []
+    other: [design patterns]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8571877'
+  extracted_at: '2026-02-27T12:10:56.233499'

@@ -1,0 +1,54 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment management and financial services
+position:
+  title: Artificial Intelligence Engineer, Portfolio Management Group, Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, training, and
+      fine-tuning ML and deep learning models using PyTorch,
+      TensorFlow, and Keras. The position directly implements
+      generative AI solutions including RAG, RLHF, and model
+      distillation, working with LLM frameworks like LangChain and
+      LlamaIndex to deploy AI systems.
+  responsibilities:
+  - Design and implement scalable generative AI and machine learning solutions for
+    business problems
+  - Develop, train, and fine-tune ML and deep learning models using frameworks such
+    as PyTorch, Keras, TensorFlow or Scikit-learn
+  - Collaborate with data engineers and software developers to integrate AI models
+    into production systems through APIs, vector databases, and orchestration frameworks
+  - Experiment with and evaluate generative AI techniques such as retrieval-augmented
+    generation (RAG), reinforcement learning from human feedback (RLHF), and model
+    distillation
+  - Analyze large datasets to extract meaningful insights and features for model training
+  - Evaluate model performance using statistical methods, experiment tracking, A/B
+    testing and LLM evaluation techniques
+  - Ensure compliance with responsible AI standards including fairness, transparency,
+    and data governance
+  - Stay updated with advancements in AI & ML to propose innovative solutions
+  use_cases:
+  - Portfolio management and investment strategies for fixed income markets
+  - Alpha generation and risk management in financial markets
+  - Data-driven insights for investment decision making
+  - Financial data analysis and pattern recognition
+  - Large-scale enterprise systems for financial services
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, RLHF, model distillation]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Hugging Face, deep learning, time series
+        analysis, statistical learning, optimization]
+    web: []
+    databases: [Snowflake, FAISS, Pinecone, Chroma]
+    data: [Spark, Pandas]
+    cloud: [GCP, Azure, AWS]
+    ops: [Git, GitHub]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8225043'
+  extracted_at: '2026-02-27T13:13:10.274870'

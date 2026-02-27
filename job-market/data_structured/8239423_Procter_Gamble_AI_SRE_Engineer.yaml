@@ -1,0 +1,52 @@
+company:
+  name: Procter & Gamble
+  stage: Public
+  focus: Consumer goods company with digital transformation
+position:
+  title: AI SRE Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE role focused on system reliability,
+      automation, and observability. While there is interest in
+      leveraging GenAI for operational solutions and automation,
+      the role does not involve building, training, fine-tuning,
+      or deploying AI/ML models directly. The AI component is
+      about applying AI tools to enhance SRE capabilities rather
+      than developing AI systems.
+  responsibilities:
+  - Maintain and improve the availability, reliability, and performance of all production
+    systems
+  - Implement and manage application monitoring and observability solutions using
+    Grafana and Prometheus
+  - Develop and maintain automation to streamline operations and reduce manual intervention
+  - Participate in the software development lifecycle using SRE/DevOps practices and
+    CI/CD pipelines
+  - Troubleshoot, debug, and resolve software and infrastructure issues across the
+    technology stack
+  - Collaborate with development teams to design scalable and reliable systems
+  - Continuously learn and apply emerging technologies in data solutions, AI, and
+    machine learning
+  use_cases:
+  - Application monitoring and observability for production systems
+  - Automation of operational processes to reduce manual intervention
+  - Infrastructure reliability and performance management
+  - Deployment pipeline management and CI/CD operations
+  - System troubleshooting and incident resolution
+  - Enhancing SRE capabilities through AI/ML solutions
+  skills:
+    genai: [Generative AI]
+    ml: [AI principles]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Cloud computing]
+    ops: [Grafana, Prometheus, CI/CD, SRE, DevOps, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8239423'
+  extracted_at: '2026-02-27T13:10:33.572823'

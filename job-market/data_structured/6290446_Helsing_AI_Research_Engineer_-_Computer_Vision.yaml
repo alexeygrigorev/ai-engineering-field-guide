@@ -1,0 +1,44 @@
+company:
+  name: Helsing
+  stage: Series B
+  focus: Defence AI for military applications
+position:
+  title: AI Research Engineer -  Computer Vision
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This is a Computer Vision Research Engineer role focused on
+      building traditional CV models for object recognition,
+      tracking, and video understanding. The role involves
+      developing, extending, and evaluating state-of-the-art deep
+      learning-based CV architectures, but does not mention
+      working with LLMs, generative AI, or agent-based systems.
+  responsibilities:
+  - Develop computer vision models and pipelines using state-of-the-art methods and
+    architectures
+  - Design experiments and conduct benchmarks to evaluate performance in real-world
+    scenarios
+  - Apply and develop techniques to adapt models to target hardware and compute constraints
+  - Contribute to impactful projects and collaborate across teams and backgrounds
+  use_cases:
+  - Object recognition and tracking for defence applications
+  - Video understanding and scene matching
+  - AI-powered perception systems to assist human decision-making
+  - Robust computer vision with hardware constraints and adversarial resistance
+  skills:
+    genai: []
+    ml: [PyTorch, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++, Rust, Java]
+    domains: [Computer Vision, Object Detection, Multi-object Tracking, Scene Understanding,
+      3D Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6290446'
+  extracted_at: '2026-02-27T12:12:23.829211'

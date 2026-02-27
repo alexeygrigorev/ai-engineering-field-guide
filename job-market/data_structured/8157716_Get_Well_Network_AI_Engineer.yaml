@@ -1,0 +1,49 @@
+company:
+  name: Get Well Network
+  stage: Series B
+  focus: AI-native healthcare precision care and patient engagement
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work with LLMs including training,
+      fine-tuning, and deploying unimodal and multimodal models.
+      The engineer directly builds, optimizes, and deploys AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Fine-tune and evaluate LLMs for real-world healthcare use cases using PEFT and
+    LoRA techniques
+  - Build multimodal AI systems integrating text, structured medical data, and images
+    for clinical applications
+  - Optimize models for accuracy, latency, and resource efficiency in production environments
+  - Implement speech-to-text and text-to-speech models into conversational interfaces
+    and voice assistants
+  - Process and curate large-scale healthcare datasets with HIPAA and GDPR compliance
+    controls
+  - Evaluate model bias, drift, explainability, and reliability using benchmarks and
+    human-in-the-loop validation
+  use_cases:
+  - Precision care delivery and patient engagement optimization
+  - Clinical voice assistants and conversational AI interfaces for healthcare
+  - Multimodal AI analysis integrating medical images, text, and structured data
+  - Healthcare operational efficiency through AI-driven automation
+  - Real-time patient care orchestration using AI-native intelligence
+  skills:
+    genai: [Large Language Models, PEFT, LoRA, Prompt Engineering, Retrieval-Augmented
+        Generation, LangChain, OpenAI]
+    ml: [PyTorch, TensorFlow, Fine-tuning, Hugging Face, Whisper, Multimodal Learning,
+      Model Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: [Python]
+    domains: [Speech-to-Text, Text-to-Speech]
+    other: [Responsible AI, HIPAA, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8157716'
+  extracted_at: '2026-02-27T12:24:40.033777'

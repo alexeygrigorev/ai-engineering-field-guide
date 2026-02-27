@@ -1,0 +1,54 @@
+company:
+  name: Securonix
+  stage: Backed by Vista Equity Partners
+  focus: |-
+    AI-powered SIEM and cybersecurity platform for threat
+    detection, investigation, and response
+position:
+  title: Software Engineer - Back-End & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires "AI Tools & Agent Integration
+      Experience" and is building a platform "powered by agentic
+      AI" with a human-in-the-loop philosophy. The job involves
+      developing a Threat Intelligence Platform that integrates AI
+      agents, requiring hands-on work with agent systems rather
+      than just supporting infrastructure for them.
+  responsibilities:
+  - Design, develop, and maintain the Threat Intelligence Platform ThreatQ with focus
+    on performance, scalability, and maintainability
+  - Collaborate with team members, product owners, and designers to implement product
+    requirements
+  - Participate in code reviews to provide and receive constructive feedback for maintaining
+    code quality standards
+  - Collaborate with product managers, security analysts, and stakeholders to translate
+    requirements into technical specifications
+  - Develop and maintain high-quality code ensuring adherence to best practices and
+    coding standards
+  - Stay current with emerging technologies in cybersecurity and integrate new AI
+    tools and techniques into development processes
+  - Contribute to technical documentation including design specifications, user guides,
+    and API documentation
+  use_cases:
+  - Threat detection and investigation using agentic AI with human-in-the-loop philosophy
+  - Real-time analytics and automated response for cybersecurity threats
+  - Behavioral insight across users, entities, and data using advanced UEBA
+  - Threat intelligence enrichment with real-world context
+  - Rapid search and investigation capabilities for security analysts
+  skills:
+    genai: [AI Tools, Agent Integration]
+    ml: []
+    web: [React, AngularJS, HTML, CSS, RESTful APIs, JSON, Microservices, Laravel]
+    databases: [MySQL, MariaDB]
+    data: []
+    cloud: [AWS, Azure, Google Cloud Platform]
+    ops: [GIT, Maven, Gradle, JUnit, Mockito, TestNG, Docker, Kubernetes, IaC]
+    languages: [Java, Python, SQL, JavaScript, TypeScript, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8505536'
+  extracted_at: '2026-02-27T12:48:30.615355'

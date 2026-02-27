@@ -1,0 +1,56 @@
+company:
+  name: Mindtickle
+  stage: null
+  focus: B2B SaaS sales enablement platform
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI systems including
+      Agentic workflows, RAG architectures, and LLM
+      implementations to create an enterprise intelligence engine.
+      The role directly works with LLMs, agents, and model
+      orchestration rather than just supporting AI infrastructure.
+  responsibilities:
+  - Develop a unified intelligence layer that ingests signals from disparate sources
+    and processes them into actionable outputs
+  - Build robust integrations and webhooks to push AI-generated insights directly
+    into workflow tools like Salesforce
+  - Architect agentic workflows where LLMs are granted permission to perform tasks
+    autonomously
+  - Implement advanced RAG to ground AI outputs in company documentation, historical
+    data, and strategic context
+  - Ensure rigorous evaluation and guardrails for non-deterministic models to prevent
+    hallucinations in critical business workflows
+  - Collaborate with Analytics Engineers to ensure underlying data pipelines support
+    real-time AI applications
+  - Maintain security and privacy standards ensuring AI agents respect data access
+    permissions across departments
+  use_cases:
+  - Enterprise intelligence automation connecting product telemetry, CRM, call transcripts,
+    and marketing data
+  - Automated churn risk alerting by pushing AI insights into Salesforce and other
+    business tools
+  - Agentic workflows that autonomously execute tasks across business systems
+  - Knowledge retrieval using RAG grounded in company documentation and historical
+    data
+  - Real-time lead qualification and customer support automation
+  - Cross-functional data synthesis for strategic business intelligence
+  skills:
+    genai: [LLM APIs, RAG, Agents, Prompt engineering]
+    ml: []
+    web: [FastAPI, Django, API integrations, Salesforce API, HubSpot API, Zendesk
+        API, Jira API, Marketo API]
+    databases: [Snowflake, BigQuery]
+    data: [Airflow]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8464585'
+  extracted_at: '2026-02-27T13:08:15.665292'

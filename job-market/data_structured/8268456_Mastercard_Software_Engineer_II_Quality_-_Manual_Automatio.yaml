@@ -1,0 +1,50 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global payments technology and processing network
+position:
+  title: Software Engineer II (Quality) - Manual, Automation, AI & Cloud Testing-1
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Quality Engineering/Software Testing role that
+      mentions "AI and cloud-based application testing" but
+      focuses on test automation, manual testing, CI/CD pipelines,
+      and quality assurance. The role validates applications but
+      does not build, train, deploy, or fine-tune AI/ML models,
+      placing it in the ai-support category as a quality assurance
+      function for applications that may include AI features.
+  responsibilities:
+  - Design, develop, and execute manual and automated test cases for web applications,
+    APIs, and databases
+  - Validate application codebases for new features and regression testing using automation
+    frameworks
+  - Perform performance testing and ensure scalability and reliability of cloud-based
+    applications
+  - Write and optimize complex SQL queries to validate large and complex datasets
+  - Implement and maintain CI/CD pipelines using tools like Git/Bitbucket, Jenkins,
+    and Maven
+  - Collaborate with cross-functional teams to ensure quality throughout the software
+    development lifecycle
+  use_cases:
+  - Quality assurance for web applications and APIs
+  - Performance testing for cloud-based payment applications
+  - Data validation for Business Intelligence platform
+  - Test automation for payment processing systems
+  - AI/ML-based application testing
+  skills:
+    genai: [AI/ML-based application testing]
+    ml: []
+    web: [Selenium, Cucumber, REST API testing]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Git, Bitbucket, Jenkins, Maven, Docker, Kubernetes, CI/CD]
+    languages: [Java, Python]
+    domains: []
+    other: [Agile, SAFe, ISTQB, JIRA, TestRail]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8268456'
+  extracted_at: '2026-02-27T12:10:34.634917'

@@ -1,0 +1,52 @@
+company:
+  name: Qonto
+  stage: Series C
+  focus: Financial workspace for SMEs
+position:
+  title: Senior Machine Learning Engineer for AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the engineer will directly
+      develop, train, deploy, and monitor Generative AI and ML
+      models for customer-facing products. The role involves
+      hands-on model development, fine-tuning, and production
+      deployment with measurable impact on 500,000+ business
+      customers.
+  responsibilities:
+  - Develop new models end-to-end from understanding product requirements to implementation
+    and deployment
+  - Align with Product Managers, Data Engineers, and Backend Engineers to ensure seamless
+    integration of ML solutions into the product ecosystem
+  - Design, train, evaluate, and iterate on ML models using modern techniques tailored
+    to real business problems
+  - Put models into production with robust technical implementation and quality assurance
+    processes
+  - Create an ML Ops framework for the team to ensure models scale effectively with
+    proper monitoring and alerts
+  - Implement model drift detection, performance tracking, and automated retraining
+    pipelines
+  - Share best practices within the ML team, contributing to internal knowledge, tooling
+    improvements, and mentoring peers
+  use_cases:
+  - AI-powered financial workspace for SMEs
+  - Automated invoicing and spend management
+  - Pre-accounting automation and financial task completion
+  - Customer-facing AI solutions for business finance operations
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Model training and fine-tuning]
+    web: [FastAPI]
+    databases: [Snowflake, PostgreSQL]
+    data: [Kafka, Airflow]
+    cloud: [AWS]
+    ops: [Prometheus, ArgoCD, GitHub, MLOps, Model deployment, Model drift detection,
+      Performance monitoring, Automated retraining pipelines, Kibana]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8097536'
+  extracted_at: '2026-02-27T12:19:58.980732'

@@ -1,0 +1,52 @@
+company:
+  name: Aspora
+  stage: Series A
+  focus: Borderless financial operating system and banking
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Engineer role working directly on building,
+      deploying, and scaling LLM-powered systems. The
+      responsibilities include owning the serving/runtime layer
+      for LLMs, integrating agent capabilities and tool calling,
+      and designing retrieval systems - all hands-on work with AI
+      models and infrastructure.
+  responsibilities:
+  - Own the serving and runtime layer for all LLM-powered features, ensuring low latency,
+    high reliability, and cost efficiency in production
+  - Integrate LLM and agent capabilities into real product workflows, including tool
+    calling, routing, guardrails, and safe failure modes
+  - Build reliable, observable AI workflows across product, ops, and data systems
+    with strong foundations in retries, idempotency, fallbacks, and human-in-the-loop
+    patterns
+  - Design and operate retrieval and knowledge systems end-to-end, from ingestion
+    and indexing to retrieval and response composition
+  - Automate and harden operational processes, turning manual workflows into scalable,
+    measurable pipelines
+  - Instrument and monitor AI systems in production, tracking quality regressions,
+    drift, prompt failures, and retrieval issues with logs, metrics, and traces
+  use_cases:
+  - Internal automation tools and workflows
+  - LLLM-powered product features with agent capabilities
+  - Tool calling, routing, and guardrails for AI workflows
+  - Retrieval and knowledge systems for financial information
+  - Operational process automation for banking operations
+  - Financial workflow automation with human-in-the-loop patterns
+  skills:
+    genai: [LLMs, LLM APIs, RAG, Agents, Tool calling, Prompt engineering]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [MLOps, LLMOps, Monitoring and observability, MLflow, Kubernetes, Docker]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8389125'
+  extracted_at: '2026-02-27T13:08:37.008691'

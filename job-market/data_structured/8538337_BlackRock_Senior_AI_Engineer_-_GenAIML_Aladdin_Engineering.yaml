@@ -1,0 +1,55 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment management and financial technology
+position:
+  title: Senior AI Engineer - GenAI/ML, Aladdin Engineering - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI systems including
+      LLM agents, RAG systems, and vector search implementations.
+      The engineer is directly designing and deploying GenAI
+      solutions, not just supporting infrastructure for others.
+  responsibilities:
+  - Design and develop production AI services that embed GenAI and ML into enterprise
+    workflows
+  - Build AI agents that can plan and execute multi-step tasks by calling approved
+    tools/APIs, retrieving context, validating outputs, and safely handling failure
+    cases
+  - Implement retrieval-augmented generation (RAG) systems using vector search and
+    hybrid retrieval to ground responses in enterprise data and documentation
+  - Develop ML components for classification, ranking, and anomaly detection and integrate
+    them with LLM-based systems for hybrid intelligence
+  - Establish robust evaluation and quality gates for agents and LLM systems including
+    golden datasets, automated tests, regression suites, and monitoring for drift/quality
+  - Implement enterprise-grade governance including audit trails, provenance/citations,
+    access control, privacy handling, and versioning
+  - Champion best practices for code quality, testing, automation, and performance/cost
+    optimization
+  - Mentor engineers to elevate technical craftsmanship, problem-solving, and design
+    thinking
+  use_cases:
+  - Enterprise workflow automation using AI agents
+  - Knowledge retrieval and document search using RAG
+  - Post-trade accounting operations automation
+  - Operational efficiency improvements in financial systems
+  - Anomaly detection and classification in financial data
+  - User experience enhancement through AI-powered insights
+  skills:
+    genai: [LangChain, RAG, AI agents]
+    ml: [ML evaluation, Classification, Anomaly detection]
+    web: [FastAPI]
+    databases: [Vector databases, Pinecone, Weaviate, Milvus, pgvector, Elastic vector
+        search]
+    data: [Snowflake, Redis, Kafka]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker, OpenTelemetry, Prometheus, Grafana, CI/CD]
+    languages: [Python, Java, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8538337'
+  extracted_at: '2026-02-27T12:15:07.347934'

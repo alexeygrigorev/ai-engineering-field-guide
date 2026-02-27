@@ -1,0 +1,44 @@
+company:
+  name: Emergent.sh
+  stage: Series B
+  focus: Autonomous coding agents for software development
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role focused on
+      supporting and troubleshooting AI-generated applications,
+      debugging issues, guiding users, and building
+      troubleshooting guides. While it's customer-facing, the work
+      involves supporting existing AI systems rather than
+      building, training, or deploying models and agents, which
+      aligns with ai-support.
+  responsibilities:
+  - Ensure smooth performance of AI-generated applications
+  - Debug functional issues across frontend, backend, and database layers in live
+    environments
+  - Guide users in building stable apps with our autonomous development platform
+  - Collaborate with internal teams to enhance product stability and user experience
+  - Build troubleshooting guides and quick fixes for recurring patterns
+  use_cases:
+  - Autonomous generation of production applications from plain-language intent
+  - Testing and deploying AI-generated code at global scale
+  - Building millions of applications through AI-driven software creation
+  - Ensuring correctness, reliability, security, and scale of AI-generated systems
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs, Web development]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Debugging]
+    languages: [Python]
+    domains: []
+    other: [Problem-solving]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8404261'
+  extracted_at: '2026-02-27T12:36:13.403124'

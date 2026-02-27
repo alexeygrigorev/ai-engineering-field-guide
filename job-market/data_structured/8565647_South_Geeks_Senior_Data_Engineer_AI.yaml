@@ -1,0 +1,51 @@
+company:
+  name: South Geeks
+  stage: early-stage
+  focus: AI-driven commercial real estate lease management platform
+position:
+  title: Senior Data Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines and
+      infrastructure that support AI work rather than directly
+      building or fine-tuning ML models. The engineer designs ELT
+      workflows, orchestrates LLM API calls, and creates data
+      validation frameworks - all enabling AI functionality rather
+      than developing the AI models themselves.
+  responsibilities:
+  - Design and iterate data extraction and transformation pipelines that convert unstructured
+    leasing documents into structured JSON stores
+  - Write and optimize LLM API calls and prompts to extract and interpret text data
+    at scale
+  - Orchestrate AI-driven workflows integrating multiple LLM models to handle diverse
+    document types and edge cases
+  - Build and maintain ELT workflows in Python, managing data flows between cloud
+    storage and relational databases
+  - Develop data quality and validation frameworks to ensure structured outputs are
+    accurate and production-ready
+  - Implement monitoring, alerting, and automated quality checks across extraction
+    pipelines
+  use_cases:
+  - Automate complex commercial real estate lease negotiation and management workflows
+  - Extract structured data from unstructured leasing documents using AI-driven techniques
+  - Generate market-aligned insights from lease data for real estate teams
+  - Streamline proposal generation for commercial real estate deals
+  - Transform messy real-world documents into clean, reliable JSON for web applications
+  skills:
+    genai: [OpenAI API, Anthropic API, prompt engineering, LLM orchestration]
+    ml: []
+    web: []
+    databases: [PostgreSQL]
+    data: [ELT patterns, data pipeline architecture, JSON schema design, data validation,
+      document processing, data quality frameworks]
+    cloud: [AWS S3]
+    ops: [monitoring and alerting]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8565647'
+  extracted_at: '2026-02-27T12:44:15.725478'

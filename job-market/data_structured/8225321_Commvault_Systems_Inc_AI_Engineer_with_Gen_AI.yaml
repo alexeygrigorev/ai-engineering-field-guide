@@ -1,0 +1,50 @@
+company:
+  name: Commvault Systems, Inc.
+  stage: Public
+  focus: Cyber resilience and data protection platform
+position:
+  title: AI Engineer (with Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on AI model development including
+      deploying machine learning algorithms, NLP, computer vision,
+      and AI-powered chatbots/virtual assistants. The title
+      explicitly mentions Gen AI and responsibilities include
+      designing, developing, and deploying advanced AI models to
+      address customer experience challenges.
+  responsibilities:
+  - Design, develop, and deploy advanced AI models including machine learning algorithms,
+    NLP, and computer vision
+  - Collect, clean, and analyze large datasets to identify patterns and insights for
+    AI model development
+  - Integrate AI solutions seamlessly into existing customer experience systems and
+    platforms
+  - Continuously refine and improve AI models to enhance accuracy and efficiency
+  - Develop and test AI-powered prototypes and POCs to demonstrate solution feasibility
+  - Collaborate with cross-functional teams to align AI initiatives with business
+    objectives
+  use_cases:
+  - Enhance customer interactions and experiences through AI-powered solutions
+  - AI-powered chatbots and virtual assistants for customer support
+  - Natural language processing for text classification, sentiment analysis, and language
+    generation
+  - Computer vision applications for customer experience challenges
+  - Streamline business processes through intelligent automation
+  - Data-driven insights to improve customer journey personalization
+  skills:
+    genai: [Chatbots, Virtual Assistants]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [Natural Language Processing, Computer Vision, NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8225321'
+  extracted_at: '2026-02-27T12:53:30.367244'

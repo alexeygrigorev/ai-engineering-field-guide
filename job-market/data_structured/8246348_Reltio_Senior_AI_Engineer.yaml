@@ -1,0 +1,56 @@
+company:
+  name: Reltio
+  stage: null
+  focus: AI-powered data unification and master data management
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on development of agentic AI
+      systems, integrating LLMs, building agent architectures
+      using frameworks like LangGraph, Crew AI, and AutoGen, and
+      implementing prompt engineering and tool invocation. This is
+      direct work building AI systems rather than supporting
+      infrastructure for others.
+  responsibilities:
+  - Develop robust, scalable Java/Python based backend systems that enable the orchestration
+    of Agentic AI workflows
+  - Develop state-of-the-art AI/ML models for solving real-world data management challenges
+    such as entity resolution, classification, similarity matching, and anomaly detection
+  - Integrate LLMs into backend pipelines to power autonomous or semi-autonomous decision-making
+  - Design agent architectures and LLM toolchains using frameworks like LangGraph,
+    Crew AI, AutoGen, and similar
+  - Implement services and APIs that manage prompt chaining, tool invocation, and
+    contextual memory for agents
+  - Apply prompt engineering best practices to improve agent behavior, task accuracy,
+    and adaptability
+  - Monitor and optimize service performance, reliability, and scalability in production
+    environments
+  - Continuously monitor and improve model performance using feedback loops, A/B testing,
+    drift detection, and retraining strategies
+  use_cases:
+  - Entity resolution and data unification across siloed sources
+  - Enterprise master data management and multi-domain MDM
+  - Autonomous or semi-autonomous decision-making powered by LLMs
+  - Classification, similarity matching, and anomaly detection for data management
+  - Agentic AI workflows with tool invocation and contextual memory
+  - LLM-powered agents, copilots, or task bots for data-rich environments
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, LangChain, LlamaIndex, OpenAI API, Mistral,
+      Claude, LLaMA, RAG, prompt engineering, agents, embedding services, semantic
+        search]
+    ml: [PyTorch, TensorFlow, scikit-learn, MLlib]
+    web: []
+    databases: [vector databases]
+    data: [Spark, Kafka, Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, Docker]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8246348'
+  extracted_at: '2026-02-27T12:51:27.184737'

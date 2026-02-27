@@ -1,0 +1,48 @@
+company:
+  name: Mural
+  stage: null
+  focus: Visual collaboration and decision-making platform
+position:
+  title: Staff Software Engineer, AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and refining AI
+      systems, implementing the full lifecycle of generative AI
+      development from model selection to production. The engineer
+      directly develops AI-powered features for Mural's visual
+      collaboration platform, working with Azure OpenAI to deploy
+      models that enhance user experiences.
+  responsibilities:
+  - Build and refine early-stage AI systems and frameworks that enhance user experiences
+    and deliver measurable improvements in performance and relevance
+  - Help set direction for AI innovation at Mural by working closely with cross-functional
+    teams to define priorities and long-term strategy
+  - Translate complex, open-ended problems into structured engineering approaches
+    grounded in data analysis, experimentation, and machine learning principles
+  - Champion technical excellence and mentorship, fostering best practices in AI development
+    and nurturing a culture of inclusivity, curiosity, and collaboration
+  - Shape the future of the team through thoughtful hiring, process improvements,
+    and initiatives that attract and develop exceptional AI talent
+  use_cases:
+  - AI-powered visual collaboration tools that enhance team alignment and communication
+  - Generative AI features that improve decision-making in visual environments
+  - AI-assisted workflows that make collaboration more fluid and intuitive
+  - Visual workspace enhancements using AI to amplify human creativity
+  - Team collaboration improvements through AI-driven insights and suggestions
+  skills:
+    genai: [generative AI, retrieval systems]
+    ml: []
+    web: [React, Node]
+    databases: [MongoDB]
+    data: []
+    cloud: [Azure OpenAI]
+    ops: [model lifecycle management, AI indexing]
+    languages: []
+    domains: [personalization, natural language processing]
+    other: [prototyping, 0→1 product development, mentorship]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8541753'
+  extracted_at: '2026-02-27T12:18:13.067300'

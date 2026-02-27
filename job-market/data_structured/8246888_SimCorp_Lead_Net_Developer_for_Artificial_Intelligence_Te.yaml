@@ -1,0 +1,52 @@
+company:
+  name: SimCorp
+  stage: Public
+  focus: |-
+    Integrated investment management solutions for financial
+    institutions
+position:
+  title: Lead .Net Developer for Artificial Intelligence Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of generative AI
+      models, Agentic AI solutions, and plugins for AI models
+      using SemanticKernel, OpenAI, and MCP protocols. The
+      engineer directly builds, deploys, and integrates AI
+      functionality, taking solutions from proof-of-concept to
+      production, which qualifies as building ON AI systems.
+  responsibilities:
+  - Develop plugins and tools for generative AI models and Agentic AI solutions
+  - Transition AI solutions from proof-of-concept to production-ready implementations
+  - Integrate AI functionality with modules and agents developed by other teams
+  - Lead the design and development of software solutions meeting business and technical
+    requirements
+  - Provide technical leadership and mentorship to engineering teams
+  - Collaborate with product management, design, and QA teams for seamless delivery
+  - Identify and resolve complex technical issues ensuring scalable, reliable, and
+    performant solutions
+  - Ensure adherence to software development best practices including coding standards,
+    testing, and documentation
+  use_cases:
+  - Generative AI applications for financial services
+  - Agentic AI solutions for investment management operations
+  - AI-powered plugins and tools integrated with existing financial modules
+  - AI-driven automation of accounting and operational processes
+  - Multi-agent systems for financial data processing and analysis
+  skills:
+    genai: [OpenAI API, Semantic Kernel, Agentic AI, MCP (Model Context Protocol),
+      function calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Azure]
+    ops: [Azure DevOps, CI/CD, DevOps]
+    languages: [.NET, C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8246888'
+  extracted_at: '2026-02-27T12:27:07.325114'

@@ -1,0 +1,45 @@
+company:
+  name: Jade Global
+  stage: null
+  focus: null
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building LLM-based GenAI applications
+      end-to-end including RAG pipelines, agentic systems with
+      MCP/A2A, and working with multiple LLMs. The engineer
+      directly deploys, fine-tunes, and monitors AI models using
+      frameworks like LangChain, LangGraph, and vector databases.
+  responsibilities:
+  - Build and deploy LLM-based GenAI applications end-to-end
+  - Design and implement agentic and multi-agent systems using MCP and A2A
+  - Develop RAG pipelines and document intelligence solutions
+  - Build AI backend services using FastAPI and Flask
+  - Develop and integrate chat UIs, copilots, and dashboards with AI APIs
+  - Productionize, deploy, and monitor AI systems on cloud platforms
+  - Ensure performance, security, scalability, and Responsible AI compliance
+  use_cases:
+  - Enterprise document intelligence solutions
+  - AI-powered chat interfaces and copilots
+  - Agentic AI systems for automation
+  - RAG-based knowledge retrieval and search
+  - Multi-agent workflows using MCP/A2A protocols
+  skills:
+    genai: [OpenAI/Azure OpenAI, Gemini, Claude, LLaMA, Mistral, MCP, A2A, LangChain,
+      LangGraph, LlamaIndex, CrewAI, AutoGen, Google ADK, RAG, Prompt engineering]
+    ml: [LoRA, PEFT, Hugging Face]
+    web: [FastAPI, Flask, REST, WebSockets, React, HTML, CSS, Streamlit]
+    databases: [FAISS, Pinecone, Weaviate, Chroma, Milvus]
+    data: []
+    cloud: [Azure, AWS, GCP, Azure ML, SageMaker, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, MLflow]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8536169'
+  extracted_at: '2026-02-27T12:38:31.886878'

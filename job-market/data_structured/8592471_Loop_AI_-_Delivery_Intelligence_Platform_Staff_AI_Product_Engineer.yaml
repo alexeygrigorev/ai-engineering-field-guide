@@ -1,0 +1,53 @@
+company:
+  name: Loop AI - Delivery Intelligence Platform
+  stage: Early-stage startup
+  focus: AI-powered restaurant operations automation
+position:
+  title: Staff AI Product Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Staff Product Engineer with broad full-stack
+      responsibilities. While it mentions "collaborating on AI-
+      driven features" and "integrating models," the primary focus
+      is on full-stack development (frontend, backend, APIs,
+      architecture) rather than directly building, training, or
+      deploying AI models. The AI work appears to be
+      supporting/integrating AI systems built by others rather
+      than hands-on model work.
+  responsibilities:
+  - Lead design and implementation of scalable frontend architecture using modern
+    web technologies
+  - Build and maintain backend systems and APIs to power core product functionality
+  - Contribute to high-level architecture decisions across the stack and create scalable,
+    maintainable systems
+  - Partner with product managers, designers, and engineers to define and prioritize
+    roadmap features
+  - Collaborate on AI-driven features, integrating models or intelligent workflows
+    into platform components
+  - Help design systems that support data pipelines, model inference, and AI feedback
+    loops
+  - Mentor and guide team members, championing best practices and high engineering
+    standards
+  use_cases:
+  - Restaurant workflow automation and optimization
+  - Cost reduction for restaurant operations
+  - Customer experience enhancement through intelligent automation
+  - AI agentic workflows with orchestration, tool usage, and multi-step reasoning
+  - Data pipeline and model inference systems for restaurant intelligence
+  skills:
+    genai: [AI agentic workflows, Multi-step reasoning systems]
+    ml: [Model inference]
+    web: [React.js, Django, APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Orchestration, Version control, Deployment pipelines, Performance optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8592471'
+  extracted_at: '2026-02-27T12:27:40.744172'

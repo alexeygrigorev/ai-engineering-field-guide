@@ -1,0 +1,54 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and banking
+position:
+  title: Principal Engineer - Predictive AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building Gen AI, RAG
+      pipelines, and agentic AI systems using frameworks like
+      LangGraph, LangChain, CrewAI, and AutoGen. The desired
+      qualifications explicitly mention 2+ years of experience
+      designing and developing AI/Gen AI/agentic automation
+      solutions, and the responsibilities involve implementing
+      innovative AI solutions at enterprise scale.
+  responsibilities:
+  - Act as an advisor to leadership to develop applications, network, information
+    security, database, operating systems, or web technologies for complex business
+    needs
+  - Lead the strategy and resolution of highly complex challenges requiring in-depth
+    evaluation across multiple areas or the enterprise
+  - Translate advanced technology experience and organizational objectives into technical
+    engineering solutions
+  - Provide vision, direction and expertise to leadership on implementing innovative
+    and significant business solutions
+  - Maintain knowledge of industry best practices and recommend innovations that enhance
+    operations or provide competitive advantage
+  - Strategically engage with all levels of professionals and managers and serve as
+    an expert advisor to leadership
+  use_cases:
+  - Agentic AI automation solutions from chat experiences to multi-agent systems
+  - RAG pipelines for enterprise knowledge retrieval and question answering
+  - Enterprise-scale AI deployments and model migration projects
+  - Generative AI applications for banking and financial services
+  - MLOps frameworks for production ML model lifecycle management
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, AutoGen, Chainlit, RAG, Agentic AI, Prompt
+        engineering, Generative AI, Vector databases]
+    ml: [TensorFlow, PyTorch]
+    web: [Playwright]
+    databases: [NoSQL]
+    data: []
+    cloud: [AWS, Google Cloud Platform, Azure, Vertex AI, Azure ML]
+    ops: [Terraform, Ansible, GitHub Actions, Harness CD, Docker, Kubernetes, OpenShift,
+      MLflow, Kubeflow, MLOps]
+    languages: [Python, Java, Shell scripting, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8409584'
+  extracted_at: '2026-02-27T12:33:11.191241'

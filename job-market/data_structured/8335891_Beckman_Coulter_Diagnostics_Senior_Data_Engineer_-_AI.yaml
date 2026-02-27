@@ -1,0 +1,52 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public
+  focus: Diagnostics and life sciences technology
+position:
+  title: Senior Data Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building data
+      pipelines, infrastructure, and platforms to enable AI/ML
+      workloads for molecular design. The role involves preparing,
+      integrating, and managing data for downstream modeling but
+      does not involve building, training, fine-tuning, or
+      deploying AI/ML models directly.
+  responsibilities:
+  - Support data integration efforts by collaborating with scientists, bioinformaticians,
+    and AI engineers to ensure data is accessible and well-structured for downstream
+    modeling
+  - Build and maintain data pipelines to ingest, transform, and store structured and
+    unstructured biological data from wet lab experiments, public databases, and internal
+    platforms
+  - Implement data quality checks and validation routines to ensure reliability and
+    reproducibility of datasets used in molecular design workflows
+  - Contribute to infrastructure development by assisting in the setup and optimization
+    of cloud-based data platforms and tools for scalable storage and compute
+  - Document workflows and processes to support reproducibility, collaboration, and
+    knowledge sharing across teams
+  use_cases:
+  - AI-driven molecular design for life sciences applications
+  - Processing and analysis of biological data including genomic sequences, protein
+    structures, and assay results
+  - Wet lab experiment data integration for molecular design workflows
+  - Scientific research and development in diagnostics, life sciences, and biotechnology
+  - Bioinformatics data management and analysis for molecular design
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, Redshift, BigQuery]
+    data: [Airflow, Argo, NextFlow, Valohai, Luigi, Joblib, Dask, Ray, Prefect, Azure
+        Data Factory, Kafka]
+    cloud: [AWS, Azure, GCP, S3, Synapse, Kinesis, Pub/Sub]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8335891'
+  extracted_at: '2026-02-27T12:56:01.856260'

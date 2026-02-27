@@ -1,0 +1,52 @@
+company:
+  name: Mitratech
+  stage: Series B+
+  focus: Legal, Risk, Compliance, HR software
+position:
+  title: Senior AI Quality Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Engineer role focused on testing and validating
+      AI/ML systems rather than building or deploying them. The
+      candidate designs test cases, creates automation frameworks,
+      and validates the work of ML engineers - this is
+      enabling/testing work, not hands-on model development.
+  responsibilities:
+  - Design and execute manual and automated test cases for backend APIs, frontend
+    interfaces, and end-to-end AI workflows
+  - Conduct exploratory testing of new generative AI features and user interactions
+  - Build automation scripts for AI/ML pipelines using pytest, unittest, or custom
+    frameworks
+  - Validate RAG pipelines including embedding accuracy, retrieval quality, and model
+    response evaluation
+  - Test AI agents and orchestration flows ensuring correctness in multi-step reasoning
+    and tool invocations
+  - Perform performance and scalability testing for ML inference endpoints monitoring
+    latency and throughput
+  - Integrate and maintain automated test suites within CI/CD pipelines
+  - Collaborate with ML engineers, data scientists, and developers to reproduce issues
+    and validate fixes
+  use_cases:
+  - Legal operations and workflow automation
+  - Risk and compliance management
+  - Document summarization and retrieval
+  - Enterprise search using RAG pipelines
+  - Multi-step AI agent reasoning and tool use
+  - Inference API testing for LLM applications
+  skills:
+    genai: [RAG, LLM applications, embeddings, AI agents]
+    ml: [model inference]
+    web: [Selenium, Playwright, Cypress, Postman, REST-assured, API testing]
+    databases: []
+    data: []
+    cloud: [SageMaker, Bedrock]
+    ops: [pytest, unittest, GitHub Actions, GitLab CI, Jenkins]
+    languages: [Python]
+    domains: [NLP]
+    other: [Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7618921'
+  extracted_at: '2026-02-27T12:53:21.829837'

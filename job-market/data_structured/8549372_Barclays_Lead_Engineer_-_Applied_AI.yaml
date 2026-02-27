@@ -1,0 +1,52 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Lead Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience developing
+      and deploying Agentic AI solutions using frameworks like
+      LangGraph, LangChain, and CrewAI, with direct work on LLM
+      models and prompt engineering. This is clearly building ON
+      AI systems rather than supporting AI work.
+  responsibilities:
+  - Develop and deliver high-quality software solutions using industry-aligned programming
+    languages, frameworks, and tools
+  - Cross-functional collaboration with product managers, designers, and other engineers
+    to define software requirements and devise solution strategies
+  - Lead a team performing complex tasks using professional knowledge and skills to
+    deliver work impacting business functions
+  - Develop Agentic AI solutions that are scalable and secure according to business
+    and functional requirements
+  - Stay informed of industry technology trends and innovations, contributing to technology
+    communities
+  - Adhere to secure coding practices to mitigate vulnerabilities and protect sensitive
+    data
+  - Implement effective unit testing practices to ensure proper code design and reliability
+  use_cases:
+  - Agentic AI solutions for business requirements
+  - Software applications integrated with LLM models
+  - Legacy code transformation using AI
+  - Scalable and secure AI-powered software solutions
+  - Banking and financial services applications enhanced with AI
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Google ADK, MCP protocol, A2A protocol,
+      LLM Models, Prompt engineering, Agentic AI]
+    ml: [Model fine-tuning, Supervised learning, Reinforcement learning]
+    web: [API development]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, GCP Vertex AI, AWS, Azure, GCP, Cloud native
+        services]
+    ops: []
+    languages: [Python, Java, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8549372'
+  extracted_at: '2026-02-27T12:17:44.104016'

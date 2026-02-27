@@ -1,0 +1,50 @@
+company:
+  name: CompuGroup Medical US
+  stage: null
+  focus: Software solutions for healthcare
+position:
+  title: Platform AI Developer (m/w/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of LLM-powered
+      agentic applications, building RAG systems, orchestrating
+      multi-agent architectures, and deploying foundation models.
+      This is direct work on AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Development and operation of a microservice-based agent mesh that is highly scalable,
+    multi-tenant, and secure by design
+  - Orchestration of agentic systems and multi-agent architectures using frameworks
+    like LangChain, CrewAI, or Semantic Kernel
+  - Integration and productive deployment of foundation models from providers like
+    OpenAI, Azure OpenAI, Hugging Face, and Mistral
+  - Design and implementation of intelligent backend components for context management,
+    RAG, memory, tool use, and agentic collaboration
+  - Building pipelines for prompt optimization, inference control, and usage analytics
+  - Collaboration with frontend, UX, and infrastructure teams to bring AI solutions
+    into end-to-end production
+  use_cases:
+  - Multi-agent systems for healthcare applications
+  - Retrieval-Augmented Generation for knowledge retrieval in healthcare
+  - Intelligent backend components for context management and tool use in healthcare
+    workflows
+  - AI-powered orchestration of healthcare processes
+  - Scalable and secure AI systems for healthcare enterprise deployment
+  skills:
+    genai: [LangChain, CrewAI, Semantic Kernel, OpenAI API, Hugging Face, Mistral,
+      RAG, multi-agent architectures, agentic systems, prompt engineering]
+    ml: [embeddings]
+    web: [FastAPI]
+    databases: [Qdrant, Weaviate, Pinecone, FAISS, vector databases]
+    data: []
+    cloud: [Azure OpenAI, Azure AI, Azure ML, AWS, GCP]
+    ops: [CI/CD, microservices]
+    languages: [Python, AsyncIO, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8373515'
+  extracted_at: '2026-02-27T13:04:10.753649'

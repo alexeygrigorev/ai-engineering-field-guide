@@ -1,0 +1,48 @@
+company:
+  name: Kyndryl
+  stage: Public
+  focus: Mission-critical technology systems design and management
+position:
+  title: GenAI & Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      Generative AI, LLMs, and Agentic AI solutions. The candidate
+      is responsible for building, fine-tuning, and deploying AI
+      agents, RAG systems, and LLM-based applications, which
+      directly qualifies as ai-first work.
+  responsibilities:
+  - Development and deployment of Generative AI and LLM projects, ensuring alignment
+    with business objectives
+  - Participate in the development of GenAI solutions, AI Agent development and Elastic
+    ML deliverables
+  - Design and deploy Proof of Concepts (POCs) and Points of View (POVs) across various
+    industry verticals demonstrating Generative AI applications
+  - Engage effectively with customers, showcasing and demonstrating the relevance
+    and impact of Generative AI applications in their businesses
+  - Collaborate with cross-functional teams to integrate AI/ML solutions into cloud
+    environments
+  use_cases:
+  - Industry-specific Generative AI solutions for Financial, Telecom, or Retail domains
+  - AI Agent development for automated business processes
+  - Enterprise search and knowledge management using RAG techniques
+  - Cloud-based LLM deployment and API integration for industry solutions
+  - Customer-facing demonstrations of Generative AI business value
+  skills:
+    genai: [Generative AI, LLMs, RAG, Agentic AI, AI Agents, Transformers, Fine Tuning,
+      OpenAI API]
+    ml: [NLP, Elastic ML, Optimization techniques]
+    web: []
+    databases: []
+    data: [Data engineering]
+    cloud: [AWS, Azure, GCP, Azure OpenAI, AWS Bedrock, GCP Vertex AI]
+    ops: [MLOps, DevOps]
+    languages: [Python, C/C++]
+    domains: []
+    other: [AI solution architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8004899'
+  extracted_at: '2026-02-27T12:13:30.766606'

@@ -1,0 +1,48 @@
+company:
+  name: myKaarma
+  stage: null
+  focus: SaaS platform for automotive dealership fixed operations
+position:
+  title: Software Engineer 1 (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML including
+      developing and consuming LLM APIs, training and fine-tuning
+      models, and deploying them to production. This is direct
+      model building and deployment work rather than support or
+      infrastructure roles.
+  responsibilities:
+  - Design, develop, and test software components that enable automotive dealerships
+    to better engage with their customers
+  - Build and integrate AI/ML solutions including developing and consuming LLM APIs,
+    training and fine-tuning models, and deploying them into production environments
+  - Collaborate with business stakeholders and customers to translate real-world needs
+    into scalable technical solutions
+  - Work across diverse tech stacks such as microservices, iOS/Android development,
+    cloud infrastructure, and more
+  - Communicate effectively with team leader and product managers to set clear project
+    goals, timelines, and deliverables
+  - Drive technical excellence by challenging tradeoffs between speed and reliability
+    and taking ownership of high-quality outcomes
+  use_cases:
+  - Automotive dealership customer engagement solutions
+  - LLM-powered communication tools for service centers
+  - RAG and LLM-based agent applications
+  - Self-fine-tuned open-source models for automotive domain
+  skills:
+    genai: [OpenAI API, Gemini API, RAG, LLM agents, model fine-tuning, prompt engineering]
+    ml: []
+    web: [Angular, React, Spring, Microservices]
+    databases: [MySQL, MongoDB, Redis, ElasticSearch]
+    data: [RabbitMQ, Kafka]
+    cloud: [AWS, Google Cloud]
+    ops: [Docker, Kubernetes]
+    languages: [Java, Python, C#]
+    domains: []
+    other: [Drools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7763023'
+  extracted_at: '2026-02-27T13:07:58.773231'

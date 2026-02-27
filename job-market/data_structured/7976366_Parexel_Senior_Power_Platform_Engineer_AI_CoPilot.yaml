@@ -1,0 +1,55 @@
+company:
+  name: Parexel
+  stage: Public
+  focus: Clinical research and regulatory consulting
+position:
+  title: Senior Power Platform Engineer (AI / CoPilot)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on implementing and integrating Microsoft
+      Copilot and AI services using low-code Power Platform tools
+      rather than building, training, or fine-tuning models. The
+      engineer deploys pre-built AI solutions (Azure AI, CoPilot
+      Studio) and creates business applications that consume these
+      services, which aligns with ai-support classification.
+  responsibilities:
+  - Implement AI solutions using Azure AI, Copilot Studio, and Microsoft Azure AI
+    services to solve business problems
+  - Utilize Azure AI services including Azure Cognitive Services, Azure Machine Learning,
+    and Azure Bot Services to develop and deploy intelligent applications
+  - Develop low-code solutions using Microsoft Power Platform including Power Apps,
+    Power Automate, Power BI, and Power Pages
+  - Integrate chat bot solutions with SharePoint document libraries and structured
+    data from MS Power Platform
+  - Leverage Microsoft agent capabilities to convert GenAI content into value-added
+    business actions
+  - Provide architecture, configuration, administration, and functional support for
+    Microsoft 365 and SharePoint technologies
+  - Design end-to-end solutions that improve collaboration, productivity, and knowledge
+    sharing across the enterprise
+  use_cases:
+  - Enterprise AI-powered productivity assistance using Microsoft Copilot
+  - Chat bot solutions integrated with SharePoint document libraries and structured
+    business data
+  - Intelligent applications leveraging Azure AI services for complex business problems
+  - Low-code business process automation and workflow optimization
+  - Knowledge sharing and collaboration enhancement through AI-powered solutions
+  skills:
+    genai: [Copilot Studio]
+    ml: []
+    web: [Microsoft Power Platform, Power Apps, Power Automate, Power BI, Power Pages,
+      SharePoint, Microsoft 365, Office 365]
+    databases: []
+    data: [Power Query]
+    cloud: [Azure AI, Azure Cognitive Services, Azure Machine Learning, Azure Bot
+        Services]
+    ops: []
+    languages: []
+    domains: []
+    other: [Agile Methodology]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7976366'
+  extracted_at: '2026-02-27T12:38:50.261927'

@@ -1,0 +1,54 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: Memory and storage solutions for data economy
+position:
+  title: Sr Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      agents and workflows using Copilot Studio, implementing RAG
+      systems, multi-agent frameworks, and Model Context Protocol.
+      The engineer directly works with LLMs, prompt engineering,
+      and agent orchestration rather than just providing
+      infrastructure or support for AI teams.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using platforms like Copilot Studio,
+    UiPath, and automation frameworks
+  - Connect AI agents with enterprise systems including SharePoint, M365, external
+    APIs, and knowledge bases
+  - Identify repetitive tasks and design intelligent automation solutions to improve
+    efficiency
+  - Partner with cross-functional teams to enable AI literacy and create best-practice
+    documentation
+  - Enforce data protection and ensure all AI solutions adhere to security and compliance
+    standards
+  - Integrate agents with identity platforms for secure access control using OAuth2,
+    OIDC, and SAML
+  - Implement multi-agent workflows for complex decision-making and collaborative
+    problem-solving
+  use_cases:
+  - Enterprise process automation and productivity enhancement
+  - Knowledge management and enterprise search through RAG systems
+  - Multi-agent workflows for complex business decision-making
+  - AI-powered document processing and workflow automation
+  - Internal AI literacy and enablement across business units
+  skills:
+    genai: [Copilot Studio, UiPath, RAG, retrieval-augmented generation, semantic
+        chunking, prompt engineering, multi-agent workflows, agent orchestration frameworks,
+      Model Context Protocol (MCP), large language models]
+    ml: []
+    web: [API development, SharePoint, OAuth2, OIDC, SAML]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Google Vertex AI]
+    ops: []
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8002028'
+  extracted_at: '2026-02-27T12:43:56.628722'

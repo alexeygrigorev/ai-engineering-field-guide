@@ -1,0 +1,55 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered sales and marketing platform
+position:
+  title: Lead Backend Engineer - Calendar AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI systems including
+      LLM-powered assistants, RAG pipelines, embeddings, and LLM
+      orchestration workflows. The engineer is responsible for
+      designing and implementing models, fine-tuning, and
+      inference optimization - all hands-on work with AI/ML
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Design and implement LLM-powered onboarding assistants using Google/OpenAI/Anthropic
+    models with deterministic orchestration
+  - Build RAG workflows using vector databases to inject contextual booking data into
+    model prompts
+  - Develop AI-driven configuration engines that translate natural language into structured
+    booking primitives
+  - Design optimization models for resource utilization, workload distribution, capacity
+    forecasting, and conflict reduction
+  - Build scheduling-aware reasoning modules that handle constraints, buffers, lead
+    times, resource availability, and business rules
+  - Create scalable data pipelines for embeddings generation, context indexing, and
+    model fine-tuning/hybrid retrieval
+  - Implement latency-optimized inference orchestration with streaming responses,
+    caching, and hybrid decision engines
+  - Lead and mentor the engineering team, enforce architectural standards, and drive
+    long-term AI roadmap
+  use_cases:
+  - AI-first scheduling and booking intelligence layer
+  - LLM-powered onboarding and configuration assistance for booking systems
+  - Natural language to structured booking primitives conversion
+  - Resource optimization and capacity forecasting for scheduling
+  - Conflict reduction and workload distribution for bookings
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic API, Google LLM, RAG, prompt
+        engineering, agents, function calling]
+    ml: [embeddings, model fine-tuning]
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant, pgvector]
+    data: []
+    cloud: []
+    ops: [inference optimization]
+    languages: [Node.js, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8069857'
+  extracted_at: '2026-02-27T13:10:41.619692'

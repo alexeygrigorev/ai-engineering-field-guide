@@ -1,0 +1,47 @@
+company:
+  name: Manychat
+  stage: Series B
+  focus: Chat marketing automation platform for creators
+position:
+  title: Senior Python Engineer (AI Product Team)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will directly
+      integrate LLM providers (OpenAI, Azure-hosted models) and
+      build AI-powered backend services that power conversational
+      AI features. The work involves hands-on implementation of AI
+      systems rather than just building infrastructure or
+      platforms for others to use AI.
+  responsibilities:
+  - Design, build, and scale AI-powered backend services embedded directly into the
+    Manychat platform
+  - Integrate LLM providers with focus on reliability, latency, and cost-efficiency
+  - Architect scalable, async Python services operating in high-load production environments
+  - Design and maintain internal and external APIs ensuring scalability and resilience
+  - Ensure production reliability through strong observability practices including
+    monitoring, logging, and alerting
+  - Collaborate cross-functionally with Product, Design, AI experts, and Platform
+    teams
+  use_cases:
+  - Conversational AI for Instagram-focused automations
+  - High-volume conversation management for creators
+  - AI-powered responses to improve lead conversion
+  - Chat marketing platform powering conversations at scale
+  - Multi-channel support including Messenger, WhatsApp, and TikTok
+  skills:
+    genai: [OpenAI, Azure AI, LLM integration]
+    ml: []
+    web: [FastAPI, Django, Flask, REST APIs, Meta APIs, TikTok APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, Google Cloud]
+    ops: [AsyncIO, Docker, CI/CD, Grafana, Prometheus]
+    languages: [Python, PyTest]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8492977'
+  extracted_at: '2026-02-27T12:41:49.035383'

@@ -1,0 +1,56 @@
+company:
+  name: Zeta Global
+  stage: Public
+  focus: AI-powered marketing cloud platform
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and fine-tuning LLMs through
+      Supervised Fine-Tuning (SFT), preference optimization, and
+      deploying agentic LLM systems. The engineer owns the end-to-
+      end post-training lifecycle from data curation and training
+      through deployment and monitoring, which is core AI model
+      development work rather than supporting infrastructure.
+  responsibilities:
+  - Lead Supervised Fine-Tuning (SFT) of large language models in production, shaping
+    instruction-following, reasoning quality, tone, and domain-specific behavior
+  - Extend SFT pipelines with instruction tuning and preference-based optimization
+    using RLHF-style approaches or direct preference optimization
+  - Design, curate, and maintain high-quality SFT and preference datasets combining
+    human-labeled and synthetic data for marketing use cases
+  - Own model evaluation and benchmarking including offline behavioral evals, online
+    A/B tests, and continuous regression detection
+  - Develop and operate agentic LLM systems enabling multi-step reasoning, tool use,
+    workflow orchestration, and decision execution
+  - Implement and optimize RAG, memory, and tool-calling strategies with clear understanding
+    of when to solve problems via SFT versus prompting
+  - Partner with cross-functional teams to integrate fine-tuned models into high-throughput,
+    low-latency systems
+  - Establish best practices for LLM versioning, experimentation, deployment, rollback,
+    governance, and safety
+  use_cases:
+  - Marketing personalization at individual consumer level across multiple channels
+  - Real-time bidding system handling over 100 billion events per day
+  - Intelligent ad targeting to deliver the right advertisement to the right user
+    at the right time
+  - Agentic decision-making systems for marketing optimization
+  - Real-time reporting and analytics on terabytes of marketing data
+  skills:
+    genai: [OpenAI APIs, Supervised Fine-Tuning (SFT), RLHF, Direct Preference Optimization,
+      RAG, Agentic systems, Tool calling, Prompt engineering, Instruction tuning]
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8577284'
+  extracted_at: '2026-02-27T12:13:45.321245'

@@ -1,0 +1,51 @@
+company:
+  name: Notion
+  stage: Series D
+  focus: |-
+    All-in-one productivity and collaboration platform with
+    built-in AI
+position:
+  title: Software Engineer, AI Agentic Search, Early Career
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves building infrastructure, connectors, and
+      systems that enable AI agentic search (data pipelines,
+      vector storage, ranking systems) but does not mention
+      building, training, fine-tuning, or deploying AI models
+      themselves. The engineer works ON the systems that support
+      AI functionality rather than directly on the models.
+  responsibilities:
+  - Design and ship connectors from scratch, keeping third-party data continuously
+    in sync
+  - Build semantic search infrastructure powered by vector embeddings and efficient
+    storage systems
+  - Transform natural language questions into intelligent queries across multiple
+    data sources
+  - Implement ranking systems that surface relevant results while respecting user
+    permissions and access controls
+  - Scale systems to handle millions of documents across thousands of customers
+  - Collaborate with cross-functional partners to drive product strategy and execution
+  use_cases:
+  - Enterprise search across multiple applications (Slack, Google Drive, Salesforce,
+    GitHub)
+  - Semantic search powered by vector embeddings
+  - Natural language query transformation for multi-source search
+  - Permission-aware ranking and result surfacing
+  - Large-scale document synchronization and indexing
+  skills:
+    genai: [vector embeddings, semantic search]
+    ml: []
+    web: [React, Node.js]
+    databases: [Postgres, databases]
+    data: [data pipelines]
+    cloud: []
+    ops: [production infrastructure]
+    languages: [TypeScript]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8239323'
+  extracted_at: '2026-02-27T13:01:47.479131'

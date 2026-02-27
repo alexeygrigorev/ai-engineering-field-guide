@@ -1,0 +1,53 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing technology and equipment
+position:
+  title: Senior Lead, Data Engineer (AI/ML)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Data Engineer role that builds data pipelines and
+      infrastructure to support AI/ML work. While the role
+      involves working with Azure Machine Learning, OpenAI APIs,
+      and MLOps workflows, the primary focus is on data
+      engineering, cloud infrastructure, and software development
+      rather than building, training, or fine-tuning AI models
+      directly.
+  responsibilities:
+  - Design, develop, and maintain applications using modern programming languages
+    like Python, C#, and JavaScript
+  - Architect, build, and deploy secure, high-performing applications on the Azure
+    platform
+  - Develop and optimize data pipelines leveraging Azure Data Factory, Synapse Analytics,
+    and related services
+  - Build and deploy ML models using Azure Machine Learning, Cognitive Services, and
+    OpenAI APIs
+  - Implement MLOps workflows for model monitoring, retraining, and lifecycle management
+  - Contribute to architectural decisions ensuring scalability, fault tolerance, and
+    security
+  use_cases:
+  - Enterprise analytics and data science for strategic decision making
+  - Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) pipelines
+  - AI systems that solve complex real-world business problems at scale
+  - Conversational AI and RAG systems using OpenAI, Hugging Face, and LangChain
+  - Multi-agent architectures and ensemble strategies for AI applications
+  skills:
+    genai: [OpenAI APIs, Hugging Face, LangChain, RAG, Multi-agent architectures]
+    ml: []
+    web: [RESTful APIs, Microservices]
+    databases: [Azure SQL, Cosmos DB, SQL, NoSQL databases, Data lakes]
+    data: [Azure Data Factory]
+    cloud: [Azure, Azure Storage, Azure App Services, Azure Functions, Azure Kubernetes
+        Service (AKS), Azure Key Vault, Azure Monitor, Synapse Analytics, ARM templates,
+      Bicep, Terraform, Azure Machine Learning]
+    ops: [Application Insights, CI/CD, Infrastructure as Code, Docker, Kubernetes,
+      MLOps, Model monitoring]
+    languages: [Python, C#, JavaScript, Node.js, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8036239'
+  extracted_at: '2026-02-27T12:45:11.035247'

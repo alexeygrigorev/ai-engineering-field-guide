@@ -1,0 +1,55 @@
+company:
+  name: Clarivate Analytics
+  stage: Public
+  focus: |-
+    AI-powered analytics and insights for Life Sciences and
+    Healthcare
+position:
+  title: Lead Product AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that builds data platforms
+      and pipelines that SUPPORT AI/ML initiatives rather than
+      working directly on AI/ML models. The responsibilities focus
+      on data architecture, dimensional modeling, ETL/ELT
+      pipelines, and preparing datasets for data scientists, which
+      is characteristic of AI-support work.
+  responsibilities:
+  - Own and evolve product-level data architecture, ensuring scalability, reliability,
+    and alignment with analytics and AI/ML use cases
+  - Design and implement scalable, reliable data pipelines supporting product analytics,
+    user behavior tracking, and AI/ML initiatives
+  - Define and maintain enterprise-aligned dimensional data models using star and
+    snowflake schemas with fact and dimension tables
+  - Partner with Product Managers, Data Scientists, Analysts, and Engineers to translate
+    requirements into well-architected data models and pipelines
+  - Prepare, validate, and document datasets used for analytics, experimentation,
+    and machine learning
+  - Implement monitoring, testing, and alerting for data quality, pipeline health,
+    and freshness
+  - Mentor and support data engineers through architecture reviews, code reviews,
+    and design discussions
+  use_cases:
+  - Drug discovery acceleration
+  - Treatment effectiveness analysis
+  - Real-world evidence generation
+  - Patient journey insights
+  - AI-powered analytics and decision-support platforms
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake, BigQuery, Amazon Redshift]
+    data: [ETL, ELT, Databricks, dbt, Airflow, Fivetran, Data architecture, Dimensional
+        modeling, Star schema, Snowflake schema, Data pipelines, Data governance]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7929315'
+  extracted_at: '2026-02-27T12:31:37.214365'

@@ -1,0 +1,56 @@
+company:
+  name: Sezzle
+  stage: null
+  focus: Fintech platform for interest-free installment payments
+position:
+  title: Sr. AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves direct hands-on work designing, building, and
+      deploying machine learning models for production use cases
+      including personalized recommendations, fraud detection, and
+      credit risk assessment. The engineer oversees the full ML
+      lifecycle from development to deployment on AWS Sagemaker
+      and manages model infrastructure, which is characteristic of
+      ai-first roles focused on building and operating AI/ML
+      systems.
+  responsibilities:
+  - Design, build, and maintain scalable ML infrastructure on AWS utilizing services
+    like AWS SageMaker for efficient model training and deployment
+  - Collaborate with product teams to develop MVPs for AI-driven features, ensuring
+    quick iterations and market testing
+  - Create and enhance monitoring and alerting systems for machine learning models
+    to ensure high performance and minimal downtime
+  - Enable various departments to leverage AI/ML models, including Generative AI solutions,
+    for different use cases
+  - Provide production support for debugging and resolving ML model issues, participating
+    in on-call rotations
+  - Design and scale ML architecture to support rapid user growth leveraging AWS and
+    ML best practices
+  - Mentor team members through code reviews and knowledge sharing to elevate overall
+    team capabilities
+  - Stay updated with the latest ML technologies and AWS services to drive adoption
+    of cutting-edge solutions
+  use_cases:
+  - Personalized recommendations in the Sezzle marketplace to enhance shopping experience
+  - Fraud detection to protect the platform and users from suspicious activities
+  - Credit risk assessment to support interest-free installment payment decisions
+  - Generative AI solutions for various organizational departments
+  - User experience enhancement through personalized features and recommendations
+  skills:
+    genai: [Generative AI]
+    ml: [Machine learning, Data mining, Pattern recognition]
+    web: []
+    databases: []
+    data: [Apache Spark, Kafka]
+    cloud: [AWS, AWS SageMaker]
+    ops: [Kubernetes, Docker, CI/CD, Prometheus, Grafana, AWS CloudWatch]
+    languages: [Python, Golang, SQL]
+    domains: [Recommender systems, Fraud detection, Credit risk assessment]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8590492'
+  extracted_at: '2026-02-27T12:25:02.347618'

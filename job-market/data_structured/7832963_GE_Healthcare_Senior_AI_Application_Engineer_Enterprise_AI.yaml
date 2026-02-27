@@ -1,0 +1,52 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Healthcare technology and medical imaging
+position:
+  title: Senior AI Application Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly develops and deploys GenAI and Agentic AI
+      solutions, implementing LLMs, RAG pipelines, and AI agents.
+      The engineer builds applications integrating these AI models
+      and works with frameworks like LangChain, LangGraph, and
+      cloud AI services (AWS Bedrock, Azure OpenAI).
+  responsibilities:
+  - Design and develop AI-powered applications, integrating machine learning and generative
+    models into enterprise-grade software products and internal tools
+  - Develop modern, intuitive interfaces for AI applications using React/Next.js and
+    TypeScript with focus on usability and AI explainability
+  - Implement scalable and secure back-end services using FastAPI or Flask to expose
+    AI capabilities including LLMs, RAG pipelines, and AI agents through standardized
+    APIs
+  - Translate data science prototypes and GenAI models including LLMs, diffusion models,
+    and transformers into scalable applications with reliable infrastructure
+  - Integrate cloud-native AI services and open-source frameworks like LangChain and
+    LangGraph into enterprise environments
+  - Partner with MLOps and GenAIOps teams to deploy, monitor, and continuously improve
+    AI applications within standardized CI/CD pipelines
+  use_cases:
+  - Commercial excellence through AI-powered insights and automation
+  - Logistics optimization using predictive and prescriptive AI models
+  - Inventory management with intelligent forecasting and optimization
+  - Manufacturing innovation through AI-driven process improvements
+  - Finance analytics with automated reporting and anomaly detection
+  - Supply chain optimization with AI-powered demand forecasting and risk assessment
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, RAG, AI agents, LLMs, diffusion models,
+      prompt engineering, embeddings]
+    ml: [TensorFlow, PyTorch, Hugging Face]
+    web: [React, Next.js, FastAPI, Flask, Node.js, REST, GraphQL, gRPC]
+    databases: [Pinecone, FAISS]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure OpenAI]
+    ops: [Docker, CI/CD, MLflow, Git]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [agile methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7832963'
+  extracted_at: '2026-02-27T13:07:35.497924'

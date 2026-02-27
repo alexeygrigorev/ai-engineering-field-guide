@@ -1,0 +1,52 @@
+company:
+  name: Porch Group
+  stage: Public
+  focus: Vertical software and insurance platform for home services
+position:
+  title: Senior DevOps Cloud Engineer- AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on integrating AI-powered tools into DevOps
+      workflows and supporting AI/ML platforms rather than
+      building, training, or deploying models. The engineer works
+      on infrastructure, CI/CD pipelines, and observability
+      systems that leverage AI insights for predictive monitoring,
+      anomaly detection, and auto-remediation, which is enabling
+      work for AI systems rather than direct AI development.
+  responsibilities:
+  - Build infrastructure/systems that balance operational excellence, security, reliability,
+    performance efficiency, and cost optimization
+  - Improve system observability using infrastructure as code, CI/CD pipelines, and
+    infrastructure automation to anticipate and address issues before they become
+    critical
+  - Integrate AI-powered tools into DevOps workflows for predictive monitoring, anomaly
+    detection, intelligent alerting, and auto-remediation
+  - Leverage AI/ML insights to optimize CI/CD pipelines, deployment strategies, infrastructure
+    performance, and cost
+  - Build and maintain self-healing systems using AI-based observability platforms
+  - Implement Infrastructure as Code using Terraform and provide 24x7x365 monitoring,
+    incident response, and on-call support
+  use_cases:
+  - Predictive monitoring for infrastructure and application health
+  - Anomaly detection and intelligent alerting for DevOps operations
+  - Auto-remediation of infrastructure issues using AI-based observability
+  - Self-healing cloud infrastructure systems
+  - Optimized CI/CD pipeline performance and reliability
+  skills:
+    genai: [LLM-based systems, AI APIs]
+    ml: []
+    web: []
+    databases: [PostgreSQL, SQL Server, vector databases]
+    data: []
+    cloud: [GCP, Azure]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, Infrastructure as Code, Linux, Monitoring
+        and observability]
+    languages: [Unix scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8501614'
+  extracted_at: '2026-02-27T12:11:21.126282'

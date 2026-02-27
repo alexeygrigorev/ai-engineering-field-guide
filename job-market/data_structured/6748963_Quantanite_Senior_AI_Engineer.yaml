@@ -1,0 +1,58 @@
+company:
+  name: Quantanite
+  stage: null
+  focus: |-
+    Customer experience and digital solutions with AI
+    integration
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning LLMs and agentic systems using frameworks like
+      LangChain, LlamaIndex, and OpenAI SDK. The responsibilities
+      explicitly include building RAG pipelines, implementing
+      multi-agent workflows, and deploying AI solutions to
+      production, which are core AI engineering tasks.
+  responsibilities:
+  - Build and deploy agentic systems and multi-agent workflows using frameworks like
+    LangChain, LlamaIndex, and OpenAI SDK
+  - Develop RAG pipelines using embeddings and vector databases such as FAISS, Pinecone,
+    Weaviate, and Qdrant
+  - Fine-tune and optimize LLMs including GPT-4, Claude, LLaMA, Mistral, and Gemini
+    using techniques like LoRA/QLoRA and quantization
+  - Ensure solutions are secure and compliant with guardrails, safe API usage, and
+    PII protection
+  - Implement agent monitoring and evaluation with tools like LangSmith or AgentOps
+    to track and improve performance
+  - Deliver real-world enterprise use cases including AI copilots, workflow orchestration,
+    and intelligent search systems
+  - Mentor junior AI Engineers by reviewing work, sharing best practices, and supporting
+    their growth
+  - Collaborate with product, data, and DevOps teams to bring AI solutions to production
+    at scale
+  use_cases:
+  - AI copilots for enterprise productivity and task assistance
+  - Enterprise search solutions for intelligent information retrieval
+  - Summarization engines for document and content processing
+  - Intelligent automation tools for workflow optimization
+  - Workflow orchestration for business process automation
+  - Research copilots for knowledge discovery and analysis
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI SDK, RAG, GPT-4, Claude, LLaMA, Mistral,
+      Gemini, guardrails, prompt engineering, Small Language Models, multi-agent orchestration]
+    ml: [embeddings, fine-tuning, LoRA, QLoRA, quantization, HuggingFace]
+    web: []
+    databases: [FAISS, Pinecone, Weaviate, Qdrant]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [LangSmith, AgentOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6748963'
+  extracted_at: '2026-02-27T12:45:26.171281'

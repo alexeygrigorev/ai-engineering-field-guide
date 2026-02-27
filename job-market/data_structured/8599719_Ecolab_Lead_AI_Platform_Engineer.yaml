@@ -1,0 +1,45 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water treatment and hygiene solutions
+position:
+  title: Lead AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is focused on building and maintaining data
+      pipelines using Databricks, Spark, and Delta Lake to support
+      data scientists and analysts. The position involves
+      infrastructure and data engineering work that enables AI/ML
+      initiatives but does not directly involve building,
+      training, or deploying models.
+  responsibilities:
+  - Design, develop, and maintain scalable and robust data pipelines on Databricks
+    using Spark SQL, PySpark, and Delta Lake
+  - Collaborate with data scientists and analysts to understand data requirements
+    and deliver solutions
+  - Optimize and troubleshoot existing data pipelines for performance and reliability
+  - Ensure data quality and integrity across various data sources
+  - Implement robust pipeline orchestration using Databricks Workflows, dbt, or similar
+    tools
+  - Implement Infrastructure as Code principles for managing Databricks infrastructure
+  use_cases:
+  - Restaurant operations optimization through AI-powered solutions
+  - Efficiency and sustainability improvements for restaurant clients
+  - Data-driven decision making for operational optimization
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Delta Lake]
+    data: [Spark SQL, ETL pipelines, dbt, Kafka, Kinesis, Tableau, Power BI]
+    cloud: [Databricks]
+    ops: [Data quality monitoring, Infrastructure as Code]
+    languages: [PySpark, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8599719'
+  extracted_at: '2026-02-27T12:29:49.953519'

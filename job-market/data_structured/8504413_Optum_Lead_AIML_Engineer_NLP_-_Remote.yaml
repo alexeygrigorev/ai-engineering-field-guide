@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and AI solutions
+position:
+  title: Lead AI/ML Engineer (NLP) - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing novel AI approaches, building
+      deep learning and traditional ML models, and working
+      directly with LLM frameworks and NLP approaches. The
+      engineer will build and test models using PyTorch/TensorFlow
+      and work on cutting-edge ML, NLP, and LLM techniques for
+      healthcare applications.
+  responsibilities:
+  - Develop novel AI approaches for healthcare using both structured and unstructured
+    data
+  - Build and test deep learning and traditional ML models in distributed computing
+    environments
+  - Design and plan experiments, conduct statistical analysis and create data visualizations
+  - Communicate findings with business stakeholders and collaborate to develop solutions
+    that meet customer needs
+  - Collaborate with the Responsible Use of AI team to ensure delivered solutions
+    comply with company policies and standards
+  - Develop code and model documentation, patents and publications in scientific conferences
+    and journals
+  - Collaborate with engineering teams to develop robust data pipelines and MLOps
+    procedures for new solutions
+  - Stay up to date with latest technologies and literature
+  use_cases:
+  - Healthcare AI solutions development
+  - Structured and unstructured healthcare data processing
+  - NLP and text analysis for healthcare applications
+  - LLM-based healthcare data transformation
+  - Responsible AI deployment in healthcare
+  - Health outcomes improvement through AI
+  skills:
+    genai: [LLM frameworks, NLP approaches, text embedding, text classification]
+    ml: [PyTorch, TensorFlow, deep learning, classical ML methods]
+    web: []
+    databases: [Snowflake, relational databases]
+    data: [Spark, data pipelines, distributed computing]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: [statistical analysis, data visualization, GitHub]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8504413'
+  extracted_at: '2026-02-27T12:13:23.116864'

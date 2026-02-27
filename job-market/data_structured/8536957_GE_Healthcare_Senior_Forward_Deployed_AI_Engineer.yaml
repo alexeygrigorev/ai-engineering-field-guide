@@ -1,0 +1,57 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Medical technology and digital solutions
+position:
+  title: Senior Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer who directly builds
+      and deploys GenAI systems to customers, including LLM
+      workflows, RAG architectures, agentic orchestration, and
+      Graph RAG. The role involves hands-on model deployment,
+      fine-tuning, evaluation, and LLMOps, not just supporting AI
+      infrastructure. While customer-facing, the engineer actively
+      constructs and optimizes AI solutions rather than providing
+      general support for an AI company.
+  responsibilities:
+  - Own end-to-end GenAI strategy from discovery and problem decomposition to production
+    deployment and adoption
+  - Define solution architectures across RAG, agentic AI, knowledge bases, and multi-turn
+    conversational systems
+  - Design and deploy large-scale LLM workflows, RAG systems, Graph RAG, and autonomous/agentic
+    systems
+  - Establish robust evaluation frameworks and drive iterative improvement of AI systems
+  - Build conversational chatbots and search strategies using hybrid retrieval and
+    query rewriting
+  - Implement conversation memory systems using short-term context buffers and long-term
+    vector/graph stores
+  - Develop and register AI Fabric components with traceability, observability, and
+    reusability
+  - Build LLMOps observability including tracing, prompt management, evaluation pipelines,
+    and safety guardrails
+  use_cases:
+  - Healthcare conversational AI systems with multi-turn memory
+  - Enterprise knowledge base search and retrieval using RAG and Graph RAG
+  - Medical document understanding and information extraction
+  - Healthcare decision support systems with agentic AI orchestration
+  - Clinical workflow automation using knowledge graphs and ontologies
+  - AI-powered medical technology solutions with regulatory compliance
+  skills:
+    genai: [RAG, Graph RAG, agentic AI, LLM workflows, LangChain, LangGraph, CrewAI,
+      OpenAI/Anthropic models, prompt engineering, function calling, safety guardrails]
+    ml: []
+    web: []
+    databases: [vector databases, knowledge graphs, Neo4j]
+    data: [Databricks, Spark, PySpark]
+    cloud: [AWS, SageMaker, Bedrock]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, LLMOps]
+    languages: [Python, Java, TypeScript, SQL]
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8536957'
+  extracted_at: '2026-02-27T12:10:14.891710'

@@ -1,0 +1,52 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: Seed
+  focus: Data apps marketplace platform
+position:
+  title: Principal Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating LLMs, RAG pipelines,
+      and agent frameworks into production applications. The
+      candidate will define patterns for AI integration, implement
+      conversational querying, and work with semantic modeling -
+      all hands-on AI/ML system work.
+  responsibilities:
+  - Build full stack features using React, Python, and modern APIs to deliver high-quality
+    user experiences
+  - Design and extend backend services and APIs that integrate AI models and external
+    AI services into the platform
+  - Create intuitive user workflows that incorporate AI including conversational data
+    querying, assisted discovery, or guided analytics
+  - Define patterns and best practices for integrating LLMs and semantic modeling
+    into data workflows
+  - Mentor and guide engineers, raising the bar on engineering craft, AI integration
+    strategies, and system reliability
+  - Ensure reliability at scale by driving observability, automated testing, CI/CD
+    improvements, and performance tuning across AI-enabled systems
+  use_cases:
+  - Conversational data querying allowing users to interact with data through natural
+    language
+  - Assisted discovery and guided analytics to help users find insights
+  - Intelligent recommendations for app discovery and cross-app insights
+  - AI-assisted publishing to help providers create and publish data apps
+  - Data marketplace for connecting analytics developers and consumers
+  skills:
+    genai: ['LLMs (OpenAI, Anthropic)', RAG (Retrieval-Augmented Generation), Agent
+        frameworks, Semantic modeling]
+    ml: []
+    web: [React, API design]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [Distributed systems, System architecture, CI/CD, Observability, Automated
+        testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8574427'
+  extracted_at: '2026-02-27T12:48:04.915086'

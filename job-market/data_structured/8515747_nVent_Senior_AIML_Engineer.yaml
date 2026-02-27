@@ -1,0 +1,56 @@
+company:
+  name: nVent
+  stage: Public
+  focus: Electrical connection and protection solutions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, training,
+      validating, and deploying ML models and AI solutions. The
+      engineer directly works with LLMs, implements RAG solutions,
+      develops AI agents using LangChain, builds computer vision
+      applications, and creates generative AI solutions for
+      production use.
+  responsibilities:
+  - Partner with business stakeholders to understand challenges and translate those
+    into AI/ML solution delivery
+  - Design and implement ML models and AI solutions that address specific business
+    problems with measurable ROI
+  - Build, train, validate, and deploy machine learning models using Snowflake ML
+    capabilities and AWS services
+  - Implement generative AI solutions leveraging LLMs, LangChain, and Streamlit for
+    document processing, content generation, and conversational AI
+  - Develop NLP solutions for text analysis, sentiment detection, entity extraction,
+    and automated classification
+  - Create computer vision applications for quality inspection, safety monitoring,
+    and document understanding
+  - Establish MLOps practices including model versioning, monitoring, retraining pipelines,
+    and performance tracking
+  - Implement human-in-the-loop workflows for high-stakes decisions requiring human
+    oversight
+  use_cases:
+  - Document processing and content generation using generative AI
+  - Conversational AI and knowledge management applications
+  - Quality inspection and safety monitoring through computer vision
+  - Text analysis, sentiment detection, and automated classification
+  - Enterprise semantic search and retrieval using vector databases
+  - Document understanding and automated content generation solutions
+  skills:
+    genai: [Large Language Models, Prompt Engineering, RAG, LangChain, LlamaIndex,
+      MCP Servers]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Fine-tuning]
+    web: [Streamlit, Gradio, FastAPI]
+    databases: [Snowflake, Snowflake Cortex, Vector Databases]
+    data: []
+    cloud: [AWS SageMaker, AWS Bedrock, AWS Lambda, AWS EC2, AWS S3]
+    ops: [MLOps, CI/CD, Docker]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [NIST AI Risk Management Framework, GDPR, CCPA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8515747'
+  extracted_at: '2026-02-27T13:00:41.039783'

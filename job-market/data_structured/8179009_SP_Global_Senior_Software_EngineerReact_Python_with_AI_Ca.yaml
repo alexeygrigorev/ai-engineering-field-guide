@@ -1,0 +1,47 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Essential Intelligence, financial data analytics
+position:
+  title: Senior Software Engineer(React & Python with AI Capabilities)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a full-stack engineering position that uses AI
+      tools (GitHub Copilot, GenAI tools) as productivity
+      enhancers rather than building, training, or deploying AI/ML
+      systems. The core work involves developing web applications
+      with React/Angular, backend services with Python/Java, and
+      cloud infrastructure on AWS.
+  responsibilities:
+  - Develop and maintain scalable web applications using modern front-end frameworks
+    like React and Angular
+  - Build robust backend services and APIs using Python and Java
+  - Implement cloud-native solutions on AWS with CI/CD pipelines for automated deployment
+  - Collaborate with cross-functional teams to deliver high-quality software solutions
+    that generate business value
+  - Utilize AI-powered coding tools to enhance productivity and code quality
+  - Ensure application security, performance, and reliability while troubleshooting
+    and optimizing code across the stack
+  use_cases:
+  - Business-centric revenue-generating web applications
+  - Data engineering and data processing solutions
+  - Cloud-native enterprise applications with high reliability and security
+  - Full-stack applications for essential intelligence delivery
+  - Workflow solutions for business insights and analysis
+  skills:
+    genai: [GitHub Copilot, GenAI tools]
+    ml: []
+    web: [React, Angular, Flask, Django]
+    databases: [PostgreSQL, Oracle]
+    data: []
+    cloud: [AWS, ECS, Fargate, S3, SNS]
+    ops: [CI/CD, DevOps, Docker, Microservices]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8179009'
+  extracted_at: '2026-02-27T12:28:43.313202'

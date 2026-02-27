@@ -1,0 +1,43 @@
+company:
+  name: Toku
+  stage: Series B
+  focus: Global payroll infrastructure and payment APIs
+position:
+  title: Senior Full-Stack Engineer (AI-Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI-native full-stack engineering role where AI
+      agents are used as the primary interface for software
+      development across the SDLC. However, the engineer is
+      building traditional financial/payroll infrastructure
+      systems, not AI/ML models or AI products themselves. The
+      role uses AI tools to accelerate development but does not
+      involve building, deploying, or fine-tuning AI systems.
+  responsibilities:
+  - Build and ship full-stack features across frontend and backend systems
+  - Own work end-to-end from product requirements to deployment and monitoring
+  - Use AI agents to accelerate delivery while improving reliability and maintainability
+  - Partner closely with product, design, and operations to deliver high-impact outcomes
+  - Improve internal engineering workflows for AI-native development and team leverage
+  use_cases:
+  - Global payroll processing and payments infrastructure
+  - Stablecoin, fiat, and token-based payroll disbursements
+  - API integration with payroll platforms like ADP, Gusto, and Workday
+  - Financial operations and token administration systems
+  skills:
+    genai: [Claude, Codex, AI coding agents, prompt engineering]
+    ml: []
+    web: [Next.js, Node.js, REST APIs]
+    databases: [Prisma, SQL, data modeling]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8496822'
+  extracted_at: '2026-02-27T12:42:45.732651'

@@ -1,0 +1,49 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software
+position:
+  title: Senior AI Performance and Efficiency Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on infrastructure optimization,
+      performance analysis, and tooling to enable ML researchers,
+      rather than building or deploying AI models directly. The
+      engineer works on improving efficiency of GPU clusters and
+      infrastructure that supports AI/ML workloads, making this an
+      ai-support role.
+  responsibilities:
+  - Collaborate closely with AI/ML researchers to improve ML model efficiency and
+    achieve cost savings
+  - Build tools and frameworks to detect and analyze efficiency bottlenecks for researchers
+  - Optimize ML workloads across Robotics, Autonomous vehicles, LLMs, and Video domains
+  - Collaborate across engineering organizations to optimize hardware, software, and
+    infrastructure usage
+  - Monitor fleet-wide utilization patterns and deliver scalable solutions to address
+    inefficiencies
+  - Stay current with AI/ML technologies and advocate for integrating successful strategies
+    within the organization
+  use_cases:
+  - Robotics model training and optimization
+  - Autonomous vehicle AI systems
+  - Large language model training and inference
+  - Video processing and analysis
+  - Distributed training for large-scale ML workloads
+  skills:
+    genai: []
+    ml: [CUDA, PyTorch, TensorFlow, NCCL, Distributed training]
+    web: []
+    databases: []
+    data: [InfiniBand, IBOP, RDMA, Lustre, GPFS]
+    cloud: [AWS, GCP, Azure]
+    ops: [NSight Systems, NSight Compute, MLPerf benchmarking, Parallel computing,
+      Performance optimization, Infrastructure design]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8553887'
+  extracted_at: '2026-02-27T12:38:25.457962'

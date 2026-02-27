@@ -1,0 +1,51 @@
+company:
+  name: 3Pillar Global
+  stage: null
+  focus: Technology consulting and AI solutions
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, fine-tuning, and
+      deploying generative AI models and AI agents. The engineer
+      works directly with LLMs, RAG architectures, agentic AI
+      frameworks, and implements AI solutions in production
+      environments.
+  responsibilities:
+  - Collaborate with stakeholders to identify business problems and develop innovative
+    AI solutions using Gen AI, Agentic AI and similar technologies
+  - Implement, integrate and deploy Generative AI products and features into production
+    environments
+  - Fine-tune and deploy generative AI models for tasks like text, image, video or
+    audio generation
+  - Integrate generative models into scalable applications and ensure optimal production
+    grade performance
+  - Deploy AI agents into production environments, ensuring performance, scalability,
+    security, and reliability
+  - Implement agent chaining solutions that enable multiple AI agents to collaborate
+    and solve complex tasks
+  - Develop and refine prompts to maximize performance and accuracy of language models
+  - Mentor and provide technical guidance to junior Python engineers and team members
+  use_cases:
+  - Generative AI text, image, video, and audio generation for enterprise solutions
+  - Agentic AI systems with multi-agent collaboration for complex task solving
+  - RAG-based knowledge retrieval and question answering systems
+  - LLM-powered applications with prompt engineering optimization
+  - Production AI solutions with fine-tuned models for specific business needs
+  skills:
+    genai: [LangChain, LangGraph, Google GenAI SDK, RAG, MCP, Agentic AI, prompt engineering]
+    ml: [LLM fine-tuning, deep learning, Hugging Face]
+    web: []
+    databases: [FAISS, Pinecone]
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [LangSmith, model governance]
+    languages: [Python]
+    domains: [NLP]
+    other: [AI Ethics, Responsible AI]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7704891'
+  extracted_at: '2026-02-27T13:03:52.137926'

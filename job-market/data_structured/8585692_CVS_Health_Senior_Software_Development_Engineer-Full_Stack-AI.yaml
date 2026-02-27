@@ -1,0 +1,51 @@
+company:
+  name: CVS Health
+  stage: Public
+  focus: Healthcare services and pharmacy benefits
+position:
+  title: Senior Software Development Engineer-Full Stack-AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack role focused on building front-end UI
+      components for chat experiences and consuming AI/ML APIs
+      rather than building, training, or deploying models. The
+      engineer integrates existing AI services (NLP,
+      recommendation APIs, Google Vertex AI) into UI solutions,
+      which is supporting AI work rather than hands-on model
+      development.
+  responsibilities:
+  - Develop and enhance real-time UI components for platform products and reusable
+    Angular frameworks
+  - Architect and develop reusable UI frameworks and enhance platform-wide capabilities
+  - Integrate AI/ML-powered APIs including NLP services, chat intelligence, and recommendation
+    APIs
+  - Implement AI-based features in UI such as smart suggestions and automated chat
+    insights
+  - Contribute to DevOps activities including CI/CD pipelines and deployment automation
+  - Support cloud integrations, configuration, and troubleshooting within Google Cloud
+    Platform
+  - Partner with Product, Backend, Architecture, and UX teams to deliver chat solutions
+  - Collaborate through code reviews, mentoring, and cross-team coordination
+  use_cases:
+  - Real-time chat experiences across enterprise applications
+  - Enterprise search with intelligent chat capabilities
+  - AI-powered smart suggestions and automated insights
+  - Chat intelligence for healthcare-related queries
+  - Generative UI enhancements for improved user experience
+  skills:
+    genai: [NLP services, LLM concepts, Prompt engineering]
+    ml: []
+    web: [Angular, RxJS, HTML5, CSS3/SASS, REST APIs, WebSockets, GraphQL]
+    databases: []
+    data: []
+    cloud: [Google Cloud Platform, Google Vertex AI, Azure OpenAI]
+    ops: [CI/CD pipelines, Deployment automation, Container-based technologies]
+    languages: [TypeScript]
+    domains: []
+    other: [GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8585692'
+  extracted_at: '2026-02-27T13:06:35.703697'

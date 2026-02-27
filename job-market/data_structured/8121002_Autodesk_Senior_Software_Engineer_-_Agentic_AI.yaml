@@ -1,0 +1,47 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: Design and make software platform
+position:
+  title: Senior Software Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI-enabled workflows and agentic
+      workflows using Amazon Bedrock and SageMaker. The position
+      is focused on creating an AI-first platform with agent-
+      driven experiences, requiring hands-on development of AI/ML
+      systems rather than just support infrastructure.
+  responsibilities:
+  - Collaborate with cross-organizational teams to design and build agentic workflows,
+    developing and refining data models to ensure successful project delivery
+  - Utilize Python and other data manipulation languages proficiently to prepare and
+    manipulate data
+  - Understand the business requirements and translate into solution design that successfully
+    meets the business objectives
+  - Partner with product owners, software architects and other software engineers
+    to iteratively turn high-level requirements into product enhancements that are
+    delivered to customers incrementally
+  - Contribute to improvements in processes and deliverables that increase the effectiveness
+    of the team in responding to customers and our needs
+  use_cases:
+  - Agent-driven workspace for design and make software
+  - AI-first application platform delivering cohesive unified experience
+  - AI-powered workflows for users and internal teams
+  - Next-generation design-and-make software with agentic capabilities
+  skills:
+    genai: [agentic workflows]
+    ml: [data mining, predictive modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: [Amazon Bedrock, SageMaker, AWS Lambda, API Gateway]
+    ops: [CloudWatch]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8121002'
+  extracted_at: '2026-02-27T12:24:50.457603'

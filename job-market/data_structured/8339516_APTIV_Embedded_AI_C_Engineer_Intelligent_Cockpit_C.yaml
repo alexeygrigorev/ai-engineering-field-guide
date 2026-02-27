@@ -1,0 +1,50 @@
+company:
+  name: APTIV
+  stage: Public
+  focus: Automotive technology and mobility solutions
+position:
+  title: Embedded AI C++ Engineer – Intelligent Cockpit C++/Linux/Android
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves integrating ML models (CNNs, LLMs, VLMs)
+      for embedded devices, accelerating runtime execution of CV
+      and ML algorithms, and optimizing across CPU, GPU, DSP, NPU
+      architectures. This is hands-on work deploying and
+      optimizing AI models, not just supporting infrastructure.
+  responsibilities:
+  - Write high-quality, well-tested, and efficient C++ code for AI/ML software stack
+  - Integrate ML models including CNNs, LLMs, and vision-language models for Interior
+    Sensing and Intelligent Cockpit applications on embedded devices
+  - Accelerate runtime execution of computer vision and machine learning algorithms
+    for specific hardware architectures
+  - Develop efficient back-end applications for ML applications on Android and Linux
+  - Integrate vehicle sensors and cameras with automotive operating systems like Android
+    Automotive OS
+  - Optimize algorithm scheduling across heterogeneous device cores including CPU,
+    GPU, DSP, and NPU
+  use_cases:
+  - Interior Sensing for automotive applications
+  - Intelligent Cockpit systems
+  - Computer vision for vehicle interior monitoring
+  - Vision-language model integration for automotive AI
+  - Vehicle sensor and camera integration for AI applications
+  skills:
+    genai: [Large Language Models, Vision-Language Models]
+    ml: [CNNs]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ONNX Runtime, TensorRT, TensorFlow Lite, ArmNN, TVM, Linux, Android, Android
+        Automotive OS, Yocto, Buildroot, Git, CMake, Make, CPU, GPU, DSP, NPU, AI
+        accelerators, Qualcomm SoC, Texas Instruments SoC, Samsung SoC, NXP SoC, MediaTek
+        SoC]
+    languages: [C++, Kotlin, Java, JNI]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8339516'
+  extracted_at: '2026-02-27T12:59:50.961646'

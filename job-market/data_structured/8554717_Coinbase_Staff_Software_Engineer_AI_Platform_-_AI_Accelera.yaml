@@ -1,0 +1,51 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency and blockchain platform
+position:
+  title: Staff Software Engineer (AI Platform - AI Acceleration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deploying AI
+      solutions including LLMs, agentic AI, AI agents, and custom
+      copilots. This is direct work on AI systems, not just
+      infrastructure or support for others working on AI.
+  responsibilities:
+  - Lead AI Opportunity Discovery by partnering with leaders to identify high-leverage
+    AI automation opportunities and translate business challenges into use cases
+  - Design and prototype AI solutions using LLMs and Agentic AI, building functional
+    AI agents and copilots in Python and Golang
+  - Deploy scalable production-grade AI solutions in collaboration with cross-functional
+    teams
+  - Act as internal consultant providing guidance on AI capabilities, prompt engineering
+    best practices, and strategic AI integration
+  - Drive adoption and enablement by piloting solutions, gathering feedback, and supporting
+    smooth transitions
+  - Partner with central AI Platform and DevX teams to leverage infrastructure and
+    ensure scalability
+  - Ensure Responsible AI by working with Security, Legal, and Compliance teams on
+    privacy and ethical guidelines
+  - Measure and communicate impact by defining success metrics, tracking ROI, and
+    reporting value to stakeholders
+  use_cases:
+  - AI automation across Finance, HR, Legal, Operations, Marketing, and Security functions
+  - AI agents and custom copilots for business workflow optimization
+  - Intelligent workflows for operational efficiency and automation
+  - High-impact AI solutions driving measurable ROI across business functions
+  skills:
+    genai: [LangChain, Large Language Models, Agentic AI, Prompt Engineering]
+    ml: [PyTorch, scikit-learn]
+    web: [REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Terraform]
+    languages: [Python, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8554717'
+  extracted_at: '2026-02-27T12:39:46.061964'

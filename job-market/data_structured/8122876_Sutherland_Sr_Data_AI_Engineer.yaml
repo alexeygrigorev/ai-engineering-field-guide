@@ -1,0 +1,45 @@
+company:
+  name: Sutherland
+  stage: null
+  focus: |-
+    AI, automation, cloud engineering, and advanced analytics
+    for business transformation
+position:
+  title: Sr. Data AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building data
+      pipelines, SQL transformations, and orchestration workflows
+      using Snowflake, Python, and Airflow. The role supports
+      AI/ML initiatives by providing data infrastructure and
+      processing capabilities, but does not involve building,
+      training, or deploying AI/ML models directly.
+  responsibilities:
+  - Develop and optimize SQL pipelines, data models, and transformations within Snowflake
+  - Build Python-based data processing and automation workflows
+  - Build and manage orchestration pipelines using Airflow, Dagster, or similar tools
+  - Implement CI/CD workflows and maintain version-controlled code repositories
+  - Support data governance, quality checks, and secure data practices
+  - Troubleshoot pipeline issues and proactively improve performance and reliability
+  use_cases:
+  - Data pipeline development and optimization for AI initiatives
+  - Cloud data warehouse operations and data modeling
+  - Automated data processing and ETL workflows
+  - Data governance and quality management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Data modeling, Airflow, Dagster]
+    cloud: [Azure DevOps]
+    ops: [CI/CD, GitHub, GitLab]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8122876'
+  extracted_at: '2026-02-27T12:30:31.702503'

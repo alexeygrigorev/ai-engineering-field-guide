@@ -1,0 +1,59 @@
+company:
+  name: Marvell Technology
+  stage: Public
+  focus: |-
+    Semiconductor solutions for data infrastructure connecting
+    cloud, AI, automotive, and carrier architectures
+position:
+  title: Senior Staff AI/ML Scale Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is classified as ai-support because the engineer
+      works on infrastructure simulation and performance modeling
+      platforms that ENABLE AI/ML workloads, not directly on
+      building or deploying models themselves. The role involves
+      trace-driven simulation, performance analysis, and
+      hardware/software co-design to optimize compute, memory, and
+      networking for large-scale AI training and inference - which
+      is infrastructure supporting ML teams rather than hands-on
+      model development.
+  responsibilities:
+  - Implement workflows to study AI/ML workloads using trace-driven and analytical
+    models
+  - Profile and analyze system bottlenecks across compute, memory, and network layers
+  - Evaluate collective communication performance across different topologies and
+    fabrics
+  - Develop utilities for trace generation, merging, conversion, and visualization
+  - Test distributed training and inference pipelines in simulated and real environments
+  - Collaborate on hardware/software co-design for emerging technologies like CXL,
+    DPUs, NVLink
+  - Conduct performance projections and trade-off studies for next-gen AI infrastructure
+  - Document workflows and publish internal reports to drive peer learning
+  use_cases:
+  - Large-scale LLM training and inference workload optimization
+  - Deep Learning Recommendation Models (DLRMs) infrastructure design
+  - Generative AI system performance modeling and analysis
+  - Graph Neural Network (GNN) workload simulation
+  - Distributed training pipeline performance across datacenter environments
+  - Compute, memory, and networking subsystem co-design for AI workloads
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Distributed Data Parallel (DDP), Horovod, DeepSpeed,
+      AI accelerators]
+    web: []
+    databases: []
+    data: []
+    cloud: [TCP/IP, RDMA, RoCE, UET/UEC, CXL, PCIe, NVLink, Networking fundamentals,
+      Collective communication algorithms, DPUs, Custom silicon]
+    ops: [Astra-Sim, Chakra, gem5, SST, NS-3, Perfetto, Chrome Tracing, Flamegraphs,
+      Distributed systems, Computer architecture, Profiling tools, Telemetry, Observability,
+      Topology-aware scheduling, Memory disaggregation]
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7230612'
+  extracted_at: '2026-02-27T12:23:13.706160'

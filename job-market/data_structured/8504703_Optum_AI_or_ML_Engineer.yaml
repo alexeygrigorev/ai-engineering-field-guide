@@ -1,0 +1,46 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+position:
+  title: AI or ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs including fine-
+      tuning, implementing RAG methodologies, and developing
+      machine learning solutions using the LangChain framework.
+      This is direct work ON AI/ML models, not supporting
+      infrastructure or adjacent roles.
+  responsibilities:
+  - Develop and implement machine learning solutions using LLMs
+  - Utilize the Langchain framework for working with closed source and open source
+    models
+  - Apply fine-tuning methodologies to optimize machine learning models for specific
+    tasks and datasets
+  - Write clean, maintainable, and efficient code adhering to PEP8 standards
+  - Utilize containerization technologies such as Docker for development and deployment
+  - Work on traditional machine learning methods like XGBoost for classification tasks
+    and unsupervised learning techniques like K-means
+  use_cases:
+  - Retrieval-Augmented Generation (RAG) for language model optimization
+  - Fine-tuning LLMs for specific healthcare tasks and datasets
+  - Classification tasks using traditional ML methods
+  - Unsupervised learning with clustering techniques
+  - Healthcare outcome optimization through AI solutions
+  skills:
+    genai: [LangChain, Retrieval-Augmented Generation (RAG), LLMs]
+    ml: [Fine-tuning, XGBoost, K-means]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504703'
+  extracted_at: '2026-02-27T12:17:11.822768'

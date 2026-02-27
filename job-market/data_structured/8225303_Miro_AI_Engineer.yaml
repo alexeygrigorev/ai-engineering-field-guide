@@ -1,0 +1,51 @@
+company:
+  name: Miro
+  stage: Public
+  focus: Visual workspace for innovation with infinite canvas
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building AI-driven
+      capabilities including agents, intelligent assistants, and
+      generative AI features. The role requires hands-on work with
+      LLMs, prompt engineering, LLMOps, and deploying AI solutions
+      to production for customer-facing products.
+  responsibilities:
+  - Design, develop, and ship AI-driven capabilities including agents, intelligent
+    assistants, context-aware prediction, and generative AI
+  - Engineer high-performing AI workflows leveraging LLMs, prompt engineering, and
+    generative techniques for reliability and scalability
+  - Execute end-to-end AI projects from conceptualization and prototyping to production
+    code
+  - Experiment and iterate on AI capabilities while staying ahead of emerging AI tools,
+    frameworks, and techniques
+  - Champion best practices in AI system development including evaluations, LLMOps,
+    CI/CD, observability, and ethical AI
+  - Measure and optimize AI performance, establishing benchmarks for user engagement,
+    model accuracy, latency, error rate, and drift
+  use_cases:
+  - AI-powered intelligent assistants that help users create and transform content
+    on the canvas
+  - Context-aware prediction features that anticipate user needs
+  - Generative AI capabilities that enhance content creation and collaboration
+  - AI-driven workflows that transform how users interact with complex information
+    on the canvas
+  skills:
+    genai: [OpenAI GPT, Anthropic Claude, Google Gemini, Prompt engineering, Context
+        engineering, Agents, LLM evaluation frameworks, RAG pipelines, LangChain]
+    ml: [PyTorch, TensorFlow, Hugging Face Transformers]
+    web: [React, WebGL, Canvas API, WebGL, WebSocket]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, Amazon Bedrock]
+    ops: [LLMOps, CI/CD, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8225303'
+  extracted_at: '2026-02-27T12:35:16.195999'

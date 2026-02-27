@@ -1,0 +1,51 @@
+company:
+  name: Dojo
+  stage: null
+  focus: Payments infrastructure and in-person commerce solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building platforms, infrastructure, and tooling
+      that enable other teams to use AI - APIs, orchestration
+      frameworks, monitoring systems, and deployment pipelines.
+      The focus is on creating the foundational infrastructure
+      (platform engineering) for AI solutions rather than directly
+      building, training, or fine-tuning models/agents.
+  responsibilities:
+  - Design and build the AI platform that powers LLMs, agents, and other AI solutions
+    across Dojo
+  - Develop APIs, SDKs, and tooling that allow product teams to consume AI capabilities
+    at scale
+  - Implement orchestration for multi-model and multi-service workflows using agentic
+    frameworks
+  - Build and manage vector search and retrieval systems to support RAG and knowledge
+    integration
+  - Build robust monitoring, logging, and guardrails to ensure AI systems are safe
+    and observable
+  - Automate infrastructure and model deployment with Kubernetes, Terraform, and CI/CD
+    pipelines
+  use_cases:
+  - AI-powered payment processing and commerce solutions
+  - RAG-based knowledge integration systems
+  - Agentic workflows for business operations
+  - Multi-model AI service orchestration
+  - Vector search and retrieval for enterprise applications
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Google Agent Development Kit, RAG]
+    ml: []
+    web: []
+    databases: [FAISS, Pinecone, Weaviate, Vertex Vector Search]
+    data: []
+    cloud: [VertexAI, GCP]
+    ops: [Langsmith, Opik, Prometheus, Grafana, MLflow, Ollama, OpenRouter, Kubernetes,
+      Terraform, Helm]
+    languages: [Python, Go, Java, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8520577'
+  extracted_at: '2026-02-27T12:40:46.477595'

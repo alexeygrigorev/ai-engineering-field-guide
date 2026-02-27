@@ -1,0 +1,45 @@
+company:
+  name: AssetWatch
+  stage: Series B
+  focus: Predictive maintenance for manufacturing
+position:
+  title: Sr. Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building LLM-powered
+      applications, RAG pipelines, tool-calling systems, and agent
+      architectures. The engineer is responsible for designing and
+      implementing AI systems directly, not just supporting
+      infrastructure or data pipelines for other teams.
+  responsibilities:
+  - Design and build end-to-end LLM-powered workflows, including RAG pipelines, tool-calling
+    systems, and agent architectures
+  - Rapidly prototype internal AI assistants and automation tools across business
+    functions
+  - Develop shared connectors to major LLM providers and reusable agent templates
+  - Partner with data science teams to operationalize models into production systems
+  use_cases:
+  - Predictive maintenance for manufacturing equipment
+  - Internal AI assistants for business functions
+  - Automation tools for operational efficiency
+  - Condition monitoring systems
+  - LLM-powered workflows for data analysis
+  - Agent-based systems for model integration
+  skills:
+    genai: [RAG, LLM-powered applications, LangChain, LlamaIndex, Semantic Kernel,
+      Prompt orchestration, Tool-calling workflows, Agent frameworks]
+    ml: [ML model integration]
+    web: [RESTful APIs]
+    databases: [Vector databases]
+    data: [ETL pipelines]
+    cloud: [AWS]
+    ops: [Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8552072'
+  extracted_at: '2026-02-27T12:13:37.454071'

@@ -1,0 +1,55 @@
+company:
+  name: AirNXT
+  stage: Early-stage (scale-up)
+  focus: AI-powered MRO software for aviation maintenance
+position:
+  title: Lead AI Systems Engineer - Cairo Hub
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on build-and-ship role focused on designing
+      and deploying AI systems including agent-based workflows
+      using LangGraph, LLM chains for document understanding, and
+      predictive models. The role directly works with models,
+      prompt engineering, and LLM workflows - not just supporting
+      infrastructure or data pipelines.
+  responsibilities:
+  - Design and deploy AI workflows that turn raw maintenance documents into structured,
+    validated data
+  - Build agent-based automation workflows using LangGraph for validation, transformation,
+    and human-in-loop approval
+  - Develop lightweight predictive models based on time-series or log patterns for
+    early fault prediction
+  - Implement NLP and LLM chains to extract meaning from technical documents, pilot
+    logs, and work orders
+  - Build AI systems with clear traceability, fallbacks, and execution paths that
+    earn trust from ops teams and regulators
+  - Own AI systems end-to-end as technical owner, improving speed, quality, and safety
+    in production
+  use_cases:
+  - Document understanding and extraction from aviation maintenance PDFs and technical
+    documents
+  - Automated agent-based workflows for data validation, transformation, and approval
+    with human oversight
+  - Predictive fault detection and early risk identification from time-series log
+    and usage data
+  - NLP-powered summarization and checklist generation from regulatory documents and
+    work orders
+  - Intelligent data pipeline transforming raw maintenance records into structured,
+    validated aviation data
+  skills:
+    genai: [LangGraph, LangChain, Haystack, prompt engineering, LLM workflows, embeddings]
+    ml: [time-series forecasting, anomaly detection, Prophet, LSTM, transformers]
+    web: []
+    databases: [vector search]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7001026'
+  extracted_at: '2026-02-27T12:10:28.905601'

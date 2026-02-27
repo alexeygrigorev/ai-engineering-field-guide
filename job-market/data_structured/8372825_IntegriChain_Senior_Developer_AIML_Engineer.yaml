@@ -1,0 +1,48 @@
+company:
+  name: IntegriChain
+  stage: null
+  focus: |-
+    Data platform for life sciences market access and patient
+    access
+position:
+  title: Senior Developer, AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly involves building AI/ML solutions using
+      OpenAI APIs, LLM-based workflows, and prompt engineering.
+      The engineer is responsible for designing, deploying, and
+      optimizing models and AI-driven applications, which aligns
+      with hands-on work on AI systems rather than just supporting
+      them.
+  responsibilities:
+  - Design, build, and deploy AI/ML solutions using Python
+  - Develop and integrate solutions using OpenAI APIs and LLM-based workflows
+  - Build AI-driven applications and prototypes using Streamlit
+  - Leverage Snowflake for analytics, feature engineering, and inference
+  - Develop scalable, production-ready ML pipelines
+  - Optimize model performance, reliability, and cost
+  - Support deployment, monitoring, and iteration of AI/ML applications
+  use_cases:
+  - Patient access and therapy commercialization
+  - Government payer contracting
+  - Therapy distribution channels
+  - Coverage and availability hurdle identification
+  - Pricing and forecasting management
+  - Data-driven decision support for market access
+  skills:
+    genai: [OpenAI APIs, LLM-based workflows, prompt engineering]
+    ml: [ML pipelines, model optimization]
+    web: [Streamlit]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8372825'
+  extracted_at: '2026-02-27T12:34:35.300804'

@@ -1,0 +1,48 @@
+company:
+  name: General Motors
+  stage: Public
+  focus: Automotive and autonomous vehicles
+position:
+  title: Staff AI ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack platform engineering role that builds
+      UX backbone, visualization tools, and infrastructure for ML
+      engineers. The role enables MLEs to work with models through
+      observability tools and workflows, but does not involve
+      building, training, fine-tuning, or deploying AI/ML models
+      directly.
+  responsibilities:
+  - Build UX experiences and agentic workflows to improve MLE workflows and productivity
+  - Build backend integrations to provide unified experience across ML lifecycle
+  - Establish metrics to measure platform performance and create roadmap for scale,
+    reliability, and low latency
+  - Drive design and architecture across ecosystem meeting security and compliance
+    standards
+  - Partner with cross-functional teams to design, architect, and build UX and backend
+    integration framework
+  - Own system observability, debuggability, operational excellence, and user experience
+  use_cases:
+  - ML pipeline orchestration and debugging for autonomous vehicles
+  - Model training and performance evaluation workflows for AV systems
+  - Model deployment management to autonomous vehicles
+  - Data collection initiation and management for ML training
+  - Unified UX platform for ML lifecycle management from data to deployment
+  - Real-time monitoring and observability of ML systems in production
+  skills:
+    genai: [agentic workflows]
+    ml: []
+    web: [React, Angular, GraphQL, REST]
+    databases: []
+    data: [data visualization]
+    cloud: [cloud infrastructure]
+    ops: [CI/CD, system observability, high-availability services]
+    languages: [Python, Java, Go, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8502158'
+  extracted_at: '2026-02-27T13:09:52.321475'

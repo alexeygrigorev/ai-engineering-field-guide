@@ -1,0 +1,47 @@
+company:
+  name: Octopus Energy
+  stage: Public
+  focus: Energy supplier with technology platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and scaling GenAI
+      systems including LLMs, RAG, agents, and knowledge retrieval
+      pipelines. The engineer directly designs and develops AI
+      platform services, implements prompt engineering, and works
+      with model evaluation - not just infrastructure support.
+  responsibilities:
+  - Design and develop scalable AI platform services that expose GenAI models, knowledge
+    retrieval pipelines, and agent workflows
+  - Build and maintain knowledge retrieval systems including embedding generation,
+    chunking, and database management strategies
+  - Set up frameworks for monitoring and evaluating AI output quality including relevance,
+    accuracy, safety, drift, and cost
+  - Design prompt assembly systems with templates, system prompts, and guidelines
+    for platform users
+  use_cases:
+  - Customer communication generation creating thousands of personalized emails for
+    energy specialists
+  - Knowledge base retrieval and RAG systems for grounding AI applications in company
+    data
+  - Agentic workflows and tool calling for complex task automation
+  - AI-powered solutions supporting the company's Net Zero mission
+  skills:
+    genai: [LLMs, RAG, agents, prompt engineering, embeddings, tool calling, agentic
+        workflows, fine-tuning]
+    ml: [reinforcement learning]
+    web: []
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: []
+    ops: [Git, CI/CD, logging, monitoring, tracing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7405039'
+  extracted_at: '2026-02-27T12:16:49.445321'

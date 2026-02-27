@@ -1,0 +1,54 @@
+company:
+  name: Notion
+  stage: Series C
+  focus: |-
+    All-in-one workspace and productivity platform with built-in
+    AI
+position:
+  title: Staff Software Engineer, AI Agentic Search
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI agentic search systems,
+      including semantic search with vector embeddings, natural
+      language query transformation, and intelligent ranking
+      systems. The engineer will design and ship end-to-end AI
+      search connectors and infrastructure, working directly on
+      AI-powered capabilities.
+  responsibilities:
+  - Build and ship AI connectors from scratch, enabling agentic search across third-party
+    applications like Slack, Google Drive, Salesforce, and GitHub
+  - Design and maintain semantic search infrastructure powered by vector embeddings
+    and efficient storage systems
+  - Transform natural language questions into intelligent queries across multiple
+    data sources while respecting user permissions
+  - Implement ranking systems that surface relevant results and scale to millions
+    of documents across thousands of customers
+  - Collaborate with cross-functional partners to define product strategy and drive
+    execution from conception to maintenance
+  - Contribute to the performance, reliability, and robustness of core systems ensuring
+    they scale elegantly across multiple dimensions
+  use_cases:
+  - Enterprise search across multiple business applications and data sources
+  - AI-powered connectors for integrating third-party tools like Slack, Google Drive,
+    Salesforce, and GitHub
+  - Semantic search and retrieval using vector embeddings for improved relevance
+  - Natural language question answering across distributed organizational data
+  - Permission-aware search that respects access controls and user permissions
+  - Scalable search infrastructure serving millions of documents for enterprise customers
+  skills:
+    genai: [Semantic search, RAG, Agentic search]
+    ml: [Vector embeddings, Natural language processing]
+    web: [React, Node.js, HTML, CSS]
+    databases: [Postgres, Vector databases]
+    data: [Data pipelines]
+    cloud: [Distributed systems]
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8238537'
+  extracted_at: '2026-02-27T12:34:48.436593'

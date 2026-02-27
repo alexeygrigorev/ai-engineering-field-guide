@@ -1,0 +1,47 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Pharmaceutical healthcare company
+position:
+  title: Manager, DS & AI Backend Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      agents, including implementing multi-step reasoning, tool-
+      execution loops, RAG pipelines, and LLM integrations. The
+      engineer is directly working ON the agentic AI systems
+      rather than just supporting infrastructure or general
+      software engineering.
+  responsibilities:
+  - Build backend services supporting agentic and generative AI workflows
+  - Implement multi-step reasoning, planning, and tool-execution loops
+  - Develop state and memory systems for agent context and knowledge retention
+  - Design and optimize RAG pipelines and retrieval infrastructure
+  - Integrate LLMs with APIs, tools, databases, and external systems
+  - Implement guardrails, validation layers, retry logic, and failure-handling mechanisms
+  - Architect scalable, fault-tolerant backend systems with observability and logging
+  - Deploy and maintain services using Docker, CI/CD, and cloud environments
+  use_cases:
+  - Autonomous AI agents with multi-step reasoning capabilities
+  - RAG-based knowledge retrieval and question answering
+  - LLM-powered tool integration and workflow automation
+  - AI-driven commercial process optimization at Pfizer
+  - Enterprise AI solutions for marketing and business operations
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, OpenAI API, Anthropic
+        API, RAG, Tool calling, Prompt engineering]
+    ml: []
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector databases]
+    data: [Airflow, Temporal, Dagster, Prefect]
+    cloud: [Azure OpenAI]
+    ops: [Docker, CI/CD, vLLM, Ray Serve, TGI, Modal]
+    languages: [Python]
+    domains: []
+    other: [AI safety and guardrails]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8585904'
+  extracted_at: '2026-02-27T12:11:35.818961'

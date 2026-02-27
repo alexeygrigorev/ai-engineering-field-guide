@@ -1,0 +1,54 @@
+company:
+  name: G2i
+  stage: Series B
+  focus: Agentic AI platform for enterprise infrastructure automation
+position:
+  title: Senior Software Engineer (AI / LLMs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role building AI orchestration systems
+      including agentic workflows, RAG pipelines, and LLM
+      integrations. The engineer will directly implement
+      intelligent agents, vector database layers, and reasoning
+      capabilities for infrastructure automation.
+  responsibilities:
+  - Design and implement backend services that enable intelligent agent workflows
+    and autonomous infrastructure actions
+  - Develop APIs and orchestration layers in Python and TypeScript, integrating LLMs,
+    vector databases, and observability pipelines
+  - Build scalable systems to support LLM-based reasoning, retrieval, and decision-making
+    across cloud infrastructure
+  - Integrate with AWS Bedrock and other LLM platforms to support multi-model capabilities
+  - Develop data access and semantic search layers using vector databases
+  - Build robust monitoring, testing, and CI/CD systems to ensure reliability and
+    reproducibility of AI workflows
+  - Collaborate with Product and DevOps teams to design architecture, plan deployments,
+    and monitor system health
+  - Write clean, maintainable code with strong adherence to security and performance
+    best practices
+  use_cases:
+  - Intelligent infrastructure automation for enterprise IT teams
+  - Autonomous infrastructure actions through AI agents
+  - Large-scale AI orchestration for managed service providers
+  - Cloud infrastructure management using LLM-based reasoning
+  - Semantic search and retrieval for infrastructure knowledge
+  - Multi-model LLM capabilities for IT operations
+  skills:
+    genai: [retrieval-augmented generation, RAG, LangChain, OpenAI API, Anthropic
+        API, LLMs, agentic frameworks, intelligent agents]
+    ml: [embeddings, similarity search]
+    web: [microservices, APIs]
+    databases: [PostgreSQL, pgvector, Pinecone, Qdrant, vector databases]
+    data: []
+    cloud: [AWS, AWS Bedrock, Lambda, ECS, S3, CloudWatch]
+    ops: [Terraform, AWS CDK, Docker, GitHub Actions, CI/CD, observability, Datadog,
+      Dynatrace, infrastructure-as-code]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [event-driven systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8572606'
+  extracted_at: '2026-02-27T12:28:37.392019'

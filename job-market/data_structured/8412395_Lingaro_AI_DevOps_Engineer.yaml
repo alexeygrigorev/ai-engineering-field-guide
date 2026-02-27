@@ -1,0 +1,48 @@
+company:
+  name: Lingaro
+  stage: Public
+  focus: Data Science & AI consulting solutions
+position:
+  title: AI DevOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work deploying LLMs/SLMs at
+      scale, including model serving, inference optimization, and
+      RAG implementations. This is direct work on AI/ML systems
+      rather than just supporting infrastructure for others.
+  responsibilities:
+  - Leading architecture and deployment of AI/ML/GenAI solutions including LLM/SLM
+    at scale
+  - Driving automation of infrastructure, model lifecycle and inference pipelines
+  - Overseeing CI/CD processes for AI/ML/GenAI workloads
+  - Designing secure, scalable cloud infrastructures with Azure focus
+  - Acting as technical advisor for client-facing solution design and stakeholders
+  - Mentoring engineers, promoting best practices, and fostering innovation in GenAI
+    adoption
+  - Coordinating cross-functional teams to align AI engineering with business outcomes
+  - Ensuring cost optimization, monitoring and compliance across environments
+  use_cases:
+  - Enterprise AI/ML/GenAI solution deployment and integration
+  - LLM/SLM model serving and inference optimization
+  - RAG (Retrieval-Augmented Generation) implementations
+  - GenAI application development and automation
+  - Secure and scalable cloud infrastructure for AI workloads
+  - AI model lifecycle management and monitoring
+  skills:
+    genai: [RAG, LLMs, SLMs, GenAI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [model serving, inference optimization, Azure DevOps, Kubernetes, Terraform,
+      Ansible, CI/CD, GitHub Actions, Jenkins, Linux, macOS]
+    languages: [Bash, PowerShell, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8412395'
+  extracted_at: '2026-02-27T12:34:30.520772'

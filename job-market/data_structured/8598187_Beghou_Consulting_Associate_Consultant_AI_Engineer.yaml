@@ -1,0 +1,50 @@
+company:
+  name: Beghou Consulting
+  stage: null
+  focus: |-
+    Life sciences commercialization consulting with advanced
+    analytics and AI solutions
+position:
+  title: Associate Consultant, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI
+      solutions including LLM-based copilots, GenAI frameworks,
+      RAG systems, and machine learning models. The engineer
+      directly implements AI/ML pipelines and develops production
+      AI services for clients, which qualifies as working directly
+      ON AI systems.
+  responsibilities:
+  - Design and implement AI/ML pipelines that solve real-world problems in life sciences
+  - Lead efforts in data ingestion, feature engineering, and model development across
+    structured and unstructured data sources
+  - Build and deploy scalable AI services and LLM-based copilots for field force,
+    MSLs, or commercial analytics teams
+  - Implement GenAI and Agentic AI frameworks for commercial automation
+  - Conduct technical reviews and provide mentoring to junior AI team members
+  - Collaborate with DevOps and cloud teams to deploy models on AWS/Azure
+  - Present technical concepts and outcomes to internal stakeholders and client teams
+  use_cases:
+  - Territory alignment optimization for pharmaceutical sales forces
+  - Representative scheduling optimization
+  - Patient segmentation for targeted marketing
+  - Incentive compensation optimization
+  - LLM-based copilots for field force and MSL assistance
+  - Commercial analytics and decision support automation
+  skills:
+    genai: [LangChain, LLMs, RAG, GenAI frameworks, Agentic AI]
+    ml: [NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Hugging Face, transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Databricks]
+    ops: [MLflow, Docker, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8598187'
+  extracted_at: '2026-02-27T12:14:19.476978'

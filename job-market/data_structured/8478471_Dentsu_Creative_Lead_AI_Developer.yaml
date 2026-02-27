@@ -1,0 +1,48 @@
+company:
+  name: Dentsu Creative
+  stage: Public
+  focus: Creative advertising and digital marketing agency
+position:
+  title: Lead AI Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Lead Developer role at a creative agency focusing
+      on general software development processes, code quality, and
+      mentoring. There is no mention of building, training, or
+      deploying AI/ML models - the role emphasizes standard
+      software engineering lifecycle, testing, documentation, and
+      technical guidance rather than hands-on AI work.
+  responsibilities:
+  - Participate in the entire software development cycle including requirements analysis,
+    design, development, unit testing and documentation
+  - Ensure long-term code reusability and stability of software applications
+  - Proactively identify security and usability issues and formulate strategies to
+    resolve them
+  - Take ownership for delivery of complex application features and resolve key technical
+    issues
+  - Provide technical guidance, deliver trainings, and mentor new software engineers
+    on the team
+  - Integrate new technologies and follow company release processes
+  use_cases:
+  - Software feature development for marketing and creative applications
+  - Enterprise application development with focus on code quality and stability
+  - Technical process improvement and knowledge sharing within development teams
+  - Security and usability improvements for business applications
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: [Software Architecture, Code Review, Unit Testing, Security Best Practices,
+      Technical Documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8478471'
+  extracted_at: '2026-02-27T12:16:26.567695'

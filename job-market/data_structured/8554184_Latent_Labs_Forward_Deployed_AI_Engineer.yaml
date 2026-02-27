@@ -1,0 +1,53 @@
+company:
+  name: Latent Labs
+  stage: null
+  focus: |-
+    Frontier generative models for biology, protein engineering,
+    and drug discovery
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer who deploys and
+      integrates frontier generative models directly into customer
+      environments. The role involves hands-on work with model-
+      serving infrastructure, API layers around ML models, and
+      end-to-end deployment of AI systems for pharmaceutical and
+      biotech customers.
+  responsibilities:
+  - Drive the end-to-end technical deployment of Latent Labs models into customer
+    environments, ensuring seamless integration with existing scientific and IT infrastructure
+  - Design and build production-grade API integrations, data pipelines and model-serving
+    infrastructure tailored to each customer's requirements
+  - Work on-site or embedded with pharma and biotech partners to scope technical requirements,
+    troubleshoot issues and deliver solutions
+  - Serve as the technical point of contact for assigned customers, building trusted
+    relationships with their scientific and engineering teams
+  - Gather and synthesise customer feedback, translating it into actionable insights
+    for product, research and platform teams
+  - Ensure deployments meet enterprise standards for security, performance and reliability
+  use_cases:
+  - Drug discovery through generative AI models
+  - Protein engineering and design using frontier generative models
+  - Integration of AI models into scientific workflows at pharmaceutical and biotech
+    companies
+  - Large-scale model serving for biological modeling applications
+  - Production API integrations for computational biology tools
+  skills:
+    genai: [Large Language Models/Generative AI]
+    ml: [ML frameworks]
+    web: [API design]
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS, GCP, Azure, Cloud-native architectures]
+    ops: [Model serving infrastructure, Docker, Kubernetes, CI/CD pipelines, Enterprise
+        security and compliance]
+    languages: []
+    domains: [Computational biology, Protein design]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8554184'
+  extracted_at: '2026-02-27T13:12:13.509885'

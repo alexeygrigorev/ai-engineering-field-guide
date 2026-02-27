@@ -1,0 +1,58 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Energy transition and electrification technologies
+position:
+  title: Principal AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building AI-native
+      applications including RAG systems, agentic workflows, and
+      LLM integrations. The candidate is responsible for
+      architecting and deploying these AI systems, not just
+      supporting them.
+  responsibilities:
+  - Define and drive technical vision and architecture for AI-native applications
+    across multiple product areas
+  - Design and architect enterprise-scale full stack applications with sophisticated
+    AI integrations across NLP, computer vision, and predictive analytics
+  - Architect advanced RAG systems, agentic workflows, and autonomous AI architectures
+  - Design cost-efficient, scalable LLM integration strategies across multiple providers
+    with optimization and failover mechanisms
+  - Establish technical standards, design patterns, and best practices for AI-augmented
+    development across the organization
+  - Lead cross-functional technical initiatives and drive technical decision-making
+    for complex systems spanning multiple teams
+  - Establish monitoring, observability, and cost management frameworks for AI systems
+    across the organization
+  - Champion engineering best practices including testing, code quality, security,
+    and scalability standards
+  use_cases:
+  - Enterprise-scale AI-native applications serving millions of users
+  - RAG (Retrieval-Augmented Generation) systems for knowledge retrieval and question
+    answering
+  - Agentic workflows and autonomous AI architectures
+  - Natural language processing applications
+  - Computer vision systems
+  - Predictive analytics for energy and industrial applications
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic Claude API, RAG, agentic
+        workflows, autonomous AI architectures, prompt engineering, model optimization,
+      LLM integration]
+    ml: [model fine-tuning, custom AI model deployment]
+    web: [React, Next.js, Vue.js, Node.js, Express, FastAPI, REST]
+    databases: [PostgreSQL, Redis, MongoDB, Pinecone, pgvector, vector databases,
+      embedding model optimization]
+    data: []
+    cloud: [AWS, Azure, Kubernetes, EKS]
+    ops: [infrastructure as code, GitOps, Docker, service mesh, enterprise observability
+        platforms, LLM cost monitoring, GitHub Copilot]
+    languages: [Python, TypeScript, JavaScript, SQL, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7133871'
+  extracted_at: '2026-02-27T12:28:29.167380'

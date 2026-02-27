@@ -1,0 +1,49 @@
+company:
+  name: Metaforms
+  stage: Series A
+  focus: AI platform for market research and surveys
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work building AI agent
+      systems, including prompt engineering, fine-tuning LLMs,
+      synthetic data pipelines, and model evaluation frameworks.
+      The engineer will architect agentic AI systems and implement
+      techniques for long-context handling and structured outputs,
+      which is core AI/ML development work.
+  responsibilities:
+  - Architect synthetic data pipelines to strengthen model performance on edge cases
+  - Lead development of complex evaluation datasets and automated data verification
+    systems
+  - Build monitoring and optimization systems for continuous production feedback loops
+  - Research and implement novel approaches for long-context handling, cascading error
+    reduction, and structured outputs
+  - Advance prompt engineering, fine-tuning, and control techniques for greater reliability
+  - Drive the design and evaluation of production-grade, agentic AI systems at scale
+  - Mentor junior engineers and set engineering standards for AI pipelines
+  - Partner with product and leadership to shape technical strategy and roadmap
+  use_cases:
+  - AI-powered survey programming and data processing automation
+  - AI agents for market research project management
+  - Synthetic data generation for model training and edge case handling
+  - Automated evaluation and monitoring of AI system outputs
+  - Domain-specific AI copilots for research workflows
+  - DSL (Domain Specific Language) processing and structured output generation
+  skills:
+    genai: [LLMs, prompt engineering, RAG, agents, structured-output models]
+    ml: [fine-tuning]
+    web: []
+    databases: []
+    data: [synthetic data pipelines, dataset management]
+    cloud: []
+    ops: [evaluation frameworks, model monitoring, bias evaluation]
+    languages: [Python, Go, JavaScript, TypeScript]
+    domains: [semantic parsing, DSLs]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7318531'
+  extracted_at: '2026-02-27T13:05:57.824086'

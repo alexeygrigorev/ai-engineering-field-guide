@@ -1,0 +1,47 @@
+company:
+  name: Zinier
+  stage: Series B
+  focus: |-
+    No-code field service automation platform with AI-driven
+    insights for telecom and energy
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on developing, training, and fine-tuning
+      AI/ML models with emphasis on understanding mathematical
+      fundamentals and using PyTorch/TensorFlow. There's no
+      specific mention of LLMs, RAG, or agents that would indicate
+      genai work.
+  responsibilities:
+  - Design, build, and maintain end-to-end AI/ML services and components
+  - Develop, train, fine-tune, and evaluate AI/ML models for real-world use cases
+  - Contribute to the development of production-grade AI systems, including data pipelines,
+    APIs, and deployment workflows
+  - Analyze model behavior and performance from a low-level, fundamentals-driven perspective
+  - Debug, optimize, and enhance AI models and systems for accuracy, efficiency, and
+    reliability
+  use_cases:
+  - Field service automation and optimization
+  - Routine task automation for field teams
+  - Predictive maintenance to fix things before they break
+  - Resource allocation and scheduling for field workers
+  - AI-driven insights for telecom and energy service organizations
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, model training, fine-tuning, model evaluation, model
+        optimization]
+    web: [APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [cloud platforms]
+    ops: [distributed systems, MLOps tools, performance tuning]
+    languages: [Python]
+    domains: []
+    other: [system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7408711'
+  extracted_at: '2026-02-27T12:23:44.081116'

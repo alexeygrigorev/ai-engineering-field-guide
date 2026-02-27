@@ -1,0 +1,52 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water treatment and sustainability solutions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and architecting GenAI
+      platforms and systems with LLM integrations, agent
+      orchestration frameworks, and multi-agent collaboration. The
+      responsibilities involve hands-on work with prompt
+      optimization, vector search, context management, and
+      deploying LLM-integrated systems in production environments,
+      which aligns with ai-first classification.
+  responsibilities:
+  - Architect GenAI platforms and systems with modular design, scalable pipelines,
+    and secure LLM integrations
+  - Define AI security, privacy, and governance standards including model context
+    management, output safety, and explainability frameworks
+  - Drive adoption of agent orchestration frameworks and protocols for multi-agent
+    collaboration and automation
+  - Evaluate emerging tools and abstract them into capability-driven design patterns
+    for orchestration, vectorization, summarization, and autonomous reasoning
+  - Build reusable components including SDKs, prompt libraries, and orchestration
+    templates to accelerate solution delivery
+  - Provide technical mentorship to Lead and Senior Engineers through code reviews,
+    architecture walkthroughs, and tech talks
+  use_cases:
+  - Enterprise GenAI platform for scalable AI solutions
+  - Multi-agent collaboration and automation systems
+  - Enterprise AI governance and compliance framework
+  - LLM-powered applications with vector search and retrieval
+  - Responsible AI deployment with safety and observability
+  skills:
+    genai: [LLM integration, Agent orchestration, Multi-agent systems, Prompt optimization,
+      RAG]
+    ml: []
+    web: [Microservices]
+    databases: [Vector search]
+    data: []
+    cloud: [Azure]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8426076'
+  extracted_at: '2026-02-27T12:15:15.055047'

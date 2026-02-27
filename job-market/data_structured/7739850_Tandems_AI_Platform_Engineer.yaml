@@ -1,0 +1,52 @@
+company:
+  name: Tandems
+  stage: Series B
+  focus: AI-enabled financial advisory platform
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying LLM-
+      based systems including RAG pipelines, agent workflows, and
+      model integration into production microservices. The
+      engineer directly implements AI capabilities like retrieval
+      orchestration, prompt engineering, and multi-agent systems
+      rather than just supporting infrastructure for others.
+  responsibilities:
+  - Design and build core AI platform services powering advisor-facing features like
+    intelligent insights and meeting summaries
+  - Develop and maintain RAG and semantic search pipelines for secure financial data
+    access and reasoning
+  - Integrate foundation models from OpenAI, Anthropic, AWS Bedrock, and Azure OpenAI
+    into scalable microservices and APIs
+  - Create and manage prompt orchestration and versioning frameworks for consistent
+    AI responses across products
+  - Develop evaluation, monitoring, and observability systems to ensure AI quality
+    and compliance in production
+  - Optimize inference performance, latency, and cost through model routing, caching,
+    and fine-tuning strategies
+  use_cases:
+  - Intelligent advisor insights and recommendations
+  - Automated meeting summaries for client interactions
+  - Semantic search over financial documents and data
+  - Personalized financial advice at scale
+  - Multi-agent workflows for complex financial tasks
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, DSPy, RAG, OpenAI API, Anthropic
+        API, Prompt engineering, Few-shot learning, Chain-of-thought, Agent workflows,
+      Function calling, Tool calling, Multi-agent systems]
+    ml: [Model fine-tuning]
+    web: [Streaming responses, REST APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI]
+    ops: [LangSmith, Weights & Biases, Inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7739850'
+  extracted_at: '2026-02-27T12:25:15.436860'

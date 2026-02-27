@@ -1,0 +1,53 @@
+company:
+  name: Point72
+  stage: Public
+  focus: Global alternative investment firm
+position:
+  title: IT Operations Engineer (Application Support) - AI & Data Technology
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an IT Operations/Application Support role focused on
+      monitoring, maintaining, and supporting AI and Data
+      platforms in production. The engineer ensures availability,
+      performance, and reliability of AI services and model
+      inference layers, but does not build, train, fine-tune, or
+      deploy AI models themselves. They work near AI systems to
+      provide operational support rather than working directly on
+      AI/ML development.
+  responsibilities:
+  - Own the day-to-day operational health of compliance approved AI and Data platforms
+    in production, ensuring high availability, performance, and reliability
+  - Monitor AI and Data services, model inference layers, APIs, and data dependencies
+    using logs, metrics, dashboards, and alerts
+  - Lead incident triage, coordination, and resolution for platform outages or service
+    degradations
+  - Conduct post-incident root cause analysis and drive corrective and preventive
+    improvements
+  - Support production deployments, configuration changes, and platform upgrades with
+    a focus on risk mitigation and stability
+  - Automate repetitive operational tasks and support workflows using Python and other
+    scripting tools
+  use_cases:
+  - AI platform operations and monitoring for compliance-approved production environments
+  - Model inference layer monitoring and troubleshooting in production
+  - AI tool user support and production issue resolution
+  - Data platform operations and data pipeline dependency management
+  - Investment platform infrastructure support for AI/ML applications
+  skills:
+    genai: []
+    ml: [model serving, inference pipelines]
+    web: [APIs]
+    databases: [SQL Server]
+    data: [Databricks]
+    cloud: [AWS, Azure]
+    ops: [Windows, monitoring, logging, incident management, root cause analysis,
+      distributed systems, automation, observability]
+    languages: [Python, SQL, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8544833'
+  extracted_at: '2026-02-27T12:17:34.756494'

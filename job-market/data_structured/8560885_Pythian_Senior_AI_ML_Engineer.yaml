@@ -1,0 +1,52 @@
+company:
+  name: Pythian
+  stage: Public
+  focus: |-
+    Strategic database and analytics services, AI/ML solutions
+    for digital transformation
+position:
+  title: Senior AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work deploying, fine-tuning, and
+      optimizing Large Language Models and Generative AI
+      technologies into production environments. Responsibilities
+      include building AI/ML pipelines and directly working with
+      advanced pre-trained models, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and maintain high-performance AI and machine learning pipelines
+    for complex internal and client-driven projects
+  - Deploy, manage, and scale diverse AI models including pre-trained models and custom
+    ML models into production environments
+  - Collaborate with data scientists and researchers to operationalize models, transforming
+    prototypes into production-grade AI systems
+  - Optimize model performance, latency, and cost-efficiency across various cloud
+    and edge deployment targets
+  - Implement comprehensive MLOps practices including automated testing, CI/CD for
+    models, versioning, and monitoring
+  - Work closely with software engineering teams to ensure seamless and ethical integration
+    of AI capabilities into applications
+  use_cases:
+  - Enterprise AI/ML solutions for internal and client-driven projects
+  - Generative AI and Large Language Model integration into production systems
+  - Advanced analytics and AI-powered data transformation
+  - Cloud-based AI model deployment at scale
+  - AI capabilities embedded in larger enterprise applications and workflows
+  skills:
+    genai: [Large Language Models, Generative AI]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Fine-tuning]
+    web: []
+    databases: []
+    data: [Data Engineering, ETL, ELT]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Kubeflow, MLflow, MLOps, CI/CD, Model monitoring, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8560885'
+  extracted_at: '2026-02-27T12:32:35.449953'

@@ -1,0 +1,45 @@
+company:
+  name: NICE
+  stage: Public
+  focus: Customer experience software, AI, cloud solutions
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing implementation role focused on
+      configuring and deploying conversational AI solutions within
+      the NICE CXone ecosystem. The role involves building
+      integrations and configuring AI platforms rather than
+      building, training, or fine-tuning AI models directly,
+      placing it in the ai-support category.
+  responsibilities:
+  - Implement and configure AI-driven and Conversational AI solutions across the NICE
+    CXone ecosystem
+  - Build integrations between systems and configure conversational AI platforms
+  - Ensure high-quality execution of project deliverables
+  - Collaborate with implementation teams to deliver solutions
+  - Author detailed design documents, functional requirements documents, test use
+    cases, and deployment guides
+  - Design and deploy enterprise-grade conversational flows and AI orchestration
+  use_cases:
+  - Customer experience management through conversational AI solutions
+  - Contact center automation and AI-driven customer interactions
+  - Enterprise-grade conversational flows for customer service
+  - AI orchestration within cloud-based contact center platforms
+  skills:
+    genai: [Conversational AI platforms, Kore.ai, Amelia, Dialogflow]
+    ml: []
+    web: []
+    databases: [SQL databases, NoSQL databases]
+    data: [Data integration patterns]
+    cloud: [NICE CXone]
+    ops: [Monitoring and logging tools, Debugging distributed systems]
+    languages: []
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8465554'
+  extracted_at: '2026-02-27T12:24:12.800647'

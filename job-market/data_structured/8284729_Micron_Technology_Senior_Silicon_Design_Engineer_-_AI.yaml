@@ -1,0 +1,50 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: Memory and storage solutions, DRAM/NAND
+position:
+  title: Senior Silicon Design Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI/ML systems
+      including fine-tuning LLMs, implementing RAG pipelines, and
+      applying reinforcement learning for optimization problems in
+      semiconductor design. The engineer will directly develop AI-
+      driven workflows and build LLM-based solutions for specific
+      domain applications.
+  responsibilities:
+  - Architect, design, and implement AI/ML-driven workflows for DRAM/NAND memory subsystems
+    and controllers
+  - Improve design and layout efficiency through AI-based automation, leveraging Python
+    and LLMs
+  - Perform block- and chip-level simulations, debugging, and functional verification
+  - Collaborate closely with design and CAD teams to develop and customize tools that
+    accelerate design qualification and turnaround time
+  - Apply industry-standard EDA tools such as Cadence Verisium, Virtuoso Layout Suite,
+    Siemens Solido for synthesis, simulation, parasitic estimation, and layout-aware
+    optimization
+  - Develop standard cell layout automation using Python and SKILL programming
+  use_cases:
+  - Semiconductor design automation and optimization
+  - Memory subsystem design qualification
+  - Design and layout efficiency improvements for DRAM/NAND controllers
+  - EDA tool integration and workflow acceleration
+  - Variation-aware design optimization
+  skills:
+    genai: [LLM fine-tuning, RAG (Retrieval-Augmented Generation), Claude, Gemini]
+    ml: [Reinforcement Learning, Neural networks, Machine learning optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Cadence Verisium, Virtuoso Layout Suite, Siemens Solido, Xcelium, ModelSim,
+      Cadence toolchains, Synopsys toolchains, EDA tools]
+    languages: [Python, SKILL programming, SystemVerilog]
+    domains: [CMOS fundamentals, Device physics, Memory architectures]
+    other: [UVM methodology, Simulation and verification]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8284729'
+  extracted_at: '2026-02-27T12:35:01.051652'

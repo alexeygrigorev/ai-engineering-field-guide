@@ -1,0 +1,53 @@
+company:
+  name: Assent
+  stage: Series B
+  focus: Supply chain sustainability SaaS platform
+position:
+  title: Sr. Data Engineer - AI ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building AI systems,
+      specifically designing and implementing RAG/RAQ pipelines,
+      knowledge bases, vector stores, and data infrastructures for
+      agentic AI systems. The engineer works on embedding
+      generation, semantic chunking, and retrieval orchestration -
+      all core components of AI/ML system development.
+  responsibilities:
+  - Design, build, and optimize data pipelines for Agentic and Generative AI systems
+    enabling context retrieval and multi-step reasoning
+  - Develop and manage knowledge bases, vector stores, and graph databases for regulatory,
+    product, and supplier data
+  - Engineer retrieval-augmented reasoning pipelines integrating embedding generation
+    and contextual chunking for LLM-driven agents
+  - Implement and automate workflows for ingesting structured and unstructured content
+    into searchable data stores
+  - Design feedback and reinforcement loops allowing AI agents to validate and refine
+    knowledge sources
+  - Integrate monitoring and observability to measure retrieval performance and model-data
+    alignment for deployed agents
+  use_cases:
+  - Supply chain sustainability compliance and risk management
+  - Enterprise knowledge retrieval and reasoning for regulatory data
+  - Autonomous AI agents for product and supplier domain analysis
+  - Document and email understanding through semantic search
+  - Multi-step reasoning on complex supply chain and regulatory information
+  - Dynamic knowledge graph updates for continuous AI agent learning
+  skills:
+    genai: [RAG, LangChain, LlamaIndex, DSPy, Semantic Kernel, Model Context Protocol,
+      Prompt engineering]
+    ml: []
+    web: []
+    databases: [Vector databases, Weaviate, Pinecone, FAISS, Milvus, Graph databases,
+      Neo4j]
+    data: [Airflow, Prefect, ETL]
+    cloud: [AWS]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8541936'
+  extracted_at: '2026-02-27T12:29:10.825655'

@@ -1,0 +1,53 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: AI Principle Engineer, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires significant hands-on experience with LLMs
+      (OpenAI, Azure OpenAI, Anthropic, Llama) and ML frameworks
+      (PyTorch, TensorFlow, Transformers). The principal engineer
+      will design and engineer software with AI/ML as a core
+      component, building and implementing working code with these
+      technologies.
+  responsibilities:
+  - Design and engineer software solutions with customer experience as the primary
+    objective
+  - Contribute to architecture, design and engineering centre of excellence to improve
+    software engineering capability
+  - Collaborate with software engineers in production and prototyping of innovative
+    ideas, validating with domain and enterprise architects
+  - Design and develop software with focus on automation of build, test and deployment
+    activities
+  - Define, create and provide oversight and governance of engineering solutions with
+    focus on end-to-end automation and resilience
+  - Design, produce, test and implement working code using Agile methods and DevOps
+    techniques
+  - Define and develop architecture models and roadmaps for application and software
+    components to meet business requirements
+  use_cases:
+  - Customer-centric banking solutions
+  - High performance and secure financial software applications
+  - Automated build, test and deployment pipelines
+  - Scalable and resilient banking platforms
+  - Innovative financial technology products and services
+  - Enterprise-level application architectures for banking operations
+  skills:
+    genai: [Transformers, OpenAI, Azure OpenAI, Anthropic, Llama]
+    ml: [PyTorch, TensorFlow, NumPy, Pandas]
+    web: [API design]
+    databases: [Database design]
+    data: []
+    cloud: []
+    ops: [DevOps, Agile]
+    languages: [Python]
+    domains: []
+    other: [Software architecture]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8310257'
+  extracted_at: '2026-02-27T12:39:24.241228'

@@ -1,0 +1,53 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and financial transactions
+position:
+  title: Staff SW Engineer (Platform - Core Automation) Cybersecurity AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Platform Engineer role building automation
+      infrastructure that supports AI/ML systems. The focus is on
+      developing web applications, microservices, and CI/CD
+      pipelines that enable AI operations, not building or
+      training models themselves. The role involves integrating
+      AI-driven decision-making into backend systems but does not
+      include direct work on models, agents, or LLMs.
+  responsibilities:
+  - Design, develop, and maintain robust, scalable web applications using modern front-end
+    and back-end technologies
+  - Build and consume RESTful APIs and GraphQL endpoints with responsive user interfaces
+    using React or Angular
+  - Implement server-side logic, database schemas, and data storage solutions using
+    Golang, Python, Java, or similar technologies
+  - Architect and deploy highly distributed systems using microservices ensuring scalability,
+    resilience, and seamless integration
+  - Integrate AI-driven decision-making into backend systems and deployment pipelines
+    for automated monitoring and remediation
+  - Optimize applications for maximum speed and scalability while ensuring system
+    reliability through monitoring and observability tools
+  use_cases:
+  - Cybersecurity threat detection and fraud prevention using AI and machine learning
+  - AI-assisted monitoring and anomaly detection for proactive issue identification
+  - Automated remediation processes through intelligent operational workflows
+  - AI-driven decision-making integration into backend systems and deployment pipelines
+  - LLM-based agent workflows for autonomous operational processes
+  - Cybersecurity analytics products protecting against cyber criminals and fraudsters
+  skills:
+    genai: [LLM-based agent workflows]
+    ml: []
+    web: [React, Angular, REST, GraphQL]
+    databases: [MySQL, PostgreSQL, MongoDB, Redis, Cassandra]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, Terraform, Ansible, Jenkins, Splunk, Prometheus, Grafana,
+      ELK, Git, AIOps, Microservices, Linux/Unix]
+    languages: [Go, Java, Python]
+    domains: []
+    other: [Agile/Scrum, Networking]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7997078'
+  extracted_at: '2026-02-27T12:56:28.602168'

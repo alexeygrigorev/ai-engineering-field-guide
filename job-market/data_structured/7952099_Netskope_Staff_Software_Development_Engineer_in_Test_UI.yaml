@@ -1,0 +1,49 @@
+company:
+  name: Netskope
+  stage: Series D
+  focus: Cloud security platform and data protection
+position:
+  title: Staff Software Development Engineer in Test, UI & API Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Software Development Engineer in Test role focused
+      on testing and quality assurance for an agentic AI platform.
+      While working with AI systems, the role is about testing,
+      validation, and automation frameworks rather than building,
+      training, or deploying models and agents directly.
+  responsibilities:
+  - Design and execute comprehensive test plans for new features, covering UI, APIs,
+    backend processes, and data integrations for the Agentic platform
+  - Develop and maintain robust automation frameworks using Playwright for UI testing
+    and build API and backend testing capabilities
+  - Create a framework for Evaluation pipeline which other teams can use to plug and
+    play test cases for their agents
+  - Validate critical background jobs including long running agents, agentic workflows,
+    data scans, classification, and alert generation at scale
+  - Own and evolve regression and smoke testing suites to ensure release readiness
+    and maintain product stability
+  - Handle customer escalations, perform root cause analysis, and drive issues to
+    resolution from a quality engineering perspective
+  use_cases:
+  - Agentic AI platform testing and validation across cloud and on-premise environments
+  - Security agents deployed on agentic AI platform for data protection
+  - Cloud account onboarding and integration for AWS, Azure, and GCP
+  - Long running agent workflows and data classification pipelines
+  - Data store compatibility testing across SQL, NoSQL, and data lakes
+  skills:
+    genai: []
+    ml: []
+    web: [Playwright, Selenium]
+    databases: []
+    data: [Airflow]
+    cloud: [Sagemaker, AWS, Azure, GCP]
+    ops: [Kubeflow, Kubernetes, Docker, CI/CD, Jenkins, GitHub Actions, GitLab CI]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7952099'
+  extracted_at: '2026-02-27T12:24:45.959754'

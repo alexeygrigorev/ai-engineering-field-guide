@@ -1,0 +1,57 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: Memory and storage solutions technology
+position:
+  title: Staff Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI-
+      driven tools, including RAG implementations, multi-agent
+      workflows, and context-aware systems using LLMs. The
+      engineer will directly work with AI frameworks like Copilot
+      Studio, UiPath, and cloud AI platforms, implementing prompt
+      engineering, memory management, and agent orchestration -
+      not just supporting AI infrastructure.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using Copilot Studio, UiPath, and
+    automation frameworks
+  - Connect AI agents with enterprise systems, external APIs, and knowledge bases
+    for seamless interoperability
+  - Identify repetitive tasks and design intelligent automation solutions to improve
+    efficiency
+  - Partner with cross-functional teams to enable AI literacy and support internal
+    training sessions
+  - Collaborate with cybersecurity teams to enforce data protection and ensure AI
+    solution compliance
+  - Implement secure agent interactions using encryption, authentication, and authorization
+    mechanisms
+  - Design and implement context-aware systems leveraging Model Context Protocol for
+    user interaction continuity
+  - Implement multi-agent workflows for complex decision-making and collaborative
+    problem-solving tasks
+  use_cases:
+  - Enterprise productivity enhancement through AI-driven automation and workflows
+  - Intelligent process automation for repetitive business tasks
+  - Internal knowledge management and retrieval through RAG and semantic search
+  - Decision support systems using multi-agent collaboration and negotiation workflows
+  - Secure enterprise AI agent integration with identity and access management platforms
+  skills:
+    genai: [Copilot Studio, RAG, semantic chunking, memory persistence, multi-agent
+        workflows, Model Context Protocol, prompt engineering, context window optimization,
+      agent orchestration frameworks, Agent to Agent]
+    ml: []
+    web: [API development, SharePoint]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Google Vertex AI]
+    ops: []
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: [UiPath, OAuth2, OIDC, SAML, Entra ID, AD FS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8002037'
+  extracted_at: '2026-02-27T12:29:44.426797'

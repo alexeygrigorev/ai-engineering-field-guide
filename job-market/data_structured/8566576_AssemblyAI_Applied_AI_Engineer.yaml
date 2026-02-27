@@ -1,0 +1,55 @@
+company:
+  name: AssemblyAI
+  stage: Series C
+  focus: Speech AI models for voice applications
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing technical role that supports
+      customers in implementing AssemblyAI's Speech AI models, but
+      does not involve building, training, or fine-tuning the
+      models themselves. The engineer focuses on integration,
+      troubleshooting, demos, and providing technical guidance on
+      using pre-built APIs rather than working on the AI models
+      directly.
+  responsibilities:
+  - Guide customers through their entire product journey from implementation to production
+    deployment and ongoing support
+  - Build custom demos and prototypes showcasing AssemblyAI's Speech AI models for
+    specific customer use cases
+  - Lead technical discovery sessions and provide architecture guidance for integrating
+    APIs
+  - Troubleshoot production issues for customers using streaming and async APIs across
+    multiple programming languages
+  - Serve as the voice of the customer to Product and Research teams, testing new
+    features and providing feedback
+  - Contribute to documentation, guides, and example code to help developers integrate
+    APIs effectively
+  - Experiment with new use cases and build open-source demos and reference implementations
+  - Represent AssemblyAI at conferences and industry events, delivering talks or running
+    workshops
+  use_cases:
+  - Voice agents and meeting assistants
+  - Contact center solutions and analytics
+  - Medical scribes and healthcare documentation
+  - Real-time streaming speech recognition
+  - Multi-language speech-to-text applications
+  - Custom keyword detection and keyterms prompting
+  skills:
+    genai: [Claude, Cursor, Windsurf]
+    ml: []
+    web: [Web APIs, WebSockets]
+    databases: []
+    data: [Real-time data streaming]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, TypeScript, JavaScript, Java, Go, Ruby]
+    domains: [Speech recognition, NLP, Audio processing]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8566576'
+  extracted_at: '2026-02-27T12:39:31.924080'

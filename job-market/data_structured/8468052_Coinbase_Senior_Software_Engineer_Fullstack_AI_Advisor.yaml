@@ -1,0 +1,50 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and blockchain platform
+position:
+  title: Senior Software Engineer, Fullstack (AI Advisor)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a fullstack software engineering role focused on
+      building AI-native interfaces and integrating AI
+      capabilities into Coinbase products. The role involves
+      implementing AI-driven workflows and guardrails, but is
+      primarily about building the application layer around AI
+      technologies rather than directly developing, training, or
+      deploying models. Applied AI experience (Foundational
+      Models, Agents, RAG) is listed as a nice-to-have, not a core
+      requirement.
+  responsibilities:
+  - Design and build core services and interfaces that turn natural-language goals
+    into safe, compliant Coinbase product workflows
+  - Implement risk and compliance guardrails directly into execution paths
+  - Work closely with many different product teams at Coinbase to externalize their
+    features through AI-native experiences, ensuring consistency of concepts, style,
+    and design
+  - Troubleshoot and debug complex fullstack issues, ensuring stability, reliability,
+    and security
+  - Participate in code reviews and provide constructive feedback to maintain high
+    code quality standards
+  use_cases:
+  - Natural language to workflow conversion for crypto product interactions
+  - AI-native experiences for Coinbase financial products
+  - Compliance and risk guardrails for AI-driven financial transactions
+  - Consumer-facing AI assistant for cryptocurrency services
+  skills:
+    genai: [Foundational Models, Agents, RAG]
+    ml: []
+    web: [React, React Native]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, TypeScript]
+    domains: []
+    other: [Fullstack development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8468052'
+  extracted_at: '2026-02-27T12:45:44.419623'

@@ -1,0 +1,50 @@
+company:
+  name: WeLocalize
+  stage: null
+  focus: |-
+    Multilingual content transformation, translation,
+    localization, and training data for NLP/ML
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying AI/ML models into
+      production workflows, with direct responsibility for
+      implementing reliable AI systems, optimizing performance
+      against business goals, and managing models from development
+      to deployment. The job explicitly mentions working with AI
+      techniques including embeddings and LLMs, which requires
+      hands-on work with models and algorithms.
+  responsibilities:
+  - Build, maintain, and improve Python services and pipelines for AI workloads
+  - Deploy AI models and algorithms using containerization with Docker and cloud infrastructure
+    (AWS)
+  - Own projects from implementation to deployment, ensuring stability and performance
+  - Run experiments, evaluate results, and interpret performance metrics
+  - Follow solid engineering principles to produce clean, well-tested, and production-ready
+    code
+  - Optimize and measure the performance of models and algorithms against business
+    goals
+  use_cases:
+  - NLP-enabled machine learning for language services
+  - Training data transformation for ML models
+  - Multilingual content translation and localization
+  - Model evaluation using embeddings and LLMs as judges
+  - Content annotation and evaluation workflows
+  skills:
+    genai: [LLMs]
+    ml: [Embeddings, Machine Learning, AI algorithms]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Cloud infrastructure]
+    ops: [Docker, Production deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7893521'
+  extracted_at: '2026-02-27T12:11:58.221502'

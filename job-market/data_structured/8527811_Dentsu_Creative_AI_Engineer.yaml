@@ -1,0 +1,49 @@
+company:
+  name: Dentsu Creative
+  stage: Public
+  focus: Global advertising and marketing agency network
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building GenAI applications
+      from prototype to production, including fine-tuning models,
+      prompt engineering, and implementing guardrails. The
+      engineer directly works with AI models (OpenAI/Anthropic
+      APIs, open-source LLMs) and deploys solutions, rather than
+      just supporting AI infrastructure or building general
+      software for an AI company.
+  responsibilities:
+  - Build GenAI applications including briefing assistants, classifiers, and creative
+    generation tools from prototype to production
+  - Design and optimize prompts, fine-tune models when needed, and ensure reliable
+    outputs
+  - Create automation pipelines using workflow tools like n8n, Make, Zapier, and Copilot
+    Studio
+  - Integrate AI models with martech stack through APIs, webhooks, and custom scripts
+  - Monitor AI outputs and implement guardrails for brand safety and regulatory compliance
+  - Debug, document, and continuously improve AI solutions
+  use_cases:
+  - Intelligent briefing assistants that streamline marketing workflows
+  - Content classification systems for organizing marketing materials
+  - Creative generation tools for producing marketing content
+  - Automated workflow pipelines connecting disparate martech systems
+  - Brand safety monitoring and compliance enforcement for AI-generated content
+  skills:
+    genai: [OpenAI API, Anthropic API, Open-source LLMs, Prompt engineering, Copilot
+        Studio, Guardrails, RAG]
+    ml: [Fine-tuning]
+    web: [APIs, Webhooks]
+    databases: []
+    data: [Data integration]
+    cloud: []
+    ops: [n8n, Make, Zapier, Version control]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8527811'
+  extracted_at: '2026-02-27T12:46:02.782239'

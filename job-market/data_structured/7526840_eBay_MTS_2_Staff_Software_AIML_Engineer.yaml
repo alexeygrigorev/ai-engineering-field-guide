@@ -1,0 +1,51 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace platform
+position:
+  title: MTS 2, Staff Software & AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with machine learning models
+      including fine-tuning, deploying, and applying them at
+      scale. It requires expertise in ML libraries (scikit-learn,
+      TensorFlow, PyTorch) and involves the end-to-end ML
+      lifecycle from model development to deployment, which goes
+      beyond supporting infrastructure.
+  responsibilities:
+  - Design, deliver, and optimize high-performance, large-scale applications, data
+    pipelines, and ML service infrastructure
+  - Integrate, fine-tune, and deploy advanced machine learning models for optimal
+    performance and impact
+  - Command the full software development lifecycle from design through deployment
+    and maintenance
+  - Develop and execute technical strategies for complex projects considering business
+    goals and timelines
+  - Translate business requirements into robust technical solutions in collaboration
+    with product managers
+  - Take ownership of cross-team engineering efforts and guide junior team members
+  - Drive innovation by developing novel solutions to challenging problems in risk
+    mitigation
+  use_cases:
+  - Marketplace risk mitigation and fraud detection
+  - Financial loss prevention for e-commerce transactions
+  - ML-powered recommendation systems for buyers and sellers
+  - Real-time risk assessment and decision making
+  - Large-scale data processing for insights and model training
+  skills:
+    genai: [Large Language Models, prompt engineering]
+    ml: [scikit-learn, TensorFlow, PyTorch, Keras]
+    web: []
+    databases: [MongoDB, Redis]
+    data: [Hadoop, Spark]
+    cloud: []
+    ops: [ML Ops, model deployment]
+    languages: [Java, Kotlin, Python]
+    domains: []
+    other: [Data Structures, Algorithms, Statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7526840'
+  extracted_at: '2026-02-27T12:41:56.729169'

@@ -1,0 +1,51 @@
+company:
+  name: CoreWeave
+  stage: Public
+  focus: Cloud infrastructure for AI compute
+position:
+  title: AI Solutions Engineer, Post Sales- W&B
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a post-sales solutions engineer role focused on
+      helping customers implement and scale ML/GenAI workflows
+      using Weights & Biases platform. While the role requires
+      deep knowledge of ML/LLM systems, the engineer is enabling
+      customers to build these systems rather than building AI
+      systems directly - they are providing technical guidance,
+      best practices, and platform expertise. The role is about
+      enabling AI work for others, which makes it ai-support.
+  responsibilities:
+  - Help customers implement and scale ML pipelines and agentic workflows using Weights
+    & Biases
+  - Collaborate with engineering teams to ensure smooth onboarding and adoption of
+    the platform
+  - Act as a trusted advisor on best practices for ML and GenAI workflows across industries
+  - Partner with leading AI teams to optimize workflows and share technical expertise
+  - Represent the voice of the customer internally to influence the product roadmap
+  - Lead technical success initiatives post-sales, partnering with Sales, Support,
+    Product, and Engineering teams
+  use_cases:
+  - Computer vision model development and deployment
+  - Robotics applications with ML workflows
+  - Natural language processing and large language model implementations
+  - ML pipeline optimization and scaling at production level
+  - Experiment tracking and observability for deep learning models
+  - Agentic AI workflow implementation and deployment
+  skills:
+    genai: [HuggingFace Transformers, LangChain, LangGraph]
+    ml: [TensorFlow, Keras, PyTorch, PyTorch Lightning, Fastai, scikit-learn, XGBoost,
+      LightGBM]
+    web: []
+    databases: [Pinecone, Weaviate]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Airflow, Kubeflow, Ray, TensorRT, Docker, Kubernetes, Linux]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8552498'
+  extracted_at: '2026-02-27T12:13:06.275521'

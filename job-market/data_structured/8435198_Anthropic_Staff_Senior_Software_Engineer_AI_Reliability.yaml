@@ -1,0 +1,51 @@
+company:
+  name: Anthropic
+  stage: Public Benefit Corporation
+  focus: Build safe, beneficial AI systems like Claude
+position:
+  title: Staff + Senior Software Engineer, AI Reliability
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Reliability Engineering role focused on
+      infrastructure, observability, and incident response for LLM
+      serving systems. The engineer builds monitoring systems,
+      ensures high availability, and operates serving
+      infrastructure rather than building, training, or fine-
+      tuning models themselves. They support the reliability of AI
+      systems without directly working on the AI/ML models or
+      agents.
+  responsibilities:
+  - Develop appropriate Service Level Objectives for large language model serving
+    systems, balancing availability and latency with development velocity
+  - Design and implement monitoring and observability systems across the token path
+  - Assist in the design and implementation of high-availability serving infrastructure
+    across multiple regions and cloud providers
+  - Lead incident response for critical AI services, ensuring rapid recovery, thorough
+    incident reviews, and systematic improvements
+  - Support the reliability of safeguard model serving critical for site reliability
+    and safety commitments
+  use_cases:
+  - Large-scale language model serving infrastructure
+  - High-availability AI service delivery across multiple regions and cloud providers
+  - Safeguard model serving for safety commitments
+  - Real-time token path monitoring and observability
+  - Incident management and rapid recovery for critical AI services
+  skills:
+    genai: []
+    ml: [ML accelerators]
+    web: []
+    databases: []
+    data: []
+    cloud: [high-availability infrastructure, multi-cloud]
+    ops: [distributed systems, SRE, incident response, monitoring, observability,
+      Service Level Objectives, GPUs, TPUs, Trainium, RDMA, InfiniBand, chaos engineering,
+      resilience testing]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435198'
+  extracted_at: '2026-02-27T12:31:19.455584'

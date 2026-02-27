@@ -1,0 +1,51 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public
+  focus: CDMO services for genomic medicine therapies
+position:
+  title: Senior Software Engineer I - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work designing and implementing
+      low-level code for training and fine-tuning RAG models using
+      OpenAI LLMs, which directly involves building and deploying
+      AI/ML models. Additionally, the position requires developing
+      Python applications for predictive analytics and integrating
+      AI models with enterprise data sources, which qualifies as
+      working directly ON AI systems rather than supporting them.
+  responsibilities:
+  - Develop, test, and deploy custom Python applications for predictive analytics,
+    process automation, and data-driven decision support to solve real-world problems
+    in biotech
+  - Design, implement, and optimize low-level code for training and fine-tuning RAG
+    models using OpenAI LLMs and related frameworks
+  - Integrate AI models with enterprise data sources, ensuring robust, scalable, and
+    secure solutions
+  - Design, code, and test custom applications and scripts using industry-standard
+    development systems and practices
+  - Deliver functionality according to technical specifications to achieve expected
+    business outcomes
+  use_cases:
+  - Predictive analytics for biotech applications
+  - Process automation and optimization
+  - Data-driven decision support systems
+  - RAG-based AI solutions with enterprise data integration
+  - Real-world problem solving in biotechnology and life sciences
+  skills:
+    genai: [RAG, OpenAI LLMs]
+    ml: []
+    web: []
+    databases: [SQL]
+    data: [Azure Databricks, Datalakes]
+    cloud: []
+    ops: [CI/CD, DevOps, Azure DevOps]
+    languages: [Python, JavaScript, Java, C# .NET]
+    domains: []
+    other: [Agile Software Development, Secure Code Development, Data Security, Compliance,
+      Governance Frameworks, Scrum Leadership]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596770'
+  extracted_at: '2026-02-27T12:14:37.891889'

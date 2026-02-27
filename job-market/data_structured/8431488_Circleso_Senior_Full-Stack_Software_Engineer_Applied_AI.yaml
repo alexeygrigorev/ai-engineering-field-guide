@@ -1,0 +1,45 @@
+company:
+  name: Circle.so
+  stage: Series C
+  focus: All-in-one platform for online communities
+position:
+  title: Senior Full-Stack Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role where the engineer will work hands-
+      on building AI agents, RAG systems, and LLM-powered
+      features. They will directly build and deploy AI solutions,
+      not just support infrastructure for others.
+  responsibilities:
+  - Ship full-stack AI projects end-to-end using Ruby on Rails backend and React frontend
+  - Design and run experiments including A/B tests and AI evaluations to validate
+    AI features
+  - Build and integrate AI infrastructure components optimized for production-level
+    LLM inference
+  - Develop AI agents and Retrieval-Augmented Generation systems for customer applications
+  - Improve processes, tools, and systems to scale AI features into production-ready
+    solutions
+  - Stay current with cutting-edge AI research, techniques, and tools
+  use_cases:
+  - AI agents for community management and automation
+  - Retrieval-Augmented Generation for knowledge management and search
+  - AI-powered content generation and recommendations
+  - AI evaluations and observability for measuring feature impact
+  - LLM-powered tools for enhancing community engagement
+  skills:
+    genai: [RAG, AI agents, LLMs]
+    ml: [AI evaluations]
+    web: [Ruby on Rails, ReactJS]
+    databases: [MySQL, PostgreSQL]
+    data: [A/B testing]
+    cloud: []
+    ops: [LLM inference, AI observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8431488'
+  extracted_at: '2026-02-27T12:36:08.901438'

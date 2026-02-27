@@ -1,0 +1,51 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: Semiconductor solutions and embedded processing
+position:
+  title: AI Platform Dev Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Platform DevOps Engineer role focused on
+      building and maintaining cloud infrastructure (AWS,
+      Terraform, CI/CD) that supports AI/ML and data teams. The
+      role involves platform engineering, infrastructure
+      automation, and governance - enabling AI work but not
+      building, training, or deploying models directly.
+  responsibilities:
+  - Deploy and maintain scalable Cloud workspaces for AI enablement on AWS using Terraform
+    including VPC, PrivateLink, IAM, S3, Lambda, EKS, and Fargate
+  - Provide architectural oversight and technical guidance to engineering teams on
+    cloud platform design
+  - Automate governance layer through Unity Catalog implementation including metastore
+    configuration, external locations, and access controls
+  - Design and implement policies, guardrails, and security controls to enforce standards
+    and ensure compliance
+  - Oversee GitLab CI/CD pipelines for data and GenAI projects with automated workflows
+    and release management strategies
+  - Configure monitoring, alerting, and logging using CloudWatch to ensure platform
+    stability and serve as escalation point for incidents
+  use_cases:
+  - Cloud workspace provisioning for AI and data teams
+  - Governance and access control automation for data platforms
+  - CI/CD pipeline orchestration for data and GenAI projects
+  - Platform observability and incident management
+  - FinOps optimization for cloud resource allocation and cost-efficiency
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [S3]
+    data: [Unity Catalog]
+    cloud: [AWS, VPC, Lambda, IAM, cloud networking]
+    ops: [Terraform, EKS, Fargate, Docker, GitLab CI/CD, Jenkins, CloudWatch, IaC,
+      FinOps, monitoring, logging, security and compliance]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8337959'
+  extracted_at: '2026-02-27T12:17:28.717338'

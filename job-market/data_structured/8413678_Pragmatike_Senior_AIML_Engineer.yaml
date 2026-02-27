@@ -1,0 +1,47 @@
+company:
+  name: Pragmatike
+  stage: Series A or B
+  focus: GenAI startup building production AI systems for enterprises
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work designing, building, training,
+      and optimizing ML models for production use. Bonus points
+      explicitly mention LLMs and GenAI experience, and the
+      company is recognized as a Top 10 GenAI company. This is not
+      just support work but direct model development and
+      deployment.
+  responsibilities:
+  - Design, build, train, and optimize machine learning and deep learning models for
+    production use
+  - Lead the deployment of ML models into scalable, reliable production systems
+  - Architect training, inference, and evaluation pipelines for structured and unstructured
+    data
+  - Own model performance, reliability, scalability, and lifecycle management
+  - Drive experimentation, model iteration, and performance benchmarking
+  - Implement and maintain high-quality ML codebases primarily in Python
+  - Monitor, debug, and improve live production models
+  - Collaborate with platform, backend, and infrastructure teams on system integration
+  use_cases:
+  - Enterprise AI systems deployed to Fortune 500 customers
+  - Production-grade AI systems for real-world applications
+  - Scalable machine learning and deep learning solutions
+  - Structured and unstructured data processing pipelines
+  skills:
+    genai: [LLMs, GenAI]
+    ml: [PyTorch, TensorFlow, scikit-learn, model lifecycle management]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, model deployment, monitoring, observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8413678'
+  extracted_at: '2026-02-27T12:27:34.759944'

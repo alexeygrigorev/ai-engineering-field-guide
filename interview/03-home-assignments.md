@@ -4,6 +4,11 @@ Analysis of take-home assignments, paid work trials, and asynchronous assessment
 
 See also: [Interview Process Report](01-interview-process.md) for the full interview process analysis including company-by-company breakdowns, common patterns, and notable practices.
 
+
+### Paid Work Trials
+
+5 companies offer paid assessment alternatives: PostHog (1-day SuperDay), Lorikeet (~2-day work trial), Infinity Constellation (1-week paid trial building something real), Fifth Dimension (1-week paid trial as alternative to standard interview), and CompuGroup Medical US (3-month stipended internship with performance-based conversion).
+
 ## Overview
 
 Of the 51 companies with disclosed interview processes, 17 (33%) include a take-home or asynchronous assignment. An additional 5 companies use paid work trials instead of traditional assignments. Only 1 company (TensorOps) explicitly states they do not use take-homes.
@@ -247,35 +252,7 @@ Listed as "Case study round" as the final step -- no further description of form
 
 ## Paid Work Trials (Alternative to Traditional Assignments)
 
-| Company | File | Role | Format | Duration | Compensation |
-|---------|------|------|--------|----------|--------------|
-| PostHog | [`6953405`](../job-market/data_raw/6953405_PostHog_AI_Product_Engineer.yaml), [`8277537`](../job-market/data_raw/8277537_PostHog_Software_Engineer_AI-Enabled_Product_Autonomy.yaml) | AI Product Eng / SWE AI | SuperDay - full day of real work | 1 day | Paid |
-| Lorikeet | [`8005716`](../job-market/data_raw/8005716_Lorikeet_Forward_Deployed_AI_Engineer.yaml) | Forward Deployed AI Eng | Work trial - ship with the team | ~2 days | Paid |
-| Infinity Constellation | [`7309806`](../job-market/data_raw/7309806_Infinity_Constellation_Founding_AI_Engineer_-_Supernal.yaml) | Founding AI Eng | Build something real with the team | 1 week | Paid |
-| Fifth Dimension | [`8507147`](../job-market/data_raw/8507147_Fifth_Dimension_AI_Engineer_StaffPrincipal.yaml) | AI Engineer (Staff/Principal) | Paid one-week trial as alternative to standard interview | 1 week | Paid |
-| CompuGroup Medical US | [`8123883`](../job-market/data_raw/8123883_CompuGroup_Medical_US_Generative_AI_Developer_Fresher.yaml) | Generative AI Developer (Fresher) | 3-month stipended internship with performance-based conversion | 3 months | Stipend |
-
-## Summary Table
-
-| # | Company | File ID | Duration | Format | AI OK? | Paid? | Evaluation Method |
-|---|---------|---------|----------|--------|--------|-------|-------------------|
-| 1 | Column Tax | [`6351158`](../job-market/data_raw/6351158_Column_Tax_Software_Engineer_Applied_AI.yaml) | ~3 hrs | Real integration project | ? | ? | 4.5-hr panel discussion |
-| 2 | FlowFuse | [`8067206`](../job-market/data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml) | 2-3 hrs | AI feature or PR (choice) | Yes | No | 60-min review with team |
-| 3 | Harmonic | [`6727775`](../job-market/data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml) | ? | Take-home exam | ? | ? | Debugging + jam session |
-| 4 | Tenex | [`8095486`](../job-market/data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124`](../job-market/data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml) | ? | Practical challenge | ? | ? | Engineer review + panel |
-| 5 | Lendable | [`8029593`](../job-market/data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438`](../job-market/data_raw/8316438_Lendable_Senior_AI_Engineer.yaml) | ? | Take-home exercise | ? | ? | Dedicated walkthrough |
-| 6 | Stacks | [`4761860`](../job-market/data_raw/4761860_Stacks_Staff_AI_Engineer.yaml) | ? | Take-home | ? | ? | On-site panel |
-| 7 | Melotech | [`8247431`](../job-market/data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435`](../job-market/data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml) | ? | Real-world case study | ? | ? | 90-min case interview |
-| 8 | Zeely | [`7568516`](../job-market/data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml) | ? | Test task | ? | ? | Not described |
-| 9 | hyperexponential | [`7298439`](../job-market/data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml) | ? | Home-based task | ? | ? | 60-min follow-up interview |
-| 10 | boam | [`8249839`](../job-market/data_raw/8249839_boam_Applied_AI_Engineer.yaml) | ? | Real ML/AI challenge | ? | ? | Not described |
-| 11 | SmartAssets | [`7694512`](../job-market/data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml) | ? | Coding challenge | ? | ? | Not described |
-| 12 | Roboflow | [`8027169`](../job-market/data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml) | prep+45m | Build with product, present | ? | ? | Present to CTO |
-| 13 | Wing Assistant | [`8359858`](../job-market/data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml) | ? | Technical task | ? | ? | Final interview with C-suite |
-| 14 | Lendable | [`8440447`](../job-market/data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml) | ? | Take-home task | ? | ? | Technical interview based on task |
-| 15 | Monzo Bank | [`8492197`](../job-market/data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml) | ? | Take-home OR pair coding (choice) | ? | ? | Behavioral + leadership rounds |
-| 16 | Qonto | [`8097536`](../job-market/data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml) | ? | Remote or live exercise | ? | ? | Not specified |
-| 17 | Hastings Direct | [`8463501`](../job-market/data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml) | ? | Case study | ? | ? | Not described |
+5 companies offer paid assessment alternatives instead of (or alongside) traditional take-homes. PostHog runs a paid 1-day "SuperDay" of real work. Lorikeet does a ~2-day paid work trial shipping with the team. Infinity Constellation replaces all traditional interviews with a paid week building something real. Fifth Dimension offers a paid 1-week trial as an alternative to their standard interview pipeline. CompuGroup Medical US uses a 3-month stipended internship with performance-based conversion.
 
 ## Key Observations
 

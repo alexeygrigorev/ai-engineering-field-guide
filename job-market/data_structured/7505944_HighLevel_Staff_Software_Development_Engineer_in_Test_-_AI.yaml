@@ -1,0 +1,49 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered all-in-one sales and marketing platform
+position:
+  title: Staff Software Development Engineer in Test - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff SDET role focused on testing and quality
+      assurance for AI products, not building AI systems. The role
+      involves designing test approaches for RAG, hallucination,
+      drift, and bias, but is about ensuring quality of AI systems
+      built by others rather than directly building, training, or
+      deploying models.
+  responsibilities:
+  - Define overall QA strategy and architect large-scale, reusable, cross-platform
+    automation frameworks
+  - Drive organisation-wide quality initiatives and own the quality charter for the
+    AI vertical
+  - Design scalable test approaches for RAG, hallucination, drift, and bias
+  - Own decisions on test strategy, tools, frameworks, and AI testing methodologies
+  - Coach and up-skill the entire team, set best practices, and build talent pipeline
+  - Influence cross-functional teams, participate in architecture discussions, and
+    align testing with business strategy
+  - Shape AI quality roadmap, reduce organisation-wide risk, and improve scalability
+    and reliability
+  use_cases:
+  - AI-powered sales and marketing platform for agencies and businesses
+  - Lead capture, nurturing, and customer conversion automation
+  - Messaging and communication handling (2.5 billion message events daily)
+  - AI-driven customer engagement and conversation facilitation
+  skills:
+    genai: [RAG testing, Hallucination testing, Drift testing, Bias testing]
+    ml: [Model testing]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, MLOps, Performance testing, Scalability testing, Test automation
+        frameworks, AI systems monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7505944'
+  extracted_at: '2026-02-27T13:12:37.377951'

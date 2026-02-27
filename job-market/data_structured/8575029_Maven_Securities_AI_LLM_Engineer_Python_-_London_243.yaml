@@ -1,0 +1,45 @@
+company:
+  name: Maven Securities
+  stage: Public
+  focus: Proprietary trading firm for derivatives
+position:
+  title: AI / LLM Engineer (Python) - London (243)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs including
+      deploying and managing AI OSS projects (LiteLLM, OpenWebUI,
+      LibreChat), integrating LLMs into production systems, and
+      implementing AI workflows using RAG, prompt engineering, and
+      tokenization. This is direct work building and deploying AI
+      solutions rather than just supporting infrastructure.
+  responsibilities:
+  - Design, implement, and optimize AI workflows across the firm
+  - Manage and improve the organization's AI infrastructure and platforms
+  - Collaborate with business and IT stakeholders to identify and scope AI use cases
+  - Provide training and guidance to stakeholders on AI system adoption
+  - Evaluate and recommend new LLMs, frameworks, and tools for integration
+  - Maintain documentation and champion best practices for reproducibility and security
+  - Optimize AI workloads for performance and cost-effectiveness
+  use_cases:
+  - AI-powered solutions for trading and market-making strategies
+  - Large language model integration for financial data analysis
+  - RAG-based systems for knowledge retrieval across trading operations
+  - AI workflows supporting business process automation
+  - Internal platforms and tools for AI model deployment and serving
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Tokenization, LiteLLM, OpenWebUI, LibreChat]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8575029'
+  extracted_at: '2026-02-27T13:11:20.129622'

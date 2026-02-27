@@ -1,0 +1,49 @@
+company:
+  name: Porch Group
+  stage: Public
+  focus: Vertical software and home insurance platform
+position:
+  title: Senior AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with Computer Vision and NLP
+      techniques (BERT, ViT), evaluating and integrating
+      foundation models and vision-language models, and deploying
+      RAG approaches. The engineer owns the full ML lifecycle from
+      research to production, directly building and deploying
+      models to extract property attributes from unstructured
+      data.
+  responsibilities:
+  - Own the full machine learning lifecycle from research to production, leveraging
+    Computer Vision and NLP techniques to extract insights from unstructured data
+  - Evaluate and integrate modern AI and foundation model capabilities including vision-language
+    models, embeddings, and retrieval-augmented approaches into production systems
+  - Partner with product, operations, and engineering to translate business problems
+    into high-impact machine learning or AI opportunities
+  - Design experiments to quantify the business impact of machine learning models
+  - Write robust, production-grade Python code to productionalize feature engineering,
+    model training, and deployment
+  - Utilize MLOps stack to drive feature engineering, model training, and data analysis
+  use_cases:
+  - Extract property attributes from text and image data sources
+  - Process unstructured home and consumer data using Computer Vision and NLP
+  - Leverage vision-language models for property analysis and insights extraction
+  - Apply retrieval-augmented generation for enhanced data processing
+  skills:
+    genai: [vision-language models, RAG, foundation models]
+    ml: [BERT, ViT, embeddings, Numpy, Scipy, Scikit-Learn, model training, feature
+        engineering]
+    web: []
+    databases: [Postgres, Google BigQuery]
+    data: [Feast, Flyte, Pandas, Matplotlib]
+    cloud: [Google Cloud Storage]
+    ops: [BentoML, model deployment, A/B testing, MLOps]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8360355'
+  extracted_at: '2026-02-27T13:01:39.209192'

@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global bank providing financial services
+position:
+  title: Gen AI Python Developer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct integration with LLM/GenAI services
+      for intelligent code analysis, transformation, and
+      automation. The developer will build AI-powered features and
+      innovate with Generative AI capabilities, making this hands-
+      on work with AI models rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Own and maintain Python-based services built with FastAPI and Uvicorn across multiple
+    tool domains
+  - Develop AI-powered features for release automation, migration utilities, and developer
+    productivity tools
+  - Integrate with LLM/GenAI services for intelligent code analysis, transformation,
+    and automation
+  - Build and maintain REST APIs that serve frontend applications and integrate with
+    enterprise systems
+  - Support Kubernetes/Helm-based deployments across DEV, UAT, COB, and PROD environments
+  - Collaborate with engineering teams to understand their needs and gather feedback
+    for tool improvements
+  - Encourage and support users in adopting AI-powered tools through demos, office
+    hours, and hands-on assistance
+  - Contribute to AI innovation initiatives, exploring new use cases and proof-of-concepts
+  use_cases:
+  - Release automation and CI/CD modernization for developer workflows
+  - Source control migration from BitBucket to GitHub Enterprise
+  - AI-powered code analysis and transformation using LLMs
+  - Automated configuration transformations and code generation
+  - Developer productivity tools leveraging Generative AI
+  - Enterprise developer tool integration and workflow automation
+  skills:
+    genai: [LLM/GenAI integration, prompt engineering]
+    ml: []
+    web: [FastAPI, Uvicorn, Flask, Django REST, REST APIs, OIDC, OAuth]
+    databases: [MongoDB, PostgreSQL]
+    data: []
+    cloud: [Google Cloud Platform, Vertex AI]
+    ops: [asyncio, async/await, Docker, Kubernetes, Helm, pytest, Locust, Black, isort,
+      SonarQube, Git, GitHub, BitBucket, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Jinja2, YAML, JSON]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8383991'
+  extracted_at: '2026-02-27T12:30:27.396840'

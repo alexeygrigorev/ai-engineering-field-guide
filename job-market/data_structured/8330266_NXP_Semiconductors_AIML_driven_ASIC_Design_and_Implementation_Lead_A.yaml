@@ -1,0 +1,50 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: Semiconductors and embedded systems
+position:
+  title: AI/ML driven ASIC Design and Implementation Lead Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing AI/ML solutions directly,
+      specifically evaluating and implementing GenAI,
+      Reinforcement Learning, Graph Neural Networks, and
+      Convolutional Networks for VLSI design applications. The
+      candidate will build prototype AI/ML systems to improve ASIC
+      design flows, which is hands-on AI/ML development work
+      rather than supporting infrastructure.
+  responsibilities:
+  - Explore and develop AI/ML applications for VLSI design and implementation
+  - Evaluate state-of-the-art AI/ML techniques including GenAI, Reinforcement Learning,
+    Graph Neural Networks, and Convolutional Networks
+  - Collaborate with Architecture, IP design, SoC Design, Verification, and Implementation
+    teams to drive automation improvements
+  - Develop prototype solutions to pilot AI/ML methods on actual designs
+  - Prescribe key methods and requirements for AI/ML CAD tools and features
+  - Improve design quality, verification, and implementation flows for Edge-AI, Automotive
+    Processors, and microcontrollers
+  - Work with academic research communities to explore leading-edge SoC technologies
+  use_cases:
+  - ASIC design automation using AI/ML techniques
+  - Improving power, performance, area, and verification quality of results
+  - VLSI CAD optimization for semiconductor design flows
+  - Automated SoC building for advanced node technologies
+  - Edge-AI and automotive processor design enhancement
+  skills:
+    genai: [GenAI]
+    ml: [Reinforcement Learning, Graph Neural Networks, Convolutional Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Unix/Linux, Git, BitBucket, Splunk, Jenkins, CI/CD]
+    languages: [Python, C++]
+    domains: [EDA tools, VLSI CAD, Static timing analysis, SDC (Synopsys Design Constraints),
+      CDC (Clock Domain Crossing), UPF (Unified Power Format)]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8330266'
+  extracted_at: '2026-02-27T12:18:01.341740'

@@ -1,0 +1,52 @@
+company:
+  name: Valeo US
+  stage: Public
+  focus: |-
+    Automotive supplier for autonomous driving and ADAS
+    solutions
+position:
+  title: Artificial Intelligence Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional computer vision and deep
+      learning for autonomous driving, working with vision and
+      sensor technology, ADAS systems, and DL frameworks. The
+      position involves researching, developing, and implementing
+      algorithms for autonomous driving on embedded platforms,
+      with no mention of LLMs, RAG systems, or generative AI
+      technologies.
+  responsibilities:
+  - Research, develop, benchmark, test and document state of the art algorithms for
+    autonomous driving
+  - Research new vision and other sensor technology, ideas, and approaches
+  - Support Intellectual Property activities and generate Invention Disclosure Memos
+    to facilitate patent applications
+  - Contribute to design reviews across algorithm teams
+  - Consider next generation algorithms and new business opportunities
+  - Develop algorithms with a view to implementing on embedded platforms
+  - Represent Valeo anSWer at various Industry Working Groups and at Conferences
+  - Support the design and implementation of in-company training sessions in your
+    area of expertise
+  use_cases:
+  - Autonomous driving algorithms and systems
+  - Automotive sensors based ADAS solutions
+  - Vision and sensor technology for vehicle perception
+  - Deep learning frameworks for automotive applications
+  - Embedded platform implementation for autonomous driving
+  skills:
+    genai: []
+    ml: [Deep Learning, Algorithm Development, DL Frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Computer Vision, ADAS, Sensor Technology, Autonomous Driving]
+    other: [Embedded Systems, Research and Development, Patent and IP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8424765'
+  extracted_at: '2026-02-27T12:29:30.225418'

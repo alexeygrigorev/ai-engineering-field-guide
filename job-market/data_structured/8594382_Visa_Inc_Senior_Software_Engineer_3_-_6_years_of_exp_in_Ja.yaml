@@ -1,0 +1,49 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and financial services
+position:
+  title: Senior Software Engineer (3 - 6 years of exp in Java / Python + Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Senior Software Engineer building an HR
+      platform who will use GenAI models and tools to enhance
+      development speed and code quality. The engineer co-develops
+      features alongside GenAI agents and experiments with
+      existing models, but does not build, train, fine-tune, or
+      deploy the AI systems themselves - they are consumers of AI
+      capabilities to build applications.
+  responsibilities:
+  - Design, enhance, and build HR platform applications in an agile development environment
+  - Develop secure, scalable, and high-performance code meeting Visa's standards
+  - Build high-performance APIs integrating with banking interfaces and document them
+  - Co-develop integrations and features alongside GenAI agents to increase speed-to-market
+  - Experiment with Visa's portfolio of Generative AI models and cutting-edge AI tools
+    for innovation
+  - Lead technical analysis, unit testing, deployment, and support activities with
+    end-to-end accountability
+  use_cases:
+  - HR platform development and enhancement for Visa employees
+  - Custom Workday reports and calculated fields
+  - BIRT layout designs and studio integrations
+  - EIB inbound and outbound integrations
+  - Real-time enhancements with high availability, performance, security, and reliability
+  - AI-assisted development using GenAI agents to accelerate software delivery
+  skills:
+    genai: [Generative AI, transformers, GANs, VAEs, multimodal models, NLP, prompt
+        engineering, tooling orchestration for AI agents, AI-powered developer tools]
+    ml: []
+    web: [REST, SOAP, OAuth 2.0, XML, XSLT, XPATH, SOA, HTML, .NET]
+    databases: []
+    data: []
+    cloud: [AWS, Azure Logic Apps]
+    ops: [Kubernetes, Docker, CI/CD, Bitbucket, GitHub, Jenkins, TFS, SVN]
+    languages: [Java, Node.js, JavaScript, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594382'
+  extracted_at: '2026-02-27T13:01:04.761789'

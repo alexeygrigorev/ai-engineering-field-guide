@@ -1,0 +1,52 @@
+company:
+  name: Microchip Technology Inc.
+  stage: Public
+  focus: Semiconductor and edge AI computing solutions
+position:
+  title: Senior Engineer II-Software AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role involves developing, implementing, and optimizing
+      AI models for edge computing environments using TensorFlow,
+      PyTorch, TFLite, and ONNX. While there's mention of cloud-
+      based development, the core work is hands-on model
+      development and tuning for edge AI hardware platforms, which
+      aligns with traditional ML/DL work rather than LLM/agent
+      development (ai-first) or supporting infrastructure (ai-
+      support).
+  responsibilities:
+  - Develop AI models for edge computing environments using multiple programming languages
+    and frameworks
+  - Create and define AI models using TFLite, TensorFlow, ONNX, PyTorch, and C/C++
+    based technologies
+  - Design and implement AI/ML applications, models, and algorithms optimized for
+    edge computing and cloud-based development
+  - Develop and tune AI models for efficient execution on hardware platforms
+  - Work with software engineering team to implement accelerated AI training software
+    platforms
+  - Collaborate with applications engineers on data gathering, applying, and evaluating
+    for AI models on Edge AI hardware
+  use_cases:
+  - Edge AI model deployment on hardware platforms
+  - AI applications optimized for edge computing environments
+  - Resource-constrained device inference
+  - Cloud-based AI development and application space
+  - Edge-to-cloud integration for AI workloads
+  skills:
+    genai: []
+    ml: [TensorFlow, TFLite, PyTorch, Keras, ONNX, MPLAB Machine Learning Development
+        Suite]
+    web: [React, Angular, Node.js, HTML, CSS]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, Jenkins, Ansible, Chef]
+    languages: [Python, C/C++, JavaScript, TypeScript]
+    domains: [Signal processing]
+    other: [Edge computing, Embedded systems, IoT]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8244638'
+  extracted_at: '2026-02-27T12:17:54.887055'

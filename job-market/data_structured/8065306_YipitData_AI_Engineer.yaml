@@ -1,0 +1,48 @@
+company:
+  name: YipitData
+  stage: Series B+
+  focus: Market research and analytics using alternative data
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on traditional ML/DL development including
+      training, fine-tuning, and optimizing models using
+      TensorFlow, PyTorch, and Scikit-learn. While NLP is
+      mentioned, the emphasis is on standard ML workflows (data
+      preprocessing, feature engineering, model evaluation) rather
+      than LLM-specific technologies or GenAI frameworks.
+  responsibilities:
+  - Assist in the development, training, and fine-tuning of machine learning models
+  - Work with large datasets including data cleaning, preprocessing, and feature engineering
+  - Implement and optimize deep learning models using frameworks such as TensorFlow,
+    PyTorch, or Scikit-learn
+  - Support research and development of AI applications in natural language processing
+    and predictive analytics
+  - Collaborate with software engineers to deploy and integrate AI models into production
+    environments
+  - Conduct experiments, analyze results, and enhance model performance
+  use_cases:
+  - Natural language processing applications
+  - Predictive analytics for market research
+  - Alternative data analysis for actionable insights
+  - Data transformation for strategic intelligence
+  - ML model deployment for production systems
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, spaCy, feature
+        engineering, model evaluation]
+    web: []
+    databases: []
+    data: [Pandas, NumPy, data preprocessing]
+    cloud: [AWS SageMaker, Google Vertex AI, Azure AI]
+    ops: [MLOps, CI/CD for ML models]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8065306'
+  extracted_at: '2026-02-27T12:45:50.130937'

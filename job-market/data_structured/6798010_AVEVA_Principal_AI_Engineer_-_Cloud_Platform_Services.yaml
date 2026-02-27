@@ -1,0 +1,59 @@
+company:
+  name: AVEVA
+  stage: Public
+  focus: Industrial automation and engineering software
+position:
+  title: Principal AI Engineer - Cloud & Platform Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with LLMs, RAG, agent
+      orchestration, AI model deployment, training, and AI tooling
+      development. The engineer will build AI-enabling platform
+      services and work with PyTorch/TensorFlow, indicating active
+      development of AI/ML systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Build scalable, fault-tolerant cloud-native services on Microsoft Azure ensuring
+    high performance and reliability
+  - Develop secure, well-documented public APIs and SDKs for consumption by internal
+    and external developers
+  - Collaborate with cross-functional teams to deliver end-to-end solutions across
+    data pipelines, orchestration, and service APIs
+  - Embed robust security controls to protect sensitive data and ensure secure access
+    to AI services
+  - Contribute to design reviews, code reviews, and architectural discussions to ensure
+    engineering excellence
+  - Mentor junior developers, encourage continuous learning, and contribute to a culture
+    of innovation
+  - Work with multiple teams to create AI solutions including AI model deployment,
+    training, and AI tooling development
+  use_cases:
+  - AI platform services as foundational building blocks for AI adoption across industrial
+    product portfolio
+  - Secure and scalable AI services for internal and external developer consumption
+  - Large Language Model integration with Retrieval-Augmented Generation for industrial
+    applications
+  - Agent orchestration and tool calling for automated industrial workflows
+  - AI model deployment and training infrastructure for industrial automation and
+    engineering
+  - AI-powered data management and 3D design solutions for industrial enterprises
+  skills:
+    genai: [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agent
+        orchestration, prompt engineering, tool calling, Model Context Protocol (MCP),
+      Agent2Agent (A2A), AI Foundry, Semantic Kernel]
+    ml: [PyTorch, TensorFlow, regression, classification, clustering, deep learning]
+    web: [RESTful API design, API versioning, API lifecycle management]
+    databases: []
+    data: []
+    cloud: [Microsoft Azure, Azure Functions, Azure Kubernetes Service (AKS), Azure
+        API Management]
+    ops: []
+    languages: [Python]
+    domains: [AI ethics, NIST AI RMF, EU AI Act]
+    other: [GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6798010'
+  extracted_at: '2026-02-27T12:24:20.831515'

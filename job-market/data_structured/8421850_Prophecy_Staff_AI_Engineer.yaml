@@ -1,0 +1,49 @@
+company:
+  name: Prophecy
+  stage: null
+  focus: |-
+    AI-native data preparation and analysis platform with AI
+    agents for data transformation
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work with ML/LLMs including
+      fine-tuning, building production agents with
+      LangChain/LlamaIndex, RAG systems, and vector databases. The
+      engineer will build multi-agent systems for ETL automation
+      and code-gen, not just support infrastructure for AI work.
+  responsibilities:
+  - Lead fine-tuning and optimization of ML/LLM models using PyTorch and HuggingFace
+  - Build and deploy production AI agents using LangChain, LlamaIndex, and CrewAI
+    frameworks
+  - Design and implement RAG systems with vector databases and prompt orchestration
+  - Develop multi-agent systems for ETL automation and code generation applications
+  - Architect and scale cloud infrastructure supporting 10k+ RPS backends on AWS/GCP
+  - Enforce MLOps and DevOps practices including CI/CD, canaries, observability, and
+    A/B prompt testing
+  - Provide hands-on technical leadership through coding prototypes, mentoring staff,
+    and solving complex problems
+  use_cases:
+  - AI-native data preparation and transformation using visual and document interfaces
+  - Multi-agent systems for ETL automation and code generation loops
+  - RAG-based systems for enterprise-scale data analysis and insight generation
+  - Code generation and text-to-SQL applications for data workflows
+  - Semantic extraction and knowledge graph applications using graph databases
+  skills:
+    genai: [LangChain, LlamaIndex, CrewAI, RAG, prompt orchestration]
+    ml: [PyTorch, HuggingFace, fine-tuning, SFT, DPO, RLHF, model distillation, quantization]
+    web: []
+    databases: [vector databases, Pinecone, Weaviate, Neo4j, Neptune]
+    data: [Spark]
+    cloud: [AWS, GCP, serverless]
+    ops: [k8s, CI/CD, MLOps, DevOps, observability]
+    languages: [Python, Go, Java, Scala, SQL]
+    domains: [code generation, text-to-SQL, semantic extraction, knowledge graphs]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8421850'
+  extracted_at: '2026-02-27T12:54:33.300270'

@@ -1,0 +1,55 @@
+company:
+  name: Prudential plc
+  stage: Public
+  focus: Health insurance and financial services
+position:
+  title: PHI - Principal Engineer – Agentic AI Insurance Core
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role building production AI
+      agents, agentic systems, and LLM-powered applications. The
+      role involves designing multi-agent pipelines, implementing
+      RAG systems, fine-tuning Gemini models, and building agentic
+      engines for pricing, underwriting, and proposals - all core
+      AI/ML development work, not just support infrastructure.
+  responsibilities:
+  - Lead engineering of a fully proprietary, Agentic AI-powered insurance core system
+    eliminating third-party SaaS dependencies
+  - Build the Agentic Product Engine to configure complex health insurance products
+    and dynamic pricing logic
+  - Architect an Agentic Quotation System for multi-variant, real-time quoting replacing
+    rigid SaaS rating engines
+  - Develop the Agentic Proposal System for automated data capture, form understanding,
+    and intent recognition
+  - Engineer the Agentic Underwriting Engine using LLMs and Document AI to automate
+    medical and financial scrutiny
+  - Build the Agentic Policy Issuance & Premium Accounting Core for real-time ledgering,
+    GST compliance, and policy document generation
+  - Design multi-agent pipelines across pricing, underwriting, and issuance with safe,
+    deterministic execution
+  - Deliver native integrations with National Health Claims Exchange (NHCX) and Bima
+    Sugam without middleware vendors
+  use_cases:
+  - Automated health insurance product configuration and dynamic pricing
+  - Real-time quotation system with multi-variant insurance quoting
+  - Automated proposal generation with form understanding and intent recognition
+  - Medical and financial document scrutiny for underwriting automation
+  - Policy issuance and premium accounting with real-time ledgering
+  - Integration with national health insurance exchanges (NHCX, Bima Sugam)
+  skills:
+    genai: [Gemini 1.5 Pro, LangGraph, CrewAI, RAG, Document AI]
+    ml: [fine-tuning]
+    web: [HL7 FHIR]
+    databases: []
+    data: []
+    cloud: [Vertex AI, BigQuery ML, GKE, Apigee]
+    ops: []
+    languages: [Python]
+    domains: [ICD-10, ICD-11]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8561278'
+  extracted_at: '2026-02-27T13:09:20.577892'

@@ -1,0 +1,55 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and transactions
+position:
+  title: Senior Software Engineer (3 - 6 years' experience in Python / .NET Core /
+    C# + Angular / React + Gen AI + SQL)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full stack software engineering role in Visa's
+      People Technology team that requires understanding of
+      GenAI/LLM concepts (RAG, prompt engineering, Azure AI
+      Search) but focuses on building and maintaining enterprise
+      HR applications (Workday, Cornerstone, ADP, ServiceNow). The
+      role involves designing full stack applications, code
+      reviews, and application support rather than building,
+      training, or deploying AI models directly.
+  responsibilities:
+  - Design, develop, document, and maintain full stack applications and enhancements
+    to existing systems
+  - Write secure, scalable, and maintainable code that adheres to Visa's engineering
+    standards and best practices
+  - Participate in architecture, design, and code reviews, ensuring high code quality
+    and system performance
+  - Work closely with cross functional teams, including global and virtual teams,
+    to deliver software solutions
+  - Identify opportunities for platform enhancements, technical improvements, and
+    modernization
+  - Provide technical guidance and mentorship to junior engineers
+  - Support application operations, issue resolution, and system stability in partnership
+    with business users and IT teams
+  use_cases:
+  - Enterprise HR and Learning system integrations
+  - SaaS and hosted application management including Workday, Cornerstone, ADP, and
+    ServiceNow
+  - Custom-built enterprise applications for People Technology functional partners
+  - Application administration and user support for HR systems
+  - AI-enhanced search and retrieval for HR data using Azure AI Search
+  skills:
+    genai: [LLMs, RAG architecture, Prompt engineering]
+    ml: []
+    web: [Angular, React, HTML, CSS]
+    databases: [SQL Server, NoSQL databases]
+    data: []
+    cloud: [Azure AI Search, Azure Storage]
+    ops: [CI/CD, DevOps]
+    languages: [Python, .NET Core / C#, T-SQL]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8571022'
+  extracted_at: '2026-02-27T12:56:35.529125'

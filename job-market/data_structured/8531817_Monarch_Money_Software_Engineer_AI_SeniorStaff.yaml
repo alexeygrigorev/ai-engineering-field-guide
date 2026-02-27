@@ -1,0 +1,52 @@
+company:
+  name: Monarch Money
+  stage: Early stage
+  focus: Personal finance platform and app
+position:
+  title: Software Engineer, AI (Senior/Staff)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      directly. The engineer will design, build, and own AI
+      features including prompt engineering, API integrations,
+      multi-agent systems, and fine-tuning language models. They
+      work on the AI application layer with LLM-powered features,
+      RAG systems, and ML model improvements.
+  responsibilities:
+  - Apply GenAI and ML to help users understand spending patterns, surface actionable
+    insights, and automate financial tasks
+  - Navigate the AI toolkit to choose the right approach including prompts, retrieval
+    systems, and custom models for different problems
+  - Ship AI features confidently using sophisticated evaluation frameworks with test
+    datasets and scorers
+  - Own AI feature development including agent design, orchestration, ML model improvements,
+    and prompt engineering
+  - Build and operate production LLM-powered features with expertise in RAG systems
+    and evaluation techniques
+  - Design evaluation tooling including golden sets, rubric scoring, and LLM-as-judge
+    methodologies
+  use_cases:
+  - Personalized financial insights and spending pattern analysis for users
+  - Conversational AI for financial management and money-related queries
+  - Automated financial task automation to reduce manual work for users
+  - Actionable financial recommendations surfaced through AI-powered analysis
+  - Enterprise-grade evaluation and quality assurance for AI-powered financial features
+  skills:
+    genai: [prompt engineering, RAG, LangGraph, CrewAI, AutoGen, multi-agent systems,
+      LLM fine-tuning, guardrails]
+    ml: [LoRA, RLHF, embeddings, similarity search, classification, probabilistic
+        reasoning]
+    web: []
+    databases: [vector databases, OpenSearch, pgvector, Pinecone]
+    data: []
+    cloud: [Vertex AI]
+    ops: [Braintrust, LLM-as-judge, red-teaming]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8531817'
+  extracted_at: '2026-02-27T13:03:15.606060'

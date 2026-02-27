@@ -1,0 +1,48 @@
+company:
+  name: ShyftLabs
+  stage: Growth stage (founded early 2020)
+  focus: Data product company for Fortune 500
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building, fine-tuning,
+      deploying, and optimizing LLM-based systems. The role
+      directly involves model training with parameter-efficient
+      fine-tuning methods (LoRA, QLoRA), RAG pipelines, prompt
+      engineering, and model serving - all hands-on work with AI
+      models rather than support infrastructure.
+  responsibilities:
+  - Design and implement traditional ML and LLM-based systems and applications
+  - Optimize model inference performance and cost efficiency
+  - Fine-tune foundation models for specific use cases and domains
+  - Implement diverse prompt engineering strategies
+  - Build robust backend infrastructure for AI-powered applications
+  - Implement and maintain MLOps pipelines for AI lifecycle management
+  - Design and implement comprehensive traditional ML and LLM monitoring and evaluation
+    systems
+  - Develop automated testing frameworks for model quality and performance tracking
+  use_cases:
+  - Enterprise data solutions for Fortune 500 companies
+  - RAG-powered knowledge retrieval systems
+  - Fine-tuned LLMs for domain-specific applications
+  - Production-scale AI model deployment
+  - Automated model evaluation and monitoring
+  - Real-time AI-powered backend APIs
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, RAG, prompt engineering, LoRA, QLoRA]
+    ml: [PyTorch, TensorFlow, Transformers, model fine-tuning]
+    web: [FastAPI, Flask, RESTful APIs]
+    databases: [PostgreSQL, Redis, Vector DBs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [vLLM, TensorRT-LLM, SGLang, Docker, Kubernetes, CI/CD, Airflow, ML monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8172676'
+  extracted_at: '2026-02-27T12:34:54.673515'

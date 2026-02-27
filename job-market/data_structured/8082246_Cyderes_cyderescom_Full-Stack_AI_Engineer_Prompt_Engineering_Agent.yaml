@@ -1,0 +1,57 @@
+company:
+  name: Cyderes (cyderes.com)
+  stage: null
+  focus: |-
+    Cybersecurity IAM, exposure management, and MDR augmented by
+    AI
+position:
+  title: Full-Stack AI Engineer (Prompt Engineering & Agentic Systems) Python, Azure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on AI engineering focused on building,
+      deploying, and optimizing agentic AI systems, RAG pipelines,
+      and multi-agent workflows. The engineer works directly with
+      prompt engineering, agent frameworks, model fine-tuning, and
+      AI service integration rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design, test, and optimize enterprise-grade prompts, system instructions, schemas,
+    and agent workflows
+  - Build multi-step agentic pipelines, self-refining loops, and deterministic fallback
+    logic
+  - Implement PromptOps including versioning, evaluations, regression testing, hallucination
+    mitigation, and token optimization
+  - Build RAG pipelines, vector search, memory layers, and grounding strategies
+  - Build and maintain Python-based microservices using FastAPI with async patterns
+    and REST APIs
+  - Deliver full-stack AI applications using React and TypeScript for multi-turn AI
+    interactions
+  - Deploy AI workloads on Azure App Services, Functions, AKS, Logic Apps, and Event
+    Grid
+  - Support model selection, fine-tuning strategies, safety constraints, and evaluation
+    frameworks
+  use_cases:
+  - Agentic AI systems for cybersecurity operations
+  - RAG-powered enterprise search and knowledge retrieval
+  - Multi-turn AI interactions for security analysts
+  - Automated threat detection and response workflows
+  - AI-augmented security operations and automation
+  skills:
+    genai: [Prompt Engineering, PromptOps, RAG, LangChain, LlamaIndex, AutoGen, Multi-agent
+        Systems]
+    ml: []
+    web: [FastAPI, React, REST APIs]
+    databases: [Vector Databases, Azure Search, Pinecone, FAISS]
+    data: [KQL, Splunk SPL]
+    cloud: [Azure, Azure App Services, Azure Functions, AKS, Logic Apps, Event Grid,
+      Key Vault]
+    ops: [Azure Bicep, ARM, CI/CD, GitHub Actions, Docker, RBAC]
+    languages: [Python, async, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8082246'
+  extracted_at: '2026-02-27T12:57:16.189188'

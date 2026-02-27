@@ -1,0 +1,48 @@
+company:
+  name: Unifize
+  stage: null
+  focus: AI-native product suite for regulated manufacturing
+position:
+  title: Backend Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building backend services that interface
+      directly with AI models and LLM APIs, designing vector
+      database schemas for RAG implementations, and developing
+      AI/ML integrations. The engineer will work on RAG,
+      vectorization, and LLM API integrations - these are hands-on
+      tasks of building AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Own and build Python-based backend services that interface with AI models and
+    core product workflows
+  - Design and manage scalable PostgreSQL and vector database schemas and queries
+  - Develop and maintain RESTful APIs
+  - Collaborate with the platform and frontend teams to ensure clean integration with
+    the larger Unifize system
+  - Contribute to design decisions, including service boundaries, API structure, and
+    data pipelines
+  - Write clean, well-tested code and proactively review others' work
+  use_cases:
+  - Context-aware AI that suggests actions, detects risks, and enhances productivity
+  - Quality management system integration with AI capabilities
+  - CAPA management and deviation resolution
+  - Product launch processes with AI assistance
+  - Audit preparation and compliance management with traceability
+  skills:
+    genai: [RAG, LLM APIs, vectorization]
+    ml: []
+    web: [RESTful APIs, microservices architecture]
+    databases: [PostgreSQL, vector databases]
+    data: [message queues, asynchronous processing]
+    cloud: []
+    ops: [distributed systems, job orchestration]
+    languages: [Python, Clojure]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7733448'
+  extracted_at: '2026-02-27T12:11:03.457888'

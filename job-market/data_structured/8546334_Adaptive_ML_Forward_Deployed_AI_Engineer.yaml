@@ -1,0 +1,49 @@
+company:
+  name: Adaptive ML
+  stage: Seed
+  focus: |-
+    RLOps platform for enterprise LLM specialization and
+    deployment
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer who directly builds
+      and deploys AI solutions for customers. The role involves
+      experimenting with pipelines to personalize LLMs, building
+      synthetic data pipelines for model bootstrapping, and
+      enabling continuous model improvement using production
+      feedback - all hands-on work with AI models rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Embed directly with customers to maximize Adaptive Engine deployment value
+  - Experiment with pipelines to personalize models at scale using synthetic data
+    and production feedback
+  - Ensure customer success owning problems end-to-end from ideation to deployment
+  - Productionize the latest frontier research initiatives from the research staff
+  - Contribute to product roadmap identifying promising trends and customer needs
+  - Report clearly on work to distributed team with asynchronous written communication
+  use_cases:
+  - Enterprise LLM specialization and deployment
+  - Production workflows serving millions of requests
+  - Cost and performance optimization across distributed systems
+  - Synthetic data generation for model bootstrapping
+  - Continuous model improvement using production feedback
+  - Generative AI applications from proof-of-concept to production
+  skills:
+    genai: [Large Language Models]
+    ml: [Reinforcement Learning, Model Fine-tuning]
+    web: []
+    databases: []
+    data: [Synthetic Data]
+    cloud: []
+    ops: [Model Deployment, RLOps, Distributed Systems, Production Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8546334'
+  extracted_at: '2026-02-27T12:40:22.540505'

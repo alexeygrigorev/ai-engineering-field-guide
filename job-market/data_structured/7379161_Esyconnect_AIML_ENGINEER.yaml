@@ -1,0 +1,49 @@
+company:
+  name: Esyconnect
+  stage: null
+  focus: Job portal connecting job seekers with employers
+position:
+  title: AI/ML ENGINEER
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description mentions both traditional ML frameworks
+      (TensorFlow, PyTorch, scikit-learn) and AI/ML in general
+      terms but does not specify LLMs, RAG, agents, or GenAI
+      tools. Without clear indication of whether the role focuses
+      on modern generative AI or traditional machine learning, the
+      classification remains uncertain.
+  responsibilities:
+  - Design, develop, and implement machine learning models and algorithms to solve
+    complex business problems
+  - Collaborate with cross-functional teams to identify and prioritize AI/ML opportunities
+  - Preprocess and clean large datasets, perform feature engineering, and conduct
+    exploratory data analysis
+  - Develop and maintain scalable ML pipelines for model training, evaluation, and
+    deployment
+  - Optimize existing ML models for improved performance and efficiency
+  - Contribute to the development of AI/ML strategies and roadmaps
+  - Mentor junior team members and share knowledge through documentation and presentations
+  use_cases:
+  - Solve complex business problems through ML solutions
+  - Develop AI/ML solutions for job portal operations
+  - Build predictive models for job matching and recommendations
+  - Implement NLP for job search and matching
+  - Apply computer vision for resume or image processing
+  - Create scalable ML pipelines for production deployment
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [Hadoop, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git]
+    languages: [Python, R, Java]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7379161'
+  extracted_at: '2026-02-27T12:54:53.040280'

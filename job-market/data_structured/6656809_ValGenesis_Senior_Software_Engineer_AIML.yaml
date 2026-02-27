@@ -1,0 +1,50 @@
+company:
+  name: ValGenesis
+  stage: Series B or later
+  focus: Digital validation platform for life sciences
+position:
+  title: Senior Software Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      maintaining ML models and GenAI solutions. Responsibilities
+      include developing production-grade ML models, implementing
+      ML solutions, working with GenAI tools like LangChain and
+      LlamaIndex, and deploying models via MLOps platforms. This
+      is direct work on AI/ML systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Implement and deploy Machine Learning solutions to solve complex problems and
+    deliver real business value
+  - Collaborate with data product managers, software engineers and SMEs to identify
+    AI/ML opportunities for improving process efficiency
+  - Develop production-grade ML models to enhance customer experience, content recommendation,
+    content generation, and predictive analysis
+  - Monitor and improve model performance via data enhancement, feature engineering,
+    experimentation and online/offline evaluation
+  - Stay up to date with the latest in machine learning and artificial intelligence
+    and influence AI/ML for the Life science industry
+  use_cases:
+  - Content recommendation and generation for life sciences validation
+  - Predictive analysis for manufacturing excellence and compliance
+  - Computer vision for image processing in validation workflows
+  - NLP applications for process efficiency improvement
+  - Causal AI for understanding relationships in validation data
+  - Digital transformation and workflow optimization across product lifecycle
+  skills:
+    genai: [LangChain, LlamaIndex]
+    ml: [OpenCV, scikit-learn, TensorFlow, PyTorch]
+    web: []
+    databases: [Vector DBs, Neo4J, ArangoDB]
+    data: [Pandas, NumPy, SciPy]
+    cloud: []
+    ops: [Kubeflow, MLflow, DevOps, Continuous Integration]
+    languages: [Python, Rust]
+    domains: [Causal AI, Reinforcement Learning, Generative AI, NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6656809'
+  extracted_at: '2026-02-27T12:47:09.325078'

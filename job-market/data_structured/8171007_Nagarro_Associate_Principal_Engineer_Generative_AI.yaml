@@ -1,0 +1,53 @@
+company:
+  name: Nagarro
+  stage: Public
+  focus: Digital product engineering
+position:
+  title: Associate Principal Engineer, Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role requires deep hands-on experience with LLMs, RAG
+      implementation, prompt engineering, fine-tuning, and
+      distillation. Direct involvement in building and deploying
+      generative AI solutions using LangChain, LlamaIndex, and
+      vector databases.
+  responsibilities:
+  - Convert client business use cases into technical designs that meet requirements
+    elegantly
+  - Map decisions with requirements and translate technical specifications to developers
+  - Identify and evaluate different solutions to select the best option for client
+    requirements
+  - Define guidelines and benchmarks for non-functional requirements during project
+    implementation
+  - Write and review design documents covering architecture, framework, and high-level
+    application design
+  - Review architecture and design for extensibility, scalability, security, design
+    patterns, and ensure best practices
+  - Develop and design overall solutions including technologies, patterns, and frameworks
+  - Conduct proof of concepts to validate that suggested designs and technologies
+    meet requirements
+  use_cases:
+  - Generative AI applications
+  - RAG-based knowledge retrieval systems
+  - LLM-powered conversational interfaces
+  - Enterprise AI solutions with vector search
+  - Fine-tuned domain-specific models
+  skills:
+    genai: [LLMs, Transformers, prompt engineering, RAG, LangChain, LlamaIndex, LangGraph,
+      LangSmith, Hugging Face Transformers]
+    ml: [fine-tuning, distillation, PyTorch, TensorFlow, scikit-learn, BLEU, ROUGE,
+      model evaluation]
+    web: []
+    databases: [vector databases, Weaviate, Neo4j]
+    data: []
+    cloud: [Azure Machine Learning Studio, AI Foundry]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8171007'
+  extracted_at: '2026-02-27T12:55:51.695482'

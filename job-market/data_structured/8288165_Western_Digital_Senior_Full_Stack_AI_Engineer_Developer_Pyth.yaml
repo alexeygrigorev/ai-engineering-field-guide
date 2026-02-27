@@ -1,0 +1,51 @@
+company:
+  name: Western Digital
+  stage: Public
+  focus: Data storage technologies, HDDs, and cloud platforms
+position:
+  title: Senior, Full Stack AI Engineer / Developer ,  Python ,ReactJS (8+ Years Experience)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and orchestrating AI
+      workflows using LangGraph, LangChain, CrewAI, and AWS
+      Bedrock AgentCore to create multi-step AI agents. This is
+      hands-on work directly on AI/LLM systems including prompt
+      engineering, LLM orchestration, and model evaluation
+      frameworks.
+  responsibilities:
+  - Design and deploy comprehensive AI workflows to transform sales, marketing, and
+    e-commerce processes using LangGraph, LangChain, and AWS Bedrock AgentCore
+  - Build complex multi-step AI agents for automating lead scoring, customer segmentation,
+    and personalized e-commerce experiences
+  - Manage prompt lifecycle and design evaluation frameworks for assessing model performance
+    using PromptLayer and LangSmith
+  - Develop high-performance internal tools and client-facing applications using ReactJS,
+    Go, or Rust
+  - Implement reliable API integrations among Salesforce, Marketo, and data warehouses
+    including Azure and Oracle Exadata
+  - Construct scalable data pipelines for ingesting, processing, and delivering real-time
+    insights from Oracle Exadata into AI models
+  use_cases:
+  - Lead scoring and customer segmentation for sales teams
+  - Personalized e-commerce experiences and recommendations
+  - Automated marketing campaign management through Marketo integration
+  - Salesforce CRM automation for personalized lead engagement
+  - Real-time data processing and insights from Oracle Exadata warehouse
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AWS Bedrock AgentCore, Prompt engineering,
+      PromptLayer]
+    ml: []
+    web: [ReactJS, REST API]
+    databases: [SQL, Oracle Exadata]
+    data: []
+    cloud: [AWS Bedrock, Azure]
+    ops: [LangSmith]
+    languages: [Python, Go, Rust]
+    domains: [Salesforce, Marketo]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8288165'
+  extracted_at: '2026-02-27T13:11:05.286797'

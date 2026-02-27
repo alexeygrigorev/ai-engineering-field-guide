@@ -1,0 +1,49 @@
+company:
+  name: Narmi
+  stage: null
+  focus: |-
+    Digital banking platform for community financial
+    institutions
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying GenAI/agentic
+      systems into production for customers. The engineer will own
+      AI features from ideation to production release, build
+      evaluation systems for model/prompt validation, and design
+      monitoring for output degradation - all direct work with
+      models and AI systems, not just supporting infrastructure.
+  responsibilities:
+  - Own AI features from ideation to prototype to production release under customer
+    environments with monitoring of success
+  - Embed closely with customer teams to understand needs and guide adoption of AI
+    features
+  - Codify working patterns into tools, playbooks, or building blocks that others
+    can use
+  - Build evaluation and regression systems that validate model and prompt changes
+    before release
+  - Design monitoring that detects output degradation within hours, not days
+  use_cases:
+  - AI-powered digital banking features for community banks and credit unions
+  - Account opening and lending automation with AI capabilities
+  - Compliant AI systems operating in regulated financial environments
+  - Customer-facing AI features for 130+ million banking customers
+  - White-label SaaS AI capabilities for partner institutions
+  skills:
+    genai: [GenAI, agentic systems, prompt engineering]
+    ml: []
+    web: [backend engineering, frontend engineering]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation systems, monitoring, ML infrastructure]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8579364'
+  extracted_at: '2026-02-27T13:06:59.328694'

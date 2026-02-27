@@ -1,0 +1,50 @@
+company:
+  name: Brainscape
+  stage: null
+  focus: EdTech study platform for flashcards
+position:
+  title: AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on prompt engineering, directly working
+      with LLMs, OpenAI API, and GPT models. The engineer will be
+      fine-tuning, testing, and optimizing prompts to ensure high-
+      quality AI output, which is core AI/ML development work.
+  responsibilities:
+  - Migrate and test existing bulk flashcard creation prompts in updated AI environment
+    with newer GPT models
+  - Run test suites and manually review AI outputs for quality and correctness, fine-tuning
+    prompts as needed
+  - Analyze real user data to identify failure patterns and inform prompt improvements
+  - Streamline testing and evaluation workflows to make QA faster and more repeatable
+  - Monitor production quality post-launch and detect regressions as underlying models
+    shift
+  - Build and maintain model evaluation datasets from real user inputs across all
+    AI features
+  - Write new test cases for edge cases, multilingual content, and messy real-world
+    inputs
+  - Document prompt changes, test results, and lessons learned while working with
+    Content Team on quality standards
+  use_cases:
+  - Bulk flashcard creation from pasted or uploaded content
+  - Document summarization into flashcards
+  - Generating flashcards from user-described topics
+  - Multilingual flashcard creation
+  - Converting messy real-world inputs into structured flashcard content
+  skills:
+    genai: [Prompt engineering, OpenAI API, GPT models, LLMs]
+    ml: [Model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, GitLab, Regression testing, AI quality assurance]
+    languages: [Python]
+    domains: []
+    other: [Cursor IDE]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8543870'
+  extracted_at: '2026-02-27T12:18:50.877684'

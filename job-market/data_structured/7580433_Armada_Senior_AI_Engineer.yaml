@@ -1,0 +1,50 @@
+company:
+  name: Armada
+  stage: startup
+  focus: Edge computing infrastructure for remote areas
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building,
+      training, fine-tuning, and deploying ML/DL models including
+      transformers, LLMs, and computer vision systems. The
+      engineer is responsible for model development,
+      containerization, and deployment to production, which aligns
+      with working directly ON AI systems.
+  responsibilities:
+  - Translating business requirements into requirements for AI/ML models
+  - Preparing data to train and evaluate AI/ML/DL models
+  - Building AI/ML/DL models by applying state-of-the-art algorithms, especially transformers
+  - Testing, evaluating the AI/ML/DL models, benchmarking their quality, and publishing
+    models, data sets, and evaluations
+  - Deploying the models in production by containerizing the models
+  - Working with customers and internal employees to refine the quality of the models
+  - Establishing continuous learning pipelines for models with online learning or
+    transfer learning
+  - Building and deploying containerized applications on the cloud or on-premise environments
+  use_cases:
+  - Real-time computer vision for industrial operations in remote locations
+  - Natural language processing and transformers for edge applications
+  - Autonomous or robotic systems in mines, oil fields, and agricultural sites
+  - Real-time analytics and AI processing at the edge where cloud connectivity is
+    limited
+  - Control and navigation systems for autonomous operations in remote environments
+  skills:
+    genai: [LLMs, Transformers, BERT]
+    ml: [PyTorch, TensorFlow, Reinforcement Learning, Deep Learning, Machine Learning,
+      CNN, R-CNN, RNN, GAN, autoencoders, online learning, transfer learning]
+    web: [microservices architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: [NLP, Computer Vision, Speech]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7580433'
+  extracted_at: '2026-02-27T12:23:38.401170'

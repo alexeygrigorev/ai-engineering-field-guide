@@ -1,0 +1,55 @@
+company:
+  name: JazzX AI
+  stage: Seed
+  focus: |-
+    AI-native enterprise digital workers platform for lending
+    and due-diligence workflows
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building agentic workflows,
+      reasoning systems, and AI platform components.
+      Responsibilities include designing model orchestration,
+      agent execution, RAG implementations, and evaluation
+      pipelines for production AI systems.
+  responsibilities:
+  - Explore and evaluate foundation models
+  - reasoning models
+  - multimodal models
+  - and agentic workflows for enterprise use cases
+  - Design core AI platform components for model orchestration, agent execution, context
+    management, and retrieval pipelines
+  - Design declarative abstractions and primitives for low-code/no-code Builder Studio
+    to compose AI workflows visually
+  - Collaborate on building customer-facing enterprise AI applications using the JazzX
+    platform and Builder Studio
+  - Design and implement evaluation pipelines to measure system quality and develop
+    strategies for hallucination mitigation
+  - Serve as Staff-level technical leader, influencing architecture and mentoring
+    engineers on applied AI system design
+  use_cases:
+  - Residential lending workflows with deep due diligence and complex policy compliance
+  - Enterprise due-diligence workflows requiring expert judgment and explainable decisions
+  - Digital workers that capture expert judgment and make decisions explainable
+  - AI-powered applications that handle complex, regulated, high-stakes enterprise
+    tasks
+  - Agentic systems for knowledge-intensive industries with high trust requirements
+  skills:
+    genai: [OpenAI SDK, LangChain, AutoGen, CrewAI, RAG, prompt engineering, agents,
+      LLMs, reasoning models, multimodal models, guardrails]
+    ml: [reinforcement learning, knowledge graphs, ontologies, evaluation methodologies]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model orchestration, evaluation pipelines, retrieval pipelines, state management]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8221985'
+  extracted_at: '2026-02-27T12:30:39.510099'

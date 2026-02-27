@@ -1,0 +1,52 @@
+company:
+  name: Netskope
+  stage: null
+  focus: Cloud security and data protection platform
+position:
+  title: Principal / Distinguished Engineer , Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role focuses on building Agentic AI security
+      capabilities including detection for LLM systems, vector
+      databases, and RAG architectures. The engineer will design
+      and implement AI-powered systems for threat detection,
+      working directly with AI services (AWS Bedrock, SageMaker)
+      and multi-agent LLM systems, not just supporting
+      infrastructure around them.
+  responsibilities:
+  - Drive the enhancement of Agentic AI security capabilities for continuous detection
+    and posture management of sensitive or risky data
+  - Improve the Agentic AI platform to support major cloud infrastructures, on-prem
+    deployments, and new AI-centric technologies
+  - Provide technical leadership across all project phases from discovery and planning
+    through implementation and delivery
+  - Design and implement sophisticated systems leveraging AI/ML techniques, graph-based
+    analytics, and real-time data processing for threat detection
+  - Contribute to product development by understanding customer requirements and implementing
+    features with the product team
+  - Support customers by investigating and fixing production issues
+  use_cases:
+  - Continuous detection and posture management of sensitive data used in private
+    LLM training or accessed by public/multi-agent LLM systems
+  - AI-powered threat detection for security teams at large enterprises
+  - Behavioral analytics and risk assessment for enterprise security
+  - Intelligent automation for security operations and threat response
+  - Real-time data processing for cybersecurity analytics
+  skills:
+    genai: [RAG architectures, Retrieval Augmented Generation, LLM systems, multi-agent
+        systems]
+    ml: []
+    web: [REST APIs]
+    databases: [vector databases, 'databases (OLTP, OLAP)']
+    data: []
+    cloud: [AWS, AWS Bedrock, SageMaker, cloud services]
+    ops: [Docker, Kubernetes]
+    languages: [Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8038959'
+  extracted_at: '2026-02-27T12:11:53.120848'

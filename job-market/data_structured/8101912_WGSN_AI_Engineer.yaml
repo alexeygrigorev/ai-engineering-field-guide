@@ -1,0 +1,53 @@
+company:
+  name: WGSN
+  stage: null
+  focus: Global consumer and design trend forecasting
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM
+      and multimodal models, implementing RAG systems, and
+      designing inference services. The engineer is directly
+      responsible for taking AI/LLM models from prototype to
+      production, including building evaluation frameworks, vector
+      search infrastructure, and monitoring systems - all core
+      AI/ML development tasks rather than supporting
+      infrastructure.
+  responsibilities:
+  - Build, deploy and maintain production-grade LLM and multimodal models
+  - Design and implement retrieval-augmented generation (RAG) systems, semantic search
+    pipelines, embeddings, and vector search infrastructure
+  - Design and develop robust APIs and microservices to expose AI functionality into
+    WGSN products
+  - Build scalable inference infrastructure using Docker, Kubernetes, and AWS services
+  - Develop CI/CD pipelines for model deployment, versioning, evaluation and rollback
+  - Implement and maintain monitoring for latency, throughput, drift, hallucinations,
+    quality, reliability and operational cost
+  - Build automated evaluation pipelines, test suites and guardrail systems to ensure
+    safe, predictable model behaviour
+  - Collaborate with data scientists, data engineers, platform engineers and product
+    teams to embed models into production features
+  use_cases:
+  - Enterprise trend forecasting and consumer insights
+  - Fashion and design trend analysis
+  - Product design recommendation systems
+  - Consumer behavior prediction and analysis
+  - Multimodal content search and retrieval
+  skills:
+    genai: [LLMs, RAG, Embeddings, Semantic search]
+    ml: [Multimodal models]
+    web: [FastAPI, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, LLMOps, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8101912'
+  extracted_at: '2026-02-27T12:30:46.789573'

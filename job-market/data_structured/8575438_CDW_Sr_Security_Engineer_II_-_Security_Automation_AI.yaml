@@ -1,0 +1,59 @@
+company:
+  name: CDW
+  stage: Public
+  focus: |-
+    IT solutions provider for business, government, education,
+    healthcare
+position:
+  title: Sr. Security Engineer II - Security Automation, AI & Orchestration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security automation role that leverages AI as an
+      enabler for cyber defense operations, not as the primary
+      focus. The engineer designs automation workflows and
+      orchestration playbooks that integrate AI/ML insights to
+      enhance security response, but does not build, train, or
+      deploy AI models themselves.
+  responsibilities:
+  - Design, build, and maintain automation workflows that transform security from
+    detect and notify to detect, decide, and act
+  - Engineer reusable automation services and playbooks across identity, endpoint,
+    network, cloud, and SaaS control planes
+  - Implement guardrails for automation and AI-assisted capabilities including confidence
+    thresholds, blast-radius controls, and rollback mechanisms
+  - Develop custom integrations using Python, PowerShell, APIs, AI prompts, and event-driven
+    architectures
+  - Partner with Cyber Defense Engineering to integrate high-quality signals suitable
+    for automation and map MITRE ATT&CK techniques to automated responses
+  - Build self-healing infrastructure that detects and corrects unsafe platform states
+    without human intervention
+  - Embed security controls into CI/CD pipelines using policy-as-code and automated
+    testing processes
+  - Orchestrate cross-pillar responses across identity, endpoint, network, and response
+    domains
+  use_cases:
+  - Automated threat detection and response at machine speed
+  - AI-assisted security decisioning with confidence thresholds and guardrails
+  - Self-healing security infrastructure for identity, endpoint, and control plane
+    remediation
+  - Cross-platform security orchestration spanning cloud, SaaS, network, and endpoint
+    systems
+  - Policy-as-code security gates in CI/CD pipelines
+  - Scalable, resilient automation for enterprise cyber defense
+  skills:
+    genai: [prompt engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Splunk]
+    cloud: [Microsoft Sentinel, Azure AD/Entra ID]
+    ops: [CI/CD, infrastructure-as-code, policy-as-code]
+    languages: [Python, PowerShell]
+    domains: [MITRE ATT&CK, detection engineering, incident response, threat hunting]
+    other: [SOAR platforms, SIEM/XDR, Microsoft Defender, CrowdStrike, Palo Alto XSOAR/XSIAM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8575438'
+  extracted_at: '2026-02-27T12:17:06.973257'

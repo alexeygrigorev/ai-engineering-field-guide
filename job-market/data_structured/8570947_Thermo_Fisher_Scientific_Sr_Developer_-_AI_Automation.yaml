@@ -1,0 +1,53 @@
+company:
+  name: Thermo Fisher Scientific
+  stage: Public
+  focus: Scientific instruments and healthcare solutions
+position:
+  title: Sr. Developer - AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of agentic AI
+      systems, LLM-powered agents, and AI-driven automation
+      solutions using frameworks like LangChain, LangGraph, and
+      AutoGen. The developer will design and orchestrate goal-
+      driven agent architectures with LLM reasoning, tool
+      invocation, vector stores, and decision-making capabilities,
+      which is core AI engineering work.
+  responsibilities:
+  - Design and develop enterprise-grade agentic AI and automation solutions using
+    Python and orchestration frameworks
+  - Build LLM-powered agents with prompt engineering, tool invocation, embeddings,
+    vector stores, and memory
+  - Design goal-driven and event-driven agent architectures with exception recovery
+    and fallback strategies
+  - Implement Human-in-the-Loop workflows using UiPath Action Center and Python-based
+    validation loops
+  - Develop reusable frameworks and shared components using Python and .NET aligned
+    with enterprise standards
+  - Integrate automation and AI solutions with enterprise platforms including SFDC,
+    SQL databases, SharePoint, and legacy systems
+  use_cases:
+  - Enterprise business process automation with AI-driven reasoning and decision-making
+  - Compliant and explainable automation across regulated healthcare and scientific
+    workflows
+  - Human-in-the-loop document processing and validation with AI assistance
+  - Windows and Citrix automation for attended and unattended bot execution
+  - Robust exception handling and recovery in distributed semi-autonomous systems
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, Semantic Kernel, CrewAI, LLM agents, prompt
+        engineering, tool invocation, embeddings, vector stores, agentic orchestration]
+    ml: []
+    web: [REST, SOAP]
+    databases: []
+    data: []
+    cloud: [Azure DevOps]
+    ops: [Git, CI/CD]
+    languages: [Python, C#, VB.NET, SQL]
+    domains: []
+    other: [UiPath, Microsoft Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8570947'
+  extracted_at: '2026-02-27T12:31:45.618722'

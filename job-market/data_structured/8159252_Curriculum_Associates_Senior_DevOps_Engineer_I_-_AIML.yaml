@@ -1,0 +1,47 @@
+company:
+  name: Curriculum Associates
+  stage: Public
+  focus: Educational technology and K-12 learning programs
+position:
+  title: Senior DevOps Engineer I - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps Engineer role focused on building and
+      operating infrastructure, CI/CD pipelines, and automation
+      for AWS environments. While the role requires knowledge of
+      AI/ML trends and experience with AWS AI services (SageMaker,
+      Bedrock), the actual work involves supporting ML systems
+      through infrastructure and platform capabilities rather than
+      directly building, training, or deploying models.
+  responsibilities:
+  - Develop and advance Continuous Integration / Continuous Deployment capabilities
+    with a shift-left approach
+  - Build, operate, scale, and troubleshoot the Curriculum Associates SaaS infrastructure
+    on AWS
+  - Enhance monitoring tools, build infrastructure, and manage source code control
+    in collaboration with other teams
+  - Write tools for systems and infrastructure automation to support build and infrastructure
+    needs
+  use_cases:
+  - Educational assessments and personalized learning paths for K-8 students
+  - Reading and mathematics instruction with individualized student support
+  - Teacher empowerment through data-driven instructional decisions
+  - SaaS application delivery for educational institutions
+  skills:
+    genai: [Bedrock, Agentic AI]
+    ml: []
+    web: [Tomcat, Apache]
+    databases: [MySQL, DynamoDB, RDS]
+    data: []
+    cloud: [AWS, SageMaker, EC2, CloudFront, IAM]
+    ops: [CI/CD, MLflow, Terraform, CloudFormation, Git, Jenkins, ECS, Kubernetes,
+      Docker, Splunk, CloudWatch, Infrastructure as Code]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8159252'
+  extracted_at: '2026-02-27T12:16:58.157066'

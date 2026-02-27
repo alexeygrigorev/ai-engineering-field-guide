@@ -1,0 +1,48 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: Design and engineering software
+position:
+  title: Principal Developer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role focused on building
+      cloud-native agentic AI applications with direct work on
+      LLMs, RAG, MCP, and agent workflows. The responsibilities
+      explicitly include fine-tuning, evaluating, and deploying
+      large language models, which are core ai-first activities.
+  responsibilities:
+  - Lead the design and delivery of cloud-native Agentic AI applications that are
+    resilient, performant, and can scale well in production
+  - Fine-tune, evaluate, and deploy large language models in production environments
+  - Establish and implement evaluation and observability standards including regression
+    tests, monitoring, and feedback loops
+  - Design frameworks and tools that make it easier for other teams to develop AI-powered
+    experiences
+  - Establish best practices for Agentic experimentation, evaluation, and optimization
+    in high throughput environments
+  - Partner with product managers, architects, developers, and data scientists to
+    bring AI features to life in Autodesk products
+  use_cases:
+  - Product Data Management (PDM) workflow automation
+  - Product Lifecycle Management (PLM) workflow automation
+  - Enterprise search using RAG architectures
+  - Agentic AI systems for CAD and manufacturing domains
+  - Cloud-native AI agents for engineering workflows
+  skills:
+    genai: [LLM fine-tuning, RAG, MCP, LangGraph, CrewAI, Agentic architectures]
+    ml: [PyTorch, Ray]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker, Azure, Google Cloud]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8425982'
+  extracted_at: '2026-02-27T12:43:23.579781'

@@ -1,0 +1,55 @@
+company:
+  name: TRM Labs
+  stage: Series C
+  focus: |-
+    Blockchain analytics and AI solutions for crypto fraud
+    detection and financial crime investigation
+position:
+  title: Senior AI Engineer (AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of custom agentic
+      solutions using state-of-the-art AI models (OpenAI,
+      Anthropic, Gemini) to build AI-powered applications that
+      automate workflows and augment decision-making. The engineer
+      is responsible for building end-to-end systems including
+      agentic browser automation, workflow orchestration, and AI
+      evaluation/observability suites, which is direct work on AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Design, build, and own full-stack AI-powered internal applications including backend
+    services, APIs, data storage, and user-facing interfaces
+  - Develop custom agentic solutions leveraging state-of-the-art AI models to automate
+    workflows, augment decision-making, and scale business processes
+  - Embed within internal teams to understand their goals and constraints, translating
+    needs into technical solutions with clear success criteria
+  - Own projects end-to-end including technical design, architecture decisions, scoping,
+    delivery, iteration, and ongoing support
+  - Build reliable, scalable systems used across the organization that touch critical
+    parts of TRM's operations
+  - Collaborate with non-technical stakeholders to expand understanding of AI possibilities
+    and shape ambitious solutions
+  use_cases:
+  - Internal workflow automation for business teams including Intelligence, R&D, Operations,
+    Talent, Finance, and Legal
+  - Agentic systems for augmenting decision-making processes across the organization
+  - AI-powered tools for scaling business operations and improving efficiency
+  - Custom browser automation and workflow orchestration solutions
+  - AI evaluation and testing platforms for continuous model effectiveness monitoring
+  skills:
+    genai: [OpenAI, Anthropic, Gemini, agentic systems, workflow automation]
+    ml: []
+    web: [React, APIs]
+    databases: [Postgres, pgvector, Pinecone, Redis]
+    data: []
+    cloud: []
+    ops: [DeepEval, Langfuse, LangSmith, n8n]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8030668'
+  extracted_at: '2026-02-27T12:28:58.417500'

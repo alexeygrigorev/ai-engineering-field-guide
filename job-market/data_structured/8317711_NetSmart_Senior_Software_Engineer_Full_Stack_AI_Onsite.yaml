@@ -1,0 +1,49 @@
+company:
+  name: NetSmart
+  stage: null
+  focus: Healthcare technology solutions
+position:
+  title: Senior Software Engineer (Full Stack) (AI) (Onsite, Hebbal) (Open)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, developing, and deploying
+      generative AI, machine learning models, and AI systems. The
+      engineer works directly with ML frameworks (TensorFlow,
+      PyTorch), conducts experiments, iterates on models, and is
+      responsible for model optimization and deployment.
+  responsibilities:
+  - Design, develop, and optimize machine learning models for production environments
+  - Build scalable AI systems, including data pipelines, model training, and deployment
+    frameworks
+  - Work with deep learning frameworks (TensorFlow, PyTorch) and traditional ML libraries
+    (Scikit-learn, XGBoost)
+  - Collaborate with cross-functional teams to integrate AI solutions into existing
+    products and services
+  - Optimize models for performance, scalability, and efficiency in cloud or on-prem
+    environments
+  - Conduct experiments, analyze performance, and iterate on models to enhance accuracy
+    and efficiency
+  - Mentor junior engineers and contribute to the AI/ML technical strategy
+  use_cases:
+  - Transform data-driven insights into real-world applications
+  - Deploy machine learning models into production systems
+  - Integrate AI solutions into existing products and services
+  - Implement NLP techniques using deep learning architectures (CNNs, RNNs, Transformers)
+  - Build and optimize data preprocessing and feature engineering pipelines
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, XGBoost, CNNs, RNNs, Transformers]
+    web: []
+    databases: []
+    data: [Spark, Hadoop]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8317711'
+  extracted_at: '2026-02-27T12:37:24.409856'

@@ -1,0 +1,51 @@
+company:
+  name: Securonix
+  stage: Private (backed by Vista Equity Partners)
+  focus: Cybersecurity SIEM platform with agentic AI
+position:
+  title: Staff Software Engineer - Back-End & Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on back-end engineering for a Threat
+      Intelligence Platform with some AI tool/agent integration
+      responsibilities. The AI work involves integrating existing
+      AI tools and agents rather than building, training, or fine-
+      tuning models directly. The primary function is platform
+      development that supports AI capabilities.
+  responsibilities:
+  - Design, develop, and maintain Threat Intelligence Platform ThreatQ with focus
+    on performance, scalability, and maintainability
+  - Lead design and development of complex software solutions for cybersecurity applications
+  - Oversee and mentor team of software developers providing technical guidance
+  - Collaborate with product managers, security analysts, and stakeholders to translate
+    requirements into technical specifications
+  - Participate in code reviews to maintain code quality standards and best practices
+  - Design, prototype, and integrate AI agents and intelligent services into internal
+    systems and customer-facing products
+  - Mentor engineers on effective use of AI tools, prompt engineering techniques,
+    and evaluation of AI-driven features
+  use_cases:
+  - Threat intelligence platform for cybersecurity operations
+  - AI-powered threat detection, investigation, and response
+  - Behavioral analysis and user/entity behavioral analytics (UEBA)
+  - Real-time security analytics and automated incident response
+  - AI-assisted developer productivity and workflow automation
+  - Enterprise SIEM with human-in-the-loop agentic AI
+  skills:
+    genai: [AI-powered developer tools, AI agents, Prompt engineering]
+    ml: []
+    web: [React, Angular, RESTful APIs, JSON, Laravel]
+    databases: [MySQL, MariaDB]
+    data: [Pub/Sub, Event Sourcing]
+    cloud: [AWS, Azure, Google Cloud Platform, SQS]
+    ops: [Docker, Kubernetes, CI/CD, Git, Maven, Gradle, JUnit, Mockito, TestNG, Terraform,
+      Ansible]
+    languages: [Java, Python, SQL, TypeScript, JavaScript, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8502461'
+  extracted_at: '2026-02-27T12:38:06.016719'

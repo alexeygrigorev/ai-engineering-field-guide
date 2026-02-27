@@ -1,0 +1,53 @@
+company:
+  name: AVEVA
+  stage: Public
+  focus: Industrial automation and engineering software
+position:
+  title: Senior Software Engineer - AI Platform & Cloud Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building AI platform services, APIs, and
+      infrastructure that enable AI adoption across AVEVA's
+      product portfolio. While the role requires knowledge of
+      AI/ML concepts like LLMs, RAG, and model deployment, the
+      primary responsibility is developing the cloud-native
+      services and platforms that support AI work, rather than
+      directly building, training, or fine-tuning models.
+  responsibilities:
+  - Build scalable, fault-tolerant cloud-native services on Microsoft Azure ensuring
+    high performance and reliability
+  - Develop secure, well-documented public APIs and SDKs for consumption by internal
+    and external developers
+  - Collaborate with cross-functional teams to deliver end-to-end solutions across
+    data pipelines, orchestration, and service APIs
+  - Embed robust security controls to protect sensitive data and ensure secure access
+    to AI services
+  - Contribute to design reviews, code reviews, and architectural discussions to ensure
+    engineering excellence
+  - Mentor junior developers and contribute to a culture of innovation
+  - Work with multiple teams to create AI solutions including AI model deployment,
+    training, and AI tooling development
+  use_cases:
+  - Industrial intelligence platform for automation and engineering
+  - AI services platform enabling AI adoption across industrial software portfolio
+  - Secure and scalable AI model deployment and orchestration
+  - LLM and RAG capabilities for industrial applications
+  - AI tooling development for partner ecosystem integration
+  skills:
+    genai: [LLMs, RAG, agent orchestration, prompt engineering, tool calling, Model
+        Context Protocol (MCP), Semantic Kernel, AI Foundry]
+    ml: [PyTorch, TensorFlow, ML algorithms]
+    web: [RESTful API design, API versioning, API testing, API lifecycle management]
+    databases: []
+    data: []
+    cloud: [Microsoft Azure, Azure Functions, AKS, API Management]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [GitHub Copilot]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6798011'
+  extracted_at: '2026-02-27T12:10:20.802076'

@@ -1,0 +1,54 @@
+company:
+  name: AutoScout24
+  stage: null
+  focus: Automotive leasing marketplace platform
+position:
+  title: Senior Software Engineer / AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on using GenAI tools to accelerate
+      development and build internal developer tools (coding
+      assistants, documentation, testing), not on building,
+      training, or deploying AI models. The engineer acts as a
+      multiplier and culture driver, helping teams adopt AI-first
+      practices rather than directly implementing AI systems for
+      customers.
+  responsibilities:
+  - Join builder teams to create products loved by customers using an AI-first mindset
+    across the software development lifecycle
+  - Work hands-on in product codebases using GenAI tools to accelerate development,
+    improve quality, and simplify systems
+  - Build and evolve AI-powered internal tools and workflows including coding assistants,
+    reviews, documentation, and testing tools
+  - Act as a multiplier and culture driver by coaching teams on effective GenAI usage
+    and establishing AI-first ways of working
+  - Run small, data-informed experiments to test AI approaches and turn successful
+    patterns into repeatable standards and playbooks
+  - Apply AI-first principles to design, coding, testing, deployment, and operations
+    in a you-build-it-you-run-it environment
+  use_cases:
+  - Internal developer productivity tools including coding assistants, code reviews,
+    and documentation generators
+  - Automated testing and code quality improvement using GenAI tools
+  - Workflow automation for software development processes including debugging and
+    refactoring
+  - AI-powered development acceleration and innovation across engineering teams
+  - Code generation and decision support for engineering productivity
+  skills:
+    genai: [GitHub Copilot, ChatGPT, Claude Code, Cursor, OpenAI Codex, OpenAI API,
+      Anthropic API, Azure OpenAI, prompt engineering, guardrails]
+    ml: []
+    web: [Node.js, Next.js, Spring, Laravel]
+    databases: []
+    data: []
+    cloud: [Vertex AI, AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript, Java, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8517321'
+  extracted_at: '2026-02-27T12:27:29.518319'

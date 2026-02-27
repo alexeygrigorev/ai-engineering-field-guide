@@ -1,0 +1,56 @@
+company:
+  name: Atari
+  stage: Public
+  focus: Video games and interactive entertainment
+position:
+  title: Senior Software Engineer (AI-Driven Applications)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on integration and deployment of
+      LLMs and machine learning models into production, including
+      building RAG systems with embeddings, indexing, and
+      retrieval. The engineer directly works on implementing GenAI
+      features, optimizing inference performance, and managing
+      prompt engineering - all core AI/ML system building
+      activities.
+  responsibilities:
+  - Design and implement scalable, high-performance architectures for front-end interfaces
+    (React, Vue, or Angular) and back-end microservices (Python/Node.js)
+  - Build, document, and secure efficient RESTful or GraphQL APIs to enable seamless
+    data and model communication across systems
+  - Configure and optimize data models in relational databases and non-relational
+    Vector Databases to support AI workloads
+  - Integrate Large Language Models (LLMs) and machine learning artifacts into production
+    environments with emphasis on latency, reliability, and cost efficiency
+  - Lead the design and development of Retrieval-Augmented Generation (RAG) systems
+    including data chunking, embedding, indexing, and retrieval
+  - Improve AI application responsiveness via prompt engineering, caching, and inference
+    optimization
+  - Develop unit, integration, and end-to-end tests; manage deployment pipelines ensuring
+    quality, stability, and reliability
+  - Collaborate with Data Scientists and MLOps Engineers to deploy, monitor, and continuously
+    improve AI systems in production
+  use_cases:
+  - AI-driven video game applications and experiences
+  - Intelligent user-facing features that enhance product performance and usability
+  - Contextual response systems using Retrieval-Augmented Generation
+  - Generative AI integration for enhanced interactivity
+  - AI-powered product components for gaming experiences
+  skills:
+    genai: [OpenAI API, Gemini API, Claude API, LangChain, LlamaIndex, RAG, prompt
+        engineering, embeddings]
+    ml: []
+    web: [React, Vue, Angular, Node.js, REST APIs, GraphQL, Next.js]
+    databases: [PostgreSQL, MySQL, Vector Databases, Pinecone, Weaviate, Chroma]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7930280'
+  extracted_at: '2026-02-27T12:14:07.716799'

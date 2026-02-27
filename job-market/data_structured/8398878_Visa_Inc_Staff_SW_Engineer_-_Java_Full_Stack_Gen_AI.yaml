@@ -1,0 +1,54 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and processing
+position:
+  title: Staff SW Engineer - Java, Full Stack & Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a Staff Software Engineer focused on
+      Java full-stack development for payment systems at Visa.
+      While "Exposure to GenAi tools and Agentic development is a
+      must," this appears to be an additional requirement for a
+      traditional software engineering role building payment
+      platforms, microservices, and distributed systems rather
+      than hands-on work building, training, fine-tuning, or
+      deploying AI models.
+  responsibilities:
+  - Design code and systems that touch 40% of the world population while influencing
+    Visa's internal standards for scalability, security, and reusability
+  - Collaborate multi-functionally to create design artifacts and develop best-in-class
+    software solutions for multiple Visa technical offerings
+  - Design, implement and evolve highly scalable and fault-tolerant distributed components
+    using functional programming paradigm
+  - Design, document and implement new systems, as well as enhancements and modifications
+    to existing software with code that complies with design specifications and meets
+    security and Java best practices
+  - Design and implement testing procedures for APIs, abstractions and integration
+    patterns to solve challenging distributed computing problems
+  - Review code and accountability for team's development/testing activities and technically
+    lead software engineering teams
+  use_cases:
+  - Global payment processing and transaction platforms
+  - Real-time payments infrastructure
+  - Buy Now Pay Later technology solutions
+  - B2B and business-to-government payment solutions
+  - E-commerce payment integration and services
+  skills:
+    genai: [GenAI tools, Agentic development]
+    ml: []
+    web: [J2EE, Spring Boot, XML, Angular, React]
+    databases: [Cassandra, Solr, NoSQL, RDBMS]
+    data: [Kafka]
+    cloud: []
+    ops: [Kubernetes, Docker, Microservices architecture, JBoss, Tomcat, WebSphere,
+      Linux/Unix, Continuous Integration, Unit testing]
+    languages: [Java, JavaScript, C++, HTML]
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8398878'
+  extracted_at: '2026-02-27T12:18:29.036589'

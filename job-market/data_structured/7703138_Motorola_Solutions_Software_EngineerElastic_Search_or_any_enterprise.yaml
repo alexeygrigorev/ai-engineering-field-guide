@@ -1,0 +1,53 @@
+company:
+  name: Motorola Solutions
+  stage: Public
+  focus: |-
+    Critical communications and video security technologies for
+    public safety
+position:
+  title: Software Engineer(Elastic Search or any enterprise observability tools Prometheus/Grafana
+    Cloud/On prem Observability Azure/AWS/GCP advanced concepts Kubernetes, Linux
+    and Docker DevOps advanced Agentic AI fundamentals)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure role focused on
+      observability tools (Elastic Stack, Prometheus), CI/CD
+      pipelines, and cloud infrastructure for supporting other
+      engineering teams. The title mentions "Agentic AI
+      fundamentals" as a nice-to-have, but the core
+      responsibilities are infrastructure development, monitoring,
+      and platform services - working NEAR AI/ML systems rather
+      than directly building or deploying them.
+  responsibilities:
+  - Design and implement CI/CD pipelines across multiple public cloud regions
+  - Develop and operate common platform services for SaaS solutions
+  - Build custom software solutions using Elastic Stack and Kubernetes on Azure
+  - Operate Elasticsearch and Prometheus clusters used by services
+  - Support automation tools and services to minimize delivery time and increase developer
+    productivity
+  - Ensure overall reliability and security of platform services and environments
+  - Monitor and support platform services with metrics collection and reporting
+  use_cases:
+  - Cloud infrastructure management for public safety SaaS solutions
+  - Observability and monitoring for mission-critical communications systems
+  - Platform services enabling secure and reliable team communications
+  - CI/CD pipeline automation for multi-cloud SaaS deployment
+  - Enterprise-grade monitoring and metrics collection infrastructure
+  skills:
+    genai: [Agentic AI fundamentals]
+    ml: []
+    web: [Angular]
+    databases: [Elastic Stack]
+    data: []
+    cloud: [Azure, AWS, GCP, Azure Pipelines, Azure Event Hub, Azure Active Directory]
+    ops: [Prometheus, Grafana, Kubernetes, Docker, Linux, CI/CD, New Relic, Datadog,
+      Dynatrace, Git]
+    languages: [Python, Bash, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7703138'
+  extracted_at: '2026-02-27T12:45:17.951601'

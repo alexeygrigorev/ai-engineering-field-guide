@@ -1,0 +1,53 @@
+company:
+  name: Uvation
+  stage: null
+  focus: IT Services and AI/ML solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work designing, building,
+      deploying, and optimizing machine learning models and AI-
+      driven solutions. The engineer works directly on models for
+      classification, regression, NLP, computer vision, and
+      experiments with LLMs and generative AI technologies.
+  responsibilities:
+  - Design, build, and deploy ML models for classification, regression, NLP, computer
+    vision, and time-series forecasting
+  - Clean, preprocess, and transform structured and unstructured datasets while engineering
+    relevant features
+  - Package and deploy models using Docker, Flask/FastAPI, and Kubernetes with CI/CD
+    pipelines
+  - Implement MLOps practices using MLflow, Airflow, or Kubeflow for monitoring model
+    drift and performance
+  - Translate real-world business problems into AI/ML use cases and prototype AI-driven
+    solutions
+  - Experiment with cutting-edge models including LLMs, transformers, and generative
+    AI technologies
+  - Collaborate cross-functionally with software developers, DevOps, data analysts,
+    and domain experts
+  use_cases:
+  - Recommendation engines
+  - Chatbots and conversational AI
+  - Fraud detection systems
+  - Classification and regression predictive analytics
+  - Natural language processing applications
+  - Computer vision solutions
+  skills:
+    genai: [LLMs, transformers, generative AI]
+    ml: [TensorFlow, PyTorch, scikit-learn, Hugging Face, model evaluation, hyperparameter
+        tuning]
+    web: [Flask, FastAPI, REST APIs]
+    databases: []
+    data: [pandas, NumPy, Airflow]
+    cloud: [AWS SageMaker, Azure ML, GCP AI Platform]
+    ops: [Docker, Kubernetes, MLflow, Kubeflow, DVC, pipeline automation, CI/CD]
+    languages: [Python]
+    domains: [OpenCV, NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8273468'
+  extracted_at: '2026-02-27T12:45:39.806196'

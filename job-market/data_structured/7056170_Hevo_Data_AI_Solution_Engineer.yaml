@@ -1,0 +1,48 @@
+company:
+  name: Hevo Data
+  stage: Series B
+  focus: Data integration and pipeline platform
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building applications using
+      LLMs and AI APIs (OpenAI, Anthropic), prototyping AI models,
+      and implementing prompt engineering and embeddings. This is
+      direct work ON AI systems - building, testing, deploying,
+      and optimizing AI applications, not just supporting
+      infrastructure or data pipelines for other AI engineers.
+  responsibilities:
+  - Build internal applications using LLMs and AI APIs (e.g., OpenAI, Anthropic)
+  - Integrate AI into GTM tools like HubSpot, Salesforce, LinkedIn, Outreach, and
+    Google Sheets
+  - Develop scripts and automations for data enrichment, copy assistance, and reporting
+  - Rapidly test new AI models and APIs, validate feasibility, and create MVPs
+  - Evaluate and document performance, accuracy, and usability for GTM use cases
+  - Work closely with Marketing, Sales, and BizOps teams to capture pain points and
+    translate them into AI-driven solutions
+  - Maintain and optimize deployed tools while ensuring compliance, data privacy,
+    and reliability
+  use_cases:
+  - Data enrichment for GTM workflows
+  - Automated copy assistance and content generation
+  - AI-powered reporting and analytics for marketing and sales
+  - Workflow automation for HubSpot, Salesforce, and Outreach
+  - GT productivity optimization through AI-driven solutions
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Prompt Engineering, Embeddings, NLP]
+    ml: []
+    web: [REST APIs, GraphQL, Flask, FastAPI, Streamlit]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [HubSpot, Salesforce, LinkedIn, Outreach, Tableau, Looker]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7056170'
+  extracted_at: '2026-02-27T12:22:47.655860'

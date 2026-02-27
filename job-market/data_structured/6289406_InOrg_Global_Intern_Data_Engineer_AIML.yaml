@@ -1,0 +1,46 @@
+company:
+  name: InOrg Global
+  stage: null
+  focus: |-
+    Data engineering and AI/ML consulting on Google Cloud
+    Platform
+position:
+  title: Intern – Data Engineer & AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an intern role focused primarily on data engineering
+      (building data pipelines, data ingestion, transformation)
+      with basic ML model development and PoCs. The majority of
+      responsibilities involve supporting AI/ML projects through
+      data infrastructure rather than directly building,
+      deploying, or fine-tuning AI/ML models.
+  responsibilities:
+  - Learn and assist in building scalable data workflows using BigQuery, Bigtable,
+    Spanner, and AlloyDB
+  - Support data ingestion and transformation using Dataflow, Dataproc, and Pub/Sub
+  - Help develop basic ML models and contribute to PoCs
+  - Participate in team discussions and documentation
+  - Monitor and troubleshoot workflows with guidance
+  - Research and share updates on new GCP features
+  use_cases:
+  - Scalable data workflow construction for enterprise analytics
+  - Data ingestion and transformation pipelines
+  - Basic ML model development for proof-of-concept projects
+  - GCP-based data infrastructure monitoring and troubleshooting
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: [BigQuery, Bigtable, Spanner, AlloyDB]
+    data: [Dataflow, Dataproc, Pub/Sub]
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6289406'
+  extracted_at: '2026-02-27T12:31:08.050106'

@@ -1,0 +1,52 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment management and financial technology
+position:
+  title: AI Engineer, Aladdin Quality Engineering, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, fine-tuning
+      models, deploying AI systems, and building NLP pipelines for
+      intelligent test generation and anomaly detection. The
+      responsibilities directly include fine-tuning and deploying
+      LLMs, maintaining model performance, and developing AI-
+      driven components, which aligns with building and optimizing
+      AI systems rather than just supporting them.
+  responsibilities:
+  - Design and implement AI-driven components that support quality engineering across
+    the SDLC
+  - Develop NLP pipelines to extract insights from requirements, user feedback, and
+    test artifacts
+  - Fine-tune and deploy LLMs to support intelligent test generation, summarization,
+    and anomaly detection
+  - Collaborate with QA, DevOps and Product teams to integrate AI tooling into CI/CD
+    pipelines and quality gates
+  - Analyze historical test and defect data to identify patterns and optimize regression
+    test coverage
+  - Maintain and improve model performance through continuous learning and feedback
+    loops
+  use_cases:
+  - Intelligent test generation using LLMs
+  - Test case summarization and documentation
+  - Anomaly detection in test artifacts and systems
+  - Pattern identification from historical test and defect data
+  - Automated insight extraction from requirements and user feedback
+  - Optimization of regression test coverage through ML-based analysis
+  skills:
+    genai: [LLM fine-tuning, NLP pipelines, Large Language Models]
+    ml: [TensorFlow, PyTorch, Scikit-learn, spaCy, Hugging Face Transformers]
+    web: [Selenium, Playwright, Cypress]
+    databases: []
+    data: [Data pipelines, Feature engineering]
+    cloud: [Azure ML]
+    ops: [MLflow, Kubeflow, CI/CD, Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Gherkin syntax, Behavior-driven development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8598578'
+  extracted_at: '2026-02-27T12:36:34.500366'

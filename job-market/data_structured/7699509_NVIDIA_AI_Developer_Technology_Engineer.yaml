@@ -1,0 +1,48 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software platforms
+position:
+  title: AI Developer Technology Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on deep learning, GPU optimization, and
+      traditional ML workloads rather than LLMs/agents. The
+      engineer develops and optimizes ML algorithms on GPU
+      architectures and collaborates on next-generation hardware
+      design without mention of GenAI technologies like RAG or
+      agents.
+  responsibilities:
+  - Study and develop cutting-edge techniques in deep learning, graphs, machine learning,
+    and data analytics
+  - Perform in-depth analysis and optimization for best performance on current and
+    next-generation GPU architectures
+  - Work directly with key customers to understand their problems and provide the
+    best AI solutions using GPUs
+  - Collaborate closely with architecture, research, libraries, tools, and system
+    software teams to influence next-generation designs
+  - Influence the design of next-generation architectures, software platforms, and
+    programming models
+  use_cases:
+  - Self-driving cars reducing congestion and improving road safety
+  - AI travel agents that understand user preferences and arrange vacations
+  - Medical instruments reading and understanding patient DNA for cancer detection
+  - GPU deep learning for computers to learn from data and write complex software
+  skills:
+    genai: []
+    ml: [Deep Learning, Machine Learning, CUDA, Parallel Programming, GPU Architecture,
+      Graph Algorithms]
+    web: []
+    databases: []
+    data: [Data Analytics]
+    cloud: []
+    ops: []
+    languages: [C/C++, Software Design]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7699509'
+  extracted_at: '2026-02-27T12:35:50.002038'

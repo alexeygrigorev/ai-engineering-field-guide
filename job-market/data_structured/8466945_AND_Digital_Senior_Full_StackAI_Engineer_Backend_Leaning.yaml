@@ -1,0 +1,51 @@
+company:
+  name: AND Digital
+  stage: Series B
+  focus: Digital delivery consulting and skills training
+position:
+  title: Senior Full Stack/AI Engineer (Backend Leaning)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires building AI-enabled systems from MVP to
+      production, specifically including LLM- and RAG-based
+      solutions. This involves hands-on integration of AI into
+      backend systems, orchestrating AI services, and building AI-
+      powered workflows, which aligns with ai-first
+      classification.
+  responsibilities:
+  - Design and build scalable, resilient backend systems with REST/GraphQL APIs and
+    event-driven architectures
+  - Integrate AI into backend systems, orchestrating AI services and building AI-powered
+    workflows
+  - Build AI-enabled systems including LLM- or RAG-based solutions from MVP through
+    to production
+  - Provide technical leadership and shape architectural direction while reviewing
+    designs
+  - Work with clients in a consulting environment to identify realistic AI opportunities
+    and navigate hype vs practical value
+  - Evaluate risk, cost, scalability, and maintainability when proposing AI-driven
+    solutions
+  use_cases:
+  - AI-powered classification systems for backend applications
+  - Text summarization services using LLMs
+  - Anomaly detection using AI to enhance backend systems
+  - RAG-based solutions for knowledge retrieval and question answering
+  - AI-enabled workflows orchestrated within backend architectures
+  - AI tools to improve engineering productivity
+  skills:
+    genai: [LLMs, RAG, AI orchestration]
+    ml: []
+    web: [Node.js, REST, GraphQL, secure API design]
+    databases: [DynamoDB]
+    data: [Kafka, Kinesis]
+    cloud: [AWS, Lambda, SQS, SNS, API Gateway, Step Functions, GCP, Azure, IAM]
+    ops: [ECS, Terraform, CI/CD, Docker, Kubernetes, secrets management]
+    languages: [Java, TypeScript, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8466945'
+  extracted_at: '2026-02-27T13:05:14.956383'

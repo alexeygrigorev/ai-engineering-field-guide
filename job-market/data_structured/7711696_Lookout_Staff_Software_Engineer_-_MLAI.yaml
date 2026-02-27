@@ -1,0 +1,53 @@
+company:
+  name: Lookout
+  stage: null
+  focus: |-
+    Mobile cybersecurity platform with AI-powered threat
+    detection
+position:
+  title: Staff Software Engineer - ML/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves owning the full ML lifecycle including model
+      training, deployment, and continuous retraining. Explicitly
+      mentions hands-on work with LLM/RAG stack (embeddings,
+      vector databases, prompt engineering), LLM fine-tuning
+      (LoRA, PEFT), and modern AI frameworks (Hugging Face,
+      LangChain). This is direct model-building and deployment
+      work, not supporting infrastructure.
+  responsibilities:
+  - Own the full machine learning lifecycle from initial research and design to production
+    deployment, monitoring, and continuous retraining
+  - Establish and implement robust frameworks to train, evaluate, stress-test, and
+    monitor ML/AI systems to drive continuous improvement and prevent model drift
+  - Address real-world scale and performance challenges ensuring ML/AI models are
+    efficient, robust, and maintain target quality and latency under production constraints
+  - Set technical direction as a senior Individual Contributor and mentor junior engineers
+  - Improve all forms of automated testing including unit, integration, and functional
+    testing
+  - Participate in end-to-end service ownership including on-call duties for services
+    and components
+  use_cases:
+  - Mobile endpoint threat detection using behavioral analysis and AI
+  - Detection of human-centric attacks including social engineering and phishing
+  - Malware detection and software vulnerability identification on mobile devices
+  - Anomalous activity monitoring across enterprise mobile endpoints
+  - LLM-powered security analysis and threat intelligence processing
+  skills:
+    genai: [Hugging Face, LangChain, RAG, Embeddings, Prompt engineering, LoRA, PEFT,
+      LLM fine-tuning]
+    ml: [PyTorch, TensorFlow, scikit-learn, Model distillation, Model quantization]
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Kafka]
+    cloud: [AWS, GCP]
+    ops: [MLOps, Docker, Kubernetes]
+    languages: [Python, Scala, Golang]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7711696'
+  extracted_at: '2026-02-27T13:03:42.932182'

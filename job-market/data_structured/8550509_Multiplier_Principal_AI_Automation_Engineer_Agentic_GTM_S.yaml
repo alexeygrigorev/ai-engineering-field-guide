@@ -1,0 +1,51 @@
+company:
+  name: Multiplier
+  stage: null
+  focus: Agentic GTM and revenue automation systems
+position:
+  title: Principal AI / Automation Engineer – Agentic GTM Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and optimizing
+      autonomous AI agents and LLM-powered systems with direct
+      hands-on implementation of prompt strategies, tool calling,
+      and RAG pipelines. The engineer owns the architecture and
+      execution of agentic systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design event-driven, multi-step agent workflows with reasoning, memory, and tools
+  - Define standards for autonomy, guardrails, and human-in-the-loop escalation
+  - Build reusable agent frameworks across churn, expansion, pipeline, and operations
+  - Design, build, and maintain scalable ELT/ETL pipelines centralizing data from
+    GTM sources
+  - Own Reverse ETL process to push actionable insights into frontline tools like
+    Salesforce and Slack
+  - Design and implement reusable Model Context Protocols (MCPs) for agent-data interactions
+  - Implement prompt strategies, tool calling, and RAG pipelines for LLM intelligence
+    layer
+  - Implement observability across MCP calls, data access, and agent decisions
+  use_cases:
+  - Event-based personalized communications
+  - Churn prevention and customer retention
+  - Revenue expansion and upselling opportunities
+  - Deal acceleration and pipeline velocity
+  - GTM intelligence and revenue forecasting
+  - Lead scoring and customer health monitoring
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, OpenAI API, Anthropic API, RAG, Prompt engineering,
+      Tool calling, MCP (Model Context Protocol), Agent frameworks]
+    ml: []
+    web: []
+    databases: [Snowflake, BigQuery, Redshift]
+    data: [ETL, ELT, Reverse ETL, Data modeling, Event-driven architecture]
+    cloud: []
+    ops: [Workflow orchestration, Observability, Role-based access control]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8550509'
+  extracted_at: '2026-02-27T12:12:33.333124'

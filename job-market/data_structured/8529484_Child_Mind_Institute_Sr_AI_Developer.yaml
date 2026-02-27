@@ -1,0 +1,50 @@
+company:
+  name: Child Mind Institute
+  stage: Nonprofit
+  focus: Children's mental health and learning disorders
+position:
+  title: Sr. AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, training,
+      evaluating, and deploying large language models and agentic
+      AI systems. The candidate will design and implement NLP
+      solutions, refine LLMs for clinical contexts, and develop
+      automated evaluation frameworks - all direct work on AI
+      models themselves rather than supporting infrastructure.
+  responsibilities:
+  - Develop machine learning models with focus on NLP and LLMs for mental health applications
+  - Develop and improve LLMs and agentic AI systems for generating synthetic multi-turn
+    conversation data
+  - Build automated evaluation systems for assessing model performance and safety
+  - Collaborate with clinical experts to translate therapeutic expectations into quantifiable
+    AI evaluation criteria
+  - Conduct evaluation of AI systems using expert-annotated benchmarks and perform
+    longitudinal analysis
+  - Ensure data quality, security, and compliance with privacy regulations for sensitive
+    clinical data
+  - Contribute to scalable, well-documented code for web applications and analytic
+    pipelines
+  use_cases:
+  - Mental health assessment and support tools
+  - Synthetic multi-turn conversation generation for clinical training
+  - Automated clinical evaluation frameworks for AI safety and effectiveness
+  - Longitudinal analysis of AI model behavior in healthcare contexts
+  - Privacy-compliant handling of sensitive clinical data
+  skills:
+    genai: [Large Language Models, Agentic AI, Prompt Engineering, RAG, LLM Fine-tuning]
+    ml: [PyTorch, TensorFlow, Hugging Face, scikit-learn, SpaCy, NLTK]
+    web: []
+    databases: []
+    data: [Data Visualization, Polars]
+    cloud: []
+    ops: [Docker, GitHub, Linux]
+    languages: [Python, R]
+    domains: [Natural Language Processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8529484'
+  extracted_at: '2026-02-27T12:32:01.029983'

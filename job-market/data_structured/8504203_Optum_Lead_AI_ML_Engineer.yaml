@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+position:
+  title: Lead AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs, generative AI,
+      and multimodal models including RAG, Transformers, and
+      Diffusion Models. The engineer is responsible for training,
+      deploying, and implementing these models end-to-end using
+      PyTorch, TensorFlow, and Hugging Face.
+  responsibilities:
+  - Lead applied research in LLMs, generative AI, and multimodal models
+  - Design and implement scalable AIML pipelines using PyTorch, TensorFlow, Hugging
+    Face, and MLflow
+  - Collaborate with engineering teams to deploy models into production using MLOps
+    best practices
+  - Evaluate and integrate advanced AIML tools such as GitHub Copilot, Windsurf, Vertex
+    AI, Azure OpenAI, and Hugging Face Transformers
+  - Architect end-to-end AIML systems including data ingestion, model training, inference,
+    and feedback loops
+  - Mentor junior engineers and researchers
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and business stakeholders
+  use_cases:
+  - Healthcare optimization and improved health outcomes
+  - Generative AI applications for healthcare data analysis
+  - Multimodal model applications in healthcare
+  - Care connection and resource matching through AI
+  skills:
+    genai: [LLMs, Generative AI, RAG, Transformers, Diffusion Models, Multimodal models,
+      Azure OpenAI, Hugging Face Transformers]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, AWS, Azure, GCP]
+    ops: [MLflow, Weights & Biases, MLOps, CI/CD, Model deployment, Model monitoring,
+      Experiment tracking]
+    languages: [Python]
+    domains: []
+    other: [GitHub Copilot, Windsurf]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8504203'
+  extracted_at: '2026-02-27T12:51:36.773766'

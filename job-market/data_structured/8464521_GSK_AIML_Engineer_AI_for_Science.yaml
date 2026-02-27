@@ -1,0 +1,47 @@
+company:
+  name: GSK
+  stage: Public
+  focus: Global biopharma company developing medicines and vaccines
+position:
+  title: AIML Engineer, AI for Science
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and validation of
+      machine learning models and agentic AI systems. The engineer
+      will research, design, implement, and deploy AI solutions
+      directly, with specific mention of Large Language Models and
+      multi-agent orchestration as preferred qualifications.
+  responsibilities:
+  - Design and implement AI/ML-driven solutions throughout the entire model development
+    life cycle
+  - Research and develop state-of-the-art machine learning models and agentic systems
+    to solve scientific tasks
+  - Deliver robust, tested, and high-performance code in an agile environment
+  - Liaise with biology, medicine, and experimentation experts to ensure optimal data
+    collection and processing for ML models
+  use_cases:
+  - Drug discovery and development using AI/ML models
+  - Agentic systems for solving complex scientific research problems
+  - Biomedical data analysis including genomics, transcriptomics, proteomics, and
+    electronic health records
+  - AI-assisted diagnosis and medicine utilization
+  - High-performance computing applications for scientific tasks
+  - Open-ended research questions in computational biology and bioinformatics
+  skills:
+    genai: [Large Language Models, Agentic AI, Multi-agent orchestration, Tool use]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Continuous Integration, Continuous Development, Containerization, Shell
+        scripting, Version control]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8464521'
+  extracted_at: '2026-02-27T12:57:39.059071'

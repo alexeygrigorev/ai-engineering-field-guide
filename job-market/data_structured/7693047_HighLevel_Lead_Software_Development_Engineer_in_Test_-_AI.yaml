@@ -1,0 +1,51 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered all-in-one sales and marketing platform
+position:
+  title: Lead Software Development Engineer in Test - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Lead SDET role focused on testing and quality
+      assurance for AI products, not building or deploying AI
+      models. The role involves designing test approaches for RAG,
+      hallucination, drift, and bias, architecting automation
+      frameworks, and defining QA strategy for AI systems - all of
+      which support the AI work of others rather than directly
+      working on the models themselves.
+  responsibilities:
+  - Define overall QA strategy and architect large-scale, reusable, cross-platform
+    automation frameworks
+  - Drive organisation-wide quality initiatives and own the quality charter for the
+    AI vertical
+  - Design scalable test approaches for RAG, hallucination, drift, and bias in AI
+    models
+  - Own decisions on test strategy, tools, frameworks, and AI testing methodologies
+  - Coach and up-skill the entire team, set best practices, and build talent pipeline
+  - Influence cross-functional teams and participate in architecture discussions
+  - Responsible for end-to-end quality strategy at the product/vertical level
+  - Shape AI quality roadmap and improve scalability and reliability
+  use_cases:
+  - Testing and validation of RAG systems for accuracy and reliability
+  - Evaluating AI model outputs for hallucination detection and mitigation
+  - Monitoring model drift and bias detection to ensure consistent performance
+  - Quality assurance for AI-powered marketing and sales automation features
+  - Testing AI workloads for performance and scalability at enterprise scale
+  skills:
+    genai: [RAG, model testing, hallucination detection, model drift, bias detection]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [test automation frameworks, CI/CD, MLOps, performance testing, scalability
+        testing]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7693047'
+  extracted_at: '2026-02-27T13:04:00.929548'

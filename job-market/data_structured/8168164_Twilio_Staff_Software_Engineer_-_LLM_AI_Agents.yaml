@@ -1,0 +1,50 @@
+company:
+  name: Twilio
+  stage: Public
+  focus: Cloud communications platform as a service
+position:
+  title: Staff Software Engineer - LLM / AI Agents
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role mentions experience with agents and LLMs, the
+      primary focus is building distributed systems and identity
+      management infrastructure. The engineer is building platform
+      capabilities and security systems that enable AI agent
+      authentication, rather than building, training, or deploying
+      AI models directly.
+  responsibilities:
+  - Build and own product capabilities for Stytch's agentic identity platform on Twilio
+  - Design, implement, and maintain scalable, reliable distributed services optimizing
+    for security, latency, and developer experience
+  - Partner with Product and Engineering leadership to set direction, translate customer
+    needs into technical plans, and deliver high-impact roadmap features
+  - Collaborate across Twilio and Stytch teams to align on architecture, integrate
+    platform capabilities, and unblock cross-team initiatives
+  - Own the end-to-end lifecycle of new services from initial design and prototyping
+    through to production deployment and operational readiness
+  - Mentor other engineers on the team, fostering a culture of innovation, ownership,
+    and continuous learning
+  use_cases:
+  - Agentic and non-human identity authentication for AI systems
+  - Secure identity verification and authorization for AI developers
+  - Developer-first identity platform for AI agent applications
+  - Authentication and access management for emerging AI use cases
+  - Identity solutions protecting AI-powered customer experiences
+  skills:
+    genai: [LLMs, Agents]
+    ml: []
+    web: [OAuth, SAML, OIDC, WebAuthn, API design, SDK development]
+    databases: [DynamoDB]
+    data: []
+    cloud: []
+    ops: [Kubernetes]
+    languages: [Go]
+    domains: []
+    other: [Distributed systems, Identity and access management, Security architecture,
+      Zero-trust security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8168164'
+  extracted_at: '2026-02-27T13:08:07.538083'

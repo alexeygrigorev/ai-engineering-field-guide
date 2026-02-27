@@ -1,0 +1,45 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI technology
+position:
+  title: AI Analytics and Visualization Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI agent workflows and
+      orchestration services that use LLMs to automate multi-step
+      processes. The engineer is hands-on implementing agents,
+      coordinating model calls, and creating AI-powered tools,
+      which aligns with building and deploying AI/ML systems
+      rather than just supporting them.
+  responsibilities:
+  - Build and run AI agent workflows involving LLMs and tools to automate multi-step
+    processes
+  - Build orchestration services that coordinate model calls, tools, and human review
+  - Develop APIs that expose AI agents to internal apps and UIs
+  - Connect existing ETL and data pipelines as tools and context for agents
+  - Construct simple web or chat interfaces for workflows powered by artificial intelligence
+  - Ensure scalability, performance, and security of AI services and data flows
+  use_cases:
+  - Automate complex engineering and business processes using AI agents
+  - Streamline workflows across systems using LLM-powered orchestration
+  - Enable data-driven decision-making through AI-powered tools
+  - Integrate and coordinate multi-step processes with human review
+  skills:
+    genai: [LLMs, AI agents, agent frameworks, prompt engineering, RAG]
+    ml: []
+    web: [REST APIs, FastAPI, Flask, Django]
+    databases: [PostgreSQL, MySQL, MongoDB]
+    data: [ETL, data pipelines, data modeling, Kafka, Kinesis]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Git, Jira, Perforce, PowerBI, Grafana, EasyBI, Cursor,
+      Copilot]
+    languages: [Python, SQL]
+    domains: []
+    other: [workflow automation, full-stack development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8581652'
+  extracted_at: '2026-02-27T13:12:05.397667'

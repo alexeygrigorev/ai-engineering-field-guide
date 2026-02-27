@@ -1,0 +1,44 @@
+company:
+  name: Coretek Services
+  stage: null
+  focus: AI-driven automation and cloud services
+position:
+  title: Azure AI & Automation Solution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role works with AI technologies (Azure OpenAI) but
+      primarily focuses on automation workflows, data integration,
+      and business process automation. The AI is being consumed as
+      a service to enhance automation rather than building or
+      deploying models directly, placing it in the AI-support
+      category.
+  responsibilities:
+  - Develop and deploy automation workflows using Power Automate, Azure Functions
+    (Python), and Azure OpenAI
+  - Integrate data sources such as SFTP, OneDrive, Symitar, and other financial systems
+  - Design, build, and maintain Power BI dashboards and reports
+  - Ensure secure data handling, including encryption, RBAC, and compliance standards
+  - Collaborate with cross-functional teams to gather requirements and deliver solutions
+  - Monitor, troubleshoot, and optimize automation processes for performance and reliability
+  use_cases:
+  - Financial workflow automation for wire transfer and check balancing
+  - Document processing for financial systems
+  - Secure data integration between financial systems and cloud platforms
+  - Business process automation using RPA and low-code platforms
+  skills:
+    genai: [Azure OpenAI]
+    ml: []
+    web: []
+    databases: [Blob Storage, Database connectivity]
+    data: [SFTP, API integration]
+    cloud: [Azure Functions, Cloud security]
+    ops: [RBAC, Encryption]
+    languages: [Python]
+    domains: []
+    other: [Power Automate, Power BI, RPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8338584'
+  extracted_at: '2026-02-27T12:46:52.248172'

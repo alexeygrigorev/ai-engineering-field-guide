@@ -1,0 +1,47 @@
+company:
+  name: Sutherland
+  stage: Public
+  focus: |-
+    AI, automation, cloud engineering, and business process
+    services for enterprise brands
+position:
+  title: Senior AI Engineer with Automation Skills
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building automation frameworks and
+      platforms, with only "hands-on exposure to LLMs" and
+      development of an "agentic AI-driven automation framework"
+      as AI components. The primary work is software engineering
+      for automation tools and testing infrastructure, not direct
+      model development, training, fine-tuning, or deployment of
+      AI systems.
+  responsibilities:
+  - Design, develop, and maintain shared automation frameworks and platform components
+  - Translate production-derived workflows into reusable automation assets and framework
+    capabilities
+  - Contribute to CI/CD-integrated automation and service-level validation
+  - Develop new agentic AI-driven automation framework and unify existing Playwright-based
+    frameworks
+  - Collaborate with architects and managers on backlog-driven delivery
+  use_cases:
+  - Automation frameworks and platforms for enterprise business processes
+  - Agentic AI-driven automation for CXone division operations
+  - Test automation and service-level validation for distributed systems
+  - CI/CD pipeline integration and automation at scale
+  skills:
+    genai: [LLMs, AI-assisted development workflows]
+    ml: []
+    web: [Playwright, REST APIs, Event-driven systems]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Java, C#, Python, TypeScript]
+    domains: []
+    other: [Jira, Object-oriented programming, Design patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8511727'
+  extracted_at: '2026-02-27T12:17:48.458968'

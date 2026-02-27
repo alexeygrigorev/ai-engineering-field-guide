@@ -1,0 +1,53 @@
+company:
+  name: Netskope
+  stage: null
+  focus: Cloud, network, and data security platform
+position:
+  title: Staff SRE, Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Site Reliability Engineer (SRE) MLOps role focused
+      on infrastructure, platform, and operations support for
+      AI/ML teams. The responsibilities include building CI/CD
+      pipelines, managing Kubernetes clusters, setting up
+      monitoring/logging, and maintaining infrastructure - all
+      supporting AI workloads rather than directly building,
+      training, or deploying models themselves. The role bridges
+      research and production but operates the infrastructure
+      platform rather than the AI systems.
+  responsibilities:
+  - Work closely with AI/ML engineers and researchers to design and architect AI/ML
+    applications for scale and reliability, and deploy CI/CD pipelines for safe reproducible
+    experiments
+  - Troubleshoot production issues across AI/ML application code and infrastructure
+    configurations
+  - Set up and manage monitoring, logging, and alerting systems for extensive training
+    runs and client-facing APIs
+  - Ensure training environments are consistently available and prepared across multiple
+    clusters
+  - Develop and manage containerization and orchestration systems using Docker and
+    Kubernetes
+  - Operate and oversee large Kubernetes clusters with GPU workloads
+  use_cases:
+  - Cloud security platform following and protecting data wherever it goes
+  - ML model training infrastructure supporting PyTorch and Hugging Face Transformers
+  - LLM deployment and optimization using TensorRT
+  - Large-scale distributed AI/ML applications requiring high-performance infrastructure
+  skills:
+    genai: []
+    ml: [PyTorch, Hugging Face Transformers, TensorRT]
+    web: []
+    databases: []
+    data: []
+    cloud: [Google Cloud, AWS, Azure]
+    ops: [Docker, Kubernetes, Terraform, Prometheus, Grafana, CI/CD, Monitoring, Logging,
+      Alerting, Git, GitHub, GPU workloads]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7952112'
+  extracted_at: '2026-02-27T12:52:56.813408'

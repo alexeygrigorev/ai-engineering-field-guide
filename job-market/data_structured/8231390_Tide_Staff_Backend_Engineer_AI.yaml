@@ -1,0 +1,49 @@
+company:
+  name: Tide
+  stage: Series C+
+  focus: Business banking and financial services platform for SMEs
+position:
+  title: Staff Backend Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on production experience with
+      Retrieval-Augmented Generation (RAG), Agentic workflows
+      (LangGraph), and the full AI/ML lifecycle including model
+      deployment and optimization. This is building and deploying
+      AI systems directly, not just supporting infrastructure.
+  responsibilities:
+  - Design frameworks, standards, and platforms that enable AI capabilities to scale
+    securely and reliably across the enterprise
+  - Deploy production-grade Generative AI systems including Retrieval-Augmented Generation
+    (RAG) and Agentic workflows
+  - Implement evaluation, monitoring, and optimization systems to track output quality,
+    latency, and cost using tools like RAGAS
+  - Manage the end-to-end AI lifecycle from data curation and vector database indexing
+    to model monitoring and guardrail implementation
+  - Architect and operate enterprise-scale distributed systems with focus on long-term
+    scalability and maintainability
+  - Translate vague business goals into concrete technical roadmaps while balancing
+    technical excellence with delivery speed
+  use_cases:
+  - Financial services automation for small and medium enterprises
+  - Intelligent business administrative solutions including invoicing and accounting
+  - Enterprise-scale AI platforms for banking operations
+  - Document processing and knowledge retrieval for financial workflows
+  - Agentic AI workflows for business banking tasks
+  skills:
+    genai: [RAG, LangGraph, Agentic workflows, RAGAS]
+    ml: []
+    web: [REST APIs]
+    databases: [vector databases, BigQuery]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD, distributed systems, microservices]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231390'
+  extracted_at: '2026-02-27T12:20:52.757299'

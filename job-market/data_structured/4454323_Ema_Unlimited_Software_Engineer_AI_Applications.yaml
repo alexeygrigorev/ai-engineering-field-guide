@@ -1,0 +1,50 @@
+company:
+  name: Ema Unlimited
+  stage: Series A
+  focus: Agentic AI operating system for enterprises
+position:
+  title: Software Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed engineering role that involves
+      directly building and deploying multi-agent systems using
+      Ema's AI platform. The engineer designs agentic workflows,
+      implements RAG and grounding techniques, handles prompt
+      engineering, and deploys production AI applications - all
+      hands-on work with AI systems.
+  responsibilities:
+  - Design agentic workflows that map customer business processes to multi-agent systems
+    with clear success criteria
+  - Build and deploy AI applications using Ema's platform including agents, tools,
+    integrations, and human-in-the-loop workflows
+  - Implement integrations with enterprise systems including CRM, ticketing, data
+    stores, and internal APIs
+  - Debug production issues across the stack including model behavior, orchestration
+    logic, permissions, data quality, and UX
+  - Run evaluations using golden datasets including test data generation, offline
+    tests, regression checks, and real user feedback
+  - Collaborate closely with customers and partner with Product & Core Engineering
+    to feed learnings back into the platform
+  use_cases:
+  - Automating manual, brittle business processes into reliable production-grade systems
+  - Enterprise workflow automation using AI agents
+  - Multi-agent systems for business process transformation
+  - Human-in-the-loop AI workflows with measurable outcomes
+  skills:
+    genai: [prompt engineering, function calling, structured outputs, RAG, embeddings,
+      agents]
+    ml: []
+    web: [REST APIs, OAuth]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4454323'
+  extracted_at: '2026-02-27T12:27:45.829727'

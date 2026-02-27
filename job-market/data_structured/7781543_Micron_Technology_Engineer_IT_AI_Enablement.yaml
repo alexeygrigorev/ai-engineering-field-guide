@@ -1,0 +1,58 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: Memory and storage solutions
+position:
+  title: Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on enabling AI adoption across the
+      enterprise rather than building or training models directly.
+      The engineer works with existing AI platforms (Copilot
+      Studio, Azure AI Foundry, AWS Bedrock), integrates AI agents
+      with enterprise systems, and creates automation workflows.
+      While there are some AI-first elements like RAG and multi-
+      agent workflows, the primary focus is on deployment,
+      integration, and enablement rather than model development.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using platforms like Copilot Studio,
+    UiPath, and other automation frameworks
+  - Connect AI agents with enterprise systems including SharePoint, M365, external
+    APIs, and knowledge bases for seamless interoperability
+  - Identify repetitive tasks and design intelligent automation solutions to improve
+    efficiency
+  - Partner with cross-functional teams to enable AI literacy, create best-practice
+    documentation, and support internal training sessions
+  - Collaborate with cybersecurity teams to enforce data protection, threat modeling,
+    and ensure AI solutions adhere to security and compliance standards
+  - Implement secure agent interactions using encryption, authentication, and authorization
+    mechanisms with identity platforms
+  - Collect feedback, iterate solutions, and contribute to a culture of innovation
+    and scalability
+  use_cases:
+  - Enterprise AI adoption acceleration across diverse business areas
+  - Process automation for repetitive tasks to improve operational efficiency
+  - Internal AI enablement and training programs to improve workforce AI literacy
+  - Secure AI agent integration with enterprise systems and knowledge bases
+  - Multi-agent workflows for complex decision-making and collaborative problem-solving
+  - Context-aware AI systems with memory persistence for long-horizon enterprise tasks
+  skills:
+    genai: [RAG, semantic chunking, prompt engineering, multi-agent workflows, Model
+        Context Protocol, context window optimization, agent orchestration, A2A (Agent
+        to Agent), memory management]
+    ml: []
+    web: [OAuth2, OIDC, SAML, AD FS, API development]
+    databases: []
+    data: [data quality validation]
+    cloud: [Copilot Studio, Azure AI Foundry, AWS Bedrock, Google Vertex AI, Entra
+        ID, SharePoint, M365]
+    ops: [UiPath, encryption, authentication, authorization]
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7781543'
+  extracted_at: '2026-02-27T12:33:40.721604'

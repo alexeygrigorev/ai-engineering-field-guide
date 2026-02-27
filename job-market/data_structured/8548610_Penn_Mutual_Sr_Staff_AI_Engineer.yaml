@@ -1,0 +1,56 @@
+company:
+  name: Penn Mutual
+  stage: Public
+  focus: Life insurance and financial services company
+position:
+  title: Sr Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      operating LLM-based services, RAG pipelines, vector search,
+      and document intelligence solutions. The engineer directly
+      works with AI technologies including Bedrock, SageMaker,
+      embedding strategies, and prompt orchestration to deliver
+      production AI capabilities.
+  responsibilities:
+  - Design, implement, and maintain production AI services using AWS native technologies
+    including Bedrock, SageMaker, Lambda, EventBridge, OpenSearch, S3, and DynamoDB
+  - Build and operate retrieval augmented generation (RAG) pipelines including embedding
+    strategies, vector search, prompt orchestration, and response evaluation
+  - Engineer LLM enabled APIs and workflows that integrate directly into enterprise
+    applications and data products
+  - Develop solutions for unstructured data and document intelligence including extraction,
+    enrichment, classification, and search
+  - Apply strong software engineering practices including CI/CD, automated testing,
+    infrastructure as code, and runtime observability
+  - Partner with platform and operations teams to support production readiness, monitoring,
+    and ongoing optimization of AI workloads
+  - Provide technical leadership through implementation, code reviews, and design
+    guidance for AI related initiatives
+  - Ensure AI solutions adhere to enterprise governance, security, privacy, and model
+    risk standards
+  use_cases:
+  - Enterprise LLM-based services and applications
+  - Retrieval augmented generation for knowledge access
+  - Document intelligence for unstructured data processing
+  - Vector search and semantic retrieval capabilities
+  - Cloud-native AI workflow orchestration
+  - Financial services AI automation
+  skills:
+    genai: [RAG, Embeddings, Prompt engineering, LLMs]
+    ml: []
+    web: [Microservices, API design]
+    databases: [Vector search, OpenSearch, DynamoDB]
+    data: [DataOps]
+    cloud: [AWS Bedrock, AWS SageMaker, AWS Lambda, AWS EventBridge, S3, Serverless,
+      Cloud computing]
+    ops: [CI/CD, Infrastructure as code, Observability, MLOps, Event-driven architecture]
+    languages: [Python]
+    domains: [Document intelligence]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8548610'
+  extracted_at: '2026-02-27T12:25:34.389396'

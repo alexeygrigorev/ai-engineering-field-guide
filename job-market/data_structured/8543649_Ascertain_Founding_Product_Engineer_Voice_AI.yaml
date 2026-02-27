@@ -1,0 +1,46 @@
+company:
+  name: Ascertain
+  stage: Seed
+  focus: AI agents automating healthcare administrative work
+position:
+  title: Founding Product Engineer, Voice AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves configuring voice agents using third-
+      party platforms rather than building, training, or fine-
+      tuning AI models from scratch. The engineer works on
+      integrations, QA processes, and workflow automation -
+      enabling AI systems rather than directly developing the core
+      AI models themselves.
+  responsibilities:
+  - Build, configure, and optimize voice agents using third-party platforms and in-house
+    tooling
+  - Own quality assurance processes for voice interactions
+  - Work directly with operations team and customers to understand workflows and translate
+    insights into product improvements
+  - Collaborate with engineers to build reliability and monitoring infrastructure
+  - Write production code in Python to support integrations and custom functionality
+  - Contribute to broader product development process with user-centric perspective
+  use_cases:
+  - Automate healthcare back-office administrative workflows
+  - Automate phone-based interactions for care teams
+  - Reduce administrative burden on healthcare staff
+  - Enable care teams to focus on patient care instead of paperwork
+  - Drive financial resilience and operational clarity in healthcare systems
+  skills:
+    genai: [Voice AI tools, Generative AI]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [Telephony platforms]
+    ops: [Quality assurance, Monitoring infrastructure]
+    languages: [Python]
+    domains: []
+    other: [Integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8543649'
+  extracted_at: '2026-02-27T13:05:20.275431'

@@ -1,0 +1,60 @@
+company:
+  name: CFA Institute
+  stage: null
+  focus: |-
+    Global investment excellence and ethics, professional
+    education and credentialing
+position:
+  title: Senior Developer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and implementation of
+      generative AI solutions including RAG patterns, agentic
+      workflows, tool/function calling, and prompt orchestration.
+      The developer is directly working ON AI systems -
+      implementing retrieval augmented generation, building agent
+      workflows, and establishing evaluation frameworks for AI
+      applications, not just supporting infrastructure for others.
+  responsibilities:
+  - Design, develop, and unit test end-to-end AI-enabled software solutions following
+    standard software development lifecycle practices
+  - Rapidly prototype AI capabilities from concept to demonstrable proof of value,
+    including UI/API layers, orchestration, retrieval, and evaluation
+  - Implement retrieval augmented generation (RAG) and enterprise search patterns,
+    including connectors, chunking strategies, embeddings, access control, relevance
+    tuning, and grounding/citation techniques
+  - Build and orchestrate agentic workflows using tool/function calling, workflow
+    orchestration, guardrails, observability, and error handling
+  - Establish evaluation frameworks, including test datasets, golden answers, regression
+    testing, hallucination detection, safety checks, and light red teaming
+  - Package successful outcomes into reusable assets such as reference implementations,
+    templates, prompt/tool patterns, and operational runbooks
+  - Partner with subject matter experts and business stakeholders to define success
+    criteria, ROI signals, and iterate on solutions
+  - Transition production ready concepts to engineering and platform teams with clear
+    requirements, architecture documentation, risks, and operational considerations
+  use_cases:
+  - Enterprise search and information retrieval for investment professionals
+  - AI-powered education and learning systems for investment credentialing
+  - Document analysis and knowledge extraction from financial content
+  - Agentic workflows for research and analysis tasks
+  - Generative AI applications for investment and finance education
+  skills:
+    genai: [RAG, enterprise search, embeddings, agents, tool/function calling, guardrails,
+      prompt orchestration, OpenAI, Azure OpenAI, Anthropic, Microsoft Copilot Studio,
+      M365 Copilot extensibility]
+    ml: []
+    web: [API design, REST, API integration]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, tracing, experiment tracking]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Microsoft 365, Teams, SharePoint, Atlassian, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8541071'
+  extracted_at: '2026-02-27T13:08:30.957256'

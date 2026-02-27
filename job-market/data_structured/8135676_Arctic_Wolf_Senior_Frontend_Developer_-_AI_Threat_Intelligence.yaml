@@ -1,0 +1,58 @@
+company:
+  name: Arctic Wolf
+  stage: Public-like (multiple major awards, Forbes Cloud 100, 7,000+ customers, 2,000+
+    channel partners)
+  focus: Managed security detection and response
+position:
+  title: Senior Frontend Developer - AI Threat Intelligence Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role building user interfaces
+      for a cybersecurity company's security operations platform.
+      The role involves web development with React/TypeScript, not
+      building, training, deploying, or fine-tuning AI/ML models.
+      The AI threat intelligence platform mentioned appears to be
+      a product feature, but the role is focused on general
+      software engineering for an AI company rather than working
+      directly on AI systems.
+  responsibilities:
+  - Design, build, test, and maintain modern web interfaces using React and TypeScript
+  - Translate UX designs and interaction models into production-ready, reusable UI
+    components
+  - Implement frontend architecture, state management, and performance optimizations
+    for large-scale applications
+  - Build and maintain shared utilities, hooks, and component libraries to enable
+    code reuse across teams
+  - Contribute to and evolve the Arctic Wolf Design System, ensuring consistency,
+    scalability, and usability
+  - Champion accessibility best practices, delivering inclusive interfaces that work
+    across devices and input methods
+  - Collaborate closely with UX designers, product managers, and backend engineers
+    throughout the full software development lifecycle
+  - Mentor junior developers and contribute to team growth through technical leadership
+    and knowledge sharing
+  use_cases:
+  - Security operations platform for threat detection and response
+  - AI-powered threat intelligence dashboard and visualization
+  - Cybersecurity monitoring and alert management interface
+  - Security incident investigation and analysis workflows
+  - Managed detection and response services portal
+  skills:
+    genai: []
+    ml: []
+    web: [React, Web Components, Service Workers, Progressive Web Applications (PWAs),
+      HTML5, CSS, Sass, Less, Stylus]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub, CI/CD, Jenkins, Automated testing, Unit testing, Integration testing,
+      UI testing]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [WCAG accessibility standards]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8135676'
+  extracted_at: '2026-02-27T12:38:19.963315'

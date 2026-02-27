@@ -1,0 +1,50 @@
+company:
+  name: Homeprotect Home Insurance
+  stage: null
+  focus: Home insurance for non-standard properties
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI
+      agents for claims handling, implementing RAG pipelines, and
+      working directly with LLMs and embeddings. This is direct
+      AI/ML development work rather than support infrastructure or
+      general software engineering.
+  responsibilities:
+  - Design, build and operate AI-first products that deliver measurable value, shaping
+    roadmaps with the Head of AI and AI Product Manager
+  - Develop and deploy production-grade AI agents for end-to-end claims handling on
+    GCP using Google's ADK and integrate with policy/claims/CRM systems
+  - Create and run agent evaluation and monitoring including offline/online tests,
+    accuracy/completeness/safety metrics, A/B experiments, and cost/latency dashboards
+  - Integrate AI agent functionality with applications via MCP servers and build tools
+    for reliable application integration
+  - Build robust RAG pipelines and ingestion including text normalisation, chunking,
+    metadata/ACL propagation, and vector search in GCP
+  - Embed security and compliance including GDPR, PII redaction, secrets management,
+    RBAC/IAM, and audit trails while supporting go-live and BAU
+  use_cases:
+  - End-to-end automated claims handling using AI agents
+  - Retrieval-Augmented Generation for policy and claims knowledge access
+  - Integration of AI agents with existing insurance systems (policy, claims, CRM)
+  - Document processing and ingestion for insurance workflows
+  - Real-time AI-powered customer interactions for insurance queries
+  skills:
+    genai: ['LLMs (OpenAI, Gemini, Llama, Claude)', embeddings, prompt engineering,
+      function calling, RAG, Google ADK, MCP servers]
+    ml: [A/B testing]
+    web: [REST/JSON APIs, OAuth2]
+    databases: [vector databases, BigQuery, Postgres, Redis]
+    data: [Apache Tika]
+    cloud: [GCP Vertex AI, GCP Model Garden, Cloud Run, Cloud Functions, GCS]
+    ops: [pytest, Git, CI/CD, Azure DevOps, Docker, RBAC/IAM]
+    languages: [Python]
+    domains: []
+    other: [GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8450542'
+  extracted_at: '2026-02-27T12:32:48.976905'

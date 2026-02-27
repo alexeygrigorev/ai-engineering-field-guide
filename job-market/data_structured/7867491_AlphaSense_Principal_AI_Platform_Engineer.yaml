@@ -1,0 +1,47 @@
+company:
+  name: AlphaSense
+  stage: Series D+ (acquired Tegus in 2024, 2,000+ employees, 6,000+ enterprise customers)
+  focus: AI-powered market intelligence and search platform
+position:
+  title: Principal AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is an AI Platform Engineer focused on building
+      infrastructure, distributed systems, and engineering
+      practices to support AI applications rather than building,
+      training, or fine-tuning models directly. The engineer
+      architects platforms that power AI agents and collaborates
+      with ML engineers to productionize their work, making this
+      an ai-support role.
+  responsibilities:
+  - Design and implement distributed systems that power AI agents processing thousands
+    of requests per hour
+  - Establish comprehensive testing strategies, observability systems, and CI/CD pipelines
+  - Mentor engineering teams and share experience in building production systems
+  - Own the technical roadmap for the AI platform and make architectural decisions
+  - Collaborate with ML engineers and researchers to productionize cutting-edge AI
+    capabilities while maintaining system stability
+  use_cases:
+  - AI-powered market intelligence and insights for enterprise customers
+  - Enterprise search across equity research, company filings, event transcripts,
+    expert calls, news, and trade journals
+  - Agentic systems that process thousands of requests per hour for market intelligence
+  - Content analysis and insight extraction from trusted public and private content
+    sources
+  skills:
+    genai: [Prompt Engineering, RAG, LLM Applications, Agent Frameworks, OpenAI, Anthropic]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Infrastructure as Code]
+    ops: [Kubernetes, Microservices, Distributed Systems, CI/CD, Observability, Containerization]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7867491'
+  extracted_at: '2026-02-27T13:10:11.178340'

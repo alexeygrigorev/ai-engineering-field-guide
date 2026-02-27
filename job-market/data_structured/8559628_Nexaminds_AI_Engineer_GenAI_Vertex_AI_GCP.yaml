@@ -1,0 +1,50 @@
+company:
+  name: Nexaminds
+  stage: null
+  focus: AI solutions and transformation
+position:
+  title: AI Engineer (GenAI – Vertex AI & GCP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work building and
+      deploying Generative AI solutions including LLM
+      applications, RAG pipelines, fine-tuning foundation models,
+      and prompt engineering. The engineer will work directly on
+      AI systems using Vertex AI, not just supporting
+      infrastructure or data pipelines for others.
+  responsibilities:
+  - Design and develop Generative AI applications using Vertex AI on GCP
+  - Build and deploy LLM-powered use cases such as chatbots, summarization, and document
+    intelligence
+  - Implement Retrieval-Augmented Generation (RAG) pipelines using Vector Databases
+    and embeddings
+  - Manage token usage, prompt engineering, and context optimization for LLM applications
+  - Develop backend services and APIs to integrate AI capabilities into products
+  - Fine-tune and evaluate foundation models where required
+  - Monitor, optimize, and scale AI workloads on GCP
+  - Collaborate with data scientists, product teams, and DevOps for production deployment
+  use_cases:
+  - Chatbots and conversational AI applications
+  - Document summarization and intelligence
+  - Enterprise document search and retrieval
+  - LLM-powered content generation
+  - RAG-based knowledge management systems
+  - AI-powered customer support and assistance
+  skills:
+    genai: [Vertex AI, LLM integration, RAG, embeddings, prompt engineering, token
+        optimization, Gemini, LangChain, LlamaIndex]
+    ml: [fine-tuning]
+    web: [REST APIs, microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [MLOps, CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8559628'
+  extracted_at: '2026-02-27T12:33:02.082963'

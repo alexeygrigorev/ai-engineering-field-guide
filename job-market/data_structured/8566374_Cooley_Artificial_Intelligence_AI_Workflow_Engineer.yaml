@@ -1,0 +1,50 @@
+company:
+  name: Cooley
+  stage: Public
+  focus: Leading technology law firm
+position:
+  title: Artificial Intelligence (“AI”) Workflow Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly involves building and deploying AI-powered
+      workflows including RAG, agentic techniques, and advanced
+      prompting. The engineer creates multi-step automations
+      combining deterministic logic with AI steps, works with MCP
+      servers, and implements retrieval-grounded generation
+      systems.
+  responsibilities:
+  - Manage, design, develop, and test legal workflow automations, form-building solutions,
+    and expert knowledge systems
+  - Rapidly build and iterate proofs-of-concept combining deterministic logic with
+    AI steps including prompting, retrieval, and tool-use/agents
+  - Implement retrieval strategies and citation/traceability expectations for knowledge
+    applications with attorneys
+  - Evaluate AI and technology components and design measurable validation workflows
+    using Python-based integrations
+  - Build RPA workflows and API integrations to measure adoption and deliver executive-facing
+    analytics
+  - Coordinate training, support, and documentation for AI-enabled processes and systems
+  use_cases:
+  - Legal workflow automation and process optimization for law firm practitioners
+  - Document automation including Excel and Word document generation
+  - Retrieval-augmented generation for legal knowledge systems and clause libraries
+  - Agentic workflows using MCP servers for complex legal processes
+  - Expert knowledge systems with citation and traceability for legal content
+  skills:
+    genai: [RAG, agents, prompt engineering, MCP, generative AI, retrieval-augmented
+        generation, agentic workflows]
+    ml: []
+    web: [API-driven integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [workflow automation, document automation, RPA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8566374'
+  extracted_at: '2026-02-27T12:18:23.544012'

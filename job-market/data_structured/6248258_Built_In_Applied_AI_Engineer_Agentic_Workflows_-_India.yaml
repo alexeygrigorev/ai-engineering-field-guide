@@ -1,0 +1,48 @@
+company:
+  name: Built In
+  stage: null
+  focus: Recruitment and employer reputation platform with AI search
+position:
+  title: Applied AI Engineer (Agentic Workflows) - India
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and building intelligent agentic
+      systems using LLMs, RAG pipelines, and orchestration tools
+      like LangChain. The engineer will directly implement, fine-
+      tune, and deploy AI agents that take autonomous actions on
+      behalf of users.
+  responsibilities:
+  - Architect and build agentic workflows that can interpret intent, plan tasks, and
+    execute operations on behalf of users
+  - Develop and iterate on chat-based user interfaces for rich, dynamic interactions
+  - Leverage LLM platforms and orchestration tools like LangChain, Semantic Kernel,
+    or custom frameworks
+  - Work cross-functionally with backend engineers, product managers, and designers
+    to integrate conversational features into the platform
+  - Design robust systems for evaluating agent performance, user feedback loops, and
+    improving reliability
+  - Stay current with cutting-edge developments in LLM tools, RAG pipelines, memory/state
+    handling, and prompt engineering
+  use_cases:
+  - AI-driven recruitment search and candidate discovery
+  - Conversational interfaces for job applications and talent engagement
+  - Autonomous agents that perform tasks on behalf of users in HR tech workflows
+  - Employer reputation management through AI search optimization
+  skills:
+    genai: [OpenAI, Anthropic, LangChain, Semantic Kernel, RAG, prompt engineering,
+      agentic workflows, LLMs, chatbots]
+    ml: [transformers, reinforcement learning]
+    web: [APIs, conversational UIs]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [natural language processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6248258'
+  extracted_at: '2026-02-27T12:17:17.554843'

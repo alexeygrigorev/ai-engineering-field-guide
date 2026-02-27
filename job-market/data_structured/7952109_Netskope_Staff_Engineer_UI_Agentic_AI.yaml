@@ -1,0 +1,49 @@
+company:
+  name: Netskope
+  stage: Series D
+  focus: Cloud, network and data security
+position:
+  title: Staff Engineer, UI Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a UI-focused Staff Engineer role that builds user
+      interfaces and API gateways for an Agentic AI platform. The
+      role connects AI backend models to user interfaces but does
+      not involve building, training, or deploying the AI models
+      themselves - it's focused on the frontend software
+      engineering that supports the AI product.
+  responsibilities:
+  - Drive technical direction and long-term strategy for the Agentic AI platform's
+    user experience (UI) and API Gateway
+  - Maintain code quality and design integrity through rigorous code reviews and architecture
+    optimization
+  - Provide technical leadership for Netskope UI and API Gateway components interacting
+    with Agentic AI models
+  - Collaborate cross-functionally with Product Management and Backend AI/ML teams
+    to deliver Agentic AI features end-to-end
+  - Develop workflows and processes to enable smooth functioning of the UI engineering
+    team supporting AI initiatives
+  - Connect Agentic AI backend to user interface ensuring successful end-to-end deployment
+  use_cases:
+  - Threat detection and risk assessment using AI-powered analytics
+  - Behavioral analytics for security monitoring
+  - Intelligent automation for security threat response
+  - Real-time data processing for security challenges
+  - Graph-based security analytics
+  skills:
+    genai: [Claude]
+    ml: []
+    web: [React, Node.js, Express, NestJS, secure web development, API Gateway]
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed systems]
+    languages: []
+    domains: []
+    other: [GitHub Copilot, Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7952109'
+  extracted_at: '2026-02-27T12:34:41.715337'

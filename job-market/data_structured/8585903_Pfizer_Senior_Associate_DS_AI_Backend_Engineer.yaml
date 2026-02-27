@@ -1,0 +1,50 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Pharmaceutical company with AI in Commercial
+position:
+  title: Senior Associate, DS & AI Backend Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building autonomous AI agents with multi-step
+      reasoning, planning, memory, and tool execution
+      capabilities. The engineer is directly implementing RAG
+      pipelines, integrating LLMs, and developing agent systems -
+      core AI engineering work rather than supporting
+      infrastructure.
+  responsibilities:
+  - Build automated evaluation pipelines for agent reliability, accuracy, and safety
+  - Implement multi-step reasoning, planning, and tool-execution loops for AI agents
+  - Develop state and memory systems for agent context and knowledge retention
+  - Optimize RAG pipelines and retrieval infrastructure
+  - Integrate LLMs with APIs, tools, databases, and external systems
+  - Implement guardrails, validation layers, retry logic, and failure-handling mechanisms
+  - Architect scalable, fault-tolerant backend systems with observability and logging
+  - Deploy and maintain services using Docker, CI/CD, and cloud environments
+  use_cases:
+  - Autonomous AI agents for commercial workflows
+  - Multi-step reasoning and planning systems
+  - RAG-powered knowledge retrieval for business processes
+  - Tool-using AI agents integrated with enterprise systems
+  - AI-driven workflow automation in pharmaceutical commercial operations
+  - Agent-based decision support and task execution
+  skills:
+    genai: [LangGraph, LangChain, LlamaIndex, CrewAI, AutoGen, tool-calling, structured
+        outputs, prompt reliability, OpenAI API, Azure OpenAI, Anthropic API, Mistral,
+      open-source LLMs, multi-agent workflows, AI safety, guardrails, RAG, agents]
+    ml: []
+    web: [FastAPI, Flask, REST APIs, API security]
+    databases: [relational databases, NoSQL databases, vector databases]
+    data: [Airflow, Temporal, Dagster, Prefect]
+    cloud: [cloud platforms, Modal]
+    ops: [async processing, Docker, CI/CD, RBAC, vLLM, Ray Serve, TGI, observability,
+      logging, metrics, tracing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8585903'
+  extracted_at: '2026-02-27T12:43:48.134631'

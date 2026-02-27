@@ -1,0 +1,50 @@
+company:
+  name: Unisys
+  stage: Public
+  focus: IT consulting and technology solutions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building Agentic AI systems including
+      autonomous agents, multi-agent frameworks, and Generative AI
+      applications using LLMs, RAG, and vector databases. The
+      hands-on work with LLMs, prompt engineering, function
+      calling, and agent orchestration tools clearly indicates
+      this is an AI-first role focused on constructing AI systems
+      rather than supporting them.
+  responsibilities:
+  - Design, build, and orchestrate Agentic AI systems with autonomous and semi-autonomous
+    agents
+  - Lead development of Generative AI applications using LLMs, embeddings, vector
+    databases, RAG, and multi-agent frameworks
+  - Rapidly convert business problems into working demonstrations and proof of concepts
+  - Evaluate, select, and integrate AI frameworks, agent orchestration tools, and
+    model providers
+  - Develop rapid prototypes with Scrum/Agile teams and scale to enterprise solutions
+  - Provide technical leadership, guidance, and mentorship to junior AI engineers
+  use_cases:
+  - Autonomous and semi-autonomous agent systems with reasoning, planning, tool usage,
+    and goal execution
+  - Enterprise Generative AI applications using RAG architecture and LLM-powered document
+    intelligence
+  - Multi-agent collaboration frameworks for complex problem-solving
+  - AI-powered copilot and agent builder solutions
+  - Cloud-native AI applications with microservices architecture
+  skills:
+    genai: [LLMs, Agentic AI, RAG, Prompt Engineering, Function Calling, CrewAI]
+    ml: []
+    web: [React, Angular, Microservices, API-driven Architecture]
+    databases: [PostgreSQL, Vector Databases]
+    data: []
+    cloud: [Azure OpenAI, Azure AI Services, Azure AI Doc Intelligence]
+    ops: [Kubernetes, Docker, Helm, Rancher]
+    languages: [Python, Golang]
+    domains: []
+    other: [Figma]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8090210'
+  extracted_at: '2026-02-27T12:13:55.410668'

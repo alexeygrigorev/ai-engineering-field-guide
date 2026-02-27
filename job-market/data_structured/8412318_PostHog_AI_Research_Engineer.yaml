@@ -1,0 +1,52 @@
+company:
+  name: PostHog
+  stage: Series B+ (raised $100M+, default alive, $150M in balance)
+  focus: |-
+    Product analytics and business operating system platform
+    with AI-powered analyst
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves training, fine-tuning, and
+      running models to achieve product autonomy - building AI
+      systems that can autonomously fix bugs and ship features
+      based on customer data. This is hands-on work directly ON
+      AI/ML models and systems, not just supporting AI
+      infrastructure or platforms.
+  responsibilities:
+  - Train, fine-tune, and run models to achieve product autonomy
+  - Use PostHog's vast data (trillion+ data points) to build systems that fix bugs,
+    address issues, and ship features automatically
+  - Work on product autonomy that anticipates what users want to build before they
+    explicitly ask for it
+  - Prioritize and identify high-impact areas for AI-driven product autonomy features
+  - Work on a new team focused on product autonomy, collaborating closely with one
+    of the founders
+  - Iterate quickly in a rapidly changing, uncertain environment where technologies
+    and approaches evolve fast
+  use_cases:
+  - Product autonomy - automatically building or suggesting features based on user
+    intent and patterns
+  - Automated bug detection and fixing using product telemetry data
+  - AI-powered analyst that answers product questions and writes custom SQL queries
+  - Session replay analysis to surface useful recordings to users
+  - Customer request prioritization by analyzing internal conversations and feedback
+  - Code generation and autonomous engineering assistance to reduce manual coding
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, model training, fine-tuning, machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [mathematics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8412318'
+  extracted_at: '2026-02-27T12:13:15.653683'

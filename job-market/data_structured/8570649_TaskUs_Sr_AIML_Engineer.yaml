@@ -1,0 +1,47 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: Outsourced digital services and customer experience
+position:
+  title: Sr AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with NLP, NLU, LLM, and
+      Generative AI technologies to build and deploy AI-based
+      products. The candidate will design machine learning models,
+      implement algorithms for model training, and directly work
+      with AI technologies rather than supporting infrastructure
+      or data pipelines for others.
+  responsibilities:
+  - Design and develop machine learning models to solve complex business problems
+    using AI, NLP, NLU, LLM, and Generative AI technologies
+  - Develop and implement algorithms for data processing, feature extraction, and
+    model training
+  - Collaborate with cross-functional teams to identify business requirements and
+    create solutions that meet those requirements
+  - Identify and evaluate new AI technologies and tools that can improve the performance
+    and efficiency of products
+  - Manage and mentor a team of AI and Machine Learning Engineers
+  - Ensure that products are delivered on time, meet quality standards, and are scalable
+  use_cases:
+  - NLP and NLU solutions for customer experience
+  - Generative AI applications for digital services
+  - AI-powered business process optimization
+  - LLM-based products for brand protection and growth
+  skills:
+    genai: [LLM, Generative AI, Generative AI Prompting]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [AWS AI Services]
+    ops: [Docker, Jenkins]
+    languages: [Python]
+    domains: [NLP, NLU]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8570649'
+  extracted_at: '2026-02-27T12:27:50.779071'

@@ -1,0 +1,53 @@
+company:
+  name: Hitachi
+  stage: Public
+  focus: Energy technology and services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building AI solutions including
+      AI Agents, generative models (GANs, VAEs), multimodal AI
+      integration, and fine-tuning LLMs on MaaS platforms. The
+      position requires training, deploying, and optimizing models
+      directly for business process automation.
+  responsibilities:
+  - Design AI-powered solutions with AI Agents for complex, repetitive, and decision-driven
+    tasks
+  - Create and optimize generative models including GANs and VAEs for content creation
+    and data augmentation
+  - Develop multimodal AI solutions integrating text, image, and audio data modalities
+  - Implement POCs using MaaS platforms like Azure OpenAI and Google Vertex AI
+  - Configure, train, and deploy AI Agents for decision-making and cognitive task
+    automation
+  - Deploy, monitor, and fine-tune AI models on MaaS platforms for Shared Services
+    automation
+  - Build APIs and pipelines to integrate AI capabilities into existing tools and
+    workflows
+  - Collaborate with cross-functional teams to gather requirements and roll out AI-driven
+    systems
+  use_cases:
+  - Business process automation for Finance, SCM, HR, and Logistics functions
+  - Intelligent decision-making automation for Shared Services workflows
+  - Content creation and data augmentation using generative models
+  - Multimodal systems for processing text, image, and audio data
+  - Enterprise automation through AI Agents interacting with business systems
+  - Workflow optimization and efficiency improvement for Shared Services
+  skills:
+    genai: [Azure OpenAI, AI Agents, RAG, LLMs]
+    ml: [TensorFlow, PyTorch, Keras, GANs (Generative Adversarial Networks), VAEs
+        (Variational Autoencoders)]
+    web: [FastAPI, Flask, REST APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: [Google Vertex AI, MaaS platforms]
+    ops: []
+    languages: [Python]
+    domains: [Multimodal AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7756281'
+  extracted_at: '2026-02-27T12:26:23.259657'

@@ -1,0 +1,50 @@
+company:
+  name: Franklin Templeton
+  stage: Public
+  focus: Investment and wealth management
+position:
+  title: Digital & AI/ML Senior Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building, designing, and
+      deploying AI models and applications including LLMs,
+      embeddings, and RAG systems. Responsibilities specifically
+      mention prototype and productionize AI/ML solutions like NLP
+      and chatbots, directly working on AI systems rather than
+      just supporting infrastructure.
+  responsibilities:
+  - Lead AI project delivery from the Hyderabad team, ensuring quality and timely
+    execution
+  - Translate business problems into AI use cases with measurable success metrics
+  - Design, build, and own AI models and applications using governed datasets
+  - Prototype, evaluate, and productionize AI/ML solutions such as NLP, chatbots,
+    and forecasting
+  - Manage AI consumption for unstructured data, including embeddings and RAG indexing
+  - Collaborate with Data Engineering and governance teams to ensure responsible data
+    use
+  - Mentor junior AI engineers and establish coding and experimentation standards
+  - Stay current with AI/ML and GenAI trends and introduce best practices and tools
+  use_cases:
+  - NLP applications for financial document processing and analysis
+  - AI-powered chatbots for client service and wealth management interactions
+  - Forecasting models for investment and portfolio performance predictions
+  - Unstructured data analysis and information retrieval with RAG
+  - Enterprise AI integration for digital products and workflows
+  - Data-driven decision support for investment and tax planning strategies
+  skills:
+    genai: [LLMs, embeddings, RAG, generative AI]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8222324'
+  extracted_at: '2026-02-27T12:36:02.925652'

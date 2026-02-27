@@ -1,0 +1,50 @@
+company:
+  name: Keywords Studios
+  stage: Public
+  focus: AI-powered customer support for gaming industry
+position:
+  title: AI Engineer - NLP & Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Backend AI Engineer focused on building
+      backend services and APIs that integrate AI components. The
+      work involves supporting AI systems through infrastructure,
+      APIs, and data pipelines rather than directly building,
+      training, fine-tuning, or deploying AI models. The primary
+      focus is on backend software engineering that enables AI
+      functionality for others.
+  responsibilities:
+  - Design, develop, and maintain scalable backend services and APIs using Python
+    and FastAPI
+  - Build and integrate backend workflows supporting AI Agents and customer support
+    automation use cases
+  - Integrate AI components such as RAG pipelines, embedding services, and inference
+    APIs into backend systems
+  - Work with databases including MongoDB, YugabyteDB, and PostgreSQL to support high-scale,
+    low-latency workloads
+  - Containerize applications using Docker and deploy/manage services on Kubernetes
+  - Implement and maintain CI/CD pipelines and monitoring using Grafana, Elasticsearch,
+    and Kibana
+  use_cases:
+  - AI-powered customer support automation for the gaming industry
+  - Handling millions of customer support tickets at scale
+  - Retrieval-Augmented Generation (RAG) systems for knowledge retrieval
+  - AI Agent orchestration for customer support workflows
+  - High-throughput backend services for AI-powered support systems
+  skills:
+    genai: [RAG, MCP, AI orchestration frameworks, Embeddings, Vector search, AI Agents]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [MongoDB, PostgreSQL, YugabyteDB, Elasticsearch]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Grafana, Kibana, Jenkins]
+    languages: [Python, Clojure]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7769979'
+  extracted_at: '2026-02-27T12:57:46.749346'

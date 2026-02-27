@@ -1,0 +1,54 @@
+company:
+  name: Weave
+  stage: null
+  focus: |-
+    AI-powered applications and data platforms for enterprise
+    customers
+position:
+  title: Senior Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building models, working with
+      LLMs, RAG, prompt engineering, fine-tuning, and model
+      evaluation. The engineer will build AI-powered features and
+      work directly on machine learning models including real-time
+      audio models and natural language models at scale.
+  responsibilities:
+  - Design and develop machine learning infrastructure, tooling, and models to help
+    teams deliver world class experiences
+  - Build internal products and platforms to enable teams to incorporate AI into their
+    features and customer facing products
+  - Build scalable, resilient services to support data integration, event processing,
+    and platform extensions
+  - Consult with teams to help them understand common patterns, anti-patterns, and
+    tradeoffs of machine learning and guide them through creating excellent customer
+    experiences
+  - Work with stakeholders to translate product goals into actionable engineering
+    plans in a cloud environment
+  use_cases:
+  - AI-powered applications requiring access to large datasets
+  - Natural language processing and text analysis at scale
+  - Real-time audio processing including transcription, ASR pipelines with interruption
+    detection, and speech synthesis
+  - B2B multi-tenant applications powered by machine learning
+  - Data annotation and labeling for audio or text use cases
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, LLM evaluations, Multi-modal models, Model
+        Context Protocol]
+    ml: [Fine Tuning]
+    web: []
+    databases: [Postgres]
+    data: [Jupyter, Dagster]
+    cloud: [AWS, GCP, GKE]
+    ops: [MLflow, Kubeflow, DVC, Triton Server, Distributed systems, Kubernetes, GitOps,
+      Infrastructure as Code]
+    languages: [Python]
+    domains: [Natural language processing, ASR (Automatic Speech Recognition), Speech
+        synthesis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6214317'
+  extracted_at: '2026-02-27T13:06:06.136710'

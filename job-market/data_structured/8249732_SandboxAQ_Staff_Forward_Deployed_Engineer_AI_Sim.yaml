@@ -1,0 +1,59 @@
+company:
+  name: SandboxAQ
+  stage: Growth capital-backed
+  focus: |-
+    AI solutions using Large Quantitative Models for life
+    sciences, cybersecurity, navigation, and financial services
+position:
+  title: Staff Forward Deployed Engineer, AI Sim
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is a Forward Deployed Engineer who directly deploys
+      and integrates Large Quantitative Models (LQMs) and Agentic
+      systems into client environments. The engineer is
+      responsible for architecting custom solutions that wrap
+      scientific application logic around AI models and
+      orchestrating the entire deployment lifecycle, which is
+      hands-on work with AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - 'Orchestrate Technical Delivery: Partner with scientific teams to audit workflows,
+    diagnose technical blockers, and take full accountability for the end-to-end technical
+    execution of client contracts'
+  - 'Architect and Develop Solutions: Design and deploy high-velocity code to extend
+    existing tools, or build new frameworks for wrapping scientific logic and automating
+    complex R&D workflows'
+  - 'Drive Cross-Functional Collaboration: Serve as the technical translator between
+    non-technical researchers and product teams, validating proposed solutions and
+    ensuring they meet rigorous scientific requirements'
+  - 'Scale and Optimize Infrastructure: Own the deployment and maintenance of cloud-based
+    compute resources and data pipelines, ensuring stability and performance throughout
+    the contract lifecycle'
+  - 'Pioneer Technical Integration: Lead the integration of internal core technologies,
+    such as LQMs and Agentic systems, into bespoke client environments to solve major
+    scientific challenges'
+  use_cases:
+  - Drug discovery and chemical simulation
+  - Scientific research and R&D workflow automation
+  - Knowledge graph applications
+  - Multi-agent AI systems for scientific computing
+  - Numerical optimization and simulation
+  - Cheminformatics and advanced materials research
+  skills:
+    genai: [AI agents, Multi-agent systems]
+    ml: [Simulation and numerical optimization]
+    web: [REST APIs]
+    databases: ['Database management (ORMs, schemas)']
+    data: [Airflow, Knowledge graphs]
+    cloud: [Cloud orchestration]
+    ops: [Kubernetes, Terraform, GPU programming, High-Performance Computing (HPC),
+      Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8249732'
+  extracted_at: '2026-02-27T12:32:21.417660'

@@ -1,0 +1,45 @@
+company:
+  name: G2i
+  stage: null
+  focus: AI code evaluation and training platform
+position:
+  title: AI Software Engineer (Ruby)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly works ON AI/ML systems through RLHF
+      (Reinforcement Learning with Human Feedback) for large
+      language models. The engineer ranks, edits, and provides
+      feedback to tune LLM behavior for code generation, which is
+      hands-on model training work, not just support
+      infrastructure.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF feedback pipeline
+  - Generate reward signals from expert feedback to guide model training
+  - Help LLMs learn to propose, critique, and improve code like production engineers
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Improving AI-generated code through human feedback and reinforcement learning
+  - Automated code evaluation and ranking using expert engineering judgment
+  - Converting human code review feedback into RL reward signals
+  - Developing AI models that can self-critique and improve generated code
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Ruby]
+    domains: []
+    other: [Code review, Written communication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594219'
+  extracted_at: '2026-02-27T12:54:39.088516'

@@ -1,0 +1,50 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware
+position:
+  title: Senior AI Developer Technology Engineer, Financial Sector
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on GPU-accelerating ML algorithms, HPC
+      workloads, and financial computing applications. This
+      involves performance optimization and parallel programming
+      for ML workloads but does not involve building, training,
+      fine-tuning, or deploying models like an AI-first role. The
+      work is about optimizing existing ML algorithms on GPU
+      hardware rather than developing the models themselves.
+  responsibilities:
+  - Research and develop techniques to GPU-accelerate high-performance workloads at
+    the intersection of AI and financial markets
+  - Perform in-depth analysis and optimization of complex AI and HPC workloads on
+    modern CPU and GPU architectures
+  - Publish and present discovered optimization techniques in developer blogs or relevant
+    conferences
+  - Influence the design of next-generation hardware architectures, software, and
+    programming models through collaboration with NVIDIA teams
+  use_cases:
+  - Stock market prediction and financial forecasting
+  - Fraud detection in financial transactions
+  - Portfolio optimization and selection
+  - Pricing and risk simulation algorithms
+  - Systematic and algorithmic trading strategies
+  - Monte Carlo simulations for financial modeling
+  skills:
+    genai: []
+    ml: [CUDA, OpenACC, OpenMP, MPI, pthreads, TBB, linear algebra, GPU architecture,
+      CPU architecture, decision trees, time series analysis, machine learning algorithms,
+      deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [parallel programming]
+    languages: [C/C++]
+    domains: [Monte Carlo simulations]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8529859'
+  extracted_at: '2026-02-27T12:12:39.585677'

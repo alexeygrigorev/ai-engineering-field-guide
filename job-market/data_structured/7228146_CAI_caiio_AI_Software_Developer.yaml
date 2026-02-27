@@ -1,0 +1,60 @@
+company:
+  name: CAI (cai.io).
+  stage: null
+  focus: |-
+    Global technology services firm providing tailor-made
+    solutions for public and commercial sectors
+position:
+  title: AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying AI
+      systems including LLM inference, agent workflows, RAG
+      pipelines, and fine-tuning LLMs in production. This goes
+      beyond enabling AI work - the developer is directly
+      responsible for integrating generative AI and agentic
+      systems, designing RAG pipelines, and deploying models to
+      production environments.
+  responsibilities:
+  - Design, build, and optimize cloud-native backend services and infrastructure for
+    AI applications on AWS or Azure
+  - Develop infrastructure as code using Terraform, CloudFormation, or ARM templates
+    to automate cloud deployments
+  - Implement CI/CD pipelines for AI model deployment and automated testing
+  - Build scalable APIs and microservices to serve AI features including LLM inference
+    and agent workflows
+  - Integrate generative AI and agentic systems using LangChain, CrewAI, and AutoGen
+    into production applications
+  - Design and optimize RAG pipelines with vector databases for latency and cost efficiency
+  - Fine-tune LLMs using LoRA and PEFT or leverage cloud AI services for custom use
+    cases
+  - Collaborate cross-functionally with teams to translate business needs into scalable
+    AI solutions
+  use_cases:
+  - LLM inference and agent workflows for production applications
+  - Retrieval-Augmented Generation (RAG) pipelines for knowledge retrieval and context-aware
+    responses
+  - Agentic AI systems for automated workflow execution
+  - Custom LLM fine-tuning for domain-specific applications
+  - AI-powered backend services integrated with full-stack applications
+  - Scalable microservices for AI feature delivery with security and cost optimization
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, RAG, LoRA, PEFT]
+    ml: []
+    web: [FastAPI, Flask, Django, gRPC, React, Vue]
+    databases: [vector databases, Azure Cognitive Search, AWS OpenSearch]
+    data: []
+    cloud: [AWS, Azure, Lambda, Azure Functions, EC2, S3, RDS, DynamoDB, Cosmos DB,
+      API Gateway, Azure API Management, AWS Bedrock, Azure OpenAI, SageMaker, Azure
+        ML, AWS Glue, Azure Data Factory]
+    ops: [Terraform, CloudFormation, ARM templates, Docker, Kubernetes, GitHub Actions,
+      Azure DevOps, Prometheus, CloudWatch, TorchServe, Triton, MLflow, Kubeflow]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7228146'
+  extracted_at: '2026-02-27T12:41:13.914589'

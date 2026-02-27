@@ -1,0 +1,54 @@
+company:
+  name: Pythian
+  stage: null
+  focus: Strategic database and analytics services
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on deployment and optimization of
+      LLMs and Generative AI technologies, including integrating
+      pre-trained models into production. Responsibilities include
+      tuning model performance, latency, and managing AI/ML
+      pipelines, which qualifies as working directly ON AI systems
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Develop, deploy, and maintain robust AI and machine learning pipelines for internal
+    and client-driven projects
+  - Deploy, manage, and scale AI models, including pre-trained models (LLMs) and custom
+    ML models, into production environments
+  - Work with data scientists to implement model prototypes into scalable, production-ready
+    AI systems
+  - Optimize and tune model performance, latency, and cost-efficiency on cloud platforms
+  - Integrate AI/ML solutions with major cloud platforms (AWS, GCP, Azure) and utilize
+    containerization technologies (Docker, Kubernetes)
+  - Apply standard MLOps practices, including continuous integration/continuous delivery
+    (CI/CD), model versioning, monitoring, and maintenance systems
+  - Collaborate with software engineering teams to ensure seamless integration of
+    AI capabilities into applications and user workflows
+  - Stay up to date with advancements in AI/ML technologies, Generative AI, and MLOps
+    deployment strategies
+  use_cases:
+  - Deploying and scaling pre-trained Large Language Models and Generative AI technologies
+    for client products
+  - Integrating AI/ML capabilities into internal and client-facing applications
+  - Building production-ready AI systems from data scientist prototypes
+  - Optimizing model performance for cloud platforms to improve latency and cost-efficiency
+  skills:
+    genai: [Large Language Models (LLMs), Generative AI]
+    ml: [TensorFlow, PyTorch, Scikit-learn]
+    web: []
+    databases: []
+    data: [Data Engineering, ETL/ELT]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Kubeflow, CI/CD, MLOps, Model monitoring, Model versioning,
+      Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8560886'
+  extracted_at: '2026-02-27T12:10:44.111559'

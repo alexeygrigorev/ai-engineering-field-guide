@@ -1,0 +1,48 @@
+company:
+  name: Blue Yonder
+  stage: Enterprise
+  focus: AI-powered supply chain and retail solutions
+position:
+  title: Forward Deployed Engineer - Python, AI & ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on Forward Deployed Engineer role building
+      agentic AI solutions with LLMs, agents, RAG systems, and
+      frameworks like AutoGen and LangChain. The role directly
+      designs, prototypes, and deploys AI models and solutions to
+      customers rather than just supporting AI infrastructure or
+      data pipelines.
+  responsibilities:
+  - Design, build and rapidly iterate agentic AI solutions including orchestration,
+    MCP, and A2A logic using LLMs and frameworks like Autogen
+  - Demo solutions to business and customers to gather feedback and rapidly improve
+    AI solutions
+  - Collaborate with team members and supply chain experts to refine and customize
+    Agentic AI solutions for specific business problems
+  - Research and establish coding standards, best practices, and technical documentation
+    for building reliable and trustworthy agents
+  - Integrate AI solutions with existing platform and products to deliver cohesive
+    customer solutions
+  use_cases:
+  - Supply chain optimization using agentic AI and LLMs
+  - Retail domain AI solutions addressing customer pain points
+  - RAG systems for enterprise search and knowledge retrieval
+  - AI agents for autonomous task automation and decision support
+  - Proof-of-concept demonstrations to showcase AI business value
+  skills:
+    genai: [LangChain, AutoGen, RAG, LLMs, Prompt engineering, AI agents]
+    ml: [PyTorch, scikit-learn, Hugging Face, transformers]
+    web: []
+    databases: []
+    data: [pandas, numpy]
+    cloud: [AWS, GCP, Azure]
+    ops: [GitHub, CI/CD, LLM monitoring, LLM evaluation, Logging and observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8361992'
+  extracted_at: '2026-02-27T12:11:27.615472'

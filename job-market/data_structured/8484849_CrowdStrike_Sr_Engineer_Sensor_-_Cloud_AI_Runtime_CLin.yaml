@@ -1,0 +1,52 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform
+position:
+  title: Sr. Engineer, Sensor - Cloud & AI Runtime (C++/Linux/eBPF/K8s) (Hybrid, IND)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a systems engineering role that builds security
+      infrastructure and runtime protection for cloud and AI
+      workloads. The engineer works on low-level Linux components
+      using C++, eBPF, and kernel modules to protect AI
+      infrastructure, but does not build, train, deploy, or fine-
+      tune any AI models themselves. The role focuses on securing
+      AI workloads rather than developing AI systems.
+  responsibilities:
+  - Build comprehensive runtime security solutions for Cloud and AI workloads deployed
+    at scale
+  - Design and develop highly scalable and performant Linux system software components
+    for security
+  - Engage and influence cutting edge security designs of Major Cloud & AI service
+    providers through partnerships
+  - Ensure systems and components reliability and performance through monitoring,
+    testing, and debugging
+  - Lead strategic technical initiatives focusing on AI workloads, VMs, Containers
+    and Orchestrators security
+  - Collaborate with cross-functional teams to integrate sensor and cloud solutions
+  use_cases:
+  - Runtime security monitoring for cloud-native workloads
+  - Security for AI and ML infrastructure across Kubernetes environments
+  - Detection and prevention of threats in dynamic cloud environments
+  - Lightweight sensor-based protection for millions of systems
+  - Visibility into AI workload execution and behavior
+  - Security for containerized and virtualized workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Kubernetes, Hypervisors, Virtualization]
+    ops: [Linux, Unix, eBPF, Kernel modules, Docker, Windows, CI/CD]
+    languages: [C++, C]
+    domains: []
+    other: [Multi-threading, Concurrency, Memory management, Secure coding, Debugging,
+      Performance measurement, Code reviews]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8484849'
+  extracted_at: '2026-02-27T13:06:15.051382'

@@ -1,0 +1,51 @@
+company:
+  name: ArangoDB
+  stage: null
+  focus: Multi-model database platform for AI applications
+position:
+  title: AI Forward Deploy Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deploy Engineer who builds and deploys
+      production AI solutions including RAG pipelines, agent
+      systems, and fine-tuned models. The role involves hands-on
+      implementation of retrieval-augmented generation, model
+      optimization with LoRA/PEFT, and inference serving - all
+      core AI/ML engineering work.
+  responsibilities:
+  - Partner with customer stakeholders to identify high-value AI use cases and define
+    delivery plans
+  - Build end-to-end prototypes including data connectors, RAG pipelines, prompts,
+    tools, and UIs/APIs
+  - Implement retrieval-augmented generation with chunking, embeddings, ranking, caching,
+    and tool orchestration
+  - Productionize AI solutions with CI/CD, infrastructure-as-code, security, and observability
+  - Fine-tune and adapt models using LoRA/PEFT, DPO, and distillation; optimize inference
+    with quantization, vLLM, and TensorRT-LLM
+  - Monitor quality metrics, drift, hallucinations, latency, and costs; set up alerting
+    and dashboards
+  use_cases:
+  - Secure RAG assistant over millions of documents with hybrid search and guardrails
+  - High-volume customer support copilot with CRM/ITSM integration and strict response-time
+    SLOs
+  - Document intake pipeline with PII detection, redaction, and structured extraction
+  - Fine-tuned classification and routing models to reduce human triage by 40%+
+  skills:
+    genai: [OpenAI APIs, Anthropic APIs, Llama, LangChain, LlamaIndex, RAG, function
+        calling, LoRA, PEFT]
+    ml: [Hugging Face, DPO]
+    web: [FastAPI, gRPC, React, Next.js]
+    databases: [FAISS, pgvector, Pinecone, Weaviate, Postgres, BigQuery, Snowflake]
+    data: [Ray, Airflow, Kafka]
+    cloud: []
+    ops: [vLLM, TensorRT-LLM, MLflow, Weights & Biases, Ragas, promptfoo, Docker,
+      Kubernetes, Terraform, GitHub Actions, OpenTelemetry, Prometheus, Grafana]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8577082'
+  extracted_at: '2026-02-27T12:35:30.272582'

@@ -1,0 +1,60 @@
+company:
+  name: Medable
+  stage: null
+  focus: |-
+    Cloud-based clinical trials platform for healthcare and life
+    sciences
+position:
+  title: Forward Deployed Engineer – Agentic AI for Clinical Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      builds, deploys, and optimizes agentic AI systems including
+      autonomous agents, multi-agent orchestration, reasoning
+      loops, and RAG implementations. The role involves hands-on
+      work with LLMs, vector databases, and agent frameworks to
+      create autonomous clinical workflows, not just supporting AI
+      infrastructure.
+  responsibilities:
+  - Lead technical engagements with customers as primary solution consultant and embedded
+    engineer for agentic AI deployments
+  - Partner with customer stakeholders to scope requirements and deploy agentic AI
+    systems enabling autonomous clinical workflows with human oversight
+  - Design, architect, and implement tailored solutions integrating Medable's platform
+    with eClinical systems and agentic AI frameworks for end-to-end trial automation
+  - Demonstrate capabilities through live demos, technical deep dives, and production
+    deployments of agentic AI with autonomous agents and multi-agent orchestration
+  - Build, deploy, and optimize agentic AI systems in regulated environments enabling
+    capabilities like real-time patient matching, adaptive protocol execution, and
+    predictive risk mitigation
+  - Incorporate robust human-in-the-loop systems including intervention points, validation
+    workflows, and hybrid decision-making for compliance and accountability
+  - Wrangle large-scale clinical and operational data to power agentic AI reasoning
+    and agent coordination with human review processes
+  - Develop custom integrations, APIs, configurations, and tooling to support agentic
+    AI autonomy and agent system interoperability
+  use_cases:
+  - Real-time patient matching for clinical trial enrollment
+  - Adaptive protocol execution with autonomous decision support
+  - Predictive risk mitigation and automated data reconciliation
+  - Clinical trial simulation and optimization
+  - Automated monitoring of trial operations with safety gates
+  - End-to-end trial automation with decentralized workflows
+  skills:
+    genai: [agentic AI, autonomous agents, multi-agent orchestration, reasoning loops,
+      retrieval-augmented generation, LLMs, agent frameworks, guardrail frameworks]
+    ml: []
+    web: [APIs]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: [FHIR, CDISC, HL7, EDC, eCOA, CTMS, RTMS/IWRS]
+    other: [human-in-the-loop systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8456478'
+  extracted_at: '2026-02-27T12:34:23.541480'

@@ -1,0 +1,52 @@
+company:
+  name: myKaarma
+  stage: null
+  focus: SaaS platform for automotive dealership fixed operations
+position:
+  title: Software Developer II (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with AI/ML systems:
+      developing and consuming LLM APIs, training, fine-tuning,
+      and deploying models into production, and implementing RAG
+      and LLM-based agents. This is building AI solutions rather
+      than supporting AI infrastructure or working adjacent to AI
+      teams.
+  responsibilities:
+  - Design, develop, and test software components for automotive dealership customer
+    interactions
+  - Lead design, build, and integration of AI/ML solutions including LLM API development
+    and model training
+  - Train, fine-tune, and deploy ML models into production systems
+  - Collaborate with business stakeholders and customers to understand requirements
+    and deliver solutions
+  - Work across microservices, mobile development, and cloud platforms in a fast-moving
+    environment
+  - Mentor and review work of SDE I engineers to help them grow technically
+  - Improve overall system architecture, scalability, and reliability
+  - Challenge trade-offs between speed and reliability when building solutions
+  use_cases:
+  - Automotive dealership service center communication and scheduling
+  - Customer interaction and engagement for vehicle service
+  - Payment processing for dealership services
+  - LLM-powered customer support and communication tools
+  - Retrieval-augmented generation for dealership knowledge management
+  - AI-based agents for automated service interactions
+  skills:
+    genai: [OpenAI API, Gemini API, Codex, LLM APIs, RAG, LLM agents, Prompt engineering,
+      Responsible AI]
+    ml: [Fine-tuning, Model training, Neural networks, Transformers, Model evaluation]
+    web: [Angular, React, GWT, Bootstrap, Spring, Microservices, Kong]
+    databases: [MySQL, MongoDB, Redis, ElasticSearch, Vitess]
+    data: [RabbitMQ, Kafka, Data cleaning, Data normalization, Data augmentation]
+    cloud: [AWS Bedrock, AWS SageMaker, AWS, Google Cloud]
+    ops: [Docker, Docker Swarm, Kubernetes, Model deployment]
+    languages: [Java, Python, C#, Kotlin, Swift, Flutter]
+    domains: []
+    other: [Drools, Cursor IDE]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8316786'
+  extracted_at: '2026-02-27T13:02:20.495162'

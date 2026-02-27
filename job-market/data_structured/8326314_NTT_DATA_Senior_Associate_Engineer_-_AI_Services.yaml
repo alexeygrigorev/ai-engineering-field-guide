@@ -1,0 +1,48 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: Technology services and digital innovation leader
+position:
+  title: Senior Associate Engineer - AI Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves working with telemetry data and running
+      ML/AI algorithms on it in a microservices environment, but
+      the primary focus is software development, API development,
+      and distributed systems architecture. The position supports
+      software enhancements and new products, with AI/ML being
+      applied to data rather than building or fine-tuning models,
+      making this an AI-support role.
+  responsibilities:
+  - Design and develop solutions and functionality that drives business growth
+  - Write, test, and debug code in a microservices environment
+  - Support software deployment and integration through automation
+  - Work with APIs and telemetry data running ML/AI algorithms
+  - Build and debug large scale distributed systems
+  - Refactor code and perform code reviews
+  - Maintain technical documentation and operational procedures
+  - Collaborate with product team and stakeholders on software delivery
+  use_cases:
+  - Telemetry data analysis and processing
+  - Running ML/AI algorithms on structured and unstructured data
+  - Large scale distributed systems for cloud-based tools
+  - Microservices-based API development and integration
+  - Software enhancements and new product development
+  - Multi-vendor infrastructure prototyping
+  skills:
+    genai: []
+    ml: [ML/AI algorithms]
+    web: [RESTful APIs, microservices]
+    databases: [SQL, Elasticsearch, MongoDB, Cassandra]
+    data: [telemetry]
+    cloud: [AWS, GCP, Azure, Microsoft Office 365]
+    ops: [Kubernetes, Docker, LXC/LXD, CI/CD, agile, test-driven development, DevOps]
+    languages: [C/C++, C#, Java, JavaScript, Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8326314'
+  extracted_at: '2026-02-27T12:55:10.933208'

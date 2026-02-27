@@ -1,0 +1,59 @@
+company:
+  name: Conversica
+  stage: null
+  focus: AI-powered customer engagement solutions
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and scaling
+      production LLM-powered systems with hands-on work on agentic
+      architectures, RAG implementations, and agent evaluation
+      frameworks. The position emphasizes designing and shipping
+      AI-driven features including orchestration, tool use, and
+      guardrails, which are core AI/ML engineering tasks rather
+      than supporting infrastructure or data pipelines.
+  responsibilities:
+  - Design, implement, and ship AI-driven features and systems into production environments
+  - Lead technical decision-making for AI architecture, data modeling, and system
+    integration within domain
+  - Partner with Product, Engineering, and stakeholders to translate business needs
+    into scalable technical solutions
+  - Identify and address reliability, scalability, performance, and observability
+    challenges in AI systems
+  - Implement and advocate for best practices for applied AI engineering including
+    agent evaluation, interpretability, data layer design, and monitoring
+  - Mentor and guide other engineers, raising the bar on AI engineering quality and
+    decision-making
+  - Provide input into technical strategy and roadmap discussions related to AI capabilities
+    and platform evolution
+  use_cases:
+  - Agentic system design with orchestration, tool use, state/memory, and multi-step
+    workflows
+  - AI-powered customer engagement and conversational systems
+  - Quality assurance through agent evaluation, regression testing, and online/offline
+    metrics
+  - Guardrails implementation for hallucination mitigation, grounding, HITL review,
+    and safe degradation
+  - Production operations management for cost/latency optimization, caching, rate-limits,
+    and incident response
+  - Retrieval-augmented generation (RAG) with indexing strategies, freshness management,
+    and data quality constraints
+  skills:
+    genai: [LLM agents, Tool use/orchestration, RAG, Agent evaluation, Prompt engineering,
+      Guardrails, State/memory management, HITL (Human-in-the-loop)]
+    ml: []
+    web: []
+    databases: [Postgres, MySQL]
+    data: [Data modeling]
+    cloud: [AWS, Cloud architecture]
+    ops: [Terraform, EKS, Datadog, GitLab, Observability, Caching]
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8578615'
+  extracted_at: '2026-02-27T12:50:56.850320'

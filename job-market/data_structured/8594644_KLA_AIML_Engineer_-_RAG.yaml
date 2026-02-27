@@ -1,0 +1,57 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing technology and systems
+position:
+  title: AI/ML Engineer - RAG
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building RAG systems
+      that directly work with LLMs and retrieval mechanisms. The
+      engineer will design, implement, and optimize end-to-end RAG
+      pipelines including embeddings, retrieval, reranking, and
+      answer generation - all hands-on work with AI models and
+      systems.
+  responsibilities:
+  - Design and implement robust RAG pipelines including ingestion, parsing, chunking,
+    enrichment, embedding, indexing, retrieval, reranking, and answer generation
+  - Choose and tune retrieval strategies (dense, sparse/lexical, and hybrid) to maximize
+    recall and precision for enterprise queries
+  - Implement and optimize vector and hybrid search over structured and unstructured
+    data with reranking strategies and fusion methods
+  - Define evaluation harnesses for retrieval and generation using offline datasets
+    and online telemetry with automated regression tests
+  - Optimize latency and throughput using caching, batching, streaming responses,
+    and efficient retrieval/index configurations
+  - Implement document-level security and access control in retrieval with ACL-aware
+    indexing and query-time authorization
+  - Partner with domain owners and engineering teams to prioritize use cases and integrate
+    RAG into products and workflows
+  use_cases:
+  - Enterprise knowledge management systems with grounded LLM responses
+  - Document search and retrieval across wikis, tickets, logs, and metadata
+  - Intelligent question answering with reduced hallucinations and improved answer
+    reliability
+  - Internal enterprise search with access control and security compliance
+  - Automated information retrieval and knowledge synthesis from structured and unstructured
+    data
+  skills:
+    genai: [RAG, Retrieval-Augmented Generation, groundedness, guardrails, citation
+        mechanisms, hallucination reduction]
+    ml: [embedding, dense retrieval, sparse/lexical search, BM25, hybrid retrieval,
+      cross-encoder, late-interaction, learning-to-rank, RRF, ANN indexes, MRR, nDCG,
+      ACL-aware retrieval]
+    web: [REST, gRPC]
+    databases: [vector databases]
+    data: [data processing pipelines, document parsing, PDF, HTML]
+    cloud: []
+    ops: [SLOs, SLIs, incident response, observability, access control]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594644'
+  extracted_at: '2026-02-27T12:35:38.624437'

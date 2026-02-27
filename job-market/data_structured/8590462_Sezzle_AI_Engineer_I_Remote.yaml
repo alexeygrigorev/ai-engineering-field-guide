@@ -1,0 +1,55 @@
+company:
+  name: Sezzle
+  stage: null
+  focus: Fintech payments and installment plans
+position:
+  title: AI Engineer I (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the engineer will directly build
+      AI-powered features, intelligent automation, and agentic
+      systems. The job explicitly mentions deploying AI solutions
+      into production, working with transformer architectures,
+      vector databases, and agentic frameworks like
+      LangChain/LangGraph.
+  responsibilities:
+  - Contribute to the design and development of AI-powered platforms and systems
+  - Own end-to-end delivery of complex projects from problem discovery through production
+    rollout
+  - Build AI-driven features, intelligent automation, and agentic systems for customer
+    experiences and productivity
+  - Embed AI capabilities into existing workflows, products, and processes
+  - Integrate AI capabilities into customer-facing products, internal tools, and operational
+    workflows
+  - Build full-stack components spanning backend services, APIs, data layers, and
+    frontend interfaces
+  - Translate business and operational problems into maintainable AI-enabled technical
+    solutions
+  - Participate in production support and incident response for team-owned systems
+  use_cases:
+  - Enhance customer experience through AI-powered features
+  - Improve decision-making capabilities across the platform
+  - Automate complex workflows to improve team productivity
+  - Intelligent automation for operational efficiency
+  - Agentic systems that interact with tools, data, or workflows
+  - Semantic search and text classification capabilities
+  skills:
+    genai: [transformer architectures, BERT, GPT, embeddings, text embeddings, similarity
+        search, semantic search, LangChain, LangGraph, agentic systems, intelligent
+        automation]
+    ml: [supervised/unsupervised learning, feature engineering, model evaluation,
+      fine-tuning, text classification, named entity recognition]
+    web: [React]
+    databases: [Pinecone, Weaviate, pgvector]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitLab]
+    languages: [Python, SQL, Golang]
+    domains: []
+    other: [n8n, Make]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8590462'
+  extracted_at: '2026-02-27T12:31:28.253745'

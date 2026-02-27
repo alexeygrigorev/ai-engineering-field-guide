@@ -1,0 +1,59 @@
+company:
+  name: Arctic Wolf
+  stage: Series D
+  focus: |-
+    Managed detection and response services, security operations
+    platform
+position:
+  title: Staff Developer - AI SOC Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agentic automation frameworks,
+      integrating LLMs, reasoning agents, and autonomous task
+      execution frameworks directly into SOC tooling. The
+      developer will work hands-on with AI-powered decisioning
+      components and prototype innovative AI applications in
+      detection, triage, and response workflows.
+  responsibilities:
+  - Develop, test, and deploy backend automation systems that enhance SOC workflows
+    using cloud-native, data-intensive, and AI-driven architectures
+  - Design, develop, and maintain backend services and microservices using Python,
+    Go, and scalable cloud-native patterns
+  - Build and maintain detection pipelines, incident response playbooks, enrichment
+    services, and agentic automation systems
+  - Integrate LLMs, reasoning agents, and autonomous task execution frameworks into
+    SOC tooling
+  - Build secure, high-availability systems leveraging AWS services including RDS,
+    DynamoDB, Lambda, and Kubernetes/EKS
+  - Collaborate closely with threat detection, incident response, data science, and
+    platform engineering teams
+  - Explore and prototype innovative uses of AI in detection, triage, automation,
+    and response workflows
+  - Mentor junior developers and contribute to team growth through knowledge sharing
+    and technical leadership
+  use_cases:
+  - Security Operations Center (SOC) workflow automation
+  - Threat detection and incident response acceleration
+  - Agentic cybersecurity automation systems
+  - AI-powered decisioning for security operations
+  - Detection-as-code pipelines and enrichment services
+  - Autonomous triage and response to cyber threats
+  skills:
+    genai: [LLMs, reasoning agents, autonomous task execution frameworks, agentic
+        automation]
+    ml: []
+    web: []
+    databases: []
+    data: [data pipelines, streaming systems]
+    cloud: [AWS, RDS, DynamoDB, Lambda, EKS]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, Jenkins, Git, microservices, cloud-native,
+      distributed systems]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8184041'
+  extracted_at: '2026-02-27T12:38:56.446312'

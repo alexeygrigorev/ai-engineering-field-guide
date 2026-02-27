@@ -1,0 +1,53 @@
+company:
+  name: RelationalAI
+  stage: Series B
+  focus: |-
+    Neuro-symbolic AI reasoning and enterprise decision
+    intelligence platform
+position:
+  title: Senior Software Engineer - Symbolic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building symbolic AI
+      reasoning systems and graph-based algorithms for enterprise
+      knowledge graphs. The engineer will implement
+      neuro/symbolic-relational reasoners and work directly on the
+      core reasoning capabilities that enable LLMs to understand
+      enterprise data.
+  responsibilities:
+  - Design and build highly available, performant, and scalable distributed systems
+    that power our core decision intelligence platform
+  - Implement and optimize advanced graph-based reasoning algorithms to solve complex
+    problems within enterprise knowledge graphs
+  - Apply expertise in symbolic AI, machine learning, and data systems to deliver
+    production-ready enterprise B2B SaaS features
+  - Own and drive architectural initiatives that simplify, secure, and scale platform
+    capabilities
+  - Collaborate cross-functionally with Product, Security, and Operations teams to
+    ensure high-confidence delivery
+  - Mentor junior and mid-level engineers through technical guidance, code reviews,
+    and design sessions
+  use_cases:
+  - Enterprise knowledge graph reasoning and analysis
+  - Neuro-symbolic AI combining LLMs with relational data
+  - Business decision intelligence systems
+  - Semantic modeling of enterprise data operations
+  - Superalignment technology for private enterprise data
+  - Graph-based relationship analysis within complex enterprise datasets
+  skills:
+    genai: []
+    ml: [machine learning]
+    web: []
+    databases: [relational database systems, NoSQL]
+    data: [distributed data processing]
+    cloud: [Snowflake]
+    ops: [Kubernetes, containers, CI/CD, IaC]
+    languages: [Python, Julia, SQL]
+    domains: [symbolic AI, knowledge representation, graph analysis, network analysis]
+    other: [SOC2, ISO 27001]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8590709'
+  extracted_at: '2026-02-27T12:21:44.282167'

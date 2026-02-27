@@ -1,0 +1,58 @@
+company:
+  name: Illumina
+  stage: Public
+  focus: Genomic technology and DNA sequencing
+position:
+  title: QA Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Engineer role focused on testing and quality
+      assurance for AI systems rather than building or deploying
+      them. The responsibilities involve designing test
+      strategies, creating test cases, validating AI/ML features,
+      and ensuring quality metrics - all supporting the AI
+      development work of others rather than directly working on
+      models or AI systems.
+  responsibilities:
+  - Develop and maintain test plans, test cases, and test data for AI/ML-powered features
+    and traditional software
+  - Design and execute test strategies for AI/LLM-powered capabilities including virtual
+    agents, chatbots, copilots, and RAG-based systems
+  - Use LLM-powered tools to accelerate test design, data generation, exploratory
+    testing, and script authoring
+  - Define and monitor AI-specific quality metrics including accuracy, hallucination
+    rates, error rates, and safety/policy adherence
+  - Validate data integrity and transformation quality across biomedical data pipelines
+    and AI-enhanced workflows
+  - Partner with engineers and data scientists to ensure AI/ML models and integrations
+    are testable, observable, and measurable post-deployment
+  - Integrate automation into CI/CD pipelines (GitHub Actions, Jenkins, Azure DevOps,
+    GitLab CI) and monitor test health
+  - Communicate quality risks, trends, and mitigation plans to technical and non-technical
+    stakeholders including government partners
+  use_cases:
+  - Virtual agents and chatbots for genomic data interactions
+  - RAG-based systems for biomedical information retrieval
+  - AI copilots for laboratory and clinical workflows
+  - Quality assurance for FDA-regulated AI/ML applications in healthcare
+  - Test automation using GenAI tools for QA tasks
+  - AI-driven data comparison and validation for biomedical data
+  skills:
+    genai: ['GenAI tools (ChatGPT, Claude, Copilot)', LangChain, LangGraph, AWS Bedrock
+        Agents, OpenAI Assistants API, MCP (Multi-Context Protocol), RAG (Retrieval-Augmented
+        Generation), LLM applications]
+    ml: []
+    web: [API testing, Microservices testing]
+    databases: []
+    data: [Data validation, Data pipelines]
+    cloud: []
+    ops: [CI/CD, GitHub Actions, Jenkins, Azure DevOps, GitLab CI]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Jira, Test automation, QA methodology]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8548687'
+  extracted_at: '2026-02-27T13:11:13.902002'

@@ -1,0 +1,47 @@
+company:
+  name: Harness
+  stage: Series C+
+  focus: AI Software Delivery Platform
+position:
+  title: Principal Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building GenAI/LLM systems
+      including Agentic architecture, prompt engineering, and
+      direct integrations with AI systems like OpenAI, Vertex AI,
+      and Azure. This is AI-first work focused on implementing and
+      deploying AI capabilities, not just supporting AI
+      infrastructure.
+  responsibilities:
+  - Driving end to end design and implementation of features
+  - Design, develop, and maintain integrations with multiple AI and cloud systems
+    like Google Vertex AI, Azure, AWS and OpenAI
+  - Build GenAI based Agentic architecture for a first class AI enabled user experience
+  - Use Prompt engineering techniques to leverage the best LLM models
+  - Collaborate with product management, engineering teams and Machine learning engineers
+    for requirements through to delivery
+  - Design and implement scalable AI services
+  use_cases:
+  - AI-powered software delivery and deployment automation
+  - Intelligent application security and reliability scanning
+  - Cloud cost optimization through AI-driven insights
+  - Automated testing and compliance verification
+  - Flag evaluation and feature management with AI
+  skills:
+    genai: [OpenAI API, Vertex AI, Azure AI, prompt engineering, Agentic architecture,
+      LLMs]
+    ml: []
+    web: [REST APIs, RPC]
+    databases: [MongoDB, MySQL, Postgres]
+    data: [distributed systems]
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6871275'
+  extracted_at: '2026-02-27T12:35:56.495079'

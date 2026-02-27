@@ -1,0 +1,50 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Insurance and financial services
+position:
+  title: Senior Associate - AI Platform Security Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security engineering role focused on protecting
+      AI/ML infrastructure and implementing security controls for
+      Vertex AI environments. The engineer secures the platform,
+      data, and workflows but does not build, train, fine-tune, or
+      deploy models themselves.
+  responsibilities:
+  - Engineer, configure, and maintain security controls for Google Cloud and Vertex
+    AI environments
+  - Design and implement secure Vertex AI architectures covering notebooks, pipelines,
+    model registry, endpoints, and feature stores
+  - Define and enforce IAM patterns for human and non-human identities, including
+    service accounts and Workload Identity Federation
+  - Implement network security controls such as VPC design, private connectivity,
+    service perimeters, and egress restrictions for AI workloads
+  - Engineer encryption strategies for AI data and artifacts, including CMEK, data-at-rest,
+    and data-in-transit protections
+  - Implement DLP controls to prevent sensitive data exposure during training and
+    inference workflows
+  use_cases:
+  - AI development platform security for regulated financial services
+  - Secure data ingestion and model training pipelines
+  - Protected ML model deployment and inference workflows
+  - Security guardrails for AI development teams
+  - Prevention of data leakage and model theft in ML workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [DLP controls]
+    cloud: [Google Cloud Platform, Vertex AI, Cloud IAM, Workload Identity Federation,
+      VPC design, Service perimeters, CMEK]
+    ops: [Terraform, CI/CD, Infrastructure-as-code]
+    languages: [Python]
+    domains: []
+    other: [MITRE ATLAS, Security guardrails]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8420658'
+  extracted_at: '2026-02-27T12:41:19.145908'

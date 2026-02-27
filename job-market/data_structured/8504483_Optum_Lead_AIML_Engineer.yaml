@@ -1,0 +1,55 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical leader role that directly works
+      on building and deploying AI/ML systems, including LLMs, RAG
+      pipelines, fine-tuning, and vector indexing. The role
+      requires end-to-end ownership of ML/GenAI solutions from
+      data pipelines to model deployment and MLOps, making it
+      clearly ai-first rather than ai-support.
+  responsibilities:
+  - Lead architecture and delivery of ML/GenAI solutions including classification,
+    forecasting, NLP, deep learning, and LLM apps at production scale
+  - Build robust data and feature pipelines over large clinical and claims datasets
+    using Python, pandas, NumPy, and SQL
+  - Develop and deploy LLM capabilities including prompt design, fine-tuning, RAG
+    pipelines, vector indexing, and evaluation with guardrails
+  - Establish MLOps and LLMOps best practices including CI/CD, model registry, experiment
+    tracking, monitoring, drift detection, A/B testing, and cost/performance optimization
+  - Ensure data privacy and compliance with HIPAA/PHI handling, access controls, and
+    auditability while championing model governance and Responsible AI
+  - Translate business problems into technical roadmaps and communicate trade-offs
+    and results to executives and non-technical partners
+  - Mentor engineers and set engineering standards including code reviews, documentation,
+    reliability, and observability
+  use_cases:
+  - Healthcare operations optimization through ML models for classification and forecasting
+  - Patient outcome improvement using NLP and deep learning on clinical data
+  - Clinical decision support via LLM applications with RAG and retrieval systems
+  - Healthcare claims processing and analysis using ML solutions
+  - Data-driven healthcare insights from large-scale clinical and claims datasets
+  skills:
+    genai: [LLMs, embeddings, RAG, fine-tuning, prompt engineering, vector indexing,
+      guardrails, Hugging Face, LangChain, LlamaIndex]
+    ml: [PyTorch, TensorFlow, transformers, supervised learning, unsupervised learning,
+      hypothesis testing, feature engineering]
+    web: []
+    databases: [FAISS, Pinecone, pgvector]
+    data: [Spark, Dask, Airflow, Prefect, Kafka, Databricks, Snowflake, BigQuery]
+    cloud: [AWS, Azure, GCP, SageMaker, Azure ML, Vertex AI]
+    ops: [MLflow, CI/CD, Docker, Kubernetes, Terraform, monitoring, A/B testing, model
+        registry, experiment tracking, drift detection]
+    languages: [Python, pandas, NumPy, SQL, Scala, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8504483'
+  extracted_at: '2026-02-27T12:42:24.549710'

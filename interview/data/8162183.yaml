@@ -1,0 +1,31 @@
+company: "hyperexponential"
+role: "3 roles, 2 processes"
+source_files:
+  - "8162183_hyperexponential_AI_Engineer_-_PlatformMLOps.yaml"
+  - "7950954_hyperexponential_Senior_Software_Engineer_-_AI_Products.yaml"
+  - "7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml"
+
+processes:
+  - name: "Engineering roles (AI Engineer Platform/MLOps, Senior SWE AI Products)"
+    steps:
+      - name: "Talent team call"
+        duration: "30 min"
+      - name: "Manager interview"
+        duration: "60 min"
+      - name: "Technical assessment"
+        duration: "120 min"
+        details: "code review, system design"
+      - name: "Values interview with senior tech leadership"
+        duration: "60 min"
+      - name: "Offer"
+  - name: "Writer role (Senior Technical Writer AI)"
+    steps:
+      - name: "Talent team call"
+        duration: "30 min"
+      - name: "Manager interview"
+        duration: "60 min"
+      - name: "Skills assessment"
+        duration: "60 min"
+        details: "home-based task + interview"
+
+notable: null

@@ -1,0 +1,61 @@
+company:
+  name: Deutsche Bank
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Senior Engineer (Full Stack & AI/ML on GCP), AS
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a full-stack engineering position
+      focused on building applications on GCP. While it involves
+      integrating AI/ML offerings (consuming APIs, working with
+      models), the description emphasizes using AI services rather
+      than building, training, or fine-tuning models. This falls
+      under ai-support as the engineer is working NEAR AI by
+      integrating AI capabilities into applications, not working
+      directly ON AI/ML systems.
+  responsibilities:
+  - Contribute to architectural design and lead implementation of robust, scalable,
+    and secure full-stack applications using Java Spring Boot, ReactJS/Angular, and
+    Microservices
+  - Design and implement cloud-native solutions on Google Cloud Platform (GCP), utilizing
+    services for compute, storage, networking, data analytics, and AI/ML
+  - Drive the integration of AI/ML offerings into applications, from concept to deployment,
+    working with models, APIs, and frameworks
+  - Lead and contribute to full-stack development, including front-end (ReactJS/Angular)
+    and back-end (Java Spring Boot) components, REST APIs, and data models
+  - Provide technical guidance and mentorship to junior engineers, fostering innovation,
+    continuous learning, and excellence
+  - Champion clean, secure, and efficient code practices, ensuring adherence to industry
+    standards, security, and performance optimization
+  - Partner with cross-functional and global teams to translate business requirements
+    into technical solutions and solve complex software problems
+  - Contribute to and improve CI/CD pipelines and deployment strategies, promoting
+    automation and efficiency
+  use_cases:
+  - Enterprise-level full-stack applications for banking and financial services
+  - Cloud-native solutions leveraging GCP services for compute, storage, networking,
+    and data analytics
+  - AI/ML-enabled applications through integration of pre-built AI services and APIs
+  - Microservices-based architecture with API gateways for scalable banking solutions
+  - Data-driven applications utilizing BigQuery and data pipelines for business intelligence
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, Spring, Hibernate, ReactJS, Angular, REST APIs, Swagger/OpenAPI,
+      Postman, Junit]
+    databases: [Cloud SQL, BigQuery, Oracle, PostgreSQL]
+    data: [Hadoop, Spark]
+    cloud: [Google Cloud Platform, Compute Engine, Cloud Functions, Cloud Storage,
+      Pub/Sub, Vertex AI, AI Platform]
+    ops: [Kubernetes Engine, Docker, Kubernetes, Helm Charts, Terraform, Linux, Shell
+        scripting]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8210636'
+  extracted_at: '2026-02-27T12:14:31.364667'

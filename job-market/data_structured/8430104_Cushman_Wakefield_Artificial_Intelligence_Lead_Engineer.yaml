@@ -1,0 +1,60 @@
+company:
+  name: Cushman & Wakefield
+  stage: Public
+  focus: Global commercial real estate services
+position:
+  title: Artificial Intelligence Lead (Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role requiring hands-on engineering of
+      LLMs, multimodal models, graph neural networks, and agent-
+      based systems. The candidate directly builds, deploys, and
+      fine-tunes AI models and implements RAG pipelines, vector
+      search, and LLMOps practices rather than just supporting
+      infrastructure or data pipelines for others.
+  responsibilities:
+  - Define and evolve AI strategy shaping how LLMs, multimodal models, predictive
+    analytics, and agent-based automation drive value across workplace, portfolio,
+    transactions, sustainability, and FM operations
+  - Design, engineer, and deploy AI/ML systems using Python, TypeScript, Go, Rust
+    with frameworks including TensorFlow, PyTorch, LangChain, Semantic Kernel, and
+    LlamaIndex
+  - Develop reference architectures for AI microservices, model serving infrastructure,
+    vector search and retrieval pipelines, and real-time event-driven AI applications
+  - Implement MLOps and LLMOps practices including CI/CD for models and prompts, drift
+    detection, model monitoring, evaluation, and human feedback loops
+  - Build robust pipelines for ingestion, transformation, and ML feature extraction
+    from real estate datasets including leases, occupancy, transactions, IoT telemetry,
+    and operational workflows
+  - Develop intelligent features for transaction modeling, lease abstraction and document
+    automation, workplace experience analytics, space demand forecasting, facility
+    optimization, and portfolio scenario modeling
+  - Build advanced copilots, agents, and workflow automation for internal teams and
+    client-facing experiences
+  - Establish governance for AI/ML assets including model lineage, data quality controls,
+    automated testing, fairness, bias detection, and interpretability
+  use_cases:
+  - Transaction modeling and lease abstraction with document automation
+  - Workplace experience analytics and space demand forecasting
+  - Facility optimization and predictive operations
+  - Portfolio scenario modeling and corporate portfolio optimization
+  - Copilots and workflow automation for real estate consulting
+  - Intelligent decision support across occupier lifecycle from transactions to operations
+  skills:
+    genai: [LangChain, Semantic Kernel, LlamaIndex, RAG, agents, LLMs, Azure OpenAI,
+      Anthropic, Llama, Mistral, multimodal models, prompt engineering]
+    ml: [PyTorch, TensorFlow, JAX, Keras, graph neural networks, reinforcement learning]
+    web: [microservices, REST APIs, event-driven architectures]
+    databases: [Pinecone, CosmosDB, FAISS, Weaviate, vector databases]
+    data: [Kafka, Event Hub, PySpark]
+    cloud: [Azure ML, Azure Synapse, Databricks, Delta Lake]
+    ops: [LLMOps, Docker, Kubernetes, CI/CD, model monitoring, drift detection]
+    languages: [Python, TypeScript, Node.js, Go, Rust, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8430104'
+  extracted_at: '2026-02-27T12:43:01.897256'

@@ -1,0 +1,50 @@
+company:
+  name: Confluent
+  stage: Public
+  focus: Data streaming platform for real-time data
+position:
+  title: GTM Systems & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying AI agents and LLM-
+      based workflows using tools like Relevance AI, Momentum, and
+      Claude. The engineer is directly responsible for
+      implementing agents, managing prompt engineering, and
+      creating AI-driven automation solutions end-to-end.
+  responsibilities:
+  - Own AI intake and delivery across Sales and CSG from ideation through release
+    and iteration
+  - Build and ship AI workflows end-to-end including mapping processes, designing
+    workflows, and implementing agents and automations
+  - Partner cross-functionally with Sales, CS, Marketing Ops, Data Science, Finance,
+    and Legal to align on requirements and governance
+  - Launch and enable AI solutions with training assets, office hours, and continuous
+    feedback gathering
+  - Own quality and operational rigor including test plans, QA, prompt versioning,
+    and documentation maintenance
+  - Measure impact and iterate by tracking adoption, validating results with Analytics,
+    and improving workflows based on outcomes
+  use_cases:
+  - Pipeline generation and deal execution automation
+  - Customer onboarding, adoption, expansion, and renewal workflows
+  - AI-powered GTM operations removing friction from customer journey
+  - Automated sales and customer success workflow optimization
+  - Internal GTM systems integration with AI agents
+  skills:
+    genai: [Relevance AI, Momentum, Clay, Gemini, Claude, LLM tooling, AI agents,
+      prompt engineering]
+    ml: []
+    web: [APIs, webhooks, JSON]
+    databases: [SQL]
+    data: [BigQuery]
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Salesforce]
+    other: [Salesloft, Zoominfo, Clari, D&B, DemandTools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8493343'
+  extracted_at: '2026-02-27T12:52:31.590483'

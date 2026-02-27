@@ -1,0 +1,51 @@
+company:
+  name: WebPT
+  stage: null
+  focus: EMR platform for rehab therapy
+position:
+  title: Principal Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical leadership role focused on
+      building and deploying agentic AI systems. The role requires
+      deep expertise in designing multi-agent orchestration
+      systems using frameworks like LangGraph, AutoGen, and
+      CrewAI, and implementing LLM-as-a-judge evaluation
+      frameworks for production deployment.
+  responsibilities:
+  - Decompose complex clinical workflows into discrete, reasoning-based AI agents
+    and organize architectural strategies
+  - Define root business problems and design integrated AI solutions such as ambient
+    listening and automated waitlist management
+  - Partner with internal Data Scientists and third-party AI engineers to drive project
+    execution and serve as technical anchor
+  - Apply agile principles to AI development, delivering clinical value through iterative
+    agent refinement
+  - Work with architecture team to ensure AI agents are built on shared services and
+    maintain cohesive software ecosystem
+  - Evangelize new AI development patterns and drive adoption of agentic practices
+    across the department
+  use_cases:
+  - Ambient listening for clinical documentation
+  - Automated waitlist management and scheduling
+  - PT initial evaluation and clinical workflow automation
+  - Clinical documentation and patient experience enhancement
+  - AI-native EMR solutions for healthcare providers
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, RAG, LLM orchestration, LLM-as-a-judge, Multi-agent
+        systems, Prompt engineering]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [System architecture]
+    languages: [Python]
+    domains: [HIPAA compliance, Clinical documentation standards, EMR systems]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8534504'
+  extracted_at: '2026-02-27T12:36:28.080822'

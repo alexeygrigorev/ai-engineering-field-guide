@@ -1,0 +1,55 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water treatment and industrial solutions
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of
+      agentic AI systems using Microsoft AI Foundry, designing
+      agents that autonomously orchestrate workflows, and working
+      with LLM-based platforms. While it includes leadership
+      responsibilities, the core work is directly developing AI
+      agents and models (building/optimizing ML models, RAG
+      systems with vector databases), not just supporting
+      infrastructure or data pipelines for other AI teams.
+  responsibilities:
+  - Architect and lead development of scalable, production-grade agentic AI systems
+  - Design serverless, event-driven workflows using Azure Functions, Logic Apps, and
+    Power Automate
+  - Build and optimize ML models for predictive analytics, anomaly detection, and
+    recommendations
+  - Integrate agents with enterprise platforms such as SAP HANA, Salesforce, Snowflake,
+    Kafka, and UiPath
+  - Leverage Microsoft AI Foundry to build and deploy agents that meet enterprise-grade
+    standards
+  - Mentor and coach junior engineers, fostering a culture of innovation and technical
+    excellence
+  - Define and enforce architecture patterns, reusable components, and governance
+    standards
+  use_cases:
+  - Autonomous workflow orchestration across enterprise operations
+  - Real-time data analysis and embedded decision-making in finance, sales, and operations
+  - Predictive analytics and anomaly detection for operational insights
+  - Recommendation systems for business process optimization
+  - Vision-based and IoT-enabled agent applications at the edge
+  - Integration with enterprise systems like SAP and Salesforce for automated business
+    processes
+  skills:
+    genai: [Microsoft AI Foundry, Copilot Studio, Agentic AI systems, Vector databases]
+    ml: [Azure Machine Learning, TensorFlow, PyTorch]
+    web: []
+    databases: [Snowflake, Kafka]
+    data: [Databricks]
+    cloud: [Azure Functions, Logic Apps, Power Automate, Azure IoT Hub]
+    ops: [Azure Monitor, Azure DevOps, GitHub, CI/CD]
+    languages: [Python]
+    domains: [OpenCV]
+    other: [SAP HANA, Salesforce, UiPath, Power Apps]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7307080'
+  extracted_at: '2026-02-27T12:56:12.104511'

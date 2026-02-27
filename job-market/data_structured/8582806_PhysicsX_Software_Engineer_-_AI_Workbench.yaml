@@ -1,0 +1,57 @@
+company:
+  name: PhysicsX
+  stage: null
+  focus: |-
+    AI-driven simulation software for engineering and
+    manufacturing
+position:
+  title: Software Engineer - AI Workbench
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data platforms, microservices,
+      APIs, and data pipelines that support the ML lifecycle, not
+      building or training the AI models themselves. The engineer
+      is architecting the infrastructure and data strategy that
+      enables data scientists to work with Deep Physics Models,
+      which makes this a supporting role rather than hands-on
+      AI/ML development.
+  responsibilities:
+  - Design and build scalable microservices, APIs, and data pipelines for high-dimensional
+    simulation data across the ML lifecycle
+  - Build and maintain automated data ingestion and processing pipelines that power
+    active learning loops
+  - Implement and integrate data infrastructure components including Data Warehouses,
+    Data Lakes, and storage solutions for simulation and deep learning workloads
+  - Build internal tools that enable BI dashboards and scientific data visualizations
+  - Own features end-to-end from implementation through testing, deployment, and maintenance
+  - Contribute to reliability standards, performance monitoring, and quality of service
+    metrics
+  - Participate in CI/CD pipeline maintenance, automated testing, and observability
+    practices
+  - Contribute to Technical Decision Records and team discussions on tooling and architectural
+    trade-offs
+  use_cases:
+  - High-fidelity multi-physics simulation through AI inference
+  - Engineering and manufacturing optimization and automation
+  - Deep Physics Models for aerospace, defense, materials, energy, semiconductors,
+    and automotive
+  - Active learning loops for continuous model improvement
+  - Scientific data visualization for complex simulation results
+  - Large-scale simulation data storage and analytics
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, REST, API design]
+    databases: [Snowflake, BigQuery, Data Warehouses]
+    data: [Databricks, Data Lakes, ETL, data pipelines]
+    cloud: []
+    ops: [Kubernetes, Docker, CI/CD, Helm, ArgoCD, monitoring, observability]
+    languages: [Python, Golang, Rust, C++]
+    domains: [3D geometry processing]
+    other: [system design, microservices, security, sandboxing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8582806'
+  extracted_at: '2026-02-27T12:38:13.617336'

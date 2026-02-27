@@ -1,0 +1,51 @@
+company:
+  name: CoreWeave
+  stage: Public
+  focus: Cloud infrastructure for AI/ML workloads
+position:
+  title: AI Solutions Engineer, Post Sales Scale - W&B
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a post-sales AI Solutions Engineer role focused on
+      enabling customers to use Weights & Biases platform for
+      ML/GenAI workflows. The role involves delivering training
+      programs, creating reusable assets, and providing technical
+      support - all activities that enable AI work without
+      directly building, training, or deploying models.
+  responsibilities:
+  - Run scalable onboarding and adoption programs including webinars, cohort sessions,
+    group training, and office hours
+  - Build reusable technical assets including playbooks, reference architectures,
+    templates, sample code, and troubleshooting guides
+  - Use product usage signals and customer patterns to segment and trigger appropriate
+    interventions
+  - Track program impact metrics including activation, time-to-first-value, and feature
+    adoption
+  - Partner with Sales, Support, Product, and Engineering to lead technical success
+    after the sales process
+  - Help customers implement and scale AI/ML workflows and GenAI/agentic applications
+    on the Weights & Biases platform
+  use_cases:
+  - ML experiment tracking and workflow management
+  - GenAI and LLM development workflows
+  - Computer vision model development
+  - Natural language processing applications
+  - MLOps and LLMOps implementation
+  skills:
+    genai: [LangChain, GenAI, LLMs]
+    ml: [TensorFlow, Keras, PyTorch Lightning, HuggingFace, Fastai, scikit-learn,
+      XGBoost, LightGBM, hyperparameter optimization]
+    web: [Streamlit]
+    databases: []
+    data: [Ray, data pipeline tools]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, LLMOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8551253'
+  extracted_at: '2026-02-27T13:07:06.955871'

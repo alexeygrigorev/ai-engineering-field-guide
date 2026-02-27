@@ -1,0 +1,48 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and data analytics
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and productionizing AI systems
+      including agentic services, RAG/CAG pipelines, and
+      APIs/SDKs. The candidate will directly work with GenAI
+      agents, LLMs, and deep learning frameworks to deploy models
+      into production, which aligns with hands-on AI/ML system
+      development.
+  responsibilities:
+  - Building and Productionizing AI Systems including agentic services, APIs/SDKs,
+    RAG/CAG, and E2E pipelines
+  - Ensure Model Quality, Evaluation, Security and Safety
+  - Implement Observability and Operations excellence
+  - Drive Architecture, Governance and Engineering Standards
+  - Cross-Functional Leadership and Collaboration
+  - Responsible AI and Compliance implementation
+  use_cases:
+  - Natural language processing and understanding for healthcare applications
+  - Computer vision and deep learning for medical data analysis
+  - Automatic speech recognition systems
+  - Intent classification and semantic understanding
+  - Healthcare outcome optimization through AI-driven insights
+  skills:
+    genai: [RAG, LLM evaluation methods, LangChain, Prompt engineering, Agents, Hugging
+        Face]
+    ml: [scikit-learn, XGBoost, PyTorch, TensorFlow, Keras, Deep Learning]
+    web: []
+    databases: []
+    data: [Apache Airflow]
+    cloud: [Google Cloud Platform, Vertex AI, AWS, Azure]
+    ops: [Kubeflow, Vertex AI Pipelines, MLflow, Vertex AI Model Registry, Docker,
+      Kubernetes, CI/CD, GitHub Actions, Infrastructure as Code, Open Telemetry, Prometheus,
+      Grafana]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision, ASR]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8529002'
+  extracted_at: '2026-02-27T12:32:08.612598'

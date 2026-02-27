@@ -1,0 +1,50 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM training through human feedback for code generation
+position:
+  title: AI Software Engineer (C#)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves providing human feedback for RLHF
+      training of LLMs through code evaluation, ranking, and
+      refactoring. The engineer works WITH AI systems but does not
+      build, deploy, or fine-tune models - they generate training
+      data and feedback signals that enable others to improve the
+      models.
+  responsibilities:
+  - Compare and rank multiple code snippets to provide detailed explanations of which
+    approach is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+    to maintain smooth operation
+  - Generate reward signals through reinforcement learning that help models learn
+    to propose and improve code
+  - Provide clear written justifications for code critiques and improvement suggestions
+  - Maintain code quality by identifying logic errors, performance traps, and security
+    issues in generated code
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Improving code generation quality through human feedback and reinforcement learning
+  - Teaching models to propose, critique, and improve code similar to expert engineers
+  - Generating reward signals from expert code reviews to fine-tune model behavior
+  - Building code evaluation capabilities that help models identify and fix errors
+    autonomously
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C#]
+    domains: []
+    other: [code review, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594211'
+  extracted_at: '2026-02-27T12:10:50.510767'

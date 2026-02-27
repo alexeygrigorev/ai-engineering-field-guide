@@ -1,0 +1,51 @@
+company:
+  name: BlueRock.io
+  stage: early stage
+  focus: App runtime security for AI/ML applications
+position:
+  title: Senior Engineer - AI & Agentic Sandbox
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building security infrastructure and
+      observability systems that hook into AI frameworks (CrewAI,
+      OpenAI Agents, LangChain) to monitor and secure agent
+      execution. The engineer is NOT building, training, or fine-
+      tuning AI models, but rather creating security platforms and
+      instrumentation to protect and monitor AI systems built by
+      others.
+  responsibilities:
+  - Develop BlueRock Agentic Sandbox multi-language runtime security platform
+  - Build Deep-Trace Observability infrastructure that hooks into AI frameworks like
+    CrewAI, Google ADK, and OpenAI Agents
+  - Monitor and intercept malicious intent in AI agents in real-time
+  - Secure the entire lifecycle from agent orchestration to execution
+  - Implement monkey patching, import hooking, and dynamic instrumentation for Python
+    or JS/Node.js
+  - Integrate observability solutions using OpenTelemetry or Datadog for distributed
+    tracing
+  use_cases:
+  - Real-time monitoring and interception of malicious intent in AI agents
+  - Runtime security for multi-language AI applications
+  - Agent orchestration security from development to execution
+  - Deep-trace observability for AI framework interactions
+  - Protection against security vulnerabilities in AI-powered applications
+  skills:
+    genai: [LangChain, CrewAI, OpenAI Agents, Google ADK, MCP (Model Context Protocol),
+      A2A]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [OpenTelemetry, Datadog, Distributed tracing, Kubernetes, Container runtimes,
+      OCI]
+    languages: [Python, JavaScript, Node.js, Rust]
+    domains: []
+    other: [Monkey patching, Import hooking, Dynamic instrumentation, OWASP, Deserialization
+        security, SSRF, Privilege escalation, Claude Code, Cursor, CoPilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8486273'
+  extracted_at: '2026-02-27T12:29:04.857854'

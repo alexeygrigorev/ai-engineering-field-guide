@@ -1,0 +1,52 @@
+company:
+  name: Regeneron
+  stage: Public
+  focus: Biopharmaceutical medicines and treatments
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is titled "Senior Data Engineer, Machine Learning"
+      and focuses on building backend services, data pipelines,
+      and APIs that support AI work. While the job involves LLM
+      integration, RAG architectures, and prompt engineering, the
+      primary emphasis is on infrastructure (FastAPI, Kubernetes,
+      AWS), data pipelines, and enabling ML engineers and data
+      scientists rather than directly building, training, or fine-
+      tuning models.
+  responsibilities:
+  - Design, develop, and maintain microservices using Python and FastAPI for AI and
+    ML workflows
+  - Build and optimize data ingestion pipelines for structured and unstructured data
+    sources
+  - Create secure, high-performance APIs for internal LLM access and integrate external
+    LLMs
+  - Implement Retrieval-Augmented Generation workflows and manage vector databases
+  - Deploy and manage services in AWS EKS Kubernetes clusters, ensuring scalability
+    and resilience
+  - Ensure backend services meet enterprise-grade performance, security, and compliance
+    standards
+  use_cases:
+  - Enterprise AI solutions and backend services
+  - LLM integration for internal access and workflows
+  - Retrieval-Augmented Generation architectures
+  - Vector database management for RAG systems
+  - Data ingestion pipelines for AI/ML workflows
+  skills:
+    genai: [RAG, LLM integration, Prompt engineering, OpenAI API, Anthropic API, Google
+        LLM API]
+    ml: []
+    web: [FastAPI, RESTful API design, Microservices architecture, ReactJS]
+    databases: [Milvus, Vector databases]
+    data: [Image processing, Data pipelines, ETL]
+    cloud: [AWS EKS]
+    ops: [Kubernetes, Docker, Jenkins, Bitbucket]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8300201'
+  extracted_at: '2026-02-27T12:18:18.633521'

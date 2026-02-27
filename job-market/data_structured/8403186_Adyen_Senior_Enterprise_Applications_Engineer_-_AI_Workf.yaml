@@ -1,0 +1,53 @@
+company:
+  name: Adyen
+  stage: Public
+  focus: Financial technology platform and payments
+position:
+  title: Senior Enterprise Applications Engineer - AI Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building agentic workflows
+      using Vertex AI, Google Agent Development Kit (ADK), and
+      LLMs. The engineer will design, deploy, and manage AI agents
+      and integrate AI models into real-world operational
+      workflows.
+  responsibilities:
+  - Design and build agentic workflows to automate internal processes using VertexAI
+    and Google's Agent Development Kit (ADK)
+  - Enhance and administer Google Gemini Enterprise environment, building custom integrations
+    for internal tooling
+  - Maintain and scale SaaS ecosystem including Atlassian Suite, Slack Enterprise
+    Grid, Google Workspace, and Zoom
+  - Develop internal Slack Apps and custom integrations to extend functionality and
+    improve productivity
+  - Partner with Enterprise Access Management team to implement secure identity and
+    access controls with automated provisioning
+  - Build and maintain Python-based applications, automations, and workflows to reduce
+    manual effort
+  - Integrate enterprise applications with Google Cloud Platform services like Pub/Sub
+    and Cloud Functions
+  use_cases:
+  - Automated support agents for internal operations
+  - Intelligent documentation retrieval and knowledge management
+  - Automated provisioning and deprovisioning of systems
+  - Internal process automation reducing manual toil
+  - Enterprise productivity tool automation and integration
+  skills:
+    genai: [Google Agent Development Kit (ADK), Google Gemini Enterprise, LLMs, Prompt
+        engineering]
+    ml: [Applied ML workflows]
+    web: [Slack Enterprise Grid, Slack Apps development]
+    databases: []
+    data: []
+    cloud: [Google Vertex AI, Google Cloud Platform (GCP), Cloud Functions, Pub/Sub]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: ['Atlassian Suite (Jira, Confluence)', Google Workspace, Zoom, Enterprise
+        Access Management, Security-first mindset]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8403186'
+  extracted_at: '2026-02-27T12:46:59.646637'

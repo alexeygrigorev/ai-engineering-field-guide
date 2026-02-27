@@ -1,0 +1,50 @@
+company:
+  name: Applied Systems
+  stage: Public
+  focus: Insurtech SaaS platform for insurance industry
+position:
+  title: Software Engineer / Sr. Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML technologies
+      including OpenAI, Vertex AI, Azure ML, and specifically
+      requires experience designing, deploying, and operating
+      Model Context Protocol (MCP) servers for scalable AI
+      systems. The position involves directly building and
+      deploying AI-powered solutions rather than just supporting
+      infrastructure for AI teams.
+  responsibilities:
+  - Contribute to design, development, and delivery of releasable, high-quality features
+  - Develop, maintain, and update automated test systems as functionality changes
+    during product evolution
+  - Assess impact of changes through code reviews, design reviews, and technical discussions
+  - Monitor application performance and debug errors in production and non-production
+    environments
+  - Design, deploy, or operate MCP (Model Context Protocol) servers to enable scalable,
+    tool-aware AI systems
+  - Support team with guidance for complex technical problem solving and sharing knowledge
+    of frameworks and tools
+  use_cases:
+  - Insurance industry transformation through AI-powered solutions
+  - Tool-aware AI systems using Model Context Protocol
+  - Scalable AI services integrated with SaaS applications
+  - Cloud-native microservices architecture for insurance platforms
+  - Automated testing and monitoring for AI-enhanced applications
+  skills:
+    genai: [OpenAI, Vertex AI, Model Context Protocol (MCP)]
+    ml: []
+    web: [React, gRPC, Microservices, Web AuthN/Z]
+    databases: [NoSQL, RDBMS]
+    data: [Asynchronous Messaging]
+    cloud: [Azure ML, Object Storage]
+    ops: [Terraform, Git, GitLab, Docker, Argo, Kubernetes, DevOps, Infrastructure
+        as Code (IaC)]
+    languages: [Golang, Python, Bash, Node]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8168948'
+  extracted_at: '2026-02-27T12:16:18.605439'

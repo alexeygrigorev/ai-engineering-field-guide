@@ -1,0 +1,55 @@
+company:
+  name: Babbel
+  stage: Public
+  focus: Language learning platform
+position:
+  title: Principal Software Engineer - Fullstack, AI (all genders)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Principal Software Engineer role focused on
+      integrating AI into engineering workflows and developer
+      productivity rather than building AI/ML models themselves.
+      The role emphasizes using AI-assisted development tools,
+      prompting practices, and establishing patterns for AI usage
+      across teams - all in service of improving delivery speed
+      and developer effectiveness, not model development or
+      deployment.
+  responsibilities:
+  - Drive architectural coherence and technical direction across multiple customer-facing
+    systems and teams
+  - Design and evolve high-leverage APIs, data models, and distributed systems that
+    power learner journeys, personalization, and experimentation
+  - Establish shared patterns, abstractions, and standards that reduce fragmentation
+    and increase engineering leverage
+  - Act as a role model for AI-native workflows across design, coding, testing, code
+    review, debugging, and incident response
+  - Identify and implement opportunities where AI can measurably improve developer
+    productivity, delivery speed, and production quality
+  - Multiply impact through mentoring senior engineers, influencing without authority,
+    and hands-on contributions when critical paths require it
+  use_cases:
+  - Language learning platform with millions of learners worldwide
+  - Learner journey personalization and experimentation
+  - AI-assisted development workflows to improve engineering productivity
+  - Prompt engineering and AI-native development practices
+  - Customer-facing learning experience systems
+  - Developer tooling and AI integration for software development lifecycle
+  skills:
+    genai: [AI-assisted development tools, Prompt engineering, LLM integrations, RAG
+        (Retrieval-Augmented Generation)]
+    ml: []
+    web: [API design, Asynchronous systems, Event-driven architecture, Domain-driven
+        design]
+    databases: []
+    data: [Data modeling, A/B experimentation]
+    cloud: [AWS]
+    ops: [Distributed systems, LLM evaluation frameworks, Continuous delivery, Observability]
+    languages: [TypeScript, Golang]
+    domains: [Personalization systems]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8224673'
+  extracted_at: '2026-02-27T12:45:32.812569'

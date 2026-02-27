@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Senior Lead AI Engineer (Gen AI Platform Services, Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI platform engineering role focused on building
+      core AI infrastructure including foundation model training,
+      LLM inference, similarity search, guardrails, and model
+      optimization. The role involves hands-on development of
+      large language model systems and optimization techniques for
+      production AI systems at scale.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and answering questions in real time
+  - AI-powered products that change how associates work and how customers interact
+    with Capital One
+  - Proprietary AI solutions central to business operations delivering value to millions
+    of customers
+  - Empowering teams across Capital One to enhance products with AI in responsible
+    and scalable ways
+  skills:
+    genai: [NeMo Guardrails, LLM inference, Similarity search, Guardrails, Foundation
+        model training]
+    ml: [Hugging Face, PyTorch, Model evaluation]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [LLM optimization, Experimentation, Governance, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8415698'
+  extracted_at: '2026-02-27T12:24:28.262665'

@@ -1,0 +1,51 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Cloud customer experience and AI-powered contact center
+    solutions
+position:
+  title: Senior Specialist Software Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing implementation role focused on
+      configuring and deploying pre-built conversational AI
+      platforms and solutions rather than building, training, or
+      fine-tuning models. The role involves integration,
+      configuration, and delivery of AI-driven solutions within
+      the NICE CXone ecosystem without hands-on model development
+      or optimization.
+  responsibilities:
+  - Implement, configure, and deliver AI-driven and Conversational AI solutions across
+    the NICE CXone ecosystem
+  - Build integrations and configure conversational AI platforms for enterprise customers
+  - Ensure high-quality execution of project deliverables as a hands-on technical
+    contributor
+  - Solve technical problems and maintain quality standards for deployed solutions
+  - Collaborate with implementation teams to support solution delivery
+  - Create detailed design documents, functional requirements, test use cases, and
+    deployment guides
+  use_cases:
+  - Enterprise conversational AI and chatbot solutions
+  - Customer experience optimization through AI-powered interactions
+  - Contact center automation and digital channel implementation
+  - AI orchestration for customer service workflows
+  - Conversational flow design and deployment
+  skills:
+    genai: [Conversational AI platforms, AI orchestration, Kore.ai, Amelia, Dialogflow,
+      Enterprise conversational flows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-based contact center platforms]
+    ops: [Distributed systems monitoring, Logging and debugging tools]
+    languages: []
+    domains: [NICE CXone]
+    other: [Agile/Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8462994'
+  extracted_at: '2026-02-27T12:28:19.347725'

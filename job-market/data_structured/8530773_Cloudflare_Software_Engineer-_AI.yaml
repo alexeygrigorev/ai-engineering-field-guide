@@ -1,0 +1,51 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Cloud connectivity, security, and AI platform
+position:
+  title: Software Engineer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on development of LLM applications,
+      including an IT support chatbot and new AI-driven use cases.
+      The developer will work directly with LLMs, manage model
+      usage through AI Gateway, and deploy AI applications - all
+      core ai-first activities rather than supporting
+      infrastructure or general SWE work.
+  responsibilities:
+  - Take ownership of the development and maintenance of the internally built Cloudflare
+    IT support chatbot, ensuring high availability and continuous improvement of response
+    quality
+  - Identify, design, and build new AI-driven use cases and tools to enhance employee
+    productivity and streamline internal workflows
+  - Develop and deploy AI applications at scale, ensuring reliability, performance,
+    and security
+  - Integrate and optimize AI applications using Cloudflare's AI Gateway to manage
+    and monitor model usage effectively
+  - Partner closely with internal teams to understand their pain points and translate
+    them into technical AI solutions
+  - Stay up-to-date with the latest advancements in LLMs and Generative AI to continuously
+    innovate internal toolset
+  use_cases:
+  - IT support chatbot for internal employee assistance
+  - AI-driven tools for employee productivity enhancement
+  - Workflow automation and streamlining for internal operations
+  - Enterprise-grade AI applications with authorization and data privacy
+  skills:
+    genai: [LangChain, LLMs, Generative AI]
+    ml: [PyTorch, TensorFlow]
+    web: [API management]
+    databases: []
+    data: []
+    cloud: [Cloudflare AI Gateway]
+    ops: [Terraform, Kubernetes, CI/CD, Grafana, OpenTelemetry, Infrastructure as
+        Code]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8530773'
+  extracted_at: '2026-02-27T13:08:22.147170'

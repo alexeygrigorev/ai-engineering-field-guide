@@ -1,0 +1,53 @@
+company:
+  name: SimpleCiti Companies
+  stage: null
+  focus: AI-powered operating system for modern law firms
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building a multi-agent AI system that
+      orchestrates foundational models to perform complex legal
+      work. The hands-on work includes architecting agent
+      frameworks, implementing RAG systems, building validation
+      loops, and deploying production agentic AI applications.
+  responsibilities:
+  - Architect and build the agentic harness - a production-grade software system that
+    orchestrates foundational models to perform complex, real-world work
+  - Design the core framework for coordinating multiple specialized agents on long-running
+    tasks, including building robust API tool libraries and implementing sophisticated
+    error recovery
+  - Architect high-fidelity memory systems with advanced RAG capabilities for reasoning
+    over thousands of pages of unstructured, domain-specific documents
+  - Build reliability and validation frameworks including multi-agent validation loops,
+    confidence scoring, and human-in-the-loop escalation paths
+  - Develop specialized AI agents for medical record intelligence, demand package
+    generation, and other legal workflows
+  - Ensure compliance with regulated industry requirements including HIPAA and SOC
+    2 standards
+  use_cases:
+  - 'Medical record intelligence: ingesting unstructured medical records, building
+    structured timelines, and performing causation analysis to distinguish pre-existing
+    conditions from accident-related injuries'
+  - 'Demand package generation: coordinating researcher, drafter, and validator agents
+    to gather case law, write persuasive legal arguments, and ensure citation accuracy'
+  - Personal injury pre-litigation back office automation
+  - High-fidelity retrieval and reasoning over legal and medical documents
+  - Multi-agent validation for high-stakes legal decisions requiring 99.9%+ accuracy
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG, multi-agent systems, agentic AI frameworks]
+    ml: []
+    web: [microservices, APIs]
+    databases: []
+    data: [data orchestration]
+    cloud: []
+    ops: [distributed systems]
+    languages: [Python]
+    domains: []
+    other: [HIPAA compliance, SOC 2 compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8105138'
+  extracted_at: '2026-02-27T12:22:08.510620'

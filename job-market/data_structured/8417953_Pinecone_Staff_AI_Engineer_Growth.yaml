@@ -1,0 +1,52 @@
+company:
+  name: Pinecone
+  stage: Series C
+  focus: Vector database for AI applications
+position:
+  title: Staff AI Engineer, Growth
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI-driven systems
+      including agents, RAG applications, semantic search
+      implementations, and personalization workflows using AI/ML
+      APIs. The engineer is directly implementing AI solutions for
+      growth marketing, not just supporting infrastructure for AI
+      teams.
+  responsibilities:
+  - Ship AI-driven signup experiments daily including personalized landing pages,
+    signup flows, and automated lead enrichment pipelines
+  - Create adaptive activation systems with AI-powered onboarding workflows that personalize
+    tutorials and integration guides in real-time
+  - Automate pipeline generation workflows using AI to generate programmatic SEO content
+    and detect buying signals from user activity
+  - Build AI agents and internal research tools for personalized email sequences,
+    in-app messaging, and user context lookup using semantic search
+  - Build measurement and attribution infrastructure connecting traffic sources to
+    signups and activations with causal tracking
+  use_cases:
+  - Personalized developer signup and onboarding flows using semantic search and AI-driven
+    intent matching
+  - Real-time personalization of tutorials, code samples, and integration guides based
+    on user behavior
+  - AI-powered lead enrichment and routing to sales teams with instant ICP classification
+  - Automated programmatic SEO content generation and buying signal detection from
+    community activity
+  - Semantic search over CRM, product usage, and community data for instant user context
+    lookup
+  skills:
+    genai: [OpenAI/Anthropic APIs, RAG, Semantic search, AI agents]
+    ml: []
+    web: []
+    databases: [Pinecone, Vector databases, SQL]
+    data: [HubSpot, Salesforce, dbt, Snowflake, BigQuery, n8n, Zapier, Clay]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8417953'
+  extracted_at: '2026-02-27T12:32:14.838613'

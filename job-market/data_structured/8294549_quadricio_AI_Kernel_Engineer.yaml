@@ -1,0 +1,48 @@
+company:
+  name: quadric.io
+  stage: Series B
+  focus: General purpose neural processing unit for edge devices
+position:
+  title: AI Kernel Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on optimizing kernel library performance
+      and improving the compiler toolchain for AI inference on
+      Quadric's hardware platform. The engineer works on
+      infrastructure that enables efficient model execution rather
+      than building, training, or fine-tuning AI/LLM models
+      themselves.
+  responsibilities:
+  - Develop AI/LLM kernels/operators on Quadric platform for efficient inference
+  - Optimize the kernel performance for different hardware configurations and workloads
+  - Profile and analyze kernel performance in terms of compute, data and parallelism;
+    identify micro-architecture and software bottlenecks and provide optimization
+    solutions
+  - Optimize kernel C/C++ codes, maximize hardware utilization
+  - Collaborate across related areas of the AI inference stack to support team and
+    business priorities
+  - Make Improvement to Quadric toolchain, compiler and runtime
+  - Provide technical support and documents to customers and developer community
+  use_cases:
+  - Neural network inference on edge devices
+  - Smart-sensor systems with battery constraints
+  - Automotive and autonomous vehicle systems
+  - Real-time AI inference at the edge
+  - Combined neural network and conventional DSP code execution
+  skills:
+    genai: [LLM inference]
+    ml: [AI kernel development]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CUDA, Triton-lang, DSP, NEON, Compiler toolchain, Performance profiling]
+    languages: [C++, Python, Assembly language]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8294549'
+  extracted_at: '2026-02-27T12:32:27.043466'

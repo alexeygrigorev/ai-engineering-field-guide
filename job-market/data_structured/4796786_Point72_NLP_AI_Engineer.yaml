@@ -1,0 +1,40 @@
+company:
+  name: Point72
+  stage: Public
+  focus: Global asset management and investment firm
+position:
+  title: NLP / AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building GenAI solutions, post-training
+      models, fine-tuning and deploying LLMs, implementing RAG and
+      agents. This is direct hands-on work with AI/ML models
+      rather than supporting infrastructure.
+  responsibilities:
+  - Exploring and combining rich internal and external textual datasets
+  - Building GenAI solutions, leveraging both internal models and external APIs
+  - Formulating research hypothesis to derive alpha
+  - Post-training models for specific tasks
+  - Benchmarking LLM approaches on internal tasks
+  use_cases:
+  - Quantitative finance and alpha generation
+  - Analysis of financial textual data and datasets
+  - Natural language processing for investment research
+  - GenAI-powered solutions for financial decision making
+  skills:
+    genai: [LLMs, RAG, agents]
+    ml: [fine-tuning, post-training, benchmarking]
+    web: []
+    databases: []
+    data: [data science stack]
+    cloud: []
+    ops: [model deployment, GitHub, testing]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4796786'
+  extracted_at: '2026-02-27T12:40:51.995850'

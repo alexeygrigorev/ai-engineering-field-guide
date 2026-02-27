@@ -1,0 +1,59 @@
+company:
+  name: Brillio
+  stage: null
+  focus: AI/ML consulting and services
+position:
+  title: Senior AI/ML Engineer - R01560293
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on building multi-agent AI systems using
+      LangGraph, implementing RAG with vector databases, fine-
+      tuning agents with RLHF/RLAIF, and deploying autonomous AI
+      workflows. This is direct work ON AI systems, not supporting
+      infrastructure.
+  responsibilities:
+  - Design and develop multi-agent AI systems using LangGraph for workflow automation,
+    complex decision-making, and autonomous problem-solving
+  - Build memory-augmented, context-aware AI agents capable of planning, reasoning,
+    and executing tasks across multiple domains
+  - Develop and optimize agent orchestration workflows using LangGraph, ensuring high
+    performance, modularity, and scalability
+  - Implement knowledge graphs, vector databases, and retrieval-augmented generation
+    (RAG) techniques for enhanced agent reasoning
+  - Apply reinforcement learning (RLHF/RLAIF) methodologies to fine-tune AI agents
+    for improved decision-making
+  - Lead cutting-edge AI research in Agentic AI, LangGraph, LLM Orchestration, and
+    Self-improving AI Agents
+  - Lead Agentic AI proof-of-concept (PoC) projects that demonstrate tangible business
+    impact and scale successful prototypes into production
+  - Lead and mentor a team of AI Engineers and Data Scientists, fostering deep technical
+    expertise in LangGraph and multi-agent architectures
+  use_cases:
+  - Enterprise workflow automation through autonomous AI agents
+  - Complex decision-making and problem-solving across multiple domains
+  - Enhanced agent reasoning using knowledge graphs and RAG techniques
+  - Autonomous adaptation and self-learning based on real-time feedback loops
+  - Driving automation, operational efficiency, and cost savings in enterprise environments
+  - Scalable LLM-powered agent integration with enterprise applications
+  skills:
+    genai: [LangGraph, RAG, LLM orchestration, Knowledge graphs]
+    ml: [Reinforcement Learning, RLHF, RLAIF, TensorFlow, PyTorch, Scikit-learn, Keras,
+      MXNet, Classification, Decision Trees, SVM, Regression, Linear Regression, Logistic
+        Regression, Distance metrics, Hamming Distance, Euclidean Distance, Manhattan
+        Distance, Time series forecasting, ARIMA, ARIMAX, Exponential Smoothing, Statistical
+        analysis, Hypothesis Testing, T-Test, Z-Test, Probabilistic Graph Models,
+      SAS, SPSS]
+    web: []
+    databases: [Pinecone, Weaviate, FAISS]
+    data: [Great Expectations]
+    cloud: []
+    ops: [KubeFlow, BentoML, Evidently AI]
+    languages: [Python, PySpark, R]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8514906'
+  extracted_at: '2026-02-27T12:37:35.560621'

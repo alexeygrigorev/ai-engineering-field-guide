@@ -1,0 +1,47 @@
+company:
+  name: Deutsche Bank
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: GCP Data & AI Engineer, AS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deployment of AI
+      systems including RAG pipelines, agentic workflows, and AI
+      applications using Google ADK, Vertex AI, and vector
+      databases. This goes beyond supporting AI work to actively
+      implementing multi-agent systems and operationalizing AI
+      solutions.
+  responsibilities:
+  - Design, develop and maintain data pipelines using Python and SQL on GCP
+  - Work with Cloud Composer to manage and process batch data jobs efficiently
+  - Develop and deploy google cloud services using Terraform
+  - Build and deploy AI and RAG pipelines
+  - Design, build and deploy agentic workflows using Google ADK
+  - Operationalize AI applications and monitor data pipelines
+  - Implement CI/CD pipelines using GitHub Actions
+  - Consume and host REST APIs using Python
+  use_cases:
+  - Advanced data analytics on prepared data
+  - Retrieval-Augmented Generation (RAG) for enterprise data
+  - Multi-agent systems using agentic frameworks and a2a protocol
+  - AI-powered data transformation and quality workflows
+  - LLM-based applications using Gemini and embedding models
+  skills:
+    genai: [Google ADK, RAG, Multi-agent system, a2a protocol, Agent cards, LLM, Gemini,
+      Prompt engineering]
+    ml: [Embedding models]
+    web: [REST API, APIGEE]
+    databases: [BigQuery, Vector database]
+    data: [Cloud Composer, Data Flow, ETL]
+    cloud: [GCP, Cloud Function, Cloud Run, Vertex AI]
+    ops: [GKE, Terraform, GitHub Actions, Bit Bucket, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Jira, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8172543'
+  extracted_at: '2026-02-27T13:04:47.686014'

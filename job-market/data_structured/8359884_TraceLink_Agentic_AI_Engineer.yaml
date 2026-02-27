@@ -1,0 +1,49 @@
+company:
+  name: TraceLink
+  stage: Public
+  focus: Pharmaceutical supply chain digitization software
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly building agentic AI/GenAI systems
+      including RAG pipelines, multi-agent workflows, and fine-
+      tuning language models. This is hands-on work directly
+      implementing AI models and agent systems, not supporting
+      infrastructure for others.
+  responsibilities:
+  - Support the design and implementation of agentic AI/GenAI systems that assist
+    in automating supply chain workflows
+  - Build and maintain backend services and integrations using Python and/or Java
+  - Contribute to multi-agent workflows including tool execution, routing, agent collaboration
+    patterns, and task orchestration
+  - Assist in creating testing and validation strategies for AI systems including
+    evaluation datasets, regression testing, and behavior monitoring
+  - Help implement and improve knowledge base systems including RAG pipelines, grounding
+    strategies, and retrieval quality improvements
+  - Contribute to experimentation with lightweight fine-tuning approaches for small
+    language models and reinforcement-learning-inspired improvement loops
+  use_cases:
+  - Automating supply chain workflows in pharmaceutical industry
+  - Knowledge-based retrieval for supply chain decision making
+  - Multi-agent task orchestration for enterprise operations
+  - Testing and validation of non-deterministic AI systems
+  - Fine-tuning small language models for domain-specific applications
+  skills:
+    genai: [RAG, Retrieval-Augmented Generation, agentic AI, multi-agent workflows,
+      tool calling, multi-step reasoning, LLMs]
+    ml: [fine-tuning, small language models, reinforcement learning, NLP]
+    web: [APIs]
+    databases: [embedding-based search, vector search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [distributed systems]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8359884'
+  extracted_at: '2026-02-27T13:07:13.415333'

@@ -1,0 +1,52 @@
+company:
+  name: Waystone
+  stage: null
+  focus: Enterprise engineering and automation AI solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on building AI-enabled solutions including
+      agentic workflows, RAG implementations, AI agents with tool
+      integration, and MCP servers. The engineer directly designs,
+      develops, and deploys these AI capabilities using frameworks
+      like LangChain and APIs from OpenAI/Anthropic, rather than
+      just supporting AI work done by others.
+  responsibilities:
+  - Design and develop AI-enabled microservices, APIs, applications, and internal
+    tools
+  - Build agentic workflows using frameworks like LangChain with tool integration,
+    memory, and guardrails
+  - Implement retrieval-augmented generation (RAG) workflows to enhance context and
+    reliability
+  - Integrate AI capabilities into low-code automation platforms like Power Automate,
+    n8n, and Workato
+  - Develop Model Context Protocol (MCP) servers for secure AI-to-system connectivity
+  - Lead AI-based document parsing and intelligent data extraction initiatives
+  - Establish AI observability practices including monitoring model behavior and detecting
+    anomalies
+  - Mentor technical and non-technical staff on responsible AI adoption and best practices
+  use_cases:
+  - Intelligent automation and workflow optimization
+  - Enterprise document parsing and data extraction
+  - Agentic AI workflows for business process automation
+  - AI-enabled microservices and API integrations
+  - Low-code/no-code platform enhancement with AI capabilities
+  skills:
+    genai: [LangChain, OpenAI API, Anthropic API, Model Context Protocol (MCP), RAG,
+      Agentic AI workflows, Prompt engineering]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [CI/CD, Infrastructure as code]
+    languages: [Python, C#, TypeScript]
+    domains: []
+    other: [Power Automate, n8n, Workato]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534847'
+  extracted_at: '2026-02-27T13:05:03.626822'

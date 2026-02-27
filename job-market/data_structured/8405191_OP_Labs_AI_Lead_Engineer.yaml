@@ -1,0 +1,52 @@
+company:
+  name: OP Labs
+  stage: Series B
+  focus: Blockchain infrastructure and Layer 2 scaling solutions
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying practical AI
+      solutions including copilots, agents, and automated
+      workflows using GenAI techniques like LLMs, retrieval
+      patterns, and LangChain. This is hands-on model
+      implementation work directly building AI systems, not just
+      supporting infrastructure for AI teams.
+  responsibilities:
+  - Partner with Data and business teams to identify high-impact opportunities for
+    AI-driven automation
+  - Turn business problems into clear AI use cases and design practical AI tools
+  - Design and iterate on copilots, agents, and automated workflows using modern GenAI
+    techniques
+  - Write clean, reliable code in Python and Golang to support AI solutions
+  - Partner with engineering and data teams to turn prototypes into secure, scalable,
+    production-ready systems
+  - Guide teams on AI capabilities, responsible use, and best practices
+  - Pilot new solutions with teams, gather feedback, iterate quickly, and support
+    rollout to ensure business impact
+  - Ensure solutions meet privacy, security, and ethical standards with Security,
+    Legal, and Compliance teams
+  use_cases:
+  - AI-driven automation and efficiency for business workflows
+  - Internal copilots for productivity and task assistance
+  - AI agents for automated workflow execution
+  - Enterprise process automation and optimization
+  - Internal knowledge retrieval and task assistance
+  - Business process acceleration through AI-powered tools
+  skills:
+    genai: [LLMs, retrieval, agents, LangChain, Gemini, Claude, prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Golang]
+    domains: []
+    other: [system design, automation]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8405191'
+  extracted_at: '2026-02-27T12:44:36.964916'

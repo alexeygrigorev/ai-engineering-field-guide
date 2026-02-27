@@ -1,0 +1,49 @@
+company:
+  name: Boomi
+  stage: Public
+  focus: Intelligent integration and automation platform
+position:
+  title: Software Engineer 2 - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a backend software engineering
+      position working with Python or Java, databases, and cloud
+      platforms. While it mentions exposure to Agentic AI and
+      requires familiarity with tools like LangChain and
+      LangGraph, the core responsibilities focus on general
+      software development tasks (backend services, code reviews,
+      testing) rather than building, deploying, or fine-tuning AI
+      models or agents.
+  responsibilities:
+  - Develop and maintain backend services using Python or Java
+  - Write clean, maintainable, and well-documented code following established coding
+    standards
+  - Contribute to the development and testing of features, ensuring code quality through
+    comprehensive testing
+  - Participate in code reviews, learning from feedback and contributing constructive
+    suggestions to peers
+  - Assist in troubleshooting and resolving issues in development and production environments
+  - Engage in continuous learning to stay current with emerging technologies and development
+    practices
+  use_cases:
+  - Backend systems and services for integration platform
+  - Agentic AI applications for business automation
+  - Scalable and efficient solutions for connecting systems
+  - RESTful API design and development for platform services
+  skills:
+    genai: [LangChain, LangGraph, Agentic AI]
+    ml: []
+    web: [RESTful API design]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [AWS, Azure, Google Cloud, AWS Bedrock]
+    ops: [Git]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [Unit testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8261993'
+  extracted_at: '2026-02-27T13:09:29.255748'

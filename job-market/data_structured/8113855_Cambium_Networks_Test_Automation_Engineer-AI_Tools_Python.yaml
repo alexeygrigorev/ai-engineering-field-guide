@@ -1,0 +1,46 @@
+company:
+  name: Cambium Networks
+  stage: Public
+  focus: Wireless communications and connectivity solutions
+position:
+  title: Test Automation Engineer-(AI Tools, Python)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role uses AI coding assistants to enhance productivity
+      and code quality, but the core work is test automation and
+      framework development rather than building, training, or
+      deploying AI/ML models. The AI tools are used as
+      productivity enhancers for traditional software engineering
+      tasks, making this an AI-support role.
+  responsibilities:
+  - Design and maintain enterprise-grade automation frameworks using Python and pytest
+  - Develop automated test suites for web applications using Selenium and RESTful
+    APIs
+  - Own CI/CD pipeline integration and optimization using Jenkins
+  - Lead code reviews, establish automation standards, and mentor team members
+  - Use AI coding assistants for development, debugging, and problem-solving
+  - Drive AI tool adoption within the team and contribute to building an AI-first
+    engineering culture
+  use_cases:
+  - Web application testing automation
+  - RESTful API testing automation
+  - CI/CD pipeline optimization
+  - Test framework development and maintenance
+  - AI-assisted code development and debugging
+  skills:
+    genai: [GitHub Copilot, Claude, ChatGPT]
+    ml: []
+    web: [Selenium, RESTful API testing]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [pytest, Jenkins, CI/CD, Git, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8113855'
+  extracted_at: '2026-02-27T12:47:39.748000'

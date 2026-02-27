@@ -1,0 +1,47 @@
+company:
+  name: Lucidya
+  stage: Series B
+  focus: AI-powered customer experience solutions for enterprises
+position:
+  title: Voice AI Engineer (Mid/Senior)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, fine-tuning, and
+      deploying AI models including LLMs, ASR, and TTS for voice
+      agents. The engineer will implement multi-turn conversations
+      with agent frameworks, fine-tune models for different
+      dialects, and deploy AI models to production with focus on
+      real-time voice processing.
+  responsibilities:
+  - Design and implement real-time voice agents using ASR, TTS, and LLM-based reasoning
+  - Build multi-turn, stateful voice conversations with interruption handling, retries,
+    tool-use and fallbacks
+  - Finetune and adapt STT, TTS and LLMs for different dialects
+  - Deploy AI models into production environments with focus on scalability, performance,
+    and reliability
+  - Work with streaming architectures including WebSockets, gRPC, SIP and WebRTC
+  - Build evaluation frameworks for AI Agent performance and analyze call logs to
+    continuously improve
+  use_cases:
+  - Customer experience automation through intelligent voice agents
+  - Real-time voice conversations with multi-turn dialogue and state management
+  - Arabic-first voice AI solutions for enterprises across MENA region
+  - Enterprise-grade conversational IVR systems with interruption handling
+  - Multilingual voice agents with dialect-specific fine-tuning
+  skills:
+    genai: [LLMs, prompt engineering, agent frameworks, ASR, TTS]
+    ml: [fine-tuning]
+    web: [WebSockets, gRPC]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, continuous integration, monitoring, model lifecycle management]
+    languages: [Python, Java]
+    domains: [conversational AI, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476981'
+  extracted_at: '2026-02-27T12:34:02.260912'

@@ -1,0 +1,51 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Edge-to-cloud computing and infrastructure solutions
+position:
+  title: Private Cloud AI Customer Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      deploys AI solutions to customers. The hands-on work
+      includes building RAG pipelines, implementing
+      LangChain/LlamaIndex, working with vector DBs, and guiding
+      customers through AI use case adoption - all core AI/ML
+      system deployment tasks.
+  responsibilities:
+  - Assist customers in the initial adoption of the HPE Private Cloud AI product through
+    hands-on support and guidance
+  - Project manage customer onboarding and first use case implementation during the
+    first three months post-purchase
+  - Provide informal product training sessions to help customers understand and utilize
+    the AI platform effectively
+  - Guide customers through AI use case adoption including RAG pipelines, virtual
+    assistants, and chatbot implementations
+  - Collaborate with internal teams including Sales, Product Management, and Technical
+    Support to ensure customer success
+  - Monitor customer progress and provide proactive support to ensure early value
+    realization from the AI platform
+  use_cases:
+  - Virtual assistants and conversational AI interfaces
+  - Q&A chatbots powered by retrieval-augmented generation
+  - Document summarization and knowledge extraction
+  - Enterprise AI solutions for structured and unstructured data
+  - Big data analytics across data warehouses, lakes, and distributed file systems
+  - NLP applications with understanding of model limitations
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, vLLM]
+    ml: []
+    web: []
+    databases: [S3, Vector DBs, SQL, NoSQL]
+    data: [Presto, Airflow, Spark, Ray, Superset]
+    cloud: [NVIDIA AI Enterprise]
+    ops: [LLMOps, Kubernetes, Kubeflow, MLflow, Docker, Helm, Linux]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8040660'
+  extracted_at: '2026-02-27T12:37:42.124444'

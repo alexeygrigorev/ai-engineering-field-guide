@@ -1,0 +1,55 @@
+company:
+  name: TSS Consultancy Pvt Ltd
+  stage: unknown
+  focus: Fintech and Regtech solutions for fighting financial crime
+position:
+  title: Lead Software Engineer – AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML systems including
+      fine-tuning LLMs, building transformer-based architectures,
+      developing computer vision solutions, and deploying models
+      using MLOps practices. This is a direct build/deploy role
+      rather than supporting infrastructure or general software
+      engineering.
+  responsibilities:
+  - Lead the end-to-end lifecycle of AI-powered solutions encompassing computer vision,
+    NLP, and predictive modeling
+  - Drive development of innovative use cases including image enhancement, document
+    intelligence, entity extraction, and automated data validation
+  - Apply advanced deep learning techniques, transformer architectures, and foundation
+    model fine-tuning to build scalable solutions
+  - Build and maintain robust CI/CD pipelines for model training, deployment, and
+    rigorous testing
+  - Implement comprehensive automation for model monitoring, retraining workflows,
+    and ensure end-to-end traceability
+  - Lead research, development, and PoC efforts for domain-specific language models
+    and fine-tune LLMs for unstructured data extraction
+  - Provide mentorship and guidance to machine learning engineers and software developers
+  - Collaborate with cross-functional stakeholders to define product vision and contribute
+    to engineering roadmap
+  use_cases:
+  - Image enhancement and optical character recognition (OCR)
+  - Document intelligence and entity extraction
+  - Automated data validation
+  - Deepfake detection and biometric verification
+  - Text summarization, semantic search, and question-answering systems
+  - Financial crime detection and regulatory compliance in fintech/regtech domains
+  skills:
+    genai: [GPT Fine-tuning, LLM Fine-tuning, Hugging Face Transformers]
+    ml: [Transformer Networks, PyTorch, TensorFlow]
+    web: [RESTful APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLflow, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions,
+      Prometheus, Grafana]
+    languages: [Python, Java, Go, Node.js]
+    domains: [Computer Vision, OCR, Deepfake Detection, Natural Language Processing]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7384377'
+  extracted_at: '2026-02-27T12:44:04.640021'
