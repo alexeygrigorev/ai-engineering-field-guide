@@ -58,15 +58,17 @@ Key findings
 - [Structured job descriptions](job-market/data_structured/) - YAML files with title, company, skills, compensation, and full descriptions
 - [Raw extracted postings](job-market/data_raw/) - original extracted data
 
-## Interview Preparation (work in progress)
+## Interview Preparation
 
-- [Interview process](_work-in-progress/interviews/process.md) - typical loop, what to expect at each stage
-- [Take-home assignments](_work-in-progress/interviews/take-home/) - real examples and research
+Based on analysis of 1,765 job descriptions, 51 companies with disclosed interview processes.
+
+- [Interview process analysis](interview/interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
+- [Home assignments](interview/home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
+- [Interview questions](interview/interview-questions.md) - technical and behavioral questions (work in progress)
+- [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
 ## Coming Soon
 
-- AI engineer portfolio guide
-- Company-specific interview guides
 - Salary analysis and compensation data
 - Community-contributed interview experiences
 

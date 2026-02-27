@@ -2,7 +2,7 @@
 
 Analysis of take-home assignments, paid work trials, and asynchronous assessments extracted from 1,765 AI/ML engineering job descriptions.
 
-See also: [Interview Process Report](interview_process_report.md) for the full interview process analysis including company-by-company breakdowns, common patterns, and notable practices.
+See also: [Interview Process Report](interview-process.md) for the full interview process analysis including company-by-company breakdowns, common patterns, and notable practices.
 
 ## Overview
 
@@ -11,7 +11,7 @@ Of the 51 companies with disclosed interview processes, 17 (33%) include a take-
 ## Detailed Assignment Descriptions
 
 ### 1. Column Tax - Software Engineer (Applied AI)
-File: [`6351158_Column_Tax_Software_Engineer_Applied_AI.yaml`](data_raw/6351158_Column_Tax_Software_Engineer_Applied_AI.yaml)
+File: [`6351158_Column_Tax_Software_Engineer_Applied_AI.yaml`](../job-market/data_raw/6351158_Column_Tax_Software_Engineer_Applied_AI.yaml)
 
 > We'll ask you to complete a ~3-hour project that mirrors the kind of integration or tooling work we do every day. You'll have full freedom to do it your way - this is about decision-making, clarity, and implementation, not code golf.
 
@@ -25,7 +25,7 @@ File: [`6351158_Column_Tax_Software_Engineer_Applied_AI.yaml`](data_raw/6351158_
 ---
 
 ### 2. FlowFuse - Full Stack Developer (AI-focused)
-File: [`8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml`](data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml)
+File: [`8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml`](../job-market/data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml)
 
 > Candidates choose one of the following options. Both are explicitly time-boxed to 2-3 hours:
 > - Option A: Build a small AI-powered feature or tool (for example: intelligent search, summarization, validation, or an assistant-style workflow) using an LLM API.
@@ -45,7 +45,7 @@ Technical interview follow-up:
 ---
 
 ### 3. Harmonic - Full Stack Product Engineer (AI Search)
-File: [`6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml`](data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml)
+File: [`6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml`](../job-market/data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml)
 
 Listed as "Take Home Exam" in the process - no further description of format, content, or duration provided.
 
@@ -59,7 +59,7 @@ Listed as "Take Home Exam" in the process - no further description of format, co
 ---
 
 ### 4. Tenex - Applied AI Engineer / Forward Deployed AI Engineer
-File: [`8095486_Tenex_tenexco_Applied_AI_Engineer.yaml`](data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml`](data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml)
+File: [`8095486_Tenex_tenexco_Applied_AI_Engineer.yaml`](../job-market/data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml`](../job-market/data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml)
 
 > Take-Home: A practical challenge to showcase your technical skills.
 > Team Review: Our engineers review your submission. If it's a match, we'll invite you to the final round.
@@ -77,7 +77,7 @@ File: [`8095486_Tenex_tenexco_Applied_AI_Engineer.yaml`](data_raw/8095486_Tenex_
 ---
 
 ### 5. Lendable - AI Engineer / Senior AI Engineer
-File: [`8029593_Lendable_AI_Engineer.yaml`](data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438_Lendable_Senior_AI_Engineer.yaml`](data_raw/8316438_Lendable_Senior_AI_Engineer.yaml)
+File: [`8029593_Lendable_AI_Engineer.yaml`](../job-market/data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438_Lendable_Senior_AI_Engineer.yaml`](../job-market/data_raw/8316438_Lendable_Senior_AI_Engineer.yaml)
 
 Listed as "Take-home exercise" followed by "Walkthrough of your exercise" - no further description of the assignment itself.
 
@@ -91,7 +91,7 @@ Listed as "Take-home exercise" followed by "Walkthrough of your exercise" - no f
 ---
 
 ### 6. Stacks - Staff AI Engineer
-File: [`4761860_Stacks_Staff_AI_Engineer.yaml`](data_raw/4761860_Stacks_Staff_AI_Engineer.yaml)
+File: [`4761860_Stacks_Staff_AI_Engineer.yaml`](../job-market/data_raw/4761860_Stacks_Staff_AI_Engineer.yaml)
 
 > Step 4: Take-home and 1-hour on-site panel interview with our team at Stacks.
 
@@ -105,7 +105,7 @@ File: [`4761860_Stacks_Staff_AI_Engineer.yaml`](data_raw/4761860_Stacks_Staff_AI
 ---
 
 ### 7. Melotech - AI/ML Engineer + Intern
-File: [`8247431_Melotech_AIML_Engineer.yaml`](data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435_Melotech_AIML_Engineer_Intern.yaml`](data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml)
+File: [`8247431_Melotech_AIML_Engineer.yaml`](../job-market/data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435_Melotech_AIML_Engineer_Intern.yaml`](../job-market/data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml)
 
 > Take-home case study: Real-world project - showcase your skills and working style
 > Case interview: 90-minute case discussion - getting to know you & present and debate your results with a team member
@@ -121,7 +121,7 @@ File: [`8247431_Melotech_AIML_Engineer.yaml`](data_raw/8247431_Melotech_AIML_Eng
 ---
 
 ### 8. Zeely - AI Prompt Engineer (ComfyUI)
-File: [`7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml`](data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml)
+File: [`7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml`](../job-market/data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml)
 
 Listed as "Test Task" in process: `Intro Call > Test Task > Final Interview > Reference check > Offer` - no further description.
 
@@ -134,7 +134,7 @@ Listed as "Test Task" in process: `Intro Call > Test Task > Final Interview > Re
 ---
 
 ### 9. hyperexponential - Senior Technical Writer/Documentation Engineer, AI
-File: [`7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml`](data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml)
+File: [`7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml`](../job-market/data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml)
 
 > Skills Assessment - Home-based task followed by interview (60 minutes)
 
@@ -148,7 +148,7 @@ File: [`7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-
 ---
 
 ### 10. boam - Applied AI Engineer
-File: [`8249839_boam_Applied_AI_Engineer.yaml`](data_raw/8249839_boam_Applied_AI_Engineer.yaml)
+File: [`8249839_boam_Applied_AI_Engineer.yaml`](../job-market/data_raw/8249839_boam_Applied_AI_Engineer.yaml)
 
 > Work Sample: Solve a real Boam-style ML/AI challenge that shows your modeling approach, pipeline thinking, and execution muscle
 
@@ -162,7 +162,7 @@ File: [`8249839_boam_Applied_AI_Engineer.yaml`](data_raw/8249839_boam_Applied_AI
 ---
 
 ### 11. SmartAssets - AI/ML Engineer
-File: [`7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml`](data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml)
+File: [`7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml`](../job-market/data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml)
 
 > Successful applicants will receive a coding challenge to evaluate their programming knowledge and skills as outlined in this job description. This step is an essential part of our selection process to ensure a good match with our team's needs and the demands of the role.
 
@@ -175,7 +175,7 @@ File: [`7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml`](data_ra
 ---
 
 ### 12. Roboflow - Full Stack Engineer, AI Agents
-File: [`8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml`](data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml)
+File: [`8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml`](../job-market/data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml)
 
 > [45m] Build a project with Roboflow and present it to our CTO, Brad Dwyer
 
@@ -191,7 +191,7 @@ This may involve advance preparation outside the live session (building a projec
 ---
 
 ### 13. Wing Assistant - MERN Stack Developer (AI Agents)
-File: [`8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml`](data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml)
+File: [`8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml`](../job-market/data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml)
 
 Listed as "Technical Task" between the introductory call and the final interview -- no further description of format, content, or duration provided.
 
@@ -205,7 +205,7 @@ Listed as "Technical Task" between the introductory call and the final interview
 ---
 
 ### 14. Lendable - Senior AI Software Engineer
-File: [`8440447_Lendable_Senior_AI_Software_Engineer.yaml`](data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml)
+File: [`8440447_Lendable_Senior_AI_Software_Engineer.yaml`](../job-market/data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml)
 
 Listed as "Take-home task" followed by "Technical interview based on the task" -- confirming Lendable's consistent use of take-homes across all AI roles.
 
@@ -219,7 +219,7 @@ Listed as "Take-home task" followed by "Technical interview based on the task" -
 ---
 
 ### 15. Monzo Bank - Senior Staff Software Engineer, AI Customer Operations
-File: [`8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml`](data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml)
+File: [`8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml`](../job-market/data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml)
 
 Candidates get a choice between a take-home task or a pair coding exercise.
 
@@ -234,7 +234,7 @@ Candidates get a choice between a take-home task or a pair coding exercise.
 ---
 
 ### 16. Qonto - Senior Machine Learning Engineer for AI Product
-File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml)
+File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](../job-market/data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml)
 
 > A remote or live exercise to demonstrate your skills and give you a taste of what working at Qonto could be like.
 
@@ -249,7 +249,7 @@ File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](dat
 ---
 
 ### 17. Hastings Direct - Lead Quality Engineer, Automation & AI
-File: [`8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml`](data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml)
+File: [`8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml`](../job-market/data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml)
 
 Listed as "Case study round" as the final step -- no further description of format or duration.
 
@@ -266,33 +266,33 @@ Listed as "Case study round" as the final step -- no further description of form
 
 | Company | File | Role | Format | Duration | Compensation |
 |---------|------|------|--------|----------|--------------|
-| PostHog | [`6953405`](data_raw/6953405_PostHog_AI_Product_Engineer.yaml), [`8277537`](data_raw/8277537_PostHog_Software_Engineer_AI-Enabled_Product_Autonomy.yaml) | AI Product Eng / SWE AI | SuperDay - full day of real work | 1 day | Paid |
-| Lorikeet | [`8005716`](data_raw/8005716_Lorikeet_Forward_Deployed_AI_Engineer.yaml) | Forward Deployed AI Eng | Work trial - ship with the team | ~2 days | Paid |
-| Infinity Constellation | [`7309806`](data_raw/7309806_Infinity_Constellation_Founding_AI_Engineer_-_Supernal.yaml) | Founding AI Eng | Build something real with the team | 1 week | Paid |
-| Fifth Dimension | [`8507147`](data_raw/8507147_Fifth_Dimension_AI_Engineer_StaffPrincipal.yaml) | AI Engineer (Staff/Principal) | Paid one-week trial as alternative to standard interview | 1 week | Paid |
-| CompuGroup Medical US | [`8123883`](data_raw/8123883_CompuGroup_Medical_US_Generative_AI_Developer_Fresher.yaml) | Generative AI Developer (Fresher) | 3-month stipended internship with performance-based conversion | 3 months | Stipend |
+| PostHog | [`6953405`](../job-market/data_raw/6953405_PostHog_AI_Product_Engineer.yaml), [`8277537`](../job-market/data_raw/8277537_PostHog_Software_Engineer_AI-Enabled_Product_Autonomy.yaml) | AI Product Eng / SWE AI | SuperDay - full day of real work | 1 day | Paid |
+| Lorikeet | [`8005716`](../job-market/data_raw/8005716_Lorikeet_Forward_Deployed_AI_Engineer.yaml) | Forward Deployed AI Eng | Work trial - ship with the team | ~2 days | Paid |
+| Infinity Constellation | [`7309806`](../job-market/data_raw/7309806_Infinity_Constellation_Founding_AI_Engineer_-_Supernal.yaml) | Founding AI Eng | Build something real with the team | 1 week | Paid |
+| Fifth Dimension | [`8507147`](../job-market/data_raw/8507147_Fifth_Dimension_AI_Engineer_StaffPrincipal.yaml) | AI Engineer (Staff/Principal) | Paid one-week trial as alternative to standard interview | 1 week | Paid |
+| CompuGroup Medical US | [`8123883`](../job-market/data_raw/8123883_CompuGroup_Medical_US_Generative_AI_Developer_Fresher.yaml) | Generative AI Developer (Fresher) | 3-month stipended internship with performance-based conversion | 3 months | Stipend |
 
 ## Summary Table
 
 | # | Company | File ID | Duration | Format | AI OK? | Paid? | Evaluation Method |
 |---|---------|---------|----------|--------|--------|-------|-------------------|
-| 1 | Column Tax | [`6351158`](data_raw/6351158_Column_Tax_Software_Engineer_Applied_AI.yaml) | ~3 hrs | Real integration project | ? | ? | 4.5-hr panel discussion |
-| 2 | FlowFuse | [`8067206`](data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml) | 2-3 hrs | AI feature or PR (choice) | Yes | No | 60-min review with team |
-| 3 | Harmonic | [`6727775`](data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml) | ? | Take-home exam | ? | ? | Debugging + jam session |
-| 4 | Tenex | [`8095486`](data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124`](data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml) | ? | Practical challenge | ? | ? | Engineer review + panel |
-| 5 | Lendable | [`8029593`](data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438`](data_raw/8316438_Lendable_Senior_AI_Engineer.yaml) | ? | Take-home exercise | ? | ? | Dedicated walkthrough |
-| 6 | Stacks | [`4761860`](data_raw/4761860_Stacks_Staff_AI_Engineer.yaml) | ? | Take-home | ? | ? | On-site panel |
-| 7 | Melotech | [`8247431`](data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435`](data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml) | ? | Real-world case study | ? | ? | 90-min case interview |
-| 8 | Zeely | [`7568516`](data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml) | ? | Test task | ? | ? | Not described |
-| 9 | hyperexponential | [`7298439`](data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml) | ? | Home-based task | ? | ? | 60-min follow-up interview |
-| 10 | boam | [`8249839`](data_raw/8249839_boam_Applied_AI_Engineer.yaml) | ? | Real ML/AI challenge | ? | ? | Not described |
-| 11 | SmartAssets | [`7694512`](data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml) | ? | Coding challenge | ? | ? | Not described |
-| 12 | Roboflow | [`8027169`](data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml) | prep+45m | Build with product, present | ? | ? | Present to CTO |
-| 13 | Wing Assistant | [`8359858`](data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml) | ? | Technical task | ? | ? | Final interview with C-suite |
-| 14 | Lendable | [`8440447`](data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml) | ? | Take-home task | ? | ? | Technical interview based on task |
-| 15 | Monzo Bank | [`8492197`](data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml) | ? | Take-home OR pair coding (choice) | ? | ? | Behavioral + leadership rounds |
-| 16 | Qonto | [`8097536`](data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml) | ? | Remote or live exercise | ? | ? | Not specified |
-| 17 | Hastings Direct | [`8463501`](data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml) | ? | Case study | ? | ? | Not described |
+| 1 | Column Tax | [`6351158`](../job-market/data_raw/6351158_Column_Tax_Software_Engineer_Applied_AI.yaml) | ~3 hrs | Real integration project | ? | ? | 4.5-hr panel discussion |
+| 2 | FlowFuse | [`8067206`](../job-market/data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml) | 2-3 hrs | AI feature or PR (choice) | Yes | No | 60-min review with team |
+| 3 | Harmonic | [`6727775`](../job-market/data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml) | ? | Take-home exam | ? | ? | Debugging + jam session |
+| 4 | Tenex | [`8095486`](../job-market/data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124`](../job-market/data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml) | ? | Practical challenge | ? | ? | Engineer review + panel |
+| 5 | Lendable | [`8029593`](../job-market/data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438`](../job-market/data_raw/8316438_Lendable_Senior_AI_Engineer.yaml) | ? | Take-home exercise | ? | ? | Dedicated walkthrough |
+| 6 | Stacks | [`4761860`](../job-market/data_raw/4761860_Stacks_Staff_AI_Engineer.yaml) | ? | Take-home | ? | ? | On-site panel |
+| 7 | Melotech | [`8247431`](../job-market/data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435`](../job-market/data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml) | ? | Real-world case study | ? | ? | 90-min case interview |
+| 8 | Zeely | [`7568516`](../job-market/data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml) | ? | Test task | ? | ? | Not described |
+| 9 | hyperexponential | [`7298439`](../job-market/data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml) | ? | Home-based task | ? | ? | 60-min follow-up interview |
+| 10 | boam | [`8249839`](../job-market/data_raw/8249839_boam_Applied_AI_Engineer.yaml) | ? | Real ML/AI challenge | ? | ? | Not described |
+| 11 | SmartAssets | [`7694512`](../job-market/data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml) | ? | Coding challenge | ? | ? | Not described |
+| 12 | Roboflow | [`8027169`](../job-market/data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml) | prep+45m | Build with product, present | ? | ? | Present to CTO |
+| 13 | Wing Assistant | [`8359858`](../job-market/data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml) | ? | Technical task | ? | ? | Final interview with C-suite |
+| 14 | Lendable | [`8440447`](../job-market/data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml) | ? | Take-home task | ? | ? | Technical interview based on task |
+| 15 | Monzo Bank | [`8492197`](../job-market/data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml) | ? | Take-home OR pair coding (choice) | ? | ? | Behavioral + leadership rounds |
+| 16 | Qonto | [`8097536`](../job-market/data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml) | ? | Remote or live exercise | ? | ? | Not specified |
+| 17 | Hastings Direct | [`8463501`](../job-market/data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml) | ? | Case study | ? | ? | Not described |
 
 ## Key Observations
 
