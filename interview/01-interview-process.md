@@ -52,6 +52,7 @@ Only 1 company (Viral Nation) explicitly states they do NOT use AI in recruitmen
 - Marvell Technology: no ChatGPT, Copilot, transcription or note-taking bots
 - Illumina: prohibits generative AI in application and interview
 - Wells Fargo: must directly represent own experiences
+
 The Wolters Kluwer paradox: their AI engineering roles require AI coding tool proficiency (GitHub Copilot, AI agents) as mandatory skills, yet the company bans all AI during interviews.
 
 ### Encouraging or evaluating AI fluency (~22%)

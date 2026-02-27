@@ -186,7 +186,7 @@ This may involve advance preparation outside the live session (building a projec
 ### 13. Wing Assistant - MERN Stack Developer (AI Agents)
 File: [`8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml`](../job-market/data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml)
 
-Listed as "Technical Task" between the introductory call and the final interview -- no further description of format, content, or duration provided.
+Listed as "Technical Task" between the introductory call and the final interview - no further description of format, content, or duration provided.
 
 - Duration: Not specified
 - Format: Technical task (details not given)
@@ -199,7 +199,7 @@ Listed as "Technical Task" between the introductory call and the final interview
 ### 14. Lendable - Senior AI Software Engineer
 File: [`8440447_Lendable_Senior_AI_Software_Engineer.yaml`](../job-market/data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml)
 
-Listed as "Take-home task" followed by "Technical interview based on the task" -- confirming Lendable's consistent use of take-homes across all AI roles.
+Listed as "Take-home task" followed by "Technical interview based on the task" - confirming Lendable's consistent use of take-homes across all AI roles.
 
 - Duration: Not specified
 - Format: Take-home task (details not given)
@@ -240,7 +240,7 @@ File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](../
 ### 17. Hastings Direct - Lead Quality Engineer, Automation & AI
 File: [`8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml`](../job-market/data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml)
 
-Listed as "Case study round" as the final step -- no further description of format or duration.
+Listed as "Case study round" as the final step - no further description of format or duration.
 
 - Duration: Not specified
 - Format: Case study (details not given)

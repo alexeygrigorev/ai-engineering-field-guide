@@ -37,6 +37,18 @@ It's a work in progress, and I'm actively adding more content. Your input is ver
 - [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
 
+## [Awesome AI Engineering](awesome.md)
+
+Curated collection of resources we compiled while researching content for this field guide:
+
+- Practitioner interview stories - first-hand accounts from candidates at OpenAI, Anthropic, Google, Meta, and 40+ other companies
+- AI system design guides - frameworks, patterns, and prep materials for the new AI-specific interview round
+- Company engineering blogs - how Anthropic, Uber, Airbnb, Perplexity, LinkedIn, DoorDash, Spotify, Shopify, and others build AI systems in production
+- Key practitioner voices - Chip Huyen, Eugene Yan, Hamel Husain, Andrej Karpathy, and more
+- Books and courses - from O'Reilly to free open-source options
+- Case study collections - 1,000+ real ML/LLM system design examples
+
+
 ## Learning Paths
 
 - [General learning path](learning-paths/) - what to learn and in what order
