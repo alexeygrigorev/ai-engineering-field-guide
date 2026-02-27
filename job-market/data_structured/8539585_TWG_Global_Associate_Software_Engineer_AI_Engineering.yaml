@@ -1,0 +1,50 @@
+company:
+  name: TWG Global
+  stage: null
+  focus: |-
+    AI-first business transformation across financial services,
+    insurance, technology, media, and sports
+position:
+  title: Associate Software Engineer, AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires building AI agent-based
+      systems, agent workflows, and orchestration logic using
+      modern LLM frameworks like LangGraph and LangChain. This is
+      hands-on work with AI systems (building, deploying,
+      implementing agents) rather than supporting infrastructure
+      or platforms for AI work.
+  responsibilities:
+  - Design, build, and maintain AI agent-based systems that perform multi-step tasks
+    using defined goals, tools, and decision logic
+  - Design, build, and maintain full-stack web applications including React-based
+    UIs with thoughtful component architecture and performance optimization
+  - Design, develop, and maintain backend services, RESTful APIs, and data models
+  - Architect scalable systems and contribute to high-level design and planning
+  - Drive code quality, testing, and engineering best practices across the team
+  - Collaborate across functions to deliver end-to-end product features
+  use_cases:
+  - Multi-step task automation using AI agents with tool calling and orchestration
+  - Stateful workflows for AI-driven business applications
+  - Real-time intelligence and interactive business applications
+  - Data-driven decision support for financial services, insurance, technology, media,
+    and sports
+  - Marketing, operations, and product development optimization
+  skills:
+    genai: [LangGraph, LangChain, agent-based systems, tool calling, orchestration,
+      stateful workflows, LLM frameworks]
+    ml: []
+    web: [React, state management, component architecture, RESTful APIs]
+    databases: [PostgreSQL, MySQL, database design]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD pipelines]
+    languages: [Java]
+    domains: []
+    other: [distributed systems, microservices, system design patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8539585'
+  extracted_at: '2026-02-27T13:19:30.875381'

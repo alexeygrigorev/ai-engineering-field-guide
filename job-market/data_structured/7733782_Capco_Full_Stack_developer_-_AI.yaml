@@ -1,0 +1,54 @@
+company:
+  name: Capco
+  stage: Public
+  focus: |-
+    Technology and management consulting for banking and
+    financial services
+position:
+  title: Full Stack developer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack Developer role that builds web
+      applications integrating AI/ML models and LLM services. The
+      developer works alongside data scientists and ML engineers
+      to embed AI capabilities into applications, but is not
+      directly building, training, or fine-tuning models
+      themselves. Their primary focus is on full stack
+      development, API integration, and infrastructure to enable
+      AI capabilities for end users.
+  responsibilities:
+  - Design, develop, and maintain full stack web applications that integrate AI/ML
+    models, knowledge graphs, and search interfaces for financial research
+  - Build modern, responsive UIs using React.js with a focus on usability and performance
+  - Develop scalable, secure backend services using Python (FastAPI/Flask/Django),
+    Node.js, including REST and GraphQL APIs
+  - Integrate front-end components with AI/LLM services (e.g., GPT, Claude), document
+    processing APIs, and financial datasets
+  - Collaborate with DevOps and Cloud teams to deploy applications using CI/CD pipelines,
+    containers (Docker), and orchestration (Kubernetes)
+  - Work alongside data scientists and ML engineers to embed AI capabilities into
+    end-user applications
+  use_cases:
+  - Financial research applications with integrated AI/ML models and knowledge graphs
+  - Enterprise search with document processing and retrieval capabilities
+  - RAG (retrieval-augmented generation) workflows for financial data analysis
+  - Investment professional tools with AI-powered insights and document search
+  - Secure, compliant applications for banking, insurance, and asset management sectors
+  skills:
+    genai: [AI/ML API integration, GPT, Claude, RAG (retrieval-augmented generation)]
+    ml: [NLP]
+    web: [React.js, Redux, Tailwind, CSS-in-JS, FastAPI, Flask, Django, Node.js, REST
+        APIs, GraphQL]
+    databases: [PostgreSQL, MongoDB, Neo4j, Amazon Neptune, Vector databases, Elasticsearch]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS ECS, AWS S3, AWS API Gateway, AWS SageMaker]
+    ops: [Git, Jenkins, GitHub Actions, Docker, Kubernetes]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7733782'
+  extracted_at: '2026-02-27T13:17:38.704941'

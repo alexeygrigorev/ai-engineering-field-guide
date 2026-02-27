@@ -1,0 +1,53 @@
+company:
+  name: NBCUniversal
+  stage: Public
+  focus: Media and entertainment company
+position:
+  title: Staff Cyber Security Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a cyber security role focused on securing AI
+      systems, not building or deploying models. The engineer
+      designs security controls, develops threat models, and
+      creates security guidelines for AI systems and emerging
+      technologies, working as a security subject matter expert
+      embedded with engineering teams.
+  responsibilities:
+  - Partner with NBCUniversal businesses, enterprise IT, and Cyber Security organization
+    to ensure secure technology design and deployment
+  - Function as a security subject matter expert embedded with engineering teams delivering
+    solutions
+  - Focus on security controls applicable to AI systems and other emerging technologies
+  - Develop threat models and control strategies integrated into design, development,
+    and operation of technology platforms
+  - Collaborate across the Cyber organization and with business stakeholders to provide
+    security guidance and mitigation requirements
+  - Communicate the importance of key Cyber programs to obtain support and buy-in
+    from business and technology teams
+  - Mentor junior members of the team and foster a culture of continual improvement
+  use_cases:
+  - Security for AI systems and emerging technologies
+  - Cybersecurity architecture and threat modeling
+  - Enterprise security guidance for ML and generative AI platforms
+  - Security controls for Azure OpenAI services
+  - Protection against threats to AI, cloud, web, and application environments
+  - Security governance and compliance for data privacy regulations
+  skills:
+    genai: [Generative AI, GPT-4, Llama, Midjourney]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Cloud Security]
+    ops: [Incident Response]
+    languages: []
+    domains: []
+    other: [AI Security, Threat Analysis, MITRE ATT&CK, NIST CSF, CIS Critical Security
+        Controls, OWASP Top 10, CWE/SANS Top 25, Network Security, Application Security,
+      PCI DSS, SOX, HIPAA, GDPR, CCPA, GRC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8461473'
+  extracted_at: '2026-02-27T13:18:16.699409'

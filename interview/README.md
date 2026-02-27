@@ -5,11 +5,15 @@ Analysis of interview processes, home assignments, and hiring practices across A
 ## Contents
 
 - [Interview Process](01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, and key takeaways
-- [Technical Questions](02-technical-questions.md) - LLMs, RAG, ML fundamentals (work in progress)
-- [Behavioral Questions](03-behavioral-questions.md) - values, leadership, problem-solving (work in progress)
-- [AI System Design](04-ai-system-design.md) - system design for AI applications (work in progress)
-- [Home Assignments](05-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
-- [Skills That Get You Hired](06-skills-that-get-you-hired.md) - baseline expectations, differentiators, and portfolio strategy
+- [Theory Questions](02-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions
+- [Coding Problems](03-coding.md) - coding round formats, DSA problems, ML implementation exercises
+- [Case Study Questions](04-case-study.md) - hypothetical approach questions, methodology discussions
+- [AI System Design](05-ai-system-design.md) - system design for AI applications (work in progress)
+- [Home Assignments](06-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
+- [Behavioral Questions](07-behavioral.md) - values, leadership, problem-solving (work in progress)
+- [Skills That Get You Hired](08-get-hired.md) - baseline expectations, differentiators, and portfolio strategy
+- [After the Interview](09-after-the-interview.md) - handling offers, rejections, and salary negotiation
+- [Interview Trends](10-trends.md) - realistic assessments, AI cheating, AI-proctored rounds, the "no AI tools" irony
 
 ## Key Highlights
 

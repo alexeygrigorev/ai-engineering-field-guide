@@ -29,11 +29,15 @@ It's a work in progress, and I'm actively adding more content. Your input is ver
 ## Interview Preparation
 
 - [Interview process](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
-- [Technical questions](interview/02-technical-questions.md) - LLMs, RAG, ML fundamentals (work in progress)
-- [Behavioral questions](interview/03-behavioral-questions.md) - values, leadership, problem-solving (work in progress)
-- [AI system design](interview/04-ai-system-design.md) - system design for AI applications (work in progress)
-- [Home assignments](interview/05-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
-- [Skills that get you hired](interview/06-skills-that-get-you-hired.md) - baseline expectations, differentiators, and portfolio strategy
+- [Theory questions](interview/02-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions
+- [Coding problems](interview/03-coding.md) - coding round formats, DSA problems, ML implementation exercises
+- [Case study questions](interview/04-case-study.md) - hypothetical approach questions, methodology discussions
+- [AI system design](interview/05-ai-system-design.md) - system design for AI applications (work in progress)
+- [Home assignments](interview/06-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
+- [Behavioral questions](interview/07-behavioral.md) - values, leadership, problem-solving (work in progress)
+- [Skills that get you hired](interview/08-get-hired.md) - baseline expectations, differentiators, and portfolio strategy
+- [After the interview](interview/09-after-the-interview.md) - handling offers, rejections, and salary negotiation
+- [Interview trends](interview/10-trends.md) - realistic assessments, AI cheating, AI-proctored rounds, the "no AI tools" irony
 - [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
 
@@ -78,14 +82,14 @@ Curated collection of resources we compiled while researching content for this f
 - Community-contributed interview experiences
 
 
-## Event Series
+## [Webinars](webinars/)
 
-This field guide is part of a 4-part event series on AI engineering careers:
+A 4-part event series on AI engineering careers, hosted through [Maven](https://maven.com/) and [AI Shipping Labs](https://aishippinglabs.com/):
 
-1. [What Is an AI Engineer?](https://aishippinglabs.com/blog/what-is-an-ai-engineer-alexey-grigorev-perspective) - defining the role based on real experience (recording available)
-2. **The AI Engineer Role** - this field guide (you are here)
-3. [AI Engineering: The Interview Process](https://maven.com/p/69550a/ai-engineering-the-interview-process) - preparing for AI technical interviews with real hiring trends and live coding challenges (March 3, 2026)
-4. [AI Engineering: Take-Home Assignments](https://maven.com/p/250595/ai-engineering-take-home-assignments) - analyzing real AI hiring assignments and building a production-ready solution (March 9, 2026)
+1. [A Day of an AI Engineer](webinars/01-a-day-of-ai-engineer.md) - the practical reality of the role ([Maven](https://maven.com/p/bf6ef3/a-day-of-ai-engineer), [AI Shipping Labs](https://aishippinglabs.com/blog/what-is-an-ai-engineer-alexey-grigorev-perspective)) - recording available
+2. [Defining the AI Engineer Role](webinars/02-defining-the-role.md) - what companies actually hire for, based on 1,500+ job descriptions ([Maven](https://maven.com/p/f0cada/defining-the-ai-engineer-role)) - recording available
+3. [The Interview Process](webinars/03-the-interview-process.md) - real hiring trends, technical questions, and live coding challenges ([Maven](https://maven.com/p/69550a/ai-engineering-the-interview-process)) - March 3, 2026
+4. [Take-Home Assignments](webinars/04-take-home-assignments.md) - analyzing real assignments and building production-ready solutions ([Maven](https://maven.com/p/250595/ai-engineering-take-home-assignments)) - March 9, 2026
 
 Have questions? [Submit them here](https://app.sli.do/event/vJEZ6h5zbFRAzPfrANZxZd) - all questions will be covered during the events or afterwards.
 

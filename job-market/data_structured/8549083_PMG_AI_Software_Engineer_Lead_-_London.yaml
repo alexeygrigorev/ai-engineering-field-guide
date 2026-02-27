@@ -1,0 +1,54 @@
+company:
+  name: PMG
+  stage: Public
+  focus: Marketing services and technology
+position:
+  title: AI & Software Engineer Lead - London
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a backend software engineering lead
+      position focused on building and maintaining the Alli
+      platform's infrastructure and applications. While the role
+      mentions familiarity with AI technologies like OpenAI,
+      Bedrock, Vertex, and LangChain, the emphasis is on
+      integrating AI-driven solutions rather than directly
+      building, training, or fine-tuning models. The work is more
+      about enabling AI functionality through robust backend
+      systems and APIs.
+  responsibilities:
+  - Lead the design, development, and deployment of innovative, scalable features
+    within the Alli suite of AI-powered applications
+  - Draft and implement architectural designs to produce reliable, complex, and highly
+    scalable technical solutions
+  - Collaborate with Product Managers, Designers, and cross-functional teams to integrate
+    AI-driven solutions that improve performance and drive business outcomes
+  - Build scalable products that drive measurable results for clients in the digital
+    marketing space
+  - Foster a culture of collaboration and innovation by mentoring junior and mid-level
+    engineers and promoting development best practices
+  - Conduct code reviews and provide critical feedback to ensure high-quality, maintainable
+    code across the Alli platform
+  use_cases:
+  - Digital marketing campaign optimization and management
+  - AI-powered insights and data analytics for marketing performance
+  - Scalable cloud-based marketing technology platform operations
+  - Action-oriented marketing automation and execution
+  - Consumer engagement solutions reaching global audiences
+  skills:
+    genai: [OpenAI, AWS Bedrock, Google Vertex AI, LangChain, Large Language Models]
+    ml: []
+    web: [React, Django, Flask, Express.js, RESTful APIs, WebSocket]
+    databases: [PostgreSQL, MongoDB, Redis, MySQL, BigQuery, Snowflake, Redshift]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, Terraform, Ansible, Git, CI/CD, Grafana, Prometheus,
+      ELK Stack]
+    languages: [Python, Node.js, Go, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8549083'
+  extracted_at: '2026-02-27T13:22:40.161606'

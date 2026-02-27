@@ -1,0 +1,54 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water treatment and industrial solutions
+position:
+  title: Lead - AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on strategic leadership, business analysis,
+      and project management for AI initiatives rather than hands-
+      on model building. While it involves designing agentic AI
+      workflows and collaborating with AI engineers, the core
+      responsibilities are about bridging business stakeholders
+      with technical teams, managing teams, and defining
+      functional requirements rather than directly implementing or
+      fine-tuning models.
+  responsibilities:
+  - Define and drive the functional roadmap for agentic AI initiatives across business
+    domains
+  - Lead structured workshops to define process landscapes using design thinking and
+    process modeling
+  - Act as the owner for Agentic AI workflows, owning the backlog and delivery roadmap
+  - Architect end-to-end agentic workflows including data ingestion, match logic,
+    exception handling, and reconciliation
+  - Manage and mentor a team of engineers while overseeing project execution, timelines,
+    and resource allocation
+  - Collaborate with cross-functional teams including AI engineers, product managers,
+    enterprise architects, and business stakeholders
+  use_cases:
+  - Agentic AI workflow automation for enterprise business processes
+  - Cross-functional AI solution deployment across enterprise systems
+  - Process transformation and optimization through AI agent orchestration
+  - Enterprise-wide AI initiatives with measurable business impact
+  - Integration of AI capabilities with enterprise systems like SAP, Salesforce, and
+    UiPath
+  skills:
+    genai: [LLMs, Generative AI, Prompt engineering, Agentic AI, Copilot Studio]
+    ml: [ML lifecycle]
+    web: []
+    databases: [Snowflake, SAP HANA]
+    data: [Databricks]
+    cloud: [Microsoft Azure Functions, Logic Apps, Microsoft AI Foundry, Azure ML]
+    ops: [Azure DevOps]
+    languages: []
+    domains: []
+    other: [UiPath, Salesforce, Strategic planning, Business analysis, Stakeholder
+        management, Process modeling, Agile development, People leadership, Project
+        management]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7957210'
+  extracted_at: '2026-02-27T13:19:04.478007'

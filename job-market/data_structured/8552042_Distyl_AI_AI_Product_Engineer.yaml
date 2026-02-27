@@ -1,0 +1,54 @@
+company:
+  name: Distyl AI
+  stage: Series B
+  focus: |-
+    Production-grade AI systems for Fortune 500 operational
+    workflows
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is building user-facing applications, interfaces,
+      and workflows that sit on top of AI systems, not building or
+      deploying the AI/ML models themselves. The engineer works at
+      the product-engineering boundary, creating interfaces for
+      knowledge capture, feedback, and evaluation that enable
+      humans to interact with AI systems built by others (Forward
+      Deployed AI Engineers).
+  responsibilities:
+  - Own the design and implementation of user-facing applications that sit directly
+    on top of AI systems
+  - Build interfaces and workflows for knowledge capture, system configuration, evaluation,
+    and feedback
+  - Ensure human interactions with AI systems produce high-quality signal that measurably
+    improves system behavior over time
+  - Partner with AI Strategists to understand customer goals and translate them into
+    executable product designs
+  - Work across the full stack including front end, back end, and data to deliver
+    cohesive product experiences
+  - Iterate quickly in production using real user behavior and system outcomes to
+    refine product experiences
+  use_cases:
+  - Enterprise workflow automation powered by GenAI
+  - Knowledge capture and management systems
+  - AI system evaluation and feedback loops
+  - Human-AI collaboration interfaces
+  - Domain knowledge encoding for AI systems
+  - Configuration and management of AI-powered applications
+  skills:
+    genai: [LLMs, AI services integration]
+    ml: []
+    web: [React, API design, full-stack development]
+    databases: [data modeling]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8552042'
+  extracted_at: '2026-02-27T13:20:21.634860'

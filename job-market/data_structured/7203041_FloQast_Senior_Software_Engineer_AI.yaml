@@ -1,0 +1,55 @@
+company:
+  name: FloQast
+  stage: Series D
+  focus: AI-powered accounting workflow automation platform
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role as the engineer will architect and
+      build production AI products including chatbots, document
+      processing, and agentic workflows. The role involves direct
+      hands-on work with LLM APIs, RAG, conversational AI, and
+      model routing systems rather than supporting infrastructure
+      for others.
+  responsibilities:
+  - Architect and lead development of production AI products including intelligent
+    chatbots, document processing systems, and agentic workflows using Python and
+    modern AI frameworks
+  - Design and implement centralized AI platform including model routing, provider
+    management, vector search, and AI application frameworks with seamless MCP integrations
+  - Build scalable AI products that integrate with diverse technologies including
+    accounting systems, document repositories, and external APIs while maintaining
+    robust monitoring and observability
+  - Master context engineering and system design for AI applications, ensuring optimal
+    information retrieval, context assembly, and multi-turn conversation management
+  - Collaborate with Product, Engineering, and Security teams to ensure AI products
+    are robust, compliant, and aligned with business objectives in the regulated accounting
+    space
+  - Provide technical leadership and mentorship to the growing AI team, establishing
+    best practices for AI product development, deployment, and governance
+  use_cases:
+  - AI-powered accounting automation and workflow modernization
+  - Intelligent chatbots for accounting assistance and collaboration
+  - Document processing systems for accounting documents and financial data
+  - Agentic workflows for automating accounting tasks and processes
+  - AI accountant teammate for supporting accounting professionals
+  - Conversational AI interfaces for accounting workflow interactions
+  skills:
+    genai: [RAG, LLM APIs, conversational AI, MCP, context engineering, reranking
+        systems]
+    ml: [RLHF, multi-modal processing]
+    web: [API design]
+    databases: [vector search, semantic search]
+    data: [document processing]
+    cloud: [AWS]
+    ops: [embedding pipelines, AI observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7203041'
+  extracted_at: '2026-02-27T13:19:57.084138'

@@ -1,0 +1,54 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+position:
+  title: AI/ML Engineer - JAVA and Microservices and  AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, training, and
+      optimizing both traditional ML models and generative AI
+      models. Responsibilities include model development, fine-
+      tuning, prompt engineering, and inference optimization,
+      which directly involve working ON AI systems rather than
+      just supporting them.
+  responsibilities:
+  - Design, develop, train, and evaluate machine learning, deep learning, and generative
+    AI models to solve business problems
+  - Build and optimize GenAI solutions, including prompt engineering, fine-tuning,
+    model optimization, and inference performance improvements
+  - Run proof-of-concepts and experiments, baseline results, and compare models against
+    production or reference systems
+  - Prepare, clean, validate, and manage structured and unstructured data used for
+    training and inference
+  - Develop APIs and services (REST, FastAPI) to expose ML and GenAI capabilities
+    to applications
+  - Containerize and deploy AI services using Docker and cloud-native services
+  - Partner with data engineering and business teams to understand the problem space
+    and required datasets
+  - Ensure proper handling of sensitive data (PII/PHI) in accordance with governance
+    and compliance standards
+  use_cases:
+  - Healthcare outcome prediction and optimization
+  - Business problem solving using ML and deep learning techniques
+  - Classification, regression, and clustering for healthcare data analysis
+  - GenAI-powered applications for healthcare services
+  - Data-driven insights for health management and care delivery
+  skills:
+    genai: [Prompt engineering, Fine-tuning, RAG, Generative AI]
+    ml: [Machine learning, Deep learning, Classification, Regression, Clustering,
+      Dimensionality reduction, Feature engineering]
+    web: [REST, FastAPI, Microservices]
+    databases: []
+    data: [Databricks, PySpark]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, GitHub, Model optimization, Inference]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594811'
+  extracted_at: '2026-02-27T13:23:13.950478'

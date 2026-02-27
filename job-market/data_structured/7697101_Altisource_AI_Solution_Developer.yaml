@@ -1,0 +1,52 @@
+company:
+  name: Altisource
+  stage: Public
+  focus: |-
+    Integrated services and marketplace for real estate and
+    mortgage industries
+position:
+  title: AI Solution Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building LLM-powered
+      applications including conversational workflows, document
+      processing flows, and agent-style automations. The developer
+      directly works with LLM APIs, orchestration frameworks
+      (LangChain, Semantic Kernel), RAG patterns, and prompt
+      engineering/tuning, which qualifies as working directly ON
+      AI systems.
+  responsibilities:
+  - Build conversational workflows and document processing flows using LLM APIs
+  - Implement agent-style automations and orchestration frameworks like LangChain
+    and Semantic Kernel
+  - Design, evaluate, and tune prompts with QA feedback loops
+  - Work with vector databases and implement RAG patterns for AI solutions
+  - Develop Python and/or Java applications with API integration and async workflows
+  - Deploy AI features through CI/CD pipelines and cloud services
+  - Build and validate PDF/file extraction flows
+  - Debug LLM behavior and iterate quickly in sprints
+  use_cases:
+  - Conversational AI workflows for enterprise processes
+  - Document processing and PDF extraction automation
+  - Agent-style automations for business operations
+  - RAG-powered enterprise search and information retrieval
+  - AI-powered process automation in real estate and mortgage domains
+  skills:
+    genai: [Azure OpenAI, Bedrock, Anthropic, conversational workflows, document processing
+        flows, agent-style automations, RAG patterns, prompt design, prompt evaluation,
+      LLM APIs, LangChain, Semantic Kernel]
+    ml: []
+    web: [API integration, async workflows]
+    databases: [vector databases]
+    data: [PDF/file extraction]
+    cloud: [cloud services]
+    ops: [CI/CD]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7697101'
+  extracted_at: '2026-02-27T13:17:48.129044'

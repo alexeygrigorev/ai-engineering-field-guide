@@ -1,0 +1,55 @@
+company:
+  name: Fortive
+  stage: Public
+  focus: |-
+    Cloud-based service automation platform for facilities
+    management
+position:
+  title: Senior AI/ML Developer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML frameworks (TensorFlow,
+      PyTorch, Scikit-learn) and building ML pipelines for
+      training and deployment. While the job title mentions
+      "AI/ML," there's no mention of LLMs, RAG, agents, or other
+      GenAI technologies - the work is centered on
+      supervised/unsupervised learning, feature engineering, and
+      MLOps practices.
+  responsibilities:
+  - Build and automate robust, scalable ML pipelines for training, validation, deployment,
+    and monitoring in production environments
+  - Collaborate with data scientists, engineers, and product managers to understand
+    business requirements and translate them into ML solutions
+  - Analyze and process large-scale datasets to develop efficient ML models and drive
+    actionable insights
+  - Own the end-to-end ML model lifecycle, including versioning, deployment, performance
+    monitoring, recalibration, troubleshooting, and retraining
+  - Develop and manage CI/CD pipelines for ML workflows, including automated testing,
+    containerization, and model registry integration
+  - Implement and manage scalable ML infrastructure for data processing, training,
+    and inference in collaboration with DevOps and engineering teams
+  - Continuously improve engineering practices, code quality, and automation, while
+    staying up to date with the latest trends in AI, ML, and MLOps
+  use_cases:
+  - Repair and maintenance service automation for facilities management
+  - Predictive maintenance for industrial and commercial facilities
+  - Large-scale data analysis for actionable business insights
+  - ML model deployment for facilities management operations
+  - IoT and AI-driven innovation for facilities operations
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: []
+    ops: [MLflow, CI/CD, GitHub]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8242651'
+  extracted_at: '2026-02-27T13:20:47.291201'

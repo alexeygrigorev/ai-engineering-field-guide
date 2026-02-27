@@ -1,0 +1,52 @@
+company:
+  name: Greif, Inc.
+  stage: Public
+  focus: Global industrial packaging solutions and products
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      GenAI agents and agentic AI solutions from concept to
+      production using Azure AI Foundry, Azure OpenAI, and Copilot
+      Studio. The engineer builds, integrates, and scales AI
+      agents to automate business processes, which is direct work
+      on AI systems rather than supporting infrastructure.
+  responsibilities:
+  - Focus on designing and developing proof of concepts (PoCs) and demonstrating the
+    solution to internal customers on a tight schedule
+  - Utilize GenAI no code, low code, and SDKs to build robust GenAI agents that automate
+    business processes to build PoC
+  - Take GenAI and Agentic AI solutions from concept to Proof-of-Value (PoV) and work
+    with other team members to scale the PoV to production
+  - Develop documentation for each development, including testing and validation procedures/plans
+  - Embed/integrate GenAI agents (Copilot agents) into business platforms such as
+    Workday, Teams, etc.
+  - Work on small to medium-sized projects with minimal supervision and apply Agile
+    methodology to ensure efficient project delivery
+  - Support the AI CoE in its user engagement and AI Toolkit adoption mission
+  use_cases:
+  - Automate business processes using GenAI agents
+  - Integrate AI agents into enterprise business platforms like Workday and Microsoft
+    Teams
+  - Build proof of concepts and proof of value solutions for internal customers
+  - Scale successful PoVs into production environments
+  - Support user engagement and AI toolkit adoption across the organization
+  skills:
+    genai: [ChatGPT, GenAI agents, Agentic AI, MCP servers]
+    ml: []
+    web: [SharePoint]
+    databases: [Snowflake, Azure Fabric (One Lake), PostgreSQL]
+    data: []
+    cloud: [Azure AI Foundry, Azure OpenAI, Copilot Studio, Power Platform, Power
+        Automate]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile methodology, No code/low code development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8329507'
+  extracted_at: '2026-02-27T13:21:51.018669'

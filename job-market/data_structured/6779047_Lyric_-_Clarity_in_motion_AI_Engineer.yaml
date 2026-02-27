@@ -1,0 +1,52 @@
+company:
+  name: Lyric - Clarity in motion.
+  stage: Public
+  focus: AI-based healthcare pre-payment accuracy platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is hands-on AI engineering work building RAG systems,
+      LLM-based solutions, agentic systems, and embedding models.
+      The role specifically focuses on building and optimizing ML
+      models and verifiable ML systems for production, not
+      supporting AI work.
+  responsibilities:
+  - Design and optimize systems capable of processing large volumes of data in both
+    batch and real-time
+  - Design, implement, and optimize retrieval-augmented generation (RAG) systems that
+    leverage the latest LLM technologies
+  - Develop and refine embedding models, vector databases, and retrieval mechanisms
+    that maximize search relevance
+  - Create robust evaluation frameworks to measure quality and improve LLM-based solutions
+    based on user feedback
+  - Build and optimize machine learning models and verifiable ML systems for medical
+    and insurance data analysis
+  - Build and optimize production-ready systems that are scalable and can handle large
+    amounts of data
+  - Build and optimize agentic systems that can reason and make decisions
+  - Develop machine learning models in healthcare and insurance settings with the
+    highest standards for safety and quality
+  use_cases:
+  - Pre-payment accuracy and integrity in healthcare insurance claims
+  - Search and analysis of complex medical and insurance data
+  - Preventing inaccurate payments and reducing waste in healthcare ecosystem
+  - Clinical policy analysis and medical coding verification
+  - Healthcare claim processing and validation
+  skills:
+    genai: [RAG, LLM technologies, Agentic systems]
+    ml: [Embedding models, Machine learning]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Kubeflow, CI/CD pipelines, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6779047'
+  extracted_at: '2026-02-27T13:21:13.837925'

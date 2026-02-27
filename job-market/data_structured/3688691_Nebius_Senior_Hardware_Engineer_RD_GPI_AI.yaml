@@ -1,0 +1,53 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: AI cloud infrastructure and GPU-based computing
+position:
+  title: Senior Hardware Engineer (R&D / GPI / AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a hardware engineering role focused on GPU server
+      infrastructure and high-performance cloud systems for AI
+      workloads. The role involves deploying, maintaining,
+      troubleshooting, and benchmarking hardware systems (GPUs,
+      InfiniBand, NVLink, PCIe) but does not involve building,
+      training, fine-tuning, or deploying AI models or ML
+      algorithms. The position supports AI workloads by optimizing
+      the underlying hardware infrastructure that enables others
+      to run AI/ML systems.
+  responsibilities:
+  - Participate in the design, deployment, and maintenance of high-performance cloud
+    systems tailored for AI workloads
+  - Arrange and perform hardware R&D tests and experiments on site in data center
+  - Troubleshoot and resolve complex system issues related to GPUs, networking (InfiniBand,
+    NVLink), PCIe, and server infrastructure
+  - Conduct deep investigations into hardware, software, and networking problems to
+    ensure optimal system performance and reliability
+  - Participate in development of tests and test methodologies for advanced GPU, InfiniBand,
+    and Compute systems to benchmark and validate performance
+  - Collaborate with cross-functional teams to improve system performance and reliability
+  - Monitor system performance and continuously fine-tune configurations for maximum
+    efficiency
+  use_cases:
+  - High-performance GPU-based cloud infrastructure for AI workloads
+  - AI/ML model training and inference on optimized server hardware
+  - High-performance computing systems with GPU clusters
+  - Cloud-based AI infrastructure reducing infrastructure costs for customers
+  skills:
+    genai: []
+    ml: [GPUs]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [InfiniBand, NVLink, PCIe, Linux, server architecture, networking, Linux
+        kernel, root cause analysis]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3688691'
+  extracted_at: '2026-02-27T13:23:03.639387'
