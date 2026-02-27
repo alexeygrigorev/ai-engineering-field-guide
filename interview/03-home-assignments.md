@@ -2,7 +2,7 @@
 
 Analysis of take-home assignments, paid work trials, and asynchronous assessments extracted from 1,765 AI/ML engineering job descriptions.
 
-See also: [Interview Process Report](interview-process.md) for the full interview process analysis including company-by-company breakdowns, common patterns, and notable practices.
+See also: [Interview Process Report](01-interview-process.md) for the full interview process analysis including company-by-company breakdowns, common patterns, and notable practices.
 
 ## Overview
 

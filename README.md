@@ -62,9 +62,9 @@ Key findings
 
 Based on analysis of 1,765 job descriptions, 51 companies with disclosed interview processes.
 
-- [Interview process analysis](interview/interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
-- [Home assignments](interview/home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
-- [Interview questions](interview/interview-questions.md) - technical and behavioral questions (work in progress)
+- [Interview process analysis](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
+- [Home assignments](interview/03-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
+- [Interview questions](interview/02-interview-questions.md) - technical and behavioral questions (work in progress)
 - [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
 ## Coming Soon
