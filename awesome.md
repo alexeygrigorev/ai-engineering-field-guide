@@ -193,6 +193,15 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Ask HN: How do you conduct technical interviews in the LLM era?](https://news.ycombinator.com/item?id=42268158) - shifting to code review of AI-generated solutions
 - [Ask HN: Are leetcode interviews going away?](https://news.ycombinator.com/item?id=44878265) - debate on LeetCode relevance
 
+## Communities
+
+- [AI Shipping Labs](https://aishippinglabs.com/) - invite-only community for builders who ship AI projects, structured learning and peer collaboration
+- [DataTalks.Club](https://datatalks.club/) - community of 80,000+ data enthusiasts, free courses (ML Zoomcamp, LLM Zoomcamp), weekly events
+- [MLOps Community](https://mlops.community/) - ML/LLM Ops, AI engineering, agents, and production AI systems
+- [Hugging Face Discord](https://huggingface.co/discord-community) - 200,000+ members, open-source ML collaboration, paper discussions, project sharing
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Reddit's main ML community, paper discussions, industry news
+- [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community focused on running and fine-tuning open-source LLMs locally
+
 ## Interview Question Collections
 
 - [KDnuggets: 10 Essential Agentic AI Interview Questions](https://www.kdnuggets.com/10-essential-agentic-ai-interview-questions-for-ai-engineers)
