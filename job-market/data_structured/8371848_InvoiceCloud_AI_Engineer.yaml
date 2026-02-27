@@ -1,0 +1,55 @@
+company:
+  name: InvoiceCloud
+  stage: Series B
+  focus: Fintech electronic payment solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      deploying AI, ML, and LLM-based applications into
+      production. The engineer works directly with GenAI
+      frameworks, RAG systems, vector databases, and model
+      inference optimization, indicating they are building and
+      deploying AI systems rather than just supporting them.
+  responsibilities:
+  - Design, build, and optimize AI- and ML-powered capabilities that increase intelligence
+    and automation across the InvoiceCloud platform
+  - Deliver production-grade AI features and improve modern AI architecture while
+    advancing experimentation, deployment, and performance of AI systems at scale
+  - Build and maintain secure, reliable AI pipelines, APIs, and monitoring capabilities
+  - Troubleshoot and resolve model performance, inference, and deployment issues in
+    production environments
+  - Improve model accuracy, scalability, latency, and operational performance through
+    disciplined optimization
+  - Design reusable AI components, services, and frameworks that accelerate development
+    and reduce rework
+  - Implement and refine MLOps workflows to streamline experimentation, testing, and
+    deployment
+  - Experiment with GenAI and LLM frameworks such as LangChain, Semantic Kernel, and
+    Azure OpenAI
+  use_cases:
+  - Automated invoice processing and payment intelligence
+  - Enhanced user experience through AI-powered platform capabilities
+  - Operational efficiency improvements through intelligent automation
+  - Responsible AI applications for financial services
+  - Vector-based information retrieval and knowledge management
+  - Compliance-aligned AI features for fintech operations
+  skills:
+    genai: [LangChain, Semantic Kernel, Azure OpenAI, RAG, vector search, prompt engineering,
+      model evaluation]
+    ml: []
+    web: [FastAPI]
+    databases: [vector databases]
+    data: [AI pipelines]
+    cloud: []
+    ops: [inference optimization, observability, MLOps]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8371848'
+  extracted_at: '2026-02-27T13:14:18.718884'

@@ -28,11 +28,12 @@ It's a work in progress, and I'm actively adding more content. Your input is ver
 
 ## Interview Preparation
 
-- [Interview process analysis](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
-- [Home assignments](interview/03-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
-- [Interview questions](interview/02-interview-questions.md) - technical and behavioral questions (work in progress)
-- [Skills that get you hired](interview/04-skills-that-get-you-hired.md) - baseline expectations, differentiators, and portfolio strategy
-- [AI system design](interview/05-ai-system-design.md) - system design for AI applications (work in progress)
+- [Interview process](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
+- [Technical questions](interview/02-technical-questions.md) - LLMs, RAG, ML fundamentals (work in progress)
+- [Behavioral questions](interview/03-behavioral-questions.md) - values, leadership, problem-solving (work in progress)
+- [AI system design](interview/04-ai-system-design.md) - system design for AI applications (work in progress)
+- [Home assignments](interview/05-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
+- [Skills that get you hired](interview/06-skills-that-get-you-hired.md) - baseline expectations, differentiators, and portfolio strategy
 - [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
 

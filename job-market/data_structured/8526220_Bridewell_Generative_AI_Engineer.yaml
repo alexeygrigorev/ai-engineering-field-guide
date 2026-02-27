@@ -1,0 +1,43 @@
+company:
+  name: Bridewell
+  stage: null
+  focus: Cyber security services and solutions
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with generative AI
+      models including fine-tuning, prompt engineering, and
+      deploying AI solutions. The engineer will work with LLMs,
+      LangChain/LangGraph frameworks, and build prototypes of AI
+      systems.
+  responsibilities:
+  - Design, develop, and fine-tune generative AI models
+  - Create and optimize prompts for large language models
+  - Prototype and deliver proof-of-concept solutions
+  - Document requirements and maintain clear technical specifications
+  - Collaborate with other team members and cybersecurity specialists
+  - Ensure security and privacy controls are applied to AI systems
+  use_cases:
+  - Generative AI model development for cybersecurity applications
+  - Prompt engineering and optimization for LLM-based systems
+  - Secure AI system deployment with privacy controls
+  - Process automation using AI frameworks in security contexts
+  - Prototype AI solutions for critical business functions
+  skills:
+    genai: [Generative AI architectures, Prompt engineering, LangChain, LangGraph]
+    ml: [TensorFlow, PyTorch, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8526220'
+  extracted_at: '2026-02-27T13:13:55.316579'

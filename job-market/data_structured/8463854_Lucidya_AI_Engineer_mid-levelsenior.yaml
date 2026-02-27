@@ -1,0 +1,53 @@
+company:
+  name: Lucidya
+  stage: Growth stage (fast-growing SaaS)
+  focus: |-
+    AI-powered customer experience solutions and AI agent
+    platforms for enterprises
+position:
+  title: AI Engineer (mid-level/senior)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building, deploying, and optimizing AI
+      agents and AI-driven systems for enterprise customers. The
+      engineer works directly with AI models (machine learning,
+      deep learning, OpenAI SDK, TensorFlow) and takes AI from
+      concept to production, including AI agent evaluation,
+      guardrails, and deployment. This is ai-first work - building
+      and deploying AI solutions, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and optimize AI Agents that solve real business problems
+  - Build evaluation systems for AI Agent performance and ensure agents work as expected
+  - Deploy AI models into production environments with focus on scalability, performance,
+    and reliability
+  - Collaborate on MLOps practices for continuous integration, monitoring, and improvement
+  - Work closely with software engineers, product managers, and domain experts to
+    translate business problems into AI solutions
+  - Ensure AI solutions comply with ethical standards, data privacy requirements,
+    and legal regulations
+  - Document models, algorithms, workflows, and decisions clearly for internal and
+    external stakeholders
+  use_cases:
+  - AI agents for customer experience automation and support
+  - Enterprise customer engagement solutions at scale
+  - Conversational AI and agent-based systems for business problem solving
+  - Multilingual and Arabic-first AI customer interactions
+  - Responsible and compliant AI deployments for enterprise CX
+  skills:
+    genai: [OpenAI SDK, AI agents, AI guardrails]
+    ml: [TensorFlow, Machine learning, Deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [AI evaluation, MLOps]
+    languages: [Python, Java]
+    domains: [NLP, Conversational AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8463854'
+  extracted_at: '2026-02-27T13:16:00.131763'

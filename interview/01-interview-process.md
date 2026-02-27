@@ -29,7 +29,7 @@ Take-home challenges
 - 33% use take-home assignments
 - 5 companies (10%) use paid work trials
 
-See the dedicated [Home Assignments Report](03-home-assignments.md) for full analysis.
+See the dedicated [Home Assignments Report](05-home-assignments.md) for full analysis.
 
 
 ## AI Use in Hiring
@@ -103,4 +103,4 @@ Several companies publish formal policies on AI use during their hiring process:
 
 ## AI System Design Interviews
 
-AI-specific interview rounds are emerging - Doctolib has a dedicated "AI System Design Interview." Sprinter Health has "AI-Focused Systems Design." See [AI System Design](05-ai-system-design.md) for more.
+AI-specific interview rounds are emerging - Doctolib has a dedicated "AI System Design Interview." Sprinter Health has "AI-Focused Systems Design." See [AI System Design](04-ai-system-design.md) for more.

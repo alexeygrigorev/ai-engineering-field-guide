@@ -68,7 +68,7 @@ Real challenges people report:
 
 ## Skills That Get You Hired
 
-See [Skills That Actually Get You Hired](../interview/04-skills-that-get-you-hired.md) for the full breakdown: baseline expectations, differentiators, the "top 1%" candidate profile, and portfolio strategy.
+See [Skills That Actually Get You Hired](../interview/06-skills-that-get-you-hired.md) for the full breakdown: baseline expectations, differentiators, the "top 1%" candidate profile, and portfolio strategy.
 
 
 ## Jobs vs. Reality Gap

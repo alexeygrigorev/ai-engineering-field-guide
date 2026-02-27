@@ -1,0 +1,49 @@
+company:
+  name: Skild AI
+  stage: null
+  focus: General purpose robotic intelligence
+position:
+  title: Software Engineer, AI Training and Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure, training
+      pipelines, and tooling to support ML model training rather
+      than directly building or training models. The engineer
+      works collaboratively with researchers and ML engineers to
+      enable their work through scalable systems, data
+      preprocessing, and training orchestration, which aligns with
+      ai-support classification.
+  responsibilities:
+  - Develop and maintain robust, scalable, and distributed training pipelines and
+    frameworks for large-scale AI models
+  - Optimize training processes for performance and resource utilization, ensuring
+    scalability and reliability
+  - Collaborate with researchers and machine learning engineers to integrate state-of-the-art
+    algorithms and techniques into training pipelines
+  - Monitor and analyze training, identifying bottlenecks and proposing solutions
+    to improve efficiency and performance
+  - Ensure the robustness and reliability of the training infrastructure, including
+    automated testing and continuous integration
+  use_cases:
+  - Training general purpose robotic intelligence models
+  - Large-scale distributed AI model training
+  - Data preprocessing and training orchestration for robotics applications
+  - Scalable ML infrastructure for real-world robotics deployment
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX]
+    web: []
+    databases: []
+    data: [data preprocessing, large-scale datasets]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [distributed computing, parallel processing, continuous integration, automated
+        testing]
+    languages: [Python, C++]
+    domains: []
+    other: [software engineering principles]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3796225'
+  extracted_at: '2026-02-27T13:13:40.837294'

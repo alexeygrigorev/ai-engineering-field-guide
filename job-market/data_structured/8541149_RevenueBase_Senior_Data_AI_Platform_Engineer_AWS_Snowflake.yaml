@@ -1,0 +1,53 @@
+company:
+  name: RevenueBase
+  stage: null
+  focus: Data infrastructure for trustworthy AI agents and B2B data
+position:
+  title: Senior Data & AI Platform Engineer (AWS, Snowflake, Vector Search)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of vector
+      embeddings, LLM API integration, semantic search systems,
+      and RAG workflows. The engineer builds, deploys, and
+      optimizes production AI systems including embedding
+      generation pipelines and similarity-based retrieval - direct
+      work on AI/ML systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and build data-driven tools operating on large datasets stored in S3 and
+    Snowflake
+  - Implement embedding generation pipelines using LLM APIs like OpenAI and store
+    in vector databases like Pinecone
+  - Develop enrichment workflows using LLM APIs to generate derived columns and write
+    results back to Snowflake
+  - Build reusable internal services and SDKs for embedding generation, prompt orchestration,
+    and data augmentation
+  - Optimize performance and cost across AWS infrastructure for AI-powered systems
+  - Ensure reliability, observability, and maintainability of AI-powered pipelines
+    and services
+  use_cases:
+  - Semantic search and similarity-based retrieval on B2B data
+  - AI-powered data enrichment using LLMs to generate new insights from structured
+    data
+  - Enterprise data platform enabling autonomous AI agents to access trustworthy B2B
+    data
+  - Internal tools and frameworks for LLM-based data transformation and validation
+  - Query abstraction layer making AI-enhanced analytics accessible to non-engineering
+    teams
+  skills:
+    genai: [OpenAI API, vector embeddings, semantic search, RAG, prompt engineering]
+    ml: []
+    web: [API design]
+    databases: [Snowflake, Pinecone]
+    data: [ETL/ELT, Airflow, Prefect, Dagster]
+    cloud: [AWS, IAM, Lambda, S3]
+    ops: [ECS/EKS, Terraform, CDK]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8541149'
+  extracted_at: '2026-02-27T13:15:50.866977'

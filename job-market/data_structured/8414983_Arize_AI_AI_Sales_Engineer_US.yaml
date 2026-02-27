@@ -1,0 +1,48 @@
+company:
+  name: Arize AI
+  stage: Series C
+  focus: AI & Agent Engineering observability and evaluation platform
+position:
+  title: AI Sales Engineer, (US)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role focused on demonstrating and
+      selling an AI observability platform. The role involves
+      customer-facing activities like product demos, technical
+      sales support, and POC development, but does NOT involve
+      building, training, fine-tuning, or deploying AI/ML models.
+      The work is about enabling AI work for customers through
+      monitoring and evaluation tools, making it ai-support.
+  responsibilities:
+  - Build relationships with technical stakeholders and serve as a trusted advisor
+  - Lead product demonstrations of the Arize platform throughout the sales process
+  - Lead discovery to understand prospect ML stack and construct compelling value
+    propositions
+  - Handle technical objections and develop strategies with sales, engineering, and
+    product teams
+  - Write educational blog posts about ML and MLOps related topics
+  - Create and enhance documentation, video assets, and enablement materials for AI/ML
+    deployments
+  use_cases:
+  - AI observability and monitoring for production ML systems
+  - Agent evaluation and performance tracking
+  - AI system troubleshooting and optimization
+  - ML workflow testing from prototype to production
+  - Enterprise AI reliability and quality assurance
+  skills:
+    genai: []
+    ml: [scikit-learn, HuggingFace, fastai]
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: [GCP, AWS, Azure]
+    ops: [Linux/Unix, MLOps, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8414983'
+  extracted_at: '2026-02-27T13:16:23.733102'

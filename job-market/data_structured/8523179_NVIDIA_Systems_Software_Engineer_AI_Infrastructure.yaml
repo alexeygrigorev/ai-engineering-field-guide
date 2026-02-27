@@ -1,0 +1,50 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware
+position:
+  title: Systems Software Engineer, AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Systems Software Engineer role focused on AI
+      infrastructure and SRE fundamentals. The role builds
+      tooling, frameworks, and observability systems that support
+      AI training workflows, but does not involve building,
+      training, or deploying ML models directly. It enables AI
+      work through infrastructure and platform support rather than
+      hands-on model development.
+  responsibilities:
+  - Develop and maintain large-scale systems supporting frontier model training for
+    AI Infrastructure across global public and private clouds
+  - Collaborate on tooling for HPC, GPU Training, and AI Model training workflows
+  - Build tools and frameworks to improve observability, define actionable reliability
+    metrics, and enable fast issue resolution
+  - Establish frameworks for operational maturity, lead sustainable incident response
+    protocols, and conduct blameless postmortems
+  - Implement SRE fundamentals including incident management, monitoring, and performance
+    optimization with automation tools
+  - Work with engineering teams to deliver innovative solutions, uphold high standards
+    for code and infrastructure, and contribute to hiring
+  use_cases:
+  - Frontier model training infrastructure at scale
+  - HPC and GPU training workflow support
+  - AI model training observability and reliability monitoring
+  - Distributed systems operations with high availability requirements
+  - Cloud-based AI infrastructure management across multiple providers
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: [AWS, Azure, GCP, OCI]
+    ops: [Linux, Windows, SRE, SLOs, SLAs, Terraform CDK, ELK, Prometheus, Loki, GitLab]
+    languages: [Python, C++, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8523179'
+  extracted_at: '2026-02-27T13:13:34.623132'

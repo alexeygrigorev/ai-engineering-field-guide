@@ -1,0 +1,49 @@
+company:
+  name: RhythmX AI
+  stage: Early-stage / New launch (Series A equivalent)
+  focus: Generative AI-native healthcare precision care platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing AI/LLM systems directly. Responsibilities include
+      designing advanced AI algorithms, working with generative AI
+      and LLMs, integrating models into production, and employing
+      model compression and acceleration techniques.
+  responsibilities:
+  - Design, develop, and deploy advanced AI algorithms and models including machine
+    learning, deep learning, and NLP techniques for healthcare applications
+  - Collaborate with data scientists and engineers to preprocess, analyze, and interpret
+    large structured and unstructured datasets
+  - Work with software development teams to integrate AI models into SaaS platforms
+    ensuring scalability and performance in production
+  - Stay current with generative AI and LLM advancements to enhance existing products
+    and develop new solutions
+  - Optimize AI algorithms for efficiency using model compression, acceleration, and
+    parallelization techniques
+  - Provide mentorship and guidance to junior team members fostering a culture of
+    learning and innovation
+  use_cases:
+  - Hyper-personalized precision care platform for physicians
+  - Generative and predictive AI-powered copilots for whole-person care
+  - Healthcare decision support systems leveraging longitudinal patient data
+  - Clinical documentation and EHR integration solutions
+  - Real-world data analytics for life sciences and healthcare
+  skills:
+    genai: [Generative AI, Large Language Models, LangChain, LlamaIndex, LLaMA]
+    ml: [Machine Learning, Deep Learning, NLP, Statistical Modeling]
+    web: []
+    databases: [SQL, NoSQL, Vector Databases]
+    data: []
+    cloud: [Microsoft Azure, Azure AI Services]
+    ops: [Git, CI/CD, DevOps, RAGAS, Opik]
+    languages: [Python]
+    domains: [EHR Systems, FHIR, HL7]
+    other: [Data Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7757851'
+  extracted_at: '2026-02-27T13:15:06.556720'

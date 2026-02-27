@@ -1,0 +1,47 @@
+company:
+  name: Multiverse
+  stage: Series D
+  focus: AI and tech upskilling platform for workforce training
+position:
+  title: AI Solutions Engineer (Staff)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying autonomous agent-
+      based solutions, RAG pipelines, embeddings, MCPs, and
+      agentic workflows. This is hands-on work directly on AI/ML
+      systems including architecture, implementation, and
+      deployment to production.
+  responsibilities:
+  - Build and maintain autonomous agent-based solutions that generate real impact
+    for internal teams and enable better customer service
+  - Design, architect and deliver AI solutions by partnering with technical and business
+    teams
+  - Own the end-to-end lifecycle from design through experimentation, deployment,
+    user adoption, impact measurement and continuous iteration
+  - Act as a technical leader, coaching engineers, establishing best practices, and
+    offering technical guidance
+  - Collaborate cross-functionally to ensure solutions meet user requirements, deliver
+    impact across the organisation, and align with other engineering squads
+  use_cases:
+  - Internal agentic ecosystem to support business operations
+  - RAG pipelines for information retrieval and knowledge management
+  - Autonomous agents to enhance internal team productivity
+  - AI-driven systems for improving customer service delivery
+  - AI solutions for workforce transformation and upskilling
+  skills:
+    genai: [RAG, embeddings, MCPs, agentic workflows, autonomous agents]
+    ml: []
+    web: [APIs, microservices]
+    databases: []
+    data: []
+    cloud: [AWS, cloud-native applications]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8518591'
+  extracted_at: '2026-02-27T13:14:26.049054'

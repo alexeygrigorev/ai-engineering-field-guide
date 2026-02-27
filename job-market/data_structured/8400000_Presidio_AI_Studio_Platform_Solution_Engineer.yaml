@@ -1,0 +1,46 @@
+company:
+  name: Presidio
+  stage: Public
+  focus: |-
+    IT solutions, AI-driven analytics, cloud computing,
+    cybersecurity
+position:
+  title: AI Studio Platform / Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on work building AI agents and
+      copilots, integrating LLMs with enterprise systems, and
+      deploying PoCs to production. The engineer directly designs
+      and implements agentic AI solutions using LLMs, vector
+      databases, and orchestration frameworks.
+  responsibilities:
+  - Partner with business stakeholders to identify, shape, and prioritize AI use cases
+  - Translate business problems into AI-ready requirements and success metrics
+  - Educate stakeholders on what is feasible with agents/LLMs vs what is not
+  - Design and build AI agents and copilots across multiple platforms
+  - Integrate LLMs with enterprise systems and data
+  - Deliver PoCs and scale to production with governance in mind
+  use_cases:
+  - AI agents and copilots for business workflow automation
+  - Enterprise system integration with LLM-powered solutions
+  - Agentic AI design for cross-platform deployment
+  - Business process transformation through AI use cases
+  - Copilot Studio and Salesforce Agent Framework implementations
+  skills:
+    genai: [Agentic AI design, Prompt engineering, Orchestration, Copilot Studio,
+      Salesforce Agent Framework, AI Studio, LLM APIs]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, AWS]
+    ops: []
+    languages: [TypeScript, Python, JavaScript, Apex, C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8400000'
+  extracted_at: '2026-02-27T13:13:49.378277'
