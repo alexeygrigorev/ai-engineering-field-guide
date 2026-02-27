@@ -12,7 +12,6 @@ Analysis of 1,765 AI/ML engineering job descriptions to extract and summarize hi
 
 Only ~4.5% of job descriptions include a structured interview process. The vast majority either omit the process entirely or mention "interview" only in boilerplate (accommodations, EEO statements, etc.).
 
----
 
 ## Common Interview Patterns
 
@@ -50,13 +49,11 @@ Median: 4 steps. Most common: 3-5 steps.
 | 5-8 hours | Mutiny (~5.5h), Stacks, Northbeam (5-8h), Roboflow (6+h), Poggio Labs, Column Tax (~7.5h), Monzo Bank, Pattern |
 | 1+ day | PostHog (SuperDay), Lorikeet (2-day trial), Infinity Constellation (1-week trial), Fifth Dimension (1-week paid trial option) |
 
----
 
 ## Home Assignments
 
-See the dedicated **[Home Assignments Report](home-assignments.md)** for the full analysis of all 17 take-home assignments and 5 paid work trials, including detailed descriptions, summary tables, and key observations.
+See the dedicated [Home Assignments Report](home-assignments.md) for the full analysis of all 17 take-home assignments and 5 paid work trials, including detailed descriptions, summary tables, and key observations.
 
----
 
 ## Company-by-Company Breakdown
 
@@ -116,7 +113,6 @@ Individual interview process descriptions for each company. Each file links to t
 | 50 | [Prudential plc](data/50_8561275.md) | Senior AI Engineer |
 | 51 | [Nearform (UK)](data/51_8492964.md) | Senior AI Python Software Engineer |
 
----
 
 ## Notable & Unique Practices
 
@@ -235,31 +231,30 @@ Several companies explicitly reject abstract coding puzzles:
 - Sprinter Health - "Aim to complete between 2-3 weeks"
 - RelationalAI - "We move quickly"
 
----
 
 ## Key Takeaways
 
-1. **Very few AI/ML job postings disclose the interview process** - only ~4.5% of 1,765 JDs include structured interview steps. This remains a significant transparency gap.
+1. Very few AI/ML job postings disclose the interview process - only ~4.5% of 1,765 JDs include structured interview steps. This remains a significant transparency gap.
 
-2. **4 steps is the sweet spot** - the most common processes have 3-5 stages, typically: recruiter screen -> technical assessment -> hiring manager -> team/culture round.
+2. 4 steps is the sweet spot - the most common processes have 3-5 stages, typically: recruiter screen -> technical assessment -> hiring manager -> team/culture round.
 
-3. **Take-homes are popular** - 33% of companies with disclosed processes use a take-home challenge. Choice-based formats are emerging: Monzo Bank offers take-home vs pair coding, Qonto offers remote vs live exercise. Some explicitly welcome AI tool usage (FlowFuse), while others ban it in live interviews (Wolters Kluwer, Marvell).
+3. Take-homes are popular - 33% of companies with disclosed processes use a take-home challenge. Choice-based formats are emerging: Monzo Bank offers take-home vs pair coding, Qonto offers remote vs live exercise. Some explicitly welcome AI tool usage (FlowFuse), while others ban it in live interviews (Wolters Kluwer, Marvell).
 
-4. **Paid work trials are growing** - PostHog (SuperDay), Lorikeet (2-day trial), Infinity Constellation (paid week), and Fifth Dimension (paid week alternative) represent a trend toward compensating candidates for evaluation time.
+4. Paid work trials are growing - PostHog (SuperDay), Lorikeet (2-day trial), Infinity Constellation (paid week), and Fifth Dimension (paid week alternative) represent a trend toward compensating candidates for evaluation time.
 
-5. **CEO/founder involvement is common at startups** - 24% of companies include a founder or CEO interview, almost always as the final step.
+5. CEO/founder involvement is common at startups - 24% of companies include a founder or CEO interview, almost always as the final step.
 
-6. **AI's role in hiring has exploded** - The landscape has become much more complex:
-   - **20+ companies** now disclose using AI in their own screening/hiring (up from 6). Coinbase uses AI to *conduct* initial screening interviews. Deel uses deepfake detection on candidates.
-   - **6 companies** explicitly ban candidates from using AI during interviews (Wolters Kluwer, HRT, Marvell, Illumina, Wells Fargo, Datadog).
-   - **11 companies** encourage or evaluate AI fluency: Miro and TRM Labs evaluate AI tool mastery as a hiring criterion, Toku considers AI-native development a "non-negotiable."
-   - **The Wolters Kluwer paradox**: multiple AI engineering roles require AI coding tool proficiency (GitHub Copilot, AI agents) as mandatory skills, yet the company bans all AI during interviews.
-   - **1 company** (Viral Nation) explicitly states they do NOT use AI in their recruitment process.
+6. AI's role in hiring has exploded - The landscape has become much more complex:
+   - 20+ companies now disclose using AI in their own screening/hiring (up from 6). Coinbase uses AI to *conduct* initial screening interviews. Deel uses deepfake detection on candidates.
+   - 6 companies explicitly ban candidates from using AI during interviews (Wolters Kluwer, HRT, Marvell, Illumina, Wells Fargo, Datadog).
+   - 11 companies encourage or evaluate AI fluency: Miro and TRM Labs evaluate AI tool mastery as a hiring criterion, Toku considers AI-native development a "non-negotiable."
+   - The Wolters Kluwer paradox: multiple AI engineering roles require AI coding tool proficiency (GitHub Copilot, AI agents) as mandatory skills, yet the company bans all AI during interviews.
+   - 1 company (Viral Nation) explicitly states they do NOT use AI in their recruitment process.
 
-7. **Total time commitment ranges widely** - from ~1.5 hours (TensorOps, sciemo, Wing Assistant) to 7.5+ hours (Column Tax) or even a full paid week (Infinity Constellation, Fifth Dimension).
+7. Total time commitment ranges widely - from ~1.5 hours (TensorOps, sciemo, Wing Assistant) to 7.5+ hours (Column Tax) or even a full paid week (Infinity Constellation, Fifth Dimension).
 
-8. **"No whiteboard" is a selling point** - Multiple companies explicitly advertise realistic, work-simulation-based interviews as a differentiator from LeetCode-style assessments. Phare Health says "not Leetcode," Doctolib has a dedicated "Feature Building Interview."
+8. "No whiteboard" is a selling point - Multiple companies explicitly advertise realistic, work-simulation-based interviews as a differentiator from LeetCode-style assessments. Phare Health says "not Leetcode," Doctolib has a dedicated "Feature Building Interview."
 
-9. **Anti-fraud measures are proliferating** - Wells Fargo requires candidates to "directly represent your own experiences." Arctic Wolf mandates cameras-on during remote interviews. Deel uses AI deepfake detection. Minted verifies identity at interview start. Circle.so explicitly states "we do not use AI bots to interview candidates."
+9. Anti-fraud measures are proliferating - Wells Fargo requires candidates to "directly represent your own experiences." Arctic Wolf mandates cameras-on during remote interviews. Deel uses AI deepfake detection. Minted verifies identity at interview start. Circle.so explicitly states "we do not use AI bots to interview candidates."
 
-10. **AI-specific interview rounds are emerging** - Doctolib has a dedicated "AI System Design Interview." Sprinter Health has "AI-Focused Systems Design." These domain-specific rounds reflect the maturation of AI engineering as a distinct discipline.
+10. AI-specific interview rounds are emerging - Doctolib has a dedicated "AI System Design Interview." Sprinter Health has "AI-Focused Systems Design." These domain-specific rounds reflect the maturation of AI engineering as a distinct discipline.

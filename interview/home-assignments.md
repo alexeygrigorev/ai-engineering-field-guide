@@ -22,7 +22,6 @@ File: [`6351158_Column_Tax_Software_Engineer_Applied_AI.yaml`](../job-market/dat
 - When: Step 2 of 4 (after intro call with Head of Engineering)
 - Evaluation: Discussed during 4.5-hour interview panels over 2 days
 
----
 
 ### 2. FlowFuse - Full Stack Developer (AI-focused)
 File: [`8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml`](../job-market/data_raw/8067206_FlowFuse_FlowFuse_Full_Stack_Developer_AI-focused.yaml)
@@ -42,7 +41,6 @@ Technical interview follow-up:
 - When: Step 4 of 7 (after 2 calls)
 - Evaluation: 60-min technical interview reviewing the work with 2-3 team members
 
----
 
 ### 3. Harmonic - Full Stack Product Engineer (AI Search)
 File: [`6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml`](../job-market/data_raw/6727775_Harmonic_Full_Stack_Product_Engineer_AI_Search.yaml)
@@ -56,7 +54,6 @@ Listed as "Take Home Exam" in the process - no further description of format, co
 - When: Step 2 of 5 (after recruiter screening)
 - Evaluation: Followed by debugging session (45 min) + jam session (1 hour)
 
----
 
 ### 4. Tenex - Applied AI Engineer / Forward Deployed AI Engineer
 File: [`8095486_Tenex_tenexco_Applied_AI_Engineer.yaml`](../job-market/data_raw/8095486_Tenex_tenexco_Applied_AI_Engineer.yaml), [`7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml`](../job-market/data_raw/7257124_Tenex_tenexco_Forward_Deployed_AI_Engineer.yaml)
@@ -74,7 +71,6 @@ File: [`8095486_Tenex_tenexco_Applied_AI_Engineer.yaml`](../job-market/data_raw/
 - Evaluation: Engineers review submission; then deep dive during onsite panel interview
 - Notable: "Build First" fast-track option lets candidates skip the screen by submitting a demo upfront
 
----
 
 ### 5. Lendable - AI Engineer / Senior AI Engineer
 File: [`8029593_Lendable_AI_Engineer.yaml`](../job-market/data_raw/8029593_Lendable_AI_Engineer.yaml), [`8316438_Lendable_Senior_AI_Engineer.yaml`](../job-market/data_raw/8316438_Lendable_Senior_AI_Engineer.yaml)
@@ -88,7 +84,6 @@ Listed as "Take-home exercise" followed by "Walkthrough of your exercise" - no f
 - When: Step 2 of 5 (after introductory call)
 - Evaluation: Dedicated walkthrough interview to discuss the exercise, then meet the day-to-day team and exec team
 
----
 
 ### 6. Stacks - Staff AI Engineer
 File: [`4761860_Stacks_Staff_AI_Engineer.yaml`](../job-market/data_raw/4761860_Stacks_Staff_AI_Engineer.yaml)
@@ -102,7 +97,6 @@ File: [`4761860_Stacks_Staff_AI_Engineer.yaml`](../job-market/data_raw/4761860_S
 - When: Step 4 of 6 (after 3 calls with talent, founder, and team member)
 - Evaluation: Combined with 1-hour on-site panel interview
 
----
 
 ### 7. Melotech - AI/ML Engineer + Intern
 File: [`8247431_Melotech_AIML_Engineer.yaml`](../job-market/data_raw/8247431_Melotech_AIML_Engineer.yaml), [`8247435_Melotech_AIML_Engineer_Intern.yaml`](../job-market/data_raw/8247435_Melotech_AIML_Engineer_Intern.yaml)
@@ -118,7 +112,6 @@ File: [`8247431_Melotech_AIML_Engineer.yaml`](../job-market/data_raw/8247431_Mel
 - Evaluation: 90-minute case interview where candidate presents and debates results
 - Notable: Same rigorous process for both senior and intern roles. Company is in stealth mode - candidates learn more as they progress.
 
----
 
 ### 8. Zeely - AI Prompt Engineer (ComfyUI)
 File: [`7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml`](../job-market/data_raw/7568516_Zeely_AI_Admaker_AI_Prompt_Engineer_ComfyUI.yaml)
@@ -131,7 +124,6 @@ Listed as "Test Task" in process: `Intro Call > Test Task > Final Interview > Re
 - AI tools: Not mentioned
 - When: Step 2 of 5 (after intro call)
 
----
 
 ### 9. hyperexponential - Senior Technical Writer/Documentation Engineer, AI
 File: [`7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml`](../job-market/data_raw/7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-_A.yaml)
@@ -145,7 +137,6 @@ File: [`7298439_hyperexponential_Senior_Technical_WriterDocumentation_Engineer_-
 - When: Step 3 of 4 (after talent call and manager interview)
 - Evaluation: Combined with 60-min follow-up interview
 
----
 
 ### 10. boam - Applied AI Engineer
 File: [`8249839_boam_Applied_AI_Engineer.yaml`](../job-market/data_raw/8249839_boam_Applied_AI_Engineer.yaml)
@@ -159,7 +150,6 @@ File: [`8249839_boam_Applied_AI_Engineer.yaml`](../job-market/data_raw/8249839_b
 - When: Step 3 of 4 (after intro call and deep dive)
 - Evaluation: Not explicitly described; followed by founder/leadership conversation
 
----
 
 ### 11. SmartAssets - AI/ML Engineer
 File: [`7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml`](../job-market/data_raw/7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml)
@@ -172,7 +162,6 @@ File: [`7694512_SmartAssets_AI_Engineer_Machine_Learning_Engineer.yaml`](../job-
 - AI tools: Not mentioned
 - When: After application review (only assessment step described)
 
----
 
 ### 12. Roboflow - Full Stack Engineer, AI Agents
 File: [`8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml`](../job-market/data_raw/8027169_Roboflow_Full_Stack_Engineer_AI_Agents.yaml)
@@ -188,7 +177,6 @@ This may involve advance preparation outside the live session (building a projec
 - When: Step 4 of 7 (after hiring manager intro and technical assessment)
 - Evaluation: Direct presentation to CTO
 
----
 
 ### 13. Wing Assistant - MERN Stack Developer (AI Agents)
 File: [`8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml`](../job-market/data_raw/8359858_Wing_Assistant_MERN_Stack_Developer_AI_Agents.yaml)
@@ -202,7 +190,6 @@ Listed as "Technical Task" between the introductory call and the final interview
 - When: Step 2 of 3 (after introductory call)
 - Evaluation: Followed by 1-hour final interview with CEO, CPO & CTO
 
----
 
 ### 14. Lendable - Senior AI Software Engineer
 File: [`8440447_Lendable_Senior_AI_Software_Engineer.yaml`](../job-market/data_raw/8440447_Lendable_Senior_AI_Software_Engineer.yaml)
@@ -216,7 +203,6 @@ Listed as "Take-home task" followed by "Technical interview based on the task" -
 - When: Step 2 of 4 (after screening call with HM)
 - Evaluation: Technical interview based on the task
 
----
 
 ### 15. Monzo Bank - Senior Staff Software Engineer, AI Customer Operations
 File: [`8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml`](../job-market/data_raw/8492197_Monzo_Bank_Senior_Staff_Software_Engineer_AI_Customer_Operat.yaml)
@@ -231,7 +217,6 @@ Candidates get a choice between a take-home task or a pair coding exercise.
 - Evaluation: Followed by final interview including behavioral and leadership rounds
 - Notable: Monzo publicly shares a senior engineer's blog post about the interview experience. ~3-4 week timeline.
 
----
 
 ### 16. Qonto - Senior Machine Learning Engineer for AI Product
 File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](../job-market/data_raw/8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml)
@@ -246,7 +231,6 @@ File: [`8097536_Qonto_Senior_Machine_Learning_Engineer_for_AI_Product.yaml`](../
 - Evaluation: Not specified
 - Notable: Average process is ~20 working days; offers follow within 48 hours of completion.
 
----
 
 ### 17. Hastings Direct - Lead Quality Engineer, Automation & AI
 File: [`8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml`](../job-market/data_raw/8463501_Hastings_Direct_Lead_Quality_Engineer_-_Automation_AI.yaml)
@@ -260,7 +244,6 @@ Listed as "Case study round" as the final step -- no further description of form
 - When: Step 3 of 3 (after recruiter screen and hiring manager intro)
 - Evaluation: Not described
 
----
 
 ## Paid Work Trials (Alternative to Traditional Assignments)
 
