@@ -35,6 +35,9 @@ This is the list of resources I used while researching content for the [AI Engin
 - [ML System Design Post-GenAI (Medium)](https://medium.com/machine-learning-system-design-post-genai/machine-learning-system-design-post-genai-part-1-071af68b0ce4)
 - [PromptLayer: Prompt Routers and Flow Engineering](https://blog.promptlayer.com/prompt-routers-and-flow-engineering-building-modular-self-correcting-agent-systems/)
 - [Alex Ewerlof: AI Systems Engineering Patterns](https://blog.alexewerlof.com/p/ai-systems-engineering-patterns) - 30 patterns, Nov 2025
+- [HN: Agentic LLM systems in production](https://news.ycombinator.com/item?id=42431361) - debate over what "agentic" means, real-world examples (Cursor, Intercom Fin, Devin)
+- [HN: Fine-tuning vs. prompt engineering](https://news.ycombinator.com/item?id=36069936) - when to fine-tune vs. prompt, cost trade-offs
+- [HN: Prompt injection -- what's the worst that can happen? (Simon Willison)](https://news.ycombinator.com/item?id=35572290) - separating instructions from data, architectural defenses
 
 
 ## Interview Question Collections
@@ -223,6 +226,10 @@ This is the list of resources I used while researching content for the [AI Engin
 
 ## Hacker News & Reddit Discussions
 
+- [Show HN: Comprehensive interview questions for AI product engineering roles](https://news.ycombinator.com/item?id=44875256) - 500+ questions, four difficulty levels, prompt engineering to agent architectures
+- [100 LLM Interview Questions](https://news.ycombinator.com/item?id=46319888) - GitHub repo, model architecture and inference engineering
+- [Eugene Yan: How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/) - what to evaluate when hiring ML/AI engineers
+- [Ask HN: Typical tech job interview in late 2025?](https://news.ycombinator.com/item?id=45904921) - how interviews evolved for AI-assisted development
 - [Ask HN: How do you conduct technical interviews in the LLM era?](https://news.ycombinator.com/item?id=42268158) - shifting to code review of AI-generated solutions
 - [Ask HN: Are leetcode interviews going away?](https://news.ycombinator.com/item?id=44878265) - debate on LeetCode relevance
 - [r/leetcode: xAI AI Engineer (Backend/Infra) Interview - just finished the loop](https://www.reddit.com/r/leetcode/comments/1pjhw1i/xai_ai_engineer_backendinfra_interview_just/) - two medium difficulty problems, distributed systems round

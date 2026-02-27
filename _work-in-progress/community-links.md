@@ -38,6 +38,16 @@ Links from Reddit, Hacker News, GitHub, Substack, Medium, and other community so
 - [Deep Learning Interviews book: Hundreds of fully solved questions](https://news.ycombinator.com/item?id=29876742)
 - [What We Learned from a Year of Building with LLMs](https://news.ycombinator.com/item?id=40508390)
 - [Choosing vector database: a side-by-side comparison](https://news.ycombinator.com/item?id=37764489)
+- [Ask HN: Typical tech job interview in late 2025?](https://news.ycombinator.com/item?id=45904921) - debugging AI code, identifying hallucinations as interview criteria
+- [Ask HN: Examples of agentic LLM systems in production?](https://news.ycombinator.com/item?id=42431361) - agent vs chain definitional debate
+- [The impact of AI on the technical interview process](https://news.ycombinator.com/item?id=42977039) - code review replacing coding, system design follow-ups
+- [Google DeepMind 3-hour interview: ~100 questions](https://news.ycombinator.com/item?id=8233448) - Jacobian, neural networks, classifiers, t-test
+- [LLM Interview Questions repository (115 questions)](https://news.ycombinator.com/item?id=46319888) - transformer fundamentals, training, prompting, fine-tuning
+- [How to interview and hire ML/AI engineers -- Eugene Yan](https://news.ycombinator.com/item?id=41271833) - data literacy, model output/bias, evaluation questions
+- [When is fine tuning worth it, rather than just prompt engineering?](https://news.ycombinator.com/item?id=36069936)
+- [Prompt injection: what's the worst that can happen?](https://news.ycombinator.com/item?id=35572290)
+- [Ask HN: Difficult interview questions](https://news.ycombinator.com/item?id=45119971)
+- [Best engineering interview question I've gotten (memcached)](https://news.ycombinator.com/item?id=39813067)
 
 
 ## GitHub Repositories
@@ -57,32 +67,15 @@ Links from Reddit, Hacker News, GitHub, Substack, Medium, and other community so
 - [Not-Diamond/awesome-ai-model-routing](https://github.com/Not-Diamond/awesome-ai-model-routing) - curated approaches to AI model routing
 
 
-## Substack
-
-- [BuildML: Top 24 LLM questions asked at DeepMind, OpenAI, Meta and more!](https://buildml.substack.com/p/top-24-llm-questions-asked-at-deepmind) - company-attributed real questions
-- [BuildML: Crash Course to Crack Machine Learning Interview](https://buildml.substack.com/p/crash-course-to-crack-machine-learning)
-- [AI Interview Prep: LLM Agents Interview Questions #1 - The Privacy Scaling Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-1) - NVIDIA scenario
-- [AI Interview Prep: LLM Agents Interview Questions #2 - The Autoregressive Loop Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-2) - Anthropic scenario
-- [AI Interview Prep: LLM Agents Interview Questions #3 - The Static Few-Shot Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-3) - Anthropic scenario
-- [AI Interview Prep: LLM Agents Interview Questions #4 - The Evaluator-on-Evaluator Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-4)
-- [AI Interview Prep: LLM Agents Interview Questions #5 - The Test-Time Compute Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-5) - DeepMind scenario
-- [AI Interview Prep: LLM Agents Interview Questions #6 - The AST Explosion Trap](https://aiinterviewprep.substack.com/p/llm-agents-interview-questions-6) - Google DeepMind scenario
-- [AI PM Guru: What I Learned Preparing to Explain RAG vs. Fine-Tuning in an AI PM Interview](https://aipmguru.substack.com/p/what-i-learned-preparing-to-explain)
-- [Bhavishya Pandit: 10 GenAI/ML Questions to Crack AI Interview in 2025](https://bhavishyapandit9.substack.com/p/10-genaiml-questions-to-crack-ai)
-
 
 ## Medium / Practitioner Blogs
 
-- [Top 25 Questions I Have Seen in my Recent AI/ML Interviews -- Sajid Khan](https://medium.com/write-a-catalyst/top-25-questions-i-have-seen-in-my-recent-ai-ml-interviews-c44666d88cec)
-- [Top 30 AI, ML & GenAI Interview Questions That Repeatedly Came Up (2025) -- Robi Kumar Tomar](https://medium.com/@robi.tomar72/top-30-ai-ml-genai-interview-questions-that-repeatedly-came-up-in-my-recent-interviews-2025-4cf09f68fd8f)
-- [100 Questions to Clear an AI Engineer Interview in 2026 -- Afrid Mondal](https://medium.com/@afrid.mndl/100-questions-to-clear-an-ai-engineer-interview-in-2026-0ee1c793374c)
 - [LLM System Design Interview Questions and Answers -- Sanjay Kumar](https://skphd.medium.com/llm-system-design-interview-questions-and-answers-2a7a16212492)
 - [RAG System Design Interview Questions -- Sanjay Kumar](https://skphd.medium.com/rag-system-design-interview-questions-and-answers-6c0b2865062e)
 - [Top 25 Vector Database Interview Questions -- Sanjay Kumar](https://skphd.medium.com/top-25-vector-database-interview-questions-and-answers-ca4481d0a18f)
 - [Evaluating LLM-based Chatbots: A Comprehensive Guide (Microsoft Data Science)](https://medium.com/data-science-at-microsoft/evaluating-llm-based-chatbots-a-comprehensive-guide-to-performance-metrics-9c2388556d3e)
 - [Google Cloud: Hallucinations in LLMs -- Can You Even Measure the Problem?](https://medium.com/google-cloud/hallucinations-in-llms-can-you-even-measure-the-problem-932e23b1873b)
 - [Model Routing in AI: Getting the Right Request to the Right Model](https://medium.com/@simsketch/model-routing-in-ai-getting-the-right-request-to-the-right-model-dd21bab7c129)
-- [How to Ace an LLM AI Engineering Interview -- Abhishek Reddy](https://abhishek-reddy.medium.com/how-to-ace-an-llm-ai-engineering-interview-a-deep-dive-into-llm-fundamentals-fine-tuning-and-59f0e89060b7)
 - [AI Engineer Interview Questions -- Omkar Joshi](https://medium.com/@omcar17295/ai-engineer-interview-questions-fccd2ad0abdb) - Infosys, Tech Mahindra, Sony, Persistent, Wipro
 - [My experience of interview preparation as MLE -- Andrew Lukyanenko](https://artgor.medium.com/my-experience-of-interview-preparation-as-mle-fe53627ba33e)
 - [Taming the Beast: Cost Optimization Strategies for LLM API Calls -- Ajay Verma](https://medium.com/@ajayverma23/taming-the-beast-cost-optimization-strategies-for-llm-api-calls-in-production-11f16dbe2c39)
@@ -91,7 +84,7 @@ Links from Reddit, Hacker News, GitHub, Substack, Medium, and other community so
 - [Datadog: Detecting hallucinations with LLM-as-a-judge](https://www.datadoghq.com/blog/ai/llm-hallucination-detection/)
 - [How to Cut RAG Costs by 80% Using Prompt Compression (Towards Data Science)](https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb/)
 - [Reduce LLM Costs: Token Optimization Strategies -- Rost Glukhov](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/)
-- [Zen Van Riel: AI Engineering Interview Big Tech Guide](https://zenvanriel.com/ai-engineer-blog/ai-engineering-interview-big-tech-guide/) - Senior AI Engineer at GitHub
+- [Zen Van Riel: AI Engineering Interview Big Tech Guide](https://zenvanriel.com/ai-engineer-blog/ai-engineering-interview-big-tech-guide/) - Interview for Senior AI Engineer at GitHub
 
 
 ## DEV Community
@@ -107,36 +100,26 @@ Links from Reddit, Hacker News, GitHub, Substack, Medium, and other community so
 - [Agents vs Chains vs Tools](https://community.deeplearning.ai/t/agents-vs-chains-vs-tools/516148)
 
 
+## X / Twitter
+
+- [Akshay Pachaar: Google ML Engineer Interview -- distributed LLM training across 1,000 GPUs](https://x.com/akshay_pachaar/status/1992571349332804081)
+- [Akshay Pachaar: Apple ML Engineer Interview -- model confidence vs accuracy](https://x.com/akshay_pachaar/status/1994020936488734823)
+- [Anshuman: Google ML Inference Engineer Interview -- LLM serving bottleneck, PagedAttention](https://x.com/athleticKoder/status/1967925267864928669)
+- [Ankit Jxa: Observations from 50+ ML interviews -- Stats, GenAI, MLE, GPU Kernels](https://x.com/kingofknowwhere/status/1978100072517697838)
+- [Chip Huyen: Bad ML interview questions -- what interviewers and candidates report](https://x.com/chipro/status/1152660617666256896)
+- [Priyanka Vergadia: AI Engineer Interview Cheatsheet -- RAG, MLOps, fine-tuning, safety](https://x.com/pvergadia/status/2001117645933043781)
+- [Hao Hoang: Top 50 LLM Interview Questions (widely shared)](https://x.com/omarsar0/status/1930984834454712537)
+- [Arman Hezarkhani: How to Hire Top AI Talent in 2026 -- interview design with system design problems](https://x.com/ArmanHezarkhani/status/2016889009004294625)
+- [Prateek Singh: "AI is making shallow engineers" -- live coding interview observations](https://x.com/prateek_0041/status/1945150930330247442)
+- [Allie K. Miller: Testing for AI skills in interviews](https://x.com/alliekmiller/status/1990479690608611660)
+- [Sakana AI: Research position interview guide -- hypothesis, experiments, reasoning](https://x.com/SakanaAILabs/status/2013431501040263363)
+- [Adil Shamim: 65 Real Machine Learning Interview Questions for 2025](https://x.com/adil_shamim8/status/1988215667678691340)
+- [Ramsri Goutham Golla: LLM Engineer Interview Prep 2024](https://x.com/ramsri_goutham/status/1747875498171171217)
+
+
 ## TeamBlind
 
 - [Interview process for Gen AI roles](https://www.teamblind.com/post/Interview-process-for-Gen-AI-roles-jtz05yfE)
 - [OpenAI Research Engineer - ML System design interviews?](https://www.teamblind.com/post/open-ai-research-engineer-ml-system-design-interviews-ipiq7yo4)
 - [ML coding interview at OpenAI and Meta GenAI](https://www.teamblind.com/post/ml-coding-interview-at-openai-and-meta-genai-dhq0gysn)
 - [Machine learning interview at different FAANG companies](https://www.teamblind.com/post/machine-learning-interview-different-faang-companies-tapbhpwq)
-
-
-## Glassdoor
-
-- [AI LLM Engineer Interview Questions (all companies)](https://www.glassdoor.com/Interview/ai-llm-engineer-interview-questions-SRCH_KO0,15.htm)
-- [Google AI Engineer Interview Questions](https://www.glassdoor.com/Interview/Google-AI-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,18.htm)
-- [Meta AI Engineer Interview Questions](https://www.glassdoor.com/Interview/Meta-AI-Engineer-Interview-Questions-EI_IE40772.0,4_KO5,16.htm)
-- [Anthropic Interview Questions (2026)](https://www.glassdoor.com/Interview/Anthropic-Interview-Questions-E8109027.htm)
-- [Deloitte Gen AI Engineer Interview Questions](https://www.glassdoor.co.in/Interview/Deloitte-Gen-AI-Engineer-Interview-Questions-EI_IE2763.0,8_KO9,24.htm)
-
-
-## Interview Prep Platforms
-
-- [DataCamp: Top 36 LLM Interview Questions (2025)](https://www.datacamp.com/blog/llm-interview-questions)
-- [DataCamp: Top 36 Generative AI Interview Questions (2026)](https://www.datacamp.com/blog/genai-interview-questions)
-- [Analytics Vidhya: 30+ LLM Interview Questions (2025)](https://www.analyticsvidhya.com/blog/2024/04/llm-interview-questions/)
-- [Analytics Vidhya: Top 20+ RAG Interview Questions](https://www.analyticsvidhya.com/blog/2024/04/rag-interview-questions/)
-- [Analytics Vidhya: 50+ Generative AI Interview Questions](https://www.analyticsvidhya.com/blog/2024/11/generative-ai-interview-questions/)
-- [Analytics Vidhya: Top 16 Interview Questions on Transformer](https://www.analyticsvidhya.com/blog/2022/11/top-6-interview-questions-on-transformer/)
-- [Analytics Vidhya: Top 9 Fine-tuning Interview Questions](https://www.analyticsvidhya.com/blog/2024/04/fine-tuning-interview-questions-and-answers/)
-- [InterviewQuery: AI Engineer Interview Questions -- Ultimate Guide](https://www.interviewquery.com/p/ai-engineer-interview-questions)
-- [Practical DevSecOps: 50+ AI Security Interview Questions](https://www.practical-devsecops.com/ai-security-interview-questions/)
-- [InterviewNode: Security in Machine Learning Interview Questions](https://interviewnode.com/post/security-in-machine-learning-interview-questions-you-dont-expect)
-- [MarkTechPost: AI Interview Series #1 -- LLM Text Generation Strategies](https://www.marktechpost.com/2025/11/09/ai-interview-series-1-explain-some-llm-text-generation-strategies-used-in-llms/)
-- [Prachub: Design a Low-Latency RAG System (OpenAI MLE question)](https://prachub.com/interview-questions/design-a-low-latency-rag-system)
-- [Final Round AI: TikTok Interview -- "Explain transformers"](https://www.finalroundai.com/interview-questions/tiktok-transformers-explained)
-- [Design Gurus: How to scale an LLM application to millions of users](https://www.designgurus.io/answers/detail/how-can-you-scale-an-llm-based-application-to-handle-millions-of-users-considering-inference-costs-and-latency)

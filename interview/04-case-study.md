@@ -18,13 +18,21 @@ A useful approach: start with a simple baseline, quickly iterate, roll out to pr
 
 These are "how would you approach X?" questions reported by candidates -- they focus on methodology and problem-solving rather than drawing concrete architectures.
 
-- How would you implement an AI application from start to finish, from kickoff meeting through deployment? (IBM -- [Raghu Teja](https://medium.com/@raghu_teja/how-i-cracked-my-ibm-ai-engineer-interview-part-2-ml-scenarios-88af2b46282e))
-- How would you design a scalable and reliable automation workflow? What considerations for error handling, monitoring, and debugging? ([proptech founder](https://www.youtube.com/watch?v=proptech-founder-interview))
-- How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? ([proptech founder](https://www.youtube.com/watch?v=proptech-founder-interview))
-- How do you monitor production AI systems? ([System Design Handbook](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/))
-- How would you think about cost and capacity planning for an LLM-powered application at scale? ([igotanoffer](https://igotanoffer.com/en/advice/generative-ai-system-design-interview))
-- How would you handle real-time versus batch processing for data updates? When is one preferred over the other? ([proptech founder](https://www.youtube.com/watch?v=proptech-founder-interview))
-- How do you ingest and process different types of data (structured, unstructured, event data)? ([proptech founder](https://www.youtube.com/watch?v=proptech-founder-interview))
-- How would you surface model limitations or errors to users without breaking trust? ([igotanoffer](https://igotanoffer.com/en/advice/generative-ai-system-design-interview))
-- How would you design the UX for an AI assistant that is often slow? ([igotanoffer](https://igotanoffer.com/en/advice/generative-ai-system-design-interview))
-- What are major scaling challenges for LLM-powered applications? ([System Design Handbook](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/))
+- How would you implement an AI application from start to finish, from kickoff meeting through deployment? (IBM) [^raghu-teja]
+- How would you design a scalable and reliable automation workflow? What considerations for error handling, monitoring, and debugging? [^proptech-founder]
+- How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? [^proptech-founder]
+- How do you monitor production AI systems? [^system-design-handbook]
+- How would you think about cost and capacity planning for an LLM-powered application at scale? [^igotanoffer]
+- How would you handle real-time versus batch processing for data updates? When is one preferred over the other? [^proptech-founder]
+- How do you ingest and process different types of data (structured, unstructured, event data)? [^proptech-founder]
+- How would you surface model limitations or errors to users without breaking trust? [^igotanoffer]
+- How would you design the UX for an AI assistant that is often slow? [^igotanoffer]
+- What are major scaling challenges for LLM-powered applications? [^system-design-handbook]
+
+
+## Sources
+
+[^raghu-teja]: [Medium - Raghu Teja, IBM Part 2](https://medium.com/@raghu_teja/how-i-cracked-my-ibm-ai-engineer-interview-part-2-ml-scenarios-88af2b46282e)
+[^proptech-founder]: [YouTube - Proptech Founder](https://www.youtube.com/watch?v=proptech-founder-interview)
+[^system-design-handbook]: [System Design Handbook](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/)
+[^igotanoffer]: [igotanoffer - Generative AI System Design Interview](https://igotanoffer.com/en/advice/generative-ai-system-design-interview)
