@@ -1,5 +1,4 @@
 # TeamBlind Interview Post Summaries - Batch 01
-
 ## Apple Senior Machine Learning Engineer Interview
 **URL:** https://www.teamblind.com/post/apple-senior-machine-learning-engineer-interview-bi8zhwpq
 **Summary:** A discussion about the interview process for a Senior Machine Learning Engineer role at Apple. The onsite includes a two-hour session with one hour dedicated to coding and one hour for ML design. The interview loop is highly team-dependent, and potential team members ask relevant questions for the specific job role.
@@ -226,21 +225,6 @@
 
 ---
 
-## End of 2024 Interview Experience
-**URL:** https://www.teamblind.com/post/end-of-2024-interview-experience-0ctmkt2n
-**Summary:** A PhD candidate with 9 years of software engineering experience (generalist SWE, not AI/ML) shares their late-2024 interview journey. They left Google during the pandemic for a startup, moved to another big tech company after layoffs at a reduced TC of ~400k, then was contacted by a Google alumni recruiter in early 2024. After months of LeetCode preparation, they received an L6 offer from Google with ~780k total compensation.
-**Interview Questions Mentioned:**
-- LeetCode daily problems for preparation
-- Standard Google L6 interview loop (coding, system design, behavioral)
-**Key Insights:**
-- The candidate spent months doing LeetCode daily problems before scheduling interviews
-- The Google L6 offer was 265k base + 20% bonus + 420k Y1 equity + 50k signing bonus (~780k TC)
-- Also received offers from two other companies (300k + 600k paper equity; 270k + 350k equity)
-- Their PhD was described as "never relevant" in any role -- extremely theoretical with limited industrial applications
-- The 2024 job market offered strong compensation for experienced candidates willing to prepare thoroughly
-
----
-
 ## Computer Vision Engineer System Design Interview at Meta Reality Labs
 **URL:** https://www.teamblind.com/post/fiSGHJtH
 **Summary:** A candidate preparing for an L6 Computer Vision Engineer position at Meta Reality Labs seeks advice on the system design interview. The discussion covers the virtual onsite format for embedded/ML roles, which consists of six interviews including standard system design and domain-specific system design rounds. A specific SLAM-related design question is discussed.
@@ -324,23 +308,5 @@
 - Problems are intentionally vague -- candidates propose models, then interviewers probe deeper
 - The interview experience varies by level and team
 - Focus on understanding patterns rather than memorizing specific questions
-
----
-
-## Google Machine Learning SWE L5 Interview Prep 2022
-**URL:** https://www.teamblind.com/post/google-machine-learning-swe-l5-interview-prep-2022-n8TmYKba
-**Summary:** A candidate who accepted a Google L5 ML SWE offer shares their detailed preparation strategy. The L5 loop consisted of 2 DSA rounds, 1 ML Design round, 1 ML Theory round, and 1 Leadership/Behavioral round. The candidate prepared aggressively for 2 months before screening and 3 months before onsite, focusing on LeetCode early and ML later.
-**Interview Questions Mentioned:**
-- DSA: LeetCode medium to hard problems
-- ML Design: end-to-end ML system design problems
-- ML Theory/Foundation: Naive Bayes, Linear Regression, Logistic Regression, PCA, tree-based algorithms, K-means, and implementing core ML algorithms in Python/NumPy
-- Leadership/Behavioral questions
-**Key Insights:**
-- L5 panel includes ML-specific interviews; L4 panel is DSA-only
-- Preparation timeline: 2 months aggressive before screening, 3 months before onsite
-- Key resources: LeetCode, Grokking the Coding Interview, Grokking the ML Interview, ML Expert (AlgoExpert)
-- For ML Theory: know fundamental algorithms well, review ML-relevant statistics and probability, implement core algorithms in Python/NumPy
-- Start with LeetCode Medium, progress to Hard
-- The candidate accepted the Google offer
 
 ---

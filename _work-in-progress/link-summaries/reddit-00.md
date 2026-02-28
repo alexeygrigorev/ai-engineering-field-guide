@@ -1,212 +1,298 @@
-# Reddit Thread Summaries — AI/ML/LLM Engineering Interviews
-
-> Note: Direct access to reddit.com and old.reddit.com is blocked in this environment. All Redlib mirror instances (redlib.catsarch.com, redlib.perennialte.ch, redlib.freedit.eu, etc.) also returned 403 or timeouts. The Wayback Machine is also blocked. Summaries below are based on what could be retrieved via web search results that referenced these threads, or are marked FAILED TO LOAD.
 
 ---
-
 ## AI Engineer Interview Questions
 
 **URL:** https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions/
-**Summary:** FAILED TO LOAD — Direct Reddit access is blocked and no indexed cache of this specific post (ID: 1nybfr8) was found via web search. The post appears to be from r/ArtificialInteligence and discusses interview questions for AI engineer roles.
-**Interview Questions Mentioned:** None retrievable from this specific post
-**Key Insights:**
-- Based on broader web search context, AI engineer interview questions in 2024–2025 commonly cover: RAG architecture, prompt engineering, LLM evaluation metrics (BLEU, ROUGE, BERTScore), hallucination mitigation, vector search, and MLOps
-- The post ID suggests it was created in mid-2025
 
----
+AI engineer interview questions?
+I’m interested in applying for AI engineering roles, but haven’t gone on the interview loop for this field. I’m curious about how to prepare and generally what to expect from the experience.
 
-## Startup CEO Ghosted Me After Offering the Job — How to Handle?
+So if you’re an AI engineer (or have previously applied for this role), what type of questions usually come up during the interviews? It would also help if you can take about the process itself, like how many rounds, etc.
 
-**URL:** https://www.reddit.com/r/careerguidance/comments/1foivju/startup_ceo_ghosted_me_after_offering_the_job_how/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. Based on web search context about this common topic: a candidate received an informal or formal job offer from a startup CEO and then received no further communication. The thread likely discusses follow-up strategies and whether to move on.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- Ghosting after a job offer is most commonly caused by changed business conditions (budget freezes, headcount freezes, internal conflicts, or the role being reprioritized)
-- Recommended approach: one polite follow-up email per week for 2–3 weeks, then move on
-- Startups are especially prone to this because recruitment is often informal and secondary to operational priorities
-- Treat all verbal offers as unconfirmed until a written offer letter is signed
-- This is particularly relevant in the AI startup space, where funding rounds and priorities can shift rapidly
+Your answers will be much appreciated, thanks.
 
----
+13
+·
+13
+u/AdobeDocumentCloud avatar
+AdobeDocumentCloud
+•
+Promoted
 
-## My Struggle as an Early/Mid MLE
+Adobe Acrobat – Vom PDF-Tool zum Team-Hub.
+Comments Section
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/19f0nqa/my_struggle_as_an_earlymid_mle/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. Based on post ID timing (early 2024) and subject matter, this thread likely details the difficulties faced by early-to-mid career Machine Learning Engineers in the 2024 job market, including competition, hiring bars, and the gap between expectations and actual job availability.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- The 2024 MLE market was significantly tighter than 2021–2022, with the success rate for finding MLE roles in the Bay Area dropping to approximately 3.6%
-- Early/mid MLEs face increased competition from both senior engineers pivoting to ML and new graduates with AI-heavy coursework
-- Companies raising their hiring bars for MLE roles, particularly around production ML systems experience
-- Candidates without FAANG or recognizable ML research lab credentials report significantly more difficulty
+AutoModerator
+MOD
+•
+5mo ago
+BrainLate4108
+•
+5mo ago
+What frameworks are you familiar with? What have you built before? What workflows can you automate? How do you control LLMs? How can you make sure they don’t hallucinate? Which cloud providers are you familiar with? Which models have you worked with? What’s a vector db? Which ones do you have experience with? What is RAG? What is graph + RAG? What is chain of thought? Reflection? How do you do memory management, conext management?
 
----
+Some that come to mind. Good luck!
 
-## Take Home Assessments Are a Joke
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1b25o1e/take_home_assessments_are_a_joke/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This thread from early 2024 appears to critique take-home coding assignments as unfair or excessive in scope, a recurring debate on r/cscareerquestions.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- Industry consensus is that 2–6 hours is a reasonable take-home assignment duration; anything exceeding 8 hours is widely seen as exploitative
-- Many engineers refuse take-homes exceeding one day of effort, viewing them as a red flag about company culture
-- Take-home assignments are criticized for favoring candidates with more free time (e.g., disadvantaging those with families or second jobs)
-- Some companies use take-homes to get free work product, which the community considers unethical
-- AI companies and startups use take-homes more frequently than FAANG, which tends to use live coding rounds
+4
+MachinePolaSD
+•
+3mo ago
+Good, it's useful to prepare docs beforehand with tuned answers. 
 
----
+1
+u/buntyshah2020 avatar
+buntyshah2020
+•
+5mo ago
+Here is the course to prepare for "AI Engineering Roles" with real interview questions from FAANG and fortune 500 companies - masteringllm.com/course/llm-interview-questions-and-answers#/?previousPage=home&isenrolled=no
 
-## Do You Think This Is a Reasonable Take Home?
+3
+u/TonyStank-1704 avatar
+TonyStank-1704
+•
+20d ago
+I gave around 6-7 coding interviews for AI Engineer roles...
+I am making a list of questions that I was asked either in OA or coderpad...
+Theory Questions are very similar to this: https://llm-interview-questions.lovable.app/
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1czhqwf/do_you_think_this_is_a_reasonable_take_home/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This mid-2024 thread asks the community to evaluate a specific take-home assignment for reasonableness of scope, a common request on this subreddit.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- Community benchmarks: a take-home that requires more than 4–6 hours of work is considered borderline; over 8 hours is generally flagged as unreasonable
-- Clarity of requirements matters as much as time commitment — vague specs are a major complaint
-- For AI/ML roles specifically, take-homes often involve building a small model, analyzing a dataset, or demonstrating prompt engineering skill
-- Candidates are advised to ask upfront how long the expected completion time is before accepting a take-home
+the interview process is damn weird and very overwhelming!
+I interviewed with Langchain, they gave me take home assessment(develop an agent types) and a discussion on it later, followed by an applied system design interview
+question like these: https://www.youtube.com/watch?v=un1IJdX-ImQ&list=PL_drzcX_ki7401g0mZqvNzPl-JZbpx0sc
 
----
+Then for another company (one of the FAANGs) the entire process was focused on LeetCode questions but discussions were on agentic AI use cases, AI technical question on that. I believe what the company does matters a lot which reflects thier interview process.
 
-## Take Assignment — Use AI?
+Later, I got an OA from another company. One question was on Union Find and other question was on AI where a csv file with text was given and you had to use DistillBERT to categorize with sentiments... It should pass 5 test cases they had which checked embeddings length, output structure etc.
+After OA selection it was 30 min round where I was asked applied AI system design question to understand how you would create agents interaction of them etc.
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1ggsp30/take_assignment_use_ai/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This late-2024 thread debates whether candidates should use AI tools (ChatGPT, Claude, Copilot) when completing take-home coding assignments, and whether companies can or should detect this.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- The community is split: some argue AI tools are standard professional tools and banning them is unrealistic; others feel AI use defeats the purpose of assessing individual skill
-- xAI's co-founder publicly called out a candidate for using AI during an interview, indicating some companies actively test for this
-- Many companies' policies are unclear on AI use in take-homes, leaving candidates uncertain
-- AI-aware candidates recommend disclosing AI use when it's a significant part of the solution, to demonstrate transparency
-- For AI engineering roles specifically, demonstrating effective AI tool use may actually be desirable rather than disqualifying
-- The trend is moving toward AI-collaborative assessments where the ability to leverage AI effectively is itself what is being tested
+I gave one for mid size startup then, the hiring manager round was completely focused on how transformers work, how attention mechanism is implemented, how would you solve memory/context.
 
----
+In my honest opinion, people are figuring out the best way to test a candidate and the interview process is not yet standardized, so they conduct based on what they are developing.
 
-## Beyond Big Tech Companies — How Often Does DSA Come Up?
+I have more such experiences, I'm happy to share more on DM. If others want it here, I can put a comment itself, happy to do that if it helps.
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1ie1f3s/beyond_big_tech_companies_how_often_does_dsa/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This early-2025 thread investigates whether DSA (Data Structures and Algorithms) coding rounds are used at companies outside FAANG, a question of particular interest to candidates targeting startups and mid-size companies.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- FAANG and top-tier tech companies overwhelmingly use DSA/LeetCode-style interviews regardless of role seniority
-- Mid-size and startup companies are more likely to use take-home assignments, system design, or practical coding tasks instead of algorithmic puzzles
-- AI startups in particular tend toward practical assessments: building a RAG pipeline, debugging an LLM prompt chain, or doing data analysis
-- The consensus is that DSA prep remains necessary for FAANG/tier-1 but is less critical for non-FAANG roles
-- For ML engineer roles specifically, ML system design is increasingly prioritized over pure DSA
+3
+Interesting-Sock3940
+•
+5mo ago
+AI engineer interviews usually mix coding, ML theory, and a bit of practical problem solving. They’ll ask about Python, algorithms, and basic ML ideas like model training or overfitting, pretty standard stuff if you’ve actually built models before. Sometimes they go into frameworks like PyTorch or TensorFlow, or ask how you’d handle messy data or deployment. I remember being asked how I improved model accuracy on a noisy dataset, nothing wild, just checking if I knew what I was doing instead of repeating textbook answers.
 
----
+The process is usually a few rounds: a quick recruiter chat, a technical screen, then one or two deeper interviews about your projects or system design. Some places add a final “fit” round. Honestly, if you’ve done hands-on ML work and can talk about it clearly, you’ll be fine. It’s better to just show you understand the work and can explain it like a normal person.
 
-## My Job Hunt: From YC Startup to FANG (2023–2024)
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1j1i4j2/my_job_hunt_from_yc_startup_to_fang_20232024/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible and this specific post was not cached in web search results. This appears to be a detailed personal account of a job search that spanned both YC-backed startup interviews and FAANG-level interviews across 2023 and 2024.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- Personal job hunt accounts from this period consistently note a stark divide in interview format between startups (practical/product-focused) and FAANG (DSA + system design + behavioral)
-- The 2023–2024 market required many more applications per offer than the 2021–2022 peak: some candidates report 100+ applications per offer
-- Candidates pivoting from startup to FAANG often need 2–4 months of deliberate LeetCode prep to clear algorithmic rounds
-- YC startup interviews often include a product sense or business impact discussion that FAANG interviews do not
+2
+u/Thin_Leader_2528 avatar
+Thin_Leader_2528
+•
+4mo ago
+Hi, this is a really useful answer, and I wanted to ask about system design interviews that you have had in the past (if any). Do AI engineers' system design interviews refer to more ML-related system design questions, or are they the basic software engineering system design questions?
 
----
+1
+CreditOk5063
+•
+5mo ago
+On my last AI engineer loop, I got a mix of Python coding, LLM system design, and how I’d ship something real. Expect stuff like RAG tradeoffs, evals beyond accuracy, prompt injection handling, latency at inference, and talking through a project you actually deployed with PyTorch or TF and a vector store.
 
-## Software Engineer, Machine Learning at Meta
-
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1kddcya/software_engineer_machine_learning_at_meta/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible and no web-searchable cache was found. This thread discusses the Meta SWEMLE (Software Engineer, Machine Learning) role — likely covering compensation, interview format, or experience.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- Meta's MLE interview process (as widely documented) includes: coding rounds (DSA, LeetCode medium/hard), ML system design, ML fundamentals (feature engineering, model selection, training pipelines), and behavioral rounds using the STAR framework
-- Meta uses a "hiring manager" round and a dedicated "cross-functional" round beyond the standard loops
-- The Meta SWEMLE role sits at the intersection of production engineering and ML, requiring stronger systems/coding skills than a pure research scientist role
-- Meta is known to value ranking/recommendation system experience (for Feed, Ads, etc.) and candidates without this experience can compensate by studying these systems deeply
-
+What helped me was building a tiny end to end RAG demo and practicing a five minute walkthrough of architecture and eval metrics. I did timed mocks with Beyz coding assistant using prompts from IQB interview question bank, then trimmed my behavioral answers to about 90 seconds using STAR. You got this.
 ---
 
 ## What's the AI Engineering Hiring Process Like?
 
 **URL:** https://www.reddit.com/r/cscareerquestions/comments/1lmwq1e/whats-the_ai_engineering_hiring_process_like/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible and no cached version was found. This thread from 2025 asks about the hiring process specific to AI engineering roles — distinct from traditional software engineering or MLE roles — reflecting the emergence of "AI Engineer" as a job title.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- AI Engineer roles are newer and less standardized in their interview process compared to SWE or MLE roles
-- Common interview components for AI Engineer roles (based on broader research): system design for LLM-powered applications, coding (Python-heavy, often with an ML/data focus), discussion of RAG pipeline design, prompt engineering approach, evaluation strategies for LLM outputs, and deployment/MLOps considerations
-- Companies hiring AI engineers often prioritize demonstrated project experience over algorithmic puzzle performance
-- The lack of a "LeetCode equivalent" for AI engineering interviews means preparation is less formula-driven and more portfolio-driven
 
----
+I got this question today. What does the current AI engineer hiring process look like?
 
-## Interview Discussion — January 5, 2026
+-- Most important capabilities / skills for an AI engineering role. -- Common interview questions. -- Typical hiring process.
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1q4fv9p/interview_discussion_january_05_2026
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This is one of r/cscareerquestions' regular weekly interview discussion threads where members share recent interview experiences, questions received, and outcomes.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- Weekly interview discussion threads in late 2025/early 2026 reflect a market where fewer than 39% of applicants reach the phone screen stage and fewer than 29% reach onsite interviews, indicating intense early-stage filtering
-- AI/ML-adjacent roles are among the most competitive, with AI-related job postings offering on average a 28% salary premium over non-AI roles
-- January hiring is characteristically competitive as candidates leverage multiple January offers against each other, with compensation running 25–40% above November rates
+If you have any experience, please share.
 
----
 
-## Interview Discussion — January 8, 2026
+Upvote
+1
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1q760nv/interview_discussion_january_08_2026
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This is a continuation of the weekly interview discussion thread series for early January 2026.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- Same context as the January 5 thread: weekly interview threads aggregate real-world interview reports across companies and roles
-- Early January 2026 hiring market shows AI and ML roles at the top of demand lists across multiple industry reports
-- Candidates in these threads commonly discuss preparation strategies, interview outcomes, and compensation benchmarks
+Downvote
 
----
+9
+Go to comments
 
-## How Is the Market/Experience Like for Mid-Level Engineers?
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1qg1qts/how_is_the_market_experience_like_for_mid_level
-**Summary:** FAILED TO LOAD — Reddit is inaccessible. This thread from 2025 surveys the current job market conditions specifically for mid-level software engineers, a tier that has been particularly affected by reduced headcount and tighter hiring standards since 2023.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- Mid-level engineers (L4–L5 equivalent) face a more compressed market than senior engineers, with companies either hiring junior (for lower cost) or senior/staff (for impact) roles
-- AI/ML-adjacent mid-level roles are faring better than general SWE roles, but competition is still elevated
-- Candidates report needing to demonstrate AI fluency (using AI tools, working with LLMs) even in non-AI roles to stay competitive
-- The shift to an employer's market post-2022 means many mid-level candidates are accepting lower titles or salaries than their experience would have commanded in 2021
+Share
 
----
+Report
+Report
+u/CNA avatar
+CNA
+•
+Promoted
 
-## Got an Offer from xAI
+Watch CNA stories on YouTube
+View More
+youtube.com
+Clickable image which will reveal the video player: Watch CNA stories on YouTube
+Collapse video player
 
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1jqq06y/got_an_offer_from_xai/
-**Summary:** FAILED TO LOAD — Reddit is inaccessible and no cached version was found via web search. This thread discusses a first-hand account of receiving a job offer from xAI (Elon Musk's AI company), likely covering the interview process, compensation, and considerations around accepting or declining.
-**Interview Questions Mentioned:** None retrievable
-**Key Insights:**
-- xAI's interview process (from available reporting): begins with a 15–30 minute phone screen with technical questions, followed by a deep-dive coding challenge, and concludes with a team meet-and-greet
-- xAI compensation is exceptionally high: salaries range from $180,000 to $440,000, with senior MLE offers reportedly reaching $785,000 TC; entry-level MTS offers cited at $500,000 TC in Palo Alto
-- xAI operates with a flat structure and expects all employees to be "hands-on" and contribute directly to the company's mission
-- Elon Musk has stated he prioritizes the interview conversation over the resume — candidates who do not impress within 20 minutes tend not to advance
-- xAI explicitly screens for candidates who are mission-aligned with building AGI/frontier AI; political considerations around xAI's leadership are a noted factor candidates weigh
-- One xAI co-founder publicly called out a candidate for using AI assistance during an interview, signaling active detection of AI tool use during their assessments
+0:00 / 0:00
 
----
 
-## Notes on Data Sources
 
-All 18 Reddit URLs were inaccessible due to the following confirmed blocks:
-- `reddit.com` — blocked ("Claude Code is unable to fetch from www.reddit.com")
-- `old.reddit.com` — blocked
-- `web.archive.org` — blocked
-- `redlib.catsarch.com` — 403 Forbidden
-- `redlib.perennialte.ch` — 403 Forbidden
-- `redlib.freedit.eu` — 403 Forbidden
-- `redlib.tux.pizza` — 403 Forbidden (sibling error)
-- `redlib.seasi.dev` — timeout
-- `red.ngn.tf` — DNS not found
-- `reddit.idevstuff.org` — DNS not found
-- `r.nf` — redirects to non-standard port (blocked)
-- `unddit.com` — DNS not found
-- `redditsave.com` — error
 
-Summaries are based on:
-1. Web searches that surface secondary references or summaries of these threads
-2. Broad contextual research about the topics covered by each URL
-3. Known facts about the relevant companies, interview processes, and market conditions
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+clickittech
+•
+7mo ago
+here are some questions thet might ask during an interview:
+
+Here are a few questions I ask in interviews:
+
+Can you explain the difference between symbolic and connectionist AI?
+
+Walk me through the steps you’d take to deploy a machine learning model into production.
+
+Which platforms or tools do you regularly use for AI development, and why?
+
+What are some examples of weak AI vs. strong AI in real-world applications?
+
+Can you describe the types of text summarization techniques and when you’d use each?
+
+If you’re working with time-series data, what cross-validation technique would you use and why?
+
+Which methods would you consider for dimensionality reduction in a high-dimensional dataset?
+
+Can you share two examples where you applied forward or backward chaining and what influenced your choice in each case?
+
+Can you describe any specific techniques or tools you’ve used to approach model interpretability in AI systems?
+
+Do you have experience working with propositional or first-order logic in AI systems? If so, how have you applied them in knowledge representation tasks?
+
+Can you walk me through a specific project where you designed or managed data pipelines for an AI application? Please share the key challenges you faced and how you addressed them.
+
+During CNN training for an image classification task, you notice high training accuracy but low validation accuracy, indicating overfitting. Which hyperparameters would you prioritize, and how would you go about tuning them?
+
+How have you addressed bias/fairness in your models? Can you provide an example of a trade-off you’ve faced in the past?
+
+btw the company where I work wrote this blog about a guide to hire AI engineers, hope it can help you https://www.clickittech.com/ai/hire-ai-developers/
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/OkCluejay172 avatar
+OkCluejay172
+•
+8mo ago
+Basically the same, except you will often have a round on ML theory/specialization where you have to deep dive into some specialty knowledge on AI, and your system design questions are ML specific (eg, how do you model this problem and set up the ML specific aspects of the system rather than rather than database or client/server architecture).
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+akornato
+•
+8mo ago
+Companies typically start with a phone screen covering your background in machine learning fundamentals, then move to technical rounds that include coding challenges focused on data structures, algorithms, and ML-specific problems like implementing neural networks from scratch or optimizing model performance. You'll face system design questions about building scalable ML pipelines, handling large datasets, and deploying models in production environments. The most critical skills they're looking for are strong programming abilities in Python/PyTorch/TensorFlow, solid mathematical foundations in statistics and linear algebra, experience with MLOps tools, and the ability to translate business problems into ML solutions.
+
+The process usually takes 4-6 weeks and includes multiple technical rounds plus behavioral interviews where they assess your ability to work with cross-functional teams and communicate complex concepts to non-technical stakeholders. Many companies will give you a take-home project involving real data where you need to build, train, and evaluate a model, then present your approach and results. It's good to practice common AI engineer interview questions around model selection, handling overfitting, explaining different algorithms, debugging model performance issues, and designing end-to-end ML systems. The bar is high because companies need people who can both understand the theoretical aspects and actually ship working AI products that perform well at scale.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/NewChameleon avatar
+NewChameleon
+•
+8mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+same as others really
+
+1x HR phone call -> 1x coding interview -> then onsite, which is 2x coding 1x system design 1x behavioral -> offer/no offer
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Haunting_Welder avatar
+Haunting_Welder
+•
+8mo ago
+AI engineer is the same as software engineer but with data + LLM leaning, its the same, just using LLM or other models as a system component
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Dependent_Gur1387
+•
+8mo ago
+AI engineering interviews usually focus on problem solving, ML fundamentals, coding, and sometimes system design. Expect questions on data preprocessing, model deployment, and frameworks like TensorFlow or PyTorch. I’d recommend googling “prepare.sh” — they have real company-specific interview questions. Full disclosure: I contribute there, but used it myself long before, so I genuinely recommend it for prep.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+themanifestingtree
+•
+22d ago
+These are the only categories I see:
+Backend Engineering
+DevOps
+Data Engineering
+Data Analysis
+Quality Assurance
+Which ones did you utilize for your prep?
+

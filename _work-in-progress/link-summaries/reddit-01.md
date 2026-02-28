@@ -1,73 +1,5 @@
-## Am I being ghosted after a take-home assignment for [federal AI role]?
-**URL:** https://www.reddit.com/r/cscareerquestions/comments/1qoolmw/am_i_being_ghosted_after_a_takehome_assignment_for/
-**Summary:** A candidate applied for a federal government AI engineering role (described as a "Tech Force AI" position at the IRS), spent approximately 8 hours on a mandatory take-home assignment including prompt engineering work for an AI research tool, and received no follow-up. The poster asks whether being ghosted after completing the assignment means rejection. Comments clarify that government hiring works differently — job announcements close and candidates hear back only when selections are finalized, which can take weeks to months.
-**Interview Questions Mentioned:** None specific (take-home involved prompt engineering for an AI research tool and a written analysis component).
-**Key Insights:**
-- Federal government AI roles involve unusual hiring processes: take-home assignments are required before any offer, and silence does not necessarily mean rejection.
-- Commenters noted the role involved AI Engineers building chatbots to automate phone-based government services — reflecting real government AI adoption.
-- Concern expressed that completing unpaid 8-hour assignments for government AI roles represents "free work" with no guarantee of progression.
-- Candidates applying to the same opening again when it re-posts is a viable strategy if ghosted.
-- Government AI hiring can involve extensive background/security checks after a tentative offer, adding further delays.
-- Some commenters noted anxiety about AI replacing government workers — the role being interviewed for was itself about building AI to reduce headcount.
 
----
 
-## Mistral AI Applied Scientist/Research Engineer Intern interview process - what to expect?
-**URL:** https://www.reddit.com/r/cscareerquestionsEU/comments/1q5pzz5/mistral_ai_applied_scientistresearch_engineer
-**Summary:** A candidate interviewing for the Mistral AI Applied Scientist / Research Engineer internship asks the community about the interview structure, types of questions, and preparation advice. The post explicitly asks about rounds (recruiter screen, coding, ML theory, LLM systems/design, project deep dive), whether coding is DSA/LeetCode vs. PyTorch/ML implementation, which ML/LLM topics are emphasized, and any surprises in format. The few comments are sparse — one respondent said they went through it and were rejected, with no details shared.
-**Interview Questions Mentioned:** None explicitly (post is asking for this information, not providing it).
-**Key Insights:**
-- The poster specifically flagged uncertainty about whether coding focuses on DSA/LeetCode vs. PyTorch/ML implementation — reflecting a common dilemma for AI-specific roles.
-- Topics the candidate expected to cover: transformers, training stability, evaluation, RAG, distributed training, inference optimization.
-- Format unknowns include: take-home assignments, code review, pair programming, "quiz" style rounds.
-- The sparse response indicates Mistral AI interview experiences are rarely shared publicly — the company is relatively opaque compared to FAANG.
-- One commenter's only answer to "how did it go?" was "It was okay. Rejected." — suggesting the process is selective and demanding.
-
----
-
-## [MSc Fresh Grad] Suggestions on interview prep. (ML Eng. at Amazon, Berlin)
-**URL:** https://www.reddit.com/r/cscareerquestionsEU/comments/snngyv/msc_fresh_grad_suggestions_on_interview_prep_ml/
-**Summary:** A fresh MSc graduate preparing for their first-ever ML Engineering onsite at Amazon Berlin (5 rounds) asks for advice on what to expect. The recruiter declined to specify which interviews would cover which topics, saying only that all 5 would be a "mix of behavioral + technical." The poster shares a table of interviewers (Front-End Eng III, Sr. SDE, Sr. Applied Scientist, SDE + ML Eng, Applied Science Manager) and asks how to map these to expected interview types.
-**Interview Questions Mentioned:**
-- Should I prepare for ML coding questions like K-means from scratch or gradient descent from scratch?
-- Should I prep for typical system design or ML system design? Or both?
-- Should I prep for ML case interviews? Is there a difference between ML case interviews and ML system design?
-**Key Insights:**
-- Amazon's ML Engineering onsite typically mixes: behavioral (Leadership Principles), DSA/coding, ML theory/coding, and ML system design — but the exact split is role- and team-dependent.
-- The poster's interviewer lineup analysis: Front-End Eng III as Bar Raiser, Sr. SDE for DSA, Sr. Applied Scientist for ML content, SDE+ML Eng for ML system design or ML coding, Applied Science Manager as hiring manager.
-- Amazon recruiters at the Berlin office may be less forthcoming about interview format than those in the US.
-- For fresh MSc grads at Amazon, preparing for ML implementation from scratch (K-means, gradient descent) is considered relevant alongside standard DSA prep.
-- ML case interviews and ML system design are related but distinct — case interviews focus more on problem framing and metric design, while system design covers architecture and scaling.
-
----
-
-## Meta Applied Research Scientist - interview preparation
-**URL:** https://www.reddit.com/r/cscareerquestionsEU/comments/tfkjck/meta_applied_research_scientist_interview/
-**Summary:** A candidate with 3.5 years of Data Science experience in retail/supply chain applied for a Meta Applied Research Scientist role in Amsterdam and is preparing for interviews. They note that most available content online focuses on product DS interviews, not Applied Scientist roles. They are asking for anyone with recent experience in the Applied Scientist interview process specifically. Comments are sparse — mostly pointing to Blind for more information.
-**Interview Questions Mentioned:** None mentioned (post is seeking guidance).
-**Key Insights:**
-- There is a notable gap in publicly available prep material for Meta Applied Scientist interviews compared to product Data Scientist roles — candidates are largely on their own.
-- The best community resource found was Blind (teamblind.com), specifically the search for "meta applied research scientist."
-- Meta Applied Research Scientist interviews are distinct from product DS interviews and likely emphasize ML research depth, not just product metrics/SQL.
-- A background in ML in non-FAANG environments (e.g., retail/supply chain) is viable for applying to these roles, but the interview preparation gap is significant.
-
----
-
-## MLE jobs in FAANG FAQ
-**URL:** https://www.reddit.com/r/cscareerquestionsEU/comments/ui80xa/mle_jobs_in_faang_faq/
-**Summary:** A community member writes a comprehensive FAQ about MLE positions in FAANG for the European audience, covering hiring levels, pay, interview difficulty, and a step-by-step preparation guide. The post emphasizes that MLE hiring is harder than SDE, ML system design knowledge is required, and the full process takes 6+ months but can double a candidate's salary.
-**Interview Questions Mentioned:**
-- Random questions from Bayesian methods and regression to state-of-the-art models.
-- ML system design questions (in addition to standard SDE system design).
-**Key Insights:**
-- FAANG rarely hires L2/L3 ML Engineers — typical entry paths are a PhD, external ML experience (e.g., at companies like Zalando), or starting as an SDE intern and switching internally.
-- Pay between SDE and MLE is nearly identical at FAANG, but MLE positions are fewer and harder to land.
-- MLE interviews require passing ML system design rounds and sometimes ML theory questions — on top of standard SDE bars.
-- The 6-step preparation path: (1) strong CV with impact metrics, (2) get referrals, (3) grind LeetCode (neetcode.io recommended), (4) study system design and ML design via YouTube/Blind/educative.io, (5) do mock interviews, (6) do many real interviews and learn from rejections.
-- Smaller European companies rarely have the data scale needed for real ML impact — FAANG is seen as the better venue to develop ML engineering skills.
-- CV formatting: impact numbers matter — "improved ROC AUC" without business impact is seen as weak.
-
----
 
 ## Microsoft SWE applied AI/ML summer 2026 Redmond interview experience
 **URL:** https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond
@@ -83,22 +15,6 @@
 - The format (test AI use AND test coding without AI) signals that Microsoft values both AI-augmented productivity and baseline coding skills.
 - The interviewer was positive and gave real-time feedback during the interview.
 - Comments confirm: the process did not involve standard LeetCode-style DSA prep as the primary focus.
-
----
-
-## [Megathread] Google Software Engineer, Early Career (US) Timeline 2026 - Share Your Experience
-**URL:** https://www.reddit.com/r/csMajors/comments/1om27dx/megathread_google_software_engineer_early
-**Summary:** A community-organized megathread for tracking Google Early Career SWE 2026 interview timelines and experiences. The original post sets up a structured format for candidates to share their application dates, OA types, phone screen details (question type and difficulty), onsite rounds (3 technical rounds), and tips. Comments focus on timelines, wait times after interviews, and occasional rejection notices with no feedback.
-**Interview Questions Mentioned:**
-- Phone screen: LeetCode Easy/Medium/Hard, topic areas such as arrays, graphs, DP, strings.
-- Onsite: 3 technical rounds, each with a specific question type and topic area (structure shared but no specific questions).
-**Key Insights:**
-- Google Early Career SWE interviews follow a standard format: OA → Phone Screen (1 coding round) → Onsite (3 coding rounds).
-- Candidates report getting OA 4+ days after applying, with significant variability in recruiter responsiveness.
-- Wait time from final interview to decision is highly variable — some wait 1.5+ weeks; long waits are not necessarily a bad sign.
-- Rejections after apparently strong performances (candidate felt they "aced" rounds) are common and frustrating.
-- No detailed feedback is provided on rejection — candidates are simply told they weren't selected.
-- The megathread format itself reflects how candidates rely on community aggregation to understand opaque recruiting timelines.
 
 ---
 
@@ -127,43 +43,6 @@
 - Being knowledgeable but communicating it poorly (especially if you know more than the interviewer) can still result in rejection.
 - For senior roles, the candidate is expected to read the room and demonstrate judgment about when AI solutions are and aren't appropriate.
 
----
-
-## Data Scientist / ML Engineer Interview Expectation 2024
-**URL:** https://www.reddit.com/r/datascience/comments/196v8lp/data_scientist_ml_engineer_interview_expectation/
-**Summary:** A candidate preparing for DS/MLE interviews in 2024 asks how expectations differ between new grad and experienced (2-3 year) candidates, how much weight to give to LLMs vs. traditional ML topics, and how to handle the sponsorship challenge. The top answer is a detailed breakdown from a FAANG interviewer, and the OP turns out to be the author of a book on DS interviews.
-**Interview Questions Mentioned:**
-- Interviews typically start with: "describe a project from your resume."
-- Follow-up probing questions based on breadth vs. depth needs and specific topics (interviewer-dependent).
-**Key Insights:**
-- In 2024, many companies add "LLM/GenAI" to job descriptions for optics, but actual interviews still emphasize traditional ML, statistics, and project-based questions.
-- If LLMs are asked about, it's typically project-based: "you fine-tuned an LLM, tell me how" — not deep theory questions.
-- FAANG DS/MLE interviews are largely conversational: start with a project walkthrough, then probe for breadth or depth depending on what the interviewer needs to verify.
-- Statistics and probability remain important, alongside ML algorithms and system design for senior roles.
-- For new grads seeking sponsorship: highlight unique differentiators clearly; generic prep isn't enough.
-- A book exists (by OP) on DS interview prep — this thread essentially served as a launch discussion for it.
-
----
-
-## ML design interview experience
-**URL:** https://www.reddit.com/r/datascience/comments/1g5gi7j/ml_design_interview_experience/
-**Summary:** A college junior with no industry experience shares a detailed ML system design interview question they received at a small startup: "Design the Amazon search engine (product ranking) from scratch." They walk through their full approach — embedding-based retrieval, k-means clustering for indexing, cross-encoder reranking, and online/offline metrics — and ask for feedback on where they went wrong.
-**Interview Questions Mentioned:**
-- "Design the Amazon search engine (product ranking) from scratch."
-- Sub-question: "Come up with an indexing approach yourself."
-- Sub-question: "How would you add new products to the index?"
-- Sub-question: "What are the online metrics for this system? What are the edge cases?" (e.g., user directly adds to cart without clicking, accidental clicks).
-- Sub-question: "What are the offline metrics?" (NDCG was the expected answer; MAP was discussed).
-**Key Insights:**
-- ML system design interviews can go deep on retrieval architectures: approximate nearest neighbor (HNSW), clustering-based candidate generation, and cross-encoder reranking are all valid topic areas.
-- Agglomerative clustering is a poor answer for large-scale indexing due to O(n²) complexity — interviewers will catch this.
-- Knowing the names of indexing methods (HNSW) without depth is risky — interviewers may probe further.
-- Online metrics for search/ranking have subtle edge cases: direct "add to cart" clicks (bypassing views), accidental clicks, bot traffic.
-- NDCG is generally preferred over MAP or MRR for ranking problems where multiple relevant items should appear in top positions.
-- Communication clarity matters: the candidate had a valid approach but the interviewer misunderstood it — structuring the explanation more formally would have helped.
-- For juniors with no industry experience, getting this far in a system design interview is already notable.
-
----
 
 ## Getting Interviews for really Senior roles (Staff Research Scientist), don't understand why and what to do
 **URL:** https://www.reddit.com/r/datascience/comments/1g5ilx7/getting_interviews_for_really_senior_roles_staff/
@@ -177,40 +56,8 @@
 - Imposter syndrome is normal at every level — even experienced seniors feel unqualified walking into new roles.
 - These interviews are valuable as learning experiences even if you don't land the roles.
 
----
 
-## Meta Data Science Onsite Interview
-**URL:** https://www.reddit.com/r/datascience/comments/1gojatt/meta_data_science_onsite_interview/
-**Summary:** A candidate studying for the second-round interview for Meta's Product Data Science internship asks for guidance on what to expect. They heard that SQL is no longer tested in this round and that there will be a product case + statistics questions. They ask for statistics study resources and general round expectations.
-**Interview Questions Mentioned:**
-- Product case interview (second round focus).
-- Statistics questions (type unspecified; candidate asks for resources to prep).
-**Key Insights:**
-- Meta Product DS interviews have shifted away from SQL in later rounds — the focus is now product case + statistics.
-- Recommended preparation resources: Emma Ding's YouTube channel for product case practice; a GitHub repo of DS practice questions covering stats, product analytics, and metrics.
-- The Meta interview process for DS interns typically involves multiple rounds with significant wait times between each.
-- Some candidates report waiting 1.5+ weeks to hear back after final rounds; recruiters sometimes delay scheduling feedback calls.
-- Community organizing peer mock interviews is common for high-stakes Meta DS prep.
 
----
-
-## "Good at practical ML, weak on theory" — getting the same feedback everywhere. How do I fix this?
-**URL:** https://www.reddit.com/r/datascience/comments/1jlnhg1/good_at_practical_ml_weak_on_theory_getting_the/
-**Summary:** A 2-3 year ML Engineer (applied focus, recently shifted to GenAI/LLMs/RAG) keeps receiving consistent feedback from ML-mature companies that their theoretical ML explanations are vague or imprecise, despite strong practical experience. They ask how to structurally close the theory gap for interviews at more research-oriented companies.
-**Interview Questions Mentioned:**
-- Theory questions on missing data handling (mean imputation, MICE algorithm).
-- Loss functions for decision trees (cross-entropy vs. Gini index — asked to hand-code them).
-- Questions about OLS matrix algebra and what it means to minimize residuals.
-- Precision vs. recall distinction.
-**Key Insights:**
-- Applied ML engineers who've shifted to GenAI work tend to drift from classical ML theory — this creates a predictable gap when interviewing at ML-mature companies.
-- Interviewers sometimes use terminology as a proxy for understanding — knowing a concept but not its common name (e.g., calling MICE "that algorithm") can signal weakness even when the knowledge is there.
-- Recommended resources for closing the theory gap: "Understanding Deep Learning" by Prince (free PDF), "Introduction to Statistical Learning" (ISLR), "Elements of Statistical Learning" (ESL).
-- Having deeper knowledge than the interviewer can backfire if not communicated well — one commenter reported giving more detailed answers than the interviewer expected, which was interpreted as being wrong.
-- Structural study approach: use textbooks with end-of-chapter questions rather than courses, since courses rarely force precise articulation.
-- The boundary between "applied" and "theory" is often about explanation precision, not knowledge depth — practicing verbal explanations of concepts is as important as learning them.
-
----
 
 ## ML Engineer GenAI @ Amazon
 **URL:** https://www.reddit.com/r/datascience/comments/1jrdrpx/ml_engineer_genai_amazon/
@@ -255,23 +102,3 @@
 - C++ was mentioned as a high-value but painful path for AI engineers building infrastructure.
 - The "DS → AI Engineer" transition requires a mindset shift: "You're not the modeller anymore. You're building product."
 - For interviews, this suggests AI Engineering roles increasingly require full-stack awareness, not just ML modeling expertise.
-
----
-
-## How can I give a good data science/machine learning interview?
-**URL:** https://www.reddit.com/r/datascience/comments/1mhikh4/how_can_i_give_a_good_data_sciencemachine/
-**Summary:** A 6-month DS/MLE who is the only data scientist at their company has been asked to conduct the technical side of hiring interviews. They plan to ask standard recall-based questions (classification vs. clustering, R², etc.) and then ask how candidates would approach their actual work problems. They ask the community for tips on how to interview well as a relatively inexperienced interviewer.
-**Interview Questions Mentioned:**
-- "What is the difference between classification and clustering?"
-- "What is R²?"
-- "Speed vs. accuracy trade-off" (raised as a tricky question — commenters flagged it as potentially unfair).
-- Practical problem-solving: present a sanitized version of a real work dataset and walk through cleaning, feature engineering, and model selection.
-**Key Insights:**
-- The most upvoted advice: take-home project with follow-up discussion ("explain how you did the analysis, your model selection, and why") is preferred over quiz-style recall questions.
-- Conversational interviews focused on one of the candidate's own projects are highly recommended: low pressure, reveals competence at all experience levels.
-- Ask follow-up questions based on the role's actual needs, not generic checklists.
-- Create a consistent question framework: a decision matrix of (progressively harder questions × topic × level) to compare candidates fairly.
-- Be aware of legally prohibited questions — training on this is essential for new interviewers.
-- "Speed vs. accuracy" questions were called out as potentially trick questions where a reasonable answer could go either way — avoid ambiguous tradeoff questions.
-- Asking about something the candidate has never used doesn't mean they lack skill — context matters.
-- Good interview structure: 1 min intro, 1 min candidate intro, 1 min explain format, then substantive questions, 5 min candidate questions at end.

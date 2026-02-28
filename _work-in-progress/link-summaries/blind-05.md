@@ -1,36 +1,6 @@
 # TeamBlind ML/AI Interview Posts - Batch 05
 
 ---
-
-## Snap MLE Interviewing Experience
-
-**URL:** https://www.teamblind.com/post/snap-mle-interviewing-experience-vjqn4xvy
-**Summary:** A PhD in CS with 3 years of MLE experience shares their Snap onsite interview experience from July 2023. The process included ML fundamentals, ML applied, ML system design, two coding rounds, and an informal Q&A with MLEs. The candidate noted that ML interviewers showed no interest in their projects and stuck rigidly to a fixed template.
-**Interview Questions Mentioned:** None (process-focused, not specific questions)
-**Key Insights:**
-- Onsite structure: ML fundamentals (60 min), ML applied (60 min), informal Q&A with MLE (30 min), ML system design (60 min), coding x2 (60 min each)
-- Technical screen: 60 min total — 10 min intro, 10 min ML fundamentals, 10 min behavioral, 30 min LC medium (later said to be hard)
-- ML interviewers strictly followed a fixed template; showed no interest in candidate's background or projects
-- SWE interviewers were notably more interested in candidate projects than ML interviewers
-- Q&A with MLEs suggested the team was overworked with tight deadlines and more focused on execution than innovation
-- Scheduling was disorganized; interviewers changed mid-onsite
-
----
-
-## So Sick of Hiring Managers Wanting LLM Experience
-
-**URL:** https://www.teamblind.com/post/so-sick-of-hiring-managers-wanting-llm-experience-uodj21jn
-**Summary:** Posted in November 2024, this thread captures frustration from an ML/Data Science professional who had been searching for a new role for over a year. The poster observed that mid-size and small companies universally demand LLM experience without a clear vision of why they need it or how to use it. Companies want someone to come in and define the LLM strategy for them, but are unwilling to pay appropriately for that expertise.
-**Interview Questions Mentioned:** None
-**Key Insights:**
-- Strong demand for LLM experience even at companies without a coherent AI strategy
-- Many companies want candidates to define their LLM use cases for them — expecting strategic consulting at entry-level pay
-- Commenters noted LLMs have been mainstream since ChatGPT's 2022 launch, so two years in, not having hands-on experience is increasingly a disadvantage
-- Reflects a broader tension between market LLM hype and realistic prior exposure across the candidate pool
-- Hiring managers at smaller companies are conflating "has used ChatGPT" with "can build production LLM systems"
-
----
-
 ## Stripe Machine Learning Engineer First Interview
 
 **URL:** https://www.teamblind.com/post/Stripe-Machine-learning-Engineer-First-Interview-Uu0pmfgG
@@ -60,23 +30,6 @@
 - ML Bug Squash round: debugging buggy code related to data processing, model performance, or pipeline integration
 - ML Design round: designing ML solutions (fraud detection, recommendation systems) covering data ingestion, feature engineering, and model training
 - Typical onsite loop: Coding, System Design, Bug Bash, and Integrations (each 1 hour)
-
----
-
-## Stripe/Square/Lyft/Spotify Sr. ML Engineer Interview Structure
-
-**URL:** https://www.teamblind.com/post/StripeSquareLyftSpotify-Sr-ML-Engineer-interview-structure-gmCmf3XQ
-**Summary:** Posted in September 2022, this thread discusses the senior ML engineer interview structure across Stripe, Square, Lyft, and Spotify. The consensus was that all these companies include a project presentation, ML theory questions, some practical software engineering questions, and a coding round that is not standard LeetCode-style.
-**Interview Questions Mentioned:**
-- Describe and discuss your most recent project in depth
-- ML theory questions (mostly conceptual, not implementation)
-- Practical SE questions (e.g., Docker usage, infrastructure basics)
-**Key Insights:**
-- Senior MLE interviews across these companies share a similar structure: project walkthrough + ML theory + practical SE + coding
-- Coding questions are "mostly easy but not LeetCode-style" — focus is on problem solving, testing, and communication rather than algorithmic performance
-- Preparation should cover LeetCode, ML system design, and behavioral in parallel
-- ML theory component at senior level is broad/conceptual rather than deep
-- Docker and basic DevOps/infrastructure knowledge is expected for senior roles
 
 ---
 
@@ -158,23 +111,6 @@
 
 ---
 
-## Upcoming MLE Interview at Amazon - Need Some Help
-
-**URL:** https://www.teamblind.com/post/upcoming-mle-interview-at-amazon-need-some-help-kfki3nmt
-**Summary:** Posted in July 2024, a candidate had applied for an SDE role at Amazon but ended up with an onsite for an ML Engineer position. They sought community guidance on how Amazon MLE interviews differ from standard SDE interviews and what to focus on.
-**Interview Questions Mentioned:**
-- ML design questions: design a product recommender, design Alexa backend, design price-setting systems, design visual search
-- Coding: standard SDE-style (not specifically ML-focused)
-**Key Insights:**
-- Amazon MLE coding rounds are the same as SDE coding rounds — standard LeetCode-style problems, not ML algorithm implementations
-- ML-specific evaluation happens in system/ML design rounds, not coding
-- ML design topics tied to Amazon products: recommendation systems, Alexa, pricing, visual search
-- SQL and Python skills are expected alongside ML concept depth
-- Heavy emphasis on ML system design with a systems thinking lens (scalability, data pipelines, feature engineering)
-- Amazon Leadership Principles still apply for behavioral portions of MLE interviews
-
----
-
 ## Useful Resources for ML / AI Interview Prep
 
 **URL:** https://www.teamblind.com/post/useful-resources-for-ml-ai-interview-prep-zjxnmhc8
@@ -247,23 +183,3 @@
 - Meta/Facebook expects all coding problems to be solved completely, bug-free, within time limits
 
 ---
-
-## xAI Interview
-
-**URL:** https://www.teamblind.com/post/xai-interview-yz7skn4n
-**Summary:** Posted in October 2024, this is a firsthand account from someone who completed the xAI interview process. The candidate described a fast-moving process (under two weeks end-to-end) with four video rounds after an OA and technical deep dive, and shared positive impressions of the interviewers.
-**Interview Questions Mentioned:**
-- OA: standard algorithmic problems
-- Technical deep dive: research discussion and ML fundamentals
-- Round: coding with concurrency
-- Round: LeetCode-style coding
-- Round: research discussion + ML fundamentals
-- Round: behavioral + cultural fit (why xAI, what interests you in their work)
-**Key Insights:**
-- xAI interview pipeline: OA → technical deep dive → 4 VO rounds
-- Total timeline: under 2 weeks (fast even by FAANG standards)
-- Interviewers at xAI are described as "really nice" and technically excellent
-- Succeeding requires strong live coding performance, genuine intellectual curiosity about AI, and the ability to connect personal interests to xAI's mission
-- Concurrency programming (threads, async, parallelism) is specifically tested — uncommon at most ML roles
-- Research background and ability to discuss papers fluently is valued
-- Cultural fit at xAI is tied to authentic interest in frontier AI, not just generic "passion for AI" statements

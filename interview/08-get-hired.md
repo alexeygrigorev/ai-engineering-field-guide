@@ -36,8 +36,8 @@ From successful candidates' stories:
 
 - Single high-quality project > Multiple certifications: A multi-agent system that scales to 100k+ queries impresses more
 - Production evolution: Show optimization from prototype to cost-efficient production
-- Clean GitHub: Exhaustive README, demos, clear documentation — cited as primary reason for recruiter interest
-- Evaluation included: Every RAG system should have an eval harness (LLM-as-judge, golden sets)
+- Clean GitHub: Exhaustive README, demos, clear documentation — cited as primary reason for recruiter interest. An xAI candidate credited Grok-related PRs on GitHub and a decent follower count for getting "pushed to the top of the pile" and hearing back within days ([Reddit](https://www.reddit.com/r/leetcode/comments/1pjhw1i/xai_ai_engineer_backendinfra_interview_just/))
+- Evaluation included: Every RAG system should have an eval harness (LLM-as-judge, golden sets). One interviewer reported "most candidates don't seem to start with evals and that's a red flag in the first 10-15 mins" ([Reddit r/ycombinator](https://www.reddit.com/r/ycombinator/comments/1jnfijm/what_is_your_interview_assignment_for_ai_engineers/))
 
 ## What to Have Ready Before You Apply
 
@@ -66,7 +66,7 @@ From 50+ AI engineer interviews observed at top startups ([Fonzi AI](https://med
 ## Preparation Advice from People Who Succeeded
 
 1. Build 2-3 end-to-end projects: RAG app, autonomous agent, something deployed
-2. Practice explaining trade-offs aloud: verbal reasoning matters more than perfect code
+2. Practice explaining trade-offs aloud: verbal reasoning matters more than perfect code. "Practice verbally explaining concepts without hesitation -- fluency signals experience" ([Reddit r/generativeAI](https://www.reddit.com/r/generativeAI/comments/1p4yrjk/how_to_clear_interviews_in_ai_gen_rag_llm/))
 3. Learn evaluation early: Ragas, DeepEval, LLM-as-judge frameworks
 4. Show production readiness: Docker, CI/CD, monitoring - not just notebooks
 5. Understand cost/latency: caching, batching, model routing decisions
@@ -90,6 +90,8 @@ Janvi Kalra ([Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/fro
 - Categorize the AI market to focus your search: product companies (Cursor, Codium), infrastructure companies (Modal, Fireworks, Pinecone, Braintrust), and model companies (OpenAI, Anthropic, Google, Meta). Decide which segment excites you most
 - Do startup due diligence like an investor. Your career growth at a startup is contingent on the startup growing. Evaluate: (1) revenue and revenue growth rate, (2) large market with room to expand, (3) loyal/obsessed customers, (4) competitive positioning. "All engineers that take a pay cut to go to a startup should have an informed thesis on why they think that company is going to grow during their tenure." If a startup won't share financials after you have an offer, that's a red flag
 - Learn by doing. Hackathons (weekend and multi-week online), building in public, and reading blogs/Twitter were more effective than courses when the field moves this fast
+
+A SWE with 6 YOE who transitioned to AI engineering over 18 months shares a similar trajectory ([Reddit r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/1pwvb5a/how_i_cracked_an_ai_engineer_role/)): foundations (Python, math, Andrew Ng courses) → ML/DL projects (Kaggle, Hugging Face) → modern AI (RAG chatbot, fine-tuned LLMs, multi-modal apps) → MLOps (FastAPI, Docker, monitoring) → interviews. Key insight: "AI engineering is 70% software development anyway. As a developer, deployment was my superpower -- AI folks often struggle with scaling, but I already knew Docker." Interview questions were about understanding and decision-making, not math-heavy theory
 
 ## Key Resources
 

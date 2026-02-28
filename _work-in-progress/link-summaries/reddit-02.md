@@ -51,41 +51,7 @@
 - Early interview rounds involved minimal human interaction — some candidates found this unusual
 - Partnership with product managers and infrastructure teams is emphasized for the role
 
----
 
-## My ML Engineer Interviews Compilation (Along With...)
-**URL:** https://www.reddit.com/r/developersIndia/comments/1q065gd/my_ml_engineer_interviews_compilation_along_with/
-**Summary:** A 4-year ML engineer at a top Indian product company shares a detailed compilation of their 2025 interview experiences across multiple organizations for ML and GenAI roles. The post covers specific coding tasks, theoretical deep-dives, and preparation strategies.
-**Interview Questions Mentioned:**
-- Implement multi-head attention (MHA) from scratch in PyTorch
-- Explain and implement decoding strategies: beam search, greedy sampling, top-k, top-p, temperature scaling
-- Statistical concepts: p-values, t-statistics, hypothesis testing
-- Prove that MSE is non-convex for logistic regression
-- System design for ML applications and LLM optimization
-**Key Insights:**
-- Coding attention from scratch was asked at multiple companies — it's a high-frequency question for GenAI roles
-- FAANG companies demand rigorous mathematics and theoretical foundations, not just practical knowledge
-- Understanding the "why" behind algorithms, not just the "how," is a differentiator
-- NeetCode and dynamic programming practice are essential for DSA rounds
-- O'Reilly books and academic papers recommended for ML/DL depth
-- Company pattern: GenAI roles focus heavily on attention mechanisms and transformer architectures; system design rounds evaluate production-level thinking
-
----
-
-## 2026 Interview Preparation for Senior/Staff SDE
-**URL:** https://www.reddit.com/r/developersIndia/comments/1q071os/2026_interview_preparation_for_seniorstaff_sde
-**Summary:** A software engineer with 14 years of experience seeks guidance on interviewing for senior/staff roles in 2026, prompting discussion about what distinguishes strong candidates at this level. The thread addresses LeetCode expectations, system design depth, and behavioral signals.
-**Interview Questions Mentioned:** None specific
-**Key Insights:**
-- LeetCode is still required at senior levels but is considered "hygiene" — a baseline, not a differentiator
-- System design depth matters more at senior levels: real tradeoffs, capacity planning, failure modes, migration stories
-- Behavioral signals evaluated: ownership, cross-team influence, mentoring experience
-- Companies sometimes ask two hard-difficulty LeetCode problems in one hour at senior levels
-- Using referrals to negotiate interview round order (starting with system design) can benefit experienced candidates
-- Junior interviewers may lack the experience to properly calibrate senior candidates — a systemic problem
-- Slow hiring processes and unclear expectations are common frustrations in the current market
-
----
 
 ## On m'a demandé de construire un agent LLM complet (I Was Asked to Build a Complete LLM Agent)
 **URL:** https://www.reddit.com/r/developpeurs/comments/1m84v47/on_ma_demandé_de_construire_un_agent_llm_complet/
@@ -103,26 +69,7 @@
 - This pattern of using interview assignments as free labor is increasingly discussed and criticized in European tech communities
 - The scope represents a near-complete RAG system: multi-document ingestion, structured and unstructured data retrieval, visualization, comparison analytics
 
----
 
-## Systems Design Interviews Implicitly Assume a Web Background
-**URL:** https://www.reddit.com/r/ExperiencedDevs/comments/114925b/systems_design_interviews_implicitly_assume_a/
-**Summary:** An experienced developer with background in ML, trading, computer vision, and HFT argues that systems design interviews are structurally biased toward candidates who have worked at web-scale companies, creating a "catch-22" barrier for domain-switchers. The thread examines how system design interview patterns encode assumptions about specific architectural choices.
-**Interview Questions Mentioned:**
-- Design a recommendation engine (for adtech company)
-- Design webhooks at GitHub
-- Design Bing
-- Build Hadoop from scratch on office PCs
-**Key Insights:**
-- System design interviews implicitly assume familiarity with web-scale patterns (streaming, sharding, CDN, message queues)
-- Candidates from non-web domains (ML systems, HFT, CV) often have equivalent depth but in different architectures
-- The catch-22: "The only way to get into webtech is to have already been in webtech"
-- Batch vs. streaming tradeoffs are domain-dependent — batch is often the correct choice outside web contexts
-- Different domains define seniority differently: web focuses on architectural expertise; others value problem identification and business alignment
-- Counter-argument from experienced interviewers: well-designed interviews can remain accessible if fundamentals are strong
-- Practical implication for candidates: study web-specific patterns (eventual consistency, horizontal scaling, async messaging) even if your background is non-web
-
----
 
 ## Is This Type of Take-Home Assignment Becoming the Norm?
 **URL:** https://www.reddit.com/r/ExperiencedDevs/comments/1nyzx77/is_this_type_of_takehome_assignment_becoming_the/
@@ -178,21 +125,6 @@
 - Enterprise-level RAG/agentic systems require observability, compliance, and realistic architectural thinking — not just prototypes
 - The interview revealed that LangChain/LangGraph project experience alone is insufficient if production concerns cannot be articulated
 
----
-
-## Failed First Coding Machine Learning Interview
-**URL:** https://www.reddit.com/r/learnmachinelearning/comments/1gvceaj/failed_first_coding_machine_learning_interview/
-**Summary:** A PhD holder in a quantitative field shares their experience failing their first ML engineering coding interview after 300+ job applications. The core task was implementing a single-head attention transformer from scratch using only NumPy in 30 minutes — a task that sparked significant debate about whether such assessments are reasonable.
-**Interview Questions Mentioned:**
-- Implement a single-head attention transformer from scratch using NumPy (no deep learning frameworks allowed), within 30 minutes
-**Key Insights:**
-- Implementing transformers from scratch is a real interview task at some companies, especially for deep learning engineer roles
-- The community is divided: some call it a fair test of foundational understanding; others call it an academic exercise disconnected from real work
-- Smaller companies often have "eccentric interviews" with unclear expectations and idiosyncratic question choices
-- Having only one interview from 300+ applications suggests resume issues as the primary problem
-- Repeated failure is common before eventual success — most respondents shared similar early experiences
-- Getting a second PhD is strongly discouraged by practitioners when the goal is industry employment
-- Interview difficulty varies dramatically by company type, role, and even individual interviewer
 
 ---
 

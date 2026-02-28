@@ -46,6 +46,8 @@ This is the list of resources I used while researching content for the [AI Engin
 - [KDnuggets: 10 Essential Agentic AI Interview Questions](https://www.kdnuggets.com/10-essential-agentic-ai-interview-questions-for-ai-engineers)
 - [DataCamp: Top 30 RAG Interview Questions for 2026](https://www.datacamp.com/blog/rag-interview-questions)
 - [DataCamp: Top 30 Agentic AI Interview Questions for 2026](https://www.datacamp.com/blog/agentic-ai-interview-questions)
+- [Hao Hoang: Top 50 Large Language Model (LLM) Interview Questions](https://drive.google.com/file/d/1cUxKspEXgQ64s4OFEw0kabf_qNauOPiH/view) - LLM internals, May 2025
+- [LLM Interview Questions (Lovable App)](https://llm-interview-questions.lovable.app/) - theory questions referenced by AI engineer interview candidates
 
 
 ## AI System Design Guides and Frameworks
@@ -245,6 +247,16 @@ This is the list of resources I used while researching content for the [AI Engin
 - [r/learnmachinelearning: Failed first coding machine learning interview](https://www.reddit.com/r/learnmachinelearning/comments/1gvceaj/failed_first_coding_machine_learning_interview/) - asked to code a model from scratch
 - [r/usajobs: Ghosted after take-home for US Treasury AI Engineer role](https://www.reddit.com/r/usajobs/comments/1qoolmw/am_i_being_ghosted_after_a_takehome_assignment_for/) - government AI hiring experience
 - [r/developpeurs: Asked to build a complete LLM agent for an interview](https://www.reddit.com/r/developpeurs/comments/1m84v47/on_ma_demand%C3%A9_de_construire_un_agent_llm_complet/) - scope of interview assignments
+- [r/ArtificialInteligence: AI Engineer Interview Questions](https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions/) - real questions from candidates, process overview
+- [r/datascience: Failed an interviewee because they wouldn't shut up about LLMs](https://www.reddit.com/r/datascience/comments/15t69mt/failed_an_interviewee_because_they_wouldnt_shut/) - cautionary tale about LLM hype misalignment
+- [r/datascience: Amazon ML Engineer GenAI](https://www.reddit.com/r/datascience/comments/1jrdrpx/ml_engineer_genai_amazon/) - Amazon L6 GenAI Innovation Center prep
+- [r/generativeAI: How to clear interviews in AI/GenAI/RAG/LLM](https://www.reddit.com/r/generativeAI/comments/1p4yrjk/how_to_clear_interviews_in_ai_gen_rag_llm/) - structured prep framework: RAG fundamentals, system design, verbal fluency, evaluation
+- [r/learnmachinelearning: How I Cracked an AI Engineer Role](https://www.reddit.com/r/learnmachinelearning/comments/1pwvb5a/how_i_cracked_an_ai_engineer_role/) - SWE to AI Engineer transition with roadmap
+- [r/learnmachinelearning: Interview Questions Gen AI](https://www.reddit.com/r/learnmachinelearning/comments/1ppgsf3/interview_questions_gen_ai) - consulting firm GenAI interview prep buckets
+- [r/ExperiencedDevs: Is this type of take-home assignment becoming the norm?](https://www.reddit.com/r/ExperiencedDevs/comments/1nyzx77/is_this_type_of_takehome_assignment_becoming_the/) - exploitative take-homes at AI startups
+- [r/csMajors: Microsoft SWE Applied AI/ML Summer 2026](https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond) - AI-assisted and non-AI coding rounds
+- [r/leetcode: 2026 Interview Prep (14+ YOE)](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) - senior-level landscape, LLM integration expectations, concurrency focus
+- [r/MachineLearning: Preparing for a DeepMind Gemini Team Interview](https://www.reddit.com/r/MachineLearning/comments/1k8gy12/d_preparing_for_a_deepmind_gemini_team_interview/) - LLM system design, distributed training, culture fit
 
 ## Market Data and Trends
 
