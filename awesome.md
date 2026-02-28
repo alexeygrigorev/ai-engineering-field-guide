@@ -20,8 +20,6 @@ This is the list of resources I used while researching content for the [AI Engin
 
 ## Software Engineer in AI - Interview Experiences
 
-- [Anthropic Software Engineer Interview Experience](https://www.linkjob.ai/interview-questions/anthropic-software-engineer-interview/) - format and system design questions
-- [OpenAI Loop Interview Experience](https://www.linkjob.ai/interview-questions/openai-loop-interview) - 5-week process, system design round details
 - [Rohit Verma: Microsoft Senior Engineer Interview Experience 2026](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1) - three-attempt journey to an offer, AI system design round (Ghibli image generator)
 - [How I Fought (and passed) Technical Interviews with LLMs in 2025](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-f328e9df8e84) - using LLMs to prepare for AI system design (RAG, vector DB, LLM serving)
 - [xAI Software Engineer Interview 2026 - Full Recap](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0) - pitfalls and real prep tips

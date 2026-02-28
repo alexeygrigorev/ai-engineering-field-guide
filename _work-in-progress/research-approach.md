@@ -10,16 +10,17 @@ Many "interview question" articles (especially on Medium) may be AI-generated or
 
 ### 1. Arctic-Shift API (Reddit data, free)
 
-**Script:** `scripts/fetch_reddit.py`
+**Script:** `interview/_internal/fetch_reddit.py`
 
 Fetches Reddit posts + comments without authentication. We use this to get full text of interview discussion threads.
 
 ```bash
-# Single post
-uv run python scripts/fetch_reddit.py 'https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/...'
+# Single post (run from interview/_internal/)
+cd interview/_internal
+uv run python fetch_reddit.py 'https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/...'
 
 # Batch mode
-uv run python scripts/fetch_reddit.py --batch _work-in-progress/reddit-urls-to-fetch.txt
+uv run python fetch_reddit.py --batch ../../_work-in-progress/reddit-urls-to-fetch.txt
 ```
 
 - API: `https://arctic-shift.photon-reddit.com/api`
@@ -29,12 +30,12 @@ uv run python scripts/fetch_reddit.py --batch _work-in-progress/reddit-urls-to-f
 
 ### 2. x.ai Grok API with search tools (paid)
 
-**Script:** `scripts/xai_search.py`
+**Script:** `interview/_internal/xai_search.py`
 
 Uses Grok (`grok-4-1-fast-reasoning`) with built-in `web_search` and `x_search` tools to find and analyze sources across the web.
 
 ```bash
-uv run python scripts/xai_search.py \
+uv run python xai_search.py \
   'Your natural language research prompt here. Be specific about what you need.
    Tell it which sources to check: Reddit, HN, Twitter/X, Medium, blogs.
    Ask for exact quotes, URLs, and whether sources are first-person accounts.' \
@@ -105,9 +106,11 @@ _work-in-progress/
 ├── link-summaries/
 │   ├── agent-questions-research.md    # Link verification status
 │   └── techeon-corroboration-map.md   # Question-to-evidence mapping
-scripts/
+interview/_internal/
 ├── fetch_reddit.py            # Arctic-Shift Reddit fetcher
-└── xai_search.py              # Grok API search with web/x tools
+├── xai_search.py              # Grok API search with web/x tools
+├── pyproject.toml             # Python project config (uv)
+└── main.py                    # Entry point stub
 ```
 
 ## Citation format
