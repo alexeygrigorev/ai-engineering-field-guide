@@ -11,22 +11,18 @@ There are two common delivery formats:
 - Conversational deep dive (more common). A hiring manager or senior engineer starts asking about your experience and progressively goes deeper into one project.
 - Prepared presentation (less common). You're asked in advance to prepare slides about a past project.
 
+
 ## Questions
 
 - Walk me through an AI project you built end-to-end. [^fonzi-ai]
-- Tell me about your past projects. [^exponent-behavioral]
-- Name a project or accomplishment you're most proud of. [^igotanoffer-openai]
-- Walk me through your most technically challenging project. [^exponent-openai]
+- Walk through a recent technical project. [^exponent-behavioral] [^prachub-anthropic]
+- Walk me through your most technically challenging project. [^exponent-openai] [^igotanoffer]
 - Tell me about a recent/favorite project and some of the difficulties you had. [^igotanoffer-meta]
-- Describe a time you reduced hallucinations or cost in production.
 - Describe a time you had to optimize an existing process or workflow for efficiency or scalability. [^youtube-exponent]
 - Describe a challenging prompt engineering problem that you solved. [^youtube-exponent]
 - Tell me about a technical challenge that you have overcome. [^exponent-behavioral]
 - Tell me about the greatest accomplishment of your career. [^igotanoffer-meta]
-- Walk through a recent technical project. [^prachub-anthropic]
 - Tell me about a project you're most proud of, and what role you played. [^youtube-upwork]
-- What level of prompts have you written? What kind of projects did you work on? [^khushal-kumar]
-- What is your most challenging work in GenAI? [^igotanoffer]
 
 
 ## Follow-up Probes
@@ -67,7 +63,6 @@ These are the probing questions interviewers ask to test depth of understanding.
 
 - What would you do differently if you started this project over? [^exponent-openai]
 - What would you explore next if you had more time? [^hello-interview]
-
 
 
 ## What Interviewers Evaluate

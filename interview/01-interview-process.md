@@ -15,10 +15,11 @@ Most frequently mentioned steps:
 1. Recruiter/talent screen - Usually 15-30 min
 2. Technical interview - Live coding, system design, or code review
 3. Hiring manager interview - 45-60 min deep dive
-4. Take-home challenge - Typically 2-3 hours
-5. Behavioral interview - Interview about values and culture
-6. CEO/founder interview - Usually final step, 15-30 min
-7. Panel interview - Multiple interviewers
+4. Behavioral interview - Interview about values and culture
+5. Take-home challenge - Typically 2-3 hours
+6. Panel interview - Multiple interviewers
+7. CEO/founder interview - Usually final step, 15-30 min
+
 
 Examples from job postings ([data/job-descriptions/](data/job-descriptions/)):
 
@@ -130,19 +131,6 @@ GenAI Engineer, product company [^reddit-genai-product] (2025):
 1. Technical interview focused on GenAI engineering
 2. LLM system design, RAG tradeoffs, evaluation metrics beyond perplexity
 
-
-### Patterns from practitioners
-
-Based on 130+ interview rounds reported by Janvi Kalra (46 companies) [^janvi-kalra], Deepthi Sudharsan (50+ rounds) [^deepthi-sudharsan], and a principal engineer with 14+ YOE (~40 interviews) [^reddit-2026-prep]:
-
-- LeetCode is declining but not dead. ~70% of senior interviews had none at all. When coding comes up, it's practical (string manipulation, real-world logic), not puzzle-based [^reddit-2026-prep] [^janvi-kalra]
-- Three interview types dominate: coding (DSA/LeetCode), system design, and project interviews ("go build something in a day") [^janvi-kalra]
-- System design shifted from "design Dropbox" to AI/LLM integrations: scaling AI systems, latency/cost trade-offs, batching, caching, streaming, failure modes. See [AI System Design](05-ai-system-design.md) for details [^reddit-2026-prep]
-- Project presentations are common: candidates present a past project, then get grilled on design decisions, trade-offs, what broke, what they'd change [^reddit-2026-prep] [^janvi-kalra]
-- Code reading and debugging are becoming more important alongside writing code [^janvi-kalra]
-- In-person final rounds are coming back [^janvi-kalra]
-- AI companies cluster into three types that affect interview focus: product companies (Cursor, Codium, Hebbia), infrastructure companies (Modal, Fireworks, Pinecone), and model companies (OpenAI, Anthropic, Google, Meta) [^janvi-kalra]
-- Interview focus varies by AI role: AI Engineers get distinct DSA and ML coding rounds plus ML system design; AI Researchers get paper peer-review rounds; Data Scientists get more SQL and core ML than GenAI [^deepthi-sudharsan]
 
 
 

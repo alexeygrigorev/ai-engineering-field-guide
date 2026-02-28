@@ -585,6 +585,13 @@ These traditional distributed systems questions appear at AI companies like Open
 | [System Design for RAG](https://www.designgurus.io/blog/system-design-for-rag) | Arslan Ahmad (DesignGurus) | 2026 |
 | [OpenAI System Design Interview Questions](https://www.designgurus.io/blog/openai-system-design-interview-questions) | DesignGurus | 2025 |
 
+Common mistakes:
+
+- Jumping to a solution without spending 5-10 minutes on clarifying questions and requirements
+- Designing only the happy path without discussing failure modes, monitoring, or evaluation
+- Treating AI system design like traditional system design - ignoring non-determinism, hallucination, and the need for guardrails
+- Not discussing cost and latency trade-offs (token budgets, model tiering, caching strategies)
+
 ## Sources
 
 [^igotanoffer]: [IGotAnOffer - Generative AI System Design Interview](https://igotanoffer.com/en/advice/generative-ai-system-design-interview)

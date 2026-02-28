@@ -18,8 +18,6 @@ DSA as discussion - Microsoft's senior DSA round was 1+ hour of pure discussion 
 
 DSA vs ML coding as separate rounds - AI Engineer and Applied Scientist roles often have distinct DSA and ML coding rounds. The DSA round has LeetCode problems; the ML coding round tests implementing ML algorithms from scratch or completing incomplete ML code. [^deepthi-sudharsan]
 
-Take-home assignments - Some companies start with a take-home project before live rounds. One Gen AI Engineer candidate received a timed assignment to build an AI pipeline that parses a blood test PDF, identifies health issues, and fetches suggestions from online articles with source links - testing speed of learning new frameworks under time pressure. [^khushal-kumar]
-
 Speed coding with AI tools allowed - A live scenario-based round where the candidate was given a complicated JSON file, had to extract specific data following a pattern, feed it to an AI model, and get a summary - all within 30 minutes. Browser and ChatGPT use was explicitly permitted. [^khushal-kumar]
 
 Async/background processing problem pattern - A common coding interview problem type: a gRPC service is timing out and needs an async boundary. The interviewer evaluates candidates through progressive gates: (1) recognize that async processing is the solution, (2) identify where to place the async boundary in the system, (3) handle failure modes (retries, dead letter queues, idempotency), (4) scale with multi-threading or message queues. This pattern merges coding with system design in a single round. [^exponent-mock]
@@ -62,7 +60,6 @@ For ML coding rounds (typically 25-35 minutes, no debugging tools), candidates a
 - Find the Excel column name from its column number (e.g., column 702 = "AAA"). [^reddit-microsoft-aiml]
 - Construct a tree from a list where index = node value and value = parent node (LC Medium). [^reddit-microsoft-aiml]
 - CodeSignal GCA: 4 questions in 70 min - two medium-hard, one graph, one greedy with bit ops. [^reddit-xai-eng]
-- Union Find problem + AI question (use DistilBERT to categorize CSV text with sentiments, must pass 5 test cases checking embeddings length, output structure). [^reddit-ai-eng-questions-2]
 - Write code for a banking application using HashMap/TreeMap. Design a task executor - store and pause tasks. [^reddit-2026-prep]
 - A gRPC service is timing out. Add an async boundary, handle failure modes (retries, dead letter queues, idempotency), scale with multi-threading or message queues. [^exponent-mock]
 - Discuss serialization approaches, compression techniques, streaming formats, backward compatibility, and corruption recovery - no code written, pure discussion. (Microsoft senior) [^rohit-verma]
@@ -81,26 +78,14 @@ For ML coding rounds (typically 25-35 minutes, no debugging tools), candidates a
 
 ### ML / AI Coding
 
-- 1-NN (simplest KNN case) and feedforward neural network implementation. [^linkjob-openai]
-- Transformer bug-fixing exercise with position embedding and KV cache issues. [^linkjob-openai]
-- PyTorch code completion with complexity analysis. [^linkjob-openai]
-- Implement Multi-Head Attention from memory. [^sundeep-teki]
-- Implement a full Transformer layer from memory. [^sundeep-teki]
-- Implement LoRA adapter from scratch. [^yuan-meng]
-- Implement efficient LLM API batch processing. [^promptlayer]
 - Debug code handling embeddings. [^promptlayer]
 - Write scripts preparing text for fine-tuning. [^promptlayer]
-- Build a gRPC service for financial report generation (async conversion, thread management, error handling, batch processing). [^exponent-mock]
-- Implement neural networks, LSTMs, and RNNs from scratch using NumPy or PyTorch. [^mimansa-jaiswal]
-- Implement cached attention and grouped query attention variants. [^mimansa-jaiswal]
-- Implement beam search, top-k, and top-p decoding strategies from scratch. [^mimansa-jaiswal] [^datainterview-mistral]
-- Implement autoregressive generation with top-p sampling. [^datainterview-mistral]
 - Implement logistic regression with SGD, L2 regularization, and early stopping in NumPy. [^datainterview-mistral]
-- Implement stratified K-fold splitting. [^datainterview-mistral]
+
 
 ### Practical / Data Processing
 
-- Speed coding: given a complicated JSON file, extract a specific part following some pattern, then feed that to an AI model and get the summary. 30-minute time limit, browser/ChatGPT allowed. [^khushal-kumar]
+- Given a nested JSON dataset (e.g., API response, data export), write a script to extract specific fields, construct a prompt from the extracted data, call an LLM API, and return a summary. 30-minute time limit, browser and ChatGPT allowed. [^khushal-kumar] I assume this involved streaming JSON parsing (e.g., `ijson`), otherwise the task is too simple for a 30-minute round.
 - Design a concurrent web crawler handling robots.txt, rate limiting, and circular references while maintaining data integrity and freshness. [^linkjob-anthropic]
 
 
@@ -115,6 +100,13 @@ Design for extensibility - Anthropic's progressive problems build on prior code 
 Practice narrating your reasoning - AI tools are increasingly allowed during coding rounds (OpenAI, IBM, emerging formats). Interviewers watch how you use them: understanding before implementing, not blindly pasting output. Practice thinking out loud while coding, whether you're using AI tools or not. [^exponent-openai] [^khushal-kumar]
 
 At senior levels, depth matters more than speed - Microsoft's senior DSA round was 1+ hour of pure discussion with no code written, covering serialization, compression, streaming formats, and backward compatibility. Interviewers want engineering depth, not typing speed. [^rohit-verma]
+
+Common mistakes:
+
+- Jumping into code without clarifying requirements or asking questions
+- Writing rigid code that breaks when follow-up requirements arrive (Anthropic and OpenAI use progressive problems that build on prior code)
+- Blindly pasting AI tool output without understanding it - interviewers watch for reasoning, not copying
+- Not discussing time/space complexity or optimization when prompted
 
 ## Sources
 

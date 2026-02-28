@@ -740,6 +740,14 @@ From a developer's retrospective on their first take-home code challenge ([sourc
 8. Stop doubting yourself - whether your code suffices is the interviewer's judgment, not yours
 9. Don't spend excessive time - recognize when additional effort yields diminishing returns
 
+Common mistakes:
+
+- Rushing without documenting design decisions and trade-offs
+- Over-engineering beyond what was asked without justification
+- Ignoring evaluation and testing of AI outputs
+- Treating the LLM as a black box without discussing failure modes
+- Not asking clarifying questions before starting
+
 ### Using LLMs to practice for technical interviews
 
 LLMs can generate targeted practice problems and provide detailed feedback on system design solutions. One candidate preparing for a Bay Area AI startup interview pasted the job description into Grok and asked it to generate relevant system design questions - it produced a company-specific problem ("Design an AI-powered Candidate Sourcing System") with functional requirements, non-functional constraints, and scale estimates. After sketching a solution on Excalidraw, the candidate pasted a screenshot back into the LLM with the prompt "give me critical and comprehensive feedback like a senior engineer who is interviewing me" and received detailed critique identifying fatal flaws (e.g., putting a message queue in the synchronous read path, HTTP violations, missing write path). Cross-checking answers between different LLMs improved the diversity of feedback and helped identify which details were more important ([source](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-6adb9afe2401))

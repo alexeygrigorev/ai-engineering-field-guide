@@ -316,6 +316,13 @@ Mimansa Jaiswal documents a structured approach to preparing for ML/LLM research
 
 Notable insight: "MLA became popular while I was interviewing" and "GRPO became popular after interviews" - the field evolves continuously during preparation.
 
+Common mistakes:
+
+- Memorizing definitions without understanding the "why" - interviewers probe for reasoning, not recitation
+- Only preparing topics you already know instead of covering gaps (Mimansa Jaiswal: "a surprise Amazon loop exposed gaps" in statistics)
+- Not being able to explain trade-offs between alternatives (fine-tuning vs RAG, sparse vs dense retrieval, RLHF vs DPO)
+- Ignoring production concerns - evaluation, cost, failure modes, monitoring
+
 ### Questions People Wish They Prepared For
 
 - "How do you evaluate a chatbot?" (not just build one)

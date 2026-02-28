@@ -203,6 +203,13 @@ Two common frameworks for structuring behavioral answers:
 - SAIL: Situation, Action, Impact, Learning - recommended by Yuan Meng [^yuan-meng] for mapping responses to company values
 - SPSIL: Situation, Problem, Solution, Impact, Lessons - recommended by IGotAnOffer [^igotanoffer-openai] for OpenAI interviews
 
+Common mistakes:
+
+- Giving generic STAR answers without concrete specifics - numbers, outcomes, what actually happened
+- Reusing the same story across multiple rounds instead of preparing distinct examples
+- Talking about technology names instead of impact and trade-offs
+- Bluffing when you don't know something instead of being honest and curious
+
 ## Sources
 
 [^datainterview-mistral]: [DataInterview - Mistral ML Engineer Interview](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)

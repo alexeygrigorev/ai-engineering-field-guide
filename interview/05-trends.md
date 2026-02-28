@@ -14,6 +14,20 @@ See also: [Awesome AI Engineering](../awesome.md) for the full collection of sou
 - AI/LLM mentions in job postings increased across all roles: ML Engineers 8% to 29.5%, Data Scientists 4% to 18.4%, Analysts & BI 3.8% to 15.8%, Backend Engineers 6.7% to 13%, Data Engineers 3% to 9.7% ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
 
 
+## Patterns from Practitioners
+
+Based on 130+ interview rounds reported by [Janvi Kalra](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer) (46 companies), [Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598) (50+ rounds), and a [principal engineer with 14+ YOE](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) (~40 interviews):
+
+- LeetCode is declining but not dead. ~70% of senior interviews had none at all. When coding comes up, it's practical (string manipulation, real-world logic), not puzzle-based
+- Three interview types dominate: coding (DSA/LeetCode), system design, and project interviews ("go build something in a day")
+- System design shifted from "design Dropbox" to AI/LLM integrations: scaling AI systems, latency/cost trade-offs, batching, caching, streaming, failure modes. See [AI System Design](questions/04-ai-system-design.md) for details
+- Project presentations are common: candidates present a past project, then get grilled on design decisions, trade-offs, what broke, what they'd change
+- Code reading and debugging are becoming more important alongside writing code
+- In-person final rounds are coming back
+- AI companies cluster into three types that affect interview focus: product companies (Cursor, Codium, Hebbia), infrastructure companies (Modal, Fireworks, Pinecone), and model companies (OpenAI, Anthropic, Google, Meta)
+- Interview focus varies by AI role: AI Engineers get distinct DSA and ML coding rounds plus ML system design; AI Researchers get paper peer-review rounds; Data Scientists get more SQL and core ML than GenAI
+
+
 ## "No Whiteboard" - Realistic Assessments
 
 A growing number of companies explicitly reject algorithm-heavy interviews in favor of realistic work:
