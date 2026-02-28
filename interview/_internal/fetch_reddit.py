@@ -11,6 +11,19 @@ import httpx
 
 ARCTIC_SHIFT_BASE = "https://arctic-shift.photon-reddit.com/api"
 
+POST_FIELDS = ["id", "subreddit", "author", "title", "selftext", "score", "num_comments", "created_utc", "permalink", "url"]
+COMMENT_FIELDS = ["id", "parent_id", "author", "body", "score", "created_utc"]
+
+
+def trim_post(post: dict) -> dict:
+    """Keep only the fields we need from a post."""
+    return {k: post[k] for k in POST_FIELDS if k in post}
+
+
+def trim_comment(comment: dict) -> dict:
+    """Keep only the fields we need from a comment."""
+    return {k: comment[k] for k in COMMENT_FIELDS if k in comment}
+
 
 def parse_reddit_url(url: str) -> tuple[str, str, str]:
     """Extract subreddit, post_id, slug from a Reddit URL."""
@@ -171,9 +184,13 @@ def main():
             md_path.write_text(format_post(post, comments, url))
             print(f"  -> {md_path}")
 
-            # Save raw JSON
+            # Save trimmed JSON (only fields we use)
             json_path = output_dir / f"{filename}_{ts}.json"
-            json_path.write_text(json.dumps({"post": post, "comments": comments}, indent=2))
+            trimmed = {
+                "post": trim_post(post),
+                "comments": [trim_comment(c) for c in comments],
+            }
+            json_path.write_text(json.dumps(trimmed, indent=2))
 
             real_comments = [c for c in comments if c.get("author") != "AutoModerator"]
             print(f"  Score: {post.get('score')}, Comments: {len(real_comments)}")

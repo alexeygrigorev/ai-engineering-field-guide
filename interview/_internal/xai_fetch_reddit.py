@@ -131,9 +131,13 @@ def main():
             # Save the extracted text
             outpath.write_text(text)
 
-            # Also save raw JSON response
+            # Save trimmed JSON response (only output text and usage)
             json_path = output_dir / filename.replace(".md", ".json")
-            json_path.write_text(json.dumps(response, indent=2))
+            trimmed = {
+                "text": text,
+                "usage": response.get("usage", {}),
+            }
+            json_path.write_text(json.dumps(trimmed, indent=2))
 
             usage = response.get("usage", {})
             cost = usage.get("cost_in_usd_ticks", 0) / 1_000_000
