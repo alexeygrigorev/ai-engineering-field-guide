@@ -2,7 +2,7 @@
 
 Based on real discussions from Reddit and X (assessed via deep research with ChatGPT, Gemini, Grok) and anecdotal stories shared with me privately. Complements the quantitative job analysis with qualitative insights from what candidates and hiring managers actually report.
 
-![Event series announcement and a response from @thewhychain about the gap between job descriptions and actual AI engineer work](../assets/images/event-series-tweet.jpg)
+![Event series announcement and a response from @thewhychain about the gap between job descriptions and actual AI engineer work](../images/event-series-tweet.jpg)
 
 From Dmitrii Malakhov ([@thewhychain](https://x.com/thewhychain)): "hired for 'AI engineer' roles twice. the job description said RAG and embeddings. the job turned out to be 80% prompt engineering + glue code + monitoring. the 1500 JDs probably have the same problem - they describe ambition, not what you do all day"
 

@@ -1,5 +1,7 @@
 # Portfolio Project Ideas
 
+(draft)
+
 Project ideas that demonstrate AI engineering skills relevant to the job market. Each project covers patterns that appear frequently in job descriptions.
 
 

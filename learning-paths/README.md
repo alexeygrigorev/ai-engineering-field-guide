@@ -5,61 +5,64 @@ What to learn and in what order, based on skill demand from 895 job descriptions
 
 ## Core Skills
 
-Based on the [AI Engineering Buildcamp](https://maven.com/alexey-grigorev/from-rag-to-agents) curriculum. These are the skills that cover the most important 20% that accounts for 80% of the work.
+The most important 20% that accounts for 80% of the work. Based on the [AI Engineering Buildcamp](https://maven.com/alexey-grigorev/from-rag-to-agents) curriculum and [job market research](../role/02-skills.md).
 
-### 1. Foundation: LLMs, RAG and Search
+### LLM Fundamentals
 
-- LLM fundamentals - how LLMs work, what they can and cannot do
+- How LLMs work, what they can and cannot do
 - OpenAI/Anthropic APIs - calling LLMs, getting responses
-- Structured output - getting consistent, typed responses from LLMs
-- RAG (Retrieval-Augmented Generation) - augmenting LLMs with your own data
-- Search basics - text search, vector search, chunking documents for retrieval
+- Structured output - getting consistent, typed responses
+- Prompt engineering - writing effective prompts for different tasks
 
-### 2. RAG Use Cases and Technologies
+### RAG and Search
 
-- FAQ assistants, document Q&A, content management
+- RAG - augmenting LLMs with your own data
+- Text search and vector search - like Elasticsearch, Qdrant
+- Chunking strategies for different document types
 - Processing different data sources - PDFs, YouTube transcripts, web pages
-- Search engines - Elasticsearch for text search, Qdrant for vector search
-- Parallel processing for large datasets
 
-### 3. AI Agents
+Practice projects: FAQ assistant, document Q&A system, content management search
+
+### AI Agents
 
 - Function calling and tool use - LLMs that can take actions
 - The agentic tool-call loop - how agents reason and act
-- Agent frameworks - PydanticAI, OpenAI Agents SDK, LangChain, Google ADK
-- Web research agents - search, extract, summarize
+- Agent frameworks - like PydanticAI, OpenAI Agents SDK, LangChain, Google ADK
 - Model Context Protocol (MCP) - creating tools for other agents
+- Multi-agent systems - routing, pipelines, coordination
 
-### 4. Testing
+Practice projects: web research agent, automated data extraction pipeline, multi-agent workflow
 
-- Converting notebooks to production projects
+
+### Testing
+
 - Writing tests for agents - testing tool calls, output quality
 - LLM-as-judge - using one LLM to evaluate another
-- Tracking costs and usage
-- Multi-agent systems - routing, pipelines, feedback loops, coordination
 
-### 5. Monitoring and Observability
 
-- Logging and tracing agent runs
-- OpenTelemetry, Logfire, Jaeger
-- Tracking user feedback
-- Building monitoring dashboards with Grafana
-- Cost monitoring
+### Monitoring and Observability
 
-### 6. Evaluation and Improvement
+- Logging and tracing agent runs - like OpenTelemetry, Logfire, Jaeger
+- Cost monitoring and usage tracking
+- User feedback tracking
+- Building monitoring dashboards - like Grafana
+
+
+### Evaluation
 
 - Offline evaluation - generating eval data, validating agents
-- Synthetic data generation for evaluations
 - Evaluating retrieval quality
-- LLM judges for agent evaluation
+- Synthetic data generation for evaluations
 - Prompt optimization based on eval results
-- Evidently for LLM evaluations
 
-### 7. Production
 
-- Deployment - Streamlit, cloud platforms (Render, AWS)
+### Production
+
+- Converting notebooks to production projects
+- Deployment - like Streamlit for prototypes
+- Cloud platforms for production - like AWS, GCP, Azure
 - Guardrails - safety constraints for agents
-- End-to-end project - tools, agent, testing, monitoring, evaluation, deployment
+- Parallel processing for large datasets
 
 
 ## Other Skills

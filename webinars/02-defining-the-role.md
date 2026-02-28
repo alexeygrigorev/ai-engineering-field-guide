@@ -4,6 +4,7 @@
 - Host: [Alexey Grigorev](https://www.linkedin.com/in/agrigorev/)
 - [Maven](https://maven.com/p/f0cada/defining-the-ai-engineer-role)
 - [Recording on YouTube](https://www.youtube.com/watch?v=7NijlAdqk9U)
+- [Slides](slides/ai-engineer-role.pdf)
 
 ## Description
 
