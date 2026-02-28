@@ -73,6 +73,34 @@ def extract_text(response: dict) -> str:
     return "\n".join(parts)
 
 
+def extract_urls_visited(response: dict) -> list[str]:
+    """Extract URLs from web_search_call open_page actions."""
+    urls = []
+    for item in response.get("output", []):
+        if item.get("type") == "web_search_call":
+            action = item.get("action", {})
+            if action.get("type") == "open_page" and action.get("url"):
+                urls.append(action["url"])
+    return urls
+
+
+def extract_citations(response: dict) -> list[dict]:
+    """Extract url_citation annotations from output_text blocks."""
+    citations = []
+    seen = set()
+    for item in response.get("output", []):
+        if item.get("type") == "message":
+            for content in item.get("content", []):
+                if content.get("type") == "output_text":
+                    for ann in content.get("annotations", []):
+                        if ann.get("type") == "url_citation" and ann.get("url"):
+                            url = ann["url"]
+                            if url not in seen:
+                                seen.add(url)
+                                citations.append({"url": url, "title": ann.get("title", "")})
+    return citations
+
+
 def url_to_filename(url: str) -> str:
     """Convert Reddit URL to a safe filename."""
     # Extract subreddit and post ID from URL
@@ -131,11 +159,13 @@ def main():
             # Save the extracted text
             outpath.write_text(text)
 
-            # Save trimmed JSON response (only output text and usage)
+            # Save trimmed JSON response
             json_path = output_dir / filename.replace(".md", ".json")
             trimmed = {
                 "url": url,
                 "text": text,
+                "urls_visited": extract_urls_visited(response),
+                "citations": extract_citations(response),
                 "usage": response.get("usage", {}),
             }
             json_path.write_text(json.dumps(trimmed, indent=2))
