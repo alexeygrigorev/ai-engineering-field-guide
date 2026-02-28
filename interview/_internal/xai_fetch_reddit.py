@@ -134,6 +134,7 @@ def main():
             # Save trimmed JSON response (only output text and usage)
             json_path = output_dir / filename.replace(".md", ".json")
             trimmed = {
+                "url": url,
                 "text": text,
                 "usage": response.get("usage", {}),
             }
