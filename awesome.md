@@ -70,7 +70,6 @@ This is the list of resources I used while researching content for the [AI Engin
 
 ### Case Study Collections
 
-- [Arcan-Tech: AI Engineer Technical Test 2025](https://github.com/Arcan-Tech/interview-test-aiengineer-2025) - real interview assignment, predict code change propagation from git diffs, 4-hour time limit, Dockerized
 - [Evidently AI: 800 ML/LLM System Design Case Studies](https://www.evidentlyai.com/ml-system-design) - 150+ companies, filterable
 - [GitHub: 500+ GenAI/LLM/ML Case Studies](https://github.com/themanojdesai/genai-llm-ml-case-studies) - 100+ companies
 - [GitHub: AI System Design Guide](https://github.com/ombharatiya/ai-system-design-guide) - living document
@@ -169,6 +168,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Invisible Technologies: AI Interview Guidelines](https://invisibletech.ai/ai-interview-guidelines) - stage-by-stage AI policy
 - [Anthropic: Guidance on Candidates' AI Usage](https://www.anthropic.com/candidate-ai-guidance) - AI use policy for candidates
 - [Anthropic: Original Performance Take-Home](https://github.com/anthropics/original_performance_takehome) - open-sourced performance engineering exam, beat 1,487 cycles to get a recruiting email
+- [Arcan-Tech: AI Engineer Technical Test 2025](https://github.com/Arcan-Tech/interview-test-aiengineer-2025) - real interview assignment, predict code change propagation from git diffs, 4-hour time limit, Dockerized
 - [Zapier: How to Collaborate with AI During Hiring](https://zapier.com/l/jobs/ai-at-zapier) - encourages AI tools with guidance
 - [AssemblyAI: Candidate AI Guidance](https://www.assemblyai.com/candidate-ai-guidance) - AI use policy for candidates
 - [SandboxAQ: AI in Interviews](https://www.sandboxaq.com/ai-in-interviews) - AI use policy for candidates
