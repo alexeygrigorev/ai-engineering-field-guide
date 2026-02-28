@@ -8,13 +8,13 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 - How do LLMs work? [^proptech-founder-2]
 - How do transformers work? [^proptech-founder-2] [^reddit-genai-consulting] [^reddit-ai-eng-questions]
-- What is tokenization and how does it affect LLM performance? [^fahd-mirza]
-- What is the difference between pre-training and fine-tuning? [^fahd-mirza]
-- Explain context windows and their limitations. [^fahd-mirza]
-- What are scaling laws and why do they matter? [^fahd-mirza]
+- What is tokenization and how does it affect LLM performance? [^fahd-mirza] [^glassdoor-quantiphi] [^glassdoor-asapp]
+- What is the difference between pre-training and fine-tuning? [^fahd-mirza] [^reddit-capital-one] [^glassdoor-cognida]
+- Explain context windows and their limitations. [^fahd-mirza] [^exponent-openai-ml]
+- What are scaling laws and why do they matter? [^fahd-mirza] [^reddit-llm-interview-prep]
 - What is temperature and top-p sampling? How do they affect outputs? [^fahd-mirza] [^reddit-genai-consulting] [^x-aryyann8]
 - Explain few-shot learning and chain-of-thought prompting. [^fahd-mirza] [^reddit-genai-consulting] [^reddit-ai-eng-questions]
-- What is KV cache? How does it help in LLM inference? [^igotanoffer]
+- What is KV cache? How does it help in LLM inference? [^igotanoffer] [^reddit-llm-interview-prep]
 - Can you describe the difference between GenAI and traditional programming in the context of solving a real-world problem? [^proptech-founder-1]
 - How do you ensure the outputs from large language models are consistent and accurate, especially when dealing with complex multi-step workflows? [^proptech-founder-1]
 - What's an RAG model? Explain the complete process. [^khushal-kumar] [^reddit-ai-eng-questions] [^reddit-genai-consulting]
@@ -30,13 +30,17 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What is the self-attention mechanism? How does it differ from multi-head attention? [^sundeep-teki]
 - What is grouped query attention and how does it differ from standard multi-head attention? [^mimansa-jaiswal]
 - What are the differences between BPE, WordPiece, and character-level tokenization? What are the trade-offs? [^fahd-mirza]
-- Explain the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures. When would you use each? [^tidorp] [^hn-46319888]
+- Explain the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures. When would you use each? [^tidorp] [^hn-46319888] [^reddit-llm-interview-prep]
+- Why are decoder-only models dominant even for non-generation tasks? [^reddit-llm-interview-prep]
 - What is positional encoding and why is it needed in Transformers? [^linkjob-openai]
 - What are the key MMLU, BigBench, and HumanEval benchmarks? What does each measure and what are its limitations? [^fahd-mirza]
 - What is the difference between RLHF and DPO? When would you prefer one over the other? [^mimansa-jaiswal]
 - What is Mixture of Experts (MoE)? How does it improve efficiency? [^mimansa-jaiswal]
 - How do LLMs actually generate text? Explain the autoregressive decoding process. [^hn-46319888] [^llmgenai]
 - What are decoding strategies like beam search, top-k, and top-p? When do you use each? [^mimansa-jaiswal]
+- What is FlashAttention and how does it work? [^reddit-llm-interview-prep]
+- Why is LLM inference memory-bounded? [^reddit-llm-interview-prep]
+- How do stop sequences work in LLMs? [^reddit-llm-interview-prep]
 - What is the context window and what happens when you exceed it? How do you handle long documents? [^hn-46319888] [^llmgenai]
 - What risks arise from applying a general-purpose tokenizer to specialized domains like legal or medical text? [^x-ali-shohadaee]
 
@@ -85,7 +89,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you design a safe and debuggable agent loop? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents]
 - How do you implement termination conditions in long-running agents? [^techeon]
 - How do agents decompose high-level goals into executable steps? [^techeon] [^reddit-csuk-agents]
-- Chain-of-thought vs tree-of-thought vs graph planning -- when would you use each? [^techeon]
+- Chain-of-thought vs tree-of-thought vs graph planning - when would you use each? [^techeon]
 - How do you detect and stop infinite planning loops? [^techeon] [^reddit-csuk-agents] [^reddit-expdevs-agentic]
 - How do you handle partial observability or missing information? [^techeon] [^reddit-csuk-agents]
 - How do agents decide a task is "done"? [^techeon]
@@ -96,7 +100,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you handle tool failures, retries, and idempotency? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents] [^reddit-aiagents-prep]
 - What are the biggest security risks with tool-using agents? [^techeon] [^reddit-expdevs-agentic] [^datainterview-mistral]
 - How do you control cost explosions from tool calls? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents]
-- Stateless vs stateful agents -- tradeoffs and use cases? [^techeon] [^reddit-expdevs-agentic]
+- Stateless vs stateful agents - tradeoffs and use cases? [^techeon] [^reddit-expdevs-agentic]
 - How do you version and roll back agent behavior? [^techeon]
 - Describe how you would architect an AI agent system, including the agent loop, tool interfaces, memory design, orchestration technologies, and safety considerations. [^igotanoffer]
 - Design an agent analyzing customer support tickets, drafting responses, and escalating complex issues. [^promptlayer]
@@ -115,17 +119,17 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 ### Fine-tuning and Training
 
 - When would you fine-tune vs use prompt engineering? [^process-analysis] [^reddit-prep-ai-eng] [^reddit-genai-consulting] [^x-ashutosh-1] (reported across multiple companies)
-- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting] [^x-interviewstack-meta] [^x-aryyann8]
+- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting] [^x-interviewstack-meta] [^x-aryyann8] [^reddit-llm-interview-prep]
 - What is QLoRA and how does it differ from LoRA? When would you choose one over the other? [^x-aryyann8]
 - What is RLHF and why is it important? [^proptech-founder-1]
 - Fine-tune or use prompt-engineered RAG? [^system-design-handbook] [^reddit-prep-ai-eng] [^hn-39748537]
 - How would you design a model that can solve math problems? Walk through data collection, supervised fine-tuning, post-training, and evaluation. [^igotanoffer]
 - How would you design a scalable and efficient system for training a large language model, considering both computational and data constraints? [^igotanoffer]
 - Explain the RLHF pipeline: supervised fine-tuning, reward model training, and PPO. How does DPO simplify this? [^proptech-founder-1]
-- What is instruction tuning and how does it differ from pre-training? [^hn-46319888] [^llmgenai]
+- What is instruction tuning and how does it differ from pre-training? [^hn-46319888] [^llmgenai] [^reddit-llm-interview-prep]
 - What is speculative decoding and how does it speed up inference? [^sundeep-teki]
 - How do you convert implicit user behavior (edits, acceptance, rejection) into training signals for model improvement? [^bhavishya-pandit]
-- Explain quantization. What are the trade-offs between model size, speed, and accuracy? [^raghu-teja-2]
+- Explain quantization. What are the trade-offs between model size, speed, and accuracy? [^raghu-teja-2] [^reddit-llm-interview-prep]
 
 ### Evaluation and Metrics
 
@@ -137,7 +141,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What happens when the LLM is confidently wrong? How do you debug a RAG chatbot giving confident but wrong answers? [^process-analysis] [^datainterview-mistral] (candidates wish they prepared for this)
 - Explain SHAP, LIME, and model interpretability. [^fahd-mirza]
 - How do you detect and mitigate hallucinations? [^system-design-handbook]
-- Explain evaluation metrics: perplexity, ROUGE, BLEU. [^fahd-mirza] [^reddit-genai-product]
+- Explain evaluation metrics: perplexity, ROUGE, BLEU. What are the pitfalls of n-gram-based metrics? [^fahd-mirza] [^reddit-genai-product] [^reddit-llm-interview-prep]
 - What are your testing strategies for non-deterministic outputs? [^reddit-prep-ai-eng]
 - How do you measure accuracy in generative systems where traditional metrics don't apply? [^reddit-grilled-rag]
 - What operational/business metrics matter for AI systems beyond accuracy? (win rate, deflection rate, p95 latency) [^reddit-eightfold-ai]
@@ -196,11 +200,6 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What are Git branching strategies for deployment? How do you perform a rebase? How do you handle merge conflicts? [^raghu-teja-1]
 - Have you worked with real-time communication technologies like WebRTC? [^fahd-mirza-2]
 
-### Case Study / Approach
-
-- How would you implement an AI application from start to finish, from kickoff meeting through deployment? (IBM) [^raghu-teja-2]
-- How would you design a scalable and reliable automation workflow? What considerations for error handling, monitoring, and debugging? [^proptech-founder-1]
-
 ### Infrastructure and MLOps
 
 - How would you design a large-scale AI model deployment system? [^designgurus]
@@ -212,7 +211,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 ### Cost and Latency Optimization
 
-- Your app gets 1M queries/day -- how do you optimize cost? [^process-analysis] (reported across multiple companies)
+- Your app gets 1M queries/day - how do you optimize cost? [^process-analysis] (reported across multiple companies)
 - How do you reduce token costs at scale? [^process-analysis] [^reddit-prep-ai-eng] [^hn-46229585] [^hn-46695170] (candidates wish they prepared for this)
 - How would you think about cost and capacity planning for an LLM-powered application at scale? [^igotanoffer]
 - How would you make GPT-based API calls cost-efficient under heavy load? [^interviewnode]
@@ -225,7 +224,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Explain multi-layer caching strategies: retrieval cache, prompt cache, and response cache. [^interviewnode]
 - What is model tiering? When do you route to a small distilled model vs. a large LLM? [^interviewnode] [^hn-42793253] [^hn-47150302]
 - What is prompt compression and how does it reduce cost? [^llmgenai] [^hn-46319888] [^hn-44013971]
-- Latency vs. throughput optimization for LLM serving -- what are the trade-offs? [^youtube-short]
+- Latency vs. throughput optimization for LLM serving - what are the trade-offs? [^youtube-short]
 - How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? [^proptech-founder-1]
 - Estimate the budget for a RAG pipeline at enterprise scale (e.g., 300,000 legal contracts). [^reddit-devsindia-genai]
 - What's the real bottleneck in LLM serving throughput? How does PagedAttention address it? [^x-athletickoder-1]
@@ -243,7 +242,6 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you red-team an LLM system? [^sundeep-teki]
 - Your application generates code that gets executed. How do you prevent malicious code generation and execution? [^proptech-founder-1]
 
----
 
 ## System Design Questions
 
@@ -253,7 +251,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design our Claude chat service. [^igotanoffer]
 - Design a small language learning model that could run on a phone while making sure it's polite. [^igotanoffer]
 - Here's a junior developer's design for an inference batching system. Can you review it and explain what you'd change or improve? [^igotanoffer]
-- Design the OpenAI Playground -- specifically the feature that lets developers simulate full conversations and threads. [^exponent-openai]
+- Design the OpenAI Playground - specifically the feature that lets developers simulate full conversations and threads. [^exponent-openai]
 - Design a real-time chatbot API (low-latency handling, session management, concurrency, safety filters). [^designgurus]
 - Design a Document Q&A Assistant. [^bhavishya-pandit]
 - Design a Hallucination-Free Banking Chatbot. [^bhavishya-pandit]
@@ -263,7 +261,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design an AI Search system scaling to 10M+ articles. [^bhavishya-pandit]
 - Design a Resume Classifier for Team Routing. [^bhavishya-pandit]
 - Design an AI-powered Candidate Sourcing System with 750M profiles, semantic search, and <500ms latency. [^colin-zhou]
-- Scale an AI chat feature to 1M daily users -- discuss trade-offs. [^process-analysis] (reported across multiple companies)
+- Scale an AI chat feature to 1M daily users - discuss trade-offs. [^process-analysis] (reported across multiple companies)
 - Design for 1M users (scale beyond prototype). [^process-analysis] (candidates wish they prepared for this)
 - Design a system to process 10k user uploads per month (bank payslips, IDs, references). How would you extract data, detect inconsistencies, reject invalid files, and handle LLM provider downtime? [^igotanoffer]
 - Design a system that lets doctors automatically send billing info to insurers based on patient notes. [^igotanoffer]
@@ -280,7 +278,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design a Dynamic Questionnaire Engine for an Insurance Platform (JSON-driven, frontend decision tree without backend calls). [^rohit-verma]
 - Design a user profile system addressing storage, multi-device tracking, and preference flexibility. Optimize for 100 million users with batch migration. [^linkjob-openai]
 - Design a distributed search system capable of handling a billion documents and a million QPS, while also managing LLM inference for over 10,000 requests per second. [^linkjob-anthropic]
-- Design hybrid search combining traditional text retrieval with semantic similarity -- top-k similar documents from a corpus of over 10M documents with a response time under 50ms. [^linkjob-anthropic]
+- Design hybrid search combining traditional text retrieval with semantic similarity - top-k similar documents from a corpus of over 10M documents with a response time under 50ms. [^linkjob-anthropic]
 - Design a workflow to remove all dead links for hundreds of client websites assuming you have API access to overwrite their HTML. [^proptech-founder-2]
 - How would you design the UX for an AI assistant that is often slow? [^igotanoffer]
 - How would you surface model limitations or errors to users without breaking trust? [^igotanoffer]
@@ -299,6 +297,10 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design a multi-step agentic workflow (meeting scheduling, code review, email campaigns). [^promptlayer]
 - Design a content/policy violation detection system. [^igotanoffer]
 - Design a unified query engine across dispersed data sources like email, calendar, documents, and chat. [^x-avi-chawla-1]
+- How would you implement an AI application from start to finish, from kickoff meeting through deployment? (IBM) [^raghu-teja-2]
+- How would you design a scalable and reliable automation workflow? What considerations for error handling, monitoring, and debugging? [^proptech-founder-1]
+- How would you handle real-time versus batch processing for data updates? When is one preferred over the other? [^proptech-founder-2]
+- How do you ingest and process different types of data (structured, unstructured, event data)? [^proptech-founder-1]
 
 ### Traditional System Design
 
@@ -323,7 +325,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design a notification system that can send 1B notifications/day with <1% loss. [^colin-zhou]
 - Design a strongly-consistent distributed database (Spanner / CockroachDB-like). [^colin-zhou]
 - Design a high-frequency trading exchange matching engine. [^colin-zhou]
-- Our p99 latency went from 50ms to 2s overnight -- how would you debug and fix? [^colin-zhou]
+- Our p99 latency went from 50ms to 2s overnight - how would you debug and fix? [^colin-zhou]
 - Design a global WebSocket service (10M+ concurrent connections). [^colin-zhou]
 - Design a global feature flag / config service (multi-region, zero-downtime rollouts). [^colin-zhou]
 
@@ -333,7 +335,6 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How would you handle a 10x traffic spike during a product launch? [^hello-interview]
 - What happens if your primary data center goes offline for six hours? [^hello-interview]
 
----
 
 ## Coding Problems
 
@@ -347,21 +348,21 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - LeetCode 2408: Design SQL. [^hello-interview]
 - LeetCode 981: Time Based Key-Value Store. [^hello-interview]
 - Unix cd command with symbolic link resolution. [^hello-interview]
-- Reverse a linked list with constraints (AI-assisted coding round -- candidate must prompt LLM effectively). [^reddit-microsoft-aiml]
+- Reverse a linked list with constraints (AI-assisted coding round - candidate must prompt LLM effectively). [^reddit-microsoft-aiml]
 - Find the Excel column name from its column number (e.g., column 702 = "AAA"). [^reddit-microsoft-aiml]
 - Construct a tree from a list where index = node value and value = parent node (LC Medium). [^reddit-microsoft-aiml]
-- CodeSignal GCA: 4 questions in 70 min -- two medium-hard, one graph, one greedy with bit ops. [^reddit-xai-eng]
+- CodeSignal GCA: 4 questions in 70 min - two medium-hard, one graph, one greedy with bit ops. [^reddit-xai-eng]
 - Union Find problem + AI question (use DistilBERT to categorize CSV text with sentiments, must pass 5 test cases checking embeddings length, output structure). [^reddit-ai-eng-questions-2]
-- Write code for a banking application using HashMap/TreeMap. Design a task executor -- store and pause tasks. [^reddit-2026-prep]
+- Write code for a banking application using HashMap/TreeMap. Design a task executor - store and pause tasks. [^reddit-2026-prep]
 - A gRPC service is timing out. Add an async boundary, handle failure modes (retries, dead letter queues, idempotency), scale with multi-threading or message queues. [^exponent-mock]
-- Discuss serialization approaches, compression techniques, streaming formats, backward compatibility, and corruption recovery -- no code written, pure discussion. (Microsoft senior) [^rohit-verma]
+- Discuss serialization approaches, compression techniques, streaming formats, backward compatibility, and corruption recovery - no code written, pure discussion. (Microsoft senior) [^rohit-verma]
 
 ### OpenAI-Specific Coding
 
 - KV Store Serialize/Deserialize. [^hello-interview]
 - In-Memory Database: Implement SQL-Like Operations. [^hello-interview]
 - Versioned key-value store implementation (Time Travel Hash variant). [^linkjob-openai]
-- Credits management system -- track credit state across issued and used credits with different expiration rules and usage requirements, with increasing complexity. [^exponent-openai]
+- Credits management system - track credit state across issued and used credits with different expiration rules and usage requirements, with increasing complexity. [^exponent-openai]
 - Refactoring round: 100-120 lines of intentionally convoluted, deeply nested code. Refactor for long-term maintainability while keeping existing tests green and extending to new ones. [^exponent-openai]
 
 ### Anthropic-Specific Coding
@@ -392,7 +393,6 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Speed coding: given a complicated JSON file, extract a specific part following some pattern, then feed that to an AI model and get the summary. 30-minute time limit, browser/ChatGPT allowed. [^khushal-kumar]
 - Design a concurrent web crawler handling robots.txt, rate limiting, and circular references while maintaining data integrity and freshness. [^linkjob-anthropic]
 
----
 
 ## Behavioral Questions
 
@@ -502,7 +502,35 @@ These are follow-up probes from AI agents conducting interviews (emerging trend 
 - Time and space complexity analysis. [^eightfold]
 - Why did you choose this specific data structure? [^eightfold]
 
----
+
+## Project Deep Dive
+
+Project deep dive (also called "technical project presentation") is an interview round where you present a past project and get grilled on technical decisions. Unlike behavioral questions that ask about situations, this is a structured presentation format testing ownership, architectural judgment, and depth of understanding.
+
+### Opening Questions
+
+- Walk me through your most technically challenging project. (OpenAI - 45-min presentation to a peer engineer) [^exponent-openai]
+- Walk me through a project you owned end-to-end. What were the key technical decisions? (Anthropic - 25-min presentation + 15-20 min discussion) [^prachub-anthropic]
+- Tell me about a project you're most proud of, and what role you played. (OpenAI) [^igotanoffer-openai]
+- Tell me about a recent/favorite project and some of the difficulties you had. (Meta) [^igotanoffer-meta]
+
+### Follow-up Probes
+
+These are the probing questions interviewers ask during project deep dives to test depth of understanding:
+
+- Why did you choose that particular storage/model/architecture over alternatives? [^exponent-openai]
+- Is there an actual eval framework here, or is it vibes-based? (OpenAI) [^exponent-openai]
+- What alternative approaches did you consider, and why did you reject them? [^exponent-openai] [^hello-interview]
+- How would you handle different requirements or scale constraints? [^hello-interview]
+- What would you do differently if you started this project over? [^exponent-openai]
+- What was the most challenging technical decision and how did you make it? [^exponent-openai]
+- Did the solution actually work? How do you know? What metrics did you track? [^exponent-openai]
+- What were the trade-offs you made, and are you still comfortable with them? [^prachub-anthropic]
+- How did you communicate technical decisions to stakeholders? [^prachub-anthropic]
+- What would you explore next if you had more time? [^hello-interview]
+- How do you monitor the model post-deployment for drift or degradation? [^linkjob-anthropic]
+- What trade-offs did you make between retrieval speed vs. context length, fine-tuning vs. prompt engineering, GPU cost vs. latency? [^hello-interview]
+
 
 ## Take-Home Assignments
 
@@ -545,7 +573,6 @@ Reported by candidates:
 - Build an LLM agent to ingest years of financial reports with stock price analysis and chart generation using only freemium APIs. Candidate withdrew, calling it "an unpaid mini-consulting project." [^process-analysis-fr]
 - 45 minutes for 3 complex tasks. [^process-analysis]
 
----
 
 ## Sources
 
@@ -651,3 +678,9 @@ Reported by candidates:
 [^x-aryyann8]: [X - AI Engineer Intern Interview](https://x.com/aryyann8/status/2009314129878896960) (Jan 2026)
 [^reddit-genai-product]: [Reddit - Technical Interview for GenAI Engineer Role](https://www.reddit.com/r/leetcode/comments/1rd6yki/technical_interview_for_genai_engineer_role_for_a) (r/leetcode)
 [^reddit-amazon-genai]: [Reddit - ML Engineer GenAI Amazon](https://www.reddit.com/r/datascience/comments/1jrdrpx/ml_engineer_genai_amazon/) (r/datascience)
+[^glassdoor-quantiphi]: [Glassdoor - Quantiphi ML Engineer Interview](https://www.glassdoor.com/Interview/NLP-related-question-tokenization-fine-tuning-ML-LIFE-CYCLE-QTN_8617277.htm)
+[^glassdoor-asapp]: [Glassdoor - ASAPP AI/ML Research Intern Interview](https://www.glassdoor.com/Interview/ASAPP-AI-ML-Research-Intern-Interview-Questions-EI_IE1501287.0,5_KO6,27.htm)
+[^reddit-capital-one]: [Reddit - Capital One Data Science Interview](https://www.reddit.com/r/datasciencecareers/comments/1ojegp4/capital_one_data_science_interview) (r/datasciencecareers, Oct 2025)
+[^glassdoor-cognida]: [Glassdoor - Cognida.ai Software Engineer Interview](https://www.glassdoor.com/Interview/Cognida-ai-Software-Engineer-Interview-Questions-EI_IE7907039.0,10_KO11,28.htm) (Jan 2026)
+[^exponent-openai-ml]: [Exponent - OpenAI ML Engineer Questions](https://www.tryexponent.com/questions?role=ml-engineer&type=technical)
+[^reddit-llm-interview-prep]: [Reddit - LLM Interview Prep](https://www.reddit.com/r/MachineLearning/comments/1ein9vh/d_llm_interview_prep) (r/MachineLearning)

@@ -4,7 +4,7 @@ AI system design is emerging as a distinct interview category, separate from bot
 
 Companies with dedicated AI system design rounds include Doctolib ("AI System Design Interview"), Sprinter Health ("AI-Focused Systems Design"), and Anthropic (distributed search + LLM inference at scale). Many more are adding AI-flavored questions to existing system design rounds. Companies known to test GenAI system design include Google, Apple, OpenAI, Anthropic, Cohere, Salesforce, and AI-first startups. [^igotanoffer]
 
-System design with AI elements is becoming a critical interview component. Interviewers need to understand how a candidate thinks about building services and components with AI interfaces and tooling -- including understanding limitations on security, access rights, and the reality that AI systems need to scale significantly (potentially 5-10x compared to current load, to 1000+ nodes).
+System design with AI elements is becoming a critical interview component. Interviewers need to understand how a candidate thinks about building services and components with AI interfaces and tooling - including understanding limitations on security, access rights, and the reality that AI systems need to scale significantly (potentially 5-10x compared to current load, to 1000+ nodes).
 
 See also: [Awesome AI Engineering](../awesome.md) for the full collection of references, company blogs, and practitioner stories cited below.
 
@@ -56,35 +56,108 @@ System design and cost/latency optimization are among the most frequently asked 
 
 Based on real interview experiences and practitioner guides:
 
-- Design a customer support chatbot that must not hallucinate [^mai-chi-bao] [^bhavishya-pandit]
-- Design a RAG-powered Q&A system for internal company documents
-- Design a voice assistant for hospital staff
-- Design an AI tool to generate legal contracts from prompts
-- Design an AI search assistant for 10M+ articles
-- Design a search system handling a billion documents and LLM inference for 10K+ RPS [^linkjob-anthropic]
-- Design ChatGPT's cross-conversation memory feature
-- Design a multi-step agentic workflow (meeting scheduling, code review, email campaigns)
-- When is an agentic architecture the wrong solution? (tests judgment about when NOT to use agents -- deterministic workflows, catastrophic/irreversible failures, strict latency SLAs, or when you can't define "done") [^techeon]
+- Design ChatGPT / Design an AI chatbot. [^igotanoffer] [^designgurus]
+- Design our Claude chat service. (Anthropic) [^igotanoffer]
+- Design a small language learning model that could run on a phone while making sure it's polite. (Google) [^igotanoffer]
+- Here's a junior developer's design for an inference batching system. Can you review it and explain what you'd change or improve? (Anthropic) [^igotanoffer]
+- Design the OpenAI Playground - specifically the feature that lets developers simulate full conversations and threads. (OpenAI) [^exponent-openai]
+- Design a real-time chatbot API - low-latency handling, session management, concurrency, safety filters. (OpenAI) [^designgurus]
+- Design a Document Q&A Assistant. [^bhavishya-pandit]
+- Design a Hallucination-Free Banking Chatbot. [^bhavishya-pandit]
+- Design a Hospital Voice Assistant (handle noise, privacy, latency, domain vocabulary). [^bhavishya-pandit]
+- Design a Feedback Loop for Writing Tools. [^bhavishya-pandit]
+- Design a Legal Contract Generation system with compliance requirements. [^bhavishya-pandit]
+- Design an AI Search system scaling to 10M+ articles. [^bhavishya-pandit]
+- Design a Resume Classifier for Team Routing. [^bhavishya-pandit]
+- Design an AI-powered Candidate Sourcing System with 750M profiles, semantic search, and <500ms latency. [^colin-zhou]
+- Scale an AI chat feature to 1M daily users - discuss trade-offs. [^process-analysis]
+- Design for 1M users (scale beyond prototype). [^process-analysis]
+- Design a system to process 10K user uploads/month (bank payslips, IDs, references). How would you extract data, detect inconsistencies, reject invalid files, and handle LLM provider downtime? [^igotanoffer]
+- Design a system that lets doctors automatically send billing info to insurers based on patient notes. [^igotanoffer]
+- Design a conversational recommender system that suggests products based on user preferences, combining chat, retrieval, and database layers. [^igotanoffer]
+- Design a fast autocomplete system using LLMs. [^systemdesignhandbook]
+- Design an AI-powered legal assistant. [^systemdesignhandbook]
+- Build a generative resume builder with memory. [^systemdesignhandbook]
+- Create an internal Slack bot answering HR questions. [^systemdesignhandbook]
+- Design a GitHub Copilot-style JavaScript development tool. [^systemdesignhandbook]
+- Design an AI co-pilot like GitHub Copilot (real-time streaming completions). [^colin-zhou]
+- Design a Midjourney/Stable Diffusion image generation service (queueing, GPU scheduling). [^colin-zhou]
+- Design a Perplexity.ai / real-time LLM-powered search engine. [^colin-zhou]
+- Design a Ghibli Image Generator (text prompt ingestion, model selection, GPU inference, cost throttling, safety filters). [^rohit-verma]
+- Design a Dynamic Questionnaire Engine for an Insurance Platform (JSON-driven, frontend decision tree without backend calls). [^rohit-verma]
+- Design a user profile system addressing storage, multi-device tracking, and preference flexibility. Optimize for 100 million users with batch migration. (OpenAI) [^linkjob-openai]
+- Design a distributed search system capable of handling a billion documents and a million QPS, while also managing LLM inference for over 10,000 requests per second. (Anthropic) [^linkjob-anthropic]
+- Design hybrid search combining traditional text retrieval with semantic similarity - top-k similar documents from a corpus of over 10M documents with a response time under 50ms. (Anthropic) [^linkjob-anthropic]
+- Design a workflow to remove all dead links for hundreds of client websites assuming you have API access to overwrite their HTML. [^proptech-founder-2]
+- How would you design the UX for an AI assistant that is often slow? [^igotanoffer]
+- How would you surface model limitations or errors to users without breaking trust? [^igotanoffer]
+- Design a scalable image-generation pipeline for millions of users. [^interviewnode]
+- How would you scale a generative content platform for millions of users? [^interviewnode]
+- Design an In-Memory Database with SET, GET, BEGIN, ROLLBACK, COMMIT, and nested transaction support. [^devto-xai]
+- Design an AI recommendation system. [^reddit-swe-to-ai]
+- Design a fraud detection system. [^reddit-swe-to-ai]
+- Design a chatbot architecture end-to-end (LLM + backend + data flow). [^reddit-swe-to-ai]
+- Design a distributed job queue for 100k+ GPU training jobs with preemption and checkpointing. [^reddit-xai-eng]
+- Design a temperature prediction system handling inconsistent global datasets (hybrid ML-LLM). [^reddit-grilled-rag]
+- Design an end-to-end RAG service: data ingestion, indexing, retrieval, generation, evals, tracing, guardrails. [^reddit-eightfold-ai]
+- Design a rate-limiter and code the core part. [^reddit-xai-eng]
+- Scaling AI systems to millions of users: latency and cost trade-offs, batching, caching, streaming, failure modes. [^reddit-2026-prep]
+- Design ChatGPT's cross-conversation memory feature. [^igotanoffer]
+- Design a multi-step agentic workflow (meeting scheduling, code review, email campaigns). [^promptlayer]
+- Design a content/policy violation detection system. [^igotanoffer]
+- Design a unified query engine across dispersed data sources like email, calendar, documents, and chat. [^x-avi-chawla-1]
+- Design a large-scale AI model deployment system - model serving, GPU scaling, model versioning, result caching. (OpenAI) [^designgurus]
+- Design a distributed training system for deep learning - data/model parallelism, weight synchronization, failure recovery. (OpenAI) [^designgurus]
+- Design a scalable data pipeline for ML applications - streaming/batch ingestion, ETL, database selection, data consistency. (OpenAI) [^designgurus]
+- Design a language model that minimizes harmful outputs while remaining useful and expressive. (Anthropic) [^igotanoffer]
+- Design a model that solves math problems - walk through data collection, SFT, post-training, and evaluation. (Cohere) [^igotanoffer]
+- Architect an AI agent system including agent loop, tool interfaces, memory, orchestration, and safety. (Salesforce) [^igotanoffer]
+- When is an agentic architecture the wrong solution? (tests judgment about when NOT to use agents - deterministic workflows, catastrophic/irreversible failures, strict latency SLAs, or when you can't define "done") [^techeon]
 - How do you define and enforce agent autonomy boundaries? (four-layer pattern: action classification by risk level, resource budgets enforced in orchestrator, scope constraints at integration layer, approval gates for high-risk actions) [^techeon]
 - How do you version and roll back agent behavior? (version the complete configuration: prompts + tool schemas + policies + model version + orchestrator logic as a single deployment identifier; behavioral benchmark suites before deployment; pin model versions since provider updates can silently change behavior) [^techeon]
-- Design a feedback loop system for an AI writing tool that improves from user edits [^bhavishya-pandit]
-- Design a resume classifier that routes candidates to the right team [^bhavishya-pandit]
-- Design ChatGPT / Design an AI chatbot [^igotanoffer] [^designgurus]
-- Design a small language model that runs on a phone while ensuring politeness (Google, [^igotanoffer])
-- Design the Claude chat service (Anthropic, [^igotanoffer])
-- Review a junior developer's inference batching system design and explain what you'd improve (Anthropic, [^igotanoffer])
-- Design a model that solves math problems - walk through data collection, SFT, post-training, and evaluation (Cohere, [^igotanoffer])
-- Architect an AI agent system including agent loop, tool interfaces, memory, orchestration, and safety (Salesforce, [^igotanoffer])
-- Design a system to process 10K user uploads/month (bank payslips, IDs), extract data, detect inconsistencies, and handle LLM provider downtime (Reddit, [^igotanoffer])
-- Design a system that lets doctors automatically send billing info to insurers based on patient notes (Reddit, [^igotanoffer])
-- Design a large-scale AI model deployment system -- model serving, GPU scaling, model versioning, result caching (OpenAI, [^designgurus])
-- Design a real-time chatbot API -- low-latency inference, session management, concurrency, safety filters (OpenAI, [^designgurus])
-- Design a distributed training system for deep learning -- data/model parallelism, weight synchronization, failure recovery (OpenAI, [^designgurus])
-- Design a scalable data pipeline for ML applications -- streaming/batch ingestion, ETL, database selection, data consistency (OpenAI, [^designgurus])
-- General system design questions commonly asked at OpenAI L5: Design GitHub Actions, Design Slack, Design Online Chess, Design a Payment System, Design a Webhook Callback System [^hellointerview]
-- Design a language model that minimizes harmful outputs while remaining useful and expressive (Anthropic, [^igotanoffer])
-- Design a content/policy violation detection system [^igotanoffer]
-- Design the UX for an AI assistant that is often slow [^igotanoffer]
+- How would you implement an AI application from start to finish, from kickoff meeting through deployment? (IBM) [^raghu-teja-2]
+- How would you design a scalable and reliable automation workflow? What considerations for error handling, monitoring, and debugging? [^proptech-founder-1]
+- How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? [^proptech-founder-1]
+- How do you monitor production AI systems? [^systemdesignhandbook]
+- How would you think about cost and capacity planning for an LLM-powered application at scale? [^igotanoffer]
+- How would you handle real-time versus batch processing for data updates? When is one preferred over the other? [^proptech-founder-2]
+- How do you ingest and process different types of data (structured, unstructured, event data)? [^proptech-founder-1]
+- What are major scaling challenges for LLM-powered applications? [^systemdesignhandbook]
+
+### Traditional System Design
+
+General system design questions commonly asked at OpenAI L5 and other AI companies: [^hellointerview] [^colin-zhou]
+
+- Design GitHub Actions. [^hellointerview]
+- Design Slack. [^hellointerview]
+- Design Online Chess. [^hellointerview]
+- Design a Payment System. [^hellointerview]
+- Design a Webhook Callback System. [^hellointerview]
+- Design TinyURL (Bitly). [^colin-zhou]
+- Design Instagram / TikTok feed. [^colin-zhou]
+- Design Twitter / X (timeline, posting, followers, trending topics). [^colin-zhou]
+- Design YouTube / Netflix video streaming platform. [^colin-zhou]
+- Design Uber (ride-sharing backend: matching, ETA, pricing surges). [^colin-zhou]
+- Design WhatsApp / Messenger (1:1 + group chat at global scale). [^colin-zhou]
+- Design a distributed key-value store (like DynamoDB / Cassandra). [^colin-zhou]
+- Design Google Docs collaborative editing (real-time, eventually consistent). [^colin-zhou]
+- Design Yelp / Google Maps nearby search. [^colin-zhou]
+- Design a rate limiter (global, per-user, distributed). [^colin-zhou]
+- Design Discord (voice + text chat, millions concurrent in voice channels). [^colin-zhou]
+- Design Stripe payment processing system (high consistency, PCI compliance). [^colin-zhou]
+- Design a distributed job scheduler (like AWS Batch at planetary scale). [^colin-zhou]
+- Design a notification system that can send 1B notifications/day with <1% loss. [^colin-zhou]
+- Design a strongly-consistent distributed database (Spanner / CockroachDB-like). [^colin-zhou]
+- Design a high-frequency trading exchange matching engine. [^colin-zhou]
+- Our p99 latency went from 50ms to 2s overnight - how would you debug and fix? [^colin-zhou]
+- Design a global WebSocket service (10M+ concurrent connections). [^colin-zhou]
+- Design a global feature flag / config service (multi-region, zero-downtime rollouts). [^colin-zhou]
+
+### System Troubleshooting
+
+- A system's 95th percentile latency spiked from 100ms to 2000ms. Identify bottlenecks rapidly. [^linkjob-anthropic]
+- How would you handle a 10x traffic spike during a product launch? [^hellointerview]
+- What happens if your primary data center goes offline for six hours? [^hellointerview]
 
 ### Expected Architecture Components
 
@@ -191,7 +264,7 @@ These topics appear in AI system design interviews but have no meaningful equiva
 - Anthropic's Contextual Retrieval [^anthropic-contextual-retrieval] reduced failed retrievals by 49%
 - The "search engine vs answer engine" distinction: returning relevant documents isn't enough - the generation layer that synthesizes a direct answer is where user experience lives. Query classification (factual vs procedural vs comparative) enables specialized prompts that dramatically improve answer quality. Production metrics after adding answer generation: time to find answer dropped from 2.5 min to 15 sec (-94%), user satisfaction rose from 3.2/5 to 4.6/5, support ticket volume dropped 35%, answer accuracy 91%, citation inclusion 87%, 85% cache hit rate for common queries reducing response time from 380ms to 45ms. ROI: ~$120/month compute cost increase, break-even in 6 days. [^hitendra-patel]
 - RAG system design in interviews should cover four distinct phases: (1) data ingestion pipeline (chunking strategies, embeddings/vectorization), (2) retrieval layer (vector database, ANN indexing with HNSW), (3) accuracy optimization (hybrid search with Reciprocal Rank Fusion, cross-encoder reranking), (4) generation phase (context construction, hallucination reduction). Scaling considerations: sharding vector indexes across machines with central aggregators, semantic caching to bypass the entire retrieval-generation pipeline for repeated queries. [^designgurus-rag]
-- HyDE (Hypothetical Document Embeddings) - a retrieval technique where you generate a hypothetical answer to the query using an LLM, then use that generated answer (not the original question) as the search query against the vector database. This often retrieves more relevant documents because the hypothetical answer is semantically closer to actual stored documents than the raw question is. Questions and answers are structurally different texts, and semantic retrieval is based on similarity between two strings -- so searching with an answer-shaped text against answer-shaped documents improves match quality. Useful for knowledge base search over company documents. [^proptech-founder]
+- HyDE (Hypothetical Document Embeddings) - a retrieval technique where you generate a hypothetical answer to the query using an LLM, then use that generated answer (not the original question) as the search query against the vector database. This often retrieves more relevant documents because the hypothetical answer is semantically closer to actual stored documents than the raw question is. Questions and answers are structurally different texts, and semantic retrieval is based on similarity between two strings - so searching with an answer-shaped text against answer-shaped documents improves match quality. Useful for knowledge base search over company documents. [^proptech-founder]
 
 ### Guardrails and Safety
 - Input validation and prompt injection defense
@@ -240,14 +313,14 @@ These topics appear in AI system design interviews but have no meaningful equiva
 - Three caching layers to discuss: prompt cache (shared system prompts; 1K-token system prompt with 1M daily calls saves ~1B repetitive input tokens/day), exact cache (product summaries, vector search results; use LRU/LFU eviction, avoid caching user-specific or time-sensitive queries), semantic cache (reuse similar but not identical queries via embedding similarity; "compared to other caching techniques, semantic cache's value is more dubious" - only justified if cache hit rates are high). Scalability interview signal: mention model-choice policies per client, letting them trade cost for quality dynamically. [^chip-huyen-platform] [^interviewnode]
 
 ### Agent Memory Systems
-- Four memory types for agentic systems: working memory (current task context, conversation history, scratchpad -- high fidelity, limited capacity, cleared between sessions), episodic memory (records of past executions and what worked/failed -- time-indexed, queryable by similarity), semantic memory (long-term knowledge, user preferences, domain facts -- declarative, updated based on experience), procedural memory (learned patterns for accomplishing tasks -- how-to knowledge emerging from successful episodes) [^techeon]
+- Four memory types for agentic systems: working memory (current task context, conversation history, scratchpad - high fidelity, limited capacity, cleared between sessions), episodic memory (records of past executions and what worked/failed - time-indexed, queryable by similarity), semantic memory (long-term knowledge, user preferences, domain facts - declarative, updated based on experience), procedural memory (learned patterns for accomplishing tasks - how-to knowledge emerging from successful episodes) [^techeon]
 - Memory pollution prevention: selective storage (only confirmed facts, successful patterns, user-provided preferences), quality filtering (verify accuracy, require minimum confidence, filter contradictions), decay mechanisms (recency weighting, confidence decay, usage-based retention), validation at retrieval time (check relevance not just similarity, verify consistency with current context), and user control (view/correct/delete/reset memory). "Bad memories cause bad behavior. Once polluted, recovery is difficult." [^techeon]
 
 ### Agent Loop Design and Termination
-- Orchestrator vs LLM responsibility split: orchestrator handles control flow, timeout enforcement, budget tracking, state persistence, tool dispatch, error handling, approval routing, observability. LLM handles goal understanding, plan generation, tool selection, result interpretation, completion assessment. Key principle: "Anything that must be guaranteed belongs in the orchestrator. Anything that requires judgment belongs in the LLM." Anti-pattern: putting control flow in prompts ("think in a loop until you solve the problem") -- this causes infinite loops and runaway costs [^techeon]
+- Orchestrator vs LLM responsibility split: orchestrator handles control flow, timeout enforcement, budget tracking, state persistence, tool dispatch, error handling, approval routing, observability. LLM handles goal understanding, plan generation, tool selection, result interpretation, completion assessment. Key principle: "Anything that must be guaranteed belongs in the orchestrator. Anything that requires judgment belongs in the LLM." Anti-pattern: putting control flow in prompts ("think in a loop until you solve the problem") - this causes infinite loops and runaway costs [^techeon]
 - Termination conditions (a common interview question for agentic systems): layered strategy with (1) LLM self-assessment as a separate reasoning step, (2) programmatic verification of completion where possible, (3) progress detection to catch stalled agents, (4) hard limits on iterations/time/cost, (5) stuck detection for repeated errors or circular reasoning. "The most insidious failure is an agent that thinks it's making progress but isn't." [^techeon]
 - Preventing over-reasoning: enforce step limits in the orchestrator (not in prompts), use action-biased prompting ("take the simplest action that makes progress"), set confidence thresholds with defaults, detect planning loops via semantic similarity of recent reasoning steps, cap task decomposition depth [^techeon]
-- Stateless vs stateful agents: most production systems use stateless execution with external state storage -- the orchestrator is stateless and scalable, state lives in a database, any orchestrator instance can resume any agent's work. Stateful agents are necessary for long-running tasks and personalization but risk state corruption and memory pollution [^techeon]
+- Stateless vs stateful agents: most production systems use stateless execution with external state storage - the orchestrator is stateless and scalable, state lives in a database, any orchestrator instance can resume any agent's work. Stateful agents are necessary for long-running tasks and personalization but risk state corruption and memory pollution [^techeon]
 
 ### Observability
 - Three monitoring pillars: metrics (system + model + latency + cost), logs ("log everything"), traces (record complete execution path showing query transformation step-by-step)
@@ -360,7 +433,6 @@ AI-native roles surged 240% in early 2025. Rather than "Sort this array," candid
 
 This section catalogs AI/ML system design interview questions that people are actually asked, organized by category. Questions are drawn from real interview experiences, practitioner accounts, company-specific interview guides, and community reports (Reddit, LeetCode, Glassdoor). Where known, the source company and guidance on what constitutes a strong answer are included.
 
----
 
 ### RAG & Search Systems
 
@@ -476,7 +548,7 @@ These questions are still commonly asked at AI companies, including those focuse
 
 | # | Question | Source / Company | What Makes a Strong Answer |
 |---|----------|-----------------|---------------------------|
-| 1 | Design a model that solves math problems -- walk through data collection, SFT, post-training, and evaluation | Cohere [^igotanoffer] | Data curation (math datasets, synthetic generation), supervised fine-tuning on step-by-step solutions, post-training with RLHF or DPO, evaluation on standard benchmarks (MATH, GSM8K) plus custom test sets, chain-of-thought evaluation, and error categorization (arithmetic, reasoning, formatting). |
+| 1 | Design a model that solves math problems - walk through data collection, SFT, post-training, and evaluation | Cohere [^igotanoffer] | Data curation (math datasets, synthetic generation), supervised fine-tuning on step-by-step solutions, post-training with RLHF or DPO, evaluation on standard benchmarks (MATH, GSM8K) plus custom test sets, chain-of-thought evaluation, and error categorization (arithmetic, reasoning, formatting). |
 | 2 | Design a scalable system for training a large language model | OpenAI [^igotanoffer] | Data collection and curation at scale, distributed training across thousands of GPUs, checkpointing and failure recovery, training monitoring (loss curves, gradient norms), evaluation during training, and cost management. |
 | 3 | Design an A/B testing framework for ML models | Common across companies [^interviewnode-hld] | Traffic splitting strategies, metric selection (guardrail metrics vs. primary metrics), statistical significance calculation, handling network effects, long-term vs. short-term metric trade-offs, and rollback procedures. |
 | 4 | How would you evaluate long-horizon agent performance? | [^techeon] | Task completion alone is insufficient. Evaluate efficiency (steps/cost/time vs. baselines), trajectory quality, intermediate milestones, robustness across task variations, and safety (boundary violations, near-misses). Track alignment metrics: goal adherence, unexpected behaviors, policy compliance. |
@@ -490,7 +562,7 @@ These questions are still commonly asked at AI companies, including those focuse
 | # | Question | Source / Company | What Makes a Strong Answer |
 |---|----------|-----------------|---------------------------|
 | 1 | Design a system that lets doctors automatically send billing info to insurers based on patient notes | Reddit [^igotanoffer] | Clinical NLP for extracting diagnoses and procedures from notes, ICD/CPT code mapping, validation against billing rules, human review for high-value claims, HIPAA compliance (on-premises models, data encryption, audit trails), and error handling for ambiguous notes. |
-| 2 | Design a voice assistant for hospital staff | [^bhavishya-pandit] | On-device ASR with medical terminology fine-tuning, intent routing, HIPAA-compliant data handling, confirmation mechanisms for safety-critical actions, typed fallback mode, and integration with EHR systems. Cannot use public APIs -- must self-host for patient data. |
+| 2 | Design a voice assistant for hospital staff | [^bhavishya-pandit] | On-device ASR with medical terminology fine-tuning, intent routing, HIPAA-compliant data handling, confirmation mechanisms for safety-critical actions, typed fallback mode, and integration with EHR systems. Cannot use public APIs - must self-host for patient data. |
 | 3 | Design an AI-powered legal assistant | [^systemdesignhandbook] | RAG over legal databases (case law, statutes, regulations), clause template library, citation verification, jurisdiction-aware responses, version control for generated documents, lawyer review workflow, and malpractice risk mitigation. LLMs paraphrase/combine existing clauses but never invent legal content. |
 | 4 | Design a hallucination-free chatbot for a financial institution | [^bhavishya-pandit] | Route factual queries to structured APIs (account balances, transaction history). LLM only rephrases retrieved data with disclaimers. Confidence thresholds reject unsupported queries. Complete audit trail. Regulatory compliance (SOX, PCI-DSS). No investment advice without proper disclaimers. |
 | 5 | Design Tesla's Autopilot vision system | Tesla [^interviewnode-hld] | Real-time multi-camera perception, object detection and tracking, sensor fusion, safety-critical latency requirements, edge deployment optimization, and the challenge of long-tail scenarios (rare but dangerous situations). |
@@ -535,6 +607,8 @@ These traditional distributed systems questions appear at AI companies like Open
 [^anthropic-multi-agent]: [Anthropic - Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system)
 [^hitendra-patel]: [Hitendra Patel - The Day I Transformed My RAG](https://medium.com/@hitendra.patel2986/the-day-i-transformed-my-rag-from-search-engine-to-answer-engine-7629f0fddf07)
 [^proptech-founder]: [PropTech Founder - YouTube](https://www.youtube.com/watch?v=leXRiJ5TuQo)
+[^proptech-founder-1]: [YouTube - Proptech Founder Part 1](https://www.youtube.com/watch?v=leXRiJ5TuQo)
+[^raghu-teja-2]: [Medium - Raghu Teja, IBM Part 2](https://medium.com/@raghu_teja/how-i-cracked-my-ibm-ai-engineer-interview-part-2-ml-scenarios-88af2b46282e)
 [^eugene-yan]: [Eugene Yan - LLM Patterns](https://eugeneyan.com/writing/llm-patterns/)
 [^hamel-husain]: [Hamel Husain - Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)
 [^shreya-shankar]: [Shreya Shankar - In Defense of AI Evals](https://www.sh-reya.com/blog/in-defense-ai-evals/)
@@ -564,4 +638,13 @@ These traditional distributed systems questions appear at AI companies like Open
 [^yuan-meng-infra]: [Yuan Meng - ML Infra Interviews](https://www.yuan-meng.com/posts/ml_infra_interviews/)
 [^devto-xai]: [DevTo - xAI Software Engineer Interview 2026](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
 [^reddit-2026-prep]: [Reddit - 2026 Interview Prep](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) (r/leetcode)
+[^colin-zhou]: [Medium - Colin Zhou](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-f328e9df8e84)
 [^janvi-kalra]: [Janvi Kalra - From Software Engineer to AI Engineer](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer)
+[^process-analysis]: [Process Analysis - Reddit r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+[^proptech-founder-2]: [YouTube - Proptech Founder Part 2](https://www.youtube.com/watch?v=Zt-h5BiBWH0)
+[^reddit-eightfold-ai]: [Reddit - Need Advice for Eightfold.ai Agentic AI Engineer](https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer) (r/developersIndia)
+[^reddit-grilled-rag]: [Reddit - Got Grilled in an ML Interview for LangGraph/RAG Projects](https://www.reddit.com/r/LangChain/comments/1k662xc/got_grilled_in_an_ml_interview_today_for_my/) (r/LangChain)
+[^reddit-swe-to-ai]: [Reddit - From Software Developer to AI Engineer](https://www.reddit.com/r/learnmachinelearning/comments/1pzcw2y/from_software_developer_to_ai_engineer_the_exact/) (r/learnmachinelearning)
+[^reddit-xai-eng]: [Reddit - xAI AI Engineer Backend/Infra Interview](https://www.reddit.com/r/leetcode/comments/1pjhw1i/xai_ai_engineer_backendinfra_interview_just/) (r/leetcode)
+[^rohit-verma]: [Medium - Rohit Verma, Microsoft](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1)
+[^x-avi-chawla-1]: [X - Avi Chawla, Unified Query Engine (Google)](https://x.com/_avichawla/status/1986320178783867036)

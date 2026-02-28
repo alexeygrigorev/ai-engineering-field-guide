@@ -26,22 +26,22 @@ OpenAI looks for evidence you can "own work completely, deliver without heavy pr
 Many companies require a presentation round - not just research roles. Mimansa Jaiswal reports presentations across multiple role types at Big Tech companies. OpenAI's presentation round is 45 minutes presenting your most technically challenging project to a peer engineer, with very specific technical follow-ups ("Is there an actual eval framework here, or is it vibes-based?"). Choose a project that demonstrates ownership; recent and greenfield is better [^mimansa-jaiswal] [^exponent-openai]
 
 ### OpenAI's two behavioral rounds at staff level
-OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The Leadership round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level -- leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The Collaboration round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments [^hellointerview-openai-l5]
+OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The Leadership round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level - leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The Collaboration round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments [^hellointerview-openai-l5]
 
 ### The first five minutes decide everything
-From observing 50+ AI engineer interviews at top startups: engineers with strong resumes fall flat in the opening minutes, while bootcamp grads crush it by immediately framing experience around impact. The best openers sound like: "At my last job, I built a RAG pipeline to reduce customer support response time by 40%. Happy to dive into how we structured it." No buzzwords, no model names -- just clear value. Hiring managers want to know two things immediately: can you solve real problems with LLMs, and can you explain your thinking clearly? [^fonzi-ai]
+From observing 50+ AI engineer interviews at top startups: engineers with strong resumes fall flat in the opening minutes, while bootcamp grads crush it by immediately framing experience around impact. The best openers sound like: "At my last job, I built a RAG pipeline to reduce customer support response time by 40%. Happy to dive into how we structured it." No buzzwords, no model names - just clear value. Hiring managers want to know two things immediately: can you solve real problems with LLMs, and can you explain your thinking clearly? [^fonzi-ai]
 
 ### Talk like a builder, not a researcher
-The candidates who get the most offers aren't always the ones who know the latest papers -- they're the ones who can explain how they shipped something useful and what went wrong along the way. Trade-off thinking is what startups want: "We tried fine-tuning on contract data, but it hallucinated too often. So we switched to a hybrid RAG setup using Elasticsearch. We lost some nuance but gained reliability." Cost awareness is a major green flag -- one engineer ended a demo by saying "By trimming our prompt and caching embeddings, we reduced OpenAI's spend by 70%," and got an offer the next day [^fonzi-ai]
+The candidates who get the most offers aren't always the ones who know the latest papers - they're the ones who can explain how they shipped something useful and what went wrong along the way. Trade-off thinking is what startups want: "We tried fine-tuning on contract data, but it hallucinated too often. So we switched to a hybrid RAG setup using Elasticsearch. We lost some nuance but gained reliability." Cost awareness is a major green flag - one engineer ended a demo by saying "By trimming our prompt and caching embeddings, we reduced OpenAI's spend by 70%," and got an offer the next day [^fonzi-ai]
 
 ### Honesty about gaps beats bluffing
-Engineers who get tripped up by a question still get hired when they are honest and curious in response. The pattern: acknowledge what you don't know, walk through how you'd figure it out, and ask clarifying questions. One candidate said "I haven't worked with LangSmith yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics" -- it turned into a 10-minute conversation about evaluation design and he got the job [^fonzi-ai]
+Engineers who get tripped up by a question still get hired when they are honest and curious in response. The pattern: acknowledge what you don't know, walk through how you'd figure it out, and ask clarifying questions. One candidate said "I haven't worked with LangSmith yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics" - it turned into a 10-minute conversation about evaluation design and he got the job [^fonzi-ai]
 
 ### The managerial round probes your past work and speed
 In a Gen AI Engineer interview, the managerial round focused on: the take-home assignment and how the candidate approached an unfamiliar framework (CrewAI), questions about previous internship projects and depth of prompt engineering experience, and a live speed coding test. The interviewer was impressed not by perfection but by the ability to deliver under time pressure with unfamiliar tools [^khushal-kumar]
 
 ### Startup evaluation as a behavioral signal
-When interviewing at AI startups, demonstrating business awareness during behavioral rounds stands out. A framework for evaluating startups: (1) high revenue and steep revenue growth rate, (2) a large market with room to expand, (3) loyal, obsessed customers, and (4) competitive differentiation -- why this company will win in its space. Engineers who do this kind of due diligence -- checking Reddit/YouTube for real user sentiment, talking to companies that use the product, asking about margins and runway -- signal maturity and business thinking that hiring managers notice [^janvi-kalra]
+When interviewing at AI startups, demonstrating business awareness during behavioral rounds stands out. A framework for evaluating startups: (1) high revenue and steep revenue growth rate, (2) a large market with room to expand, (3) loyal, obsessed customers, and (4) competitive differentiation - why this company will win in its space. Engineers who do this kind of due diligence - checking Reddit/YouTube for real user sentiment, talking to companies that use the product, asking about margins and runway - signal maturity and business thinking that hiring managers notice [^janvi-kalra]
 
 ## STAR vs SAIL
 
@@ -56,21 +56,7 @@ A categorized collection of behavioral questions that AI/ML engineers are actual
 
 ### Project Deep Dives ("Walk me through...")
 
-| # | Question | Source/Company | What they're testing for |
-|---|----------|---------------|------------------------|
-| 1 | "Walk me through an AI project you built end-to-end." | Common [^fonzi-ai] | Ownership, architectural thinking, ability to ship. The best answers frame around impact, not technology names. |
-| 2 | "Tell me about your past projects." | Apple, Discord, Anduril, and others [^exponent-behavioral] | Depth of experience, ability to articulate technical work clearly. |
-| 3 | "Name a project or accomplishment you're most proud of." | OpenAI [^igotanoffer-openai] | Impact-driven thinking, whether your values align with the company's principles. |
-| 4 | "Walk me through your most technically challenging project." (45-min presentation format) | OpenAI onsite [^exponent-openai] | Ownership, technical depth, architectural judgment. Expect probes like "Is there an actual eval framework here, or is it vibes-based?" |
-| 5 | "Tell me about a recent / favorite project and some of the difficulties you had." | Meta [^igotanoffer-meta] | Problem-solving resilience, honesty about challenges. |
-| 6 | "Describe a time you reduced hallucinations or cost in production." | Common at AI startups and product companies | Production-mindedness, cost awareness, practical LLM experience. |
-| 7 | "Describe a time you had to optimize an existing process or workflow for efficiency or scalability." | AI engineer interviews broadly [^youtube-exponent] | Benchmarking instinct, bottleneck identification, measurable results. |
-| 8 | "Describe a challenging prompt engineering problem that you solved." | AI engineer interviews [^youtube-exponent] | Hands-on GenAI experience, iterative problem-solving, results orientation. |
-| 9 | "Tell me about a technical challenge that you have overcome." | Amazon, Dropbox, Google, and others [^exponent-behavioral] | Resilience, problem decomposition, technical depth. |
-| 10 | "Tell me about the greatest accomplishment of your career." | Meta [^igotanoffer-meta] | Self-awareness, ability to quantify impact, what you consider meaningful. |
-| 11 | "Walk through a recent technical project." | Anthropic [^prachub-anthropic] | Clear reasoning, documented decision-making, ability to explain trade-offs. |
-| 12 | "Tell me about a project you're most proud of, and what role you played." | Upwork AI hiring guide [^youtube-upwork] | Detecting exaggerated resumes or AI-generated portfolios; verifying real ownership. |
-| 13 | "What level of prompts have you written? What kind of projects did you work on?" | Gen AI Engineer managerial round [^khushal-kumar] | Depth of prompt engineering experience, practical GenAI skills. |
+Moved to [Project Deep Dive](03-project-deep-dive.md) - includes opening questions, follow-up probes, company formats, and evaluation criteria.
 
 ### Conflict & Collaboration
 
@@ -123,7 +109,13 @@ A categorized collection of behavioral questions that AI/ML engineers are actual
 | 8 | "How would you handle real-time versus batch processing for data updates? When is one preferred over the other?" | AI engineer interviews [^youtube-exponent] | Systems thinking, understanding of trade-offs between freshness, cost, and complexity. |
 | 9 | "Tell me about a time when a technical misjudgment led to a project delay. What did you learn?" | Anthropic [^linkjob-anthropic] | Honesty about mistakes, learning from technical errors. |
 | 10 | "What would you do if, midway through a project, you realized it was actually unfeasible or couldn't be completed?" | Anthropic [^linkjob-anthropic] | Judgment under sunk-cost pressure, ability to pivot or kill projects. |
-| 11 | "Describe a time you had to quickly learn a new technology or methodology to complete a project." | Common across companies [^interviewnode] | Adaptability, learning velocity. Gen AI Engineer interviewers have been impressed by candidates picking up unfamiliar frameworks under time pressure. |
+| 11 | "Describe a time you had to quickly learn a new technology or methodology to complete a project." | Common across companies [^interviewnode] [^x-allie-miller] | Adaptability, learning velocity. Gen AI Engineer interviewers have been impressed by candidates picking up unfamiliar frameworks under time pressure. |
+| 12 | "Which model provider do you prefer for creative writing tasks?" | AI startups [^promptlayer] | Practical model evaluation experience, hands-on opinions beyond benchmarks. |
+| 13 | "How do you compare AI coding assistants like Cursor, Windsurf, or Claude Code?" | AI startups [^promptlayer] | Practical tool experience, depth of daily AI tooling usage. |
+| 14 | "What recent AI paper or development caught your attention?" | AI startups [^promptlayer] | Staying current, intellectual curiosity, ability to explain technical concepts. |
+| 15 | "What side projects have you built with AI?" | AI startups [^promptlayer] | Builder mindset, self-motivated learning, passion for the space. |
+| 16 | "What frameworks are you familiar with? What have you built before?" | Common [^reddit-ai-eng-questions] | Hands-on experience, breadth of tooling knowledge. |
+| 17 | "Which models have you worked with? Which cloud providers are you familiar with?" | Common [^reddit-ai-eng-questions] | Practical deployment experience, infrastructure knowledge. |
 
 ### Failure & Learning
 
@@ -149,13 +141,16 @@ A categorized collection of behavioral questions that AI/ML engineers are actual
 | 6 | "Tell me about a time you made a safety-first decision in a project." | Anthropic [^interviewquery-anthropic] | Alignment with safety-first culture, willingness to slow down for safety. |
 | 7 | "How do you manage the trade-off triangle of latency, cost, and retrieval accuracy?" | AI engineer interviews [^youtube-exponent] | Production AI experience. Interviewers look for: caching strategies, model routing (small model for simple tasks, large for complex), rerankers, prompt optimization. |
 | 8 | "Describe a time you reduced cost or latency in a production AI system." | AI startups [^fonzi-ai] | Cost awareness is a superpower. One candidate got an offer the next day after showing they "reduced OpenAI's spend by 70%." |
-| 9 | "How do you manage ambiguity in ML projects where requirements and data evolve over time?" | Common across companies [^interviewnode] | Comfort with ML uncertainty -- understanding that models can't be fully controlled, and building validators/policies accordingly. |
+| 9 | "How do you manage ambiguity in ML projects where requirements and data evolve over time?" | Common across companies [^interviewnode] | Comfort with ML uncertainty - understanding that models can't be fully controlled, and building validators/policies accordingly. |
 | 10 | "When and how would you implement LLM guardrails?" | AI engineer interviews [^youtube-exponent] | Security mindset, understanding of input/output filtering, prompt injection prevention. |
 | 11 | "What is an AI agent and when would you NOT use one?" | AI engineer interviews [^youtube-exponent] | Practical judgment. Interviewers are impressed when candidates push back on agent hype: "You can get away a lot with a predefined workflow with LLM calls." |
 | 12 | "Explain how LLMs work." | AI engineer interviews [^youtube-exponent] | Foundational understanding. Only 1-2 candidates out of many could answer this well. Mention tokenization, embeddings, transformers, next-token prediction. |
 | 13 | "Answer general fit and AI safety questions." | Anthropic [^prachub-anthropic] | Mission alignment with safe AI development, views on alignment and responsible deployment. |
 | 14 | "How do you handle the problem of not keeping an entire report's context when splitting a document for a chatbot?" | AI engineer interviews [^youtube-exponent] | Chunking strategy, metadata injection, practical RAG experience. |
 | 15 | "What metrics do you consider when benchmarking and evaluating LLM performance?" | AI engineer interviews [^youtube-exponent] | Relevance, time-to-first-token, hallucination rate, cost per call. Shows measurement discipline. |
+| 16 | "Tell me about a time you identified a major risk in an AI system - what did you do?" | Mistral [^datainterview-mistral] | Risk identification, proactive safety thinking, judgment under uncertainty. |
+| 17 | "Did you apply GenAI techniques to solve a problem not usually solved with GenAI?" | Common [^reddit-devsindia-genai] | Creative application of AI, thinking beyond standard use cases. |
+| 18 | "Do you fact-check AI outputs or just trust them? How do you validate AI-generated content?" | Common [^x-michael-taiwo] | AI literacy, critical thinking about AI outputs, verification habits. |
 
 ### Culture Fit & Values
 
@@ -175,7 +170,7 @@ A categorized collection of behavioral questions that AI/ML engineers are actual
 
 | # | Question | Source/Company | What they're testing for |
 |---|----------|---------------|------------------------|
-| 1 | "Why OpenAI?" | OpenAI -- asked early and repeatedly [^exponent-openai] | Genuine mission alignment. Vague answers about "working on impactful AI" don't land. Reference specific aspects of their work, Charter, or safety approach. |
+| 1 | "Why OpenAI?" | OpenAI - asked early and repeatedly [^exponent-openai] | Genuine mission alignment. Vague answers about "working on impactful AI" don't land. Reference specific aspects of their work, Charter, or safety approach. |
 | 2 | "Why do you want to work at Anthropic?" | Anthropic [^exponent-behavioral] | Genuine interest in AI safety, alignment with Anthropic's values of integrity, humility, and curiosity. |
 | 3 | "Why do you want to work at Meta?" | Meta [^exponent-behavioral] | Understanding of Meta's AI strategy and how you'd contribute. |
 | 4 | "Why do you want to work at Google?" | Google [^exponent-behavioral] | Fit with Google's AI research culture, specific team/product interest. |
@@ -193,31 +188,50 @@ A categorized collection of behavioral questions that AI/ML engineers are actual
 | 1 | "Why do you think we should NOT hire you?" | Google, Visa [^exponent-behavioral] | Radical self-awareness, intellectual honesty, ability to frame limitations constructively. |
 | 2 | "What would you do if, midway through a project, you realized it was unfeasible?" | Anthropic [^linkjob-anthropic] | Sunk-cost resistance, judgment, communication of bad news. |
 | 3 | "How would you design a workflow to remove all dead links for hundreds of client websites?" | AI engineer interview [^youtube-exponent] | System design thinking applied to real-world AI workflow, step-by-step reasoning. |
-| 4 | "I haven't worked with [tool X] yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics." (Not a question -- this is the winning response pattern when you don't know something.) | AI startups [^fonzi-ai] | Honesty about gaps beats bluffing. This pattern -- acknowledge, show curiosity, ask a smart follow-up -- consistently leads to offers. |
+| 4 | "I haven't worked with [tool X] yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics." (Not a question - this is the winning response pattern when you don't know something.) | AI startups [^fonzi-ai] | Honesty about gaps beats bluffing. This pattern - acknowledge, show curiosity, ask a smart follow-up - consistently leads to offers. |
 | 5 | "How do you use AI coding agents in your work?" (tested during live coding with AI tools allowed) | PropTech company, observed by Exponent [^youtube-proptech] | How you prompt, whether you understand what the AI produces, whether you blindly accept output or verify it. "Relying on AI to make decisions for you is the biggest pitfall." |
+
+### AI-Conducted Interview Follow-ups
+
+These are follow-up probes from AI agents conducting interviews (emerging trend at Eightfold.ai): [^eightfold]
+
+| # | Question | What they're testing for |
+|---|----------|------------------------|
+| 1 | "How would you handle edge cases?" | Thoroughness, defensive thinking. |
+| 2 | "What alternative approaches did you consider?" | Breadth of thinking, awareness that first approach isn't always best. |
+| 3 | "Time and space complexity analysis." | Computer science fundamentals, optimization awareness. |
+| 4 | "Why did you choose this specific data structure?" | Deliberate technical choices, not just "it works." |
+
 
 ## Sources
 
-[^exponent-openai]: [Medium - Exponent, OpenAI](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
+[^datainterview-mistral]: [DataInterview - Mistral ML Engineer Interview](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)
+[^deepthi-sudharsan]: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
+[^educative-deepmind]: [Educative - Google DeepMind](https://www.educative.io/blog/google-deepmind-interview-questions)
+[^eightfold]: [Medium - Eightfold AI Hiring Process](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
 [^exponent-behavioral]: [Exponent - ML Engineer Behavioral Questions](https://www.tryexponent.com/questions?role=ml-engineer&type=behavioral)
+[^exponent-openai]: [Medium - Exponent, OpenAI](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 [^exponent-openai-behavioral]: [Exponent - OpenAI Behavioral Questions](https://www.tryexponent.com/questions?company=openai&type=behavioral)
-[^microsoft-rohitverma]: [Medium - Rohit Verma, Microsoft Senior Engineer](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1)
-[^mimansa-jaiswal]: [Mimansa Jaiswal](https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-fall-2024-process/)
-[^hellointerview-openai-l5]: [HelloInterview - OpenAI L5](https://www.hellointerview.com/guides/openai/l5)
 [^fonzi-ai]: [Medium - Fonzi AI](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4)
-[^khushal-kumar]: [Medium - Khushal Kumar](https://medium.com/@khushalkumar/my-generative-ai-engineer-interview-experience-got-hired-f8a027e070b0)
+[^hellointerview-openai-l5]: [HelloInterview - OpenAI L5](https://www.hellointerview.com/guides/openai/l5)
+[^igotanoffer]: [igotanoffer - Generative AI System Design Interview](https://igotanoffer.com/en/advice/generative-ai-system-design-interview)
+[^igotanoffer-meta]: [IGotAnOffer - Meta ML Engineer](https://igotanoffer.com/blogs/tech/facebook-machine-learning-engineer-interview)
+[^igotanoffer-openai]: [IGotAnOffer - OpenAI](https://igotanoffer.com/en/advice/openai-interview-questions)
+[^interviewnode]: [InterviewNode - Behavioral Guide for ML Engineers](https://www.interviewnode.com/post/acing-the-behavioral-interview-a-guide-for-ml-engineers-by-interviewnode)
+[^interviewquery-anthropic]: [InterviewQuery - Anthropic](https://www.interviewquery.com/interview-guides/anthropic)
 [^janvi-kalra]: [YouTube - Janvi Kalra / Pragmatic Engineer](https://www.youtube.com/watch?v=JwDBIkHBTIs)
 [^janvi-kalra-pragmatic]: [Janvi Kalra / Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer)
-[^yuan-meng]: [Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/)
-[^igotanoffer-openai]: [IGotAnOffer - OpenAI](https://igotanoffer.com/en/advice/openai-interview-questions)
-[^igotanoffer-meta]: [IGotAnOffer - Meta ML Engineer](https://igotanoffer.com/blogs/tech/facebook-machine-learning-engineer-interview)
-[^youtube-exponent]: [YouTube - Exponent](https://www.youtube.com/watch?v=Zt-h5BiBWH0)
-[^interviewnode]: [InterviewNode - Behavioral Guide for ML Engineers](https://www.interviewnode.com/post/acing-the-behavioral-interview-a-guide-for-ml-engineers-by-interviewnode)
-[^prachub-anthropic]: [Prachub - Anthropic Behavioral & Leadership](https://prachub.com/companies/anthropic/categories/behavioral-and-leadership)
-[^interviewquery-anthropic]: [InterviewQuery - Anthropic](https://www.interviewquery.com/interview-guides/anthropic)
-[^educative-deepmind]: [Educative - Google DeepMind](https://www.educative.io/blog/google-deepmind-interview-questions)
+[^khushal-kumar]: [Medium - Khushal Kumar](https://kaysnotes.medium.com/my-generative-ai-engineer-interview-experience-got-hired-6b3f1affc4e9)
 [^linkjob-anthropic]: [LinkJob - Anthropic](https://www.linkjob.ai/interview-questions/anthropic-interview-process/)
-[^eightfold-ai]: [Medium - Eightfold AI Hiring Process](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
-[^deepthi-sudharsan]: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
-[^youtube-upwork]: [YouTube - Upwork AI](https://www.youtube.com/watch?v=upwork-ai)
+[^microsoft-rohitverma]: [Medium - Rohit Verma, Microsoft Senior Engineer](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1)
+[^mimansa-jaiswal]: [Mimansa Jaiswal](https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-fall-2024-process/)
+[^prachub-anthropic]: [Prachub - Anthropic Behavioral & Leadership](https://prachub.com/companies/anthropic/categories/behavioral-and-leadership)
+[^promptlayer]: [PromptLayer](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
+[^reddit-ai-eng-questions]: [Reddit - AI Engineer Interview Questions](https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions/) (r/ArtificialIntelligence)
+[^reddit-devsindia-genai]: [Reddit - Generative AI Engineer Interview Prep](https://www.reddit.com/r/developersIndia/comments/1oq5fdi/got_an_interview_tomorrow_for_a_generative_ai) (r/developersIndia)
+[^x-allie-miller]: [X - Allie K. Miller, Adaptability Interview Questions](https://x.com/alliekmiller/status/1967970071248015679)
+[^x-michael-taiwo]: [X - Michael Taiwo, AI Literacy Interview Questions](https://x.com/AskMichaelTaiwo/status/1987201166157946887)
+[^yuan-meng]: [Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/)
+[^youtube-exponent]: [YouTube - Exponent](https://www.youtube.com/watch?v=Zt-h5BiBWH0)
 [^youtube-proptech]: [YouTube - PropTech Mock Interview](https://www.youtube.com/watch?v=proptech-mock)
+[^youtube-upwork]: [YouTube - Upwork AI](https://www.youtube.com/watch?v=upwork-ai)
