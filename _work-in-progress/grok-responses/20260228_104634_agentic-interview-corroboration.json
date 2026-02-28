@@ -1,0 +1,377 @@
+{
+  "query": "Find real first-person reports from people who were asked agentic AI interview questions in job interviews in late 2025 or 2026. I want Reddit threads, X posts, or blog posts where someone says \"I was asked about agent orchestration\" or \"my interview included questions about multi-agent systems\" or similar. Not study guides or question lists - actual interview experiences.",
+  "timestamp": "20260228_104634",
+  "response": {
+    "created_at": 1772271922,
+    "completed_at": 1772271994,
+    "id": "22e9d5f7-9409-050a-cf6e-f0daf379df47",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_44439850",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:reddit.com interview (\"agentic\" OR \"multi-agent\" OR \"agent orchestration\" OR \"multi agent\" OR \"agentic AI\") (\"asked\" OR \"question\" OR \"asked about\" OR \"interviewed about\") (2025 OR 2026)",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_51884938",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview experience\" OR \"my interview\" (\"agentic AI\" OR \"multi-agent systems\" OR \"agent orchestration\" OR \"multi-agent\") (2025 OR 2026) -guide -list -questions filetype:blog OR blog",
+          "sources": []
+        }
+      },
+      {
+        "call_id": "xs_call_12577156",
+        "input": "{\"query\":\"interview (agentic OR \\\"multi-agent\\\" OR \\\"agent orchestration\\\" OR \\\"multi agent\\\") since:2025-10-01\",\"limit\":20,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_22e9d5f7-9409-050a-cf6e-f0daf379df47_xs_call_12577156",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_90340064",
+        "input": "{\"query\":\"personal interview experience asked agentic AI multi-agent systems agent orchestration job interview\",\"limit\":20,\"from_date\":\"2025-10-01\",\"to_date\":\"2026-02-28\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_22e9d5f7-9409-050a-cf6e-f0daf379df47_xs_call_90340064",
+        "status": "completed"
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_05610943",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"I was asked\" interview (\"agentic\" OR \"multi-agent\" OR \"agent orchestration\") AI (2025 OR 2026)",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_25399651",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_29275226",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.lewis-lin.com/blog/how-i-landed-my-dream-agentic-ai-pm-role-at-t-mobile-in-60-days-after-a-layoff-a-90-day-visa-clock-and-one-of-the-toughest-job-markets-in-tech"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_36305638",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_30097115",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/amazonemployees/comments/1qbzo6i/amazon_loop_interview_for_agentic_ai_role_fresher"
+        }
+      },
+      {
+        "call_id": "xs_call_98813155",
+        "input": "{\"query\":\"interview (agentic OR \\\"multi-agent\\\" OR \\\"agent orchestration\\\" OR \\\"multi agent\\\") since:2025-10-01\",\"limit\":10,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_22e9d5f7-9409-050a-cf6e-f0daf379df47_xs_call_98813155",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_31590904",
+        "input": "{\"query\":\"I was asked in my job interview about agentic AI multi-agent systems agent orchestration\",\"limit\":10,\"from_date\":\"2025-10-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_22e9d5f7-9409-050a-cf6e-f0daf379df47_xs_call_31590904",
+        "status": "completed"
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_51883050",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:reddit.com (\"was asked\" OR \"they asked me\" OR \"interview question\") (agentic OR \"multi-agent\" OR \"agent orchestration\") AI",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_31915788",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:teamblind.com agentic OR \"multi-agent\" interview experience 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_54945117",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview experience\" OR \"my interview\" OR \"was asked\" OR \"they asked\" agentic OR \"multi-agent systems\" OR \"agent orchestration\" OR \"multi agent\" site:reddit.com/r/cscareerquestions OR site:reddit.com/r/csMajors OR site:reddit.com/r/developersIndia 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_30836566",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "(\"interview experience\" OR \"was asked in interview\") (\"agentic AI\" OR \"multi-agent\" OR \"agent orchestration\") (2025 OR 2026) site:medium.com OR site:dev.to OR site:teamblind.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_55673095",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/interviews/comments/1ozmo48/ai_engineer_interview_process_is_always_changing"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_35385219",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_27579857",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/AICareer/comments/1l8tsxv/how_should_i_prepare_for_a_technical_interview_at"
+        }
+      },
+      {
+        "id": "ws_22e9d5f7-9409-050a-cf6e-f0daf379df47_call_86780909",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview"
+        }
+      },
+      {
+        "call_id": "xs_call_24116207",
+        "input": "{\"query\":\"\\\"interview\\\" (\\\"asked\\\" OR \\\"they asked\\\") (agentic OR \\\"multi-agent\\\" OR orchestration) since:2025-10-01\",\"limit\":10,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_22e9d5f7-9409-050a-cf6e-f0daf379df47_xs_call_24116207",
+        "status": "completed"
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**Few detailed first-person reports match your exact criteria (e.g., phrases like \"I was asked about agent orchestration\" or \"multi-agent systems\" in late 2025/2026 job interviews), as public sharing of specific technical questions remains limited, possibly due to NDAs or recency.[[1]](https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview)[[2]](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)**\n\n**Closest matches from X (Twitter) posts:**\n\n- On January 8, 2026, @aryyann8 shared: \"had an AI engineer intern interview today. interviewer was one of India's top 10 data scientists; PhD in ML, IIT Delhi. asked in deep from resume; QLoRA-fine-tuning, RAG, latency, temperature, **agentic AI design**, feature scaling, and ml situational cases etc.\"[[3]](https://x.com/i/status/2009314129878896960)\n\n- On January 7, 2026, @masindevs noted: \"**Being asked whether you use agentic coding in an interview** feels like a trap.\"[[4]](https://x.com/i/status/2008898842301751605)\n\n- On February 12, 2026, @VAIN213 described a telephonic screen for an \"**Agentic AI Company**\": \"the HR called me and **asked me to explain about AI**\" (technical aspects, but cut off for definitions).[[5]](https://x.com/i/status/2021919195630645257)\n\n**Reddit threads on agentic AI interviews (mostly prep/discussion, some indirect experiences):**\n\n- r/ExperiencedDevs (Feb 17, 2026): \"Agentic AI Agents system design interview\" \u2013 OP and comments discuss what you'd \"**probably get asked about orchestration vs choreography patterns**\" in such interviews, but no confirmed personal \"I was asked\" stories (access issues noted).[[1]](https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview)\n\n- r/amazonemployees (Jan 13, 2026): Multiple threads on \"**Amazon Loop Interview for Agentic AI role**\" (fresher), focusing on behavioral/LP prep; one user pivoted stories but no agentic tech details.[[6]](https://www.reddit.com/r/amazonemployees/comments/1qbzo6i/amazon_loop_interview_for_agentic_ai_role_fresher)\n\n- r/csMajors (Jan 8, 2026): \"**NVIDIA Agentic AI Internship Interview**\" \u2013 Thread seeking/sharing experiences, but specifics sparse.[[7]](https://www.reddit.com/r/csMajors/comments/1q7ma4v/nvidia_agentic_ai_internship_interview)\n\n- r/developersIndia (Dec 1, 2025): \"**Need Advice for Eightfold.ai Agentic AI Engineer 3rd Round**\" \u2013 OP shares journey (DSA-focused), commenters ask for question details.[[8]](https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer)\n\n- r/interviews (Nov 17, 2025): \"AI Engineer Interview process... **asked about agentic AI approaches**, Transformer architectures n more.\"[[9]](https://www.reddit.com/r/interviews/comments/1ozmo48/ai_engineer_interview_process_is_always_changing)\n\n**Medium/blog posts (some discussions, not deep question lists):**\n\n- \"CHUBB Interview Experience\" (Sep 2025): Includes \"**Discussion on Agentic AI and RAG**\" during interview.[[10]](https://medium.com/@suggalasaicharan789/chubb-interview-experience-e544a5fa9e2b)\n\n- \"My First AI Engineer Interview Experience at Dailoqa\" (Feb 5, 2026): Interviewer engaged on candidate's \"**agentic AI work and system design**.\"[[11]](https://medium.com/@24ms0026/my-first-ai-engineer-interview-experience-at-dailoqa-d5a3ef5d3a6c)\n\nAgentic AI roles (e.g., Amazon, NVIDIA, Eightfold) surged in late 2025/early 2026, with interviews often DSA/system design heavy rather than pure agentic theory.[[12]](https://www.reddit.com/r/csMajors/comments/1ov5vzi/got_an_ai_coding_interview_at_eightfold)[[2]](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8) Public anecdotes emphasize prep for orchestration/choreography but lack verbatim \"I was asked X\" quotes beyond above.[[1]](https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview",
+                "start_index": 281,
+                "end_index": 387,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8",
+                "start_index": 387,
+                "end_index": 508,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2009314129878896960",
+                "start_index": 861,
+                "end_index": 910,
+                "title": "3"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2008898842301751605",
+                "start_index": 1035,
+                "end_index": 1084,
+                "title": "4"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2021919195630645257",
+                "start_index": 1287,
+                "end_index": 1336,
+                "title": "5"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview",
+                "start_index": 1713,
+                "end_index": 1819,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/amazonemployees/comments/1qbzo6i/amazon_loop_interview_for_agentic_ai_role_fresher",
+                "start_index": 2021,
+                "end_index": 2135,
+                "title": "6"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/csMajors/comments/1q7ma4v/nvidia_agentic_ai_internship_interview",
+                "start_index": 2269,
+                "end_index": 2365,
+                "title": "7"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer",
+                "start_index": 2538,
+                "end_index": 2650,
+                "title": "8"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/interviews/comments/1ozmo48/ai_engineer_interview_process_is_always_changing",
+                "start_index": 2790,
+                "end_index": 2898,
+                "title": "9"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://medium.com/@suggalasaicharan789/chubb-interview-experience-e544a5fa9e2b",
+                "start_index": 3076,
+                "end_index": 3163,
+                "title": "10"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://medium.com/@24ms0026/my-first-ai-engineer-interview-experience-at-dailoqa-d5a3ef5d3a6c",
+                "start_index": 3312,
+                "end_index": 3414,
+                "title": "11"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/csMajors/comments/1ov5vzi/got_an_ai_coding_interview_at_eightfold",
+                "start_index": 3577,
+                "end_index": 3675,
+                "title": "12"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8",
+                "start_index": 3675,
+                "end_index": 3796,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview",
+                "start_index": 3914,
+                "end_index": 4020,
+                "title": "1"
+              }
+            ]
+          }
+        ],
+        "id": "msg_22e9d5f7-9409-050a-cf6e-f0daf379df47",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.0,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      },
+      {
+        "type": "x_search"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 49752,
+      "input_tokens_details": {
+        "cached_tokens": 24238
+      },
+      "output_tokens": 6153,
+      "output_tokens_details": {
+        "reasoning_tokens": 3339
+      },
+      "total_tokens": 55905,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 20,
+      "cost_in_usd_ticks": 1093912000,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 15,
+        "x_search_calls": 5,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "query": "I need you to fetch and read the full content of these two articles:\n1. https://www.datainterview.com/blog/openai-ai-engineer-interview\n2. https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview\n\nFor each article, give me:\n- All specific interview questions listed\n- Whether it describes first-person experience or is a prep guide\n- Any details about the interview process (rounds, format)\n- Key topics covered",
+  "timestamp": "20260228_111826",
+  "response": {
+    "created_at": 1772273885,
+    "completed_at": 1772273906,
+    "id": "516bb9bd-e989-4512-5c30-f323ccf7926a",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_516bb9bd-e989-4512-5c30-f323ccf7926a_call_57466362",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview"
+        }
+      },
+      {
+        "id": "ws_516bb9bd-e989-4512-5c30-f323ccf7926a_call_57237603",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview"
+        }
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "### Article 1: OpenAI AI Engineer Interview (https://www.datainterview.com/blog/openai-ai-engineer-interview)[[1]](https://www.datainterview.com/blog/openai-ai-engineer-interview)\n\n- **All specific interview questions listed**: None listed verbatim. The article describes expected topics and provides sample answers but no exact questions from interviews.[[1]](https://www.datainterview.com/blog/openai-ai-engineer-interview)\n\n- **First-person experience or prep guide?**: Primarily a preparation guide with advice, tips, common pitfalls, and sample responses. No first-person personal interview experience described.[[1]](https://www.datainterview.com/blog/openai-ai-engineer-interview)\n\n- **Details about the interview process**: 9 rounds total over ~10 weeks. Initial screen (2 rounds: narrative/project discussion, likely virtual). Technical assessment (3 rounds: coding, system design, ML/LLM concepts). Onsite (4 rounds: presentation, coding, system design, behavioral). Interviewers are engineers who ship features like ChatGPT/Codex.[[1]](https://www.datainterview.com/blog/openai-ai-engineer-interview)\n\n- **Key topics covered**: LLMs/RAG/AI Agents; ML System Design & MLOps; Coding & Algorithms (Python); ML/Deep Learning/Statistics; Cloud Infrastructure & Serving; SQL/Data Retrieval; Behavioral/Forward-Deployed Execution.[[1]](https://www.datainterview.com/blog/openai-ai-engineer-interview)\n\n### Article 2: Mistral Machine Learning Engineer Interview (https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)[[2]](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)\n\n- **All specific interview questions listed** (presented as practice samples, not verbatim candidate experiences):\n  - Machine Learning Fundamentals: \"Why might accuracy increase while log loss stalls?\"; \"Explain the gradient of logistic regression with L2 regularization.\"; (Implied) \"Why use log loss vs. PR AUC under class imbalance?\"\n  - Deep Learning: \"How to debug a deep learning training run that isn't converging?\"; \"What is RMSNorm and how does it differ from LayerNorm? What bugs can occur?\"; (Implied) \"Explain RoPE and common bugs in implementation.\"\n  - LLMs & AI Agents: \"How to debug a RAG chatbot that gives confident but wrong answers?\"; \"How to secure an AI agent system handling tools and secrets?\"\n  - ML Coding: Implement stratified K-fold splitting; Implement logistic regression with SGD/L2/early stopping in NumPy; Implement top-p (nucleus) sampling; Implement autoregressive generation with top-p; Specific prompt: \"Implement a function that samples one token id from a 1D array of logits using temperature scaling, optional top_k filtering, and optional top_p (nucleus) filtering...\"\n  - ML System Design: Design RAG system; Design cost/safety-aware AI agent framework.\n  - MLOps/Cloud: \"How to scale LLM inference service under high concurrency?\"; \"How to debug a sudden spike in latency or errors post-deployment?\"\n  - Behavioral: \"Tell me about a time you debugged a production ML issue.\"; \"Describe a situation where you had competing priorities\u2014how did you decide?\"; \"Tell me about a time you identified a major risk in an AI system\u2014what did you do?\"[[2]](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)\n\n- **First-person experience or prep guide?**: Primarily a preparation guide based on candidate reports and insights, with structured advice, samples, and tips. No first-person personal experience.[[2]](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)\n\n- **Details about the interview process**: 6 rounds total over ~6 weeks (faster possible). Initial screen (2 virtual/phone rounds). Take-home (1 coding assignment). Onsite (3 technical deep dives: modeling/coding, design, behavioral; primarily in-person at Paris office, some virtual). Interviewers: ML engineers, modeling experts, possibly research/product.[[2]](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)\n\n- **Key topics covered**: ML Fundamentals; Deep Learning; LLMs/AI Agents (incl. MoE, attention); ML Coding (NumPy/Python); ML System Design; MLOps/Cloud Infrastructure; Behavioral (ambiguity, ownership).[[2]](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview",
+                "start_index": 109,
+                "end_index": 179,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview",
+                "start_index": 355,
+                "end_index": 425,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview",
+                "start_index": 617,
+                "end_index": 687,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview",
+                "start_index": 1041,
+                "end_index": 1111,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/openai-ai-engineer-interview",
+                "start_index": 1334,
+                "end_index": 1404,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview",
+                "start_index": 1545,
+                "end_index": 1630,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview",
+                "start_index": 3214,
+                "end_index": 3299,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview",
+                "start_index": 3497,
+                "end_index": 3582,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview",
+                "start_index": 3942,
+                "end_index": 4027,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview",
+                "start_index": 4232,
+                "end_index": 4317,
+                "title": "2"
+              }
+            ]
+          }
+        ],
+        "id": "msg_516bb9bd-e989-4512-5c30-f323ccf7926a",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.7,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 4697,
+      "input_tokens_details": {
+        "cached_tokens": 1346
+      },
+      "output_tokens": 2003,
+      "output_tokens_details": {
+        "reasoning_tokens": 617
+      },
+      "total_tokens": 6700,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 2,
+      "cost_in_usd_ticks": 117390000,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 2,
+        "x_search_calls": 0,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

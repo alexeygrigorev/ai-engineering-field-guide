@@ -1,0 +1,245 @@
+{
+  "query": "AI engineer interview question \"how do agents decide a task is done\" OR \"agent termination conditions\" OR \"agent completion criteria\" site:reddit.com OR site:medium.com",
+  "timestamp": "20260228_110220",
+  "response": {
+    "created_at": 1772272902,
+    "completed_at": 1772272940,
+    "id": "ff0fdf31-8d17-407c-f31e-5d02c89c99ff",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_11621254",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "AI engineer interview question \"how do agents decide a task is done\" OR \"agent termination conditions\" OR \"agent completion criteria\" site:reddit.com OR site:medium.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_73810451",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI agent\" OR \"LLM agent\" \"termination condition\" OR \"completion criteria\" OR \"task done\" OR \"when to stop\" interview OR \"interview question\" site:reddit.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_63220170",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI agent\" OR \"LLM agent\" \"termination condition\" OR \"completion criteria\" OR \"task done\" OR \"when to stop\" interview OR \"interview question\" site:medium.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_10429818",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "(\"agent termination\" OR \"agent completion\" OR \"decide task complete\") (interview OR \"asked in interview\") site:reddit.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_08031986",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf"
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_75123715",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://medium.com/@coffee_and_notes/what-makes-a-language-model-agentic-the-3-capabilities-that-turn-llms-into-agents-0c87f0c94256"
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_95541054",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview\" (\"agent termination\" OR \"agent completion criteria\" OR \"how agents decide task done\" OR \"when agent stops\") site:reddit.com/r/cscareerquestions OR site:reddit.com/r/leetcode OR site:reddit.com/r/MachineLearning",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_68687865",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI agent\" \"interview question\" (\"stop\" OR \"terminate\" OR \"complete\" OR \"done\") site:reddit.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_ff0fdf31-8d17-407c-f31e-5d02c89c99ff_call_34531145",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "(\"agentic\" OR \"AI agent\") system design interview (\"termination\" OR \"completion\" OR \"done\") site:medium.com",
+          "sources": []
+        }
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**Key Interview Questions on AI Agent Task Completion**\n\nIn agentic AI system design interviews (common for senior AI/ML engineer roles at companies building production-grade autonomous systems), candidates are frequently grilled on how agents determine task completion. A comprehensive 2026 interview guide highlights these as high-signal questions, probing for knowledge of failure modes, safety, and production tradeoffs.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n\n### Directly Relevant Questions from Interview Guides:\n1. **How do agents decide a task is \u201cdone\u201d?** (Q17)[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)  \n   - **Expected Short Answer:** By evaluating whether success criteria are met, verifying outputs where possible, and confirming with users when verification isn\u2019t possible programmatically.  \n   - **Deeper Expectations:** Interviewers expect discussion of explicit success criteria (e.g., \"confirmation number received\" for booking a flight), LLM self-assessment with evidence, programmatic checks (e.g., file existence), user confirmation for subjective tasks, and handling edge cases like \"impossible\" goals. Common pitfalls: premature victory claims, infinite loops on ambiguous goals, or over-optimization.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n\n2. **How do you implement termination conditions in long-running agents?** (Q10)[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)  \n   - **Expected Short Answer:** Combine goal-completion detection, iteration limits, time limits, and explicit \u201cI\u2019m stuck\u201d recognition\u2014with the orchestrator as final authority.  \n   - **Deeper Expectations:** Layered approach: LLM self-evaluation, progress tracking (e.g., environment changes), hard limits (iterations/time/cost), stuck detection (repeated errors/loops), and escalation to humans. Emphasize metrics to prevent illusory progress.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n\n3. **How do you design a safe and debuggable agent loop?** (Q9, related)[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)  \n   - Includes explicit states like **TERMINATED**, circuit breakers, logging, and reproducibility for debugging termination issues.\n\n### Context from Discussions:\n- These questions test production readiness: e.g., avoiding \"fuzzy done\" states that cause early stops or endless loops.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n- Reddit threads (e.g., r/LangChain, r/ExperiencedDevs) echo real-world pain points like agents \"not knowing when to stop,\" but lack specific interview stories\u2014focus is on implementation challenges.[[2]](https://www.reddit.com/r/LangChain/comments/1byz3lr/insights_and_learnings_from_building_a_complex)\n- No direct \"I was asked this at [Company]\" anecdotes surfaced on Reddit (e.g., r/cscareerquestions, r/leetcode), suggesting these are emerging for 2025-2026 roles in agentic AI.[[3]](https://www.reddit.com/r/ExperiencedDevs/comments/1lz4dmj/ai_skeptic_went_all_in_on_an_agentic_workflow_to)\n\nInterviewers reportedly drill into diagrams, war stories, and metrics (e.g., task completion rate >90%). Prep by studying LangGraph/AutoGen failure modes.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 424,
+                "end_index": 528,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 636,
+                "end_index": 740,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 1354,
+                "end_index": 1458,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 1540,
+                "end_index": 1644,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 2092,
+                "end_index": 2196,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 2270,
+                "end_index": 2374,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 2660,
+                "end_index": 2764,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/LangChain/comments/1byz3lr/insights_and_learnings_from_building_a_complex",
+                "start_index": 2963,
+                "end_index": 3068,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1lz4dmj/ai_skeptic_went_all_in_on_an_agentic_workflow_to",
+                "start_index": 3247,
+                "end_index": 3360,
+                "title": "3"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 3516,
+                "end_index": 3620,
+                "title": "1"
+              }
+            ]
+          }
+        ],
+        "id": "msg_ff0fdf31-8d17-407c-f31e-5d02c89c99ff",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.0,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 14081,
+      "input_tokens_details": {
+        "cached_tokens": 5695
+      },
+      "output_tokens": 3251,
+      "output_tokens_details": {
+        "reasoning_tokens": 1683
+      },
+      "total_tokens": 17332,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 9,
+      "cost_in_usd_ticks": 485874500,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 9,
+        "x_search_calls": 0,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

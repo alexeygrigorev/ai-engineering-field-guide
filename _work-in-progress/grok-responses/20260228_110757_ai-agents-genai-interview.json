@@ -1,0 +1,183 @@
+{
+  "query": "What questions were asked in this Reddit thread? Give me the full list.",
+  "timestamp": "20260228_110757",
+  "response": {
+    "created_at": 1772273246,
+    "completed_at": 1772273277,
+    "id": "15657432-9145-2cc4-e288-e8c0335588f5",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_66461031",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview"
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_16003117",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_97201892",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"Gen AI Engineer interview\" site:reddit.com/r/AI_Agents",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_92186973",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"Gen AI Engineer interview\" reddit",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_37508291",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview"
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_26181640",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"RAG\" OR \"AGENTS\" OR \"CREW\" site:reddit.com/r/AI_Agents/comments/1k29vx0",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_15657432-9145-2cc4-e288-e8c0335588f5_call_16659775",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:reddit.com/r/AI_Agents/comments/1k29vx0 gen ai engineer interview questions",
+          "sources": []
+        }
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**The Reddit thread at https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview is titled \"Gen AI Engineer interview\" and was posted on April 18, 2025.[[1]](https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview)**\n\nThe original post (OP) contains the following question (paraphrased slightly across snippets but verbatim where possible):\n\n1. **\"Wanted to understand what are the questions that I will get w.r.t RAG, AGENTS, CREW AI, and others?\"** (or \"what are the questions that I will get wrt RAG, AGENTS, CREW AI, and others?\")[[1]](https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview)\n\nNo other specific questions from comments or replies are visible in search snippets or results. The thread appears to have around 25 comments (based on related references), but detailed content from comments isn't retrievable via available tools (direct page fetches returned server errors).[[1]](https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview) These comments likely share **interview questions** for Gen AI Engineer roles (e.g., on RAG, agents, CrewAI), but exact quotes aren't indexed publicly in search results.\n\nIf you're looking for **typical interview questions discussed in such threads**, common topics include RAG pipelines, agent architectures, CrewAI implementations, LLM fine-tuning, evaluation metrics, etc.\u2014but for this specific thread's verbatim list, direct access is limited.[[1]](https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+                "start_index": 172,
+                "end_index": 256,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+                "start_index": 576,
+                "end_index": 660,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+                "start_index": 953,
+                "end_index": 1037,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+                "start_index": 1485,
+                "end_index": 1569,
+                "title": "1"
+              }
+            ]
+          }
+        ],
+        "id": "msg_15657432-9145-2cc4-e288-e8c0335588f5",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.7,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 14146,
+      "input_tokens_details": {
+        "cached_tokens": 8118
+      },
+      "output_tokens": 2854,
+      "output_tokens_details": {
+        "reasoning_tokens": 1881
+      },
+      "total_tokens": 17000,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 7,
+      "cost_in_usd_ticks": 380385000,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 7,
+        "x_search_calls": 0,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

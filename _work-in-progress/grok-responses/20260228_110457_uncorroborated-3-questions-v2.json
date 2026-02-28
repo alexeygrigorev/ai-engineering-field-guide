@@ -1,0 +1,298 @@
+{
+  "query": "I am researching what questions are asked in real AI engineer interviews in 2025-2026, specifically about agentic AI systems. I need to find real first-person accounts (from Reddit, blogs, Medium, X/Twitter) where someone describes being asked about these 3 specific topics in an actual job interview:\n\n1. How agents decide a task is \"done\" \u2014 termination criteria, completion detection\n2. How to design tool/function schemas that reduce hallucinated tool calls\n3. How to version and roll back agent behavior in production\n\nFor each topic, tell me:\n- Did you find any real interview experience where this was asked? (not just tutorial content)\n- What company/role was it for?\n- What was the exact question or context?\n- URL of the source\n\nBe honest if you cannot find real interview experiences for any of these. I only want verified first-person accounts, not interview prep guides or tutorials.",
+  "timestamp": "20260228_110457",
+  "response": {
+    "created_at": 1772273057,
+    "completed_at": 1772273097,
+    "id": "e38069b2-9ae7-f5c9-75ba-ff5aa14464ef",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_00923903",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer\" OR \"ML engineer\" interview (agent OR agents) (\"task done\" OR termination OR \"completion detection\" OR \"done\") (\"asked\" OR question OR \"they asked\") site:reddit.com 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_02851211",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer\" OR \"ML engineer\" interview (agent OR agents) (\"tool schema\" OR \"function calling\" OR \"tool call\" hallucinated OR hallucination) (\"asked\" OR question OR \"they asked\") site:reddit.com 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_68586394",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer\" OR \"ML engineer\" interview (agent OR agents) (version OR versioning OR \"roll back\" OR rollback) production (\"asked\" OR question OR \"they asked\") site:reddit.com 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_92596178",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"my interview\" \"AI engineer\" OR \"machine learning engineer\" agentic (termination OR \"task done\" OR completion) 2025 OR 2026 site:reddit.com OR site:medium.com OR site:teamblind.com OR site:levels.fyi",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_12990215",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview experience\" \"AI engineer\" agents (\"tool schema\" OR \"function schema\" OR \"hallucinated tool calls\") 2025 OR 2026 site:reddit.com OR site:medium.com OR site:teamblind.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_21201198",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" agent (versioning OR \"roll back\" OR rollback) production site:reddit.com OR site:medium.com 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "call_id": "xs_call_18572426",
+        "input": "{\"query\":\"AI engineer interview asked about agent termination criteria or task completion in agents\",\"limit\":20,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_18572426",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_91260850",
+        "input": "{\"query\":\"interview question AI engineer agent tool schemas reduce hallucinated tool calls\",\"limit\":20,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_91260850",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_03245565",
+        "input": "{\"query\":\"AI engineer interview versioning rolling back agent behavior production\",\"limit\":20,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_03245565",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_58328984",
+        "input": "{\"query\":\"(AI OR ML) engineer interview agent (done OR termination OR completion) (asked OR question)\",\"limit\":20,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_58328984",
+        "status": "completed"
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_56336791",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions"
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_91034019",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/LangChain/comments/1k662xc/got_grilled_in_an_ml_interview_today_for_my"
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_19247353",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer"
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_50087737",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:teamblind.com \"AI engineer\" OR \"ML engineer\" OR \"agentic\" interview experience (agent OR agents) 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_95832335",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:www.levels.fyi/interview \"AI\" OR \"ML\" engineer agent OR agents OR agentic",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_call_17418621",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"my interview\" OR \"interview experience\" \"AI engineer\" OR \"ML engineer\" (LangGraph OR Langchain OR \"agentic AI\") site:reddit.com/r/cscareerquestions OR site:reddit.com/r/MachineLearning",
+          "sources": []
+        }
+      },
+      {
+        "call_id": "xs_call_30983097",
+        "input": "{\"query\":\"In my AI engineer interview they asked about how agents determine task completion or termination\",\"limit\":10,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_30983097",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_52474363",
+        "input": "{\"query\":\"AI ML engineer interview question on designing tool schemas to prevent hallucinated function calls in agents\",\"limit\":10,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_52474363",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_94116526",
+        "input": "{\"query\":\"interview for AI engineer asked how to version or rollback agent behavior in production\",\"limit\":10,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef_xs_call_94116526",
+        "status": "completed"
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**1. How agents decide a task is \"done\" \u2014 termination criteria, completion detection**\n\n- Did you find any real interview experience where this was asked? No. Searches across Reddit, Blind, Levels.fyi, Medium, and X/Twitter (including semantic and keyword searches filtered to 2025-2026) turned up discussions on agent termination in general AI engineering contexts, best practices, and hypothetical interview scenarios (e.g., testing knowledge of \"stop conditions\" in agent design), but no first-person accounts of this specific topic being asked in an actual interview.[[1]](https://x.com/i/status/2027077978912428193)[[2]](https://x.com/i/status/2025550871703224693)\n\n**2. How to design tool/function schemas that reduce hallucinated tool calls**\n\n- Did you find any real interview experience where this was asked? No. Results included talks on tool calling best practices, hallucination mitigation in agents, and schema design (e.g., structured outputs to prevent errors), often in production or tutorial contexts, but nothing from personal interview reports matching this exactly.[[3]](https://x.com/i/status/1928507602595623173)[[4]](https://x.com/i/status/2026998699512226022)\n\n**3. How to version and roll back agent behavior in production**\n\n- Did you find any real interview experience where this was asked? No. Mentions of rollback in agentic systems appeared in production war stories and system design guides, but no verified first-person interview experiences described being asked this.[[5]](https://x.com/i/status/2026782528107954570)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2027077978912428193",
+                "start_index": 571,
+                "end_index": 620,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2025550871703224693",
+                "start_index": 620,
+                "end_index": 669,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/1928507602595623173",
+                "start_index": 1085,
+                "end_index": 1134,
+                "title": "3"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2026998699512226022",
+                "start_index": 1134,
+                "end_index": 1183,
+                "title": "4"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2026782528107954570",
+                "start_index": 1501,
+                "end_index": 1550,
+                "title": "5"
+              }
+            ]
+          }
+        ],
+        "id": "msg_e38069b2-9ae7-f5c9-75ba-ff5aa14464ef",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.0,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      },
+      {
+        "type": "x_search"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 34359,
+      "input_tokens_details": {
+        "cached_tokens": 3307
+      },
+      "output_tokens": 3762,
+      "output_tokens_details": {
+        "reasoning_tokens": 1841
+      },
+      "total_tokens": 38121,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 19,
+      "cost_in_usd_ticks": 1032567500,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 12,
+        "x_search_calls": 7,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

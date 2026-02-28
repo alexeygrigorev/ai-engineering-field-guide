@@ -71,36 +71,42 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 - What is an AI agent and what is its role in a broader system? [^proptech-founder-1]
 - What's the difference between an agent and a simple LLM chain? [^process-analysis] (reported across multiple companies)
-- What makes an AI system truly agentic and what does not qualify? [^techeon]
-- When is an agentic architecture the wrong solution? [^techeon]
-- How do you define and enforce agent autonomy boundaries? [^techeon]
-- What are the essential components of an agent beyond an LLM? [^techeon]
-- How do you prevent agents from over-reasoning or over-planning? [^techeon]
-- Walk through a production-ready agent architecture. [^techeon]
-- What logic belongs in the orchestrator vs the LLM? [^techeon]
-- How do you design a safe and debuggable agent loop? [^techeon]
+- What makes an AI system truly agentic and what does not qualify? [^techeon] [^reddit-ai-agentic] [^reddit-devsindia-genai]
+- When is an agentic architecture the wrong solution? [^techeon] [^reddit-csuk-agents]
+- How do you define and enforce agent autonomy boundaries? [^techeon] [^reddit-expdevs-agentic]
+- What are the essential components of an agent beyond an LLM? [^techeon] [^reddit-expdevs-agentic] [^reddit-ai-agentic]
+- How do you prevent agents from over-reasoning or over-planning? [^techeon] [^reddit-csuk-agents] [^reddit-expdevs-agentic]
+- Walk through a production-ready agent architecture. [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents]
+- What logic belongs in the orchestrator vs the LLM? [^techeon] [^reddit-expdevs-agentic] [^reddit-aiagents-prep]
+- How do you design a safe and debuggable agent loop? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents]
 - How do you implement termination conditions in long-running agents? [^techeon]
-- How do agents decompose high-level goals into executable steps? [^techeon]
+- How do agents decompose high-level goals into executable steps? [^techeon] [^reddit-csuk-agents]
 - Chain-of-thought vs tree-of-thought vs graph planning -- when would you use each? [^techeon]
-- How do you detect and stop infinite planning loops? [^techeon]
-- How do you handle partial observability or missing information? [^techeon]
+- How do you detect and stop infinite planning loops? [^techeon] [^reddit-csuk-agents] [^reddit-expdevs-agentic]
+- How do you handle partial observability or missing information? [^techeon] [^reddit-csuk-agents]
 - How do agents decide a task is "done"? [^techeon]
-- What planning failures are hardest to detect in production? [^techeon]
-- How do agents decide which tool to use? [^techeon]
-- How do you design tool schemas that reduce hallucinated actions? [^techeon]
-- How do you sandbox tool execution safely? [^techeon]
-- How do you handle tool failures, retries, and idempotency? [^techeon]
-- What are the biggest security risks with tool-using agents? [^techeon]
-- How do you control cost explosions from tool calls? [^techeon]
-- Stateless vs stateful agents -- tradeoffs and use cases? [^techeon]
+- What planning failures are hardest to detect in production? [^techeon] [^reddit-expdevs-agentic]
+- How do agents decide which tool to use? [^techeon] [^reddit-csuk-agents] [^reddit-aiagents-prep]
+- How do you design tool schemas that reduce hallucinated actions? [^techeon] [^reddit-grilled-rag]
+- How do you sandbox tool execution safely? [^techeon] [^reddit-expdevs-agentic]
+- How do you handle tool failures, retries, and idempotency? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents] [^reddit-aiagents-prep]
+- What are the biggest security risks with tool-using agents? [^techeon] [^reddit-expdevs-agentic] [^datainterview-mistral]
+- How do you control cost explosions from tool calls? [^techeon] [^reddit-expdevs-agentic] [^reddit-csuk-agents]
+- Stateless vs stateful agents -- tradeoffs and use cases? [^techeon] [^reddit-expdevs-agentic]
 - How do you version and roll back agent behavior? [^techeon]
 - Describe how you would architect an AI agent system, including the agent loop, tool interfaces, memory design, orchestration technologies, and safety considerations. [^igotanoffer]
 - Design an agent analyzing customer support tickets, drafting responses, and escalating complex issues. [^promptlayer]
 - Create a system where agents collaborate on research reports with citations. [^promptlayer]
 - Build an agent reviewing code and suggesting improvements. [^promptlayer]
-- How do you explain agentic systems to non-technical stakeholders? [^techeon]
-- What types of memory do agentic systems need? Describe working, episodic, semantic, and procedural memory. [^techeon]
+- How do you explain agentic systems to non-technical stakeholders? [^techeon] [^reddit-expdevs-agentic]
+- What types of memory do agentic systems need? Describe working, episodic, semantic, and procedural memory. [^techeon] [^reddit-expdevs-agentic]
 - How do you design long-term memory without polluting it? [^techeon]
+- How do you implement human-in-the-loop (HIL) patterns and decide when to trigger human review? [^reddit-expdevs-agentic]
+- How do you monitor and observe autonomous agent behavior in production? [^reddit-expdevs-agentic] [^reddit-csuk-agents]
+- How do you architect agents for regulated or compliance-heavy domains (e.g., financial, healthcare)? [^reddit-expdevs-agentic]
+- When do you use orchestration vs choreography patterns for multi-agent systems? [^reddit-expdevs-agentic]
+- How do you filter PII in agent pipelines before data reaches the LLM? [^reddit-expdevs-agentic]
+- How do you evaluate agent performance? What metrics matter (tool selection quality, action advancement, context adherence)? [^reddit-aiagents-prep]
 
 ### Fine-tuning and Training
 
@@ -123,7 +129,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you detect and mitigate hallucinations in production? [^process-analysis] [^reddit-ai-eng-questions] [^reddit-genai-consulting] (reported across multiple companies)
 - How would you prevent factual errors in a summarization system? [^interviewnode]
 - How would you reduce hallucinations in a medical chatbot? [^interviewnode]
-- What happens when the LLM is confidently wrong? [^process-analysis] (candidates wish they prepared for this)
+- What happens when the LLM is confidently wrong? How do you debug a RAG chatbot giving confident but wrong answers? [^process-analysis] [^datainterview-mistral] (candidates wish they prepared for this)
 - Explain SHAP, LIME, and model interpretability. [^fahd-mirza]
 - How do you detect and mitigate hallucinations? [^system-design-handbook]
 - Explain evaluation metrics: perplexity, ROUGE, BLEU. [^fahd-mirza]
@@ -210,16 +216,17 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What is prompt compression and how does it reduce cost? [^llmgenai] [^hn-46319888]
 - Latency vs. throughput optimization for LLM serving -- what are the trade-offs? [^youtube-short]
 - How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? [^proptech-founder-1]
+- Estimate the budget for a RAG pipeline at enterprise scale (e.g., 300,000 legal contracts). [^reddit-devsindia-genai]
 
 ### Safety and Guardrails
 
 - When and how would you implement LLM guardrails? [^proptech-founder-1]
 - How would you design a language model that minimizes harmful outputs while still being useful and expressive? [^igotanoffer]
 - How would you build a system that detects whether content violates policy or contains offensive material? [^igotanoffer]
-- How do you protect against prompt injection? [^system-design-handbook] [^reddit-ai-eng-questions]
+- How do you protect against prompt injection and jailbreaking? [^system-design-handbook] [^reddit-ai-eng-questions] [^reddit-expdevs-agentic]
 - What steps would you take to handle exceptions in a GenAI application? [^proptech-founder-2]
 - Explain Constitutional AI and alignment considerations. [^sundeep-teki]
-- How do you handle data privacy and PII in prompts and logs? [^reddit-genai-consulting]
+- How do you handle data privacy and PII in prompts and logs? [^reddit-genai-consulting] [^reddit-expdevs-agentic]
 - How do you address bias in training data and generated content? [^reddit-genai-consulting] [^reddit-hiring-process]
 - How do you red-team an LLM system? [^sundeep-teki]
 - Your application generates code that gets executed. How do you prevent malicious code generation and execution? [^proptech-founder-1]
@@ -362,7 +369,10 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Build a gRPC service for financial report generation (async conversion, thread management, error handling, batch processing). [^exponent-mock]
 - Implement neural networks, LSTMs, and RNNs from scratch using NumPy or PyTorch. [^mimansa-jaiswal]
 - Implement cached attention and grouped query attention variants. [^mimansa-jaiswal]
-- Implement beam search, top-k, and top-p decoding strategies from scratch. [^mimansa-jaiswal]
+- Implement beam search, top-k, and top-p decoding strategies from scratch. [^mimansa-jaiswal] [^datainterview-mistral]
+- Implement autoregressive generation with top-p sampling. [^datainterview-mistral]
+- Implement logistic regression with SGD, L2 regularization, and early stopping in NumPy. [^datainterview-mistral]
+- Implement stratified K-fold splitting. [^datainterview-mistral]
 
 ### Practical / Data Processing
 
@@ -453,9 +463,11 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you collaborate with non-technical stakeholders on AI features? [^process-analysis] (very common in 2026)
 - Can you give an example of a time when you addressed ethical concerns in an ML project? [^interviewnode-behavioral]
 - Tell me about a time you made a safety-first decision in a project. (Anthropic) [^interviewquery-anthropic]
+- Tell me about a time you identified a major risk in an AI system — what did you do? (Mistral) [^datainterview-mistral]
 - Describe a time you reduced cost or latency in a production AI system. [^fonzi-ai]
 - How do you manage ambiguity in ML projects where requirements and data evolve over time? [^interviewnode-behavioral]
 - How do you use AI coding agents in your work? [^youtube-proptech]
+- Did you apply GenAI techniques to solve a problem not usually solved with GenAI? [^reddit-devsindia-genai]
 
 ### Culture and Motivation
 
@@ -582,3 +594,10 @@ Reported by candidates:
 [^educative-deepmind]: [Educative - Google DeepMind](https://www.educative.io/blog/google-deepmind-interview-questions)
 [^deepthi-sudharsan]: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
 [^youtube-proptech]: [YouTube - PropTech Mock Interview](https://www.youtube.com/watch?v=proptech-mock)
+[^reddit-expdevs-agentic]: [Reddit - Agentic AI System Design Interview](https://www.reddit.com/r/ExperiencedDevs/comments/1r78ipa/agentic_ai_agents_system_design_interview) (r/ExperiencedDevs, Feb 2026)
+[^reddit-csuk-agents]: [Reddit - AI Engineering Agents Interview Prep](https://www.reddit.com/r/cscareerquestionsuk/comments/1qmybi3/ai_engineering_agents_interview_prep) (r/cscareerquestionsuk, Jan 2026)
+[^reddit-aiagents-prep]: [Reddit - Interview Prep: Deep Learning to Agentic Systems](https://www.reddit.com/r/AI_Agents/comments/1qrxchn/interview_prep_deep_learning_agentic_systems_what) (r/AI_Agents, Jan 2026)
+[^reddit-ai-agentic]: [Reddit - What Agentic AI Am I Supposed to Learn?](https://www.reddit.com/r/ArtificialInteligence/comments/1rceuef/what_agentic_ai_am_i_even_supposed_to_learn) (r/ArtificialIntelligence, Feb 2026)
+[^reddit-devsindia-genai]: [Reddit - Generative AI Engineer Interview Prep](https://www.reddit.com/r/developersIndia/comments/1oq5fdi/got_an_interview_tomorrow_for_a_generative_ai) (r/developersIndia, Nov 2025)
+[^datainterview-openai]: [DataInterview - OpenAI AI Engineer Interview](https://www.datainterview.com/blog/openai-ai-engineer-interview) (prep guide based on candidate reports)
+[^datainterview-mistral]: [DataInterview - Mistral ML Engineer Interview](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview) (prep guide based on candidate reports)

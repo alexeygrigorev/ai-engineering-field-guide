@@ -1,0 +1,240 @@
+{
+  "query": "AI agent \"version control\" OR \"rollback\" OR \"versioning agent behavior\" interview question OR production deployment",
+  "timestamp": "20260228_110320",
+  "response": {
+    "created_at": 1772272962,
+    "completed_at": 1772273000,
+    "id": "cac46343-dc75-d07d-07a5-0416d234f7d5",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_73526646",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI agent\" OR \"LLM agent\" (\"version control\" OR rollback OR \"versioning\") (\"interview question\" OR \"production deployment\" OR \"prod engineering\")",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_21944951",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI agent\" versioning OR rollback site:reddit.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_83547526",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"LLM agent\" \"version control\" OR \"rollback mechanism\" production",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_04034139",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"agent behavior\" versioning rollback interview OR \"system design\"",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_29883619",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "site:reddit.com/r/MachineLearning OR site:reddit.com/r/LLMDevs \"AI agent\" versioning production",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_74588474",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf"
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_94510627",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.getmaxim.ai/articles/prompt-versioning-best-practices-for-ai-engineering-teams"
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_63957652",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://aimultiple.com/agent-deployment"
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_44475692",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ElevenLabs/comments/1qnmst0/introducing_agent_versioning_safely_ship_better"
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_54044094",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://logic.inc/resources/llm-agents-in-production"
+        }
+      },
+      {
+        "id": "ws_cac46343-dc75-d07d-07a5-0416d234f7d5_call_43868300",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qj1vkk/context_rot_why_ai_agents_degrade_after_50"
+        }
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**Key Interview Question Found:**\n\nIn a comprehensive 2026 Agentic AI System Design Interview Guide, one explicit question is: **\"How do you version and roll back agent behavior?\"**[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n\nThe guide provides a detailed model answer, emphasizing that agent behavior emerges from interdependent components like system prompts, tool definitions, policy rules, model versions, orchestrator logic, and memory configs. Recommended strategies include:\n- Assigning a **single version ID** to the full component stack (e.g., `agent-v23` mapping prompts-v12, tools-v8, etc.) for traceability.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n- **Rollback mechanisms**: Keep N previous versions ready, use traffic splitting/canary deploys, feature flags, and ensure state compatibility to avoid deserialization issues.\n- Pre-deployment: Benchmark suites for accuracy, resource use, policy compliance, and regressions; always pin model versions due to provider updates altering behavior.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)\n\nThis reflects common system design interviews at AI-focused companies, where versioning isn't just code but holistic agent configs.\n\n**Production Engineering Discussions:**\n\n- **Prompt Versioning as Proxy for Agent Behavior**: Production teams treat prompts like code, using semantic versioning (major/minor/patch), full history with metadata (changes, tests, models), automated regression testing, staged rollouts, A/B tests, and one-click rollbacks. Track metrics (quality, cost, latency) per version to detect drifts; quick rollbacks via pinning or auto-triggers on thresholds prevent incidents from non-deterministic changes.[[2]](https://www.getmaxim.ai/articles/prompt-versioning-best-practices-for-ai-engineering-teams)\n\n- **LLM Agent Infra Challenges**: A production resource poses: **\"How do teams handle version control for AI agents in production?\"** It notes Git works for code but fails for agents' layered components (prompts, tools, models)\u2014needing atomic versioning, audit trails, pinning, and instant rollbacks across layers. Without this, debugging regressions is hard, and rollbacks require full redeploys; custom infra like immutable versions is key.[[3]](https://logic.inc/resources/llm-agents-in-production)\n\nNo direct \"I was asked this in my FAANG interview\" anecdotes surfaced in searches (common on Reddit/Blind), but the above captures standard questions/guides and prod practices from engineering blogs/resources. These align with real-world needs like handling emergent behavior drifts, model updates, and safe deploys.[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)[[2]](https://www.getmaxim.ai/articles/prompt-versioning-best-practices-for-ai-engineering-teams)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 181,
+                "end_index": 285,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 680,
+                "end_index": 784,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 1128,
+                "end_index": 1232,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.getmaxim.ai/articles/prompt-versioning-best-practices-for-ai-engineering-teams",
+                "start_index": 1863,
+                "end_index": 1960,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://logic.inc/resources/llm-agents-in-production",
+                "start_index": 2404,
+                "end_index": 2463,
+                "title": "3"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 2781,
+                "end_index": 2885,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.getmaxim.ai/articles/prompt-versioning-best-practices-for-ai-engineering-teams",
+                "start_index": 2885,
+                "end_index": 2982,
+                "title": "2"
+              }
+            ]
+          }
+        ],
+        "id": "msg_cac46343-dc75-d07d-07a5-0416d234f7d5",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.0,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 16013,
+      "input_tokens_details": {
+        "cached_tokens": 7813
+      },
+      "output_tokens": 2956,
+      "output_tokens_details": {
+        "reasoning_tokens": 1435
+      },
+      "total_tokens": 18969,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 11,
+      "cost_in_usd_ticks": 585086500,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 11,
+        "x_search_calls": 0,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "query": "I am researching real AI engineer interview questions asked in 2025-2026. I need to find first-person accounts where someone was asked about long-term memory management in AI agents \u2014 specifically about memory pollution, memory decay, preventing stale or irrelevant memories from degrading agent performance over time.\n\nSearch Reddit (r/ExperiencedDevs, r/MachineLearning, r/LangChain, r/AI_Agents, r/LocalLLaMA, r/cscareerquestions), Hacker News, Twitter/X, Medium, and engineering blogs.\n\nFor each finding, tell me:\n- Is it a real interview experience or just a discussion/tutorial?\n- What company/role?\n- Exact quote or context\n- URL\n\nBe honest if nothing matches. I only want verified accounts, not prep guides.",
+  "timestamp": "20260228_110714",
+  "response": {
+    "created_at": 1772273193,
+    "completed_at": 1772273234,
+    "id": "6e4a1c55-b4ea-ae66-e488-b86849d51f29",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-reasoning",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_73280116",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/MachineLearning after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_82815688",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/cscareerquestions after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_65290968",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/ExperiencedDevs after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_39997278",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/LangChain after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_38298087",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/AI_Agents after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_90244193",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI interview\" (\"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\") (agent OR LLM OR \"AI agent\") site:reddit.com/r/LocalLLaMA after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_38843211",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer interview\" (\"long-term memory management\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\" OR \"irrelevant memories\") (agent OR \"AI agents\") site:news.ycombinator.com after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_23413593",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer interview\" (\"long-term memory management\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\" OR \"irrelevant memories\") (agent OR \"AI agents\") site:medium.com after:2024-12-31",
+          "sources": []
+        }
+      },
+      {
+        "call_id": "xs_call_33781799",
+        "input": "{\"query\":\"first person account AI interview question long-term memory management AI agents memory pollution decay stale irrelevant memories\",\"limit\":20,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_6e4a1c55-b4ea-ae66-e488-b86849d51f29_xs_call_33781799",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_09260049",
+        "input": "{\"query\":\"(interview OR \\\"asked in interview\\\") (\\\"memory pollution\\\" OR \\\"memory decay\\\" OR \\\"long-term memory\\\" OR \\\"stale memories\\\" OR \\\"irrelevant memories\\\") (agent OR agents OR LLM) lang:en since:2025-01-01\",\"limit\":20,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_6e4a1c55-b4ea-ae66-e488-b86849d51f29_xs_call_09260049",
+        "status": "completed"
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_14574586",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview"
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_25487476",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1qluizt/i_built_marvin_my_personal_ai_agent_and_now_4_of"
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_67532807",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ktzxni/im_building_an_ai_interview_prep_tool_to_get_real"
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_78941523",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1lv2l6x/still_writing_mfc_code_at_50_saved_this"
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_53552631",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview experience\" OR \"was asked\" OR \"they asked\" OR \"interview question\" \"long-term memory\" OR \"memory pollution\" OR \"memory decay\" OR \"stale memories\" \"AI agent\" OR \"LLM agent\" 2025 OR 2026 site:reddit.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_02526230",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"interview experience\" OR \"was asked\" OR \"they asked\" \"memory management\" \"AI agents\" OR LLM 2025 OR 2026 site:news.ycombinator.com",
+          "sources": []
+        }
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_79562671",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"I was asked in interview\" OR \"interview at\" (\"memory pollution\" OR \"memory decay\" OR \"long-term memory management\") \"AI agent\" 2025..2026",
+          "sources": []
+        }
+      },
+      {
+        "call_id": "xs_call_33142645",
+        "input": "{\"query\":\"I was asked about long-term memory in AI agents interview memory pollution decay stale memories AI engineer\",\"limit\":10,\"from_date\":\"2025-01-01\"}",
+        "name": "x_semantic_search",
+        "type": "custom_tool_call",
+        "id": "ctc_6e4a1c55-b4ea-ae66-e488-b86849d51f29_xs_call_33142645",
+        "status": "completed"
+      },
+      {
+        "call_id": "xs_call_03844815",
+        "input": "{\"query\":\"\\\"interview\\\" (\\\"memory pollution\\\" OR \\\"memory decay\\\" OR \\\"long-term memory\\\" OR \\\"stale memory\\\" OR \\\"memory management\\\") (agent OR LLM OR \\\"AI engineer\\\") lang:en since:2025-01-01\",\"limit\":10,\"mode\":\"Latest\"}",
+        "name": "x_keyword_search",
+        "type": "custom_tool_call",
+        "id": "ctc_6e4a1c55-b4ea-ae66-e488-b86849d51f29_xs_call_03844815",
+        "status": "completed"
+      },
+      {
+        "id": "ws_6e4a1c55-b4ea-ae66-e488-b86849d51f29_call_09941677",
+        "type": "web_search_call",
+        "status": "completed",
+        "action": {
+          "type": "search",
+          "query": "\"AI engineer\" \"interview experience\" \"memory\" agent OR LLM site:teamblind.com 2025 OR 2026",
+          "sources": []
+        }
+      },
+      {
+        "content": [
+          {
+            "type": "output_text",
+            "text": "**No verified first-person accounts found.**\n\nAfter extensive searches across Reddit (specified subs and broader), Hacker News, X/Twitter (semantic and keyword, 2025+), Medium, TeamBlind, and general web for engineering blogs/interview recaps:\n\n- Discussions on AI agent memory (e.g., pollution, decay, long-term management) are common in tutorials, guides, and theoretical posts (e.g., Medium articles on \"agent memory architectures,\" X threads on forgetting mechanisms).[[1]](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)[[2]](https://medium.com/@tarangtattva2/how-to-build-an-ai-agent-that-never-forgets-771ef2687789)[[3]](https://x.com/i/status/1995817724661170500)\n- Interview-related content exists (e.g., \"Gen AI Engineer interview\" on r/AI_Agents, general AI interview guides), but none report being asked these specific questions.[[4]](https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview)\n- Prep guides list agentic AI questions (e.g., \"Why is memory critical for AI agents?\"), but these are hypothetical/not from experiences.[[5]](https://www.geeksforgeeks.org/artificial-intelligence/top-agentic-ai-interview-questions-and-answers)\n- Blind/HN/Reddit interview shares (2025-2026) cover AI/ML roles but focus on coding/system design, not agent memory details.[[6]](https://www.teamblind.com/post/my-experience-interviewing-in-2025-evr4qbcu)\n\nThe topic is hot in prod discussions (e.g., decay for relevance), but no 1st-person interview matches from 2025-2026.[[7]](https://x.com/i/status/2027445545183416745)",
+            "logprobs": [],
+            "annotations": [
+              {
+                "type": "url_citation",
+                "url": "https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf",
+                "start_index": 472,
+                "end_index": 576,
+                "title": "1"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://medium.com/@tarangtattva2/how-to-build-an-ai-agent-that-never-forgets-771ef2687789",
+                "start_index": 576,
+                "end_index": 673,
+                "title": "2"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/1995817724661170500",
+                "start_index": 673,
+                "end_index": 722,
+                "title": "3"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.reddit.com/r/AI_Agents/comments/1k29vx0/gen_ai_engineer_interview",
+                "start_index": 892,
+                "end_index": 976,
+                "title": "4"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.geeksforgeeks.org/artificial-intelligence/top-agentic-ai-interview-questions-and-answers",
+                "start_index": 1114,
+                "end_index": 1221,
+                "title": "5"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://www.teamblind.com/post/my-experience-interviewing-in-2025-evr4qbcu",
+                "start_index": 1347,
+                "end_index": 1428,
+                "title": "6"
+              },
+              {
+                "type": "url_citation",
+                "url": "https://x.com/i/status/2027445545183416745",
+                "start_index": 1547,
+                "end_index": 1596,
+                "title": "7"
+              }
+            ]
+          }
+        ],
+        "id": "msg_6e4a1c55-b4ea-ae66-e488-b86849d51f29",
+        "role": "assistant",
+        "type": "message",
+        "status": "completed"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+      "effort": null,
+      "summary": null
+    },
+    "temperature": 0.7,
+    "text": {
+      "format": {
+        "type": "text"
+      }
+    },
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium"
+      },
+      {
+        "type": "x_search"
+      }
+    ],
+    "top_p": 0.95,
+    "usage": {
+      "input_tokens": 25319,
+      "input_tokens_details": {
+        "cached_tokens": 8917
+      },
+      "output_tokens": 3781,
+      "output_tokens_details": {
+        "reasoning_tokens": 1533
+      },
+      "total_tokens": 29100,
+      "num_sources_used": 0,
+      "num_server_side_tools_used": 20,
+      "cost_in_usd_ticks": 1056167500,
+      "server_side_tool_usage_details": {
+        "web_search_calls": 16,
+        "x_search_calls": 4,
+        "code_interpreter_calls": 0,
+        "file_search_calls": 0,
+        "mcp_calls": 0,
+        "document_search_calls": 0
+      }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+  }
+}
