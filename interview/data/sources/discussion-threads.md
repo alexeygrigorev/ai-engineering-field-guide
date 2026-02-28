@@ -2,7 +2,6 @@
 
 Only Reddit, Hacker News, TeamBlind, and X/Twitter. Only interview experiences, processes, and questions.
 
----
 
 ## Reddit (58 threads)
 
@@ -68,7 +67,6 @@ Only Reddit, Hacker News, TeamBlind, and X/Twitter. Only interview experiences, 
 58. [H&M Group funny rejection](https://www.reddit.com/r/ProgrammingBuddies/comments/18863ja/d_funny_rejection_from_hm_group/) -- Cleared all MLE rounds, rejected at offer (visa)
 
 
----
 
 ## Hacker News (46 threads)
 
@@ -134,7 +132,6 @@ Only Reddit, Hacker News, TeamBlind, and X/Twitter. Only interview experiences, 
 46. [A Student's Guide to Preparing for Data Science Interviews](https://news.ycombinator.com/item?id=14822293) -- DS interview guide for new grads
 
 
----
 
 ## TeamBlind (147 threads)
 
@@ -322,7 +319,6 @@ Only Reddit, Hacker News, TeamBlind, and X/Twitter. Only interview experiences, 
 147. [Need help preparing for Applied ML Scientist at Etsy](https://www.teamblind.com/post/need-help-preparing-for-applied-ml-scientist-interview-at-etsy-zrt44zce) -- Etsy: working with existing ML code in Jupyter, no LeetCode
 
 
----
 
 ## X/Twitter (34 posts)
 
