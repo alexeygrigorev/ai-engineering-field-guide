@@ -408,27 +408,6 @@ Candidates must reason about token budgets, per-query costs, model tiering, and 
 AI-native roles surged 240% in early 2025. Rather than "Sort this array," candidates now face: "Design an algorithm using an LLM to rank user feedback by sentiment." The shift: interviews now assess "how you reason with AI" rather than "what you know." [^interviewquery]
 
 
-## Key Books and Resources
-
-| Resource | Author(s) | Year |
-|---|---|---|
-| [AI Engineering: Building Applications with Foundation Models](https://huyenchip.com/books/) | Chip Huyen | 2025 |
-| [Generative AI System Design Interview](https://blog.bytebytego.com/p/our-new-book-generative-ai-system) | Ali Aminian, Hao Sheng (ByteByteGo) | 2024 |
-| [Designing Machine Learning Systems](https://huyenchip.com/books/) | Chip Huyen | 2022 |
-| [Machine Learning System Design Interview](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) | Ali Aminian, Alex Xu | 2022 |
-| [What We Learned from a Year of Building with LLMs](https://applied-llms.org/) | Eugene Yan, Hamel Husain, Jason Liu, Shreya Shankar, et al. | 2024 |
-| [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) | Chip Huyen | 2024 |
-| [Patterns for Building LLM-based Systems](https://eugeneyan.com/writing/llm-patterns/) | Eugene Yan | 2023 |
-| [Evidently AI: 800 ML/LLM Case Studies](https://www.evidentlyai.com/ml-system-design) | Evidently AI | ongoing |
-| [500+ GenAI/LLM Case Studies (GitHub)](https://github.com/themanojdesai/genai-llm-ml-case-studies) | Manoj Desai | ongoing |
-| [IGotAnOffer GenAI System Design Guide](https://igotanoffer.com/en/advice/generative-ai-system-design-interview) | IGotAnOffer (Aniket, ex-Amazon) | 2025 |
-| [OpenAI L5 Interview Guide](https://www.hellointerview.com/guides/openai/l5) | HelloInterview | 2025 |
-| [GenAI System Design Interview Patterns](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know) | InterviewNode | 2025 |
-| [The Complete Agentic AI System Design Interview Guide 2026](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf) | TechEon | 2026 |
-| [System Design for RAG](https://www.designgurus.io/blog/system-design-for-rag) | Arslan Ahmad (DesignGurus) | 2026 |
-| [OpenAI System Design Interview Questions](https://www.designgurus.io/blog/openai-system-design-interview-questions) | DesignGurus | 2025 |
-
-
 ## Comprehensive Question Bank
 
 This section catalogs AI/ML system design interview questions that people are actually asked, organized by category. Questions are drawn from real interview experiences, practitioner accounts, company-specific interview guides, and community reports (Reddit, LeetCode, Glassdoor). Where known, the source company and guidance on what constitutes a strong answer are included.
@@ -585,6 +564,26 @@ These traditional distributed systems questions appear at AI companies like Open
 | 5 | Design a Webhook Callback System | OpenAI L5 [^hellointerview] | Reliable delivery with retry and dead-letter queues, authentication/verification, rate limiting, ordering guarantees, and monitoring delivery success rates. |
 | 6 | Design the OpenAI Playground | OpenAI [^linkjob-openai] | Frontend/UX emphasis: parameter controls (temperature, top-p), streaming response display, session management, API key handling, model comparison interface, and developer workflow optimization. |
 | 7 | Design an in-memory database with nested transaction support (SET, GET, BEGIN, ROLLBACK, COMMIT) | xAI [^devto-xai] | Transaction isolation with nested scopes, persistence via WAL logs, concurrency control, and scalability extensions. Tests first-principles thinking over memorized templates. |
+
+## How to Prepare
+
+| Resource | Author(s) | Year |
+|---|---|---|
+| [AI Engineering: Building Applications with Foundation Models](https://huyenchip.com/books/) | Chip Huyen | 2025 |
+| [Generative AI System Design Interview](https://blog.bytebytego.com/p/our-new-book-generative-ai-system) | Ali Aminian, Hao Sheng (ByteByteGo) | 2024 |
+| [Designing Machine Learning Systems](https://huyenchip.com/books/) | Chip Huyen | 2022 |
+| [Machine Learning System Design Interview](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127) | Ali Aminian, Alex Xu | 2022 |
+| [What We Learned from a Year of Building with LLMs](https://applied-llms.org/) | Eugene Yan, Hamel Husain, Jason Liu, Shreya Shankar, et al. | 2024 |
+| [Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) | Chip Huyen | 2024 |
+| [Patterns for Building LLM-based Systems](https://eugeneyan.com/writing/llm-patterns/) | Eugene Yan | 2023 |
+| [Evidently AI: 800 ML/LLM Case Studies](https://www.evidentlyai.com/ml-system-design) | Evidently AI | ongoing |
+| [500+ GenAI/LLM Case Studies (GitHub)](https://github.com/themanojdesai/genai-llm-ml-case-studies) | Manoj Desai | ongoing |
+| [IGotAnOffer GenAI System Design Guide](https://igotanoffer.com/en/advice/generative-ai-system-design-interview) | IGotAnOffer (Aniket, ex-Amazon) | 2025 |
+| [OpenAI L5 Interview Guide](https://www.hellointerview.com/guides/openai/l5) | HelloInterview | 2025 |
+| [GenAI System Design Interview Patterns](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know) | InterviewNode | 2025 |
+| [The Complete Agentic AI System Design Interview Guide 2026](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf) | TechEon | 2026 |
+| [System Design for RAG](https://www.designgurus.io/blog/system-design-for-rag) | Arslan Ahmad (DesignGurus) | 2026 |
+| [OpenAI System Design Interview Questions](https://www.designgurus.io/blog/openai-system-design-interview-questions) | DesignGurus | 2025 |
 
 ## Sources
 

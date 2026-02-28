@@ -11,45 +11,6 @@ Based on candidate reports from Reddit, X, and personal blogs about what they we
 - "Why [company]?" - OpenAI asks this early and repeatedly; vague answers about "impactful AI" don't land
 - "Tell me about a specific conflict with another person" - how resolution took form, rationale behind choices
 
-## What Interviewers Are Actually Looking For
-
-### Conflict depth over breadth
-OpenAI's behavioral round picks one scenario and digs in for the bulk of the conversation - the specific conflict, how you navigated it, why you made those calls, what you'd do differently. When "a lot of extremely talented, high-conviction people" work together at a scaling company, "interpersonal navigation becomes a core skill" [^exponent-openai]
-
-### Authentic ownership beats perfect stories
-Microsoft's behavioral round values real stories over polished narratives. One candidate who got the offer described sharing: "Conflicts with managers. Deadline pressure. Design disagreements. Mistakes I made." At senior level, authenticity and ownership matter more than a perfect STAR response [^microsoft-rohitverma]
-
-### The "weak team concept"
-OpenAI looks for evidence you can "own work completely, deliver without heavy process, and succeed in genuinely ambiguous situations." Projects that show greenfield work, novel problems, or situations where you had to figure it out without a playbook resonate. If your past work didn't involve huge scale, lean into other dimensions of complexity: high growth rate, tight deadlines, lots of dependencies [^exponent-openai]
-
-### Presentations and project deep dives
-Many companies require a presentation round - not just research roles. Mimansa Jaiswal reports presentations across multiple role types at Big Tech companies. OpenAI's presentation round is 45 minutes presenting your most technically challenging project to a peer engineer, with very specific technical follow-ups ("Is there an actual eval framework here, or is it vibes-based?"). Choose a project that demonstrates ownership; recent and greenfield is better [^mimansa-jaiswal] [^exponent-openai]
-
-### OpenAI's two behavioral rounds at staff level
-OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The Leadership round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level - leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The Collaboration round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments [^hellointerview-openai-l5]
-
-### The first five minutes decide everything
-From observing 50+ AI engineer interviews at top startups: engineers with strong resumes fall flat in the opening minutes, while bootcamp grads crush it by immediately framing experience around impact. The best openers sound like: "At my last job, I built a RAG pipeline to reduce customer support response time by 40%. Happy to dive into how we structured it." No buzzwords, no model names - just clear value. Hiring managers want to know two things immediately: can you solve real problems with LLMs, and can you explain your thinking clearly? [^fonzi-ai]
-
-### Talk like a builder, not a researcher
-The candidates who get the most offers aren't always the ones who know the latest papers - they're the ones who can explain how they shipped something useful and what went wrong along the way. Trade-off thinking is what startups want: "We tried fine-tuning on contract data, but it hallucinated too often. So we switched to a hybrid RAG setup using Elasticsearch. We lost some nuance but gained reliability." Cost awareness is a major green flag - one engineer ended a demo by saying "By trimming our prompt and caching embeddings, we reduced OpenAI's spend by 70%," and got an offer the next day [^fonzi-ai]
-
-### Honesty about gaps beats bluffing
-Engineers who get tripped up by a question still get hired when they are honest and curious in response. The pattern: acknowledge what you don't know, walk through how you'd figure it out, and ask clarifying questions. One candidate said "I haven't worked with LangSmith yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics" - it turned into a 10-minute conversation about evaluation design and he got the job [^fonzi-ai]
-
-### The managerial round probes your past work and speed
-In a Gen AI Engineer interview, the managerial round focused on: the take-home assignment and how the candidate approached an unfamiliar framework (CrewAI), questions about previous internship projects and depth of prompt engineering experience, and a live speed coding test. The interviewer was impressed not by perfection but by the ability to deliver under time pressure with unfamiliar tools [^khushal-kumar]
-
-### Startup evaluation as a behavioral signal
-When interviewing at AI startups, demonstrating business awareness during behavioral rounds stands out. A framework for evaluating startups: (1) high revenue and steep revenue growth rate, (2) a large market with room to expand, (3) loyal, obsessed customers, and (4) competitive differentiation - why this company will win in its space. Engineers who do this kind of due diligence - checking Reddit/YouTube for real user sentiment, talking to companies that use the product, asking about margins and runway - signal maturity and business thinking that hiring managers notice [^janvi-kalra]
-
-## STAR vs SAIL
-
-Two common frameworks for structuring behavioral answers:
-- STAR: Situation, Task, Action, Result - widely used, well-known
-- SAIL: Situation, Action, Impact, Learning - recommended by Yuan Meng [^yuan-meng] for mapping responses to company values
-- SPSIL: Situation, Problem, Solution, Impact, Lessons - recommended by IGotAnOffer [^igotanoffer-openai] for OpenAI interviews
-
 ## Comprehensive Question Bank
 
 A categorized collection of behavioral questions that AI/ML engineers are actually asked in interviews, compiled from candidate reports, interview guides, and hiring manager insights.
@@ -202,6 +163,45 @@ These are follow-up probes from AI agents conducting interviews (emerging trend 
 | 3 | "Time and space complexity analysis." | Computer science fundamentals, optimization awareness. |
 | 4 | "Why did you choose this specific data structure?" | Deliberate technical choices, not just "it works." |
 
+
+## How to Prepare
+
+### Conflict depth over breadth
+OpenAI's behavioral round picks one scenario and digs in for the bulk of the conversation - the specific conflict, how you navigated it, why you made those calls, what you'd do differently. When "a lot of extremely talented, high-conviction people" work together at a scaling company, "interpersonal navigation becomes a core skill" [^exponent-openai]
+
+### Authentic ownership beats perfect stories
+Microsoft's behavioral round values real stories over polished narratives. One candidate who got the offer described sharing: "Conflicts with managers. Deadline pressure. Design disagreements. Mistakes I made." At senior level, authenticity and ownership matter more than a perfect STAR response [^microsoft-rohitverma]
+
+### The "weak team concept"
+OpenAI looks for evidence you can "own work completely, deliver without heavy process, and succeed in genuinely ambiguous situations." Projects that show greenfield work, novel problems, or situations where you had to figure it out without a playbook resonate. If your past work didn't involve huge scale, lean into other dimensions of complexity: high growth rate, tight deadlines, lots of dependencies [^exponent-openai]
+
+### Presentations and project deep dives
+Many companies require a presentation round - not just research roles. Mimansa Jaiswal reports presentations across multiple role types at Big Tech companies. OpenAI's presentation round is 45 minutes presenting your most technically challenging project to a peer engineer, with very specific technical follow-ups ("Is there an actual eval framework here, or is it vibes-based?"). Choose a project that demonstrates ownership; recent and greenfield is better [^mimansa-jaiswal] [^exponent-openai]
+
+### OpenAI's two behavioral rounds at staff level
+OpenAI L5 (Staff) interviews split behavioral into two separate rounds. The Leadership round (45 min with a senior manager or exec) evaluates your ability to drive technical strategy at an organizational level - leading architectural decisions, mentoring engineers, influencing cross-team strategy, and making sound judgments with incomplete information. The Collaboration round (30 min with a team member) focuses on cross-functional work with researchers, PMs, and safety teams, resolving conflicts constructively, and staying productive when requirements shift rapidly based on research discoveries. Staff candidates should prepare 3-4 STAR stories for leadership and 2-3 stories for collaboration, drawn from research-driven or fast-changing environments [^hellointerview-openai-l5]
+
+### The first five minutes decide everything
+From observing 50+ AI engineer interviews at top startups: engineers with strong resumes fall flat in the opening minutes, while bootcamp grads crush it by immediately framing experience around impact. The best openers sound like: "At my last job, I built a RAG pipeline to reduce customer support response time by 40%. Happy to dive into how we structured it." No buzzwords, no model names - just clear value. Hiring managers want to know two things immediately: can you solve real problems with LLMs, and can you explain your thinking clearly? [^fonzi-ai]
+
+### Talk like a builder, not a researcher
+The candidates who get the most offers aren't always the ones who know the latest papers - they're the ones who can explain how they shipped something useful and what went wrong along the way. Trade-off thinking is what startups want: "We tried fine-tuning on contract data, but it hallucinated too often. So we switched to a hybrid RAG setup using Elasticsearch. We lost some nuance but gained reliability." Cost awareness is a major green flag - one engineer ended a demo by saying "By trimming our prompt and caching embeddings, we reduced OpenAI's spend by 70%," and got an offer the next day [^fonzi-ai]
+
+### Honesty about gaps beats bluffing
+Engineers who get tripped up by a question still get hired when they are honest and curious in response. The pattern: acknowledge what you don't know, walk through how you'd figure it out, and ask clarifying questions. One candidate said "I haven't worked with LangSmith yet, but it's on my list. If you're using it for evals, I'd love to understand how you've set up your metrics" - it turned into a 10-minute conversation about evaluation design and he got the job [^fonzi-ai]
+
+### The managerial round probes your past work and speed
+In a Gen AI Engineer interview, the managerial round focused on: the take-home assignment and how the candidate approached an unfamiliar framework (CrewAI), questions about previous internship projects and depth of prompt engineering experience, and a live speed coding test. The interviewer was impressed not by perfection but by the ability to deliver under time pressure with unfamiliar tools [^khushal-kumar]
+
+### Startup evaluation as a behavioral signal
+When interviewing at AI startups, demonstrating business awareness during behavioral rounds stands out. A framework for evaluating startups: (1) high revenue and steep revenue growth rate, (2) a large market with room to expand, (3) loyal, obsessed customers, and (4) competitive differentiation - why this company will win in its space. Engineers who do this kind of due diligence - checking Reddit/YouTube for real user sentiment, talking to companies that use the product, asking about margins and runway - signal maturity and business thinking that hiring managers notice [^janvi-kalra]
+
+### Answer frameworks
+
+Two common frameworks for structuring behavioral answers:
+- STAR: Situation, Task, Action, Result - widely used, well-known
+- SAIL: Situation, Action, Impact, Learning - recommended by Yuan Meng [^yuan-meng] for mapping responses to company values
+- SPSIL: Situation, Problem, Solution, Impact, Lessons - recommended by IGotAnOffer [^igotanoffer-openai] for OpenAI interviews
 
 ## Sources
 

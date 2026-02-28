@@ -2,7 +2,7 @@
 
 Coding-specific interview content: problems you code or implement, coding round formats, and implementation exercises.
 
-For theory and conceptual questions, see [Theory Questions](02-theory.md). For system design, see [AI System Design](05-ai-system-design.md).
+For theory and conceptual questions, see [Theory Questions](01-theory.md). For system design, see [AI System Design](04-ai-system-design.md).
 
 ## Coding Round Formats
 
@@ -18,9 +18,9 @@ DSA as discussion - Microsoft's senior DSA round was 1+ hour of pure discussion 
 
 DSA vs ML coding as separate rounds - AI Engineer and Applied Scientist roles often have distinct DSA and ML coding rounds. The DSA round has LeetCode problems; the ML coding round tests implementing ML algorithms from scratch or completing incomplete ML code. [^deepthi-sudharsan]
 
-Take-home assignments - Some companies start with a take-home project before live rounds. One Gen AI Engineer candidate received a timed assignment to build an AI pipeline that parses a blood test PDF, identifies health issues, and fetches suggestions from online articles with source links -- testing speed of learning new frameworks under time pressure. [^khushal-kumar]
+Take-home assignments - Some companies start with a take-home project before live rounds. One Gen AI Engineer candidate received a timed assignment to build an AI pipeline that parses a blood test PDF, identifies health issues, and fetches suggestions from online articles with source links - testing speed of learning new frameworks under time pressure. [^khushal-kumar]
 
-Speed coding with AI tools allowed - A live scenario-based round where the candidate was given a complicated JSON file, had to extract specific data following a pattern, feed it to an AI model, and get a summary -- all within 30 minutes. Browser and ChatGPT use was explicitly permitted. [^khushal-kumar]
+Speed coding with AI tools allowed - A live scenario-based round where the candidate was given a complicated JSON file, had to extract specific data following a pattern, feed it to an AI model, and get a summary - all within 30 minutes. Browser and ChatGPT use was explicitly permitted. [^khushal-kumar]
 
 Async/background processing problem pattern - A common coding interview problem type: a gRPC service is timing out and needs an async boundary. The interviewer evaluates candidates through progressive gates: (1) recognize that async processing is the solution, (2) identify where to place the async boundary in the system, (3) handle failure modes (retries, dead letter queues, idempotency), (4) scale with multi-threading or message queues. This pattern merges coding with system design in a single round. [^exponent-mock]
 
@@ -48,67 +48,91 @@ For ML coding rounds (typically 25-35 minutes, no debugging tools), candidates a
 
 ## Interview Questions
 
-### Coding / DSA
+### LeetCode / Algorithm Style
 
-- Implement a key-value store with SET/GET/DELETE, then add SCAN, timestamped TTL, and file compression (progressive 4-level problem). (Anthropic) [^linkjob-anthropic]
-- Implement a versioned key-value store (Time Travel Hash variant). (OpenAI) [^linkjob-openai]
-- Build an in-memory database with SQL-like operations. (OpenAI) [^hello-interview]
-- Design SQL (LeetCode 2408). (OpenAI) [^hello-interview]
-- Time-Based Key-Value Store (LeetCode 981). (OpenAI) [^hello-interview]
-- Implement Unix cd command with symbolic link resolution. (OpenAI) [^hello-interview]
-- Implement a credits management system: track credit state across issued and used credits with expiration rules. (OpenAI) [^exponent-openai]
-- Refactor 100-120 lines of convoluted code for maintainability while keeping tests green and extending to new requirements. (OpenAI onsite) [^exponent-openai]
-- Implement Word Search using Trie + DFS. (xAI) [^reddit-xai]
-- Design and implement an LRU Cache. (xAI) [^reddit-xai]
-- Implement 1-NN (simplest KNN case) and a feedforward neural network. (OpenAI) [^linkjob-openai]
-- Fix bugs in Transformer code: position embeddings, KV cache issues. (OpenAI) [^linkjob-openai]
+- Word Search on Grid using Trie + DFS (LeetCode Medium). [^devto-xai]
+- LRU Cache with O(1) time complexity using HashMap + Doubly Linked List. [^devto-xai]
+- Prime numbers between 0 and 100. [^khushal-kumar]
+- Check whether two strings are anagrams of each other. [^khushal-kumar]
+- Serialize Binary Tree (space-optimized, discussion-based with compression techniques and backward compatibility). [^rohit-verma]
+- LeetCode 2408: Design SQL. [^hello-interview]
+- LeetCode 981: Time Based Key-Value Store. [^hello-interview]
+- Unix cd command with symbolic link resolution. [^hello-interview]
+- Reverse a linked list with constraints (AI-assisted coding round - candidate must prompt LLM effectively). [^reddit-microsoft-aiml]
+- Find the Excel column name from its column number (e.g., column 702 = "AAA"). [^reddit-microsoft-aiml]
+- Construct a tree from a list where index = node value and value = parent node (LC Medium). [^reddit-microsoft-aiml]
+- CodeSignal GCA: 4 questions in 70 min - two medium-hard, one graph, one greedy with bit ops. [^reddit-xai-eng]
+- Union Find problem + AI question (use DistilBERT to categorize CSV text with sentiments, must pass 5 test cases checking embeddings length, output structure). [^reddit-ai-eng-questions-2]
+- Write code for a banking application using HashMap/TreeMap. Design a task executor - store and pause tasks. [^reddit-2026-prep]
 - A gRPC service is timing out. Add an async boundary, handle failure modes (retries, dead letter queues, idempotency), scale with multi-threading or message queues. [^exponent-mock]
-- Find prime numbers between 0 and 100. Check whether two strings are anagrams. (startup Gen AI Engineer) [^khushal-kumar]
-- Given a complicated JSON file, extract specific data following a pattern, feed it to an AI model, and get a summary -- within 30 minutes, browser and ChatGPT allowed. (startup Gen AI Engineer) [^khushal-kumar]
-- Discuss serialization approaches, compression techniques, streaming formats, backward compatibility, and corruption recovery (no code written, pure discussion). (Microsoft senior) [^rohit-verma]
+- Discuss serialization approaches, compression techniques, streaming formats, backward compatibility, and corruption recovery - no code written, pure discussion. (Microsoft senior) [^rohit-verma]
 
-### ML Fundamentals (Implementation)
+### OpenAI-Specific Coding
 
-- Implement Multi-Head Attention from scratch. (OpenAI, Anthropic, DeepMind) [^sundeep-teki]
-- Implement a full Transformer layer from memory using NumPy or PyTorch. [^sundeep-teki]
-- Implement neural networks, LSTMs, and RNNs from scratch. [^mimansa-jaiswal]
+- KV Store Serialize/Deserialize. [^hello-interview]
+- In-Memory Database: Implement SQL-Like Operations. [^hello-interview]
+- Versioned key-value store implementation (Time Travel Hash variant). [^linkjob-openai]
+- Credits management system - track credit state across issued and used credits with different expiration rules and usage requirements, with increasing complexity. [^exponent-openai]
+- Refactoring round: 100-120 lines of intentionally convoluted, deeply nested code. Refactor for long-term maintainability while keeping existing tests green and extending to new ones. [^exponent-openai]
+
+### Anthropic-Specific Coding
+
+- 4-level progressive coding assessment: Level 1 (SET/GET/DELETE), Level 2 (SCAN/SCAN_BY_PREFIX), Level 3 (timestamped operations + TTL), Level 4 (file compression/decompression with storage management). [^linkjob-anthropic]
+
+### ML / AI Coding
+
+- 1-NN (simplest KNN case) and feedforward neural network implementation. [^linkjob-openai]
+- Transformer bug-fixing exercise with position embedding and KV cache issues. [^linkjob-openai]
+- PyTorch code completion with complexity analysis. [^linkjob-openai]
+- Implement Multi-Head Attention from memory. [^sundeep-teki]
+- Implement a full Transformer layer from memory. [^sundeep-teki]
+- Implement LoRA adapter from scratch. [^yuan-meng]
+- Implement efficient LLM API batch processing. [^promptlayer]
+- Debug code handling embeddings. [^promptlayer]
+- Write scripts preparing text for fine-tuning. [^promptlayer]
+- Build a gRPC service for financial report generation (async conversion, thread management, error handling, batch processing). [^exponent-mock]
+- Implement neural networks, LSTMs, and RNNs from scratch using NumPy or PyTorch. [^mimansa-jaiswal]
 - Implement cached attention and grouped query attention variants. [^mimansa-jaiswal]
-- Implement beam search, top-k, and top-p decoding strategies from scratch. [^mimansa-jaiswal]
-- How would you design an ML system to scale for millions of users? [^fahd-mirza]
+- Implement beam search, top-k, and top-p decoding strategies from scratch. [^mimansa-jaiswal] [^datainterview-mistral]
+- Implement autoregressive generation with top-p sampling. [^datainterview-mistral]
+- Implement logistic regression with SGD, L2 regularization, and early stopping in NumPy. [^datainterview-mistral]
+- Implement stratified K-fold splitting. [^datainterview-mistral]
 
-### Infrastructure & MLOps (Implementation)
+### Practical / Data Processing
 
-- Explain the full ML deployment workflow: CI/CD, monitoring, and feedback loops. (IBM) [^raghu-teja]
-- Design a large-scale AI model deployment system. Discuss model serving, GPU scaling, model versioning, and result caching. (OpenAI) [^designgurus]
-- Design a real-time chatbot API. Discuss low-latency inference, session management, concurrency, and safety filters. (OpenAI) [^designgurus]
-- Design a scalable data pipeline for ML applications. Discuss streaming vs. batch ingestion, ETL, and data consistency. (OpenAI) [^designgurus]
-- Design an AI co-pilot like GitHub Copilot with real-time streaming completions. (Staff+) [^colin-zhou]
-- Design a user profile system for 100 million users with multi-device tracking and batch migration. (OpenAI) [^linkjob-openai]
-- Design the OpenAI Playground: developer workflow, thread history, conversation remixing, intuitive API feel. (OpenAI) [^exponent-openai]
-- What is Docker? Why use containers for AI applications? (startup Gen AI Engineer) [^khushal-kumar]
-- Design a small language learning model that could run on a phone while making sure it's polite. (Google) [^igotanoffer]
-- Design our Claude chat service. (Anthropic) [^igotanoffer]
-- Here's a junior developer's design for an inference batching system -- can you review it and explain what you'd change? (Anthropic) [^igotanoffer]
-- Walk through a production-ready agent architecture. Discuss separation of concerns, fail-safe defaults, observability, and stateless orchestration. [^techeon]
-- How would you design a system to serve Midjourney/Stable Diffusion style image generation at scale? Discuss queueing and GPU scheduling. (Staff+) [^colin-zhou]
+- Speed coding: given a complicated JSON file, extract a specific part following some pattern, then feed that to an AI model and get the summary. 30-minute time limit, browser/ChatGPT allowed. [^khushal-kumar]
+- Design a concurrent web crawler handling robots.txt, rate limiting, and circular references while maintaining data integrity and freshness. [^linkjob-anthropic]
 
+
+## How to Prepare
+
+DSA prep - Grind 75 + easy/medium from NeetCode 150. For AI roles, focus on hash maps, tries, linked lists, and concurrency patterns over graph algorithms. OpenAI's problems feel more like real software challenges than pure algorithmic puzzles - KV stores, in-memory databases, iterator patterns with state management. [^hello-interview] [^mimansa-jaiswal]
+
+ML coding prep - Practice implementing core components from scratch in NumPy or PyTorch without debugging tools: multi-head attention, full Transformer layers, LoRA adapters, decoding strategies (beam search, top-k, top-p). Use "shape suffixes" in variable naming (Noam Shazeer method) to track tensor dimensions. These rounds are typically 25-35 minutes. [^mimansa-jaiswal] [^sundeep-teki]
+
+Design for extensibility - Anthropic's progressive problems build on prior code across 4 levels. If your Level 1 design is rigid, you'll struggle at Level 3. OpenAI similarly uses 4-gate progressive problems where the bar is clearing 2 of 4. Think about how your code will need to change before you start writing. [^linkjob-anthropic] [^exponent-openai]
+
+Practice narrating your reasoning - AI tools are increasingly allowed during coding rounds (OpenAI, IBM, emerging formats). Interviewers watch how you use them: understanding before implementing, not blindly pasting output. Practice thinking out loud while coding, whether you're using AI tools or not. [^exponent-openai] [^khushal-kumar]
+
+At senior levels, depth matters more than speed - Microsoft's senior DSA round was 1+ hour of pure discussion with no code written, covering serialization, compression, streaming formats, and backward compatibility. Interviewers want engineering depth, not typing speed. [^rohit-verma]
 
 ## Sources
 
+[^datainterview-mistral]: [DataInterview - Mistral ML Engineer Interview](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview)
+[^deepthi-sudharsan]: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
+[^devto-xai]: [dev.to - xAI](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+[^exponent-mock]: [YouTube - Exponent Mock Interview](https://www.youtube.com/watch?v=ZE_YEn-okfk)
+[^exponent-openai]: [Medium - Exponent, OpenAI](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
+[^hello-interview]: [Hello Interview - OpenAI L5](https://www.hellointerview.com/guides/openai/l5)
+[^khushal-kumar]: [Medium - Khushal Kumar](https://kaysnotes.medium.com/my-generative-ai-engineer-interview-experience-got-hired-6b3f1affc4e9)
 [^linkjob-anthropic]: [linkjob - Anthropic](https://www.linkjob.ai/interview-questions/anthropic-software-engineer-interview/)
 [^linkjob-openai]: [linkjob - OpenAI](https://www.linkjob.ai/interview-questions/openai-loop-interview)
-[^exponent-openai]: [Medium - Exponent, OpenAI](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
-[^exponent-mock]: [YouTube - Exponent Mock Interview](https://www.youtube.com/watch?v=C6CdzcU7I18)
-[^sundeep-teki]: [Sundeep Teki](https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs)
-[^rohit-verma]: [Medium - Rohit Verma, Microsoft](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1)
-[^deepthi-sudharsan]: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
-[^khushal-kumar]: [Medium - Khushal Kumar](https://medium.com/@khushalkumar21/my-generative-ai-engineer-interview-experience-got-hired-61a1299ff390)
-[^hello-interview]: [HelloInterview - OpenAI L5](https://www.hellointerview.com/guides/openai/l5)
 [^mimansa-jaiswal]: [Mimansa Jaiswal](https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-resources/)
-[^reddit-xai]: [Reddit - xAI candidate report](https://www.reddit.com/r/cscareerquestions/comments/1jqq06y/got_an_offer_from_xai/)
-[^raghu-teja]: [Medium - Raghu Teja, IBM Part 2](https://medium.com/@raghu_teja/how-i-cracked-my-ibm-ai-engineer-interview-part-2-ml-scenarios-88af2b46282e)
-[^designgurus]: [DesignGurus - OpenAI System Design](https://www.designgurus.io/blog/openai-system-design-interview-questions)
-[^colin-zhou]: [Medium - Colin Zhou](https://medium.com/@colinzhou)
-[^techeon]: [Medium - TechEon Agentic Guide](https://atul4u.medium.com/the-complete-agentic-ai-system-design-interview-guide-2026-f95d0cfeb7cf)
-[^igotanoffer]: [igotanoffer - Generative AI System Design Interview](https://igotanoffer.com/en/advice/generative-ai-system-design-interview)
-[^fahd-mirza]: [YouTube - Fahd Mirza](https://www.youtube.com/watch?v=fahd-mirza-upwork)
+[^promptlayer]: [PromptLayer](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
+[^reddit-2026-prep]: [Reddit - 2026 Interview Prep](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) (r/leetcode)
+[^reddit-ai-eng-questions-2]: [Reddit - AI Engineer Interview Questions, TonyStank-1704 comment](https://www.reddit.com/r/ArtificialInteligence/comments/1nybfr8/ai_engineer_interview_questions/) (r/ArtificialIntelligence)
+[^reddit-microsoft-aiml]: [Reddit - Microsoft SWE Applied AI/ML Summer 2026](https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond) (r/csMajors)
+[^reddit-xai-eng]: [Reddit - xAI AI Engineer Backend/Infra Interview](https://www.reddit.com/r/leetcode/comments/1pjhw1i/xai_ai_engineer_backendinfra_interview_just/) (r/leetcode)
+[^rohit-verma]: [Medium - Rohit Verma, Microsoft](https://medium.com/@rohitverma_87831/microsoft-senior-engineer-interview-experience-2026-the-offer-that-took-me-three-attempts-e0d6e052bdb1)
+[^sundeep-teki]: [Sundeep Teki](https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs)
+[^yuan-meng]: [Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/)

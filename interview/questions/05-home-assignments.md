@@ -350,31 +350,10 @@ Reddit story (r/developpeurs, Jan 2026): one candidate was asked to build an LLM
 - Weeks of process for junior roles with low compensation
 - Assignments that take 20+ hours with zero response
 
-## Practical Tips for Take-Home Assignments
-
-### 9 lessons from a first take-home challenge
-
-From a developer's retrospective on their first take-home code challenge ([source](https://dev.to/aidiri/learn-from-my-mistakes-my-first-take-home-code-challenge-778)):
-
-1. Ask questions -- asking clarifying questions after receiving the challenge demonstrates communication skills and prevents costly mistakes
-2. Double your time estimate -- Hofstadter's Law applies: work always takes longer than expected, even when you account for that
-3. Hold yourself to an earlier deadline -- tell the interviewer you need the full time, but privately commit to finishing sooner (Parkinson's Law: work expands to fill available time)
-4. Emulate the company's brand -- copy the company's existing style rather than spending excessive time on design
-5. Stop searching for the "perfect" way -- trust your knowledge and implement solutions you understand rather than endlessly seeking ideal approaches
-6. Test your code -- even if testing isn't explicitly required, include basic tests; interviewers often ask about them
-7. Comment your code -- clear, concise comments explaining function purposes and logic demonstrate your thought process
-8. Stop doubting yourself -- whether your code suffices is the interviewer's judgment, not yours
-9. Don't spend excessive time -- recognize when additional effort yields diminishing returns
-
-### Using LLMs to practice for technical interviews
-
-LLMs can generate targeted practice problems and provide detailed feedback on system design solutions. One candidate preparing for a Bay Area AI startup interview pasted the job description into Grok and asked it to generate relevant system design questions -- it produced a company-specific problem ("Design an AI-powered Candidate Sourcing System") with functional requirements, non-functional constraints, and scale estimates. After sketching a solution on Excalidraw, the candidate pasted a screenshot back into the LLM with the prompt "give me critical and comprehensive feedback like a senior engineer who is interviewing me" and received detailed critique identifying fatal flaws (e.g., putting a message queue in the synchronous read path, HTTP violations, missing write path). Cross-checking answers between different LLMs improved the diversity of feedback and helped identify which details were more important ([source](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-6adb9afe2401))
-
 ## Comprehensive Assignment Catalog
 
 A catalog of concrete take-home assignments and home challenges reported by candidates, interviewers, and companies in AI/ML engineering interviews. Each entry describes what candidates were actually asked to build.
 
----
 
 ### RAG & Document Q&A
 
@@ -418,7 +397,6 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Problem understanding, AI design decisions and tradeoffs, system structure, reliability considerations, how the solution would evolve over time, explicit discussion of where and why AI was used. 60-min technical interview reviewing the work with 2-3 team members
 - Source: Job description analysis, FlowFuse Full Stack Developer (AI-focused) listing
 
----
 
 ### Agents & Workflows
 
@@ -455,14 +433,13 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Source: Candidate reports aggregated from Reddit and interview discussion sites
 
 10. LLM agent for financial report analysis with stock price charts
-- What to build: Build an LLM agent to ingest years of financial reports, with stock price analysis and chart generation -- using only freemium APIs
+- What to build: Build an LLM agent to ingest years of financial reports, with stock price analysis and chart generation - using only freemium APIs
 - Time limit: 72 hours (Round 1 assignment)
 - Company: Unnamed (candidate withdrew, calling it "an unpaid mini-consulting project")
 - Tools/constraints: Must use only freemium APIs
-- Evaluators look for: Not completed -- candidate withdrew due to unreasonable scope for unpaid work
+- Evaluators look for: Not completed - candidate withdrew due to unreasonable scope for unpaid work
 - Source: Reddit r/developpeurs, Jan 2026
 
----
 
 ### Code Review & Refactoring
 
@@ -470,7 +447,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - What to build: Given roughly 100-120 lines of intentionally convoluted, deeply nested code that works and passes its test cases. Refactor it for long-term maintainability while keeping existing tests green and extending to new test cases representing incoming requirements
 - Time limit: ~45-60 minutes (onsite round)
 - Company: OpenAI
-- Tools/constraints: AI tools are allowed during coding rounds (must share screen and narrate). Cannot dump the entire problem into ChatGPT and paste output -- they watch for reasoning and judgment
+- Tools/constraints: AI tools are allowed during coding rounds (must share screen and narrate). Cannot dump the entire problem into ChatGPT and paste output - they watch for reasoning and judgment
 - Evaluators look for: Architectural judgment, code quality, ability to balance immediate functionality with long-term thinking. Described by one candidate as "one of the better rounds" because it tests judgment that AI tools struggle with
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 
@@ -482,7 +459,6 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Working functionality, thoughtful architecture, meaningful evaluation implementation
 - Source: [PromptLayer blog](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
 
----
 
 ### Data Processing & Pipelines
 
@@ -495,10 +471,10 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Source: [Medium - Khushal Kumar](https://medium.com/@khushalkumar/my-generative-ai-engineer-interview-experience-got-hired-f8a027e070b0)
 
 14. OpenAI progressive coding assessment (credits management system)
-- What to build: A credits management system -- OpenAI grants credits to customers with different expiration rules and usage requirements. Write algorithms to track credit state across a series of issued and used credits. Four progressive gates of increasing difficulty; clearing two gates is the passing bar
+- What to build: A credits management system - OpenAI grants credits to customers with different expiration rules and usage requirements. Write algorithms to track credit state across a series of issued and used credits. Four progressive gates of increasing difficulty; clearing two gates is the passing bar
 - Time limit: ~60 minutes (coding screen)
 - Company: OpenAI
-- Tools/constraints: AI tools allowed (share screen, narrate reasoning). Problems are bespoke -- not found on LeetCode. Difficulty starts at medium, escalates through 4 gates
+- Tools/constraints: AI tools allowed (share screen, narrate reasoning). Problems are bespoke - not found on LeetCode. Difficulty starts at medium, escalates through 4 gates
 - Evaluators look for: Ability to reason through novel problems methodically; strong fundamentals over memorized patterns
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
 
@@ -514,11 +490,10 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - What to build: A project that mirrors the kind of integration or tooling work the company does every day. Full freedom to do it your way
 - Time limit: ~3 hours
 - Company: Column Tax (Software Engineer, Applied AI)
-- Tools/constraints: Open -- "this is about decision-making, clarity, and implementation, not code golf"
+- Tools/constraints: Open - "this is about decision-making, clarity, and implementation, not code golf"
 - Evaluators look for: Decision-making quality, clarity, implementation approach; discussed during 4.5-hour interview panels over 2 days
 - Source: Job description analysis, Column Tax listing
 
----
 
 ### ML Model Tasks (Training, Fine-Tuning, Evaluation)
 
@@ -570,7 +545,6 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Ability to go from reading a paper to implementing its core ideas; practical research engineering skills
 - Source: [Medium - Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
 
----
 
 ### Live Coding / Speed Tests
 
@@ -583,7 +557,7 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Source: [LinkJob.ai - OpenAI loop interview](https://www.linkjob.ai/interview-questions/openai-loop-interview)
 
 24. Design the OpenAI Playground (system design with frontend/UX focus)
-- What to build: Design the OpenAI Playground -- specifically the feature that lets developers simulate full conversations and threads. Focus on frontend and UX design: drawing wireframes, thinking through developer workflow, reasoning about product questions like thread history, remixing past conversations, and making the API intuitive. Backend infrastructure and model serving are abstracted away
+- What to build: Design the OpenAI Playground - specifically the feature that lets developers simulate full conversations and threads. Focus on frontend and UX design: drawing wireframes, thinking through developer workflow, reasoning about product questions like thread history, remixing past conversations, and making the API intuitive. Backend infrastructure and model serving are abstracted away
 - Time limit: ~45-60 minutes (phone screen)
 - Company: OpenAI
 - Tools/constraints: System design with product thinking; interviewers do not volunteer information, candidates must ask explicitly
@@ -595,18 +569,17 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Time limit: ~45 minutes (live)
 - Company: Unnamed (Exponent mock interview, but modeled on real-world interview patterns emerging in 2025-2026)
 - Tools/constraints: AI coding agent (Claude Code) explicitly provided and expected to be used; Java/Spring Boot codebase
-- Evaluators look for: Three "gates": (1) understanding that async is the solution, (2) knowing where to place the async call, (3) handling scale with multi-threading/queues. Also evaluated: how candidates use AI responsibly -- understanding before implementing, not blindly pasting AI output
+- Evaluators look for: Three "gates": (1) understanding that async is the solution, (2) knowing where to place the async call, (3) handling scale with multi-threading/queues. Also evaluated: how candidates use AI responsibly - understanding before implementing, not blindly pasting AI output
 - Source: [Exponent YouTube mock interview](https://www.youtube.com/watch?v=exponent-ai-coding-mock)
 
 26. Real-world case study project (Melotech)
-- What to build: A real-world case study project that showcases your skills and working style. First step in the process -- no screen or intro call before this
+- What to build: A real-world case study project that showcases your skills and working style. First step in the process - no screen or intro call before this
 - Time limit: Not specified
 - Company: Melotech (AI/ML Engineer + Intern)
 - Tools/constraints: Not specified
 - Evaluators look for: Results are presented and debated in a 90-minute case interview; same rigorous process for both senior and intern roles
 - Source: Job description analysis, Melotech listing
 
----
 
 ### Full-Stack AI Apps
 
@@ -626,7 +599,6 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Modeling approach, pipeline thinking, execution capability
 - Source: Job description analysis, boam listing
 
----
 
 ### Paid Work Trials
 
@@ -670,31 +642,65 @@ A catalog of concrete take-home assignments and home challenges reported by cand
 - Evaluators look for: Sustained performance and team fit over an extended period
 - Source: Job description analysis
 
----
 
 ### System Design Presentations (Hybrid Take-Home + Live)
 
 34. Present your most technically challenging project (OpenAI)
-- What to build: Prepare slides and present your most technically challenging past project in a 45-minute discussion with a peer engineer. Not designing something new -- showing deep ownership of something you built
+- What to build: Prepare slides and present your most technically challenging past project in a 45-minute discussion with a peer engineer. Not designing something new - showing deep ownership of something you built
 - Time limit: 45 minutes (presentation + Q&A)
 - Company: OpenAI (mandatory for L5/Staff+ roles)
 - Tools/constraints: Screen-shared slides; choose a recent project where you drove technical strategy. Interviewers probe storage choices, model selection for inference, evaluation frameworks ("Is there an actual eval framework, or is it vibes-based?")
 - Evaluators look for: Ownership, technical depth on your own work, greenfield and scale evidence, ability to discuss alternatives and tradeoffs for your own architecture decisions
 - Source: [Exponent/Medium - Jacob Simon](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c), [Hello Interview - OpenAI L5 guide](https://www.hellointerview.com/guides/openai/l5)
 
----
+
+### Additional Assignments from Candidate Reports
+
+35. Login page with validations
+- What to build: Create a login page accepting email and password with basic validations
+- Time limit: 2-3 hours within a 2-3 day window
+- Company: Not specified (entry-level)
+- Tools/constraints: Not specified
+- Evaluators look for: Basic full-stack skills, form validation, clean code
+- Source: [dev.to - Aidi Rivera](https://dev.to/aidiri/learn-from-my-mistakes-my-first-take-home-code-challenge-778)
+
+36. Customer support agent with eval-first approach (1.5-hour constraint)
+- What to build: Create a customer support agent relevant to the company's product within 1.5 hours
+- Time limit: 1.5 hours
+- Company: YC startup (unnamed)
+- Tools/constraints: Open choice; the key differentiator is whether the candidate starts with evals
+- Evaluators look for: Red flag if candidate doesn't start with evals. Tests whether candidates build evaluation-first or code-first
+- Source: [Reddit - What Is Your Interview Assignment for AI Engineers?](https://www.reddit.com/r/ycombinator/comments/1jnfijm/what_is_your_interview_assignment_for_ai_engineers/) (r/ycombinator)
+
+37. Autonomous agent with observability/eval layer
+- What to build: Build a simple autonomous agent using an open-source LLM with a task-specific goal and an observability/eval layer
+- Time limit: Not specified
+- Company: YC startup (unnamed)
+- Tools/constraints: Must use open-source LLM; emphasis on observability and evaluation from the start
+- Evaluators look for: Agent architecture, observability implementation, evaluation layer design
+- Source: [Reddit - What Is Your Interview Assignment for AI Engineers?](https://www.reddit.com/r/ycombinator/comments/1jnfijm/what_is_your_interview_assignment_for_ai_engineers/) (r/ycombinator)
+
+38. Evaluation tool for LLM hallucination detection
+- What to build: Build an evaluation tool for LLM hallucination detection
+- Time limit: Not specified
+- Company: Not specified
+- Tools/constraints: Not specified
+- Evaluators look for: Understanding of hallucination types, evaluation methodology, practical detection approaches
+- Source: [HN - Best Take-Home Coding Tasks](https://news.ycombinator.com/item?id=42182365)
+
 
 ### Summary Statistics
 
 | Category | Count | Typical Time Range |
 |----------|-------|-------------------|
 | RAG & Document Q&A | 5 | 2-3 hours to 7 days |
-| Agents & Workflows | 5 | 3 days to ~60 hours |
+| Agents & Workflows | 7 | 1.5 hours to ~60 hours |
 | Code Review & Refactoring | 2 | 45-60 min (live) to take-home |
 | Data Processing & Pipelines | 4 | 30 min (live) to 3 hours |
 | ML Model Tasks | 6 | 2 hours to 5 hours |
+| Evaluation | 1 | Varies |
 | Live Coding / Speed Tests | 4 | 45 min to 48 hours |
-| Full-Stack AI Apps | 2 | Varies |
+| Full-Stack AI Apps | 3 | Varies |
 | Paid Work Trials | 5 | 1 day to 3 months |
 | System Design Presentations | 1 | 45 min |
 
@@ -717,3 +723,23 @@ Common pitfalls reported by evaluators:
 - Ignoring evaluation/testing of AI outputs
 - Treating the LLM as a black box without discussing failure modes
 - Not asking clarifying questions before starting
+
+## How to Prepare
+
+### 9 lessons from a first take-home challenge
+
+From a developer's retrospective on their first take-home code challenge ([source](https://dev.to/aidiri/learn-from-my-mistakes-my-first-take-home-code-challenge-778)):
+
+1. Ask questions - asking clarifying questions after receiving the challenge demonstrates communication skills and prevents costly mistakes
+2. Double your time estimate - Hofstadter's Law applies: work always takes longer than expected, even when you account for that
+3. Hold yourself to an earlier deadline - tell the interviewer you need the full time, but privately commit to finishing sooner (Parkinson's Law: work expands to fill available time)
+4. Emulate the company's brand - copy the company's existing style rather than spending excessive time on design
+5. Stop searching for the "perfect" way - trust your knowledge and implement solutions you understand rather than endlessly seeking ideal approaches
+6. Test your code - even if testing isn't explicitly required, include basic tests; interviewers often ask about them
+7. Comment your code - clear, concise comments explaining function purposes and logic demonstrate your thought process
+8. Stop doubting yourself - whether your code suffices is the interviewer's judgment, not yours
+9. Don't spend excessive time - recognize when additional effort yields diminishing returns
+
+### Using LLMs to practice for technical interviews
+
+LLMs can generate targeted practice problems and provide detailed feedback on system design solutions. One candidate preparing for a Bay Area AI startup interview pasted the job description into Grok and asked it to generate relevant system design questions - it produced a company-specific problem ("Design an AI-powered Candidate Sourcing System") with functional requirements, non-functional constraints, and scale estimates. After sketching a solution on Excalidraw, the candidate pasted a screenshot back into the LLM with the prompt "give me critical and comprehensive feedback like a senior engineer who is interviewing me" and received detailed critique identifying fatal flaws (e.g., putting a message queue in the synchronous read path, HTTP violations, missing write path). Cross-checking answers between different LLMs improved the diversity of feedback and helped identify which details were more important ([source](https://levelup.gitconnected.com/how-i-fought-and-passed-technical-interviews-with-llms-in-2025-6adb9afe2401))
