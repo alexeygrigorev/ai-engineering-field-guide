@@ -49,6 +49,8 @@ For items with descriptions:
 - Item one - description here
 - Item two - description here
 
+Use `-` (single dash) for separators within text, not `--` (double dash).
+
 For grouped lists with sub-items, use proper nesting:
 
 - Category name

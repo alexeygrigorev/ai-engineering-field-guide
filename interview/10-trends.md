@@ -183,6 +183,18 @@ AI startups are increasingly using take-home assignments as low-cost product ide
 The trend is accelerating as AI tools make it easier to build more in less time, raising scope expectations. "Founding Engineer" roles at AI startups often pair high expectations with exploitative screening processes.
 
 
+## Emerging Interview Formats
+
+Several new approaches are gaining traction, reported across multiple Hacker News threads:
+
+- Code review rounds: Candidates evaluate provided code for bugs, performance issues, and design problems ([HN](https://news.ycombinator.com/item?id=40363135), [HN](https://news.ycombinator.com/item?id=42977039), [HN](https://news.ycombinator.com/item?id=43108673))
+- Evaluating AI-generated code: Candidates retrieve a solution from an LLM, then review that solution during the interview ([HN](https://news.ycombinator.com/item?id=42268158), [HN](https://news.ycombinator.com/item?id=42977039))
+- "AI delta" assessment: Candidates tackle real GitHub issues in 2-4 hours while evaluators assess what they add beyond what AI generates - exploration strategy, engineering rigor, edge case handling, documentation quality ([HN](https://news.ycombinator.com/item?id=46865130))
+- Pair programming on real problems: 1-2 hours on production code provides stronger signal than algorithmic puzzles ([HN](https://news.ycombinator.com/item?id=43108673))
+- Candidates using AI in live interviews often perform worse: Follow-up questions expose lack of understanding. LLM-generated code often contains subtle bugs that the candidate cannot explain ([HN](https://news.ycombinator.com/item?id=42909166))
+- Anti-cheating tooling: Tools like BlindSpots use adversarial examples (invisible pixel and audio modifications) to disrupt AI screenshot-based and audio-based cheating tools without invasive surveillance ([HN](https://news.ycombinator.com/item?id=45492686))
+
+
 ## New Interview Round Types Emerging
 
 Yuan Meng identifies several scarier rounds now appearing at top companies that didn't exist in earlier interview cycles ([source](https://www.yuan-meng.com/posts/mle_interviews_2.0/)):

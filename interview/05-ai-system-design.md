@@ -32,6 +32,17 @@ A finer three-way distinction: ML system design interviews focus on full trainin
 Source: synthesized from [^yuan-meng] [^brian-kihoon-lee] [^chip-huyen-platform] and the [^promptlayer]
 
 
+## What Practitioners Report
+
+System design is no longer classic "design Dropbox" style. Across 100+ reported interviews, the questions have shifted to AI/LLM integrations: scaling AI systems, latency/cost trade-offs, batching, caching, streaming, and failure modes. [^reddit-2026-prep]
+
+Low-level design and concurrency come up almost everywhere. Anthropic's loop was "almost entirely concurrent LLD, HLD, and coding." [^reddit-2026-prep]
+
+Many companies ask candidates to present a past project to a panel, then go deep on design decisions, trade-offs, what broke, and what they'd change. [^reddit-2026-prep] [^janvi-kalra]
+
+"You should be able to say you've deployed a working RAG pipeline, even if it's just a side project." [^reddit-2026-prep]
+
+
 ## What Candidates Are Asked
 
 System design and cost/latency optimization are among the most frequently asked topics in AI engineering interviews:
@@ -552,3 +563,5 @@ These traditional distributed systems questions appear at AI companies like Open
 [^getsdeready]: [GetSDEReady - AI System Design Interview Questions 2025](https://getsdeready.com/ai-system-design-interview-questions-2025/)
 [^yuan-meng-infra]: [Yuan Meng - ML Infra Interviews](https://www.yuan-meng.com/posts/ml_infra_interviews/)
 [^devto-xai]: [DevTo - xAI Software Engineer Interview 2026](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+[^reddit-2026-prep]: [Reddit - 2026 Interview Prep](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) (r/leetcode)
+[^janvi-kalra]: [Janvi Kalra - From Software Engineer to AI Engineer](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer)

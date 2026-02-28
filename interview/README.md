@@ -1,8 +1,18 @@
 # Interview Preparation: AI Engineering
 
-Analysis of interview processes, home assignments, and hiring practices across AI/ML engineering roles, based on 1,765 job descriptions.
 
-## Contents
+Data sources used for these documents:
+
+- 1500+ AI/ML engineering job descriptions ([job-descriptions/](data/job-descriptions/))
+- 100+ reddit discussions ([discussion threads](data/sources/discussion-threads.md))
+- 60+ hacker news discussions ([discussion threads](data/sources/discussion-threads.md))
+- 50+ twitter posts ([discussion threads](data/sources/discussion-threads.md))
+- 35+ personal blogs ([articles](data/sources/articles.md))
+- 20 youtube videos ([articles](data/sources/articles.md))
+- 700+ urls across 100+ domains ([all links](data/sources/all-links.md))
+
+
+Sections:
 
 - [Interview Process](01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, and key takeaways
 - [Theory Questions](02-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions
@@ -15,10 +25,3 @@ Analysis of interview processes, home assignments, and hiring practices across A
 - [After the Interview](09-after-the-interview.md) - handling offers, rejections, and salary negotiation
 - [Interview Trends](10-trends.md) - realistic assessments, AI cheating, AI-proctored rounds, the "no AI tools" irony
 
-## Key Highlights
-
-- Only ~4.5% of job postings disclose their interview process
-- Median process: 4 steps (range: 2-7)
-- 33% of companies use take-home assignments; 5 use paid work trials
-- ~40% of companies use AI in their own hiring; 6 ban candidates from using AI during interviews
-- Time commitment ranges from ~1.5 hours to a full paid week

@@ -1,5 +1,44 @@
 #!/usr/bin/env python3
-"""Query x.ai Grok API with web_search and x_search tools for research."""
+"""Query x.ai Grok API with web_search and x_search tools for research.
+
+Usage:
+    python xai_search.py '<query>' [--tools web_search,x_search] [--system 'prompt'] [--raw] [--label 'name']
+
+Writing good prompts:
+
+    Grok searches the web/X on your behalf, so write prompts as research
+    requests, not search engine keywords. Frame it as: "I'm researching X,
+    find me Y."
+
+    Good prompt structure:
+    1. State what you're researching (context)
+    2. Define exactly what you want (first-person accounts, data, comparisons)
+    3. Specify where to look (Reddit, X/Twitter, Hacker News, blogs)
+    4. Scope it (time period, role type, exclude what you don't want)
+    5. Request structured output (for each result: source link, company, role, details)
+
+    Good example:
+        I'm researching what ML-related questions come up in AI engineer
+        interviews specifically (not ML engineer, not SWE, not data scientist).
+
+        Find me first-person accounts from Reddit, X/Twitter, and Hacker News
+        where someone says they interviewed for an AI engineer position in
+        Q4 2025 or 2026 and describes the ML/theory questions they were asked.
+
+        For each account, give me: the source (link), the company if mentioned,
+        the role title, and the specific ML questions or topics they were asked
+        about. List as many as you can find.
+
+    Bad example:
+        AI engineer interview ML questions 2025 2026 reddit hackernews
+
+    Tips:
+    - Be specific about what you DON'T want (excludes save tokens and cost)
+    - Ask for links/sources explicitly - Grok will include them as citations
+    - One focused topic per query works better than broad multi-topic queries
+    - Use --label to name the saved response for easy retrieval later
+    - Use --tools x_search for X/Twitter-only, web_search for web-only
+"""
 
 import json
 import os
@@ -10,7 +49,7 @@ from pathlib import Path
 import httpx
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+load_dotenv(Path(__file__).resolve().parent.parent.parent / ".env")
 
 API_KEY = os.environ["XAI_API_KEY"]
 API_URL = "https://api.x.ai/v1/responses"
@@ -129,7 +168,7 @@ def main():
     print(f"[Saved to {saved_path}]", file=sys.stderr)
 
     usage = response.get("usage", {})
-    cost = usage.get("cost_in_usd_ticks", 0) / 1_000_000
+    cost = usage.get("cost_in_usd_ticks", 0) / 10_000_000_000
     tools_used = usage.get("num_server_side_tools_used", 0)
     print(f"[Tools: {tools_used}, Cost: ${cost:.4f}]", file=sys.stderr)
 

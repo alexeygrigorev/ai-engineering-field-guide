@@ -12,7 +12,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What is the difference between pre-training and fine-tuning? [^fahd-mirza]
 - Explain context windows and their limitations. [^fahd-mirza]
 - What are scaling laws and why do they matter? [^fahd-mirza]
-- What is temperature and top-p sampling? How do they affect outputs? [^fahd-mirza] [^reddit-genai-consulting]
+- What is temperature and top-p sampling? How do they affect outputs? [^fahd-mirza] [^reddit-genai-consulting] [^x-aryyann8]
 - Explain few-shot learning and chain-of-thought prompting. [^fahd-mirza] [^reddit-genai-consulting] [^reddit-ai-eng-questions]
 - What is KV cache? How does it help in LLM inference? [^igotanoffer]
 - Can you describe the difference between GenAI and traditional programming in the context of solving a real-world problem? [^proptech-founder-1]
@@ -68,12 +68,14 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Where do embeddings fail? Discuss negation, temporal reasoning, and precision requirements. [^techeon]
 - What is semantic caching and how can it reduce cost and latency in a RAG system? [^designgurus-rag] [^hn-44796765]
 - Design a RAG system that maintains context across multi-turn conversations. [^hn-44875256]
+- What are the key tradeoffs when designing a RAG system (latency vs accuracy, chunk size vs context, cost vs quality)? [^reddit-genai-product]
+- How do you optimize RAG latency in production? [^x-aryyann8]
 
 ### Agents and Tool Use
 
 - What is an AI agent and what is its role in a broader system? [^proptech-founder-1]
 - What's the difference between an agent and a simple LLM chain? [^process-analysis] (reported across multiple companies)
-- What makes an AI system truly agentic and what does not qualify? [^techeon] [^reddit-ai-agentic] [^reddit-devsindia-genai] [^hn-43884713] [^hn-42431361]
+- What makes an AI system truly agentic and what does not qualify? [^techeon] [^reddit-ai-agentic] [^reddit-devsindia-genai] [^hn-43884713] [^hn-42431361] [^x-aryyann8]
 - When is an agentic architecture the wrong solution? [^techeon] [^reddit-csuk-agents]
 - How do you define and enforce agent autonomy boundaries? [^techeon] [^reddit-expdevs-agentic]
 - What are the essential components of an agent beyond an LLM? [^techeon] [^reddit-expdevs-agentic] [^reddit-ai-agentic]
@@ -113,7 +115,8 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 ### Fine-tuning and Training
 
 - When would you fine-tune vs use prompt engineering? [^process-analysis] [^reddit-prep-ai-eng] [^reddit-genai-consulting] [^x-ashutosh-1] (reported across multiple companies)
-- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting] [^x-interviewstack-meta]
+- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting] [^x-interviewstack-meta] [^x-aryyann8]
+- What is QLoRA and how does it differ from LoRA? When would you choose one over the other? [^x-aryyann8]
 - What is RLHF and why is it important? [^proptech-founder-1]
 - Fine-tune or use prompt-engineered RAG? [^system-design-handbook] [^reddit-prep-ai-eng] [^hn-39748537]
 - How would you design a model that can solve math problems? Walk through data collection, supervised fine-tuning, post-training, and evaluation. [^igotanoffer]
@@ -134,7 +137,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - What happens when the LLM is confidently wrong? How do you debug a RAG chatbot giving confident but wrong answers? [^process-analysis] [^datainterview-mistral] (candidates wish they prepared for this)
 - Explain SHAP, LIME, and model interpretability. [^fahd-mirza]
 - How do you detect and mitigate hallucinations? [^system-design-handbook]
-- Explain evaluation metrics: perplexity, ROUGE, BLEU. [^fahd-mirza]
+- Explain evaluation metrics: perplexity, ROUGE, BLEU. [^fahd-mirza] [^reddit-genai-product]
 - What are your testing strategies for non-deterministic outputs? [^reddit-prep-ai-eng]
 - How do you measure accuracy in generative systems where traditional metrics don't apply? [^reddit-grilled-rag]
 - What operational/business metrics matter for AI systems beyond accuracy? (win rate, deflection rate, p95 latency) [^reddit-eightfold-ai]
@@ -169,6 +172,8 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Statistics questions: probability, distributions, regression, Bayesian analysis, hypothesis testing. [^mimansa-jaiswal]
 - Explain supervised vs. unsupervised learning. When would you use each? [^hn-29876742] [^tidorp]
 - What is regularization? Compare L1, L2, and dropout. [^hn-29876742] [^tidorp]
+- What is feature scaling and when is it necessary? Compare normalization vs standardization. [^x-aryyann8]
+- Implement cosine similarity in NumPy. [^reddit-amazon-genai]
 
 ### Python and Software Engineering
 
@@ -643,3 +648,6 @@ Reported by candidates:
 [^x-avi-chawla-1]: [X - Avi Chawla, Unified Query Engine (Google)](https://x.com/_avichawla/status/1986320178783867036)
 [^x-interviewstack-meta]: [X - InterviewStack.io, Meta LoRA Question](https://x.com/gnan54796/status/2007302142550565123)
 [^x-michael-taiwo]: [X - Michael Taiwo, AI Literacy Interview Questions](https://x.com/AskMichaelTaiwo/status/1987201166157946887)
+[^x-aryyann8]: [X - AI Engineer Intern Interview](https://x.com/aryyann8/status/2009314129878896960) (Jan 2026)
+[^reddit-genai-product]: [Reddit - Technical Interview for GenAI Engineer Role](https://www.reddit.com/r/leetcode/comments/1rd6yki/technical_interview_for_genai_engineer_role_for_a) (r/leetcode)
+[^reddit-amazon-genai]: [Reddit - ML Engineer GenAI Amazon](https://www.reddit.com/r/datascience/comments/1jrdrpx/ml_engineer_genai_amazon/) (r/datascience)
