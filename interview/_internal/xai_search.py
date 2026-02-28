@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+load_dotenv(Path(__file__).resolve().parent.parent.parent / ".env")
 
 API_KEY = os.environ["XAI_API_KEY"]
 API_URL = "https://api.x.ai/v1/responses"
