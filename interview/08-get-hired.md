@@ -207,6 +207,8 @@ Portfolio presentation tips:
 - Include a config file so hiring managers can test different parameters. One engineer built a CLI tool for summarizing PDFs with configurable models and chunking strategies -- had two competing offers within 72 hours. ([Fonzi AI](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4))
 - Record a Loom video walking through the design for take-home assignments (candidate perspective; [Fonzi AI](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4))
 
+- Open-source contributions as signal. Some companies review contribution history as an alternative or complement to traditional assessments. Architecture-level challenges are better for filtering because AI struggles with them more than routine coding tasks. ([HN](https://news.ycombinator.com/item?id=43882116), [HN](https://news.ycombinator.com/item?id=42182365))
+
 ---
 
 ### Resume & Application Tips (AI-Specific)
@@ -281,6 +283,8 @@ Suggested preparation plan (8-12 weeks):
 - Hackathons as networking and learning. Weekend and multi-week online hackathons serve as both skill development and networking. Building in public (blog posts, Twitter threads) was more effective than courses when the field moves this fast. (candidate perspective; [Janvi Kalra](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer))
 
 - In-person interviews are back. In-person rounds increased from 24% (2022) to 38% (2025) to counter cheating concerns. More frontier labs require in-person onsites. Be prepared to travel. ([InterviewQuery 2025](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
+
+- Referrals matter more than cold applications. Network-based hiring is increasing as AI-generated applications flood pipelines. Recruiters can detect when candidates feed resumes directly into ChatGPT. Authentic application materials outperform AI-polished generic submissions. ([HN](https://news.ycombinator.com/item?id=45932838))
 
 - Top candidates accept offers within 2-3 weeks. Companies with slow processes lose strong applicants. Be prepared to move quickly, and manage your interview timeline so onsites cluster together. ([AI Recruitment report](https://juicebox.ai/blog/ai-recruitment-mistakes))
 
@@ -425,6 +429,7 @@ Newer format: AI-assisted coding interviews:
 
 - Some companies now allow or expect AI coding agents (Claude Code, Cursor) during interviews
 - What they evaluate: how you prompt the AI, whether you verify its output, whether you understand what it produces
+- Candidates using AI in live interviews often perform worse than those coding independently -- follow-up questions expose lack of understanding. LLM-generated code often contains subtle bugs despite appearing correct ([HN](https://news.ycombinator.com/item?id=42909166))
 - "The biggest pitfall: relying on the AI to make decisions for you"
 - "It's like we're co-workers, but we're now using AI at the same time. And I want to see how you use AI as a software engineer"
 - (interviewer perspective; [Exponent mock interview](https://www.youtube.com/watch?v=example))

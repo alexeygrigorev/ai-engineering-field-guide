@@ -1,9 +1,5 @@
 # All Links from Work-in-Progress
 
-Extracted from all files in `_work-in-progress/` on 2026-02-27.
-
----
-
 ## By Source File
 
 ### interviews/process.md
@@ -819,6 +815,3 @@ The following links were verified via WebFetch:
 
 8. **medium.com articles** -- BLOCKED (403 from automated fetch). These are typically accessible via browser with Medium membership.
 
----
-
-*Generated 2026-02-27. Total unique content URLs extracted: ~250+ (excluding Gemini/Grok UI links, favicon URLs, and duplicates).*

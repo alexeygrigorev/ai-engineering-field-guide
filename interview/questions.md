@@ -38,6 +38,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do LLMs actually generate text? Explain the autoregressive decoding process. [^hn-46319888] [^llmgenai]
 - What are decoding strategies like beam search, top-k, and top-p? When do you use each? [^mimansa-jaiswal]
 - What is the context window and what happens when you exceed it? How do you handle long documents? [^hn-46319888] [^llmgenai]
+- What risks arise from applying a general-purpose tokenizer to specialized domains like legal or medical text? [^x-ali-shohadaee]
 
 ### RAG Systems
 
@@ -53,7 +54,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design a question-answering system over internal documentation. [^system-design-handbook]
 - How do you ensure the quality of data that an LLM interacts with? [^proptech-founder-2]
 - Compare sparse vs. dense retrieval. When would you use each? [^reddit-clear-genai]
-- What are common RAG failure points and how do you debug them? [^reddit-clear-genai] [^reddit-grilled-rag]
+- What are common RAG failure points and how do you debug them? [^reddit-clear-genai] [^reddit-grilled-rag] [^x-athletickoder-2]
 - How do you protect sensitive/confidential data in a RAG pipeline? [^reddit-grilled-rag]
 - What vector databases have you used? Which ones and why? [^reddit-ai-eng-questions] [^promptlayer] [^llmgenai]
 - You have a financial report where page 1 says "all amounts in thousands." How do you handle document-wide context when chunking page by page? [^proptech-founder-1]
@@ -65,13 +66,14 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you handle citations and source attribution in a RAG system? [^proptech-founder-1]
 - How does Approximate Nearest Neighbor (ANN) search work? Explain HNSW indexing. [^designgurus-rag]
 - Where do embeddings fail? Discuss negation, temporal reasoning, and precision requirements. [^techeon]
-- What is semantic caching and how can it reduce cost and latency in a RAG system? [^designgurus-rag]
+- What is semantic caching and how can it reduce cost and latency in a RAG system? [^designgurus-rag] [^hn-44796765]
+- Design a RAG system that maintains context across multi-turn conversations. [^hn-44875256]
 
 ### Agents and Tool Use
 
 - What is an AI agent and what is its role in a broader system? [^proptech-founder-1]
 - What's the difference between an agent and a simple LLM chain? [^process-analysis] (reported across multiple companies)
-- What makes an AI system truly agentic and what does not qualify? [^techeon] [^reddit-ai-agentic] [^reddit-devsindia-genai]
+- What makes an AI system truly agentic and what does not qualify? [^techeon] [^reddit-ai-agentic] [^reddit-devsindia-genai] [^hn-43884713] [^hn-42431361]
 - When is an agentic architecture the wrong solution? [^techeon] [^reddit-csuk-agents]
 - How do you define and enforce agent autonomy boundaries? [^techeon] [^reddit-expdevs-agentic]
 - What are the essential components of an agent beyond an LLM? [^techeon] [^reddit-expdevs-agentic] [^reddit-ai-agentic]
@@ -110,10 +112,10 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 ### Fine-tuning and Training
 
-- When would you fine-tune vs use prompt engineering? [^process-analysis] [^reddit-prep-ai-eng] [^reddit-genai-consulting] (reported across multiple companies)
-- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting]
+- When would you fine-tune vs use prompt engineering? [^process-analysis] [^reddit-prep-ai-eng] [^reddit-genai-consulting] [^x-ashutosh-1] (reported across multiple companies)
+- What is PEFT/LoRA and when would you use it? [^fahd-mirza] [^reddit-genai-consulting] [^x-interviewstack-meta]
 - What is RLHF and why is it important? [^proptech-founder-1]
-- Fine-tune or use prompt-engineered RAG? [^system-design-handbook] [^reddit-prep-ai-eng]
+- Fine-tune or use prompt-engineered RAG? [^system-design-handbook] [^reddit-prep-ai-eng] [^hn-39748537]
 - How would you design a model that can solve math problems? Walk through data collection, supervised fine-tuning, post-training, and evaluation. [^igotanoffer]
 - How would you design a scalable and efficient system for training a large language model, considering both computational and data constraints? [^igotanoffer]
 - Explain the RLHF pipeline: supervised fine-tuning, reward model training, and PPO. How does DPO simplify this? [^proptech-founder-1]
@@ -126,7 +128,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 - What metrics do you consider when benchmarking and evaluating LLM performance? [^proptech-founder-1]
 - How do you evaluate a chatbot? [^process-analysis] [^reddit-clear-genai] (candidates wish they prepared for this)
-- How do you detect and mitigate hallucinations in production? [^process-analysis] [^reddit-ai-eng-questions] [^reddit-genai-consulting] (reported across multiple companies)
+- How do you detect and mitigate hallucinations in production? [^process-analysis] [^reddit-ai-eng-questions] [^reddit-genai-consulting] [^hn-41541053] [^hn-46873753] (reported across multiple companies)
 - How would you prevent factual errors in a summarization system? [^interviewnode]
 - How would you reduce hallucinations in a medical chatbot? [^interviewnode]
 - What happens when the LLM is confidently wrong? How do you debug a RAG chatbot giving confident but wrong answers? [^process-analysis] [^datainterview-mistral] (candidates wish they prepared for this)
@@ -139,11 +141,15 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How would you evaluate and monitor a model in production, not just offline? [^reddit-swe-to-ai]
 - How have you addressed bias/fairness in your models? Can you provide an example of a trade-off you've faced? [^reddit-hiring-process]
 - What is time to first token and why does it matter for user experience? [^proptech-founder-1]
-- How do you measure hallucination rate in production? [^buildml] [^llmgenai]
+- How do you measure hallucination rate in production? [^buildml] [^llmgenai] [^hn-46959695] [^hn-42313401]
 - What is "vibes-based" evaluation vs. a formal eval framework? How do you build proper evals? [^exponent-openai]
 - How do you build a golden dataset for evaluation? How do you use it for regression testing? [^proptech-founder-1]
 - How does the system get better over time? Describe feedback and reinforcement loops. [^interviewnode]
 - How do you decide success metrics for an ML model? [^raghu-teja-2]
+- How would you implement A/B testing for different prompt variations? [^hn-44875256]
+- How would you test a new model before full deployment? Describe A/B testing, canary, interleaved, and shadow testing strategies. [^x-akshay-pachaar-1]
+- Two models have identical accuracy but different confidence levels. Which do you choose? Explain model calibration. [^x-akshay-pachaar-3]
+- A production chatbot's accuracy dropped from 95% to 80% in six weeks. How do you diagnose the root cause before retraining? [^x-ashutosh-2]
 
 ### ML Fundamentals
 
@@ -193,7 +199,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 ### Infrastructure and MLOps
 
 - How would you design a large-scale AI model deployment system? [^designgurus]
-- How would you design a distributed training system for deep learning? [^designgurus]
+- How would you design a distributed training system for deep learning? [^designgurus] [^x-akshay-pachaar-2]
 - How would you design a scalable data pipeline for ML applications? [^designgurus]
 - How would you design a GenAI system to handle traffic spikes without overwhelming the model provider? [^igotanoffer]
 - How would you monitor production AI systems? [^system-design-handbook]
@@ -202,7 +208,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 ### Cost and Latency Optimization
 
 - Your app gets 1M queries/day -- how do you optimize cost? [^process-analysis] (reported across multiple companies)
-- How do you reduce token costs at scale? [^process-analysis] [^reddit-prep-ai-eng] (candidates wish they prepared for this)
+- How do you reduce token costs at scale? [^process-analysis] [^reddit-prep-ai-eng] [^hn-46229585] [^hn-46695170] (candidates wish they prepared for this)
 - How would you think about cost and capacity planning for an LLM-powered application at scale? [^igotanoffer]
 - How would you make GPT-based API calls cost-efficient under heavy load? [^interviewnode]
 - How would you reduce token costs? [^system-design-handbook]
@@ -212,18 +218,19 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Cost vs. quality trade-offs: when is a small open-source model "good enough" vs. GPT-4-class? [^reddit-genai-consulting]
 - By trimming prompts and caching embeddings, how would you reduce API spend? Walk through a before-and-after cost breakdown. [^fonzi-ai]
 - Explain multi-layer caching strategies: retrieval cache, prompt cache, and response cache. [^interviewnode]
-- What is model tiering? When do you route to a small distilled model vs. a large LLM? [^interviewnode]
-- What is prompt compression and how does it reduce cost? [^llmgenai] [^hn-46319888]
+- What is model tiering? When do you route to a small distilled model vs. a large LLM? [^interviewnode] [^hn-42793253] [^hn-47150302]
+- What is prompt compression and how does it reduce cost? [^llmgenai] [^hn-46319888] [^hn-44013971]
 - Latency vs. throughput optimization for LLM serving -- what are the trade-offs? [^youtube-short]
 - How would you benchmark each LLM call in a multi-step pipeline to identify latency bottlenecks? [^proptech-founder-1]
 - Estimate the budget for a RAG pipeline at enterprise scale (e.g., 300,000 legal contracts). [^reddit-devsindia-genai]
+- What's the real bottleneck in LLM serving throughput? How does PagedAttention address it? [^x-athletickoder-1]
 
 ### Safety and Guardrails
 
 - When and how would you implement LLM guardrails? [^proptech-founder-1]
 - How would you design a language model that minimizes harmful outputs while still being useful and expressive? [^igotanoffer]
 - How would you build a system that detects whether content violates policy or contains offensive material? [^igotanoffer]
-- How do you protect against prompt injection and jailbreaking? [^system-design-handbook] [^reddit-ai-eng-questions] [^reddit-expdevs-agentic]
+- How do you protect against prompt injection and jailbreaking? [^system-design-handbook] [^reddit-ai-eng-questions] [^reddit-expdevs-agentic] [^hn-44268335]
 - What steps would you take to handle exceptions in a GenAI application? [^proptech-founder-2]
 - Explain Constitutional AI and alignment considerations. [^sundeep-teki]
 - How do you handle data privacy and PII in prompts and logs? [^reddit-genai-consulting] [^reddit-expdevs-agentic]
@@ -286,6 +293,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Design ChatGPT's cross-conversation memory feature. [^igotanoffer]
 - Design a multi-step agentic workflow (meeting scheduling, code review, email campaigns). [^promptlayer]
 - Design a content/policy violation detection system. [^igotanoffer]
+- Design a unified query engine across dispersed data sources like email, calendar, documents, and chat. [^x-avi-chawla-1]
 
 ### Traditional System Design
 
@@ -443,7 +451,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - Tell me about a time when you solved a complex problem and how you went about it. [^exponent-behavioral]
 - Tell me about a time when a technical misjudgment led to a project delay. What did you learn? (Anthropic) [^linkjob-anthropic]
 - What would you do if, midway through a project, you realized it was actually unfeasible? (Anthropic) [^linkjob-anthropic]
-- Describe a time you had to quickly learn a new technology or methodology to complete a project. [^interviewnode-behavioral]
+- Describe a time you had to quickly learn a new technology or methodology to complete a project. [^interviewnode-behavioral] [^x-allie-miller]
 - How would you handle real-time versus batch processing for data updates? When is one preferred over the other? [^proptech-founder-2]
 
 ### Failure and Learning
@@ -459,7 +467,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 ### AI-Specific Behavioral
 
-- How do you stay updated with fast-changing AI tech? [^process-analysis] [^exponent-behavioral] (very common in 2026)
+- How do you stay updated with fast-changing AI tech? [^process-analysis] [^exponent-behavioral] [^x-michael-taiwo] (very common in 2026)
 - How do you collaborate with non-technical stakeholders on AI features? [^process-analysis] (very common in 2026)
 - Can you give an example of a time when you addressed ethical concerns in an ML project? [^interviewnode-behavioral]
 - Tell me about a time you made a safety-first decision in a project. (Anthropic) [^interviewquery-anthropic]
@@ -468,6 +476,7 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 - How do you manage ambiguity in ML projects where requirements and data evolve over time? [^interviewnode-behavioral]
 - How do you use AI coding agents in your work? [^youtube-proptech]
 - Did you apply GenAI techniques to solve a problem not usually solved with GenAI? [^reddit-devsindia-genai]
+- Do you fact-check AI outputs or just trust them? How do you validate AI-generated content? [^x-michael-taiwo]
 
 ### Culture and Motivation
 
@@ -511,6 +520,10 @@ These are follow-up probes from AI agents conducting interviews (emerging trend 
 
 - AI-First CRM: HCP Module: React/Redux frontend, FastAPI backend, LangGraph with 5+ tools (summarization, entity extraction). Models: gemma2-9b-it or llama-3.3-70b via Groq API. Deliverable: GitHub repo + 10-15 minute demo video. Expected time: ~60 hours. [^process-analysis]
 - Login page with validations: Create a login page accepting email and password with basic validations. Estimated 2-3 hours within 2-3 day window. [^devto-aidi-rivera]
+
+### Evaluation
+
+- Build an evaluation tool for LLM hallucination detection. [^hn-42182365]
 
 ### Performance / Optimization
 
@@ -601,3 +614,32 @@ Reported by candidates:
 [^reddit-devsindia-genai]: [Reddit - Generative AI Engineer Interview Prep](https://www.reddit.com/r/developersIndia/comments/1oq5fdi/got_an_interview_tomorrow_for_a_generative_ai) (r/developersIndia, Nov 2025)
 [^datainterview-openai]: [DataInterview - OpenAI AI Engineer Interview](https://www.datainterview.com/blog/openai-ai-engineer-interview) (prep guide based on candidate reports)
 [^datainterview-mistral]: [DataInterview - Mistral ML Engineer Interview](https://www.datainterview.com/blog/mistral-machine-learning-engineer-interview) (prep guide based on candidate reports)
+[^hn-39748537]: [HN - RAG vs. Fine-Tuning](https://news.ycombinator.com/item?id=39748537)
+[^hn-41541053]: [HN - LLMs Will Always Hallucinate](https://news.ycombinator.com/item?id=41541053)
+[^hn-42182365]: [HN - Best Take-Home Coding Tasks](https://news.ycombinator.com/item?id=42182365)
+[^hn-42268158]: [HN - Technical Interviews in the LLM Era](https://news.ycombinator.com/item?id=42268158)
+[^hn-42313401]: [HN - Automated Reasoning to Remove LLM Hallucinations](https://news.ycombinator.com/item?id=42313401)
+[^hn-42431361]: [HN - Agentic LLM Systems in Production](https://news.ycombinator.com/item?id=42431361)
+[^hn-42793253]: [HN - AI Orchestration and LLM Routing](https://news.ycombinator.com/item?id=42793253)
+[^hn-43884713]: [HN - Is an AI Agent Just an LLM Wrapper?](https://news.ycombinator.com/item?id=43884713)
+[^hn-44013971]: [HN - Compress Long LLM Prompts](https://news.ycombinator.com/item?id=44013971)
+[^hn-44268335]: [HN - Design Patterns for Securing LLM Agents](https://news.ycombinator.com/item?id=44268335)
+[^hn-44796765]: [HN - Sleipner.ai LLM Cost Reduction](https://news.ycombinator.com/item?id=44796765)
+[^hn-44875256]: [HN - Interview Questions for AI Product Engineering](https://news.ycombinator.com/item?id=44875256)
+[^hn-46229585]: [HN - LLM API Costs in Production](https://news.ycombinator.com/item?id=46229585)
+[^hn-46695170]: [HN - Reduce LLM Token Costs with TOON](https://news.ycombinator.com/item?id=46695170)
+[^hn-46873753]: [HN - Are LLM Failures Structurally Unavoidable?](https://news.ycombinator.com/item?id=46873753)
+[^hn-46959695]: [HN - Early Detection of LLM Hallucinations via ONTOS](https://news.ycombinator.com/item?id=46959695)
+[^hn-47150302]: [HN - InferShrink Model Routing](https://news.ycombinator.com/item?id=47150302)
+[^x-akshay-pachaar-1]: [X - Akshay Pachaar, ML Deployment Testing (Netflix)](https://x.com/akshay_pachaar/status/1990034795909582860)
+[^x-akshay-pachaar-2]: [X - Akshay Pachaar, Distributed Training (Google)](https://x.com/akshay_pachaar/status/1992571349332804081)
+[^x-akshay-pachaar-3]: [X - Akshay Pachaar, Model Calibration (Apple)](https://x.com/akshay_pachaar/status/1994020936488734823)
+[^x-ali-shohadaee]: [X - Ali Shohadaee, Domain-Specific Tokenization (Anthropic)](https://x.com/alishohadaee/status/2012176441287348231)
+[^x-allie-miller]: [X - Allie K. Miller, Adaptability Interview Questions](https://x.com/alliekmiller/status/1967970071248015679)
+[^x-ashutosh-1]: [X - Ashutosh Maheshwari, Fine-Tuning vs. Prompting](https://x.com/asmah2107/status/1977413874702745794)
+[^x-ashutosh-2]: [X - Ashutosh Maheshwari, Model Drift Diagnosis (Databricks)](https://x.com/asmah2107/status/1990649811964735512)
+[^x-athletickoder-1]: [X - athleticKoder, PagedAttention and LLM Serving](https://x.com/athleticKoder/status/1967925267864928669)
+[^x-athletickoder-2]: [X - athleticKoder, RAG System Diagnostics](https://x.com/athleticKoder/status/2002355874786873383)
+[^x-avi-chawla-1]: [X - Avi Chawla, Unified Query Engine (Google)](https://x.com/_avichawla/status/1986320178783867036)
+[^x-interviewstack-meta]: [X - InterviewStack.io, Meta LoRA Question](https://x.com/gnan54796/status/2007302142550565123)
+[^x-michael-taiwo]: [X - Michael Taiwo, AI Literacy Interview Questions](https://x.com/AskMichaelTaiwo/status/1987201166157946887)

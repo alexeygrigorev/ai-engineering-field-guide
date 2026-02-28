@@ -99,6 +99,23 @@ A principal engineer who completed ~40 interviews across startups, mid-size comp
 - Many companies asked candidates to present a "proud" project to a panel, then went deep on design decisions, trade-offs, what broke, what they'd change. Common at senior+ roles
 - To prepare for LLM integration questions: "You should be able to say you've deployed a working RAG pipeline, even if it's just a side project. You should be comfortable owning the full deployment -- running models locally or in the cloud, Kubernetes with GPU scheduling, batching, KV cache, streaming, latency versus cost trade-offs"
 
+### Emerging interview formats
+
+Several new approaches are gaining traction, reported across multiple Hacker News threads:
+
+- Code review rounds: Candidates evaluate provided code for bugs, performance issues, and design problems rather than writing code from scratch. Tests engineering judgment -- "what they call out vs. what they don't waste time on" -- which is harder to fake with AI ([HN](https://news.ycombinator.com/item?id=40363135), [HN](https://news.ycombinator.com/item?id=42977039), [HN](https://news.ycombinator.com/item?id=43108673))
+
+- Evaluating AI-generated code: Candidates retrieve a solution from an LLM, then review that solution during the interview. Shifts evaluation from code production to judgment and analysis ([HN](https://news.ycombinator.com/item?id=42268158), [HN](https://news.ycombinator.com/item?id=42977039))
+
+- "AI delta" assessment: Candidates tackle real GitHub issues in 2-4 hours while evaluators assess what they add beyond what AI generates -- exploration strategy, engineering rigor, edge case handling, documentation quality ([HN](https://news.ycombinator.com/item?id=46865130))
+
+- Pair programming on real problems: 1-2 hours on production code provides stronger signal than algorithmic puzzles. "Reversing a binary tree" is seen as arbitrary gatekeeping that does not predict job performance ([HN](https://news.ycombinator.com/item?id=43108673))
+
+- Candidates using AI in live interviews often perform worse: Follow-up questions expose lack of understanding. LLM-generated code often contains subtle bugs that the candidate cannot explain ([HN](https://news.ycombinator.com/item?id=42909166))
+
+- Anti-cheating tooling: Tools like BlindSpots use adversarial examples (invisible pixel and audio modifications) to disrupt AI screenshot-based and audio-based cheating tools without invasive surveillance ([HN](https://news.ycombinator.com/item?id=45492686))
+
+
 See also [AI System Design](05-ai-system-design.md) for detailed interview experiences at Anthropic, OpenAI, and others.
 
 

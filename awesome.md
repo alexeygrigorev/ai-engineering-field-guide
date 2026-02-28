@@ -46,6 +46,8 @@ This is the list of resources I used while researching content for the [AI Engin
 - [DataCamp: Top 30 Agentic AI Interview Questions for 2026](https://www.datacamp.com/blog/agentic-ai-interview-questions)
 - [Hao Hoang: Top 50 Large Language Model (LLM) Interview Questions](https://drive.google.com/file/d/1cUxKspEXgQ64s4OFEw0kabf_qNauOPiH/view) - LLM internals, May 2025
 - [LLM Interview Questions (Lovable App)](https://llm-interview-questions.lovable.app/) - theory questions referenced by AI engineer interview candidates
+- [GitHub: RAG Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub) - 100+ RAG questions with answers, 391 stars
+- [GitHub: 60 Gen AI Questions](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/interview_prep/60_gen_ai_questions.md) - curated generative AI interview questions from awesome-generative-ai-guide repo
 
 
 ## AI System Design Guides and Frameworks
@@ -54,6 +56,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Bhavishya Pandit: 7 Deep-Cut AI System Design Interview Questions](https://bhavishyapandit9.substack.com/p/7-deep-cut-ai-system-design-interview) - advanced real-world questions, July 2025
 - [Chip Huyen: Building a Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) - definitive practitioner reference, 5-step architecture
 - [InterviewNode: Generative AI System Design Interview Patterns](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know) - repeatable blueprints, Nov 2025
+- [InterviewNode: Cracking ML Take-Home Assignments](https://interviewnode.com/post/cracking-ml-take-home-assignments-real-examples-and-best-practices) - real examples from Meta, Amazon, OpenAI with evaluation rubrics
 - [System Design Handbook](https://www.systemdesignhandbook.com/) - guides on [GenAI](https://www.systemdesignhandbook.com/guides/generative-ai-system-design-interview/), [Agentic Design](https://www.systemdesignhandbook.com/guides/agentic-system-design/), [AI](https://www.systemdesignhandbook.com/guides/ai-system-design/), [LLM](https://www.systemdesignhandbook.com/guides/llm-system-design/)
 - [Anthropic System Design Innterview](https://www.systemdesignhandbook.com/guides/anthropic-system-design-interview/) system design
 - [HelloInterview: OpenAI L5 Interview Guide](https://www.hellointerview.com/guides/openai/l5) - OpenAI-specific
@@ -67,6 +70,7 @@ This is the list of resources I used while researching content for the [AI Engin
 
 ### Case Study Collections
 
+- [Arcan-Tech: AI Engineer Technical Test 2025](https://github.com/Arcan-Tech/interview-test-aiengineer-2025) - real interview assignment, predict code change propagation from git diffs, 4-hour time limit, Dockerized
 - [Evidently AI: 800 ML/LLM System Design Case Studies](https://www.evidentlyai.com/ml-system-design) - 150+ companies, filterable
 - [GitHub: 500+ GenAI/LLM/ML Case Studies](https://github.com/themanojdesai/genai-llm-ml-case-studies) - 100+ companies
 - [GitHub: AI System Design Guide](https://github.com/ombharatiya/ai-system-design-guide) - living document
@@ -164,6 +168,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Oscar Health: AI Guidelines](https://www.hioscar.com/careers/ai-guidelines) - AI acceptable for resumes, misrepresentation may disqualify
 - [Invisible Technologies: AI Interview Guidelines](https://invisibletech.ai/ai-interview-guidelines) - stage-by-stage AI policy
 - [Anthropic: Guidance on Candidates' AI Usage](https://www.anthropic.com/candidate-ai-guidance) - AI use policy for candidates
+- [Anthropic: Original Performance Take-Home](https://github.com/anthropics/original_performance_takehome) - open-sourced performance engineering exam, beat 1,487 cycles to get a recruiting email
 - [Zapier: How to Collaborate with AI During Hiring](https://zapier.com/l/jobs/ai-at-zapier) - encourages AI tools with guidance
 - [AssemblyAI: Candidate AI Guidance](https://www.assemblyai.com/candidate-ai-guidance) - AI use policy for candidates
 - [SandboxAQ: AI in Interviews](https://www.sandboxaq.com/ai-in-interviews) - AI use policy for candidates
@@ -252,6 +257,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [r/learnmachinelearning: How I Cracked an AI Engineer Role](https://www.reddit.com/r/learnmachinelearning/comments/1pwvb5a/how_i_cracked_an_ai_engineer_role/) - SWE to AI Engineer transition with roadmap
 - [r/learnmachinelearning: Interview Questions Gen AI](https://www.reddit.com/r/learnmachinelearning/comments/1ppgsf3/interview_questions_gen_ai) - consulting firm GenAI interview prep buckets
 - [r/ExperiencedDevs: Is this type of take-home assignment becoming the norm?](https://www.reddit.com/r/ExperiencedDevs/comments/1nyzx77/is_this_type_of_takehome_assignment_becoming_the/) - exploitative take-homes at AI startups
+- [r/datascience: State of Interviewing 2025](https://www.reddit.com/r/datascience/comments/1p1dklk/state_of_interviewing_2025_heres_how_tech/) - data-driven analysis of how interview formats changed 2020-2025
 - [r/csMajors: Microsoft SWE Applied AI/ML Summer 2026](https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond) - AI-assisted and non-AI coding rounds
 - [r/leetcode: 2026 Interview Prep (14+ YOE)](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) - senior-level landscape, LLM integration expectations, concurrency focus
 - [r/MachineLearning: Preparing for a DeepMind Gemini Team Interview](https://www.reddit.com/r/MachineLearning/comments/1k8gy12/d_preparing_for_a_deepmind_gemini_team_interview/) - LLM system design, distributed training, culture fit
@@ -261,6 +267,10 @@ This is the list of resources I used while researching content for the [AI Engin
 - [InterviewQuery: AI Interview Trends 2025](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025) - AI roles surged 240%, AI questions tripled since 2023
 - [LockedIn AI: LLM & AI Engineer Interview Questions in Silicon Valley](https://www.lockedinai.com/blog/llm-ai-engineer-interview-questions-silicon-valley) - OpenAI, Anthropic, Google, Scale AI
 - [InterviewNode: AI Interview Evolution 2026](https://www.interviewnode.com/post/ai-interview-evolution-what-2026-will-look-like-for-ml-engineers) - hybrid AI-human interviews
+- [Pragmatic Engineer: Tech Hiring - Is This an Inflection Point?](https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/) - AI breaking traditional hiring, case studies of fabricated credentials and AI-assisted cheating
+- [Interviewing.io: How Is AI Changing Interview Processes](https://interviewing.io/blog/how-is-ai-changing-interview-processes-not-much-and-a-whole-lot) - survey of 67 FAANG interviewers, "zero moved away from algorithmic questions"
+- [Karat: How AI Is Changing SWE Hiring 2025](https://karat.com/how-ai-is-changing-software-engineer-hiring-heading-into-2025/) - interview platform data on evolving hiring practices
+- [Indeed Hiring Lab: AI at Work Report 2025](https://www.hiringlab.org/2025/09/23/ai-at-work-report-2025-how-genai-is-rewiring-the-dna-of-jobs/) - how GenAI is rewiring job requirements
 
 
 ## ML System Design & Interviews
