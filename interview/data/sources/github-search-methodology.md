@@ -111,7 +111,9 @@ interview/_internal/
 
 ## Results
 
-- 65+ genuine AI Engineer interview assignments found on GitHub
-- Majority are RAG-based (document Q&A systems)
-- Growing trend toward agentic AI assignments
-- Common tech stack: LangChain + OpenAI + FastAPI + vector DB
+- 100+ genuine AI Engineer interview assignments found on GitHub
+- RAG systems remain the most common (40%+)
+- Agentic systems growing fast (30%+), including multi-agent orchestration
+- LLM-as-judge evaluation emerging as a distinct assignment type
+- Voice AI and real-time transcription as a new category
+- Common tech stack: LangChain/LangGraph + OpenAI + FastAPI + vector DB + Groq

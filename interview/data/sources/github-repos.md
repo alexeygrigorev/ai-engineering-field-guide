@@ -22,6 +22,9 @@ Repos published by companies as part of their hiring process.
 - [sarahalish/AI-Engineer-Task-Submission](https://github.com/sarahalish/AI-Engineer-Task-Submission) (Nov 2025) - Alrouf Lighting: FastAPI microservice, RAG knowledge base, CRM automation
 - [penghor315/metric-synthesis-engine](https://github.com/penghor315/metric-synthesis-engine) (Dec 2025) - Automated metric synthesis engine case study
 - [pecop2/kriyadocs-backend-exercise](https://github.com/pecop2/kriyadocs-backend-exercise) (Jan 2026) - Kriyadocs Python backend and ML/AI Engineer exercise
+- [checkmateapp/LLMTakeHome](https://github.com/checkmateapp/LLMTakeHome) (Feb 2026) - candidate take-home for AI/LLM Engineer
+- [aays-tech-round/assignment-data-science-principal-ai-engineer](https://github.com/aays-tech-round/assignment-data-science-principal-ai-engineer) (Dec 2025) - principal/senior AI Engineer: RAG workflows, AI system design, debugging
+- [ProgramadoresSemPatria/AI-Engineering-Challenges](https://github.com/ProgramadoresSemPatria/AI-Engineering-Challenges) (Mar 2026) - collection of pair-programming and take-home challenges in AI Engineering
 
 
 ## Candidate Take-Home Submissions
@@ -66,6 +69,37 @@ Individual candidate solutions. Useful for understanding what companies ask and 
 - [jnny04/TechnicalTest-Bithealth](https://github.com/jnny04/TechnicalTest-Bithealth) (Dec 2025) - Bithealth: RAG service with FastAPI and LangGraph
 - [rusafidt/Multitool-Agentic-QA-Service](https://github.com/rusafidt/Multitool-Agentic-QA-Service) (Jan 2026) - agentic QA service: explicit tool selection, parallel execution
 - [Epik-Whale463/narrative-transformation-engine](https://github.com/Epik-Whale463/narrative-transformation-engine) (Feb 2026) - transforms classical narratives using DAG + RAG, NetworkX, FAISS, GPT-4o-mini
+- [gazitanbhir/RokomariTask](https://github.com/gazitanbhir/RokomariTask) (Feb 2026) - Rokomari.com AI Engineer take-home task
+- [LAWSA07/Company-Policy-Assistant---Neura-Dynamics](https://github.com/LAWSA07/Company-Policy-Assistant---Neura-Dynamics) (Feb 2026) - Neura Dynamics AI Engineer Intern take-home
+- [mathemage/mindwell-assignment-2026](https://github.com/mathemage/mindwell-assignment-2026) (Mar 2026) - Mindwell AI Engineer case study and portfolio
+- [SHUBHAM-max449/bmw-ai-engineer-case-study](https://github.com/SHUBHAM-max449/bmw-ai-engineer-case-study) (Mar 2026) - BMW Group AI Engineer Intern: RAG-based chatbot for customer journey analytics
+- [venki-byte/skylark-bi-insight-agent](https://github.com/venki-byte/skylark-bi-insight-agent) (Mar 2026) - Skylark Drones AI Engineer: production-ready AI agent for Monday.com data insights
+- [Artush-Baghdasaryan/krisp_ai_engineer_role_task](https://github.com/Artush-Baghdasaryan/krisp_ai_engineer_role_task) (Mar 2026) - Krisp AI Engineer role task
+- [AyusKumarPathak/Trademarkia](https://github.com/AyusKumarPathak/Trademarkia) (Mar 2026) - Trademarkia AI Engineer role assignment
+- [jerichosuguru/AI-Coworker-Engine](https://github.com/jerichosuguru/AI-Coworker-Engine) (Feb 2026) - Edtronaut AI Engineer Intern: intelligent NPC system for job simulation platform
+- [vaishnavip-23/Transport-Query-Agent](https://github.com/vaishnavip-23/Transport-Query-Agent) (Feb 2026) - Hrytos AI Engineer Intern: Singapore transport query agent
+- [Sushma-Sangolli/Smart-LLM-Router-Observability-Platform](https://github.com/Sushma-Sangolli/Smart-LLM-Router-Observability-Platform) (Feb 2026) - Zuneko Labs AI Engineer: distributed LLM processing pipeline
+- [PurpleSingularity/TestTask_DevRain](https://github.com/PurpleSingularity/TestTask_DevRain) (Feb 2026) - DevRain AI Engineer test task: Recipe Assistant
+- [Udaykeerthan67/Files.Invis](https://github.com/Udaykeerthan67/Files.Invis) (Feb 2026) - AI Engineer hiring task: AI-powered legal document analysis
+- [Iammilansoni/Physician-Notetaker](https://github.com/Iammilansoni/Physician-Notetaker) (Feb 2026) - Emitrr AI Engineer Intern: medical transcription NLP system
+- [RudranshJaiswal01/Food-Delivery-Management-System](https://github.com/RudranshJaiswal01/Food-Delivery-Management-System) (Feb 2026) - Loginext AI Engineer Intern assignment
+- [pc9350/wanderon_assignment](https://github.com/pc9350/wanderon_assignment) (Feb 2026) - Wanderon AI Engineer assignment
+- [sameer23MCS120/Junior-AI-Engineer-Assignment--Amlgo-Labs](https://github.com/sameer23MCS120/Junior-AI-Engineer-Assignment--Amlgo-Labs) (Feb 2026) - Amlgo Labs Junior AI Engineer assignment
+- [Viren-55/voice-ai-assignment](https://github.com/Viren-55/voice-ai-assignment) (Jan 2026) - Voice AI Engineer: real-time Indian concall transcription and insight streaming
+- [Tejasv2002/Streamkar-Chatbot](https://github.com/Tejasv2002/Streamkar-Chatbot) (Jan 2026) - StreamKar RAG chatbot for customer questions
+- [gulmittal/Trestle_AI_Engineer_Intern_Assignment-](https://github.com/gulmittal/Trestle_AI_Engineer_Intern_Assignment-) (Jan 2026) - Trestle AI Engineer Intern: marksheet extraction with FastAPI and Google Gemini
+- [ShitalMagar-dev/AI-Engineer-Assignment](https://github.com/ShitalMagar-dev/AI-Engineer-Assignment) (Jan 2026) - chatbot-driven TikTok Ad Campaign Creation Agent
+- [yuvrajjuv/multi-agent-ai-system](https://github.com/yuvrajjuv/multi-agent-ai-system) (Jan 2026) - AI Engineer assignment: multi-agent AI system
+- [audoir/gamma-project](https://github.com/audoir/gamma-project) (Jan 2026) - Gamma AI Engineer assignment
+- [Jill21-hub/Revent-Internship](https://github.com/Jill21-hub/Revent-Internship) (Jan 2026) - Revent AI Engineer: profitability engine and system design
+- [kamran-14/deel-assignment](https://github.com/kamran-14/deel-assignment) (Dec 2025) - Deel AI Engineer assignment
+- [amityadav108/GUPPSHUPP_Founding_AI_Engineer_Assignment](https://github.com/amityadav108/GUPPSHUPP_Founding_AI_Engineer_Assignment) (Dec 2025) - GUPPSHUPP Founding AI Engineer assignment
+- [Prakhar-Bhartiya/BMW_AI_Engineer_Assignment](https://github.com/Prakhar-Bhartiya/BMW_AI_Engineer_Assignment) (Dec 2025) - BMW Jr. AI Engineer coding assignment
+- [mad-99/Cerina-Health-AI-Engineer-Role-Task](https://github.com/mad-99/Cerina-Health-AI-Engineer-Role-Task) (Dec 2025) - Cerina Health AI Engineer role task
+- [rak-shi/kasparro-ai-agentic-content-generation-system-Rakshitha_Valipireddy](https://github.com/rak-shi/kasparro-ai-agentic-content-generation-system-Rakshitha_Valipireddy) (Dec 2025) - Kasparro Applied AI Engineer: multi-agent content generation with LangChain and Groq
+- [abhishuman18/Minimal-Workflow-Agent-Enigne-Tredence-](https://github.com/abhishuman18/Minimal-Workflow-Agent-Enigne-Tredence-) (Dec 2025) - Tredence AI Engineer Intern: minimal workflow engine with graph-based nodes
+- [nazar-zhcet26/DGE-assignment](https://github.com/nazar-zhcet26/DGE-assignment) (Dec 2025) - DGE interview: agentic RAG system
+- [Youssef-Matloob/DGE_RAG_APP](https://github.com/Youssef-Matloob/DGE_RAG_APP) (Jan 2026) - DGE AI Engineer position: RAG application
 
 
 ## LLM and GenAI Take-Home Assignments
@@ -75,6 +109,18 @@ Individual candidate solutions. Useful for understanding what companies ask and 
 - [multiply-ai/multiply-ai-coding-task](https://github.com/multiply-ai/multiply-ai-coding-task) (2025) - conversational interface using Google Gemini API
 - [mykin-ai/ML-coding-challenge-2024](https://github.com/mykin-ai/ML-coding-challenge-2024) (2024) - ML Engineer challenge, 2-4 hours
 - [ajaygupta123/E-Commerce-ML-Inteligence-System](https://github.com/ajaygupta123/E-Commerce-ML-Inteligence-System) (Jan 2026) - production-ready ML system for e-commerce data intelligence
+- [tasnimhossen/hippocratic-ai-bedtime-stories](https://github.com/tasnimhossen/hippocratic-ai-bedtime-stories) (Feb 2026) - Hippocratic AI: bedtime story generator with LLM judge
+- [pranav-gilda/agent_deployment_bedtime_stories](https://github.com/pranav-gilda/agent_deployment_bedtime_stories) (Dec 2025) - Hippocratic AI Agent Deployment Engineer: bedtime stories with guardrails and observability
+- [zoyerz/hippocratic-ai](https://github.com/zoyerz/hippocratic-ai) (Dec 2025) - Hippocratic AI: bedtime story generator with LLM judge
+- [reonrash/AI-Agent-Deployment-Engineer-Takehome](https://github.com/reonrash/AI-Agent-Deployment-Engineer-Takehome) (Dec 2025) - Hippocratic AI: story generation service with LLM judge
+- [DJackree/InnovaTech-TakeHomeAssessment](https://github.com/DJackree/InnovaTech-TakeHomeAssessment) (Jan 2026) - InnovaTech: LLM chat application
+- [shibumi2906/PE-TAKE-HOME](https://github.com/shibumi2906/PE-TAKE-HOME) (Jan 2026) - LLM systems and prompt engineering take-home
+- [pranaymanapure/fynd-ai-feedback-system](https://github.com/pranaymanapure/fynd-ai-feedback-system) (Jan 2026) - Fynd AI Intern: LLM-based rating prediction and feedback system
+- [selvamsmk/spur-live-chat-agent](https://github.com/selvamsmk/spur-live-chat-agent) (Jan 2026) - Spur founding engineer: mini AI-powered live chat support agent
+- [richiesinhala/spur-ai-chat](https://github.com/richiesinhala/spur-ai-chat) (Dec 2025) - Spur: AI live chat support agent with OpenAI, Prisma, Svelte
+- [Aaronxvc/cohere_sales_agent](https://github.com/Aaronxvc/cohere_sales_agent) (Jan 2026) - Cohere async take-home: secure sales insights agent with PII safety
+- [Thejas10042001/RPS-Plus-Al-Judge](https://github.com/Thejas10042001/RPS-Plus-Al-Judge) (Feb 2026) - upliance.ai Applied AI Engineer (Conversational Agents)
+- [dsulzd/upliance.ai_assignment](https://github.com/dsulzd/upliance.ai_assignment) (Feb 2026) - upliance.ai Applied AI Engineer (Conversational Agents)
 
 
 ## Hiring Challenges
@@ -88,6 +134,9 @@ Individual candidate solutions. Useful for understanding what companies ask and 
 - [paidy/interview](https://github.com/paidy/interview) (Dec 2025) - interview challenge at Paidy
 - [zweahtet/identifAI-recruiting-challenge](https://github.com/zweahtet/identifAI-recruiting-challenge) (Jun 2024) - IdentifAI recruiting challenge
 - [Validia-AI/recruiting-challenge](https://github.com/Validia-AI/recruiting-challenge) (Aug 2025) - Validia AI recruiting challenge
+- [ericosiu/beat-claude](https://github.com/ericosiu/beat-claude) (Mar 2026) - "Beat Claude to get an interview": hiring challenge for AI-native marketers
+- [JoeyDon/optima-hiring-challenge](https://github.com/JoeyDon/optima-hiring-challenge) (Mar 2026) - Optima Real Estate AI developer interview
+- [Gestao-Quatro-Ponto-Zero/ai-master-challenge](https://github.com/Gestao-Quatro-Ponto-Zero/ai-master-challenge) (Mar 2026) - G4 AI Master Challenge
 
 
 ## AI Challenge Competitions
@@ -109,6 +158,7 @@ Individual candidate solutions. Useful for understanding what companies ask and 
 - [dilrabonu/ai-engineer-interview-bootcamp](https://github.com/dilrabonu/ai-engineer-interview-bootcamp) (Feb 2026)
 - [elaheh-dastan/AI-engineer-interview](https://github.com/elaheh-dastan/AI-engineer-interview) (Feb 2026)
 - [gduchidze/ai-engineer-interview-prep](https://github.com/gduchidze/ai-engineer-interview-prep) (Jan 2026)
+- [techlearn-center/ai-engineer-interview-prep](https://github.com/techlearn-center/ai-engineer-interview-prep) (Feb 2026) - AI Engineer coding interview practice with 11 problem sets
 - [duguqiankun/AI-Engineer-Case-Study](https://github.com/duguqiankun/AI-Engineer-Case-Study) (Jan 2026)
 - [MohapatraShibu/Generative_AI_Engineer](https://github.com/MohapatraShibu/Generative_AI_Engineer) (Dec 2025) - generative AI Engineer case study
 - [VenkataAnilKumar/Agentic-AI-Engineer](https://github.com/VenkataAnilKumar/Agentic-AI-Engineer) (Oct 2025) - curated collection: tools, libraries, case studies
@@ -118,9 +168,10 @@ Individual candidate solutions. Useful for understanding what companies ask and 
 
 Most frequent tasks:
 1. RAG systems (40%+) - document upload, vector databases, LangChain/LangGraph, citation support
-2. Agentic systems (25%+) - ReACT agents, tool-calling, multi-step reasoning, LangGraph workflows
-3. Conversational AI (20%+) - chatbots, Telegram/Discord bots, voice assistants
-4. Document processing (15%) - PDF parsing, data extraction, compliance checking
+2. Agentic systems (30%+) - ReACT agents, tool-calling, multi-step reasoning, LangGraph workflows, multi-agent orchestration
+3. Conversational AI (20%+) - chatbots, Telegram/Discord bots, voice assistants, live chat agents
+4. Document processing (15%) - PDF parsing, data extraction, compliance checking, marksheet extraction
+5. LLM-as-judge evaluation (10%+) - emerging pattern: build a system then evaluate it with another LLM
 
 Tech stack frequency:
 
@@ -132,5 +183,6 @@ Tech stack frequency:
 | MongoDB Atlas | 30%+ |
 | Streamlit | 25%+ |
 | Google Gemini | 20%+ |
+| Groq | 15%+ |
 | Anthropic Claude | 15%+ |
 | FAISS | 15%+ |

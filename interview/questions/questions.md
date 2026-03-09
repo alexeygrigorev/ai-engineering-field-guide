@@ -534,11 +534,16 @@ These are the probing questions interviewers ask during project deep dives to te
 
 ## Take-Home Assignments
 
+See also: [GitHub Repos: AI Engineering Interview Assignments](../data/sources/github-repos.md) for 100+ repos of actual candidate submissions.
+
 ### RAG / Chatbot Systems
 
 - Blood test report AI: Create a project that takes a blood test report in PDF format, understands medical issues, and provides suggestions by fetching them from online blog articles. Submit in a few hours. [^khushal-kumar]
 - Customer support RAG chatbot: Design a production-ready chatbot using open-source tools. Requirements: 100+ concurrent users, <2 second latency, grounded in company docs, cost-effective, analytics tracking. Score: 9/10. [^devto-mai-chi-bao]
 - Document Q&A system: Build a document Q&A system with citation tracking for multi-hop questions. [^promptlayer]
+- Build a RAG chatbot that ingests PDFs/documents, creates embeddings in a vector DB, and answers questions with citations (10+ candidate submissions across 5+ companies). [^gh-rokomari] [^gh-streamkar] [^gh-dge-1] [^gh-dge-2] [^gh-bmw] [^gh-ncapek]
+- Refactor a messy RAG codebase into a modular, production-ready service with FastAPI and LangGraph (5+ candidate submissions for one company). [^gh-bithealth-1] [^gh-bithealth-2] [^gh-bithealth-3] [^gh-bithealth-4] [^gh-bithealth-5]
+- Build a policy document RAG assistant with mandatory source citations for every answer. Includes a 7-question evaluation set. [^gh-neura-dynamics]
 
 ### Agent Systems
 
@@ -548,15 +553,56 @@ These are the probing questions interviewers ask during project deep dives to te
 - Conversational Calendar Booking Agent: LangGraph/LangChain orchestration, Streamlit chat interface, FastAPI backend, Google Calendar integration via Service Accounts, function calling for booking logic. [^process-analysis]
 - Create a customer support agent relevant to the company's product within 1.5 hours. Red flag if candidate doesn't start with evals. [^reddit-yc-assignment]
 - Build a simple autonomous agent using an open-source LLM with a task-specific goal and an observability/eval layer. [^reddit-yc-assignment]
+- Build an assistant agent handling database queries, document search, and bash commands. Explicit evaluation criteria: tool selection accuracy, response grounding, error handling. [^gh-curling-ai]
+- Build a production-ready AI agent that transforms project management data into conversational business insights using dual-LLM architecture (primary + fallback). [^gh-skylark]
+- Build an agentic RAG system evaluated using RAGAS metrics (faithfulness, answer relevancy, context precision). [^gh-govgpt]
+- Build a chatbot-driven TikTok Ad Campaign Creation Agent. [^gh-tiktok-agent]
+
+### Multi-Agent Systems
+
+- Build a multi-agent content generation system: 5 core agents (research, writing, editing, SEO, publishing) orchestrated through a pipeline. [^gh-kasparro]
+- Implement a minimal workflow engine with graph-based nodes, state management, branching/looping, and tool-based logic. Max 50 steps. Unit tests mandatory (6+ candidate submissions). [^gh-tredence-1] [^gh-tredence-2] [^gh-tredence-3] [^gh-tredence-4] [^gh-tredence-5] [^gh-tredence-6]
+- Build a 5-agent CBT therapy system with crisis detection, safety filtering, and PII redaction. [^gh-cerina]
+
+### LLM-as-Judge / Evaluation
+
+- Build an evaluation tool for LLM hallucination detection. [^hn-42182365]
+- Build a 4-stage bedtime story pipeline: Spec Builder, Storyteller, LLM Judge, Rewriter. Must use gpt-3.5-turbo. Up to 2 revision cycles (4+ candidate submissions). [^gh-hippocratic-1] [^gh-hippocratic-2] [^gh-hippocratic-3] [^gh-hippocratic-4]
+- Build a sales insights agent with PII safety: 3-dimension evaluation (accuracy, safety, reasoning). [^gh-cohere]
+- Build a live chat agent grounded in FAQ knowledge base (2 candidate submissions with different tech stacks). [^gh-spur-1] [^gh-spur-2]
+
+### Document Extraction and Processing
+
+- Build a marksheet extraction API: parse complex table layouts and handwriting. Confidence scoring required. FastAPI + Docker + Gemini 1.5 Flash. [^gh-trestle]
+- Build a physician notetaker: medical transcription NLP system with NER and SOAP notes (3+ candidate submissions). [^gh-emitrr-1] [^gh-emitrr-2]
+- Refactor a messy codebase into a modular, production-ready service (5+ candidate submissions for one company). [^gh-bithealth-1]
+- Build an AI-powered legal document analysis tool for contracts. [^gh-legal-doc]
+
+### Voice AI and Conversational Systems
+
+- Build real-time concall transcription and insight streaming for Indian accents. [^gh-voice-ai]
+- Build a Singapore public transport query agent with voice interface. [^gh-hrytos]
+- Build a Telegram bot for investment coaching with safety filtering. 3 days / 6-8 hours. [^gh-pineos]
+- Build a live chat support agent with OpenAI, session persistence, and conversation history (2 candidate submissions). [^gh-spur-1] [^gh-spur-2]
+- Build conversational agents with game-based evaluation (2 submissions). [^gh-upliance-1] [^gh-upliance-2]
 
 ### Full-Stack AI Applications
 
 - AI-First CRM: HCP Module: React/Redux frontend, FastAPI backend, LangGraph with 5+ tools (summarization, entity extraction). Models: gemma2-9b-it or llama-3.3-70b via Groq API. Deliverable: GitHub repo + 10-15 minute demo video. Expected time: ~60 hours. [^process-analysis]
 - Login page with validations: Create a login page accepting email and password with basic validations. Estimated 2-3 hours within 2-3 day window. [^devto-aidi-rivera]
+- Build a production-ready mental health MVP with safety, privacy, PII redaction, and evaluation. [^gh-mindwell]
+- Build a production-grade distributed LLM processing pipeline with smart routing for 100K+ daily requests. [^gh-zuneko]
+- Build an intelligent NPC system for a job simulation platform. [^gh-edtronaut]
+- Build an LLM-based rating prediction system with prompt evaluation and dashboards. [^gh-fynd]
+- Build a markdown-to-slides generator with cost and time metrics tracking. [^gh-gamma]
+- Build a deduplication and clustering pipeline with ARI/NMI evaluation metrics. [^gh-krisp]
+- Build a transaction matching system. [^gh-deel]
+- Build a D&D dungeon simulation with context engineering. Evaluation rubric: 30% functionality, 30% challenge completion, 25% context engineering, 15% code quality. ~4 hours. [^gh-context-engineering]
+- Build a memory and personality engine using open-source LLMs only. [^gh-gupshup]
 
-### Evaluation
+### Company Product Integration
 
-- Build an evaluation tool for LLM hallucination detection. [^hn-42182365]
+- Roboflow: build a project using their CV platform and present to CTO. [^process-analysis]
 
 ### Performance / Optimization
 
@@ -629,6 +675,56 @@ Reported by candidates:
 [^fahd-mirza-2]: [YouTube - Fahd Mirza (Upwork)](https://www.youtube.com/watch?v=fahd-mirza-upwork)
 [^zen-van-riel]: [Zen Van Riel](https://zenvanriel.com/ai-engineer-blog/ai-engineering-interview-big-tech-guide/)
 [^fonzi-ai]: [Medium - Fonzi AI](https://medium.com/fonzi-ai/what-ive-learned-from-sitting-in-on-50-ai-engineer-interviews-c493696453c4)
+[^github-repos]: [GitHub Repos: AI Engineering Interview Assignments](../data/sources/github-repos.md) - 100+ repos of actual take-home assignments, Q4 2025 / Q1 2026
+[^gh-rokomari]: [GitHub - RokomariTask](https://github.com/gazitanbhir/RokomariTask) - Rokomari.com AI Engineer
+[^gh-streamkar]: [GitHub - Streamkar-Chatbot](https://github.com/Tejasv2002/Streamkar-Chatbot) - StreamKar RAG chatbot
+[^gh-dge-1]: [GitHub - DGE-assignment](https://github.com/nazar-zhcet26/DGE-assignment) - DGE agentic RAG
+[^gh-dge-2]: [GitHub - DGE_RAG_APP](https://github.com/Youssef-Matloob/DGE_RAG_APP) - DGE RAG application
+[^gh-bmw]: [GitHub - bmw-ai-engineer-case-study](https://github.com/SHUBHAM-max449/bmw-ai-engineer-case-study) - BMW Group AI Engineer Intern
+[^gh-ncapek]: [GitHub - ai_engineer_interview_2025](https://github.com/ncapek/ai_engineer_interview_2025) - RAG chatbot with MongoDB Atlas
+[^gh-bithealth-1]: [GitHub - bithealth-crfc](https://github.com/verneylmavt/bithealth-crfc) - Bithealth code refactoring
+[^gh-bithealth-2]: [GitHub - bithealth_home_assesment](https://github.com/fakhrulnurmulyana/bithealth_home_assesment) - Bithealth assessment
+[^gh-bithealth-3]: [GitHub - bithealth-assesment](https://github.com/futurebiomedeng/bithealth-assesment) - Bithealth assessment
+[^gh-bithealth-4]: [GitHub - bithealthtest](https://github.com/Nerrad07/bithealthtest) - Bithealth intern
+[^gh-bithealth-5]: [GitHub - TechnicalTest-Bithealth](https://github.com/jnny04/TechnicalTest-Bithealth) - Bithealth RAG service
+[^gh-neura-dynamics]: [GitHub - Company-Policy-Assistant](https://github.com/LAWSA07/Company-Policy-Assistant---Neura-Dynamics) - Neura Dynamics AI Engineer Intern
+[^gh-curling-ai]: [GitHub - hiring-challenge-alpha](https://github.com/Curling-AI/hiring-challenge-alpha) - assistant agent: database, documents, bash
+[^gh-skylark]: [GitHub - skylark-bi-insight-agent](https://github.com/venki-byte/skylark-bi-insight-agent) - Skylark Drones AI Engineer
+[^gh-govgpt]: [GitHub - govgpt-agentic-rag](https://github.com/AsharAhmad/govgpt-agentic-rag) - GovGPT agentic RAG
+[^gh-tiktok-agent]: [GitHub - AI-Engineer-Assignment](https://github.com/ShitalMagar-dev/AI-Engineer-Assignment) - TikTok Ad Campaign Agent
+[^gh-kasparro]: [GitHub - kasparro-ai-agentic-content-generation](https://github.com/rak-shi/kasparro-ai-agentic-content-generation-system-Rakshitha_Valipireddy) - Kasparro multi-agent content generation
+[^gh-tredence-1]: [GitHub - Minimal-Workflow-Agent-Enigne-Tredence](https://github.com/abhishuman18/Minimal-Workflow-Agent-Enigne-Tredence-) - Tredence workflow engine
+[^gh-tredence-2]: [GitHub - tredence submission 2](https://github.com/search?q=tredence+ai+engineer&type=repositories) - Tredence AI Engineer Intern
+[^gh-tredence-3]: [GitHub - tredence submission 3](https://github.com/search?q=tredence+ai+engineer&type=repositories) - Tredence AI Engineer Intern
+[^gh-tredence-4]: [GitHub - tredence submission 4](https://github.com/search?q=tredence+ai+engineer&type=repositories) - Tredence AI Engineer Intern
+[^gh-tredence-5]: [GitHub - tredence submission 5](https://github.com/search?q=tredence+ai+engineer&type=repositories) - Tredence AI Engineer Intern
+[^gh-tredence-6]: [GitHub - tredence submission 6](https://github.com/search?q=tredence+ai+engineer&type=repositories) - Tredence AI Engineer Intern
+[^gh-cerina]: [GitHub - Cerina-Health-AI-Engineer-Role-Task](https://github.com/mad-99/Cerina-Health-AI-Engineer-Role-Task) - Cerina Health 5-agent CBT system
+[^gh-hippocratic-1]: [GitHub - hippocratic-ai-bedtime-stories](https://github.com/tasnimhossen/hippocratic-ai-bedtime-stories) - Hippocratic AI bedtime story generator
+[^gh-hippocratic-2]: [GitHub - agent_deployment_bedtime_stories](https://github.com/pranav-gilda/agent_deployment_bedtime_stories) - Hippocratic AI with guardrails
+[^gh-hippocratic-3]: [GitHub - hippocratic-ai](https://github.com/zoyerz/hippocratic-ai) - Hippocratic AI bedtime stories
+[^gh-hippocratic-4]: [GitHub - AI-Agent-Deployment-Engineer-Takehome](https://github.com/reonrash/AI-Agent-Deployment-Engineer-Takehome) - Hippocratic AI story service
+[^gh-cohere]: [GitHub - cohere_sales_agent](https://github.com/Aaronxvc/cohere_sales_agent) - Cohere sales insights agent
+[^gh-spur-1]: [GitHub - spur-live-chat-agent](https://github.com/selvamsmk/spur-live-chat-agent) - Spur live chat agent
+[^gh-spur-2]: [GitHub - spur-ai-chat](https://github.com/richiesinhala/spur-ai-chat) - Spur AI chat with Prisma/Svelte
+[^gh-trestle]: [GitHub - Trestle_AI_Engineer_Intern_Assignment](https://github.com/gulmittal/Trestle_AI_Engineer_Intern_Assignment-) - Trestle marksheet extraction
+[^gh-emitrr-1]: [GitHub - Physician-Notetaker](https://github.com/Iammilansoni/Physician-Notetaker) - Emitrr medical transcription
+[^gh-emitrr-2]: [GitHub - Emitrr submission 2](https://github.com/search?q=emitrr+ai+engineer&type=repositories) - Emitrr AI Engineer Intern
+[^gh-legal-doc]: [GitHub - Files.Invis](https://github.com/Udaykeerthan67/Files.Invis) - AI-powered legal document analysis
+[^gh-mindwell]: [GitHub - mindwell-assignment-2026](https://github.com/mathemage/mindwell-assignment-2026) - Mindwell AI Engineer case study
+[^gh-voice-ai]: [GitHub - voice-ai-assignment](https://github.com/Viren-55/voice-ai-assignment) - real-time concall transcription
+[^gh-hrytos]: [GitHub - Transport-Query-Agent](https://github.com/vaishnavip-23/Transport-Query-Agent) - Hrytos Singapore transport agent
+[^gh-pineos]: [GitHub - investment_coach_bot](https://github.com/anuradhabudhar214-tech/investment_coach_bot) - PineOS.ai investment coaching bot
+[^gh-upliance-1]: [GitHub - RPS-Plus-Al-Judge](https://github.com/Thejas10042001/RPS-Plus-Al-Judge) - upliance.ai conversational agents
+[^gh-upliance-2]: [GitHub - upliance.ai_assignment](https://github.com/dsulzd/upliance.ai_assignment) - upliance.ai conversational agents
+[^gh-zuneko]: [GitHub - Smart-LLM-Router-Observability-Platform](https://github.com/Sushma-Sangolli/Smart-LLM-Router-Observability-Platform) - Zuneko Labs LLM router
+[^gh-edtronaut]: [GitHub - AI-Coworker-Engine](https://github.com/jerichosuguru/AI-Coworker-Engine) - Edtronaut NPC system
+[^gh-fynd]: [GitHub - fynd-ai-feedback-system](https://github.com/pranaymanapure/fynd-ai-feedback-system) - Fynd AI feedback system
+[^gh-gamma]: [GitHub - gamma-project](https://github.com/audoir/gamma-project) - Gamma markdown-to-slides
+[^gh-krisp]: [GitHub - krisp_ai_engineer_role_task](https://github.com/Artush-Baghdasaryan/krisp_ai_engineer_role_task) - Krisp dedup and clustering
+[^gh-deel]: [GitHub - deel-assignment](https://github.com/kamran-14/deel-assignment) - Deel transaction matching
+[^gh-context-engineering]: [GitHub - context-engineering-takehome](https://github.com/jkbrooks/context-engineering-takehome) - D&D simulation with context engineering
+[^gh-gupshup]: [GitHub - GUPPSHUPP_Founding_AI_Engineer_Assignment](https://github.com/amityadav108/GUPPSHUPP_Founding_AI_Engineer_Assignment) - memory and personality engine
 [^exponent-behavioral]: [Exponent - ML Engineer Behavioral Questions](https://www.tryexponent.com/questions?role=ml-engineer&type=behavioral)
 [^exponent-openai-behavioral]: [Exponent - OpenAI Behavioral Questions](https://www.tryexponent.com/questions?company=openai&type=behavioral)
 [^igotanoffer-openai]: [IGotAnOffer - OpenAI](https://igotanoffer.com/en/advice/openai-interview-questions)
