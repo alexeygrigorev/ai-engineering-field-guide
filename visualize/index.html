@@ -1,0 +1,429 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Engineering Field Guide - Visual Summary</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg: #f3efe6;
+      --ink: #15202b;
+      --muted: #455a64;
+      --card: #fffaf2;
+      --line: #d8c9b5;
+      --accent-a: #0b7285;
+      --accent-b: #f08c00;
+      --accent-c: #2b8a3e;
+      --accent-d: #c92a2a;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 10%, rgba(240, 140, 0, 0.12), transparent 35%),
+        radial-gradient(circle at 80% 15%, rgba(11, 114, 133, 0.16), transparent 30%),
+        linear-gradient(180deg, #f7f2e8 0%, #efe7d8 100%);
+      min-height: 100vh;
+      line-height: 1.4;
+    }
+
+    .wrap {
+      width: min(1100px, 92vw);
+      margin: 0 auto;
+      padding: 2rem 0 3rem;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #fff6e8 0%, #f7ead3 100%);
+      border: 2px solid var(--line);
+      border-radius: 24px;
+      padding: 1.4rem 1.4rem 1.8rem;
+      box-shadow: 0 10px 30px rgba(21, 32, 43, 0.08);
+      animation: rise 600ms ease-out both;
+    }
+
+    .kicker {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.65rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.45rem, 3.6vw, 2.7rem);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0.8rem 0 0;
+      color: #24343f;
+      max-width: 70ch;
+    }
+
+    .quick {
+      margin-top: 1rem;
+      display: grid;
+      gap: 0.6rem;
+    }
+
+    .quick div {
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px dashed #d7ba95;
+      border-radius: 12px;
+      padding: 0.6rem 0.75rem;
+      transform: translateY(8px);
+      opacity: 0;
+      animation: rise 450ms ease-out forwards;
+    }
+
+    .quick div:nth-child(1) { animation-delay: 120ms; }
+    .quick div:nth-child(2) { animation-delay: 220ms; }
+    .quick div:nth-child(3) { animation-delay: 320ms; }
+
+    .grid-4 {
+      margin-top: 1rem;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.8rem;
+    }
+
+    .stat {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 0.9rem;
+      animation: rise 600ms ease-out both;
+    }
+
+    .stat small {
+      display: block;
+      color: var(--muted);
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.74rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 1.35rem;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr;
+      gap: 0.9rem;
+      margin-top: 0.9rem;
+    }
+
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 1rem;
+    }
+
+    .panel h2 {
+      margin: 0 0 0.65rem;
+      font-size: 1.05rem;
+    }
+
+    .panel p {
+      margin: 0.3rem 0;
+      color: #2e424e;
+    }
+
+    .chart-row {
+      margin-top: 0.9rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.9rem;
+    }
+
+    .chart-card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 0.8rem;
+      min-height: 320px;
+    }
+
+    .chart-card h3 {
+      margin: 0 0 0.7rem;
+      font-size: 1rem;
+    }
+
+    canvas {
+      width: 100% !important;
+      height: 260px !important;
+    }
+
+    .path {
+      margin-top: 0.9rem;
+      background: linear-gradient(140deg, #fff9ef 0%, #fff4e0 100%);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 1rem;
+    }
+
+    .path h2 {
+      margin: 0 0 0.65rem;
+      font-size: 1.1rem;
+    }
+
+    .steps {
+      display: grid;
+      gap: 0.55rem;
+    }
+
+    .step {
+      border: 1px solid #e5d7c5;
+      border-radius: 12px;
+      padding: 0.6rem;
+      background: rgba(255, 255, 255, 0.66);
+    }
+
+    .step b {
+      color: #16374a;
+    }
+
+    .resources {
+      margin-top: 0.9rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.9rem;
+    }
+
+    .resources a {
+      color: #0b5d6b;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 3px;
+    }
+
+    ul {
+      margin: 0.45rem 0 0;
+      padding-left: 1rem;
+    }
+
+    li {
+      margin: 0.24rem 0;
+    }
+
+    .foot {
+      margin-top: 0.9rem;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.76rem;
+      color: #526876;
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 920px) {
+      .grid-4 {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .layout,
+      .chart-row,
+      .resources {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .wrap {
+        width: min(1100px, 95vw);
+      }
+
+      .hero {
+        padding: 1rem;
+      }
+
+      .grid-4 {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="kicker">AI ENGINEERING FIELD GUIDE - TL;DR VISUAL</div>
+      <h1>What this repo says in plain English</h1>
+      <p>
+        Most "AI Engineer" jobs are not about training giant models. They are about shipping useful products with
+        `RAG`, `agents`, APIs, cloud, and production reliability.
+      </p>
+
+      <div class="quick">
+        <div><b>Big signal:</b> Learn to ship practical systems, not just build demos.</div>
+        <div><b>Fastest ROI:</b> Python + RAG + evaluation + deployment habits.</div>
+        <div><b>Interview reality:</b> You get tested on fundamentals, implementation, and production judgment.</div>
+      </div>
+    </section>
+
+    <section class="grid-4" aria-label="headline stats">
+      <article class="stat"><small>jobs analyzed (builtin snapshot)</small><strong>895</strong></article>
+      <article class="stat"><small>real responsibilities extracted</small><strong>5,694</strong></article>
+      <article class="stat"><small>real use cases extracted</small><strong>4,525</strong></article>
+      <article class="stat"><small>companies represented</small><strong>590</strong></article>
+    </section>
+
+    <section class="layout">
+      <article class="panel">
+        <h2>What companies actually hire for</h2>
+        <p><b>AI-First roles dominate:</b> 69.4% are direct LLM/RAG/agent product roles.</p>
+        <p><b>Support roles are real:</b> 28.5% focus on infrastructure/tooling for AI teams.</p>
+        <p><b>Pure ML is tiny here:</b> 1.8% are traditional ML roles under AI title.</p>
+        <p><b>Production > research:</b> 95.6% are applied shipping roles.</p>
+      </article>
+      <article class="panel">
+        <h2>Hard truth to save your time</h2>
+        <p><b>Fine-tuning is not step 1:</b> only 4.0% focus on it as primary work.</p>
+        <p><b>RAG + agents cover most demand:</b> 35.9% mention RAG, 14.4% mention agents.</p>
+        <p><b>Evaluation is a hiring differentiator:</b> being able to prove quality beats "cool demo" energy.</p>
+      </article>
+    </section>
+
+    <section class="chart-row">
+      <article class="chart-card">
+        <h3>Role split (where jobs actually are)</h3>
+        <canvas id="roleChart" aria-label="Role split chart"></canvas>
+      </article>
+      <article class="chart-card">
+        <h3>Top skill demand (from job analysis)</h3>
+        <canvas id="skillChart" aria-label="Top skills chart"></canvas>
+      </article>
+    </section>
+
+    <section class="path">
+      <h2>What to learn first (no fluff roadmap)</h2>
+      <div class="steps">
+        <div class="step"><b>Step 1 - Week 1-2:</b> Python refresh + LLM API basics + structured outputs.</div>
+        <div class="step"><b>Step 2 - Week 3-4:</b> Build one RAG app end-to-end (ingest, retrieve, answer, eval).</div>
+        <div class="step"><b>Step 3 - Week 5-6:</b> Add agent tool use with hard limits, retries, and logging.</div>
+        <div class="step"><b>Step 4 - Week 7-8:</b> Add tests, offline eval, and a basic dashboard for cost/latency.</div>
+        <div class="step"><b>Step 5 - Week 9-10:</b> Deploy with Docker + one cloud provider and CI/CD.</div>
+      </div>
+    </section>
+
+    <section class="resources">
+      <article class="panel">
+        <h2>If you only open 6 files</h2>
+        <ul>
+          <li><a href="../README.md">README.md</a> - repo map in one place</li>
+          <li><a href="../role/README.md">role/README.md</a> - what the role really is</li>
+          <li><a href="../learning-paths/README.md">learning-paths/README.md</a> - what to learn in order</li>
+          <li><a href="../interview/README.md">interview/README.md</a> - hiring process reality</li>
+          <li><a href="../portfolio/README.md">portfolio/README.md</a> - projects that get interviews</li>
+          <li><a href="../job-market/README.md">job-market/README.md</a> - raw market numbers</li>
+        </ul>
+      </article>
+      <article class="panel">
+        <h2>Project ideas with strongest hiring signal</h2>
+        <ul>
+          <li>RAG support assistant with evaluation harness</li>
+          <li>Tool-using agent with guardrails and observability</li>
+          <li>Small multi-agent workflow with clear orchestration</li>
+          <li>Any project with clean README + live demo + tests</li>
+        </ul>
+      </article>
+    </section>
+
+    <p class="foot">
+      Data notes: this page summarizes the repository's January 2026 BuiltIn analysis subset (895 jobs) plus interview and
+      learning docs. Some files mention broader counts from additional datasets.
+    </p>
+  </main>
+
+  <script>
+    const roleCtx = document.getElementById("roleChart");
+    const skillCtx = document.getElementById("skillChart");
+
+    new Chart(roleCtx, {
+      type: "doughnut",
+      data: {
+        labels: ["AI-First", "AI-Support", "Rebranded ML"],
+        datasets: [{
+          data: [69.4, 28.5, 1.8],
+          backgroundColor: ["#0b7285", "#f08c00", "#c92a2a"],
+          borderColor: "#fffaf2",
+          borderWidth: 3,
+          hoverOffset: 6
+        }]
+      },
+      options: {
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { position: "bottom" },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.label}: ${ctx.parsed.toFixed(1)}%`
+            }
+          }
+        },
+        cutout: "58%"
+      }
+    });
+
+    new Chart(skillCtx, {
+      type: "bar",
+      data: {
+        labels: ["Python", "AWS", "RAG", "Docker", "Prompt Eng", "Kubernetes", "TypeScript", "LangChain"],
+        datasets: [{
+          label: "% of jobs mentioning skill",
+          data: [82.5, 40.1, 35.9, 31.0, 29.1, 29.1, 23.4, 18.8],
+          backgroundColor: [
+            "#0b7285", "#1c7d8f", "#2f879a", "#4291a4",
+            "#f08c00", "#f5a132", "#2b8a3e", "#4aa857"
+          ],
+          borderRadius: 8
+        }]
+      },
+      options: {
+        maintainAspectRatio: false,
+        indexAxis: "y",
+        scales: {
+          x: {
+            min: 0,
+            max: 90,
+            ticks: { callback: (v) => `${v}%` },
+            grid: { color: "rgba(21, 32, 43, 0.1)" }
+          },
+          y: {
+            grid: { display: false }
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.parsed.x.toFixed(1)}%`
+            }
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
