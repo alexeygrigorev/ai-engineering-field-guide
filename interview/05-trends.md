@@ -2,21 +2,19 @@
 
 Emerging patterns in AI engineering interviews based on candidate experiences, job descriptions, and industry discussions.
 
-See also: [Awesome AI Engineering](../awesome.md) for the full collection of sources.
-
 
 ## Market Data (2025)
 
-- 62,000 tech layoffs in 2025 (including 9,000 at Microsoft), but layoffs became strategic restructuring rather than survival measures - companies now prioritize AI-fluent talent ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
-- Tech job openings stabilized around 230,000 (up 22% from 2024 lows). Companies like Amazon and Apple hired more than they laid off ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
-- AI-native roles (AI Engineer, ML Engineer, Analytics Engineer) surged 240% in early 2025 ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
-- AI and LLM-related interview questions tripled since 2023 ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
-- AI/LLM mentions in job postings increased across all roles: ML Engineers 8% to 29.5%, Data Scientists 4% to 18.4%, Analysts & BI 3.8% to 15.8%, Backend Engineers 6.7% to 13%, Data Engineers 3% to 9.7% ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
+- 62,000 tech layoffs in 2025 (including 9,000 at Microsoft), but layoffs became strategic restructuring rather than survival measures - companies now prioritize AI-fluent talent [^interviewquery-2025]
+- Tech job openings stabilized around 230,000 (up 22% from 2024 lows). Companies like Amazon and Apple hired more than they laid off [^interviewquery-2025]
+- AI-native roles (AI Engineer, ML Engineer, Analytics Engineer) surged 240% in early 2025 [^interviewquery-2025]
+- AI and LLM-related interview questions tripled since 2023 [^interviewquery-2025]
+- AI/LLM mentions in job postings increased across all roles: ML Engineers 8% to 29.5%, Data Scientists 4% to 18.4%, Analysts & BI 3.8% to 15.8%, Backend Engineers 6.7% to 13%, Data Engineers 3% to 9.7% [^interviewquery-2025]
 
 
 ## Patterns from Practitioners
 
-Based on 130+ interview rounds reported by [Janvi Kalra](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer) (46 companies), [Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598) (50+ rounds), and a [principal engineer with 14+ YOE](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep) (~40 interviews):
+Based on 130+ interview rounds reported by Janvi Kalra (46 companies) [^janvi-kalra], Deepthi Sudharsan (50+ rounds) [^deepthi-sudharsan], and a principal engineer with 14+ YOE (~40 interviews) [^reddit-leetcode-2026]:
 
 - LeetCode is declining but not dead. ~70% of senior interviews had none at all. When coding comes up, it's practical (string manipulation, real-world logic), not puzzle-based
 - Three interview types dominate: coding (DSA/LeetCode), system design, and project interviews ("go build something in a day")
@@ -45,11 +43,11 @@ For candidates, this means preparation should focus on building and discussing r
 
 ## Framework Bias in Hiring
 
-Some companies equate "AI engineering" with specific framework knowledge, leading to rejections of technically stronger candidates. A developer using PyTorch/CUDA/GGUF with FastAPI for multi-agent systems was [rejected for not knowing LangChain/LangGraph](https://www.reddit.com/r/LocalLLaMA/comments/1ow3anq/rejected_for_not_using_langchainlanggraph/) -- despite working at a lower level than what the role required. The community was split:
+Some companies equate "AI engineering" with specific framework knowledge, leading to rejections of technically stronger candidates. A developer using PyTorch/CUDA/GGUF with FastAPI for multi-agent systems was rejected for not knowing LangChain/LangGraph - despite working at a lower level than what the role required. The community was split: [^reddit-langchain-rejected]
 
 - "The company is not technical enough to understand the issues in LangChain and LangGraph" (355 upvotes)
-- "Do you want a job? Learn the stupid tool" -- pragmatic view that popular frameworks are what companies hire for
-- "You didn't fail the technical interview. You failed the culture fit" -- the best framing
+- "Do you want a job? Learn the stupid tool" - pragmatic view that popular frameworks are what companies hire for
+- "You didn't fail the technical interview. You failed the culture fit" - the best framing
 
 For candidates: know what layer the company operates at (model vs. application) and align your language accordingly. For companies: framework-specific requirements filter out candidates who may have deeper expertise.
 
@@ -68,16 +66,16 @@ This doesn't necessarily mean that they forbid using AI for coding tasks.
 
 ## AI Surveillance During Remote Interviews
 
-AI surveillance during remote interviews is an emerging concern: camera monitoring, browser extensions, and audio analysis tools are being deployed by employers. Most candidate experiences remain remote, but monitoring tools add a new layer of stress. This trend is partly driving the return of in-person interviews at top companies. ([Reddit r/datascience, State of Interviewing 2025](https://www.reddit.com/r/datascience/comments/1p1dklk/state_of_interviewing_2025_heres_how_tech/))
+AI surveillance during remote interviews is an emerging concern: camera monitoring, browser extensions, and audio analysis tools are being deployed by employers. Most candidate experiences remain remote, but monitoring tools add a new layer of stress. This trend is partly driving the return of in-person interviews at top companies. [^reddit-datascience-2025]
 
 
 ## AI-Proctored Early Rounds
 
 AI agents are starting to conduct early technical screens.
 
-- Eightfold.ai (Jan 2026): Round 1 was an AI-conducted coding interview - ~60 min, 2 coding questions. The AI agent asked interactive follow-ups: edge cases, alternative approaches, complexity analysis. "This round felt more like a conversational technical discussion than a standard online test" (sources: [Medium](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8), [Reddit r/developersIndia](https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer))
+- Eightfold.ai (Jan 2026): Round 1 was an AI-conducted coding interview - ~60 min, 2 coding questions. The AI agent asked interactive follow-ups: edge cases, alternative approaches, complexity analysis. "This round felt more like a conversational technical discussion than a standard online test" [^eightfold-internship] [^reddit-eightfold]
 - Coinbase: AI conducts initial screening interviews with simulated scenarios
-- [Deepthi Sudharsan](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598) reports being interviewed by AI three times at US-based AI companies. The AI typically asks general or scenario-based questions; in rare cases uses RAG with the candidate's resume for targeted technical questions
+- Deepthi Sudharsan reports being interviewed by AI three times at US-based AI companies. The AI typically asks general or scenario-based questions; in rare cases uses RAG with the candidate's resume for targeted technical questions [^deepthi-sudharsan]
 
 
 ## The "No AI Tools" Irony
@@ -128,39 +126,27 @@ Many companies share guidelines on how candidates should use AI:
 
 ## In-Person Interviews Are Coming Back
 
-In-person interview rounds increased from 24% (2022) to 38% (2025), driven by concerns about AI-assisted cheating during remote interviews ([InterviewQuery](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025)). More frontier AI labs are requiring in-person onsites ([Yuan Meng](https://www.yuan-meng.com/posts/mle_interviews_2.0/)).
+In-person interview rounds increased from 24% (2022) to 38% (2025), driven by concerns about AI-assisted cheating during remote interviews. [^interviewquery-2025] More frontier AI labs are requiring in-person onsites. [^yuan-meng]
 
 
 ## AI Tools Allowed During Live Coding
 
 Some companies now explicitly allow AI tools during live technical interviews:
 
-- OpenAI: AI tools allowed during coding rounds - candidates share screen and narrate reasoning. "The boundary is that you shouldn't dump the entire problem into ChatGPT and paste back the output. They're watching for reasoning and judgment" ([source](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c))
-- PromptLayer: allows ChatGPT during live coding to observe how candidates construct prompts and evaluate AI output ([source](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/))
-- Microsoft SWE Applied AI/ML: Round 1 is entirely AI-assisted (use ChatGPT to solve problems), Round 2 bans AI tools. The format explicitly tests both AI-augmented productivity and baseline coding skills ([Reddit r/csMajors](https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond))
-- Exponent mock interview: a senior FAANG engineer conducts a combined coding + system design round where the candidate uses Claude Code throughout. The interviewer evaluates HOW the candidate uses the AI tool -- prompting strategy, ability to verify and understand generated code, and whether they let AI make architectural decisions for them. Key interviewer warning: "Not understanding what the AI is going to do is the biggest pitfall. Relying on AI to make decisions for you." The format merges coding and system design into a single round, reflecting how AI-assisted interviews collapse traditional round boundaries. ([Exponent](https://www.youtube.com/watch?v=C6CdzcU7I18))
+- OpenAI: AI tools allowed during coding rounds - candidates share screen and narrate reasoning. "The boundary is that you shouldn't dump the entire problem into ChatGPT and paste back the output. They're watching for reasoning and judgment" [^exponent-openai]
+- PromptLayer: allows ChatGPT during live coding to observe how candidates construct prompts and evaluate AI output [^promptlayer]
+- Microsoft SWE Applied AI/ML: Round 1 is entirely AI-assisted (use ChatGPT to solve problems), Round 2 bans AI tools. The format explicitly tests both AI-augmented productivity and baseline coding skills [^reddit-csmajors-msft]
+- Exponent mock interview: a senior FAANG engineer conducts a combined coding + system design round where the candidate uses Claude Code throughout. The interviewer evaluates HOW the candidate uses the AI tool - prompting strategy, ability to verify and understand generated code, and whether they let AI make architectural decisions for them. Key interviewer warning: "Not understanding what the AI is going to do is the biggest pitfall. Relying on AI to make decisions for you." The format merges coding and system design into a single round, reflecting how AI-assisted interviews collapse traditional round boundaries. [^exponent-claude-code]
 
 
 ## AI Engineering Interviews Lack Standardization
 
-The AI engineering role is still being defined, and interviews reflect this. Janvi Kalra, who interviewed at 46 AI companies, found the process "all over the place" - combining LeetCode-style coding, system design, and project-based assessments with no consistent format. "The market is trying to move away from LeetCode but still asks LeetCode, so you end up having to study LeetCode as well." She hopes the industry moves toward project interviews, code reading, and debugging - but "as an industry we haven't fully formed an opinion here" ([Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer), [YouTube](https://www.youtube.com/watch?v=GEqJrKYnhbY))
-
-
-## ML System Design Interviews Are Often Broken
-
-Brian Kihoon Lee (~70 interviews, 7 offers from ~15 companies) critiques common ML system design interview failures ([source](https://www.moderndescartes.com/essays/ml_eng_interviewing/)):
-
-- System design in ML clothing: Generic systems questions with superficial ML terminology that fail to assess either domain
-- Outdated content: Interview problems become obsolete as ML advances rapidly. One interviewer expected traditional embedding + classifier approaches when LLMs offered superior solutions
-- Algorithmic rederivation: Expecting candidates to independently derive established algorithms (like MinHash) in 45 minutes - testing memorization, not learning capacity
-- "Cog in a machine" interviewers: Hyper-specific questions about their narrow project experience while missing big-picture evaluation
-
-Lee proposes that ML system design interviews require staff-level execution expertise to conduct well and should only appear in senior candidate evaluations. His recommended alternative loop varies by seniority, replacing ML system design at junior levels with data modeling (live coding on real datasets with intentional bugs) and project deep dives.
+The AI engineering role is still being defined, and interviews reflect this. Janvi Kalra, who interviewed at 46 AI companies, found the process "all over the place" - combining LeetCode-style coding, system design, and project-based assessments with no consistent format. "The market is trying to move away from LeetCode but still asks LeetCode, so you end up having to study LeetCode as well." She hopes the industry moves toward project interviews, code reading, and debugging - but "as an industry we haven't fully formed an opinion here" [^janvi-kalra] [^janvi-kalra-youtube]
 
 
 ## Junior vs. Senior Expectations Are Diverging
 
-System design interviews increasingly test seniority through depth of thinking rather than tool knowledge ([InterviewNode](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know)):
+System design interviews increasingly test seniority through depth of thinking rather than tool knowledge: [^interviewnode]
 
 - Junior: Focus on the prompt alone
 - Mid-level: Describe embeddings or RAG mechanisms
@@ -171,7 +157,7 @@ System design interviews increasingly test seniority through depth of thinking r
 
 ## Read the Room: LLM Hype Can Backfire
 
-An interviewer [gave a borderline senior candidate a "soft thumbs down"](https://www.reddit.com/r/datascience/comments/15t69mt/failed_an_interviewee_because_they_wouldnt_shut/) because the candidate kept insisting LLMs could help with a regression problem the team was working on -- in a way that didn't make sense technically. The takeaway: at senior levels, candidates are expected to demonstrate judgment about when AI solutions are and aren't appropriate. Knowing the latest AI tools is table stakes; knowing when NOT to use them signals maturity.
+An interviewer gave a borderline senior candidate a "soft thumbs down" because the candidate kept insisting LLMs could help with a regression problem the team was working on - in a way that didn't make sense technically. The takeaway: at senior levels, candidates are expected to demonstrate judgment about when AI solutions are and aren't appropriate. Knowing the latest AI tools is table stakes; knowing when NOT to use them signals maturity. [^reddit-datascience-llm-hype]
 
 
 ## The Bar Feels Higher
@@ -183,15 +169,15 @@ Because everyone uses AI tools daily, the focus has shifted:
 
 Candidates report that "can you build an LLM app?" is no longer enough. The question is now "can you ship, scale, and evaluate production AI?"
 
-InterviewQuery frames it as: "Knowledge is free -- judgment isn't." The interview philosophy shifted from "Can you code?" to "Can you reason with the AI that codes with you?" ([source](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025))
+InterviewQuery frames it as: "Knowledge is free - judgment isn't." The interview philosophy shifted from "Can you code?" to "Can you reason with the AI that codes with you?" [^interviewquery-2025]
 
 
 ## Exploitative Take-Homes at AI Startups
 
 AI startups are increasingly using take-home assignments as low-cost product ideation, with scope that amounts to real product work. Community discussions highlight a growing pattern:
 
-- A French candidate was asked to [build a complete LLM agent for financial document analysis](https://www.reddit.com/r/developpeurs/comments/1m84v47/on_ma_demand%C3%A9_de_construire_un_agent_llm_complet/) -- community estimated 6,000-10,000 EUR worth of consulting effort
-- An AI real-estate startup asked candidates to [build an end-to-end feature aggregating property information](https://www.reddit.com/r/ExperiencedDevs/comments/1nyzx77/is_this_type_of_takehome_assignment_becoming_the/) into a comprehensive brief -- vague scope with a 2-hour timeframe
+- A French candidate was asked to build a complete LLM agent for financial document analysis - community estimated 6,000-10,000 EUR worth of consulting effort [^reddit-developpeurs]
+- An AI real-estate startup asked candidates to build an end-to-end feature aggregating property information into a comprehensive brief - vague scope with a 2-hour timeframe [^reddit-expdevs-takehome]
 - Experienced developers recommend declining any assignment that could constitute a deployable product, and refuse take-homes sent before any human conversation
 
 The trend is accelerating as AI tools make it easier to build more in less time, raising scope expectations. "Founding Engineer" roles at AI startups often pair high expectations with exploitative screening processes.
@@ -201,20 +187,50 @@ The trend is accelerating as AI tools make it easier to build more in less time,
 
 Several new approaches are gaining traction, reported across multiple Hacker News threads:
 
-- Code review rounds: Candidates evaluate provided code for bugs, performance issues, and design problems ([HN](https://news.ycombinator.com/item?id=40363135), [HN](https://news.ycombinator.com/item?id=42977039), [HN](https://news.ycombinator.com/item?id=43108673))
-- Evaluating AI-generated code: Candidates retrieve a solution from an LLM, then review that solution during the interview ([HN](https://news.ycombinator.com/item?id=42268158), [HN](https://news.ycombinator.com/item?id=42977039))
-- "AI delta" assessment: Candidates tackle real GitHub issues in 2-4 hours while evaluators assess what they add beyond what AI generates - exploration strategy, engineering rigor, edge case handling, documentation quality ([HN](https://news.ycombinator.com/item?id=46865130))
-- Pair programming on real problems: 1-2 hours on production code provides stronger signal than algorithmic puzzles ([HN](https://news.ycombinator.com/item?id=43108673))
-- Candidates using AI in live interviews often perform worse: Follow-up questions expose lack of understanding. LLM-generated code often contains subtle bugs that the candidate cannot explain ([HN](https://news.ycombinator.com/item?id=42909166))
-- Anti-cheating tooling: Tools like BlindSpots use adversarial examples (invisible pixel and audio modifications) to disrupt AI screenshot-based and audio-based cheating tools without invasive surveillance ([HN](https://news.ycombinator.com/item?id=45492686))
+- Code review rounds: Candidates evaluate provided code for bugs, performance issues, and design problems [^hn-code-review-1] [^hn-code-review-2] [^hn-code-review-3]
+- Evaluating AI-generated code: Candidates retrieve a solution from an LLM, then review that solution during the interview [^hn-ai-generated-1] [^hn-ai-generated-2]
+- "AI delta" assessment: Candidates tackle real GitHub issues in 2-4 hours while evaluators assess what they add beyond what AI generates - exploration strategy, engineering rigor, edge case handling, documentation quality [^hn-ai-delta]
+- Pair programming on real problems: 1-2 hours on production code provides stronger signal than algorithmic puzzles [^hn-code-review-3]
+- Candidates using AI in live interviews often perform worse: Follow-up questions expose lack of understanding. LLM-generated code often contains subtle bugs that the candidate cannot explain [^hn-ai-worse]
+- Anti-cheating tooling: Tools like BlindSpots use adversarial examples (invisible pixel and audio modifications) to disrupt AI screenshot-based and audio-based cheating tools without invasive surveillance [^hn-blindspots]
 
 
 ## New Interview Round Types Emerging
 
-Yuan Meng identifies several scarier rounds now appearing at top companies that didn't exist in earlier interview cycles ([source](https://www.yuan-meng.com/posts/mle_interviews_2.0/)):
+Yuan Meng identifies several scarier rounds now appearing at top companies that didn't exist in earlier interview cycles: [^yuan-meng]
 
 - ML Infra Design: Detailed questions about feature stores, distributed training, and online serving (not just modeling)
 - Multi-level OOP: Building toy backend systems with incremental complexity
 - LLM Coding: Implementing Transformers, LoRA, KV cache, and autograd mechanics from scratch
 - Research Presentations: Job talk-style presentations defending technical work
 - References becoming standard: Most top companies now require 2-3 references from recent managers/colleagues
+
+
+## Sources
+
+[^interviewquery-2025]: [InterviewQuery: AI Interview Trends 2025](https://www.interviewquery.com/p/ai-interview-trends-tech-hiring-2025)
+[^janvi-kalra]: [Janvi Kalra / Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer)
+[^janvi-kalra-youtube]: [Janvi Kalra / YouTube](https://www.youtube.com/watch?v=GEqJrKYnhbY)
+[^deepthi-sudharsan]: [Deepthi Sudharsan: Inside AI Interviews](https://medium.com/@deepthi.sudharsan/inside-ai-interviews-stories-patterns-and-what-actually-matters-555684c38598)
+[^reddit-leetcode-2026]: [Reddit r/leetcode - 2026 Interview Prep](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep)
+[^reddit-langchain-rejected]: [Reddit r/LocalLLaMA - Rejected for Not Using LangChain](https://www.reddit.com/r/LocalLLaMA/comments/1ow3anq/rejected_for_not_using_langchainlanggraph/)
+[^reddit-datascience-2025]: [Reddit r/datascience - State of Interviewing 2025](https://www.reddit.com/r/datascience/comments/1p1dklk/state_of_interviewing_2025_heres_how_tech/)
+[^eightfold-internship]: [Inside Eightfold AI's Internship Process](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
+[^reddit-eightfold]: [Reddit r/developersIndia - Eightfold AI](https://www.reddit.com/r/developersIndia/comments/1pbaj11/need_advice_for_eightfoldai_agentic_ai_engineer)
+[^exponent-openai]: [Exponent: What It's Like to Interview at OpenAI](https://medium.com/exponent/what-its-actually-like-to-interview-at-openai-in-2026-03a646c9436c)
+[^promptlayer]: [PromptLayer: The Agentic System Design Interview](https://blog.promptlayer.com/the-agentic-system-design-interview-how-to-evaluate-ai-engineers/)
+[^reddit-csmajors-msft]: [Reddit r/csMajors - Microsoft SWE Applied AI/ML](https://www.reddit.com/r/csMajors/comments/1nqfzhq/microsoft_swe_applied_aiml_summer_2026_redmond)
+[^exponent-claude-code]: [Exponent: AI-Assisted Coding Interview](https://www.youtube.com/watch?v=C6CdzcU7I18)
+[^interviewnode]: [InterviewNode: GenAI System Design Patterns](https://www.interviewnode.com/post/generative-ai-system-design-interview-patterns-you-should-know)
+[^reddit-datascience-llm-hype]: [Reddit r/datascience - Failed Interviewee for LLM Hype](https://www.reddit.com/r/datascience/comments/15t69mt/failed_an_interviewee_because_they_wouldnt_shut/)
+[^reddit-developpeurs]: [Reddit r/developpeurs - Build a Complete LLM Agent](https://www.reddit.com/r/developpeurs/comments/1m84v47/on_ma_demand%C3%A9_de_construire_un_agent_llm_complet/)
+[^reddit-expdevs-takehome]: [Reddit r/ExperiencedDevs - Take-Home Assignment Scope](https://www.reddit.com/r/ExperiencedDevs/comments/1nyzx77/is_this_type_of_takehome_assignment_becoming_the/)
+[^yuan-meng]: [Yuan Meng: MLE Interviews 2.0](https://www.yuan-meng.com/posts/mle_interviews_2.0/)
+[^hn-code-review-1]: [HN: Code Review Interviews](https://news.ycombinator.com/item?id=40363135)
+[^hn-code-review-2]: [HN: Code Review Interviews](https://news.ycombinator.com/item?id=42977039)
+[^hn-code-review-3]: [HN: Pair Programming and Code Review](https://news.ycombinator.com/item?id=43108673)
+[^hn-ai-generated-1]: [HN: Evaluating AI-Generated Code](https://news.ycombinator.com/item?id=42268158)
+[^hn-ai-generated-2]: [HN: AI-Generated Code Review](https://news.ycombinator.com/item?id=42977039)
+[^hn-ai-delta]: [HN: AI Delta Assessment](https://news.ycombinator.com/item?id=46865130)
+[^hn-ai-worse]: [HN: AI in Live Interviews](https://news.ycombinator.com/item?id=42909166)
+[^hn-blindspots]: [HN: BlindSpots Anti-Cheating](https://news.ycombinator.com/item?id=45492686)

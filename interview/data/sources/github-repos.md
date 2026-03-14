@@ -40,10 +40,7 @@ Repos published by companies as part of their hiring process, sorted by date (ne
 - [Validia-AI/recruiting-challenge](https://github.com/Validia-AI/recruiting-challenge) (Aug 2025) - Validia AI recruiting challenge
 - [multiply-ai/multiply-ai-coding-task](https://github.com/multiply-ai/multiply-ai-coding-task) (2025) - conversational interface using Google Gemini API
 - [pupiltree/hiring_challenge_genai](https://github.com/pupiltree/hiring_challenge_genai) (May 2025) - GenAI engineers specializing in image and video
-- [superlinear-ai-challenge/mle-challenge](https://github.com/superlinear-ai-challenge/mle-challenge) (Mar 2025) - MLE/MLD/intern applicants at Superlinear
-- [mykin-ai/ML-coding-challenge-2024](https://github.com/mykin-ai/ML-coding-challenge-2024) (2024) - ML Engineer challenge, 2-4 hours
 - [zweahtet/identifAI-recruiting-challenge](https://github.com/zweahtet/identifAI-recruiting-challenge) (Jun 2024) - IdentifAI recruiting challenge
-- [HyphenAI/challenge-ml-nlp-nlu](https://github.com/HyphenAI/challenge-ml-nlp-nlu) (Feb 2017) - ML NLP/NLU challenge
 
 
 ## Candidate Take-Home Submissions

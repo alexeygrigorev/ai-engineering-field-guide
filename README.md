@@ -14,7 +14,7 @@ My vision for this repo is to become **the** go-to resource for AI engineering. 
 
 It's a work in progress, and I'm actively adding more content. Your input is very welcome - feedback and contributions help shape what goes in here.
 
-**Star** this repo to keep an eye on updates. To get notified about new content, subscribe to my newsletter: [Alexey on Data](https://alexeyondata.substack.com/).
+Star this repo to keep an eye on updates. To get notified about new content, subscribe to my newsletter: [Alexey on Data](https://alexeyondata.substack.com/).
 
 
 ## The AI Engineer Role
@@ -29,28 +29,18 @@ It's a work in progress, and I'm actively adding more content. Your input is ver
 ## Interview Preparation
 
 - [Interview process](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
-- [Theory questions](interview/02-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions
-- [Coding problems](interview/03-coding.md) - coding round formats, DSA problems, ML implementation exercises
-- [Case study questions](interview/04-case-study.md) - hypothetical approach questions, methodology discussions
-- [AI system design](interview/05-ai-system-design.md) - system design for AI applications (work in progress)
-- [Home assignments](interview/06-home-assignments.md) - 17 take-home assignments and 5 paid work trials analyzed in detail
-- [Behavioral questions](interview/07-behavioral.md) - values, leadership, problem-solving (work in progress)
-- [Skills that get you hired](interview/08-get-hired.md) - baseline expectations, differentiators, and portfolio strategy
-- [After the interview](interview/09-after-the-interview.md) - handling offers, rejections, and salary negotiation
-- [Interview trends](interview/10-trends.md) - realistic assessments, AI cheating, AI-proctored rounds, the "no AI tools" irony
+- [Interview questions](interview/02-questions.md) - consolidated from 100+ sources
+  - [Theory](interview/questions/01-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions
+  - [Coding](interview/questions/02-coding.md) - coding round formats, DSA problems, ML implementation exercises
+  - [Project deep dive](interview/questions/03-project-deep-dive.md) - presentation rounds, follow-up probes, what interviewers evaluate
+  - [AI system design](interview/questions/04-ai-system-design.md) - system design for AI applications
+  - [Behavioral](interview/questions/05-behavioral.md) - values, leadership, problem-solving
+  - [Home assignments](interview/questions/06-home-assignments.md) - take-home assignments and paid work trials from 100+ GitHub repos
+- [Skills that get you hired](interview/03-get-hired.md) - baseline expectations, differentiators, and portfolio strategy
+- [After the interview](interview/04-after-the-interview.md) - handling offers, rejections, and salary negotiation
+- [Interview trends](interview/05-trends.md) - realistic assessments, AI cheating, AI-proctored rounds
 - [Company-by-company data](interview/data/) - individual interview process descriptions for 51 companies, linked to source job postings
 
-
-## [Awesome AI Engineering](awesome.md)
-
-Curated collection of resources we compiled while researching content for this field guide:
-
-- Practitioner interview stories - first-hand accounts from candidates at OpenAI, Anthropic, Google, Meta, and 40+ other companies
-- AI system design guides - frameworks, patterns, and prep materials for the new AI-specific interview round
-- Company engineering blogs - how Anthropic, Uber, Airbnb, Perplexity, LinkedIn, DoorDash, Spotify, Shopify, and others build AI systems in production
-- Key practitioner voices - Chip Huyen, Eugene Yan, Hamel Husain, Andrej Karpathy, and more
-- Books and courses - from O'Reilly to free open-source options
-- Case study collections - 1,000+ real ML/LLM system design examples
 
 
 ## Learning Paths
@@ -76,6 +66,19 @@ Curated collection of resources we compiled while researching content for this f
 - [Raw extracted postings](job-market/data_raw/) - original extracted data
 
 
+## [Awesome AI Engineering](awesome.md)
+
+Curated collection of resources we compiled while researching content for this field guide:
+
+- Practitioner interview stories
+- AI system design guides
+- Company engineering blogs
+- Books and courses
+- Case study collections
+
+See [awesome.md](awesome.md) for the list.
+
+
 ## Coming Soon
 
 - Salary analysis and compensation data
@@ -92,6 +95,7 @@ A 4-part event series on AI engineering careers, hosted through [Maven](https://
 4. [Take-Home Assignments](webinars/04-take-home-assignments.md) - analyzing real assignments and building production-ready solutions ([Maven](https://maven.com/p/250595/ai-engineering-take-home-assignments)) - March 9, 2026
 
 Have questions? [Submit them here](https://app.sli.do/event/vJEZ6h5zbFRAzPfrANZxZd) - all questions will be covered during the events or afterwards.
+
 
 
 ## Learn AI Engineering
