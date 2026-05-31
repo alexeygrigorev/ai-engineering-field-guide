@@ -6,7 +6,9 @@ Companies with dedicated AI system design rounds include Doctolib ("AI System De
 
 System design with AI elements is becoming a critical interview component. Interviewers need to understand how a candidate thinks about building services and components with AI interfaces and tooling - including understanding limitations on security, access rights, and the reality that AI systems need to scale significantly (potentially 5-10x compared to current load, to 1000+ nodes).
 
-See also: [Awesome AI Engineering](../awesome.md) for the full collection of references, company blogs, and practitioner stories cited below.
+See also: [Awesome AI Engineering](../../awesome.md) for the full collection of references, company blogs, and practitioner stories cited below.
+
+https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/awesome.md
 
 ## Format
 
