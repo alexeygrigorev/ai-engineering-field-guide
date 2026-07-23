@@ -8,7 +8,7 @@ Webinars and workshops on AI engineering careers, hosted by [Alexey Grigorev](ht
 | 2 | [Defining the AI Engineer Role](02-defining-the-role.md) | Feb 24, 2026 | Recording available |
 | 3 | [The Interview Process](03-the-interview-process.md) | Mar 3, 2026 | Recording available |
 | 4 | [Take-Home Assignments](04-take-home-assignments.md) | Mar 9, 2026 | Recording available |
-| 5 | [Selecting a Portfolio Project: How to Choose What to Build and Start](https://aishippinglabs.com/events/14/selecting-a-portfolio-project-how-to-choose-what-to-build-and-start) | Jun 29, 2026 | Upcoming workshop |
+| 5 | [Selecting a Portfolio Project: How to Choose What to Build and Start](05-selecting-a-portfolio-project.md) | Jun 29, 2026 | Workshop available |
 
 ## About the series
 

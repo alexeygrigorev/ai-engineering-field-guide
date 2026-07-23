@@ -81,7 +81,7 @@ Webinars and workshops on AI engineering careers, hosted through Maven and [AI S
 2. [Defining the AI Engineer Role](webinars/02-defining-the-role.md) - what companies actually hire for, based on 2,400+ job descriptions (Maven) - recording available
 3. [The Interview Process](webinars/03-the-interview-process.md) - real hiring trends, technical questions, and live coding challenges (Maven) - recording available
 4. [Take-Home Assignments](webinars/04-take-home-assignments.md) - analyzing real assignments and building production-ready solutions (Maven) - recording available
-5. [Selecting a Portfolio Project](https://aishippinglabs.com/events/14/selecting-a-portfolio-project-how-to-choose-what-to-build-and-start) - how to choose what to build and scope the first version (AI Shipping Labs, June 29, 2026)
+5. [Selecting a Portfolio Project](webinars/05-selecting-a-portfolio-project.md) - how to choose what to build and scope the first version (AI Shipping Labs, June 29, 2026)
 
 
 
