@@ -191,6 +191,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [Educative: Grokking Generative AI System Design](https://www.educative.io/courses/generative-ai-system-design) - SCALED framework, mock interviews
 - [Lenny's Newsletter: Building Eval Systems](https://www.lennysnewsletter.com/p/building-eval-systems-that-improve-cec) - Shreya Shankar
 - [Lenny's Newsletter: Why AI Evals Are the Hottest New Skill](https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill)
+- [AI Engineering](https://www.systemdesign.academy/ai-engineering) - Roni Das, interactive lessons covering RAG, agents, fine-tuning, evaluation, serving and LLMOps
 
 
 
