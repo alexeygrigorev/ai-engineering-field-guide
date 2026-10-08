@@ -40,3 +40,4 @@ Read in order:
 5. [Present the Project](05-present-the-project.md)
 6. [Common Mistakes](06-common-mistakes.md)
 7. [Project Ideas](07-project-ideas.md)
+8. [Companies and Project Mapping](08-companies.md)

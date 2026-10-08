@@ -1,0 +1,24 @@
+flowchart TD
+  Learner["Learner speaking in LiveKit room"]
+  Frontend["GATE frontend"]
+  LiveKit["LiveKit Cloud room"]
+  Worker["agent-gate LiveKit worker"]
+  Voice["Voice pipeline: STT, LLM, TTS, VAD, turn detection"]
+  Tasks["Assessment TaskGroup: intro, history, purpose"]
+  Transcript["In-memory transcript plus local JSON report"]
+  Backend["GATE backend: PUT /assessment/{session_id}"]
+  BAML["BAML assessment engines"]
+  Results["Typed comprehension, grammar, vocabulary results"]
+
+  Learner <--> LiveKit
+  Frontend <--> LiveKit
+  LiveKit <--> Worker
+  Worker --> Voice
+  Worker --> Tasks
+  Tasks --> Transcript
+  Worker -->|"gate.client text events"| Frontend
+  Frontend -->|"gate.server start_next_task"| Worker
+  Worker -->|"shutdown hook"| Backend
+  Transcript --> BAML
+  BAML --> Results
+

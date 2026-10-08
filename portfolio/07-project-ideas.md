@@ -26,6 +26,80 @@ For each domain:
 6. Build a small version
 7. Add tests, evals, logs, and a clear README
 
+## Project ↔ Company Mapping
+
+Following [Choosing a Portfolio Project: The Definite Guide](https://aishippingblog.com/p/choosing-a-portfolio-project-the), choose projects from problems shared by several target companies rather than optimizing for one company. This is the working map from projects to the canonical [companies page](08-companies.md). The `Interested companies` column is intentionally editable as target companies are added.
+
+| Project area | Related project ideas | Company fit | Why the connection matters | Interested companies |
+|---|---|---|---|---|
+| LLM foundations and model mechanics | 1–26 | Model/platform teams; see [companies page](08-companies.md) | Tokenization, attention, inference, efficiency, training, and post-training fundamentals | — |
+| Serving, evaluation, and production AI | 27–28, 34 | Capital One, Coinbase, Grafana Labs, Cisco | Reliable deployment, CI/CD, health checks, evaluation, latency, cost, and observability | — |
+| Agents, tools, and operational automation | 30, 34 | CrowdStrike, Arctic Wolf, Cisco, Coinbase, Grafana Labs | Tool routing, bounded actions, incident workflows, traces, and human review | — |
+| Finance document intelligence | SEC filing comparison, earnings-call risk extractor, analyst research assistant | Capital One, Wells Fargo, BlackRock | Grounded answers, structured extraction, citation quality, and auditability | — |
+| Healthcare and insurance workflows | Claims Q&A, medical policy search, patient-message triage | Optum, GE HealthCare, Commure | Safe retrieval, routing, structured outputs, and refusal behavior | — |
+| Legal and regulatory review | Risky-clause reviewer, compliance checker, regulation monitor | Thomson Reuters, Wolters Kluwer, Diligent | High-stakes document review, evidence, human approval, and traceability | — |
+| Security operations | Alert summarizer, incident triage assistant, playbook retrieval | CrowdStrike, Arctic Wolf, Cisco | Classification, enrichment, playbook retrieval, and response automation | — |
+| Developer tools | Duplicate issue detector, PR reviewer, engineering-doc search | JetBrains, Grafana Labs, Coinbase | Code-aware retrieval, GitHub/API tools, structured review, and permissions | — |
+| Marketplace and e-commerce | Listing generator, catalog enrichment, search evaluator | Airbnb, eBay, Toast | Multimodal extraction, validation, ranking, and recommendation quality | — |
+| Production FAQ assistant | Applied extension below | Any company with support, internal knowledge, or community operations | Data curation, retrieval/generation evals, fresh indexes, serverless delivery, and feedback loops | — |
+
+## LLM Engineering Foundations
+
+These projects are adapted from Ahmad Osman’s *Step-By-Step LLM Engineering Projects (2026 Edition)*. Work through them in order where possible. For each project: build the primitive, plot its behavior, break it with an ablation, explain what changed, and ship a small reproducible artifact.
+
+References:
+
+- [Build and Ship a Full-Stack App with AI Coding Assistants](https://aishippingblog.com/p/build-and-ship-a-full-stack-app-with) — Part 2 of the AI Dev Tools Zoomcamp: specification-first development, mocked boundaries, OpenAPI contracts, layered tests, and persistent state.
+- [Deploy a Full-Stack App with AI Coding Assistants](https://aishippingblog.com/p/deploy-a-full-stack-app-with-ai-coding) — Part 3: containerization, Postgres and Docker Compose, integration and end-to-end tests, AWS deployment, and GitHub Actions CI/CD.
+- [DevOps and Observability for an AI-Built App](https://aishippingblog.com/p/devops-and-observability-for-an-ai) — Part 4: dev/prod promotion, immutable image releases, OpenTelemetry, metrics/logs/traces, alerting, and an on-call agent loop.
+
+1. Build a tokenizer from scratch
+2. Compare one-hot vectors, learned embeddings, and semantic geometry
+3. Implement sinusoidal, learned, RoPE, and ALiBi positional methods
+4. Hand-wire scaled dot-product attention for one token
+5. Scale attention to multi-head attention
+6. Build a single Transformer decoder block
+7. Stack blocks into a mini-former
+8. Compare causal LM, masked LM, prefix LM, and denoising objectives
+9. Build a sampling dashboard
+10. Implement speculative decoding
+11. Build a KV cache
+12. Implement MQA, GQA, and study MLA
+13. Build sliding-window attention and attention-sink experiments
+14. Extend context with RoPE scaling, YaRN-style interpolation, and memory mechanisms
+15. Compare naive attention, PyTorch SDPA, and FlashAttention
+16. Measure FLOPs, bandwidth, memory, and precision trade-offs
+17. Build a two-expert router
+18. Reproduce modern sparse-model trade-offs
+19. Implement a toy state-space or linear-attention model
+20. Build a diffusion-style language-model toy
+21. Build a pretraining data pipeline
+22. Generate, filter, and evaluate synthetic data
+23. Train tiny, small, and medium models and fit scaling curves
+24. Fine-tune, instruction-tune, and preference-tune a model
+25. Build a toy RLHF, PPO, GRPO, and RLVR lab
+26. Quantize a model and measure the damage
+27. Serve the same model through multiple inference stacks — borrow the deployment progression from [Part 3](https://aishippingblog.com/p/deploy-a-full-stack-app-with-ai-coding): containerize the service, run it with a production database, add health checks, and compare stacks under CI/CD.
+28. Build an evaluation harness — use the testing discipline from [Part 2](https://aishippingblog.com/p/build-and-ship-a-full-stack-app-with) and [Part 3](https://aishippingblog.com/p/deploy-a-full-stack-app-with-ai-coding): define the contract first, then run unit, integration, end-to-end, and deployment-health checks as one reproducible evaluation pipeline.
+29. Build retrieval-augmented generation from scratch
+30. Build tool use and agent loops — extend the on-call pattern from [Part 4](https://aishippingblog.com/p/devops-and-observability-for-an-ai): let an agent inspect alerts, logs, metrics, traces, and code, make only a bounded fix, run verification, and save an auditable session log.
+31. Build a tiny vision-language adapter
+32. Study circuits, probes, and sparse autoencoders
+33. Build a red-team and safety evaluation suite
+34. Train, tune, quantize, serve, evaluate, and document one complete small LLM system — use [Part 2](https://aishippingblog.com/p/build-and-ship-a-full-stack-app-with) for the specification and application layers, [Part 3](https://aishippingblog.com/p/deploy-a-full-stack-app-with-ai-coding) for deployment and CI/CD, and [Part 4](https://aishippingblog.com/p/devops-and-observability-for-an-ai) for production promotion, observability, alerting, and incident response.
+
+### Applied Extension: Production FAQ Assistant
+
+Build a Slack- or web-based FAQ assistant over a curated dataset, documentation, and course or repository content. Treat it as an end-to-end application of projects 21, 28, 29, and 30:
+
+- ingest questions from issues, chat threads, and other sources into a reviewed FAQ dataset
+- detect duplicates with text or vector search, query rewriting, reciprocal-rank fusion, and optional reranking
+- evaluate retrieval separately from answer generation using recall@k, MRR, held-out cases, and real user corrections
+- rebuild and deploy a lightweight index when the source data changes, with a serverless or low-dependency runtime
+- connect the assistant to Slack or another tool interface with bounded actions, feedback capture, and auditable traces
+
+Reference: [(Re)Building a FAQ System for DataTalks.Club](https://aishippingblog.com/p/rebuilding-a-faq-system-for-datatalksclub) — a practical example of curation over complexity, retrieval and generation evaluations, index freshness, serverless deployment, and feedback-driven improvement.
+
 ## Finance
 
 Companies and sources:

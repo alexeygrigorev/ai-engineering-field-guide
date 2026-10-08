@@ -46,7 +46,8 @@ jobs/*.html
 jobs/raw
 **/*.pkl
 **/*.parquet
-
 # Work in progress
 /_work-in-progress/
 .tmp/
+# Personal job-search data - never commit
+job-search/

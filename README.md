@@ -20,6 +20,7 @@ Star this repo to keep an eye on updates. To get notified about new content, sub
 
 ## Interview Preparation
 
+- [Interview preparation hub](interview/preparation/) - one entry point connecting the curriculum, AI Engineering from Scratch, the system-design question bank, job-market evidence, and project-backed practice
 - [Interview process](interview/01-interview-process.md) - common patterns, step counts, time estimates, AI use in hiring, key takeaways
 - [Interview questions](interview/02-questions.md) - consolidated from 100+ sources
   - [Theory](interview/questions/01-theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions

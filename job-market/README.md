@@ -12,6 +12,24 @@ For analysis and insights based on this data, see [role/](../role/).
 - [_internal/](_internal/) - scraping scripts, processing scripts, and `_internal/data/` for pipeline CSVs
 - [_internal/eval/](_internal/eval/) - how I check the LLM extraction is accurate, and what the last check found
 
+## Startup Intros Company Shortlist
+
+Run this periodically to refresh well-funded AI companies with evidence of traction:
+
+```bash
+cd ai-engineering-field-guide/job-market
+uv run python _internal/find_startupintros_ai_companies.py
+```
+
+To enrich profile text through Firecrawl's rendered markdown scrape, put `FIRECRAWL_API_KEY` in `job-market/.env` and pass `--use-firecrawl`:
+
+```bash
+cd ai-engineering-field-guide/job-market
+uv run python _internal/find_startupintros_ai_companies.py --use-firecrawl
+```
+
+The script searches Startup Intros, filters out companies below $8M disclosed funding, very new companies, weak AI-product matches, investor/fund profiles, inactive/acquired targets, and companies without concrete traction evidence. Outputs are written to `_internal/data/startupintros/YYYY-MM-DD/` and copied to `_internal/data/startupintros/latest/`.
+
 ## Highlights
 
 - 4,874 jobs (70.0%) are AI-First (RAG, agents, LLMs)

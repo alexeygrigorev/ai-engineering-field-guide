@@ -1,0 +1,31 @@
+sequenceDiagram
+  participant F as Frontend
+  participant LK as LiveKit Room
+  participant W as agent-gate Worker
+  participant A as EnglishAssessmentAgent
+  participant B as GATE Backend
+
+  F->>LK: Join tutor session room
+  W->>LK: ctx.connect()
+  W->>W: Derive session_id from room name
+  W->>W: Create transcript with session_started
+  W->>A: session.start(agent=EnglishAssessmentAgent)
+  A-->>F: gate.client assessment_metadata
+  A->>LK: Ask intro question over audio
+  LK-->>W: conversation_item_added events
+  W->>W: Append assistant/user transcript entries
+  A->>A: intro_complete tool call
+  A-->>F: gate.client next_question_data(history)
+  F-->>W: gate.server start_next_task
+  A->>LK: Ask history question
+  A->>A: history_complete tool call
+  A-->>F: gate.client next_question_data(purpose)
+  F-->>W: gate.server start_next_task
+  A->>LK: Ask purpose question
+  A->>A: purpose_complete tool call
+  A-->>F: gate.client assessment_completed
+  A->>A: end_assessment tool call
+  W->>W: shutdown_hook appends session_ended
+  W->>B: PUT /assessment/{session_id}
+  W->>LK: Delete room
+

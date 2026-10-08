@@ -1,0 +1,26 @@
+flowchart TD
+  Transcript["Conversation transcript"]
+  Comprehension["EvaluateTranscriptComprehension"]
+  CResult["Comprehension result: C01, C02, C03, C04, PENDING"]
+  GrammarGate{"C01 or C02?"}
+  VocabularyGate{"C01 or C02?"}
+  Grammar["EvaluateTranscriptGrammar"]
+  Vocabulary["EvaluateTranscriptVocabulary"]
+  SuppressGrammar["Suppress grammar evaluation"]
+  SuppressVocabulary["Suppress vocabulary evaluation"]
+  Assessment["Structured assessment output"]
+
+  Transcript --> Comprehension --> CResult
+  CResult --> GrammarGate
+  CResult --> VocabularyGate
+  Transcript --> Grammar
+  Transcript --> Vocabulary
+  GrammarGate -->|"yes"| Grammar
+  GrammarGate -->|"no"| SuppressGrammar
+  VocabularyGate -->|"yes"| Vocabulary
+  VocabularyGate -->|"no"| SuppressVocabulary
+  Grammar --> Assessment
+  Vocabulary --> Assessment
+  SuppressGrammar --> Assessment
+  SuppressVocabulary --> Assessment
+

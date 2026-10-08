@@ -1,0 +1,25 @@
+stateDiagram-v2
+  [*] --> SessionStarted
+  SessionStarted --> IntroActive : agent enters TaskGroup
+  IntroActive --> IntroComplete : intro_complete tool
+  IntroComplete --> WaitingForHistory : send next_question_data(history)
+  WaitingForHistory --> HistoryActive : frontend start_next_task
+  HistoryActive --> HistoryComplete : history_complete tool
+  HistoryComplete --> WaitingForPurpose : send next_question_data(purpose)
+  WaitingForPurpose --> PurposeActive : frontend start_next_task
+  PurposeActive --> PurposeComplete : purpose_complete tool
+  PurposeComplete --> AssessmentCompleted : TaskGroup complete
+  AssessmentCompleted --> GoodbyeActive : generate final reply
+  GoodbyeActive --> AgentHungUp : end_assessment tool
+  AgentHungUp --> Shutdown : session shutdown
+  Shutdown --> Persisted : PUT transcript to backend
+  Persisted --> RoomDeleted : delete LiveKit room
+  RoomDeleted --> [*]
+
+  SessionStarted --> Shutdown : error or early disconnect
+  IntroActive --> Shutdown : error or early disconnect
+  WaitingForHistory --> Shutdown : user leaves
+  HistoryActive --> Shutdown : error or early disconnect
+  WaitingForPurpose --> Shutdown : user leaves
+  PurposeActive --> Shutdown : error or early disconnect
+
