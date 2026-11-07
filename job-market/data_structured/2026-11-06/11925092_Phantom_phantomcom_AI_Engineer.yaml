@@ -1,0 +1,51 @@
+company:
+  name: Phantom (phantom.com)
+  stage: Series C backed by a16z, Sequoia Capital and Paradigm
+  focus: Crypto self-custody wallet and global trading app
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: building AI agents,
+      prompt engineering, RAG, tool calling, and LLM orchestration
+      for internal workflows. LLM-centric work with no classical
+      ML focus, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-powered tools, agents, and automation for internal
+    workflows
+  - Integrate LLMs with internal systems, APIs, and enterprise tools
+  - Build and maintain AI infrastructure and reusable frameworks for scale
+  - Partner with stakeholders to identify AI opportunities and translate business
+    needs into technical solutions
+  - Implement security, monitoring, observability, and safeguards for AI solutions
+  - Monitor model performance, usage, and costs and optimize efficiency and quality
+  - Evaluate emerging AI models and frameworks and bring new capabilities into the
+    organization
+  use_cases:
+  - Internal AI-powered workflow automation
+  - AI agents integrated with enterprise tools and internal systems
+  - Reusable internal AI platform and framework for company-wide adoption
+  - LLM monitoring, evaluation, and cost optimization
+  - AI governance with security and access controls
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, AI Agents, RAG, Function Calling, Structured
+        Outputs, Prompt Engineering, LangChain, LangGraph, MCP, Claude Agent SDK]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11925092'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:58:54.461955'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

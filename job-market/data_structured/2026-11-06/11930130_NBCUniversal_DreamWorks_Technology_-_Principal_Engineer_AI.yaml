@@ -1,0 +1,58 @@
+company:
+  name: NBCUniversal
+  stage: null
+  focus: Animated films and series production studio
+position:
+  title: DreamWorks Technology - Principal Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns AI-powered agentic architectures,
+      evaluates/selects foundation models, integrates and tunes
+      LLMs, and builds AI components and workflows — clearly
+      shaping model behaviour via LLM/agent systems. Agent/LLM
+      focus makes it ai-first.
+  responsibilities:
+  - Design and own architecture for AI-powered agentic frameworks and automation across
+    the studio pipeline
+  - Advise on next-generation AI-assisted agentic workflows strategy with product
+    owners, developers and creatives
+  - Evaluate and select AI frameworks, foundation models, and automation technologies
+  - 'Prototype solutions for high-friction tasks: asset tagging, scene prep, render
+    queue management, shot setup, versioning'
+  - Write, test, and deploy production-ready tools inside active show pipelines and
+    maintain them from artist feedback
+  - Define end-to-end architecture for ingestion, processing, and routing of operational
+    telemetry
+  - Define technical standards and integration patterns for AI tooling; build reusable
+    AI component libraries
+  - Drive adoption of AI tools across technical and creative departments and report
+    impact metrics to leadership
+  use_cases:
+  - Automation of repetitive animation production tasks (asset tagging, scene prep,
+    shot setup, versioning)
+  - Render queue management automation
+  - AI-assisted creative production pipelines in an animation studio
+  - Operational telemetry ingestion, processing, and routing
+  - Integration of AI tooling with DCC software in show pipelines
+  skills:
+    genai: [LangGraph, Spring AI, MCP, Agentic Workflows, LLMs, Fine-Tuning, Prompt
+        Engineering, AI Agents]
+    ml: [Model Evaluation]
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [USD, Autodesk Flow Production Tracking, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11930130'
+  location: Glendale, USA
+  remote: true
+  extracted_at: '2026-11-06T14:00:14.168733'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

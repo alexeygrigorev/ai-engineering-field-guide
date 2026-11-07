@@ -1,0 +1,50 @@
+company:
+  name: arketa
+  stage: Series A
+  focus: |-
+    All-in-one operating platform for fitness and wellness
+    studios
+position:
+  title: Staff Software Engineer, AI & Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds customer-facing AI products and agentic
+      loops, evals, and automation, directly shaping model
+      behavior and agent workflows — not merely consuming AI APIs
+      or using coding assistants. LLM/agent components dominate,
+      so it's ai-first.
+  responsibilities:
+  - Build customer-facing AI products that automate studio operations
+  - Build agentic loops improving the product, codebase, and internal systems
+  - Modernize core architecture and simplify infrastructure for humans and agents
+  - 'Improve operational rigor: observability, alerting, and incident response in
+    production'
+  - Ship full-stack features across TypeScript, Node, NestJS, React, and Postgres
+  - Mentor mid and junior engineers and set patterns with engineering leadership
+  - Establish CI and automated safety nets to enable fast shipping
+  use_cases:
+  - Automating operational work for fitness and wellness studio owners
+  - Agentic loops that improve product, codebase, and internal systems
+  - Automated marketing, bookings, and payments for hybrid wellness businesses
+  - On-demand video libraries and branded apps for studios
+  - 'Production reliability: issue detection, alerting, and response'
+  skills:
+    genai: [Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [NestJS, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring]
+    languages: [TypeScript, JavaScript, Node.js]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10682838'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:21:12.602509'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

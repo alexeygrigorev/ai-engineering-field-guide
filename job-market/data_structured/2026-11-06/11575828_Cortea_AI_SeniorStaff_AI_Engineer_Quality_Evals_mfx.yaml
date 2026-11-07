@@ -1,0 +1,54 @@
+company:
+  name: Cortea AI
+  stage: Early-stage startup backed by top-tier VCs with >15m EUR funding
+  focus: AI-powered software and agents for audits
+position:
+  title: Senior/Staff AI Engineer, Quality & Evals (m/f/x)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation systems and quality gates for LLM
+      agents, including LLM-as-judge, human review, and testing
+      prompt/context/model changes before production. Building
+      evals and output-quality monitoring is shaping model
+      behaviour, and the targets are LLM agents, so it's ai-first.
+  responsibilities:
+  - Build online and offline evaluation systems for LLM agents using golden datasets,
+    ground-truth data, human review workflows, and experiment results
+  - Create automated quality gates for testing changes to prompts, context, models,
+    or agent logic before production
+  - Analyze agent traces and executions in analytical databases to identify failure
+    modes, quality regressions, latency issues, and cost optimization opportunities
+  - Build data retention and replay mechanisms for long-term analysis of production
+    agent behavior
+  - Manage observability tooling for tracing, monitoring, debugging, and experiment
+    management of audit agents
+  - Collaborate with backend engineers to improve speed and reliability of retrieval
+    and reasoning agents
+  - Design data architecture and backend systems supporting multimodal agentic pipelines
+  use_cases:
+  - Evaluation and observability for production LLM agents in audit workflows
+  - Automated quality gating of prompt, context, model, and agent logic changes
+  - Multimodal retrieval agents for document-heavy audit automation
+  - Trace analysis and quality/cost optimization of production agents
+  - Long-term replay and analysis of production agent behavior
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [GCP]
+    data: [Data Pipelines]
+    ml: []
+    databases: [BigQuery, ClickHouse, Data Warehouses]
+    genai: [LLMs, AI Agents, Agentic Workflows, LLM Evaluation, Prompt Engineering,
+      RAG, Multi-Agent Systems]
+    ops: [MLflow, Langfuse, Weights & Biases, Observability, Monitoring, System Design]
+    other: [Temporal, Braintrust]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11575828'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:14:30.154641'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

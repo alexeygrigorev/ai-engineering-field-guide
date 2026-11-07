@@ -1,0 +1,60 @@
+company:
+  name: Armanino LLP
+  stage: null
+  focus: Accounting, tax, and business consulting services
+position:
+  title: Senior Data & AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a cloud data/analytics platform engineering role
+      (Fabric, Snowflake, Databricks, Power BI, CI/CD,
+      governance). AI/ML/GenAI experience is listed only as a
+      "strong plus", and no responsibility involves shaping model
+      behaviour, prompts, or retrieval. Per the edge-case rules,
+      AI named as a bonus makes this ai-support.
+  responsibilities:
+  - Own design and day-to-day operation of cloud data platforms including workspace
+    architecture, access models, capacity planning, and troubleshooting
+  - Define and enforce platform standards for naming, tagging, cost management, and
+    environment separation
+  - Design and own CI/CD workflows for data and analytics assets including branching,
+    promotion, approvals, and rollback
+  - Serve as technical authority across a core platform (Fabric, Snowflake, or Databricks)
+    and a BI tool (Power BI or Tableau)
+  - Lead onboarding and enablement for engineering and client teams with reusable
+    patterns and guardrails
+  - 'Own platform reliability: monitoring, alerting, SLOs, incident response, and
+    runbook maintenance'
+  - Define and enforce least-privilege access, secure secret handling, PII handling,
+    and row-/column-level security
+  - Review other engineers' work for security and governance before it reaches clients
+  use_cases:
+  - Cloud data and analytics platform operations for accounting and consulting engagements
+  - BI delivery infrastructure and reporting for clients
+  - Governed, secure data environments handling PII for firm and client policy
+  - Automated deployment of data pipelines, semantic models, and reports
+  skills:
+    genai: []
+    ml: [Model Lifecycle]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, Data Pipelines, Data Modeling]
+    cloud: [Azure, Azure OpenAI]
+    ops: [CI/CD, Git, Monitoring, MLOps]
+    languages: [Python, PowerShell, SQL]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11528573'
+  location: Irvine, USA
+  locations:
+  - Irvine, USA
+  - Pasadena, USA
+  - El Segundo, USA
+  - Woodland Hills, USA
+  extracted_at: '2026-11-06T12:06:03.262984'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

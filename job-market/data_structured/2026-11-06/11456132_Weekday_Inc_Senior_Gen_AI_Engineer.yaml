@@ -1,0 +1,49 @@
+company:
+  name: Weekday, Inc.
+  stage: null
+  focus: Staffing/recruiting platform placing engineers with clients
+position:
+  title: Senior Gen AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the 'Gen AI Engineer' title, the responsibilities
+      are pure data engineering: building pipelines, data models,
+      and platforms that support analytics and AI-driven use
+      cases. The person never shapes model behaviour through
+      prompts, retrieval, fine-tuning, or evals; AI is a
+      downstream consumer of their data plumbing.
+  responsibilities:
+  - Design, develop, and maintain scalable data engineering and analytics solutions
+  - Build reliable batch and real-time data pipelines
+  - Develop data platforms and workflows using Databricks and cloud technologies
+  - Design data models and optimise data processing for performance and scalability
+  - Integrate structured and unstructured data from multiple sources
+  - Implement data quality, validation, monitoring, and governance practices
+  - Troubleshoot and optimise data pipelines, architectures, and workflows
+  - Support deployment, monitoring, and maintenance of data solutions in production
+  use_cases:
+  - Analytics and business intelligence platforms
+  - Batch and real-time data processing
+  - Data platforms supporting AI-driven applications
+  - Data integration from structured and unstructured sources
+  skills:
+    languages: [Python, SQL, Scala, Java]
+    domains: []
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: [Databricks, Data Pipelines, Data Modeling, Data Engineering, Data Governance]
+    ml: [Machine Learning]
+    databases: [Relational Databases, NoSQL]
+    genai: []
+    ops: []
+    other: [Business Intelligence, Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11456132'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:53:22.186563'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

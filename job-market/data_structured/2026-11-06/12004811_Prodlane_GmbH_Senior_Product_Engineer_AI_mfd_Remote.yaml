@@ -1,0 +1,50 @@
+company:
+  name: Prodlane GmbH
+  stage: null
+  focus: AI platform for enterprise internal data search and agents
+position:
+  title: (Senior) Product Engineer – AI (m/f/d) – Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds a GenAI platform with agent systems, RAG
+      pipelines, and agentic workflows, and shapes how users work
+      with agents — clearly shaping LLM/agent behaviour (prompts,
+      retrieval, agent flows, evals). So it is ai-first.
+  responsibilities:
+  - Own features end-to-end from customer conversations and concept work to implementation
+    and production improvement
+  - Talk to users, join customer meetings and analyse usage data to find where MAIA
+    helps most
+  - Write concepts, build prototypes and slice features for early user delivery
+  - Implement across the full stack, letting coding agents execute plans while owning
+    architecture and quality
+  - 'Shape AI interaction patterns: asking questions, providing context, multi-step
+    agent tasks and tracking results'
+  - Measure feature impact after release using feedback, usage data and evals, and
+    iterate
+  use_cases:
+  - Searching internal company data with AI
+  - Embedding agents into enterprise processes
+  - Agent-based workflows connected to customers' external systems
+  - Making top LLMs reliable for large, complex enterprise datasets
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, Coding Agents, Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12004811'
+  location: Berlin, DEU
+  remote: true
+  extracted_at: '2026-11-06T14:24:38.286798'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

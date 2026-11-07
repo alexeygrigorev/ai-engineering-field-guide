@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-enabled customer
+    experiences
+position:
+  title: AI Engineer 5 (MLXT)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI systems including agents,
+      multi-agent workflows, guardrails, model evaluation, LLM
+      inference, and multi-model orchestration with LLMs - clearly
+      shaping model behavior and output quality, with LLM/agent
+      components central, so ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, multi-agent workflows, similarity search,
+    guardrails, model evaluation, governance, and observability
+  - Invent and apply foundation model optimization techniques to improve performance
+    of large-scale production AI systems
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Establish and lead cost-performance governance reviews across AI systems
+  - Lead team design councils and design review boards for AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized customer banking experiences
+  - Fraud detection via unusual charge notifications
+  - AI assistants answering customer questions in real time
+  - Multi-agent AI systems that change how associates work and customers interact
+    with the bank
+  - Scalable, high-performance AI infrastructure serving millions of customers
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Inference]
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, Fine-Tuning]
+    web: []
+    databases: [Vector Search, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, CUDA, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11424571'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:48:40.495275'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

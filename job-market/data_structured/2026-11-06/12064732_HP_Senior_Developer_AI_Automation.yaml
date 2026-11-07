@@ -1,0 +1,55 @@
+company:
+  name: HP
+  stage: null
+  focus: Technology company producing hardware and software
+position:
+  title: Senior Developer AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops AI applications, intelligent
+      agents, and agentic workflows using generative AI, prompt
+      engineering, and RAG, which directly shapes model behavior
+      and output quality (including AI evaluation). LLM/agent
+      components are involved, so it is ai-first.
+  responsibilities:
+  - Design and develop AI applications, intelligent agents, RPA bots, and end-to-end
+    automation workflows
+  - Implement solutions using generative AI, document understanding, information extraction,
+    and business rules
+  - Integrate solutions with enterprise applications, APIs, databases, and other data
+    sources
+  - Deploy and support solutions on cloud platforms including application infrastructure
+    and configuration
+  - Implement testing, AI evaluation, CI/CD, logging, and monitoring for production
+    reliability
+  - Troubleshoot issues and improve solution accuracy, performance, scalability, and
+    cost
+  - Apply security, data privacy, access control, and software engineering standards
+  - Conduct code reviews, maintain documentation, and mentor developers
+  use_cases:
+  - AI-powered business process automation
+  - Intelligent agents and RPA bots for enterprise workflows
+  - Document understanding and information extraction from business documents
+  - Generative AI solutions integrated with enterprise applications
+  - Human-in-the-loop workflow automation with exception handling
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Prompt Engineering, RAG, AI Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Infrastructure as Code, Monitoring]
+    languages: [Python, Java, C#, SQL]
+    domains: []
+    other: [RPA, Workflow Orchestration, Document Understanding, Information Extraction,
+      Enterprise Integration, Networking, Access Management, Security, Data Privacy]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064732'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:52.238354'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

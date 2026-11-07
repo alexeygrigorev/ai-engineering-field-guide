@@ -1,0 +1,50 @@
+company:
+  name: Workiy
+  stage: null
+  focus: IT consulting and staffing services
+position:
+  title: Agentic AI / Python Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows, tool/function calling, RAG,
+      and LLM integration directly, which is shaping model
+      behavior. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable Python applications and backend services
+  - Develop Agentic AI solutions involving autonomous agents, intelligent workflows,
+    and multi-agent systems
+  - Integrate Large Language Models (LLMs) into applications and business processes
+  - Build AI agent workflows involving tool calling, function calling, and external
+    API integrations
+  - Design and implement RESTful APIs and backend services using Python
+  - Implement Retrieval-Augmented Generation (RAG) solutions where applicable
+  - Support integration, testing, deployment, and optimization of AI applications
+  use_cases:
+  - Autonomous AI agents and intelligent workflows
+  - Multi-agent AI systems
+  - LLM integration into business applications and processes
+  - Tool calling and external API integrations for AI agents
+  - Retrieval-Augmented Generation (RAG) for knowledge-enhanced applications
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, LLMs, Function Calling,
+      RAG, Generative AI, LangGraph, LangChain, CrewAI, AutoGen, Embeddings, Semantic
+        Search, OpenAI API, Anthropic API, Azure OpenAI, LLM Evaluation, Prompt Engineering]
+    ml: []
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, Vertex AI]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11724076'
+  location: Chennai, IND
+  remote: true
+  extracted_at: '2026-11-06T12:43:13.005189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

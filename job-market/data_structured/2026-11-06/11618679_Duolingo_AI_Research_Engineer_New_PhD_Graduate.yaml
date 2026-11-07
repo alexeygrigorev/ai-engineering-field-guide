@@ -1,0 +1,44 @@
+company:
+  name: Duolingo
+  stage: null
+  focus: Language-learning education app
+position:
+  title: AI Research Engineer, New PhD Graduate
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description gives no concrete responsibilities about
+      what the research engineer builds — no mention of training
+      models, prompts, retrieval, or serving. "Solve our most
+      ambitious problems with the right tool" and a PhD
+      requirement are too vague to apply Step 1, so the role is
+      unknown.
+  responsibilities:
+  - Solve ambitious research problems with the right tool for the task
+  - Collaborate cross-functionally to bring ideas into the product
+  - Identify problems, prototype solutions, evaluate ROI, and implement solutions
+    at scale
+  - Share findings internally and with the broader research community
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11618679'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Pittsburgh, USA
+  extracted_at: '2026-11-06T12:22:43.980121'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

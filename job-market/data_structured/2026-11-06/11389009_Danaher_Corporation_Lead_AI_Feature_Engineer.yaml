@@ -1,0 +1,51 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: Life sciences and diagnostics conglomerate
+position:
+  title: Lead AI Feature Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on feature engineering, feature selection,
+      and predictive modelling for classical ML solutions
+      (gradient boosting, ensemble methods, forecasting) with no
+      LLM, prompt, or agent component. The person shapes model
+      behaviour through feature development and model performance
+      optimization, so this is ml-first.
+  responsibilities:
+  - Discover, develop and maintain high-quality features from enterprise, scientific,
+    laboratory and instrument data
+  - Design and execute data exploration, feature engineering and feature-selection
+    experiments to maximise model performance
+  - Build reusable feature data products, feature stores and feature generation pipelines
+  - Establish best practices for feature quality, lineage, monitoring and lifecycle
+    management
+  - Partner with Data Scientists, AI Engineers, Product Owners and Architects to translate
+    business and scientific challenges into scalable feature assets
+  use_cases:
+  - Predictive analytics over enterprise, scientific, laboratory and instrument data
+  - Reusable feature data products powering ML and AI solutions across operating companies
+  - Model performance, explainability and reliability improvement through feature
+    quality
+  skills:
+    genai: []
+    ml: [Machine Learning, Feature Engineering, Predictive Modelling, Dimensionality
+        Reduction, Statistical Analysis, Gradient Boosting, Ensemble Methods, Bayesian
+        Modelling, Optimization Algorithms, Forecasting, Feature Stores]
+    web: []
+    databases: []
+    data: [Data Science, Data Pipelines]
+    cloud: [Cloud Environments]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389009'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:39:47.715584'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Synthlane Technologies
+  stage: null
+  focus: AI solutions built on Google Cloud for partners
+position:
+  title: Google Cloud AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI solutions end to end on Google Cloud,
+      judging output quality with real evaluations and turning AI
+      demos into production systems, which is shaping model
+      behavior. Given the AI-solutions focus on client data, an
+      LLM component is strongly implied by production AI work.
+  responsibilities:
+  - Design, build and run AI systems end to end on Google Cloud
+  - Take AI systems from prototype to reliable production
+  - Measure output quality with real evaluations and data-driven judgment
+  - Write clean, tested Python
+  - Keep data and models within security and network boundaries
+  - Explain AI trade-offs to clients and own outcomes
+  use_cases:
+  - Production AI systems on client data
+  - Secure enterprise AI deployments on Google Cloud
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [GCP, Vertex AI]
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: []
+    ops: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11763822'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:08:49.656704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,62 @@
+company:
+  name: Salesforce
+  stage: null
+  focus: Enterprise cloud CRM and AI agent platform
+position:
+  title: Enterprise Application Engineer (Enterprise Security - Security AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role threat-models, penetration-tests, and red-teams
+      LLMs and agentic systems (prompt injection, agent privilege
+      escalation, model supply chain), and builds tools for secure
+      AI use — that is directly shaping and evaluating model
+      behaviour and guardrails, which maps to ai-first. AI
+      security oversight without building protections would be ai-
+      support, but here the engineer designs mitigations and tools
+      themselves.
+  responsibilities:
+  - Conduct security assessments of emerging AI technologies including architecture/design
+    reviews, code reviews, and penetration tests
+  - Threat model attacker methods to develop mitigations balancing security and functionality
+  - Collaborate with engineering and business partners on secure development lifecycle
+    and security standards
+  - Research emerging threats and vulnerabilities to inform strategic planning
+  - Build tools to enable secure use of AI at scale
+  - Develop automated processes and tooling to identify and solve security problems
+    at scale
+  use_cases:
+  - Securing AI tooling and agent deployments at enterprise scale
+  - Preventing prompt injection, data exfiltration, and privilege escalation in AI
+    agents
+  - Mitigating model supply chain security risks
+  - Security review and penetration testing of RAG and generative AI pipelines
+  - Defining security standards for the AI secure development lifecycle
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Injection, RAG]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Penetration Testing, Application Security, Threat Modeling, OWASP Top
+        10, MITRE ATT&CK, ISO 27001, SOC 2, PCI DSS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892131'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Austin, USA
+  - McLean, USA
+  - New York, USA
+  - Seattle, USA
+  - Bellevue, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:43:34.556183'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

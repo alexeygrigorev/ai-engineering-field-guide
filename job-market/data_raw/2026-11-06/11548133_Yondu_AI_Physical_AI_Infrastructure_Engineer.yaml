@@ -1,0 +1,101 @@
+job_id: 11548133
+title: Physical AI Infrastructure Engineer
+company: Yondu AI
+location: Gardena, USA
+work_type: FULL_TIME
+description: |
+  Yondu builds software that turns off-the-shelf robots into
+  autonomous warehouse labor. We’re looking for a hands-on
+  engineer to build and improve the tools that connect our
+  hardware, AI models, and real-world operations.
+
+  Your work will span robot control, teleoperation, data
+  annotation, and prototype hardware testing. You’ll
+  investigate new ideas, measure what works, and turn
+  promising experiments into tested, reusable software that
+  other engineers can build on.
+
+  As we introduce new hardware, warehouse tasks, and models,
+  you’ll own the development and continued improvement of our
+  R&D tools and experimental systems. You’ll work closely with
+  our AI and production engineers, who will carry validated
+  capabilities through production integration and deployment.
+
+  What you’ll work on
+
+  - Improve our data annotation pipeline. Clean up existing
+    workflows, improve data validation and labeling tools, and
+    make it easier to turn robot demonstrations and deployment
+    data into useful training datasets.
+  - Maintain and improve teleoperation software. Improve how
+    operator inputs translate into robot behavior, including
+    action smoothing, motion mapping, responsiveness, and
+    debugging tools.
+  - Develop and evaluate manipulation capabilities. Work with
+    inverse kinematics and motion control for new arms,
+    including 7-DoF redundancy, elbow clearance, camera
+    visibility, and compliant grasping.
+  - Test prototype hardware. Write CAN communication and
+    hardware test code for new R&D systems. Evaluate whether
+    AMR base, lift, arm, and gripper interfaces provide the
+    control, feedback, and timing needed for new behaviors.
+  - Make hardware changes easier. Build calibration tools and
+    model input/action adapters that help us move between
+    different arms, grippers, and cameras.
+  - Verify real task outcomes. Work with the AI team to detect
+    whether a task actually succeeded, investigate false
+    success signals, and evaluate rewards against physical
+    results.
+  - Measure what improved. Build repeatable tests that isolate
+    the effects of model, controller, and hardware changes.
+  - Keep R&D work reusable. Bring experimental branches into a
+    shared codebase with clear interfaces, versioned
+    configurations, tests, and documentation so other
+    engineers can reproduce and extend the work.
+
+  What we’re looking for
+
+  - Strong software engineering skills in Python and C++, with
+    experience writing and debugging code that interacts with
+    physical hardware.
+  - A strong understanding of robotic kinematics, coordinate
+    frames, inverse kinematics, and motion control.
+  - Hands-on experience with robot arms, teleoperation, or
+    related robotic systems.
+  - Experience writing and debugging CAN communication with
+    actuators or other hardware.
+  - The ability to design useful experiments, define success
+    criteria, and diagnose problems across software and
+    hardware.
+  - Good engineering habits: readable code, practical tests,
+    clear documentation, and comfort integrating work across
+    Git branches.
+  - Comfort taking an open-ended problem from an initial
+    prototype to a reliable tool that teammates can use.
+
+  Helpful experience
+
+  - Robotics data pipelines, annotation tools, or dataset
+    quality evaluation.
+  - Robot learning, imitation learning, reinforcement learning,
+    or model evaluation.
+  - ROS/ROS 2, robot calibration, redundant manipulators, or
+    force and compliance control.
+  - Experience with cloud providers
+
+  You’ll have direct ownership of tools that shape how quickly
+  we can test new ideas and bring new robot capabilities into
+  real warehouse workflows.
+
+  Compensation
+
+  The base pay range for this role is $100,000 – $200,000 per
+  year.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Robotics
+  - Automation
+posted_date: 2026-10-07
+url: "https://www.builtinla.com/job/physical-ai-infrastructure-engineer/11548133"
+source: Built In

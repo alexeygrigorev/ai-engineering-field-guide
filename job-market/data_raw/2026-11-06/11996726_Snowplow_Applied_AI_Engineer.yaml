@@ -1,0 +1,148 @@
+job_id: 11996726
+title: Applied AI Engineer
+company: Snowplow
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 138 Employees
+description: |
+  About Snowplow Snowplow is the real-time customer context
+  layer that collects, validates, enriches, and delivers
+  behavioral data for advanced analytics, ML, and AI agent
+  decisioning. Snowplow's event tracking is leveraged across
+  2M+ websites and applications globally, processing over one
+  trillion events per month. More than 250 companies,
+  including Experian, AutoTrader, Strava, Condé Nast, and
+  HelloFresh, rely on Snowplow to build a well-governed,
+  first-party data foundation that powers their customer-
+  facing AI agents, in-session personalization and
+  recommendations, and real-time analytics. This Opportunity
+  Snowplow is rebuilding how the company runs its own work,
+  and the Applied AI team owns Firn, the data and AI platform
+  that work runs on, and the engineering standards that go
+  with it. This role is an Applied AI engineer embedded with
+  one business team, the way a site reliability engineer sits
+  inside a product team: your line manager, your code
+  reviewers and your career path come from Applied AI; your
+  backlog and your day come from the team you serve. The
+  Senior Director you report to still ships code. Your team is
+  Growth, the group inside Marketing that books new meetings
+  for our sellers. Its workflows already produce pipeline: an
+  always-on outbound engine that scores accounts daily and
+  sends hundreds of personalized sequences, a campaign builder
+  that turns an AE's target list into a reviewed campaign, a
+  morning routine that ranks warm contacts by intent signal,
+  enrichment and signal pipelines from Apollo, Vector and
+  reo.dev into Snowflake, and a paid-media loop that adjusts
+  ads. They were built by people close to the work to get
+  results fast, and they did. Now they need an engineer who
+  makes them production grade and keeps them improving. You
+  take over that estate, make it reliable, and make it better
+  every week. The Director of Growth sets what matters, which
+  is what moves pipeline now. You decide how it gets built and
+  you build it. You work with our data engineers on scoring
+  models and the semantic layer, with the platform engineer on
+  the framework your workflows move onto, and with the Growth
+  Associates and AEs who use what you ship. The engineering
+  standards are Applied AI's; the tempo is Growth's. What you
+  will own
+
+  - The GTM workflows in production. The outbound orchestrator
+    and its sequences, the campaign builder, the intent-signal
+    routine, the enrichment and signal pipelines, and the
+    paid-media loop. You know how each one runs, what it
+    costs, and what to do when it breaks.
+  - Review steps before anything sends. Agents that check the
+    list, confirm each signal is current, and review the copy
+    before a sequence goes out, with sampled human sign-off.
+  - The learning loop. Replies and meetings booked feed back
+    into who we contact and what we say. You instrument the
+    sends, run A/B tests on variants, and show the Growth team
+    which messaging is working.
+  - Signals and enrichment. The pipelines that bring third-party
+    signals and first-party behavior into Snowflake, the
+    fields the Growth team needs exposed through our MCP
+    tools, and the work with our data engineers that gets them
+    there.
+  - Skills and routines for sellers. The Claude skills the
+    Growth Associates and AEs run each morning, the campaign
+    tooling, and the short working sessions that get a new
+    team using them.
+  - Deliverability and suppression. One set of contact rules
+    every sender reads, warm-inbox discipline, and the
+    suppression windows that keep us welcome in people's
+    inboxes.
+  - Engineering standards on your estate. Version control,
+    alerting, tracing, runbooks and documented handover for
+    every workflow you run, and a steady move of those
+    workflows onto the Firn factory framework.
+  - The weekly cadence. A standing backlog with the Director of
+    Growth, priorities set by pipeline, and a short written
+    account of what shipped and what it did. When a priority
+    and an engineering standard conflict, the Director of
+    Growth and the Senior Director of Applied AI settle it
+    together.
+
+  We would love to hear from you if you have
+
+  - Written software that runs in production. Python and SQL are
+    your working languages, you use git every day, and when
+    you meet a new API you read the docs and use it. Tools
+    like n8n, Clay or Zapier are in your kit, and when they
+    run out you write the code.
+  - Built with LLMs for real work. Prompts, tools, structured
+    outputs and evaluation, and the failure modes of each. You
+    know what a model does when a prompt does not say where to
+    get its data, and you design against it.
+  - Run something that could not go down. Alerting, error
+    handling, retries and recovery are habits, and when
+    something does fail you fix the class of problem, not the
+    instance.
+  - Moved data into a warehouse. You have built or maintained
+    pipelines into Snowflake or an equivalent, and you can
+    model a table in dbt or learn to quickly.
+  - Sat with sellers and marketers. You can take a growth
+    director's ask, work out what they need, and come back
+    with something they use the next week. When an ask is a
+    symptom of a broken process, you say so before you build
+    it.
+  - A fast tempo. The team you serve measures in meetings booked
+    per week. You are measured on what you build: whether it
+    runs, what it costs, and what it changed for the team. You
+    ship small, measure, and say plainly when something is not
+    working.
+  - An AI-native way of working you can show us. A workflow,
+    automation or agent you built and still use. Expect to
+    demonstrate it during the interview process.
+  - Comfort being embedded. You can sit inside another team,
+    take its priorities, and still hold the engineering
+    standards your own team sets.
+
+  Bonus points for
+
+  - Experience with Salesforce, Apollo, Smartlead, Lemlist or
+    similar GTM tooling and their APIs.
+  - Experience with email deliverability at volume.
+  - Experience with paid-media platform APIs.
+
+  How we hire for this role The interview process includes a
+  short technical exercise in code and a working session where
+  you walk us through how you work with AI on a real task,
+  using your own setup. We work this way ourselves, and you
+  are welcome to use AI when applying. What you get in return
+  for being awesome
+
+  - Meaningful equity stake
+  - Competitive Base Salary
+  - Flexible working
+  - Generous PTO
+  - Private Medical Insurance
+  - Company Pension
+  - MacBook and home office equipment allowance
+  - Enhanced Family leave
+industries:
+  - AdTech
+  - Marketing Tech
+posted_date: 2026-10-30
+url: "https://builtin.com/job/applied-ai-engineer/11996726"
+source: Built In

@@ -1,0 +1,57 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal research and information services technology
+position:
+  title: Staff Software Engineer - AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and architects RAG, agentic systems, and
+      LLM-based AI systems directly, shaping model behaviour
+      through retrieval and agent orchestration. These are
+      LLM/agent components, so ai-first.
+  responsibilities:
+  - Design and lead implementation of enterprise-scale AI systems including RAG, knowledge-graph-based
+    architectures, and autonomous AI agents
+  - Stay hands-on across the stack from AI orchestration and RAG through API gateways,
+    microservices, and web UIs
+  - Evaluate emerging AI techniques, run proof-of-concepts, and translate AI research
+    into technical roadmaps
+  - Provide technical leadership, mentor engineers, and champion MLOps/LLMOps practices
+    and governance
+  - Design testing, monitoring, and observability for AI systems at scale; ensure
+    compliance with ethical AI and security standards
+  - Partner with AI researchers, product, and design to deliver customer-facing AI
+    applications and optimize latency, cost, and UX
+  use_cases:
+  - Intelligent legal research on Westlaw
+  - RAG and knowledge-graph-driven retrieval of legal information
+  - Autonomous AI agents with multi-step reasoning for legal workflows
+  - Enterprise-scale AI platform for trustworthy answers to legal professionals
+  skills:
+    genai: [RAG, AI Agents, LLMs, OpenAI API, Anthropic API, Embeddings, Semantic
+        Search, GraphRAG]
+    ml: [PyTorch, TensorFlow]
+    web: [APIs, Microservices]
+    databases: [Knowledge Graphs, Neo4j, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Terraform, MLOps, LLMOps, Observability]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11710582'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+  - Ann Arbor, USA
+  extracted_at: '2026-11-06T12:39:54.976535'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

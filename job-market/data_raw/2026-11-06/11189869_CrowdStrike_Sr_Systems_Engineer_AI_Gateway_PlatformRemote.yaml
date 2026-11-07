@@ -1,0 +1,276 @@
+job_id: 11189869
+title: Sr. Systems Engineer – AI Gateway Platform(Remote)
+company: CrowdStrike
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  Description
+
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  About the Role:
+
+  CrowdStrike is seeking an experienced Systems Engineer to
+  own, scale, and secure our enterprise Kong AI Gateway
+  platform as a core technical pillar of the AI Platform
+  Enablement team. This engineer will own the technical
+  execution of a governed enterprise AI connectivity platform,
+  helping CrowdStrike build a resilient infrastructure layer
+  ready for broad internal adoption.
+
+  This role is focused on enabling the internal platform
+  plumbing, traffic management, and infrastructure that
+  connect AI workloads—including Model Context Protocol (MCP)
+  servers, agent skills, and autonomous agents—with core
+  CrowdStrike enterprise services, cloud-hosted foundation
+  models (AWS Bedrock), and critical SaaS platforms (Slack,
+  Jira, Salesforce, Google). You will partner closely with
+  product managers, Enterprise AI teams, application
+  engineers, and security stakeholders to deliver resilient
+  gateway patterns, robust identity and access controls, and
+  secure, scalable AI connectivity across the enterprise.
+
+  What You'll Do:
+
+  - Deploy, configure, and maintain the enterprise Kong AI
+    Gateway platform, ensuring high availability, low latency,
+    and robust runtime performance for high-throughput AI
+    traffic.
+  - Configure and enable secure routing for Model Context
+    Protocol (MCP) servers, tools, and agents across internal
+    microservices and external SaaS ecosystems.
+  - Streamline onboarding for internal consumer applications by
+    provisioning and configuring standard gateway routes,
+    credentials, and access policies for upstream LLM and MCP
+    services.
+  - Collaborate closely with engineering and product personnel
+    to break down complex technical requirements into
+    iterative, value-driven execution plans within an Agile
+    framework.
+  - Proactively identify process optimizations, eliminate
+    platform bottlenecks, and drive continuous operational
+    improvements across gateway operations and integration
+    workflows.
+  - Design and implement enterprise Identity and Access
+    Management (IAM) controls for AI, including OAuth 2.0,
+    Okta integrations, agent/non-human workload identities,
+    and secure identity propagation across MCP tool calls.
+  - Manage end-to-end SSL/TLS certificate lifecycles, mTLS
+    configurations, and automated certificate renewal and
+    rotation using tools (e.g. cert-manager).
+  - Enforce AI security guardrails, policy enforcement, and Data
+    Loss Prevention (DLP) at the gateway boundary, including
+    prompt injection protection, automated PII/secret
+    redaction, and prompt/response filtering.
+  - Implement intelligent traffic shaping, load balancing,
+    circuit breakers, automated provider failover, and
+    semantic caching to optimize latency, resilience, and
+    token consumption costs.
+  - Build and maintain declarative Infrastructure-as-a-Service
+    (IaaS) configurations (YAML, Helm) and reusable GitLab
+    CI/CD pipelines to support GitOps-driven gateway
+    deployments.
+  - Instrument the gateway with OpenTelemetry for distributed
+    tracing and performance metrics, routing structured audit
+    logs into Splunk to establish success metrics for platform
+    usage, latency, and control effectiveness.
+  - Leverage built-in Kong plugins, with the ability to engineer
+    custom plugins (leveraging Go or Lua for low-latency data
+    plane execution) when novel routing, context injection, or
+    governance needs arise.
+
+  What You'll Need:
+
+  - 8+ years of professional engineering experience, with
+    familiarity and experience in full-stack application
+    development and enterprise architecture.
+  - Proven experience supporting and engineering enterprise-
+    scale platforms handling high-volume traffic and complex
+    multi-system integrations.
+  - Understanding of API gateway architecture, high-throughput
+    traffic management, and secure-by-design operating models
+    in a complex enterprise environment.
+  - Familiarity with various full-stack functionalities and
+    proficiency in modern programming languages across backend
+    or full-stack environments (e.g., Python,
+    JavaScript/TypeScript, Go).
+  - Experience with AI systems and interfaces such as Claude,
+    ChatGPT, or similar.
+  - Hands-on experience deploying and configuring containerized
+    applications and services within Kubernetes environments.
+  - Experience building CI/CD automation pipelines and reusable
+    templates using GitLab CI/CD (or equivalent tools), along
+    with declarative infrastructure configurations (YAML,
+    Helm).
+  - Technical understanding of RESTful APIs, JSON data
+    structures, microservices architectures, and distributed
+    systems design.
+  - Strong background in Identity and Access Management (IAM),
+    including modern authentication/authorization protocols
+    (OAuth 2.0, OIDC, JWT, mTLS) and identity platforms
+    (Okta).
+  - Experience enterprise observability and executing monitoring
+    and alerting based on defined platform health metrics.
+    (e.g. OpenTelemetry, Splunk).
+  - Experience with service reliability planning and optimized
+    execution for disaster recovery.
+  - Experience working in Agile-based engineering teams, with
+    the ability to self-start, operate autonomously, and
+    deliver in a fast-paced environment focused on value-
+    driven outcomes.
+  - Familiarity with enterprise service delivery and
+    collaboration platforms (Jira, ServiceNow, Slack) for
+    sprint execution, work tracking, incident workflows, and
+    cross-team communication.
+  - Demonstrated ability to evaluate technical systems from both
+    the service provider and consumer perspectives.
+  - Ability to partner effectively with security, risk,
+    compliance, infrastructure, and product leaders on
+    sensitive or high-governance API/AI initiatives.
+  - Proven experience utilizing AI technologies to enhance
+    workflows, optimize processes, and accelerate execution.
+  - Proven experience with the delivery of enterprise platforms
+    to enable user-driven experiences.
+
+  Bonus Qualifications:
+
+  - Master’s degree in Computer Science, Artificial
+    Intelligence, or a related technical field.
+  - Experience adopting and utilizing various development and
+    scripting languages to deliver optimized build and peak
+    execution performance (e.g., Go or Lua for low-latency
+    gateway runtime extensions, TypeScript/Node.js or Python
+    for MCP services and integration tooling).
+  - Experience designing and executing comprehensive volume,
+    feasibility, and automated testing frameworks to validate
+    system scalability, high-throughput traffic handling, and
+    architectural viability under production-scale loads.
+  - Experience driving security vulnerability management and
+    active remediation across client and backend applications,
+    including automated package, dependency, and container
+    image-based remediation to maintain compliance and secure
+    the software supply chain.
+
+  #LI-Remote #LI-CS2
+
+  Benefits of Working at CrowdStrike:
+
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+
+  If you need assistance accessing or reviewing this website,
+  submitting an application, requesting an accommodation, or
+  providing feedback on the job posting, please contact us at
+  recruiting@crowdstrike.com.
+
+  Find out more about your rights as an applicant.
+
+  CrowdStrike participates in the E-Verify program.
+
+  Notice of E-Verify Participation
+
+  Right to Work
+
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $125,000
+  - $180,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+
+  For detailed information about the U.S. benefits package,
+  please click here.
+
+  Expected Close Date of Job Posting is:12-26-2026
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-05
+url: "https://www.builtinla.com/job/ai-operations-manager-remote/11189869"
+source: Built In

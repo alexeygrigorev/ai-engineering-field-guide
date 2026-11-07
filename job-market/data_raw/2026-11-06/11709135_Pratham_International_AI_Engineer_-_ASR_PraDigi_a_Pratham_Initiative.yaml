@@ -1,0 +1,219 @@
+job_id: 11709135
+title: "AI Engineer - ASR: PraDigi, a Pratham Initiative"
+company: Pratham International
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 59 Employees
+description: |
+  AI Engineer - ASR: PraDigi, a Pratham Initiative
+
+  About Pratham International
+
+  Pratham International is a US 501(c)(3) established to
+  support learning innovations for children and youth in
+  contexts across the globe. We enable the adaptation and
+  spread of proven and scalable education solutions pioneered
+  in India by Pratham Education Foundation to contexts across
+  the global south through programming and technical
+  assistance tailored to local realities.  Today, Pratham
+  reaches approximately 7.5 million children annually across
+  23 Indian states and union territories and an additional 1
+  million across 31 countries..
+
+  Through the Pratham Shah PraDigi Innovation Centre
+  (PraDigi), Pratham International also seeks to create
+  technology innovations for low-resource communities, and
+  support models aimed at learning for school, work, and life
+  for children and youth. We work on several cutting-edge
+  projects in the domain of Generative AI, Automatic Speech
+  Recognition, and Natural Language Processing.
+
+  The team’s innovative technology products include the
+  Anytime Testing Model (ATM), an AI-enabled question
+  generation and grading system that allows learners to be
+  assessed on any topic, anytime; PadhAI: Reading Assessment
+  App, which uses advanced speech recognition to evaluate
+  children’s reading fluency in Hindi and eight Indian
+  languages; and a suite of LLM-powered chatbots designed for
+  diverse learning contexts: from BaalSakhi for early
+  childhood care, to a skilling interview bot for youth
+  employment readiness, and OCR-based analysis tools that
+  digitize and assess student work at scale.
+
+  At Pratham International, we build for the long term.
+  Whether it’s ensuring products are truly accessible across
+  rural India and the global south through languages, building
+  datasets to ensure context and accuracy for products, or
+  gathering feedback from the field.   Backed by partners like
+  Google.org, Anthropic, and the Gates Foundation, we are
+  committed to building digital public goods that ensure every
+  child is in school and learning well.
+
+  Description of the Role Pratham International, through its
+  wholly-owned subsidiary in India (PULS Pvt. Ltd.), is
+  looking to hire an AI Engineer for the PraDigi Initiative.
+
+  As an ASR Engineer, you will lead the development and
+  deployment of speech recognition systems for automated
+  reading assessment across multiple languages.  The engineer
+  will work across the full ASR pipeline: from supervising
+  data collection, annotation, data preparation and model
+  training to decoding, alignment, error analysis, and
+  deployment. This is a hands-on role at the intersection of
+  speech recognition, multilingual NLP, and educational
+  assessment.
+
+  Key responsibilities include:
+
+  Data Collection and Annotation
+
+  - Provide technical inputs to speech data collection design,
+    including sampling across languages, dialects, age groups,
+    reading levels, recording environments, devices, and
+    target items to ensure the dataset is representative and
+    useful for model training and evaluation.
+  - Define annotation guidelines and quality checks for
+    transcripts, reading errors, disfluencies,  background
+    speech and other phenomena relevant to reading assessment.
+  - Work with data and field teams to identify data gaps and
+    annotation inconsistencies through model error analysis,
+    and recommend targeted additional data collection or re-
+    annotation where needed.
+  - Help design annotation schemas and inter-annotator quality
+    processes so labels are consistent enough for model
+    training, alignment, and evaluation.
+
+  Model Training
+
+  - Train, fine-tune, and evaluate ASR models for children’s
+    read speech across multiple languages and accents.
+  - Build pipelines for audio preprocessing, segmentation,
+    normalization, transcription alignment, and model
+    training.
+  - Adapt existing ASR architectures such as Whisper, wav2vec
+    2.0, Conformer, CTC/RNN-T, or similar models for reading
+    assessment.
+  - Optimize models for practical deployment environments,
+    including low-bandwidth, store-and-forward, server-based,
+    and potentially offline/mobile inference.
+
+  Adopting for Reading Assessment
+
+  - Develop approaches for accurately detecting substitutions,
+    omissions, insertions, repetitions, partial-word attempts,
+    hesitations and self-corrections. Implement forced
+    alignment, phoneme-level alignment, or pronunciation-
+    scoring approaches where required.
+  - Conduct systematic error analysis by language, reading
+    level, age, accent, gender, recording conditions, and
+    device.
+  - Collaborate with assessment experts and field teams to
+    translate model outputs into measures such as reading
+    accuracy, WCPM, fluency, and reading level.
+
+  Benchmarking
+
+  - Define and track ASR metrics relevant to reading assessment,
+    including WER/CER, word-level accuracy, error-detection
+    precision/recall, alignment accuracy, and reading-score
+    agreement with human evaluators.
+  - Build reproducible experimentation and model-evaluation
+    pipelines and maintain clear technical documentation.
+
+  Desired Experience and Qualification
+
+  We are looking for an AI/ML Engineer with ASR expertise that
+  can own the ASR based reading assessment pipeline across
+  multiple languages
+
+  - A Degree in any Mathematics/Computer Science/Data Science or
+    related STEM field
+  - 3-5 years of full-time experience; at least 2 working in an
+    AI/ML role
+  - Strong experience in automatic speech recognition, speech
+    processing, or spoken-language technologies.
+  - Strong Python skills and experience with PyTorch or similar
+    deep-learning frameworks.
+  - Experience working with modern ASR architectures and
+    toolkits such as Hugging Face Transformers, NeMo, Kaldi,
+    or equivalent.
+  - Understanding of ASR concepts including:-acoustic modelling-
+    CTC / transducer / encoder-decoder architectures-decoding
+    and beam search-language models-forced alignment-phoneme
+    representations-WER/CER and ASR error analysis
+  - Experience preparing and working with large-scale audio and
+    transcription datasets.
+  - Ability to diagnose model errors systematically rather than
+    relying only on aggregate transcription accuracy.
+
+  Why join us?
+
+  - Impact at a Global Scale: Your work will directly support
+    the learning journeys of millions of children. With
+    programs active in 31 countries, you will help build
+    Digital Public Goods that bridge the gap for the millions
+    of children across the Global South who still struggle
+    with foundational literacy.
+  - Unique Technical Challenges: We apply advanced machine
+    learning where it is needed most. You will solve "last-
+    mile" problems—such as training ASR models on children's
+    voices and optimizing LLMs for offline, low-bandwidth
+    environments—that are rarely addressed in the commercial
+    sector.
+  - A Culture of Growth and Evidence: At Pratham, we value
+    rigorous testing and continuous learning. You will have
+    the autonomy to experiment with the latest SOTA models,
+    supported by a 5-year strategic roadmap and funding from
+    partners like the Gates Foundation and Anthropic.
+  - High-Calibre, Mission-Driven Team: You will work alongside a
+    global team of experts from institutions like MIT,
+    Harvard, and INSEAD. Our alumni have gone on to lead
+    successful startups and international policy shifts, all
+    while remaining dedicated to the goal of "Every Child in
+    School and Learning Well."
+  - Inclusive and Collaborative Environment: Join a diverse team
+    that spans Asia, Africa, and Latin America. We value
+    innovative thinking and local expertise, ensuring that the
+    technology we build is deeply rooted in the realities of
+    the communities we serve.
+
+  Employment Details
+
+  - Contract Type: Full-Time Employment
+  - Date of Joining: Immediate
+  - Work from Anywhere in India: We offer a flexible, remote-
+    first work environment for candidates based anywhere in
+    India. While you have the autonomy to work from where you
+    are most productive, you will have the unique opportunity
+    to travel to our field locations periodically. These
+    visits are essential to see your models in the hands of
+    learners and to gather the real-world feedback that drives
+    our innovation.
+  - Competitive Remuneration: Salary is benchmarked against
+    industry standards for AI roles and is commensurate with
+    experience. As a global organization, we are committed to
+    providing a package that recognizes the high-market value
+    of your technical expertise alongside the deep social
+    impact of your work.
+
+  To apply
+
+  - Fill out the form attached
+  - Shortlisted candidates will be contacted for further rounds
+  - Please refer to this Guidance on Candidates AI Usage by
+    Anthropic to understand how to present yourself to Pratham
+    International effectively
+
+  Pratham International is an Equal Opportunity Employer We
+  are dedicated to creating a diverse and inclusive workplace.
+  We welcome applications from all qualified individuals,
+  regardless of race, gender, disability, or any other legally
+  protected status.
+industries:
+  - Edtech
+  - Professional Services
+  - Social Impact
+posted_date: 2026-10-17
+url: "https://builtin.com/job/ai-engineer-asr-pradigi-pratham-initiative/11709135"
+source: Built In

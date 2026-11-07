@@ -1,0 +1,52 @@
+company:
+  name: TechAhead
+  stage: null
+  focus: |-
+    Digital transformation and bespoke AI-first product
+    development
+position:
+  title: Senior Fullstack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements RAG, embeddings, and vector
+      search features themselves, which is shaping LLM behavior
+      through retrieval design. This makes it ai-first despite the
+      primary backend/fullstack focus.
+  responsibilities:
+  - Design, develop, and maintain scalable backend applications using Node.js, NestJS,
+    and TypeScript
+  - Design microservices and distributed systems with focus on performance, reliability,
+    and scalability
+  - Build event-driven architectures using Kafka or similar messaging technologies
+  - Implement caching with Redis and optimize database performance using MongoDB
+  - Develop and integrate AI-powered features using LLMs, RAG, embeddings, and vector
+    search
+  - Build and maintain web applications using React.js and contribute to mobile apps
+    using React Native
+  - Design and integrate REST APIs between frontend and backend systems
+  - Deploy, monitor, and optimize applications on AWS
+  use_cases:
+  - AI-powered product features with LLMs and RAG
+  - Semantic search using embeddings and vector search
+  - Scalable backend systems with event-driven architecture
+  - Web and mobile applications for client products
+  skills:
+    genai: [LLMs, RAG, Embeddings, AI Agents, Multimodal AI]
+    ml: []
+    web: [NestJS, React, REST APIs]
+    databases: [Redis, MongoDB, Vector Search, OpenSearch, Elasticsearch, Vector Databases]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Distributed Systems]
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: [Microservices, React Native, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11348654'
+  location: Noida, IND
+  extracted_at: '2026-11-06T11:33:52.986404'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

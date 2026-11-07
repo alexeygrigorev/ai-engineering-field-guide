@@ -1,0 +1,54 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud hybrid IT solutions and storage
+position:
+  title: 1215799 Systems Platform QA and AI engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a QA/quality engineering role for
+      enterprise storage platforms; AI/ML and prompt engineering
+      appear only as preferred approaches applied to quality
+      problems (failure analysis, test optimization, anomaly
+      detection), not as core responsibilities shaping model
+      behavior. The deliverable is platform quality, not model
+      quality.
+  responsibilities:
+  - Drive end-to-end quality engineering for enterprise storage platforms, focusing
+    on hardware-software interactions across firmware, BIOS, BMC/iLO, OS, kernel,
+    drivers, and storage protocols
+  - Design and develop scalable Python-based automation frameworks and tools to improve
+    test coverage, system validation, and debugging
+  - Troubleshoot interactions and dependencies between system layers in large-scale
+    enterprise storage environments with root cause analysis
+  - Apply AI/ML-based approaches to engineering and quality problems such as failure
+    analysis, test optimization, anomaly detection, and workflow automation
+  - Build reusable tools and utilities enhancing engineering productivity, test effectiveness,
+    and observability
+  - Resolve customer issues and collaborate cross-functionally; mentor and share knowledge
+  use_cases:
+  - Quality assurance and validation of enterprise storage platforms
+  - Failure analysis and root cause identification across hardware-software layers
+  - Test automation and test optimization
+  - Anomaly detection in large-scale distributed systems
+  - Workflow automation for engineering productivity
+  skills:
+    genai: [LLMs, Prompt Engineering]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [QA Automation, Anomaly Detection, Enterprise Storage Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11495904'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:59:15.331569'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

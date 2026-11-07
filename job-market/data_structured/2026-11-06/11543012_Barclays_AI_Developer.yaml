@@ -1,0 +1,52 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is infrastructure-focused: building and maintaining
+      reliable infrastructure platforms, incident management, and
+      automation. The AI aspects involve legacy code refactoring,
+      data transformation, and test automation — using AI tools to
+      support engineering work rather than shaping model
+      behaviour, prompts, or retrieval. No evidence of designing
+      or tuning models themselves.
+  responsibilities:
+  - Build and maintain infrastructure platforms ensuring reliability, scalability,
+    and security
+  - Monitor IT infrastructure and system performance to identify and resolve issues
+    and outages
+  - Develop automated tasks and processes to improve efficiency and reduce manual
+    intervention
+  - Translate legacy code into modern programming languages and refactor for cloud-native
+    principles
+  - Generate scripts for data transformation and schema conversion during migrations
+  - Automatically generate test cases and self-healing test scripts from application
+    code and requirements
+  - Automate data cleansing and validation, detecting inconsistencies in migrated
+    data
+  - Collaborate with AI Architects, Data Engineers, and Data Scientists on scalable
+    AI systems
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Linux]
+    languages: [Python, R, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11543012'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:08:24.800381'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

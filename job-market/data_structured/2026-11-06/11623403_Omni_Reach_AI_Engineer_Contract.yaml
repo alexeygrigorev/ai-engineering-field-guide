@@ -1,0 +1,50 @@
+company:
+  name: Omni Reach
+  stage: null
+  focus: Enterprise Azure AI and data integration solutions
+position:
+  title: AI Engineer (Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI applications and agents on Azure AI
+      Studio/Copilot Studio and evaluates and improves model
+      performance and reliability, which is shaping model
+      behavior/output quality. LLM/agent components (agents,
+      copilots) are explicitly involved, so it is ai-first.
+  responsibilities:
+  - Design and develop AI solutions using Azure Machine Learning, Azure AI Studio,
+    and Azure AI Services
+  - Build and deploy machine learning models using Azure ML pipelines and SDKs
+  - Create reusable frameworks, components, APIs, and accelerators
+  - Develop integrations with SAP, Dynamics 365, Power Platform, Dataverse, and HR
+    systems
+  - Monitor AI workloads using Azure Monitor, Application Insights, and MLOps practices
+  - Evaluate and improve model performance, reliability, and cost efficiency
+  - Apply security, privacy, and governance requirements in solution design
+  - Document technical designs and test cases and contribute to architecture discussions
+  use_cases:
+  - Enterprise AI solutions on Azure data and AI services
+  - Enterprise copilots and AI agents
+  - Integration of AI workflows with SAP, Dynamics 365, and HR systems
+  - Monitoring and improving AI workload performance and cost efficiency
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [Azure ML, Azure AI Foundry, Azure, Azure SDKs, Azure Monitor, Application
+        Insights, IAM]
+    data: []
+    ml: [Model Training, Model Evaluation]
+    databases: []
+    genai: [Copilot Studio, AI Agents]
+    ops: [MLOps, CI/CD, Model Deployment, Monitoring]
+    other: [Microsoft Fabric, SAP, Dynamics 365, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11623403'
+  location: Thāne, IND
+  extracted_at: '2026-11-06T12:23:59.453886'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

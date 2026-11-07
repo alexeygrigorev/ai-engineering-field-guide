@@ -1,0 +1,60 @@
+company:
+  name: DeepHealth
+  stage: null
+  focus: AI-powered medical imaging devices for radiology
+position:
+  title: Software Engineer, Clinical AI Devices
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role wraps deep learning models into containerized
+      serving and handles request validation, routing, and result
+      assembly on an existing platform — the engineer serves and
+      integrates models without shaping their behaviour or output
+      quality. Agentic coding tools are only a preferred tooling
+      skill, not the product.
+  responsibilities:
+  - Build and maintain software for clinical AI medical devices across X-Ray, CT,
+    MRI, and Mammography modalities
+  - Wrap deep learning models into containerized medical devices and integrate them
+    with other systems
+  - 'Work at the interface between product logic and the serving platform: validate,
+    route requests, and assemble returned results'
+  - Design, develop, and maintain features end-to-end, from refinement to production
+  - Contribute to testing through automated and manual tests and review teammates'
+    code
+  - Ensure compliance with Quality and Regulatory requirements, technical documentation,
+    cybersecurity, and risk analysis
+  - Support service and delivery teams with production issues
+  - Collaborate on strategic technology and business recommendations
+  use_cases:
+  - Clinical AI software for medical imaging devices
+  - 'Radiology modalities: X-Ray, CT, MRI, and Mammography'
+  - Serving deep learning models as containerized medical devices
+  - Request validation, routing, and result assembly between product logic and serving
+    platform
+  - Integration of AI devices with clinical/radiologist workflows
+  skills:
+    genai: [Claude Code]
+    ml: [Deep Learning, AI Algorithms]
+    web: [Spring Boot, Microservices]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [CI/CD, Docker, Kubernetes, Distributed Systems]
+    languages: [Java]
+    domains: []
+    other: [JUnit, Cursor, DICOM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11543838'
+  location: NLD
+  locations:
+  - NLD
+  - Amsterdam, NLD
+  - Paris, FRA
+  remote: true
+  extracted_at: '2026-11-06T12:08:38.879644'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

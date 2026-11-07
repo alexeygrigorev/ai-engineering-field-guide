@@ -1,0 +1,52 @@
+company:
+  name: Socure
+  stage: null
+  focus: Identity verification and fraud prevention infrastructure
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships multi-step, tool-augmented
+      agentic workflows, planner-executor architectures, and
+      evaluates agent performance, directly shaping LLM/agent
+      behavior. No classical-only focus.
+  responsibilities:
+  - Partner with business teams to catalog and prioritize high-impact manual workflows
+    for automation
+  - Design and build production multi-step tool-augmented agent workflows with planner-executor
+    and reflection architectures
+  - Implement stateful agent systems with human-in-the-loop controls such as approval
+    gates and escalation
+  - Build on the Agentic AI Foundations platform (runtime, orchestration, memory,
+    tool registry, guardrails) and shape its roadmap
+  - Contribute reusable agent design patterns back to platform paved paths
+  - Use evaluation harness and tracing for continuous performance assessment, failure-mode
+    analysis, and optimization
+  use_cases:
+  - Internal intelligent automation across sales, marketing, revenue ops, finance,
+    talent, and legal
+  - Tool-augmented agents that plan, execute, and improve business workflows
+  - Agentic systems powering AI-driven identity and fraud prevention solutions
+  - Continuous evaluation and optimization of agent speed and accuracy
+  skills:
+    genai: [LLMs, Agentic Workflows, LangGraph, CrewAI, AutoGen, Multi-Agent Systems,
+      Function Calling, MCP, RAG, Guardrails, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Bedrock, AWS Lambda, SageMaker]
+    ops: [LangSmith, Weights & Biases, Arize, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893543'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:48:01.115232'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

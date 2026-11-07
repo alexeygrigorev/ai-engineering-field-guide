@@ -1,0 +1,50 @@
+company:
+  name: Devleaps
+  stage: null
+  focus: IT consulting and engineering services for client projects
+position:
+  title: AI Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, MCP servers,
+      and tool calling with prompt/evaluation design, directly
+      shaping agent behaviour. LLM/agent components are central,
+      so it is ai-first. Customer-facing as a consultant working
+      directly with the client's Finance team and users.
+  responsibilities:
+  - Design and build agentic workflows across the purchase-to-pay (P2P) journey, from
+    Coupa through to payment
+  - Build MCP servers on top of Finance systems such as Coupa and payment platforms
+  - Integrate and configure vendor-provided MCP servers
+  - Own the MCP integration layer for the Finance domain, including reliability, security,
+    versioning and documentation
+  - Build supporting application components from backend services and APIs to lightweight
+    front ends
+  - Build logging, audit trails and human-in-the-loop steps into financial workflows
+  - Work directly with Finance users to translate process steps into testable workflows
+  use_cases:
+  - Purchase-to-pay (P2P) automation in the Finance domain
+  - AI agents handling finance process steps between Coupa and payment systems
+  - Invoice matching and approvals
+  - Automating financial transaction workflows with human-in-the-loop oversight
+  skills:
+    genai: [MCP, Agentic Workflows, AI Agents, Function Calling, Prompt Engineering,
+      LLMs]
+    ml: []
+    web: [Python, TypeScript, REST APIs, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [SaaS Integrations, Coupa, ERP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11151262'
+  location: Hoofddorp, NLD
+  extracted_at: '2026-11-06T11:25:33.342517'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

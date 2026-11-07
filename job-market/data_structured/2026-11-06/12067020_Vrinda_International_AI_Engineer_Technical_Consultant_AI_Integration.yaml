@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and AI integration solutions
+position:
+  title: AI Engineer – Technical Consultant (AI Integration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG frameworks, NLP models, vector
+      databases, and governs autonomous AI agents—directly shaping
+      LLM behavior and retrieval quality. Hence ai-first.
+  responsibilities:
+  - Design and deploy scalable AI architectures using Azure AI Foundry and Copilot
+  - Develop NLP models and implement RAG frameworks for conversational interfaces
+  - Engineer and maintain vector databases for search and knowledge retrieval
+  - Establish Agent Governance protocols for reliable, secure, ethical AI agents
+  - Build large-scale data pipelines with Azure Databricks, PySpark, Python, and SQL
+  - Integrate data ingestion and transformation workflows with ADF and ADLS
+  - Collaborate with cross-functional teams to translate business requirements into
+    AI solutions
+  - Conduct performance tuning of AI models and data infrastructure
+  use_cases:
+  - Intelligent conversational interfaces
+  - Enterprise knowledge retrieval and advanced search
+  - Intelligent business process automation
+  - Large-scale data processing and analytics
+  - Autonomous AI agent deployment with governance
+  skills:
+    genai: [Copilot Studio, RAG]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks, PySpark, Azure Data Factory, Data Pipelines]
+    cloud: [Azure AI Foundry, Azure]
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Agent Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067020'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:46:24.133728'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

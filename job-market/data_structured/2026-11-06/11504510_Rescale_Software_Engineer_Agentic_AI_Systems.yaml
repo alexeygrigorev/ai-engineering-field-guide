@@ -1,0 +1,46 @@
+company:
+  name: Rescale
+  stage: null
+  focus: Cloud-based digital engineering and HPC simulation platform
+position:
+  title: Software Engineer, Agentic AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds production agents, RAG retrieval
+      systems, and evals for agent/RAG workflows, directly shaping
+      LLM behavior and output quality. This is clearly ai-first.
+  responsibilities:
+  - Build and operate LLM-backed APIs, agents, retrieval systems, and integrations
+  - Develop evals for agent and RAG workflows and use results to improve quality
+  - Build ingestion pipelines and high-throughput data paths between customer environments,
+    cloud storage, and compute clusters
+  - Partner with Product and Design to turn broad goals into specs and small releases
+  - Work across backend services, cloud infrastructure, and occasional UI changes
+  - Use AI coding agents effectively and adopt new AI engineering practices
+  use_cases:
+  - Agentic AI platform for engineering and scientific workflows
+  - Data intelligence and retrieval over engineering simulation data
+  - Ingestion pipelines connecting customer environments, cloud storage, and HPC compute
+    clusters
+  - LLM-backed APIs and integrations for R&D applications
+  skills:
+    genai: [LLMs, AI Agents, RAG, LLM Evaluation]
+    ml: []
+    web: [React]
+    databases: [Relational Databases, Redis]
+    data: [Data Pipelines, Object Storage, Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Distributed Systems]
+    languages: [Python, Java, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11504510'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:02:20.965430'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

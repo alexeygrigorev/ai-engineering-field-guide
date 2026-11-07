@@ -1,0 +1,56 @@
+company:
+  name: Circana
+  stage: null
+  focus: Consumer analytics and AI/data solutions for CPG and retail
+position:
+  title: 'AI Staff Engineer| Hybrid: Chicago, IL or NYC, NY'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents end to end including tools, MCP
+      servers, prompt and context design, guardrails, and
+      evaluation harnesses — directly shaping LLM/agent behavior.
+      It's a forward deployed engineer role, which is explicitly
+      ai-first.
+  responsibilities:
+  - Embed with domain experts and system owners to learn how work actually happens
+    and resolve ambiguity
+  - Decide whether work calls for deterministic automation, an agent, or a person,
+    and build it
+  - 'Build agents end to end: tools, MCP servers, context and prompt design, plan
+    construction, and guardrails'
+  - Build integrations into enterprise systems including REST services, databases,
+    file-based feeds, and schedulers
+  - Build and maintain evaluation sets, graders, and regression suites measuring solution
+    correctness
+  - Debug from traces, isolate failures, and add tests preventing recurrence
+  - Automate the development loop with commands, hooks, and subagents
+  use_cases:
+  - AI agents and automations embedded in Circana business operations, client service,
+    and product teams
+  - Agentic systems that reason and act over Circana's consumer behavior and market
+    data platform
+  - MCP servers and integrations connecting agents to enterprise systems
+  - Client-facing agentic solutions for consumer brands and retailers
+  skills:
+    genai: [AI Agents, MCP, Prompt Engineering, Structured Outputs, Guardrails, Context
+        Engineering, LLM Evaluation, Google ADK, LangGraph, Claude Code, Anthropic
+        API, OpenAI API, Gemini]
+    ml: []
+    web: [REST APIs, React, OpenAPI, OAuth]
+    databases: [SQL]
+    data: [Data Pipelines, Airflow]
+    cloud: [GCP, Vertex AI, Azure AI Foundry]
+    ops: [CI/CD, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11372744'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:37:26.737756'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

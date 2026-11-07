@@ -1,0 +1,56 @@
+company:
+  name: Virtuous
+  stage: null
+  focus: Nonprofit CRM and fundraising software
+position:
+  title: Integrations Engineer, AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer-style role that designs
+      and builds human-in-the-loop AI applications with LLM
+      integration, shaping the LLM-driven solution itself across
+      discovery, design, and delivery. That is model-behavior
+      shaping with an LLM component, so it is ai-first.
+  responsibilities:
+  - Embed with nonprofit customers to lead technical discovery and solution design
+    for integrations and AI-powered solutions
+  - Design and implement integration pipelines between Virtuous and external systems
+    such as ERP, accounting, mail processing, event, and phone platforms
+  - Build human-in-the-loop AI applications that surface data for staff review, reducing
+    manual effort while preserving data quality
+  - Develop shared infrastructure components including authentication, logging, monitoring,
+    error handling, and API/webhook management
+  - Productize individual engagements into packaged, repeatable offerings for a Services
+    marketplace
+  - Scope and price engagements, deliver against SOWs, and contribute to revenue reporting
+  - Feed structured product feedback to EPD and collaborate with Sales, CS, and Implementation
+    teams
+  - Document solutions rigorously and architect playbooks to accelerate future engagements
+  use_cases:
+  - Integrations between nonprofit CRM and ERP/accounting, caging/mail processing,
+    event, and phone systems
+  - Human-in-the-loop AI applications that surface data to nonprofit staff for review
+    and action
+  - ETL pipelines and webhook-driven automation for nonprofit data ecosystems
+  - Productized AI and integration services sold to nonprofits at scale
+  skills:
+    languages: [Python, SQL, Node.js]
+    domains: []
+    web: [REST APIs, Webhooks]
+    cloud: [AWS, Azure, GCP]
+    data: [Data Pipelines]
+    ml: []
+    databases: []
+    genai: [LLMs, Human-in-the-Loop Design, AI Agents]
+    ops: []
+    other: [API Integrations, Monitoring, Virtuous CRM]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12011554'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:28:30.901755'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Proclink
+  stage: null
+  focus: Technology services for oil, gas, and financial industries
+position:
+  title: Sr. AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, evaluates, and fine-tunes ML/DL
+      models (GANs, transformers, LSTMs, RL, ensemble learning),
+      which is direct model shaping. LLM involvement is limited to
+      calling LLM APIs for inference rather than shaping LLM
+      behaviour via prompts, retrieval, or agent design, so the
+      shaping work is classical ML/DL.
+  responsibilities:
+  - Lead design, development, and deployment of ML/DL models for real-world applications
+  - Apply advanced techniques such as ensemble learning, transformers, GANs, LSTMs,
+    and reinforcement learning
+  - Work across NLP, computer vision, and recommendation system domains
+  - Build scalable APIs and services using Flask, Django, or FastAPI
+  - Evaluate and fine-tune models using cross-validation, hyperparameter tuning, and
+    performance metrics
+  - Leverage LLM APIs for inference and support LLM training and deployment where
+    applicable
+  - Collaborate with data engineering teams to ensure data readiness for model training
+  - Mentor junior engineers and collaborate with product managers and data scientists
+  use_cases:
+  - ML/DL models for real-world applications
+  - NLP applications
+  - Computer vision applications
+  - Recommendation systems
+  - Generative AI adoption via LLM API inference
+  - Solutions for oil & gas, refinery operations, and financial services
+  skills:
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    web: [Flask, Django, FastAPI, REST APIs]
+    cloud: [AWS, GCP, Azure]
+    data: []
+    ml: [Machine Learning, Deep Learning, Neural Networks, GANs, Transformers, LSTMs,
+      Ensemble Learning, Reinforcement Learning, scikit-learn, Pandas, NumPy, TensorFlow,
+      Keras, PyTorch, Fine-Tuning, Model Evaluation, Recommendation Systems]
+    databases: [SQL, NoSQL]
+    genai: [Generative AI, LLMs, AI Agents]
+    ops: [MLOps, MLflow, Kubeflow, Weights & Biases, Git, GitHub]
+    other: [Matplotlib, Seaborn]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11351810'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:35:03.753217'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

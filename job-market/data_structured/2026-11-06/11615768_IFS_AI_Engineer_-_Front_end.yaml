@@ -1,0 +1,51 @@
+company:
+  name: IFS
+  stage: null
+  focus: Enterprise software solutions with AI technology
+position:
+  title: AI Engineer - Front end
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds the front-end (React/TypeScript) that
+      renders a streaming LLM agent's output; the agent itself is
+      designed and built by other teams. The person consumes AI
+      agent output and protocols (AG-UI, MCP Apps) rather than
+      shaping prompts, retrieval, or model behaviour, so it is ai-
+      support.
+  responsibilities:
+  - Build and operate the web client of an AI agent product for enterprise customers
+  - Render streaming, partially-arriving and occasionally incorrect agent output into
+    a trustworthy interface
+  - Ensure agent actions require explicit user consent with visible audit of actions
+    and reasoning
+  - Own the front-end architecture, component system, and contracts with agent backend
+    teams
+  - Migrate the interface towards Lit and Web Components for framework independence
+  - Treat accessibility, performance, testing and observability as core product concerns
+  - Write service-side code needed by the interface and run it in production
+  - Write ADRs and document protocols before changing them
+  use_cases:
+  - Enterprise AI agent product front end
+  - Trustworthy streaming interface for LLM agent output
+  - Safe agent actions with user consent and transparency
+  - Model-generated views and actions rendered in the browser
+  skills:
+    genai: [MCP, AI Agents, LLMs]
+    ml: []
+    web: [React, Lit, Web Components, Angular, Shadow DOM]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, Continuous Delivery, Observability]
+    languages: [TypeScript, Go, Python]
+    domains: []
+    other: [Content Security Policy, Data Visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11615768'
+  location: Staines-upon-Thames, GBR
+  extracted_at: '2026-11-06T12:22:15.303491'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

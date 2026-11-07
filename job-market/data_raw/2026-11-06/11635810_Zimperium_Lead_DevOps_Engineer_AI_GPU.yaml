@@ -1,0 +1,181 @@
+job_id: 11635810
+title: "Lead DevOps Engineer (AI & GPU)"
+company: Zimperium
+location: Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 237 Employees
+description: |
+  Zimperium is a global leader in AI-empowered mobile
+  security, delivering purpose-built protection for mobile
+  applications and devices against advanced threats such as
+  mobile phishing, malware, app vulnerabilities, tampering,
+  device compromise, and zero-day attacks. As cybercriminals
+  increasingly adopt a mobile-first attack strategy, Zimperium
+  enables organizations to detect and stop mobile threats
+  while gaining clear visibility into mobile risk. The
+  company’s autonomous security solutions help safeguard
+  critical mobile infrastructures and the sensitive data of
+  organizations and their customers.
+
+
+
+  As part of our fast-growing pace, we are seeking an AI
+  Systems Engineer to own the delivery, model-serving,
+  routing, and observability layer of AI-native platform.
+  These are the systems that ship, run, and make fully visible
+  every AI workload. Within the Hybrid AI Multi-Environment
+  Runtime, this role owns how AI services and agents are built
+  and deployed, how models execute, how requests are routed to
+  them, how AI assets are catalogued and governed, how
+  consumption is measured and bounded, and how the entire
+  platform is observed across cloud, on-prem, edge, and air-
+  gapped environments.
+
+
+
+  This role owns the delivery and runtime surface, including
+  the CI/CD/CV pipelines that ship AI workloads, secure model
+  execution, semantic routing, and model/prompt selection,
+  together with the governance, discovery, cost, and telemetry
+  systems that keep AI workloads shippable, economical,
+  discoverable, and transparent.
+
+  This role is ideal for an engineer who is equally
+  comfortable building automated delivery pipelines, operating
+  high-performance inference (GPUs, model servers, sandboxed
+  execution), and building deep observability and cost
+  visibility; who understands that in regulated contexts every
+  AI workload must be delivered repeatedly and every AI
+  request must be economically bounded, attributable, and
+  traceable end-to-end.
+
+
+
+  Responsibilities:
+
+  - Own DevOps and delivery for AI workloads: build and operate
+    the CI/CD/CV pipelines that ship AI services, agents, and
+    runtime components, including automated build, test,
+    continuous verification, release, and rollback, so AI
+    workloads are delivered repeatedly and safely into every
+    environment.
+  - Own governance and discovery for AI assets, including
+    service catalog/registry (Artifactory/Nexus, Harbor),
+    experiment tracking and model metadata (MLflow), upstream
+    registries/mirrors (HuggingFace/NGC), CVE/SBOM scanning
+    (Trivy), lineage contracts (OpenLineage), and license
+    management.
+  - Own resource and cost management, including quotas and rate
+    limits, cost attribution and utilization
+    (Apptio/OpenCost/Kubecost), so AI execution stays
+    economically bounded and controllable per tenant and
+    engagement.
+  - Own the full observability stack, including metrics
+    (Prometheus/Mimir), logs (Loki), traces (Tempo/Jaeger),
+    dashboards (Grafana), LLM debugging and evaluation
+    (LangSmith/Langfuse), and SLA/alert notifications.
+  - Own the OpenTelemetry collection layer, including multi-
+    tenant receiver, exporters and queues (Kafka sink), DCGM
+    exporter for GPU telemetry, processor batching, and
+    dynamic filtering, so every signal is captured and routed
+    reliably.
+  - Automate GitOps-based delivery and continuous verification;
+    embedding quality, integrity, and cost gates into
+    pipelines so releases are policy-compliant by default
+    rather than by manual review.
+  - Close the loop between delivery and observability by using
+    telemetry, evaluation, and cost signals to drive
+    deployment decisions, progressive rollout, and automated
+    rollback of AI workloads.
+  - Ensure cost and telemetry are identity-stamped and per-
+    tenant, so consumption and behavior are attributable end-
+    to-end, keeping FinOps and observability tied to the
+    workloads that generate the load.
+
+
+
+  Requirements:
+
+  - Strong DevOps expertise: CI/CD/CV pipeline design, GitOps,
+    continuous verification, and progressive/automated release
+    and rollback for production workloads.
+  - Deep expertise operating model-serving and inference systems
+    (Ray, vLLM/Triton/NIM) on GPUs at production scale.
+  - Deep observability skills: metrics, logs, traces, and
+    OpenTelemetry.
+  - FinOps mindset: able to attribute, bound, and optimize AI
+    consumption cost per tenant and workload.
+  - Familiarity with model/artifact governance, registries, CVE
+    scanning, and license/lineage tracking.
+  - Comfortable operating across cloud, on-prem, edge, and air-
+    gapped environments with consistent runtime and telemetry
+    semantics.
+  - Strong communicator able to explain runtime, cost, and
+    observability tradeoffs to engineers, architects, and
+    leadership.
+
+
+
+  Qualifications:
+
+  - Bachelor’s or Master’s degree in Computer Science or related
+    technical field.
+  - 8+ years in DevOps, MLOps, platform, or observability
+    engineering, with hands-on production ownership of AI or
+    high-throughput services.
+  - Strong hands-on DevOps experience, including CI/CD/CV
+    pipelines and GitOps tooling (ArgoCD, Helm, GitHub
+    Actions/GitLab CI, or equivalents) for automated build,
+    test, release, and rollback.
+  - Hands-on expertise operating inference/model-serving
+    frameworks (Ray Serve, vLLM, Triton, or NIM) on GPU
+    infrastructure.
+  - Strong experience with observability stacks (Prometheus,
+    Grafana, Loki, Tempo/Jaeger) and OpenTelemetry.
+  - Experience with API gateways and request routing (Envoy or
+    equivalent), including streaming responses.
+  - Experience with cost management / FinOps tooling (OpenCost,
+    Kubecost, or equivalent) and quota/rate-limit enforcement.
+  - Familiarity with model/artifact registries and supply-chain
+    scanning (Harbor, MLflow, Trivy/SBOM).
+  - Proven track record operating AI or service infrastructure
+    under compliance, security, or regulatory constraints.
+  - Ability to define clean ownership boundaries and consumption
+    contracts with platform, trust, and data teams.
+
+
+
+  Nice to Have:
+
+  - Experience with LLM evaluation and debugging tooling
+    (LangSmith, Langfuse) and prompt/response quality
+    measurement.
+  - Experience with sandboxed/secure execution (gVisor,
+    Firecracker, or microVM isolation) for untrusted or multi-
+    tenant workloads.
+  - Familiarity with GPU telemetry (DCGM) and GPU utilization
+    optimization.
+  - Experience with lineage and governance contracts
+    (OpenLineage) and AI license management.
+  - Exposure to multi-tenant cost attribution and per-tenant
+    SLA/alerting.
+  - Exposure to regulated delivery environments (financial
+    services, tax, healthcare, risk).
+
+
+
+  Zimperium is an Equal Opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex including sexual
+  orientation and gender identity, national origin,
+  disability, protected veteran status, or any other
+  characteristic protected by applicable federal, state, or
+  local law.
+industries:
+  - Machine Learning
+  - Mobile
+  - Security
+posted_date: 2026-10-13
+url: "https://builtin.com/job/lead-devops-engineer-ai-gpu/11635810"
+source: Built In

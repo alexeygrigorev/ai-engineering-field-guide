@@ -1,0 +1,62 @@
+company:
+  name: American Express
+  stage: null
+  focus: Financial services and payments
+position:
+  title: AI Security Engineer III - Agentic AI & Security Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents using LLMs, RAG,
+      function calling, and workflow orchestration to automate
+      vulnerability remediation - directly shaping model behaviour
+      and agent flows. All target components are LLM/agent-based,
+      so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI agents using LLMs, agentic frameworks, RAG, and
+    tool/function calling to automate vulnerability management
+  - Generate secure remediation code, update dependencies, run validations, and create
+    GitHub pull requests
+  - Automate pull request monitoring, notifications, and escalation workflows
+  - Correlate and triage vulnerability findings across scanners and repositories
+  - Validate remediation effectiveness via automated testing, security rescans, and
+    deployment verification
+  - Build AI-powered cryptographic discovery, assurance, and lifecycle monitoring
+    capabilities
+  - Integrate AI agents with GitHub APIs, vulnerability APIs, and enterprise security
+    tools
+  - Implement secure AI agent controls including human approval, audit logging, and
+    prompt injection safeguards
+  use_cases:
+  - Autonomous vulnerability detection and remediation in code, dependencies, and
+    container images
+  - Automated secure code fixes delivered as GitHub pull requests
+  - Vulnerability triage, correlation, and deduplication across security scanners
+  - Cryptographic metadata discovery and compliance assurance
+  - Cryptographic lifecycle monitoring (expiring certificates, deprecated algorithms,
+    key rotation)
+  - Automated security reporting, dashboards, and owner notification/escalation workflows
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows, RAG, Prompt Engineering,
+      Function Calling, Structured Outputs, LangChain, LangGraph]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevSecOps, GitHub, Git]
+    languages: [Python]
+    domains: []
+    other: [GitHub Automation, Vulnerability Management, Cryptography, Application
+        Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12007430'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - Bengaluru South, IND
+  extracted_at: '2026-11-06T14:26:55.686025'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

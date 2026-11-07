@@ -1,0 +1,55 @@
+company:
+  name: Fluidstack
+  stage: null
+  focus: AI compute infrastructure, data centers and power
+position:
+  title: Product Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered systems (agents, MCP servers,
+      agentic workflows, LLM extraction over legal/financial
+      documents) that shape model behaviour — designing agent
+      flows and extraction pipelines themselves, not just
+      consuming an API. LLM involvement makes it ai-first.
+  responsibilities:
+  - 'Build hiring software: bidirectional ATS sync, interviewer load visibility, automated
+    onboarding on offer signature'
+  - Build cash forecasting system deriving spend, cash demand curves, and payment
+    schedules from purchase orders, contracts, and build milestones
+  - Build capital pipeline from approved budget to spent dollars with automated proof
+    chains for financing drawdowns
+  - Parse MSAs, change orders, and side letters into structured obligations, prices,
+    deadlines, penalties, and SLAs
+  - Embed forward-deployed with finance, legal, and people teams to turn their workflows
+    into structured data and generated work
+  - Ship production features end to end with full autonomy
+  use_cases:
+  - Automating hiring, recruiting, and onboarding workflows
+  - Cash forecasting and capital planning for data center construction
+  - Capital release and financing drawdowns with automated verification
+  - Contract parsing and obligation extraction from legal documents
+  - Continuous close accounting and treasury operations
+  skills:
+    genai: [OpenAI API, Anthropic API, MCP, Agentic Workflows, Claude Code, Cursor]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [Contract Lifecycle Systems, ATS Integrations, HRIS Integrations, ERP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11345255'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:32:38.216950'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

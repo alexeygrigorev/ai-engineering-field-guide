@@ -1,0 +1,49 @@
+company:
+  name: Miso Robotics
+  stage: null
+  focus: Kitchen robotics and AI-enabled restaurant automation
+position:
+  title: SQA Engineer – Automation and AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds automated test suites and uses AI coding
+      assistants as tools; it does not shape any model's behavior
+      via prompts, retrieval, evals, or training. AI appears as an
+      accelerant for QA engineering, making this ai-support per
+      the coding-assistant edge case.
+  responsibilities:
+  - Develop and maintain automated tests for web applications, APIs, backend services,
+    and system integrations
+  - Build Python-based test automation for functional, integration, regression, and
+    end-to-end testing
+  - Leverage AI coding assistants and testing tools to accelerate test development
+    and expand coverage
+  - Diagnose software defects, analyze test results, and collaborate with engineering
+    teams on root causes and fixes
+  - Integrate automated testing into CI/CD workflows and improve test coverage, reliability,
+    and scalability
+  use_cases:
+  - Quality assurance for restaurant operations software
+  - Testing for AI applications and kitchen robotics
+  - Automated functional, integration, regression, and end-to-end testing
+  - CI/CD test automation for web apps, APIs, and backend services
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, JSON, Playwright, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [PyTest, Selenium, AI Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11664062'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:29:21.987259'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

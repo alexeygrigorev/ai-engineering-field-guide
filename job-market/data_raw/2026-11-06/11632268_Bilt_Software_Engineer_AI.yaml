@@ -1,0 +1,192 @@
+job_id: 11632268
+title: Software Engineer, AI
+company: Bilt
+location: New York, USA
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  What is Bilt?
+
+  Bilt is the membership for where you live.
+
+  What started as a way to reward people on their largest
+  expense has turned into an ecosystem connecting our members,
+  property managers and local merchants.
+
+  Travel, dining, fitness, everyday spend. We are building
+  systems across payments, credit, loyalty, and commerce all
+  at once.
+
+  We run lean and move quickly. Every person here has a real
+  impact on what gets built and how fast it happens.
+
+  This role comes with real ownership and high expectations.
+  If you prefer clearly defined lanes and structure, this will
+  feel uncomfortable. If you want to build quickly, have a
+  real say in what gets built, and work on products used by
+  millions, you will likely do your best work here.
+
+  What is Bilt?
+
+  Bilt is the membership for where you live. We started by
+  rewarding people on their biggest expense, rent, and have
+  grown into a network connecting members, property managers,
+  and local merchants across dining, travel, fitness, and
+  everyday spending.
+
+  The role
+
+  Concierge runs in the Bilt app, on the web, and over SMS,
+  iMessage, and email. Members use it for dining, rent,
+  payments, travel, and support. Restaurants and property
+  managers use it to talk with their customers, and their
+  staff use it as an assistant. It handles tens of thousands
+  of conversations a day, with 2–3x spikes at the start of
+  every month, and you'll build and run the backend behind all
+  of it.
+
+  What you'll work on
+
+  - Agent capabilities end to end: tools, workflows, prompts,
+    and the integrations with Bilt and partner systems behind
+    them
+  - The agent runtime: multi-agent orchestration, context and
+    memory, prompt caching, and routing across frontier and
+    open-weight models
+  - Performance: p50 and p99 across the full request path,
+    bursty traffic, and cost per conversation
+  - Eval harnesses, LLM judges, and conversation replay, so
+    every model and prompt change is measured before it ships
+  - Assistants for merchants' staff that work from the
+    business's own data, and browser agents that can act where
+    no API exists
+  - Proactive features that drive engagement with members and
+    merchants' customers: briefings, follow-ups, and outreach
+    that land at the right moment
+  - The conversation platform: one inbox where the agent,
+    merchant staff, and Bilt support share threads across SMS,
+    iMessage, email, web, and in-app chat
+  - Messaging: realtime streaming replies, attachments, message
+    ordering and idempotent delivery, carrier and iMessage
+    sending limits, and handing off to a person at the right
+    moment
+  - Authentication and fine-grained authorization, so the agent
+    only sees and does what it should for members, merchants,
+    and staff
+
+  How we build
+
+  We are an AI-native team. Agents are part of how we write,
+  review, debug, and operate everything.
+
+  - Writing. Coding agents like Claude Code and Devin write much
+    of our code. You design it, review it, and own what ships
+  - Reviewing. Every PR gets AI review against rules we write
+    down (prompt-cache pitfalls, security, performance) before
+    a human codeowner signs off
+  - Debugging. Agents have access to our production tooling
+    through an internal MCP gateway: logs, traces, analytics,
+    feature flags, and the service catalog. Investigations
+    usually start with an agent pulling the evidence
+  - Sharing context. Repos carry agent instructions, and we keep
+    a shared library of skills and playbooks, so recurring
+    work becomes a single command and every agent starts with
+    the team's context
+  - Owning. Each engineer owns a large surface from design
+    through rollout and on-call. We ship daily behind flags,
+    treat performance and availability as acceptance criteria,
+    and read real conversations, not only dashboards
+
+  You have
+
+  - 4+ years building and operating backend services in
+    production
+  - Strength in at least one backend language and experience
+    running services in the cloud. We mostly use Python
+    (FastAPI), Java (Quarkus), and Go on Google Cloud
+  - Solid distributed systems fundamentals (async processing,
+    pub/sub, idempotency, retries, caching), and you debug
+    across services with logs, traces, and metrics
+  - Hands-on experience with LLMs, at work or on your own, and
+    curiosity about making them reliable
+  - Product judgment: you can read a bad conversation and tell
+    whether the cause is the prompt, a tool, the data, or a
+    service
+  - Daily use of AI coding agents, and good judgment about when
+    to trust their output
+  - Clear writing. Design docs, PR descriptions, and the prompts
+    you give agents all matter here
+
+  Bonus
+
+  - Shipped an LLM-powered feature to real users, and can
+    explain what broke and how you measured it
+  - Agent frameworks (Google ADK, LangGraph, or similar), tool
+    calling, evals, LLM-as-judge
+  - Model serving and inference: provider routing, open-weight
+    models, latency and cost tuning
+  - Messaging or realtime infrastructure
+  - Browser automation or computer-use agents
+  - Identity and access: OAuth/OIDC, token exchange, fine-
+    grained authorization
+
+  Benefits
+
+  - Compensation - We offer a competitive salary with a
+    meaningful stake in the company via equity and our
+    performance bonus program
+  - Health insurance for you (& your loved ones) from day one -
+    Enjoy a One Medical Membership, wellness stipends, family
+    programs and more, on us. We’ve got you and your family
+    covered from day one.
+  - 401k plan with a match - Retirement may feel more like a
+    pipe dream than a reality but we’re here to help you get
+    there.
+  - Commuter FSAs - We believe the best ideas come from being
+    together in one place. We just don’t think getting there
+    should be so expensive.
+  - UNLIMITED PTO - Because we believe that working hard
+    shouldn’t mean always working. Take time for yourself as
+    often as you need it.
+  - Exclusive Employee only Bilt Points - We give our employees
+    unique opportunities to earn points throughout their time
+    at Bilt.
+  - Team Events - We believe in human connection so we hold
+    events to help our employees break from the monotony of
+    the typical work week.
+
+  At Bilt Rewards, we believe in transparency and we do our
+  best to make sure the company and our candidates are on the
+  same page as it relates to compensation. In addition to
+  posting salary ranges for our open roles, candidates should
+  expect to be asked about compensation expectations and
+  requirements early on in their interview process. Our goal
+  is to highlight when expectations and Bilt’s salary range
+  may be out of sync, and work with the candidate to determine
+  whether it makes sense to continue conversations.
+
+  We are considering candidates with differing levels of
+  expertise for this position. Leveling will be based upon
+  your experience and performance in the interview process.
+
+  Where a new hire falls within a range will be based on their
+  skills and experience, and how these competencies compare
+  across other employees in the same role. Bilt's bands are
+  designed to allow for individual compensation growth within
+  the role. As such, new hires typically start at the lower
+  end of the range. Bilt Rewards performance and outcomes -
+  should you join the company, you will have the opportunity
+  to grow your salary over time.
+
+  The salary range for a Back End / AI Engineer is $170,000 -
+  $300,000 (based on YOE/level), and you will be eligible for
+  equity and an annual performance-based bonus.
+industries:
+  - Fintech
+  - Mobile
+  - Real Estate
+  - Financial Services
+  - PropTech
+posted_date: 2026-10-13
+url: "https://builtin.com/job/software-engineer-ai/11632268"
+source: Built In

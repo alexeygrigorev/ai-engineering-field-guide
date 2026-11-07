@@ -1,0 +1,44 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity community, media, and conferences
+position:
+  title: AI Strategist Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a growth/marketing position that uses AI tools
+      to scale copywriting and marketing workflows. It does not
+      involve shaping model behavior, designing prompts/RAG/agents
+      as a deliverable, or training models — AI is leveraged as a
+      productivity tool, so it is ai-support.
+  responsibilities:
+  - Identify, target, and convert PE funds into the community with the right messaging
+  - Own marketing channels and execute activities that drive revenue
+  - Write persuasive copy for emails, landing pages, and posts, leveraging AI at scale
+  - Run sprint-based experiments on offers, copy, prices, and pages and measure impact
+  - Build repeatable playbooks and AI workflows instead of one-off work
+  - Support conferences and other operational tasks as needed
+  use_cases:
+  - AI-assisted copywriting at scale for investor outreach
+  - AI workflows to automate marketing and audience growth
+  - Conversion and pricing experiments for revenue growth
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation, AI Workflows, Pricing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11999663'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:22:22.346740'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

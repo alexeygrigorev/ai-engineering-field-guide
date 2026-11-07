@@ -1,0 +1,56 @@
+company:
+  name: GitLab
+  stage: null
+  focus: DevSecOps platform for software delivery
+position:
+  title: 'Backend Engineer (Python),AI Engineering: Agent Foundations'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic flows and reusable agent building
+      blocks with LangChain/LangGraph, designs agent harnesses,
+      and runs evaluations of agent behavior — directly shaping
+      model/agent behavior, with LLM/agent components.
+  responsibilities:
+  - Develop, ship and maintain features for the Duo Agent Platform in the Duo Workflow
+    Service, AI Gateway, and GitLab monolith
+  - Build and improve agentic flows and reusable components with LangChain and LangGraph,
+    including the Flow Registry
+  - Design, implement and review APIs (GraphQL, REST) and backend logic with reliable
+    contracts for clients like the GitLab monolith, IDE extensions and Duo CLI
+  - Improve automated testing (pytest) including evaluations of agent and flow behavior
+  - Collaborate with Product Management, UX, frontend, backend and AI specialists
+    to refine requirements
+  - Join Tier 2 on-call rotations, troubleshoot production issues, and improve observability
+    and resiliency
+  - Share standards and patterns for responsible AI integration with other engineers
+  use_cases:
+  - Agentic AI across the software delivery lifecycle
+  - Duo Agent Platform powering GitLab AI features
+  - Flow Registry and reusable agent building blocks
+  - Custom agents, flows, and external agent integrations via AI Catalog
+  - Agent execution, tools, and observability
+  skills:
+    genai: [LangGraph, LangChain, LLMs, AI Agents]
+    ml: []
+    web: [GraphQL, REST APIs, gRPC, Ruby on Rails, Vue]
+    databases: []
+    data: []
+    cloud: []
+    ops: [pytest]
+    languages: [Python, Ruby, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10765296'
+  location: CAN
+  locations:
+  - CAN
+  - POL
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T11:21:51.975902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

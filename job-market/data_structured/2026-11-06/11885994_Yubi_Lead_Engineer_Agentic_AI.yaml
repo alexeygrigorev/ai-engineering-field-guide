@@ -1,0 +1,58 @@
+company:
+  name: Yubi
+  stage: Series B (unicorn)
+  focus: |-
+    Debt marketplace fintech platform connecting borrowers,
+    lenders, investors
+position:
+  title: Lead Engineer ( Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent orchestration (LangGraph,
+      AutoGen, CrewAI), prompt engineering strategies, RAG
+      pipelines, and guardrails — directly shaping LLM behavior
+      and output quality. This is clearly ai-first.
+  responsibilities:
+  - Own end-to-end architecture of multi-agent systems spanning LLM reasoning layers,
+    React dashboards, Python, and Java microservices
+  - Architect multi-agent orchestration using LangGraph, AutoGen, or CrewAI supporting
+    tool use, memory, planning, and reflection loops
+  - Design stateful agent memory systems combining short-term context windows with
+    long-term vector stores
+  - Build prompt engineering strategies with versioning, A/B testing, and rollback
+    capabilities
+  - Implement compliance-aware guardrails including PII masking, hallucination detection,
+    and regulatory disclosure injection
+  - Oversee RAG pipeline design including chunking, embedding model selection, retrieval
+    optimisation, and re-ranking
+  - Lead, mentor, and grow a team of 3-6 engineers with 1:1s, code reviews, and career
+    development
+  - Participate in senior technical hiring and drive sprint planning with the Product
+    Manager
+  use_cases:
+  - Agentic automation of debt capital workflows between borrowers, lenders, and investors
+  - Migration of rule-based financial workflows to LLM-native agentic pipelines
+  - Compliance-aware AI with PII masking and regulatory disclosure for financial services
+  - Retrieval-augmented financial document workflows
+  - Agent memory for long-running financial processes
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, LangChain, LLMs, Prompt Engineering, RAG,
+      Vector Search, Embeddings, Guardrails, Multi-Agent Systems, Agentic Workflows]
+    ml: []
+    web: [React, Microservices]
+    databases: [Vector Databases]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, CI/CD]
+    languages: [Java, Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11885994'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:36:08.574248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

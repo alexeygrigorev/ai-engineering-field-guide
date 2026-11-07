@@ -1,0 +1,45 @@
+company:
+  name: August Law
+  stage: null
+  focus: AI agents automating legal work for law firms
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys agentic systems that automate,
+      evaluate, and scale legal workflows — designing agent flows
+      and evaluating outputs directly, so it shapes model
+      behavior. LLM/agent components are central.
+  responsibilities:
+  - Build and deploy agentic systems using Python to automate legal workflows
+  - Evaluate and scale end-to-end legal workflows
+  - Rapidly prototype, evaluate, integrate, and test new product features with customers
+    and legal team
+  - Develop AI-native workflows with streaming, long-running tasks, and procedural
+    UX
+  - Deploy AI systems in high-stakes workflows used by lawyers globally
+  use_cases:
+  - Automated legal research and drafting with expert-level reasoning
+  - Agentic automation of end-to-end legal workflows at law firms
+  - Document processing at scale with human-level accuracy targets
+  - AI-native product workflows for legal knowledge work
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11889756'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:40:40.989920'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

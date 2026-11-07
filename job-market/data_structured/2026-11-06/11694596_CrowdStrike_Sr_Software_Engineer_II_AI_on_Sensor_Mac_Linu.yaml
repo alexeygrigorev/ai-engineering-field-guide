@@ -1,0 +1,62 @@
+company:
+  name: CrowdStrike
+  stage: null
+  focus: AI-native cloud cybersecurity and endpoint protection
+position:
+  title: Sr. Software Engineer II, AI on Sensor – Mac, Linux, or Windows (Hybrid)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operationalizes ML models inside a sensor and
+      builds data pipelines that feed model training, evaluation,
+      and on-device inference. There is no evidence the person
+      shapes model behavior (no training, prompt, or eval-design
+      work) — they deliver capacity, integration, and data
+      plumbing for models others train. Per the rules,
+      serving/hosting models and building data pipelines for
+      others' training runs is ai-support.
+  responsibilities:
+  - Design and develop AI-on-sensor features for CrowdStrike's next-generation lightweight
+    agent
+  - Operationalize machine learning models inside the sensor across macOS, Linux,
+    and Windows
+  - Build data pipelines that collect, transform, and deliver sensor telemetry for
+    model training, evaluation, and on-device inference
+  - Integrate AI capabilities with core sensor features crossing file system, memory,
+    process, and networking subsystems
+  - Collaborate with sensor development teams across the company on architecture and
+    strategic initiatives
+  - Own features through the full lifecycle from design to delivery, including sprint
+    demos
+  - Mentor and support distributed development teams
+  use_cases:
+  - On-device ML inference for endpoint threat detection on macOS, Linux, and Windows
+  - Malicious behavior recognition and prevention on client machines
+  - Sensor telemetry collection and transformation for model training and evaluation
+  - Correlating threat activity across customer environments via cloud telemetry
+  skills:
+    genai: []
+    ml: [Model Deployment, Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [C++, C, Swift]
+    domains: []
+    other: [Windows Kernel Development, Driver Development, eBPF, Agile, Cybersecurity,
+      Systems Programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11694596'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - Toronto, CAN
+  - Redmond, USA
+  - New York, USA
+  - Sunnyvale, USA
+  extracted_at: '2026-11-06T12:37:38.573992'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

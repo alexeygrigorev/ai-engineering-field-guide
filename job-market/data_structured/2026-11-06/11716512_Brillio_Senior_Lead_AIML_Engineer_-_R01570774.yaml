@@ -1,0 +1,58 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Senior Lead AI/ML Engineer - R01570774
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and deploys classical ML/DL pipelines
+      (forecasting, personalization, classification) with no LLM,
+      agent, or GenAI component. The person shapes model behaviour
+      through training, evaluation, and statistical analysis, so
+      it is ml-first.
+  responsibilities:
+  - Design, develop, and maintain scalable machine learning pipelines in Java, Python,
+    or Scala
+  - Implement and optimize distributed computing solutions with Spark, DASK, or Ray
+    for large-scale data processing and model training
+  - Lead end-to-end delivery of low-latency inferencing solutions in production environments
+  - Build deep learning pipelines for forecasting and personalization using PyTorch
+    and TensorFlow
+  - Design and implement RESTful web services and integrate ML components into service-oriented
+    architectures
+  - Use real-time streaming technologies like Kafka or Storm for data ingestion and
+    processing
+  - Drive experimentation, model evaluation, and statistical analysis including hypothesis
+    testing and probabilistic graphical models
+  - Ensure ML workflow quality and reproducibility using Git, JIRA, and containerization
+    platforms like Docker or PCF
+  use_cases:
+  - Forecasting with ARIMA, ARIMAX, and exponential smoothing
+  - Personalization using deep learning models
+  - Large-scale distributed model training and data processing
+  - Real-time ML data ingestion and processing
+  - Low-latency production model inferencing
+  skills:
+    languages: [Python, R, Java, Scala]
+    domains: []
+    web: [RESTful Web Services]
+    cloud: []
+    data: [PySpark, Great Expectations, Spark, Ray, Dask, Kafka]
+    ml: [Hypothesis Testing, Regression, Probabilistic Graphical Models, Forecasting,
+      ARIMA, Decision Trees, SVM, TensorFlow, PyTorch, scikit-learn, Keras, MXNet,
+      Model Evaluation, Model Deployment, Personalization, Exponential Smoothing,
+      Model Training]
+    databases: []
+    genai: []
+    ops: [Evidently AI, Kubeflow, BentoML, Docker, Git]
+    other: [SAS, SPSS, Storm, PCF, Jira, Distance Metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11716512'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:41:33.596628'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

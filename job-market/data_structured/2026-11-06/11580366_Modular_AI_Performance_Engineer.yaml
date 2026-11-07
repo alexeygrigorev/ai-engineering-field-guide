@@ -1,0 +1,87 @@
+company:
+  name: Modular
+  stage: null
+  focus: Modular AI infrastructure and software stack
+position:
+  title: AI Performance Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role writes and optimizes attention and foundational AI
+      kernels (FlashAttention-style, paged KV-cache) that directly
+      shape how LLMs run and perform, including numerical behavior
+      and algorithmic tradeoffs. Optimizing model internals is
+      shaping, and the targets are LLM/attention components, so
+      ai-first.
+  responsibilities:
+  - Design and implement high-performance attention kernels for prefill and decode,
+    including MHA, GQA, paged attention, sliding-window/global attention, and fused
+    FlashAttention-style algorithms
+  - Build and optimize general AI kernels such as matmul, softmax, normalization,
+    activation, embedding, and data-movement primitives for new accelerators
+  - Contribute to the design and implementation of the Attention framework with reusable,
+    portable, tunable interfaces
+  - Profile workloads, identify bottlenecks, build performance models, and tune implementations
+    against hardware limits
+  - Develop benchmarks, correctness tests, regression tests, and automated performance
+    analysis
+  - Partner with Modular teams on software stack improvements and work with hardware
+    partners to validate toolchains and interfaces
+  - Write design documents, participate in technical reviews, and mentor teammates
+    on kernel quality and performance methodology
+  use_cases:
+  - High-performance attention kernel implementations for new accelerator architectures
+    (GPUs, NPUs, ASICs, TPUs)
+  - Bringing up modern LLMs on new hardware with production-ready inference performance
+  - Reusable attention framework enabling model and kernel developers to express attention
+    variants
+  - End-to-end performant token serving for cloud users
+  skills:
+    genai: [LLMs]
+    ml: [CUDA, PyTorch, JAX, TensorFlow, MLIR, LLVM, CUTLASS, Pallas, FlashAttention,
+      Quantization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, vLLM, TensorRT-LLM]
+    languages: [Mojo]
+    domains: []
+    other: [High-Performance Computing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11580366'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T12:15:01.995821'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

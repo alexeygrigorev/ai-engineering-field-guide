@@ -1,0 +1,46 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and software development
+position:
+  title: AI-Powered Java Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and AI frameworks (LangChain,
+      Semantic Kernel, LlamaIndex) into applications and builds
+      AI-driven features, which involves designing AI
+      orchestration and shaping how LLMs are used in the product.
+  responsibilities:
+  - Architect and develop full-stack applications using Java and Spring Boot
+  - Integrate LLMs and AI frameworks such as LangChain, Semantic Kernel, and LlamaIndex
+    into software ecosystems
+  - Design backend services supporting Python-based AI modules and TypeScript/Node.js
+    interfaces
+  - Collaborate with cross-functional teams to translate business requirements into
+    AI-driven features
+  - Optimize application performance and resolve AI integration challenges
+  - Maintain code quality through testing, code reviews, and best practices
+  use_cases:
+  - Enterprise applications with embedded AI capabilities
+  - Intelligent, context-aware applications powered by LLMs
+  - Scalable full-stack software for technology sector clients
+  skills:
+    genai: [LangChain, Semantic Kernel, LlamaIndex, LLMs]
+    ml: [Machine Learning]
+    web: [Spring Boot]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891594'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:17.761739'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

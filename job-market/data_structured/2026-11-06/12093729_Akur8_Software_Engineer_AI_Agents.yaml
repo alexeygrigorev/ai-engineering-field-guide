@@ -1,0 +1,55 @@
+company:
+  name: Akur8
+  stage: null
+  focus: |-
+    Transparent machine learning SaaS for insurance pricing and
+    risk
+position:
+  title: Software Engineer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs tool-calling patterns, agent orchestration,
+      retrieval patterns, RL fine-tuning harnesses, and evals for
+      LLM agents — clearly shaping LLM/agent behavior, so ai-
+      first. Customer interaction is mentioned but as-needed for
+      understanding, though the description explicitly says
+      engineers talk to customers.
+  responsibilities:
+  - Design and refine tool-calling patterns and agent orchestration for multi-step
+    research tasks across thousands of documents
+  - Build ingestion and normalization systems for millions of complex structured regulatory
+    documents
+  - Build and iterate on reinforcement fine-tuning harnesses, including training graders
+    for research tasks
+  - Develop tooling to measure, profile, and optimize agent pipeline latency, cost,
+    and quality
+  - Build evaluation infrastructure to rigorously answer whether changes improve the
+    product
+  - Run experiments end-to-end and translate findings into product recommendations
+  - Ship user-facing product features in production and engage with customers to understand
+    problems
+  use_cases:
+  - Transforming millions of messy insurance regulatory documents into queryable intelligence
+  - Agent systems for multi-step research and reasoning across related documents
+  - Insurance pricing, reserving, and risk decision workflows
+  - Evaluation and data quality for agent pipelines in production
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, RAG]
+    ml: [Fine-Tuning, Reinforcement Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12093729'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:57:04.488560'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: dotSolved System Inc.
+  stage: null
+  focus: Enterprise AI/ML and data engineering solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines with vector
+      databases and implements guardrails for LLM-based systems,
+      directly shaping LLM behavior and output quality. It also
+      covers classical ML and MLOps, but with an LLM component
+      involved, the role is ai-first.
+  responsibilities:
+  - Design and implement end-to-end AI/ML solutions including LLM-based applications
+  - Build RAG pipelines using vector databases and enterprise data sources
+  - Build ML models with automated training, validation, monitoring, and retraining
+  - Develop APIs and services to operationalize AI capabilities
+  - Build ingestion and transformation pipelines for multi-modal structured and unstructured
+    data
+  - Integrate AI workflows with enterprise systems (policy, claims, billing)
+  - Implement CI/CD for AI/ML workflows and deploy, monitor, and maintain models in
+    production
+  - Build solutions on AWS including SageMaker, Lambda, S3, Glue, EKS, and Bedrock
+  - Implement guardrails for LLM-based systems and ensure secure data handling
+  use_cases:
+  - LLM-based enterprise applications with RAG over enterprise data
+  - Automation of model training, validation, monitoring, and retraining
+  - Multi-modal content ingestion and data transformation pipelines
+  - Integration of AI workflows with insurance enterprise systems (policy, claims,
+    billing)
+  - Production deployment and monitoring of AI models on AWS
+  skills:
+    genai: [LLMs, RAG, Guardrails, AWS Bedrock, Generative AI]
+    ml: [Model Training, NLP, Machine Learning, Model Evaluation]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Pinecone, Weaviate]
+    data: [Data Pipelines, Data Governance]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, EKS]
+    ops: [MLOps, CI/CD, Model Monitoring, Model Deployment, Docker, Kubernetes, Distributed
+        Systems]
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11498866'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T11:59:48.814237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

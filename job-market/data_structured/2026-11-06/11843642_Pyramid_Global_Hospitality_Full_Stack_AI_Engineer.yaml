@@ -1,0 +1,62 @@
+company:
+  name: Pyramid Global Hospitality
+  stage: null
+  focus: Hospitality and hotel management company
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers AI agents, RAG, prompt design,
+      tool/function calling, guardrails, and evaluation on
+      Microsoft Foundry - directly shaping LLM behavior, so it is
+      ai-first. Full-stack duties are secondary but the AI
+      component clearly drives model output quality.
+  responsibilities:
+  - Design, build and support secure, reliable full stack web applications and internal
+    tools (React, Node.js, serverless APIs)
+  - Design and deliver AI-enabled features and AI agents using LLMs, Agentic AI and
+    RAG on Microsoft Foundry, including tool use, guardrails and evaluation
+  - Develop, deploy and maintain machine learning models for predictive analytics
+    to improve forecasting and budgeting
+  - Build and maintain data pipelines, database schemas and APIs feeding applications
+    and AI solutions
+  - Write automated tests and ship through CI/CD pipelines
+  - Resolve application and data integrity issues addressing root causes
+  - Support migration of legacy tools to modern cloud, data, and AI technologies
+  - Collaborate with company-wide stakeholders on technology solutions
+  use_cases:
+  - Internal decision-support tools for hotel field leaders, executives, and property
+    owners
+  - AI agents and RAG-based assistants built on Microsoft Foundry
+  - Predictive analytics for hotel forecasting and budgeting
+  - Data integrations and pipelines powering applications and AI solutions
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, AI Agents, Prompt Engineering, Function
+        Calling, Guardrails, LLM Evaluation, Azure OpenAI, Claude Code]
+    ml: [Machine Learning, Predictive Analytics]
+    web: [React, Node.js, APIs, OAuth, Automated Testing]
+    databases: [SQL]
+    data: [Data Engineering, Data Pipelines, Data Modeling]
+    cloud: [Azure, Azure AI Foundry]
+    ops: [Git, CI/CD, Azure DevOps]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Microsoft Fabric, Microsoft Entra ID]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11843642'
+  location: CAN
+  locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Pyramid, USA
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-11-06T13:22:30.195893'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

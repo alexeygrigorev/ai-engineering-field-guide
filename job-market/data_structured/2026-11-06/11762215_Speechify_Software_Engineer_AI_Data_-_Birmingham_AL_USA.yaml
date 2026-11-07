@@ -1,0 +1,49 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio products
+position:
+  title: Software Engineer, AI Data - Birmingham, AL, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data
+      processing systems that feed model training runs owned by AI
+      scientists. It moves and processes data rather than shaping
+      model behaviour (no prompt design, training, or eval work).
+      Building datasets that feed someone else's training is ai-
+      support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets and support next-generation
+    model development
+  - Take ownership of engineering projects from problem discovery through implementation
+    and continuous improvement
+  use_cases:
+  - Text-to-speech audio generation for reading accessibility
+  - Petabyte-scale training dataset construction for TTS models
+  - Audio data acquisition and ingestion pipelines
+  - Learning accessibility for dyslexia and ADD users
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code, Distributed Systems]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762215'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:54:21.475557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

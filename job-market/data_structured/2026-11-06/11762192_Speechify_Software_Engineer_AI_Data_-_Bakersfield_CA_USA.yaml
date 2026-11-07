@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Bakersfield, CA, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and data-processing systems
+      that feed other teams' model training runs. Building
+      datasets/pipelines for someone else's training is explicitly
+      ai-support; the role moves and processes data but does not
+      shape model behavior itself.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimized for quality, throughput,
+    and cost
+  - Collaborate with AI Scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech reading products converting documents and articles to audio
+  - Building petabyte-scale audio training datasets for next-generation TTS models
+  - Accessibility for users with learning differences such as dyslexia and ADD
+  skills:
+    genai: []
+    ml: [ML Training Data]
+    web: []
+    databases: []
+    data: [Data Pipelines, Distributed Data Processing]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762192'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:52:21.228967'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

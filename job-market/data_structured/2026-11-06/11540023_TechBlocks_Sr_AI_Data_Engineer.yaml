@@ -1,0 +1,48 @@
+company:
+  name: TechBlocks
+  stage: null
+  focus: Data engineering and enterprise analytics solutions
+position:
+  title: Sr AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building of LLM/AI agents and MCP
+      servers in Python, plus agentic workflows for data mapping,
+      classification and anomaly detection — directly shaping
+      agent/tool behaviour. Data engineering is a large part but
+      the agent-shaping work makes it ai-first.
+  responsibilities:
+  - Build production-grade data ingestion and transformation pipelines
+  - Integrate enterprise source systems such as ERP, planning and HR systems
+  - Integrate Databricks with Microsoft Fabric and OneLake
+  - Build LLM/AI agents and MCP servers using Python
+  - Apply agentic workflows for data mapping, classification and anomaly detection
+  - Ensure data quality, reconciliation, lineage and governance
+  - Translate business and technical requirements into data solutions
+  use_cases:
+  - AI-powered data ingestion and transformation pipelines
+  - Agentic data mapping, classification and anomaly detection
+  - Financial data engineering for FP&A, budgets, forecasts and allocations
+  - Enterprise analytics across ERP, planning and HR source systems
+  - Governed, secure access for AI agents and enterprise data
+  skills:
+    genai: [LLMs, AI Agents, MCP, Agentic Workflows, LangChain, LangGraph]
+    ml: [Anomaly Detection]
+    web: []
+    databases: [Unity Catalog, OneLake, Lakehouses]
+    data: [Data Engineering, Databricks, PySpark, Delta Lake, Data Modeling, Slowly
+        Changing Dimensions, Data Governance, Data Quality]
+    cloud: [Microsoft Fabric]
+    ops: [Databricks Workflows]
+    languages: [SQL, Python]
+    domains: []
+    other: [Star Schemas, Financial Data Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11540023'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:08:02.432027'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

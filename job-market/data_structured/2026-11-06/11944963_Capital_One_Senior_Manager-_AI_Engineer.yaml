@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Senior Manager- AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role oversees foundation model training, LLM inference,
+      guardrails, model evaluation, and agentic workflows,
+      directly shaping LLM behavior and output quality. It is a
+      management role but the deliverables include shaping LLM-
+      based systems, so it classifies as ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Oversee design, development, deployment, and support of AI components including
+    foundation model training, LLM inference, similarity search, guardrails, and model
+    evaluation
+  - Make build-vs-buy decisions across open source and SaaS AI technologies
+  - Introduce foundation model optimization techniques to improve scalability, cost,
+    and latency of production AI systems
+  - Manage, attract, and mentor top AI engineering talent
+  - Translate enterprise AI goals into actionable team roadmaps with measurable outcomes
+  - Operationalize Responsible AI with review gates, evaluation requirements, and
+    rollout/rollback standards
+  - Collaborate with Research, Data, and Platform teams to accelerate the model lifecycle
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud detection and unusual charge alerts
+  - Real-time customer question answering
+  - Internal AI platforms empowering teams to enhance products with AI
+  - Production AI systems with responsible AI governance
+  skills:
+    genai: [Guardrails, LLM Evaluation, Agentic Workflows, AI Agents]
+    ml: [PyTorch, Hugging Face, Model Training, CUDA, Quantization]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Model Monitoring]
+    languages: [Python, C++, C#, Java, Go]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11944963'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:04:47.267297'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

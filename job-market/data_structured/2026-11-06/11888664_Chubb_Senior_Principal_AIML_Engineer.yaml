@@ -1,0 +1,49 @@
+company:
+  name: Chubb
+  stage: null
+  focus: Property and casualty insurance
+position:
+  title: Senior Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role researches and implements embedding techniques,
+      fine-tuning, and zero-shot/few-shot learning using LLM
+      tooling like LangChain and LlamaIndex, directly shaping
+      model behavior and output quality. Since LLMs and NLP
+      generation components are central, it is ai-first.
+  responsibilities:
+  - Design, build, and test machine learning models with data scientists to solve
+    business challenges
+  - Research and implement state-of-the-art modeling approaches including zero-shot/few-shot
+    learning, embeddings, and fine-tuning
+  - Ensure high-quality code meeting business objectives, quality standards, and secure
+    web development guidelines
+  - Build reusable tools to streamline the modeling pipeline and share knowledge
+  - Manage project stakeholder expectations and communicate progress
+  - React to shifting priorities without compromising deadlines
+  use_cases:
+  - Complex business challenge solving with ML in insurance
+  - Text cleaning, entity extraction, and similarity matching on documents
+  - Encoder-decoder NLP architectures
+  - Scalable end-to-end ML/NLP systems
+  skills:
+    genai: [LLMs, LangChain, LlamaIndex, Embeddings]
+    ml: [Machine Learning, Fine-Tuning, Transformers, Feature Engineering, Neural
+        Networks]
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Jenkins]
+    languages: [Python]
+    domains: [NLP]
+    other: [Uvicorn]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888664'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:40:02.661437'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

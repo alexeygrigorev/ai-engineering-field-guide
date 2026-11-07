@@ -1,0 +1,53 @@
+company:
+  name: JazzX AI
+  stage: null
+  focus: AI-native digital workers for enterprise workflows
+position:
+  title: Senior Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: designing RL
+      training pipelines, reward shaping, LLM training/fine-tuning
+      (including RLHF-style RLVR, GRPO), and test-time compute
+      strategies like chain-of-thought reasoning. LLM components
+      are explicitly involved, so it is ai-first.
+  responsibilities:
+  - Define end-to-end architecture for RL-based systems including training pipelines,
+    simulation environments, reward shaping, and model serving
+  - Apply cutting-edge RL techniques (policy optimization, model-based, hierarchical,
+    multi-agent RL) to enterprise problems
+  - Design distributed training systems and cloud-native infrastructure optimized
+    for performance and cost
+  - Provide technical leadership and mentorship to AI engineers and researchers
+  - Partner with product, data, and platform teams to integrate RL solutions into
+    production
+  - Define benchmarking and continuous evaluation frameworks for deployed RL models
+  - Ensure RL systems meet safety, ethics, and regulatory standards
+  use_cases:
+  - RL-driven AI reasoning for enterprise AGI platform
+  - Lending and due-diligence workflows
+  - Governed digital workers capturing expert judgment
+  - Multi-agent coordination in complex enterprise environments
+  - Explainable, safe decision-making in regulated domains
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, PPO, A3C, SAC, DDPG, RLVR, GRPO, Multi-Agent Systems,
+      OpenAI Gym, Isaac Gym, PettingZoo, MuJoCo, Chain-of-Thought Reasoning, Fine-Tuning,
+      LLM Training, TensorFlow, PyTorch, JAX, Ray RLlib]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud ML Platforms]
+    ops: [Kubernetes, Distributed Training, GPU Clusters]
+    languages: [Python, C++, Java]
+    domains: []
+    other: [Explainability, AI Safety]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983299'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:17:58.762618'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

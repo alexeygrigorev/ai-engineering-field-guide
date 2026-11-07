@@ -1,0 +1,53 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: AI safety research building Claude foundation models
+position:
+  title: Applied AI Engineer, Beneficial Deployments (Lab Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role deploys Claude to drive lab automation, taking LLM-
+      powered tools from prototype to production and building
+      evals to measure model capabilities and safety in the
+      physical world. This directly shapes LLM/agent behavior and
+      output quality (evals, features, agent-driven hardware
+      control), so it is ai-first. It is also customer-facing
+      field work with labs.
+  responsibilities:
+  - Work with research labs to automate experiments end-to-end with Claude, from advising
+    to prototyping to production code
+  - Deploy the Model Hardware Standard (MHS) to research labs
+  - Build evals measuring model capabilities and safety limitations in the physical
+    world
+  - Develop new features on MHS and drive internal product and research direction
+    from field experience
+  - Create reusable cookbooks, documentation, and other assets to scale impact to
+    more labs
+  - Act as EMEA ambassador for Claude in the lab, presenting to scientific audiences
+    and conferences
+  - Travel significantly for lab deployments
+  use_cases:
+  - End-to-end automation of scientific experiments with Claude
+  - Driving scientific hardware and software via the Model Hardware Standard
+  - Lab automation with liquid handlers, plate readers, and scheduling software
+  - Evaluating AI capabilities and safety in the physical world for life sciences
+  skills:
+    genai: [LLMs, LLM Evaluation, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Lab Automation, LIMS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11631225'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:26:38.587607'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

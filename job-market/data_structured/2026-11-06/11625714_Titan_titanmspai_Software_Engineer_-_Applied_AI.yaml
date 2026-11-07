@@ -1,0 +1,47 @@
+company:
+  name: Titan (titanmsp.ai)
+  stage: null
+  focus: AI agents for IT service desk and operations
+position:
+  title: Software Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent harnesses, agent workflows, and tools
+      for AI agents in production, plus designs evals and hill-
+      climbs agents against them — directly shaping LLM/agent
+      behavior. Clear ai-first.
+  responsibilities:
+  - Embed with portfolio teams to understand technical requirements and business objectives
+  - Architect and build integrations, APIs, and agent workflows on Titan's platform
+  - Build and evolve the agent harness and tools AI agents run on
+  - Work with partner leadership to drive adoption and shape business outcomes
+  - Build platform and software systems that scale future deployments
+  - Design evals measuring agent quality and hill-climb agents against them
+  - Own backend systems, data pipelines, and model-adjacent infrastructure
+  use_cases:
+  - AI agents that monitor, triage, and resolve IT service desk tickets
+  - Agent-driven infrastructure, security, identity, endpoint, and application operations
+  - Automated ticket resolution across MSP and enterprise customers
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation]
+    ml: []
+    web: [APIs, Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11625714'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:24:28.538785'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

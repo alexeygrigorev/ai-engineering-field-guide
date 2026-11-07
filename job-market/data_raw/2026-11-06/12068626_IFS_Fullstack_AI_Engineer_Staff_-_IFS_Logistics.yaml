@@ -1,0 +1,214 @@
+job_id: 12068626
+title: Fullstack AI Engineer (Staff) - IFS Logistics
+company: IFS
+location: London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 6,788 Employees
+description: |
+  Company Description
+
+  IFS is a billion-dollar revenue company with 7000+ employees
+  on all continents. Our leading AI technology is the backbone
+  of our award-winning enterprise software solutions, enabling
+  our customers to be their best when it really matters–at the
+  Moment of Service™. Our commitment to internal AI adoption
+  has allowed us to stay at the forefront of technological
+  advancements, ensuring our colleagues can unlock their
+  creativity and productivity, and our solutions are always
+  cutting-edge.
+
+  At IFS, we’re flexible, we’re innovative, and we’re focused
+  not only on how we can engage with our customers but on how
+  we can make a real change and have a worldwide impact. We
+  help solve some of society’s greatest challenges, fostering
+  a better future through our agility, collaboration, and
+  trust.
+
+  We celebrate diversity and understand our responsibility to
+  reflect the diverse world we work in. We are committed to
+  promoting an inclusive workforce that fully represents the
+  many different cultures, backgrounds, and viewpoints of our
+  customers, our partners, and our communities. As a truly
+  international company serving people from around the globe,
+  we realize that our success is tantamount to the respect we
+  have for those different points of view.
+
+  By joining our team, you will have the opportunity to be
+  part of a global, diverse environment; you will be joining a
+  winning team with a commitment to sustainability; and a
+  company where we get things done so that you can make a
+  positive impact on the world.
+
+  We’re looking for innovative and original thinkers to work
+  in an environment where you can #MakeYourMoment so that we
+  can help others make theirs. With the power of our AI-driven
+  solutions, we empower our team to change the status quo and
+  make a real difference.
+
+  If you want to change the status quo, we’ll help you make
+  your moment. Join Team Purple. Join IFS.
+
+  Job Description
+
+  About IFS Logistics
+
+  IFS Logistics (built and launched as 7bridges, now part of
+  IFS) is an AI-native enterprise logistics platform. We unify
+  transport data, optimise carrier spend, and automate
+  execution for enterprise shippers and logistics companies.
+  We are a small, dedicated product and engineering team
+  inside IFS, reporting into the commercial organisation
+  rather than central R&D. Pure SaaS, zero consultancy: if a
+  customer needs us to operate the software for them, we have
+  failed.
+
+  The role
+
+  This is not a traditional "add AI to an existing system"
+  role. You will set the technical direction for our
+  Experience squad — the layer where the whole platform meets
+  the customer: SSO and identity, IFS Intelligence
+  integration, the demo environment, and the cross-product
+  surface that ties Data Connect, TPAO, Shipper TMS and
+  Revenue Protect into one product.
+
+  You start from the user's problem, not the system's. You
+  will understand how a logistics team actually works with the
+  product, and let that shape what you build and how.
+
+  The squad does not exist yet. You will help build it, set
+  its architecture and standards, and be accountable for what
+  it ships. You stay hands-on — this is not a management-only
+  role. You are the squad's technical voice to the VP Product
+  and Director of Software Architecture.
+
+  Your depth is backend and platform. Every engineer here is
+  expected to be genuinely fullstack; the profile describes
+  where your depth is, not a boundary you stay inside. You
+  will review React as readily as Django.
+
+
+
+  What you'll work on
+
+  - The end-to-end user journey across four product areas: one
+    identity, permission and navigation model, and one
+    experience from first login to the shipment resolved.
+  - The technical architecture that connects Experience to every
+    other integrated system, with clear service boundaries and
+    contracts, written down and defended.
+  - Working with the Product and UX Lead from the problem
+    onwards, and seeing what customers do with what you ship.
+  - SSO, tenancy and permissions done once, properly — "all data
+    visible by default, restricted only by exception".
+  - A demo environment that is a real product surface, not a
+    fixture — commercially load-bearing and used every week.
+  - IFS Intelligence and IFS Cloud integration, including the
+    embedding path opened up by Project Oliver.
+  - Where the agent sits in each new surface, and the
+    guardrails, observability and cost controls that make
+    agentic behaviour safe to ship.
+
+  Qualifications
+
+  What we're looking for
+
+  - Around eight years or more building and running production
+    software, with real depth in Python/Django REST API
+    design, data modelling and service reliability.
+  - You have set technical direction for a team: chosen the
+    approach, written it down, defended it, and changed it
+    when you were wrong.
+  - Strong on performance, cost and observability. You have
+    owned the pager as well as the design doc.
+  - Genuinely fullstack and user-minded — comfortable in React,
+    you think about how a change feels to the person using it,
+    and you raise the bar on frontend work even if you do not
+    write it yourself.
+  - You raise other people's standards. Review, pairing and
+    honest feedback are things you do by default.
+  - AI-native in practice: you build with Cursor and Claude
+    daily, you know how to give an agent the right context,
+    and you can tell when its output is wrong.
+  - You form and state a view. Ambiguity is part of the job, not
+    a blocker.
+
+  Nice to have
+
+  - Multi-tenant enterprise SaaS, SSO/identity, or ERP
+    integration experience.
+  - LLM agent orchestration, RAG or evals in production.
+  - Shipped agents into a product for real work, like agentic
+    audit or agent-managed fulfilment rules, with a view on
+    where an agent earns its place and where it does not.
+  - Simulation or scenario modelling: synthetic data or replay
+    used to prove out logic before it ships.
+  - BigQuery, dbt, Pub/Sub, GCP, Kubernetes, Terraform.
+  - Logistics, supply chain or freight.
+
+  Tech stack
+
+  - Frontend: React, TypeScript, Node.js.
+  - Backend & APIs: Python, Django REST Framework.
+  - Data & analytics: BigQuery, dbt, Cube Cloud, Superset.
+  - Streaming & ingestion: Pub/Sub, Datastream.
+  - Cloud & infrastructure: GCP, Kubernetes, Terraform, GitLab
+    CI/CD.
+  - AI: LLMs, RAG, agent frameworks, evals.
+  - Developer tooling: Cursor + Claude, Notion (SDD Central),
+    Jira.
+
+  What success looks like — first 6 months
+
+  - The Experience squad has a written technical approach that
+    the rest of engineering uses as a reference point.
+  - The end-to-end user journey is mapped, and the worst breaks
+    in it (hidden data, creeping navigation) are fixed in
+    production.
+  - You have spoken with customers and the people who support
+    them, and what you heard has changed what the squad
+    builds.
+  - The integration architecture to all connected systems is
+    agreed, documented and used as the reference by other
+    squads.
+  - The surfaces the squad owns are in production, observable,
+    and within cost budget.
+  - SSO and cross-product permissions are shipped and self-
+    serve.
+  - Code review on all merge requests and no direct-to-prod are
+    real in your squad, not aspirational.
+  - The engineers in the squad are visibly better than when they
+    joined.
+
+  Why this role exists now
+
+  We are shifting from feature-driven engineering to agent-led
+  product architecture. The Experience layer is where that
+  shift is most visible and where it currently hurts most:
+  navigation has crept, data is hidden that should not be, and
+  agent-first thinking is not yet applied systematically. That
+  gap is the job. We are honest about it — and we need someone
+  who will set the direction rather than wait for one.
+
+  Additional Information
+
+  You'll need to be based in either the UK or the Netherlands
+  - we're a remote team with clusters of people in London and
+  Amsterdam.
+
+
+
+  We embrace flexibility and hybrid work opportunities to
+  support diverse needs and lifestyles, while also valuing
+  inclusive workplace experiences. By fostering a sense of
+  community, we drive innovation, strengthen connections, and
+  nurture belonging. Our commitment ensures you can work in a
+  way that suits you best, while also engaging with colleagues
+  to share ideas and build meaningful relationships.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-04
+url: "https://builtin.com/job/fullstack-ai-engineer-staff-ifs-logistics/12068626"
+source: Built In

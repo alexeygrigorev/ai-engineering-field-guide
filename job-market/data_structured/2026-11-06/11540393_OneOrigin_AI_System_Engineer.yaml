@@ -1,0 +1,44 @@
+company:
+  name: OneOrigin
+  stage: null
+  focus: AI software solutions for higher education institutions
+position:
+  title: AI System Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with LLMs, GenAI, RAG,
+      and AI Agents, plus building and architecting AI systems,
+      which means shaping model behavior through retrieval and
+      agent design. LLM components are explicitly involved, so it
+      is ai-first.
+  responsibilities:
+  - Build and architect AI systems using LLMs, GenAI, RAG, and AI Agents
+  - Develop backend/API services in Python
+  - Design distributed systems and scalable cloud architectures
+  - Deploy and operate workloads with Docker/Kubernetes on AWS, Azure, or GCP
+  - Work with databases and vector databases to support AI solutions
+  use_cases:
+  - Automating administrative tasks for colleges and universities
+  - Enhancing student engagement
+  - Enabling data-driven decision-making in higher education
+  - Providing actionable insights and improving learning outcomes
+  skills:
+    genai: [LLMs, Generative AI, RAG, AI Agents]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Databases, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11540393'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:08:11.383719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

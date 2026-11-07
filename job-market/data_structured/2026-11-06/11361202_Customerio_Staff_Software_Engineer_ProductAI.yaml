@@ -1,0 +1,54 @@
+company:
+  name: Customer.io
+  stage: null
+  focus: Automated customer messaging platform for email, push, SMS
+position:
+  title: Staff Software Engineer, Product/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      AI is used as a tool throughout the engineering workflow
+      (AI-assisted coding, testing workflows, automation
+      opportunities), not to shape model behavior. No prompt
+      engineering, retrieval design, or model training is
+      described.
+  responsibilities:
+  - Own ambiguous problems end-to-end from framing through launch and iteration
+  - Partner with product, design, and data to shape priorities and define success
+    metrics
+  - Lead technical decisions across the stack including architecture, performance,
+    and reliability
+  - Build alignment across teams and resolve technical disagreements on complex initiatives
+  - Improve engineering practices through mentorship, reusable patterns, and technical
+    guidance
+  - Use AI throughout engineering work with sound judgment on where it helps and how
+    to review output
+  - Test new AI workflows, share learnings, and identify automation opportunities
+    for the team
+  - Participate in an on-call rotation supporting team-built systems
+  use_cases:
+  - Automated messaging platform sending billions of emails, push notifications, in-app
+    messages, and SMS
+  - Real-time behavioral data to power relevant customer communication
+  - AI-assisted software development across the engineering lifecycle
+  - Automation opportunities to improve team workflows
+  skills:
+    genai: []
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11361202'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:35:49.589242'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

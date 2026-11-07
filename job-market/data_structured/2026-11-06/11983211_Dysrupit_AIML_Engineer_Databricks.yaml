@@ -1,0 +1,55 @@
+company:
+  name: Dysrupit
+  stage: null
+  focus: |-
+    Global cloud services and as-a-Service transformation
+    consulting
+position:
+  title: AI/ML Engineer (Databricks)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and productionizes RAG pipelines, agentic
+      systems, and LLM orchestration (LangChain/LangGraph)
+      directly, shaping model behaviour via retrieval and agent
+      flows. Both GenAI and classical ML work is present, which
+      classifies as ai-first.
+  responsibilities:
+  - Build and productionize feature, training, and serving pipelines for ML and GenAI
+    use cases using MLflow
+  - Deliver Generative AI and agentic systems on Databricks, including data prep for
+    RAG pipelines, vector search integration, and Databricks Genie Spaces
+  - Stand up new AI use cases end to end from data preparation to working prototype
+  - Build reusable Databricks templates and accelerators for RAG, agentic assistants,
+    forecasting, and personalisation use cases
+  - Optimize Databricks jobs, clusters, and workflows for cost, performance, and reliability
+    at production scale
+  - Work directly with client engineering teams and stakeholders to gather requirements,
+    troubleshoot, and hand over documentation and runbooks
+  use_cases:
+  - RAG-based enterprise search and knowledge retrieval
+  - Agentic assistants and agentic AI systems on Databricks
+  - Recommenders, ranking, and personalization systems
+  - Forecasting use cases
+  - AI/BI tooling such as Databricks Genie Spaces
+  - Production ML pipelines from notebook experimentation to governed at-scale deployment
+  skills:
+    genai: [RAG, LangChain, LangGraph, AI Agents, Agentic Workflows]
+    ml: [scikit-learn, PyTorch, Recommenders, Forecasting, Causal Inference]
+    web: []
+    databases: [Vector Search, Unity Catalog]
+    data: [Databricks, Pandas, PySpark, Spark, Delta Lake]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow]
+    languages: [Python, SQL]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11983211'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T14:17:50.268031'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,285 @@
+job_id: 11893531
+title: AI and Cloud Security Engineer
+company: TD SYNNEX
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - IND
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - New Delhi, IND
+  - Pune, IND
+  - Kochi, IND
+  - Ahmedabad, IND
+  - Kolkata, IND
+  - San José, CRI
+  - Mumbai, IND
+  - Chennai, IND
+  - Barcelona, ESP
+  - Hyderabad, IND
+  - Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 22,000 Employees
+description: |
+  Overview
+
+  TD SYNNEX (NYSE: SNX) is the world's largest IT distributor,
+  and we are accelerating AI adoption across Azure AI Foundry,
+  AWS Bedrock, Copilot Studio, Databricks, and self-hosted
+  agent environments. Our security philosophy is distinctive:
+  rather than slowing innovation with pre-approval
+  gatekeeping, we operate a runtime-first, default-allow
+  security posture — every AI interaction is intercepted,
+  analyzed, and enforced at the moment of execution. In our
+  architecture, the traditional network perimeter no longer
+  defines the defensive boundary: the AI agent is the
+  perimeter.
+
+  The AI & Cloud Security team is chartered to make that
+  vision operational. We are seeking senior technical owner of
+  the AI security runtime control plane and detection fabric.
+  You will build and integrate the inline enforcement pipeline
+  (AI gateway → runtime data protection → intent-based
+  enforcement), tune the policies that keep it fast and low-
+  friction, and serve as the final escalation point for the
+  most complex AI and cloud security incidents. You will also
+  help implement and participate in operation of a closed-loop
+  defensive system in which continuous red-team findings
+  automatically improve runtime policies, detection logic, and
+  SOC threat models. You join a team of two AI & Cloud
+  Security Architects and will be the engineering force that
+  turns strategy into operating controls — across a multi-
+  cloud estate (Azure, AWS, GCP).
+
+  This role involves collaborating with cross-functional teams
+  to ensure the security of AI and cloud environments, AI
+  applications and infrastructure, addressing potential
+  threats, and maintaining compliance with regulatory
+  standards. The ideal candidate will have a strong background
+  in AI technologies and their implementation as well as cloud
+  security, security principles and cybersecurity best
+  practices. The ability to develop automation in both AI and
+  cloud environments with infrastructure as code (IaC) or
+  policy as code principles is required. The engineer will
+  report to AI & Cloud Security leadership and have strong
+  working relationships with IT and application development
+  leadership.
+
+  Responsibilities
+
+  - Integration — build and own the AI runtime control plane.
+    Engineer, deploy and operate the inline enforcement
+    pipeline for AI traffic: an AI gateway chained with
+    runtime data-protection and intent-based enforcement
+    platforms, fronting LLMs, tools, and MCP servers across
+    Azure AI Foundry, AWS Bedrock, GCP Vertex, Copilot Studio,
+    Databricks, and self-hosted environments.
+  - Harden the gateway layer for resilience: configure buffering
+    and overload management, enforcement timeouts on external-
+    processing filters, layered global/local rate limiting,
+    and prompt-truncation filters to defend against token-
+    exhaustion and "reasoning overload" denial-of-service
+    attacks.
+  - Integrate the wider AI security ecosystem into one coherent
+    system: onboard AI asset-intelligence context (agent
+    inventory, ownership, blast radius) into enforcement
+    decisions; connect model-security and supply-chain
+    telemetry and continuous red-team signals into SIEM
+    correlation and SOC workflows; stream unified AI
+    detections, decision logs, and policy events for forensics
+    and audit.
+  - Policy tuning — enforce without friction. Author and
+    calibrate runtime policies: prompt-injection and jailbreak
+    prevention, PII detection/redaction and data masking,
+    intent-based filtering, tool-call validation, MCP access
+    control, and agent permission boundaries (including
+    "lethal trifecta" prevention for low-code agents). Balance
+    detection versus hard-block modes to minimize false
+    positives, and tune per AI archetype — embedded SaaS
+    copilots, democratized low-code agents, homegrown agentic
+    pipelines, device-based coding agents, and homegrown
+    models.
+  - Operate the closed loop: translate continuous adversarial-
+    testing findings into runtime policy updates, new
+    detection content, and guardrail tuning, then validate
+    remediation through re-testing — so defenses evolve with
+    attackers rather than remaining static.
+  - L3 coverage — final escalation for the AI Security toolset.
+    Lead deep investigations of AI-specific attacks
+    (direct/indirect prompt injection, RAG poisoning, memory
+    poisoning, agent hijacking, MCP/tool abuse, model
+    manipulation, AI-driven data exfiltration), perform
+    decision-replay forensics and root-cause analysis, drive
+    automated containment (agent quarantine, permission
+    revocation, kill switch) toward our sub-15-minute
+    containment objectives, and mentor L2 analysts.
+    Troubleshoot any incidents related to policies.
+  - Evaluate and pilot AI security vendors: run structured
+    proofs-of-concept for runtime defense, AIDR, AI-SPM, AI
+    red-teaming, and model-security platforms, and provide
+    technical recommendations as the stack matures.
+  - Engineer and operate cloud security controls across Azure,
+    AWS, and GCP — posture policies, detection tuning, and
+    remediation of misconfigurations, excessive entitlements,
+    and workload risks, including the Kubernetes estates
+    (AKS/EKS) hosting the AI gateway layer.
+  - Design and maintain secure multi-cloud patterns consistent
+    with company approved architectural blueprint as well as
+    zero-trust agent access: least-privilege identity for
+    humans, service principals, and agents (Entra ID, AWS IAM,
+    GCP IAM, PAM), conditional access for AI platforms, and
+    least-privilege OAuth scopes for agent integrations.
+  - Embed security into DevSecOps: Infrastructure-as-Code
+    (Terraform) scanning, container/Kubernetes security,
+    secrets management, CI/CD hardening, and pre-deployment AI
+    security testing gates in Azure DevOps/GitHub Actions.
+  - Support cloud workload vulnerability management (VMs,
+    containers, registries, serverless) with risk-based
+    prioritization, and act as escalation point for
+    investigations spanning cloud, identity, endpoint, and AI
+    telemetry.
+
+  Critical Skills
+
+  - Proven ability to integrate enterprise security platforms
+    into one system: API/connector engineering, log ingestion
+    and normalization, SIEM/SOAR integration, and multi-vendor
+    inline architectures.
+  - Strong AI/GenAI security depth: LLM and agentic-AI threat
+    models (OWASP LLM Top 10 2025, OWASP Agentic Top 10, MITRE
+    ATLAS), prompt-injection/jailbreak defense, RAG security,
+    AI guardrails and gateways, MCP security, and the AI-
+    SPM/AIDR/AI-red-teaming tooling categories. Hands-on
+    experience with AI security technologies is highly valued;
+    so is experience with open-source AI security tooling.
+  - Multi-cloud security engineering across Azure, AWS, and GCP:
+    CSPM/CWPP/CNAPP operations, cloud identity and
+    entitlements, Kubernetes and container security, and
+    secure architecture (hub-and-spoke, segmentation, baseline
+    protection).
+  - Proficiency in KQL, PowerShell, and Python for automation,
+    detection engineering, and tooling; DevSecOps and IaC
+    security (Terraform); CI/CD pipeline integration.
+  - A pragmatic, enablement-first security mindset: comfortable
+    with a default-allow culture where controls must be fast,
+    precise, and low-friction rather than restrictive.
+  - Excellent English communication — clear runbooks,
+    integration documentation, and the ability to explain
+    trade-offs to architects, engineers, and leadership across
+    a globally distributed team and multiple time zones.
+  - Excellent communication and collaboration skills
+  - Ability to work effectively in a fast-paced, dynamic
+    environment.
+
+  Experience
+
+  - Significant hands-on engineering responsibility, including
+    in cloud security (Azure/AWS/GCP) and demonstrable
+    experience securing or operating AI/ML or LLM-based
+    systems (or strongly evidenced, rapidly acquired hands-on
+    AI-security capability).
+  - Proven track record deploying, integrating, and tuning
+    security platforms in complex enterprise environments and
+    serving as an L3 / senior escalation point; experience
+    running vendor proofs-of-concept is a plus.
+  - Experience operating security tooling in Kubernetes-based
+    environments (AKS/EKS) and integrating open-source
+    components into enterprise stacks is an advantage.
+  - Relevant certifications strengthen an application (none
+    individually required): CISSP, CCSP, SC-100, AZ-500, AWS
+    Certified Security – Specialty, Google Professional Cloud
+    Security Engineer; AI red-team or AI-security credentials
+    are a plus.
+  - Bachelor's degree in Computer Science, Cybersecurity,
+    Information Systems, or equivalent practical experience.
+
+  Working conditions
+
+  - Willing to work nonstandard business hours for projects,
+    business impact issues and incident response.
+  - Some travel required.
+  - Flexible remote work.
+
+  At Tech Data, a TD SYNNEX Company, our values guide
+  everything we do: Together, We Own It, We Dare to Go, We
+  Grow and Win, and above all, We Do the Right Thing. These
+  principles shape how we work with each other, our partners,
+  and our communities as we drive innovation and create
+  lasting impact.
+
+  What’s In It For You?
+
+  - Elective Benefits: Our programs are tailored to your country
+    to best accommodate your lifestyle.
+  - Grow Your Career: Accelerate your path to success (and keep
+    up with the future) with formal programs on leadership and
+    professional development, and many more on-demand courses.
+  - Elevate Your Personal Well-Being: Boost your financial,
+    physical, and mental well-being through seminars, events,
+    and our global Life Empowerment Assistance Program.
+  - Diversity, Equity & Inclusion: It’s not just a phrase to us;
+    valuing every voice is how we succeed. Join us in
+    celebrating our global diversity through inclusive
+    education, meaningful peer-to-peer conversations, and
+    equitable growth and development opportunities.
+  - Make the Most of our Global Organization: Network with other
+    new co-workers within your first 30 days through our
+    onboarding program.
+  - Connect with Your Community: Participate in internal, peer-
+    led inclusive communities and activities, including
+    business resource groups, local volunteering events, and
+    more environmental and social initiatives.
+
+  Don’t meet every single requirement? Apply anyway.
+
+  At Tech Data, a TD SYNNEX Company, we’re proud to be
+  recognized as a great place to work and a leader in the
+  promotion and practice of diversity, equity and inclusion.
+  If you’re excited about working for our company and believe
+  you’re a good fit for this role, we encourage you to apply.
+  You may be exactly the person we’re looking for!
+
+  We are an equal opportunity employer and committed to
+  building a diverse team that represents and empowers a
+  variety of backgrounds, perspectives, and skills. All
+  qualified applicants will receive consideration for
+  employment based on merit, without regard to race, colour,
+  religion, national origin, gender, gender identity or
+  expression, sexual orientation, protected veteran status,
+  disability, genetics, age, or any other characteristic
+  protected by law. To support our diversity and inclusion
+  efforts, we may ask for voluntary gender disclosure
+  information. This data will be used solely to improve our
+  hiring practices and ensure fair treatment for all
+  candidates.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-and-cloud-security-engineer/11893531"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Keywords Studios
+  stage: null
+  focus: Game services and customer support automation
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI Agents, RAG pipelines, LLM
+      services, and evaluation frameworks, directly shaping LLM
+      behavior and output quality. Leadership responsibilities
+      don't change the hands-on LLM shaping nature.
+  responsibilities:
+  - Lead and mentor a team of backend and frontend developers
+  - Own technical direction, architecture, and strategy for LLM, AI Agent, and ML
+    initiatives
+  - Architect and build AI Agents, RAG pipelines, LLM-based services, and evaluation
+    frameworks
+  - Design, build, and deploy scalable AI/ML systems from concept to production
+  - Collaborate with PMs, ML Engineers, and Data Scientists on AI-driven solutions
+  - Oversee full SDLC for the squad including coding, testing, quality, and reliability
+  - Troubleshoot performance, scalability, and reliability issues in production AI
+    systems
+  use_cases:
+  - Automated customer support issue resolution via AI Agents
+  - User intent detection
+  - AI-powered answers and knowledge base enhancements
+  - Agent CoPilot for support agent productivity
+  - Multimodal RAG pipelines for customer support
+  skills:
+    genai: [AI Agents, RAG, LLMs, Embeddings, Fine-Tuning, LLM Evaluation, Generative
+        AI, Multimodal RAG]
+    ml: [PyTorch, TensorFlow, scikit-learn, Transformers, Machine Learning]
+    web: [React, Angular, Vue]
+    databases: [Vector Databases, Elasticsearch, Weaviate, Pinecone, Milvus]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, LLMOps, Docker, Kubernetes, Distributed Systems]
+    languages: [Python, Java, Go, Node.js, Clojure]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11787067'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:12:14.139937'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Writer
+  stage: null
+  focus: |-
+    Enterprise generative AI platform for marketing and revenue
+    teams
+position:
+  title: Software engineer, generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications with LLMs, vector
+      databases, and agentic workflows integrated into the
+      platform, so the engineer shapes LLM-driven systems
+      directly, making it ai-first.
+  responsibilities:
+  - Design and develop secure, scalable generative AI services and applications using
+    Python
+  - Build high-performance, low-latency APIs and microservices integrating AI models
+    and agentic workflows
+  - Own architecture of core platform components from proposal through production
+    deployment
+  - Implement responsive user interfaces with React and TypeScript
+  - Collaborate with product managers, data scientists, and DevOps engineers across
+    teams
+  - Partner with DevOps to build continuous deployment, logging, and monitoring systems
+  use_cases:
+  - Enterprise generative AI applications for marketing and revenue teams
+  - Autonomous agents executing across the buyer journey
+  - Grounding AI outputs in enterprise brand and product knowledge
+  - Secure AI adoption for Fortune 500 enterprises
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [React, FastAPI, Microservices, REST APIs, OAuth]
+    databases: [Pinecone, Weaviate, pgvector, PostgreSQL]
+    data: []
+    cloud: [AWS, GCP, Azure, IAM]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12054226'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Seattle, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T14:42:06.686425'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

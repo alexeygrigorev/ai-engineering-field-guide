@@ -1,0 +1,51 @@
+company:
+  name: SKO SYSTEMS INDIA PVT LTD
+  stage: null
+  focus: Cruise technology products and passenger/crew systems
+position:
+  title: Senior AI Engineer & Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines, AI agents, prompt
+      engineering, and LLM evaluation frameworks — directly
+      shaping model behavior. LLM/agent components dominate, so
+      it's ai-first.
+  responsibilities:
+  - Design, develop, and deploy production-grade AI/ML and LLM-based applications
+  - Build RAG pipelines, AI agents, intelligent assistants, and document-processing
+    solutions
+  - Integrate AI capabilities with .NET, Angular, and Android applications via REST
+    APIs
+  - Leverage Azure AI services for scalable AI solutions
+  - Define AI architecture, evaluation frameworks, and performance metrics
+  - Drive AI strategy and roadmap aligned with business objectives
+  - Lead, mentor, and manage AI engineers and set engineering standards
+  - Support customer demonstrations, pilots, and commercialization of AI capabilities
+  use_cases:
+  - Passenger processing
+  - Identity verification and biometrics
+  - Document processing
+  - Digital mustering
+  - Crew scheduling
+  - Intelligent assistants and AI agents for cruise products
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Function Calling, AI Agents, Generative
+        AI, LangChain, LangGraph, Semantic Kernel, LLM Evaluation]
+    ml: [ONNX Runtime, TensorFlow Lite, Machine Learning]
+    web: [REST APIs, Angular]
+    databases: [SQL Server]
+    data: []
+    cloud: [Azure OpenAI, Azure, Azure AI Search]
+    ops: [Docker, Azure DevOps, CI/CD, Kubernetes, Model Monitoring]
+    languages: [Python, C#, SQL]
+    domains: [Computer Vision]
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11869252'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:26:29.507586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Howmet Aerospace
+  stage: null
+  focus: |-
+    Advanced engineered solutions for aerospace and
+    transportation
+position:
+  title: Senior Data AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI solutions using Azure OpenAI, LLMs, and
+      RAG, and designs AI agents and agentic workflows — this
+      directly shapes LLM-based system behaviour through retrieval
+      and agent design, so it is ai-first. The work is mixed with
+      data engineering, but the LLM/RAG/agent component makes it
+      ai-first.
+  responsibilities:
+  - Design and support scalable Data Lake, Lakehouse, Data Warehouse, and AI-enabled
+    data platforms
+  - Develop ETL/ELT pipelines using Azure Data Factory, Microsoft Fabric, or similar
+    technologies
+  - Build and maintain data integration pipelines for ERP, CRM, PLM, MES, and other
+    enterprise applications
+  - Design and maintain enterprise Power BI reports, dashboards, semantic models,
+    and row-level security
+  - Develop AI-powered solutions using Azure OpenAI, LLMs, and RAG
+  - Design and implement AI agents and agentic workflows
+  - Create AI proofs-of-concept and transition them to production
+  - Establish best practices for data governance and AI security, governance, and
+    responsible AI usage
+  use_cases:
+  - Enterprise analytics and self-service reporting
+  - AI-enabled data platforms and automation of business processes
+  - AI productivity and decision-support use cases for business stakeholders
+  - Data integration across ERP, CRM, PLM, and MES systems
+  - RAG-based and agent-based AI applications integrated with enterprise systems
+  skills:
+    languages: [Python]
+    domains: []
+    web: [REST APIs]
+    cloud: [Azure Data Lake Storage]
+    data: [Data Pipelines, SSIS, Azure Data Factory, Data Modeling, Microsoft Fabric]
+    ml: [scikit-learn, PyTorch, TensorFlow]
+    databases: [Data Warehousing, Data Lakehouse]
+    genai: [LLMs, RAG, Azure OpenAI]
+    ops: [Azure DevOps, Git, CI/CD, DevOps]
+    other: [Power BI, DAX, Power Query, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11948346'
+  location: Torrance, USA
+  extracted_at: '2026-11-06T14:08:23.620313'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

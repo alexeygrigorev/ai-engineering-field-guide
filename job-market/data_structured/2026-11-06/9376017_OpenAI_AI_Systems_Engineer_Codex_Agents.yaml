@@ -1,0 +1,53 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: AI research and deployment company
+position:
+  title: AI Systems Engineer, Codex Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs the agent harness itself: prompts, context
+      construction, tool-use strategies, agent orchestration, and
+      evals that shape LLM agent behavior. This is direct shaping
+      of model behavior with LLM/agent components.
+  responsibilities:
+  - Design and build the core agent harness and execution loop for Codex agents
+  - Build sandboxing, isolation, orchestration, state, and workflow infrastructure
+    for agents
+  - Develop evaluation, experimentation, and debugging systems for agent behavior
+    and failures
+  - Run ablations across prompts, interfaces, context construction, and tool-use strategies
+  - Improve observability, profiling, and diagnostics across the agent and inference
+    stack
+  - Collaborate with research to make the harness trainable and measurable
+  use_cases:
+  - Coding agents that execute tasks safely in real development environments
+  - Agent harness that interprets model outputs and uses tools
+  - Evaluation and debugging of production agent performance
+  - Long-horizon autonomous task completion
+  - Trainable harness for improving frontier agentic models
+  skills:
+    genai: [Prompt Engineering, LLMs, AI Agents, Agentic Workflows, LLM Evaluation,
+      Function Calling]
+    ml: [Model Deployment, Model Evaluation, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring, Distributed Systems, Model Deployment]
+    languages: [Rust, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9376017'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:04:50.685377'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

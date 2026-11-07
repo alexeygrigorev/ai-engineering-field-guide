@@ -1,0 +1,52 @@
+company:
+  name: Simpson Thacher & Bartlett LLP
+  stage: null
+  focus: International law firm
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, builds agents and multi-
+      agent systems, MCP servers, and does prompt engineering and
+      model evaluation—clearly shaping LLM behavior and output
+      quality. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Design, develop, and deploy enterprise Generative AI solutions using commercial
+    and open-source foundation models
+  - Build and maintain AI agents, agent orchestration frameworks, and multi-agent
+    systems to automate business processes
+  - Develop RAG architectures leveraging enterprise knowledge repositories and structured/unstructured
+    data
+  - Build and maintain MCP servers and related infrastructure to integrate AI with
+    enterprise applications
+  - Design custom AI tools, hooks, skills, and integrations to extend agent capabilities
+  - Monitor, optimize, and scale data workflows for performance and cost-efficiency
+  - Partner with infrastructure, security, and data teams to implement secure, compliant
+    AI solutions
+  - Collaborate with stakeholders to identify and deliver high-impact AI use cases
+  use_cases:
+  - Automating complex legal business processes with AI agents
+  - Enterprise knowledge retrieval and document search via RAG
+  - AI-powered applications integrating enterprise systems and SaaS platforms
+  - Secure agent integration with enterprise applications via MCP
+  skills:
+    genai: [Generative AI, LLMs, RAG, Agentic Workflows, MCP, AI Agents, Multi-Agent
+        Systems, Prompt Engineering, LLM Evaluation, Claude Code, Anthropic API]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11404281'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:44:57.377623'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

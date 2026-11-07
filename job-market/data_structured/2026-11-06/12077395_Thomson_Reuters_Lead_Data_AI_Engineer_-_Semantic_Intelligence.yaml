@@ -1,0 +1,57 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, and compliance information services
+position:
+  title: Lead Data & AI Engineer - Semantic Intelligence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production Agentic AI, LLM, RAG, and
+      tool/API orchestration patterns itself, which is shaping
+      LLM/agent behavior (agent flows, retrieval, orchestration).
+      It also covers data engineering and classical ML, but the
+      LLM/agent component makes it ai-first.
+  responsibilities:
+  - Deliver production-ready Data & AI solutions hands-on across investigation, architecture,
+    coding, modelling, and testing
+  - Build AI-ready data foundations and agentic solutions grounded in structured data,
+    governed measures, and semantic metadata
+  - Build production Agentic AI, LLM, RAG, and tool/API orchestration patterns using
+    enterprise engineering standards
+  - Build ELT/ETL pipelines and medallion (bronze/silver/gold) data layers with lineage
+    and auditability
+  - Design dimensional models and Fabric/Power BI semantic models with governed measures
+    and DAX
+  - Apply segmentation, forecasting, classification, and anomaly detection where they
+    support business decisions, evaluating approaches against baselines
+  - Lead end-to-end technical delivery, manage dependencies and risks, and own release
+    readiness and adoption
+  - Mentor engineers through architecture, design, and code reviews
+  use_cases:
+  - Enterprise AI grounded in governed data, semantic models, and metadata
+  - AI-enabled analytics and decision support applications
+  - Data products and medallion-layer data foundations for analytics and AI
+  - Semantic models enabling consistent business context across analytics and agents
+  - Predictive analytics such as forecasting, classification, and anomaly detection
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs, Microservices]
+    cloud: []
+    data: [Data Pipelines, dbt, Airflow, Data Products, Data Contracts, Data Quality]
+    ml: [Machine Learning, Forecasting, Classification, Anomaly Detection, Feature
+        Engineering, Model Evaluation]
+    databases: [Snowflake, Microsoft Fabric, Knowledge Graphs, Lakehouse, Power BI,
+      DAX, Dimensional Modelling]
+    genai: [AI Agents, LLMs, RAG, Agentic Workflows, Function Calling]
+    ops: [CI/CD, Git, GitHub, Observability, Responsible AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12077395'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:50:45.999869'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

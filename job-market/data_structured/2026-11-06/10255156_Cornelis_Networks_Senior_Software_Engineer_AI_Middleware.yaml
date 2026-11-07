@@ -1,0 +1,57 @@
+company:
+  name: Cornelis Networks
+  stage: null
+  focus: |-
+    High-performance networking solutions for AI and HPC
+    datacenters
+position:
+  title: Senior Software Engineer – AI Middleware
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role optimizes collective communication libraries
+      (NCCL/RCCL) and interconnects for distributed training —
+      running, scaling, and tuning infrastructure that transports
+      data for models someone else trains. The engineer does not
+      shape model behaviour via prompts, retrieval, training, or
+      evals, so it is ai-support.
+  responsibilities:
+  - Design and implement performance-critical features for collective communication
+    library enablement on Cornelis Networks fabrics
+  - Optimize distributed training performance across multi-node, multi-GPU configurations
+  - Improve GPU communication paths including GPU-direct transfers, IPC, and CPU/GPU
+    synchronization
+  - Profile distributed AI workloads and identify bottlenecks across software and
+    hardware stacks
+  - Tune AI frameworks such as PyTorch Distributed, TensorFlow/XLA, JAX, DeepSpeed,
+    and Megatron-LM
+  - Develop benchmarks and microbenchmarks aligned with real model performance
+  - Contribute upstream to AI communication and distributed training projects
+  - Prototype and validate Ultra Ethernet capabilities for AI collective communication
+  use_cases:
+  - Collective communication enablement over custom interconnects
+  - Multi-node, multi-GPU distributed AI training performance
+  - GPU-direct and IPC communication path optimization
+  - Ultra Ethernet-based AI collective communication
+  - Cluster-scale performance benchmarking for AI workloads
+  skills:
+    genai: []
+    ml: [CUDA, PyTorch, TensorFlow, JAX]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, CI/CD]
+    languages: [C++]
+    domains: []
+    other: [ROCm, NCCL, RCCL, DeepSpeed, Megatron-LM, libfabric, UCX, RDMA, RoCEv2,
+      Ultra Ethernet, Profiling, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10255156'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T11:19:40.596884'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Vanguard
+  stage: null
+  focus: Investment management and retirement services
+position:
+  title: Data/AI Engineer (Databricks, AWS, Python, AI))
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core responsibilities are data engineering: building
+      pipelines, ETL, and cloud data platforms. GenAI capabilities
+      (RAG, agents, prompt engineering, Bedrock) appear only as
+      "hands on / familiarity" skills with no responsibilities
+      describing shaping model behavior or output quality, so this
+      is ai-support.
+  responsibilities:
+  - Design, develop, and maintain scalable batch and real-time data pipelines and
+    cloud-based data solutions
+  - Build and optimize data ingestion, transformation, integration, and storage solutions
+  - Implement data quality controls, monitoring, observability, automation, and CI/CD
+    practices
+  - Support and enhance business-critical data products and applications through defect
+    resolution and performance improvements
+  - Troubleshoot production issues, perform root-cause analysis, and implement preventive
+    actions
+  - Collaborate with Technical Leads, Product Owners, Architects, and Analysts to
+    translate business requirements into technical solutions
+  - Contribute to technical documentation, reusable components, and AI-assisted development
+    practices
+  use_cases:
+  - Scalable batch and real-time data pipelines for analytical and operational workloads
+  - Cloud-based data products and data-driven decision making for investment business
+    outcomes
+  - Data quality, monitoring, and observability for business-critical data platforms
+  - GenAI familiarity with RAG, agents, and Bedrock for potential data and AI solutions
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [REST APIs]
+    cloud: [AWS, AWS S3, AWS Lambda, Athena, Step Functions, IAM, ECS, SageMaker]
+    data: [Data Pipelines, PySpark, Pandas, Databricks, Spark, Airflow, Kafka]
+    ml: []
+    databases: [Redshift, OpenSearch]
+    genai: [Prompt Engineering, Context Engineering, RAG, Agentic Workflows, Function
+        Calling, Structured Outputs, AWS Bedrock, LangChain, LangGraph, MCP, Guardrails,
+      AI Agents]
+    ops: [CloudWatch, Docker, Terraform, GitHub Actions, CI/CD, Git, Infrastructure
+        as Code, CloudFormation]
+    other: [Power BI, Code Review, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11201288'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:26:43.152170'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

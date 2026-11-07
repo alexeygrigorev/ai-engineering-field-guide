@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology, pharmacy benefits, and care delivery
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys ML models including 3+ years of
+      Retrieval-Augmented Generation experience, meaning the
+      engineer shapes LLM behavior through retrieval design. Mixed
+      classical ML (NLP, CV, ASR) plus LLM/RAG makes it ai-first
+      per the mixed-rule.
+  responsibilities:
+  - Code and develop software that deploys ML models and algorithms into production
+  - Communicate and present complex analytics results and concepts to leadership and
+    internal stakeholders
+  - Apply NLP, NLU, semantic understanding, intent classification, computer vision,
+    deep learning, and ASR techniques
+  - Apply deep learning technologies for visualization, learning, and response to
+    complex situations
+  - Work with large-scale computing frameworks and data analysis systems
+  - Apply experimental methodologies, statistics, optimization, and probability theory
+    using code for tool building and statistical analysis
+  - Serve as a resource to others on complex, less structured issues
+  use_cases:
+  - Healthcare care delivery and health outcomes improvement
+  - Document digitization and data extraction via OCR
+  - Intelligent document processing
+  - Voice processing and speech recognition with telephony systems
+  - Intent classification and semantic understanding for interactive user experiences
+  - Enterprise-scale production AI applications and data science products
+  skills:
+    genai: [RAG]
+    ml: [Deep Learning, TensorFlow, PyTorch, scikit-learn, Seaborn]
+    web: [FastAPI, Node.js, Flask, Django]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP, Azure ML, SageMaker, GCP AI Platform]
+    ops: [MLOps, LLMOps, CI/CD, Jenkins, Docker, Kubernetes, Infrastructure as Code,
+      Git]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: [OCR, Intelligent Document Processing, Speech Recognition]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11485785'
+  location: Noida, IND
+  extracted_at: '2026-11-06T11:57:39.624032'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

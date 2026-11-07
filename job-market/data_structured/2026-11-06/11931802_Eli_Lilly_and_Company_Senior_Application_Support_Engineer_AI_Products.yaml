@@ -1,0 +1,63 @@
+company:
+  name: Eli Lilly and Company
+  stage: null
+  focus: Pharmaceutical company discovering and delivering medicines
+position:
+  title: Senior Application Support Engineer – AI Products & Agents
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an application support / SRE role that monitors,
+      troubleshoots, and maintains production AI systems (LLM
+      integrations, MCP servers, RAG pipelines, agents) built by
+      others. The person runs and stabilizes models rather than
+      shaping model behavior through prompts, training, or evals,
+      so it is ai-support per the serving/hosting edge case.
+  responsibilities:
+  - Provide advanced L2 technical support and act as escalation point for product
+    and customer queries
+  - Troubleshoot, diagnose, and resolve incidents across application functionality,
+    integrations, performance, and security
+  - Support AI-powered applications, Generative AI solutions, chatbots, copilots,
+    and agent-based systems in production
+  - Troubleshoot incidents involving LLM integrations, MCP servers, vector databases,
+    retrieval services, and AI orchestration workflows
+  - Monitor application and AI service health, reliability, latency, throughput, and
+    token consumption
+  - Collaborate with development and cross-functional teams on root cause analysis,
+    fixes, and workarounds
+  - Support deployments, post-release validation, rollback procedures, and CI/CD pipelines
+  - Maintain knowledge base articles, runbooks, and participate in incident management,
+    RCA, and operational readiness reviews
+  - Ensure compliance with internal standards and regulations such as GDPR and HIPAA
+  use_cases:
+  - Production support for AI-powered enterprise applications, chatbots, copilots,
+    and agent-based systems
+  - Operational stability of LLM integrations, MCP servers, and AI orchestration workflows
+  - Monitoring and reliability of RAG retrieval services and vector databases
+  - Incident management and root cause analysis for cloud-native applications
+  - Compliance with healthcare/pharmaceutical regulatory standards (GDPR, HIPAA)
+  skills:
+    genai: [LLMs, AI Agents, MCP, Prompt Engineering, RAG, Vector Databases, Semantic
+        Search, Agentic Workflows, Multi-Agent Systems, OpenAI API, Anthropic API,
+      Generative AI, LangChain, LangGraph, Semantic Kernel, AutoGen, CrewAI]
+    ml: []
+    web: [REST APIs, React, Material-UI, Express.js]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, Azure, GCP, Azure OpenAI, AWS Bedrock, Vertex AI, Bicep]
+    ops: [CloudWatch, Datadog, ELK Stack, Grafana, Prometheus, CI/CD, DevOps, GitHub
+        Actions, Azure DevOps, Jenkins, GitLab CI, Terraform, CloudFormation, Docker,
+      Kubernetes, Infrastructure as Code, Monitoring, Observability, Model Monitoring]
+    languages: [Bash, Python, JavaScript, PowerShell, Node.js]
+    domains: []
+    other: [Splunk, Jira, ServiceNow, Site Reliability Engineering, Responsible AI,
+      Agile, GDPR, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11931802'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:00:59.076244'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

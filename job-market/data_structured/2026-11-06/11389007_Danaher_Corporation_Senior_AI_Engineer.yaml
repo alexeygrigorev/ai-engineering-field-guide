@@ -1,0 +1,51 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: |-
+    Life sciences, diagnostics and biotechnology technology
+    conglomerate
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops LLM applications using prompt
+      engineering, RAG, fine-tuning, and agentic workflows,
+      directly shaping model behaviour and output quality.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Design, develop and deploy production-grade AI solutions, services, workflows
+    and reusable capabilities for enterprise applications
+  - Develop and optimise LLM applications using prompt engineering, RAG, fine-tuning
+    and agentic workflows
+  - Implement and support MLOps, DataOps and LLMOps practices for model lifecycle
+    management, deployment, monitoring and governance
+  - Contribute to scalable, reliable AI architectures meeting enterprise standards
+    for quality, performance, security and supportability
+  - Collaborate with Product Owners, Architects, AI Scientists, Platform and Data
+    Engineering teams to industrialise and scale reusable AI solutions
+  use_cases:
+  - Knowledge extraction and decision support across enterprise data ecosystems
+  - Process optimisation and workflow automation
+  - AI-powered enterprise applications, workflows and decision-making
+  - Scalable AI solutions adopted across Danaher operating companies in life sciences,
+    diagnostics and biotechnology
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs, Microservices]
+    cloud: [Cloud]
+    data: [Knowledge Graphs]
+    ml: [Machine Learning, Model Evaluation]
+    databases: []
+    genai: [Prompt Engineering, RAG, Fine-Tuning, Agentic Workflows, LLMs, AI Agents]
+    ops: [MLOps, DataOps, LLMOps, CI/CD]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389007'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:39:38.932046'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

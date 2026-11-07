@@ -1,0 +1,54 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud platform and AI infrastructure engineering systems
+position:
+  title: Principal Software Engineer-AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds infrastructure, data pipelines, and
+      developer systems that enable AI services but never shapes
+      model behavior — no prompting, RAG, fine-tuning, or
+      evaluation work is described. Serving and enabling AI at
+      scale is plumbing, so it is ai-support despite being on an
+      AI infrastructure team.
+  responsibilities:
+  - Own architecture of complex systems and align technical decisions with business
+    and platform outcomes
+  - Drive delivery across multiple large-scale initiatives from design through deployment
+    and operationalization
+  - Design reusable, platform-first services, tools, and extensible code meeting performance,
+    scalability, security, and compliance requirements
+  - Establish company-wide engineering standards and mentor engineers and technical
+    leaders
+  - Act as technical authority for cross-product debugging, telemetry, incident learning,
+    and automation toward zero-touch deployment
+  - Build alignment across teams, customers, and technical leadership; negotiate dependencies
+    and long-term infrastructure vision
+  - Influence open-source projects and advance security, privacy, safety, and compliance
+    practices
+  use_cases:
+  - Cloud platform and engineering infrastructure supporting AI services at scale
+  - Data storage, analytics, stream processing, and data pipelines
+  - Graph infrastructure and search systems
+  - Compute, media, and service lifecycle management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [C, C++, C#, Java, JavaScript, Python, Rust]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11454842'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:53:08.404683'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

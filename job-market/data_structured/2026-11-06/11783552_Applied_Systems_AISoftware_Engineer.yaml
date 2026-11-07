@@ -1,0 +1,57 @@
+company:
+  name: Applied Systems
+  stage: null
+  focus: Insurance technology and SaaS products
+position:
+  title: AI/Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, builds RAG pipelines (chunking,
+      embeddings, indexing), develops agentic workflows, and
+      implements guardrails and evaluations for LLM applications -
+      directly shaping model behaviour, making it ai-first. The
+      Data Migration Manager text appears to be a template
+      artifact; the actual job summary and duties describe an IC
+      GenAI engineer.
+  responsibilities:
+  - Design and implement LLM-powered conversational experiences (chat assistants/AI
+    Agents) integrating tools, APIs, and enterprise data sources
+  - Build and maintain RAG pipelines including document ingestion, chunking, embeddings,
+    and indexing using vector databases
+  - Develop LLM inference and orchestration components (prompt templates, function/tool
+    calling, streaming, caching) meeting latency and reliability targets
+  - Implement safety and compliance guardrails including content filtering, prompt
+    injection defenses, and data access controls
+  - Optimize GenAI solutions for cost and performance (token usage, prompt compression,
+    caching, model routing)
+  - Apply Responsible AI practices (grounding, hallucination mitigation, privacy-by-design,
+    bias/toxicity evaluation)
+  - Document designs, prompts, evaluation results, and operational runbooks; contribute
+    reusable components
+  use_cases:
+  - LLM-powered chat assistants and AI agents for enterprise insurance workflows
+  - RAG-based document retrieval and AI-enabled search over enterprise data
+  - Safe, compliant, and cost-efficient GenAI capabilities in production
+  - Grounded, low-hallucination conversational AI integrated with enterprise systems
+  skills:
+    languages: [Python]
+    domains: []
+    web: [Node.js, React]
+    cloud: [GCP, Azure, AWS]
+    data: []
+    ml: []
+    databases: [Vector Databases, Pinecone, Milvus, Weaviate, Elasticsearch, OpenSearch]
+    genai: [LLMs, RAG, Agentic Workflows, AI Agents, Prompt Engineering, Function
+        Calling, Guardrails, LangChain, LangGraph, Generative AI, Embeddings, Prompt
+        Compression, Model Routing]
+    ops: [Terraform, Git, GitLab CI, Docker, Kubernetes, CI/CD, LLMOps, Monitoring]
+    other: [Agile, Jira, Confluence, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11783552'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:11:25.693720'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

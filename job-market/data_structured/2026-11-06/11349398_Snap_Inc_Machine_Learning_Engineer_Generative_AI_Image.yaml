@@ -1,0 +1,54 @@
+company:
+  name: Snap Inc.
+  stage: null
+  focus: Visual messaging and camera-based social apps
+position:
+  title: Machine Learning Engineer, Generative AI (Image & Video)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates generative AI products
+      including LLMs alongside image/video generation models, and
+      runs focused evaluations of models and third-party AI APIs
+      to shape output quality and build-vs-buy decisions - this is
+      shaping model behaviour. Since both LLM components and
+      classical generative vision models are involved, it
+      classifies as ai-first.
+  responsibilities:
+  - Develop ML products and AI Lenses serving millions of Snapchatters, focused on
+    image and video generation and editing as well as LLMs
+  - Build augmented reality experiences with diffusion and flow matching models
+  - Build GenAI pipelines for image and video generation and ship consumer-facing
+    features
+  - Collaborate with Product, Software Engineering, Lens Content, and Data Science
+    teams to prototype ideas and integrate ML models and APIs into production
+  - Refine features through A/B testing and user feedback
+  - Evaluate open-source Gen AI models and third-party AI APIs/services to support
+    build-vs-buy decisions
+  - Monitor market and research landscape for new developments in Gen AI
+  use_cases:
+  - Image and video generation and editing for consumer features
+  - AI Lenses and augmented reality experiences
+  - GenAI pipelines powering Snapchat consumer products
+  - LLM-powered features for Snapchatters
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning, Deep Learning, Generative AI, Diffusion Models, Neural
+        Networks, Model Evaluation, Neural Rendering, Segmentation, Object Detection,
+      Tracking]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [Computer Graphics, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11349398'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:34:05.233310'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

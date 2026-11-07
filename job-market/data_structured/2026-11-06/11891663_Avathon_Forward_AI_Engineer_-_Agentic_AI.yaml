@@ -1,0 +1,54 @@
+company:
+  name: Avathon
+  stage: null
+  focus: Industrial AI autonomy platform for heavy industries
+position:
+  title: Forward AI Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM pipelines including RAG
+      architectures, fine-tuning, prompt orchestration,
+      evaluation, and guardrails — directly shaping model behavior
+      and output quality, with LLMs as the focus.
+  responsibilities:
+  - Design, build, and deploy production-grade AI/ML systems with emphasis on Generative
+    AI and LLM-powered applications
+  - Develop and optimize end-to-end LLM pipelines including RAG architectures, fine-tuning,
+    prompt orchestration, evaluation, and observability
+  - Build scalable backend services and APIs for AI applications
+  - Design vector search systems, embedding pipelines, and retrieval frameworks
+  - Establish guardrails, hallucination detection, monitoring, and responsible AI
+    practices for production deployments
+  - Contribute to MLOps workflows including CI/CD, model lifecycle management, observability,
+    and cloud deployment
+  - Drive experimentation, benchmarking, and model evaluation
+  - Improve inference efficiency, latency, cost management, and reliability of deployed
+    AI systems
+  use_cases:
+  - Forecasting and route optimization
+  - Anomaly detection and predictive maintenance
+  - Intelligent automation for asset-intensive industries
+  - Knowledge-intensive retrieval applications via vector search
+  - Enterprise GenAI workflows for supply chain, energy, mining, aerospace, and manufacturing
+  skills:
+    genai: [LLMs, Generative AI, RAG, Fine-Tuning, Prompt Engineering, LangChain,
+      LlamaIndex, Embeddings, Vector Databases, Guardrails, LLM Evaluation, Hugging
+        Face, Agentic Workflows]
+    ml: [PyTorch, TensorFlow, Machine Learning, Transformers, Anomaly Detection]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Observability, Langfuse, LangSmith, Weights & Biases]
+    languages: [Python]
+    domains: []
+    other: [System Design, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891663'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:39.750723'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

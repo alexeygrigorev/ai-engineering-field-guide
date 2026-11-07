@@ -1,0 +1,48 @@
+company:
+  name: CACI International Inc
+  stage: null
+  focus: IT services and solutions for U.S. government missions
+position:
+  title: AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on writing, iterating, and testing prompts
+      for LLMs, debugging model behaviors, and contributing to
+      fine-tuning and RAG strategies — directly shaping model
+      output quality. This is clearly ai-first.
+  responsibilities:
+  - Develop, refine, and iterate on prompts for generative AI models to elicit desired
+    behaviors and outputs
+  - Conduct testing and analysis to compare prompt variations and drive continuous
+    improvement
+  - Collaborate with multiple groups to integrate prompts that streamline manual processes
+  - Research advancements in LLMs, generative AI, and prompt engineering techniques
+  - Provide input on model fine-tuning and RAG strategies to improve accuracy
+  - Debug unexpected model behaviors, identifying root causes in prompts, model limitations,
+    or data context
+  use_cases:
+  - Information access and decision support for frontline border protection personnel
+  - Streamlining manual operational processes with AI-powered tools
+  - Improving situational awareness and efficiency for CBP mission users
+  - Accelerating access to mission-critical information via LLMs
+  skills:
+    genai: [Prompt Engineering, LLMs, RAG, Fine-Tuning, Generative AI, Structured
+        Outputs, Function Calling, OpenAI API, Llama, Gemini, Embeddings]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11886200'
+  location: Long Beach, USA
+  extracted_at: '2026-11-06T13:36:33.666531'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

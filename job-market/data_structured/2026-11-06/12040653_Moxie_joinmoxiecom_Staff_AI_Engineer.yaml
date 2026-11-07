@@ -1,0 +1,60 @@
+company:
+  name: Moxie (joinmoxie.com)
+  stage: null
+  focus: |-
+    Business platform for independent medspa and aesthetic
+    practices
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers production LLM agents, builds
+      evaluation and guardrail systems, and owns agent/tool design
+      and model-provider decisions - direct shaping of LLM
+      behaviour. Backend/platform work is in service of the AI
+      products.
+  responsibilities:
+  - Lead high-impact AI initiatives including Maia, the Context Engine, and AI drafts
+  - Deliver targeted improvements to AI quality, evaluation coverage, and production
+    reliability
+  - Take major AI projects from design through architecture review to production launch,
+    including evaluation and guardrail systems
+  - Own Moxie's AI architecture and shared AI platform decisions across teams
+  - Build measurable AI quality scorecards, shared evaluations, guardrails, and observability
+  - Drive org-level initiatives such as AI evaluation standards and agentic SDLC improvements
+  - Design safe tool boundaries, human handoffs, and reliability/latency/cost tradeoffs
+    for agents
+  use_cases:
+  - AI agent (Maia) answering medspa texts and calls
+  - AI-drafted messages sent from providers' own numbers
+  - Context Engine as standard data path for AI surfaces
+  - AI quality evaluation and guardrails for production reliability
+  - Shared AI platform with caching and tenant isolation
+  skills:
+    genai: [LLMs, AI Agents, Guardrails, LLM Evaluation, Function Calling]
+    ml: []
+    web: [Django, REST APIs, GraphQL]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: [Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12040653'
+  location: CAN
+  locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-11-06T14:37:03.807098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

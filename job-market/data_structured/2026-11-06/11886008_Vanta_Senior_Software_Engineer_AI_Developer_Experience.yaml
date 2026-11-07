@@ -1,0 +1,55 @@
+company:
+  name: Vanta
+  stage: null
+  focus: Continuous security monitoring and Trust Management platform
+position:
+  title: Senior Software Engineer, AI Developer Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent evaluation systems, evaluation sets,
+      and feedback loops that improve agent quality over time -
+      directly shaping agent behavior through measurement, tuning,
+      and correction. The agents are the product of the team, not
+      just a developer tool rolled out to others, so this is ai-
+      first rather than ai-support.
+  responsibilities:
+  - Build and improve background-agent infrastructure for reliable, trackable automated
+    engineering work
+  - Develop systems for evaluating agent performance using task outcomes, quality
+    measures, and other signals
+  - Create evaluation sets and feedback loops that improve AI systems over time
+  - Improve discovery and adoption of shared AI tools and workflows among engineers
+  - Evaluate and integrate AI development tools such as code generation, AI-assisted
+    review, and testing
+  - Develop visibility into which AI tools and workflows are useful and how they should
+    evolve
+  - Influence the foundations of an autonomous software factory for safely completing
+    bounded engineering tasks
+  - Partner with engineers and cross-functional stakeholders to validate solutions
+    and drive projects from exploration to delivery
+  use_cases:
+  - Autonomous background agents for automated software engineering tasks
+  - Agent performance evaluation and quality improvement in real engineering workflows
+  - Developer experience tooling for AI-assisted code generation, review, and testing
+  - Adoption of AI-enabled development practices across an engineering organization
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Code Review]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886008'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:36:15.268936'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: GlobalFoundries
+  stage: null
+  focus: Semiconductor manufacturing with AI compiler toolchains
+position:
+  title: Experienced Software Engineer for Physical AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role owns the architecture of AI compiler toolchains
+      (MLIR/LLVM, graph optimization, quantization, code
+      generation) targeting NPUs and accelerators — directly
+      optimizing model internals for classical/DL workloads. No
+      LLM prompting, retrieval, or agent component appears, so it
+      is ml-first.
+  responsibilities:
+  - Define and maintain end-to-end architecture for AI compiler and toolchain capabilities
+  - Translate product, model and customer use cases into compiler requirements and
+    roadmaps
+  - Guide decisions on model import, graph transformations, MLIR/LLVM IRs, optimization,
+    partitioning, scheduling, memory planning and code generation
+  - Align compiler architecture with runtime, kernel libraries, firmware and verification
+    flows
+  - Drive API/ABI consistency and portability across products
+  - Lead architecture and design reviews, technical risk assessments and proof-of-concept
+    work
+  - Analyze performance and quality gaps using representative AI workloads and guide
+    optimization
+  - Mentor compiler engineers and strengthen architecture practices
+  use_cases: []
+  skills:
+    genai: []
+    ml: [LLVM, MLIR, IREE, XLA, TVM, PyTorch, TensorFlow, ONNX, Quantization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [C++, Python]
+    domains: []
+    other: [Agile, Embedded Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11499844'
+  location: NLD
+  remote: true
+  extracted_at: '2026-11-06T12:00:14.144948'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

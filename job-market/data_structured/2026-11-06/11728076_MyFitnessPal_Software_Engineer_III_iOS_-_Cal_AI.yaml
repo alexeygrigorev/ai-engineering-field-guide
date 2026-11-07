@@ -1,0 +1,49 @@
+company:
+  name: MyFitnessPal
+  stage: null
+  focus: Health and fitness nutrition tracking app
+position:
+  title: Software Engineer III, iOS - Cal AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a native iOS engineering role on an AI-powered
+      product. The responsibilities cover UI implementation,
+      optimization, and app delivery; there is no prompt writing,
+      retrieval design, model training, or eval work. The engineer
+      consumes the AI food-logging experience rather than shaping
+      model behavior, so it is ai-support.
+  responsibilities:
+  - Implement native iOS interfaces according to Human Interface Guidelines in collaboration
+    with design team
+  - Optimize UI, data storage, and network communications to improve user experience
+  - Independently build and deliver high-quality features and improvements
+  - Research and implement technical solutions for business goals
+  - Provide thought leadership on best practices around design, testing, security,
+    and deployment
+  - Coach and mentor team members
+  - Collaborate with cross-functional product engineering team
+  use_cases:
+  - AI-powered food logging via meal scanning
+  - Nutrition tracking with smart suggestions
+  - Personalized health and fitness insights
+  skills:
+    genai: []
+    ml: [Functional Reactive Programming]
+    web: [REST APIs, SwiftUI]
+    databases: [Relational Databases]
+    data: []
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Swift]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11728076'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:43:39.051991'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

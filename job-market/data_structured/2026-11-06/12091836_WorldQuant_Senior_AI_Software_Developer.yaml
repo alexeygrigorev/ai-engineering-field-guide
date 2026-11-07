@@ -1,0 +1,45 @@
+company:
+  name: WorldQuant
+  stage: null
+  focus: Systematic quantitative investment strategies
+position:
+  title: Senior AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building LLM-powered
+      applications, AI agents, multi-agent workflows, and RAG —
+      directly shaping agentic LLM system behavior and
+      architecture. Step 1 yes, LLM components present, so ai-
+      first.
+  responsibilities:
+  - Shape technical architecture for AI-enabled platforms and engineering systems
+  - Establish engineering standards for agentic systems
+  - Build reliable, scalable AI-first products for quantitative investment problems
+  - Develop intelligent workflows automating complex software and research workflows
+  - Collaborate with engineers, quantitative researchers, and platform teams
+  - Mentor others in applying modern AI-assisted development practices
+  use_cases:
+  - Automation of complex software development workflows
+  - Automation of quantitative research workflows
+  - AI-enabled developer platforms for engineering productivity
+  - Applying AI capabilities to quantitative investment problems
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems, RAG, Function Calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12091836'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:55:38.083402'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

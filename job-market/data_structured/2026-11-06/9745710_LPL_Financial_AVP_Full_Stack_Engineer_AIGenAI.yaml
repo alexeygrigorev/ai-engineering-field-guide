@@ -1,0 +1,56 @@
+company:
+  name: LPL Financial
+  stage: null
+  focus: Wealth management and financial advisory services
+position:
+  title: AVP, Full Stack Engineer – AI/GenAI.
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI/GenAI capabilities using prompt
+      engineering, RAG, embeddings/vector search, function
+      calling, and agentic workflows directly in enterprise
+      applications, which is shaping LLM behavior. This is beyond
+      merely consuming AI APIs or using coding assistants.
+  responsibilities:
+  - Design, develop, and maintain scalable full-stack cloud-native applications
+  - Build and integrate AI/GenAI capabilities into enterprise applications using LLMs,
+    AI services, and agentic workflows
+  - Design and implement RESTful APIs, microservices, and cloud-native services integrating
+    AI models with enterprise data sources
+  - Develop solutions using prompt engineering, RAG, embeddings/vector search, tool/function
+    calling, and AI agents
+  - Write clean, secure, testable code and participate in code reviews, automated
+    testing, and CI/CD
+  - Troubleshoot application and AI-integrated production issues and improve reliability
+    and observability
+  - Mentor engineers and contribute to technical direction and responsible AI adoption
+  use_cases:
+  - AI-enabled enterprise workflows for financial services
+  - AI/GenAI capabilities integrated into wealth management applications
+  - Agentic AI solutions for business problems
+  - RAG and vector search over enterprise data sources
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, Prompt Engineering, RAG, Embeddings,
+      Function Calling, AI Agents]
+    ml: [Model Evaluation]
+    web: [React, Angular, REST APIs, Microservices]
+    databases: [Vector Search, Relational Databases, NoSQL, Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI, SageMaker, AWS, AWS Lambda, API Gateway, EKS]
+    ops: [CI/CD, GitHub Copilot, Cursor, Docker, Kubernetes, Observability, DevOps]
+    languages: [C#, Java, Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9745710'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Fort Mill, USA
+  - Charlotte, USA
+  extracted_at: '2026-11-06T15:05:20.028716'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

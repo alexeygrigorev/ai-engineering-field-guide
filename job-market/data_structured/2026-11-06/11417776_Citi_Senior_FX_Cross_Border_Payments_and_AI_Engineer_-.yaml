@@ -1,0 +1,45 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and FX payments technology
+position:
+  title: Senior FX Cross Border Payments and AI Engineer - (VP)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Java Engineer role building FX cross-border
+      payments systems. AI appears only as coding tools (Devin,
+      Claude Code, Codex) used to write code — not shaping model
+      behaviour or building AI products — so it is ai-support.
+  responsibilities:
+  - Implement cross-border FX payments and custody solutions using cloud-native technologies
+    and CI/CD workflows
+  - Drive design and development of system architecture and enhance deliverable quality
+  - Design, develop, and test new application features
+  - Collaborate with sales, trading, quants and product teams to deliver data-driven
+    payment solutions
+  - Provide 3rd line support for production systems
+  - Mentor junior team members and define best practices across teams
+  use_cases:
+  - Cross-border FX payments processing
+  - Custody solutions for FX business
+  - Low-latency FX trading and payments systems
+  skills:
+    languages: [Java, SQL]
+    domains: []
+    web: [Spring Boot]
+    cloud: []
+    data: [Kafka, Solace, IBM MQ]
+    ml: []
+    databases: [KDB]
+    genai: []
+    ops: [CI/CD, Kubernetes, OpenShift, Claude Code, Codex, Devin]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11417776'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:47:28.257465'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

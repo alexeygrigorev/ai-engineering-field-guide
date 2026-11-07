@@ -1,0 +1,60 @@
+company:
+  name: Prosus Group
+  stage: ''
+  focus: |-
+    Global technology investor operating ecommerce, fintech and
+    food delivery businesses
+position:
+  title: Community Engineer, Toqan (Prosus AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with agents and LLM-
+      based systems ("not just calling an API"), including
+      explaining agent loops, tool calls, model routing, and
+      building on MCP server infrastructure. Building working
+      examples, integrations, and tooling on an agentic execution
+      platform shapes agent flows and tool calling directly.
+  responsibilities:
+  - Build and maintain examples, integrations, and tooling demonstrating practical
+    uses of the Toqan platform
+  - Reproduce reported bugs, contribute tested fixes, and improve installation, APIs,
+    and error messages
+  - Write quickstarts, tutorials, and contribution guides and keep them accurate as
+    the platform evolves
+  - Create and share public technical content (blogs, videos, demos, talks) to grow
+    awareness and adoption
+  - Support developers through issues and community discussions and follow problems
+    to resolution
+  - Review pull requests, identify first contributions, and help contributors develop
+    their ideas
+  - Grow the community of builders and represent Toqan at internal and external events
+    and conferences
+  - Turn recurring feedback into prioritized improvements and run workshops, hackathons,
+    or office hours
+  use_cases:
+  - Agentic execution platform for turning ideas into working AI-powered applications
+  - Developer community growth and adoption of an internal AI platform
+  - Examples, integrations, and tooling for agents, tools, sandboxes, and context
+    management
+  - Multi-model routing across frontier and open-weight models
+  skills:
+    genai: [AI Agents, LLMs, Function Calling, MCP, Cursor, Claude Code, GitHub Copilot,
+      Codex]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Git, GitHub, Docker]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [Firecracker, gVisor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11614072'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T12:21:49.413460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

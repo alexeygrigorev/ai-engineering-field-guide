@@ -1,0 +1,52 @@
+company:
+  name: Medecins Sans Frontieres (Doctors Without Borders) - United States
+  stage: null
+  focus: Medical humanitarian aid nonprofit
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, implements, and evaluates AI workflows
+      including RAG, chatbots, and knowledge tools, and builds
+      guardrails and evaluation methods for AI outputs - clear
+      model-behaviour shaping involving LLM applications. No
+      classical-ML-only focus, so ai-first.
+  responsibilities:
+  - Lead AI projects from discovery through implementation and evaluation
+  - Build secure, production-ready AI workflows such as chatbots, RAG, knowledge tools,
+    and automations
+  - Design maintainable AI solutions integrating with existing data, applications,
+    APIs, and business systems
+  - Implement evaluation and monitoring methods for AI accuracy, quality, security,
+    and risk
+  - Establish technical standards and governance for AI security, permissions, guardrails,
+    and lifecycle management
+  - Assess emerging models, platforms, and vendors and recommend adoption options
+    to leadership
+  - Provide technical guidance, training, and support to users and business units
+  - Mentor and train junior software engineers
+  use_cases:
+  - Chatbots and conversational assistants for organizational operations
+  - Retrieval-augmented knowledge tools over document repositories
+  - Role-specific process automations for nonprofit Development and fundraising workflows
+  - Data integration with existing business systems and applications
+  skills:
+    genai: [RAG, Guardrails, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: []
+    domains: []
+    other: [Responsible AI, Data Governance, Information Security, Vendor Risk]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11974819'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:15:16.918905'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

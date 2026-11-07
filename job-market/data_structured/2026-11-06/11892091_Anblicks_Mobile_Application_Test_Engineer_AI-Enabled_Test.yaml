@@ -1,0 +1,62 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data and AI consulting, cloud and data platforms
+position:
+  title: Mobile Application Test Engineer – AI-Enabled Testing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/test engineer role. The core work is manual and
+      automated mobile app testing; AI appears as features to
+      validate (response accuracy, hallucination detection, RAG
+      grounding) rather than as systems the person shapes.
+      Validation and QA oversight of models is ai-support unless
+      the person builds the evals or guardrails themselves, which
+      is not the case here.
+  responsibilities:
+  - Perform functional, regression, integration, end-to-end, and compatibility testing
+    of Android and iOS applications on real devices, simulators, and emulators
+  - Analyze HTTP/HTTPS traffic using Charles Proxy to troubleshoot API requests, responses,
+    and network issues
+  - Debug application crashes using Android Logcat and iOS device logs
+  - Perform API testing using Postman and validate mobile-to-backend integrations
+  - Design test scenarios, test cases, test data, and reusable automation utilities
+    with Appium-based frameworks
+  - Leverage AI tools for test case generation, test automation, log analysis, and
+    defect investigation
+  - Validate AI-enabled features for response accuracy, relevance, consistency, and
+    reliability, including LLM evaluation and RAG retrieval grounding
+  - Perform root cause analysis and document defects with supporting logs, screenshots,
+    and recordings
+  use_cases:
+  - Quality assurance for Android and iOS mobile applications
+  - AI-enabled feature validation including LLM response accuracy, hallucination detection,
+    and consistency checks
+  - RAG pipeline testing covering retrieval accuracy and source grounding
+  - AI agent validation including tool calling, API integrations, error handling,
+    and task completion
+  - API and network troubleshooting for mobile-to-backend integrations
+  - AI-assisted test generation, log analysis, and defect investigation
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, AI Agents, Function Calling,
+      LLM Evaluation, LangChain, LlamaIndex, Vector Databases]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Jenkins, Git]
+    languages: [Java, Python, JavaScript, SQL]
+    domains: []
+    other: [Appium, Charles Proxy, Postman, TestNG, JUnit, Maven, Gradle, Page Object
+        Model, Jira, Agile, BrowserStack, Sauce Labs, RAGAS, DeepEval, Responsible
+        AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892091'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:43:06.845618'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

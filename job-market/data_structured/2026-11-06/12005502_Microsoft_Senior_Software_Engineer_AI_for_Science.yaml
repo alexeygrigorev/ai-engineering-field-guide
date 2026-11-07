@@ -1,0 +1,54 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    Deep learning for scientific discovery and molecular
+    modeling
+position:
+  title: Senior Software Engineer, AI for Science
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role integrates and optimizes deep learning models into
+      DFT software, writing custom GPU implementations
+      (CUDA/Triton) — optimizing a model's own internals is
+      shaping. The models are scientific deep learning (electronic
+      structure), with no LLM or agent component, so it is ml-
+      first.
+  responsibilities:
+  - Integrate deep learning models into high-performance DFT software frameworks targeting
+    CPU and GPU
+  - Prepare and maintain open-source releases and beta tester releases
+  - Write custom efficient GPU implementations for deep learning models
+  - Work cross-functionally with deep learning and quantum chemistry researchers to
+    align model development with high-performance integration
+  - Maintain software infrastructure bringing models into real-world scientific workflows
+  use_cases:
+  - Electronic structure prediction of molecules and materials
+  - Density functional theory (DFT) accelerated by deep learning
+  - Materials discovery and sustainable materials modeling
+  - Drug discovery and chemistry simulation
+  skills:
+    genai: []
+    ml: [Deep Learning, CUDA, Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton]
+    languages: [Python, C++, Fortran]
+    domains: [Quantum Chemistry]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005502'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  - Amsterdam, NLD
+  - Cambridge, GBR
+  extracted_at: '2026-11-06T14:25:56.730905'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

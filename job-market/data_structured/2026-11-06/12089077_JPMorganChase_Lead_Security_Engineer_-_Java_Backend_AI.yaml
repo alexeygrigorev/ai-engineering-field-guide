@@ -1,0 +1,53 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Lead Security Engineer - Java Backend, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Java backend security engineer; AI appears
+      only as enterprise-authorized AI capabilities used as a tool
+      to accelerate threat modeling, vulnerability analysis, and
+      security documentation. The person validates AI outputs but
+      does not shape any model's behavior through prompts,
+      retrieval, training, or evals.
+  responsibilities:
+  - Design and evolve distributed systems with reliability, scalability, security,
+    and operability across cloud environments
+  - Contribute hands-on code in Java and Python, setting standards for design, readability,
+    testability, and maintainability
+  - Develop and maintain production-ready services using Java Spring frameworks
+  - Use enterprise-authorized AI capabilities to accelerate threat modeling, vulnerability
+    analysis synthesis, and security documentation, validating outputs
+  - Identify and remediate architectural risks, technical debt, and systemic quality
+    gaps
+  - Own production behavior of systems end-to-end, including incident response and
+    post-incident improvements
+  - Ensure systems meet security, audit, and compliance expectations
+  - Serve as a technical mentor and role model for senior engineers
+  use_cases:
+  - Preventing misuse and malicious behavior in software systems
+  - Threat modeling and vulnerability analysis synthesis
+  - Security documentation and control validation
+  - Tamper-proof, audit-defensible engineering practices
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot]
+    databases: [DynamoDB, MongoDB, NoSQL, Relational Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring, Observability, Distributed Systems]
+    languages: [Java, Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12089077'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:54:09.401544'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

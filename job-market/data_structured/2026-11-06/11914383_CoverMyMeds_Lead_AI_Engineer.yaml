@@ -1,0 +1,59 @@
+company:
+  name: CoverMyMeds
+  stage: null
+  focus: |-
+    Healthcare services, pharmaceutical distribution and
+    medication access
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds LLM/agentic systems directly:
+      prompt engineering, RAG/GraphRAG, agentic workflows, tool
+      use, MCP, and evaluation frameworks. This is clearly shaping
+      LLM behavior, making it ai-first.
+  responsibilities:
+  - Define technical architecture and roadmap for LLM/agentic systems including model
+    routing, connector patterns, RAG pipelines, and prompt/evaluation frameworks
+  - Lead architecture reviews and ensure AI designs meet enterprise security, privacy,
+    and data-provenance requirements
+  - Own shared AI platform capabilities including knowledge-retrieval systems, citation/traceability,
+    and permission-aware data access
+  - Hands-on build high-complexity components for priority AI delivery initiatives
+  - Mentor Senior and Associate AI Engineers, set coding and architecture standards,
+    run design reviews
+  - 'Establish LLMOps practices: usage/spend attribution, abuse monitoring, model
+    evaluation, and rollback strategies'
+  - Evaluate foundation model providers and AI tooling vendors; make build-vs-buy
+    and model-selection recommendations
+  - Ensure AI systems handling PHI meet regulatory and enterprise governance requirements
+  use_cases:
+  - Enterprise-wide generative AI adoption platform in healthcare
+  - Retrieval-augmented knowledge systems with citation and traceability of AI outputs
+  - Agentic AI products and internal tooling with tool/connector integrations
+  - Permission-aware access to enterprise knowledge bases handling PHI
+  - AI-powered risk scoring and AI-driven automation of legacy workflows
+  - Model routing across cloud AI platforms with usage and cost attribution
+  skills:
+    genai: [Prompt Engineering, RAG, GraphRAG, Agentic Workflows, Function Calling,
+      MCP, LLM Evaluation, Anthropic API, OpenAI API, LLMs, Embeddings, Generative
+        AI]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases, Graph Databases, Knowledge Graphs]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [LLMOps, MLOps, Monitoring]
+    languages: [Python, Java]
+    domains: [NLP]
+    other: [Event-Driven Architecture, Jira, Confluence, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11914383'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:57:46.019755'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

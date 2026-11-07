@@ -1,0 +1,44 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior: building with LLM APIs and
+      prompt workflows, implementing agentic workflows, and
+      developing embedding/RAG retrieval pipelines. With an
+      LLM/agent component clearly involved, this is ai-first.
+  responsibilities:
+  - Build applications leveraging LLM APIs for summarization, Q&A, and decision support
+  - Implement agentic workflows for multi-step task automation
+  - Develop embedding pipelines integrated with vector stores for RAG and search optimization
+  - Deploy AI components into cloud platforms using containerized CI/CD practices
+  - Monitor model behaviors in production and optimize for performance and cost-efficiency
+  use_cases:
+  - Document summarization
+  - Question answering
+  - Decision support
+  - Multi-step task automation
+  - RAG-based enterprise search
+  skills:
+    genai: [LLMs, Agentic Workflows, Embeddings, RAG, Prompt Engineering, Vector Databases]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Snowflake]
+    data: [Databricks, Spark, PySpark, Delta Lake]
+    cloud: [Azure]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11548759'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:10:04.974138'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

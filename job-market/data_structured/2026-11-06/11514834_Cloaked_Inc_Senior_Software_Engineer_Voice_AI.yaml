@@ -1,0 +1,55 @@
+company:
+  name: Cloaked, Inc.
+  stage: Series B
+  focus: Consumer privacy and identity protection platform
+position:
+  title: Senior Software Engineer, Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships production voice agents, drives
+      agent reasoning quality, evaluates and integrates frontier
+      models, and builds defenses against adversarial callers -
+      all shaping model behaviour and output quality on an LLM-
+      driven conversational product. This is ai-first.
+  responsibilities:
+  - Design and ship production voice agents that converse with unknown callers, classify
+    intent, and autonomously block scams
+  - Own key components of Call Guard's real-time voice AI stack and its architecture
+    and technical direction
+  - Drive down end-to-end conversational latency across STT, agent reasoning, and
+    TTS
+  - Build defenses against adversarial AI callers, including voice-cloning attacks
+  - Evaluate and integrate frontier models (LLMs, speech models, agent frameworks)
+    for production use
+  - Build and maintain telephony, VoIP routing, and cloud infrastructure for the voice
+    agent
+  - Partner with product, design, and mobile to ship voice experiences
+  - Raise quality through code reviews, design discussions, and knowledge sharing
+  use_cases:
+  - Real-time AI voice agent that screens unknown calls and only rings through legitimate
+    ones
+  - Autonomous scam, spam, and robocall detection and blocking
+  - Defense against adversarial AI callers and voice-cloning attacks
+  - Consumer privacy and identity protection (masked emails, phones, payments, data
+    removal)
+  skills:
+    genai: [LLMs, LangChain, LangGraph, LlamaIndex, Conversational AI, Claude Code,
+      Cursor, Codex]
+    ml: [Whisper, Deepgram, Speech Recognition, Signal Processing, Adversarial ML]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Distributed Systems]
+    languages: [Python, Go]
+    domains: []
+    other: [LiveKit, Pipecat, ElevenLabs, Cartesia, TTS, VoIP, SIP, WebRTC, Telephony]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11514834'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:03:11.517087'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

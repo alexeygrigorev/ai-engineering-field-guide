@@ -1,0 +1,55 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, accounting, and media information services
+position:
+  title: Senior Software Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE/infrastructure role that runs and scales the
+      AI platform's infrastructure; the person does not shape
+      model behavior, prompts, retrieval, or evals. Hosting and
+      operating models/services someone else builds is ai-support.
+  responsibilities:
+  - Own and drive the long-term infrastructure strategy for the AI Platform
+  - Own and improve operational posture of cloud-native services including containerized
+    workloads, serverless functions, and managed ML infrastructure
+  - Instrument services with observability tooling covering metrics, logs, and distributed
+    tracing
+  - Establish SLAs and error budgets; drive incident response, post-mortems, and reliability
+    improvements
+  - Collaborate with platform engineering to harden infrastructure against security
+    findings and maintain compliance
+  - Design, build, and maintain CI/CD pipelines for platform services, SDKs, and infrastructure
+  - Automate toil including provisioning, security remediation, and deployment operations
+  - Mentor junior team members and raise DevOps engineering standards
+  use_cases:
+  - Enterprise AI platform enabling users to develop, evaluate, deploy, and monitor
+    AI solutions at scale
+  - Reliable cloud-native infrastructure for a GenAI platform
+  - Observability and incident management for AI platform services
+  - Automated, secure CI/CD delivery of AI platform services and SDKs
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda]
+    ops: [Datadog, CloudWatch, Wiz, Snyk, CI/CD, Terraform, CloudFormation, Docker,
+      Kubernetes, DevOps, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12089893'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:54:41.303386'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

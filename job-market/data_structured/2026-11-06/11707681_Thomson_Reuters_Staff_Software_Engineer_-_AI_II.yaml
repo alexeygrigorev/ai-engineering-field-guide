@@ -1,0 +1,54 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal research and information services platform
+position:
+  title: Staff Software Engineer - AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG, agentic systems, and
+      knowledge-graph architectures, and evaluates AI models -
+      direct shaping of LLM behavior. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Design and build enterprise-scale AI systems including RAG, knowledge-graph architectures,
+    and autonomous AI agents with multi-step reasoning
+  - Evaluate emerging AI techniques and run proof-of-concept work for new AI-driven
+    features
+  - Champion MLOps and LLMOps practices and governance across the AI model lifecycle
+  - Design testing, monitoring, and observability for AI systems at scale
+  - Provide senior technical leadership, mentor engineers, and make architecture decisions
+  - Partner with researchers, design, and product to deliver customer-facing AI applications
+  use_cases:
+  - Intelligent legal research on the Westlaw platform
+  - AI-assisted retrieval of trusted legal answers and insights
+  - Agentic workflows with multi-step reasoning over legal knowledge
+  - Knowledge-graph and RAG-based search over legal content
+  - Enterprise-scale AI platform powering Westlaw products
+  skills:
+    genai: [RAG, AI Agents, LLMs, Generative AI, OpenAI API, Anthropic API, Embeddings,
+      Semantic Search, GraphRAG]
+    ml: [PyTorch, TensorFlow, Machine Learning, Model Evaluation]
+    web: [APIs, Microservices]
+    databases: [Knowledge Graphs, Neo4j, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Terraform, MLOps, LLMOps, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11707681'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+  - Ann Arbor, USA
+  extracted_at: '2026-11-06T12:39:05.005703'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Colruyt Group
+  stage: null
+  focus: Retail group developing conversational AI applications
+position:
+  title: Data Scientist / AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG (chunking, embeddings, reranking),
+      builds agentic workflows with LangGraph/LangChain, and
+      evaluates/selects LLMs — all direct model-behaviour shaping
+      on LLM systems.
+  responsibilities:
+  - Continue developing and enhancing the existing recipe chatbot and support additional
+    conversational AI use cases such as FAQs
+  - Develop and maintain AI-powered applications, agentic workflows, and API integrations
+  - Evaluate and compare LLMs and select suitable models based on business requirements,
+    performance, and latency
+  - Define and assess evaluation metrics to measure AI solution quality
+  - Design and implement RAG solutions including chunking strategies, embeddings,
+    hybrid retrieval, and reranking
+  - Perform data analysis and quality checks and develop dashboards where required
+  - Collaborate with Solution Architect, Product Owner, and business stakeholders
+    to clarify requirements
+  use_cases:
+  - Recipe chatbot for retail customers
+  - Conversational FAQ and customer-facing AI assistants
+  - Agentic AI applications with tool calling and workflow orchestration
+  - RAG-based enterprise knowledge retrieval
+  - Predictive and prescriptive business analytics
+  skills:
+    genai: [RAG, LLMs, Agentic Workflows, LangGraph, LangChain, Generative AI, Function
+        Calling, Structured Outputs, Embeddings, Semantic Search, LLM Evaluation,
+      Prompt Engineering, Guardrails]
+    ml: [Machine Learning, Transformers, Model Evaluation, Statistics]
+    web: [FastAPI, REST APIs, Pydantic]
+    databases: [NoSQL, Cosmos DB]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure Functions, Azure Blob Storage,
+      Azure AI Search]
+    ops: [CI/CD, Model Monitoring, Grafana]
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile, Polars, Kedro, SAFe]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892947'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:45:43.663253'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

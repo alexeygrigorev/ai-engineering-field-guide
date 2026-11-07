@@ -1,0 +1,49 @@
+company:
+  name: Almedia
+  stage: null
+  focus: |-
+    Marketing platform rewarding users for engaging with
+    advertisers
+position:
+  title: Junior Engineer (Typescript / Python / DevOps / AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The AI track builds LLM-powered features and internal agents
+      used in production, which involves shaping LLM behavior; the
+      LLM component makes it ai-first per Step 2. The role offers
+      multiple tracks, but the AI track explicitly involves hands-
+      on building with LLMs.
+  responsibilities:
+  - Own problems end-to-end from first idea to production
+  - Build features in web and mobile apps for a product used by millions
+  - Build backend services handling rewards, offers, and payments
+  - Build CI/CD pipelines, deployments, and AI tooling for engineers
+  - Build AI features and automation including AI-powered product features and internal
+    agents
+  - Use AI tools to move faster while verifying output
+  - Debug issues to root cause
+  use_cases:
+  - Rewards, offers, and payments services for millions of users
+  - AI-powered product features for real users
+  - Internal agents for team automation
+  - Web and mobile app features
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [Machine Learning]
+    web: [Node.js, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, GitHub Actions, CI/CD]
+    languages: [TypeScript, Python, SQL, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11638568'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:27:39.609389'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

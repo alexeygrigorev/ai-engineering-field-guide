@@ -1,0 +1,59 @@
+company:
+  name: AllianceBernstein
+  stage: null
+  focus: Global investment management and asset management services
+position:
+  title: AVP/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, retrieval/RAG, tool
+      calling, multi-step workflows, and builds LLM/agent
+      evaluation pipelines and production-grade AI applications.
+      This is directly shaping LLM and agent behavior, so it is
+      ai-first.
+  responsibilities:
+  - Build reliable, reusable, AI-ready data products for investment and enterprise
+    use cases
+  - Design and develop production-grade AI applications, agents, and intelligent workflows
+    using Python
+  - Implement agent orchestration, tool integration, retrieval, memory, and multi-step
+    workflows
+  - Integrate AI capabilities into enterprise applications, data platforms, and business
+    systems
+  - Contribute to the shared AI and data platform powering these capabilities at scale
+  - Build model benchmarking, RAG/agent evaluation, and production monitoring pipelines
+  - Deploy and serve models with containerized, GPU-based inference and cost/latency
+    optimization
+  - Apply secure platform engineering practices including CI/CD, observability, and
+    governed deployment
+  use_cases:
+  - AI agents for investment research workflows
+  - AI-powered portfolio management and risk workflows
+  - Client and operational workflow automation via agents
+  - Enterprise retrieval and search over investment data
+  - Enterprise platform for scalable, governed AI application delivery
+  skills:
+    genai: [LLMs, Prompt Engineering, Context Engineering, RAG, Embeddings, AI Agents,
+      Agentic Workflows, Function Calling, Structured Outputs, LangGraph, Semantic
+        Kernel, AutoGen, MCP, Knowledge Graphs, Semantic Search, Claude Code, GitHub
+        Copilot, Cursor, Codex, Fine-Tuning]
+    ml: [Hugging Face, Quantization]
+    web: [APIs, Microservices, OAuth]
+    databases: [Snowflake]
+    data: [Data Pipelines, Data Modeling]
+    cloud: [Azure, AWS, GCP, Azure OpenAI, Vertex AI, OpenAI API, Anthropic API, Gemini,
+      AKS, GKE]
+    ops: [vLLM, Docker, Kubernetes, CI/CD, OAuth, OpenTelemetry, Datadog, Arize, LangSmith,
+      MLflow, Model Deployment, Monitoring, LLM Evaluation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11672316'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:31:25.228323'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

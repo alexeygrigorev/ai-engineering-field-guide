@@ -1,0 +1,52 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: |-
+    AI computing hardware, software, and accelerated computing
+    platforms
+position:
+  title: Senior AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building agents, agent tooling,
+      orchestration, evaluation loops, and policy controls —
+      directly shaping LLM/agent behavior. AI security focus
+      (injection, tool misuse, unsafe delegation) reinforces
+      designing guardrails and agent flows themselves.
+  responsibilities:
+  - Build software to accelerate and improve cybersecurity tooling for AI
+  - Turn research code into alpha versions of products with research and product teams
+  - Identify highest-value MVPs for ambiguous security and identity problems, prototype
+    and iterate to production
+  - Develop reusable skills, CLI tools, APIs, and integration patterns for secure
+    agent approaches
+  - Partner with Enterprise Security, Product Security, and platform teams to align
+    architecture with workflows
+  - Apply adversarial and red-teaming perspectives to architecture and security tradeoffs
+  use_cases:
+  - AI security tooling and secure agent infrastructure
+  - Tool-using agent applications with policy controls and evaluation loops
+  - Security and identity solutions against AI-specific threats (injection, tool misuse,
+    data exfiltration)
+  - Secure integration of agents across enterprise tools and platforms
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Injection, Guardrails]
+    ml: []
+    web: [APIs, CLI Tools]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLMOps]
+    languages: []
+    domains: []
+    other: [Offensive Security, Red Teaming, Open Source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892533'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:44:35.146515'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

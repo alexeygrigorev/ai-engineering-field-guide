@@ -1,0 +1,60 @@
+company:
+  name: AXIS Capital
+  stage: null
+  focus: Specialty lines insurance and reinsurance
+position:
+  title: Principal Security AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and operationalizes agentic AI
+      capabilities for security operations, including agent
+      workflows, agent performance/hallucination evaluation
+      practices, and prompt injection protections. That is
+      directly shaping agent behaviour and output quality, making
+      it ai-first.
+  responsibilities:
+  - Build, deploy, and maintain AI-powered security agents for detection, investigation,
+    and response workflows
+  - Validate agent performance, accuracy, hallucination risk, and reliability in real-world
+    operations
+  - Enforce security controls for enterprise AI platforms (Copilot, Copilot Studio,
+    Azure AI Foundry) and mitigate AI-specific risks like prompt injection and data
+    leakage
+  - Deploy and optimize Microsoft Purview DLP, Information Protection, and Insider
+    Risk capabilities across M365 and AI platforms
+  - Define access controls, data handling policies, and auditability for AI agents
+    and automated workflows
+  - Monitor AI platform activity to detect anomalies, misuse, or policy violations
+    and support incident response
+  - Integrate AI agent workflows with SIEM/XDR platforms for context enrichment and
+    preliminary triage
+  - Support enterprise rollout of AI governance and data security programs
+  use_cases:
+  - AI-augmented security detection, investigation, and response
+  - Autonomous incident triage and context enrichment via SIEM/XDR integration
+  - Data loss prevention and sensitive data protection for AI interactions
+  - Insider risk management and AI misuse detection
+  - Secure enterprise rollout of Copilot and AI governance programs
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, Copilot Studio, Guardrails,
+      LLM Evaluation, Semantic Caching]
+    ml: []
+    web: [APIs, REST APIs, Microsoft Graph]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure Functions, Microsoft Copilot]
+    ops: [CI/CD]
+    languages: [Python, PowerShell, TypeScript]
+    domains: []
+    other: [Microsoft Purview, Data Loss Prevention, Insider Risk Management, Microsoft
+        365, Entra ID, SIEM, XDR, Logic Apps, Cybersecurity, Detection Engineering,
+      OWASP Top 10 for LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892297'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:44:01.653238'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

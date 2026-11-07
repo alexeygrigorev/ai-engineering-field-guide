@@ -1,0 +1,49 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: AI solutions consulting and implementation for enterprises
+position:
+  title: Forward Deploy Engineer, AI Solutions - Junior
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and deploys AI
+      solutions themselves, implementing multi-agent systems,
+      prompting, memory management, and tool usage with LLMs.
+      LLM/agent work present, so ai-first.
+  responsibilities:
+  - Collaborate with enterprise clients to understand business goals, workflows, data,
+    and constraints
+  - Design, build, and deploy AI-driven solutions integrated into customer systems
+  - Implement multi-agent systems using prompting, memory management, tool usage,
+    and behaviour planning with LLMs
+  - Rapidly prototype and productionize solutions with client teams
+  - Build connectors and data pipelines between client systems and AI platforms
+  - Provide troubleshooting, training, and enablement for AI-driven architectures
+  - Serve as feedback loop to internal product and engineering teams
+  - Lead technical delivery of pilot projects and full-scale implementations
+  use_cases:
+  - AI agents augmenting or replacing manual enterprise processes
+  - Multi-agent systems with planning, memory, and tool usage
+  - Integration of AI platforms into customer workflows and IT frameworks
+  - Secure data pipelines between client systems and AI platforms
+  - Enterprise pilot projects and full-scale AI implementations
+  skills:
+    genai: [LLMs, RAG, Embeddings, AI Agents, Multi-Agent Systems]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Docker, Kubernetes]
+    languages: [Python, Java]
+    domains: []
+    other: [Salesforce, ServiceNow]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11347434'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:33:01.347084'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

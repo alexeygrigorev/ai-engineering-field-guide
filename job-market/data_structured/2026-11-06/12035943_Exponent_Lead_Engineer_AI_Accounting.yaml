@@ -1,0 +1,49 @@
+company:
+  name: Exponent
+  stage: null
+  focus: Financial platform for franchise and restaurant operators
+position:
+  title: Lead Engineer, AI Accounting
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role puts LLM and ML classification/reconciliation
+      models in the product path and the person makes decisions
+      about output validation, confidence thresholds, and
+      fallbacks — that is shaping model behaviour in a product.
+      LLM components are involved, so ai-first.
+  responsibilities:
+  - Own systems end to end from schema to UI to deploy and on-call
+  - Shape the backend architecture of the AI Accountant's data, jobs and services
+  - Build idempotent ingestion integrating unreliable third-party APIs (deduplication,
+    replay, backfill)
+  - Own the background job system keeping thousands of accounts in sync, including
+    monitoring and failure handling
+  - Put LLM and ML classification/reconciliation models into the product path, deciding
+    output validation, confidence thresholds and fallbacks
+  - Ship to production frequently on a small team with broad scope
+  use_cases:
+  - AI-powered accountant automating monthly close for restaurant operators
+  - Automated classification and reconciliation of financial transactions
+  - Ingesting POS, banking, payroll and processor data into a trusted ledger
+  - Financial operations automation for franchise and multi-location restaurants
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning, Model Evaluation]
+    web: [Ruby on Rails, Django]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Data Ingestion, Background Jobs, QuickBooks Online, Sage Intacct, NetSuite,
+      Plaid, Rutter, Stripe, Fintech, Double-Entry Accounting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12035943'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:36:15.903651'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

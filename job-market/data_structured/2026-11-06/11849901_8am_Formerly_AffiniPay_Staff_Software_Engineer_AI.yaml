@@ -1,0 +1,51 @@
+company:
+  name: 8am (Formerly AffiniPay)
+  stage: null
+  focus: |-
+    Professional business platform for legal and accounting
+    firms
+position:
+  title: Staff Software Engineer | AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates AI-powered services
+      interacting with LLMs, including evals and performance
+      assessment, which shapes model output quality. LLM
+      frameworks/evals are explicitly required, so it's ai-first.
+  responsibilities:
+  - Collaborate with product managers and stakeholders to translate business problems
+    into AI-driven solutions
+  - Design, implement, and integrate AI features into existing 8am products
+  - Partner with the Data team to collect, enrich, prepare, and stage data for AI
+    consumption
+  - Build and evaluate AI-powered services from prototypes to general availability
+  - Write high-quality Python code to manipulate data, interact with LLMs, and assess
+    performance
+  - Develop tools and infrastructure for reliable, scalable, secure AI deployment
+  - Work with cloud operations to deploy AI features, monitor impact, and continuously
+    improve them
+  use_cases:
+  - AI-powered features for professional services software
+  - Enhancing SaaS platform capabilities for legal and accounting professionals
+  - Customer-facing AI prototypes scaled to general availability
+  skills:
+    genai: [LLMs, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [Full-Stack Development]
+    databases: []
+    data: [Data Infrastructure]
+    cloud: [AWS]
+    ops: [DevOps]
+    languages: [Python]
+    domains: []
+    other: [SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11849901'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:23:20.607541'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

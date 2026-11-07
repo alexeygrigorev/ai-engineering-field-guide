@@ -1,0 +1,53 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud technology and services
+position:
+  title: Senior Software Development Engineer - AI and Optimization
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI-enabled security applications
+      combining LLMs, agentic workflows, and AI/ML, which means
+      shaping model behaviour through agent and LLM-based system
+      design rather than just consuming an API. With LLM/agent
+      components central to the deliverables, this is ai-first.
+  responsibilities:
+  - Lead design, development, and delivery of complex software applications and platforms
+    with technical leadership across design, coding, testing, integration, and deployment
+  - Drive end-to-end execution of software engineering initiatives ensuring solutions
+    are scalable, secure, and aligned with business objectives
+  - Review software designs and architecture decisions to ensure engineering standards
+    and reduce delivery risk
+  - Build AI-enabled security applications that improve engineering productivity,
+    security analysis, automation, and decision-making
+  - Evaluate and integrate emerging AI/ML technologies, tools, and engineering practices
+  - Contribute to defining software engineering standards and best practices
+  - Mentor and coach engineers through technical guidance and design reviews
+  - Collaborate with Product Security, engineering, data, and platform teams to turn
+    security challenges into scalable solutions
+  use_cases:
+  - Security analysis and risk identification for product security teams
+  - Automation of security workflows and remediation
+  - Engineering productivity improvement through AI-enabled tools
+  - Decision support for cybersecurity challenges
+  - Vulnerability and secure coding analysis
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: []
+    web: [MERN Stack]
+    databases: []
+    data: []
+    cloud: [Cloud Technologies]
+    ops: [CI/CD, GitOps, Docker, Jenkins, GitHub Actions, MLOps]
+    languages: [Python]
+    domains: []
+    other: [AI Security, Responsible AI, OWASP Top 10]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12063829'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:19.700781'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

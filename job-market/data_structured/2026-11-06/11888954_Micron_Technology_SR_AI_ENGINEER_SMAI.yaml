@@ -1,0 +1,55 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND, NOR)
+position:
+  title: SR. AI ENGINEER, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs and implements RAG pipelines,
+      prompt orchestration, agent/multi-agent patterns, MCP
+      integrations, and model evaluation/safeguards—clearly
+      shaping LLM behavior and output quality. LLM and agentic
+      components are central, so it is ai-first.
+  responsibilities:
+  - Translate business problems into scalable AI-enabled solution architectures
+  - Design end-to-end enterprise solutions spanning data, cloud platforms, and AI
+    capabilities
+  - Build data ingestion, transformation, and knowledge foundations including retrieval
+    pipelines
+  - Develop production-ready cloud-native applications and backend services
+  - Engineer LLM, RAG, tool-calling, copilot, and AI agent solutions with safeguards
+    and evaluation
+  - Ensure security, responsible AI, and governance compliance
+  - Own engineering quality, CI/CD, observability, and production support
+  - Provide technical leadership, code reviews, and mentoring across global teams
+  use_cases:
+  - Enterprise AI-enabled applications with RAG over structured and unstructured enterprise
+    data
+  - Copilots and AI agents automating business workflows with governed tool connectivity
+  - Manufacturing, supply chain, and operational analytics solutions
+  - Intelligent automation for data-intensive enterprise processes
+  - Data pipelines and knowledge foundations feeding analytics and ML applications
+  skills:
+    genai: [RAG, Prompt Engineering, Embeddings, Vector Search, Function Calling,
+      AI Agents, Agentic Workflows, Multi-Agent Systems, MCP, LLMs, Generative AI,
+      Azure OpenAI, Google ADK, Copilot Studio]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices, Angular, React, HTML, CSS]
+    databases: [SQL Server, PostgreSQL, Oracle, MySQL, Vector Databases, Snowflake]
+    data: [Apache NiFi, Spark]
+    cloud: [Azure, GCP, AWS, Vertex AI]
+    ops: [Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Azure DevOps, Git,
+      Distributed Systems]
+    languages: [Python, C#, Java, C++, TypeScript, JavaScript, SQL]
+    domains: []
+    other: [Responsible AI, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888954'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:40:26.488267'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and asset servicing
+position:
+  title: Senior Vice President, AI / Machine Learning Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production RAG pipelines with
+      prompt orchestration, guardrails, and evaluation frameworks
+      for LLM systems, which is directly shaping model behavior
+      and output quality. LLM/GenAI is the core focus, so ai-
+      first.
+  responsibilities:
+  - Design and build production-ready RAG pipelines including retrieval, ranking,
+    prompt orchestration, and response generation
+  - Implement offline and online evaluation frameworks for prompts, models, and datasets
+    covering quality, safety, latency, and cost
+  - Own end-to-end lifecycle management for GenAI systems including prompt, model,
+    dataset, and configuration versions
+  - Establish CI/CD pipelines for prompts, models, and data with safe, repeatable,
+    auditable releases
+  - Implement cost and performance monitoring including token usage, inference latency,
+    throughput, and spend optimization
+  - Build and enforce safety mechanisms such as content filtering, policy enforcement,
+    red-teaming loops, and abuse detection
+  - Define incident management workflows including alerting, triage, rollback, and
+    post-incident analysis
+  - Mentor engineers and partner with product, platform, and governance teams on GenAI
+    reliability and compliance
+  use_cases:
+  - Enterprise-scale GenAI and RAG platform for financial services
+  - Safe and cost-efficient question answering and response generation
+  - LLM output safety with content filtering and abuse detection
+  - Cost-optimized LLM inference at scale
+  skills:
+    genai: [RAG, LLMs, Generative AI, LangChain, LlamaIndex, Prompt Engineering, Guardrails,
+      LLM Evaluation]
+    ml: [Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines, Feature Stores]
+    cloud: []
+    ops: [MLflow, Kubernetes, CI/CD, Monitoring, MLOps, Observability, Distributed
+        Tracing, SRE]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11502043'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Jersey City, USA
+  extracted_at: '2026-11-06T12:01:13.713904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

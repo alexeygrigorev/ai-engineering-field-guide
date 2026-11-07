@@ -1,0 +1,52 @@
+company:
+  name: EXL
+  stage: null
+  focus: Business process solutions and digital analytics services
+position:
+  title: GEN AI/Prompt engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on shaping LLM behavior: designing prompts,
+      building RAG and agent workflows, integrating LLM APIs, and
+      evaluating/tuning model outputs. LLM/agent components
+      dominate, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy Generative AI solutions using Large Language Models
+  - Create, test, and optimize prompts for accuracy, consistency, and performance
+  - Build AI agents and multi-agent workflows for enterprise applications
+  - Integrate LLM APIs such as OpenAI, Anthropic Claude, Gemini, or open-source models
+  - Develop RAG and Agentic AI solutions including vector databases, embeddings, and
+    semantic search
+  - Evaluate model performance and improve outputs through prompt tuning and experimentation
+  - Implement guardrails, security, and responsible AI practices
+  - Build reusable AI workflows, templates, and accelerators
+  use_cases:
+  - Enterprise AI copilots and conversational AI applications
+  - Multi-agent enterprise workflows
+  - Knowledge retrieval and semantic search systems
+  - AI-driven applications for healthcare, supply chain, and financial domains
+  - Multi-modal AI solutions across text, image, and audio
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Agentic Workflows, Fine-Tuning,
+      Model Evaluation, LangChain, LangGraph, LangSmith, LlamaIndex, Semantic Kernel,
+      Low Code Solutions, OpenAI API, Anthropic API, Gemini, Embeddings, Semantic
+        Search, Guardrails, Conversational AI, Generative AI]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: [Vector Databases, Pinecone, Chroma, FAISS, Weaviate, SQL, NoSQL, Knowledge
+        Graphs]
+    data: [Databricks]
+    cloud: [Azure OpenAI, AWS Bedrock, Vertex AI]
+    ops: [Git, CI/CD, Docker]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11986627'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:19:19.466810'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

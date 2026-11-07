@@ -1,0 +1,51 @@
+company:
+  name: OneOrigin
+  stage: null
+  focus: |-
+    AI software for higher education administration and
+    engagement
+position:
+  title: AI Sales Engineer-Fresher
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates and feeds results back to AI prospecting
+      agents built by others; the person drafts outreach with AI
+      assistance, qualifies leads, and handles customer queries.
+      They don't design prompts, retrieval, or agent flows
+      themselves, so this is AI-assisted sales support work.
+  responsibilities:
+  - Operate and improve AI prospecting agents for account research, intent signals,
+    ICP scoring, and sequence generation
+  - Craft targeted outreach by adding judgment and personalization to AI-drafted messaging
+  - Qualify meetings for the Revenue Architect and learn to run early discovery calls
+  - Handle inbound customer queries as the first human touchpoint after the AI agent
+  - Learn the product deeply and surface upsell signals from customer conversations
+  - Build and maintain lead intelligence dashboards using AI aggregation of competitor,
+    hiring, and funding signals
+  - Measure response rates, A/B test messaging, and feed results back into the AI
+    stack
+  use_cases:
+  - AI-driven sales prospecting for higher education institutions
+  - Automated account research and intent signal detection
+  - AI-generated personalized outbound sequences
+  - Lead intelligence dashboards aggregating market signals
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11391559'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:42:49.110033'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

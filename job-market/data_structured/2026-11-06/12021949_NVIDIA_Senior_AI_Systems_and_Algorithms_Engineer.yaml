@@ -1,0 +1,53 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and accelerated computing hardware and AI platform
+position:
+  title: Senior AI Systems and Algorithms Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: LLM/VLM post-
+      training (SFT, RLHF-style PPO/GRPO), fine-tuning,
+      quantization, distillation, and developing training
+      algorithms for foundation models. LLM/generative targets
+      involved, so ai-first.
+  responsibilities:
+  - Design scalable systems for preparing high-quality multimodal datasets for frontier
+    foundation model training
+  - Develop algorithms and systems improving scalability, efficiency, and cost of
+    large-scale pre-training and post-training
+  - Advance inference efficiency techniques including model compression and efficient
+    serving across cloud and edge
+  - Develop reusable infrastructure and add new model support to NVIDIA's open-source
+    GenAI training platform (Megatron-LM, Megatron Bridge, NeMo-RL)
+  - Collaborate with research, product, and infrastructure teams on new algorithms
+    and systems optimization
+  use_cases:
+  - Foundation model pre-training and post-training
+  - Reinforcement learning for LLMs and VLMs
+  - Multimodal AI dataset preparation for frontier models
+  - Inference optimization and model compression for cloud and edge serving
+  - Open-source large-scale GenAI training infrastructure
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, Machine Learning, Deep Learning, Model Training, Quantization, Knowledge
+        Distillation, Reinforcement Learning, Fine-Tuning, Neural Architecture Search,
+      Transformers, Hugging Face, Sparse Attention, FSDP]
+    web: []
+    databases: []
+    data: []
+    cloud: [CUDA]
+    ops: [Megatron-LM, NeMo-RL, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [GPU Performance Optimization, Profiling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12021949'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:30:54.211692'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

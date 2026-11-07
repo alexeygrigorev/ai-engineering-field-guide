@@ -1,0 +1,61 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent runtime, MCP servers,
+      tool-calling orchestration, RAG retrieval paths, prompt
+      serving, fine-tuned variants, and evaluation infrastructure
+      — all directly shaping LLM/agent behavior, so it's ai-first.
+      Classical ML components (NLP, CV, ASR) are secondary and
+      would also classify as ai-first when combined with LLM work.
+  responsibilities:
+  - Design, build, and operate the AI platform and agent runtime services from design
+    review through production support
+  - 'Design the platform''s public surface: APIs, SDKs, client libraries, schemas,
+    and versioning for internal and external integrators'
+  - 'Build the Capability Gateway: MCP servers and tool interfaces with typed contracts,
+    auth, validation, rate limiting, and conformance testing'
+  - 'Build the agent harness and runtime: orchestration, tool-calling execution, state
+    management, retrieval paths, queuing, retries, and failure handling'
+  - Deploy ML and LLM components including model and prompt serving, retrieval and
+    embedding pipelines, and fine-tuned variants with canary and rollback paths
+  - 'Build evaluation and experimentation infrastructure: golden datasets, offline
+    and online evals, human-in-the-loop review, and regression gates'
+  - 'Engineer the platform for cost and scale: inference routing, caching, batching,
+    and per-tenant cost telemetry'
+  - 'Ensure PHI protection and security: de-identification, tenant isolation, encryption,
+    and data/action boundary enforcement'
+  use_cases:
+  - Healthcare workflow automation for clinical notes, claims, faxes, referrals, and
+    prior authorizations
+  - Natural language processing and understanding applied to healthcare documents
+  - Semantic search and enterprise knowledge retrieval over regulated clinical data
+  - Document AI and computer vision for healthcare record processing
+  - Automatic speech recognition for recorded patient encounters
+  - Multi-tenant AI agent platform with MCP-based tool integration
+  skills:
+    genai: [MCP, RAG, Function Calling, Agentic Workflows, LangGraph, LLMs, Prompt
+        Engineering, Fine-Tuning, Embeddings, LLM Evaluation, Semantic Search, Knowledge
+        Graphs]
+    ml: [Model Training, Model Evaluation, NLP, Computer Vision, Neural Networks]
+    web: [APIs, SDKs]
+    databases: [Vector Databases]
+    data: [Spark, Databricks, Ray, Kafka, Data Pipelines]
+    cloud: [Azure, Azure AI Foundry]
+    ops: [Kubernetes, Docker, CI/CD, Infrastructure as Code, Observability, MLOps]
+    languages: [Python, Java, TypeScript, Scala, C++]
+    domains: []
+    other: [Responsible AI, HIPAA Compliance, FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100387'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T15:00:18.460217'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

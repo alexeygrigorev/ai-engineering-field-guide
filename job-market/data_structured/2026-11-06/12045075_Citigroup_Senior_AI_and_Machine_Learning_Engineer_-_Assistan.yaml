@@ -1,0 +1,54 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: |-
+    Global banking and financial services, enterprise data
+    reconciliation
+position:
+  title: Senior AI and Machine Learning Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic AI frameworks, RAG
+      with vector databases, model tuning, and evaluation
+      strategies for agent performance — clearly shaping LLM/agent
+      output quality. With LLMs and agent systems central, this is
+      ai-first.
+  responsibilities:
+  - Develop and deploy scalable agentic AI frameworks and Generative AI solutions
+    for banking reconciliation use cases
+  - Build full-stack applications integrating ML and LLM tools into AI solutions
+  - Prototype and integrate advances in agent-based systems, autonomous AI, and generative
+    AI
+  - Collaborate with AI researchers, data scientists, product managers, and engineers
+    to scale AI solutions
+  - Write production-quality code, set technical standards, and validate architectural
+    decisions
+  - Take AI capabilities from proof-of-concept through secure cloud-native production
+    deployments
+  - Design metrics and evaluation strategies for AI system and agent performance
+  use_cases:
+  - Automated financial reconciliations in global processing hubs
+  - AI-powered Global Reconciliation Utility platform
+  - Banking use cases powered by agentic AI frameworks
+  - Enterprise data reconciliation processing
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, RAG, LLMs, Generative AI, Fine-Tuning,
+      Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Docker, GenAIOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12045075'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:37:49.124819'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,39 @@
+company:
+  name: ELEKS
+  stage: null
+  focus: |-
+    Software engineering services for biopharma process
+    automation
+position:
+  title: Lead .Net Full-stack Software Developer (AI-driven), JR786
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The responsibilities and requirements sections are empty;
+      only the title mentions "AI-driven". There is no evidence of
+      shaping model behaviour, using AI APIs, or classical ML
+      work, so the role cannot be classified beyond the unknown
+      label.
+  responsibilities:
+  - Develop .NET full-stack software solutions for the client
+  use_cases:
+  - Biopharma process automation software
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [.NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10887222'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T11:22:21.237805'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

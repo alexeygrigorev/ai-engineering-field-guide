@@ -1,0 +1,55 @@
+company:
+  name: Pinterest
+  stage: null
+  focus: Visual discovery and inspiration platform
+position:
+  title: Staff Machine Learning Engineer, Content Visual AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: building and
+      improving VLM/LLM models, distributed training, embeddings,
+      distillation, and evaluation. Since both LLM/VLM and
+      classical ML components are shaped, and vision-language
+      models driven toward content understanding are involved, it
+      classifies as ai-first.
+  responsibilities:
+  - Set technical direction and multi-quarter strategy for foundational ML capabilities
+    in visual representation learning, multimodal content understanding, and LLM-based
+    personalization
+  - Lead high-impact scientific and technical initiatives from problem definition
+    through experimentation and productionization
+  - Build reusable embeddings, representations, semantic signals, and ML infrastructure
+    using VLMs, LLMs, sequence modeling, self-supervised learning, retrieval, and
+    distillation
+  - Partner with Product, Data Science, Applied Science, and Engineering to translate
+    capabilities into product outcomes
+  - Establish rigorous practices for modeling, data pipelines, distributed training,
+    inference, and evaluation while mentoring engineers and scientists
+  use_cases: []
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Machine Learning, Embeddings, Distributed Training, Distillation, Self-Supervised
+        Learning, Sequence Modeling, Model Training, Model Evaluation, Recommendation
+        Systems]
+    web: []
+    databases: []
+    data: [Spark, Hive, MapReduce, Data Pipelines]
+    cloud: []
+    ops: [Inference]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11578228'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T12:14:41.572814'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

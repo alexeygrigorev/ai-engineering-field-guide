@@ -1,0 +1,44 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: Digital product engineering and AI services firm
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent orchestration in LangGraph,
+      tunes prompts and context windows, and builds Copilot Studio
+      agents — directly shaping LLM behavior.
+  responsibilities:
+  - Design and implement stateful multi-agent orchestrations using LangGraph
+  - Build and customize AI assistants in Microsoft Copilot Studio with business system
+    integrations
+  - Write production-ready Python code for backend pipelines and LLM tool extensions
+  - Fine-tune system prompts, optimize context windows, and manage memory/state
+  - Integrate REST APIs, vector databases, and enterprise data sources into LLM workflows
+  use_cases:
+  - Enterprise copilots and AI assistants integrated with business systems
+  - Stateful multi-agent orchestration for complex reasoning and task decomposition
+  - RAG and GraphRAG solutions over enterprise data sources
+  - Custom LLM tools and backend integration layers
+  skills:
+    genai: [LangGraph, Agentic Workflows, Multi-Agent Systems, Copilot Studio, Prompt
+        Engineering, LLMs, Generative AI, RAG, GraphRAG, Agentic Mesh]
+    ml: [Deep Learning]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure OpenAI, Azure, Power Platform]
+    ops: [LangSmith, DeepEval, CI/CD]
+    languages: [Python, Pydantic, asyncio]
+    domains: []
+    other: [ServiceNow, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11500661'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:00:31.700464'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

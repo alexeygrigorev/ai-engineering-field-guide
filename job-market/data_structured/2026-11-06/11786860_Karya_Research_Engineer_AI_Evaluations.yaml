@@ -1,0 +1,60 @@
+company:
+  name: Karya
+  stage: null
+  focus: |-
+    Digital work platform building language datasets and AI
+    evaluations for underrepresented communities
+position:
+  title: Research Engineer, AI Evaluations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM evaluation systems end to
+      end — curating query sets, defining rubrics, validating
+      automated judges against human ground truth, and building
+      bias-detection methods for LLM outputs. Judging model output
+      quality and building evals is shaping, and the targets are
+      LLMs and chat/translation models, so ai-first.
+  responsibilities:
+  - 'Design benchmarks: curate query sets, define rubrics and metrics, and choose
+    between human, automated and hybrid evaluation methods'
+  - Design elicitation and adjudication processes that turn domain expertise into
+    consistent, scalable judgments
+  - Develop methods to detect gender and other social biases in LLM outputs across
+    languages and cultures
+  - Serve models through APIs and self-hosted GPU inference with reproducible, versioned
+    configurations and failure tracing
+  - Analyse evaluation data statistically (agreement, uncertainty, significance, disaggregation)
+    and validate automated judges against human ground truth
+  - Build and maintain modular evaluation pipelines and leaderboard infrastructure
+  - Prototype new evaluation methods and turn results into publications, technical
+    reports and public releases
+  use_cases:
+  - Evaluating AI models in underrepresented languages and contexts missed by global
+    benchmarks
+  - ASR, TTS, machine translation and chat evaluation, with emerging agentic and multimodal
+    evaluation
+  - Bias detection (e.g., gender, social bias) in LLM outputs across languages and
+    cultures
+  - Aggregating noisy human and automated judgments into reliable model leaderboards
+    and rankings
+  - Building benchmarks and reports for model developers and decision-makers
+  skills:
+    genai: [LLMs]
+    ml: [Model Evaluation, Data Pipelines, Machine Learning]
+    web: []
+    databases: []
+    data: [Statistics]
+    cloud: []
+    ops: [Model Deployment, GPU Inference]
+    languages: [Python]
+    domains: [NLP]
+    other: [Speech Recognition, Text-to-Speech, Machine Translation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11786860'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:12:05.871638'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

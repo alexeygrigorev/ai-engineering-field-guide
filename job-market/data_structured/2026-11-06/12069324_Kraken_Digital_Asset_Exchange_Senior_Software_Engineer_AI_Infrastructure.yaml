@@ -1,0 +1,50 @@
+company:
+  name: Kraken Digital Asset Exchange
+  stage: null
+  focus: Cryptocurrency exchange and digital asset trading platform
+position:
+  title: Senior Software Engineer – AI Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds infrastructure powering agent systems, and
+      explicitly defines guardrails, evaluation, and failure
+      handling for agent-driven workflows, which is shaping model
+      behaviour rather than only serving/hosting. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Design and build the infrastructure layer powering AI agent systems in production
+  - Develop high-performance Rust services handling model inference, orchestration,
+    and execution
+  - Architect scalable systems supporting millions of users and high request throughput
+  - Build MLOps patterns for model deployment, evaluation, and monitoring
+  - Define guardrails, observability, and failure handling for agent-driven workflows
+  - Optimize latency, throughput, and cost across inference and orchestration layers
+  - Partner with the Agent Systems team to harden experimental prototypes into production
+    systems
+  use_cases:
+  - AI agent infrastructure serving millions of users at scale
+  - Model inference, orchestration, and execution for agent systems
+  - Safe agent operation across internal Kraken systems
+  - High-throughput, low-latency production AI platform for a crypto exchange
+  skills:
+    genai: [Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, MLOps, Model Deployment, Model Monitoring, Observability,
+      Monitoring, Guardrails]
+    languages: [Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12069324'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:49:32.329952'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

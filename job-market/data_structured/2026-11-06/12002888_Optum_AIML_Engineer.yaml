@@ -1,0 +1,55 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt engineering, RAG frameworks, and
+      LLM-powered applications, and builds model evaluation
+      frameworks — directly shaping LLM behavior and output
+      quality. This is clearly ai-first.
+  responsibilities:
+  - Design, develop, and implement AI/ML and Generative AI solutions supporting Core
+    Claims initiatives including duplicate overpayments, FWA disputes, and first pass
+    claims
+  - Develop and deploy LLM-powered applications, prompt engineering solutions, and
+    RAG frameworks
+  - Apply AI techniques to automate claims workflows including classification, intelligent
+    routing, document understanding, and decision support
+  - Collaborate with engineering, product, analytics, and business teams to build
+    scalable AI solutions
+  - Develop frameworks for model evaluation, performance testing, validation, and
+    continuous improvement
+  - Partner with data science and engineering teams on feature engineering, model
+    deployment, inference optimization, and production support
+  - Ensure adherence to Responsible AI practices including explainability, governance,
+    fairness, and model validation
+  use_cases:
+  - Duplicate overpayment detection in healthcare claims
+  - Fraud, Waste & Abuse (FWA) disputes
+  - First pass claims automation
+  - Claims classification and intelligent routing
+  - Document understanding and decision support
+  - Operational triage and workflow automation
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, LLM Evaluation]
+    ml: [Machine Learning, Feature Engineering, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12002888'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:23:34.540476'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: TMS LLC
+  stage: null
+  focus: Technology consulting and staffing services
+position:
+  title: 'Hiring: AI Engineer | Agentic AI, AWS Bedrock AgentCore & Langfuse | 15+
+    Years'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys AI agents with Claude Agent SDK,
+      designs LLM-as-a-Judge evaluations and golden datasets, and
+      calibrates them against human labels — directly shaping
+      model/agent behaviour and output quality. LLM/agent
+      components dominate, so ai-first.
+  responsibilities:
+  - Develop AI agents using Python and Claude Agent SDK
+  - Deploy agents on AWS Bedrock AgentCore Runtime
+  - Design golden datasets and implement LLM-as-a-Judge evaluations
+  - Integrate automated evaluations into CI/CD pipelines as quality gates
+  - Implement Langfuse/OpenTelemetry observability and tracing for AI agents
+  - Evaluate agent accuracy, task completion, tool execution, and performance
+  - Support RAG pipelines and AWS data processing workflows
+  use_cases:
+  - Production AI agents built and deployed on AWS Bedrock AgentCore
+  - Automated LLM evaluation with LLM-as-a-Judge and golden datasets
+  - AI observability and tracing for agent performance and task completion
+  - Continuous evaluation quality gates in CI/CD pipelines
+  - RAG pipelines and AWS data processing workflows
+  skills:
+    genai: [AI Agents, LLM Evaluation, Claude Code, RAG, Guardrails, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [CI/CD, Langfuse, OpenTelemetry, GitHub Actions]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11997890'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:21:40.170593'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

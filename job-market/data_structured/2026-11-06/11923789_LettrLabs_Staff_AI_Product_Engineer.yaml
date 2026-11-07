@@ -1,0 +1,48 @@
+company:
+  name: LettrLabs
+  stage: null
+  focus: AI-driven direct mail marketing automation
+position:
+  title: Staff AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building with LLMs including
+      agents, tool use, retrieval, evals, and context engineering,
+      shaping model behaviour directly. The deliverables are AI
+      tools and agents, not just consuming APIs.
+  responsibilities:
+  - Embed with business teams to understand goals, workflows, and pain points
+  - Map business processes end to end and identify where AI tools, agents, or automation
+    move KPIs
+  - Design, build, and ship AI tools and harnesses from prototype to production
+  - 'Own shipped products post-launch: reliability, iteration, adoption, and impact
+    measurement'
+  - Define success metrics and baselines with each team
+  - Create reusable patterns, components, and context for faster deployments
+  - Teach and enable teams to use and extend the tools
+  use_cases:
+  - AI tools for sales and go-to-market teams
+  - AI automation for customer service
+  - AI-driven marketing and finance workflows
+  - Agentic internal operating system across business functions
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG, LLM Evaluation, Context Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11923789'
+  location: Los Angeles, USA
+  remote: true
+  extracted_at: '2026-11-06T13:58:40.723103'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Scalable Capital
+  stage: null
+  focus: Digital investment and banking platform for Europe
+position:
+  title: AI Software Engineer – Python (m/f/x)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI systems and orchestration
+      workflows (LangGraph) and integrates LLM APIs into
+      production, plus designs testing/monitoring for AI system
+      accuracy — shaping model behaviour and output quality, with
+      clear LLM/agent components.
+  responsibilities:
+  - Develop and maintain AI/LLM services for internal and client-facing products
+  - Design architectures for deploying scalable AI-enabled solutions on AWS
+  - Extend Terraform infrastructure and CI/CD pipelines
+  - Design testing and monitoring for accuracy and reliability of AI-integrated systems
+  - Build intelligent workflows with agentic orchestration frameworks such as LangGraph
+  - Collaborate with cross-functional teams to integrate AI-driven features
+  use_cases:
+  - AI-driven investment and banking product features
+  - Agentic AI workflows for internal and client-facing services
+  - Production LLM integration at scale for a fintech platform
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, LangGraph, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, CI/CD, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11876599'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T13:28:57.086157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

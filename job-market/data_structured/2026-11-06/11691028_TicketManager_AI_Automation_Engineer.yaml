@@ -1,0 +1,57 @@
+company:
+  name: TicketManager
+  stage: null
+  focus: |-
+    Enterprise platform for live event ticket and hospitality
+    management
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: building MCP
+      servers, prompt engineering, structured outputs, and
+      designing agentic workflows with LLMs, plus chat/voice
+      agents. Multiple LLM components make it ai-first.
+  responsibilities:
+  - Build and measure workflow automations in n8n across CRM, ERP, support, and fulfillment
+    systems
+  - Build custom MCP servers connecting Claude and other models to internal systems
+    and data
+  - Build integrations with Claude, Gemini, and other model APIs including prompt
+    engineering and structured outputs
+  - Design and instrument agentic workflows where AI takes multi-step autonomous actions
+  - Build voice and chat agents for sales and support, and own an in-app chatbot
+  - Use AI CLI tools (Claude Code, Codex) and automate code review, testing, QA, and
+    release pipelines
+  - Work with AWS and Azure data lakes to feed AI systems with clean data with security
+    defaults
+  - Define success metrics, track cost/performance/adoption, and evaluate new models
+    and tools
+  use_cases:
+  - Automating CRM, ERP, support, and fulfillment workflows
+  - Connecting AI models to internal enterprise systems via MCP
+  - Voice and chat agents for sales and customer support
+  - In-app chatbot for the enterprise ticket management platform
+  - AI-assisted code review, testing, QA, and release automation
+  - Feeding AI systems from AWS and Azure data lakes
+  skills:
+    genai: [MCP, Anthropic API, Gemini, Prompt Engineering, Structured Outputs, Agentic
+        Workflows, AI Agents, Claude Code, Codex, LLMs, RAG]
+    ml: []
+    web: [REST APIs, Webhooks, JSON]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, GitHub Actions]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11691028'
+  location: Calabasas, USA
+  extracted_at: '2026-11-06T12:36:17.660715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

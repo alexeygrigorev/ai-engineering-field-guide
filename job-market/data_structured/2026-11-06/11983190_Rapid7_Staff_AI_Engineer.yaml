@@ -1,0 +1,54 @@
+company:
+  name: Rapid7
+  stage: null
+  focus: Cybersecurity analytics and threat detection platform
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, fine-tunes, post-trains, and evaluates LLM
+      and agentic AI systems, directly shaping model behavior and
+      output quality. It involves fine-tuning, distillation,
+      context engineering, and building evals for LLM targets,
+      making it ai-first.
+  responsibilities:
+  - Lead the design and architecture of LLM and agentic AI systems for Detection and
+    Response and Exposure and Remediation
+  - Recommend model strategy including frontier vs open-source models and fine-tuning,
+    distillation, or post-training
+  - Fine-tune, distill and post-train open-source LLMs on security data from curation
+    through deployment
+  - Apply context engineering, inference optimization and evaluation practices balancing
+    quality, latency and cost
+  - Establish evals as the release gate for shipped AI systems
+  - Lead design reviews and work through complex technical trade-offs
+  - Prototype and build critical model, training and inference code
+  - Mentor engineers and partner with Product and platform teams
+  use_cases:
+  - Alert triage for security operations
+  - Threat investigation and automated response
+  - Vulnerability prioritization
+  - Attack surface risk assessment
+  - Guided remediation
+  skills:
+    genai: [LLMs, Fine-Tuning, LoRA, Agentic Workflows, Context Engineering, LLM Evaluation,
+      RLHF]
+    ml: [PyTorch, Distillation, Quantization, Machine Learning, Distributed Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, TensorRT, Inference Optimization, Distributed Systems]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983190'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:17:18.425622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

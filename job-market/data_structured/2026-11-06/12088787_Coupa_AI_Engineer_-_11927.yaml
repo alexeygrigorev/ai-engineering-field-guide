@@ -1,0 +1,57 @@
+company:
+  name: Coupa
+  stage: null
+  focus: AI-driven spend management platform for businesses
+position:
+  title: AI Engineer - 11927
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and iterates AI agents with Google
+      ADK, Vertex AI, MCP servers, prompts, and grounding
+      strategies - directly shaping model behavior and agentic
+      flows (LLM-based), so it's ai-first. Forward-deployed
+      internal nature doesn't change this.
+  responsibilities:
+  - Design, build, test, and deploy autonomous and semi-autonomous AI agents using
+    Google ADK and Vertex AI Agent Builder
+  - Implement Vertex AI capabilities including model training, fine-tuning, vector
+    search, and orchestration
+  - Own end-to-end AI project lifecycle on GCP from prototype to production deployment
+    with monitoring and iteration
+  - Build integrations between AI agents and Google Cloud services (Gemini Enterprise,
+    Cloud Functions, Cloud Run, Pub/Sub)
+  - Build MCP servers, connectors, and tool layers giving models governed access to
+    Coupa business systems
+  - Implement responsible AI safeguards including bias detection, explainability,
+    and compliance monitoring
+  - Partner with business stakeholders, QA specialists, and cloud engineers on requirements
+    and delivery
+  - Measure deployment impact and report results in business terms; document and hand
+    off solutions
+  use_cases:
+  - Autonomous and semi-autonomous AI agents for business automation
+  - Intelligent automation embedded in existing enterprise systems
+  - Governed model access to business systems and data via MCP tool integrations
+  - Responsible AI with bias detection, explainability, and compliance monitoring
+  - Iterative improvement of agent performance, prompts, and grounding in production
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Gemini, Anthropic API, Fine-Tuning,
+      Prompt Engineering, Google ADK, Guardrails]
+    ml: [Model Training, Model Evaluation]
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: [GCP, Vertex AI, Cloud Run, Cloud Functions, Pub/Sub]
+    ops: [Model Monitoring, Vertex AI Pipelines, Responsible AI]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088787'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:54:03.778257'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

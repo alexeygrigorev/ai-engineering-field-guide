@@ -1,0 +1,66 @@
+company:
+  name: Staples India
+  stage: null
+  focus: |-
+    Ecommerce, office supplies retail with AI-powered search and
+    discovery
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: training, fine-tuning, and
+      evaluating vision-language, multimodal, and GenAI models,
+      and building GenAI/agentic AI systems and RAG for search and
+      discovery. Both LLM/agentic components and classical CV are
+      involved, so it classifies as ai-first.
+  responsibilities:
+  - Set technical direction for AI systems across search, retrieval, ranking, personalization,
+    and visual discovery
+  - Architect and optimize multi-stage retrieval and ranking pipelines across text,
+    image, and multimodal representations
+  - Develop, fine-tune, and evaluate computer vision, vision-language, and multimodal
+    models including encoders, embeddings, and contrastive learning
+  - Create offline evaluation, benchmarking, and online experimentation frameworks
+    defining success metrics
+  - Apply reinforcement learning, learning-to-rank, and bandit methods for personalization
+    and ranking optimization
+  - Build and deploy GenAI and agentic AI systems for search, discovery, catalog,
+    and content use cases
+  - Lead model and data strategy including data quality, annotation, hard-negative
+    mining, bias, and safety
+  - Productionize ML systems using Databricks pipelines and AKS with latency, reliability,
+    and cost efficiency in mind
+  - Mentor engineers and establish reusable architectures, evaluation standards, and
+    MLOps/LLMOps practices
+  use_cases:
+  - Ecommerce product search relevance, ranking, and re-ranking
+  - Semantic, visual, and multimodal product retrieval
+  - Personalization and recommendations
+  - Visual discovery including image classification, detection, and similarity
+  - Product matching and entity resolution
+  - GenAI and agentic experiences for catalog and content understanding
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents]
+    ml: [PyTorch, Fine-Tuning, Contrastive Learning, Embeddings, Model Training, Model
+        Evaluation, Transformers, Neural Networks, Reinforcement Learning, Transfer
+        Learning, Learning to Rank, Quantization, Distillation, Recommendation Systems,
+      Vision Transformers, Multimodal Models, Multimodal Embeddings, Vision-Language
+        Models, OCR, Image Classification, Object Detection, Image Segmentation, Hard-Negative
+        Mining, Cross-Encoders]
+    web: []
+    databases: [Vector Databases, Approximate Nearest-Neighbor Retrieval]
+    data: [Databricks]
+    cloud: [AKS]
+    ops: [Kubernetes, MLOps, LLMOps, MLflow]
+    languages: [Python]
+    domains: [Computer Vision, Information Retrieval, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11827801'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:19:33.960544'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

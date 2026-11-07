@@ -1,0 +1,59 @@
+company:
+  name: Oceaneering
+  stage: null
+  focus: |-
+    Engineered services and products for offshore energy
+    industry
+position:
+  title: AI Developer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents in Copilot Studio,
+      including instructions, orchestration logic, prompt
+      engineering, grounding, and RAG patterns — directly shaping
+      LLM behavior and output quality, so it is ai-first.
+  responsibilities:
+  - Design, develop, deploy, and support enterprise AI agents, automations, and AI-enabled
+    applications using Power Platform and Azure AI
+  - Build and optimize agents in Microsoft Copilot Studio including instructions,
+    topics, actions, tools, knowledge sources, and orchestration logic
+  - Develop workflows, approvals, notifications, integrations, and process orchestrations
+    using Power Automate
+  - Implement prompt engineering, grounding, RAG, and human-review patterns to improve
+    accuracy and reliability
+  - Integrate solutions with Microsoft 365, Microsoft Graph, SharePoint, Dataverse,
+    Azure services, and enterprise APIs
+  - Execute functional, integration, security, prompt-response, and tool-calling tests
+    and deploy via ALM practices
+  - Monitor solution performance, usage, and quality; troubleshoot production issues
+    using telemetry and feedback
+  - Partner with business stakeholders to define requirements, prioritize opportunities,
+    and establish measurable outcomes
+  use_cases:
+  - Enterprise AI agents that improve productivity and automate business processes
+  - Workflow automation with approvals, notifications, and integrations via Power
+    Automate
+  - Data-driven decision-making enabled by AI-enabled enterprise applications
+  - Grounded conversational agents built on enterprise knowledge sources
+  skills:
+    genai: [Copilot Studio, AI Agents, Prompt Engineering, RAG, Agentic Workflows,
+      LLMs, Generative AI, Azure OpenAI]
+    ml: []
+    web: [APIs]
+    databases: [Dataverse]
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: []
+    languages: []
+    domains: []
+    other: [Power Automate, Power Platform, Microsoft Graph, Responsible AI, SharePoint,
+      Application Lifecycle Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11931798'
+  location: Chandigarh, IND
+  extracted_at: '2026-11-06T14:00:47.219078'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: MarcoPolo Learning
+  stage: null
+  focus: Early childhood education content and technology
+position:
+  title: QA Automation Engineer (AI-First)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA automation role whose deliverable is product
+      quality via automated regression tests; AI tools (ChatGPT,
+      Cursor, AI testing platforms) are used to assist that work
+      rather than the person shaping model behavior. The minor
+      bullet about testing AI agents alongside an automation
+      specialist is QA oversight of tools being rolled out, not
+      designing prompts, retrieval, or agent flows themselves.
+  responsibilities:
+  - Test new features end to end across web platforms and mobile apps, thinking from
+    teacher, director and admin perspectives
+  - Write test cases and acceptance criteria, using AI to generate and expand them
+  - Build and maintain automated regression suites with Playwright, Cypress or similar
+  - Evaluate and pilot AI-forward QA testing platforms (self-healing, agent-driven,
+    visual AI) and recommend adoption
+  - Test cross-system user journeys such as course completion, certificates and automated
+    emails, and verify reports, dashboards and data exports
+  - Log and reproduce bugs in Jira, working with engineers until fixed
+  - Run pre-release and post-release checks and help verify hotfixes
+  - Act as first technical line for product questions from the customer-facing team
+  - Test and refine AI agents and workflows being rolled out across the company
+  use_cases:
+  - Quality assurance for early childhood education web platforms and mobile apps
+  - Automated regression testing of releases used by thousands of educators
+  - AI-assisted test generation and evaluation of self-healing, agent-driven QA tools
+  - Verification of reports, dashboards and data exports for accuracy
+  - Cross-system testing of course completion, certificates and automated customer
+    emails
+  - Supporting rollout of AI agents and workflows across the company
+  skills:
+    genai: [AI Agents, ChatGPT, Claude Code]
+    ml: []
+    web: [APIs]
+    databases: [SQL]
+    data: []
+    cloud: [AWS]
+    ops: [Playwright, Cypress, Selenium, CI/CD, GitHub Actions, Mobile App Testing]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: [Cursor, GitHub Copilot, Jira, Asana, Agile, Postman, Zapier, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12097507'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T14:58:22.544306'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

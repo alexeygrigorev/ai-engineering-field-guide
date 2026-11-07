@@ -1,0 +1,47 @@
+company:
+  name: Booz Allen Hamilton
+  stage: null
+  focus: Management and technology consulting for government clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires experience building with generative and
+      agentic AI technologies (LLMs, MCP, LangChain, LangGraph)
+      and designing AI solution architecture, which means shaping
+      model behavior through agentic workflows and prompting. This
+      is consulting work applying these technologies to client
+      problems, still ai-first since the person designs/builds the
+      LLM-based solutions themselves.
+  responsibilities:
+  - Design and implement AI solution architecture to address clients' business problems
+  - Apply various AI technologies and methods to develop innovative solutions to complex
+    problems
+  - Apply advanced technical expertise and industry knowledge on client projects
+  - Mentor and supervise team members as needed
+  - Gather requirements from customers and lead Agile teams
+  use_cases:
+  - Client business problem solving with AI solutions
+  - Agentic and generative AI applications
+  - Computer vision, NLP, and signal processing projects
+  - Edge computing and embedded AI systems
+  skills:
+    genai: [LLMs, MCP, LangChain, LangGraph, Generative AI, Cursor]
+    ml: [Machine Learning, Deep Learning, CUDA, RAPIDS]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker]
+    languages: [Python, C#, Java, C, C++, Rust]
+    domains: [Computer Vision, NLP]
+    other: [Signal Processing, Edge Computing, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11362566'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T11:35:56.896504'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

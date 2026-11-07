@@ -1,0 +1,51 @@
+company:
+  name: SRM Technologies
+  stage: null
+  focus: Automotive ADAS and embedded perception engineering services
+position:
+  title: Engineer–Artificial Intelligence
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds classical CV/ML/DL systems
+      (camera/LIDAR/radar perception, SLAM, sensor fusion, neural
+      network models) with no LLM, prompt, or agent component, so
+      it is ml-first. The person trains/builds and evaluates the
+      models themselves, which is shaping.
+  responsibilities:
+  - Develop ADAS computer vision and radar algorithms
+  - Process stereo camera and LIDAR 3D point clouds including coordinate transformations
+  - Perform mono and stereo camera calibration (static, online, dynamic)
+  - Build 3D reconstruction and depth imaging pipelines
+  - Develop optional SLAM solutions
+  - Build production-grade deep learning and neural network computer vision models
+  - Implement sensor fusion and object tracking with algorithm performance measurement
+  - Deploy CV and ML algorithms on embedded edge computing hardware
+  use_cases:
+  - ADAS perception (camera, LIDAR, radar)
+  - Autonomous driving sensor fusion and object tracking
+  - 3D reconstruction and depth imaging from stereo/LIDAR
+  - SLAM and localization
+  - Embedded edge deployment of perception algorithms
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Neural Networks, Image Processing, Model
+        Evaluation, PyTorch, TensorFlow, Caffe, MXNet]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [C++, Embedded C, Python]
+    domains: [Computer Vision]
+    other: [OpenCV, MATLAB, SLAM, Sensor Fusion, Kalman Filters, Object Tracking,
+      3D Point Cloud Processing, Camera Calibration, 3D Reconstruction, RADAR, LIDAR,
+      OpenGL, OpenCL, Edge Computing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11499664'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T11:59:59.900149'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: Mozilla
+  stage: ''
+  focus: |-
+    Open-source email, communication, and privacy-focused AI
+    tools
+position:
+  title: Staff Product Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed engineer role on an AI product
+      (Thunderbolt), where the person builds and customizes AI-
+      enabled application features — including experience with RAG
+      systems and agents — directly for enterprise deployments.
+      Forward-deployed engineers adapting and deploying AI
+      solutions are ai-first, and the role requires building
+      LLM/RAG/agent components rather than merely consuming an
+      API.
+  responsibilities:
+  - Build and ship full-stack features, integrations, and customer-specific customizations
+    in the Thunderbolt codebase, from front-end UI through APIs, services, and deployment
+    configuration
+  - Work directly with technical partners and enterprise customers to turn their environment
+    and requirements into technical plans and working software
+  - Support pilots, proofs of concept, and early production deployments including
+    partner-hosted and customer-controlled environments
+  - Diagnose and fix complex issues across application, infrastructure, identity and
+    access, integration, and data-access layers
+  - Maintain customer-specific customizations over time as the core product evolves
+  - Generalize customer requests into reusable product capabilities and feed deployment
+    feedback into roadmap discussions
+  - Write documentation, deployment guidance, and runbooks enabling partners to handle
+    routine issues independently
+  use_cases:
+  - Open-source AI client (Thunderbolt) for organizations needing control over data,
+    infrastructure, and model choices
+  - Enterprise email and communication productivity with privacy-preserving AI
+  - Enterprise deployments with self-hosted, hybrid, and data-sovereign infrastructure
+  - Partner- and systems-integrator-delivered AI deployments
+  skills:
+    genai: [RAG, AI Agents, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Observability]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Enterprise Search, Authentication]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11471149'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:56:07.501200'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

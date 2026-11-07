@@ -1,0 +1,204 @@
+job_id: 11883783
+title: Senior/Staff AI Application Engineer - Heterogeneous Computing
+company: Axelera AI
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Paris, CAN
+  - Athens, CAN
+  - Eindhoven, NLD
+  - Amsterdam, NLD
+  - Bluewater, CAN
+  - Site, TUR
+  - Dawn-Euphemia, CAN
+remote: true
+work_type: FULL_TIME
+company_size: 147 Employees
+description: |
+  About Us
+
+  Axelera AI is not your regular deep-tech company. We are
+  creating the next-generation AI platform to support anyone
+  who wants to help advancing humanity and improve the world
+  around us.
+
+  In just five years, we have raised a total of $450 million
+  and have built a world-class team of 250+ employees
+  (including 60+ PhDs with more than 40,000 citations), both
+  remotely from 21 different countries and with offices in
+  Belgium, France, Switzerland, Italy, the UK, headquartered
+  at the High Tech Campus in Eindhoven, Netherlands.
+
+  We have also launched our Metis™ AI Platform, which achieves
+  a 3-5x increase in efficiency and performance, and have
+  visibility into a strong business pipeline exceeding $100
+  million.
+
+  Our unwavering commitment to innovation has firmly
+  established us as a global industry pioneer.
+
+  Are you up for the challenge?
+
+  Position Overview
+
+  As a Senior/Staff Software Engineer in the Model Enablement
+  team, you will build our model enablement platform and
+  decide how each model runs across the Metis or Europa AIPU,
+  the host CPU and the host's accelerators. How this work is
+  split and scheduled determines most of the end-to-end
+  performance a customer sees in the Voyager SDK.
+
+  The role combines architecture and hands-on work across the
+  model frontend, the graph compiler, the runtime and the
+  application pipeline. During model bring-up, you cover the
+  frontend and graph side, and a device-side engineer covers
+  the backend.
+
+  Our team uses AI coding agents in daily work, and you will
+  use them to build, test and verify your own work. We also
+  welcome experienced field application engineers, technical
+  leads and engineering managers who want to return to hands-
+  on engineering. Experience in planning, delegating and
+  reviewing work transfers well to working with AI agents.
+
+  Key responsibilities:
+
+  - Model enablement platform and agent harness: Build the
+    platform that engineers and AI agents use to bring up
+    models: reusable tools to partition, compile, run and
+    profile; environments with access to real hardware;
+    closed-loop runs that apply a change, measure it against
+    the reference and repeat; and verification (differential
+    testing, regression detection) integrated into CI.
+  - Model ingestion: Own how a PyTorch or ONNX model is
+    captured, analysed and split across the AIPU's matrix and
+    RISC-V vector units, the host CPU and the host's
+    accelerators (GPU, NPU, video decoder), with placement
+    tags that users can read and override. Build this with the
+    graph compiler team so it works for every model.
+  - Heterogeneous execution: Extend that split to large models,
+    cascades and multi-model pipelines, for example with
+    expert offloading and caching across device and host
+    memory. Agree the plan with the graph compiler team.
+  - End-to-end performance: With the application team (pipeline
+    builder) and the runtime team, bring each model to its
+    best end-to-end performance: overlap of host and device
+    work, zero-copy buffers, batching, multi-core scheduling,
+    and models with several inputs. Profile device time, host
+    time and data movement, and confirm each speedup in the
+    full pipeline.
+  - Critical models: Study the models that matter most to
+    customers, on Metis today and on Europa, and turn each
+    lesson into a platform improvement.
+
+  Qualifications:
+
+  Essential
+
+  - 8+ years of engineering experience in systems, compilers,
+    runtimes or performance, including system-level design
+    ownership.
+  - Hands-on experience with heterogeneous computing across CPU,
+    GPU, DSP, NPU or FPGA, including reasoning about compute,
+    memory bandwidth, latency and data movement.
+  - Solid fundamentals in computer architecture, operating
+    systems and parallel programming.
+  - Familiarity with ML graph representations and compiler
+    concepts: graph capture (torch.export, FX, ONNX),
+    lowering, operator fusion, partitioning, memory planning.
+  - Strong C++ and Python.
+  - Daily use of AI coding agents on real engineering work, with
+    the judgment to review and test their output.
+
+  Preferred
+
+  - Hands-on experience with MLIR or another compiler framework
+    (TVM, XLA, TorchInductor, IREE).
+  - Experience with an inference runtime or execution engine
+    (ONNX Runtime execution providers, a custom NPU or DSP
+    runtime).
+  - Experience with GPU compute (CUDA, OpenCL, Vulkan) or SIMD
+    optimization on Arm or x86.
+  - Experience with large-model execution techniques such as
+    offloading, expert caching, speculative decoding,
+    pipelining across devices.
+  - Experience building agent environments, evaluation harnesses
+    or verification frameworks (differential testing,
+    regression detection), or MCP-based tooling.
+
+  Location
+
+  We offer a flexible working arrangement, with options to:
+
+  - Work from one of our Axelera AI offices (Leuven in Belgium,
+    Amsterdam and Eindhoven in the Netherlands, Zurich in
+    Switzerland, Florence and Milan in Italy or Bristol in the
+    United Kingdom) if you're already based in the vicinity.
+  - Work fully remotely from any European country (incl. the UK)
+    you are already in.
+  - Relocate with us and work from Italy (Florence or Milan) or
+    the Netherlands (Amsterdam or Eindhoven).
+
+  Kindly note that priority will be given to candidates who
+  are [interested in being] based in Belgium or Italy.
+
+  What we offer 
+
+  This is your chance to shape and be part of a dynamic, fast-
+  growing, international organization. We offer an attractive
+  compensation package, including a pension plan, extensive
+  employee insurances and the option to get company shares. 
+
+  An open culture that supports creativity and continual
+  innovation is awaiting you. Collaborative ownership and
+  freedom with responsibility is characteristic for the way we
+  act and work as a team. 
+
+  At Axelera AI, we wholeheartedly embrace equal opportunity
+  and hold diversity in the highest regard. Our steadfast
+  commitment is to cultivate a warm and inclusive environment
+  that empowers and celebrates every member of our team. We
+  welcome applicants from all backgrounds to join us in
+  shaping the future of AI.
+
+  Axelera AI may at times work with external parties (such as
+  recruiters, headhunters, or executive search firms) to
+  support both publicly posted and confidential searches. Our
+  hiring process never involves any payment from candidates,
+  and we will never require you to use a particular paid
+  service to be considered for a role. If you have been
+  approached by someone on our behalf and want to confirm it’s
+  legitimate, please contact us directly at
+  careers@axelera.ai.
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/staff-ai-application-engineer-heterogeneous-computing/11883783"
+source: Built In

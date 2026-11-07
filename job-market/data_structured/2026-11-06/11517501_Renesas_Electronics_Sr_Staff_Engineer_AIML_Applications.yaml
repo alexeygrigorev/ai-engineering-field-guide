@@ -1,0 +1,55 @@
+company:
+  name: Renesas Electronics
+  stage: null
+  focus: |-
+    Global semiconductor solutions for automotive, industrial,
+    infrastructure, IoT
+position:
+  title: Sr Staff Engineer, AI/ML Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, RAG, vector databases, and agent
+      frameworks into production solutions, directly shaping model
+      behavior via retrieval design and agent workflows. It also
+      builds the surrounding full-stack applications, but the core
+      AI work is LLM/agent-centric, making it ai-first.
+  responsibilities:
+  - Lead development of AI-powered engineering applications and platforms
+  - Integrate LLMs, RAG systems, vector databases, and agent frameworks into production
+    solutions
+  - Design scalable data ingestion, transformation, and serving pipelines for engineering
+    data
+  - Build backend services and APIs supporting AI agents, workflow orchestration,
+    analytics, and decision-support systems
+  - Develop web applications using React.js and TypeScript
+  - Design data models connecting requirements, architecture, implementation, verification,
+    and sign-off into a unified engineering knowledge platform
+  - Build dashboards, analytics, and workflow automation to improve engineering productivity
+  - Collaborate with Architecture, Design, Verification, and Product Engineering teams;
+    mentor engineers and drive technical direction
+  use_cases:
+  - Engineering copilots for semiconductor development
+  - Design exploration agents
+  - Engineering workflow automation
+  - Digital-thread platforms unifying engineering data
+  - Analytics and decision-support dashboards for engineering productivity
+  skills:
+    languages: [TypeScript, Python, HTML]
+    domains: []
+    web: [React, REST APIs]
+    cloud: [Azure Databricks]
+    data: [Data Pipelines, Data Engineering, Data Modeling]
+    ml: []
+    databases: [Vector Databases, Graph Databases, Knowledge Graphs]
+    genai: [LLMs, RAG, AI Agents]
+    ops: [Microservices, Distributed Systems, Docker]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11517501'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:04:12.942355'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

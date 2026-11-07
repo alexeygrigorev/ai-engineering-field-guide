@@ -1,0 +1,55 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Production Voice AI agents for Indian enterprises
+position:
+  title: Forward Deployed Engineer (Voice AI / Telephony) - Gov.
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, prompts, builds, and evaluates production
+      voice agents with guardrails, conversation design, tool-
+      calling logic, and LLM frameworks — clearly shaping model
+      behaviour. Voice agents driven by prompts with text/LLM
+      components make it ai-first.
+  responsibilities:
+  - Design, prompt, build, and deploy production voice agents with guardrails, conversation
+    design, and tool-calling logic
+  - Build scalable backend integrations (REST APIs, WebSockets, webhooks, CRM writes)
+    with enterprise systems
+  - Implement AI/LLM orchestration using LangChain, OpenAI APIs, and similar SDKs
+  - Run root-cause analysis across logs, traces, and call flows to isolate prompt,
+    platform, or data issues
+  - Monitor and optimize agent metrics (completion rate, hallucination rate, latency,
+    cost) and run funnel experiments
+  - Lead client technical workshops, manage expectations, and travel for live-call
+    reviews
+  use_cases:
+  - Production voice agents handling millions of live conversations in Hindi, Hinglish,
+    and regional languages
+  - Enterprise telephony integrations with CRM and client systems
+  - Conversational agent performance optimization (completion, hallucination, latency,
+    cost)
+  skills:
+    genai: [AI Agents, Prompt Engineering, Guardrails, Function Calling, LangChain,
+      OpenAI API, RAG, Conversational AI]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11830126'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:21:22.711290'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

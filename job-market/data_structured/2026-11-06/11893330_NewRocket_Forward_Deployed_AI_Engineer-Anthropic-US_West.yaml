@@ -1,0 +1,64 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: |-
+    Anthropic partner delivering enterprise AI and ServiceNow
+    solutions
+position:
+  title: Forward Deployed AI Engineer-Anthropic-US West
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed AI Engineer who directly shapes model
+      behavior: prompt/context engineering, RAG design, agentic
+      workflows, tool use, structured outputs, and LLM evaluation
+      with Claude/Anthropic API. LLM-centric shaping, so ai-first;
+      edge case explicitly says Forward Deployed Engineers are ai-
+      first.
+  responsibilities:
+  - Deploy and operationalize agentic AI workflows, assistants, and automations in
+    client ServiceNow and enterprise environments
+  - Build enterprise AI applications using Claude, the Anthropic API, and LLM engineering
+    practices including prompt/context engineering and RAG
+  - Design AI workflows using structured outputs, tool use/function calling, multi-step
+    orchestration, and human-in-the-loop patterns
+  - Develop secure integrations between ServiceNow, enterprise systems, APIs, data
+    platforms, and AI services
+  - Build demos, prototypes, and proof-of-concepts; rapidly iterate with customers
+    and internal teams
+  - Develop and execute AI evaluation approaches including test cases, metrics, and
+    regression testing
+  - Implement safeguards for sensitive data, prompt injection risks, and responsible
+    AI controls
+  - Contribute reusable assets and feedback to NewRocket AI platforms, Agent Packs,
+    and accelerators
+  use_cases:
+  - Agentic AI workflows and automations within ServiceNow and enterprise ecosystems
+  - Enterprise knowledge assistants grounded via RAG in authorized data sources
+  - AI-powered integrations with enterprise APIs, document repositories, and data
+    platforms
+  - Intelligent automations with human-in-the-loop review for sensitive decisions
+  - AI assistants for enterprise workflow and decision acceleration
+  skills:
+    genai: [Anthropic API, Claude Code, MCP, RAG, Prompt Engineering, Context Engineering,
+      Structured Outputs, Function Calling, Agentic Workflows, AI Agents, LLM Evaluation,
+      LLMs, Embeddings, LangChain, LangGraph, LlamaIndex, Semantic Kernel, Semantic
+        Search, Vector Search]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Git, Monitoring, Infrastructure as Code]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [ServiceNow, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893330'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:46:22.410743'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

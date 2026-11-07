@@ -1,0 +1,59 @@
+company:
+  name: Premier Research
+  stage: null
+  focus: Clinical research services for biotech and pharma
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and optimizes prompts, designs RAG with
+      Azure AI Search and vector databases, deploys MCP servers
+      and agent UIs, and administers Azure AI Foundry safety
+      evaluations and model catalog - directly shaping LLM
+      behavior and output quality. All shaping targets are
+      LLM/agent components, so it is ai-first.
+  responsibilities:
+  - Lead AI solution design and orchestration using Microsoft Copilot Studio, Claude
+    Workflows, and Azure AI Foundry
+  - Develop, test, and optimize AI prompts, workflows, and pipelines for enterprise
+    use cases
+  - Build and maintain integrations between AI platforms and corporate applications
+    using REST APIs, webhooks, and event-driven architectures
+  - Implement RAG using Azure AI Search, vector databases, and embedding pipelines
+  - Deploy and manage custom MCP servers and agent UIs via Azure Container Apps
+  - Administer and configure Azure AI Foundry including Prompt Flow, model catalog,
+    safety evaluations, and monitoring
+  - Resolve AI-related issues through the ticketing system while meeting SLAs
+  - Configure security models for AI applications ensuring least-privilege access
+    and Responsible AI compliance
+  use_cases:
+  - AI-powered integrations between AI platforms and corporate enterprise applications
+    (Workday, Salesforce, Cornerstone)
+  - Enterprise RAG search and retrieval over corporate content via Azure AI Search
+  - Enterprise AI agents and workflow automation using Copilot Studio and Claude Workflows
+  - IT support automation and ticket resolution for AI platforms
+  - Secure, compliant AI tooling for clinical research operations
+  skills:
+    genai: [Microsoft Copilot, Copilot Studio, Claude Workflows, Prompt Engineering,
+      RAG, Embeddings, MCP, LLMs]
+    ml: [Model Evaluation]
+    web: [REST APIs, Webhooks, JSON]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure AI Foundry, Azure AI Search, Azure Container Apps, Azure OpenAI,
+      Azure Integration Services]
+    ops: [Event-Driven Architecture, Monitoring]
+    languages: [Python, TypeScript, PowerShell, SQL, .NET, JavaScript]
+    domains: []
+    other: [Workday, Salesforce, Cornerstone, Workday Integrations, WSO2, XML, XSLT,
+      Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11617729'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:22:34.860489'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

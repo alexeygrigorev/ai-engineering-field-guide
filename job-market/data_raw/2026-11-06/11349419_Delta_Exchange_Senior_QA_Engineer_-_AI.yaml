@@ -1,0 +1,163 @@
+job_id: 11349419
+title: Senior QA Engineer - AI
+company: Delta Exchange
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 138 Employees
+description: |
+  About the Company
+
+  At Delta, we are reimagining and rebuilding the financial
+  system. Join our team to make a positive impact on the
+  future of finance.
+
+  🎯 Mission Driven: Re-imagine and rebuild the future of
+  finance.
+
+  💡 Most innovative cryptocurrency derivatives exchange. With
+  a daily traded volume of ~$ 10 billion, and increasing.
+  Delta is bigger than all the Indian crypto exchanges
+  combined.
+
+  📈 Offer the widest range of derivative products and have
+  been serving traders all over the globe since 2018 and
+  growing fast.
+
+  💪🏻 The founding team is comprised of IIT and ISB graduates.
+  Business co-founders have previously worked with Citibank,
+  UBS and GIC; and our tech co-founder is a serial
+  entrepreneur who previously co-founded TinyOwl and
+  Housing.com.
+
+  💰 Funded by top crypto funds (Sino Global Capital, CoinFund,
+  Gumi Cryptos) and crypto projects (Aave and Kyber Network).
+
+  Senior QA Engineer - AI
+
+  🎯 Role Overview
+
+  Delta operates three AI products used by live traders: a
+  customer support chatbot, an API Copilot that generates and
+  executes trading scripts, and an MCP server. This role owns
+  the quality of those products and is responsible for
+  measuring it objectively.
+
+  Testing probabilistic systems differs fundamentally from
+  testing deterministic ones. The same input produces
+  different output on every run, an incorrect answer can be
+  entirely fluent, and a prompt change in one flow can degrade
+  another without any visible signal. The core of this role is
+  establishing what correct means for these systems, building
+  the datasets and scoring that measure it, and operating the
+  release gate that prevents a regression from reaching
+  customers.
+
+  This is an emerging discipline with no established playbook.
+  We are defining the methodology as we build it, and the role
+  carries a high degree of autonomy and ownership.
+
+  🔬 What Sets This Role Apart
+
+  Most QA roles that mention AI mean using AI to do testing
+  faster: generating test cases from a PRD, healing flaky
+  selectors, exploring an app with an agent. Those are useful
+  and we do them.
+
+  This role is the other thing. The system under test is
+  itself an AI, and the hard problem is deciding whether its
+  output is correct when the same question produces a
+  different answer every time and a wrong answer reads as
+  convincingly as a right one. That means building evaluation
+  datasets, defining what correct looks like, scoring against
+  it, and defending a number that decides whether a release
+  ships.
+
+  If you have spent time on the second problem, this role is
+  built for you.
+
+  🛠 Key Responsibilities
+
+  - Build and maintain golden datasets for our AI products,
+    trace mined from production or generated, and verified
+    against a documented source of truth.
+  - Design layered scoring for AI outputs: deterministic rules
+    where behaviour can be asserted, and model-graded
+    evaluation where it cannot.
+  - Manage evaluation runs end to end: schedule and execute them
+    against release candidates, compare results against prior
+    baselines, and triage failures into product defects,
+    incorrect expectations, and platform issues.
+  - Own and operate the release gate that determines whether a
+    prompt or model change is approved for production.
+  - Identify failure modes ahead of customers, including
+    hallucination, incorrect tool selection, loss of context
+    across conversation turns, and PII exposure.
+  - Investigate production traces to distinguish retrieval
+    failures from generation failures from tool failures.
+  - Convert findings into actionable engineering evidence and
+    into permanent regression coverage.
+  - Define and report quality metrics for AI surfaces, and drive
+    improvement against them.
+
+  ✅ Requirements
+
+  Non-negotiable
+
+  - At least 1 year owning quality for AI products in a lead or
+    primary-owner capacity. This includes chatbots and
+    conversational assistants, code or content generation
+    products, and agentic systems. You should have worked
+    directly with prompts, tool and function schemas, and
+    model behaviour, rather than testing around them.
+  - Demonstrated hands-on experience building or operating an
+    evaluation harness for an AI system, whether in-house or
+    using a framework such as DeepEval, RAGAS or Promptfoo.
+    You should be able to describe what the harness measured,
+    the results it produced, and the decisions those results
+    informed.
+
+  Also required
+
+  - 4-6 years of QA / SDET experience.
+  - Working proficiency in Python. Our evaluation platform,
+    trace analysis and internal tooling are Python-based.
+  - Ability to analyse traces and tool calls, using
+    observability tooling such as Opik, Langfuse or LangSmith
+    or an equivalent, to determine root cause rather than
+    reporting the symptom.
+  - Strong API testing experience. The majority of the surface
+    under test is API-level.
+  - Sufficient engineering ability to build your own tooling and
+    automation.
+  - Clear written communication. Findings must be documented in
+    a form engineering can act on directly.
+
+  Bonus
+
+  - Experience with trading or exchange platforms, including
+    familiarity with futures and options, crypto derivatives,
+    margin, or settlement flows. Domain knowledge can be
+    picked up on the job, but arriving with it shortens the
+    ramp considerably.
+
+  🚀 Why Join Us?
+
+  - Play a pivotal role in shaping the regulatory landscape for
+    digital assets and Web3 in India.
+  - Work directly with founders and senior leadership on high-
+    impact strategic initiatives.
+  - Be part of a mission-driven, fast-growing organisation at
+    the forefront of financial innovation.
+  - Competitive compensation, leadership exposure, and
+    significant growth opportunities.
+industries:
+  - Artificial Intelligence
+  - Blockchain
+  - Fintech
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-10-05
+url: "https://builtin.com/job/senior-qa-engineer-ai/11349419"
+source: Built In

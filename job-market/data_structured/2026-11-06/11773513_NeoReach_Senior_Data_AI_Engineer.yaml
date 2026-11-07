@@ -1,0 +1,54 @@
+company:
+  name: NeoReach
+  stage: null
+  focus: |-
+    Creator marketing technology and influencer campaign
+    platform
+position:
+  title: Senior Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered internal tools using retrieval-
+      augmented generation, tool calling, structured outputs, and
+      evaluation — directly shaping LLM behavior (RAG design,
+      evaluation of output quality). It also includes data
+      integration work, but the AI component involves designing
+      retrieval and evaluating model output, making it ai-first.
+  responsibilities:
+  - Assess existing data sources and workflows to identify gaps and opportunities
+  - Build integrations connecting APIs, databases, and business applications
+  - Standardize records, resolve duplicates, and establish consistent data definitions
+  - Build AI-powered tools for research, information retrieval, analysis, and recurring
+    workflows
+  - Connect AI applications to approved internal systems and data with access controls
+    and human review
+  - Ship prototypes, incorporate user feedback, and deploy tools into production
+  - Evaluate AI tool accuracy, usefulness, and cost
+  - Maintain documentation, architecture records, and deployment instructions
+  use_cases:
+  - Internal AI-powered tools for research and information retrieval
+  - Automating recurring business workflows with AI
+  - Data integration across CRM, financial, and marketing systems
+  - Entity resolution and data quality standardization
+  - Influencer marketing and creator economy data infrastructure
+  skills:
+    genai: [RAG, Function Calling, Structured Outputs, LLM Evaluation]
+    ml: []
+    web: [APIs, OAuth]
+    databases: [Relational Databases]
+    data: [Data Pipelines]
+    cloud: [Cloud Infrastructure]
+    ops: [Monitoring, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11773513'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:10:07.723211'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

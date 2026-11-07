@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: AI Engineer 5
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI systems that shape model
+      behaviour: agents and multi-agent workflows, guardrails,
+      model evaluation, multi-model orchestration with LLMs and
+      vector search, and foundation model optimization techniques.
+      LLM and agentic components are central, so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, guardrails, evaluation, and observability
+  - Leverage open-source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, VectorDBs, and PyTorch
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Establish cost-performance governance reviews tracking GPU utilization, throughput,
+    and inference cost
+  - Lead design councils and design reviews for AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud and unusual charge notifications to customers
+  - AI-powered assistants answering customer questions in real time
+  - Internal tools changing how associates work
+  - Multi-model orchestration pipelines for production AI systems
+  - Scalable, cost-efficient LLM inference across enterprise AI platforms
+  skills:
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    web: []
+    cloud: [AWS, GCP, Azure]
+    data: []
+    ml: [Hugging Face, PyTorch, Foundation Model Training, Fine-Tuning, CUDA, Model
+        Evaluation, Model Compression, Machine Learning]
+    databases: [Vector Databases]
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Evaluation, Multi-Agent
+        Systems, Vector Search, Semantic Search]
+    ops: [Model Deployment, Observability]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100658'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:00:39.213801'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

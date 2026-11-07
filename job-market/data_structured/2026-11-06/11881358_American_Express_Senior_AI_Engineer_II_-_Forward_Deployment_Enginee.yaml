@@ -1,0 +1,60 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global payments and financial services company
+position:
+  title: Senior AI Engineer II - Forward Deployment Engineer - Enterprise AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and builds Generative
+      AI, agentic systems, and RAG solutions themselves, plus
+      evaluates agent output and builds evals/safeguards — shaping
+      model behaviour. LLM/agent components involved, so ai-first.
+  responsibilities:
+  - Partner with business units and product teams to discover, reframe, and validate
+    high-value AI opportunities
+  - Design, build, and deploy Generative AI, agentic AI, and intelligent automation
+    solutions through prototyping to production adoption
+  - Build agents and AI-enabled workflows that interact with enterprise APIs, knowledge
+    sources, and data platforms
+  - Develop evaluation approaches measuring quality, business outcomes, reliability,
+    and cost; address failure modes with safeguards and monitoring
+  - Use coding agents and AI-assisted engineering techniques to accelerate development
+  - Generalize engagement patterns into reusable platform capabilities and reference
+    architectures
+  - Influence stakeholders across business, engineering, risk, and platform teams
+    without direct authority
+  use_cases:
+  - Agentic AI and intelligent automation for enterprise business processes
+  - AI-enabled workflows interacting with enterprise APIs, knowledge sources, and
+    data platforms
+  - Knowledge retrieval and RAG-based solutions in a regulated financial services
+    environment
+  - Generative AI solutions taken from discovery to production adoption with measurable
+    business outcomes
+  - Reusable enterprise AI platform capabilities and accelerators
+  skills:
+    genai: [Generative AI, AI Agents, Agentic Workflows, RAG, Function Calling, MCP,
+      LangGraph, LangChain, LlamaIndex, LLM Evaluation, Coding Agents]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Knowledge Retrieval]
+    data: [Workflow Orchestration]
+    cloud: []
+    ops: [Temporal, Distributed Systems]
+    languages: []
+    domains: []
+    other: [Human-in-the-Loop Controls, Responsible AI, Cloud-Native Development,
+      Specification-Driven Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881358'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Sunnyvale, USA
+  extracted_at: '2026-11-06T13:29:57.638157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

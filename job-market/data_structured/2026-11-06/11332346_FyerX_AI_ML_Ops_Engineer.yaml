@@ -1,0 +1,56 @@
+company:
+  name: FyerX
+  stage: null
+  focus: AI/ML infrastructure and cloud engineering services
+position:
+  title: AI / ML Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour: it applies quantization and
+      model compilation strategies, builds prompt validation
+      pipelines (guardrails), and integrates LLM/GenAI operational
+      frameworks. Because LLM and generative AI components are
+      explicitly involved, this is ai-first despite the strong
+      infra emphasis.
+  responsibilities:
+  - Design and automate end-to-end ML pipelines for continuous training and deployment
+    using orchestration engines
+  - Orchestrate containerized model deployments with low-latency inference endpoints
+    and auto-scaling GPU/CPU clusters on Kubernetes
+  - Implement model tracking, feature stores, model registries, and dataset version
+    control
+  - Build automated AI performance and data monitoring gates tracking accuracy decay,
+    data drift, and latency
+  - Optimize inference environments using model compilation engines and quantization
+    strategies
+  - Integrate LLMOps frameworks including semantic caching, vector database scaling,
+    and prompt validation pipelines
+  - Govern ML access controls, security profiles, and encryption for inference logs
+  use_cases:
+  - Production deployment and serving of machine learning models at scale
+  - Operationalizing generative AI and LLM systems in enterprise container environments
+  - Real-time monitoring of model accuracy, drift, and latency
+  - Secure model access and data governance for sensitive inference logs
+  skills:
+    genai: [LLMs, RAG, Fine-Tuning]
+    ml: [Quantization, PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: [Vector Databases, Pinecone, Milvus]
+    data: [DVC]
+    cloud: [SageMaker, AWS, GCP]
+    ops: [Kubeflow, MLflow, Kubernetes, KServe, Triton, Feast, Model Monitoring, ONNX,
+      TensorRT, LLMOps, Docker, Distributed Systems, Model Deployment, Terraform,
+      MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11332346'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T11:31:06.888119'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

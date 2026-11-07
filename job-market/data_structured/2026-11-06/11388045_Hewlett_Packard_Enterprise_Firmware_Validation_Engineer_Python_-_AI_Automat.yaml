@@ -1,0 +1,52 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud IT infrastructure and compute solutions
+position:
+  title: Firmware Validation Engineer (Python - AI, Automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is firmware/server validation with AI tools used to
+      speed up test automation and debugging; the person does not
+      shape any model's behavior. AI is used as a productivity aid
+      (GitHub Copilot, possibly building internal test agents),
+      which falls under ai-support.
+  responsibilities:
+  - Develop comprehensive test plans and automate test solutions for firmware products
+    and system-level solutions
+  - Drive hands-on qualification and validation of iLO products and solutions
+  - Collaborate with Quality Engineering teams and outsourced partners across the
+    Software Testing Life Cycle
+  - Partner with internal and outsourced development teams on design, validation,
+    and quality initiatives
+  - Provide domain expertise and technical leadership to cross-functional projects
+  - Adopt and integrate emerging technologies, tools, and methodologies in software
+    validation
+  - Leverage AI/GenAI tools such as GitHub Copilot to accelerate automation script
+    development and debugging
+  use_cases:
+  - Firmware and BIOS/UEFI validation for HPE server platforms
+  - Qualification and testing of iLO lifecycle management products
+  - Automated testing of server hardware and system-level solutions
+  - Using AI-assisted development to improve test design and productivity
+  skills:
+    genai: [Generative AI, AI Agents]
+    ml: []
+    web: [Redfish APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub Copilot]
+    languages: [Python]
+    domains: []
+    other: [BIOS/UEFI, Firmware Validation, Firmware Debugging, Test Automation, Security
+        Testing, Agile, SDLC, Server Hardware, Platform Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11388045'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:39:33.475563'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

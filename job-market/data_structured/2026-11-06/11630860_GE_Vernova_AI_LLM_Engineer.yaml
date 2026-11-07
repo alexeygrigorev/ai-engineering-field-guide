@@ -1,0 +1,55 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Power automation and electrification for utilities
+position:
+  title: AI & LLM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and maintains LLM-based agents, incorporates
+      RAG and vector stores, fine-tunes models, and monitors model
+      output quality and drift - direct shaping of LLM behavior,
+      so ai-first.
+  responsibilities:
+  - Lead AI/LLM strategy, solution architecture, and implementation across Engineering,
+    Operations, and Project Delivery
+  - Build and maintain LLM-based agents for technical documentation processing, design
+    validation, testing automation, and knowledge retrieval
+  - Integrate AI into power automation workflows including IEC 61850 SCD engineering
+    files, relay settings, and SCADA HMI logic
+  - Establish AI governance, secure data pipelines, and compliance with utility-grade
+    cybersecurity standards
+  - Develop scalable pipelines for inference, fine-tuning, continuous learning, and
+    lifecycle management in cloud and on-prem environments
+  - Monitor model performance, accuracy, drift, and cost; lead improvement cycles
+    and risk mitigation
+  - Train and coach engineering teams on practical AI tool adoption
+  use_cases:
+  - Intelligent processing of technical documentation
+  - Automated design validation and engineering workflows
+  - Testing and QA automation
+  - Knowledge retrieval and contextual reasoning
+  - AI automation of substation power engineering workflows
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [Fine-Tuning, PyTorch, TensorFlow]
+    databases: [Vector Databases]
+    genai: [LLMs, Generative AI, AI Agents, RAG]
+    ops: [MLOps]
+    other: [SCADA, IEC 61850]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11630860'
+  location: Noida, IND
+  locations:
+  - Noida, IND
+  - Pallāvaram, IND
+  extracted_at: '2026-11-06T12:26:13.321932'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

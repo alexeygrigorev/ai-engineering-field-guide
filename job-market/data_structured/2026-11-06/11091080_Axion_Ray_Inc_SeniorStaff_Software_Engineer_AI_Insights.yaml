@@ -1,0 +1,52 @@
+company:
+  name: Axion Ray Inc
+  stage: null
+  focus: AI-powered quality intelligence platform for manufacturing
+position:
+  title: Senior/Staff Software Engineer, AI Insights
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates tool-using agentic pipelines,
+      builds evals and feedback loops, and improves model behavior
+      through prompting, model selection, and fine-tuning - clear
+      LLM shaping work.
+  responsibilities:
+  - Architect and operate multi-step, tool-using agentic pipelines converting unstructured
+    data into structured output
+  - Build evaluation frameworks, golden datasets, and feedback loops to measure quality
+    and catch regressions
+  - Improve model performance via prompt and pipeline optimization, model selection,
+    and fine-tuning
+  - 'Own reliability of cloud-native services: deployment, observability, scalability,
+    on-call support'
+  - Mentor engineers and lead cross-team technical initiatives from design through
+    production
+  use_cases:
+  - Transform unstructured manufacturing quality data into reliable structured output
+  - Identify, investigate, and resolve product quality issues in manufacturing
+  - Quality intelligence for industrial, aerospace, consumer, and medtech manufacturers
+  - Post-market data analysis to reduce costs and improve customer outcomes
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, Fine-Tuning, LoRA, LLM Evaluation,
+      Distillation, Function Calling]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines, Data Warehousing]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Observability, Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11091080'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:24:58.229349'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

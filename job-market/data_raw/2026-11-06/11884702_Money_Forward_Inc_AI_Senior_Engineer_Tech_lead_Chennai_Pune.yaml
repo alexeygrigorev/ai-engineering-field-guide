@@ -1,0 +1,112 @@
+job_id: 11884702
+title: AI Senior Engineer Tech lead (Chennai / Pune)
+company: Money Forward, Inc.
+location: IND
+locations:
+  - IND
+  - Chennai, IND
+remote: true
+work_type: FULL_TIME
+company_size: 2,962 Employees
+description: |
+  The Context & Harness Committee is moving from strategy to
+  execution. We are seeking three hands-on AI Tech Leads to
+  define and validate our context engineering standards and
+  evaluation harness before company-wide rollout.
+
+  Core responsibilities
+
+  - Lead the technical design and delivery of the assigned
+    Context and Harness workstreams
+  - Review context formats, ontology models, harness proposals,
+    and integration approaches.
+  - Support pilot teams across MFBS  divisions with context
+    conversion, fixture authoring, and evaluation.
+  - Define how GitHub, Notion, and Slack content maps into the
+    agent context engine.
+  - Establish guidelines for federated context routing and
+    token-budget allocation across sources.
+  - Contribute to an ontology proof of concept covering one
+    domain and one workflow using YAML-based schemas.
+  - Validate integration with internal or external agent
+    platforms, including access and smoke testing.
+  - Capture pilot evidence and contribute to the standard and
+    company best-practices package.
+
+  Requirements
+
+  Required skills
+
+  Context engineering skills
+
+  - RAG and retrieval pipelines:Design advanced search and
+    retrieval systems that supply models with accurate,
+    relevant, and timely information.
+  - Context-window and token management:Compress conversation
+    history, prioritize useful context, and filter noise to
+    optimize model attention and cost.
+  - Memory architecture:Build short-term and persistent memory
+    systems that allow agents to retain state across tasks and
+    interactions.
+  - Instruction curation:Structure plain-English operating
+    rules, Markdown files, domain guides, and other
+    instructions for dynamic injection into agent tasks.
+  - Context formats and knowledge modeling:Design context layers
+    and reusable knowledge assets using Markdown, YAML,
+    schemas, and related formats.
+
+  Harness engineering skills
+
+  - Tool and MCP integration: Connect models to external APIs,
+    execution environments, tools, and Model Context Protocol
+    (MCP) servers.
+  - Sandboxing and permissions: Define safety boundaries, access
+    controls, approval flows, and secure execution
+    environments for agent actions.
+  - Validation and guardrails: Implement linters, automated
+    tests, evaluations, and verification layers that detect
+    hallucinations, policy violations, or broken code.
+  - Orchestration and control loops: Design multi-step
+    workflows, retry logic, state transitions, and error-
+    correction loops for long-horizon tasks.
+  - Evaluation harnesses: Build fixtures, benchmark tasks,
+    quality gates, and CI-integrated evaluations using
+    DeepEval, Promptfoo, or comparable frameworks
+
+  Supporting technical and leadership skills
+
+  - LLM and agent fundamentals: Strong understanding of agent
+    workflows, RAG, evaluation methods, and quality gates for
+    AI-generated output.
+  - Software engineering:Strong Git/GitHub and CI practices,
+    experience with repo-native tooling, and the ability to
+    prototype quickly.
+  - Technical leadership: Ability to make pragmatic architecture
+    decisions, lead POCs, and turn evidence into reusable
+    standards.
+  - Communication: Ability to write clear technical proposals
+    and provide constructive cross-team review and feedback.
+  - Experience with ontology or knowledge modeling using YAML-
+    based schemas.
+  - Familiarity with internal or external agent platforms.
+  - Experience with hybrid search, indexing pipelines, or
+    context freshness mechanisms.
+
+  Success outcomes
+
+  - Context architecture, format, and evaluation standards are
+    validated through representative pilots.
+  - Pilot teams can convert source knowledge and author
+    evaluation fixtures using documented playbooks.
+  - A working repo-native harness POC demonstrates repeatable
+    benchmark execution and quality gates.
+  - The committee has sufficient evidence to ratify the
+    standard and decide whether to adopt or build the long-
+    term harness.
+industries:
+  - Cloud
+  - Fintech
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-senior-engineer-tech-lead-chennai-pune/11884702"
+source: Built In

@@ -1,0 +1,63 @@
+company:
+  name: Flatworld Solutions
+  stage: null
+  focus: IT services with AI solution practice
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, agentic
+      workflows, prompts, structured outputs, evaluations,
+      guardrails, and fine-tunes LLMs (LoRA) — clearly shaping
+      model behaviour. LLM/agent components dominate, with
+      classical ML only secondary, so it is ai-first.
+  responsibilities:
+  - Design and build LLM-powered components including RAG pipelines, document intelligence,
+    summarisation, classification, extraction, and conversational agents
+  - Develop agentic workflows with tool calling, multi-step orchestration, guardrails,
+    and fallback behaviour
+  - Engineer, version, and test prompts, system instructions, and structured output
+    schemas
+  - 'Build data ingestion pipelines and design retrieval: chunking, embeddings, vector/hybrid
+    search, re-ranking, and query rewriting'
+  - Build evaluation harnesses with golden datasets, automated metrics, LLM-as-judge
+    scoring, and human review loops to reduce hallucinations and retrieval misses
+  - Track token usage, latency, and cost per transaction; feed running costs into
+    pricing and ROI models
+  - Package AI services as APIs (FastAPI), containerise with Docker, and deploy to
+    AWS, Azure, or GCP with quality and cost monitoring
+  - 'Support pre-sales: assess feasibility, answer model and data questions, and contribute
+    architecture notes to proposals'
+  use_cases:
+  - 'Document intelligence: parsing, summarisation, classification, and extraction
+    from enterprise documents'
+  - Conversational agents and multi-step agentic workflows
+  - Retrieval-augmented generation over client data with vector and hybrid search
+  - Classical ML for classification, forecasting, and anomaly detection where LLMs
+    are not the right fit
+  - Cost, latency, and quality monitoring of AI services in live production environments
+  skills:
+    genai: [RAG, AI Agents, Agentic Workflows, Prompt Engineering, Structured Outputs,
+      Anthropic API, OpenAI API, Azure OpenAI, AWS Bedrock, LoRA, Fine-Tuning, Guardrails,
+      LLM Evaluation, Embeddings, LLMs, Function Calling, MCP, LangChain, LangGraph,
+      LlamaIndex, Semantic Search]
+    ml: [scikit-learn, PyTorch, TensorFlow, Machine Learning, Anomaly Detection, Model
+        Evaluation, Hugging Face, Llama, Mistral, Qwen]
+    web: [FastAPI, REST APIs]
+    databases: [Vector Databases, Pinecone, Qdrant, Chroma, pgvector, Knowledge Graphs,
+      Neo4j]
+    data: [Data Pipelines, Pandas]
+    cloud: [AWS, Azure, GCP, SageMaker, Azure AI Foundry, Vertex AI]
+    ops: [Docker, Git, LangSmith, Langfuse, Arize, Weights & Biases, vLLM]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: [OCR, Azure Document Intelligence, AWS Textract, GDPR, HIPAA Compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11892618'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:45:05.591478'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

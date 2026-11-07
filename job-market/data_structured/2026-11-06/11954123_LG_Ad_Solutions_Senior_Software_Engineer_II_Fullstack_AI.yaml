@@ -1,0 +1,52 @@
+company:
+  name: LG Ad Solutions
+  stage: null
+  focus: Connected TV and cross-screen advertising
+position:
+  title: Senior Software Engineer II, Fullstack (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a full-stack web engineer building
+      reporting/Measurement platform UIs, APIs, and microservices.
+      Agentic solutions are mentioned but there's no evidence the
+      engineer designs prompts, retrieval, or agent behavior
+      themselves, and GenAI/AI Agents appear only as "familiarity"
+      preferences, which is ai-support.
+  responsibilities:
+  - Design, develop, deploy and maintain scalable web applications across frontend
+    and backend
+  - Build user interfaces, APIs, and backend services including Agentic solutions
+    for the reporting platform
+  - Design and implement RESTful APIs and microservices architectures
+  - Manage databases, optimize queries, and design efficient data models
+  - Identify and address performance bottlenecks across client and server components
+  - Conduct code reviews and provide technical mentorship to junior engineers
+  - Coordinate and own work done by contractors and consultants
+  use_cases:
+  - Connected TV and cross-screen advertising measurement and reporting
+  - Campaign performance visualization across verticals for clients
+  - Internal reporting enabling sales and operations teams to identify campaign execution
+    issues
+  skills:
+    genai: [Generative AI, AI Agents]
+    ml: []
+    web: [React, Angular, Vue, REST APIs, Microservices]
+    databases: [MySQL, MongoDB, Redis, Relational Databases, NoSQL]
+    data: [PySpark, Databricks]
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [TypeScript, Node.js, Scala, Python]
+    domains: []
+    other: [Unit Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11954123'
+  location: Denver, USA
+  locations:
+  - Denver, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:09:34.464390'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

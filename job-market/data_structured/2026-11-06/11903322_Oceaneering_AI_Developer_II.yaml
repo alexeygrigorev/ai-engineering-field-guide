@@ -1,0 +1,57 @@
+company:
+  name: Oceaneering
+  stage: null
+  focus: |-
+    Engineered services and products for offshore energy
+    industry
+position:
+  title: AI Developer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes AI agents in Microsoft Copilot
+      Studio, including prompt engineering, grounding, RAG, and
+      orchestration logic — directly shaping LLM/agent behavior,
+      so it is ai-first.
+  responsibilities:
+  - Design, develop, deploy, and support enterprise AI agents, automations, and AI-enabled
+    applications using Microsoft Power Platform and Azure AI
+  - Build and optimize agents in Microsoft Copilot Studio, including instructions,
+    topics, actions, tools, knowledge sources, and orchestration logic
+  - Develop workflows, approvals, notifications, and integrations using Power Automate
+  - Partner with business stakeholders to define requirements, assess feasibility,
+    and establish measurable outcomes
+  - Implement prompt engineering, grounding, RAG, and human-review patterns to improve
+    agent accuracy and reliability
+  - Integrate solutions with Microsoft 365, Microsoft Graph, SharePoint, Dataverse,
+    Azure services, and enterprise APIs
+  - Execute functional, integration, security, prompt-response, and user acceptance
+    testing
+  - Monitor, troubleshoot, and improve production solutions based on telemetry and
+    feedback
+  use_cases:
+  - Enterprise AI agents and copilots for business productivity
+  - Business process automation and workflow orchestration
+  - Data-driven decision-making enablement
+  - Conversational interfaces with knowledge retrieval and grounding
+  - Enterprise integration with Microsoft 365 and business applications
+  skills:
+    genai: [Copilot Studio, Prompt Engineering, RAG, AI Agents, Agentic Workflows,
+      LLMs, Grounding, Generative AI]
+    ml: []
+    web: [Power Automate, Power Platform, APIs]
+    databases: [Microsoft Graph, Dataverse, SharePoint]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure AI Search]
+    ops: [Application Lifecycle Management]
+    languages: []
+    domains: []
+    other: [Responsible AI, Custom Connectors, Adaptive Cards]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11903322'
+  location: Chandigarh, IND
+  extracted_at: '2026-11-06T13:54:46.269574'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

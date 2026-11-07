@@ -1,0 +1,61 @@
+company:
+  name: Nexaminds
+  stage: null
+  focus: AI solutions and consulting for business transformation
+position:
+  title: Lang Chain Deployment AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, agentic workflows
+      with LangGraph, prompt/eval frameworks, and LLM application
+      quality optimization - directly shaping model behaviour, all
+      LLM-based, so ai-first.
+  responsibilities:
+  - Translate approved LangChain and agentic AI architectures into production-ready
+    applications
+  - Build LLM-powered assistants, copilots, chatbots, document-processing and decision-support
+    solutions
+  - Develop deterministic and agentic workflows using LangGraph with state management,
+    tool use, and failure recovery
+  - Design and implement RAG pipelines including ingestion, chunking, embeddings,
+    reranking, and citations
+  - Deploy AI applications using Docker, Kubernetes, serverless, or managed cloud
+    runtimes
+  - Implement LangSmith tracing, evaluation, monitoring, and feedback workflows
+  - Build offline and online evaluation frameworks, golden datasets, and release gates
+  - Implement AI security and responsible AI practices including IAM, encryption,
+    and prompt-injection defenses
+  use_cases:
+  - LLM-powered assistants, copilots, and chatbots
+  - Document processing solutions
+  - Decision-support tools
+  - Automated agentic workflows
+  - Enterprise RAG search and retrieval
+  - Production LLM evaluation and observability
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLMs, AI Agents, Agentic Workflows, Structured
+        Outputs, Embeddings, Vector Search, OpenAI API, Anthropic API, Gemini, Multi-Agent
+        Systems, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Pinecone, Weaviate, Milvus, pgvector, PostgreSQL, Elasticsearch, OpenSearch,
+      Redis, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure AI Foundry, Azure OpenAI, Vertex AI,
+      EKS, AKS, IAM]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring, LangSmith, Terraform, Helm, GitHub
+        Actions, GitLab CI, Jenkins, ArgoCD, OpenTelemetry, Datadog, Grafana, Prometheus,
+      CloudWatch]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Code Review, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11884550'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:32:22.990027'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,63 @@
+company:
+  name: Compass
+  stage: null
+  focus: End-to-end residential real estate technology platform
+position:
+  title: Staff Security Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly builds guardrails, output verification,
+      injection mitigation, and evaluation harnesses for LLM
+      inputs/outputs — that is shaping model output quality and
+      building guardrails/evals, which is ai-first even though it
+      is a security role. No model training is required, but LLM
+      behavior is being shaped and judged throughout.
+  responsibilities:
+  - Own the AI product security roadmap, defining multi-year strategy and standards
+    for securing AI capabilities
+  - Threat model new AI features including RAG pipelines, multi-agent workflows, and
+    automated decisioning
+  - Architect and deploy real-time guardrails for LLM inputs and outputs including
+    injection mitigation and output verification
+  - 'Design blast-radius controls for autonomous agents: scoped permissions, human-in-the-loop
+    checkpoints, and audit trails'
+  - 'Secure the retrieval layer: data access controls, tenancy boundaries, and retrieval-boundary
+    protections across RAG and vector stores'
+  - Harden the AI supply chain by assessing third-party foundation models, inference
+    providers, and vector stores
+  - Build detections and telemetry for AI-specific abuse, prompt abuse, anomalous
+    tool invocation, and data exfiltration
+  - Ship reusable libraries, CI/CD checks, and evaluation harnesses to make secure
+    AI patterns the default
+  use_cases:
+  - Securing generative and agentic AI features in a real estate platform used by
+    agents and clients
+  - Protecting LLM inputs and outputs against prompt injection, jailbreaks, and sensitive
+    data egress
+  - Constraining autonomous agent actions with scoped permissions and human-in-the-loop
+    checkpoints
+  - Enforcing tenancy and access boundaries in RAG and vector store retrieval
+  - Detecting AI-specific abuse such as anomalous tool invocation and data exfiltration
+    via model responses
+  - Making secure AI patterns the default for product engineering teams
+  skills:
+    genai: [RAG, Agentic Workflows, Prompt Engineering, Guardrails, LLM Evaluation,
+      MCP, AI Agents, OWASP Top 10 for LLMs]
+    ml: [Transformers, Machine Learning, Adversarial ML, Model Poisoning]
+    web: [API Security]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, IAM]
+    ops: [Kubernetes, DevSecOps, CI/CD, Monitoring]
+    languages: [Python, Go]
+    domains: []
+    other: [Threat Modeling, Red Teaming, MITRE ATLAS, NIST AI RMF]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893767'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:49:13.669853'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

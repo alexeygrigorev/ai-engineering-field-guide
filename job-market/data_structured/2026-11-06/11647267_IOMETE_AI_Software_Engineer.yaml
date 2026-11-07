@@ -1,0 +1,58 @@
+company:
+  name: IOMETE
+  stage: null
+  focus: Sovereign data lakehouse platform for regulated industries
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents (Spark diagnosis, troubleshooting),
+      the agent framework and harness that runs, traces, and
+      evaluates them, plus MCP Server, model gateway, and fine-
+      tuning plans — directly shaping LLM-based systems. Tool
+      calling, structured output, retrieval, and evaluation are
+      core requirements.
+  responsibilities:
+  - Contribute to and maintain IOMETE's AI services including the MCP Server for AI
+    Agents, Model Gateway, SQL AI Functions, and lakehouse-specific agents and their
+    harness
+  - Extend the IOMETE lakehouse and platform to support AI-powered features by exposing
+    Spark job logs, query history, and table metadata
+  - Build agents that run inside customer environments on customer-provided LLMs and
+    later custom models for Spark tuning and troubleshooting
+  - Work hands-on with Kubernetes and Helm charts shipping AI services into customer
+    deployments
+  - Collaborate with external customer engineering teams on integrations, troubleshooting,
+    and adoption
+  - Participate in design discussions on agents, model access, evaluation, and systems
+    architecture
+  - Write tests, documentation, and release notes; review teammates' work
+  use_cases:
+  - MCP Server letting AI tools query the lakehouse
+  - Model Gateway for IOMETE's AI features to call models
+  - Agents for Spark application diagnosis, troubleshooting, and onboarding
+  - SQL AI Functions running language models inside queries
+  - Fine-tuned small custom models for Spark tuning and troubleshooting inside customer
+    deployments
+  skills:
+    languages: [Python, Go, Java, Kotlin]
+    domains: []
+    web: []
+    cloud: []
+    data: [Spark, Apache Iceberg, Databricks]
+    ml: []
+    databases: [Snowflake]
+    genai: [AI Agents, MCP, Function Calling, Structured Outputs, RAG, LLM Evaluation,
+      Fine-Tuning, LLMs]
+    ops: [Kubernetes, Helm, Distributed Systems]
+    other: [Model Serving]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11647267'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:28:37.925866'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

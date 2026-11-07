@@ -1,0 +1,48 @@
+company:
+  name: DeepScribe
+  stage: null
+  focus: AI agents automating clinical healthcare workflows
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and ships LLM-powered healthcare
+      applications with ownership over AI workflows from prototype
+      to production, improving an LLM documentation platform and
+      inference pipelines - directly shaping LLM behavior and
+      output quality, so ai-first.
+  responsibilities:
+  - Develop and own end-to-end AI applications such as clinical trial matching, ambient
+    copilots, and billing automation
+  - Improve the LLM-powered documentation platform used daily by thousands of clinicians
+  - Build and optimize inference pipelines and real-time speech recognition systems
+  - Collaborate with PMs, designers, clinical experts, and GTM teams to ship high-impact
+    features
+  - Talk directly to customers and iterate on real user feedback
+  use_cases:
+  - Ambient clinical documentation for clinicians
+  - Clinical trial matching
+  - Billing automation
+  - Real-time medical speech recognition
+  - Reducing clinician burnout through healthcare AI workflows
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Llama]
+    ml: [Whisper, Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [FHIR]
+    ops: []
+    languages: []
+    domains: []
+    other: [HIPAA Compliance, SOC-2]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11680757'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:34:52.461242'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

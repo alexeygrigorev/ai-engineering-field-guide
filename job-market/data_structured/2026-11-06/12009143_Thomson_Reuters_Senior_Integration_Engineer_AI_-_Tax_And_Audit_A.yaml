@@ -1,0 +1,61 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, accounting, and compliance information software
+position:
+  title: Senior Integration Engineer – AI - Tax And Audit AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds retrieval pipelines (chunking, embeddings,
+      vector search) and enables AI agents via MCP servers and
+      function calling, which is shaping model behavior and output
+      quality (including model-assisted evaluations). Forward
+      Deployed Engineering adapting AI at client sites also points
+      to ai-first.
+  responsibilities:
+  - Deliver enterprise integrations connecting AI solutions with Thomson Reuters tax
+    and audit products, ERP systems, document management platforms, and data warehouses
+  - Build data and retrieval pipelines with document parsing, chunking, embeddings,
+    and vector search for financial data such as trial balances, tax returns, K-1s,
+    and workpapers
+  - Enable AI agents to interact with enterprise systems via APIs, MCP servers, and
+    connectors
+  - Define data readiness standards and automated quality checks including schema
+    validation and model-assisted evaluations
+  - Protect sensitive client information via secure authentication, SSO, tenant separation,
+    and least-privilege access
+  - Create reusable integration assets with automated tests and documentation
+  - Ensure production reliability through monitoring, failure handling, and operational
+    runbooks
+  use_cases:
+  - Tax and audit AI workflows over financial documents
+  - Document parsing and retrieval over trial balances, tax returns, K-1s, and workpapers
+  - AI agents interacting with enterprise ERP and document systems
+  - Data quality validation for AI-driven financial analysis
+  skills:
+    genai: [Embeddings, Vector Search, MCP, Function Calling, LLMs]
+    ml: []
+    web: [REST APIs, Event-Driven Architecture]
+    databases: [Vector Databases, SQL Server]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, CI/CD, Monitoring]
+    languages: [Python, C#, .NET, SQL]
+    domains: []
+    other: [SAP, Oracle, Workday]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12009143'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - Chicago, USA
+  - Ann Arbor, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:28:04.861713'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

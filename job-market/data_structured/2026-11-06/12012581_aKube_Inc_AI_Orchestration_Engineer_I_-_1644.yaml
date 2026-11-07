@@ -1,0 +1,50 @@
+company:
+  name: aKube Inc
+  stage: null
+  focus: IT workflow automation and orchestration services
+position:
+  title: AI Orchestration Engineer I - 1644
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds ITSM/IT workflow automations on a SaaS
+      orchestration platform, consuming an AI automation platform
+      and AI coding tools rather than shaping any model's
+      behavior. RAG, MCP, and agent orchestration are listed only
+      as nice-to-haves, so this is ai-support.
+  responsibilities:
+  - Build net-new enterprise workflows using an AI automation platform
+  - Develop API-driven integrations across internal business systems
+  - Intake tickets to create, repair, and improve automation workflows
+  - Support ITSM processes such as incidents, requests, approvals, access, and routing
+  - Write Python and JSON-based automation logic and review AI-generated code
+  - Troubleshoot APIs, authentication, payloads, and workflow failures
+  - Implement logging, monitoring, correlation IDs, retries, and error handling
+  - Meet with stakeholders to identify automation opportunities and build reusable
+    templates and documentation
+  use_cases:
+  - ITSM automation for incidents, requests, approvals, access, and routing
+  - Automated ticket resolution and AI help desk workflows
+  - HR, identity, and access system integrations
+  - Replacing repetitive ticket-based processes with automated workflows
+  - Enterprise workflow orchestration across connected SaaS systems
+  skills:
+    genai: [RAG, MCP, AI Agents]
+    ml: []
+    web: [JSON, REST APIs, APIs, OAuth]
+    databases: []
+    data: []
+    cloud: [Okta]
+    ops: [Monitoring]
+    languages: [Python]
+    domains: []
+    other: [ITSM, Workflow Automation, ServiceNow, Moveworks, Workday, Identity And
+        Access Management, RPA, Low-Code Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12012581'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:29:07.983518'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: SqlDBM
+  stage: null
+  focus: Cloud-native data modeling platform for enterprises
+position:
+  title: Senior Software AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt engineering, context management,
+      output validation, model selection, and MCP server
+      development that shape LLM behavior in AI-assisted data
+      modeling workflows. This is shaping LLM output, so ai-first.
+  responsibilities:
+  - Build and extend .NET backend services powering AI-assisted data modeling workflows
+    with natural-language schema generation
+  - Develop context-aware AI systems that use data model context, naming standards,
+    and governance rules for environment-specific output
+  - Build AI pipelines for automated documentation and metadata generation from existing
+    schemas
+  - Develop and extend SqlDBM's MCP server so external AI agents can use SqlDBM as
+    a trusted schema authority
+  - Build backend infrastructure for AI request routing, model selection, cost optimization,
+    and usage metering
+  - Embed approval, validation, and compliance logic into AI-generated outputs via
+    governance-aware workflows
+  use_cases:
+  - Natural-language to governed schema generation for data architects
+  - Automated business documentation and metadata generation from schemas
+  - Enterprise governance and compliance validation of AI-generated outputs
+  - MCP-based schema authority for external AI agents and LLM tools
+  - AI request orchestration, model selection, and usage metering
+  skills:
+    genai: [LLMs, MCP, Prompt Engineering, Agentic Workflows]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [PostgreSQL, Redis, Snowflake]
+    data: [Data Pipelines, Databricks, dbt, Data Modeling]
+    cloud: [AWS]
+    ops: [Observability]
+    languages: [C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11867855'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:25:35.569816'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

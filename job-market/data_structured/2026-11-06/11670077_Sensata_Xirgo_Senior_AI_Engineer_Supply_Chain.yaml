@@ -1,0 +1,48 @@
+company:
+  name: Sensata Xirgo
+  stage: null
+  focus: Industrial sensor and IoT technology
+position:
+  title: Senior AI Engineer, Supply Chain
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds intelligent agents, copilots, and RAG
+      applications with LLMs, directly shaping model behavior
+      through retrieval design, evaluation, and release criteria.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy production AI models, services, and pipelines
+  - Build AI-powered solutions including intelligent agents, copilots, and RAG applications
+  - Develop integrations connecting AI capabilities with enterprise systems and data
+    sources
+  - Establish testing, evaluation, and release criteria for solution quality
+  - Monitor deployed models for performance degradation, bias, and drift; implement
+    corrective actions
+  - Mentor engineers and contribute to technical standards and architecture decisions
+  - Partner with internal teams and external vendors to meet security and operational
+    requirements
+  use_cases:
+  - Enterprise AI applications for supply chain
+  - Intelligent agents and copilots
+  - Retrieval-augmented generation over business data
+  - Integrating AI with enterprise systems and workflows
+  skills:
+    genai: [LLMs, AI Agents, RAG, Copilot Studio, Generative AI]
+    ml: [Machine Learning, Model Training, Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: [CI/CD, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Power Platform]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11670077'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:30:20.992912'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

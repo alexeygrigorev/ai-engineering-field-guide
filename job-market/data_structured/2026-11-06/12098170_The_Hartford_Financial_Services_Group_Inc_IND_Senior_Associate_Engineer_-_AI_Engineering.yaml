@@ -1,0 +1,57 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: null
+  focus: Insurance and financial services, employee benefits
+position:
+  title: IND Senior Associate/ Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements end-to-end LLM solutions:
+      RAG architectures, agentic workflows, prompt engineering,
+      LLM evaluation frameworks, and guardrails — clearly shaping
+      model behavior. An LLM/agent component is central, so ai-
+      first.
+  responsibilities:
+  - Design, develop, test, deploy, and support enterprise applications using Java,
+    Spring Boot, Python, and cloud-native technologies
+  - Build and maintain REST APIs, event-driven integrations, and scalable backend
+    services
+  - Design and implement end-to-end AI solutions including data ingestion pipelines,
+    RAG, agentic workflows, and enterprise AI orchestration
+  - Develop AI-powered applications using LLMs, prompt engineering, and semantic search
+  - Implement AI governance controls, guardrails, monitoring, and evaluation frameworks
+  - Integrate AI services with downstream applications, APIs, databases, and enterprise
+    platforms
+  - Troubleshoot production issues using logs, monitoring tools, telemetry, and AI
+    observability platforms
+  - Collaborate with business stakeholders on customer journeys and automation opportunities
+  use_cases:
+  - GenAI solutions and intelligent workflow automation for Employee Benefits
+  - Enterprise copilots and AI-powered applications for insurance operations
+  - Claims, leave, intake, and service workflow automation
+  - RAG-based enterprise search and retrieval with grounded responses
+  - Application modernization and cloud-native platform delivery
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Agentic Workflows, Multi-Agent
+        Systems, LangChain, LangGraph, Semantic Kernel, CrewAI, Semantic Search, Embeddings,
+      Generative AI, LLM Evaluation, Guardrails, OpenAI API, Azure OpenAI, Anthropic
+        API, Gemini, Copilot Studio]
+    ml: [NLP, Intent Classification, Pandas, NumPy]
+    web: [Spring Boot, FastAPI, REST APIs, Playwright]
+    databases: [SQL, Vector Databases, Pinecone, Weaviate, Chroma]
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: [AWS, GCP, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, GitHub, GitHub Actions, MLOps, Model Deployment,
+      Monitoring, Observability]
+    languages: [Java, Python]
+    domains: []
+    other: [Microservices, GitHub Copilot, JUnit, PyTest, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12098170'
+  location: Manikonda, IND
+  extracted_at: '2026-11-06T14:59:03.002193'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

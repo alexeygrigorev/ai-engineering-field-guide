@@ -1,0 +1,64 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: |-
+    Information services for legal, tax, and accounting
+    professionals
+position:
+  title: Senior Software Engineer – AI, Tax and Audit, FDE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production AI applications including RAG
+      pipelines, custom agents, and multi-step agentic workflows,
+      plus AI evaluation and adversarial testing — directly
+      shaping LLM behavior. It is also a Forward Deployed Engineer
+      role, which is ai-first.
+  responsibilities:
+  - Own client delivery on simpler builds and standard integrations for accounting
+    firms, tax departments, and audit practices
+  - Build production AI applications including RAG pipelines, custom agents, and multi-step
+    agentic workflows for tax and audit use cases
+  - Develop scalable, secure backend services following architecture from Staff and
+    Principal engineers
+  - Establish AI evaluation, observability, monitoring, tracing, benchmarking, and
+    adversarial testing
+  - Partner with Tax & Audit AI Engineers to translate tax rules and audit procedures
+    into engineering plans and prototypes
+  - Manage delivery across multiple engagements, contributing technical judgment in
+    discovery, prototyping, and pre-sales
+  - Support deployments through post-launch stabilization, incident resolution, and
+    support handoffs
+  use_cases:
+  - Tax preparation and review
+  - Audit testing
+  - Workpaper automation
+  - Validation and regulatory analysis
+  - Custom AI agents for tax and audit professionals
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, LangChain, LangGraph, PydanticAI,
+      AutoGen, LLM Evaluation, MCP]
+    ml: []
+    web: [REST APIs, Event-Driven Architecture]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Infrastructure as Code, CI/CD, Datadog, Grafana, Prometheus,
+      LangSmith, Langfuse, Weights & Biases]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12009136'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - Ann Arbor, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:27:57.699812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

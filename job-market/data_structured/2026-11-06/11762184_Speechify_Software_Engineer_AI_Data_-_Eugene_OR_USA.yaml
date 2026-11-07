@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Eugene, OR, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and data-processing
+      infrastructure that feed models other AI scientists train.
+      It does not shape model behavior via prompts, retrieval,
+      fine-tuning, or evals; moving/cleaning data is ai-support
+      per the dataset rule.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Petabyte-scale audio data acquisition for TTS model training
+  - Data quality and dataset efficiency for next-generation speech models
+  - Text-to-speech products that convert reading material to audio
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code, Distributed Systems]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762184'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:51:35.438075'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Geomiq
+  stage: null
+  focus: Digital manufacturing platform for custom part quoting
+position:
+  title: Commercial Engineer – AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds AI agents and automations
+      (Claude, n8n) to remove manual work, which means designing
+      agent flows and tooling themselves - shaping model
+      behaviour, with LLM/agent components. This makes it ai-first
+      despite the commercial framing.
+  responsibilities:
+  - Map where customers and suppliers get stuck using CRM and platform data
+  - Maintain a ranked list of friction points and churn causes by cost
+  - Diagnose root causes and fix them or own the fix with the relevant team
+  - Build AI agents and automations to remove slow, manual or error-prone work
+  - Work across sales, supply chain, quality and product to resolve problems end to
+    end
+  - Bring data-invisible opportunities to the CEO with a business case
+  - Measure the impact of every fix
+  use_cases:
+  - Automating quoting and order workflows on a manufacturing marketplace
+  - Reducing customer churn and friction in the quote-to-order funnel
+  - Removing manual supplier and supply chain coordination work
+  - Commercial process automation across sales and operations
+  skills:
+    genai: [AI Agents, Anthropic API, ChatGPT]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, HubSpot, Metabase]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11961794'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:11:57.464365'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

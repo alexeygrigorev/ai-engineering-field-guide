@@ -1,0 +1,55 @@
+company:
+  name: Sparq
+  stage: null
+  focus: Product engineering and AI consulting partner
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI systems including
+      RAG pipelines, agentic workflows, prompt/context
+      engineering, fine-tuning decisions, and evaluation
+      frameworks — directly shaping LLM behavior and output
+      quality, making it ai-first. It is also client-facing
+      through technical discovery, pre-sales, and delivery.
+  responsibilities:
+  - Design and build production AI systems for client environments including RAG pipelines,
+    agentic workflows, and model integration
+  - Implement and deploy AI solutions on cloud platforms with attention to scalability,
+    reliability, and performance
+  - Define and build evaluation frameworks to prove solution quality to clients
+  - Serve as senior technical voice in client conversations from discovery through
+    delivery and mentor engineers across accounts
+  - Research and experiment with emerging AI technologies and bring practical recommendations
+    to the team
+  - Optimize and monitor AI systems post-deployment for efficiency, accuracy, cost,
+    and reliability
+  - Use AI tools including Claude to streamline tasks and share best practices
+  use_cases:
+  - Client-facing production AI systems
+  - Retrieval-augmented generation pipelines
+  - Agentic workflows with tool use
+  - AI solution design and delivery for enterprise modernization
+  - Post-deployment monitoring and cost/performance optimization of AI systems
+  skills:
+    genai: [RAG, Agentic Workflows, Fine-Tuning, Prompt Engineering, Context Engineering,
+      LLMs, Function Calling, Embeddings, Anthropic API]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Infrastructure as Code, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11887013'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:38:24.252885'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

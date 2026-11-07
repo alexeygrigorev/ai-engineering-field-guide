@@ -1,0 +1,85 @@
+company:
+  name: Oyster
+  stage: null
+  focus: |-
+    Global employment platform for hiring and paying distributed
+    talent
+position:
+  title: Senior AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, tests, and improves AI agents,
+      agentic workflows, and prompts using LLMs — directly shaping
+      model behaviour and orchestration, so it is ai-first. No
+      classical ML component is mentioned.
+  responsibilities:
+  - Make business functions AI native across People & Legal, Finance, and Operations
+  - Partner with functional leaders to shape and prioritize the AI transformation
+    roadmap
+  - Lead complex AI solutions end-to-end from discovery through deployment, adoption,
+    and measurable business impact
+  - Design, build, test, and improve AI agents, agentic workflows, automations, and
+    integrations with LLMs and enterprise data
+  - Drive AI adoption and help teams create reusable prompts and AI-powered ways of
+    working
+  - Measure adoption, quality, and reliability post-launch and continuously improve
+    solutions
+  - Share reusable patterns with other AI Solutions Engineers and mentor colleagues
+  use_cases:
+  - AI-native transformation of internal business functions (People & Legal, Finance,
+    Operations)
+  - Agentic automation of operational workflows and tasks
+  - Enterprise system integration via APIs, webhooks, and authentication
+  - Reusable prompts and AI-powered ways of working for non-technical teams
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Prompt Engineering, RAG, MCP, AI Evaluation]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [JavaScript, Python, SQL]
+    domains: []
+    other: [n8n, Zapier, Make, Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11256040'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - CAN
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T11:28:16.726030'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

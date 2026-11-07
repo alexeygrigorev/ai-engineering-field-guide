@@ -1,0 +1,54 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: AI Engineer – Python, LLM/GenAI, RAG, AWS & AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, agentic
+      workflows, autonomous AI agents, and MCP servers, directly
+      shaping model behavior through retrieval design, tool
+      orchestration, and response validation. LLM/GenAI is
+      central, so it is ai-first.
+  responsibilities:
+  - Design and implement AI agents and AI architecture within CI/CD workflows on AWS
+  - Build production-ready generative AI applications using LLMs including OpenAI
+    and Bedrock
+  - Develop RAG pipelines with document ingestion, retrieval, embeddings, and response
+    generation
+  - Develop MCP servers and integrate tools, APIs, and data sources with AI applications
+  - Build agentic workflows and autonomous AI agents with planning, tool use, and
+    validation
+  - Support LLM-based code generation, code fixing, and remediation workflows
+  - Deploy and operate AI applications on AWS services
+  - Apply application security principles to AI architecture, data, and generated
+    code
+  use_cases:
+  - AI-enabled code generation, code fixing, and automated remediation in CI/CD workflows
+  - Retrieval-augmented generation over approved enterprise documents
+  - Autonomous AI agents for task planning, tool use, and technical process automation
+  - Security automation including vulnerability identification and remediation
+  - Developer productivity and faster software delivery via AI capabilities
+  skills:
+    genai: [LLMs, Generative AI, OpenAI API, RAG, MCP, Agentic Workflows, AI Agents,
+      Prompt Engineering, Function Calling]
+    ml: [Embeddings, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Vector Search, NoSQL, Relational Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS, SageMaker, AWS Lambda, AWS S3, API Gateway, ECS, EKS]
+    ops: [CI/CD, GitHub, Jenkins, Docker, Kubernetes, DevSecOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Harness, Snyk, SonarQube, Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11936452'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:02:34.737454'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

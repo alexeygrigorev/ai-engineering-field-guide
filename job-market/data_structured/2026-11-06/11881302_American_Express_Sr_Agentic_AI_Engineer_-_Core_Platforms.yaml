@@ -1,0 +1,57 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global financial services and payments company
+position:
+  title: Sr Agentic AI Engineer - Core Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs, operates, and optimizes production
+      inference and model-serving infrastructure (latency,
+      throughput, GPU utilization, cost) rather than shaping model
+      behaviour via prompts, retrieval, or training. Serving,
+      hosting, and scaling models others build is explicitly ai-
+      support even though the description names LLMs and GPU
+      serving.
+  responsibilities:
+  - Design, optimize, and operate scalable production inference services for enterprise
+    AI/ML solutions
+  - Integrate AI models and LLMs into production systems in collaboration with cross-functional
+    teams
+  - Build end-to-end MLOps pipelines for deployment, monitoring, and maintenance of
+    AI models
+  - Evaluate serving approaches and optimize latency, throughput, accelerator utilization,
+    and cost
+  - Ensure AI systems meet enterprise standards for reliability, safety, explainability,
+    and compliance
+  - Mentor junior AI engineers and colleagues on best practices
+  - Translate business requirements into AI-driven technical solutions
+  use_cases:
+  - Enterprise AI and ML inference serving at production scale
+  - Model deployment, monitoring, and maintenance pipelines
+  - LLM and intelligent service integration across enterprise platforms
+  - Performance and cost optimization for AI workloads
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Infrastructure]
+    ops: [MLOps, CI/CD, Kubernetes, Model Deployment, Monitoring, Distributed Systems]
+    languages: [Python, R, Java, C++]
+    domains: []
+    other: [GPU Workloads, Inference Optimization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881302'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - Sunrise, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:29:43.127972'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

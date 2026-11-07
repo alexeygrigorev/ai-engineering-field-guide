@@ -1,0 +1,86 @@
+company:
+  name: Productboard
+  stage: Backed by Index Ventures, Kleiner Perkins, Sequoia Capital, Bessemer, Tiger
+    Global, and Dragoneer
+  focus: Product management platform with AI agentic experience
+position:
+  title: Staff AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes LLM agent workflows (multi-
+      step reasoning, tool use, orchestration, self-healing agent
+      workflows), builds evaluation systems for AI output quality,
+      and does prompt/context engineering — clearly shaping model
+      behaviour with LLM/agent components. Staff-level individual
+      contributor, not management.
+  responsibilities:
+  - 'Lead architectural work making the codebase AI-native: API contracts, semantic
+    naming, module boundaries for agent effectiveness'
+  - Build a context infrastructure layer of repo-versioned guidance that AI coding
+    tools load automatically
+  - Build self-healing incident workflows where agents triage alerts, pull logs, and
+    suggest remediation with human-gated checkpoints
+  - Design agent workflows with multi-step reasoning, tool use, and autonomous task
+    execution shipped as product features
+  - Systematically optimize AI code review for earlier detection of correctness, security,
+    and maintainability issues
+  - Ship AI-first product features end-to-end alongside PMs and designers, setting
+    technical direction and evaluation systems
+  use_cases:
+  - AI-native product development environment where coding agents build from specs
+  - Self-healing incident triage and remediation with human oversight
+  - Agentic product experience (Productboard Spark) turning feedback into problems,
+    specs, and execution
+  - AI code review improving correctness, security, and maintainability detection
+  - Autonomous multi-step task execution for product features
+  skills:
+    genai: [Prompt Engineering, LLMs, Agentic Workflows, AI Agents, Function Calling,
+      LLM Evaluation, Cursor, Claude Code, Codex]
+    ml: [Pydantic AI]
+    web: [React, GraphQL, Relay]
+    databases: [PostgreSQL, MongoDB, Elastic, Redis, Snowflake]
+    data: [Keboola, Looker]
+    cloud: [AWS]
+    ops: [Braintrust, Cloudflare, Kubernetes, Terraform, Distributed Systems]
+    languages: [Python, Kotlin, Java, TypeScript, Ruby]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11756277'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Prague, CZE
+  - Brno, CZE
+  remote: true
+  extracted_at: '2026-11-06T12:46:13.830567'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

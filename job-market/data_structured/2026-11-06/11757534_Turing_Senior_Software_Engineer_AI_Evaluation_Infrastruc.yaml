@@ -1,0 +1,50 @@
+company:
+  name: Turing
+  stage: null
+  focus: AI datasets, benchmarks, and enterprise agentic AI systems
+position:
+  title: Senior Software Engineer, AI Evaluation Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM evaluation infrastructure: agent trials
+      in sandboxed environments, scoring, rubric-based and LLM-as-
+      a-judge grading, and integrating models/agents/benchmarks.
+      Judging model output quality and building evals is shaping
+      an LLM-based system, so ai-first.
+  responsibilities:
+  - Design and ship features end to end across data model, API, background workers,
+    and UI
+  - 'Build and improve agent and model evaluation: sandboxed trials, scoring runs,
+    and result aggregation'
+  - Improve benchmark task quality checks with verifiers, rubrics, and LLM-as-a-judge
+    grading
+  - Integrate new models, agents, and benchmarks in a generalized way
+  - 'Keep the system fast and reliable: efficient queries, safe migrations, and concurrency
+    under load'
+  - Review teammates' pull requests and maintain codebase consistency
+  use_cases:
+  - Evaluating coding agents and language models at scale
+  - Benchmark dataset construction and quality verification
+  - Automated grading of agent trial results with rubrics and LLM-as-a-judge
+  - Improving model capabilities in software engineering and STEM reasoning
+  skills:
+    genai: [LLMs, LLM Evaluation, AI Agents, MCP, Claude Code, Codex]
+    ml: []
+    web: [Django, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Modal, Daytona]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Celery, LLM-as-a-Judge, OpenHands]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11757534'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:46:19.843066'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Gilead Sciences
+  stage: null
+  focus: Pharmaceutical and biotech therapies development
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and integrates LLM-based services,
+      intelligent workflows, and GenAI capabilities into
+      applications, and requires familiarity with LLM
+      orchestration frameworks and vector databases, so the person
+      shapes AI/LLM-driven components themselves.
+  responsibilities:
+  - Lead hands-on development of full-stack applications integrated with AI/ML and
+    GenAI capabilities for global pharma and enterprise use cases
+  - Design, build, and maintain scalable front-end, back-end, API, and AI-enabled
+    components across cloud-native platforms
+  - Develop and integrate AI/ML models, LLM-based services, and intelligent workflows
+    into enterprise applications
+  - Collaborate with product, engineering, data science, and business teams to deliver
+    digital solutions
+  - Support CI/CD automation, production deployments, monitoring, and issue resolution
+    with DevOps teams
+  - Mentor junior engineers and contribute to engineering standards and agile delivery
+    practices
+  use_cases:
+  - Global pharma and enterprise use cases with AI/ML and GenAI capabilities
+  - LLM-based services and intelligent workflows embedded in enterprise applications
+  - Analytics-driven enterprise platforms in healthcare/regulated industries
+  skills:
+    languages: []
+    domains: []
+    web: [APIs, Microservices, Full-Stack Development]
+    cloud: [Cloud Platforms]
+    data: []
+    ml: [Machine Learning]
+    databases: [Vector Databases]
+    genai: [LLMs, Generative AI, Agentic Workflows]
+    ops: [CI/CD, MLOps, Observability, Model Deployment]
+    other: [Agile, Secure Coding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12091845'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:55:45.397303'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

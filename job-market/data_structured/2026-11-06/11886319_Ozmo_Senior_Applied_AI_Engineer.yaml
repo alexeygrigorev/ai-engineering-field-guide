@@ -1,0 +1,55 @@
+company:
+  name: Ozmo
+  stage: null
+  focus: AI-automated enterprise customer support at scale
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems (LangGraph,
+      multi-agent workflows, tool use), designs RAG/retrieval, and
+      builds guardrails and evals that shape model behavior.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Build production-grade agentic AI products solving enterprise support problems
+  - Own full product lifecycle from prototyping through pilots, GA, and iteration
+  - Design agentic architectures with planning, tool use, memory, and human-in-the-loop
+    patterns
+  - Build agent infrastructure including MCP servers/tools, skills, and agent-to-agent
+    communication
+  - Build knowledge and retrieval layer including RAG, hybrid graph/vector retrieval,
+    and ontology
+  - Design enterprise security and trust including guardrails, authorization, and
+    prompt-injection protection
+  - Build evaluation and observability systems measuring quality, latency, cost, and
+    drift
+  - Own production systems end-to-end including deployment, monitoring, and incident
+    response
+  use_cases:
+  - Automated enterprise customer support at scale
+  - Agentic systems solving mission-critical enterprise problems
+  - Knowledge retrieval with hybrid graph/vector search for support answers
+  - Safe agent operation in enterprise environments with guardrails and auditability
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, PydanticAI, MCP, RAG, Agentic Workflows,
+      Multi-Agent Systems, Guardrails, LLMs, AI Agents, Prompt Injection Protection]
+    ml: [Embeddings]
+    web: [APIs]
+    databases: [Vector Databases, Graph Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, CI/CD, Infrastructure as Code, Docker, Observability, Model
+        Monitoring, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Claude Code, Codex, Cursor, Gemini CLI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886319'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:37:05.814262'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

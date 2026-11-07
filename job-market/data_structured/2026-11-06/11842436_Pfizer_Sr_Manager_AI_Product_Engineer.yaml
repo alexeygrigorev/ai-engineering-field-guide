@@ -1,0 +1,79 @@
+company:
+  name: Pfizer
+  stage: null
+  focus: Pharmaceutical company driving digital transformation
+position:
+  title: Sr. Manager, AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI-native flows including
+      models, tools, retrieval, and evaluation — directly shaping
+      LLM/agent system behaviour — so it is ai-first. This is
+      hands-on engineering, not management despite the Manager
+      title.
+  responsibilities:
+  - Design and implement core product capabilities including AI-native flows (models,
+    tools, retrieval, evaluation) for real colleague use
+  - 'Act as technical lead for a product slice: break down work, review code, and
+    maintain quality'
+  - Partner with AI Product Owners to shape scope for learning speed and operability
+  - Raise the engineering bar through pairing, critique, and mentoring other AI Product
+    Engineers
+  - Work with DevOps on CI/CD, environments, and production readiness
+  - Contribute to shared studio patterns across development pods
+  - Instrument features and use data and failure traces to improve the product
+  - Communicate clearly in demos and design reviews and write actionable design notes
+  use_cases:
+  - AI-native product features for internal Pfizer colleagues
+  - Internal AI platforms driving company AI strategy
+  - AI-assisted workflows in a regulated pharma environment
+  skills:
+    genai: [Generative AI, RAG, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs, Distributed Systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11842436'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Chortiatis, GRC
+  remote: true
+  extracted_at: '2026-11-06T13:22:15.053666'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

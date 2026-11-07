@@ -1,0 +1,49 @@
+company:
+  name: Voyant Photonics
+  stage: null
+  focus: |-
+    Silicon photonic LiDAR and optical circuit switching
+    hardware
+position:
+  title: Mechanical Design Engineer, Frontier AI Hardware
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a mechanical design engineer for LiDAR hardware
+      and tooling; the person never shapes model behaviour, trains
+      models, or builds prompts/evals/retrieval. AI appears only
+      in the company's product context (OCS for AI data centers),
+      so per Step 1/3 the role is ai-support.
+  responsibilities:
+  - Design mechanical components, housings, and assemblies for LiDAR sensors in SolidWorks
+  - Create manufacturing-ready drawings with GD&T per ASME Y14.5
+  - Perform tolerance stack-up analyses for fit, function, and optical alignment
+  - Design fixtures, jigs, and tooling for assembly, alignment, inspection, and test
+  - Support and improve lens alignment stations and optical assembly processes
+  - Manage engineering change requests and BOM documentation
+  - Work with suppliers on manufacturability and part quality
+  - Drive design-to-cost and value engineering efforts
+  use_cases:
+  - Chip-scale FMCW LiDAR sensing for robotics and autonomy
+  - Mechanical hardware and tooling for precision LiDAR sensor products
+  - Optical circuit switching for AI data centers
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [SolidWorks, GD&T, Tolerance Stack-Up Analysis, Tooling and Fixture Design,
+      Optomechanical Design, FEA, BOM Management, ECR/ECO]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11813959'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:17:17.450475'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

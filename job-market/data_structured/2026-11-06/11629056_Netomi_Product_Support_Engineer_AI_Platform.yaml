@@ -1,0 +1,48 @@
+company:
+  name: Netomi
+  stage: null
+  focus: Agentic AI platform for enterprise customer experience
+position:
+  title: Product Support Engineer (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is technical support: resolving tickets,
+      troubleshooting, SLA reporting, and maintaining production
+      setups for an AI platform built by others. There is no
+      prompt writing, retrieval design, or model shaping.
+      Customer-facing support of an AI product is ai-support.
+  responsibilities:
+  - Develop in-depth expertise in Netomi systems including AI Studio, backend architecture,
+    and agent desk integrations
+  - Resolve customer ticket queues through Zendesk and respond to inquiries via phone,
+    email, or chat
+  - Lead troubleshooting and incident management, including identifying workarounds
+    and assisting L1 support
+  - Own production setups in client environments and report SLA and key metrics
+  - Create and maintain knowledge base articles and internal documentation
+  - Write custom scripts and code snippets to automate support tasks
+  - Collaborate with product, development, QA, and other teams on complex technical
+    issues
+  - Train new hires and mentor L1 support staff; participate in 24x7 rotational shifts
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [MySQL]
+    data: []
+    cloud: []
+    ops: [Datadog]
+    languages: [Java, HTML, JavaScript]
+    domains: []
+    other: [Zendesk, Postman, Workato, Salesforce, Genesys]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11629056'
+  location: Gurugram, IND
+  remote: true
+  extracted_at: '2026-11-06T12:25:28.589736'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

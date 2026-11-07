@@ -1,0 +1,54 @@
+company:
+  name: SimCorp
+  stage: null
+  focus: Investment management software and FinTech solutions
+position:
+  title: Principal Software Engineer – AI and C# with Azure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The AI Platform team builds an agentic ecosystem: multi-
+      agent orchestration, MCP integration, evaluation,
+      guardrails, and an Agent Development Stack — designing agent
+      flows and trust/safety guardrails directly shapes model
+      behavior. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Lead the design and development of high-impact software systems and AI driven
+    solutions
+  - Provide technical leadership, guidance, and mentorship to other engineers
+  - Collaborate with cross-functional teams, architects, and security to integrate
+    solutions into the product
+  - Review and improve software design, architecture, and implementation for performance,
+    security, and scalability
+  - Troubleshoot and resolve complex technical issues for AI driven solutions in production
+  - Advance the agentic AI platform including agent orchestration, evaluation, guardrails,
+    and MCP integration
+  - Contribute to technical documentation, product backlog, and code reviews
+  use_cases:
+  - Agentic ecosystem for investment operations
+  - Running and integrating SimCorp and partner agents with client workflows
+  - Multi-agent orchestration platform (Agent Orchestrator, SimCorp One Neo)
+  - MCP exposure of SimCorp One APIs
+  - Evaluation, trust, safety, and guardrails for AI features
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, MCP, Guardrails, Generative AI]
+    ml: [Model Evaluation, Machine Learning]
+    web: [.NET]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Azure DevOps, CI/CD, DevOps]
+    languages: [C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389187'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T11:39:54.697744'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare, pharmacy benefits, and care services
+position:
+  title: AI or ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI solutions, RAG
+      pipelines, agent orchestration, and guardrails — directly
+      shaping LLM/agent behavior. No classical-ML-only component
+      dominates; LLM/agent work makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy Agentic AI and Digital Worker (ROVER) solutions automating
+    pharmacy operations and SOP-driven workflows
+  - Build and optimize AI/ML models, RAG pipelines, workflow orchestration, and tool
+    execution frameworks for production
+  - Integrate AI agents with enterprise applications, APIs, and business systems
+  - Develop and maintain Python-based AI services, microservices, and MLOps pipelines
+  - Implement AI guardrails, confidence scoring, human-in-the-loop reviews, and Responsible
+    AI controls
+  - Monitor performance, accuracy, drift, and operational health via observability
+    platforms
+  - Collaborate with SMEs, product owners, data engineers, and platform teams on AI
+    solutions
+  - Support production releases, issue resolution, and scaling of Digital Worker capabilities
+  use_cases:
+  - Automating pharmacy operations via agentic AI digital workers
+  - SOP-driven workflow automation
+  - Autonomous and governed task execution across enterprise systems
+  - Human-in-the-loop reviewed AI task execution in healthcare
+  skills:
+    genai: [Agentic Workflows, AI Agents, RAG, Generative AI, LLMs, Guardrails, Prompt
+        Engineering]
+    ml: [Machine Learning, Model Evaluation]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: [MLOps, CI/CD, Observability]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11725571'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:43:20.071787'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: Global science and technology life sciences company
+position:
+  title: Senior Engineer, AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer configures prompt rules, access rules, and
+      block/transform actions in AI security tools and builds
+      detections and guardrails against OWASP LLM risks (prompt
+      injection, data leakage, excessive agency). Building
+      guardrails and output-quality monitoring for LLMs and agents
+      is shaping model behavior, so this is ai-first.
+  responsibilities:
+  - Configure, tune, and maintain AI security policies in CrowdStrike Falcon AI Detection
+    and Response and Falcon Shield, including access rules, prompt rules, and block/transform
+    actions
+  - Manage policy and configuration for AI gateways covering gaps the CrowdStrike
+    tools cannot reach
+  - Build alerts and detections for unapproved AI use, risky agent behavior, and policy
+    violations aligned to the OWASP Top 10 for LLM Applications
+  - Build automation by proving tasks by hand in the platform, then automating with
+    Python, PowerShell, and platform APIs
+  - Contribute to AI security design with the AI Security Architect
+  - Coordinate with the Security Operations Center and the CrowdStrike engineering
+    team
+  use_cases:
+  - Discovering and governing AI use across the enterprise, including chat tools,
+    AI platforms, and autonomous agents
+  - Detecting and blocking prompt injection, data leakage, and excessive agency in
+    LLM applications
+  - Detecting unapproved AI use and risky agent behavior
+  - Safe enterprise adoption of AI through policy enforcement and automation
+  skills:
+    genai: [Guardrails, LLMs, AI Agents, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CrowdStrike Falcon, Monitoring]
+    languages: [Python, PowerShell]
+    domains: []
+    other: [Cybersecurity, OWASP Top 10 for LLM Applications, AI Gateways, Prompt
+        Injection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886408'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:37:13.785169'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

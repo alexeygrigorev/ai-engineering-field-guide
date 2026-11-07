@@ -1,0 +1,54 @@
+company:
+  name: Fifty-Five
+  stage: null
+  focus: Data consulting for marketing analytics and activation
+position:
+  title: Data Engineer (Data and AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes designing and building LLM agents (Gemini,
+      Google ADK) from prototype to production, including
+      evaluating outputs and guardrails, which is shaping model
+      behavior. Using agentic coding tools alone would be ai-
+      support, but the direct agent-building responsibility makes
+      it ai-first.
+  responsibilities:
+  - Design, build and operate scalable data pipelines, data models and end-to-end
+    solution architectures on GCP
+  - Own technical delivery on client projects and accounts from scoping to production
+  - Ensure delivery quality with validation, automated testing, observability and
+    data-quality controls
+  - Design and build AI applications such as LLM agents on Google Cloud, taking them
+    from prototype to production with evaluation and cost control
+  - Use agentic coding tools like Claude Code or Codex to build faster, critically
+    checking their output
+  - Work with clients and internal teams to clarify requirements and turn business
+    needs into pragmatic designs
+  - Raise engineering standards through design and code reviews, testing and documentation
+  use_cases:
+  - Marketing data collection, analysis and activation for brands
+  - Client decision-making systems built on Google Cloud
+  - LLM agents for clients and internal teams on Google Cloud
+  - Scalable data pipelines and data models for client analytics
+  - AI-assisted engineering to speed up delivery
+  skills:
+    genai: [LLMs, AI Agents, Gemini, Google ADK, Claude Code, Codex, LLM Evaluation,
+      Guardrails]
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [dbt, Airflow, Dataform, Data Pipelines]
+    cloud: [GCP, IAM, AWS, Azure]
+    ops: [Git, CI/CD, Code Review, Terraform]
+    languages: [SQL, Python]
+    domains: []
+    other: [Power BI, Looker]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11478640'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:57:03.304689'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

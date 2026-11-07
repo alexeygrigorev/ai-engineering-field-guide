@@ -1,0 +1,50 @@
+company:
+  name: Deduction
+  stage: null
+  focus: Consumer fintech startup for agentic AI-powered tax filing
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent behavior: designing context
+      engineering, memory/state systems, guardrails, and a multi-
+      layered evaluation platform (LLM-as-a-judge) for the agentic
+      AI core. LLM/agent component involved, so ai-first.
+  responsibilities:
+  - Architect and scale the agentic AI platform alongside the Founding AI Engineer
+  - Design context engineering systems managing memory and state to improve reliability
+    and performance
+  - Build a multi-layered evaluation platform with offline test suites, LLM-as-a-judge
+    scoring, and CPA moderation
+  - Write production-ready TypeScript (Node.js) integrating AI features into the fintech
+    platform
+  - Enforce security, privacy, and compliance guardrails in context boundaries and
+    retrieval paths
+  - Set standards for AI-assisted development and share best practices across the
+    team
+  use_cases:
+  - Agentic AI tax filing assistance with CPA oversight
+  - Reasoning through complex tax logic for clients
+  - Continuous quality evaluation of AI agent outputs
+  - Year-round consumer tax and financial partnership
+  skills:
+    genai: [Context Engineering, Agentic Workflows, LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11590878'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:17:30.740629'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

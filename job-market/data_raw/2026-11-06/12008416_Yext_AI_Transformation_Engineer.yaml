@@ -1,0 +1,227 @@
+job_id: 12008416
+title: AI Transformation Engineer
+company: Yext
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,100 Employees
+description: |
+  Yext (NYSE: YEXT) is the enterprise agentic marketing
+  platform. Built on the world's most comprehensive structured
+  data platform for local businesses, Yext gives brands and
+  their partners the visibility intelligence to win every
+  moment of discovery – across AI and traditional search.
+  Yext's API-first architecture connects structured data to
+  APIs, MCP servers, and generative interfaces, so partners
+  and developers can build purpose-built experiences on the
+  same infrastructure powering Yext's own products. Thousands
+  of brands and digital marketing partners in financial
+  services, healthcare, retail, hospitality, and food rely on
+  Yext to manage, measure, and optimize visibility at scale.
+  For more information, visit yext.com.
+
+  The AI Transformation Office partners with departments
+  across Yext to improve business outcomes through 30 to 60
+  day transformation sprints. As an AI Transformation
+  Engineer, you build the production systems that make that
+  real: retrieval, answer drafting, routing and evaluation on
+  live data, plus the APIs, automations and pipelines around
+  them. Each sprint ends with a handoff to the team that owns
+  the outcome. This is not a product-roadmap engineering role.
+  You embed with department teams, learn how work actually
+  gets done, and build with whatever fits. That is usually a
+  workflow platform such as n8n first, and code only where the
+  platform runs out. You care as much about whether someone
+  else can run your work as whether it runs in production. You
+  build and you teach, as one motion. What You'll Do
+  Production LLM systems (40%)
+
+  - Build and run production LLM workflows in n8n and similar
+    platforms: retrieval over ticket and documentation data,
+    answer drafting and routing.
+  - Build APIs, integrations and data pipelines that connect
+    CRM, support and operational systems.
+  - Build and calibrate confidence scoring so teams know when to
+    trust an answer, and design the review steps and approval
+    gates where a person decides.
+  - Protect the data you work with: scope what each workflow can
+    read, handle PII and sensitive fields, and keep access
+    logs.
+  - Ship every solution monitored, error-handled and version-
+    controlled, not just functional.
+
+  Evals and quality (15%)
+
+  - Define evals before each build: test sets, groundedness and
+    accuracy checks, and the thresholds that decide whether
+    output ships or needs review.
+  - Report quality results to partner teams in plain terms.
+  - Track LLM spend and usage by team, manage API keys, and
+    report run rate.
+
+  Knowledge transfer and enablement (20%)
+
+  - Pair-build with embedded team members so they learn by
+    doing, not by watching.
+  - Write documentation that scales: runbooks, admin guides,
+    architecture diagrams and decision logs.
+  - Train department champions at the right altitude: enough to
+    maintain and extend, not enough to overwhelm.
+  - Build with handoff in mind from day one. The owning team
+    should run each system day to day within 30 days of
+    launch. They own workflow configuration, prompts, review
+    queues and reports. You keep the retrieval, eval and
+    scoring code until a second engineer can take it.
+
+  System design and architecture (15%)
+
+  - Design integration patterns that connect CRM, support and
+    operational systems.
+  - Architect data flows that enable automation and AI-powered
+    decisions.
+  - Evaluate new models and tools, and make build-vs-buy
+    recommendations grounded in the team's real maintenance
+    capacity.
+
+  Opportunity identification (10%)
+
+  - Spot automation and integration opportunities others miss by
+    understanding how work actually gets done.
+  - Translate technical possibilities into language department
+    stakeholders can evaluate.
+  - Estimate effort honestly and scope tightly: cut work that
+    does not change the outcome, and say so early.
+
+  What You Have
+
+  - 5 to 8 years in software engineering, integration
+    development or automation engineering.
+  - Production experience with a workflow platform such as n8n,
+    Zapier or Tray.io, building automations that other teams
+    rely on.
+  - Experience designing reliable autonomous agents: agent
+    frameworks and patterns such as tool calling,
+    orchestration, guardrails and human escalation, with eval
+    feedback loops that keep output high quality and
+    consistent.
+  - Python or TypeScript for the work a platform cannot do, with
+    API design skills and an understanding of how software is
+    operated: monitoring, error handling, version control and
+    deployment discipline.
+  - Hands-on production use of LLM APIs (Anthropic, OpenAI or
+    Google), including prompt design and structured outputs.
+  - Retrieval experience: vector databases such as Qdrant or
+    pgvector, chunking and grounding.
+  - Experience measuring LLM output quality with test sets,
+    graded review or evals.
+  - Experience handling sensitive data in production systems:
+    PII, permissions and audit logging.
+  - A teaching instinct. You explain what you build and why, and
+    you notice when someone is lost before they say so.
+  - Documentation discipline, and the ability to explain trade-
+    offs to non-technical stakeholders without jargon.
+
+  Bonus Points
+
+  - MCP servers, agent frameworks or tool-calling design.
+  - Experience governing a shared LLM cost budget or API keys.
+  - CRM systems (Salesforce, HubSpot), data engineering or ETL,
+    and warehouse analytics such as Snowflake.
+  - Familiarity with support, customer success or professional
+    services operations.
+  - Experience building internal tools where the users are
+    colleagues, not customers.
+  - Training, facilitation or mentoring experience, formal or
+    informal.
+  - Comfort in ambiguous environments where requirements evolve
+    as understanding deepens.
+
+  Flex Capabilities You bring enough business context to
+  understand why a process exists, not only how to automate
+  it. You can contribute to prioritization, challenge
+  assumptions about what is worth building, and sharpen your
+  business instincts over time. We are a small team, and
+  everyone stretches beyond their primary role. What Success
+  Looks Like Each engagement agrees on key metrics before work
+  starts, such as deflection rate, handle time or hours saved,
+  and measures it against a baseline taken before launch. 30
+  days: You understand the systems landscape across the
+  partner department and have identified three or more high-
+  impact automation or integration opportunities. The first
+  sprint has an agreed metric, baseline and eval set. Embedded
+  team members see you as approachable and are already
+  learning from working alongside you. 60 days: The first
+  automation is live, meets the agreed quality threshold, and
+  moves the agreed metric. At least one embedded team member
+  can explain how it works and make minor changes without you.
+  Documentation is current, not aspirational. 90 days: The
+  first system is owned by the partner team day to day, and a
+  second is live and stable. Embedded champions can maintain
+  and extend them, and LLM spend is tracked by team. Handoff
+  documentation is complete enough that a new engineer could
+  onboard from it. The department refers to your work as
+  "ours," not "the AI team's."
+
+  #LI-JB2
+
+  Pay ranges at Yext are established based on an analysis of
+  salaries for positions with a similar level of
+  accountability and impact in the relevant labor market.
+  Salary levels are expected to change to reflect an
+  employee’s job performance (results and impact) over time.
+  Salaries at the time of hire are typically offered in the
+  lower to middle of the above-referenced range in order to
+  provide the opportunity to reflect performance-based
+  increases over time. In addition to base salaries, employees
+  at Yext are typically eligible for a comprehensive package
+  of benefits including medical, dental and vision benefits;
+  life insurance; short term and long-term disability; 401(k)
+  retirement plan; and vacation and sick leave. Successful
+  candidates may also be eligible for variable pay programs
+  based on performance relative to goals and targets.
+
+  Annual Base Pay Range
+
+  $142,500—$213,500 USD
+
+  Yext is an equal opportunity employer committed to building
+  a results-driven, engaging culture where every employee has
+  the opportunity to contribute to the success of the Company,
+  perform at the highest possible level, and grow their skills
+  and capabilities. Yext welcomes employees and applicants of
+  all backgrounds and demographics, and does not engage in
+  discrimination on the basis of any protected characteristic
+  recognized under applicable law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. The Company believes a broad variety of
+  life experiences across the Yext team is critical to its
+  mission to help every business in the world be visible
+  everywhere customers search. By seeking out fresh
+  perspectives and fostering a positive interview experience
+  and employee experience, Yext can remain at the forefront of
+  innovation, and better serve its customers.
+
+  It is Yext’s policy to provide reasonable accommodations to
+  people with disabilities as required by applicable law. If
+  you have a disability that requires an accommodation in
+  completing this application, interviewing, or participating
+  in the employee selection process, please complete this
+  form. Security Alert
+
+  All legitimate Yext communications come from @yext.com email
+  addresses. Messages from other domains (for example,
+  @yext.team) are not authorized and are likely fraudulent. If
+  you receive a message that seems suspicious, do not share
+  personal information, click on links, or provide payment.
+  Instead, please report the communication to
+  security@yext.com.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Internet of Things
+  - Marketing Tech
+  - Social Media
+  - Software
+  - SEO
+posted_date: 2026-11-02
+url: "https://builtin.com/job/ai-transformation-engineer/12008416"
+source: Built In

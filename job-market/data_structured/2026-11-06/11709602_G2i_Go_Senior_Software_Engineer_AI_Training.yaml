@@ -1,0 +1,50 @@
+company:
+  name: G2i
+  stage: null
+  focus: Talent marketplace for vetted software engineers
+position:
+  title: Go Senior Software Engineer, AI Training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The core work is judging the quality of LLM coding agent
+      outputs (Codex, Claude Code, Cursor) and giving structured
+      feedback that defines quality standards, which is shaping
+      model behaviour via output-quality evaluation. The targets
+      are LLM coding agents, so ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end to end
+  - Judge whether agent outputs are useful, correct at a high level, and aligned with
+    strong engineering judgment
+  - Assess the quality of explanations and reasoning, not just the code
+  - Distinguish between levels of response quality using defined rubrics
+  - Write clear, opinionated feedback on what worked, what didn't, and what felt off
+    or misleading
+  - Help define standards for great interactions with tools like Cursor, Codex, and
+    Claude Code
+  - Record short video explanations of evaluations
+  use_cases:
+  - Evaluating quality of AI coding agent interactions
+  - Assessing reasoning and engineering judgment of LLM coding assistants
+  - Rating and providing feedback on model-generated code responses
+  - Defining standards for what good AI-assisted development looks like
+  skills:
+    genai: [Codex, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11709602'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:39:22.553657'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

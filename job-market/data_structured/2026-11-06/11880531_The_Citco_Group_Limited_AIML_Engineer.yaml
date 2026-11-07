@@ -1,0 +1,51 @@
+company:
+  name: The Citco Group Limited
+  stage: null
+  focus: Financial services for alternative investment funds
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, LLM-based applications,
+      copilots, and document intelligence, and trains/tunes models
+      — clearly shaping model behaviour with LLM components, so
+      ai-first.
+  responsibilities:
+  - Design, develop, enhance, and maintain Gen AI and ML applications and pipelines
+  - Build, train, tune and deploy models using Amazon SageMaker (training jobs, pipelines,
+    real-time and batch endpoints)
+  - Develop Generative AI solutions such as LLM-based applications, RAG pipelines,
+    copilots, and document intelligence using AWS services
+  - Troubleshoot and resolve model performance, latency and accuracy issues
+  - Coordinate with the DevOps team to push model and infrastructure changes to higher
+    environments via AWS CI/CD
+  - Provide technical documentation for models, pipelines and deployed solutions
+  - Communicate with business and Product Management teams on AI solution outcomes
+  - Participate in sprint planning, daily scrums, and retrospectives
+  use_cases:
+  - LLM-based applications and copilots
+  - RAG pipelines for knowledge retrieval
+  - Document intelligence
+  - Model training, tuning and deployment for production ML services
+  - AI-led innovation for financial services products
+  skills:
+    genai: [LLMs, LangChain, LlamaIndex, RAG]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face]
+    web: [REST APIs]
+    databases: [Vector Databases, OpenSearch, FAISS, Pinecone, NoSQL, DynamoDB]
+    data: []
+    cloud: [SageMaker, AWS, AWS Bedrock, AWS S3, AWS Lambda, IAM, CloudWatch, API
+        Gateway, ECS, EKS]
+    ops: [Docker, Git, CI/CD, GitHub Actions, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11880531'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:29:23.669448'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

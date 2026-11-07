@@ -1,0 +1,63 @@
+company:
+  name: Unisys
+  stage: null
+  focus: IT services and digital workplace solutions
+position:
+  title: Knowledge Management - AI & Content Strategy Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role prepares and governs knowledge content so it is
+      ready for AI systems (Copilot, RAG, AI assistants), but does
+      not itself shape model behaviour — no prompt design,
+      retrieval architecture, model training, or eval building is
+      owned by this person. It partners with AI/engineering teams
+      while retaining accountability for content quality and
+      governance, so it supports rather than builds the AI
+      systems.
+  responsibilities:
+  - Design and maintain the knowledge-management framework, taxonomies, metadata models,
+    and repository hierarchies
+  - Establish content lifecycle governance covering creation, validation, approval,
+    publishing, retention, and disposition
+  - Develop templates, editorial standards, and staged content workflows for knowledge
+    capture and curation
+  - Serve as hands-on SharePoint practitioner for knowledge design and content organization
+  - Prepare trusted knowledge sources for Microsoft Copilot, AI assistants, RAG, intelligent
+    search, and multi-agent experiences
+  - Establish AI-ready content standards and run knowledge-readiness assessments before
+    AI implementation
+  - Convert captured knowledge into role-based learning paths, workshops, and onboarding
+    materials
+  - Define knowledge metrics and report on repository health, governance compliance,
+    and AI readiness
+  use_cases:
+  - Enterprise knowledge management and governance
+  - AI knowledge readiness for Copilot and RAG solutions
+  - Internal knowledge assistants and intelligent search
+  - Learning enablement and workforce upskilling
+  - Client knowledge-management service offerings
+  skills:
+    genai: [Microsoft Copilot, RAG, Semantic Search, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Vector Search, Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Knowledge Management, Content Strategy, Information Architecture, Taxonomies,
+      Metadata Models, SharePoint, Content Governance, Instructional Design, Automated
+        Tagging, Web Crawling, Microsoft 365, Learning and Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11932217'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - DLF Cybercity, IND
+  extracted_at: '2026-11-06T14:01:20.615177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Waymo
+  stage: null
+  focus: Autonomous driving technology and robotaxi services
+position:
+  title: Staff Machine Learning Engineer, AI Infrastructure
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs and scales large-scale ML systems from data
+      to training to production serving, including training and
+      optimizing models, which is shaping model behaviour. The
+      models involved (event detection, triage foundation models,
+      autonomous driving evaluation) are classical ML with no LLM
+      or agent-prompt component.
+  responsibilities:
+  - Lead design and development of ML infrastructure taking DUE models from data to
+    training to production serving, including event detection models, triage foundation
+    models, and agents
+  - Design and scale distributed systems for large-scale dataset generation, model
+    training, and evaluation across real-world and simulation data
+  - Own reliability, efficiency, and observability of production ML serving, including
+    accelerator capacity planning and performance optimization
+  - Keep offline evaluation and production inference consistent
+  - Drive technical direction, guide architectural decisions, and mentor engineers
+  - Collaborate with modeling, evaluation, and platform teams to turn goals into measurable
+    technical deliverables
+  use_cases:
+  - Autonomous vehicle behavior evaluation metrics
+  - Event detection and triage foundation models for driving behavior
+  - Large-scale dataset generation from real-world and simulation driving data
+  - Realistic driving simulation and rare event generation
+  - Production ML serving for onboard autonomous driving components
+  skills:
+    genai: []
+    ml: [JAX, TensorFlow, PyTorch, Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, Distributed Systems, Monitoring]
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12104590'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Mountain View, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:02:23.222304'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

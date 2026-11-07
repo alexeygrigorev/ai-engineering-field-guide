@@ -1,0 +1,59 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    Cloud-scale software, performance systems and tooling for AI
+    models
+position:
+  title: Senior and/or Principal Software Engineer- AI Frameworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role benchmarks, profiles, debugs, and optimizes LLM
+      training and inference workloads across frameworks,
+      compilers, runtimes, and hardware - optimizing a model's own
+      internals, which is shaping. The targets are large language
+      models, so it classifies as ai-first.
+  responsibilities:
+  - Design, implement, test, and operate production-quality components across AI frameworks,
+    runtimes, benchmarking systems, and performance tooling
+  - Benchmark, profile, debug, and optimize large language model training and inference
+    workloads across GPUs and Microsoft hardware
+  - Build automation and observability to detect regressions, improve reproducibility,
+    and accelerate model and hardware onboarding
+  - Drive projects from problem definition through deployment with measurable performance
+    or capacity impact
+  - Partner with researchers, model teams, infrastructure owners, and hardware vendors
+    to diagnose cross-stack issues
+  - Define technical vision, architecture, and multi-release strategy for AI framework
+    and performance capabilities (Principal level)
+  - Establish shared measurement, automation, and observability mechanisms as scalable
+    platform capabilities
+  - Mentor senior engineers and advance engineering standards through design and code
+    reviews
+  use_cases:
+  - Accelerating model onboarding to cloud platforms
+  - Improving LLM training and inference performance and reliability
+  - Reducing deployment time and hardware footprint at cloud scale
+  - Performance benchmarking and regression detection for AI workloads
+  - Turning performance insights into durable platform capabilities
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, CUDA, ROCm]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ONNX Runtime, Triton]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11192096'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:26:24.359177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Enterprise data and AI consulting services
+position:
+  title: Sr Agentic AI developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems: prompt
+      engineering, RAG, agent orchestration, tool calling,
+      guardrails, and evaluations directly shape LLM behavior,
+      making it ai-first. Mentoring and collaboration indicate a
+      senior IC, not management.
+  responsibilities:
+  - Design and develop agentic AI solutions using LLMs, AI agents, and multi-agent
+    architectures
+  - Build AI agents with reasoning, planning, tool/function calling, and autonomous
+    task execution
+  - Develop RAG-based applications using enterprise data and knowledge bases
+  - Integrate LLMs with enterprise APIs, databases, cloud services, and business applications
+  - Implement prompt engineering, context management, memory, agent orchestration,
+    and guardrails
+  - Implement evaluation, monitoring, observability, security, and governance for
+    AI agents
+  - Optimize solutions for latency, scalability, reliability, and cost
+  - Mentor junior engineers and contribute to technical design and architecture decisions
+  use_cases:
+  - Autonomous AI agents that reason, plan, and execute multi-step workflows
+  - Enterprise RAG applications over corporate data and knowledge bases
+  - Agent orchestration with tool calling across enterprise systems
+  - LLM integration with enterprise APIs, databases, and cloud services
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      Function Calling, RAG, Embeddings, Prompt Engineering, Guardrails, LangChain,
+      LangGraph, LlamaIndex, AutoGen, CrewAI, OpenAI API, Azure OpenAI, Anthropic
+        API, Gemini]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Vector Databases, Vector Search, Pinecone, Weaviate, Milvus, Chrom]
+    data: []
+    cloud: [Azure AI Search, AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11414497'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:46:40.573898'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

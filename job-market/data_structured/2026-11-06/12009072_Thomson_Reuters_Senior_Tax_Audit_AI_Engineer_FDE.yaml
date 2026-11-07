@@ -1,0 +1,65 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: |-
+    Information services for legal, tax, accounting, and media
+    professionals
+position:
+  title: Senior Tax & Audit AI Engineer, FDE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds prompts, custom AI agents, and automations,
+      and owns AI evaluation and accuracy validation against
+      professional criteria — directly shaping model behavior and
+      output quality on LLM-based systems. It is a Forward
+      Deployed Engineer role adapting AI solutions at client
+      sites, which is ai-first.
+  responsibilities:
+  - Partner with public accounting firms and corporate tax departments to identify
+    automation opportunities and define successful outcomes
+  - Design AI solutions that preserve professional judgment and incorporate accuracy,
+    risk, and professional standards controls
+  - Build prompts, AI agent instructions, prototypes, and automations using AI coding
+    tools, Python, and low-code platforms
+  - Own AI evaluation and accuracy validation, creating expert-validated reference
+    datasets and test harnesses
+  - Develop reusable prompts and automations for return review, workpaper preparation,
+    K-1 processing, tax provision, and audit testing
+  - Support client demonstrations and early engagement discussions
+  - Collaborate with domain experts, editorial, and product teams to align solutions
+    with product capabilities and tax law
+  use_cases:
+  - Tax return review automation
+  - Workpaper preparation
+  - K-1 processing
+  - Tax provision automation
+  - Audit testing automation
+  - Accuracy validation and quality assurance for tax/audit AI workflows
+  skills:
+    genai: [Prompt Engineering, AI Agents, Claude Code, Cursor, GitHub Copilot, LLM
+        Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Excel]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12009072'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - Chicago, USA
+  - Ann Arbor, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:27:49.605993'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

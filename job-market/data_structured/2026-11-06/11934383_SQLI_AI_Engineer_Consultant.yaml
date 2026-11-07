@@ -1,0 +1,54 @@
+company:
+  name: SQLI
+  stage: null
+  focus: Customer experience and digital transformation consulting
+position:
+  title: AI Engineer Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG solutions, AI agent flows, MCP
+      ecosystems, and assesses AI solution quality with evaluation
+      frameworks (LangSmith, Promptfoo), directly shaping model
+      behaviour and output quality. This is LLM/agent work, so ai-
+      first.
+  responsibilities:
+  - Conduct in-depth analysis of client needs, identifying where AI creates business
+    value
+  - Design and propose AI solutions grounded in benchmarks, evidence, and measurable
+    outcomes
+  - Lead discovery workshops, AI strategy sessions, and executive-level discussions
+  - Design AI applications leveraging RAG, AI agents, MCP ecosystems, and workflow
+    automation
+  - Assess and improve reliability and quality of AI solutions using evaluation frameworks
+    and governance best practices
+  - Shape commercial proposals and contribute to solution design and technical storytelling
+  - Collaborate with architects and engineering teams to validate feasibility of scalable
+    AI architectures
+  - Contribute to new AI offerings, accelerators, and reusable assets
+  use_cases:
+  - Enterprise knowledge retrieval and search
+  - AI-driven workflow automation
+  - Agentic AI solutions for enterprise processes
+  - AI adoption and organizational transformation
+  - AI solution quality assurance and governance
+  skills:
+    genai: [RAG, AI Agents, Multi-Agent Systems, Agentic Workflows, MCP, Claude Code,
+      Function Calling, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: []
+    ops: [LangSmith, Promptfoo, Humanloop, Harness]
+    languages: []
+    domains: []
+    other: [LLM Evaluation, Workflow Automation, Change Management, Enterprise Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11934383'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T14:02:06.473900'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

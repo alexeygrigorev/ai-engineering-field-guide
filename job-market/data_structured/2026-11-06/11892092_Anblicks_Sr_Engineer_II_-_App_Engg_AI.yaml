@@ -1,0 +1,49 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data and cloud consulting and analytics services
+position:
+  title: Sr. Engineer II - App Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack backend engineer owning the API and
+      data-serving layer of a reporting platform. There is no
+      LLM/ML work at all - no prompt engineering, retrieval, model
+      training, or AI tooling beyond the "AI" in the title. AI is
+      not actually part of the responsibilities.
+  responsibilities:
+  - Own the FastAPI metrics API exposing tenant-scoped metrics over curated KPI data
+  - Enforce multi-tenant isolation structurally in the data access layer
+  - Design and evolve the data model with SQLModel and Alembic migrations
+  - Own the API contract between Pydantic models and Zod schemas
+  - Reconcile platform metrics against trusted BI numbers and prove correctness
+  - 'Tune performance: caching, rate limiting, pagination, query plan analysis'
+  - Implement OAuth2/OIDC authentication and authorization
+  - Build and review React and TypeScript features, supporting the app in production
+  use_cases:
+  - Tenant-scoped metrics and KPI reporting API for a customer-facing platform
+  - Analytics data serving with metric parity against trusted BI numbers
+  - Multi-tenant reporting with billing-entity scoping and isolation
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, React, Microservices, Pydantic, Zod, OAuth, JWT]
+    databases: [PostgreSQL, asyncpg, SQLModel, SQLAlchemy, Alembic, Snowflake]
+    data: [dbt]
+    cloud: [Azure]
+    ops: [pytest, CI/CD, Git, OpenTelemetry, Prometheus]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Power BI, DAX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892092'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-11-06T13:43:15.934148'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

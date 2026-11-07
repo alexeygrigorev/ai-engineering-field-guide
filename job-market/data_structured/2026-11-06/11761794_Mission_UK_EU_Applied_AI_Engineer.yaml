@@ -1,0 +1,58 @@
+company:
+  name: Mission UK & EU
+  stage: null
+  focus: Underwriting capital and platform for program administrators
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-based production AI: prompt
+      engineering, orchestration frameworks, agentic workflows,
+      vector databases, guardrails, and evaluation of model
+      quality. This directly shapes model behaviour, with LLMs as
+      the target, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy production-grade AI solutions using LLMs, AI agents,
+    and memory/context management patterns
+  - Build intelligent workflows automating underwriting, operations, finance, and
+    HR business processes
+  - Design prompt engineering, orchestration frameworks, vector databases, and knowledge
+    retrieval solutions
+  - Evaluate, fine-tune, and optimize foundation models and AI workflows for accuracy,
+    latency, and cost
+  - Develop evaluation frameworks, automated testing, and monitoring for AI quality
+    and hallucination rates
+  - Implement AI guardrails, security controls, and governance standards
+  - Integrate AI capabilities with enterprise platforms including policy administration
+    and data platforms
+  - Build reusable AI components, SDKs, and engineering frameworks
+  use_cases:
+  - Automated underwriting and submissions processing
+  - Intelligent workflow automation across operations, finance, and HR
+  - Enterprise knowledge retrieval and document management
+  - AI-powered policy administration integration
+  - Process automation and streamlining for business functions
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, Agentic Workflows, RAG, Fine-Tuning,
+      Anthropic API, OpenAI API, MCP, Multi-Agent Systems, Guardrails, LLM Evaluation,
+      Claude Code, Codex]
+    ml: [Machine Learning, Model Evaluation]
+    web: [REST APIs, Microservices]
+    databases: [MongoDB, Vector Databases, SQL Server]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Infrastructure as Code, DevOps, MLOps, Git, Monitoring, Observability,
+      GitHub Copilot]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Responsible AI, GitHub, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11761794'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:47:15.915383'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

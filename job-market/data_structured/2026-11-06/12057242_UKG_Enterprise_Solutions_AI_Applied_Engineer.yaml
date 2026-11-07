@@ -1,0 +1,58 @@
+company:
+  name: UKG
+  stage: null
+  focus: Workforce management and HCM software platform
+position:
+  title: Enterprise Solutions AI Applied Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents grounded in enterprise knowledge
+      using RAG patterns, designs conversational flows with intent
+      handling, and implements prompt engineering and function
+      calling — directly shaping LLM behavior and output quality.
+      Hence ai-first.
+  responsibilities:
+  - Build and enhance AI-powered features such as copilots, summarization, classification,
+    routing, and Q&A aligned to business workflows
+  - Partner with business users to clarify requirements, run demos, capture feedback,
+    and iterate toward measurable outcomes
+  - Support pilot launches, troubleshoot issues, and drive adoption through user training
+    and documentation
+  - Develop agents grounded in the company's internal knowledge base using RAG patterns
+    and retrieval quality improvements
+  - Design conversational flows for internal functions like HR helpdesk, including
+    intent handling and human handoff
+  - Implement simple agentic or predictive models for operational use cases under
+    senior guidance
+  - 'Manage a feature backlog: write user stories, define acceptance criteria, coordinate
+    UAT'
+  - Contribute to evaluation, regression testing, and monitoring of quality, latency,
+    and cost for deployed features
+  use_cases:
+  - Internal copilots, summarization, classification, routing, and Q&A for business
+    workflows
+  - Knowledge-grounded agents over internal company knowledge base
+  - HR helpdesk conversational assistant with human escalation
+  - Predictive models for operational use cases like support ticket volume forecasting
+  - Employee productivity improvements through applied AI
+  skills:
+    genai: [Prompt Engineering, RAG, AI Agents, LangChain, LlamaIndex, Semantic Kernel,
+      Function Calling, LLMs, Generative AI, Conversational AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12057242'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:43:09.447062'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

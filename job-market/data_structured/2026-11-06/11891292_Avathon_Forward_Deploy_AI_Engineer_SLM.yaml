@@ -1,0 +1,56 @@
+company:
+  name: Avathon
+  stage: null
+  focus: Industrial AI autonomy platform for heavy industries
+position:
+  title: Forward Deploy AI Engineer (SLM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and fine-tunes SLMs/LLMs, builds RAG
+      pipelines, enables agentic workflows, and evaluates output
+      quality (reducing hallucinations), all of which directly
+      shape LLM behavior -> ai-first.
+  responsibilities:
+  - Build and fine-tune SLMs/LLMs for production use cases such as semantic search,
+    forecasting, contract intelligence, and conversational insights
+  - Optimize models for performance, cost, and latency using PEFT, quantization, and
+    efficient inference techniques
+  - Embed supply chain domain knowledge into models alongside domain experts and product
+    teams
+  - Enable agentic workflows for AI Assistants executing planning, optimization, and
+    decision-support tasks
+  - Integrate models into products using custom Lambdas and a graph-based microservices
+    architecture
+  - Apply vector search and semantic reasoning for navigating supply chain relationships
+  - Deploy and operate models with MLOps practices on AWS, GCP, or Azure
+  - Measure and improve model quality, reducing hallucinations through continuous
+    evaluation
+  use_cases:
+  - Semantic search over enterprise supply chain knowledge
+  - Demand forecasting and inventory planning
+  - Contract intelligence
+  - Conversational supply chain insights
+  - AI assistants for planning, optimization, and decision support
+  - Relationship-driven insights via knowledge graphs
+  skills:
+    languages: [Python]
+    domains: [Supply Chain Analytics]
+    web: [GraphQL, Microservices]
+    cloud: [AWS, GCP, Azure, AWS Lambda]
+    data: [Data Modeling]
+    ml: [PyTorch, TensorFlow, Quantization, Reinforcement Learning, Probabilistic
+        Modeling, Forecasting, Mistral, Llama, Graph Neural Networks]
+    databases: [Vector Databases, Neo4j, Knowledge Graphs, FAISS]
+    genai: [LLMs, Fine-Tuning, LoRA, RAG, Agentic Workflows, AI Agents, Semantic Search,
+      Embeddings, Prompt Engineering]
+    ops: [MLOps]
+    other: [ERP Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891292'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:00.178344'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: handly
+  stage: null
+  focus: |-
+    AI-native business-in-a-box admin services for trade
+    businesses
+position:
+  title: Founding AI Engineer @handly - 20VC backed
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: prompt engineering
+      (structured outputs, tool use, agents), building agents,
+      evals/benchmarks, and self-improving loops on LLM-based
+      products. All major projects involve LLMs and agents, so ai-
+      first.
+  responsibilities:
+  - Own AI products end to end, from product decisions to production
+  - Turn messy real-world trade workflows into autonomous AI agents
+  - Build quote generation from voice notes, photos and documents
+  - Build an MCP layer for natural-language back office management
+  - Build evaluation sets and benchmarks gating every AI feature
+  - Create self-improving loops using user corrections and rejections
+  - Capture data and context from calls, emails, photos, documents and voice
+  use_cases:
+  - Automated quote generation for trades from voice, photos and documents
+  - Building measurements from satellite imagery and drone footage
+  - Natural-language back office management via chat (MCP layer)
+  - Email intelligence and automated client/supplier communication with anti-phishing
+  - Self-improving AI pipelines learning from user corrections
+  - Call intelligence, payment matching and daily partner briefings
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Function Calling, AI Agents, LLMs,
+      MCP, OpenAI API, Anthropic API, LLM Evaluation, Generative AI]
+    ml: []
+    web: [Express, React, Vite, React Query, Tailwind, shadcn/ui, Zod, React Native,
+      Expo, EAS]
+    databases: [PostgreSQL, Drizzle]
+    data: []
+    cloud: [AWS]
+    ops: [Vercel AI SDK, promptfoo, PostHog, Sentry]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11949413'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:08:39.504142'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

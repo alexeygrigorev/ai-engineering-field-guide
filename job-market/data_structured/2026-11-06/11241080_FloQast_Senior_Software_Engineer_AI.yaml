@@ -1,0 +1,51 @@
+company:
+  name: FloQast
+  stage: null
+  focus: AI-powered accounting automation platform
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI products including
+      agentic workflows, context engineering, RAG, vector search,
+      and MCP integrations - directly shaping LLM behavior and
+      retrieval. This makes it ai-first.
+  responsibilities:
+  - Architect and lead development of production AI products including chatbots, document
+    processing, and agentic workflows
+  - Design a centralized AI platform with model routing, provider management, vector
+    search, and MCP integrations
+  - Build scalable AI products integrating accounting systems, document repositories,
+    and external APIs with monitoring and observability
+  - Master context engineering and system design for AI applications including retrieval
+    and multi-turn conversation management
+  - Collaborate with Product, Engineering, and Security teams on compliant AI products
+  - Provide technical leadership and mentorship to the AI team, establishing AI development
+    standards
+  use_cases:
+  - Intelligent chatbots for accounting users
+  - Document processing for accounting workflows
+  - AI accountant teammate automating recurring accounting tasks
+  - Centralized AI platform with model routing and provider management
+  - Agentic workflows integrated with accounting systems and external APIs
+  skills:
+    genai: [MCP, Context Engineering, Agentic Workflows, LLMs, RAG, Conversational
+        AI, Embeddings, Semantic Search]
+    ml: [RLHF]
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS]
+    ops: [Observability]
+    languages: [Python]
+    domains: []
+    other: [Document Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11241080'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T11:27:54.205714'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

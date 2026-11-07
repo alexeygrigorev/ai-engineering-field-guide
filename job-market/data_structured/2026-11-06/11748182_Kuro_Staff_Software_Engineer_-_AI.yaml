@@ -1,0 +1,57 @@
+company:
+  name: Kuro
+  stage: Seed-stage (backed by a €10 million seed round)
+  focus: |-
+    AI foundation and workflow automation for the construction
+    industry
+position:
+  title: Staff Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships applied AI features end-to-end:
+      agentic chat, evaluations, error analysis, optimizing LLMs,
+      and choosing retrieval/orchestration stacks. This is
+      directly shaping LLM behavior, making it ai-first.
+      Explicitly an IC ("no direct reports").
+  responsibilities:
+  - Own platform architecture decisions from document ingestion to chat UI, and write
+    the technical roadmap
+  - Make build-or-buy decisions on models and retrieval/orchestration stacks
+  - Design and implement end-to-end AI features such as agentic chat and document
+    versioning
+  - Manage evaluations and scoring, and perform error analysis on AI features
+  - Contribute to workflow harness, decision-trace standard, and eval tooling
+  - Model the construction ontology and project graph, including entity resolution
+    across sources
+  - Extend multi-modal ingestion pipelines and build customer system integrations
+    (DMS, ERP/AVA)
+  - Mentor engineers, define engineering standards, and interview and hire engineers
+  use_cases:
+  - Automating construction back-office workflows with agentic chat
+  - Comparing bids against BoQs and surfacing deviations
+  - Multi-modal ingestion of PDFs, scans, drawings, and 3D models
+  - Entity resolution across BoQs, contracts, drawings, and bids
+  - Evidence-linked and auditable answers via a construction ontology and project
+    graph
+  - Read/write integrations with document management and ERP/AVA systems to complete
+    workflows end-to-end
+  skills:
+    genai: [OpenAI API, Gemini, Agentic Workflows, LLMs, LLM Evaluation, Cohere]
+    ml: []
+    web: [APIs, Prisma, Fastify]
+    databases: [PostgreSQL, AWS S3, Vector Databases]
+    data: [Prefect]
+    cloud: [AWS, Azure, AWS Bedrock]
+    ops: [Langfuse, Datadog, CI/CD]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11748182'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:45:57.959394'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

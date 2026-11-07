@@ -1,0 +1,54 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: |-
+    Enterprise workflow automation and AI platform (cloud
+    software)
+position:
+  title: Senior Staff Machine Learning Engineer- Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool calling, and
+      multi-agent workflows, and integrates LLM-based voice AI
+      systems — clearly shaping LLM/agent behavior, so ai-first.
+      Speech models (STT/TTS) are present but the agentic/LLM
+      component dominates.
+  responsibilities:
+  - Lead architecture and technical direction of the core Voice Platform (audio acquisition,
+    conversation management, speech generation, Voice AI model integration, voice
+    harness)
+  - Design and drive large-scale agentic systems with agent orchestration, routing,
+    tool calling, and multi-agent workflows under strict latency and reliability targets
+  - Partner with product managers, customers, and leadership to shape the platform
+    roadmap
+  - Own design and delivery of distributed Voice systems spanning multiple regions
+    and data centers
+  - Set engineering standards for architecture, code quality, and processes across
+    teams
+  - Evolve the SRE practice by turning operational learnings into platform capabilities
+  - Mentor Staff and Senior engineers and grow technical leaders
+  use_cases:
+  - Real-time enterprise voice AI platform (STT/TTS, conversation management)
+  - Agentic multi-agent workflow orchestration for enterprise services
+  - Voice-driven automation of enterprise workflows for non-technical users
+  - Scalable multi-region distributed voice services
+  skills:
+    languages: [Python, Go, Java]
+    domains: []
+    web: [WebRTC, APIs]
+    cloud: []
+    data: []
+    ml: [Machine Learning, Speech Recognition, Text-to-Speech]
+    databases: []
+    genai: [AI Agents, Agentic Workflows, Function Calling, LLMs]
+    ops: [Kubernetes, DevOps, Distributed Systems, SRE, Model Deployment]
+    other: [Claude Code, Cursor, Windsurf]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11589059'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:16:49.465751'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

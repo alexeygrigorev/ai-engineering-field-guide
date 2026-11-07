@@ -1,0 +1,55 @@
+company:
+  name: Value Creed
+  stage: null
+  focus: IT consulting services
+position:
+  title: Senior Developer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing RAG
+      pipelines, prompt templates, agentic workflows with function
+      calling, and output evaluation/guardrails on Azure OpenAI.
+      This is LLM-centric generative AI engineering, so ai-first.
+  responsibilities:
+  - Build and integrate Azure OpenAI solutions with prompt templates, streaming responses,
+    and structured outputs
+  - Design RAG pipelines including ingestion, chunking, embeddings, hybrid retrieval,
+    reranking, and evaluation
+  - Develop agentic workflows with function calling, tool use, routing, state, memory,
+    and human-in-the-loop controls
+  - Expose AI capabilities through secure asynchronous APIs and microservices using
+    FastAPI
+  - Deploy AI applications to Azure App Service, Azure Functions, or AKS with scaling
+    and release automation
+  - Apply responsible AI controls including prompt-injection defenses, PII handling,
+    and content filtering
+  - Implement monitoring for latency, token usage, cost, failures, and drift using
+    Azure Monitor and Application Insights
+  - Collaborate with security teams on managed identities, RBAC, Key Vault, and private
+    endpoints
+  use_cases:
+  - Enterprise generative AI services on Azure
+  - Document question answering with grounded citations
+  - Agentic AI task automation with human-in-the-loop controls
+  - Secure enterprise AI API and microservice delivery
+  skills:
+    genai: [Azure OpenAI, RAG, Agentic Workflows, Prompt Engineering, Structured Outputs,
+      Function Calling, Embeddings, MCP, Generative AI]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices, React, Next.js, Streamlit]
+    databases: [Vector Search, Azure AI Search]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure Functions, AKS, IAM]
+    ops: [CI/CD, Monitoring, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Gradio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892029'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:42:56.978735'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

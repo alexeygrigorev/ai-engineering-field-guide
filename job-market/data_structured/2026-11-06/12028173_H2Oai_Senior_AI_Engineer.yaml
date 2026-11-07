@@ -1,0 +1,58 @@
+company:
+  name: H2O.ai
+  stage: null
+  focus: Agentic AI and enterprise AI platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems, RAG, prompt
+      engineering, guardrails, and evals — directly shaping LLM
+      behavior, so ai-first. It also builds production ML
+      pipelines, but LLM work dominates. Customer-facing field
+      engineering role, not management.
+  responsibilities:
+  - Lead end-to-end technical engagements with enterprise customers, managing delivery
+    quality, escalation, and stakeholder relationships
+  - Design and build agentic AI systems and multi-agent frameworks automating enterprise
+    workflows
+  - Develop and deploy LLM applications using RAG, fine-tuning, prompt engineering,
+    and function calling
+  - Implement guardrails, evaluation frameworks, and responsible AI controls for production
+    reliability
+  - Own the full development lifecycle from problem framing through model development,
+    API integration, and production deployment
+  - Build scalable backend services and APIs exposing AI capabilities, integrated
+    across cloud, on-prem, and hybrid environments
+  - Develop ML pipelines and LLMOps infrastructure for continuous improvement and
+    monitoring
+  - Mentor junior engineers and coordinate delivery across cross-functional teams
+  use_cases:
+  - Agentic AI systems automating complex multi-step enterprise workflows
+  - LLM-powered enterprise applications on private data
+  - Production ML pipelines for enterprise business outcomes
+  - Secure, compliant sovereign AI deployments for regulated industries
+  - Pre-sales and proof-of-concept AI demonstrations for enterprises
+  skills:
+    genai: [RAG, Fine-Tuning, Prompt Engineering, Function Calling, Agentic Workflows,
+      Multi-Agent Systems, Guardrails, MCP, LangChain, LlamaIndex, RLHF, LLM Evaluation,
+      LLMs, Generative AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Model Evaluation, Machine Learning, AutoML]
+    web: [REST APIs, APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, LLMOps, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12028173'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:33:19.778791'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

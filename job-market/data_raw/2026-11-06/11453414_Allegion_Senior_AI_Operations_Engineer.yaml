@@ -1,0 +1,433 @@
+job_id: 11453414
+title: Senior AI Operations Engineer
+company: Allegion
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 10,001 Employees
+description: |
+  Creating Peace of Mind by Pioneering Safety and Security
+
+  At Allegion, we help keep the people you know and love safe
+  and secure where they live, work and visit. With more than
+  40 brands, 14,000+ employees globally and products sold in
+  130 countries, we specialize in security around the doorway
+  and beyond.
+
+  Additionally, Allegion is proud to be recognized with the
+  2026 Gallup Exceptional Workplace Award (GEWA) for the third
+  consecutive year, earning distinction in both the employee
+  engagement and strengths categories. This year, Allegion
+  also received Gallup’s With Distinction honor — a
+  designation reserved for a select group of organizations
+  that go above and beyond in building exceptional workplace
+  cultures.
+
+  KEY RESPONSIBILITIES
+
+  AI Platform Operations
+
+  AI Platform Administration
+
+  - Operate and maintain enterprise AI platforms and services
+    across development, test, and production environments.
+
+  - Support Azure OpenAI, Azure AI Foundry, Azure Machine
+    Learning, and related Azure AI platform services.
+
+  - Operate the application hosting platform for AI services
+    across Azure App Service, Azure Functions, and Azure
+    Container Apps, including networking, scaling, and runtime
+    configuration.
+
+  - Ensure platform availability, performance, reliability,
+    scalability, and operational stability.
+
+  - Perform platform configuration, lifecycle management,
+    upgrades, and operational maintenance.
+
+  AI Service Deployment & Operations
+
+  - Deploy and operationalize AI and Generative AI workloads in
+    controlled enterprise environments.
+
+  - Support production AI solutions including copilots, AI
+    assistants, chatbots, agentic applications, retrieval-
+    augmented generation (RAG) services, and machine learning
+    applications.
+
+  - Manage release activities, prompt and model version control,
+    runtime configurations, deployment validations, and
+    operational handovers.
+
+  - Deploy and operate machine learning models and endpoints
+    developed by Data Science teams, providing the pipelines,
+    environments, and runtime platform they promote through.
+
+  - Troubleshoot deployment, integration, performance, and
+    runtime issues across AI services.
+
+  Container & Kubernetes Platform
+
+  - Support containerised AI workloads using Docker and
+    Kubernetes operational best practices, including image
+    build, hardening, registries, and runtime configuration.
+
+  - Help design, build, and operate Azure Kubernetes Service
+    environments as the container platform is introduced for
+    AI and platform workloads.
+
+  - Establish and monitor cluster health, capacity, autoscaling,
+    networking, ingress, security policies, and operational
+    readiness.
+
+  - Contribute to platform resiliency, backup, recovery, and
+    disaster recovery readiness.
+
+  Model Access & Gateway Operations
+
+  - Operate the governed model-access layer serving AI
+    applications, agents, and developer tooling — provider
+    routing, failover, model catalogue, and version management
+    across Azure OpenAI, AWS Bedrock, and Google Vertex AI.
+
+  - Manage model access control, user and application
+    entitlements, quota allocation, rate limiting, and
+    credential provisioning for the gateway.
+
+  - Monitor and attribute token consumption, throttling and 429
+    events, latency, and cost by model, application, and
+    consumer.
+
+  - Support gateway upgrades, provider onboarding, configuration
+    changes, and controlled rollout of new model versions.
+
+  Monitoring, Reliability & Support
+
+  Monitoring & Observability
+
+  - Implement monitoring, logging, alerting, dashboards, and
+    operational metrics for AI platforms and services.
+
+  - Monitor AI system utilization, availability, latency, cost
+    consumption, token usage, and performance trends.
+
+  - Monitor AI-specific signals including model and agent
+    quality, quota and throttling events, data or model drift,
+    and grounding index freshness.
+
+  - Use Azure Monitor, Application Insights, Log Analytics, and
+    OpenTelemetry instrumentation to identify incidents and
+    improvement areas.
+
+  - Provide operational insights to engineering, security,
+    governance, and leadership stakeholders.
+
+  Incident & Problem Management
+
+  - Investigate and resolve platform incidents, production
+    issues, service disruptions, and operational risks.
+
+  - Perform root cause analysis and document corrective and
+    preventive actions.
+
+  - Support production support processes, escalation management,
+    and incident communications.
+
+  - Participate in post-incident reviews and implement service
+    reliability improvements.
+
+  Operational Excellence
+
+  - Create and maintain runbooks, support procedures, platform
+    documentation, and operational knowledge articles.
+
+  - Automate recurring support, validation, monitoring, and
+    deployment activities.
+
+  - Continuously improve platform efficiency, stability,
+    security posture, and cost governance.
+
+  - Support service-level objectives and operational performance
+    targets for AI platforms.
+
+  Cloud Engineering & Automation
+
+  Infrastructure as Code
+
+  - Develop and maintain Infrastructure as Code using Terraform,
+    including reusable modules, remote state management,
+    validation, and peer review.
+
+  - Automate Azure AI platform provisioning, configuration,
+    policy enforcement, and environment standardization across
+    development, test, and production.
+
+  - Manage controlled promotion of infrastructure changes across
+    environments, with drift detection, change tracking, and
+    infrastructure compliance.
+
+  - Support configuration consistency, version control, and
+    secure state management for all platform infrastructure.
+
+  CI/CD & Release Engineering
+
+  - Build and maintain CI/CD pipelines for AI platform services,
+    application workloads, containers, and supporting
+    infrastructure.
+
+  - Support deployment automation using Azure DevOps, GitHub
+    Actions, or equivalent tools, including approvals,
+    artifact management, and tested rollback.
+
+  - Implement validation checks, release controls, and
+    operational readiness gates, including automated model and
+    prompt evaluations, content safety, latency, and cost
+    checks before production release.
+
+  - Bring unmanaged or manually deployed services under
+    governed, automated delivery.
+
+  - Maintain traceability and reproducibility across code,
+    configuration, models, prompts, evaluation results, and
+    deployed versions.
+
+  Developer Enablement & Self-Service
+
+  - Build and maintain reusable Terraform modules, pipeline
+    templates, and standardized provisioning patterns consumed
+    by other engineering teams.
+
+  - Establish golden paths and self-service capabilities that
+    allow AI and application teams to onboard workloads with
+    reduced manual effort and lower operational risk.
+
+  - Promote reusable platform patterns and controlled deployment
+    models across environments.
+
+  - Maintain platform documentation, module usage guidance, and
+    onboarding references for consuming teams.
+
+  Security & Identity Management
+
+  - Implement secure cloud configurations and platform controls
+    for AI services, including private networking, private
+    endpoints, and network security controls.
+
+  - Support identity and access management using managed
+    identities, workload identities, RBAC, and least-privilege
+    practices.
+
+  - Manage secrets, certificates, keys, rotation, and secure
+    configuration using Azure Key Vault or approved tools.
+
+  - Implement and operate privileged access controls, including
+    just-in-time elevation and periodic entitlement review.
+
+  - Remediate identified platform security and hardening
+    findings, and prevent recurrence through platform
+    defaults, policy, and pipeline checks.
+
+  - Partner with Information Security teams to address
+    vulnerabilities, access reviews, and security findings.
+
+  REQUIRED QUALIFICATIONS
+
+  Education
+
+  - Bachelor's degree in Computer Science, Information
+    Technology, Engineering, Data Science, or a related STEM
+    discipline, or equivalent practical experience.
+
+  Experience
+
+  - 8+ years of experience in Cloud Platform Engineering,
+    Infrastructure Engineering, DevOps, Platform Operations,
+    SRE, MLOps, or AI Operations.
+
+  - Hands-on experience supporting Microsoft Azure-based
+    enterprise environments and production workloads.
+
+  - Experience operating AI, Machine Learning, or Generative AI
+    platforms in controlled production environments.
+
+  - Demonstrated experience owning a shared platform,
+    infrastructure module library, or delivery pipelines
+    consumed by other engineering teams — not solely
+    application-level delivery.
+
+  - Experience supporting Kubernetes-based solutions and
+    containerized workloads, preferably Azure Kubernetes
+    Service.
+
+  - Exposure to AI governance, information security, compliance,
+    operational risk, and production support practices.
+
+  REQUIRED SKILLS
+
+  Technical Skills
+
+  - Strong hands-on experience with Microsoft Azure cloud
+    services and production cloud operations.
+
+  - Hands-on experience operating Azure application hosting
+    services — App Service, Azure Functions, and container-
+    based compute.
+
+  - Experience with Azure OpenAI, Azure AI Foundry, Azure
+    Machine Learning, and related Azure AI platform services.
+
+  - Experience with containerized workloads using Docker, and
+    working knowledge of Kubernetes sufficient to operate and
+    build toward a production cluster platform.
+
+  - Strong understanding of cloud networking, private endpoints,
+    DNS, NSGs, load balancing, and secure platform
+    architecture.
+
+  - Experience with Infrastructure as Code, preferably
+    Terraform, including reusable modules, remote state, and
+    automated environment provisioning.
+
+  - Experience with Azure DevOps or GitHub Actions for CI/CD
+    pipeline design, release management, and deployment
+    automation.
+
+  - Automation and scripting proficiency in Python, and at least
+    one of Bash or PowerShell.
+
+  - Strong Linux, identity and access management, secret
+    management, API, and Git skills.
+
+  - Knowledge of monitoring, observability, logging, alerting,
+    incident management, and root cause analysis.
+
+  - Understanding of the AI/ML operational lifecycle, model and
+    service deployment, runtime support, and platform
+    management.
+
+  - Working knowledge of generative AI components including
+    prompt and model versioning, agents, RAG, vector stores,
+    evaluations, groundedness, and content safety controls.
+
+  - Familiarity with AI governance, responsible AI, privacy,
+    security, and compliance best practices.
+
+  Preferred Skills & Experience
+
+  - Hands-on Azure Kubernetes Service operations: cluster build
+    and upgrade, node pools, ingress, autoscaling, network and
+    security policy, and production troubleshooting.
+
+  - Experience operating multi-provider model access across AWS
+    Bedrock and Google Vertex AI alongside Azure OpenAI, and
+    gateway technologies such as LiteLLM.
+
+  - Azure API Management policy authoring, including token
+    validation, rate limiting, and backend protection.
+
+  - Helm or Kustomize; GitOps tooling such as Argo CD or Flux;
+    Prometheus or Azure Managed Grafana.
+
+  - Terraform CDK (CDKTF) in TypeScript, or comparable
+    programmatic infrastructure as code.
+
+  - Microsoft Entra ID governance, including Privileged Identity
+    Management and Conditional Access.
+
+  - Azure AI Search, vector databases, and event-driven or API-
+    driven application architectures.
+
+  - Experience building internal developer platforms or self-
+    service engineering capabilities.
+
+  Tools & Platforms Preferred
+
+  - Azure OpenAI
+  - Azure AI Foundry
+  - Azure Machine Learning
+  - Azure Kubernetes Service
+  - Azure App Service
+  - Azure Functions
+  - Azure Container Apps
+  - Azure API Management
+  - Terraform
+  - Azure DevOps
+  - Docker
+  - Azure Container Registry
+  - Azure Monitor
+  - Application Insights
+  - Log Analytics
+  - Azure Key Vault
+
+  Analytical & Problem-Solving Skills
+
+  - Strong troubleshooting, analytical thinking, and root cause
+    analysis capabilities.
+
+  - Ability to resolve complex production issues across cloud,
+    platform, AI service, and integration layers.
+
+  - Ability to analyze operational metrics, identify trends, and
+    recommend reliability and cost optimization improvements.
+
+  - Strong ownership mindset with the ability to work
+    independently in an individual contributor capacity.
+
+  Communication & Soft Skills
+
+  - Strong written and verbal communication skills with
+    technical and non-technical stakeholders.
+
+  - Ability to collaborate across Data & AI, Enterprise
+    Architecture, Information Security, Governance, Cloud, and
+    business teams.
+
+  - Strong documentation, follow-up, prioritization, and
+    stakeholder engagement skills.
+
+  - Self-driven, accountable, and comfortable supporting
+    production environments and governance-related activities.
+
+  LOCATION & WORK EXPECTATIONS
+
+  - Location: Bangalore. Standard IST working hours.
+
+  - This is a hands-on individual-contributor role reporting to
+    the Team Lead – AI Operations.
+
+  - Occasional after-hours support may be required for critical
+    incidents or planned production activities.
+
+  We Celebrate Who We Are!
+
+  Allegion is committed to building and maintaining a diverse
+  and inclusive workplace.  Together, we embrace all
+  differences and similarities among colleagues, as well as
+  the differences and similarities within the relationships
+  that we foster with customers, suppliers and the communities
+  where we live and work. Whatever your background,
+  experience, race, color, national origin, religion, age,
+  gender, gender identity, disability status, sexual
+  orientation, protected veteran status, or any other
+  characteristic protected by law, we will make sure that you
+  have every opportunity to impress us in your application and
+  the opportunity to give your best at work, not because we’re
+  required to, but because it’s the right thing to do.   We
+  are also committed to providing accommodations for persons
+  with disabilities. If for any reason you cannot apply
+  through our career site and require an accommodation or
+  assistance, please contact our Talent Acquisition Team.
+
+  © Allegion plc, 2023 | Block D, Iveagh Court, Harcourt Road,
+  Dublin 2, Co. Dublin, Ireland
+
+  REGISTERED IN IRELAND WITH LIMITED LIABILITY REGISTERED
+  NUMBER 527370
+
+  Allegion is an equal opportunity and affirmative action
+  employer
+
+  Privacy Policy
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-ai-operations-engineer/11453414"
+source: Built In

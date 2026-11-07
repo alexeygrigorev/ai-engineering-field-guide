@@ -1,0 +1,50 @@
+company:
+  name: Basis
+  stage: null
+  focus: Digital media operations automation software for agencies
+position:
+  title: Staff Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads the architecture and development of an LLM-
+      powered agent platform (Compass), including agent
+      orchestration, tooling, and evaluation infrastructure for
+      agents. This is directly shaping model behaviour and agent
+      flows, with an LLM component, so it is ai-first.
+  responsibilities:
+  - Act as technical lead for the AI Core team, architecting and developing the Compass
+    agentic platform
+  - Build orchestration, tooling, and evaluation infrastructure for LLM-powered agents
+    in ad tech
+  - Expose the Basis platform to internal and customer agents via MCP and A2A
+  - Enable Basis Engineering with patterns and best practices for agentic and AI-assisted
+    development
+  - Own media planning, buying, and operations agent capabilities end to end
+  use_cases:
+  - Agents that plan and execute media planning, buying, and operations for agencies
+    and brands
+  - LLM-powered agents operating reliably in the ad tech domain
+  - Exposing the Basis platform to internal and customer agents via MCP and A2A
+  - Automating digital media operations across direct, programmatic, search, and social
+    media
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11702490'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:38:33.120513'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Cravath, Swaine & Moore LLP
+  stage: null
+  focus: Elite law firm legal services
+position:
+  title: AI/Legal Workflow Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and iterates prompts, prompt libraries, AI
+      workflow templates, and evaluation/QA methods for LLM-
+      powered legal workflows — clearly shaping model behavior and
+      output quality. LLM/agent components are central, making it
+      ai-first.
+  responsibilities:
+  - Design, develop, test, and iterate AI-powered workflows for legal practice groups
+  - Develop and maintain prompts, workflow templates, evaluation methods, and quality
+    assurance standards for AI tools
+  - Translate practice requirements into AI workflow specifications, prompt libraries,
+    and knowledge repositories
+  - Monitor KPIs, quality metrics, and attorney satisfaction to guide optimization
+  - Conduct R&D on LLM advances and legal AI applications to identify workflow enhancement
+    opportunities
+  - Support pilot programs and proof-of-concept initiatives for new AI workflows
+  - Contribute to training and adoption strategies for AI-powered tools
+  - Collaborate with AI platform vendors and internal technology teams on system performance
+    and enhancements
+  use_cases:
+  - AI-enabled legal workflows for law firm practice groups
+  - Prompt libraries and knowledge repositories supporting legal work
+  - Quality assurance and evaluation of AI outputs for attorney use
+  - Pilot programs and proof-of-concepts for new legal AI workflows
+  - Training and adoption of AI tools for attorneys and staff
+  skills:
+    genai: [Prompt Engineering, LLMs, RAG, Generative AI, Context Engineering, LLM
+        Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Outlook]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11574692'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:14:13.623392'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

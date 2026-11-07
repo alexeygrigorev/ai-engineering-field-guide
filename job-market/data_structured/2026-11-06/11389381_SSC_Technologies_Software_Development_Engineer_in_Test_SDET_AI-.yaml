@@ -1,0 +1,64 @@
+company:
+  name: SS&C Technologies
+  stage: null
+  focus: |-
+    Mission-critical technology and services for financial
+    services and healthcare
+position:
+  title: Software Development Engineer in Test (SDET) — AI-Enabled Quality Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core deliverable is quality/test infrastructure —
+      frameworks, CI pipelines, dashboards — for internal scrum
+      teams. AI appears as applied tooling: using AI coding
+      assistants (Claude Code, Copilot) in the engineer's own
+      workflow and rolling out AI-assisted engineering practices
+      so other engineers ship faster, which is ai-support.
+      Building AI-assisted capabilities into the tooling is only
+      nice-to-have and does not indicate the person shapes model
+      behavior via prompts, retrieval, or evals as the core role.
+  responsibilities:
+  - Use AI-assisted tooling (Claude Code, GitHub Copilot) in daily development, debugging,
+    and test authoring, and establish practices for its use across engineering
+  - 'Build AI-assisted capabilities into quality platforms: test-generation scaffolding,
+    automated failure categorization, root-cause summarization, and intelligent alert
+    routing'
+  - Develop, extend, and maintain API-level and UI-level automation frameworks used
+    across multiple scrum teams
+  - Build and maintain CI pipelines (GitHub Actions, Jenkins) running end-to-end integration
+    and regression suites with smarter test selection
+  - Troubleshoot CI failures, flaky tests, and environment issues; unblock product
+    teams
+  - 'Contribute to test-reporting and alerting infrastructure: data pipelines, Grafana
+    dashboards, and PagerDuty/Slack/Teams integrations'
+  - Collaborate with scrum teams to translate testing needs into framework features
+    and AI-assisted workflows
+  - Document framework usage, onboarding guides, and runbooks including guidance on
+    AI-assisted workflows
+  use_cases:
+  - Test-generation scaffolding for product scrum teams
+  - Automated failure categorization (environment vs. code vs. flaky)
+  - Root-cause summarization of CI and test failures
+  - Intelligent alert routing to reduce noise and surface signal
+  - End-to-end quality automation for an investment management platform (Advent Eze)
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: [InfluxDB, ClickHouse]
+    data: []
+    cloud: [AWS, AWS Lambda]
+    ops: [CI/CD, GitHub Actions, Jenkins, GitLab CI, Git, Docker, Grafana, PagerDuty]
+    languages: [JavaScript, TypeScript, Python, pytest, Jest, SQL]
+    domains: []
+    other: [Claude Code, GitHub Copilot, Cursor, Agile, Prompt Engineering, Cypress,
+      Postman]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389381'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:40:46.496792'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Cogniify
+  stage: null
+  focus: AI consulting building GenAI applications on Google Cloud
+position:
+  title: Google Cloud AI Engineer - USA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: builds AI agents
+      with multi-agent workflows, designs RAG/grounding workflows,
+      and trains/evaluates models on Vertex AI. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Build and deploy AI agents using Vertex AI Agent Builder and Google ADK, including
+    multi-agent workflows
+  - Connect AI applications to BigQuery and enterprise databases via secure APIs and
+    tools, including MCP
+  - Develop RAG and grounding workflows so agents answer questions using relevant
+    business data
+  - Write Python services and BigQuery SQL for data preparation, feature engineering
+    and AI applications
+  - Train, evaluate and deploy models on Vertex AI, including serving through Vertex
+    AI endpoints
+  - Use Google Cloud Storage, Dataflow or Apache Beam for data pipelines and real-time
+    inference
+  - Test AI output quality, troubleshoot production issues and protect sensitive data
+    including PII
+  - Work with stakeholders to understand requirements and explain technical decisions
+  use_cases:
+  - AI agents that answer questions using enterprise business data
+  - RAG and grounding workflows over BigQuery and enterprise databases
+  - Secure integration of AI applications with enterprise data including PII protection
+  - Model training, evaluation and serving on Google Cloud for production AI applications
+  - Streaming data pipelines supporting real-time inference
+  skills:
+    genai: [Generative AI, AI Agents, Agentic Workflows, RAG, MCP, Google ADK, Vertex
+        AI Agent Builder]
+    ml: [Machine Learning, Model Training, Model Evaluation, Feature Engineering]
+    web: []
+    databases: [BigQuery, SQL, Vector Databases, Spanner, AlloyDB]
+    data: [Dataflow, Apache Beam, Data Pipelines]
+    cloud: [Vertex AI, GCP, Google Cloud Storage]
+    ops: [Model Deployment, Real-Time Inference]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11367228'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:36:32.619063'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

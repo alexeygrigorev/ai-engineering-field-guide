@@ -1,0 +1,57 @@
+company:
+  name: Jetbro
+  stage: null
+  focus: AI-powered Source-to-Pay procurement platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly leads LLM, RAG and agentic AI workflow
+      development, including prompt design and function calling —
+      clearly shaping model behaviour — alongside classical ML
+      models. A role that shapes both LLM and classical ML systems
+      is ai-first.
+  responsibilities:
+  - Own end-to-end architecture and delivery of production-grade AI/ML solutions for
+    procurement and spend-management workflows
+  - Design, develop and optimise models for supplier scoring, classification, anomaly
+    detection, forecasting, recommendations and document intelligence
+  - Build data-preparation and feature-engineering pipelines for structured, semi-structured
+    and document-based data
+  - Lead use of LLMs, RAG and agentic AI workflows where suitable
+  - Design document-intelligence workflows with OCR, extraction, classification, validation
+    and human-in-the-loop review
+  - Establish model evaluation, experiment-tracking, versioning and monitoring practices;
+    deploy and maintain inference services
+  - Integrate AI capabilities into product APIs and workflows with backend and platform
+    engineers
+  - Mentor junior engineers, review code and designs, and set technical direction
+  use_cases:
+  - Supplier scoring and classification in industrial procurement
+  - Spend analytics and spend visibility
+  - Anomaly detection in procurement data
+  - Forecasting and recommendations
+  - Document intelligence with OCR and information extraction
+  - Agentic AI workflows for procurement decision support
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Function Calling, Agentic Workflows, LangChain,
+      LlamaIndex]
+    ml: [scikit-learn, XGBoost, LightGBM, Model Training, Model Evaluation, Anomaly
+        Detection, Feature Engineering, PyTorch, TensorFlow, Keras]
+    web: [APIs]
+    databases: []
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Git, Model Deployment, Model Monitoring]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [OCR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11810282'
+  location: Ahmadābād, IND
+  extracted_at: '2026-11-06T13:16:55.982100'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

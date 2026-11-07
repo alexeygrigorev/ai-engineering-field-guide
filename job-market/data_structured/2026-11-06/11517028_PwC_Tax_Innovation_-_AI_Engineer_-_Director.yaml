@@ -1,0 +1,58 @@
+company:
+  name: PwC
+  stage: null
+  focus: 'Professional services: tax and audit consulting'
+position:
+  title: Tax Innovation - AI Engineer - Director
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements ML/DL/NLP models, tunes
+      models, and integrates AI systems, so it shapes model
+      behavior. NLP and text analytics use cases imply language
+      models, and no purely classical restriction is stated;
+      designing and tuning models plus NLP/text workflows fits ai-
+      first.
+  responsibilities:
+  - Set strategic direction for AI engineering solutions supporting tax innovation
+    initiatives
+  - Lead client-facing AI engagements from concept through deployment
+  - Design and implement machine learning, deep learning, and NLP models for tax and
+    data use cases
+  - Oversee data wrangling, feature development, model tuning, and integration of
+    AI systems into software platforms
+  - Develop Python-based engineering solutions for text analytics, text extraction,
+    and sentiment analysis
+  - Advise clients on AI implementation approaches balancing feasibility, scalability,
+    and business value
+  - Build executive relationships and identify new AI-driven service opportunities
+  - Mentor teams and shape technical direction across multiple initiatives
+  use_cases:
+  - Tax-focused data-driven decision making
+  - Text analytics and text extraction for tax documents
+  - Sentiment analysis workflows
+  - Tax automation and AI-enabled tax consulting services
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Model Training, Feature Engineering]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11517028'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Chicago, USA
+  - New York, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T12:03:46.384292'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

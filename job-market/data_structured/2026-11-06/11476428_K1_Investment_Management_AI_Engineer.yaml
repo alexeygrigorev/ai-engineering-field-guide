@@ -1,0 +1,47 @@
+company:
+  name: K1 Investment Management
+  stage: null
+  focus: Private equity investing in AI-powered software companies
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes AI tools and agents, does prompt
+      engineering with Claude, and builds agentic workflows —
+      directly shaping LLM/agent behavior. This is clearly ai-
+      first.
+  responsibilities:
+  - Design, build, and deploy AI-powered automations using Claude and Microsoft 365
+    tools to eliminate manual processes
+  - Rapidly prototype AI tools and agents such as competitive intelligence scrapers
+    and board-report generators
+  - Evaluate emerging AI models, tools, and frameworks and synthesize actionable recommendations
+    for the investment team
+  - Build internal dashboards, data pipelines, and agentic workflows for investment
+    professionals
+  use_cases:
+  - Competitive intelligence scraping
+  - Board report generation
+  - Automating manual processes for PE firm and portfolio companies
+  - Internal dashboards and tools for investment professionals
+  skills:
+    languages: [Python, JavaScript]
+    domains: []
+    web: []
+    cloud: []
+    data: [Data Pipelines]
+    ml: []
+    databases: []
+    genai: [Anthropic API, Prompt Engineering, AI Agents, Agentic Workflows]
+    ops: [Power Automate, Copilot Studio]
+    other: [Microsoft 365, Microsoft Copilot, SharePoint, Microsoft Excel, PowerPoint,
+      Microsoft Teams]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11476428'
+  location: Manhattan Beach, USA
+  extracted_at: '2026-11-06T11:56:46.295662'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

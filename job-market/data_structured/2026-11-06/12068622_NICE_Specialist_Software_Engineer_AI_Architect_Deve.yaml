@@ -1,0 +1,58 @@
+company:
+  name: NICE
+  stage: null
+  focus: Customer experience software and financial crime prevention
+position:
+  title: Specialist Software Engineer ( AI Architect , Developement )
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI solutions, RAG
+      pipelines, prompts, structured outputs, and LLM evaluation
+      practices hands-on — squarely shaping LLM behavior and
+      output quality. No classical-ML-only component; it is
+      LLM/agent-centric.
+  responsibilities:
+  - Own the technical architecture and tech stack of the SPARK internal AI incubation
+    team
+  - Design and build agentic AI solutions with tool use, multi-step reasoning, memory,
+    and human-in-the-loop controls
+  - Build RAG pipelines and integrations with enterprise systems using APIs and MCP
+  - 'Harden prototypes to enterprise grade: security, reliability, scalability, observability,
+    and cost optimization'
+  - 'Establish LLM evaluation practices: test sets, regression tests, hallucination
+    checks, and quality dashboards'
+  - Advise business and technology leaders on feasibility, trade-offs, effort, and
+    risk
+  - Mentor the Technical AI Architect & Builder and raise the engineering bar across
+    the team
+  - Ensure designs incorporate ethics, risk, and compliance guidelines with Security,
+    Legal, and Architecture teams
+  use_cases:
+  - Internal incubation turning business ideas into AI solutions and enterprise tools
+  - Agentic AI with tool use, memory, and human-in-the-loop controls
+  - RAG over enterprise systems like Salesforce, ServiceNow, and Microsoft 365
+  - Enterprise-grade AI tools with evaluation, monitoring, and responsible AI controls
+  - Customer experience (CX) automation for global colleagues
+  skills:
+    genai: [LangGraph, LangChain, AutoGen, MCP, RAG, Anthropic API, OpenAI API, Azure
+        OpenAI, Gemini, LLMs, Prompt Engineering, Structured Outputs, LLM Evaluation,
+      Agentic Workflows, Fine-Tuning, Conversational AI]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [LLMOps, OpenTelemetry, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Event-Driven Architecture, Microservices, Responsible AI, Salesforce,
+      ServiceNow, Cognigy, n8n, Microsoft 365, Workday]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12068622'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:48:22.999293'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

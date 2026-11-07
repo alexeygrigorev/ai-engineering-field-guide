@@ -1,0 +1,58 @@
+company:
+  name: Rapid7
+  stage: null
+  focus: |-
+    Cybersecurity: AI-powered threat detection and response
+    platform
+position:
+  title: Distinguished AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role sets technical vision and strategy for LLM and
+      agentic AI systems, covering training, post-training,
+      evaluation, and inference optimization — directly shaping
+      model behavior and output quality. LLMs and AI agents are
+      central, making it ai-first.
+  responsibilities:
+  - Define the AI technology vision, architecture strategy and multi-year roadmap
+    across Detection and Response, Exposure and Remediation, and the wider platform
+  - Shape company-wide investment and model strategy, including build/buy/partner
+    decisions and which frontier, open-source and in-house models to invest in
+  - Sponsor and guide the highest-risk, highest-impact AI initiatives, stepping into
+    the hardest technical problems to unblock them
+  - Establish engineering, evaluation and responsible-AI standards governing how AI
+    systems are built, evaluated and released
+  - Partner with executive leadership to align AI strategy with business strategy
+    and customer needs
+  - Mentor and develop Senior Principal, Principal and Staff engineers to build AI
+    engineering leadership
+  - Represent Rapid7 as a recognized industry voice in AI and security with customers,
+    partners and researchers
+  use_cases:
+  - Alert triage for security detection and response
+  - Automated threat investigation and response
+  - Vulnerability prioritization and guided remediation
+  - Attack surface risk assessment
+  - AI-powered cybersecurity defense platform
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Fine-Tuning, LLM Evaluation, Responsible
+        AI]
+    ml: [Machine Learning, Model Training, Model Evaluation, Transformers]
+    web: []
+    databases: []
+    data: [Data Platforms]
+    cloud: [AWS]
+    ops: [Inference Optimization, Distributed Systems]
+    languages: []
+    domains: []
+    other: [Cybersecurity]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11983193'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:17:26.073379'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Gradientflo Labs
+  stage: null
+  focus: AI-powered adaptive learning platform for developers
+position:
+  title: AI Engineer (Founding Engineer – AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements multi-agent orchestration,
+      RAG pipelines, evals, and guardrails for LLM agents
+      (TutorAgent etc.), directly shaping model behavior and
+      output quality. LLM/agent components dominate.
+  responsibilities:
+  - Implement multi-agent orchestration (TutorAgent, PlannerAgent, ScreenPerceptionAgent,
+    CodeAgent) using Google ADK
+  - Integrate Gemini Pro, Gemini Vision, and Gemini Live API for multimodal reasoning
+  - Design agent-to-agent communication via Google Pub/Sub
+  - Build context and memory systems in Redis, Firestore, and Neo4j
+  - Build evaluation pipelines in LangSmith/Langfuse and implement guardrails against
+    unsafe generations and prompt injection
+  - Integrate RAG pipelines with GitHub docs, StackOverflow, and MDN
+  - Benchmark and optimize model selection via hybrid model routers
+  - Collaborate with prompt, backend, and frontend engineers on artifact generation
+    and adaptive learning loops
+  use_cases:
+  - Adaptive AI tutoring for developers
+  - Multimodal learning assistance (text, vision, voice)
+  - Automated curriculum planning and quiz generation
+  - Contextual developer support via RAG over GitHub docs, StackOverflow, and MDN
+  - Adaptive learning loops based on learner progress and quiz outcomes
+  - Runnable code snippet and mini-app generation
+  skills:
+    genai: [Google ADK, Gemini, Multi-Agent Systems, Agentic Workflows, RAG, Prompt
+        Engineering, LangChain, CrewAI, LLM Evaluation, Guardrails]
+    ml: [Fine-Tuning, RLHF, NLP, LLMs, Anthropic API]
+    web: []
+    databases: [Neo4j, Knowledge Graphs, Redis, Firestore, Vector Databases]
+    data: [Kafka, Pub/Sub]
+    cloud: [GCP, Cloud Run, API Gateway]
+    ops: [LangSmith, Langfuse, CI/CD, GitHub Actions]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11906859'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:56:28.710853'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

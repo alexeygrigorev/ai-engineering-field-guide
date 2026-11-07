@@ -1,0 +1,139 @@
+job_id: 11948900
+title: Staff AI Engineer, Agentic Automation
+company: Cerby
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Cerby
+
+  At Cerby, security is everyone's business.
+
+  Cerby extends your security perimeter to include your
+  disconnected applications, providing identity automation and
+  eliminating manual processes. It's one of the biggest blind
+  spots in enterprise security, and we're the team closing it.
+  If you want to work alongside the team solving one of the
+  hardest, most overlooked problems in security, you're in the
+  right place. Founded in 2020, Cerby is backed by leading
+  investors and trusted by enterprises across the globe.
+
+  OVERVIEW & IMPACT
+
+  Every application Cerby protects needs Cerby to know how it
+  works — its API, or the clicks behind its login, password
+  rotation, MFA setup, or access change — and that knowledge
+  breaks whenever a vendor redesigns its site or changes its
+  API. We are looking for a Staff AI Engineer to own the AI
+  agents that onboard new applications and repair automations
+  when they drift. You will start with two agent systems we
+  have already built and benchmarked:
+
+  API catalog generation: reads a vendor’s public API docs in
+  a headless browser and produces a validated OpenAPI spec,
+  with per-job cost ceilings and an accuracy benchmark.
+
+  Browser workflow generation: performs a task in a SaaS app’s
+  web UI and writes a replayable automation workflow, handling
+  MFA, one-time codes, and CAPTCHAs along the way.
+
+  Your job is to take them to production, make them self-
+  healing, and set the direction for agentic automation at
+  Cerby. These agents handle real customer credentials and
+  browse untrusted sites, so security is part of the job, not
+  an afterthought.
+
+  KEY RESPONSIBILITIES
+
+  Ownership and Production
+
+  - Own agentic onboarding and self-healing end to end:
+    architecture, roadmap, and on-call once live.
+  - Take the existing systems to production on durable workflows
+    (Temporal), with the observability to run them.
+
+  Self-Healing Automation
+
+  - Detect drift — a changed login page, a moved button, a
+    renamed API field — from failed runs, before customers
+    notice.
+  - Build agents that diagnose the break, repair the workflow or
+    spec, and re-validate the fix against real runs before it
+    goes back into service.
+  - Decide what heals automatically and what needs human review.
+
+  Evaluation and Cost
+
+  - Own the benchmarks for generated specs, workflows, and
+    repairs, and make “good enough to ship” a measured
+    threshold.
+  - Own cost and latency per output, choosing between frontier
+    and open-weight models on measured accuracy versus cost.
+
+  Security
+
+  - Own the threat model: prompt injection from page content,
+    credential isolation, token handling, sandboxed browsing,
+    and egress.
+  - Keep credentials out of prompts, logs, queues, and stored
+    run state.
+
+  Collaboration
+
+  - Partner with the integrations, automation-runtime, and
+    platform teams; write the design docs they build on, and
+    mentor contributors.
+
+  QUALIFICATIONS & REQUIRED SKILLSExperience
+
+  - You have shipped an LLM agent with tool use that ran
+    unattended for real users, and owned a backend system in
+    production.
+
+  Technical Skills
+
+  - Strong in Python or TypeScript, and productive in both.
+  - LLM agents and tool use: agent loops, structured outputs,
+    retries, and the failure modes they create.
+  - Eval discipline: you have built benchmarks or eval harnesses
+    and used them to make decisions.
+  - Depth in browser automation (Playwright or similar) or
+    backend and API-integration systems, and comfort in the
+    other.
+  - Distributed systems: queues, idempotency, and durable
+    workflow engines (Temporal, Step Functions, or similar).
+  - Security judgment for systems that handle secrets, including
+    agent-specific threats such as prompt injection.
+
+  Desirable
+
+  - Temporal in production; Pydantic AI or a comparable agent
+    framework.
+  - Open-weight model serving (Fireworks, Together, Bedrock) and
+    LLM cost modeling.
+  - Computer-use agents or browser extensions (Chrome MV3);
+    OpenAPI tooling.
+  - Identity, IAM, or credential-management experience; AWS and
+    Terraform.
+
+  Soft Skills
+
+  - Clear technical writing and trade-offs other teams can
+    depend on.
+  - You take an early system to production without waiting to be
+    told how, and care that it keeps working after launch.
+
+  WHAT SUCCESS LOOKS LIKE
+
+  - 6 months: both systems run in production for real workloads,
+    with improving error rates and cost per output, and drift
+    is detected automatically.
+  - 12 months: onboarding a new application is predominantly
+    automated, and most drift-driven breakages heal without a
+    human.
+industries:
+  - Information Technology
+  - Cybersecurity
+posted_date: 2026-10-29
+url: "https://www.builtinla.com/job/staff-ai-engineer-agentic-automation/11948900"
+source: Built In

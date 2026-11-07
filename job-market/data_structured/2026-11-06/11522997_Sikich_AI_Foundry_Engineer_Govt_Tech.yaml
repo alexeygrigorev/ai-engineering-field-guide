@@ -1,0 +1,51 @@
+company:
+  name: Sikich
+  stage: null
+  focus: |-
+    Professional services: consulting, technology, and
+    compliance
+position:
+  title: AI Foundry Engineer (Gov't Tech)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The core work is translating business requirements into
+      prompts that direct AI foundry platforms to generate full-
+      stack and agent-based systems, plus evaluating AI/LLM output
+      for accuracy, bias, and reliability. This is shaping LLM
+      behavior through prompt engineering and output-quality
+      evaluation, so it is ai-first.
+  responsibilities:
+  - Translate business requirements and problem statements into prompts that direct
+    AI foundry platforms to generate full-stack, AI, and agent-based systems
+  - Assess generated system code to identify design gaps, inefficiencies, and coding
+    style issues
+  - Implement fixes in the design and generated code as necessary
+  - Test, verify, and deploy end-to-end systems and applications
+  - Evaluate accuracy, bias, and reliability of AI tools and systems
+  use_cases:
+  - AI-driven generation of full-stack government applications
+  - Agent-based systems generated from business requirements via AI foundry platforms
+  - Automated code generation and remediation for government clients
+  - Evaluation of AI and LLM accuracy, bias, and reliability
+  skills:
+    genai: [Prompt Engineering, Generative AI, AI Agents, Agentic Workflows, LLMs,
+      Gemini, ChatGPT, GitHub Copilot, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [Angular, React, Node.js]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Oracle Cloud]
+    ops: [Test Automation]
+    languages: [Python, Rust, JSON]
+    domains: []
+    other: [Design Patterns, Distributed Systems, Braintrust, Galileo]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11522997'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:04:39.887137'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

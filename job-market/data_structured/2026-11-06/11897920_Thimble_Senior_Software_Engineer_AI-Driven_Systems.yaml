@@ -1,0 +1,43 @@
+company:
+  name: Thimble
+  stage: null
+  focus: Digital-first small business insurance distribution
+position:
+  title: Senior Software Engineer, AI-Driven Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a backend engineer on Node.js/TypeScript
+      microservices who uses AI agents and AI-native tooling as
+      build partners. Nothing indicates the person shapes model
+      behaviour through prompts, retrieval, or agent design — AI
+      is a tool they use, which is ai-support.
+  responsibilities:
+  - Write, review, and ship production backend code daily
+  - Help lead the next generation of Thimble's platform
+  - Shape technical strategy and set engineering patterns for the team
+  - Evolve the backend toward durable, explicitly orchestrated workflows
+  - Use AI agents as the primary build partner in daily development
+  use_cases:
+  - Small business insurance policy platform
+  - AI-native insurance distribution via MCP and API channels
+  skills:
+    genai: [AI Agents, MCP]
+    ml: []
+    web: [Microservices, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11897920'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:52:38.625713'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

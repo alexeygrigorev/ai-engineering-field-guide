@@ -1,0 +1,54 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior AI Engineer - Wholesale Credit Risk Analytics -  Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads hands-on design and development of an agentic
+      AI platform, including RAG, orchestration, tool integration,
+      and prompt engineering - directly shaping LLM behavior.
+      LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Collaborate with quantitative model developers, Model Risk Management, and business
+    leaders to shape technical vision and product roadmap
+  - Identify, scope, and prioritize use cases for the agentic workflow platform
+  - Lead architectural design of a scalable agentic AI platform including orchestration,
+    knowledge retrieval (RAG), and tool integration
+  - Engage in hands-on software development of foundational components and proofs-of-concept
+  - Design and implement secure integrations with internal data sources, external
+    APIs, and various LLMs
+  - Establish CI/CD, testing, logging, and monitoring frameworks
+  - Lead, mentor, and manage a team of software engineers, overseeing delivery of
+    platform milestones
+  use_cases:
+  - Agentic AI platform for end-to-end credit risk model development lifecycle
+  - Ad hoc data analysis and documentation automation via AI agents
+  - Workflow orchestration for quantitative modelers
+  - Knowledge retrieval over internal data sources for model governance
+  - Augmenting productivity of quantitative risk model developers
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, LLMs, Agentic Workflows, AI Agents,
+      Generative AI]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Event-Driven Architecture, System Design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '12048534'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Jersey City, USA
+  extracted_at: '2026-11-06T14:39:41.854620'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

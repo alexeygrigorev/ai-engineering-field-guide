@@ -1,0 +1,56 @@
+company:
+  name: Voya Financial
+  stage: null
+  focus: Financial services and retirement solutions
+position:
+  title: Senior AI Engineer – Applied AI & Data Science
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG architectures, semantic
+      search, vector retrieval, AI agents, prompt engineering, and
+      LLM evaluation on the Snowflake platform — clearly shaping
+      LLM behavior, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy production-grade AI applications using Snowflake Cortex
+    AI, Cortex Search, Cortex Agents, Snowpark Python, and Snowflake ML
+  - Build enterprise copilots, conversational AI assistants, intelligent search, recommendations,
+    and AI-powered business workflows
+  - Design and implement enterprise RAG architectures with semantic search and vector
+    retrieval pipelines
+  - Design and build AI agents with multi-step workflows, agent orchestration, and
+    human-in-the-loop approval mechanisms
+  - Develop evaluation frameworks for prompts, retrieval, and model performance, including
+    guardrails and responsible AI practices
+  - Explore structured and unstructured enterprise datasets to assess AI readiness
+    and identify AI opportunities
+  - Develop scalable applications with Python, SQL, REST APIs, CI/CD, and automated
+    testing
+  - Partner with business stakeholders to prototype AI solutions and define enterprise
+    AI architecture standards
+  use_cases:
+  - Enterprise copilots and conversational AI assistants
+  - Intelligent search and semantic knowledge retrieval
+  - AI-powered business workflow automation
+  - Recommendation systems
+  - Agentic AI reasoning across enterprise knowledge and business systems
+  skills:
+    genai: [RAG, Semantic Search, Embeddings, AI Agents, Agentic Workflows, Prompt
+        Engineering, LLM Evaluation, LLMs, Guardrails, Conversational AI]
+    ml: [Snowflake ML, Machine Learning]
+    web: [REST APIs]
+    databases: [Vector Search]
+    data: [Snowpark]
+    cloud: [Snowflake Cortex AI, Snowflake]
+    ops: [Monitoring, Git, CI/CD, Automated Testing]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11621646'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:23:25.728710'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,42 @@
+company:
+  name: EXL
+  stage: null
+  focus: Data analytics and digital operations services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      Role builds and deploys classical ML models on Databricks
+      with no LLM, prompt, or agent components mentioned. Model
+      development, feature engineering, and MLOps count as
+      shaping, but only classical ML is described, so ml-first.
+  responsibilities:
+  - Build and deploy ML/AI models
+  - Work on Databricks with Spark, Delta Lake, and MLflow
+  - Perform data analysis and feature engineering
+  - Develop end-to-end pipelines from ETL to model deployment
+  - Implement MLOps and model monitoring
+  use_cases:
+  - Scalable ML/AI solutions on enterprise data
+  - End-to-end ML pipelines from data ingestion to deployment
+  - Data analysis and predictive modeling
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: []
+    data: [Databricks, Spark, Delta Lake, Data Pipelines, PySpark]
+    ml: [Feature Engineering, Model Deployment]
+    databases: []
+    genai: []
+    ops: [MLflow, MLOps, Model Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12092815'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:56:12.721722'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

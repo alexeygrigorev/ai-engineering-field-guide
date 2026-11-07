@@ -1,0 +1,50 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services with AI integration and cloud solutions
+position:
+  title: AI Engineer / Technical Consultant – AI Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt engineering strategies, implements
+      MCP, and builds RAG systems and agentic AI applications with
+      Azure OpenAI, directly shaping LLM behavior and retrieval.
+      This is clearly ai-first.
+  responsibilities:
+  - Architect and develop enterprise-grade AI solutions using Python, Azure Functions,
+    Logic Apps, and Event Grid to automate workflows
+  - Design and refine prompt engineering strategies and oversee MCP implementation
+  - Develop RAG systems and agentic AI applications using Azure OpenAI
+  - Establish DevOps pipelines with GitHub Actions and Azure DevOps for CI/CD
+  - Implement security frameworks including RBAC, Entra ID, and Key Vault
+  - Engineer scalable data solutions using Azure Databricks, SQL, ADF, and ADLS
+  - Build and manage secure REST APIs through API Management for cloud-native integration
+  - Define and govern enterprise architecture standards and enforce Responsible AI
+    guidelines
+  use_cases:
+  - Automating complex enterprise workflows with AI
+  - Context-aware intelligent user experiences via RAG and agentic AI
+  - Cloud-native enterprise system integration via secure REST APIs
+  - Scalable enterprise data processing and modeling
+  - Secure AI deployment with responsible AI monitoring
+  skills:
+    genai: [Prompt Engineering, MCP, RAG, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Databricks, Azure Data Factory, Data Modeling]
+    cloud: [Azure Functions, Azure, IAM, Key Vault, Azure OpenAI, API Management,
+      Event Grid, Logic Apps]
+    ops: [CI/CD, GitHub Actions, Azure DevOps, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12067032'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:46:31.868792'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

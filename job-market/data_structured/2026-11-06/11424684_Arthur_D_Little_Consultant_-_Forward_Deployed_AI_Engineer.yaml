@@ -1,0 +1,55 @@
+company:
+  name: Arthur D. Little
+  stage: null
+  focus: Management consulting with digital and AI practice
+position:
+  title: Consultant - Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys GenAI solutions
+      including AI agents, RAG, and model evaluation, directly
+      shaping LLM-based system behavior at client sites. Forward
+      Deployed Engineers adapting AI solutions are ai-first, and
+      the role is customer-facing.
+  responsibilities:
+  - Work directly with clients to translate business problems into technical solutions
+  - Rapidly prototype AI and machine learning applications to test feasibility and
+    business value
+  - Take successful prototypes into production with sound software engineering practices
+  - Design, build, test, and deploy solutions using generative AI, AI agents, RAG,
+    and machine learning
+  - Integrate AI solutions with enterprise data, applications, workflows, and technology
+    environments
+  - Evaluate models, architectures, and technologies based on performance, cost, and
+    business requirements
+  - Collaborate with ADL colleagues, client technical teams, and external technology
+    partners
+  - Communicate technical approaches and results to technical and business audiences
+  use_cases:
+  - Client-facing AI solution prototyping and production deployment
+  - Enterprise generative AI applications with agents and retrieval-augmented generation
+  - AI integration with enterprise data, workflows, and legacy systems
+  - Model evaluation and technology selection for business impact
+  skills:
+    genai: [Generative AI, AI Agents, RAG, LLMs, LLM Evaluation, LangChain]
+    ml: [Machine Learning, PyTorch, Hugging Face]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11424684'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Boston, USA
+  extracted_at: '2026-11-06T11:48:49.325048'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

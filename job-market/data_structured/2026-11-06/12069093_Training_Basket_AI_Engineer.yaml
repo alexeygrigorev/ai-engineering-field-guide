@@ -1,0 +1,46 @@
+company:
+  name: Training Basket
+  stage: null
+  focus: IT training and technology services company
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes LLMs, builds RAG systems, and uses
+      prompt engineering, all of which directly shape LLM behavior
+      and output quality, making it ai-first despite also covering
+      classical ML and computer vision work.
+  responsibilities:
+  - Develop, train, and optimize Machine Learning and Deep Learning models
+  - Design AI solutions using NLP, Computer Vision, and Generative AI
+  - Build and maintain data pipelines for model training and inference
+  - Fine-tune and deploy LLMs for business use cases
+  - Develop and integrate AI APIs and microservices into applications
+  - Create and manage RAG systems
+  - Monitor model performance and improve accuracy
+  - Document AI workflows, model architectures, and deployment processes
+  use_cases:
+  - Business use cases powered by fine-tuned LLMs
+  - RAG-based retrieval and generation systems
+  - NLP and Computer Vision AI solutions
+  - Model performance monitoring and accuracy improvement
+  skills:
+    genai: [Generative AI, Fine-Tuning, LLMs, RAG, Prompt Engineering]
+    ml: [Machine Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn]
+    web: [REST APIs]
+    databases: [SQL]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12069093'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:49:02.890710'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Marketscope
+  stage: null
+  focus: Intelligent AI/ML application development
+position:
+  title: AI/ML Developer (ID 1445)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behaviour through prompt engineering,
+      RAG system design, and agent frameworks (LangGraph, CrewAI),
+      alongside model training/evaluation. LLM components are
+      central, so ai-first applies despite ML fundamentals also
+      being present.
+  responsibilities:
+  - Develop and deploy intelligent applications using machine learning and generative
+    AI, including LLMs
+  - Build and integrate APIs in Python (FastAPI/Flask) to embed AI capabilities into
+    products
+  - 'Apply ML fundamentals: model training, inference, feature engineering, and evaluation'
+  - Work with LLM APIs (OpenAI, Azure OpenAI, Claude, Gemini) for AI-powered applications
+  - Implement prompt engineering and build RAG systems using LangChain, LlamaIndex,
+    LangGraph, and CrewAI
+  - Process structured and unstructured data with Pandas and NumPy; work with embeddings
+    and vector search
+  - Integrate SQL and vector databases (Pinecone, FAISS, Weaviate, Chroma)
+  - Support deployment on cloud platforms (AWS, Azure, GCP) with Docker
+  use_cases:
+  - AI-powered applications incorporating LLM capabilities
+  - RAG-based retrieval and question answering
+  - Agentic LLM workflows using LangGraph and CrewAI
+  - Semantic search over structured and unstructured data
+  - ML model training and evaluation for real-world products
+  skills:
+    genai: [Generative AI, LLMs, OpenAI API, Anthropic API, Gemini, Prompt Engineering,
+      RAG, LangChain, LlamaIndex, LangGraph, CrewAI, Embeddings]
+    ml: [Machine Learning, Model Training, Feature Engineering, Model Evaluation]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Search, Pinecone, FAISS, Weaviate, Chroma]
+    data: [Pandas, NumPy]
+    cloud: [Azure OpenAI, AWS, Azure, GCP]
+    ops: [Docker, Git]
+    languages: [Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: [Jupyter Notebook]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11805481'
+  location: Noida, IND
+  extracted_at: '2026-11-06T13:15:17.153220'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

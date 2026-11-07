@@ -1,0 +1,54 @@
+company:
+  name: STN Inc
+  stage: null
+  focus: Autonomous data center operations via AI agents
+position:
+  title: Software Engineer, Data Platform Lead (Horizon AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data foundations (fleet knowledge model,
+      decision-capture pipeline, telemetry access layer) that
+      other teams' agents reason over. There is no prompt
+      engineering, RAG design, model training, or eval work — the
+      deliverable is data modeling and pipelines feeding an AI
+      platform, which is ai-support under the dataset/pipeline
+      rule.
+  responsibilities:
+  - Design and build the fleet knowledge model covering assets, topology, configuration,
+    and current state, queryable by agents in a single call
+  - Build the decision-capture pipeline and instrument operator workflows to accumulate
+    labelled human decisions
+  - Own the data access layer that abstracts telemetry sources from external systems
+  - Negotiate telemetry requirements (signals, granularity, retention, raw event access)
+    with owning teams
+  - Own the scale path including vector index behaviour and analytics separation for
+    a growing schema
+  - Model physical infrastructure domains (nodes, GPUs, fabric, schedulers, power)
+    as queryable data
+  use_cases:
+  - Autonomous GPU fleet/data center operations
+  - Agent decision-making over unified fleet state
+  - Capturing human operator decisions as evidence for granting agents wider autonomy
+  - Telemetry ingestion and historical learning from fleet events
+  - Infrastructure monitoring and recommendation systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [PostgreSQL, Vector Search, Vector Databases]
+    data: [Data Pipelines, Data Modeling]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [DCIM, DCGM, Slurm, Entity Resolution]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11796424'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:14:02.776572'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

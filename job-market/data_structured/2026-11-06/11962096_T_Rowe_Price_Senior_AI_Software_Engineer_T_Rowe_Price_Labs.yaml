@@ -1,0 +1,53 @@
+company:
+  name: T. Rowe Price
+  stage: null
+  focus: Global asset management and investment solutions
+position:
+  title: Senior AI Software Engineer — T. Rowe Price Labs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships production AI agents, including
+      agent orchestration, tool/function calling, retrieval,
+      prompt/context engineering, structured outputs, and
+      evaluation of non-deterministic LLM systems. This directly
+      shapes LLM behavior and output quality, making it ai-first.
+  responsibilities:
+  - Own end-to-end design and delivery of production-grade AI agents and intelligent
+    systems, from architecture to production support
+  - Design agentic workflows using orchestration, tool integration, retrieval, structured
+    outputs, and human-in-the-loop patterns
+  - Establish evaluation and testing approaches for non-deterministic AI systems,
+    including quality metrics and monitoring
+  - Lead technical workstreams from rapid experimentation through production adoption
+  - Make engineering trade-offs across models, prompts, context, tools, latency, cost,
+    and reliability
+  - Partner with product owners and business stakeholders to translate needs into
+    scalable AI solutions
+  - Lead code and design reviews and mentor less-experienced engineers
+  - Support the Build-Operate-Transfer model to hand off AI solutions to business-aligned
+    technology teams
+  use_cases:
+  - Production AI agents solving complex asset management business problems
+  - Intelligent workflow automation with tool integration and retrieval
+  - Firm-wide AI product incubation and experimentation within T. Rowe Price Labs
+  skills:
+    genai: [LLMs, Agentic Workflows, Function Calling, RAG, Prompt Engineering, Context
+        Engineering, Structured Outputs, LLM Evaluation, Guardrails]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Docker]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [Cloud-Native Architectures]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11962096'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:12:06.198675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

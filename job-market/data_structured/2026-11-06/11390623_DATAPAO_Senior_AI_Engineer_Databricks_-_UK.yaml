@@ -1,0 +1,50 @@
+company:
+  name: DATAPAO
+  stage: backed by Databricks
+  focus: Databricks data engineering and AI consulting
+position:
+  title: Senior AI Engineer (Databricks) - UK
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements LLM-based Generative AI applications
+      (LangGraph, agentic frameworks) and designs AI solution
+      architectures for clients, directly shaping model behavior
+      and delivery. LLM involvement makes it ai-first.
+  responsibilities:
+  - Lead technical scoping, high-level architecture design, and roadmap definition
+    for AI and Generative AI solutions
+  - Own technical delivery of AI projects, working solo or as Delivery Technical Lead
+    for a small team
+  - Serve as the primary technical contact for customers, ensuring solutions solve
+    their business challenges
+  - Act as senior technical advisor for EMEA customers and Databricks partners on
+    Generative AI and ML challenges
+  - Build robust, production-grade AI solution architectures on the Databricks platform
+  - Lead technical workshops to enable client teams to manage and scale deployed AI
+    platforms
+  use_cases:
+  - Production tailored AI applications on Databricks for enterprise clients
+  - End-to-end automated ML solutions in enterprise cloud environments
+  - Production-ready Generative AI applications
+  - Data platform modernization and governance (Unity Catalog)
+  skills:
+    genai: [LLMs, LangGraph, Agentic Workflows, Generative AI]
+    ml: [Machine Learning, Pandas, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Databricks, PySpark, Delta Lake, Data Governance, Spark]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, MLflow]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11390623'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T11:42:14.530223'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

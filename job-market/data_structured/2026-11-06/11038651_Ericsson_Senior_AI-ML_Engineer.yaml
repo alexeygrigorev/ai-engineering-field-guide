@@ -1,0 +1,49 @@
+company:
+  name: Ericsson
+  stage: null
+  focus: Telecom networking equipment and services
+position:
+  title: Senior AI-ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI-powered solutions, agentic
+      systems, and knowledge management with search and RAG —
+      directly shaping model behavior via retrieval and agents.
+      Technical leadership and collaboration do not change this.
+  responsibilities:
+  - Design and develop AI/ML capabilities for Ericsson products including intelligent
+    automation, operational analytics and GenAI-powered solutions
+  - Apply AI to improve software engineering productivity through automation, knowledge
+    management and developer-assistance solutions
+  - Drive innovation from concept through deployment, transforming research ideas
+    into production-ready capabilities
+  - Provide technical leadership in AI/ML, influencing product strategy, architecture
+    and technology direction
+  - Collaborate with product management, architects and engineering teams to identify
+    AI-driven business opportunities
+  use_cases:
+  - Intelligent automation for telecom products
+  - Operational analytics
+  - GenAI-powered product solutions
+  - Developer productivity and developer-assistance tools
+  - Knowledge management and search
+  skills:
+    genai: [Generative AI, Agentic Workflows, RAG, Semantic Search, LLM Evaluation]
+    ml: [Machine Learning, Predictive Analytics]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Kubernetes, Cloud-Native Development]
+    ops: [MLOps, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Knowledge Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11038651'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:23:54.799389'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

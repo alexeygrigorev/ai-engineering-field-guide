@@ -1,0 +1,53 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND, NOR)
+position:
+  title: Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, designs RAG with semantic
+      chunking, prompt engineering, MCP-based context management,
+      and multi-agent workflows, directly shaping LLM behavior. An
+      LLM/agent component is central, so it is ai-first.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using platforms like Copilot Studio
+    and UiPath
+  - Connect AI agents with enterprise systems (SharePoint, M365), external APIs, and
+    knowledge bases
+  - Identify repetitive tasks and design intelligent automation solutions
+  - Implement RAG, semantic chunking, and memory persistence for context-aware systems
+    using MCP
+  - Design multi-agent workflows using A2A for complex collaborative tasks
+  - Ensure secure agent interactions via encryption, authentication, and identity
+    platforms (OAuth2, OIDC, SAML, Entra ID)
+  - Partner with cross-functional teams on AI literacy, documentation, and training
+  - Collaborate with cybersecurity teams on data protection, threat modeling, and
+    compliance
+  use_cases:
+  - Enterprise-wide AI adoption and productivity enablement
+  - Intelligent process automation of repetitive business tasks
+  - Context-aware enterprise agents with retrieval and long-horizon memory
+  - Multi-agent collaboration for decision-making and problem-solving
+  - Secure AI agent integration with enterprise systems and identity platforms
+  skills:
+    genai: [Copilot Studio, AI Agents, RAG, Prompt Engineering, MCP, Agentic Workflows,
+      Multi-Agent Systems, Generative AI, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Vertex AI]
+    ops: [UiPath]
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Bash]
+    domains: []
+    other: [OAuth, SharePoint, Entra ID]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034031'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:35:25.625618'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

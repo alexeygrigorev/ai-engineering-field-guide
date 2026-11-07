@@ -1,0 +1,51 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior Platform Engineer (Python/AI) - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds an agentic AI platform including
+      RAG systems, orchestration pipelines, LLM integrations, and
+      MCP-based tool interfaces, which directly shapes LLM
+      behavior and outputs. This is clearly ai-first.
+  responsibilities:
+  - Take end-to-end ownership of discrete platform modules, driving them to completion
+    independently with minimal supervision
+  - Build proofs-of-concept and prototypes to validate technical approaches and iterate
+    on stakeholder feedback
+  - Design, develop, and ship production-grade Python components for the agentic AI
+    platform including orchestration pipelines, RAG systems, LLM integrations, and
+    MCP-based tool interfaces
+  - Champion engineering best practices including clean code, automated testing, CI/CD,
+    logging, and monitoring
+  - Build and maintain secure integrations with internal data sources, external APIs,
+    and LLM providers in compliance with data governance and security standards
+  - Stay current with the evolving GenAI and LLM landscape and bring emerging tools
+    and techniques to the team
+  use_cases:
+  - Agentic AI platform to augment quantitative modelers in credit risk model development
+  - End-to-end credit risk model lifecycle automation (PD, LGD, EAD models)
+  - Model governance and accelerated delivery of critical risk models
+  - RAG and LLM-based intelligent workflows for risk management productivity
+  skills:
+    genai: [LLMs, RAG, MCP, Google ADK, Generative AI]
+    ml: []
+    web: [REST APIs]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Docker, CI/CD]
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Unix]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048386'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:39:28.799124'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

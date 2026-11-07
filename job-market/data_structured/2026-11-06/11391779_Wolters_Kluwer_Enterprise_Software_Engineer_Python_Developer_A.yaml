@@ -1,0 +1,52 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Enterprise cloud services and IT operations software
+position:
+  title: Enterprise Software Engineer (Python Developer + AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses Generative AI tools only to assist code
+      authoring; there is no shaping of model behaviour via
+      prompts, RAG, agents, or training. The core work is
+      cloud/software engineering, CI/CD, and IaC, so it is ai-
+      support.
+  responsibilities:
+  - Write code, engineer CI/CD pipelines, and champion adoption of Infrastructure-as-Code
+    across teams
+  - Build enterprise cloud operations solutions using serverless technologies like
+    AWS Lambda and Azure Functions
+  - Leverage GenAI tools to support code authoring alongside Ansible, Jenkins, and
+    Azure DevOps
+  - Build and evolve standardization solutions to drive IT Cloud governance
+  - Ensure software quality through automated self-certification before delivery
+  - Partner with Architecture, Engineering, Cloud Operations and Security teams on
+    operationalization
+  - Clarify requirements, remove roadblocks, and report progress to stakeholders and
+    leadership
+  use_cases:
+  - Automating traditional IT Operations tasks
+  - Enterprise cloud services development and integration
+  - IT Cloud governance and standardization
+  - Operational compliance, security, and audit automation
+  skills:
+    languages: [Python, PowerShell, Bash, JavaScript]
+    domains: []
+    web: []
+    cloud: [AWS Lambda, Azure Functions, Azure, AWS]
+    data: []
+    ml: []
+    databases: []
+    genai: [Generative AI]
+    ops: [CI/CD, Infrastructure as Code, Ansible, Jenkins, Azure DevOps, Terraform,
+      ARM Templates, CloudFormation]
+    other: [Agile, Code Review, Test-Driven Development, SOLID Principles]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11391779'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:43:09.872957'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

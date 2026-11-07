@@ -1,0 +1,226 @@
+job_id: 11885907
+title: Principal AI Platform Engineer
+company: PEMCO
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Applicants must be a resident and work from one of the
+  following states: WA, OR, ID, FL, IL, MN, NC, OH, TX, or SC
+  with occasional travel to our headquarters, located in
+  Seattle, WA.
+
+  Who We Are:
+
+  At PEMCO, we’re all about people – our customers, our
+  employees, and the community.  We’re a mutual insurance
+  company owned by our Northwest policyholders.  We provide
+  auto, home, renters, and boat coverage. Recognized by Forbes
+  as one of America’s Best Insurance Companies in both Auto
+  and Home for 2026, based on customer survey feedback, and by
+  Newsweek as one of America’s Greatest Midsize Workplaces
+  2025. We are consistently recognized for our outstanding
+  customer service, employee expertise, community
+  partnerships, and social impact programs. All of which makes
+  PEMCO a great place to work!
+
+  Our social impact programs motivate high achievement by
+  youth in education; build stronger and greener communities;
+  and increase safety at home, on the road, and at play. We’re
+  committed to diversity, equity, inclusion, and belonging,
+  and to fostering an inspiring and inclusive workplace. These
+  efforts create and cultivate an environment that builds
+  fairness and understanding, encourages collaboration and
+  flexibility, and celebrates all the ways in which we’re
+  different and the same – enabling all individuals to achieve
+  their full potential.
+
+  Why We Need You:
+
+  The Principal AI Platform Engineer role will build and run
+  PEMCO's AI platform: the operational, economic, and
+  governance layer under every AI agent and model the company
+  uses. You own the stack end to end, from GPU compute through
+  model serving, retrieval, and orchestration up to
+  observability and governance, and you are expected to be
+  capable of building and operating it on-premise when the
+  economics justify it, not only consuming managed cloud
+  services. This is a hands-on principal role with
+  organizational influence: you build the systems yourself
+  while setting the standards others build against.
+
+  What You’ll Be Doing:
+
+  - Own AI economics and observability. Build the consumption
+    telemetry for the entire AI estate (cost per agent, per
+    workflow, per business outcome; token usage; GPU
+    utilization) and the LLM observability layer under it
+    (LangFuse-class tracing, evaluation, drift monitoring).
+    Leadership decisions about AI spend run on your data.
+  - Run the AI gateway. A single gateway fronting every provider
+    and model (LiteLLM-class or Azure APIM GenAI): routing,
+    fallback chains, quotas, and per-agent cost capture. This
+    is the enforcement point for the economics.
+  - Stand up open-weight serving. High-throughput serving of
+    open-weight models on Azure GPU capacity (vLLM,
+    Triton/TensorRT-LLM), quantization, right-sizing. You
+    build the sizing evidence that justifies or kills any
+    future on-prem investment.
+  - Build the retrieval layer. Vector stores, embedding
+    pipelines, and document processing for in-house AI builds,
+    on a governed platform rather than one-off deployments.
+  - Operate production agents. Deployment, monitoring, incident
+    response, and retirement for the agent fleet (MCP-based
+    orchestration, per-agent least-privilege identity). When
+    an agent supporting a business workflow fails, you own
+    recovery.
+  - Shape the architecture. Represent platform reliability,
+    security, and economics in AI solution reviews across
+    teams; constructively challenge designs with data and
+    propose alternatives.
+  - Hold the governance line. RBAC for models and agents,
+    prompt/output guardrails, a seat on the AI Governance
+    Working Group with authority to block deployments that do
+    not meet the bar.
+  - Compute and acceleration stack: Azure GPU VMs and AKS GPU
+    pools first; on-premise GPU build-out (hardware selection,
+    CUDA stack, Kubernetes GPU scheduling) when the sizing
+    data says so
+  - Models and serving stack: open-weight model families with
+    high-throughput serving (vLLM, NVIDIA Triton/TensorRT-
+    LLM), quantization, fine-tuning and LoRA adaptation;
+    managed frontier APIs (Azure OpenAI / AI Foundry) as the
+    other half of the portfolio
+  - Gateway and routing stack: a single AI gateway fronting
+    every provider and model; routing and fallback chains,
+    quotas, per-agent cost capture
+  - Retrieval and data stack: vector stores, embedding and
+    chunking pipelines, document processing, knowledge-source
+    governance
+  - Orchestration and agents stack: agent frameworks and
+    protocols (MCP, LangChain/LangGraph, Semantic Kernel),
+    tool registration, per-agent least-privilege identity
+  - Observability, evaluation, governance stack: LangFuse-class
+    tracing and cost telemetry, evaluation tooling with
+    regression testing before prompt or model changes ship,
+    guardrails, RBAC
+  - Across all layers: model lifecycle from evaluation to
+    retirement, and cost-against-capability optimization
+    (model selection and routing, caching, batching, token
+    budgets).
+
+  What You'll Bring:
+
+  - 6+ years in platform engineering, SRE, or technical
+    operations at senior/lead scope
+  - 2+ years running LLM/AI systems in production (or 4+ years
+    ML platform operations)
+  - Hands-on open-weight model serving (vLLM, Triton/TensorRT-
+    LLM or equivalent), including quantization and GPU right-
+    sizing
+  - LLM observability and evaluation experience (LangFuse,
+    LangSmith, Arize class), or the demonstrated ability to
+    stand it up
+  - Experience building RAG systems: vector stores, embedding
+    pipelines, document processing
+  - FinOps/cost management for cloud consumption, ideally GPU or
+    AI workloads
+  - Working knowledge of AI security risks: prompt injection,
+    data leakage, model abuse
+  - Preferred: on-prem GPU infrastructure design, fine-
+    tuning/LoRA, agent frameworks (MCP, LangChain/LangGraph,
+    Semantic Kernel), regulated-industry experience
+
+  Compensation:
+
+  The pay range for this role is shown below. Compensation
+  decisions are determined based on an individual’s
+  qualifications, job-related knowledge, skills, and
+  experience.
+
+  - Greater Seattle area target pay range: $154,845-$189,255.
+    The full pay range is $129,038-$215,063.
+  - Outside Greater Seattle area target pay range:
+    $136,654-$167,022. The full pay range is
+    $113,879-$189,797.
+
+  Greater Seattle Area is defined as working within
+  approximately 100 miles of Seattle. Outside Greater Seattle
+  is defined as working approximately 100 miles or more from
+  Seattle.
+
+  Benefits:
+
+  Regular part-time PEMCO employees working at least 24 hours
+  per week and regular full-time PEMCO employees are eligible
+  to elect coverage under medical, dental, and vision plans
+  for themselves and their eligible family members with
+  generous employer premium cost shares. In addition, as a
+  benefits-eligible employee, you are:
+
+  - covered by employer-paid basic life and accidental death &
+    dismemberment insurance policies as well as long- and
+    short-term disability benefit coverages.
+  - eligible to participate in PEMCO’s 401(k) plan, which
+    includes a generous employer match (2 for 1 on the first
+    6% employee pre-tax and/or Roth deferral, up to federal
+    maximums).
+
+  PEMCO provides the following paid leave programs for
+  benefits-eligible employees in their first year of PEMCO
+  employment:
+
+  - Vacation and eight (8) paid holidays.
+  - Granted four (4) floating holidays and up to ten (10) days
+    of sick leave immediately upon hire (pro-rated based on
+    hire date and full-time/part-time status).
+  - In addition, PEMCO provides paid time off for bereavement,
+    jury duty, and employee volunteering in the community.
+
+  Other miscellaneous benefit programs offered by PEMCO
+  include:
+
+  - Education Assistance Program after one year of service.
+  - Scholarship program for children of PEMCO employees after
+    one year of service; children’s birthday gift program
+  - Flexible Spending Accounts, Employee Assistance Program, and
+    charitable gift matching
+
+  Other compensation depending on role, contributions, and
+  performance may include:
+
+  - Discretionary bonuses.
+  - Tiered sales commissions and/or incentives
+
+  Equal Employment Opportunity:
+
+  At PEMCO, we celebrate and support our differences. We know
+  employing a team rich in diverse thoughts, experiences, and
+  opinions allows our employees, our products, and our
+  community to flourish. PEMCO is honored to be an equal
+  opportunity workplace. We are dedicated to equal employment
+  opportunities regardless of race, color, ancestry, religion,
+  sex, national orientation, age, citizenship, marital status,
+  disability, gender identity, sexual orientation, or veteran
+  status.
+
+  Accommodations
+
+  At PEMCO, people are at the heart of our business. We’re
+  committed to providing an inclusive hiring experience for
+  all candidates. If you need reasonable accommodations to
+  apply for a role or participate in an interview, please
+  contact us by email with your name, the job reference
+  number(s), your preferred contact method, and a brief
+  description of the accommodation needed. Requests are
+  considered on a case by case basis in accordance with
+  applicable disability laws, including the ADAAA.
+
+  Applicants have rights under Federal Employment Laws:
+
+  - Family and Medical Leave Act (FMLA)
+  - Equal Employment Opportunity (EEO)
+  - Employee Polygraph Protection Act (EPPA)
+posted_date: 2026-10-26
+url: "https://www.builtinla.com/job/principal-ai-platform-engineer/11885907"
+source: Built In

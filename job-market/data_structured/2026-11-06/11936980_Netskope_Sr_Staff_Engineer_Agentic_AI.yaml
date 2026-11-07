@@ -1,0 +1,53 @@
+company:
+  name: Netskope
+  stage: 'Publicly traded (NASDAQ: NTSK)'
+  focus: Cloud and AI security and networking platform
+position:
+  title: Sr. Staff Engineer, Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core responsibilities are building backend services,
+      distributed systems, and cloud infrastructure; AI appears
+      mainly as AI-native development workflows (Claude Code) used
+      to write code faster, which is explicitly ai-support. LLM
+      agent work (LangGraph, agents) is only listed as nice-to-
+      have, not a stated responsibility.
+  responsibilities:
+  - Design, build, and operate scalable, high-performance backend services in Python
+    on AWS
+  - Architect distributed systems balancing consistency, availability, latency, cost,
+    and operational complexity
+  - Provide technical leadership across the full project lifecycle from design through
+    delivery and operations
+  - Use AI-native development workflows (Claude Code) for design, implementation,
+    testing, code review, and debugging
+  - Partner with product and customers to turn requirements into well-scoped features
+  - Investigate and resolve production issues and improve observability, reliability,
+    and incident response
+  - Improve engineering processes, CI/CD, and developer tooling
+  use_cases:
+  - Security analytics for enterprise threat detection and response
+  - AI-powered capabilities within a cloud security platform
+  - Large-scale data and traffic processing for enterprise customers
+  - Real-time cloud, data, and AI security
+  skills:
+    genai: [Claude Code, LLMs, AI Agents, LangGraph]
+    ml: []
+    web: [REST APIs]
+    databases: [NoSQL]
+    data: [Kafka, Kinesis]
+    cloud: [AWS, CloudFormation]
+    ops: [CI/CD, Distributed Systems, Docker, Kubernetes, Observability, Terraform,
+      Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [Cybersecurity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11936980'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:02:43.461853'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

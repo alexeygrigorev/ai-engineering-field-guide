@@ -1,0 +1,55 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Payments technology and data-driven business intelligence
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agent orchestration, tool calling,
+      RAG/Graph-RAG retrieval, prompt engineering, fine-tuning,
+      and agent evaluation - all directly shaping LLM behavior,
+      making it ai-first.
+  responsibilities:
+  - Architect and build the tool-calling layer wrapping internal services, data platforms,
+    and external APIs as well-defined agent tools
+  - Engineer reliable, scalable tool execution (parallel/chained calls, retries, idempotency,
+    error recovery)
+  - Develop high-performance Python backend services for LLM orchestration with streaming,
+    caching, and rate limiting
+  - Engineer state, memory, and context management for multi-step agent interactions
+  - Architect multi-agent systems using frameworks like LangGraph, CrewAI, or AutoGen
+  - Build retrieval systems (RAG and Graph-RAG) using vector databases and knowledge
+    graphs
+  - Establish LLMOps/MLOps pipelines on Databricks covering evaluation, CI/CD, and
+    monitoring
+  - Implement Responsible AI practices including guardrails, hallucination mitigation,
+    and bias detection; mentor engineers
+  use_cases:
+  - Agentic AI systems with tool calls into enterprise services and APIs
+  - Business and market intelligence from proprietary payments data
+  - Multi-step agent workflows with memory and session continuity
+  - Grounded knowledge retrieval (RAG, Graph-RAG) for enterprise knowledge
+  - Multimodal generative pipelines unifying text, image, tabular, and graph data
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [FastAPI, Microservices, APIs]
+    cloud: [AWS, Azure, GCP, SageMaker, AWS Bedrock]
+    data: [Databricks]
+    ml: [LoRA, Transformers, Foundation Model Training, Generative AI]
+    databases: [Pinecone, pgvector, OpenSearch, Neo4j, Knowledge Graphs, Vector Databases]
+    genai: [AI Agents, LangGraph, CrewAI, AutoGen, Agentic Workflows, Function Calling,
+      RAG, Prompt Engineering, LLMs, OpenAI API, Anthropic API, Gemini, Embeddings,
+      Semantic Search, MCP, LoRA, RLHF, Guardrails, Fine-Tuning, LLM Evaluation]
+    ops: [MLflow, Weights & Biases, MLOps, LLMOps, CI/CD, Monitoring, Observability]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894619'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:51:59.731857'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

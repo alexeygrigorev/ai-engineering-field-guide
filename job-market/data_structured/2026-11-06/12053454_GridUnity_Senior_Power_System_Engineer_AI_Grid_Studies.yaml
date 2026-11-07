@@ -1,0 +1,57 @@
+company:
+  name: GridUnity
+  stage: null
+  focus: |-
+    Interconnection lifecycle management software for electric
+    grid
+position:
+  title: Senior Power System Engineer – AI Grid Studies
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role validates and QA-checks AI-assisted study outputs
+      and prepares models/data, while software and AI engineers
+      build the AI capabilities themselves. The engineer uses AI
+      tools and compares outputs to reference cases but does not
+      design prompts, retrieval, agent flows, or train models,
+      making this a supporting role on an AI product.
+  responsibilities:
+  - Develop and test automated workflows for generation and large load interconnection
+    studies
+  - Translate study procedures into structured, repeatable, auditable automation logic
+  - Develop Python scripts for model preparation, simulation runs, data checks, and
+    results analysis
+  - Prepare and validate model files, study assumptions, and input grid data
+  - Perform power flow, contingency analysis, results extraction, and report generation
+  - Compare automated study outputs with reference cases and planning criteria; develop
+    test cases and QA/QC checks
+  - Collaborate with software and AI engineers on document interpretation, model review,
+    and result summarization
+  - Document model versions, assumptions, methods, and limitations for engineering
+    and product teams
+  use_cases:
+  - Automated interconnection studies for generation and large load projects
+  - Power flow and contingency analysis automation
+  - Power system model preparation and validation
+  - Automated report generation for grid studies
+  - QA of AI-assisted engineering study outputs
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Power Systems]
+    other: [PSS/E, PSLF, TARA, PSCAD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12053454'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:41:41.609436'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

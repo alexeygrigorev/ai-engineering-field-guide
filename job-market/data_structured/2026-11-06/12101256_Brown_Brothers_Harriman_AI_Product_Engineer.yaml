@@ -1,0 +1,57 @@
+company:
+  name: Brown Brothers Harriman
+  stage: null
+  focus: |-
+    Global financial services firm, investor services and
+    capital partners
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and configures AI agents and copilots
+      (Copilot Studio), designing agent configurations, workflow
+      orchestration, and aligning prompt patterns/system
+      instructions with AI Context Engineers. This directly shapes
+      LLM/agent behavior, making it ai-first.
+  responsibilities:
+  - Translate approved AI use cases and business requirements into solution designs,
+    agent configurations, integration patterns, and implementation plans
+  - Build, configure, test, deploy, and maintain AI-enabled products, Copilot Studio
+    agents, workflow automations, connectors, and platform components
+  - Design AI-enabled workflows including handoffs, approvals, exception paths, and
+    human review controls
+  - Develop and execute technical test plans including functional, regression, integration,
+    and response-quality testing
+  - Support monitoring, observability, troubleshooting, and production support for
+    AI-enabled products
+  - Prepare deployment plans, release checklists, runbooks, and technical handoff
+    materials
+  - Collaborate with Risk, Compliance, Legal, and Information Security for secure-by-design
+    implementation
+  - Partner with AI Context Engineers to align solution configuration with knowledge
+    sources, prompt patterns, and system instructions
+  use_cases:
+  - AI-enabled products and copilots for Capital Partners business operations
+  - AI agents and workflow automations embedded in operational processes
+  - Enterprise AI integrations with data connections and connectors
+  - Grounding and response-quality testing for AI solutions
+  skills:
+    genai: [Copilot Studio, AI Agents, Prompt Engineering, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: [Workflow Automation, Systems Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12101256'
+  location: New York, USA
+  extracted_at: '2026-11-06T15:01:18.358955'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Proofpoint
+  stage: null
+  focus: Human- and agent-centric cybersecurity and data protection
+position:
+  title: Senior Sales Engineer - AI Security Solutions
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales sales engineer role that demos and
+      articulates Proofpoint's AI security products; the person
+      never shapes model behaviour, builds evals, or designs
+      prompts/retrieval. AI knowledge is used to explain risk and
+      governance to customers, so the role is ai-support.
+  responsibilities:
+  - Drive adoption of Proofpoint's AI security portfolio with customers and prospects
+  - Build credibility with security, AI/ML, and IT stakeholders including CISOs and
+    security architects
+  - Lead technical workshops on AI risk, governance, and secure adoption strategies
+  - Support proof-of-value and proof-of-concept engagements focused on real-world
+    AI use cases
+  - Advise on integrating AI security into existing security and data protection architectures
+  - Partner with Product Management, Marketing, and Customer Success on roadmap feedback,
+    thought leadership, and deployment success
+  use_cases:
+  - AI usage discovery, monitoring, and governance across human and AI agent interactions
+  - Intent-based security and runtime policy enforcement for AI workflows
+  - Full auditability of AI usage in enterprise environments
+  - Threat prevention and data loss protection across email, cloud, and collaboration
+    tools
+  - Secure adoption of AI agents and agentic workflows in enterprises
+  skills:
+    languages: []
+    domains: [NLP]
+    web: []
+    cloud: [EKS, Google GKE, Azure AKS, CASB]
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Agents]
+    ops: [SIEM]
+    other: [TCP/IP, Proxy, Firewall, Cybersecurity, AI Security, Technical Presentations,
+      System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11927319'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-11-06T13:59:39.292629'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

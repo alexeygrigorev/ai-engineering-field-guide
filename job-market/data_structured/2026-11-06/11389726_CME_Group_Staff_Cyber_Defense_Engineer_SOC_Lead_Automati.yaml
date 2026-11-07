@@ -1,0 +1,57 @@
+company:
+  name: CME Group
+  stage: null
+  focus: Global derivatives and futures marketplace
+position:
+  title: Staff Cyber Defense Engineer (SOC Lead) – Automation & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and governs an agentic SOC, directly
+      integrating LLMs and autonomous agents into detection and
+      response workflows, including agent design for triage and
+      containment. LLM/agent components are central to the
+      deliverable, making it ai-first, though the role is also
+      supervisory.
+  responsibilities:
+  - Define and drive the automation roadmap toward an AI-driven, agentic Security
+    Operations Center
+  - Oversee deployment and scaling of autonomous agents performing triage, context
+    gathering, and initial containment
+  - Govern SOAR integrations, coding standards, peer-review pipelines for Python/REST
+    scripts, and Detection as Code CI/CD
+  - Supervise application of data analytics and machine learning to security datasets
+    for high-fidelity alerting
+  - Serve as Incident Commander for major security events and high-severity breaches
+  - Direct threat hunting and intelligence programs, operationalizing novel threats
+    into automated detections
+  - Manage the security stack (SIEM, EDR, NDR, Cloud Security) health and integration
+    for AI engine data quality
+  - Mentor senior engineers and upskill the team in prompt engineering and modern
+    data practices
+  use_cases:
+  - Autonomous agent-driven alert triage and initial containment in a SOC
+  - LLM-augmented security operations and defense strategy
+  - Machine learning-based detection to reduce false positives
+  - Automated playbooks and SOAR-driven incident response
+  - Threat hunting and intelligence operationalized into automated detections
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents]
+    ml: [Machine Learning]
+    web: [REST APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [SOAR, SIEM, Incident Response, Threat Hunting, MITRE ATT&CK, Forensic
+        Analysis, Cortex XSOAR, Splunk SOAR, Tines, EDR, NDR, Detection as Code]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11389726'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:41:17.740219'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

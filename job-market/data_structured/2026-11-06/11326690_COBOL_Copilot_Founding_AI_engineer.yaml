@@ -1,0 +1,59 @@
+company:
+  name: COBOL Copilot
+  stage: null
+  focus: AI-powered COBOL legacy code modernization platform
+position:
+  title: Founding AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and fine-tunes transformer architectures
+      for COBOL→Java/Python code translation, which is text/code
+      generation (LLM-style shaping) plus custom model development
+      and inference optimization. Shaping model behavior directly,
+      so ai-first.
+  responsibilities:
+  - Design and implement transformer architectures optimized for COBOL to Java/Python
+    translation
+  - Build real-time code analysis engines processing millions of lines with sub-second
+    latency
+  - Create enterprise-grade AI pipelines handling Fortune 100 codebases
+  - Architect distributed systems supporting concurrent modernization of 50+ million
+    line codebases
+  - Optimize inference for enterprise workloads with sub-100ms response times
+  - Own platform architecture and partner with CEO on product strategy and technical
+    vision
+  use_cases:
+  - COBOL to Java/Python code translation
+  - Real-time analysis of massive legacy codebases
+  - Enterprise-scale legacy code modernization
+  skills:
+    languages: []
+    domains: []
+    web: [Microservices]
+    cloud: [Cloud-Native Architecture]
+    data: []
+    ml: [PyTorch, TensorFlow, CUDA, Fine-Tuning, Transformers]
+    databases: []
+    genai: []
+    ops: [Model Deployment, Distributed Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11326690'
+  location: IDN
+  locations:
+  - IDN
+  - JPN
+  - BGD
+  - IND
+  - KHM
+  - NPL
+  - PAK
+  - CHN
+  - THA
+  remote: true
+  extracted_at: '2026-11-06T11:30:41.876371'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

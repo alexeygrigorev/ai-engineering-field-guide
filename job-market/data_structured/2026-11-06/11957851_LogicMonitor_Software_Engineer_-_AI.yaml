@@ -1,0 +1,56 @@
+company:
+  name: LogicMonitor
+  stage: null
+  focus: AI-first hybrid observability and AIOps platform
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements RAG pipelines with vector
+      databases, embeddings, semantic search, and LLM
+      orchestration via LangGraph, directly shaping retrieval and
+      LLM output quality for Edwin AI. It combines backend/data
+      engineering with GenAI work, so ai-first applies.
+  responsibilities:
+  - Design and build streaming and batch data pipelines processing metrics, logs,
+    and events for AI workflows
+  - Develop ETL and feature-extraction pipelines using Python and Java microservices
+  - Implement RAG pipelines with vector databases (Milvus, Qdrant, OpenSearch, Neo4j
+    Vector)
+  - Build data indexing and semantic search for large-scale observability and operational
+    data
+  - Develop Python APIs (FastAPI/LangGraph) for LLM orchestration, summarization,
+    and correlation reasoning
+  - Build and maintain Java microservices (Spring Boot) serving AI and analytics data
+  - Instrument services with OpenTelemetry and optimize latency/throughput for retrieval
+    and AI response generation
+  - Implement data validation, schema evolution, lineage tracking, and data privacy/RBAC
+    compliance for AI pipelines
+  use_cases:
+  - GenAI-powered AIOps for incident understanding, investigation, and resolution
+    in hybrid observability environments
+  - Retrieval-augmented insights over telemetry, logs, topology, and incidents
+  - LLM-driven summarization and correlation reasoning over operational data
+  - Semantic search and indexing of large-scale observability data
+  - Real-time AI-driven data intelligence for IT infrastructure monitoring
+  skills:
+    languages: [Python, Java]
+    domains: []
+    web: [FastAPI, Spring Boot, REST, gRPC, WebSockets, SSE, Microservices]
+    cloud: []
+    data: [Kafka, Airflow, Redis Streams, Data Pipelines, Spark, Delta Lake, Iceberg,
+      Data Modeling, Feature Engineering]
+    ml: []
+    databases: [Milvus, Qdrant, OpenSearch, Neo4j, Vector Databases, ClickHouse, Redis]
+    genai: [RAG, Embeddings, Semantic Search, LangGraph, LLMs, Generative AI]
+    ops: [Kubernetes, CI/CD, OpenTelemetry]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957851'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:10:59.574586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

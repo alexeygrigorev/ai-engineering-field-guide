@@ -1,0 +1,50 @@
+company:
+  name: TIAA
+  stage: null
+  focus: Financial services and retirement planning (TIAA)
+position:
+  title: Associate - AI Platform Senior Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agent components/workflows, implements
+      prompt engineering, LLM optimization, RAG, and MCP-based
+      agent integrations — directly shaping LLM behavior, so it is
+      ai-first.
+  responsibilities:
+  - Assist in building and testing AI agent components and workflows
+  - Support implementation of LLM optimization and prompt engineering techniques under
+    senior engineer guidance
+  - Develop and maintain backend services, APIs, and integrations supporting AI systems
+    on AWS/cloud infrastructure
+  - Support implementation of MCP-based integrations for agent tool and data access
+  - Write clean, well-tested, maintainable Python code
+  - Participate in code reviews, design discussions, and sprint planning
+  - Troubleshoot and resolve issues in existing AI infrastructure components
+  use_cases:
+  - AI agent workflows for internal financial services operations
+  - LLM optimization and prompt engineering for enterprise AI systems
+  - Agent tool and data access via MCP integrations
+  - Backend services supporting AI infrastructure
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLMs, RAG, Fine-Tuning, MCP]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11670427'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Mumbai, IND
+  extracted_at: '2026-11-06T12:30:33.246109'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

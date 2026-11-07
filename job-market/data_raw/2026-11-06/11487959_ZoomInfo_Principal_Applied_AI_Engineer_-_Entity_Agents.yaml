@@ -1,0 +1,265 @@
+job_id: 11487959
+title: Principal Applied AI Engineer - Entity Agents
+company: ZoomInfo
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  ZoomInfo is where careers accelerate. We move fast, think
+  boldly, and empower you to do the best work of your life.
+  You’ll be surrounded by teammates who care deeply, challenge
+  each other, and celebrate wins. With tools that amplify your
+  impact and a culture that backs your ambition, you won’t
+  just contribute. You’ll make things happen fast.
+
+  Senior Applied AI Engineer, Entity Agents
+
+  ZoomInfo | Product | Core Data
+
+  About ZoomInfo
+
+  ZoomInfo is where careers accelerate. We move fast, think
+  boldly, and empower you to do the best work of your life.
+  You’ll be surrounded by teammates who care deeply, challenge
+  each other, and celebrate wins. With tools that amplify your
+  impact and a culture that backs your ambition, you won’t
+  just contribute, you’ll make things happen, fast.
+
+  The Opportunity
+
+  ZoomInfo’s Core Data team builds the company and contact
+  data behind the Go-To-Market Intelligence Platform: hundreds
+  of millions of records, resolved to the right entity, kept
+  accurate, and delivered to more than 35,000 customers.
+
+  The way that data is produced is changing. For years it came
+  from deterministic pipelines: many sources, weighted and
+  decayed, one winner per attribute. Core Data is now moving
+  to AI-native data management, where an agent pursues the
+  evidence for an entity, decides every attribute over all of
+  it, and records why. The company and contact agents already
+  exist as working, measured prototypes. What does not exist
+  yet is the machinery that runs them at production volume,
+  proves every version before it ships, and lets researchers
+  and product managers operate them without an engineer in the
+  loop.
+
+  We are hiring a Senior Applied AI Engineer to build and own
+  that machinery. You will complete the entity-agent pipeline,
+  build the evidence adapters behind a single envelope, run
+  the benchmark and golden-gate system on a schedule, build
+  the review and batch tooling the team operates, and carry
+  the agents onto ZoomInfo’s Agentic Platform. You will work
+  with the Principal AI Engineer who owns the benchmark
+  harness and productionization, the product manager who owns
+  evaluation and policy, and the company and person
+  engineering teams that own the pipelines the agents feed.
+  You will not be the only person who can do this work; you
+  will be the second, so that neither of you is a single point
+  of failure.
+
+  This is a role for someone who has shipped LLM systems in
+  production with evaluations, builds platform for other
+  people to operate, and can work inside a large-scale data
+  pipeline. You should be as comfortable writing an adapter
+  with a replayable store and a kill switch as you are reading
+  a miss analysis with a product manager, and you should like
+  that the prototype you take to production was built by a PM
+  who commits code.
+
+  What You’ll Do
+
+  Run the benchmark and golden-gate system. Move judge runs,
+  golden-gate results, arms scorecards, and cost per record
+  from a laptop to a scheduled system against staging. Every
+  agent version is gated automatically, with variance and
+  drift tracked per release. The evaluation product manager
+  sets the thresholds; you make them enforceable.
+
+  Complete the entity-agent pipeline. Build the stages that do
+  not exist yet: enricher fan-out, location sets, and
+  hierarchy batch files. Migrate the classifiers to the shared
+  runner with the Principal AI Engineer so they run at
+  production scale. Measure throughput and unit cost per stage
+  on named cohorts, so the cost model comes from
+  instrumentation rather than estimates.
+
+  Build the evidence adapters. Registries, live web, mail-
+  tenant signals, and external research vendors all sit behind
+  one envelope with a replayable vendor store, measured lift
+  per shape, a per-vendor kill switch, and at least two
+  sources per shape. Vendors are swappable by design.
+
+  Deploy onto the ZoomInfo Agentic Platform. Carry the company
+  and contact agents through the production plan onto ZAP,
+  build the ingest adapter side (envelope to match service and
+  bulk intake), and keep a rollback path per version. Keep the
+  DOH implementation and the platform implementation upgraded
+  in lockstep, enforced by tooling.
+
+  Make the loop self-service. Build the review queue, tagging
+  tools, blast-radius viewer, and batch runners that
+  researchers and product managers use without an engineer.
+  Measure review yield and golden-record production.
+
+  Keep the agent surfaces alive. Own the health and deployment
+  of the company classifier, contact classifier, agents hub,
+  and judge platform inside our internal tooling, so the
+  team’s iteration cycle never waits on one person.
+
+  Instrument everything. Cost per call, per row, per stage;
+  quality per version; alerts before a human notices.
+
+  What You’ll Bring
+
+  - 5+ years of software engineering experience, including at
+    least 2 years shipping LLM-based systems to production:
+    agent loops, tool use, retrieval, structured output, and
+    the evaluation harness that proved them
+  - Strong Python and TypeScript, and comfort across an API
+    layer, a batch runner, and a small web UI for internal
+    users
+  - Experience building platform others operate: adapters,
+    runners, queues, or internal tools designed for replay,
+    idempotency, and observability
+  - Working knowledge of data pipelines and entity resolution:
+    how records move through ingestion, matching, and serving,
+    and what a false merge costs versus a missed match
+  - A track record of taking a prototype to production without
+    losing what the prototype proved, treating test sets and
+    benchmarks as the contract
+  - Instrumentation by default: you know the cost and latency
+    budget of every system you have shipped
+  - Strong bias for action and the tenacity to find an endpoint
+    owner, get a decision, and unblock a runner in a fast-
+    moving, distributed organization
+
+  Preferred
+
+  - Experience with B2B company or contact data, identity or
+    registry data, or entity resolution at scale
+  - Experience with Claude or comparable frontier models, agent
+    frameworks, and eval harnesses
+  - Experience deploying agents onto an internal agent platform
+    or orchestration layer
+  - Background at an AI-native startup, a forward-deployed or
+    applied AI team, or a data infrastructure company
+
+  Who You Are
+
+  A builder who ships. You pick the boring technology when it
+  wins and you would rather have a running adapter than a
+  design doc.
+
+  An evaluator by instinct. You do not release a version
+  without a test set, a threshold, and a number for what it
+  costs.
+
+  A platform thinker. You build things that other people run,
+  and you design for the day the vendor goes down.
+
+  Comfortable in the data. You can read a pipeline, reason
+  about matching, and explain why a wrong merge is worse than
+  a missed one.
+
+  Tenacious. ZoomInfo is fast, distributed, and messy. You go
+  find the people you need and drive the work to done.
+
+  One team. Honest, has the team’s back, celebrates wins and
+  losses together.
+
+  The Environment
+
+  You report to the Senior Manager of Product for Core Data,
+  with the Principal AI Engineer as your technical lead, and
+  sit inside the Core and Global Data organization under the
+  Chief Data Officer. Your day-to-day partners are the
+  Principal AI Engineer, the product manager who owns
+  evaluation and data policy, the Company and Person Data
+  product managers, the research team that grades and rules,
+  the agentic platform team, and company and person
+  engineering. Expect interesting problems: how do you run a
+  judge over a million records a day for cents, not dollars?
+  How do you make a vendor replaceable without a rewrite? How
+  do you let a researcher run a batch and rule on the misses
+  without paging you?
+
+  About ZoomInfo
+
+  ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence
+  Platform that empowers businesses to grow faster with AI-
+  ready insights, trusted data, and advanced automation. Its
+  solutions provide more than 35,000 companies worldwide with
+  a complete view of their customers, making every seller
+  their best seller.
+
+  ZoomInfo is proud to be an equal opportunity employer,
+  hiring based on qualifications, merit, and business needs.
+
+  Actual compensation offered will be based on factors such as
+  the candidate’s work location, qualifications, skills,
+  experience and/or training. Your recruiter can share more
+  information about the specific salary range for your desired
+  work location during the hiring process. We want our
+  employees and their families to thrive.
+
+  In addition to comprehensive benefits we offer holistic
+  mind, body and lifestyle programs designed for overall well-
+  being. Learn more about ZoomInfo benefits here.
+
+  Below is the US base salary for this position. Additional
+  compensation such as Bonus, Commission, Equity and other
+  benefits may also apply.
+
+  $171,500—$269,500 USD
+
+  About us:
+
+  ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform,
+  enables sales, marketing, and customer success teams to
+  execute their go-to-market strategy with confidence. Powered
+  by the industry's most comprehensive B2B data, including
+  more than 100 million companies, 500 million contacts, and
+  billions of signals, ZoomInfo delivers the intelligence,
+  automation, and integrations that modern revenue teams need
+  to identify, engage, and convert their best buyers.
+
+  ZoomInfo is committed to protecting your privacy when you
+  apply for jobs with us. Please review our Job Applicant
+  Privacy Notice for more details on how we handle your
+  personal information.
+
+  ZoomInfo may use a software-based assessment as part of the
+  recruitment process. More information about this tool,
+  including the results of the most recent bias audit, is
+  available here.
+
+  ZoomInfo is proud to be an equal opportunity employer,
+  hiring based on qualifications, merit, and business needs,
+  and does not discriminate based on protected status. We
+  welcome all applicants and are committed to providing equal
+  employment opportunities regardless of sex, race, age,
+  color, national origin, sexual orientation, gender identity,
+  marital status, disability status, religion, protected
+  military or veteran status, medical condition, or any other
+  characteristic protected by applicable law. We also consider
+  qualified candidates with criminal histories in accordance
+  with legal requirements.
+
+  For Massachusetts Applicants: It is unlawful in
+  Massachusetts to require or administer a lie detector test
+  as a condition of employment or continued employment. An
+  employer who violates this law shall be subject to criminal
+  penalties and civil liability. ZoomInfo does not administer
+  lie detector tests to applicants in any location.
+industries:
+  - Big Data
+  - Information Technology
+  - Machine Learning
+  - Sales
+  - Software
+  - Database
+  - Generative AI
+posted_date: 2026-10-02
+url: "https://www.builtinla.com/job/principal-applied-ai-engineer-entity-agents/11487959"
+source: Built In

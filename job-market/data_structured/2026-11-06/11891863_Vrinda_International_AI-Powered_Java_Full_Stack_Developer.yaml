@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services building enterprise applications
+position:
+  title: AI-Powered Java Full Stack Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves implementing RAG architectures and
+      integrating AI capabilities into systems themselves, which
+      is shaping model behavior through retrieval design. Full-
+      stack engineering is the bulk of the job, but RAG design is
+      explicitly a responsibility.
+  responsibilities:
+  - Design and develop scalable full-stack applications using Java, Spring Boot, and
+    modern frontend frameworks
+  - Implement RAG architectures to integrate AI-driven features into existing systems
+  - Architect and deploy cloud-based solutions with high availability and security
+  - Establish and maintain CI/CD pipelines for automated testing and deployment
+  - Develop and optimize RESTful and GraphQL APIs
+  - Manage and query SQL and NoSQL databases for application logic and reporting
+  - Collaborate with cross-functional teams to translate requirements into code, using
+    C#/.NET where applicable
+  - Conduct code reviews and mentor junior developers
+  use_cases: []
+  skills:
+    genai: [RAG, Generative AI]
+    ml: []
+    web: [Spring Boot, React, Angular, Vue, REST APIs, GraphQL]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Java, C#, .NET]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891863'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:33.013815'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

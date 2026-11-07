@@ -1,0 +1,51 @@
+company:
+  name: Robots & Pencils
+  stage: null
+  focus: AI systems design and consulting for enterprises
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly through LoRA/QLoRA
+      fine-tuning, reinforcement learning (GRPO/PPO) for ranking
+      and reasoning, and large-scale distributed LLM training and
+      inference. LLM components are explicitly involved, making it
+      ai-first.
+  responsibilities:
+  - Design, implement, and deploy ML/AI models end-to-end from concept through production
+  - Build data pipelines and training workflows, turning raw data into training sets
+    at tens-of-millions-of-documents scale
+  - Run large-scale batch and production LLM inference
+  - Perform large-scale distributed training and LoRA/QLoRA fine-tuning
+  - Apply reinforcement learning for ranking and reasoning tasks
+  - Maintain and evolve AI systems in production, monitoring for drift and improving
+    reliability and scalability
+  - Use AI coding tools like Claude and Cursor to ship higher-quality work
+  - Contribute to AI architecture decisions and collaborate with product, engineering,
+    and data teams
+  use_cases:
+  - Enterprise AI operations integration
+  - Large-scale document training data pipelines
+  - LLM ranking and reasoning via reinforcement learning
+  - Production AI systems shipped in 30-45 day cycles
+  skills:
+    genai: [LoRA, Claude Code]
+    ml: [Fine-Tuning, Deep Learning, Reinforcement Learning, GRPO, PPO]
+    web: []
+    databases: []
+    data: [PySpark, Hive, HDFS]
+    cloud: [AWS Bedrock, SageMaker]
+    ops: [vLLM, Distributed Systems, Cursor]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11937082'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:02:49.818736'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,45 @@
+company:
+  name: Pear VC
+  stage: null
+  focus: Purpose-built AI platform for life sciences and biopharma
+position:
+  title: Founding Backend Engineer (AI Focus) - Atrix
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered backend features, agent
+      workflows, and RAG pipelines, shaping how LLMs process
+      unstructured data — clearly shaping model behavior via
+      retrieval and agent orchestration, with LLMs as the target.
+  responsibilities:
+  - Design and own major modules of backend architecture (APIs, workers, orchestration)
+  - Optimize performance and reliability of data processing and AI inference systems
+  - Build and maintain LLM-powered backend features and multi-step agent workflows
+  - Build RAG pipelines connecting structured and unstructured data
+  - Improve observability, traceability, and modularity of backend systems
+  - Lead customer-focused feature delivery with attention to security and compliance
+  use_cases:
+  - AI-powered drug discovery and life sciences intelligence
+  - Structuring unstructured biopharma data with LLM-based agents
+  - Delivering decision-ready insights to regulated pharma teams
+  - Connecting structured and unstructured data via RAG pipelines
+  - Helping the right treatments reach the right patients sooner
+  skills:
+    genai: [LLMs, Embeddings, RAG, AI Agents, LangChain, LlamaIndex]
+    ml: [PyTorch]
+    web: [FastAPI, Flask, Django, APIs]
+    databases: [SQL, PostgreSQL, SQLAlchemy]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Distributed Systems, Terraform, Celery]
+    languages: [Python, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886073'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:36:27.514959'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

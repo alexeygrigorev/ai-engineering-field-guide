@@ -1,0 +1,61 @@
+company:
+  name: Guidehouse
+  stage: null
+  focus: |-
+    Global professional services: advisory, technology, managed
+    services
+position:
+  title: Sitecore AI Front-end Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a front-end developer integrating pre-built
+      Sitecore AI capabilities (AI-assisted search,
+      recommendations, personalization) into Sitecore XM Cloud
+      experiences. The person builds and wires UI components that
+      consume these AI features but does not write prompts, design
+      retrieval, or shape model behaviour themselves.
+  responsibilities:
+  - Develop reusable, responsive, accessible React and Next.js components for Sitecore
+    AI solutions in TypeScript
+  - Create component data models, rendering definitions, placeholders, variants, and
+    visual authoring configurations for content teams
+  - Integrate frontend apps with Sitecore Experience Edge, GraphQL, the Sitecore Content
+    SDK, and approved APIs
+  - Develop and integrate Sitecore AI capabilities such as AI-assisted search, recommendations,
+    content discovery, and personalization
+  - Collaborate with UX, design, content, marketing, and integration teams on design
+    system implementation
+  - Optimize Core Web Vitals, rendering performance, caching, SEO, and accessibility
+  - Write unit, integration, accessibility, and end-to-end tests and support CI/CD
+    quality checks
+  - Implement privacy-conscious analytics and engagement tracking including GA4 event
+    contracts and consent-aware behavior
+  use_cases:
+  - AI-assisted search on enterprise digital experiences
+  - Content discovery and recommendations
+  - Content personalization for customer engagement
+  - Headless Sitecore content delivery for enterprise sites
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, GraphQL, REST APIs, APIs, HTML, CSS]
+    databases: [SQL]
+    data: []
+    cloud: [Azure, Vercel]
+    ops: [CI/CD, Git]
+    languages: [TypeScript]
+    domains: []
+    other: [Sitecore XM Cloud, Sitecore Content SDK, Sitecore Experience Edge, Sitecore
+        JSS, Sitecore, GA4, Storybook, SEO, Code Review, Core Web Vitals]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11696477'
+  location: Chennai, IND
+  locations:
+  - Chennai, IND
+  - Hyderabad, IND
+  extracted_at: '2026-11-06T12:38:14.841302'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

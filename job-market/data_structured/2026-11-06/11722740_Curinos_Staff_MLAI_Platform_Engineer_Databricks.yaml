@@ -1,0 +1,53 @@
+company:
+  name: Curinos
+  stage: null
+  focus: AI-first analytics platform for financial institutions
+position:
+  title: Staff ML/AI Platform Engineer (Databricks)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation and monitoring frameworks for
+      LLMs, agentic workflows, and generative AI applications,
+      which is building evals and output-quality monitoring -
+      direct model-shaping work. An LLM/agent component is
+      explicitly present, so ai-first over ml-first.
+  responsibilities:
+  - Design and maintain platform capabilities for deploying, monitoring, and operating
+    ML models, LLM applications, and agentic AI workflows
+  - Develop automated CI/CD pipelines and infrastructure-as-code patterns for AI/ML
+    workloads
+  - Build observability solutions tracking model health, reliability, cost, performance,
+    AI safety metrics, and business outcomes
+  - Implement scalable evaluation and monitoring frameworks for LLMs, agentic workflows,
+    and generative AI applications
+  - Partner with scientists and engineers to productionize new ML models and AI capabilities
+  - Support governance, auditability, reproducibility, and model lifecycle management
+    requirements
+  - Establish architecture patterns, engineering standards, and provide technical
+    guidance and mentorship across teams
+  use_cases:
+  - Deploying and operating production ML models and LLM applications at scale
+  - Agentic AI workflows for financial services products
+  - Model health, AI safety, and cost/performance monitoring for regulated FinTech
+  - Governed, reproducible ML lifecycle management in a regulated environment
+  skills:
+    genai: [LLMs, Agentic Workflows, LLM Evaluation, Generative AI, MCP, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Databricks, Delta Lake, Data Pipelines, PySpark, Spark SQL]
+    cloud: []
+    ops: [MLflow, CI/CD, Infrastructure as Code, MLOps, Model Deployment, Observability,
+      Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11722740'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:42:38.363736'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

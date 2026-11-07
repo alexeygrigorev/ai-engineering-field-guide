@@ -1,0 +1,51 @@
+company:
+  name: Five9
+  stage: null
+  focus: Cloud contact center software
+position:
+  title: Staff Software Engineer | AI Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role modernizes the Studio flow builder into Java
+      microservices on GCP and keeps production systems running.
+      Cloud AI services (Azure OpenAI, Lex, Watson) are integrated
+      endpoints that other designs consume; the description shows
+      no prompt, RAG, agent-design, or model training work, so the
+      person does not shape model behavior.
+  responsibilities:
+  - Design, develop, test, and document features across backend, frontend, and interaction
+    management platforms
+  - Lead design and implementation of new features and change requests for the Studio
+    flow builder and execution engine
+  - Re-architect the Studio product into Java-based microservices on GCP
+  - Write scalable, multi-tenant, maintainable code adhering to coding best practices
+  - Take operational ownership of service performance including on-call rotation and
+    incident management using New Relic, Grafana, and Prometheus
+  - Conduct code reviews, identify technical debt, and propose improvements
+  - Coach and mentor peers and collaborate with product owners and designers
+  - Explore cutting-edge technologies and convert ideas into production-ready solutions
+  use_cases:
+  - Drag-and-drop flow builder and execution engine for contact center interactions
+  - Omnichannel self-service spanning voice, SMS, and chatbots
+  - AI agents delivering self-service with seamless escalation to live human agents
+  - AI-assisted support for live agents, supervisors, and workforce optimization
+  skills:
+    languages: [Java, PHP, Python, JavaScript, SQL]
+    domains: []
+    web: [Spring Boot, Vue, React, Laravel, HTML, CSS, Microservices]
+    cloud: [GCP, AWS, Azure, Azure OpenAI]
+    data: []
+    ml: []
+    databases: [NoSQL, MySQL, Redis, MongoDB]
+    genai: []
+    ops: [CI/CD, Kubernetes, New Relic, Grafana, Prometheus]
+    other: [Multi-Tenant Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11668946'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:30:01.559572'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

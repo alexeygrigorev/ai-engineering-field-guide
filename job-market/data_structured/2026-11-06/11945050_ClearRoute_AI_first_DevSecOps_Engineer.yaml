@@ -1,0 +1,56 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy for quality, cloud and developer
+    experience
+position:
+  title: AI first DevSecOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent behavior directly: putting autonomous
+      agents to work on the toolchain and designing how they are
+      allowed to act (identity, scoping, audit, stop control),
+      plus building MCP servers. Designing agent flows and tool
+      calling is shaping, making this ai-first.
+  responsibilities:
+  - Build working prototypes and harden the ones that prove their value
+  - Put autonomous agents to work on the toolchain for remediation, pipeline upgrades,
+    scanner triage and credential rotation
+  - 'Design how autonomous agents are allowed to act: identity, scoping, audit trail
+    and stop control'
+  - Create new platform products such as self-serve dashboards, MCP servers, skills
+    and developer tooling
+  - Make the secure, correct path the default in CI/CD pipelines
+  - Run time-boxed experiments with decide-or-kill dates and written verdicts
+  - Make the estate observable through monitoring, telemetry, logging, tracing and
+    alerting
+  - Run the platform with zero-downtime practices defined and tested as code
+  use_cases:
+  - Autonomous agents performing remediation, pipeline upgrades, scanner triage and
+    credential rotation
+  - 'Governance of autonomous agents: identity, scoping, audit trail and stop control'
+  - Developer platform tooling including MCP servers, skills and self-serve dashboards
+  - Secure-by-default CI/CD pipelines for delivery teams
+  - Observability of the platform estate
+  skills:
+    genai: [MCP, AI Agents, Claude Code, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Kubernetes, Infrastructure as Code, Monitoring, Observability, DevSecOps,
+      Terraform, GitHub, Azure DevOps, Artifactory, Logging, Tracing]
+    languages: [C#, Python, TypeScript]
+    domains: []
+    other: [Test-Driven Development, Trunk-Based Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11945050'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:07:01.461609'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Infilect
+  stage: early-stage startup
+  focus: Visual intelligence and AI for retail supply chain
+position:
+  title: AI Engineer - Contract 1 Year
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, tests, and deploys deep learning models for
+      computer vision (object detection, tracking, OCR,
+      classification) with no LLM or agent component. This is
+      classical ML/DL model shaping, so ml-first.
+  responsibilities:
+  - Read research papers and implement state-of-the-art techniques
+  - Extend publicly available code modules for custom problems
+  - Develop machine learning backend software
+  - Rapidly experiment, analyze, and deploy machine/deep learning models
+  - Train and test deep learning models at scale
+  - Work on object detection, object tracking, OCR in natural scenes, image classification,
+    and video analysis
+  use_cases:
+  - Retail supply-chain problem solving
+  - Real-time image and video processing at scale
+  - Object detection and tracking in retail environments
+  - OCR in natural scenes
+  - Image classification and video analysis
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Deep Learning, Machine Learning, Model Training, Model
+        Deployment, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [OpenCV, OCR, Object Detection, Object Tracking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11590663'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:17:18.898246'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

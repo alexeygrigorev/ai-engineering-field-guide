@@ -1,0 +1,44 @@
+company:
+  name: RADcube LLC
+  stage: null
+  focus: IT consulting and data engineering services
+position:
+  title: Data Engineer – AWS (LARA + ELA + Advanced AI Data Ingestion)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds document parsing, chunking, and
+      embedding pipelines — i.e., designs retrieval/RAG components
+      that shape how AI/GenAI systems consume data, not merely
+      moves data. With LLM/GenAI targets involved, this is ai-
+      first.
+  responsibilities:
+  - Design ingestion pipelines feeding analytics and AI/GenAI use cases
+  - Ingest structured and unstructured data from multiple sources into the AWS data
+    lake
+  - Prepare AI-ready datasets including document parsing, chunking and embedding pipelines
+  - Build reusable, metadata-driven ingestion frameworks
+  use_cases:
+  - Analytics and AI/GenAI data ingestion
+  - Document parsing and AI-ready dataset preparation
+  - Structured and unstructured data ingestion into an AWS data lake
+  - Chunking and embedding pipelines for GenAI retrieval
+  skills:
+    genai: [Embeddings]
+    ml: []
+    web: []
+    databases: [Vector Databases, OpenSearch, Data Lakes]
+    data: [Kinesis, PySpark, Data Pipelines]
+    cloud: [AWS, AWS Glue, AWS S3, AWS Lambda, AWS Bedrock]
+    ops: [AWS Step Functions]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11976989'
+  location: Bengaluru South, IND
+  extracted_at: '2026-11-06T14:15:26.499884'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

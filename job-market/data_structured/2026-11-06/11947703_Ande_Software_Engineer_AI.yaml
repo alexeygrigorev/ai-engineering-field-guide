@@ -1,0 +1,52 @@
+company:
+  name: Ande
+  stage: seed and Series A funded
+  focus: AI-powered corporate entertainment booking platform
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns an LLM agent system: designing agent
+      architecture, multi-agent orchestration, tool calling, evals
+      with LLM judges, and memory. This is directly shaping LLM
+      behavior in production.
+  responsibilities:
+  - Own the architecture, model choices, and upgrade path of the multi-agent concierge
+    system
+  - Build and govern typed agent tools for search, booking, payment, and messaging
+    with safety guardrails
+  - 'Build production evals: scenario suites, graders, and LLM judges calibrated against
+    human labels'
+  - Power email-based venue correspondence and negotiation, resistant to prompt injection
+  - Build agent memory and the supply learning loop turning conversations into structured
+    data
+  - Ship typed classifiers for consent, triage, ranking, and urgency with shadow-mode
+    rollouts
+  - Define AI development practices and mentor engineers
+  use_cases:
+  - Automated corporate entertainment booking end to end
+  - Venue sourcing, comparison, and negotiation over email
+  - On-policy payment and booking on behalf of executives
+  - Supply learning loop from venue conversations into structured data
+  - Consent, triage, ranking, and urgency classification
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems, Function Calling, Structured Outputs,
+      LLM Evaluation, Prompt Engineering, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [TypeScript]
+    domains: []
+    other: [Idempotency]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11947703'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:07:45.727081'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

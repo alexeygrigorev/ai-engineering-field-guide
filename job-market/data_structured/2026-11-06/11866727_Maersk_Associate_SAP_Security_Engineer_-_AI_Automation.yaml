@@ -1,0 +1,53 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global transport and logistics shipping
+position:
+  title: Associate SAP Security Engineer - AI & Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SAP security engineer role focused on
+      roles/authorizations, GRC, audits, and compliance. Despite
+      the "AI & Automation" in the title, no responsibilities
+      involve shaping model behavior, prompts, retrieval, or agent
+      design - it is a traditional SAP security/identity
+      governance role with no concrete AI work described.
+  responsibilities:
+  - Build, test and deploy SAP solutions based on architect designs and progress into
+    detailed design
+  - Design, develop and quality-assure information security controls for governance
+    and compliance
+  - Build and manage SAP roles, authorizations, and user access, including cloud SAP
+    security controls
+  - Respond to business requests for security control changes and gather requirements
+    from architects and SMEs
+  - Support internal and external SAP audits, define security processes, and run periodic
+    security, SoD, and critical transaction reviews
+  - Provide SAP security support for site deployments, implementations, and enhancements
+  - Engage in knowledge transfer and training of security, IT, and business teams
+  use_cases:
+  - SAP security governance, risk and compliance
+  - Role and authorization management across SAP systems
+  - Internal and external audit support with segregation of duties reviews
+  - Security controls for finance, operations, HR and customer business processes
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [SAP GRC AC, S/4HANA, SAP Analytics Cloud, HANA Database Security]
+    ops: []
+    languages: []
+    domains: []
+    other: [SAP Fiori, Segregation of Duties, SIEM, Enterprise Identity & Governance,
+      Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11866727'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:24:58.635082'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

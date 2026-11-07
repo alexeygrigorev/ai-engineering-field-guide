@@ -1,0 +1,55 @@
+company:
+  name: PwC
+  stage: null
+  focus: |-
+    Professional services and consulting for insurance
+    technology
+position:
+  title: Guidewire AI Engineer Consultant, Senior Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and customizes Guidewire insurance
+      applications; "developing AI-enabled solutions" is vague
+      integration work with no evidence of shaping model behavior
+      (no prompts, RAG, training, or evals). AI is an add-on to
+      Guidewire application consulting, so it is ai-support.
+  responsibilities:
+  - Design and customize Guidewire applications supporting policy, billing, and claims
+    workflows for insurance clients
+  - Develop AI-enabled solutions and integrate automation capabilities into Guidewire
+    environments
+  - Code, test, and troubleshoot application components across configuration, integration,
+    and deployment
+  - Translate client requirements into technical solutions supporting operational
+    efficiency and digital transformation
+  - Interpret data and system behavior to inform enhancements and issue resolution
+  - Review deliverables from junior team members and provide technical guidance
+  - Build client relationships through responsive communication and progress updates
+  - Use Guidewire BillingCenter, ClaimCenter, and PolicyCenter skills to support platform
+    modernization
+  use_cases:
+  - Policy administration and billing workflow automation for insurers
+  - Claims processing modernization in Guidewire platforms
+  - AI-enabled automation within insurance core systems
+  - Application modernization and optimization for insurance clients
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Guidewire, Guidewire BillingCenter, Guidewire ClaimCenter, Guidewire PolicyCenter,
+      Automation, Insurance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11854561'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:23:54.427772'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Nominal
+  stage: backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed
+  focus: |-
+    Connected test and operations platform for hardware
+    engineering
+position:
+  title: Forward Deployed Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, skills, and prompts on
+      Nominal's platform, and evaluates whether agents work —
+      directly shaping model behavior. Forward Deployed Engineers
+      adapting AI at customer sites are ai-first per edge cases.
+  responsibilities:
+  - Embed with hardware engineering teams at build-partner programs, on site
+  - Build custom agentic workflows and skills that perform real engineering work
+  - Identify reusable patterns across customers and bring them back as product
+  - Win build partners by demonstrating measured before-and-after results
+  - Serve as the technical voice of the customer inside the Hardware Intelligence
+    team
+  - Build new skills, agent capabilities, and eval tasks
+  use_cases:
+  - Turning requirements and test plans into automated checks
+  - Running engineering analyses for hardware programs
+  - Investigating hardware test issues using agents that reason over telemetry and
+    test data
+  - Accelerating hardware lifecycle work (spacecraft, racecars, autonomous vehicles,
+    defense, energy)
+  skills:
+    genai: [Agentic Workflows, Function Calling, Prompt Engineering, LLM Evaluation,
+      Claude Code, Cursor, Codex, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11535773'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:07:10.473087'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

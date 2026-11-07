@@ -1,0 +1,46 @@
+company:
+  name: OPENLANE
+  stage: publicly traded
+  focus: Digital wholesale marketplace for used vehicles
+position:
+  title: AI First Android Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an Android developer who uses AI coding
+      assistants (copilots, debuggers, test generators) as a tool
+      to ship faster; it does not shape any model's behaviour,
+      prompts, retrieval, or evals. AI is only a development
+      accelerator, so this is ai-support.
+  responsibilities:
+  - Implement Android features across seller and buyer marketplace experiences
+  - Ship Compose UI with clear state/event handling, touching legacy XML only as needed
+  - Write unit tests and meet team CI bars for formatting and coverage
+  - Use AI tools daily for coding, tests, and debugging, verifying outputs before
+    merge
+  - Collaborate with Product, design, backend, and platform teams under Senior guidance
+  - Pair with iOS counterparts on shared product behavior
+  use_cases:
+  - Wholesale used-vehicle marketplace mobile app for sellers and buyers
+  - Real-time high-value marketplace systems
+  - Platform modernization with AI-assisted development
+  skills:
+    genai: [GitHub Copilot]
+    ml: [Unit Testing]
+    web: [Android, Jetpack Compose, REST APIs, ViewModels, StateFlow, Hilt, XML Views]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Code Review, MockK]
+    languages: [Kotlin, Coroutines]
+    domains: []
+    other: [Feature Flags, Mobile Analytics, Room, WorkManager, CameraX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609591'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:20:04.767996'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

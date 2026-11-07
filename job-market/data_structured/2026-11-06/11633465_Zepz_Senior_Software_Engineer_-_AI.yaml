@@ -1,0 +1,55 @@
+company:
+  name: Zepz
+  stage: null
+  focus: Cross-border money transfer (WorldRemit, Sendwave)
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI workflows that investigate
+      financial crime alerts end to end, plus evaluation harnesses
+      to prove their safety — designing agent flows and building
+      evals is shaping model behavior. LLM/agent components are
+      central, so it is ai-first.
+  responsibilities:
+  - Design and build services that generate, enrich, and route financial crime alerts
+    across WorldRemit and Sendwave
+  - Build agentic AI workflows that investigate alerts end to end, plus evaluation
+    harnesses proving they are safe to trust
+  - Integrate and own reliability of third-party monitoring and screening platforms
+  - Build tooling that turns analyst workflow pain into solutions, working with compliance
+    teams
+  - Make automated decisions auditable and explainable to regulators
+  - Participate in on-call rotation, incident response, and production support with
+    remediation
+  - Design and operate REST/gRPC APIs, event-driven streaming systems, and relational
+    databases
+  use_cases:
+  - Financial crime detection and prevention across cross-border payments
+  - Transaction monitoring and alert generation
+  - Customer screening, enhanced due diligence, and customer risk rating
+  - Agentic AI triage and investigation of financial crime alerts
+  - Automated drafting of regulatory submission narratives
+  - Auditable automated decisioning for compliance
+  skills:
+    genai: [Agentic Workflows, Anthropic API]
+    ml: []
+    web: [Spring Boot, REST APIs, gRPC]
+    databases: [PostgreSQL]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Grafana, Loki, Kubernetes, ArgoCD, Terraform]
+    languages: [Java, Kotlin, Python, SQL]
+    domains: []
+    other: [Event-Driven Architecture, Rules Engines, Risk Scoring, Transaction Monitoring,
+      AML Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11633465'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T12:27:09.082209'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

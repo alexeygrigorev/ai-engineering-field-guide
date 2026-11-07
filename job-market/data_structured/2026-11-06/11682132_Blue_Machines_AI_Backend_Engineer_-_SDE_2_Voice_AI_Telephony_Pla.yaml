@@ -1,0 +1,50 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Real-time voice AI and telephony platform
+position:
+  title: Backend Engineer - SDE 2 (Voice AI / Telephony Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core deliverable is high-scale, low-latency
+      telephony/backend infrastructure (WebRTC, SIP, RTP,
+      microservices) that serves voice AI workflows. The role
+      integrates models and agent frameworks the AI/ML teams
+      build, and supports their benchmarking — it does not itself
+      shape model behavior through prompts, retrieval design, or
+      training.
+  responsibilities:
+  - Build and maintain scalable microservices powering real-time AI and voice workflows
+  - Contribute to system design covering APIs, data models, deployment, and monitoring
+  - Write performant, concurrent, fault-tolerant code at scale
+  - Implement observability and testing best practices using Datadog and Sentry
+  - Collaborate with product and AI teams on multi-agent orchestration and automation
+    layer
+  - Partner with the ML team to integrate in-house models and support benchmarking
+    and observability
+  use_cases:
+  - Real-time live voice conversation platform
+  - SIP/WebRTC-based telephony with real-time audio streaming
+  - ASR/TTS speech processing with real-time inference
+  - Multi-agent orchestration and automation layer
+  - In-house AI model integration and benchmarking
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems]
+    ml: [ASR, TTS]
+    web: [Microservices, APIs]
+    databases: [Vector Databases, MongoDB, Redis, PostgreSQL]
+    data: [Kafka, Pub/Sub]
+    cloud: [GCP, AWS]
+    ops: [Monitoring, Datadog, Kubernetes, Docker, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: [WebRTC, SIP, RTP, Voice AI, Sentry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11682132'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:35:30.196298'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

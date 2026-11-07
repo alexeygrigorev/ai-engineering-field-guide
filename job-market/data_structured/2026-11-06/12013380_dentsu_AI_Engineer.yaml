@@ -1,0 +1,56 @@
+company:
+  name: dentsu
+  stage: null
+  focus: Global marketing/customer experience agency (Merkle/dentsu)
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, retrieval architectures,
+      guardrails, RLHF/LoRA fine-tuning, and prompt engineering
+      for LLM-based systems, directly shaping model behavior and
+      output quality. LLM and agent components dominate, so it is
+      ai-first.
+  responsibilities:
+  - Build multimodal and agentic AI applications using LLMs and frameworks such as
+    LangChain, LangGraph, LlamaIndex, and AutoGen
+  - Design AI workflows incorporating reasoning, planning, tool use, memory, grounding,
+    and external integrations
+  - Develop knowledge-graph-assisted AI systems with entity extraction, linking, and
+    KG-augmented retrieval
+  - Implement fine-tuning, alignment (RLHF/RLAIF), LoRA/QLoRA, pruning, and model
+    evaluation pipelines
+  - Build hybrid dense-sparse information retrieval, ranking, and relevance optimization
+    systems
+  - Deploy models as scalable APIs and microservices using Python, FastAPI/Flask,
+    and Docker on AWS/Azure/GCP
+  - Collaborate cross-functionally with CX, engineering, and product teams; document
+    and mentor junior engineers
+  use_cases:
+  - Conversational and non-conversational AI agents for customer engagement
+  - Multimodal experiences and personalization systems
+  - Knowledge-grounded AI with knowledge-graph-augmented retrieval
+  - Enterprise information retrieval and relevance optimization
+  - Predictive modeling for global brands
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, AutoGen, LLMs, RAG, Prompt Engineering,
+      AI Agents, Fine-Tuning, LoRA, RLHF, Embeddings, Multimodal Architectures]
+    ml: [PyTorch, TensorFlow, Deep Learning, Transformers, Model Evaluation, Feature
+        Engineering, Predictive Modeling]
+    web: [FastAPI, Flask, Django, Microservices]
+    databases: [Knowledge Graphs, Vector Search, MongoDB, NoSQL, Vector Databases]
+    data: [Spark, Hadoop, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, MLOps, Model Deployment, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Conversational AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12013380'
+  location: Kharadi, IND
+  extracted_at: '2026-11-06T14:29:30.865260'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

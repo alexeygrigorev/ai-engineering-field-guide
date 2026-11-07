@@ -1,0 +1,51 @@
+company:
+  name: Crunchyroll
+  stage: null
+  focus: Anime and manga streaming, events, games and merchandise
+position:
+  title: Forward Deployed Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer designing agents, RAG,
+      prompt/context engineering, evals, and guardrails for LLM
+      systems — this is shaping model behaviour. LLM/agent
+      components are central, so ai-first per the FDE edge case.
+  responsibilities:
+  - Embed with business teams to map real workflows and identify pain points
+  - Identify where AI or automation can create business value and choose the right
+    technical approach (agent, RAG, ML, automation, software)
+  - Design and build reliable AI systems end-to-end including tool use, orchestration,
+    prompt and context engineering, structured outputs, and human-in-the-loop workflows
+  - Prototype quickly, then productionize solutions with enterprise integrations
+  - Build evaluations, observability, tracing, and monitoring to measure quality,
+    cost, and drift
+  - Define and measure business outcomes of deployed solutions and iterate post-launch
+  - Work with business and technical leaders to align stakeholders and manage risks
+  - Create reusable components, patterns, and documentation for handoff and scale
+  use_cases:
+  - Workflow automation and process improvement for internal business teams
+  - Agent-based systems executing multi-step tasks across enterprise tools and data
+  - Employee experience improvements via AI-powered internal solutions
+  - Applied AI for content operations, localization, marketing, and support workflows
+  skills:
+    genai: [Agentic Workflows, AI Agents, RAG, Prompt Engineering, Context Engineering,
+      Function Calling, Structured Outputs, Guardrails, MCP, LLM Evaluation, LLMs,
+      Generative AI, Multi-Agent Systems]
+    ml: [Machine Learning]
+    web: [APIs, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Datadog, LangSmith, Langfuse]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885908'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:36:01.040126'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

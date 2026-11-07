@@ -1,0 +1,65 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: AI Engineer 5 (GenAI Platform, Agentic Infrastructure)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behaviour directly: foundation
+      model training, LLM inference optimization, agents and
+      multi-agent workflows, guardrails, model evaluation, and
+      multi-model orchestration with LLMs and vector search. LLM
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, multi-agent workflows, guardrails, model
+    evaluation, and observability
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent and apply foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Establish cost-performance governance across AI systems, tracking GPU utilization,
+    model throughput, and inference cost efficiency
+  - Contribute to the technical vision and roadmap of foundational AI systems at Capital
+    One
+  - Lead design councils and review boards to ensure technical consistency and AI
+    engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  use_cases:
+  - AI-powered banking customer experiences and real-time assistance
+  - Agent and multi-agent workflow platforms for internal associates
+  - Foundation model training and LLM inference infrastructure at scale
+  - Similarity/vector search for retrieval in production AI systems
+  - Responsible AI deployment with guardrails, explainability, and human-in-the-loop
+    review
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems, Agentic Workflows, Guardrails, LLM
+        Evaluation]
+    ml: [Fine-Tuning, Model Training, PyTorch, Hugging Face, Model Evaluation, Machine
+        Learning, Quantization, CUDA]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11337013'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:31:44.158697'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

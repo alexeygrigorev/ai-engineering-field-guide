@@ -1,0 +1,58 @@
+company:
+  name: Amalgamated Bank
+  stage: null
+  focus: Regulated bank building governed agentic AI solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agents, RAG, MCP
+      clients/servers, prompt/context engineering, model
+      evaluation, and guardrails—directly shaping LLM/agent
+      behavior. Hence ai-first.
+  responsibilities:
+  - Design, build, deploy, and operate production agents using RAG, tool calling,
+    multi-agent, supervisory, and human-in-the-loop patterns
+  - Build and integrate MCP clients and servers and author secure custom tools and
+    APIs
+  - Lead prompt and context engineering, model selection, evaluation, and token-usage
+    optimization
+  - Configure and operate Databricks AI Gateway for model/agent access, routing, policies,
+    cost controls, and guardrails
+  - Establish agent identity and authorization patterns (on-behalf-of, delegated)
+    for auditable actions
+  - Partner with business stakeholders to translate requirements into agent scope
+    and delivery plans
+  - Integrate agents with Salesforce Data Cloud/Agentforce, Microsoft Copilot Studio,
+    and MuleSoft
+  - Build CI/CD, automated testing, evaluation, and monitoring for AI workloads; mentor
+    junior engineers
+  use_cases:
+  - Governed, auditable AI agents for a regulated bank
+  - Agentic automation for credit, lending, and relationship banking functions
+  - Enterprise agent access control, routing, and cost governance via LLM gateway
+  - Agent observability, security telemetry, and SIEM integration
+  - Data certification, lineage, and entitlement enforcement for AI workloads
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, MCP, Function Calling, Prompt
+        Engineering, Context Engineering, LLMs, Guardrails, LLM Evaluation, LangGraph,
+      LlamaIndex, Microsoft Copilot Studio]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: [Unity Catalog]
+    data: [Databricks, Spark, Delta Lake]
+    cloud: [Azure]
+    ops: [CI/CD, MLflow, Databricks AI Gateway, Splunk]
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce Data Cloud, Agentforce, MuleSoft, Google SecOps, Data Governance,
+      Model Risk Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11974189'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:15:02.389296'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

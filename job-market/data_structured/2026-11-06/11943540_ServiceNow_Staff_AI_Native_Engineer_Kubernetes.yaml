@@ -1,0 +1,54 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: Enterprise workflow automation and AI platform
+position:
+  title: Staff AI Native Engineer (Kubernetes)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Kubernetes platform engineer: building
+      operators, controllers, and cloud-native infrastructure. AI
+      appears only as an optional "good to have" consideration of
+      how to integrate AI into platform work, not as shaping model
+      behaviour, so it is ai-support.
+  responsibilities:
+  - Lead design and delivery of complex components and services within the cloud-native
+    platform from design through production operation
+  - Act as technical lead for major features, translating ambiguous problems into
+    clear scalable designs
+  - Design, code, and review core systems such as Kubernetes operators, controllers,
+    infrastructure automation, and platform services
+  - Identify technical risks early and drive resolution with focus on reliability,
+    scalability, and operability
+  - Operate stateful and distributed workloads on Kubernetes including databases and
+    data services
+  - Mentor mid-level and junior engineers and raise the engineering bar through reviews
+    and guidance
+  - Partner with Principal and Distinguished Engineers on platform architecture alignment
+  use_cases:
+  - Kubernetes platform infrastructure operation at scale
+  - Infrastructure automation via Kubernetes operators and controllers
+  - Stateful services and cloud-native database platforms on Kubernetes
+  - Large-scale distributed systems deployment and operations
+  - Fleet observability and reliability for platform services
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices]
+    databases: [Redis]
+    data: [Kafka, Parquet]
+    cloud: [AWS, Azure, GCP, EKS, AKS]
+    ops: [Kubernetes, Docker, CI/CD, GitOps, Terraform, Distributed Systems, Monitoring,
+      Observability, Infrastructure as Code, DevOps, Crossplane]
+    languages: [Go]
+    domains: []
+    other: [Event-Driven Architecture, Service Mesh, mTLS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11943540'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:04:21.493982'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

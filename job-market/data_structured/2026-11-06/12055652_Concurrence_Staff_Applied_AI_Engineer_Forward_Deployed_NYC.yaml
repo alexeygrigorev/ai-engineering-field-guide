@@ -1,0 +1,51 @@
+company:
+  name: Concurrence
+  stage: backed by Madrona, General Catalyst, and Optum Ventures
+  focus: |-
+    Platform for healthcare organizations to build clinical AI
+    agents
+position:
+  title: Staff Applied AI Engineer (Forward Deployed) [NYC or SF]
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds hierarchical agent systems, designs agent
+      skills/tool flows, and builds evals that gate model output
+      quality — clear LLM/agent shaping. Forward-deployed AI
+      adaptation at customer sites is explicitly ai-first per the
+      edge cases.
+  responsibilities:
+  - Own the most complex customer use cases end to end, from deployment brief to production
+  - Build hierarchical agent systems with evals and safety gates for clinical settings
+  - Integrate EHRs, legacy systems, and customer data with the platform
+  - Turn field-proven patterns into first-class platform capabilities and push deterministic
+    lookups
+  - Set technical direction across deployments and commit timelines
+  - Mentor engineers and help set team architecture and engineering standards
+  - Raise integration, scope, and spec issues early before builds pay for them
+  use_cases:
+  - Clinical AI agents for healthcare organizations
+  - Patient intake and scheduling
+  - Medication management
+  - Clinical decision support
+  - Healthcare denial reduction and faster billing close
+  - Unified event-level patient care record (Health World Model)
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [EHR Integrations, HL7, FHIR, Voice Agents]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12055652'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:42:34.797558'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Left Field Labs
+  stage: null
+  focus: Creative technology agency building AI products
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM pipelines (prompting, structured
+      outputs, tool use, retrieval) and builds evals to measure
+      and improve model output quality, which is shaping model
+      behaviour on LLM systems.
+  responsibilities:
+  - Build and ship production AI features end to end for the illumend platform
+  - Design LLM pipelines and integrations (prompting, structured outputs, tool use,
+    retrieval) across Python/FastAPI backends and React/TypeScript frontends
+  - Build evaluation sets and automated checks to measure accuracy, catch regressions,
+    and monitor quality, latency, and cost in production
+  - Extract and validate data from insurance documents and check coverage against
+    contract requirements
+  - Build AI assistants and agents that help users act on findings
+  - Embed AI coding assistants (Claude Code, Cursor, GitHub Copilot) into daily engineering
+    workflow while validating output
+  - Build fast prototypes for new AI capabilities and harden them for production
+  - Dig into raw customer documents, data, edge cases, and API specs
+  use_cases:
+  - Insurance compliance tracking for non-insurance professionals
+  - Extracting and validating structured data from insurance documents (PDFs, scanned
+    forms)
+  - Checking insurance coverage against contract requirements
+  - AI assistants and agents that help users act on compliance findings
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Function Calling, RAG, AI Agents,
+      LLM Evaluation, LLMs, Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [FastAPI, React, Next.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12022033'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:31:01.215553'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

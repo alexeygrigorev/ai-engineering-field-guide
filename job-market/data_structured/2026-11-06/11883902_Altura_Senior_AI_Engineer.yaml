@@ -1,0 +1,54 @@
+company:
+  name: Altura
+  stage: Series A
+  focus: AI-powered bid management platform for tenders and RFPs
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, context engineering,
+      evaluations, and guardrails for LLM/GenAI systems, which is
+      directly shaping model behavior and output quality. LLM
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Design and deliver an agentic layer and rich context graph automating bid work
+    with deep integration into customer knowledge repositories
+  - Drive architecture and delivery of production LLM/GenAI systems including context
+    engineering, agentic workflows, model evaluations, and multi-model strategies
+  - 'Define and implement evaluation: offline and online metrics, gold sets, regression
+    tests, human review loops, and A/B experiments'
+  - 'Operationalize LLMOps: deployment patterns, observability, monitoring, incident
+    response, and performance/cost optimization'
+  - 'Build guardrails and security: prompt-injection defenses, data-exfiltration prevention,
+    tool/action permissions, and safe handling of sensitive data'
+  - Establish engineering standards through reference implementations, reusable libraries,
+    review practices, and documentation
+  - Mentor and coach engineers, raising the bar on system design and code quality
+  use_cases:
+  - Agentic virtual bid manager automating the entire tender/RFP bid lifecycle
+  - Knowledge center turning bid data into actionable insights
+  - Context graph integrated with customer knowledge repositories for automation
+  - Production LLM systems with evaluation, monitoring, and guardrails
+  - Automated bid response generation at scale across customers
+  skills:
+    languages: [Python, C#]
+    domains: []
+    web: [Vue, Nuxt.js, ASP.NET]
+    cloud: [Azure]
+    data: []
+    ml: [Quantization, Model Evaluation]
+    databases: [Vector Search]
+    genai: [LLMs, Generative AI, Context Engineering, Agentic Workflows, Prompt Engineering,
+      Embeddings, Structured Outputs, Guardrails, Claude Code, Cursor, GitHub Copilot,
+      LLM Evaluation]
+    ops: [GitHub, LLMOps, Observability, Monitoring, A/B Testing, CI/CD, Docker]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11883902'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T13:31:58.511292'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

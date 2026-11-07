@@ -1,0 +1,51 @@
+company:
+  name: HP
+  stage: null
+  focus: Technology company (HP) building software solutions
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, tunes hyperparameters, evaluates, and
+      retrains ML models — clearly shaping model behaviour. No
+      LLM, prompt, RAG, or agent components are mentioned; the
+      stack (PyTorch, TensorFlow, scikit-learn, NLP) is classical
+      ML/DL, so it is ml-first.
+  responsibilities:
+  - Develop integrated software solutions supporting the development, deployment,
+    and lifecycle of machine learning models
+  - Train and validate models using appropriate evaluation metrics and techniques
+  - Optimize and tune hyperparameters to improve model performance and generalization
+  - Deploy ML models to production environments ensuring scalability, reliability,
+    and efficiency
+  - Monitor and maintain deployed models, updating them as data or requirements change
+  - Design and maintain ML pipelines that efficiently produce scalable models
+  - Collaborate with CI/CD teams for seamless model deployment
+  - Apply machine learning and statistical modeling techniques to business or research
+    problems
+  use_cases:
+  - Machine learning models driving business innovation and value
+  - Production ML systems with scalable and reliable model serving
+  - Automated model training and retraining pipelines
+  - Statistical modeling applied to business or research problems
+  skills:
+    languages: [Python, Java, C++]
+    domains: [NLP]
+    web: []
+    cloud: [AWS, Azure]
+    data: [Spark, Big Data]
+    ml: [Machine Learning, Deep Learning, PyTorch, TensorFlow, scikit-learn]
+    databases: []
+    genai: []
+    ops: []
+    other: [Agile Methodology, Artificial Intelligence, Data Science, Software Engineering,
+      Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12065368'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:45:20.003626'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

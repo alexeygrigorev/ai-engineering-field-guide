@@ -1,0 +1,52 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Production Voice AI for large Indian enterprises
+position:
+  title: Forward Deployed Engineer (Voice AI / Telephony) - Bengaluru
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs prompts, tool-calling logic,
+      guardrails, and agent orchestration for production LLM voice
+      agents, which is shaping model behaviour. Forward Deployed
+      Engineers adapting and deploying AI solutions are explicitly
+      ai-first.
+  responsibilities:
+  - Design, prompt, build, and deploy production voice agents including guardrails,
+    conversation design, and tool-calling logic
+  - Build backend integrations (REST APIs, WebSockets, webhooks, CRM writes) connecting
+    the platform with enterprise client systems
+  - Implement AI/LLM frameworks using LangChain, OpenAI APIs, or similar SDKs for
+    intelligent workflows
+  - Perform root-cause analysis across logs, traces, and call flows to diagnose prompt,
+    platform, or data issues
+  - Monitor and optimize agent metrics (completion rate, hallucination rate, latency,
+    cost) and run funnel experiments
+  - Partner with client engineering teams, lead technical workshops, and travel for
+    live-call reviews
+  use_cases:
+  - Production voice AI agents handling millions of live conversations
+  - Voice agents in Hindi, Hinglish, and regional Indian languages
+  - Enterprise integrations connecting AI agents to CRM and client systems
+  - Telephony-based conversational AI for large enterprises
+  skills:
+    genai: [AI Agents, Prompt Engineering, Guardrails, Function Calling, LangChain,
+      OpenAI API, RAG, LLMs, Conversational AI]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [SIP, WebRTC, Twilio, JWT]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11830106'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:21:14.323704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

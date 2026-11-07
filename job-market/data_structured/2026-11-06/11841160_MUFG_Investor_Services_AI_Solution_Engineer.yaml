@@ -1,0 +1,53 @@
+company:
+  name: MUFG Investor Services
+  stage: null
+  focus: |-
+    Asset servicing and operational solutions for investment
+    funds
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the Workflow and Agent AI Platform,
+      embedding AI agents into enterprise systems and enhancing
+      workflows with evaluation results and monitoring — shaping
+      agent behaviour, not just consuming an API. Agent/LLM
+      components are involved, so ai-first.
+  responsibilities:
+  - Build and evolve the technical layer of the Workflow and Agent AI Platform used
+    to design, run, and scale AI workflows and agents
+  - 'Own AI-enabled capabilities end to end: design, delivery, production deployment,
+    and continuous improvement'
+  - Deliver AI-enabled features across frontend, backend, AI, and integration layers
+  - Embed product functionality into AI-enabled workflows as reusable patterns and
+    enhance them using evaluation results, monitoring, and user feedback
+  - Contribute to architecture decisions for scalability, observability, security,
+    and platform evolution
+  - Collaborate with Data Scientists and AI Engineers to productionize research outputs
+  - Coordinate with Platform Engineers on deployment and infrastructure needs
+  - Participate in code reviews, documentation, and knowledge sharing
+  use_cases:
+  - Enterprise platform for designing, running, and scaling AI workflows and agents
+  - Embedding product functionality into AI-enabled workflows
+  - Productionizing AI research outputs for internal and external products
+  - AI-enabled solutions for asset servicing and financial services business problems
+  skills:
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    web: [React, Vue, APIs]
+    cloud: [AWS, Azure, AWS Strands, Azure AI Agent Service]
+    data: [Data Modeling, Databricks]
+    ml: []
+    databases: [PostgreSQL]
+    genai: [LangChain, CrewAI, Agentic Workflows, Generative AI]
+    ops: [CI/CD, MLOps, LangSmith]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11841160'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:22:09.461046'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

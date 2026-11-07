@@ -1,0 +1,58 @@
+company:
+  name: Rapid7
+  stage: null
+  focus: |-
+    Cybersecurity detection, response, and exposure management
+    platform
+position:
+  title: Senior Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: fine-tuning, post-
+      training, distillation of LLMs, context engineering,
+      evaluation strategy, and inference optimization of LLMs
+      themselves. LLM/agentic systems are central, so it is ai-
+      first.
+  responsibilities:
+  - Set AI technical vision, architecture, and multi-year roadmap for LLM and agentic
+    systems
+  - Define company-wide model strategy including frontier vs open-source models, fine-tuning,
+    distillation, and post-training
+  - Lead highest-risk technical initiatives including fine-tuning and distillation
+    of open-source LLMs on security data
+  - Establish standards for context engineering, inference optimization, and LLM/agent
+    evaluation
+  - Lead LLM inference optimization at scale balancing quality, latency, and cost
+  - Lead design reviews, prototype and build critical model, training, and inference
+    code
+  - Mentor Principal, Staff, and Senior engineers
+  - Represent Rapid7's AI engineering to executives, customers, and the external community
+  use_cases:
+  - Alert triage for security operations
+  - Threat investigation and automated response
+  - Vulnerability prioritization
+  - Attack surface risk assessment
+  - Guided remediation
+  skills:
+    genai: [LLMs, Agentic Workflows, Fine-Tuning, LoRA, RLHF, Prompt Engineering,
+      RAG, Context Engineering, LLM Evaluation, Quantization]
+    ml: [PyTorch, Machine Learning, Deep Learning, Model Training, Transformers, Distributed
+        Training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [vLLM, TensorRT, Inference Optimization, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Cybersecurity]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11983202'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:17:40.055921'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Turing
+  stage: null
+  focus: |-
+    AI datasets, RL environments, and enterprise agentic AI
+    systems
+position:
+  title: Senior Full-Stack Engineer - Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core responsibilities are full-stack product engineering
+      (Python backend, React frontend, APIs, integrations) with AI
+      tools like Claude and Codex used only as development
+      assistants to write code, which is explicitly ai-support. AI
+      agent building appears only as a "top-tier candidate" bonus,
+      not a core responsibility.
+  responsibilities:
+  - Design and deliver production full-stack features using Python and React
+  - Build and maintain Python backend services and APIs
+  - Develop responsive web interfaces with React
+  - Implement integrations across APIs, relational databases, and enterprise systems
+  - Own delivery end to end from requirements through testing, deployment, and production
+    support
+  - Investigate production issues and contribute to root cause analysis
+  - Write automated tests, participate in code reviews, and maintain documentation
+    and code quality
+  - Use AI development tools like Claude and Codex while retaining ownership of code
+    quality and security
+  use_cases:
+  - Private equity dashboard for asset management clients
+  - Enterprise applications with mission-critical workflows
+  - Integrations with enterprise systems and relational databases
+  skills:
+    genai: [Claude Code, Codex]
+    ml: []
+    web: [React, APIs]
+    databases: [Relational Databases, Data Modeling]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11902339'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T13:54:13.370620'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

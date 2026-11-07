@@ -1,0 +1,55 @@
+company:
+  name: MVF
+  stage: null
+  focus: Lead generation and marketing services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM agents end to end: agent
+      orchestration, tool calling, structured outputs, evaluation
+      of agent behaviour, guardrails and permissions in code, and
+      model selection between Claude and open-weight models. This
+      directly shapes model behaviour and output quality, with an
+      explicit LLM/agent focus.
+  responsibilities:
+  - Build LLM and rule-based agents end to end, from mapping real operator workflows
+    to running them in production
+  - Develop agents on a shared, self-built agent framework with versioned shared rules
+    and tools
+  - Connect agents to the business via the data warehouse, internal services, and
+    external system APIs
+  - Implement structured outputs, validation, and application logic so results are
+    trusted
+  - Build guardrails, permissions, and autonomy mechanisms that move agents from recommend
+    to act-with-approval to act-alone
+  - Log and evaluate every agent decision, running test sets and before/after evaluation
+  - 'Operate what is shipped: tracing, failure handling, tracking quality, latency
+    and cost'
+  use_cases:
+  - Diagnosing performance problems and surfacing root causes to teams
+  - Recommending marketing actions to advertising teams
+  - Agents taking on day-to-day running of a lead generation business with progressive
+    autonomy
+  - Acting in business systems via APIs with logged, approved or autonomous decisions
+  skills:
+    genai: [Anthropic API, Agentic Workflows, LLMs, Function Calling, Structured Outputs,
+      Guardrails, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [Snowflake]
+    data: [dbt]
+    cloud: [SageMaker, AWS]
+    ops: [CI/CD, Docker, Observability, Terraform, CircleCI]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11720389'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:42:00.332189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

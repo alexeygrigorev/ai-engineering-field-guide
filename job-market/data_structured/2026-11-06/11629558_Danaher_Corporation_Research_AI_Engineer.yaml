@@ -1,0 +1,48 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: Life sciences and biotechnology equipment and solutions
+position:
+  title: Research AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops agentic AI applications using
+      LLMs, RAG, tool calling, multi-agent workflows, and prompt
+      engineering, which is shaping LLM behavior. Classical ML is
+      also present, but the LLM/agent component makes it ai-first.
+  responsibilities:
+  - Translate scientific and product ideas into AI solutions using statistics, ML,
+    and AI techniques
+  - Perform exploratory data analysis, feature engineering, model development, validation,
+    and performance assessment
+  - Design and develop agentic AI applications with LLMs, RAG, tool calling, and multi-agent
+    workflows
+  - Build data pipelines and integrate with enterprise systems, databases, and APIs
+  - Deploy AI/ML solutions on cloud platforms such as AWS and Azure
+  - Contribute to reusable AI assets, best practices, and technical standards
+  use_cases:
+  - Bioprocess control and optimization for therapeutics development
+  - Predictive insights and decision-making for life sciences R&D
+  - Insight extraction from structured and unstructured scientific data
+  - Agentic AI applications supporting scientific and business challenges
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings, Agentic Workflows, Function
+        Calling, LangGraph, LangChain, Semantic Kernel, CrewAI, AutoGen]
+    ml: [scikit-learn, Machine Learning, Feature Engineering]
+    web: [APIs]
+    databases: []
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [MLOps, CI/CD, Docker, Model Deployment, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11629558'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:25:44.618518'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

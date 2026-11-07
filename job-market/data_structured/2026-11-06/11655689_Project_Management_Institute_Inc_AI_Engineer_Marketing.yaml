@@ -1,0 +1,51 @@
+company:
+  name: Project Management Institute, Inc.
+  stage: null
+  focus: |-
+    Professional project management certification and
+    association
+position:
+  title: AI Engineer, Marketing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered workflows, multi-
+      agent systems, and RAG pipelines directly, which is shaping
+      model behaviour — Step 1 yes, Step 2 ai-first. It also
+      builds guardrails and evaluation for those systems.
+  responsibilities:
+  - Own and manage the Marketing AI & Automation backlog, translating marketing opportunities
+    into prioritized initiatives
+  - Design and build LLM-powered workflows and multi-agent AI systems
+  - Implement RAG pipelines using enterprise data and knowledge sources
+  - Build the data foundation for AI agents across CRM, analytics, and data warehouse
+    environments
+  - Deploy AI systems into production with monitoring, observability, and evaluation
+  - Ensure systems include guardrails, fallback behaviors, and human-in-the-loop controls
+  - Act as a trusted AI partner to Marketing leadership and enable non-technical teams
+  use_cases:
+  - AI-powered marketing workflows and automation
+  - RAG over enterprise marketing and knowledge data
+  - Agentic AI systems embedded in marketing and Martech tools
+  - AI enablement within CRM and analytics platforms
+  - Production AI systems with monitoring and business-impact measurement
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems, RAG, Guardrails, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Snowflake, Microsoft Dynamics 365, Adobe Analytics]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Tableau, Marketing Automation, Jira, SharePoint, Microsoft Teams]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11655689'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:28:55.983563'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

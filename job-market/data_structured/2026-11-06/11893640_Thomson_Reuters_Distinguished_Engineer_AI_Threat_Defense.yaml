@@ -1,0 +1,75 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: |-
+    Information services for legal, tax, accounting, compliance,
+    media
+position:
+  title: Distinguished Engineer, AI Threat Defense
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs defenses against prompt injection,
+      jailbreaks, guardrail bypass, and unsafe model output for
+      LLM applications and agentic workflows — building
+      guardrails, detections, and security patterns that shape LLM
+      system behaviour — which is shaping an LLM-related system.
+      It also architects AI-assisted detection and response with
+      safeguards and human oversight, so the ai-first label
+      applies rather than ai-support.
+  responsibilities:
+  - Set technical direction for AI threat defense across the organization's cyber
+    defense strategy, architecture, and engineering practices
+  - Define monitoring, detection, investigation, and response approaches for attacks
+    on AI-enabled products, LLM applications, agentic workflows, and AI infrastructure
+  - Develop defensive approaches for AI-specific threats such as prompt injection,
+    jailbreaks, guardrail bypass, model/data poisoning, MCP exploitation, and deepfake-enabled
+    social engineering
+  - Partner with Product Engineering and AppSec to establish secure, observable patterns
+    for AI applications, agents, and tool-use workflows
+  - Architect responsible AI use within the 24/7 SOC and CIRT operating model to improve
+    triage, investigation, and response execution
+  - Develop detection content, security analytics, playbooks, and response workflows
+    for AI-related security events
+  - Track emerging offensive AI capabilities and translate findings into practical
+    defensive improvements
+  - Provide technical leadership, mentorship, and representation in customer, industry,
+    and regulatory engagements
+  use_cases:
+  - Detecting and responding to attacks on AI-enabled products, LLM applications,
+    and agentic workflows
+  - Defending against AI-specific threats including prompt injection, jailbreaks,
+    guardrail bypass, and model poisoning
+  - AI-assisted security triage, investigation, and response in a 24/7 SOC and CIRT
+    environment
+  - Secure, observable AI application and agent infrastructure across the enterprise
+  - Monitoring AI infrastructure, models, and tool-use integrations for abuse and
+    compromise
+  skills:
+    genai: [LLMs, Agentic Workflows, MCP, AI Agents]
+    ml: [Open-Weight Models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Cybersecurity, Incident Response, Threat Detection Engineering, Threat
+        Hunting, Security Analytics, Security Architecture, Detection Engineering,
+      Vulnerability Management, AppSec, SAST, SOC Operations, Prompt Injection Defense,
+      AI Supply Chain Security]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893640'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - Richmond, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:48:20.314613'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

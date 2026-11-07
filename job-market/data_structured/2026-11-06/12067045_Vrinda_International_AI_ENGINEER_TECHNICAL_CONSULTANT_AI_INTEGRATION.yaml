@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and enterprise AI integration
+position:
+  title: AI ENGINEER (TECHNICAL CONSULTANT – AI INTEGRATION)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures and agentic AI workflows
+      and trains/fine-tunes models with Azure AI Foundry and
+      Databricks - directly shaping LLM/agent behavior, making it
+      ai-first.
+  responsibilities:
+  - Architect and implement AI solutions using Chainlit and RAG techniques for context-aware
+    applications
+  - Design and orchestrate agentic AI workflows to automate complex decision-making
+  - Develop scalable backend services and APIs with Node.js and TypeScript on Azure
+  - Manage CI/CD pipelines with GitHub Actions or Azure DevOps for AI deployments
+  - Train, fine-tune, and deploy ML models at scale using Azure AI Foundry and Databricks
+  - Translate business requirements into technical specifications for AI-driven products
+  - Optimize system performance while maintaining security and compliance standards
+  - Provide technical guidance and mentorship to junior engineers
+  use_cases:
+  - Enterprise AI integration into existing architectures
+  - Context-aware conversational AI applications
+  - Automated decision-making via agentic workflows
+  - Scalable model training and deployment for business value
+  skills:
+    genai: [Chainlit, RAG, Agentic Workflows, Fine-Tuning, Conversational AI]
+    ml: [Mosaic AI, Machine Learning]
+    web: [Node.js]
+    databases: []
+    data: [Databricks, Databricks Genie]
+    cloud: [Azure, Azure App Service, Azure Container Apps, Azure AI Foundry]
+    ops: [CI/CD, GitHub Actions, Azure DevOps]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067045'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:46:38.717889'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: OnBoard
+  stage: null
+  focus: Board management and meeting software platform
+position:
+  title: Principal Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs semantic search, RAG architectures, vector
+      databases, and LLM orchestration directly — clear LLM
+      shaping. AI-assisted tooling adoption is secondary. Company
+      is a SaaS board-management provider.
+  responsibilities:
+  - Lead design and development of complex software systems including semantic search,
+    vector databases, RAG architectures, and LLM orchestration
+  - Translate business requirements into technical designs and deliver iteratively
+    with the team
+  - Collaborate with cross-functional teams to define project goals, scope, and timelines
+  - Mentor and coach team members and foster knowledge sharing
+  - Write reusable code, conduct code reviews, and enforce coding standards
+  - Champion adoption of AI-assisted development tools (Claude Code, GitHub Copilot,
+    Codex)
+  - Build golden pathways and developer experience tooling across the organization
+  - Drive technical innovation and evaluate emerging technologies
+  use_cases:
+  - AI-powered and agentic experiences in SaaS applications
+  - Semantic search over board management content
+  - RAG-based information retrieval and question answering
+  - Board management and meeting solutions for organizations
+  skills:
+    languages: [C#, .NET]
+    domains: []
+    web: [REST APIs, Microservices]
+    cloud: [Azure]
+    data: []
+    ml: []
+    databases: [Vector Databases]
+    genai: [Semantic Search, RAG, LLMs, Prompt Engineering, Claude Code, Codex]
+    ops: [Azure DevOps, CI/CD, Git, DevOps]
+    other: [Agile, GitHub Copilot, Cursor, SaaS Development, SOC2, ISO27001]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11618792'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:22:49.866744'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

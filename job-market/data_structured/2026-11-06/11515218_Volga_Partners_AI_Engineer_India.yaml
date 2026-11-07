@@ -1,0 +1,52 @@
+company:
+  name: Volga Partners
+  stage: null
+  focus: AI and software engineering services for global clients
+position:
+  title: AI Engineer | India
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts and context strategies, builds RAG
+      pipelines with embeddings and vector search, builds agentic
+      workflows, and evaluates LLM outputs—all shaping LLM
+      behavior directly, making it ai-first.
+  responsibilities:
+  - Design, build, and deploy production-ready Generative AI and LLM-powered applications
+  - Develop chatbots, copilots, intelligent automation tools, and AI-assisted workflows
+  - Build and optimize RAG pipelines using embeddings, vector search, and structured/unstructured
+    data
+  - Integrate LLM platforms such as OpenAI, Anthropic, and Azure OpenAI
+  - Design prompts, system instructions, and context-management strategies
+  - Evaluate LLM outputs and improve quality, accuracy, latency, reliability, and
+    cost
+  - Implement evaluation, validation, guardrails, and error-handling strategies
+  - Develop backend services and APIs using Python, FastAPI, or Flask
+  use_cases:
+  - Chatbots and copilots
+  - RAG-based semantic retrieval and knowledge applications
+  - AI assistants and intelligent automation tools
+  - Agentic AI-assisted workflows
+  skills:
+    genai: [RAG, LLMs, Generative AI, Embeddings, Prompt Engineering, OpenAI API,
+      Anthropic API, Azure OpenAI, LangChain, LlamaIndex, LangGraph, Agentic Workflows,
+      Function Calling, Fine-Tuning, LoRA, Guardrails, Responsible AI, Semantic Search,
+      LLM Evaluation]
+    ml: [Context Management]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, Qdrant, FAISS, Chrom, SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Git, CI/CD, Kubernetes, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11515218'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:03:32.210889'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

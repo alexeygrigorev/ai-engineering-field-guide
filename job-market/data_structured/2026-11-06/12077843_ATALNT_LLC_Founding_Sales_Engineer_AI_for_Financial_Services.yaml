@@ -1,0 +1,49 @@
+company:
+  name: ATALNT LLC
+  stage: Seed-funded, closing Series A
+  focus: Agentic AI platform for regulated financial services
+position:
+  title: Founding Sales Engineer, AI for Financial Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a sales/solutions engineering role. The person
+      demos, scopes, and runs security/architecture reviews of an
+      AI platform someone else builds; they do not shape model
+      behaviour through prompts, retrieval design, or fine-tuning.
+      Customer-facing pre-sales work is ai-support.
+  responsibilities:
+  - Lead technical discovery to map client workflows, exception paths, and process
+    breakdowns
+  - Own business-buyer demos tied to commercial outcomes
+  - Run architecture and security reviews with CIOs, model risk committees, and InfoSec
+    teams
+  - Scope client workflows and hand off to delivery engineering
+  - Serve as technical partner to Client Partners and Account Executives across the
+    full sales cycle
+  - Build the sales engineering playbook from scratch
+  use_cases:
+  - Agentic AI deployments in insurance claims operations
+  - Credit operations automation for lenders
+  - FP&A workflow automation for financial services
+  - Regulated financial workflows with traceable, audit-defensible outputs in the
+    client's own cloud
+  skills:
+    genai: [AI Agents, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [NLP]
+    other: [Solutions Engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12077843'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:50:51.231167'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and wealth management
+position:
+  title: AI Cloud Solution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds cloud infrastructure and a firmwide AI
+      development platform, onboarding cloud services and
+      providing POC/example code so other developers can access
+      Gen AI models via standard APIs. There is no evidence the
+      person shapes model behaviour themselves (no prompt design,
+      RAG, evals, or fine-tuning of their own); they primarily
+      enable and serve AI services others consume, making this ai-
+      support.
+  responsibilities:
+  - Onboard new cloud services to Morgan Stanley
+  - Architect secure cloud solutions for new use cases
+  - Build POCs and example code for accessing Gen AI models via standard APIs
+  - Build common, reusable solutions to scale generative AI use cases
+  - Contribute to design decisions and product selection for generative AI solutions
+  - Develop tooling and self-service capabilities for deploying AI solutions
+  - Document best practices on generative AI ecosystems, tools, and models
+  use_cases:
+  - Firmwide AI development platform for enterprise AI adoption
+  - Developer enablement for building and deploying generative AI applications
+  - Self-service tooling for deploying AI solutions in the cloud
+  - Personalized client advice via AI applications like AI@MS Assistant
+  skills:
+    languages: [Python]
+    domains: []
+    web: [Flask, FastAPI]
+    cloud: [Azure, AWS, GCP, Azure OpenAI, Azure AI Foundry, Azure Cognitive Services,
+      AWS Bedrock, SageMaker]
+    data: []
+    ml: []
+    databases: [Azure Search]
+    genai: [Generative AI, LLMs, LangChain, Semantic Kernel, GPT, Llama, Anthropic
+        API, Gemini]
+    ops: [Terraform, CI/CD]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11914724'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:57:55.628526'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

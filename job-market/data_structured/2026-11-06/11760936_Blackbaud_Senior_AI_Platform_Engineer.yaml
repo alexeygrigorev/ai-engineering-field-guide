@@ -1,0 +1,57 @@
+company:
+  name: Blackbaud
+  stage: null
+  focus: Social impact software for nonprofit organizations
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic and LLM-powered solutions, designs
+      guardrails, implements AI evaluation and monitoring, and
+      optimizes model selection, context management, and agent
+      workflows — directly shaping model behavior and output
+      quality, so it's ai-first.
+  responsibilities:
+  - Design, build, test, deploy, and support production agentic and LLM-powered solutions
+    integrated with enterprise data, APIs, tools, and workflows
+  - Build reusable AI platform services, integration patterns, guardrails, and reference
+    implementations
+  - Design security controls for AI agents including identity, authorization, least-privilege
+    access, and auditability
+  - Implement AI observability and evaluation covering output quality, hallucinations,
+    drift, latency, token usage, and cost
+  - Detect, troubleshoot, contain, and remediate unexpected or unsafe agent behavior
+  - Optimize model selection, context management, and agent workflows for quality,
+    reliability, performance, and cost
+  - Evaluate emerging AI models, agent frameworks, protocols, and platforms and set
+    enterprise standards
+  - Mentor other engineers on AI development and operations
+  use_cases:
+  - Enterprise agentic and LLM-powered solutions for business process transformation
+  - Secure enterprise AI platform services enabling teams to adopt AI safely
+  - AI observability and evaluation for output quality, hallucinations, drift, and
+    cost
+  - Safe agent behavior containment and remediation
+  skills:
+    genai: [LLMs, Agentic Workflows, Function Calling, RAG, Guardrails, Anthropic
+        API, Context Engineering, LLM Evaluation, Prompt Engineering, Generative AI,
+      Multi-Agent Systems, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Services]
+    ops: [CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: [Observability, Code Review, Telemetry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11760936'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:46:43.157502'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

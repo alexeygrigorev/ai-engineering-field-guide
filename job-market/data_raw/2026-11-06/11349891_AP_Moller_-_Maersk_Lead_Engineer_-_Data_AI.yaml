@@ -1,0 +1,231 @@
+job_id: 11349891
+title: "Lead Engineer - Data & AI"
+company: A.P. Moller - Maersk
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 58,338 Employees
+description: |
+  Job Description
+
+  A.P. Moller - Maersk is an integrated container logistics
+  company and member of the A.P. Moller Group. Connecting and
+  simplifying trade to help our customers grow and thrive.
+  With a dedicated team of over 80,000, operating in 130
+  countries; we go all the way to enable global trade for a
+  growing world. We leverage cutting-edge technology to
+  optimize operations, enhance customer experience, and drive
+  business growth. We are seeking a Lead Engineer - Data & AI
+  to join our team and play a pivotal role.
+
+  About the role
+
+  Maersk moves a significant share of the world's
+  containerized trade and is a major player in the logistics
+  and services space. The data is large, complex and
+  consequential. This role offers real architectural ownership
+  of a platform that matters, with the freedom to build it
+  yourself, within a team that treats AI tooling as a serious
+  part of engineering practice.
+
+  This is a senior individual contributor role for an engineer
+  who designs and builds the most critical parts of our
+  systems. You will partner in setting the architecture for
+  our data and AI platform, decide how the major pieces fit
+  together, and then write and deploy the code that proves the
+  design works. Design documents and diagrams are part of the
+  job, but they are the beginning of the work rather than the
+  output. The engineers who do well in this role are the ones
+  whose designs are trusted because they have shipped the hard
+  parts themselves.
+
+  The scope spans the full stack of a data and AI platform:
+  storage and table formats, pipelines, services,
+  applications, and the agentic systems built on top. You will
+  make the calls on open standards and interoperability, on
+  build against buy, and on how we sequence a migration
+  without disrupting what is already running. You will also
+  set how this organization uses agentic coding, which at this
+  level means building the tooling and the standards that
+  other engineers work within.
+
+  The role carries no direct reports. Influence comes from the
+  quality of your designs, the code you ship, and the
+  engineers who get better by working alongside you.
+
+  Main Responsibilities:
+
+  - Own the architecture for major platform components and data
+    products, from storage layer through to the application
+    and agent layer.
+  - Define target architectures and the migration paths to reach
+    them, with attention to open standards, interoperability
+    and long-term flexibility.
+  - Write and deploy production code. You will personally build
+    the difficult components and the reference implementations
+    others extend.
+  - Make build against buy decisions with clear reasoning on
+    cost, operational load and dependency risk.
+  - Design the platform foundations that other teams rely on:
+    data contracts, lineage, schema evolution, access control
+    and cost management.
+  - Set the agentic engineering practice across the group,
+    including internal tooling, MCP servers, reusable skills,
+    evaluation harnesses and the standards for reviewing
+    generated code.
+  - Take on the technical problems that are genuinely hard or
+    genuinely ambiguous, and bring them to a working
+    resolution.
+  - Raise the engineering bar through design review, code review
+    and mentoring.
+  - Partner with Product, Business stakeholders and Engineering
+    Managers on sequencing, trade-offs and technical risk.
+
+  Core Skills:
+
+  - Programming: Writing code to manipulate, analyze, and
+    visualize data, often using languages like Python, R, and
+    SQL.
+  - AI & Machine Learning: Creating systems that can perform
+    tasks that typically require human intelligence. Using
+    Machine learning (ML), a subset of AI that uses algorithms
+    to learn from and make predictions based on data
+  - Data Analysis: Inspecting, cleansing, transforming, and
+    modeling data to discover useful information, draw
+    conclusions, and support decision-making
+  - Machine Learning Pipelines: Using automated workflows that
+    manage the end-to-end process of training and deploying
+    machine learning models.
+  - Model Deployment: Making a trained machine learning model
+    available for use in production environments.
+
+  Required skills:
+
+  Architecture and system design
+
+  - Has designed and delivered systems that multiple teams build
+    on, and has lived with the consequences of those
+    decisions.
+  - Strong command of distributed systems fundamentals,
+    including partitioning, consistency models, delivery
+    guarantees, backpressure and schema evolution.
+  - Designs for the non-functional requirements from the start:
+    reliability, recovery, latency, cost, security and
+    operability.
+  - Has migrated live systems to a new architecture while
+    keeping them running.
+  - Writes design documents that another engineer can build from
+    without further explanation.
+
+  Data engineering
+
+  - Platform-level design of table formats and catalogs,
+    covering Iceberg, Delta Lake or Hudi, along with
+    partitioning, clustering, compaction and file layout
+    strategy.
+  - Both batch and streaming architectures, including change
+    data capture and event-driven ingestion.
+  - Transformation frameworks at scale, such as dbt, together
+    with semantic layer design.
+  - Data modelling depth sufficient to set standards that other
+    teams follow.
+  - Performance and cost tuning at platform level, including
+    query engines, storage layout and compute sizing.
+  - Multi-tenant governance, data quality frameworks and
+    lineage.
+
+  Software engineering
+
+  - Deep expertise in at least one language and working fluency
+    in others.
+  - Service and API design, including versioning, backwards
+    compatibility and contract management across teams.
+  - Observability as a design concern: instrumentation, tracing,
+    structured logging and meaningful alerting.
+  - Infrastructure as code using Terraform, Bicep or equivalent,
+    and container orchestration with Kubernetes.
+  - Security practice covering authentication, authorisation,
+    secrets management and data protection.
+  - Front-end capability sufficient to build a usable interface
+    when a product needs one.
+
+  AI and agentic engineering
+
+  - Expert-level use of agentic coding tools. You work through
+    agents for a large share of your output and can explain
+    your harness, your context strategy, how you run work in
+    parallel and how you keep quality high.
+  - Has built tooling that extends what agents can do, such as
+    MCP servers, custom skills, spec-driven workflows or
+    evaluation harnesses.
+  - Has taken large language model systems to production,
+    covering retrieval design, structured output, tool
+    calling, evaluation, guardrails, cost and latency
+    management, and human review where it belongs.
+  - Clear judgement on where a model belongs in a system and
+    where deterministic code is the better answer.
+  - Sets the standard for how generated code is reviewed and how
+    agentic work is verified.
+
+  Open source
+
+  - Meaningful exposure to open source, whether through
+    contributions to established projects, maintaining a
+    project with real users, or substantial public work of
+    your own.
+  - Familiarity with the open standards in this space and a
+    considered view on interoperability.
+  - Public artefacts such as repositories, technical writing or
+    conference talks are a strong signal.
+
+  We would be interested to understand from you genuine depth
+  in a minimum two or three of above areas and strong working
+  command across the rest.
+
+  What makes you a strong candidate?
+
+  Demonstrated work carries the most weight in this role. The
+  strongest candidates can point to systems they designed and
+  built that are running in production, and can explain the
+  decisions behind them, including the ones they would make
+  differently now.
+
+  Additional indicators of a strong fit:
+
+  - A track record as a Staff, Principal or Lead engineer who
+    remained hands-on, or as an architect who still writes and
+    deploys code.
+  - Experience being the technical anchor on a platform or
+    product that other teams depended on.
+  - A public body of work: an active GitHub profile with
+    substantial projects, open source contributions, technical
+    writing or talks.
+  - Has introduced a significant technical change into an
+    organisation and carried it through to adoption.
+  - Comfort moving between architectural thinking and detailed
+    implementation within the same week.
+
+  Maersk is committed to a diverse and inclusive workplace,
+  and we embrace different styles of thinking. Maersk is an
+  equal opportunities employer and welcomes applicants without
+  regard to race, colour, gender, sex, age, religion, creed,
+  national origin, ancestry, citizenship, marital status,
+  sexual orientation, physical or mental disability, medical
+  condition, pregnancy or parental leave, veteran status,
+  gender identity, genetic information, or any other
+  characteristic protected by applicable law. We will consider
+  qualified applicants with criminal histories in a manner
+  consistent with all legal requirements.
+
+
+
+  We are happy to support your need for any adjustments during
+  the application and hiring process. If you need special
+  assistance or an accommodation to use our website, apply for
+  a position, or to perform a job, please contact us by
+  emailing  accommodationrequests@maersk.com.
+industries:
+  - Logistics
+  - Transportation
+posted_date: 2026-09-24
+url: "https://builtin.com/job/lead-engineer-data-ai/11349891"
+source: Built In

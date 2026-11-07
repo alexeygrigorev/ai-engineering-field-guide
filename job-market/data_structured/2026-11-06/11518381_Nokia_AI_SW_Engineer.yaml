@@ -1,0 +1,56 @@
+company:
+  name: Nokia
+  stage: null
+  focus: Global connectivity and network technology
+position:
+  title: AI SW Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications including RAG
+      solutions and AI agents with LangChain/LangGraph, directly
+      shaping LLM-based system behaviour, so it is ai-first.
+      Infrastructure and CI/CD duties are secondary.
+  responsibilities:
+  - Evaluate business requirements and select technology stacks, frameworks, databases,
+    and deployment architectures
+  - Design, develop, and maintain AI-powered and web applications using Python, Django/Flask,
+    FastAPI, React, LLMs, RAG, and agentic frameworks
+  - Provision and manage infrastructure across OpenStack and Azure, including VMs,
+    Nginx, and HTTPS/TLS
+  - Manage Azure identity and authentication via Microsoft Entra ID, App Registrations,
+    and OAuth
+  - Establish GitLab repositories, runners, and CI/CD pipelines
+  - Manage PostgreSQL databases including migrations, backups, and deployment changes
+  - Use AI-assisted development tools like Cursor and GitHub Copilot and build reusable
+    skills for AI coding assistants
+  - Troubleshoot issues across application, LLM-Gateway APIs, database, infrastructure,
+    and deployment layers
+  use_cases:
+  - Enterprise AI-powered applications using LLMs, RAG, and agentic workflows
+  - AI-assisted developer productivity with reusable coding assistant instructions
+  - Enterprise identity, authentication, and secure application integration
+  - Infrastructure and CI/CD platform management for AI solutions
+  skills:
+    languages: [Python, PowerShell, JavaScript]
+    domains: []
+    web: [Django, Flask, FastAPI, React, REST APIs, OAuth]
+    cloud: [Azure, OpenStack, Azure OpenAI]
+    data: []
+    ml: [Machine Learning]
+    databases: [PostgreSQL, pgvector]
+    genai: [LLMs, RAG, LangChain, LangGraph, Cursor, GitHub Copilot, MCP, Fine-Tuning]
+    ops: [CI/CD, GitLab CI, Git, Nginx, Linux, Docker, Kubernetes, Terraform, Ansible]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11518381'
+  location: IND
+  locations:
+  - IND
+  - Noida, IND
+  remote: true
+  extracted_at: '2026-11-06T12:04:33.210274'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

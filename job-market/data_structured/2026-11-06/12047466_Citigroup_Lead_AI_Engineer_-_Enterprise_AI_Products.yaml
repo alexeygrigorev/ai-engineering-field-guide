@@ -1,0 +1,46 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Lead AI Engineer - Enterprise AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and tests AI Agents using Google
+      ADK and works with MCP and MCP servers, directly shaping
+      agent behavior — LLM/agent components make it ai-first.
+  responsibilities:
+  - Own and lead technical components of AI platforms end-to-end
+  - Design, develop and implement scalable production-quality AI solutions
+  - Build Generative AI and Agentic AI solutions using Google ADK
+  - Design, develop and test AI Agents and work with MCP and MCP servers
+  - Write high-quality code in Python and/or Java
+  - Work with business stakeholders to translate problems into technical solutions
+    and support adoption
+  - Provide technical leadership, mentoring and code reviews to other engineers
+  - Ensure solutions meet risk, security and compliance requirements
+  use_cases:
+  - Agentic AI capabilities for banking operations
+  - Data sharing across agent ecosystems
+  - Enterprise AI platform tooling and architecture
+  - Business-facing AI solutions supporting bank-wide use cases
+  skills:
+    genai: [Google ADK, MCP, Generative AI, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Oracle, Neo4j, Graph Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Jenkins, Tekton, Harness, DevOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Code Review, CLI Tooling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12047466'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:38:52.461332'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

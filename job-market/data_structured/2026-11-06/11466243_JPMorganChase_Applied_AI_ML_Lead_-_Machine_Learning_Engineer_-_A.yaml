@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Applied AI ML Lead - Machine Learning Engineer - Agentic Commerce
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered agents, builds Graph
+      RAG retrieval, agent memory, multi-agent workflows, and
+      agent evaluations — all direct shaping of LLM behavior.
+      LLM/agent components dominate, with some traditional ML
+      pipelines secondary.
+  responsibilities:
+  - Design and ship production LLM-powered agentic commerce agents on the NEO platform,
+    from prototype to production
+  - Build retrieval systems using Graph RAG, knowledge-graph traversal, vector search,
+    chunking, ranking, and grounding strategies
+  - Design agent memory including episodic and semantic memory nodes, recall, summarization,
+    and decay policies
+  - Assemble entitlement-, lineage-, and tenant-aware organizational context for secure
+    agent reasoning
+  - Compose multi-agent workflows using A2A and integrate tools and data through MCP
+    servers
+  - Build task-level and end-to-end agent evaluations, regression suites, LLM-as-judge,
+    and quality/safety gating
+  - Deploy and operate agents on AWS and Azure with strong SDLC, security, and observability
+    practices
+  - Build traditional ML training pipelines and batch/online inference with MLOps
+    best practices
+  use_cases:
+  - Agentic commerce B2B agents for commercial and investment banking
+  - Payments-focused AI agents across CIB lines of business
+  - Secure, entitlement-aware enterprise knowledge retrieval for agents
+  - Production agent quality assurance via evaluations and safety gating
+  - Traditional ML model training and inference pipelines
+  skills:
+    languages: [Python, SQL, TypeScript, JavaScript]
+    domains: []
+    web: [Next.js, Svelte]
+    cloud: [AWS, Azure, SageMaker, EKS]
+    data: [Databricks]
+    ml: [Machine Learning, Model Training, MLflow, Knowledge Graphs]
+    databases: [Neo4j, Vector Databases, PostgreSQL, Redis, OpenSearch, Snowflake]
+    genai: [LLMs, AI Agents, RAG, Graph RAG, Agentic Workflows, MCP, Fine-Tuning,
+      Guardrails, LLM Evaluation, Embeddings]
+    ops: [Kubernetes, MLOps, Splunk]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11466243'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:55:06.029512'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

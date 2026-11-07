@@ -1,0 +1,54 @@
+company:
+  name: Services for the UnderServed (S:US)
+  stage: null
+  focus: Nonprofit human services supporting underserved populations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent workflows, multi-agent coordination,
+      MCP integrations, and prompt design, directly shaping
+      LLM/agent behavior. It also builds evaluation practices for
+      AI-generated output. This is ai-first per Steps 1 and 2.
+  responsibilities:
+  - Build and improve the AI development environment including GitHub, VS Code, GitHub
+    Copilot, Azure, agents, and approved integrations
+  - Design reusable patterns for agent workflows, multi-agent coordination, MCP integrations,
+    testing, and review
+  - Build testing and evaluation practices for AI-generated output, including automated
+    checks and human review
+  - Apply responsible AI, privacy, and security controls to agent workflows and AI
+    tools
+  - Build and strengthen CI/CD pipelines using GitHub Actions, Azure DevOps, and Azure
+  - Monitor agent performance, reliability, latency, token usage, and cost
+  - Integrate AI solutions with enterprise platforms and APIs for end-to-end workflow
+    reliability
+  - Create playbooks, training, and office hours to enable teams to use AI engineering
+    tools
+  use_cases:
+  - Enterprise AI platform engineering moving AI from experimentation to production
+  - Agent-based workflow automation integrated with enterprise platforms
+  - Responsible AI with PHI protection, masking, and redaction controls
+  - Prompt injection and AI security risk management
+  - AI cost and token usage monitoring and optimization
+  skills:
+    genai: [Agentic Workflows, AI Agents, MCP, Prompt Engineering, GitHub Copilot,
+      LLMOps, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [APIs, Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [Azure, Azure OpenAI]
+    ops: [CI/CD, GitHub Actions, Azure DevOps, DevSecOps, Monitoring, Azure Monitor]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, HIPAA Compliance, GitHub, Jira, Agile, Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11895153'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:52:20.501757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: QAD
+  stage: null
+  focus: Manufacturing and supply chain enterprise software
+position:
+  title: Principal AI Engineer - Enterprise Transformation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent orchestration,
+      retrieval/RAG stacks, prompt engineering, evaluation
+      harnesses, and model selection/tuning for LLM systems — all
+      direct shaping of LLM behaviour and output quality.
+      Explicitly production GenAI/LLM engineering.
+  responsibilities:
+  - Build production AI and agentic workflows end to end from PRD through implementation,
+    evaluation, release and iteration
+  - 'Design and implement agent orchestration: multi-step flows, tool invocation,
+    routing, state/memory, retries, fallbacks and human-in-the-loop checkpoints'
+  - 'Own the retrieval stack: chunking, embedding selection, hybrid search, reranking,
+    metadata filtering and permission-aware retrieval'
+  - Select and route models across tiers based on measured quality, latency and cost;
+    own prompt engineering and context strategy as tested artefacts
+  - 'Build the evaluation harness: golden datasets, LLM-as-judge, regression suites
+    in CI and online quality monitoring'
+  - Design and maintain a reusable component library (SDKs, templates, reference implementations)
+    for internal engineers and partner pods
+  - 'Own production engineering: latency/cost budgets, graceful degradation, observability,
+    infrastructure as code and CI/CD'
+  - Set engineering standards, mentor subsequent hires, and review partner-delivered
+    code
+  use_cases:
+  - AI-enabled and agentic workflows across enterprise business functions
+  - Permission-aware enterprise retrieval over knowledge and data platforms
+  - Integration with enterprise systems such as ERP, CRM, support and services delivery
+  - Manufacturing and supply chain productivity workflows
+  - Reusable internal AI platform and component library
+  skills:
+    genai: [Agentic Workflows, RAG, Prompt Engineering, Fine-Tuning, LLM Evaluation,
+      Embeddings, LLMs, LangGraph, LlamaIndex, Semantic Kernel, Google ADK, CrewAI]
+    ml: [MLOps]
+    web: [APIs, OAuth]
+    databases: [OpenSearch, pgvector, Elasticsearch, Pinecone, Weaviate, Vector Search]
+    data: []
+    cloud: [AWS, GCP, AWS Bedrock, SageMaker, Vertex AI]
+    ops: [Terraform, CI/CD, Docker, Observability, LangSmith, Langfuse]
+    languages: [Python, TypeScript, Go, Java]
+    domains: []
+    other: [Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11693540'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:37:10.416465'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

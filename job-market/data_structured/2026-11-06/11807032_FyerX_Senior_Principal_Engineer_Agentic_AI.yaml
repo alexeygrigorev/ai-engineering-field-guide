@@ -1,0 +1,49 @@
+company:
+  name: FyerX
+  stage: null
+  focus: AI-native security workflow automation
+position:
+  title: Senior Principal Engineer – Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent orchestration, tool
+      calling, prompt engineering, and context engineering for
+      LLM-based agents — directly shaping model behaviour and
+      agent flows, so it is ai-first.
+  responsibilities:
+  - Develop and deploy production-ready Agentic AI workflows and intelligent automation
+    solutions
+  - Build AI agents using Python, LangGraph, LangFuse, and LLM technologies
+  - Implement agent orchestration, tool calling, state management, and context engineering
+  - Integrate AI solutions with enterprise systems using REST APIs, GraphQL, and MCP
+  - Optimize AI applications for performance, scalability, latency, and cost
+  - Implement automated testing, monitoring, observability, and CI/CD pipelines
+  - Collaborate with cross-functional teams to automate security workflows
+  - Troubleshoot production issues and ensure system reliability
+  use_cases:
+  - AI-native security workflows
+  - Automating complex business processes
+  - LLM-powered agents integrated into enterprise systems
+  - Security automation and vulnerability management
+  skills:
+    genai: [LangGraph, LLMs, Agentic Workflows, AI Agents, Function Calling, Context
+        Engineering, Prompt Engineering, MCP, Claude Code]
+    ml: [Model Deployment]
+    web: [REST APIs, GraphQL]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse, CI/CD, Observability, Docker, DevSecOps, GitHub Copilot, LLMOps,
+      Model Monitoring]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [Cursor, OWASP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11807032'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:15:51.855657'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

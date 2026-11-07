@@ -1,0 +1,52 @@
+company:
+  name: Workato
+  stage: null
+  focus: Enterprise AI orchestration and workflow automation platform
+position:
+  title: Senior Software Engineer (GOlang, AI domain)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds gateways, routing, and logging/monitoring
+      infrastructure to dispatch and balance AI chatbot execution
+      — it serves and scales models/services rather than shaping
+      model behavior via prompts, retrieval, or agent design. It
+      collaborates with an AI team but only consumes their
+      outputs, so it is ai-support.
+  responsibilities:
+  - Develop mission-critical features and services for the Workato platform
+  - Build AI chatbot dispatching and balance synchronous/asynchronous AI execution
+  - Build high-performance gateways and routing components
+  - Build server-side infrastructure for logging and monitoring
+  - Work with Infra and SRE teams to ensure high availability and scalability
+  - Collaborate with the AI team to design and implement features for a new AI assistant
+  - Write well-designed, testable, efficient code across the development lifecycle
+  - Propose architectural improvements and evaluate new technologies
+  use_cases:
+  - AI chatbot dispatching and load balancing
+  - Synchronous and asynchronous AI execution orchestration
+  - High-performance gateway and routing for AI services
+  - Enterprise platform for AI-driven business process automation
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [Ruby on Rails, REST APIs]
+    databases: [Redis]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, DevOps, Monitoring, Distributed Systems]
+    languages: [Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11141563'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  - Frankfurt, DEU
+  extracted_at: '2026-11-06T11:25:10.154210'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

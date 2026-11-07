@@ -1,0 +1,50 @@
+company:
+  name: Snap Inc.
+  stage: null
+  focus: Visual messaging and camera-based social apps
+position:
+  title: Lead Machine Learning Engineer, Generative AI (Image & Video)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes generative model behavior (diffusion and
+      flow matching models, fine-tuning, conditioning, evaluating
+      visual quality), which satisfies Step 1. The dominant target
+      is image and video generation/editing models, which are ml-
+      first; LLM-powered experiences are secondary and not
+      described in shaping detail.
+  responsibilities:
+  - Lead development of ML-powered products and AI Lenses for image and video generation
+    and editing
+  - Define technical roadmap and architecture for GenAI pipelines including diffusion
+    and flow matching models
+  - Drive projects from prototype to production, shipping consumer-facing experiences
+  - Evaluate open-source models and third-party APIs, establish quality benchmarks,
+    lead build-versus-buy decisions
+  - Partner with Product, Software Engineering, Lens Content, and Data Science to
+    improve experiences via A/B testing and user feedback
+  - Mentor and unblock engineers through hands-on collaboration and code reviews
+  use_cases:
+  - Image and video generation and editing for consumer AI Lenses
+  - LLM-powered creative experiences in Snapchat
+  - Visual quality and prompt adherence evaluation for generative media
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Machine Learning, Deep Learning, Generative Modeling, Diffusion Models, PyTorch,
+      Fine-Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [A/B Testing, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11630526'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:26:05.028926'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

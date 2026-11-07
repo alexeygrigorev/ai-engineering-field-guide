@@ -1,0 +1,59 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: Building safe and beneficial AI systems
+position:
+  title: Applied AI Engineer, Startups (Life Sciences)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds on Claude with prompting, context
+      engineering, agent architectures, and evaluation frameworks,
+      and advises startups on agent design and MCP
+      servers—directly shaping LLM behavior and output quality. It
+      also builds evaluation suites and benchmarks for model
+      output, which is shaping. Customer-facing Forward-Deployed-
+      style role, which is ai-first.
+  responsibilities:
+  - Serve as deep technical advisor to life sciences and biotech startups building
+    products and research workflows on Claude
+  - Work hands-on with startup engineering and scientific teams through pair programming
+    and architecture reviews
+  - Develop prototypes, evaluation suites, benchmarks, and architecture documentation
+  - Create reference implementations such as example MCP servers for domain-specific
+    data sources and agent skills for scientific workflows
+  - Identify deployment patterns across engagements and feed insights back to Product,
+    Engineering, and Research
+  - Create technical content including documentation, tutorials, and sample code
+  - Represent Anthropic in the life sciences startup ecosystem via hackathons, webinars,
+    and events
+  - Travel to customer sites for workshops and implementation guidance
+  use_cases:
+  - AI-powered life sciences and biotech research workflows
+  - Scientific research and development with Claude
+  - Genomics, drug discovery, and molecular design applications
+  - Scientifically grounded model evaluation and benchmarks
+  - Domain-specific agent tools and MCP servers for scientific data sources
+  skills:
+    genai: [Prompt Engineering, Context Engineering, Agentic Workflows, LLM Evaluation,
+      MCP, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11712280'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:40:30.171116'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

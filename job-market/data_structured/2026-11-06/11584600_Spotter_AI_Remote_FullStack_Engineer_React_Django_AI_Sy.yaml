@@ -1,0 +1,52 @@
+company:
+  name: Spotter AI
+  stage: null
+  focus: AI- and algorithm-driven product systems
+position:
+  title: Remote FullStack Engineer – React + Django – AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is full-stack web engineering; the "algorithmic/AI
+      logic" is decision rules and scoring built as ordinary
+      business logic, with no LLM, model training, or model
+      shaping work described. AI assistants are only a bonus tool
+      for coding.
+  responsibilities:
+  - Build and ship complete features across React frontend and Django backend
+  - Develop responsive web apps using React and Material UI
+  - Design backend services and REST APIs using Python + Django
+  - Implement algorithmic logic such as scoring, ranking, and decision rules
+  - Write production-ready code and iterate quickly
+  - Work independently in a remote distributed team
+  use_cases:
+  - Scoring and ranking systems
+  - Decision rule engines
+  - Algorithm-driven product features surfaced in web UIs
+  skills:
+    genai: [Claude Code, Cursor]
+    ml: []
+    web: [React, Django, REST APIs, React Native]
+    databases: [Redis]
+    data: []
+    cloud: [GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11584600'
+  location: Lahore, PAK
+  locations:
+  - Lahore, PAK
+  - Medellín, COL
+  - Guadalajara, MEX
+  - Bengaluru, IND
+  - Manila, PHL
+  - Buenos Aires, ARG
+  remote: true
+  extracted_at: '2026-11-06T12:15:52.479122'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

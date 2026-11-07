@@ -1,0 +1,68 @@
+company:
+  name: ECFX, Inc.
+  stage: null
+  focus: |-
+    Automated court notice and legal document delivery for law
+    firms
+position:
+  title: 'QA Engineer: AI-Assisted Testing'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Beyond using AI as a testing co-pilot, the role directly
+      judges AI output quality: evaluating AI document
+      categorization and LLM-facing tools, building sample sets,
+      checking accuracy and consistency with repeated trials, red-
+      teaming with hostile inputs, and flagging when a model or
+      prompt change degrades results. Building these accuracy
+      checks and adversarial evaluations for LLM-based features is
+      shaping model behaviour, making this ai-first rather than
+      ordinary QA oversight.
+  responsibilities:
+  - Use AI assistants (Claude, Claude Code, Cursor, ChatGPT) to analyze tickets, diffs,
+    and merge requests, map risks and edge cases, and draft test charters
+  - Perform risk-based exploratory, functional, and regression testing across the
+    Vue dashboard, admin tools, email notifications, and integrations
+  - Validate document retrieval, parsing, categorization, storage, and delivery across
+    court portals, 2FA/OTP logins, and integrations like Clio, Filevine, iManage,
+    and NetDocuments
+  - Test backend and platform changes via API calls, SQL queries, logs, and dashboards
+    (Grafana/Loki, Sentry)
+  - Evaluate AI document categorization and LLM-facing tools including an MCP server,
+    building sample sets, checking accuracy, and red-teaming with hostile inputs
+  - Test security and access controls including password, SAML SSO, OAuth, roles,
+    permissions, and cross-tenant data isolation
+  - Investigate and reproduce customer-reported and production issues and write actionable
+    bug reports
+  - Optionally build targeted automated checks such as Playwright scripts or API checks
+    for high-risk flows
+  use_cases:
+  - Automated retrieval and AI categorization of court notices and legal documents
+    from court portals and e-filing systems
+  - Delivery of legal documents into law firm case management systems (Clio, Filevine,
+    iManage, NetDocuments)
+  - An MCP server exposing LLM-facing tools for AI assistants
+  - Email-driven document workflows and notifications with silent-failure detection
+  - Secure multi-tenant access with SSO, roles, and cross-firm data isolation
+  - QA of AI-assisted software development workflows in an AI-first engineering team
+  skills:
+    genai: [Anthropic API, Claude Code, Cursor, ChatGPT, LLMs, Prompt Engineering,
+      MCP, AI Agents, LLM Evaluation, Generative AI, Prompt Injection]
+    ml: []
+    web: [Vue, REST APIs, Playwright, Selenium, JSON, OAuth]
+    databases: [PostgreSQL, SQL]
+    data: []
+    cloud: []
+    ops: [Grafana, Git, Docker, Kubernetes, Sentry]
+    languages: [SQL]
+    domains: []
+    other: [Postman, Jira, Agile, WCAG 2.2 AA, ISTQB, Legal Document Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892660'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:45:22.836811'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

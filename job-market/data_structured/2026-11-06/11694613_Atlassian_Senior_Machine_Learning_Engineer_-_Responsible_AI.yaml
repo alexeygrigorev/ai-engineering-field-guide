@@ -1,0 +1,55 @@
+company:
+  name: Atlassian
+  stage: null
+  focus: Developer collaboration and productivity software
+position:
+  title: Senior Machine Learning Engineer - Responsible AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, trains, fine-tunes, and evaluates ML/LLM-
+      based guardrail and moderation models, builds LLM-as-a-judge
+      pipelines, red-teaming suites, and defenses against prompt
+      injection and jailbreaks in agentic systems. This directly
+      shapes model behavior and output quality for LLM components,
+      making it ai-first.
+  responsibilities:
+  - Architect, train, fine-tune, and deploy ML/LLM-based guardrail and moderation
+    models for text, multi-modal, and code
+  - Design offline and online evaluation frameworks, adversarial red-teaming test
+    suites, and LLM-as-a-judge pipelines
+  - Optimize safety filtering for low-latency, high-throughput serving integrated
+    with the central AI Gateway
+  - Research and build defenses against adversarial prompts, jailbreaks, data leakage,
+    and unauthorized tool-calling in agentic systems
+  - Support compliance and governance readiness for AI regulations via safety controls,
+    audit logging, and watermarking
+  - Partner with engineering managers, staff engineers, and product managers; provide
+    code reviews and mentor junior engineers
+  use_cases:
+  - Content moderation and safety filtering across Atlassian products
+  - Detection and mitigation of jailbreaks, prompt injection, and harmful content
+  - Defending agentic systems against adversarial prompts and unauthorized tool-calling
+  - Enterprise compliance with AI regulations (EU AI Act, ISO 42001, FedRAMP)
+  skills:
+    genai: [LLMs, Prompt Engineering, Red-Teaming, LLM Evaluation, Guardrails, Agentic
+        Workflows]
+    ml: [Model Training, Fine-Tuning, LoRA, PyTorch, Transformers, NLP, Machine Learning,
+      Model Evaluation, Quantization, Pandas, NumPy]
+    web: []
+    databases: []
+    data: [Spark, Kafka]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker, Triton, vLLM, TensorRT]
+    languages: [Python, Kotlin, Java, Go, SQL]
+    domains: []
+    other: [Tableau, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11694613'
+  location: Domlur, IND
+  remote: true
+  extracted_at: '2026-11-06T12:37:47.518158'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Trellix
+  stage: null
+  focus: Cybersecurity platform and threat protection
+position:
+  title: AI & Digital Learning Content Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role creates eLearning and multimedia content; AI tools
+      are only used as aids for content development, not to shape
+      model behavior or output quality. No prompt engineering,
+      RAG, or model training is involved, so it is ai-support.
+  responsibilities:
+  - Design and develop eLearning, microlearning, and digital learning content for
+    technical audiences
+  - Create video-based learning, demonstrations, tutorials, and supporting materials
+  - Develop presentations, graphics, animations, and other visual learning assets
+  - Support technical training materials for Professional Services, Tech Support,
+    partners, and customers
+  - Explore and incorporate AI tools and emerging technologies to improve content
+    development and learner engagement
+  - Collaborate with Subject Matter Experts and technical teams to validate technical
+    accuracy of content
+  - Maintain consistency in editorial standards, visual identity, terminology, and
+    learning design
+  - Continuously improve content based on learner feedback and business needs
+  use_cases:
+  - Technical training and enablement content for cybersecurity products
+  - eLearning and microlearning experiences for technical audiences
+  - Video tutorials and demonstrations of Trellix technologies
+  - Social media and digital communications for learning and enablement
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Camtasia, Articulate, Adobe Creative Cloud, Canva, LMS, Digital Asset
+        Management, Instructional Design, Social Media Content, Video Editing, eLearning
+        Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11631379'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T12:26:53.281764'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

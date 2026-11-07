@@ -1,0 +1,49 @@
+company:
+  name: Medtronic
+  stage: null
+  focus: Global healthcare technology and medical devices
+position:
+  title: Senior Artificial Intelligence Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, and optimizes deep learning models
+      for computer vision and video understanding (pruning,
+      quantization, distillation, TensorRT). This is shaping model
+      internals with no LLM or agent component, so it is ml-first.
+  responsibilities:
+  - Design, benchmark, and optimize deep learning models for computer vision and video
+    understanding
+  - Improve model architectures and inference pipelines to reduce latency and increase
+    throughput
+  - Develop and productionize end-to-end video processing pipelines for surgical video
+    analysis on cloud and edge
+  - Work on temporal reasoning, motion understanding, and multi-frame video analysis
+  - Deliver high-quality, maintainable code and share findings with the team
+  - Stay current with computer vision, video learning, and model optimization advances
+  use_cases:
+  - Surgical video analysis
+  - Real-time computer vision guidance and decision support in the operating room
+  - Video classification and action recognition
+  - Temporal and multi-frame reasoning for video understanding
+  - Low-latency model inference on edge and cloud devices
+  skills:
+    genai: []
+    ml: [PyTorch, Deep Learning, Quantization, Model Evaluation, Neural Networks,
+      scikit-learn, Machine Learning, Knowledge Distillation, NumPy, OpenCV]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, EKS, ECS]
+    ops: [TensorRT, Docker]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11816919'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:17:52.348467'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

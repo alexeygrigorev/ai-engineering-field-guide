@@ -1,0 +1,62 @@
+company:
+  name: Rubrik
+  stage: 'Publicly traded (NYSE: RBRK)'
+  focus: |-
+    Enterprise data security, cyber resilience, and AI
+    operations platform
+position:
+  title: Senior AI Evals Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks, golden datasets, eval
+      rubrics, red-teaming suites, and LLM-as-a-judge harnesses
+      for LLM-based agents — directly shaping and judging model
+      output quality, which is ai-first by definition.
+  responsibilities:
+  - Design and build end-to-end evaluation frameworks for LLM-based agents covering
+    correctness, latency, cost, safety, and task completion
+  - Drive Responsible AI and safety evals including red-teaming, adversarial testing,
+    bias detection, and toxicity measurement
+  - Build golden datasets, synthetic test environments, and eval-as-a-service platform
+    for standardized agent testing
+  - Automate CI/CD-integrated regression and drift detection pipelines and production
+    observability for agent quality
+  - Define eval taxonomies and rubrics for agentic workflows including tool-use accuracy,
+    hallucination rate, and policy adherence
+  - Benchmark and compare models on cost, quality, and latency to inform model selection
+    decisions
+  - Partner with policy, legal, and cross-functional teams to embed eval-driven quality
+    gates and regulatory compliance
+  - Provide technical leadership through design reviews, code reviews, and mentoring
+    of junior and contract engineers
+  use_cases:
+  - Evaluation of LLM-based agents for safety, correctness, and task completion
+  - Adversarial testing and red-teaming for jailbreak resistance and data leakage
+    prevention
+  - Regression and drift detection on prompt and model changes before production
+  - Model benchmarking and selection across cost, quality, and latency trade-offs
+  - Agent quality monitoring in production for Rubrik's data security and cyber recovery
+    products
+  skills:
+    genai: [Google ADK, Prompt Engineering, RAG, Agentic Workflows, AI Agents, LLMs,
+      LangSmith, DeepEval, LLM as a Judge, Promptfoo, RAGAS, LangGraph, Claude Agent
+        SDK, Function Calling, Anthropic API, OpenAI API, Azure OpenAI, Gemini, Red-Teaming]
+    ml: [Hugging Face, LLM Evaluation, Fine-Tuning, Model Evaluation, Deep Learning,
+      NLP, MLOps]
+    web: [Selenium, Playwright]
+    databases: [Vector Databases]
+    data: [Pandas]
+    cloud: [GCP, Vertex AI, AWS]
+    ops: [CI/CD, Jenkins, GitHub Actions, Kubernetes, Datadog, Grafana, Monitoring]
+    languages: [Python, TypeScript, Java, SQL, pytest]
+    domains: []
+    other: [Jira, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11692908'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:36:48.545136'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

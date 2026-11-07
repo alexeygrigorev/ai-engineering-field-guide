@@ -1,0 +1,58 @@
+company:
+  name: Fictiv
+  stage: null
+  focus: |-
+    Standard, configurable, and custom manufacturing solutions
+    and digital manufacturing platform
+position:
+  title: Senior AI Growth Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds marketing acquisition infrastructure
+      (audience models, enrichment pipelines, campaign automation)
+      where AI-driven workflows like AI SDR are tools consumed,
+      not LLM behaviour the person shapes through prompts,
+      retrieval, or evals. No model training, prompt design, or
+      output-quality work is described.
+  responsibilities:
+  - Design, build, and maintain automated acquisition systems including AI-driven
+    outbound and AI SDR workflows
+  - Build personalization logic for inbound and outbound programs based on segments,
+    behavioral signals, and lifecycle stage
+  - Instrument and integrate the acquisition stack - CDP, marketing automation, CRM,
+    and experimentation tooling
+  - Mine data to identify high-propensity customer segments and build models that
+    score and prioritize acquisition targets
+  - Enrich audience profiles via data append, third-party signal aggregation, and
+    web scraping
+  - Build experimentation infrastructure for testing messaging, offers, and channel
+    mix
+  - Build and maintain reporting dashboards for funnel performance, segment health,
+    and campaign attribution
+  use_cases:
+  - Customer acquisition and demand generation automation
+  - AI-driven outbound sales development workflows
+  - Audience segmentation and lead scoring
+  - Personalized inbound and outbound marketing campaigns
+  - Campaign experimentation and attribution reporting
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Web Scraping, Marketing Automation, CRM, A/B Testing, Data Enrichment]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11227641'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:27:48.165868'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

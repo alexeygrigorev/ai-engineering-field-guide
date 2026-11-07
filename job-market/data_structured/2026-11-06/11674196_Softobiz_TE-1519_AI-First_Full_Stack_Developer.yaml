@@ -1,0 +1,56 @@
+company:
+  name: Softobiz
+  stage: null
+  focus: |-
+    US healthcare technology platform for patients and care
+    teams
+position:
+  title: TE-1519 AI-First Full Stack Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly designs and builds AI-powered features
+      (smart search, summarization, assistants) and integrates LLM
+      APIs (Claude, OpenAI, Gemini), which means shaping model
+      behaviour through prompts and feature design. AI-assisted
+      coding is only part of the workflow, but the "Build AI"
+      responsibility is direct LLM product work.
+  responsibilities:
+  - Build end-to-end features across web apps, APIs and backend services, owning code
+    from design to production
+  - Build with security and privacy in mind, protecting patient data under HIPAA-aligned
+    practices
+  - Design and build AI-powered features such as smart search, summarisation and assistants
+  - Identify manual work in Support, Operations and Marketing that AI can automate
+    and build solutions
+  - Use AI coding tools (Claude Code, Cursor, Copilot) daily and share effective prompts
+    and workflows with the team
+  - Improve performance, reliability and observability across the platform
+  - Participate in code reviews, sprint ceremonies, release planning and production
+    support
+  use_cases:
+  - Smart search for patients and care teams
+  - Summarisation of healthcare content
+  - Assistants for patients and care teams
+  - Automation of manual work in Support, Operations and Marketing
+  - Connected healthcare platform for patients, doctors, clinics and pharmacies
+  skills:
+    genai: [Anthropic API, OpenAI API, Gemini, Claude Code, Cursor, GitHub Copilot,
+      LangChain, MCP, Prompt Engineering]
+    ml: []
+    web: [React, Next.js, Node.js, APIs, GraphQL, Microservices]
+    databases: [SQL]
+    data: []
+    cloud: [AWS]
+    ops: [Git, CI/CD, Automated Testing, Code Review]
+    languages: [TypeScript]
+    domains: []
+    other: [Event-Driven Architecture, n8n, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11674196'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:31:53.110912'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

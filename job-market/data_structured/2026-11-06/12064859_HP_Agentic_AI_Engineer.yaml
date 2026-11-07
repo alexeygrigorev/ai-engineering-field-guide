@@ -1,0 +1,43 @@
+company:
+  name: HP
+  stage: null
+  focus: Technology company developing AI and computing solutions
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic AI/LLM systems and designs
+      large-scale language processing solutions, shaping AI
+      behavior through advanced ML/NLP and agentic systems work.
+      LLM and agent components are explicitly named, so it is ai-
+      first.
+  responsibilities:
+  - Solve highly complex problems using advanced AI technologies such as ML and NLP
+  - Conduct experimental research to identify groundbreaking solutions
+  - Lead and architect large-scale AI projects and language processing systems
+  - Develop systems for language translation, sentiment analysis, and speech recognition
+  - Optimize and innovate algorithms for machine learning and predictive analytics
+  - Document and share research processes and findings across the organization
+  - Mentor and guide senior researchers on complex projects
+  - Exercise expert judgment in selecting methods, techniques, and evaluation criteria
+  use_cases: []
+  skills:
+    languages: [Python]
+    domains: [NLP]
+    web: []
+    cloud: [Cloud Platforms]
+    data: [Data Engineering]
+    ml: [Machine Learning, Deep Learning]
+    databases: []
+    genai: [Generative AI, LLMs, AI Agents]
+    ops: [MLOps]
+    other: [Algorithm Design, Responsible AI, Product Thinking, Statistical Modeling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064859'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:57.646727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

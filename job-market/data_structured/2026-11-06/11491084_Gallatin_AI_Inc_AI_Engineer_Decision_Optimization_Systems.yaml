@@ -1,0 +1,54 @@
+company:
+  name: Gallatin AI, Inc.
+  stage: null
+  focus: AI logistics decision systems for national security missions
+position:
+  title: AI Engineer – Decision & Optimization Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role converts AI agent outputs (LLMs, planners) into
+      enforceable deterministic constraints and builds
+      feasibility/authority layers around agent reasoning, shaping
+      how AI-generated plans behave before execution. LLM/agent
+      components are explicitly involved, so it is ai-first.
+  responsibilities:
+  - Design and implement feasibility and authority models encoding command hierarchy,
+    authority limits, and policy rules
+  - Convert AI agent outputs (LLMs, planners, probabilistic models) into deterministic,
+    enforceable constraints
+  - Build and maintain a centralized constraint framework used across planning and
+    optimization systems
+  - Surface diagnostics for infeasible plans and constraint violations for humans
+    and machines
+  - Own data inputs for constraint enforcement, including data contracts, normalization,
+    and validation pipelines
+  - Integrate feasibility checks into real-time and batch planning pipelines
+  - Validate system behavior through scenario testing, simulations, and operational
+    feedback
+  use_cases:
+  - Logistics planning and decision systems for national security missions
+  - Feasibility and authority gating for AI-generated logistics plans
+  - Constraint enforcement respecting command hierarchy, policy, and safety
+  - Real-time and batch planning pipeline integration for defense operations
+  - Auditable, explainable decision support in contested environments
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, Java, Go, C++]
+    domains: []
+    other: [Linear Programming, Mixed-Integer Programming, Constraint Satisfaction,
+      Gurobi, CPLEX, OR-Tools, Pyomo, AMPL, Operations Research]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11491084'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T11:58:52.758726'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

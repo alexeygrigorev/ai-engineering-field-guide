@@ -1,0 +1,49 @@
+company:
+  name: Sift Stack
+  stage: null
+  focus: Telemetry data infrastructure for hardware engineering teams
+position:
+  title: Software Engineer, Test Infrastructure (AI DevEx)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds test infrastructure and developer tooling;
+      AI coding agents are enabled to use the testing environments
+      but the engineer does not shape any model's behavior — they
+      build capacity and workflow infrastructure. Deliverable is
+      developer productivity, so ai-support.
+  responsibilities:
+  - Design and build infrastructure that provisions isolated, production-like testing
+    environments on demand
+  - Build and optimize CI/CD pipelines, build systems, and deployment automation
+  - Develop infrastructure supporting integration, correctness, load, and performance
+    testing
+  - Build tooling for realistic data generation and user behavior simulation
+  - Enable AI coding agents to interact with testing environments and validate code
+    changes autonomously
+  - Partner with engineering teams to improve development velocity and software quality
+  use_cases:
+  - Developer test infrastructure for a telemetry data platform
+  - On-demand production-like testing environments for validating application changes
+  - AI coding agent test and validation infrastructure
+  - Realistic data generation and workload simulation for hardware telemetry systems
+  skills:
+    genai: []
+    ml: []
+    web: [gRPC, Protobuf, React]
+    databases: [PostgreSQL]
+    data: [Flink]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Playwright, ArgoCD, GitHub Actions, Grafana,
+      Linux, Prometheus, Terragrunt]
+    languages: [Go, Python, TypeScript, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11954958'
+  location: Marina del Rey, USA
+  extracted_at: '2026-11-06T14:09:50.993132'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

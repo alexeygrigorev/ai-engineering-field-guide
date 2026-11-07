@@ -1,0 +1,55 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and observability technology
+position:
+  title: Distinguished AI Engineer (Hybrid)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role drives AI/ML strategy including both classical ML
+      (deep learning, time series, NLP) and LLM/Generative AI
+      product development, so the person shapes model technology
+      including LLM components. A role that shapes both LLM and
+      classical ML systems is ai-first.
+  responsibilities:
+  - Define and evolve the technical vision and strategy for AI/ML capabilities across
+    the product portfolio
+  - Shape and drive the AI technology roadmap with modern innovations
+  - Build leadership awareness and alignment to accelerate AI technology adoption
+  - Provide technical guidance and mentorship to cross-functional teams throughout
+    the product development lifecycle
+  - Collaborate with technical leaders to ensure timely delivery of AI/ML models and
+    service integration
+  - Identify and mitigate risks at the intersection of business and engineering
+  - Translate research insights into production AI solutions for real-world problems
+  use_cases:
+  - AI capabilities for security and observability products
+  - Digital resilience for enterprise customers
+  - Large-scale AI model development deployed in production
+  - Applying academic AI/ML advances to complex business problems
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Deep Learning, Time Series Modeling, Unsupervised Learning, Distributed Training,
+      Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: []
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11866485'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - Seattle, USA
+  - New York, USA
+  - San Jose, USA
+  extracted_at: '2026-11-06T13:24:53.153691'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

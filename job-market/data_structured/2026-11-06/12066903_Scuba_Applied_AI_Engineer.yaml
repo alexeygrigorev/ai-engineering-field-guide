@@ -1,0 +1,43 @@
+company:
+  name: Scuba
+  stage: null
+  focus: Shared memory and context tools for teams and AI agents
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds retrieval and agent systems,
+      designs how agents find and use context, and improves them
+      through evaluations grounded in real tasks — all shaping
+      model behavior. LLM/agent components are involved, so ai-
+      first.
+  responsibilities:
+  - Build the retrieval systems that help agents find the right context
+  - Design agent systems that put retrieved context to work
+  - Improve agent behavior through evaluations grounded in real tasks
+  - Work in-office as part of a small team in New York's West Village
+  use_cases:
+  - Team knowledge sharing and shared memory
+  - Context retrieval for AI agents
+  - Helping agents build on team ideas and judgment
+  - Agent improvement through task-grounded evaluations
+  skills:
+    genai: [AI Agents, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12066903'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:46:04.587847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

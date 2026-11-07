@@ -1,0 +1,50 @@
+company:
+  name: Scrumconnect Limited
+  stage: null
+  focus: Digital consultancy delivering services for UK government
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on work with LLMs, prompt
+      engineering, and evaluation workflows, plus designing AI
+      pipelines for summarisation and redaction — directly shaping
+      model behaviour and output quality of an LLM-based
+      transcription platform. No training focus, so it is GenAI
+      engineering rather than classical ML.
+  responsibilities:
+  - Support and enhance the live Judicial Transcribe service, focusing on AI components
+  - Design and implement transcription workflows for uploaded audio files
+  - Develop anonymisation and redaction capabilities aligned with publication requirements
+  - Support the transcript summarisation proof of value and enable API-based reuse
+    of summarisation capabilities
+  - Integrate evaluation mechanisms and Responsible AI controls into AI features
+  - Improve AI-specific CI/CD practices, testing frameworks, and observability for
+    AI services
+  - Reduce single-point-of-failure risks through documentation, knowledge sharing,
+    and operational playbooks
+  use_cases:
+  - Automated transcription of judicial audio recordings
+  - Anonymisation and redaction of transcripts for publication
+  - AI-driven summarisation of judicial transcripts
+  - AI-enabled service platform for UK judicial processes
+  skills:
+    genai: [LLMs, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevSecOps, Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Speech-to-Text, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11808855'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:16:22.635395'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

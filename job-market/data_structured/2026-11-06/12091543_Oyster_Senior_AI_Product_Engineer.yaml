@@ -1,0 +1,90 @@
+company:
+  name: Oyster
+  stage: null
+  focus: Global employment and payroll platform
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes Oyster AI's behavior: designing
+      agent tools, retrieval/RAG strategies, evaluation loops with
+      LLM-as-judge, and diagnosing prompt/model failures. This is
+      hands-on LLM product engineering, clearly ai-first.
+  responsibilities:
+  - Own end-to-end AI improvements to Oyster AI from problem definition through evaluation
+    and rollout
+  - Design reliable agent tool contracts with error handling, bounded execution, and
+    human oversight
+  - Choose retrieval, embedding, indexing, and freshness strategies respecting data
+    access boundaries
+  - Build trustworthy evaluation loops with datasets, experiments, regression checks,
+    and calibrated automated judges
+  - Diagnose and root-cause production failures across prompts, retrieval, tools,
+    models, and infrastructure
+  - Make and document explicit trade-offs between model quality, latency, reliability,
+    and cost
+  - Support other product teams in building AI features through mentoring, pairing,
+    and shared patterns
+  use_cases:
+  - AI assistant for Oyster customers and team members answering questions accurately
+    and safely
+  - Knowledge retrieval and answer quality for a global employment/payroll platform
+  - Agentic tools with human control over consequential employment actions
+  - Reliable conversational assistant experiences with permission-aware data access
+  skills:
+    genai: [AI Agents, RAG, Embeddings, Prompt Engineering, Function Calling, LLM
+        Evaluation, LLMs]
+    ml: []
+    web: [Ruby on Rails, React, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12091543'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - CHL
+  - PER
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - LVA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ISL
+  - COL
+  - ROU
+  - SVK
+  - LUX
+  - CHE
+  - NLD
+  - ARG
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T14:55:18.062822'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

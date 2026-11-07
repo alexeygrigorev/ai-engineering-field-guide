@@ -1,0 +1,48 @@
+company:
+  name: Raydar
+  stage: null
+  focus: |-
+    Fast-growing software company building AI-driven
+    applications
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI applications and agents using agent
+      frameworks and LLM APIs, with ownership of end-to-end design
+      and delivery, including monitoring LLM-based systems.
+      Building agent-based applications is shaping model behaviour
+      (agent flows, LLM integration), so it is ai-first.
+  responsibilities:
+  - Architect, build and own a user-facing AI-driven application spanning back-end
+    and front-end
+  - Build AI applications and agents using agent frameworks
+  - Integrate large language model APIs from leading providers
+  - Promote sound engineering practices and shape technical strategy and roadmaps
+  - Partner with product managers, designers and engineers
+  - Help define how the team measures success
+  - Drive technical projects from idea through delivery
+  use_cases:
+  - AI-driven user-facing applications
+  - LLM-powered agents
+  - SaaS AI product development
+  skills:
+    genai: [AI Agents, OpenAI API, LLMs]
+    ml: [Model Training]
+    web: []
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Docker, CI/CD, Git, LLM Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11626162'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:24:35.381144'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

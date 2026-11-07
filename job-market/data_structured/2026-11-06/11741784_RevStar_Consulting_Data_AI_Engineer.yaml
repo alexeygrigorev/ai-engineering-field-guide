@@ -1,0 +1,58 @@
+company:
+  name: RevStar Consulting
+  stage: null
+  focus: Databricks consulting building cloud data and AI solutions
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds ETL/ELT pipelines, Lakehouse architecture,
+      and MLOps infrastructure, partnering with ML engineers to
+      operationalize models others build. It does not shape model
+      behaviour itself—no prompting, retrieval design, or training
+      of models—so it is ai-support.
+  responsibilities:
+  - Design, build, and optimize scalable ETL/ELT pipelines using Apache Spark and
+    Delta Lake across AWS, Azure, and GCP
+  - Implement Lakehouse architectures processing structured and unstructured data
+    at enterprise scale
+  - Automate data ingestion, storage, and feature engineering workflows for analytics
+    and real-time AI workloads
+  - Fine-tune Spark jobs for latency, throughput, and cloud cost efficiency
+  - Partner with ML engineers to operationalize AI models in Databricks using MLflow
+  - Implement CI/CD pipelines and Infrastructure-as-Code (Terraform, Databricks CLI)
+    for automated deployments
+  - Enforce data security, access controls, and compliance (GDPR, HIPAA, SOC 2) in
+    Unity Catalog
+  - Collaborate with client tech leaders and lead solution handoffs to client engineering
+    teams
+  use_cases:
+  - Enterprise Lakehouse data platforms across multi-cloud environments
+  - Scalable ETL/ELT pipelines for structured and unstructured data
+  - Operationalizing AI models in production within Databricks
+  - Real-time AI and analytics workloads on governed enterprise data
+  - Automated, production-grade deployment of data and ML infrastructure
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: [Spark, Delta Lake, Data Pipelines, Feature Engineering, Databricks]
+    ml: []
+    databases: [Unity Catalog]
+    genai: []
+    ops: [MLflow, CI/CD, Terraform, Infrastructure as Code]
+    other: [GDPR, HIPAA Compliance, SOC 2]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11741784'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-11-06T12:45:25.096547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

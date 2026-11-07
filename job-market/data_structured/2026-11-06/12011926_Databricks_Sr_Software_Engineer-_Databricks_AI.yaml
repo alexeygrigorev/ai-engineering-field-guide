@@ -1,0 +1,53 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Data and AI platform, Lakehouse analytics
+position:
+  title: Sr. Software Engineer- Databricks AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend services and APIs for the
+      MLflow/MLOps platform — ingesting traces, scaling
+      infrastructure, and ensuring operational excellence. While
+      it develops LLM judges and evaluation capabilities, these
+      are platform features built as general backend systems; the
+      core work is large-scale distributed systems engineering and
+      serving, not directly shaping a specific model's behavior
+      through prompts or retrieval. ML/LLM experience is only
+      listed as a plus.
+  responsibilities:
+  - Design and implement core services and APIs for the MLflow/LLMOps platform
+  - Build systems that ingest, store, and query traces, metrics, and artifacts from
+    training runs and production agents
+  - Develop evaluation and monitoring capabilities such as LLM judges and quality
+    metrics
+  - Optimize scalability and cost of the platform across customers and cloud regions
+  - Collaborate with product, research, and customers on roadmap
+  - Establish best practices for code quality, testing, and operational readiness,
+    and mentor engineers
+  use_cases:
+  - Experiment tracking for model training runs
+  - Model registry management
+  - Observation and evaluation of AI agents
+  - Regression detection for AI quality before production
+  - Managed MLflow platform used by AI developers
+  skills:
+    genai: []
+    ml: [LLMs, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Docker, Kubernetes, MLOps]
+    languages: [Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12011926'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:28:54.959514'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

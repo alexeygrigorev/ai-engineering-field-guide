@@ -1,0 +1,54 @@
+company:
+  name: Walmart Global Tech
+  stage: null
+  focus: Retail technology, compliance, security and risk platforms
+position:
+  title: STAFF, SOFTWARE ENGINEER (Full Stack with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While primarily a backend/full-stack staff engineering role,
+      the responsibilities include applying Generative AI/LLM
+      engineering concepts such as prompt/context design,
+      model/API integration, and evaluation of LLM-based
+      applications, which means the engineer shapes LLM behaviour
+      directly. No classical-ML-only framing dominates, so ai-
+      first applies.
+  responsibilities:
+  - Lead architecture, design, and hands-on development of scalable, secure, cloud-native
+    enterprise applications with backend emphasis
+  - Own complex technical initiatives end-to-end from architecture and POC through
+    deployment and continuous improvement
+  - Drive engineering excellence via design/code reviews, automated testing, observability,
+    performance engineering, and CI/CD
+  - Apply cloud, data, AI, and ML engineering concepts to build intelligent capabilities
+    while optimizing cost and AI token efficiency
+  - Provide technical leadership and mentorship to engineers and influence architectural
+    decisions across teams
+  - Collaborate with product and business partners to establish reusable patterns
+    and engineering best practices
+  use_cases:
+  - Automating compliance, security, risk, and investigation workflows
+  - Data-driven governance platforms with actionable insights
+  - Intelligent enterprise applications with ML-powered capabilities
+  - LLM-based applications with cost and token-efficiency optimization
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, Responsible AI]
+    ml: [Machine Learning]
+    web: [React, Spring Boot, REST APIs, Microservices]
+    databases: [Relational Databases, NoSQL]
+    data: []
+    cloud: [GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Observability, Monitoring, FinOps, Distributed
+        Systems]
+    languages: [Java, JavaScript, TypeScript]
+    domains: []
+    other: [Event-Driven Architecture, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11325027'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:30:20.278107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

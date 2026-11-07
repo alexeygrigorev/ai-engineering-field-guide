@@ -1,0 +1,53 @@
+company:
+  name: Affirm
+  stage: null
+  focus: Buy now, pay later consumer lending and payment platform
+position:
+  title: Senior Software Engineer, Backend (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds the LLM Gateway, MCP Gateway, agent
+      runtime, and the evals/guardrails/observability layer that
+      shape AI system behavior, including tool calling and
+      evaluation of whether AI changes are safe to ship. This is
+      designing agent flows and evals directly, making it ai-
+      first.
+  responsibilities:
+  - Design and build LLM gateway, MCP gateway, agent runtime, and evaluation services
+    for AI workloads
+  - Build identity, quota, routing, caching, and failover controls for AI spend governance
+  - Set guardrails and on-behalf-of identity models for agentic workloads with security
+    and product teams
+  - Monitor and own operational health of platform systems including alerting and
+    on-call
+  - Set and improve code review and design standards across engineering
+  - Use AI tools and agentic workflows daily as a productivity multiplier
+  - Mentor and grow engineers on the team
+  use_cases:
+  - LLM gateway for governed access to approved models across providers
+  - MCP gateway mediating and auditing tool calls
+  - Agent runtime with bounded execution for agentic workloads
+  - Evals and observability to determine if AI changes are better, cheaper, or safe
+  - AI cost attribution and governance across engineering teams
+  skills:
+    genai: [LLMs, AI Agents, MCP, Function Calling, LLM Evaluation, LiteLLM, Agentic
+        Workflows]
+    ml: []
+    web: []
+    databases: [MySQL]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Kubernetes, Monitoring, Code Review, Distributed Systems]
+    languages: [Python, Kotlin]
+    domains: []
+    other: [On-Call]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11898644'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:53:59.108125'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

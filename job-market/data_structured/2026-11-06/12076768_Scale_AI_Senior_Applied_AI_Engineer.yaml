@@ -1,0 +1,57 @@
+company:
+  name: Scale AI
+  stage: null
+  focus: |-
+    AI data and full-stack AI technology for enterprises and
+    governments
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: building agents
+      with tool calling and guardrails, designing evaluations,
+      applying context engineering and RAG, and owning AI
+      behaviour end to end. LLM/agent components are central, so
+      it is ai-first. It is customer-facing (technical point of
+      contact for clients) but not management.
+  responsibilities:
+  - Own the AI layer of production systems for public sector clients, including agents,
+    model integration, and backend services
+  - Build production agents with reliable tool calling, guardrails, and observability
+  - Select and adapt evaluation methods and design new evaluations for client-specific
+    risks
+  - Apply context engineering, retrieval-augmented generation, model adaptation, or
+    inference optimisation
+  - Investigate regressions, lead root-cause analysis, and implement preventative
+    changes
+  - Lead project planning for the workstream and manage client expectations on scope,
+    risk, and delivery
+  - Codify recurring client work into reusable tooling, evaluation components, or
+    guidance
+  - Mentor engineers through code review, pairing, and delegated ownership
+  use_cases:
+  - AI agents for public sector clients
+  - Production AI systems for governments and regulated sectors
+  - Evaluation of model behaviour on live client data
+  - Retrieval-augmented AI on sensitive or regulated data
+  skills:
+    genai: [AI Agents, Function Calling, Guardrails, LLM Evaluation, Context Engineering,
+      RAG]
+    ml: [Fine-Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12076768'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:50:18.654157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

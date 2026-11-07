@@ -1,0 +1,46 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio learning products
+position:
+  title: Software Engineer, AI Data - Kaunas, Lithuania
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed model training runs owned by AI
+      Scientists. Moving, acquiring, and processing data is
+      plumbing, not shaping model behaviour, so it is ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets and support next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech reading products converting documents and web content to audio
+  - Petabyte-scale high-quality audio dataset creation for model training
+  - Audio data acquisition and processing for next-generation speech models
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Data Acquisition, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762189'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:52:05.293256'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

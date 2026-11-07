@@ -1,0 +1,62 @@
+company:
+  name: B.S.D. Capital, Inc. dba Lendistry
+  stage: null
+  focus: Small business and commercial real estate lending
+position:
+  title: Sr AI/Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships end-to-end LLM features: agentic
+      workflows, RAG, prompt pipelines, fine-tuning (LoRA/QLoRA),
+      and evaluation harnesses — all shaping LLM behavior, so ai-
+      first.
+  responsibilities:
+  - Own end-to-end LLM features from design through production operation across origination,
+    underwriting, servicing, and borrower experience
+  - Lead design of agentic workflows with tool calling, multi-step reasoning, and
+    human-in-the-loop controls
+  - Fine-tune and adapt foundation models (LLaMA-family, Bedrock-hosted) using LoRA,
+    QLoRA, instruction tuning, and prompt optimization
+  - Design and build RAG systems end to end tuned for financial documents and lending
+    policy
+  - Build document intelligence pipelines extracting structured data from PDFs and
+    scanned financial documents
+  - 'Contribute to shared AI platform components: prompt registry, tool-calling framework,
+    evaluation harness, and inference routing layer'
+  - 'Design evaluation and observability frameworks: golden sets, LLM-as-judge scoring,
+    drift monitoring, cost and latency management'
+  - Mentor junior AI engineers and lead proof-of-concept work to validate new AI use
+    cases
+  use_cases:
+  - Document intelligence for loan applications, tax returns, and financial statements
+  - Underwriting copilots surfacing risk signals and policy checks for underwriters
+  - Borrower-facing conversational AI for navigating loan applications and decisions
+  - Shared AI platform (prompt registry, tool-calling, evaluation, inference routing)
+  - AI reliability via evaluation and observability in regulated lending decisions
+  skills:
+    languages: [Python, Pydantic]
+    domains: [NLP]
+    web: [APIs]
+    cloud: [AWS Bedrock, AWS, Textract]
+    data: []
+    ml: [Fine-Tuning, Instruction Tuning, Hugging Face, Llama, LayoutLM, Donut, Nougat]
+    databases: [Qdrant, Pinecone, Weaviate, OpenSearch, pgvector]
+    genai: [LLMs, Anthropic API, OpenAI API, Gemini, Function Calling, Structured
+        Outputs, RAG, Embeddings, Agentic Workflows, LoRA, Prompt Engineering, LangChain,
+      LangGraph, LlamaIndex, DSPy, LLM Evaluation, Claude Code, GitHub Copilot, Cursor,
+      Vector Databases, Hybrid Search, LLM-as-a-Judge]
+    ops: [Docker, vLLM, TGI, Ollama, Tesseract]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894027'
+  location: Tustin, USA
+  locations:
+  - Tustin, USA
+  - Los Angeles, USA
+  remote: true
+  extracted_at: '2026-11-06T13:50:46.629001'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

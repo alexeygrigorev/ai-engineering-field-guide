@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and intelligent automation solutions
+position:
+  title: Agentic AI Engineer (n8n Workflow Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI workflows in n8n, including
+      agent decision-making, knowledge systems for agents, and AI
+      model performance work - shaping model behavior via agent
+      orchestration, so ai-first.
+  responsibilities:
+  - Architect and develop AI-driven workflows using n8n to automate complex business
+    processes
+  - Design and implement agentic AI solutions that execute tasks and make decisions
+    independently
+  - Integrate third-party APIs and services for seamless data flow across platforms
+  - Optimize workflow structures for performance, latency, and reliability
+  - Develop and maintain knowledge management systems supporting AI agents
+  - Analyze business requirements to identify automation opportunities
+  - Troubleshoot workflow execution, API connectivity, and AI model performance issues
+  use_cases:
+  - Business process automation via agentic workflows
+  - Autonomous task execution and decision-making
+  - Cross-platform API integration and data connectivity
+  - Knowledge management for AI agents
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891816'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:22.010378'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

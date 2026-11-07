@@ -1,0 +1,61 @@
+company:
+  name: Trilagen
+  stage: null
+  focus: Consulting firm building production enterprise AI agents
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems end to end:
+      agent orchestration, tool calling, memory/RAG architecture,
+      and model selection. LLM and agent components are central,
+      making it ai-first despite full-stack scope. Deployed on
+      client engagements as lead architect, so customer-facing.
+  responsibilities:
+  - Design and build full-stack agentic applications including React/Next.js frontends
+    and Python/Node.js backends
+  - Orchestrate multi-step agent logic with tool use, function calling, ReAct loops,
+    and agent-to-agent handoffs
+  - Integrate and benchmark LLM providers (Anthropic, OpenAI, Gemini) via model-agnostic
+    integration layers
+  - Deploy production agent systems across AWS, OCI, and Azure
+  - Design agent memory and retrieval architectures including RAG pipelines with vector
+    databases
+  - 'Build security and identity layers: OAuth 2.0/OIDC, RBAC, secrets management,
+    audit logging, prompt injection defense'
+  - Run client engagements as lead technical architect, including discovery, design
+    docs, and delivery
+  - Own repo, CI/CD, deployment, and runbooks; help productize the delivery approach
+  use_cases:
+  - Production enterprise AI agents deployed in multi-cloud environments
+  - Multi-step agent workflows with tool use, human-in-the-loop checkpoints, and failure
+    recovery
+  - Agent memory and retrieval systems with short-term and long-term persistent memory
+  - Model-agnostic LLM integration for enterprise clients
+  - Secure enterprise agent systems with identity, audit, and prompt injection defense
+  skills:
+    genai: [AI Agents, LangGraph, CrewAI, AutoGen, MCP, Anthropic API, OpenAI API,
+      Gemini, Function Calling, RAG, Semantic Search, Embeddings, LLMs, Prompt Engineering]
+    ml: []
+    web: [React, Next.js, FastAPI, Flask, REST APIs, WebSockets, Node.js]
+    databases: [Pinecone, pgvector, OpenSearch, Weaviate, Vector Databases]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, AWS Bedrock, API Gateway, GCP, Vertex AI, Azure,
+      AKS, Azure OpenAI, Azure Functions, Oracle OCI, OKE, OCI Functions]
+    ops: [CI/CD, Docker, OAuth, Secrets Management, Okta, SailPoint ISC]
+    languages: [Python]
+    domains: []
+    other: [RBAC]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893250'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - Bethesda, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:46:12.905619'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Inviso Corporation
+  stage: null
+  focus: Technology and business consulting, Microsoft solutions
+position:
+  title: Microsoft 365 AI Security Engineer (Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role configures security, compliance, and governance
+      controls (Purview, Entra ID, Defender, Agent 365) around
+      Microsoft 365 and AI agents, but does not shape model
+      behavior, prompts, retrieval, or agent flows themselves. It
+      is governance/oversight of AI workloads, not model shaping,
+      so it is ai-support.
+  responsibilities:
+  - Design, configure, and implement Microsoft Purview security, compliance, data
+    governance, and information protection capabilities
+  - Implement security and governance for Microsoft 365 Copilot and AI agents using
+    Agent 365
+  - Design and implement identity and access controls with Microsoft Entra ID including
+    Conditional Access, MFA, and RBAC
+  - Assess Microsoft 365 environments, identify security and compliance gaps, and
+    develop remediation plans
+  - Configure and integrate Microsoft Defender and Microsoft 365 security capabilities
+    across customer environments
+  - Partner with client security, compliance, identity, and IT teams to translate
+    requirements into technical solutions
+  - Develop technical documentation, configuration standards, and governance frameworks
+  - Support client workshops, technical discovery, implementation, testing, and knowledge
+    transfer
+  use_cases:
+  - Microsoft 365 security, compliance, and governance implementation
+  - Data loss prevention and information protection with sensitivity labels
+  - Identity and access management with Microsoft Entra ID
+  - Security and governance for Microsoft 365 Copilot and enterprise AI agents
+  - Security gap assessment and remediation planning
+  skills:
+    genai: [Agent 365, Microsoft 365 Copilot, AI Agents, Copilot Studio]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Microsoft Purview, Microsoft Entra ID, Microsoft Defender, Microsoft Sentinel,
+      Defender for Cloud Apps]
+    ops: []
+    languages: [PowerShell]
+    domains: []
+    other: [Data Loss Prevention, eDiscovery, Conditional Access, MFA, RBAC, Zero
+        Trust, Automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12009654'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:28:11.834508'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

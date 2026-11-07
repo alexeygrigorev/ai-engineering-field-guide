@@ -1,0 +1,54 @@
+company:
+  name: Matrix Global Services
+  stage: null
+  focus: IT services, technology consulting, and software delivery
+position:
+  title: Senior Platform Engineer -AI / Platform Lead
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform/devex engineer: CI/CD, observability,
+      developer workflows, cloud infrastructure. AI appears only
+      as coding assistants and agent-based workflows to improve
+      developer productivity, not as a product the person shapes.
+      Rolling out AI tooling for other engineers is ai-support.
+  responsibilities:
+  - Define and execute a platform roadmap spanning CI/CD, release automation, environments,
+    observability, and developer workflows
+  - Build internal tools, automation, templates, and paved roads to simplify software
+    delivery
+  - Improve local development experiences, deployment processes, and production visibility
+  - Increase delivery confidence through automated validation, quality controls, and
+    release guardrails
+  - Establish AI-first engineering workflows for coding, debugging, documentation,
+    reviews, and automation
+  - Use DORA and developer experience metrics to prioritize platform investments
+  - Raise engineering standards through architecture discussions, code and design
+    reviews, and mentoring
+  use_cases:
+  - Developer productivity and platform engineering
+  - CI/CD and release automation
+  - Observability and production visibility
+  - AI-assisted developer workflows
+  - Internal developer tooling and paved roads
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: [AWS, ECS, AWS Lambda, AWS S3, IAM, CloudWatch]
+    ops: [CI/CD, Observability, Kubernetes, Terraform, GitHub Actions, GitLab CI,
+      Jenkins, ArgoCD, Datadog, Grafana, Infrastructure as Code]
+    languages: [Go, Python, C#, .NET, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11677010'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:34:15.038705'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

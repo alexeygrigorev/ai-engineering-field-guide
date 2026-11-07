@@ -1,0 +1,44 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global payments technology and digital transaction services
+position:
+  title: Software Engineer II - Java Full stack with AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Java full-stack engineer; AI is only listed as
+      exposure to AI-powered dev tools (Copilot) and ability to
+      integrate AI/ML APIs someone else designed. No shaping of
+      model behaviour, so it is ai-support.
+  responsibilities:
+  - Design and develop high quality, secure, scalable software solutions from technical
+    requirements and design artifacts
+  - Work closely with Product Owners to build usable UIs and creative data visualizations
+  - Participate in architectural discussions, iteration planning, and feature sizing
+    meetings
+  - Provide support during System and User Acceptance Testing
+  - Adhere to Agile processes and participate in agile ceremonies
+  - Support the technical lead in design and produce high-quality code
+  use_cases:
+  - Business analytics and reporting solutions for payments customers
+  - Secure digital payment applications and value-added services
+  skills:
+    languages: [Java, SQL, Python]
+    domains: []
+    web: [Spring Boot, REST APIs, React, Angular, Microservices]
+    cloud: [AWS, Azure, GCP]
+    data: [Databricks, Spark, Data Pipelines, Delta Lake]
+    ml: [Machine Learning]
+    databases: [Oracle, SQL Server]
+    genai: []
+    ops: [CI/CD, Jenkins, Docker, Kubernetes, Maven, SonarQube, Chef, Gradle]
+    other: [GitHub Copilot, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11864519'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:24:33.021785'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

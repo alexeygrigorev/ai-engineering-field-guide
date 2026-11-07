@@ -1,0 +1,51 @@
+company:
+  name: Arkestro
+  stage: null
+  focus: Predictive procurement and enterprise negotiation platform
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and productionizes agentic AI
+      functionality and owns evals, ground truth, and guardrails
+      for LLM-based systems, which is directly shaping model
+      behavior. Agentic/LLM components are explicitly central, so
+      ai-first.
+  responsibilities:
+  - Design, build, and productionize machine learning and agentic AI functionality
+  - Partner with product engineering squads to embed AI and agentic capabilities into
+    the product
+  - Contribute to AI/ML architecture decisions and stack evolution
+  - Own evals and ground truth, building human-generated evals for the automated eval
+    system
+  - Build tooling to deploy AI/ML systems reliably with latency, cost, and error handling
+    as first-class concerns
+  - Champion safety, reliability, and responsible-AI practices including guardrails
+  - Act as go-to resource for AI/ML best practices and occasionally explain AI functionality
+    to customers
+  use_cases:
+  - Predictive intelligence for enterprise procurement and sourcing events
+  - Agentic AI features embedded in a procurement product
+  - AI-driven enterprise negotiations informed by game theory and behavioral science
+  - Automated evaluation of AI/ML features for production readiness
+  skills:
+    genai: [AI Agents, LLMs]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: [Snowflake]
+    data: [dbt]
+    cloud: [AWS]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, Git]
+    languages: [Python]
+    domains: []
+    other: [Procurement, Supply Chain]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11732956'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:44:45.819163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

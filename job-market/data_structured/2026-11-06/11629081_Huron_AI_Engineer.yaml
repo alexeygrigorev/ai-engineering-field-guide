@@ -1,0 +1,64 @@
+company:
+  name: Huron
+  stage: null
+  focus: Global management and technology consultancy
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG architectures (chunking,
+      embeddings, reranking), agentic systems, and does fine-
+      tuning and evaluation of LLM outputs, so it directly shapes
+      model behaviour with LLM/agent components.
+  responsibilities:
+  - Design and develop AI-powered systems combining traditional ML and Generative
+    AI techniques including prompt engineering, fine-tuning, embeddings, and RAG architectures
+  - Build intelligent applications and agentic systems using frameworks such as LangChain,
+    LangGraph, AutoGen, CrewAI
+  - Architect and implement end-to-end RAG pipelines including document ingestion,
+    chunking, embedding generation, vector indexing, hybrid search, and contextual
+    response generation
+  - Develop modular APIs and service components using FastAPI or Flask for model integration
+  - Build and manage end-to-end AI pipelines covering data ingestion, transformation,
+    validation, training, inference, deployment, and knowledge retrieval
+  - Leverage AWS and Azure AI/ML services to accelerate development and deployment
+  - Implement observability, evaluation, and monitoring for model accuracy, drift,
+    retrieval quality, grounding fidelity, and task-level reasoning
+  - Optimize RAG systems for latency, scalability, cost efficiency, and response quality
+    in production
+  use_cases:
+  - Autonomous and interactive agentic applications
+  - Enterprise knowledge retrieval via RAG pipelines
+  - Predictive analytics and statistical modeling solutions
+  - Document ingestion and contextual response generation
+  - Production LLM systems with evaluation, observability, and grounding validation
+  skills:
+    genai: [Prompt Engineering, Fine-Tuning, Embeddings, RAG, AI Agents, LangChain,
+      LangGraph, AutoGen, CrewAI, Multi-Agent Systems, MCP, OpenAI API, Generative
+        AI, LLMs]
+    ml: [scikit-learn, PyTorch, TensorFlow, Machine Learning, Model Training]
+    web: [FastAPI, Flask, APIs]
+    databases: [Vector Databases, FAISS, Pinecone, Chrom, Azure AI Search]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, AWS Bedrock, SageMaker, Azure OpenAI, Azure ML, Azure Document
+        Intelligence]
+    ops: [MLOps, CI/CD, Docker, Model Deployment, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [RAGAS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11629081'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Jaipur, IND
+  - Chennai, IND
+  - IND
+  - Noida, IND
+  remote: true
+  extracted_at: '2026-11-06T12:25:38.121726'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Cummins
+  stage: null
+  focus: Manufacturer of engines and power generation equipment
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI Engineer" title, the description contains no
+      AI/ML work whatsoever; it is a generic software engineer
+      posting with no responsibilities that shape model behaviour
+      or output. Nothing in the text mentions LLMs, agents,
+      prompts, retrieval, or model training, so the role falls to
+      ai-support.
+  responsibilities:
+  - Design, develop, write, and implement software programming applications in compliance
+    with coding standards and technical design
+  - Study information needs, systems flow, data usage, and work processes to develop
+    software solutions
+  - Determine feasibility by evaluating requirements, problem definitions, and proposed
+    solutions
+  - Prepare and install solutions by determining and designing system specifications
+    and standards
+  - Participate in the testing process through test review, analysis, witnessing,
+    and certification of software
+  - Define application interfaces, nonfunctional requirements, and solution deployment
+    interactions
+  - Document and demonstrate solutions, including flow charts, layouts, and technical
+    documentation
+  - Apply modern engineering practices such as Agile/DevSecOps, CI/CD, automated testing,
+    and infrastructure as code
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile, DevSecOps, CI/CD, Infrastructure as Code]
+    languages: []
+    domains: []
+    other: [Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064605'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:44:32.665669'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

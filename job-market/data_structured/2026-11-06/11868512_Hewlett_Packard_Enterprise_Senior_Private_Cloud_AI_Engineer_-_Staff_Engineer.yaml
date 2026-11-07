@@ -1,0 +1,54 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud hybrid cloud platform (GreenLake)
+position:
+  title: Senior Private Cloud AI Engineer - Staff Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds platform, automation, and infrastructure for
+      HPE's Private Cloud AI, enabling and operationalizing AI
+      workloads (LLM/RAG/MLOps integration) that others build.
+      There is no evidence of shaping model behavior - no prompt
+      engineering, retrieval design, fine-tuning, or eval
+      ownership. It is infrastructure engineering on an AI
+      product, so ai-support.
+  responsibilities:
+  - Design and develop components of the HPE Private Cloud AI platform
+  - Build automation, tooling, APIs, and workflows for deployment, operations, monitoring,
+    and lifecycle management
+  - Contribute to Kubernetes-based platform services and cloud-native capabilities
+  - Support integration of AI technologies including LLM workloads, RAG, model serving
+    frameworks, and MLOps tools
+  - Test, validate, and operationalize AI workloads on enterprise infrastructure
+  - Troubleshoot and resolve system-level issues spanning hardware, infrastructure,
+    and applications
+  - Partner with product, support, field engineering, and customer teams on deployment
+    challenges, POCs, and reference architectures
+  - Contribute to architecture reviews, documentation, and operational readiness activities
+  use_cases:
+  - Private cloud AI platform for enterprise infrastructure
+  - Deployment and lifecycle management of AI/LLM workloads
+  - Model serving and MLOps enablement on-premises
+  - Enterprise hybrid cloud platform (GreenLake) services
+  skills:
+    genai: [LLMs, RAG]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [GPU Computing]
+    ops: [Kubernetes, Docker, Linux, Ansible, Terraform, Helm, MLOps, Model Deployment,
+      Distributed Systems]
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: [Virtualization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11868512'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:25:56.364780'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

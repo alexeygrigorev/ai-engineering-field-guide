@@ -1,0 +1,45 @@
+company:
+  name: NextGen Federal Systems
+  stage: null
+  focus: Technology and mission support services for federal clients
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops GenAI solutions using LLMs,
+      RAG, MCP servers, and agentic workflows, which is direct
+      shaping of model behavior and output quality. An LLM/agent
+      component is explicitly central, so it is ai-first.
+  responsibilities:
+  - Research, design, develop, and deploy AI/ML and Generative AI solutions for mission-focused
+    problems
+  - Build advanced AI capabilities using LLMs, RAG, MCP servers, and agentic workflows
+  - Integrate cloud-native AI services such as AWS Bedrock
+  - Participate in all phases of the software engineering lifecycle including requirements
+    analysis and solution design
+  - Develop, integrate, deploy, evaluate, and test AI models
+  - Work within a distributed agile development team
+  use_cases:
+  - Mission-focused AI problem solving
+  - Generative AI solutions for federal/mission systems
+  skills:
+    genai: [LLMs, RAG, MCP, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: []
+    languages: []
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196633'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:26:29.209780'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

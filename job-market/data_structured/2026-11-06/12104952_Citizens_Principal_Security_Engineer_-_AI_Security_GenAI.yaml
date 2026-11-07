@@ -1,0 +1,59 @@
+company:
+  name: Citizens
+  stage: null
+  focus: Retail and commercial banking and financial services
+position:
+  title: Principal Security Engineer - AI Security & GenAI Data Protection
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates a security gateway that monitors, redacts,
+      and blocks data flows around GenAI usage; it does not shape
+      any model's behavior through prompts, retrieval, training,
+      or evals. This is governance and data-loss-prevention
+      oversight of AI tools used by others, which falls under ai-
+      support.
+  responsibilities:
+  - Own end-to-end AI Gateway capability including evaluation, selection, deployment,
+    configuration, and policy tuning
+  - Execute phased rollout from monitoring to coaching and targeted blocking based
+    on AI traffic and risk metrics
+  - Engineer controls for GenAI prompts, file uploads, browser traffic, and embedded
+    copilots
+  - Implement inline remediation including redaction, quarantine, user coaching, and
+    blocking
+  - Assess agentic integration risks including AI agents, MCP, non-human identities,
+    and third-party access paths
+  - Integrate AI Gateway telemetry with SIEM, SOAR, ITSM, and identity platforms
+  - Define governance standards, policy lifecycle, exception handling, and escalation
+    processes
+  - Measure and report program effectiveness including coverage, policy accuracy,
+    and false positive/negative trends
+  use_cases:
+  - Enterprise AI Gateway for monitoring sanctioned and unsanctioned AI usage
+  - GenAI data loss prevention across prompts, file uploads, and browser traffic
+  - Inline remediation of risky AI data movement via redaction, quarantine, coaching,
+    and blocking
+  - Security risk assessment for agentic AI, MCP integrations, and non-human identities
+  - Governance and audit readiness for responsible AI adoption in a regulated bank
+  skills:
+    genai: [AI Agents, MCP]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, PowerShell]
+    domains: []
+    other: [DLP, CASB, SSE, SASE, DSPM, SIEM, SOAR, Identity And Access Management,
+      OAuth, OIDC, AI Security, ITSM, Cyera Omni, Netskope AI Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12104952'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:02:31.617126'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Oaktree Capital Management, L.P.
+  stage: null
+  focus: Global credit and alternative investment management
+position:
+  title: Senior Associate - AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent-based systems, RAG pipelines, and
+      function-calling patterns, and implements evaluations of LLM
+      output quality — squarely shaping LLM behavior. No
+      training/fine-tuning, but orchestration and eval work on
+      LLMs makes it ai-first.
+  responsibilities:
+  - Design and implement AI-driven automation workflows using LLMs via Azure AI Foundry
+    and Azure ML model catalog
+  - Build agent-based systems using orchestration frameworks such as LangChain, LangGraph,
+    Semantic Kernel, and AutoGen
+  - Implement tool-using agents, RAG pipelines, and structured function-calling patterns
+  - Design integration layers for enterprise systems including APIs, databases, and
+    workflow platforms
+  - Deploy and manage production LLM-powered applications on Azure with CI/CD, Docker,
+    and monitoring
+  - Implement evaluation and testing approaches to ensure quality and consistency
+    of AI outputs
+  - Partner with RPA, AI/Data Science, IT, and Security teams to align AI automation
+    with enterprise standards
+  use_cases:
+  - Enterprise business automation combining RPA with Agentic AI
+  - Intelligent decision layers embedded into automation processes
+  - Tool-using agents and RAG for enterprise workflow integration
+  - Production LLM-powered automation services on Azure
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, AutoGen, AI Agents, RAG, Function
+        Calling, LLMs, Agentic Workflows]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure ML]
+    ops: [CI/CD, Docker, Kubernetes, MLOps, Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [RPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11588493'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:16:34.946696'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

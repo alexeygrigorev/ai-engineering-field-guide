@@ -1,0 +1,50 @@
+company:
+  name: MSCI Inc.
+  stage: null
+  focus: Financial data, analytics, and index solutions
+position:
+  title: Senior AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, tool/function calling, guardrails,
+      and agentic workflows integrating LLMs with enterprise
+      systems, directly shaping model behavior in automation.
+      LLM/agent involvement makes it ai-first.
+  responsibilities:
+  - Design, develop, and maintain the enterprise AI Automation platform supporting
+    150+ automation workflows
+  - Build intelligent AI-powered workflows including self-healing infrastructure operations
+  - Integrate LLMs with enterprise systems through secure APIs and tool orchestration
+  - Develop reusable automation frameworks, APIs, and services
+  - Apply governance, security, and audit best practices for compliant automation
+  - Troubleshoot production issues and improve platform reliability
+  - Mentor associate engineers and promote best practices
+  use_cases:
+  - Self-healing infrastructure operations
+  - Enterprise workflow automation across Infrastructure Operations
+  - Incident summarization
+  - AI-assisted code generation
+  - Knowledge retrieval
+  - Workflow orchestration
+  skills:
+    genai: [Prompt Engineering, AI Agents, Function Calling, Guardrails, LangChain,
+      LangGraph, CrewAI, Semantic Kernel, AutoGen, MCP, OpenAI API, Azure OpenAI,
+      Anthropic API, Gemini, RAG, LLM Evaluation]
+    ml: []
+    web: [REST APIs, FastAPI]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: [Azure, GCP]
+    ops: [Kubernetes, Linux, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [RPA, ServiceNow, VMware, Cisco UCS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12093530'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:56:39.468730'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

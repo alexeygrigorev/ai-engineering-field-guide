@@ -1,0 +1,108 @@
+company:
+  name: TD SYNNEX
+  stage: null
+  focus: Global IT distribution and technology solutions
+position:
+  title: AI and Cloud Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role authors and tunes runtime guardrails that shape
+      LLM/agent behavior — prompt-injection and jailbreak
+      prevention, intent-based filtering, PII redaction, tool-call
+      validation, MCP access control, and agent permission
+      boundaries — which is directly building and calibrating
+      output-quality enforcement. Guardrails and policy shaping
+      for LLMs and agents makes this ai-first.
+  responsibilities:
+  - 'Build and own the AI runtime control plane: deploy and operate the inline enforcement
+    pipeline (AI gateway, runtime data protection, intent-based enforcement) fronting
+    LLMs, tools, and MCP servers across Azure AI Foundry, AWS Bedrock, GCP Vertex,
+    Copilot Studio, Databricks, and self-hosted environments'
+  - Author and calibrate runtime policies including prompt-injection/jailbreak prevention,
+    PII detection and redaction, intent-based filtering, tool-call validation, MCP
+    access control, and agent permission boundaries, tuned per AI archetype
+  - Operate a closed-loop defensive system translating continuous red-team findings
+    into runtime policy updates, new detection content, and guardrail tuning, validating
+    remediation through re-testing
+  - 'Serve as L3 final escalation for AI security incidents: investigate prompt injection,
+    RAG poisoning, agent hijacking, MCP/tool abuse, and AI-driven exfiltration; perform
+    decision-replay forensics and drive automated containment'
+  - Integrate AI asset-intelligence, model-security, and supply-chain telemetry into
+    SIEM correlation and SOC workflows
+  - Evaluate and pilot AI security vendors via structured proofs-of-concept for runtime
+    defense, AIDR, AI-SPM, and red-teaming platforms
+  - Engineer cloud security controls across Azure, AWS, and GCP including Kubernetes
+    (AKS/EKS) posture, detection tuning, and remediation
+  - Embed security into DevSecOps with Terraform IaC scanning, container/Kubernetes
+    security, secrets management, and CI/CD hardening in Azure DevOps/GitHub Actions
+  use_cases:
+  - Runtime enforcement and data protection for AI agent traffic across LLMs, tools,
+    and MCP servers
+  - Prompt-injection, jailbreak, and agent-hijacking prevention with PII redaction
+  - Security detection, forensics, and automated containment for AI-specific attacks
+  - Closed-loop defense where red-team findings improve runtime policies and detections
+  - Multi-cloud security posture and zero-trust agent access management
+  - Vendor evaluation and piloting of AI security platforms (AIDR, AI-SPM, red-teaming)
+  skills:
+    genai: [Copilot Studio, MCP, LLMs, AI Agents, RAG, Guardrails, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: [SIEM]
+    data: [Databricks]
+    cloud: [Azure AI Foundry, AWS Bedrock, Azure, AWS, GCP, Vertex AI, AKS, EKS, IAM,
+      Entra ID]
+    ops: [Kubernetes, Infrastructure as Code, Terraform, CI/CD, Azure DevOps, GitHub
+        Actions, DevSecOps]
+    languages: [Python, PowerShell, KQL]
+    domains: []
+    other: [Red Teaming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893531'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - IND
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - New Delhi, IND
+  - Pune, IND
+  - Kochi, IND
+  - Ahmedabad, IND
+  - Kolkata, IND
+  - San José, CRI
+  - Mumbai, IND
+  - Chennai, IND
+  - Barcelona, ESP
+  - Hyderabad, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T13:47:54.542632'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

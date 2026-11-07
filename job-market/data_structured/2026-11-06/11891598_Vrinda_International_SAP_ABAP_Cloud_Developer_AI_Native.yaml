@@ -1,0 +1,48 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and SAP enterprise application modernization
+position:
+  title: SAP ABAP Cloud Developer – AI Native
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and AI services using the Agent
+      Framework for orchestration, and implements vector databases
+      and semantic search for intelligent retrieval - all
+      activities that shape model behavior and output quality via
+      agent/retrieval design, making it ai-first.
+  responsibilities:
+  - Design and develop cloud-native applications using SAP ABAP Cloud with Clean Core
+    principles
+  - Architect and implement secure authorization frameworks and enterprise security
+    protocols
+  - Develop and manage enterprise APIs and eventing services for system integration
+  - Integrate LLMs and AI services into SAP solutions using the Agent Framework for
+    orchestration and automation
+  - Implement vector databases and semantic search for intelligent query processing
+  - Leverage SAP BTP cloud services to build scalable, resilient solutions
+  use_cases:
+  - AI-augmented SAP enterprise applications
+  - Intelligent query processing via semantic search in SAP apps
+  - Agent-based orchestration and automation of business processes
+  - Secure enterprise system integration via APIs and eventing
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Semantic Search]
+    ml: []
+    web: [Enterprise APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [SAP BTP]
+    ops: []
+    languages: [ABAP]
+    domains: []
+    other: [Clean Core, Event-Driven Architecture, Enterprise Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891598'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:23.184135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

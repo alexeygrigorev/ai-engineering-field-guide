@@ -1,0 +1,54 @@
+company:
+  name: APTIV
+  stage: null
+  focus: Mission-critical software for intelligent edge systems
+position:
+  title: Associate Engineer - Edge AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and sustains the edge platform that runs AI
+      systems: packaging, orchestration, OTA updates, cross-
+      compilation, and measuring inference/resource usage. It does
+      not shape model behavior — no prompting, RAG design, fine-
+      tuning, or eval work; models are served on hardware someone
+      else builds. Agentic AI tools are used as developer tooling,
+      which is explicitly ai-support.
+  responsibilities:
+  - Implement and test edge packaging and runtime components using a containerless/OCI-based
+    approach
+  - Contribute to on-device orchestration platform with OTA update and lifecycle management
+  - Measure and improve inference and resource usage on constrained CPU/GPU/NPU hardware
+  - Build cross-compilation and CI/CD pipelines for reproducible multi-architecture
+    builds
+  - Integrate the device fleet with the cloud control plane and backend services (REST/gRPC,
+    OpenAPI, MQTT)
+  - Reproduce, diagnose, and fix defects on real hardware and turn learnings into
+    tests
+  - Use agentic AI coding tools daily for implementation, refactoring, review, and
+    debugging
+  - Maintain codebase and documentation quality
+  use_cases:
+  - Shipping AI systems to heterogeneous edge devices
+  - OTA updates and lifecycle management for fielded edge device fleets
+  - Inference optimization on constrained CPU/GPU/NPU edge hardware
+  - Edge-to-cloud control plane integration for device fleets
+  skills:
+    genai: [RAG]
+    ml: [PyTorch, ONNX, TFLite, OpenVINO]
+    web: [REST APIs, gRPC, OpenAPI]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Linux, Git, TensorRT, GitLab CI]
+    languages: [Rust, Python, C++]
+    domains: []
+    other: [MQTT, OCI, Embedded Linux, Cross-Compilation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983743'
+  location: Rajaji Nagar, IND
+  extracted_at: '2026-11-06T14:18:16.472886'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

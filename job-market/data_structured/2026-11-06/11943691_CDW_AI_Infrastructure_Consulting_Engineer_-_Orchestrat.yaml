@@ -1,0 +1,57 @@
+company:
+  name: CDW
+  stage: Fortune 500
+  focus: |-
+    Technology solutions provider for business, government,
+    education, healthcare
+position:
+  title: AI Infrastructure Consulting Engineer - Orchestration & Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys and administers GPU orchestration platforms
+      (Kubernetes, Run:ai, ClearML, Slurm, NVIDIA stack) for AI
+      workloads but never shapes model behaviour — no prompts,
+      RAG, agent design, or training. The deliverable is
+      infrastructure capacity, so it is ai-support.
+  responsibilities:
+  - Implement and configure AI workload orchestration, scheduling, and resource governance
+    across customer environments
+  - Deploy and integrate Kubernetes, Run:ai, ClearML, Slurm, NVIDIA software, container
+    registries, and observability services
+  - Perform platform discovery, installation, configuration, validation, upgrades,
+    and troubleshooting
+  - Deliver client knowledge transfer and maintain as-built documentation, test plans,
+    and handoff materials
+  - Collaborate with security, networking, compute, storage, and data teams to resolve
+    cross-platform dependencies
+  - Manage time and expense against Statement of Work deliverables, escalating scope
+    or budget risks
+  - Provide technical input for SOWs, ROMs, LOEs, and solution validation
+  use_cases:
+  - Enterprise AI workload orchestration and scheduling
+  - GPU resource governance and multi-user access to accelerated computing
+  - AI platform deployment and integration in client environments
+  - Observability and policy management for AI platforms
+  skills:
+    languages: [Python]
+    domains: [GPU Scheduling]
+    web: [APIs, Microservices]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: []
+    ops: [Kubernetes, 'Run:ai', ClearML, Slurm, NVIDIA GPU Operator, NVIDIA AI Enterprise,
+      Helm, GitOps, Prometheus, Grafana, MLOps, CI/CD, Infrastructure as Code, Kubeflow,
+      MLflow, ArgoCD, Linux, Git]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11943691'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:04:39.674517'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

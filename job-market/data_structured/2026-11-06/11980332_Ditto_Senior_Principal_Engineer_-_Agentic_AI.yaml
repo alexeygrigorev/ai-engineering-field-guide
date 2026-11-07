@@ -1,0 +1,56 @@
+company:
+  name: Ditto
+  stage: null
+  focus: Digital identity verification and fraud prevention platform
+position:
+  title: Senior Principal Engineer - Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs an identity/security platform for AI
+      agents, but does not shape model behavior — no prompt
+      engineering, RAG design, or model training. LLMs are used as
+      a research and productivity tool by the engineer, which per
+      the edge cases is ai-support.
+  responsibilities:
+  - Set technical direction and architecture for the agentic identity platform, including
+    build/buy decisions
+  - Build verifiable agent identity, instance integrity, and continuous runtime trust
+    capabilities hands-on
+  - Integrate with enterprise identity providers and open standards behind adapters
+  - Mentor and grow the engineering team scaling the platform
+  - Engage standards and security communities to keep the work interoperable and credible
+  - Use LLMs to synthesize specs, drive threat models, and accelerate delivery from
+    spec to working slices
+  use_cases:
+  - Verifiable identity for autonomous AI agents acting on behalf of people and businesses
+  - Instance integrity and attestation for agent workloads (hardware attestation,
+    TEEs)
+  - Continuous runtime trust and risk-based authentication for agents
+  - Delegation and on-behalf-of authorization for agent-initiated transactions
+  - Provenance and tamper-evident audit trails for agent actions
+  - EU-regulatory-compliant agent identity (EU AI Act, eIDAS 2.0, DORA)
+  skills:
+    genai: [LLMs, MCP]
+    ml: []
+    web: [OAuth 2.1, OIDC, PKI, mTLS, DPoP, Token Exchange, CIBA]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: [SPIFFE / SVID, Workload Identity, DID / VC, FIDO2 / WebAuthn, Policy-Based
+        Authorization, Hardware Attestation, TEEs, RASP, Shared Signals / CAEP, Continuous
+        Authentication, Risk-Based Authentication, Tamper-Evident Logs, SLSA, Sigstore,
+      EU AI Act, eIDAS 2.0 / EUDI Wallet, GDPR, DORA, Applied Cryptography, OWASP
+        NHI, Agentic Top 10]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11980332'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:16:12.575353'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

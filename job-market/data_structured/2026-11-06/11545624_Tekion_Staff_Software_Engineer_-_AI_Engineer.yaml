@@ -1,0 +1,59 @@
+company:
+  name: Tekion
+  stage: null
+  focus: Cloud-native automotive retail software platform
+position:
+  title: Staff Software Engineer - AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing agent
+      orchestration, tool calling, guardrails, RAG with hybrid
+      retrieval, prompt/response validation, and LLM evaluation
+      frameworks. It also supports classical ML, but with
+      LLM/agent components present, the classification is ai-
+      first.
+  responsibilities:
+  - Build and operate the LLM control plane/gateway with smart routing, rate limits,
+    failover, and token/cost tracking
+  - Ship unified API and SDKs (REST/gRPC) with normalized schemas, structured outputs,
+    caching, and observability
+  - 'Enforce safety and privacy by default: content filtering, prompt/response validation,
+    PII redaction'
+  - 'Own the agent runtime: tool registry, permissions, function calling, grounding,
+    and retrieval'
+  - Design agent orchestration patterns and manage state and long-running workflows
+  - Build platform components for training/scoring classical ML models and monitor
+    model/data drift
+  - Power retrieval with hybrid search (graph + vector + keyword) over the automotive
+    domain graph
+  - Run continuous offline/online evaluations for quality, factuality, bias, and safety
+  use_cases:
+  - Real-time intelligence from unified dealership data (DMS, CRM, Service, Payments)
+  - Context-aware AI agents for automotive retail personalization and policy enforcement
+  - Safe, cost-efficient multi-provider LLM usage via gateway and control plane
+  - Classical ML optimization of dealership operations (upsell, cycle time, CSAT,
+    service revenue)
+  - Hybrid retrieval over a domain graph for grounded, factual agent responses
+  skills:
+    genai: [MCP, LLMs, AI Agents, Agentic Workflows, Function Calling, Guardrails,
+      Structured Outputs, Prompt Engineering, RAG, Embeddings, LLM Evaluation, Fine-Tuning]
+    ml: [XGBoost, LightGBM, Machine Learning, Feature Engineering, Model Evaluation,
+      Model Training, Deep Learning]
+    web: [REST APIs, gRPC, GraphQL, Microservices]
+    databases: [Neo4j, Knowledge Graphs, Vector Search, pgvector, Qdrant, Milvus]
+    data: [Airflow, Kubeflow, Spark, Flink, Kafka, Data Pipelines]
+    cloud: [AWS]
+    ops: [MLflow, MLOps, CI/CD, Docker, Kubernetes, A/B Testing, Distributed Systems,
+      Monitoring]
+    languages: [Python, Java, Scala, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11545624'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:09:20.256172'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

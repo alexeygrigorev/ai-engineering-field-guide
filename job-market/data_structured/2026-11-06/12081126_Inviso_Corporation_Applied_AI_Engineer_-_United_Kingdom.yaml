@@ -1,0 +1,54 @@
+company:
+  name: Inviso Corporation
+  stage: null
+  focus: |-
+    Staffing/recruitment firm placing engineers at client
+    companies
+position:
+  title: Applied AI Engineer - United Kingdom
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behaviour: designing RAG,
+      prompt/context management, agent runtimes, tool/function
+      calling, guardrails, and LLM evaluation harnesses.
+      LLM/agentic components are central, so it is ai-first.
+  responsibilities:
+  - Build and operate AI capabilities across an enterprise platform, including agent
+    runtimes, model routing, and RAG
+  - Design tool/function calling, guardrails, and production quality controls for
+    AI systems
+  - Build evaluation harnesses, golden sets, regression checks, and quality gates
+    for AI performance
+  - Manage cost, latency, reliability, and safety as first-class engineering constraints
+  - Monitor production AI behavior and improve systems based on evidence
+  - Partner with product, engineering, and client teams to decide when AI is the right
+    solution
+  use_cases:
+  - Enterprise AI agent runtimes with tool/function calling
+  - RAG-based grounded retrieval and knowledge management
+  - Production AI guardrails and safety controls
+  - AI evaluation, monitoring, and quality gating
+  - Cost and latency optimization for production LLM systems
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, AI Agents, Function Calling, Prompt Engineering,
+      Fine-Tuning, MCP, Multi-Agent Systems, LLM Evaluation, Anthropic API, OpenAI
+        API, Guardrails]
+    ml: [Machine Learning, Distillation, Model Routing]
+    web: []
+    databases: [Knowledge Graphs, Ontologies]
+    data: []
+    cloud: [Azure OpenAI]
+    ops: [Model Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12081126'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:51:58.675459'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

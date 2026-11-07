@@ -1,0 +1,51 @@
+company:
+  name: Melotech
+  stage: Raised over $16M from venture investors
+  focus: AI-driven media and entertainment content platform
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, fine-tunes, and optimizes multimodal models
+      and deploys production ML systems, which is shaping model
+      output. No LLM, prompt, RAG, or agent component is named;
+      the work is classical ML/DL model training and serving for a
+      media content platform, so it is ml-first.
+  responsibilities:
+  - Build and deploy production ML models within the content and product ecosystem
+  - Design scalable ML infrastructure and pipelines for massive media datasets
+  - Implement efficient inference systems across products
+  - Fine-tune and deploy multimodal AI systems using MLOps best practices
+  - Transition research models into production-ready systems with data science teams
+  - Optimize model performance for cost, accuracy, and speed
+  - Integrate ML capabilities into platforms and build APIs for model consumption
+  use_cases:
+  - ML-powered media and entertainment content creation
+  - Enhancing creative processes with multimodal AI models
+  - Scalable ML serving to millions of users at low latency
+  - Models that learn from real-time data
+  skills:
+    genai: []
+    ml: [Fine-Tuning, Model Training]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [MLOps, Docker, Kubernetes, Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11703762'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - New York, USA
+  - London, GBR
+  remote: true
+  extracted_at: '2026-11-06T12:38:40.958266'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

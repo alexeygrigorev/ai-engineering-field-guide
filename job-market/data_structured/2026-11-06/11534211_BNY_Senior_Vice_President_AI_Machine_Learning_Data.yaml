@@ -1,0 +1,50 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and asset management
+position:
+  title: Senior Vice President,  AI / Machine Learning Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and transformations that feed
+      AI/analytics platforms; it never shapes model behavior
+      through prompts, retrieval, or training. This is data
+      plumbing for someone else's AI systems, which is ai-support.
+  responsibilities:
+  - Design, build, and optimize batch and streaming data pipelines delivering governed
+    data to AI, analytics, and enterprise platforms
+  - Develop scalable transformation frameworks across cloud and lakehouse environments
+  - Implement data modeling, schema design, lineage, metadata, and data quality controls
+  - Build orchestration and workflow automation for complex pipelines and dependencies
+  - Partner with analytics, AI, business, and technology teams on data solutions
+  - Resolve platform and pipeline issues related to performance, reliability, and
+    data quality
+  - Promote engineering best practices and provide technical leadership and mentoring
+  use_cases:
+  - Delivering governed, high-quality data to AI and analytics platforms
+  - Batch and streaming data delivery for enterprise financial systems
+  - Lakehouse-based data platforms for financial services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Spark, Databricks, Kafka, Airflow, dbt, Data Modeling, Data Pipelines,
+      Delta Lake, Parquet, Data Quality]
+    cloud: [Cloud]
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11534211'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Jersey City, USA
+  extracted_at: '2026-11-06T12:06:44.888287'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

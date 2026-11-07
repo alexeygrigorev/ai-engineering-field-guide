@@ -1,0 +1,51 @@
+company:
+  name: Elastic
+  stage: null
+  focus: Search AI platform for search, security, observability
+position:
+  title: Marketing AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures system-level prompts and agent
+      behaviour, constructs prompts programmatically, and handles
+      structured model outputs within workflows — directly shaping
+      LLM behaviour. This makes it ai-first despite heavy
+      automation-engineering framing.
+  responsibilities:
+  - Design and build automated marketing workflows using no-code and low-code platforms
+  - Integrate marketing platforms, AI content tools, and third-party services via
+    APIs and webhooks
+  - Configure prompts and agent behaviour at the system level for repeatable AI workflows
+  - Call LLM APIs to trigger AI reasoning in workflows and route outputs back to connected
+    systems
+  - Gather requirements from marketing teams and translate them into workflow specifications
+  - Own reliability, maintainability, and documentation of automation workflows
+  - Evaluate new tools and integration patterns for the marketing tech stack
+  - Collaborate with operations, regional marketing, content, and demand generation
+    teams
+  use_cases:
+  - Automated marketing workflows at scale
+  - AI-driven content generation within marketing processes
+  - System-to-system data flow across a marketing tech stack
+  - AI reasoning embedded in live marketing operations
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, AI Agents, Structured Outputs]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python]
+    domains: []
+    other: [Zapier, n8n, Make, Workfront Fusion, Workfront, Marketo, Google Workspace,
+      Adobe Fusion, Google Apps Script]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11669538'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:30:09.013609'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

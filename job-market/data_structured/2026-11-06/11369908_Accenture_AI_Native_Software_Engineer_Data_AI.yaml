@@ -1,0 +1,69 @@
+company:
+  name: Accenture
+  stage: null
+  focus: Global professional services and technology consulting
+position:
+  title: AI Native Software Engineer – Data & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineer who consumes LLM APIs
+      that others designed and uses AI coding assistants as a
+      tool; the deliverable is production software, not model
+      behaviour. Prompt engineering appears only for development
+      tasks, and there is no designing of retrieval, agent flows,
+      or evals for a model. Per the edge cases, this is ai-
+      support.
+  responsibilities:
+  - Use AI coding assistants daily as a standard part of software delivery
+  - Integrate LLM APIs into production applications, managing token limits, latency,
+    and abstraction layers
+  - Apply AI across the delivery lifecycle including AI-generated tests, AI-assisted
+    debugging, code review, and prompt engineering for development tasks
+  - Own the quality of AI-generated outputs in the delivery scope and judge when output
+    is production-ready
+  - Define and track KPIs for AI-assisted workflows and present productivity metrics
+    to stakeholders
+  - Own delivery end-to-end from design to production support in Agile sprint cycles
+    alongside client engineering teams
+  - Contribute to shared knowledge bases, reusable components, and internal AI tooling
+    standards
+  - Build application layers, APIs, and interfaces connecting full-stack systems to
+    agentic AI backends
+  use_cases:
+  - Enterprise software delivery augmented by AI coding assistants
+  - Integrating LLM APIs into production full-stack applications
+  - Connecting application layers to agentic AI backends in enterprise AI pipelines
+  - AI-assisted testing, debugging, and code review across the delivery lifecycle
+  - Tracking ROI and productivity of AI-assisted engineering workflows
+  skills:
+    genai: [Prompt Engineering, LLMs, LangChain, LangGraph, RAG, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python, Java, TypeScript, JavaScript, HTML, CSS]
+    domains: []
+    other: [Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11369908'
+  location: Hamburg, DEU
+  locations:
+  - Hamburg, DEU
+  - Berlin, DEU
+  - Munich, DEU
+  - Dresden, DEU
+  - Drammen, NOR
+  - Wolfsburg, DEU
+  - Essen, DEU
+  - Aachen, DEU
+  - Stuttgart, DEU
+  - Brunswick, DEU
+  - Düsseldorf, DEU
+  extracted_at: '2026-11-06T11:36:45.382264'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

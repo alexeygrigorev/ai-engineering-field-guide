@@ -1,0 +1,48 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU hardware and accelerated computing math libraries
+position:
+  title: Senior Math Libraries Engineer – AI and HPC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds GPU math libraries (dense linear algebra
+      kernels, JIT, fusions) for AI/HPC workloads; it does not
+      shape any model's behavior — no prompts, RAG, fine-tuning,
+      or evals. It is high-performance systems engineering serving
+      AI, so ai-support.
+  responsibilities:
+  - Design and implement high-performance numerical dense linear algebra software
+    on GPUs
+  - Own execution of projects involving multiple engineers and teams
+  - Provide technical leadership and mentor interns
+  - Work with product management and customers on features, performance requirements,
+    and technical roadmaps
+  - Re-architect libraries to improve performance and reduce maintenance overhead
+  - Explain complex solutions and coordinate across multiple teams
+  use_cases:
+  - GPU-accelerated dense linear algebra for AI and HPC
+  - Matrix operations, JIT compilation, and operator fusions in math libraries
+  - Supporting AI, scientific simulation, and data analytics workloads on GPUs
+  skills:
+    genai: []
+    ml: [CUDA, Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, Python]
+    domains: []
+    other: [Kernel Generation, JIT, MPI, OpenMP, OpenACC, pthreads, Assembly, Operator
+        Fusion, Agile, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11515613'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:03:38.248203'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

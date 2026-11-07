@@ -1,0 +1,49 @@
+company:
+  name: TechBlocks
+  stage: null
+  focus: Software development and IT consulting services
+position:
+  title: Sr Python AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly does prompt engineering, works with LLM
+      APIs and tool integration, and evaluates AI-generated
+      outputs for quality, shaping LLM behavior. Hence ai-first.
+  responsibilities:
+  - Design and develop scalable backend services and applications using Python
+  - Develop REST APIs, automation scripts, and AI/ML application components
+  - Integrate AI/GenAI capabilities including Claude and other LLM APIs into enterprise
+    applications
+  - Apply prompt engineering, tool/API integration, and AI-powered workflows; evaluate
+    AI output quality and security
+  - Build responsive front-end interfaces with React.js integrated with Python APIs
+  - Develop and maintain Databricks notebooks, jobs, and data pipelines
+  - Integrate applications and AI workloads with cloud services and data platforms
+  - Use GitHub and AI-assisted development to improve developer productivity
+  use_cases:
+  - Enterprise AI/GenAI application integration
+  - LLM-powered automation and workflows
+  - AI-assisted developer productivity and software delivery
+  - Data processing and analytics on Databricks lakehouse
+  - Scalable backend services with responsive web front-ends
+  skills:
+    genai: [Generative AI, LLMs, Anthropic API, Prompt Engineering, Function Calling,
+      GitHub Copilot]
+    ml: []
+    web: [REST APIs, React, HTML, CSS]
+    databases: []
+    data: [Databricks, Data Pipelines]
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, GitHub]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11502697'
+  location: Ahmedabad, IND
+  extracted_at: '2026-11-06T12:01:32.900713'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

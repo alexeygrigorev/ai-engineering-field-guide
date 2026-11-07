@@ -1,0 +1,52 @@
+company:
+  name: Deutsche Bank
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: GCP Data and AI Engineer, AVP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production RAG pipelines,
+      agentic workflows, multi-agent systems, and fine-
+      tunes/deploy models on Vertex AI — directly shaping LLM
+      behavior and output quality, so it's ai-first.
+  responsibilities:
+  - Design, build, and operationalize production-grade AI applications and RAG pipelines
+    on GCP
+  - Leverage Vertex AI to train, fine-tune, and deploy ML and generative AI models
+  - Design and implement complex agentic workflows and multi-agent systems to automate
+    business processes
+  - Develop, consume, and host mission-critical REST APIs using Python on Cloud Run
+  - Design and maintain scalable batch and streaming data pipelines using Cloud Composer,
+    Pub/Sub, SQL, and Python
+  - Implement infrastructure as code with Terraform and CI/CD pipelines with Cloud
+    Build
+  - Own security and governance controls including IAM, encryption, secrets management,
+    and audit logging
+  - Serve as L3 escalation point for complex production issues
+  use_cases:
+  - Enterprise generative AI solutions on GCP
+  - Automating and optimizing business processes with agentic workflows
+  - Conversational AI chatbots and agents
+  - Large-scale data analysis and transformation in banking
+  skills:
+    languages: [Python, SQL]
+    domains: [System Design]
+    web: [REST APIs]
+    cloud: [GCP, Vertex AI, AWS, Azure, Cloud Run, Pub/Sub, Cloud Build, IAM]
+    data: [Data Pipelines, Airflow, Data Modeling]
+    ml: [Model Training, Model Deployment]
+    databases: [BigQuery]
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, LLMs, Embeddings, Vector
+        Databases, Gemini, Fine-Tuning, Conversational AI, Google ADK]
+    ops: [Terraform, CI/CD, Docker, Artifact Registry, Infrastructure as Code]
+    other: [Dialogflow CX, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11436030'
+  location: Hadapsar, IND
+  extracted_at: '2026-11-06T11:50:59.099596'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

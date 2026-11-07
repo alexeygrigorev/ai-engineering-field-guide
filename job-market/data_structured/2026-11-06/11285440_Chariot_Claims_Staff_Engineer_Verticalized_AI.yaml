@@ -1,0 +1,49 @@
+company:
+  name: Chariot Claims
+  stage: null
+  focus: AI claims agent for consumer legal recovery
+position:
+  title: Staff Engineer, Verticalized AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent systems, evaluation infrastructure for
+      agent behavior, and MCP/agent harnesses—directly shaping LLM
+      agent behavior, making it ai-first. It also includes
+      hiring/growing engineers, so it is a management role.
+  responsibilities:
+  - Own agent systems that source and assemble cases with human-in-the-loop review
+  - Build systems matching people to claims they are owed from permissioned sources
+  - Build evaluation and quality infrastructure keeping agent behavior measurable
+    in production
+  - Own AI cost and performance at scale as an engineering target
+  - Contribute to shared platform foundations including internal tooling, MCPs, and
+    agent harnesses
+  - Recruit, vet, and grow fullstack and ML engineers on the team
+  - Make autonomous product decisions and ship products end-to-end
+  use_cases:
+  - Origination and assembly of legal claims cases via AI agents
+  - Matching consumers to claims they are owed from permissioned data sources
+  - Consumer recovery for data breaches, privacy violations, and antitrust violations
+  - Human-in-the-loop review of agent output for quality and throughput
+  - Internal tooling and agent harnesses to accelerate engineering and ops teams
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11285440'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:29:28.731119'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

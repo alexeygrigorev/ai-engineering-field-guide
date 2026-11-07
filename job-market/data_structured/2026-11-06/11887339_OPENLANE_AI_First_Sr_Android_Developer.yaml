@@ -1,0 +1,49 @@
+company:
+  name: OPENLANE
+  stage: publicly traded
+  focus: Digital wholesale marketplace for used vehicles
+position:
+  title: AI First Sr. Android Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a senior Android engineer; AI appears only as
+      development tooling (code copilots, AI debuggers, test
+      generators) to accelerate the engineer's own work. The
+      person does not shape any model's behaviour, prompts, or
+      retrieval — the deliverable is mobile app code, not model
+      output quality.
+  responsibilities:
+  - Design, build, and ship Android features across seller and buyer marketplace experiences
+  - 'Lead technical direction on Android: multi-module boundaries, Compose and legacy
+    UI coexistence, shared platform concerns'
+  - Raise the bar on testing and CI gates; partner on Play and Firebase distribution
+    and release hygiene
+  - Use AI tools to accelerate delivery while mentoring Intermediate engineers
+  - Partner with iOS team to keep product behavior aligned across platforms
+  - Own features end-to-end from design collaboration through release and follow-up
+  use_cases:
+  - Wholesale used-vehicle marketplace mobile apps for sellers and buyers
+  - Real-time high-value marketplace transactions at scale
+  - Mobile workflows including camera/media scanning capabilities
+  skills:
+    genai: [GitHub Copilot]
+    ml: []
+    web: [Jetpack Compose, Hilt, Retrofit, OkHttp, WorkManager]
+    databases: [Room]
+    data: []
+    cloud: [Firebase]
+    ops: [CI/CD, Observability]
+    languages: [Kotlin, Coroutines, Swift]
+    domains: []
+    other: [Code Review, Feature Flags, OIDC, Material 3, StateFlow, Play Store, BrowserStack,
+      RxJava, WebView]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887339'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:38:41.016642'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

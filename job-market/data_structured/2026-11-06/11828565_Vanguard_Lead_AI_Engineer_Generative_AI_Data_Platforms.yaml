@@ -1,0 +1,61 @@
+company:
+  name: Vanguard
+  stage: null
+  focus: Investment management and retirement services
+position:
+  title: Lead AI Engineer – Generative AI & Data Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers LLM applications: architecting
+      RAG, agentic workflows with tool/function calling,
+      prompt/context engineering, MCP, structured outputs, and
+      building AI evaluations/guardrails. This is directly shaping
+      model behavior and output quality.
+  responsibilities:
+  - Lead architecture, development, and delivery of Generative AI, RAG, agentic AI,
+    Knowledge Graph, and AI-enabled data solutions
+  - Architect secure RAG and Knowledge Graph solutions including document processing,
+    embeddings, vector/graph search, reranking, and citations
+  - Design agentic workflows with tool/function calling, structured outputs, state
+    and memory management, and multi-step orchestration
+  - Establish AI evaluation and responsible AI practices covering groundedness, hallucination,
+    guardrails, latency, and cost
+  - Define engineering and operational standards for CI/CD, automated testing, infrastructure
+    as code, and observability
+  - Provide technical leadership through architecture, design, and code reviews and
+    mentoring
+  - Lead production incident resolution, root-cause analysis, and reliability improvements
+    for business-critical AI and data solutions
+  - Design governed, AI-ready data pipelines and reusable AI services, APIs, and retrieval
+    components
+  use_cases:
+  - AI-enabled investment and financial services applications for Vanguard's business
+  - Enterprise search and retrieval over structured and unstructured documents with
+    governed access controls
+  - Knowledge Graph and Graph-RAG solutions for entity and relationship modeling
+  - Agentic AI workflows for multi-step business process automation
+  - Intelligent data products and cloud-based data platforms
+  skills:
+    languages: [Python]
+    domains: []
+    web: [REST APIs]
+    cloud: [AWS, AWS Glue, AWS S3, AWS Lambda]
+    data: [PySpark, Pandas, Spark, Data Pipelines, Databricks, Airflow, Kafka]
+    ml: []
+    databases: [Knowledge Graphs, Neo4j, Amazon Neptune, Vector Databases, Graph Databases,
+      OpenSearch, Vector Search, Redshift, SQL, Gremlin, Cypher, SPARQL]
+    genai: [RAG, AI Agents, Agentic Workflows, Prompt Engineering, Context Engineering,
+      Function Calling, Structured Outputs, MCP, LangChain, LangGraph, AWS Bedrock,
+      Embeddings, Guardrails, LLM Evaluation, Generative AI, LLMs, Claude Code, GitHub
+        Copilot]
+    ops: [Docker, Terraform, CI/CD, Git, Monitoring, Observability]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11828565'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:19:55.447305'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

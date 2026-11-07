@@ -1,0 +1,140 @@
+job_id: 11420474
+title: Senior Software Engineer - Python, Data Engineering, AI
+company: Zenoti
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 960 Employees
+description: |
+  Zenoti provides an all-in-one, cloud-based software solution
+  for the beauty and wellness industry. Our solution allows
+  users to seamlessly manage every aspect of the business in a
+  comprehensive mobile solution: online appointment bookings,
+  POS, CRM, employee management, inventory management, built-
+  in marketing programs and more. Zenoti helps clients
+  streamline their systems and reduce costs, while
+  simultaneously improving customer retention and spending.
+  Our platform is engineered for reliability and scale and
+  harnesses the power of enterprise-level technology for
+  businesses of all sizes
+
+  Zenoti powers more than 30,000 salons, spas, medspas and
+  fitness studios in over 50 countries. This includes a vast
+  portfolio of global brands, such as European Wax Center,
+  Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono
+  Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and
+  TONI&GUY.
+
+  Our recent accomplishments include surpassing a $1 billion
+  unicorn valuation, being named Next Tech Titan by GeekWire,
+  raising an $80 million investment from TPG, ranking as the
+  316th fastest-growing company in North America on Deloitte’s
+  2020 Technology Fast 500™. We are also proud to be
+  recognized as a Great Place to Work CertifiedTM for
+  2021-2022 as this reaffirms our commitment to empowering
+  people to feel good and find their greatness. To learn more
+  about Zenoti visit: https://www.zenoti.com
+
+  What you'll do • Design, build, and operate batch and
+  incremental ETL/ELT pipelines in Python (Glue Python-shell,
+  PySpark, AWS Batch/Docker, Lambda). • Model curated and
+  Iceberg tables; write and tune Trino/Athena SQL; own
+  partitioning, compaction, and cost/performance of the lake.
+  • Build ingestion from external APIs (Salesforce, Adyen,
+  Intercom, Jira, New Relic, etc.) with incremental anchors,
+  retries, and idempotent writes. • Extend the data-quality
+  framework and anomaly-detection checks; own alerting and on-
+  call for pipeline health. • Lead workstreams on the
+  Databricks-on-Azure lakehouse: Delta Lake tables, Databricks
+  Workflows/Jobs, Unity Catalog, and migration of existing
+  curation logic. • Ship via PRs with tests, infra-as-code
+  (CloudFormation / Terraform), and CI/CD; participate in code
+  review and design reviews. • Partner with Product, Finance,
+  and Customer Success analysts on metric definitions; expose
+  datasets to QuickSight and to the AI/MCP layer with clear,
+  documented semantics. • Mentor junior engineers and raise
+  the bar on engineering practices (testing, observability,
+  documentation).
+
+  Must have • 5-7 years of data engineering in production:
+  building, deploying, and operating pipelines that other
+  teams depend on daily. Analyst, BI-developer, or drag-and-
+  drop ETL-tool-only experience does not count toward this. •
+  Strong Python (3.x): pandas/pyarrow, packaging, virtual
+  envs, writing testable modules and shared libraries — not
+  just notebooks. • Apache Spark / PySpark at scale: DataFrame
+  API, partitioning, joins/skew, shuffle tuning,
+  reading/writing Parquet. • Advanced SQL on a distributed
+  engine (Trino/Athena, Spark SQL, Databricks SQL, BigQuery,
+  Snowflake, or Redshift): window functions, CTEs,
+  incremental/merge patterns, query-plan-level tuning. •
+  Lakehouse fundamentals: columnar formats (Parquet),
+  partitioning strategies, and hands-on experience with at
+  least one open table format — Apache Iceberg or Delta Lake
+  (schema evolution, time travel, compaction/OPTIMIZE, MERGE
+  INTO). • Cloud data platform on AWS or Azure — at minimum
+  object storage (S3/ADLS), serverless or managed compute
+  (Glue/EMR/Lambda or ADF/Synapse/Functions), a catalog (Glue
+  Data Catalog / Unity Catalog / Hive), and IAM/RBAC basics. •
+  Orchestration of DAG-based workflows with dependency
+  management, retries, and failure alerting (Step Functions,
+  Airflow, Databricks Workflows, Dagster, or equivalent). •
+  Incremental ingestion from REST APIs and databases:
+  pagination, rate limits, watermark/anchor-based CDC,
+  idempotent upserts, backfill design. • Git + PR-based
+  workflow + CI/CD — you've shipped through a review gate and
+  a promotion path (dev → qa → prod) and can debug a failing
+  build. • Data quality & observability mindset: row-
+  count/freshness/schema checks, alerting on failures, and
+  root-causing a bad number in a dashboard back to its source.
+  • Clear written communication: design docs, runbooks, PR
+  descriptions that a reviewer can follow.
+
+  Good to have • Databricks hands-on (any cloud): Delta Live
+  Tables / Lakeflow, Unity Catalog, Workflows, Photon,
+  cluster/SQL-warehouse sizing, Databricks Asset Bundles.
+  Databricks Data Engineer Associate/Professional
+  certification is a plus. • Azure data stack: ADLS Gen2,
+  Azure Data Factory, Azure Key Vault, Entra ID service
+  principals, Azure DevOps or GitHub Actions for deployment. •
+  AWS depth: Glue (Python-shell and Spark), Athena v3/Trino
+  internals, Iceberg on Athena, Step Functions, Batch, ECR,
+  CloudFormation, CodeBuild/CodePipeline, Secrets Manager. •
+  Infrastructure as code: CloudFormation, Terraform, or Bicep.
+  • Docker for packaging batch jobs; basic familiarity with
+  .NET-based jobs coexisting in a Python pipeline. • Migration
+  experience — moving pipelines/data between clouds or from a
+  hand-rolled lake to a managed lakehouse, including parity
+  validation. • Streaming/near-real-time: Kafka, Kinesis,
+  Event Hubs, Spark Structured Streaming. • Relational
+  sources: SQL Server / MySQL extraction (pyodbc, CDC),
+  reverse-ETL back into an application DB. • BI serving:
+  QuickSight, Power BI, or Tableau — dataset design, row-level
+  security, SPICE/import vs direct query trade-offs. • AI/LLM
+  data surfaces: exposing governed datasets to agents via MCP
+  or similar, vector stores (Pinecone), metadata/catalog
+  curation for LLM consumption, dbt-style semantic modeling. •
+  Statistics for data quality: anomaly detection,
+  churn/adoption scoring, or similar analytical pipelines. •
+  SaaS-domain familiarity: subscription billing (Zuora),
+  payments (Adyen), CRM (Salesforce), or support/telephony
+  data (Intercom, Gong, RingCentral). • Experience mentoring
+  or leading a small pod of engineers.
+
+
+  Zenoti provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state, or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training.
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-09-29
+url: "https://builtin.com/job/senior-software-engineer-python-data-engineering-ai/11420474"
+source: Built In

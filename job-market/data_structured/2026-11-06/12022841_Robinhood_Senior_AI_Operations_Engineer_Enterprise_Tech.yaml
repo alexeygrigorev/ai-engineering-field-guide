@@ -1,0 +1,60 @@
+company:
+  name: Robinhood
+  stage: null
+  focus: Consumer fintech and stock trading platform
+position:
+  title: Senior AI Operations Engineer, Enterprise Tech
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates and troubleshoots AI infrastructure that
+      others build: managing enterprise LLM integrations,
+      monitoring latency/token costs, and improving reliability of
+      agentic workflows and RAG systems. "Prompt operations" and
+      token management refer to operating provider integrations,
+      not shaping model behaviour through prompt or retrieval
+      design. Deliverable is capacity, reliability, and developer
+      experience, so ai-support.
+  responsibilities:
+  - Build internal tooling, automation, and self-service solutions that streamline
+    AI operations and improve the developer experience
+  - Own complex technical troubleshooting and escalations across AI platforms, including
+    LLM integrations, model behavior, APIs, and system performance
+  - Manage and optimize enterprise LLM provider integrations (Anthropic Claude, Google
+    Gemini) for performance, token utilization, reliability, and cost efficiency
+  - Develop observability, monitoring, and deployment pipelines for AI workloads tracking
+    inference latency, API costs, token usage, and error rates
+  - Support and optimize agentic workflows, orchestration layers, vector databases,
+    and RAG systems for reliability and scalability
+  - Partner with Product, Engineering, Business Systems, and AI Strategy teams to
+    identify recurring issues and drive long-term improvements
+  use_cases:
+  - Enterprise AI infrastructure operations across Robinhood
+  - Internal LLM integrations with Anthropic Claude and Google Gemini
+  - Agentic workflows and RAG systems for internal teams
+  - Observability and cost/token monitoring of AI workloads
+  - Self-service tooling and automation for AI adoption
+  skills:
+    genai: [Anthropic API, Gemini, LLMs, Agentic Workflows, RAG, LangChain, LlamaIndex]
+    ml: [GPU Clusters]
+    web: []
+    databases: [Vector Databases, Pinecone, Milvus]
+    data: [Ray]
+    cloud: []
+    ops: [Linux, Terraform, Ansible, Chef, Kubernetes, Monitoring, Site Reliability
+        Engineering, Slurm]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12022841'
+  location: Bellevue, USA
+  locations:
+  - Bellevue, USA
+  - New York, USA
+  - Menlo Park, USA
+  extracted_at: '2026-11-06T14:31:21.572163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

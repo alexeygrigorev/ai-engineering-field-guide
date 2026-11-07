@@ -1,0 +1,48 @@
+company:
+  name: Nike
+  stage: null
+  focus: Sportswear and athletic apparel giant
+position:
+  title: Lead Machine Learning Engineer (AI/ML), ITC
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on predictive and mathematical optimization
+      models, not on shaping LLM behavior. Generative AI is
+      mentioned only as a platform the team contributes to, with
+      no prompt, RAG, or agent design responsibilities named, so
+      the classical ML focus dominates.
+  responsibilities:
+  - Own ML/AI projects end-to-end from conception to production operationalization
+  - Design and implement scalable applications using prediction models and optimization
+    programs
+  - Contribute to advanced analytics, machine learning, and generative AI platforms
+    and tools
+  - Set technical direction for the team and mentor engineers
+  - Build and deploy predictive or optimization models to production
+  - Collaborate with business stakeholders, product owners, and engineering peers
+  - Mentor engineers writing robust, maintainable Python code
+  use_cases:
+  - Prediction and optimization models for corporate functions
+  - Data-driven business decision making at scale
+  - Advanced analytics and ML platforms for Nike corporate teams
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [FastAPI]
+    cloud: [AWS, SageMaker, AWS Lambda, API Gateway]
+    data: [Databricks, Spark, Data Pipelines, Airflow, Data Modeling, Data Engineering]
+    ml: [scikit-learn, PyTorch, TensorFlow, Machine Learning]
+    databases: [PostgreSQL, Redis]
+    genai: [Generative AI]
+    ops: [Docker, CI/CD, MLOps, Kubernetes, Jenkins, Terraform]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11962952'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:12:22.629914'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

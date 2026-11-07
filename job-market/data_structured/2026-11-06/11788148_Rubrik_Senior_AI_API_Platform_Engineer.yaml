@@ -1,0 +1,58 @@
+company:
+  name: Rubrik
+  stage: null
+  focus: Security and AI operations platform
+position:
+  title: Senior AI API Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs APIs specifically for AI consumption:
+      exposing services as tools for LLMs/agents, enabling RAG and
+      agentic workflows, and building function-calling interfaces
+      — that is designing agent flows and retrieval, which is
+      shaping LLM behavior. Customer-facing work is with internal
+      customers (FDE), and technical leadership does not make it
+      management.
+  responsibilities:
+  - Design and own APIs across REST, GraphQL, gRPC, and webhooks, owning the full
+    API lifecycle
+  - 'Build APIs for AI consumption: expose data/services as tools for LLMs and AI
+    agents, enabling RAG and agentic workflows'
+  - Own core backend engineering in Node.js, Java, Python, or Go with data modeling
+    and performance tuning
+  - Define API governance including versioning, documentation standards, and reusable
+    auth/error-handling/observability frameworks
+  - Define and meet NFRs and SLAs for availability, latency, throughput, and reliability
+  - Partner with security and compliance for regulatory and audit requirements across
+    APIs and integrations
+  - Provide technical leadership through design reviews, code reviews, and mentoring
+  - Evaluate emerging patterns (event-driven integration, AI agent frameworks, low-code
+    automation) for platform roadmap
+  use_cases:
+  - Enterprise APIs designed for consumption by LLMs and AI agents
+  - RAG and agentic workflow enablement across enterprise data and services
+  - Secure, scalable integration platform connecting SaaS systems (NetSuite, Workday,
+    Salesforce, Snowflake)
+  - Event-driven integration and streaming across enterprise systems
+  - Cyber resilience and AI operations platform capabilities
+  skills:
+    genai: [AI Agents, RAG, Agentic Workflows, Function Calling, LLMs, OpenAI API,
+      Anthropic API, LangChain, Guardrails, Claude Code]
+    ml: []
+    web: [REST APIs, GraphQL, gRPC, Webhooks, OpenAPI, JSON, OAuth]
+    databases: [NoSQL, Snowflake, Vector Databases]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP, API Gateway]
+    ops: [Kubernetes, Infrastructure as Code, CI/CD, Git, DevOps]
+    languages: [Node.js, Java, Python, Go, SQL]
+    domains: []
+    other: [Salesforce, GitHub Copilot, Cursor, MuleSoft]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11788148'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:12:33.791418'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

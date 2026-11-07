@@ -1,0 +1,52 @@
+company:
+  name: ATOSS Software SE
+  stage: null
+  focus: Workforce management B2B SaaS software
+position:
+  title: Lead / Staff AI Data Engineer - Bangalore
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data platform/data engineering role: lakehouse
+      migration, batch/streaming pipelines, governance and
+      modeling. RAG, embeddings and vector retrieval are named
+      only as data foundations the role supports, and AI/GenAI
+      experience is a "plus" — the person builds the plumbing, not
+      the model behaviour, so it is ai-support.
+  responsibilities:
+  - Design and evolve the modern data platform and overall data architecture
+  - Lead migration of legacy data warehouse and data lake environments to a lakehouse
+    architecture
+  - Define architecture, patterns and engineering standards for ingestion, transformation,
+    storage and serving
+  - Build scalable batch and streaming data pipelines
+  - Build data foundations for AI and GenAI use cases including RAG, embeddings and
+    vector-based retrieval
+  - Drive data modeling, data quality, governance, lineage, performance and observability
+  - Provide technical guidance and mentoring to other data engineers
+  - Collaborate with AI Engineers, Software Engineers, Product and Architecture teams
+  use_cases:
+  - Data platform foundation for AI and GenAI use cases
+  - Lakehouse migration supporting analytics and AI workloads
+  - Batch and streaming data pipelines
+  - Vector-based retrieval infrastructure for RAG systems
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [Azure, AWS, GCP]
+    data: [Databricks, Spark, Delta Lake, Kafka, Data Pipelines, Data Modeling, Data
+        Governance, Data Engineering]
+    ml: [Machine Learning, Generative AI]
+    databases: [Vector Databases]
+    genai: [RAG, Embeddings]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11809621'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:16:38.213153'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

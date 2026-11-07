@@ -1,0 +1,49 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Energy technology company developing AI-native applications
+position:
+  title: Sr. Software AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, MCP servers, RAG patterns, and
+      prompt testing directly, clearly shaping LLM/agent behavior
+      and output quality. This makes it ai-first.
+  responsibilities:
+  - Collaborate with cross-functional teams to build AI-native application experiences
+  - Build AI Agents, MCP servers, and tools integrating LLM/generative AI capabilities
+    including structured prompting, memory, and context management
+  - Implement RAG patterns (embeddings + retrieval) for context-aware personalized
+    user experiences
+  - Deliver using coding agents and establish testing approaches for prompts and model
+    performance
+  - Implement observability for AI features
+  - Lead technical reviews, integrations, and delivery execution with internal teams
+    and external contractors
+  use_cases:
+  - AI agents for internal/enterprise applications
+  - Standardized data connectivity via MCP servers
+  - Context-aware and personalized user experiences
+  - Enterprise retrieval-augmented generation and semantic search
+  - Conversation memory management at scale
+  skills:
+    genai: [AI Agents, MCP, LLMs, Prompt Engineering, RAG, Embeddings, LangChain,
+      Google ADK, Semantic Search, Generative AI]
+    ml: []
+    web: [React, Vue, Angular]
+    databases: [pgvector]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, Go, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12015427'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:29:44.235368'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

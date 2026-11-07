@@ -1,0 +1,60 @@
+company:
+  name: Truvio
+  stage: null
+  focus: Global SaaS solutions for Microsoft Dynamics 365 ERP
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns architecture of an agentic platform for
+      finance: agents reasoning over a context graph, tool
+      calling, agent orchestration, evaluation methodology and
+      guardrails/governance controls. This is directly shaping
+      LLM/agent behavior, so ai-first.
+  responsibilities:
+  - 'Own end-to-end architecture of the Truvio agentic platform: agent reasoning over
+    the context graph, ERP tool calling, and human hand-off under Trust & Control'
+  - Lead design and build of flagship agents for AP, AR and treasury, writing production
+    code and setting patterns
+  - 'Define AI engineering standards: evaluation methodology, quality gates, safety
+    and governance controls, cost and latency budgets'
+  - Make build/buy/partner decisions on models, frameworks and vendors
+  - Mentor senior engineers and grow the AI engineering community
+  - Represent Truvio's AI technology with key customers, Microsoft and partners
+  use_cases:
+  - Agentic automation for finance operations (AP, AR, treasury)
+  - Agents calling ERP (Dynamics 365) tools on behalf of finance teams
+  - Context graph reasoning over finance/business data
+  - Human-in-the-loop decision hand-off with governance controls
+  - AI-assisted invoice processing in ERP workflows
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Retrieval, LLM Evaluation,
+      LLMs]
+    ml: [Machine Learning]
+    web: [APIs, Multi-Tenant SaaS]
+    databases: [Knowledge Graphs, Graph Databases, Dataverse]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C#, .NET]
+    domains: []
+    other: [Semantic Data Modeling, Distributed Systems, Data Modeling, Microsoft
+        Dynamics 365, GDPR, EU AI Act]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12034459'
+  location: DEU
+  locations:
+  - DEU
+  - Venlo, NLD
+  - Berlin, DEU
+  - DNK
+  - Solna, SWE
+  - København, DNK
+  - Richmond, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:36:00.143457'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

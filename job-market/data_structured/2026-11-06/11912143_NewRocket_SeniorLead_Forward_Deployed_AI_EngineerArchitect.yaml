@@ -1,0 +1,65 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and enterprise AI workflow solutions
+position:
+  title: Senior/Lead Forward Deployed AI Engineer/Architect-Copilot/Azure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs prompts, RAG, agentic
+      workflows, tool use, structured outputs, and evals
+      themselves at customer sites. LLM-centric work with Claude
+      and Microsoft Copilot/Azure AI Foundry. Explicitly ai-first
+      per the FDE edge case and prompt/retrieval/agent design
+      responsibilities.
+  responsibilities:
+  - Deploy, configure, and operationalize agentic AI workflows, AI assistants, and
+    AI-powered automations in client ServiceNow environments
+  - Build enterprise AI applications using Claude, the Anthropic API, and other LLM
+    platforms
+  - Apply prompt and context engineering, structured outputs, tool use/function calling,
+    and multi-step orchestration with human-in-the-loop review
+  - Design and implement RAG solutions grounded in authorized enterprise data and
+    knowledge sources
+  - Develop AI evaluation approaches, safeguards, and responsible AI controls including
+    prompt injection risk mitigation
+  - Develop secure integrations between ServiceNow, enterprise systems, APIs, data
+    platforms, and AI services
+  - Design, develop, and deploy AI agents using Microsoft Copilot Studio, Azure AI
+    Foundry, and MCP integrations
+  - Contribute reusable patterns, prompt libraries, and accelerators to NewRocket
+    AI platforms such as Agent Packs and the Intelligence Platform
+  - Build demos, prototypes, and proofs of concept and support workshops, discovery
+    sessions, and production rollouts with customers
+  use_cases:
+  - Agentic AI workflows and AI assistants within ServiceNow enterprise environments
+  - Enterprise workflow automation and AI-powered integrations
+  - Retrieval-augmented generation grounded in enterprise data and knowledge sources
+  - Multi-agent solutions with orchestration, tool calling, and contextual memory
+    via Copilot Studio and Azure AI Foundry
+  - AI-powered enterprise decision acceleration and business process optimization
+  skills:
+    languages: [Python, C#, TypeScript, JavaScript, SQL]
+    domains: []
+    web: [APIs, Microservices]
+    cloud: [Azure AI Foundry, Azure AI Search]
+    data: []
+    ml: []
+    databases: [Vector Databases, Databases]
+    genai: [Anthropic API, Prompt Engineering, Context Engineering, RAG, Agentic Workflows,
+      AI Agents, Multi-Agent Systems, Function Calling, Structured Outputs, Embeddings,
+      Vector Search, LLM Evaluation, LLMs, Generative AI, MCP, Copilot Studio, LangChain,
+      LangGraph, LlamaIndex, Semantic Kernel, Semantic Search]
+    ops: [Docker, CI/CD, Git, Infrastructure as Code, Model Deployment, Monitoring]
+    other: [ServiceNow, Responsible AI, Power Automate, Power BI, Jira, Confluence,
+      Smartsheets]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11912143'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:57:21.747540'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

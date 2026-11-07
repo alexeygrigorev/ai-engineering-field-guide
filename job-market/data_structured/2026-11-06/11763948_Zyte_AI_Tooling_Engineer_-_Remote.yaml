@@ -1,0 +1,54 @@
+company:
+  name: Zyte
+  stage: null
+  focus: Web data extraction and scraping tools
+position:
+  title: AI Tooling Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, MCP servers, tool calling,
+      retrieval/embeddings, prompt design, and evals/benchmarks
+      (LLM-as-judge) — directly shaping model behavior and output
+      quality, with a clear LLM/agent component.
+  responsibilities:
+  - Build internal agentic platform with Principal Engineer, shipping new capabilities
+    weekly from design to production
+  - Connect internal systems and SaaS tools to the platform, including APIs, shared
+    data models, and permissions
+  - Build AI agents and their tools, including MCP servers usable by agents company-wide
+  - 'Own quality: evaluation sets, benchmarks, tracing, cost per answer, and fixing
+    user issues'
+  - Turn proofs of concept into production internal tools with proper security and
+    access control
+  - 'Contribute to company-wide AI tooling initiatives: tool evaluation and standardization,
+    cost/usage tracking, standards for AI-built apps'
+  - Talk with platform users across the company to prioritize and communicate what
+    was built
+  use_cases:
+  - Internal agentic platform consolidating company knowledge and context in one place
+  - AI agents that answer questions using company data with permission-aware visibility
+  - MCP servers exposing internal systems and SaaS tools to agents across the company
+  - Evaluation and cost tracking for AI systems and internal AI tooling
+  skills:
+    genai: [LangGraph, AI Agents, Function Calling, RAG, Embeddings, Prompt Engineering,
+      LLMs, MCP, LLM Evaluation, Multi-Agent Systems]
+    ml: []
+    web: [APIs, Django, React, Next.js]
+    databases: [Relational Databases, pgvector, PostgreSQL, Vector Search, Knowledge
+        Graphs]
+    data: [Data Warehouses]
+    cloud: [GCP, AWS]
+    ops: [Langfuse, Docker, CI/CD, Monitoring, Git, GitHub]
+    languages: [Python, SQL]
+    domains: []
+    other: [Web Scraping]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11763948'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T13:09:00.327287'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

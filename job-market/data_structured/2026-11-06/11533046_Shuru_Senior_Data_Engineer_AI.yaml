@@ -1,0 +1,45 @@
+company:
+  name: Shuru
+  stage: null
+  focus: Technology team delivering product, AI, and mobile solutions
+position:
+  title: Senior Data Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains data pipelines and cloud data
+      solutions; AI is only mentioned as AI-assisted coding and
+      development tools the engineer uses, which is ai-support. No
+      model shaping (no prompts, RAG, training, or evals) is
+      present.
+  responsibilities:
+  - Design and maintain scalable data pipelines using Python, SQL, Snowflake, and
+    AWS
+  - Build data ingestion, transformation, and analytics solutions for large-scale
+    datasets
+  - Collaborate with product, business, and QA teams to deliver reliable data solutions
+  - Improve data processing performance, reliability, and overall data quality
+  - Use AI tools for coding, reviews, testing, documentation, and productivity
+  use_cases:
+  - Large-scale data ingestion and transformation
+  - Scalable cloud-based data pipelines and analytics
+  - Data quality and performance optimization
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [AWS, AWS S3, AWS Glue]
+    data: [PySpark, Data Pipelines, Data Modeling]
+    ml: []
+    databases: [Snowflake]
+    genai: []
+    ops: []
+    other: [AI-Assisted Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11533046'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T12:06:39.929844'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

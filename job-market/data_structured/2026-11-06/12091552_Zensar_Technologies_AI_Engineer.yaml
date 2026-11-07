@@ -1,0 +1,48 @@
+company:
+  name: Zensar Technologies
+  stage: null
+  focus: Digital solutions and IT services for enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      fine-tuning, RAG architecture design, and building multi-
+      agent systems with LangGraph and MCP. Clear LLM/agent
+      involvement makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-powered applications end-to-end
+  - Build POCs with LLMs and AI orchestration tools
+  - Create intelligent agents and multi-agent systems using LangGraph and agent builder
+    platforms
+  - Implement MCP integrations, MCP Tools, and agent-to-agent communication patterns
+  - Leverage vector stores, embeddings, and RAG architectures
+  - Manage source code via CI/CD pipelines and ensure AI application observability
+  - Perform prompt engineering and fine-tuning for GPT, Gemini, and other LLMs
+  - Maintain internal agent registry and integration standards
+  use_cases:
+  - AI-powered enterprise applications for clients
+  - Multi-agent systems and agent-to-agent workflows
+  - Retrieval-augmented generation over enterprise knowledge
+  - Proof-of-concept AI solutions with LLMs
+  skills:
+    genai: [LLMs, Prompt Engineering, LangGraph, Multi-Agent Systems, MCP, RAG, Embeddings,
+      Vector Databases, Fine-Tuning, Gemini, GPT, Agentic Workflows]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LangSmith, CI/CD, Jenkins, GitHub Actions, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12091552'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:55:25.918068'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

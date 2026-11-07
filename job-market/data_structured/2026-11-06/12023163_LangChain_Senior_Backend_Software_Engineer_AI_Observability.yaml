@@ -1,0 +1,48 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: Open-source and platform tools for building AI agents
+position:
+  title: Senior Backend Software Engineer, AI Observability & Evals Platform (NYC)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend services and APIs that serve
+      observability/evals data at scale but does not itself shape
+      model behavior through prompts, retrieval, or training. It's
+      backend infrastructure for an AI platform (LangSmith), so
+      ai-support despite being at an AI company.
+  responsibilities:
+  - Design, develop, and maintain backend services and APIs supporting LangSmith tracing,
+    monitoring, and evaluation workflows
+  - Collaborate on architectural decisions to ensure performant and maintainable systems
+  - Optimize storage and query performance for high-volume observability and evaluation
+    data
+  - Ensure system reliability through testing, monitoring, and alerting practices
+  - Troubleshoot and resolve production issues with root-cause analysis
+  - Create and maintain technical documentation including system design and API references
+  - Work with full-stack engineers, PMs, and designers on new feature rollouts
+  use_cases:
+  - Observability and tracing for production AI applications
+  - Evaluation workflows for AI agents at scale
+  - Monitoring and reliability of AI systems
+  - High-volume observability data storage and querying
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL, Redis, ClickHouse]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12023163'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:31:28.238984'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

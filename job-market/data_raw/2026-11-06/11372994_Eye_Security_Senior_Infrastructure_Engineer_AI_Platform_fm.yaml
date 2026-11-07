@@ -1,0 +1,154 @@
+job_id: 11372994
+title: Senior Infrastructure Engineer – AI Platform (f/m/x)
+company: Eye Security
+location: GBR
+locations:
+  - GBR
+  - Berlin, DEU
+  - "'s-Gravenhage, NLD"
+remote: true
+work_type: FULL_TIME
+company_size: 253 Employees
+description: |
+  About Eye Security Eye Security is providing cybersecurity
+  with embedded cyber insurance solutions for organizations in
+  Europe. Headquartered in the Netherlands, we are already
+  over 200 FTEs and continue to grow internationally. We
+  combine cutting-edge technology with hands-on expertise to
+  detect, respond to, and recover from cyber threats in real
+  time. Our team brings together talent from intelligence,
+  military, tech, and consulting backgrounds — all united by a
+  shared mission: to make enterprise-grade cybersecurity
+  accessible to every business, not just the big players. At
+  Eye, you’ll work on projects with an international
+  footprint, solving real-world challenges and helping to
+  build a safer digital future for our clients.
+
+  About this role We are looking for a Senior Infrastructure
+  Engineer (f/m/x) to strengthen our cloud and platform
+  foundations, empowering teams to build, deploy, and operate
+  software solutions. In this role, internally titled
+  Infrastructure Engineer IV, you’ll work at the core of cloud
+  infrastructure, developer experience, and reliability.
+  You’ll design scalable and secure systems on AWS, evolve our
+  Infrastructure-as-Code and CI/CD practices, and champion
+  automation, observability, optimization, and continuous
+  improvement. Your first major area of ownership will be the
+  infrastructure behind AI-powered capabilities at Eye
+  Security: building the secure, observable, and cost-
+  controlled environment that takes agents and LLM-backed
+  services from prototype to production. This is your starting
+  point, not the permanent boundary of the role — over time,
+  you’ll work across our wider cloud platform, developer
+  experience, reliability, and infrastructure strategy. This
+  is a platform and infrastructure engineering role, not an ML
+  research or applied science position. You will not train or
+  fine-tune models, build feature pipelines, or work as a
+  prompt engineer. We also don’t expect you to have worked
+  with every AWS AI service listed below — strong platform
+  fundamentals and real experience bringing AI-powered systems
+  into production matter more than familiarity with specific
+  services.
+
+  What you will do
+
+  - Design, build, and maintain highly scalable, resilient, and
+    secure infrastructure on AWS.
+  - Lead our Infrastructure-as-Code practices using Terraform,
+    including reusable modules and deployment patterns.
+  - Build the deployment patterns, workload identity, access
+    controls, and operational guardrails required to run
+    agents and LLM-backed services in production, covering
+    tool access, secrets, data handling, service quotas, and
+    cost.
+  - Evolve our monitoring and observability strategy using tools
+    such as Grafana and Sentry, including distributed tracing
+    across agent and tool calls, usage and cost attribution,
+    and failures that are semantic rather than operational.
+  - Establish practical ways to evaluate non-deterministic
+    behaviour and catch regressions before and after
+    deployment.
+  - Continuously improve automation, deployment pipelines,
+    system reliability, performance, and technical debt.
+  - Mentor mid-level engineers and share knowledge through
+    documentation, reviews, and technical discussions.
+  - Communicate clearly about technical trade-offs, timelines,
+    and priorities, ensuring alignment with product and
+    engineering goals.
+  - Balance multiple priorities and adapt effectively in a fast-
+    changing scale-up environment.
+
+  What you need
+
+  - 6+ years of hands-on experience in Platform Engineering,
+    DevOps, SRE, or related fields, with significant
+    experience in AWS.
+  - Strong expertise in AWS, Infrastructure-as-Code with
+    Terraform, GitOps, CI/CD systems, and observability.
+  - Experience authoring reusable Terraform modules for other
+    teams, including versioning and release practices — not
+    only working within an existing codebase.
+  - Ability to write and maintain production code in a language
+    such as Go, Python, or TypeScript.
+  - Hands-on experience building and shipping a non-trivial
+    agent or LLM-backed workflow, either in production or as a
+    side project with real users, with evidence that it was
+    genuinely useful.
+  - You can speak concretely about the decisions you made around
+    tool use, context and state, evaluation, failure handling,
+    autonomy, cost, and latency, as well as how you deployed
+    and operated the system and what it changed for the people
+    using it.
+  - Strong understanding of security best practices, including
+    least-privilege design for workloads that hold credentials
+    or act on behalf of users, as well as secure coding and
+    development principles.
+  - Proven ability to take initiative, solve complex problems,
+    and deliver in ambiguous environments.
+  - Skilled at breaking down complex problems into practical
+    solutions, prioritizing impact and maintainability over
+    perfectionism.
+  - An analytical mindset with strong technical and product
+    awareness.
+  - Experience working in a start-up or scale-up environment and
+    adapting to fast-changing needs.
+  - Excellent communication and collaboration skills, with the
+    ability to influence technical and non-technical
+    stakeholders.
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or equivalent practical experience.
+  - Fluency in English is a must.
+
+  Nice to have
+
+  - Experience with Amazon Bedrock, Bedrock AgentCore, Bedrock
+    Flows, Knowledge Bases, or Guardrails.
+  - Experience deploying agent frameworks such as Strands
+    Agents, LangGraph, or similar, and familiarity with Model
+    Context Protocol or tool gateways.
+  - Experience with automated evaluation of model or agent
+    behaviour, prompt and configuration versioning, and
+    regression testing for non-deterministic systems.
+  - Experience instrumenting distributed systems with
+    OpenTelemetry.
+  - Experience running AI or data workloads under European data-
+    residency constraints.
+  - Background in cost optimization, compliance, or developer
+    platform enablement.
+  - Experience with additional observability or security tools
+    beyond Grafana and Sentry.
+
+  What we offer
+
+  - A meaningful mission: protect organizations across Europe
+    from real-world cyber threats.
+  - Work with top-tier professionals from national CERTs,
+    intelligence agencies, and leading tech backgrounds.
+  - A remote-friendly culture with quarterly meetups and annual
+    company retreats in locations across Europe.
+  - Thursday socials to stay connected.
+  - A generous time-off policy, including wellbeing and
+    volunteering days.
+posted_date: 2026-09-25
+url: "https://builtin.com/job/senior-infrastructure-engineer-ai-platform-f-m-x/11372994"
+source: Built In

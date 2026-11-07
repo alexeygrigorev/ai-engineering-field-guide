@@ -1,0 +1,58 @@
+company:
+  name: ElevenLabs
+  stage: null
+  focus: AI voice models and agents platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent systems that run real business work,
+      uses LLM APIs and agent orchestration, evaluates LLM outputs
+      and failure modes — that is shaping LLM/agent behaviour, so
+      ai-first. Forward-deployed to internal growth pods, so not
+      customer-facing.
+  responsibilities:
+  - Build AI agents that run real parts of the business and take on real work
+  - Improve agents based on the results they produce
+  - Make agents reliable, measurable, and safe enough for business use
+  - Forward-deploy to growth pods to find problems worth solving and own solutions
+    end to end
+  - Evaluate LLM outputs and identify failure modes
+  - Measure whether what was built actually worked
+  use_cases:
+  - Business process automation with AI agents
+  - Marketing and growth workflows powered by agents
+  - Customer experience voice and chat agents
+  - Measuring and improving agent reliability in production
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [LLMs, Agentic Workflows, LLM Evaluation]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11546172'
+  location: ITA
+  locations:
+  - ITA
+  - ESP
+  - HUN
+  - FRA
+  - POL
+  - DEU
+  - BGR
+  - NLD
+  - GBR
+  - Dublin, IRL
+  remote: true
+  extracted_at: '2026-11-06T12:09:26.046278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

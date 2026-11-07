@@ -1,0 +1,53 @@
+company:
+  name: Celonis
+  stage: null
+  focus: Process mining and enterprise AI platform
+position:
+  title: Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes and develops LLM-based AI solutions
+      tailored to customer needs, which means designing the AI
+      solution behavior directly (prototyping LLM applications),
+      making it ai-first. It also includes traditional ML
+      prototyping, and shaping both LLM and classical ML means ai-
+      first. It is a customer-facing value engineering role, not
+      management.
+  responsibilities:
+  - Consult with customers using systems analysis to identify core business challenges
+  - Prototype and develop AI solutions including traditional machine learning and
+    LLM-based solutions tailored to customer needs
+  - Develop Celonis data models using SQL and analyses using PQL to create prototypes
+  - Lead proof-of-concept projects demonstrating tangible value in the Celonis platform
+  - Present the Celonis AI value proposition and deliver impactful presentations to
+    senior executives
+  - Collaborate with customers and partners to design solutions ensuring positive
+    return on investment
+  - Partner with implementation services teams to ensure successful value realization
+  - Create reusable collateral, best practices, and tools for the Value Engineering
+    Center of Excellence
+  use_cases:
+  - Process intelligence and process mining for enterprise customers
+  - AI-driven prototypes addressing customer business challenges
+  - Supply chain process optimization (procurement, order management, inventory, production)
+  - Finance process optimization (accounts payable, accounts receivable)
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [SQL, PQL, Python]
+    domains: []
+    other: [Power BI, Tableau, SAP, Oracle, Proof of Concept Projects, ROI Modeling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11473152'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:56:17.695965'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

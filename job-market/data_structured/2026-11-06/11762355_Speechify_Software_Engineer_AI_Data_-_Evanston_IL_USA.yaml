@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading apps for accessibility
+position:
+  title: Software Engineer, AI Data - Evanston, IL, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data
+      processing systems that feed training datasets; it does not
+      shape model behavior itself (no prompt work, training, or
+      eval of model output). Per the dataset-building rule, this
+      is ai-support.
+  responsibilities:
+  - Discover new audio data sources and build reliable pipelines into training datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech model training data
+  - Audio dataset building at petabyte scale
+  - Learning accessibility (dyslexia, ADD)
+  - Converting text (PDFs, books, websites) to audio
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Distributed Data Processing, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762355'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:06:36.792557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

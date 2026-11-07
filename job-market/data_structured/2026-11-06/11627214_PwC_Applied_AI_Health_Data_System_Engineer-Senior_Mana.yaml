@@ -1,0 +1,60 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and consulting for health systems
+position:
+  title: Applied AI Health Data System Engineer-Senior Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: designing RAG
+      pipelines, agentic workflows, prompt engineering, and
+      selecting LLMs for healthcare use cases, with an LLM/agent
+      component throughout. It is ai-first per Step 2.
+  responsibilities:
+  - Oversee development of healthcare AI and GenAI solutions including clinical use
+    case design, prompt engineering, and RAG pipeline development
+  - Architect and build production-grade RAG pipelines, MCP connections, agentic AI
+    workflows, and MLOps frameworks for health systems
+  - Lead large healthcare data science engagements and manage daily operations of
+    a global delivery team
+  - Engage health system clinical, financial, and operational leaders at the executive
+    level to align AI initiatives with priorities
+  - Guide teams in processing clinical notes, claims data, ADT feeds, and EHR data
+    for AI and LLM-powered solutions
+  - Develop proof of concepts, pilots, and production use cases spanning clinical
+    decision support, revenue cycle, population health, and operational optimization
+  - Review developed models, provide feedback, and oversee model governance and MLOps
+    practices across client engagements
+  - Manage and coach associates and senior associates on client engagements
+  use_cases:
+  - Clinical decision support and knowledge retrieval
+  - Population health risk stratification and patient risk scoring
+  - Prior authorization and revenue cycle automation
+  - Readmission prediction and length-of-stay modeling
+  - Clinical coding automation from notes and claims data
+  - Workforce optimization and throughput modeling in health systems
+  skills:
+    languages: [Python, SQL]
+    domains: [NLP]
+    web: []
+    cloud: [Azure, Azure OpenAI, Azure ML, AWS, SageMaker, AWS Bedrock, Vertex AI]
+    data: []
+    ml: [scikit-learn, Keras, Transformers, Pandas, Machine Learning, Deep Learning,
+      Model Evaluation, Optimization]
+    databases: [NoSQL, Vector Databases, Pinecone, Chroma, Snowflake, Databricks]
+    genai: [Prompt Engineering, RAG, MCP, Agentic Workflows, LLMs, LangChain, LlamaIndex,
+      Semantic Kernel, Embeddings, Anthropic API, Claude Code, Generative AI, Fine-Tuning]
+    ops: [MLOps, CI/CD, Git, Model Monitoring]
+    other: [HIPAA Compliance, EHR]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11627214'
+  location: Irvine, USA
+  locations:
+  - Irvine, USA
+  - Los Angeles, USA
+  extracted_at: '2026-11-06T12:24:45.461169'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

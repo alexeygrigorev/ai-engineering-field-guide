@@ -1,0 +1,54 @@
+company:
+  name: Lumbra
+  stage: null
+  focus: Agentic AI operating system for government and defense
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM agent behavior: designing agent flows,
+      retrieval/RAG, tool calling, prompts, and building evals for
+      non-deterministic LLM output. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Build agent behaviors, retrieval pipelines, and tool integrations into the Nebula
+    agentic harness, shipped to production
+  - 'Design and run evaluations: eval sets, graders, regression suites, and failure
+    analysis'
+  - Iterate on prompts, context, retrieval, and tooling based on evidence from failures
+  - 'Own production quality for model calls: latency, cost, error handling, fallbacks,
+    and observability'
+  - Build and scale the agent loop and execution runtime managing tool execution and
+    long-running sessions
+  - Build automated benchmarking pipelines and eval suites for accuracy, latency,
+    and regressions
+  - Maintain vendor-neutral features across model providers including classified-network
+    models
+  - Turn field feedback from classified deployments into product fixes with Forward
+    Deployed Engineers
+  use_cases:
+  - Intelligence analysis automation for the Intelligence Community and Department
+    of Defense
+  - Turning days of manual synthesis into minutes of automated analysis
+  - Agent-based retrieval and synthesis over classified intelligence data
+  - Trusted analyst-facing AI features with measurable reliability
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Function Calling, AI Agents, MCP, LLM Evaluation]
+    ml: []
+    web: [React]
+    databases: [Graph Databases, Vector Search]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubernetes, Distributed Systems, Model Deployment]
+    languages: [Python, Go, Rust, TypeScript]
+    domains: []
+    other: [OSINT, Code Review, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12081005'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:51:46.652981'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

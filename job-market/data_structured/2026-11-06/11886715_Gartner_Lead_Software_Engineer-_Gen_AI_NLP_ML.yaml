@@ -1,0 +1,56 @@
+company:
+  name: Gartner
+  stage: null
+  focus: |-
+    IT research and advisory providing business and technology
+    insights
+position:
+  title: Lead Software Engineer- Gen AI, NLP, ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, RAG, prompt
+      engineering, fine-tuning, evaluation frameworks, and
+      guardrails for LLM-based systems — clearly shaping model
+      behavior. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Design and develop AI solutions using LLMs, NLP, deep learning, generative AI,
+    information retrieval, and agentic feedback techniques
+  - Design agent architectures including planning, tool use, memory, orchestration,
+    multi-step reasoning, and execution control
+  - Build evaluation frameworks and benchmarks to assess LLM and agent performance
+  - Optimize model performance through prompt engineering, retrieval optimization,
+    reranking, embeddings, model selection, and fine-tuning
+  - Design AI guardrails including input/output validation, hallucination mitigation,
+    and human-in-the-loop review
+  - Transform unstructured text and data into structured formats for modeling, retrieval,
+    and analysis
+  - Translate business requirements into applied AI approaches and experiments
+  - Lead technical discussions and mentor team members on AI best practices
+  use_cases:
+  - Knowledge retrieval and summarization
+  - Agentic AI applications with planning and multi-step reasoning
+  - RAG-based question answering and analysis
+  - Pattern and insight discovery in complex data via NLP and statistical analysis
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, MCP, Agentic Workflows,
+      Fine-Tuning, Embeddings, Guardrails, OpenAI API, Anthropic API, Llama, Generative
+        AI, LLMs]
+    ml: [Machine Learning, Deep Learning, Transformers, Model Evaluation, Information
+        Retrieval]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [NLP]
+    other: [Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886715'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:37:38.778185'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

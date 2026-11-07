@@ -1,0 +1,63 @@
+company:
+  name: RELX
+  stage: null
+  focus: |-
+    Risk assessment and data analytics solutions (LexisNexis
+    Risk Solutions)
+position:
+  title: AI Platform Engineer III
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role engineers and administers enterprise AI platforms
+      (Microsoft 365 Copilot, Copilot Studio, Power Platform) —
+      configuring governed environments, DLP policies, ALM, and
+      integrations. It operates and governs AI services rather
+      than shaping model behavior through prompts, retrieval,
+      training, or evals, so it is ai-support.
+  responsibilities:
+  - Engineer and administer Microsoft 365 Copilot, Copilot Studio, Agent 365 and associated
+    enterprise AI services in governed environments
+  - Support the end-to-end lifecycle of AI agents including development, testing,
+    promotion, operation and retirement
+  - Engineer Power Platform Managed Environments with access controls, DLP policies,
+    connector controls and environment-level guardrails
+  - Develop repeatable ALM and deployment patterns and build automation to reduce
+    manual platform administration
+  - Integrate AI platforms with enterprise services using REST APIs, Microsoft Graph,
+    OAuth, service principals, managed identities, connectors and MCP
+  - Develop automated reporting covering platform health, adoption, governance, agent
+    inventory and consumption
+  - Remediate ungoverned, orphaned or incorrectly configured AI assets and produce
+    documentation and engineering standards
+  - Collaborate with Security, IAM and Architecture teams to align AI platform solutions
+    with enterprise standards
+  use_cases:
+  - Enterprise AI platform governance and administration
+  - Lifecycle management of enterprise AI agents
+  - Security, DLP and access controls for AI platform environments
+  - Platform health, adoption and consumption reporting
+  - Automation of platform administration and deployment
+  skills:
+    genai: [Microsoft 365 Copilot, Copilot Studio, MCP, AI Agents]
+    ml: []
+    web: [Microsoft Graph, REST APIs, OAuth]
+    databases: []
+    data: [PySpark, Talend]
+    cloud: [Power Platform, Azure AI Foundry]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Power BI, ServiceNow, DLP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12029760'
+  location: Chennai, IND
+  locations:
+  - Chennai, IND
+  - Mumbai, IND
+  - Gurugram, IND
+  extracted_at: '2026-11-06T14:34:12.242213'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

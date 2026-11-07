@@ -1,0 +1,50 @@
+company:
+  name: MRI Software
+  stage: null
+  focus: Real estate (PropTech) software for communities
+position:
+  title: Software Engineer III - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent orchestration (LangGraph),
+      authors MCP servers, and architects RAG systems with
+      evaluation — directly shaping LLM/agent behavior.
+      Lead/mentor responsibilities are IC technical leadership,
+      not management.
+  responsibilities:
+  - Design and implement multi-agent orchestration using LangGraph with state, checkpointing,
+    and human-in-the-loop
+  - Author MCP servers including tool schemas, auth, error contracts, and versioning
+  - Architect RAG systems covering retrieval strategy, hybrid search, reranking, and
+    evaluation
+  - Build and maintain the agent evaluation and observability stack
+  - Deploy and operate agents on Azure Foundry Agent Service and Azure Functions
+  - Establish agentic patterns and reference implementations for the team
+  - Mentor junior engineers and lead technical design reviews
+  use_cases:
+  - Multi-agent orchestration platform (Agora Orchestrator) for real estate software
+  - MCP-based tool integration for agents
+  - RAG-powered retrieval and search for business data
+  - Agent evaluation and observability in production
+  - Agentic workflow studio for end users
+  skills:
+    genai: [LangGraph, LangChain, MCP, RAG, Multi-Agent Systems, Agentic Workflows,
+      Prompt Engineering, Fine-Tuning, LoRA, DSPy, LLMs, Embeddings]
+    ml: [PyTorch, Hugging Face, Transformers, scikit-learn]
+    web: [FastAPI, Angular, React, OAuth]
+    databases: [PostgreSQL, SQL Server]
+    data: [Pandas, NumPy]
+    cloud: [Azure, Azure Functions, Azure AI Foundry]
+    ops: [Azure DevOps, GitHub Actions, Terraform, LangSmith, Monitoring, Promptfoo]
+    languages: [Python, Pydantic]
+    domains: []
+    other: [Okta, JWT, Semantic Caching, Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12092422'
+  location: Vadodara, IND
+  extracted_at: '2026-11-06T14:55:59.134602'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Platform Engineering
+  stage: null
+  focus: Community and events for platform engineers
+position:
+  title: AI Content Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step AI content workflows,
+      agent orchestration, prompting, and RAG/vector database
+      systems that shape LLM output quality — clearly shaping
+      model behavior, so ai-first.
+  responsibilities:
+  - 'Own the technical infrastructure of the content and design factory: tooling,
+    automation pipelines, quality management, and agent orchestration'
+  - Design and build complex multistep content and design creation workflows (structuring,
+    prompting, QA) in model harnesses and tools like AirOps and n8n
+  - Create UI integrations into existing solutions (e.g., Supabase) and vibe-code/maintain
+    interfaces for workflows and databases
+  - Keep the stack modular and replaceable, continuously evaluating and swapping tools
+  - Reduce manual overhead by building automations and agent workflows replacing repetitive
+    processes
+  - Work with leadership as a peer on architectural decisions and infrastructure direction
+  use_cases:
+  - AI-assisted content and design production at scale
+  - Automated multistep content creation workflows
+  - Quality control and QA of AI-generated content
+  - Publishing and distribution automation
+  - Reducing manual overhead with agent workflows
+  skills:
+    genai: [RAG, Agentic Workflows, Prompt Engineering, Claude Code, Cursor]
+    ml: []
+    web: [REST APIs, GraphQL]
+    databases: [Vector Databases, Supabase]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [n8n, AirOps, Automation Pipelines]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11391418'
+  location: Milan, ITA
+  locations:
+  - Milan, ITA
+  - Lisbon, PRT
+  - Dublin, IRL
+  - Berlin, DEU
+  - Barcelona, ESP
+  remote: true
+  extracted_at: '2026-11-06T11:42:37.245654'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

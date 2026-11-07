@@ -1,0 +1,59 @@
+company:
+  name: Engelhart
+  stage: null
+  focus: Commodities and energy trading with AI platforms
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic infrastructure, designs agent skills
+      and retrieval pipelines (pgvector, Bedrock Knowledge Bases),
+      and integrates tooling via MCP servers — directly shaping
+      agent/LLM behavior and output quality. LLM/agent components
+      dominate, so it's ai-first.
+  responsibilities:
+  - Extend Engelhart's core AI and agentic platform to address new trading desk requirements
+  - Set up and configure agentic AI infrastructure including orchestration layers
+    and agent runtimes within AWS VPC
+  - Build agent tooling integrations via AWS Lambda functions and MCP servers
+  - Develop agent skills and configure knowledge bases including document stores,
+    vector databases, and retrieval pipelines
+  - Research and evaluate open-source and proprietary AI frameworks and connectors
+    for the platform
+  - Support deployment and adoption of AI productivity tools such as Microsoft Copilot
+    and Claude Code
+  - Contribute to technical documentation, architecture diagrams, and internal knowledge
+    sharing
+  - Collaborate with engineers, data scientists, and stakeholders to iteratively test
+    and improve agentic workflows
+  use_cases:
+  - Enhancing research capabilities and data-driven insights for European and Asian
+    power trading desks
+  - Agentic platform enabling agents to interact with firm data, APIs, and internal
+    systems
+  - Knowledge bases and retrieval pipelines for user, chat, agent, and application
+    contexts
+  - Individual AI productivity tooling (Copilot, Claude Code) rolled out securely
+    internally
+  - Secure enterprise LLM deployment in a regulated, IP-sensitive trading environment
+  skills:
+    languages: [Python]
+    domains: []
+    web: [REST APIs, APIs]
+    cloud: [AWS, AWS Bedrock, AWS Lambda, SageMaker]
+    data: []
+    ml: [Hugging Face]
+    databases: [Vector Databases, pgvector, Pinecone, Chroma, PostgreSQL]
+    genai: [AI Agents, Agentic Workflows, MCP, LangChain, LlamaIndex, LLMs, Generative
+        AI, Prompt Engineering, RAG, Multi-Agent Systems, Claude Code, Microsoft Copilot]
+    ops: [Docker, Git, CI/CD, CloudFormation, AWS CDK]
+    other: [n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11940489'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:03:42.237111'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,263 @@
+job_id: 10359171
+title: Senior Systems Engineer, AI Gateway
+company: Cloudflare
+location: Austin, USA
+locations:
+  - Austin, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 4,400 Employees
+description: |
+  About Us  At Cloudflare, we are on a mission to help build a
+  better Internet. Today the company runs one of the world's
+  largest networks that powers millions of websites and other
+  Internet properties for customers ranging from individual
+  bloggers to SMBs to Fortune 500 companies. Cloudflare
+  protects and accelerates any Internet application online
+  without adding hardware, installing software, or changing a
+  line of code. Internet properties powered by Cloudflare all
+  have web traffic routed through its intelligent global
+  network, which gets smarter with every request. As a result,
+  they see significant improvement in performance and a
+  decrease in spam and other attacks. Cloudflare was named to
+  Entrepreneur Magazine's Top Company Cultures list and ranked
+  among the World's Most Innovative Companies by Fast Company.
+  At Cloudflare, we're not looking for people who wait for a
+  polished roadmap; we're looking for the builders who see the
+  cracks in the Internet that everyone else has simply learned
+  to live with. We value candidates who have the instinct to
+  spot a "normalized" problem and the AI-native curiosity to
+  create a solution using the latest tools. Our culture is
+  built on iteration, leveraging AI to ship faster today to
+  make it better tomorrow, while ensuring that every
+  improvement, no matter how small, is shared across the team
+  to lift everyone up. If you're the type of person who values
+  curiosity over bureaucracy, and that AI is a partner in
+  solving tough problems to keep the Internet moving forward,
+  you'll fit right in. Available Locations: Austin, TX | New
+  York, NY | San Francisco, CA About the Role AI inference is
+  becoming core infrastructure. Every serious application will
+  need access to many models, across many providers, with
+  reliability, observability, security, cost control, and
+  routing built in from the start. AI Gateway is Cloudflare's
+  bet that this layer should exist at the network edge: close
+  to users, close to compute, and simple enough that a
+  developer can adopt it with one API change. We are looking
+  for a Senior Systems Engineer to help build that layer. This
+  is a deeply hands-on individual contributor role for someone
+  who can move from a half-formed product idea to a working,
+  production-ready system quickly. You will work across the
+  stack - from distributed systems and high-throughput APIs to
+  developer-facing workflows, dashboards, SDKs, and docs -
+  helping define how developers build and operate AI
+  applications on Cloudflare. You should be excited by the
+  current pace of the AI ecosystem. Provider APIs change
+  weekly, new models appear constantly, and developer
+  expectations are rising just as quickly. AI Gateway needs
+  engineers who can build durable infrastructure in that
+  environment without slowing down. We also believe AI should
+  change how we build software, not just what we build. We
+  dogfood AI Gateway, Workers AI, and Cloudflare's broader
+  agent stack heavily. You should be comfortable using AI-
+  native tools, agents, harnesses, and automation to improve
+  your own engineering loop - and interested in building the
+  internal tools and context that help a small team ship like
+  a much larger one. Responsibilities
+
+  - Build core AI Gateway systems that handle high-volume
+    inference traffic across providers, models, and
+    Cloudflare's global network.
+  - Design and implement APIs, routing primitives, observability
+    features, controls, and developer workflows that make AI
+    Gateway reliable and easy to adopt.
+  - Work across product and infrastructure boundaries with
+    Workers AI, Agents, and the broader Developer Platform
+    organization to make Cloudflare's AI platform feel like
+    one coherent product.
+  - Turn ambiguous product and technical ideas into prototypes,
+    design docs, shipped features, and measurable production
+    improvements.
+  - Improve reliability, performance, cost efficiency, and
+    debuggability for latency-sensitive AI workloads.
+  - Build the software - and the software that builds the
+    software: agents, tests, harnesses, evaluation loops,
+    operational tools, and internal context that help the team
+    move faster with confidence.
+  - Sweat the developer experience. Error messages, SDKs,
+    dashboard flows, docs, examples, and API details all
+    matter.
+  - Mentor other engineers through design review, code review,
+    debugging, and technical leadership without needing
+    people-management authority.
+  - Bring strong opinions, clear judgment, and a willingness to
+    revise your view when data, users, or production reality
+    prove otherwise.
+
+   Desirable Skills, Knowledge & Experience
+
+  - 5+ years of experience building and operating production
+    systems, ideally in AI infrastructure, developer
+    platforms, cloud infrastructure, edge/proxy systems, high-
+    scale APIs, or distributed systems.
+  - Strong systems engineering fundamentals: networking, APIs,
+    reliability, observability, data modeling, performance,
+    and operational tradeoffs.
+  - Experience designing or scaling distributed systems where
+    latency, throughput, availability, and correctness all
+    matter.
+  - Ability to work comfortably across the stack, from API
+    design and product surfaces to backend services, queues,
+    storage systems, control planes, or performance-critical
+    code.
+  - Strong developer tools taste. You have used and built enough
+    APIs, SDKs, dashboards, CLIs, docs, and internal platforms
+    to know what makes them delightful or painful.
+  - Clear technical communication: you can write design docs,
+    explain tradeoffs, review architecture, and align
+    engineers and product partners around a practical path
+    forward.
+  - A builder's bias toward working software. You can prototype
+    quickly, ship incrementally, and improve systems while
+    they are already in production.
+  - Operational judgment. You understand that at Cloudflare
+    scale, rare bugs are not rare for long, and you build
+    systems that are observable, resilient, and recoverable.
+  - Comfort using AI-native development workflows and curiosity
+    about how agents, tools, and automation can improve
+    engineering productivity.
+
+   Bonus Points
+
+  - Experience building AI/ML infrastructure, inference
+    platforms, model gateways, LLM-powered applications, or
+    provider abstraction layers.
+  - Experience building developer-facing APIs, SDKs, CLIs,
+    dashboards, or platform products at scale.
+  - Hands-on experience with proxy, edge, gateway, routing, or
+    traffic management systems.
+  - Familiarity with the current AI ecosystem: model providers,
+    model capabilities, agent frameworks, inference patterns,
+    and the rough edges developers hit in practice.
+  - Experience with cost controls, rate limits, caching,
+    retries, fallbacks, evaluation, or observability for AI
+    workloads.
+  - Experience with TypeScript, Go, Rust, or similar
+    systems/backend languages.
+  - You have built or heavily customized your own agentic
+    development environment: custom agents, harnesses, tools,
+    or workflows that changed how you ship.
+  - You have built something with AI Gateway, Workers AI, or a
+    competing product, and have opinions about what is
+    missing.
+  - A track record of writing publicly about developer tools,
+    infrastructure, systems, or AI products you have built.
+
+   Compensation  Compensation may be adjusted depending on
+  work location.
+
+  - For Bay Area based hires: Estimated annual salary of
+    $194,000 - $266,000
+  - For New York City, New Jersey, Washington, Washington DC,
+    and California (excluding Bay Area) based hires: Estimated
+    annual salary of $185,000 - $254,000
+
+   Equity  This role is eligible to participate in
+  Cloudflare's equity plan. Benefits Cloudflare offers a
+  complete package of benefits and programs to support you and
+  your family. Our benefits programs can help you pay health
+  care expenses, support caregiving, build capital for the
+  future and make life a little easier and fun! The below is a
+  description of our benefits for employees in the United
+  States, and benefits may vary for employees based outside
+  the U.S. Health & Welfare Benefits
+
+  - Medical/Rx Insurance
+  - Dental Insurance
+  - Vision Insurance
+  - Flexible Spending Accounts
+  - Commuter Spending Accounts
+  - Fertility & Family Forming Benefits
+  - On-demand mental health support and Employee Assistance
+    Program
+  - Global Travel Medical Insurance
+
+   Financial Benefits
+
+  - Short and Long Term Disability Insurance
+  - Life & Accident Insurance
+  - 401(k) Retirement Savings Plan
+  - Employee Stock Participation Plan
+
+   Time Off
+
+  - Flexible paid time off covering vacation and sick leave
+  - Leave programs, including parental, pregnancy health,
+    medical, and bereavement leave
+
+  What Makes Cloudflare Special?  We're not just a highly
+  ambitious, large-scale technology company. We're a highly
+  ambitious, large-scale technology company with a soul.
+  Fundamental to our mission to help build a better Internet
+  is protecting the free and open Internet. Project Galileo:
+  Since 2014, we've equipped more than 2,400 journalism and
+  civil society organizations in 111 countries with powerful
+  tools to defend themselves against attacks that would
+  otherwise censor their work, technology already used by
+  Cloudflare's enterprise customers--at no cost. Athenian
+  Project: In 2017, we created the Athenian Project to ensure
+  that state and local governments have the highest level of
+  protection and reliability for free, so that their
+  constituents have access to election information and voter
+  registration. Since the project, we've provided services to
+  more than 425 local government election websites in 33
+  states. 1.1.1.1: We released 1.1.1.1 to help fix the
+  foundation of the Internet by building a faster, more secure
+  and privacy-centric public DNS resolver. This is available
+  publicly for everyone to use - it is the first consumer-
+  focused service Cloudflare has ever released. Here's the
+  deal - we don't store client IP addresses never, ever. We
+  will continue to abide by our privacy commitment and ensure
+  that no user data is sold to advertisers or used to target
+  consumers. Sound like something you'd like to be a part of?
+  We'd love to hear from you! Please note that applicants who
+  progress to the offer stage of the interview process may be
+  asked to attend an in-person interview within one of the
+  Cloudflare Offices or Cloudflare Hubs. More details about
+  this will be available at that stage of the interview
+  process. This position may require access to information
+  protected under U.S. export control laws, including the U.S.
+  Export Administration Regulations. Please note that any
+  offer of employment may be conditioned on your authorization
+  to receive software or technology controlled under these
+  U.S. export laws without sponsorship for an export license.
+  Cloudflare is proud to be an equal opportunity employer. We
+  are committed to providing equal employment opportunity for
+  all people and place great value in both diversity and
+  inclusiveness. All qualified applicants will be considered
+  for employment without regard to their, or any other
+  person's, perceived or actual race, color, religion, sex,
+  gender, gender identity, gender expression, sexual
+  orientation, national origin, ancestry, citizenship, age,
+  physical or mental disability, medical condition, family
+  care status, or any other basis protected by law. We are an
+  AA/Veterans/Disabled Employer. Cloudflare provides
+  reasonable accommodations to qualified individuals with
+  disabilities. Please tell us if you require a reasonable
+  accommodation to apply for a job. Examples of reasonable
+  accommodations include, but are not limited to, changing the
+  application process, providing documents in an alternate
+  format, using a sign language interpreter, or using
+  specialized equipment. If you require a reasonable
+  accommodation to apply for a job, please contact us via
+  e-mail at hr@cloudflare.com or via mail at 101 Townsend St.
+  San Francisco, CA 94107.
+industries:
+  - Cloud
+  - Information Technology
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-21
+url: "https://builtin.com/job/senior-systems-engineer-ai-gateway/10359171"
+source: Built In

@@ -1,0 +1,58 @@
+company:
+  name: Cyara
+  stage: null
+  focus: AI-powered customer experience assurance and testing
+position:
+  title: Sr. Sales Engineer – Agentic AI for CX
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs closed-loop assurance solutions that
+      evaluate AI agents — crafting adversarial test scenarios,
+      reading and shaping prompts, detecting hallucinations, and
+      validating agent decisions. Judging and testing model output
+      quality is shaping model behaviour, with LLM/agent
+      components throughout, so it is ai-first.
+  responsibilities:
+  - Own technical sales engagement from first discovery through technical win
+  - Lead deep discovery on customers' CX tech stack, AI agents, quality and compliance
+    risks, and success criteria
+  - Design closed-loop assurance solutions that test, monitor, and observe customers'
+    AI agents across the CX stack
+  - Deliver tailored demos, overviews, and workshops tied to AI agent quality and
+    compliance goals
+  - Scope and run proofs of concept validating the platform against customer success
+    criteria
+  - Quantify the cost of AI failure and efficiency gained through assurance for executive
+    buyers
+  - Partner with Sales, Product, and Implementation on RFPs, objections, and delivery
+    handoff
+  - Create reusable demos and materials, and mentor teammates on agentic AI technology
+    and prompt engineering
+  use_cases:
+  - Testing AI agents with AI agents for hallucination detection
+  - Validating AI agent decisions and policy compliance in CX environments
+  - Closed-loop assurance monitoring of production AI agents across voice, digital,
+    and messaging channels
+  - Detecting AI agent failures before they reach customers
+  skills:
+    genai: [LLMs, RAG, Function Calling, MCP, AI Agents, Agentic Workflows, Prompt
+        Engineering, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [CX Tech Stack, CCaaS, IVR, CRM, AI Observability, Hallucination Detection]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11992974'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:20:34.772090'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

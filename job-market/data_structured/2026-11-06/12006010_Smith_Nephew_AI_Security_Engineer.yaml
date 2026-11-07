@@ -1,0 +1,62 @@
+company:
+  name: Smith & Nephew
+  stage: null
+  focus: Medical technology manufacturer
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security governance and oversight role: threat
+      modelling, security reviews, defining requirements, and
+      coordinating penetration testing for AI systems others
+      build. The person guides implementation of guardrails
+      (Prompt Shields, AI gateways) but does not build
+      evals/guardrails or shape model behaviour themselves, so it
+      is ai-support.
+  responsibilities:
+  - Serve as dedicated security engineer on enterprise AI projects, supporting delivery
+    teams from design through deployment and operation
+  - Perform threat modelling and security design reviews for web applications, AI
+    agents, copilots, and enterprise integrations
+  - Define and validate security requirements for AI solutions built on Microsoft
+    platforms
+  - Identify and mitigate AI-specific and agentic AI risks such as prompt injection,
+    data leakage, and excessive agent permissions
+  - Define agent identity and permission models enforcing least-privilege access
+  - Coordinate penetration testing for AI applications and track findings to closure
+  - Monitor AI workloads with Microsoft Defender for Cloud and Sentinel and support
+    AI security incident handling
+  - Document security assessments and contribute to AI security standards and secure
+    design patterns
+  use_cases:
+  - Security threat modelling for enterprise AI applications, agents, and copilots
+  - Mitigation of prompt injection, data leakage, and insecure tool use risks in agentic
+    AI systems
+  - Least-privilege identity and permission models for AI agents
+  - AI runtime protections via AI gateways, Prompt Shields, and content safety filters
+  - Monitoring and incident response for AI workloads
+  - Penetration testing and security assurance for AI applications
+  skills:
+    genai: [AI Agents, MCP, Guardrails]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Copilot Studio, Azure AI Content
+        Safety]
+    ops: []
+    languages: []
+    domains: [Generative AI]
+    other: [Microsoft 365, Power Platform, Microsoft Entra ID, Microsoft Purview,
+      Microsoft Sentinel, Microsoft Defender for Cloud, Prompt Shields, Threat Modelling,
+      CISSP, Application Security, Cloud Security, OWASP Top 10 for LLM Applications,
+      NIST AI RMF, Agile, Penetration Testing, Incident Response]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12006010'
+  location: Kharadi, IND
+  extracted_at: '2026-11-06T14:26:13.510785'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

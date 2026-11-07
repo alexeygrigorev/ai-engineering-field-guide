@@ -1,0 +1,54 @@
+company:
+  name: Cresta
+  stage: Raised more than $270 million from a16z, Greylock, and Sequoia
+  focus: |-
+    Conversational AI platform for contact center customer
+    experience
+position:
+  title: AI Engineer, GTM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents and AI-driven automation that
+      generate account plans, documents, deal signals, and seller
+      workflows—shaping agent behavior and output for GTM, not
+      just consuming an API. With agents and LLM-based generation
+      at the core, it is ai-first.
+  responsibilities:
+  - Use AI and data to help SDR, marketing, and sales prioritize the highest-value
+    accounts
+  - Replace manual research, opportunity prep, and CRM entry with automation and AI
+  - Auto-generate account plans, stakeholder maps, and discovery prep inside seller
+    workflows
+  - Automate quoting, approvals, and document generation using AI agents
+  - Streamline order forms, security reviews, and deal documents with real-time deal
+    signals
+  - Write custom code and use AI coding tools to connect and extend the GTM stack
+  - Integrate and maximize Salesforce, Gong, Clay, Slack, Glean, Coda and other tools
+  - Rethink segmentation, territories, and coverage using data and AI
+  use_cases:
+  - Account prioritization and enrichment for SDR, marketing, and sales
+  - Automated research, opportunity prep, and CRM data entry
+  - Auto-generated account plans, stakeholder maps, and discovery prep
+  - Automated quoting, approvals, and deal document generation
+  - Real-time deal signals and next-step recommendations for opportunities
+  skills:
+    genai: [AI Agents, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Automation, Salesforce, Gong, Clay, Slack, Glean, Coda]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8520799'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:03:07.856897'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

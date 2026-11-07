@@ -1,0 +1,63 @@
+company:
+  name: Alignity
+  stage: null
+  focus: IT solutions integrator and consulting firm
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications hands-on:
+      prompt engineering, RAG, embeddings, vector search, agent
+      development with guardrails, fine-tuning, and model
+      evaluation. This is directly shaping LLM behavior, so it is
+      ai-first.
+  responsibilities:
+  - Design, build, and operate secure, scalable production-grade Generative AI, agentic
+    AI, and cloud data solutions for analytics and reporting
+  - Develop LLM applications using prompt engineering, RAG, embeddings, vector search,
+    structured outputs, tool/function calling, fine-tuning, and model routing
+  - Build AI agents that retrieve enterprise data, use approved tools and APIs, coordinate
+    multi-step workflows, and operate within guardrails and human oversight
+  - Integrate foundation models, AI agents, enterprise data platforms, APIs, and reporting
+    applications
+  - Develop AI capabilities such as natural-language querying, conversational analytics,
+    automated summaries, recommendations, and anomaly detection
+  - Design and maintain ETL/ELT pipelines and data models across data lakes, warehouses,
+    and lake houses
+  - Deploy AI solutions using AWS Bedrock, SageMaker, Azure OpenAI, Vertex AI, OpenAI
+    APIs, and vector databases
+  - Orchestrate data workflows using AWS Glue, Lambda, Step Functions, S3, Athena,
+    Redshift, and RDS
+  - Apply responsible AI practices including data privacy, security, access control,
+    and prompt-injection protection
+  use_cases:
+  - Natural-language querying over enterprise data
+  - Conversational analytics and reporting
+  - Automated summaries and narrative reporting
+  - Intelligent recommendations and anomaly detection
+  - Agentic retrieval of enterprise data with workflow automation
+  - Data pipelines for structured and unstructured data across lakes and warehouses
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [FastAPI, Flask, APIs]
+    cloud: [AWS, Azure, GCP, AWS Bedrock, SageMaker, Azure OpenAI, Azure AI Foundry,
+      Vertex AI, AWS Lambda, AWS S3, AWS Glue, AWS Step Functions]
+    data: [Pandas, PySpark, Data Pipelines, Data Modeling]
+    ml: []
+    databases: [Vector Databases, Redshift, Amazon RDS, Amazon Athena]
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, Embeddings, Semantic Search,
+      Vector Search, Structured Outputs, Function Calling, Fine-Tuning, AI Agents,
+      Agentic Workflows, Guardrails, LLM Evaluation, LangChain, LangGraph, LlamaIndex,
+      OpenAI API]
+    ops: [LLMOps, CI/CD, Infrastructure as Code, Observability]
+    other: [Power BI, Tableau, Boto3, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894110'
+  location: Shaikpet, IND
+  extracted_at: '2026-11-06T13:51:07.679812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

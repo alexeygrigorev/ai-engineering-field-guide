@@ -1,0 +1,52 @@
+company:
+  name: Scribd, Inc.
+  stage: null
+  focus: |-
+    Digital reading and content subscription products (Scribd,
+    Everand, Slideshare)
+position:
+  title: Principal Engineer ( AI + Dev Tooling)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the technical vision for agentic engineering,
+      deciding architecture, patterns, guardrails, agent runtimes,
+      tool use, context management, and evals for coding agents.
+      That is shaping agent behavior directly (agentic workflows,
+      guardrails, evals), so it's ai-first. The deliverable is
+      developer workflow, but here the agents' architecture and
+      evaluation are the person's own work, not a tool they merely
+      use.
+  responsibilities:
+  - Define architecture, patterns, and guardrails for engineers and coding agents
+    collaborating across codebase, CI/CD, and infrastructure
+  - Own the technical vision and roadmap for agentic engineering at Scribd
+  - Set direction and standards for internal developer tools, libraries, and platforms
+  - Partner with the CTO and engineering leadership on cross-org initiatives, from
+    framing through delivery
+  - Mentor staff and senior engineers and coach teams on using agents in daily workflows
+  - Roll out new agentic engineering capabilities across the organization
+  use_cases:
+  - 'Agentic engineering: AI coding agents executing alongside developers across the
+    software development lifecycle'
+  - Developer tooling and platform engineering to boost engineering productivity
+  - Modernizing infrastructure and optimizing build and deployment processes
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, LLM Evaluation, Guardrails]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Model Deployment, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11816483'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:17:45.097342'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

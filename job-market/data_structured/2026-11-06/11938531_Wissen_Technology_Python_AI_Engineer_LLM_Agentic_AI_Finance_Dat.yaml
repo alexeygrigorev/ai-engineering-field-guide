@@ -1,0 +1,49 @@
+company:
+  name: Wissen Technology
+  stage: null
+  focus: Custom product engineering and IT consulting services
+position:
+  title: Python AI Engineer – LLM & Agentic AI (Finance Data Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines (chunking, embeddings,
+      retrieval tuning), builds agent workflows with
+      LangChain/LangGraph, and evaluates LLM output quality — all
+      direct model-behavior shaping on LLMs.
+  responsibilities:
+  - Build Python services for processing structured and unstructured finance data
+  - Design and develop end-to-end RAG pipelines with document ingestion, chunking,
+    embeddings, and vector search
+  - Build AI agents and workflows using LangChain and LangGraph
+  - Integrate LLMs with APIs, databases, and enterprise finance platforms
+  - Evaluate LLM responses for quality, relevance, accuracy, and hallucination reduction
+  - Optimize latency, reliability, scalability, and cost of production AI systems
+  - Implement security, privacy, and access-control practices in regulated environments
+  - Collaborate with product owners, data engineers, and stakeholders
+  use_cases:
+  - Finance and operational data discovery and analysis
+  - Grounded question answering over enterprise finance documents
+  - Agentic automation for finance workflows
+  - LLM integration with enterprise finance platforms (GL, reconciliation, reporting)
+  - Hallucination reduction and response quality evaluation in production
+  skills:
+    genai: [LLMs, OpenAI API, Azure OpenAI, Anthropic API, LangChain, LangGraph, Agentic
+        Workflows, RAG, Embeddings, LLM Evaluation]
+    ml: []
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases, Relational Databases, Vector Search]
+    data: [Pandas, Databricks, Spark, PySpark]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, MLflow, Docker, CI/CD, LangSmith]
+    languages: [Python, SQL]
+    domains: []
+    other: [Mosaic AI, Unity Catalog, Oracle Fusion, RAGAS, AI Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11938531'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:03:18.923950'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

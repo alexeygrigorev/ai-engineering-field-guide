@@ -1,0 +1,52 @@
+company:
+  name: Wavestone
+  stage: null
+  focus: Management and technology consulting, data and AI advisory
+position:
+  title: Data and AI - Data Architect or Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines, platforms, and governance to
+      enable AI/ML use cases designed by others; it never shapes
+      model behaviour via prompts, retrieval, training, or evals.
+      AI is mentioned only as a downstream consumer of the data
+      foundations, so this is ai-support.
+  responsibilities:
+  - Lead delivery of complex data transformation programmes, defining data strategies
+    and enterprise data architectures
+  - Advise clients on data strategies, operating models, governance frameworks, and
+    architecture patterns
+  - Design scalable data pipelines, integration frameworks, and cloud-native data
+    solutions
+  - Establish data foundations for advanced analytics, machine learning, and AI/GenAI
+    use cases
+  - Support business development, pre-sales, proposals, and RFP responses
+  - Develop thought leadership, methodologies, and accelerators for data propositions
+  - Coach, mentor, and develop consultants and engineers in the Data & AI practice
+  use_cases:
+  - Data transformation programmes in Banking, Insurance, Wealth & Asset Management,
+    and Life Sciences
+  - Enterprise data architecture and modern cloud data platform implementation
+  - Data governance, metadata, lineage, and data quality frameworks
+  - Data foundations enabling advanced analytics, ML, AI, and GenAI use cases
+  - Data-driven decision-making for clients in regulated industries
+  skills:
+    languages: [SQL, Python]
+    domains: []
+    web: []
+    cloud: [Azure, GCP, AWS]
+    data: [Data Pipelines, Data Governance, Databricks, PySpark, dbt]
+    ml: [Machine Learning]
+    databases: [Snowflake, BigQuery, Redshift, Data Warehouses, Data Lakehouses]
+    genai: [Generative AI]
+    ops: [Git, CI/CD, MLOps]
+    other: [Power BI, Tableau, Data Mesh]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11398502'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:44:18.252229'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

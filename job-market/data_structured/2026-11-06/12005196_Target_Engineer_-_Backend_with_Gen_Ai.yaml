@@ -1,0 +1,51 @@
+company:
+  name: Target
+  stage: null
+  focus: Retail technology supporting merchandising and commerce
+position:
+  title: Engineer - Backend with Gen Ai
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and GenAI features into
+      applications, builds agentic frameworks, and mitigates
+      hallucinations — directly shaping model behavior and output
+      quality via OpenAI APIs and agentic automation, making it
+      ai-first.
+  responsibilities:
+  - Develop scalable backend applications and services using JVM-based and other technologies
+  - Integrate Large Language Models (LLMs) and GenAI-powered features into core applications
+  - Develop systems that mitigate hallucinations and improve AI reliability
+  - Build or integrate agentic frameworks and AI-driven automation for process enhancement
+  - Ensure product observability, monitoring, and reliability of team services
+  - Apply security best practices and secure coding in product development
+  - Contribute to knowledge sharing, continuous learning, and team delivery planning
+  use_cases:
+  - Merchandising data and aggregation services at enterprise retail scale
+  - Intelligence automation for retail merchandising processes
+  - GenAI-powered features embedded in core retail applications
+  - Hallucination mitigation and AI reliability for production systems
+  - Pricing, promotions, item, supplier and space presentation data services
+  skills:
+    genai: [LLMs, OpenAI API, Agentic Workflows, Generative AI]
+    ml: []
+    web: [Spring Boot, Micronaut, Microservices, GraphQL]
+    databases: [Cassandra, MongoDB, PostgreSQL, NoSQL]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Jenkins, GitLab CI, JUnit, PyTest, Docker, Kubernetes, Grafana, ELK
+        Stack, Prometheus]
+    languages: [Java, Python, Kotlin]
+    domains: []
+    other: [Event-Driven Architecture, OWASP, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005196'
+  location: Nagavara, IND
+  locations:
+  - Nagavara, IND
+  - Tiszaujvaros, HUN
+  extracted_at: '2026-11-06T14:25:16.975846'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: DXC Technology
+  stage: null
+  focus: Enterprise IT services and technology consulting
+position:
+  title: Senior Full-Stack AI Engineer-4
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic AI and multi-agent
+      systems, directly shaping LLM/agent behavior, so it is ai-
+      first. Non-LLM work (React frontend, FastAPI services,
+      CI/CD) supports rather than defines the role.
+  responsibilities:
+  - Architect and lead full-stack AI solutions
+  - Design scalable Agentic AI and multi-agent systems
+  - Build advanced RAG pipelines and knowledge systems
+  - Develop backend services in Python and FastAPI
+  - Lead frontend development with React.js
+  - Drive CI/CD, DevOps, and deployment strategies
+  - Mentor junior developers and collaborate with stakeholders on solution design
+  - Ensure performance, scalability, and cost optimization
+  use_cases:
+  - Enterprise-scale agentic AI platforms
+  - Knowledge systems powered by RAG
+  - Multi-agent AI system orchestration
+  - End-to-end AI product delivery from UI to backend
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, RAG, LLMs]
+    ml: []
+    web: [React, FastAPI, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, DevOps, GitHub, Kubernetes, Observability]
+    languages: [Python]
+    domains: []
+    other: [Jira, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11458208'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:53:59.225026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

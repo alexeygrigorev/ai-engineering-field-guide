@@ -1,0 +1,53 @@
+company:
+  name: Citrine Informatics
+  stage: null
+  focus: |-
+    AI-powered SaaS platform for materials and chemicals
+    development
+position:
+  title: Data & Artificial Intelligence Research Engineer, L4
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops, maintains, and evaluates materials-aware
+      ML models (inverse design, uncertainty quantification,
+      interpretability), which is shaping model behavior. The work
+      is classical ML for materials science; LLMs appear only as a
+      preferred/bonus skill, so the classification is ml-first.
+  responsibilities:
+  - Write and maintain Python ML code powering the core platform
+  - Research, prototype, and develop new materials-aware ML models and features
+  - Improve interpretability of ML models and build tools to communicate insights
+    to users
+  - Improve inverse design capabilities for exploring complex materials synthesis
+    parameter spaces
+  - Develop methods to quantify uncertainty in ML predictions
+  - Design high-performance, scalable ML systems
+  - Test and analyze model impact and performance
+  - Collaborate cross-functionally from concept to delivery and mentor other developers
+  use_cases:
+  - ML-driven discovery of sustainable, high-performing materials and chemicals
+  - Materials-aware data management and AI tools for product developers
+  - Inverse design exploring complex materials synthesis parameter spaces
+  - Uncertainty quantification for ML predictions
+  - Interpretability of materials ML models for end users
+  skills:
+    genai: [LLMs, Fine-Tuning]
+    ml: [Machine Learning, Neural Networks]
+    web: []
+    databases: [SQL, Relational Databases]
+    data: []
+    cloud: [AWS, AWS S3]
+    ops: []
+    languages: [Python, Scala]
+    domains: [NLP, Computer Vision]
+    other: [Materials Science, Statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11489078'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:58:44.158144'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

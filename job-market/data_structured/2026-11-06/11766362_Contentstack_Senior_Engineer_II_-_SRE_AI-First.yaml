@@ -1,0 +1,59 @@
+company:
+  name: Contentstack
+  stage: null
+  focus: |-
+    Agentic Experience Platform with headless CMS, customer
+    data, and AI orchestration
+position:
+  title: Senior Engineer II - SRE (AI-First)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE/DevOps role: the deliverable is reliability,
+      releases, Kubernetes, and CI/CD, not model behaviour. AI
+      appears as a tool used (AI-assisted triage, reviewing AI-
+      authored code, keeping data out of agent context), and
+      reviewing AI-generated pipeline code is governance of
+      developer workflow, not shaping an LLM's output quality. No
+      prompt/RAG/agent design of a model product is owned.
+  responsibilities:
+  - Define and operate SLIs, SLOs, and error budgets for platform services and drive
+    follow-through when budgets are burned
+  - Hold primary on-call, act as incident commander, and run blameless postmortems
+    with tracked actions
+  - Build and maintain Datadog instrumentation, SLO monitors, and dashboards to make
+    failures visible
+  - Design and optimise CI/CD pipelines including GitOps with Argo CD, canary/blue-green
+    rollouts, and automated rollback
+  - Build production-grade, versioned, tested Helm charts and reusable chart libraries
+  - 'Operate and troubleshoot production Kubernetes (EKS) day-2 operations: scheduling,
+    autoscaling, resource management, add-ons'
+  - Eliminate recurring operational toil through automation in Python, Bash, and Ansible
+  - Define guardrails for AI-generated deployment and pipeline code, keep secrets
+    out of agent context, and scope CI agent credentials to least privilege
+  use_cases:
+  - Reliability of a multi-tenant SaaS platform under growth
+  - Progressive delivery with canary/blue-green rollouts and fast rollback
+  - AI-assisted incident triage, anomaly detection, and MTTR improvement
+  - Guardrails for AI-generated deployment and pipeline code reaching production
+  - Toil reduction and automation of recurring operational tasks
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [EKS]
+    ops: [ArgoCD, Helm, Kubernetes, CI/CD, Datadog, GitOps, Terraform, Ansible, Linux,
+      Artifactory]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11766362'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:09:08.728493'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

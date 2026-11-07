@@ -1,0 +1,64 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Staff AI Engineer - Enterprise Analysis Platform (Remote Eligible)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI components that shape model
+      behavior: agents and multi-agent workflows, guardrails,
+      model evaluation, foundation model training, and model
+      routing/orchestration. LLMs and agentic systems are central,
+      so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional engineers, scientists, and PMs to deliver AI-powered
+    products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents and multi-agent workflows, guardrails, and
+    model evaluation
+  - Introduce foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Own the design and integration of model routing, caching, and orchestration systems
+    for hybrid and multi-model workloads
+  - Set technical direction for enterprise-wide AI architecture, unifying tooling,
+    observability, and deployment standards
+  - Champion responsible AI principles including transparency, reproducibility, and
+    fairness-by-design
+  - Drive internal education, mentorship, and best-practice dissemination through
+    architecture councils and AI guilds
+  use_cases:
+  - Enterprise AI-assisted data analysis platform for internal business users
+  - Real-time personalized customer banking experiences
+  - Anomaly detection such as informing customers of unusual charges
+  - Real-time customer question answering
+  skills:
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    web: []
+    cloud: [AWS, GCP, Azure]
+    data: [Data Pipelines, Data Governance]
+    ml: [PyTorch, Hugging Face, Machine Learning, Model Training, Foundation Model
+        Training, Model Evaluation, CUDA, Quantization]
+    databases: [Vector Databases, Vector Search]
+    genai: [Agentic Workflows, Guardrails, LLMs, Fine-Tuning, LLM Evaluation, AI Agents]
+    ops: [Observability, Monitoring, MLOps]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11444141'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:51:57.511066'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

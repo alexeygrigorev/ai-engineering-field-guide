@@ -1,0 +1,56 @@
+company:
+  name: Revvity
+  stage: null
+  focus: Life sciences and diagnostics health solutions
+position:
+  title: Senior AI Developer - Finance Automation & Enterprise Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements prompt engineering
+      frameworks for financial document processing and architects
+      LLM-integrated AI automation solutions, directly shaping
+      model behavior and output quality for enterprise finance
+      processes. LLM components are central, making it ai-first.
+  responsibilities:
+  - Architect and deliver enterprise-scale AI solutions automating financial processes
+    (P2P, O2C, R2R cycles)
+  - Design and implement advanced prompt engineering frameworks for financial document
+    processing and analysis
+  - Integrate AI models with SAP S/4HANA, Salesforce Financial Services Cloud, and
+    multi-cloud environments
+  - Establish CI/CD pipelines for AI model deployment with security, compliance, and
+    monitoring
+  - Drive cloud infrastructure scaling decisions across AWS, Azure, and GCP
+  - Mentor junior developers and establish technical standards and an AI center of
+    excellence
+  - Present strategic roadmaps and AI capabilities to senior leadership and C-suite
+    executives
+  - Ensure compliance with data governance, financial regulations, and security standards
+  use_cases:
+  - Financial process automation (procure-to-pay, order-to-cash, record-to-report)
+  - Financial document processing and analysis
+  - Real-time financial analytics and intelligent reporting
+  - Enterprise integration of AI with SAP and Salesforce systems
+  - Predictive modeling for budgeting and forecasting
+  skills:
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    web: [APIs, Microservices, Node.js]
+    cloud: [AWS, Azure, GCP]
+    data: [Data Pipelines, Real-Time Data Processing]
+    ml: [AI/ML Development, Predictive Modeling]
+    databases: []
+    genai: [LLMs, Prompt Engineering, Generative AI, RAG, Fine-Tuning, Multi-Modal
+        AI]
+    ops: [CI/CD, GitHub Actions, Docker, Kubernetes, MLOps]
+    other: [SAP, Salesforce, Agile, SOX, GAAP, IFRS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11873066'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:28:10.887684'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

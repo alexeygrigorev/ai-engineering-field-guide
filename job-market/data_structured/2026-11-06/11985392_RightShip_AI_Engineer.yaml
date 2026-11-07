@@ -1,0 +1,56 @@
+company:
+  name: RightShip
+  stage: null
+  focus: Maritime safety and risk intelligence platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: prototyping LLM
+      applications, agents, and RAG pipelines, designing evals,
+      guardrails, and retrieval over maritime data. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Work with Product Managers to translate customer problems into candidate AI solutions
+    with success criteria and evaluation plans
+  - Rapidly prototype and experiment with LLM-based applications, agents and retrieval
+    pipelines to validate ideas before roadmap commitment
+  - Propose and document solution architectures covering model choice, orchestration,
+    guardrails, and cost/latency trade-offs
+  - Design and build offline and online AI evaluation suites to monitor quality in
+    production
+  - Produce production-ready code with tests, evals, documentation and observability
+    and hand over to engineering teams
+  - Build and maintain retrieval and embedding pipelines over maritime data including
+    inspection reports, vessel records and the knowledge graph
+  - Apply Responsible AI practices including traceability, guardrails and bias assessment
+  - Present experimental results and recommendations to product, engineering and senior
+    stakeholders
+  use_cases:
+  - LLM-based applications and agentic systems for maritime risk intelligence
+  - Retrieval over structured and unstructured maritime data (inspection reports,
+    vessel records, documents)
+  - AI-assisted safety and compliance decision support for shipping customers
+  - Knowledge graph retrieval for maritime safety intelligence
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [Azure, Azure AI Foundry]
+    data: [Databricks, Delta Lake]
+    ml: [PyTorch, Machine Learning]
+    databases: [Azure AI Search, Neo4j, Knowledge Graphs, Vector Search]
+    genai: [LangGraph, LangChain, RAG, LLMs, Agentic Workflows, Structured Outputs,
+      Function Calling, LLM Evaluation, Embeddings, Guardrails, Azure OpenAI, Multi-Modal
+        Models]
+    ops: [MLflow, Model Deployment, CI/CD, Monitoring]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11985392'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:18:43.475386'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

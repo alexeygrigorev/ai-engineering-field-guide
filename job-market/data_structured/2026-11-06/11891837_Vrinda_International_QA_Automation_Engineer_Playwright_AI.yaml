@@ -1,0 +1,51 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and software quality assurance
+position:
+  title: QA Automation Engineer – Playwright & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI/LLM capabilities as a tool to optimize test
+      generation and analysis, with only "familiarity" with AI/LLM
+      testing concepts required. The engineer does not write
+      prompts, design retrieval, or shape model behavior — the
+      deliverable is test quality, not model quality. Per the
+      rules, QA oversight of AI is ai-support unless the person
+      builds evals or guardrails themselves, which this
+      description does not state.
+  responsibilities:
+  - Architect and develop automation test suites using Playwright and Selenium for
+    functional and regression scenarios
+  - Design, execute, and manage test cases within SAP BTP environments to validate
+    business logic and system integration
+  - Conduct API testing to ensure data integrity and service communication
+  - Leverage AI and LLM capabilities to optimize test generation, analysis, and execution
+  - Identify, document, and track defects throughout the development lifecycle
+  - Perform manual and exploratory testing where automation is not feasible
+  - Collaborate with cross-functional teams to define test strategies and review requirements
+  use_cases:
+  - Automated functional and regression testing of software products
+  - Validation of business logic and integrations on SAP BTP
+  - API testing for data integrity across services
+  - AI-assisted test generation and analysis
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [Playwright, Selenium, API Testing]
+    databases: []
+    data: []
+    cloud: [SAP BTP]
+    ops: []
+    languages: []
+    domains: []
+    other: [Functional Testing, Regression Testing, Exploratory Testing, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891837'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:27.758854'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

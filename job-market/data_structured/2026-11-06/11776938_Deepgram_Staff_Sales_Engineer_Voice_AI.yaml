@@ -1,0 +1,56 @@
+company:
+  name: Deepgram
+  stage: Series C
+  focus: Voice AI platform for speech-to-text and text-to-text APIs
+position:
+  title: Staff Sales Engineer, Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building of voice agent demos,
+      reference agents, and integration patterns spanning LLM
+      orchestration frameworks, tool calling, and function calling
+      — shaping agent behaviour and flows directly for customer
+      evaluations. This is forward-deployed/sales engineering work
+      where the agent architecture is the deliverable, with LLM
+      components involved, so it is ai-first.
+  responsibilities:
+  - Lead discovery, technical qualification, architecture and proofs of concept for
+    Voice Agent opportunities, owning the technical win from first call through production
+  - Act as the technical expert on voice agent deals, covering latency, turn-taking,
+    interruption handling, function calling, and cost per minute
+  - Ship demos, reference agents, and integration patterns across LLMs, telephony/SIP,
+    CCaaS platforms, and orchestration frameworks
+  - Carry a quota tied to Voice Agent growth and manage pipeline and forecast
+  - Create positioning, competitive battlecards, objection handling, and enablement
+    material for Account Executives
+  - Translate field patterns into product requirements for API, SDKs, and docs
+  - Partner with CCaaS, telephony, and LLM partners on joint solutions and co-sell
+    plays
+  use_cases:
+  - Production-grade voice agents for contact centers, healthcare, financial services,
+    and consumer brands
+  - Real-time speech-to-text and text-to-speech via cloud APIs
+  - Voice agent integration with telephony stacks (SIP, PBX, CCaaS)
+  - LLM orchestration with tool calling and real-time streaming pipelines for automated
+    phone conversations
+  skills:
+    genai: [AI Agents, LLMs, Function Calling, Agentic Workflows, MCP]
+    ml: [Speech-to-Text, Text-to-Speech]
+    web: [WebRTC, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [SIP, Telephony, CCaaS, Sales Engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11776938'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:10:54.381500'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

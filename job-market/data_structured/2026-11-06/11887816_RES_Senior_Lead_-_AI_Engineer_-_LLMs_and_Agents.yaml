@@ -1,0 +1,60 @@
+company:
+  name: RES
+  stage: null
+  focus: Renewable energy generation and zero-carbon power
+position:
+  title: Senior Lead - AI Engineer - LLM's and Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and runs LLM/RAG services, agents
+      and multi-agent workflows, including evaluation, prompt-
+      injection defences, and LLM orchestration standards -
+      clearly shaping LLM behaviour, so ai-first.
+  responsibilities:
+  - Design, code and deploy LLM and RAG services, agents and multi-agent workflows
+    from prototype to production
+  - Set up automated evaluation, testing for non-deterministic outputs and quality
+    gates before release
+  - Define reference designs and reusable patterns for generative AI, agents and retrieval
+  - Work with data modellers and engineers so enterprise data is structured for AI
+    agents to search and reason over
+  - Set coding standards for Python and LLM orchestration, review code and build reusable
+    repositories
+  - Design for efficient token use, semantic caching and compute cost control
+  - Build RBAC, data privacy and prompt-injection defences into agents with Cyber
+    Security and Governance
+  - Evaluate and prototype emerging AI technologies such as MCP servers, vector databases
+    and knowledge graphs
+  - Coach team members and graduates on AI engineering and advise stakeholders on
+    AI options
+  use_cases:
+  - Agents answering questions over finance, construction and project data in Microsoft
+    Fabric
+  - Document AI for contracts, project documents and reports
+  - AI assistants built into Power BI reporting and business workflows
+  - AI agents supporting business decisions across renewable energy projects
+  skills:
+    genai: [RAG, LLMs, AI Agents, Agentic Workflows, LangGraph, LangChain, Semantic
+        Kernel, AutoGen, MCP, Guardrails, LLM Evaluation, Generative AI, Semantic
+        Search]
+    ml: [Machine Learning]
+    web: [REST APIs]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: [Databricks]
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure]
+    ops: [CI/CD, MLOps, Model Deployment, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Microsoft Fabric, Power BI, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887816'
+  location: Glasgow, GBR
+  locations:
+  - Glasgow, GBR
+  - Kings Langley, GBR
+  extracted_at: '2026-11-06T13:39:28.676302'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

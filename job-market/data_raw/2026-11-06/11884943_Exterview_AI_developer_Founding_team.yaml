@@ -1,0 +1,274 @@
+job_id: 11884943
+title: AI developer (Founding team)
+company: Exterview
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  Role Overview
+
+  You will be the intelligence architect of Exterview. As an
+  AI Engineer, you’ll design, implement, and optimize the
+  multi-agent orchestration system that powers AI-driven
+  candidate screening, interview agents, scoring agents, and
+  feedback agents.
+
+  This is applied AI at scale: integrating Azure OpenAI
+  models, Cognitive Services, Pub/Sub messaging, and Neo4j
+  graphs into a production-grade talent intelligence platform.
+  You’ll work closely with Backend, Prompt Engineering, and
+  Frontend teams to ensure AI capabilities feel seamless,
+  fast, and trustworthy for enterprises managing thousands of
+  interviews concurrently.
+
+  Execution is tracked via Linear (tasks), Notion (PRDs and
+  experiments), and GitHub (code reviews), ensuring the AI
+  system’s evolution is transparent and collaborative.
+
+  Key ResponsibilitiesMulti-Agent Orchestration
+
+  - Implement candidate-facing agents and sub-agents
+    (ScreeningAgent, InterviewAgent, FeedbackAgent) using a
+    modular, production-ready framework.
+  - Ensure reliability, fault-tolerance, and asynchronous
+    coordination across agents.
+
+  Model Integration
+
+  - Integrate Azure OpenAI models, Cognitive Services (Text,
+    Vision, Speech), and other Azure AI APIs for multimodal
+    reasoning (text, voice, video).
+  - Optimize hybrid model selection for performance vs. accuracy
+    tradeoffs.
+
+  Communication Protocols
+
+  - Design and maintain Agent-to-Agent (A2A) communication via
+    Azure Service Bus / Event Grid.
+  - Guarantee low-latency, asynchronous messaging for real-time
+    interview and scoring flows.
+
+  Context & Memory Systems
+
+  - Build working memory in Redis, long-term candidate data in
+    Cosmos DB, and Neo4j-based Candidate Graph to support
+    adaptive interview flows.
+
+  Artifact Generation
+
+  - Collaborate with Prompt Engineers to generate scorecards,
+    skill assessments, interview transcripts, and AI-driven
+    feedback.
+  - Ensure structured outputs usable by both FE dashboards and
+    analytics modules.
+
+  Evaluation & Guardrails
+
+  - Build evaluation pipelines to test prompt stability, reduce
+    hallucinations, and monitor model drift using LangSmith /
+    Langfuse or internal Azure monitoring tools.
+
+  RAG & Knowledge Integration
+
+  - Integrate retrieval-augmented generation (RAG) pipelines
+    with candidate profiles, GitHub repos, and job-related
+    documentation for contextualized insights.
+
+  Adaptive Learning Loops
+
+  - Implement performance-tracking and adaptive feedback systems
+    that adjust AI interview and assessment flow based on
+    candidate results.
+
+  Scaling & Optimization
+
+  - Benchmark and optimize model orchestration for concurrent
+    interviews and batch processing of AI-driven assessments.
+
+  Security & Safety
+
+  - Implement guardrails against unsafe generations, prompt
+    injection, and biased outputs.
+  - Ensure compliance with enterprise data privacy standards.
+
+  Cross-Team Collaboration
+
+  - Translate PM requirements into AI system designs, coordinate
+    with Backend for APIs, and FE for real-time outputs.
+  - Maintain shared understanding of agent contracts and
+    orchestration patterns.
+
+  Success Metrics90 Days (Probation):
+
+  - AI InterviewAgent and ScreeningAgent integrated with Azure
+    OpenAI + Service Bus messaging.
+  - Redis working memory and Cosmos DB candidate schema live.
+  - LangSmith evaluation pipeline created with baseline metrics
+    (<15% hallucination rate).
+
+  12 Months:
+
+  - Orchestrate 10+ specialized agents in production.
+  - Reduce end-to-end agent orchestration latency <3s.
+  - Adaptive assessment system live with >40% improvement in
+    candidate evaluation consistency.
+  - AI drift monitoring and guardrails automated in CI/CD
+    pipelines.
+
+  Must-Haves
+
+  - 8–10+ years in applied AI/ML engineering.
+  - Expertise in LLM orchestration frameworks (LangChain,
+    CrewAI, or Azure-native equivalents).
+  - Deep experience with multimodal AI integration (text,
+    speech, vision).
+  - Strong knowledge of messaging/event systems (Azure Service
+    Bus, Event Grid, Kafka).
+  - Proven delivery of AI-first products in production
+    environments.
+
+  Nice-to-Haves
+
+  - Research experience in NLP, RLHF, or agentic AI systems.
+  - Contributions to open-source AI frameworks.
+  - Prior work on enterprise-focused AI products.
+  - Startup or founding engineer experience.
+
+  Tech Stack Visibility
+
+  - Core AI: Azure OpenAI, Cognitive Services (Speech, Vision,
+    Language)
+  - Communication: Azure Service Bus, Event Grid
+  - Memory: Redis (working), Cosmos DB (archival), Neo4j Aura
+    (Candidate Graph)
+  - Evaluation & Prompting: LangSmith, Langfuse, hybrid model
+    router
+  - Infra: Azure Functions / App Service, API Management, GitHub
+    Actions
+  - Tools: Linear (execution), Notion (PRDs/experiments), GitHub
+    (repos)
+
+  Assessment (PoC)AI Hiring System: Full-Stack Multi-Agent
+  AssessmentObjective
+
+  Validate your ability to design and implement a production-
+  ready, AI-driven multi-agent hiring system using a MERN-
+  based UI with Azure cloud orchestration.
+
+  Challenge Overview
+
+  Build an AI Interview System that evaluates candidates for a
+  specific role (e.g. “Frontend Engineer”) using multiple
+  autonomous agents.
+
+  The system should:
+
+  - Take an input like:“Evaluate candidate for Frontend
+    Engineer.”
+  - Orchestrate multiple sub-agents:
+    - ScreeningAgent → generates an initial fit score
+    - InterviewAgent → conducts a simulated technical Q&A
+    - FeedbackAgent → generates a skill-based scorecard and
+      analysis
+  - Store results in:
+    - Cosmos DB (Mongo API)
+    - Candidate Graph (Neo4j)
+  - Communicate between agents using Azure Service Bus.
+  - Include an Adaptive Feedback Loop:
+    - If the overall score is below 60%, regenerate questions or
+      trigger an alternate evaluation.
+  - Include Evaluation & Guardrails:
+    - LangSmith (or equivalent) evaluation pipeline with 20+
+      golden prompts
+    - Guardrails to filter unsafe or hallucinated outputs
+  - Meet performance goals:
+    - End-to-end orchestration: < 3 seconds
+    - Each sub-agent response: < 1.5 seconds
+
+  Functional Requirements1. Multi-Agent Orchestration
+
+  - Agents communicate asynchronously via Azure Service Bus
+    (topics & subscriptions).
+  - Coordinator service aggregates sub-agent results and applies
+    the adaptive loop.
+  - Use structured JSON messages for communication between
+    agents.
+
+  2. Data Persistence
+
+  - Cosmos DB (Mongo API) → store candidate, evaluation, and
+    feedback data.
+  - Neo4j → maintain a relationship graph between candidates,
+    roles, and skills.
+
+  3. MERN UI (Frontend)
+
+  Build a React + Express (Node.js) UI with these views:
+
+  - Dashboard – list of evaluations and their statuses.
+  - New Evaluation Form – start a new evaluation by entering
+    role and candidate info.
+  - Live Orchestration View – show progress of sub-agents
+    (Screening, Interview, Feedback).
+  - Result Report – display scorecards, feedback, and regenerate
+    button for low scores.
+
+  4. Adaptive Feedback Loop
+
+  - If total score < 60%, trigger a second evaluation or re-
+    generate interview questions.
+
+  5. Evaluation & Guardrails
+
+  - Integrate a LangSmith (or equivalent) evaluation pipeline
+    with at least 20 golden prompts.
+  - Guardrails should:
+    - Prevent unsafe or biased outputs.
+    - Filter hallucinated or unverifiable facts.
+    - Enforce output schema compliance.
+
+  Technical Stack
+
+  Frontend: React (TypeScript) + Tailwind CSS Backend:Node.js
+  (Express) + TypeScript Database: Azure Cosmos DB (Mongo API)
+  Graph DB: Neo4j Messaging: Azure Service Bus LLMs Azure:
+  OpenAI or OpenAI API (mock/local acceptable) Evaluation
+  :LangSmith (or mock evaluator) CI/CD: GitHub Actions
+  Hosting: Azure (optional for PoC)
+
+   Performance Targets
+
+  MetricTargetEnd-to-End Orchestration< 3 secondsSub-Agent
+  Response< 1.5 seconds eachEvaluation Accuracy≥ 85% vs golden
+  promptsHallucination Rate< 5%CI/CD Build< 2 minutes
+
+  Deliverables
+
+  You are expected to submit the following items:
+
+  - Complete codebase:
+    - Frontend (React)
+    - Backend (Express/Node)
+    - Agent services (Screening, Interview, Feedback)
+  - Database schemas:
+    - Cosmos DB document examples
+    - Neo4j Cypher schema
+  - Evaluation report:
+    - Accuracy, latency, hallucination rate
+  - Guardrail implementation:
+    - With example of filtered unsafe output
+  - CI/CD Pipeline:
+    - GitHub Actions for build, lint, test, deploy
+  - Demo video (Loom):
+    - ≤ 5 minutes walkthrough of architecture and demo run
+  - Documentation:
+    - Setup & run instructions
+    - Architecture diagram
+    - System flow summary
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-developer-founding-team/11884943"
+source: Built In

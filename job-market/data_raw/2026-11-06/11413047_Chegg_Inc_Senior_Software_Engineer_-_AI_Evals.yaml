@@ -1,0 +1,217 @@
+job_id: 11413047
+title: Senior Software Engineer - AI Evals
+company: Chegg, Inc.
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 10,387 Employees
+description: |
+  Job Description
+
+  About the Role
+
+  Chegg is building the next generation AI Evaluation Platform
+  to keep improving learner experience across product and
+  services from copilots to autonomous agents.  As we scale
+  our use of large language models and agentic systems, the
+  quality, safety, and reliability of these systems depend on
+  rigorous, well-designed evaluations. We're hiring a Senior
+  Engineer to own the design and implementation of evaluation
+  frameworks ("evals") that measure model and agent
+  performance across accuracy, reasoning, safety, and
+  pedagogical quality — and that directly inform how we train,
+  fine-tune, and ship AI systems.
+
+  This is a high-leverage, cross-functional role sitting at
+  the intersection of ML research, data engineering, and
+  product. You'll own evaluation solutions end-to-end — from
+  framework design through deployment and production
+  monitoring — partnering closely with ML researchers, applied
+  scientists, and product teams to define what "good" looks
+  like for models and agents and turn measurements into
+  actionable outcomes.
+
+  What You'll Do
+
+  - Own evaluation solutions end-to-end: design the methodology,
+    build the pipeline and tooling, deploy it into training
+    and production workflows, and maintain/iterate on it over
+    time — with minimal hand-off to other teams.
+
+  - Design and build evaluation frameworks and harnesses for
+    LLMs and multi-step AI agents, covering offline
+    benchmarks, online/production evals, and human-in-the-loop
+    review.
+
+  - Define rubrics and scoring methodologies for open-ended
+    tasks (e.g., tutoring quality, step-by-step reasoning,
+    citation accuracy) where correctness isn't binary.
+
+  - Build automated, model-graded (LLM-as-judge) and rule-based
+    evaluators, and validate them against human judgment for
+    reliability and bias.
+
+  - Develop agent-specific evaluations: tool-use correctness,
+    multi-turn task completion, planning/trajectory quality,
+    failure recovery, and cost/latency tradeoffs.
+
+  - Create golden datasets, adversarial test sets, and
+    regression suites that catch quality and safety
+    regressions before they reach production.
+
+  - Partner with research teams to translate eval results into
+    training signal — informing SFT/RLHF/RLAIF data curation,
+    reward modeling, and fine-tuning priorities.
+
+  - Instrument production systems to collect real-world
+    interaction data and feed it back into the evaluation and
+    training loop.
+
+  - Build dashboards and reporting that give researchers, PMs,
+    and leadership a clear, trustworthy view of model quality
+    trends across releases.
+
+  - Drive eval methodology rigor: statistical significance,
+    inter-rater reliability, sampling strategy, and avoiding
+    metric gaming or overfitting to benchmarks.
+
+  - Collaborate with Trust & Safety and Legal/Compliance
+    stakeholders to build evals for bias, hallucination,
+    academic integrity, and other responsible-AI dimensions
+    relevant to an education product.
+
+  - Mentor other engineers on eval best practices and help
+    establish evaluation as a first-class part of the model
+    development lifecycle.
+
+  What We're Looking For
+
+  - 5+ years of software/ML engineering experience, including
+    hands-on work building or maintaining evaluation, testing,
+    or measurement infrastructure for ML systems.
+
+  - Direct experience with foundation model evaluation and
+    benchmarking beyond using APIs — experience gained at a
+    foundation model lab or similarly frontier research
+    environment is strongly preferred.
+
+  - Demonstrated ability to own an evaluation solution end-to-
+    end — from initial design and dataset/methodology creation
+    through pipeline build, deployment, and production
+    monitoring — with minimal hand-off.
+
+  - Direct experience designing evals for LLMs and/or AI agents
+    — e.g., benchmark design, LLM-as-judge pipelines, human
+    annotation platforms, or A/B and offline/online eval
+    frameworks.
+
+  - Strong programming skills in Python, PyTorch / Tensorflow
+    and experience building production-grade data/ML
+    pipelines.
+
+  - Hands-on knowledge of key model training and evaluation
+    platforms, particularly AWS (e.g., SageMaker, Bedrock) and
+    Databricks (e.g., MLflow, Unity Catalog, Delta Lake).
+
+  - Solid grounding in applied statistics — comfortable
+    reasoning about sample size, variance, significance
+    testing, and the limitations of aggregate metrics.
+
+  - Working knowledge of how LLMs are trained and adapted
+    (pretraining, SFT, RLHF/RLAIF/DPO) and how eval signal
+    feeds into that lifecycle.
+
+  - Experience with agentic architectures — tool calling, multi-
+    step planning, memory, orchestration frameworks — and the
+    unique evaluation challenges they introduce.
+
+  - Familiarity with eval and observability tooling (e.g.,
+    internal or open-source frameworks for tracing, dataset
+    versioning, experiment tracking).
+
+  - Excellent cross-functional collaboration skills; able to
+    translate ambiguous product/research questions into
+    concrete, measurable eval criteria.
+
+  - A bias toward rigor and skepticism — you instinctively
+    question whether a metric is actually measuring what it
+    claims to.
+
+  Bonus Points
+
+  We prioritize candidates with direct experience in the
+  following areas:
+
+  - Post-training & evals: hands-on experience with post-
+    training techniques (SFT, RLHF, RLAIF, DPO) and the
+    evaluation methodologies used to validate them, ideally
+    gained at a frontier model labs
+
+  - Model benchmarking: experience building, running, or
+    maintaining benchmark suites used to track and compare
+    frontier model capabilities across training runs and
+    releases.
+
+  - Data quality: experience with the data quality side of model
+    training — curation, filtering, deduplication, and quality
+    scoring of pretraining and post-training datasets.
+
+  Why Chegg
+
+  You'll shape how Chegg measures and improves the AI systems
+  millions of students rely on — with direct influence on
+  model training decisions, product quality, and responsible
+  AI practices. This role offers high visibility across
+  research, engineering, and product leadership, and the
+  opportunity to help define evaluation as a discipline within
+  the company's AI strategy.
+
+  Compensation & Benefits
+
+  Salary range and benefits will be shared per Chegg's
+  compensation bands and the candidate's location, in
+  accordance with applicable pay transparency requirements.
+
+  Chegg is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+
+  Why do we exist?
+
+  Students are working harder than ever before to stabilize
+  their future. Our recent research study called State of the
+  Student shows that nearly 3 out of 4 students are working to
+  support themselves through college and 1 in 3 students feel
+  pressure to spend more than they can afford. We founded our
+  business on provided affordable textbook rental options to
+  address these issues. Since then, we’ve expanded our
+  offerings to supplement many facets of higher educational
+  learning through Chegg Study, Chegg Math, Chegg Writing,
+  Chegg Internships, Chegg Skills, and more to support
+  students beyond their college experience. These offerings
+  lower financial concerns for students by modernizing their
+  learning experience. We exist so students everywhere have a
+  smarter, faster, more affordable way to student.
+
+  Video Shorts
+
+  Life at Chegg: http://youtu.be/Fwf90zgaOLA
+
+  Chegg Corporate Career Page: https://jobs.chegg.com/
+
+  Chegg India: http://www.cheggindia.com/
+
+  Chegg Israel: http://www.chegg.com/about/working-at-
+  chegg/israel/
+
+  Chegg Skills:  https://www.chegg.com/skills
+
+
+  Chegg out our culture and benefits!
+
+  http://www.chegg.com/about/working-at-chegg/benefits/
+
+  Chegg is an equal opportunity employer
+posted_date: 2026-09-29
+url: "https://builtin.com/job/senior-software-engineer-ai-evals/11413047"
+source: Built In

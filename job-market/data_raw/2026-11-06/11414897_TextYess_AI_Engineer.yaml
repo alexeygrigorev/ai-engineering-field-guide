@@ -1,0 +1,158 @@
+job_id: 11414897
+title: AI Engineer
+company: TextYess
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  Ciao, we're TextYess 👋
+
+  We're the AI-first CRM that turns conversations into
+  revenue. On-site, WhatsApp, email, voice: our AI Agents
+  sell, support, and retain customers for the best B2C brands
+  out there, autonomously.
+
+  We believe the future of commerce is warmer, more human than
+  ever - just at a scale no human team could pull off alone.
+
+  We've raised €7M+ and work with brands like Ducati,
+  Pittarosso, MC2 Saint Barth, and Doppelgänger. We're a lean,
+  fast, Italian-born scale-up now expanding our story
+  internationally and this role is a big part of writing it.
+
+
+
+
+
+  The role
+
+  Join our AI team to build the agentic runtime for proactive
+  agents: context building, tool/retrieval orchestration,
+  scoring, and guardrails. You’ll own production components
+  from day one and work directly on the “signal vs. noise”
+  call.
+
+
+
+
+
+  What you'll actually be doing
+
+  - Grounding. The agent sometimes says a product is unavailable
+    when it's in stock. Fixing that is a retrieval problem, a
+    prompt problem, and an eval problem at the same time.
+  - Exact match vs. semantic. Semantic search is good at "warm
+    jacket for winter" and bad at a SKU, a size, or a specific
+    variant. We need both, in one ranking.
+  - Multilingual quality. Our customers write in Italian,
+    English, and more. An agent that answers in the wrong
+    language is worse than one that says nothing.
+  - Latency and cost. A customer is waiting on their phone.
+    You'll profile requests, test prompt and model changes,
+    and ship improvements you can point at on a graph.
+  - Evals that catch problems before customers do. Every
+    conversation has a Langfuse trace, and we have a golden-
+    dataset harness. Making it actually predict production
+    quality is open work.
+  - Deciding what's worth saying. Ranking, scoring, and
+    suppressing proactive insights so the agent interrupts a
+    customer only when it has earned it.
+
+
+
+
+
+  What you bring
+
+  - 2+ years shipping software professionally, including at
+    least one LLM feature real users touched — a chatbot, a
+    RAG system, an agent. Not a weekend project.
+  - You know how RAG actually behaves: embeddings, vector
+    search, chunking, reranking, and where each one breaks.
+  - You can read traces. Given a bad answer in production, you
+    can find why: retrieval missed, the prompt was wrong, the
+    model picked the wrong tool. Langfuse, LangSmith,
+    Braintrust, Arize, Humanloop — any of them.
+  - Strong Python and backend fundamentals, and the instinct to
+    measure latency, cost and quality instead of guessing.
+  - Nice to have: search infra (Elastic, Algolia, Qdrant,
+    Weaviate), fine-tuning, graph search, you know how
+    e-commerce operate.
+
+
+
+
+
+  Why TextYess
+
+  - Real ownership, from day one. No layers, no waiting your
+    turn: you'll own outcomes, not just tasks.
+  - Lean team, big impact. You'll work shoulder-to-shoulder with
+    top-notch international talent, ready to disrupt and leave
+    a mark.
+  - Build, don't maintain. We're early enough that most of what
+    you touch doesn't have a playbook yet, you get to write
+    it.
+  - Grow as fast as you push. Roles and responsibilities scale
+    with what you prove you can do, not with tenure.
+  - A team that actually likes each other. We're a dynamic,
+    close-knit crew that moves fast, laughs a lot, and has
+    each other's backs.
+
+
+
+  Our hiring process
+
+  We keep it real and reasonably fast:
+
+  - Screening call, let's just talk. Communication, fit, the
+    basics.
+  - Interview + live case study, Let’s deepdive into
+    technicalities of the role.
+  - Founder & Team conversations, here you meet the people you'd
+    actually work with.
+  - Debrief, reference check, and decision. We move quickly once
+    we're there.
+
+  Sounds like you? If you want to own something real from day
+  one and help write the UK growth story, we want to meet you!
+
+  TextYess is an equal opportunity employer. We welcome
+  applicants of all backgrounds and experiences.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Software
+  - Conversational AI
+posted_date: 2026-09-29
+url: "https://builtin.com/job/ai-engineer/11414897"
+source: Built In

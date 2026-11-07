@@ -1,0 +1,64 @@
+company:
+  name: Life360
+  stage: null
+  focus: Family location sharing and safety mobile app
+position:
+  title: Senior Software Engineer II, Mobile (Android), Revenue Experimentation (AI
+    Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The deliverable is Android monetization experiments and
+      mobile app quality; AI (Claude Code, agents, Copilot) is
+      used as a developer workflow tool to write, test, and review
+      code, which the rules classify as ai-support. The role does
+      not shape any LLM's behaviour as a product — no prompt-
+      driven model output or RAG/eval system is shipped. "Prompt
+      engineering, evaluating and building with LLMs" refers to
+      using coding assistants, not to shaping model output
+      quality.
+  responsibilities:
+  - Design and build Android growth and monetization experiments including subscription
+    paywalls, pricing tests, ad placement, IAP flows, and upsell surfaces
+  - Partner with product, design, data science, and analytics to translate hypotheses
+    into shippable experiments
+  - Use AI coding agents (Claude Code or equivalent) as a primary workflow for specs,
+    code generation, testing, and review
+  - Instrument experiments with accurate exposure logging and analytics
+  - Ship performant, reliable Android experiences with attention to startup time,
+    memory, battery, ANR, and crash-free rates
+  - Own staged rollouts end-to-end including ramping, monitoring guardrails, and rollback
+    decisions
+  - Define and codify AI-native Android engineering practices and playbooks
+  - Mentor engineers, contribute to architecture decisions, code reviews, and on-call
+    rotation
+  use_cases:
+  - Subscription paywalls and pricing experiments
+  - Ad placement and mediation optimization
+  - One-time purchase (IAP) and upsell/upgrade flows
+  - A/B testing and staged rollout infrastructure for monetization
+  - Mobile performance and reliability for tens of millions of users
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, Context Engineering, MCP, Function
+        Calling, LLMs, Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [React]
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: []
+    ops: [CI/CD, GitHub Actions]
+    languages: [Kotlin, Swift, Java]
+    domains: []
+    other: [Android, Jetpack Compose, Android Studio, Kotlin Coroutines, MVVM, MVI,
+      Clean Architecture, Hilt, Dagger, A/B Testing, Feature Flagging, Gradle, Fastlane,
+      Bitrise, Perfetto, Macrobenchmark, Crashlytics, Statsig, LaunchDarkly, Optimizely,
+      Eppo, GrowthBook, Amplitude, Segment, Bayesian Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11682050'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:35:19.720754'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

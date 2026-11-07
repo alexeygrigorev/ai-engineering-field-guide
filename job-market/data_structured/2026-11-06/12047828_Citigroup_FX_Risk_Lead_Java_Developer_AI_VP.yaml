@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: FX Risk Lead Java Developer + AI (VP)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is building and supporting a real-time FX risk
+      Java platform; AI tools (Copilot, Devin, Stylus) are used to
+      accelerate coding, not to shape model behaviour as the
+      product. The person never designs prompts/RAG/agents as
+      deliverables beyond using AI assistants, so this is ai-
+      support.
+  responsibilities:
+  - Lead end-to-end delivery of high-performance Java applications for FX risk management
+    across global markets
+  - Architect scalable, low-latency solutions processing real-time risk data with
+    resilience and security
+  - Drive technical direction, system design decisions, and engineering standards
+    across the team
+  - Translate business requirements into robust code working with quantitative analysts,
+    traders, and stakeholders
+  - Leverage AI-powered coding tools such as GitHub Copilot and Devin.AI to accelerate
+    delivery
+  - Participate in cross-team code reviews with AI-assisted reviewers and own code
+    quality
+  - Own L3 production support, provide resolutions, and deliver root-cause remediation
+  - Support testing cycles and weekly release deployments using TDD practices
+  use_cases:
+  - Real-time FX risk management for global markets
+  - Low-latency processing of real-time risk data at enterprise scale
+  - Event streaming and messaging for risk data pipelines
+  - Greenfield FX risk platform with weekly production releases
+  skills:
+    languages: [Java]
+    domains: []
+    web: []
+    cloud: [AWS, Azure]
+    data: [Kafka, Flink]
+    ml: []
+    databases: [Apache Ignite, MongoDB, SQL, Oracle]
+    genai: [Devin.AI, Prompt Engineering, Generative AI, LLMs]
+    ops: [JVM, Linux, GitHub Copilot, CI/CD, Docker, Kubernetes, OpenShift, Harness,
+      GitHub]
+    other: [Multithreading, Distributed Systems, In-Memory Computing, Solace, Test-Driven
+        Development, Jira, Agile, TDD, FX Products]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12047828'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:39:07.288041'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

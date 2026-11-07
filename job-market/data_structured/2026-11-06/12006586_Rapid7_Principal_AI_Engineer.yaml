@@ -1,0 +1,55 @@
+company:
+  name: Rapid7
+  stage: null
+  focus: 'Cybersecurity: detection, response, and exposure management'
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: fine-tuning,
+      distillation, post-training, context engineering, inference
+      optimization, and eval design for LLM and agentic systems.
+      LLM/agent components are central, so ai-first. Mentoring
+      without direct reports means not management.
+  responsibilities:
+  - Define the architecture and technical roadmap for LLM and agentic AI systems across
+    security products
+  - 'Lead model strategy: choosing frontier vs open-source models, and when to fine-tune,
+    distill, or post-train'
+  - Fine-tune, distill and post-train open-source LLMs on security data from curation
+    through deployment
+  - Set engineering standards for context engineering, inference optimization, and
+    evaluation
+  - Optimize LLM inference at scale (speculative decoding, KV-cache, batching, quantization,
+    custom kernels)
+  - Establish evals as the release gate for every shipped AI system
+  - Prototype and build critical model, training, and inference code hands-on
+  - Mentor Staff and Senior engineers and shape product and platform investments
+  use_cases:
+  - Alert triage for detection and response
+  - Threat investigation and automated response
+  - Vulnerability prioritization and guided remediation
+  - Attack surface risk assessment
+  - AI-powered security platform for threat detection and exposure management
+  skills:
+    genai: [LLMs, Agentic Workflows, Context Engineering, Prompt Engineering, Fine-Tuning,
+      LoRA, RLHF, LLM Evaluation]
+    ml: [PyTorch, Fine-Tuning, Machine Learning, Quantization, Model Training, Neural
+        Networks, CUDA, Distributed Training, Distillation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [vLLM, TensorRT, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Cybersecurity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12006586'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:26:28.750792'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

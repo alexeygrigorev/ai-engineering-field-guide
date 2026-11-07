@@ -1,0 +1,45 @@
+company:
+  name: APTIV
+  stage: null
+  focus: |-
+    Automotive safety, electrification, and connectivity
+    solutions
+position:
+  title: Cloud Engineer (AWS & AI/ML Infrastructure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and runs AWS/Kubernetes/GPU infrastructure
+      that serves ML workloads; there is no prompt work, retrieval
+      design, training, or output-quality shaping. Serving and
+      scaling models others build is ai-support.
+  responsibilities:
+  - Build and manage AWS cloud infrastructure with automation via IaC
+  - Administer Kubernetes clusters, nodes, and networking
+  - Manage Linux systems administration
+  - Manage GPU infrastructure and optimize workloads
+  - Monitor, observe, and troubleshoot infrastructure
+  - Build scalable infrastructure for ML workloads, MLOps, and Data Engineering platforms
+  use_cases:
+  - Scalable cloud infrastructure for ML workloads
+  - MLOps platform infrastructure
+  - GPU-based ML workload infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS]
+    ops: [Kubernetes, Infrastructure as Code, Linux, Monitoring, Observability, MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10563280'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T11:20:34.163258'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

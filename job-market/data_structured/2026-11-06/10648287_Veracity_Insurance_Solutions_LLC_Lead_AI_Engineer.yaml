@@ -1,0 +1,57 @@
+company:
+  name: Veracity Insurance Solutions, LLC
+  stage: null
+  focus: Independent insurance provider for small businesses
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role establishes LLMOps practices, evaluation suites,
+      guardrails, prompt versioning, and architects LLM/agentic
+      systems directly, which is shaping model behavior and output
+      quality. LLMs and agentic systems are central, so it is ai-
+      first.
+  responsibilities:
+  - Define the AI engineering roadmap and architecture standards across the organization
+  - Lead build vs. buy vs. integrate decisions for AI systems and platforms
+  - Evaluate emerging AI tools, frameworks, and models and provide recommendations
+    to leadership
+  - Architect AI solutions for the enterprise insurance platform, designing for scale,
+    reliability, and cost-efficiency
+  - 'Establish LLMOps practices: evaluation and regression suites, cost and quality
+    observability, versioned prompts with staged rollout/rollback, and production
+    guardrails'
+  - Define standards for responsible AI development including guardrails, evaluation
+    frameworks, and security
+  - Champion AI-assisted coding practices and developer tooling across engineering
+  - Partner with Product and Engineering leadership to align AI capabilities with
+    business outcomes and communicate decisions to executives
+  use_cases:
+  - Coverage recommendations for small business insurance customers
+  - AI agents researching and purchasing insurance on behalf of human customers
+  - Customer-facing digital insurance platform
+  - Production LLM-powered features with evaluation and guardrails
+  - Responsible AI development with deterministic, auditable policy binding and compliance
+    flows
+  skills:
+    genai: [LLMs, AI Agents, LangChain, LlamaIndex, Vector Databases, RAG, Semantic
+        Search, LLM Evaluation, Guardrails]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLMOps, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10648287'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:21:04.173506'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

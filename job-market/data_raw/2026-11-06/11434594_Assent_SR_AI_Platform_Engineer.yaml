@@ -1,0 +1,233 @@
+job_id: 11434594
+title: SR AI Platform Engineer
+company: Assent
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 941 Employees
+description: |
+  Company Description
+
+  Assent empowers manufacturers and distributors with the
+  intelligence to build sustainable products, meet global
+  compliance requirements and drive better business outcomes.
+
+  At the center of our offering is the Assent Network, the
+  industry’s most complete Product Intelligence Network,
+  bringing together trusted parts and supplier intelligence,
+  advanced AI and deep regulatory expertise to help
+  organizations identify risk, make informed decisions and
+  stay ahead of evolving requirements.
+
+  Trusted by more than 1,000 customers worldwide, Assent helps
+  organizations stay ahead of evolving regulations across
+  areas including responsible sourcing, human rights due
+  diligence, PFAS reporting, Digital Product Passports, and
+  other emerging requirements. Our platform empowers
+  manufacturers to navigate change with confidence while
+  building stronger supplier relationships and driving
+  measurable business value.
+
+  With more than 1000 team members across India, North
+  America, Malaysia, the European Union, and Kenya, Assent
+  brings together global expertise, diverse perspectives, and
+  a shared commitment to innovation. Our hybrid work model
+  enables teams to collaborate across regions while staying
+  connected to the communities where they live and work. As a
+  certified B Corporation, we meet rigorous standards of
+  social and environmental performance, transparency, and
+  accountability, reflecting our commitment to creating
+  lasting value for our customers, our people, and the planet.
+
+  People First. Technology Forward.
+
+  Our commitment to People, Culture & Community (PCC) is
+  rooted in building a diverse, inclusive, and high-performing
+  team. We recruit and retain team members with a range of
+  backgrounds, experiences, and perspectives, while fostering
+  a culture of belonging where all Assentees are respected,
+  supported, and empowered to contribute.
+
+  As we continue to embed AI into how we work, we do so
+  thoughtfully, enhancing human potential, supporting better
+  decision-making, and prioritizing appropriate oversight,
+  privacy, and fairness.
+
+  At Assent, we value your privacy and are committed to
+  maintaining transparency in how we handle your personal
+  information. As part of our talent acquisition and
+  management processes, we may use AI technologies to support
+  activities such as resume screening, candidate
+  communication, and talent analytics.
+
+  Job Description
+
+  Position Summary
+
+  Assent is building a governed platform that turns AI use
+  cases into production-ready services — usable by technical
+  and non-technical builders alike. You'll build the self-
+  serve builder experience at the heart of that platform:
+  templated build options that let someone pick “a knowledge
+  base agent,” “an internal connector,” or “an Okta-gated web
+  app” and have the platform generate the scaffolding, wire up
+  the deployment pipeline, and enforce security and cost
+  patterns automatically — without them touching Terraform,
+  CI/CD, or a login flow themselves.
+
+  This is an infrastructure and platform engineering role with
+  a product mindset: your “customers” are the other builders —
+  engineers and business champions alike — who ship through
+  what you build. You'll spend your time expanding the catalog
+  of self-service build patterns, automating the scaffolding
+  behind each one, and hardening the connector, auth, and
+  cost-tracking primitives every pattern depends on.
+
+  Key Requirements & Responsibilities
+
+  Responsibilities include:
+
+  - Design, build, and expand the self-serve build patterns
+    builders pick from — a knowledge base agent, an internal
+    or external connector, an Okta-gated web app, a workflow
+    automation — each backed by automated scaffolding rather
+    than a one-off manual build.
+  - Turn proven, one-off deployment patterns into repeatable,
+    templated build options: automate the repo scaffolding,
+    CI/CD wiring, and infrastructure provisioning behind each
+    one so a builder can go from “I want to build X” to a
+    working deployment without hand-rolling any of it.
+  - Own and evolve the core deployment pipeline underneath every
+    pattern: containerized apps on AWS ECS Fargate behind an
+    Application Load Balancer, with SSO enforced at the
+    listener so no pattern — and no builder — has to implement
+    their own login.
+  - Write and maintain Infrastructure-as-Code (Terraform) for
+    compute, networking, and IAM, kept strictly separate from
+    application code so infra changes stay reviewable and
+    auditable on their own.
+  - Design and harden connector and integration patterns —
+    including MCP-style server patterns — so a builder can
+    request a connection to an internal or vendor system and
+    get one that's already scoped, OAuth-secured, and deny-by-
+    default, rather than building auth from scratch each time.
+  - Bake mandatory logging, metering, and cost-tracking into
+    every pattern and every service the catalog provisions, so
+    cost visibility and governance are automatic rather than
+    something each builder has to remember.
+  - Partner with cloud operations on anything account- or
+    network-level (load balancer rules, security groups, IAM
+    roles, DNS, container registries), and keep pattern
+    development moving while that work is in flight.
+  - Review and harden what other builders ship against these
+    patterns before it reaches production — you're a
+    checkpoint for security and reliability, not just a
+    pattern author.
+
+  Qualifications
+
+  Your Knowledge, Skills and Abilities
+
+  We strongly value your talent, energy and passion. It will
+  also be valuable to Assent if you have the following
+  qualifications
+
+  Required
+
+  - 5+ years of software engineering experience, with meaningful
+    hands-on time in cloud infrastructure and platform
+    engineering — not just consuming a platform someone else
+    built.
+  - Strong experience with AWS container services (ECS/Fargate
+    or equivalent), load balancers, and IAM — you've run
+    production services, not just deployed a demo.
+  - Production experience with Terraform or another mainstream
+    IaC tool, including keeping infrastructure and application
+    code in cleanly separated repositories.
+  - Experience implementing SSO/OIDC at the infrastructure layer
+    (Okta, Auth0, or equivalent) so individual applications
+    don't own their own auth.
+  - Strong Python scripting ability — comfortable writing
+    automation, tooling, and operational scripts, and
+    reviewing application code.
+  - Working knowledge of Docker — image builds, multi-stage
+    builds, and registry management — as the packaging layer
+    underneath ECS deployments.
+  - Experience with CloudWatch (or equivalent) for logging,
+    metrics, and alerting, since the role owns building
+    metering and cost-tracking hooks into every service.
+  - Working knowledge of API integration patterns and OAuth
+    scoping — you understand the difference between declaring
+    a security constraint and actually enforcing it at
+    runtime.
+  - Comfort operating in a fast-moving environment where the
+    pattern library is still being written, not just followed.
+
+  Strong plusses
+
+  - AWS certification (Solutions Architect, DevOps Engineer, or
+    equivalent) demonstrating depth beyond day-to-day tooling
+    familiarity.
+  - Familiarity with MCP (Model Context Protocol) or similar
+    agent-to-tool connectivity standards.
+  - Experience building or operating a cost-metering / FinOps
+    layer for cloud services.
+  - Experience as a platform or DevOps engineer supporting other
+    engineering teams — you think in terms of paved roads and
+    self-service, not one-off builds.
+  - Exposure to LLM-powered or agentic systems, even if your own
+    hands-on work has been on the infrastructure side rather
+    than the agent logic.
+
+  Additional Information
+
+  Life at Assent
+
+  Wellness: We believe that you and your family’s well being
+  is important. As a result, we offer vacation time that
+  increases with tenure, comprehensive benefits packages
+  (details vary by country), life leave days and more.
+
+  Financial Benefits: It’s not all about the money – well,
+  it’s a little about the money. We understand that financial
+  health is important and we offer a competitive base salary,
+  a corporate bonus program, retirement savings options and
+  more.
+
+  Life at Assent: There is purpose beyond your work. We
+  provide our team members with flexible work options,
+  volunteer days and opportunities to get involved in
+  corporate giving initiatives.
+
+  Lifelong Learning: At Assent, curiosity is not only valued
+  but encouraged. You will receive professional development
+  days that are available to you the day you start.
+
+  At Assent, we are committed to growing and sustaining an
+  environment where our team members feel included, valued,
+  and heard. Our diversity and equal opportunity practices are
+  guided and championed by our Diversity and Inclusion Working
+  Group and our Employee Resource Groups (ERGs).
+
+  Our commitment to diversity, equity and inclusion includes
+  recruiting and retaining team members from diverse
+  backgrounds and experiences, and fostering a culture of
+  belonging where all team members are included, treated with
+  dignity and respect, promoted on their merits, and placed in
+  positions to contribute to business success.
+
+  If you require assistance or accommodation throughout any
+  part of the interview and selection process, please contact
+  talent@assent.com and we will be happy to help.
+
+  We use AI to support parts of our recruitment process, such
+  as note-taking and initial shortlisting based on job-related
+  qualifications. AI does not make hiring decisions. All
+  candidates will speak with a real person, and final
+  decisions are always made by our recruitment team.
+industries:
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-09-30
+url: "https://builtin.com/job/sr-ai-platform-engineer/11434594"
+source: Built In

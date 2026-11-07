@@ -1,0 +1,50 @@
+company:
+  name: Instructure
+  stage: null
+  focus: EdTech learning and personal development software
+position:
+  title: AI Engineer, Marketing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role writes, tests, and versions prompts, monitors and
+      tunes LLM outputs, and fixes drift for LLM-powered marketing
+      tools, which is shaping model behavior. LLMs (Claude,
+      Gemini) are central, so ai-first.
+  responsibilities:
+  - Build and maintain production AI tools for marketing teams
+  - Write, test, iterate, and version prompts across LLM-powered applications
+  - Integrate AI tools with the marketing tech stack using APIs, webhooks, and automation
+    platforms
+  - 'Own tools after launch: monitor outputs, tune prompts, fix drift, ship improvements'
+  - Write documentation and playbooks and train marketing teams on the tools
+  - Support AI Incubator intake process and evaluate submissions
+  - Keep production tools inside data and brand guardrails
+  - Respond to user issues on live tools and track usage and ROI
+  use_cases:
+  - Marketing content generation
+  - Meeting and SDR prep systems
+  - Case study automation
+  - Localization workflow automation
+  - Workflow integrations across the marketing tech stack
+  skills:
+    genai: [LLMs, Prompt Engineering, Anthropic API, Gemini, Guardrails, Claude Code,
+      Glean, Clay]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub, Railway]
+    languages: [Python]
+    domains: []
+    other: [Zapier, Make, Salesforce, Marketo, Asana, Google Analytics, Drupal]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11816148'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:17:39.318227'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: Berkeley Research Group
+  stage: null
+  focus: Consulting for financial services operations and technology
+position:
+  title: Associate Director AI Product Engineer - Financial Institution Operations
+    & Technology
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI evaluations, scoring rubrics, LLM-as-
+      judge checks, guardrail/red-team tests, and failure
+      investigations for LLM-based banking products (document
+      review, summaries, information search with citations).
+      Judging and shaping model output quality is the core
+      deliverable, making this ai-first.
+  responsibilities:
+  - 'Define evaluation approaches: what each AI product must get right, error impact,
+    and evidence needed before release'
+  - Build reusable automated test software that runs tests, scores results, and compares
+    product versions
+  - Design pass criteria and scoring rules with business and risk teams, distinguishing
+    minor defects from release blockers
+  - Maintain representative test cases including rare high-impact errors and reserved
+    unseen examples for final testing
+  - Verify factual accuracy, citation support, extracted facts, and appropriate escalation
+    to humans
+  - Test for hallucinated facts, unsupported recommendations, sensitive data disclosure,
+    and safeguard bypass attempts
+  - Document repeatable results and recommend release, restricted use, or further
+    development
+  - Sample live outputs, track error rates, and trigger investigation or suspension
+    when quality declines
+  use_cases:
+  - Evaluating accuracy, reliability, and safety of AI products for commercial and
+    consumer banking operations
+  - Document review, summaries, and information search evaluation with citation verification
+  - Red-teaming AI systems for invented facts, unsupported recommendations, and safeguard
+    bypasses
+  - Protecting sensitive client data and verifying access controls and safeguards
+  - Monitoring live AI output quality and error rates in banking operations
+  skills:
+    genai: [LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Automated Testing]
+    languages: [Python]
+    domains: []
+    other: [Banking Operations, Financial Services, Model Risk Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12021912'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:30:45.856664'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

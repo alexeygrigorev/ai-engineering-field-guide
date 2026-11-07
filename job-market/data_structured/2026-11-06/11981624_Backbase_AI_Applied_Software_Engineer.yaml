@@ -1,0 +1,54 @@
+company:
+  name: Backbase
+  stage: null
+  focus: Enterprise digital banking software
+position:
+  title: AI Applied Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a native iOS engineering role building
+      identity/authentication mobile SDKs. AI appears only as an
+      "AI-native mindset" of adopting coding tools (GitHub
+      Copilot, Cursor AI, code generation, test automation) to
+      improve developer productivity — using AI tools, not shaping
+      model behaviour, so it is ai-support.
+  responsibilities:
+  - Design, build, and maintain capabilities for the Backbase Mobile Platform
+  - Build SDKs and libraries for Identity and Authentication in mobile banking applications
+  - Write clean, maintainable Swift code with native Apple frameworks and technologies
+  - Automate testing with XCTest and XCUITest to reach 80%+ unit test coverage, working
+    with QAs
+  - Explore, experiment with, and apply AI tools and agentic frameworks for code generation,
+    test automation, and developer productivity
+  - Encourage AI adoption across engineering workflows and product capabilities
+  - Contribute to all aspects of product development from requirements gathering to
+    implementation, tests, and documentation
+  - Provide product adoption support to colleagues, customers, and partners
+  use_cases:
+  - Identity and authentication journeys for retail, business, and wealth mobile banking
+    apps
+  - AI-assisted code generation, test automation, and developer productivity for iOS
+    development
+  - Mobile banking SDKs and libraries consumed by other developers
+  skills:
+    genai: [GitHub Copilot, Cursor]
+    ml: []
+    web: [GraphQL, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD, Bitrise, GitHub Actions, Jenkins, GitLab CI]
+    languages: [Swift, Objective-C]
+    domains: []
+    other: [SwiftUI, UIKit, Combine, RxSwift, MVVM, VIPER, Clean Architecture, Grand
+        Central Dispatch, async/await, Keychain, Biometrics, XCTest, XCUITest, Swift
+        Package Manager, CocoaPods, A/B Testing, Firebase, Crashlytics, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11981624'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:16:37.186026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

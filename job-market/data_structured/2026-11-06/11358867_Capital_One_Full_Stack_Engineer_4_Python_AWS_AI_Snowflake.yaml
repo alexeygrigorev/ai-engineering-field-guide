@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Financial services and banking technology
+position:
+  title: Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general full-stack software engineering
+      position; no responsibilities involve shaping model
+      behavior, prompts, retrieval, or training. AI appears only
+      as coding assistants and copilots used to accelerate
+      development, which is explicitly ai-support.
+  responsibilities:
+  - Lead a portfolio of diverse technology projects and a team of developers building
+    distributed microservices and full stack systems
+  - Deliver robust cloud-based solutions in collaboration with digital product managers
+  - Build systems supporting regulatory and compliance needs for the company
+  - Utilize multiple programming languages, databases, container orchestration, and
+    AWS services
+  - Provide technical leadership and set standards for design, development, and operational
+    excellence across Agile teams
+  - Partner with architects to define service boundaries, integration patterns, and
+    reusable frameworks
+  - Reduce technical debt through refactoring and performance optimization
+  - Evaluate emerging tools and practices to influence long-term technology strategy
+  use_cases:
+  - Cloud-based financial platforms serving 100+ million customers
+  - Regulatory and compliance technology solutions
+  - Customer experience transformation for financial empowerment
+  skills:
+    genai: []
+    ml: []
+    web: [APIs, Microservices]
+    databases: [NoSQL, Snowflake]
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Git, GitHub, Bitbucket,
+      Observability]
+    languages: [Java, Scala, Python, Go, Node.js, JavaScript, TypeScript, Rust, C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11358867'
+  location: Plano, USA
+  locations:
+  - Plano, USA
+  - McLean, USA
+  - Chicago, USA
+  - Richmond, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:35:34.823647'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

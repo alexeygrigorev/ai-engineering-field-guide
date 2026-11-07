@@ -1,0 +1,55 @@
+company:
+  name: Tono Health
+  stage: null
+  focus: Autonomous specialty care clinic software and EHR
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and ships LLM-powered agents end
+      to end, including prompts, retrieval, evals, guardrails, and
+      fine-tuning feedback loops - clear model-behaviour shaping
+      with LLMs. It is therefore ai-first.
+  responsibilities:
+  - Own and ship AI agents that run the clinic end to end, handling clinical and operational
+    work
+  - Build agents that turn patient visits into structured clinical notes doctors trust
+  - Design evals and labeled datasets from clinician feedback to catch agent regressions
+  - Build self-improving loops where physician corrections flow back into prompts,
+    retrieval and fine-tuning
+  - Add guardrails, human-in-the-loop review and safe fallbacks for graceful agent
+    failures
+  - 'Build shared agent infrastructure: tool and memory abstractions, durable workflows,
+    tracing, evaluation harnesses'
+  - Debug unexpected agent behavior using traces, logs and replay
+  - Ship reliably in a regulated environment with feature flags, observability and
+    careful reviews
+  use_cases:
+  - Autonomous specialty medicine clinic operations
+  - Drafting structured clinical notes from patient visits
+  - Patient intake triage and care coordination
+  - Automating administrative work for doctors
+  - Autonomous EHR for specialty clinics
+  - Physician-correction feedback loops to improve agent quality
+  skills:
+    genai: [AI Agents, Prompt Engineering, RAG, Fine-Tuning, LoRA, Structured Outputs,
+      Function Calling, LLM Evaluation, Guardrails, OpenAI API, Anthropic API, LangGraph,
+      Mastra]
+    ml: []
+    web: [TypeScript, Next.js, React, tRPC, Fastify, TanStack Start]
+    databases: [PostgreSQL, Prisma, BigQuery, DuckDB]
+    data: [dbt, Prefect, dlt]
+    cloud: [AWS, GCP, Vertex AI]
+    ops: [Inngest, Monitoring, Turborepo, Cloudflare]
+    languages: []
+    domains: []
+    other: [Feature Flags, Posthog, Doppler]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11954364'
+  location: Brooklyn, USA
+  extracted_at: '2026-11-06T14:09:44.418593'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

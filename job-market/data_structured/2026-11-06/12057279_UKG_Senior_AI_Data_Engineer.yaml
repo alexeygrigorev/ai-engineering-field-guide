@@ -1,0 +1,57 @@
+company:
+  name: UKG
+  stage: null
+  focus: Workforce management and HCM software platform
+position:
+  title: Senior AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role building pipelines and
+      curated datasets; AI/GenAI work is limited to preparing
+      governed data for others' AI use cases and a willingness to
+      learn RAG/semantic search, not shaping model behavior. No
+      prompt engineering, retrieval design ownership, or model
+      training is required, so it is ai-support.
+  responsibilities:
+  - Lead architecture and delivery of scalable batch and streaming data pipelines,
+    data products, and lakehouse solutions across cloud environments
+  - Translate business, analytics, and AI requirements into technical designs, data
+    models, and delivery plans
+  - Build production-grade data solutions using Python, PySpark, SQL, Spark, BigQuery,
+    Databricks, and Azure Data Lake
+  - Establish reusable patterns for orchestration, schema evolution, incremental processing,
+    and backfills
+  - Implement data quality controls, reconciliation, lineage, and observability
+  - Own reliability, performance, and cost outcomes for critical pipelines including
+    monitoring and alerting
+  - Prepare governed datasets for AI and Generative AI use cases including retrieval
+    and semantic search workflows
+  - Mentor data engineers, set engineering standards, and lead legacy platform migration
+    to cloud
+  use_cases:
+  - Analytics and reporting data platforms
+  - Curated datasets for AI and Generative AI use cases
+  - Retrieval and semantic search data workflows
+  - Cloud migration from legacy data platforms
+  - Data quality, governance, and compliance across pipelines
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs]
+    cloud: [GCP, Azure, BigQuery, Azure Data Lake]
+    data: [PySpark, Spark, Databricks, Data Pipelines, Data Modeling, Data Governance,
+      Data Quality]
+    ml: []
+    databases: [Relational Databases]
+    genai: [Generative AI, LLMs, Embeddings, Vector Search, Semantic Search, RAG]
+    ops: [CI/CD, Git, Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12057279'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:43:17.082557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

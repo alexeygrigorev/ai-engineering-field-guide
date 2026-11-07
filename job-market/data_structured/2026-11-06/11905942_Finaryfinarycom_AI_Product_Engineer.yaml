@@ -1,0 +1,74 @@
+company:
+  name: Finary(finary.com)
+  stage: null
+  focus: AI-powered personal finance and investing platform
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic orchestrations, multi-
+      step agent systems, and defines/measures agent decision
+      quality — directly shaping LLM agent behaviour. Step 2:
+      agent/LLM components involved, so ai-first.
+  responsibilities:
+  - Build the closing machine and systems that accelerate the sales team
+  - Build a recommendation engine capturing advisors' expertise
+  - Build the agentic layer letting operations orchestrate a fleet of AI agents
+  - 'Own products end to end: gather needs, design, build, deploy, maintain'
+  - Define what a correct agent decision looks like, measure it, and catch drift
+  - Help non-engineers build automations and work on shared agentic infrastructure
+  use_cases:
+  - 'Advisory at scale: accelerating the sales team''s closing process'
+  - Investment allocation recommendation engine capturing advisor expertise
+  - Operations orchestration via a fleet of AI agents
+  - Internal automations built by non-engineers
+  - Agent decision quality measurement and drift detection
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, LLM Evaluation, Fine-Tuning]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Kubernetes, Infrastructure as Code]
+    languages: [TypeScript, Rust, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11905942'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T13:55:51.163647'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

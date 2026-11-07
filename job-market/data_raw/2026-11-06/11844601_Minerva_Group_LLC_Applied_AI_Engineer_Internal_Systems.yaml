@@ -1,0 +1,184 @@
+job_id: 11844601
+title: Applied AI Engineer, Internal Systems
+company: Minerva Group, LLC
+location: New York, USA
+work_type: INTERN
+company_size: 5 Employees
+description: |
+  ABOUT MINERVA
+
+  Minerva builds AI for marketing leaders. We work together
+  with marketers to automate and accelerate their workflows
+  with AI agents. Our agents augment the end-to-end workflow
+  of the marketer by automating analysis, campaign planning,
+  activation, measurement and reporting.
+
+  Customers like the NBA, Ramp, Wander, Hard Rock Stadium
+  Group and Luxury Presence use Minerva to develop a better
+  understanding of their customers and introduce AI
+  specifically built to understand the customer into their
+  commercial organizations. Our campaigns outperform other
+  tools because we built the entire stack: from identity to
+  enrichment to data integration as well as agents to action
+  and report on the analysis.
+
+  We've raised $20M from The General Partnership, 8VC,
+  Lingotto, NBA Investments, Topology Ventures, Future
+  Positive, Background Capital and many others. Our team
+  brings together operators and investors from Citadel,
+  Dentsu, Bridgewater, Meta Superintelligence, Growthloop,
+  Amazon and Lazard, alongside engineers and researchers from
+  Berkeley, MIT, Stanford and Cambridge.
+
+  OUR STACK
+
+  - Agents: Claude across the company (in Slack, through the
+    API, with skills and MCP), plus Mastra for the agents we
+    build ourselves and Temporal for long-running work.
+  - Code: Python and TypeScript, scheduled jobs and webhooks.
+  - The systems your agents work across: Slack, Google
+    Workspace, Notion, and the CRM, recruiting, HR, finance
+    and compliance tools a growing company runs on.
+
+  THE ROLE
+
+  We build agents for marketers. This seat builds them for us.
+
+  Every company our size runs on work nobody sees. Someone
+  copies a new hire's details into six tools. Someone
+  remembers which contract renews next month. Someone answers
+  the same security questionnaire for the fourth time. Most
+  companies hire a coordinator for that work. We're hiring an
+  engineer.
+
+  You're a forward-deployed engineer for Minerva itself. Other
+  companies call this an AI operations engineer or an internal
+  AI engineer. Your customers are every team here: operations,
+  finance, people, recruiting, sales and the founders. You sit
+  with them, find the work they'd most like to stop doing, and
+  replace it with a system that runs without them and leaves
+  an audit trail.
+
+  You report to our COO and work closely with engineering,
+  which owns anything that touches production.
+
+  WHAT YOU'LL DO
+
+  - Own the company's knowledge agent. One agent over our docs,
+    Slack, calls and tickets, with Slack as the front end. It
+    answers with sources, and people trust it.
+  - Automate the processes that run the company. Hiring,
+    onboarding and offboarding, access provisioning, vendor
+    reviews, customer security questionnaires, contract
+    renewals and billing. Start where the hours or the risk
+    are highest.
+  - Run the skill library. Every team gets Claude connected to
+    the tools it uses and a set of skills, each with a named
+    owner on that team, an eval and the right permissions.
+    What one person figures out, everyone gets.
+  - Own the source of truth. Decide where each kind of
+    information lives, move it there and keep it findable by
+    people and by agents. When an agent spots something out of
+    date, it proposes the fix and a person approves it.
+  - Build the plumbing under our operating dashboards: the
+    metrics, controls and board reporting that today get
+    stitched together by hand from five systems.
+  - Put the guardrails in first. Least-privilege access, a human
+    approval before any agent writes to a system of record,
+    and audit trails that double as compliance evidence.
+  - Sit with your users. Watch how a recruiter, a seller or our
+    finance lead actually works, then automate the part they
+    hate.
+  - Measure adoption. Which systems get used, by whom and at
+    what cost, including what we spend on models and which
+    agents can touch what. Retire what nobody opens, and write
+    the runbook for what stays.
+
+  WHAT YOU HAVE
+
+  - You've shipped agents or automations that coworkers use
+    every week, and you can show the usage: who stopped doing
+    what, and how many hours came back.
+  - Production Python or TypeScript, with LLMs wired into real
+    APIs. You're comfortable with OAuth scopes, webhooks and
+    scheduled jobs, and with the ways each of them fails.
+  - You know how a company runs. You can talk to a recruiter, a
+    controller and a security auditor in their own terms, and
+    you fix the process before you automate it.
+  - A controls instinct. Before you ship, you've decided who
+    approves what and what happens when the agent is wrong.
+  - You're current. You know what shipped in AI tooling this
+    month, and you can show us your own setup.
+  - You write clearly. People follow your runbooks without
+    asking you.
+  - You're in New York City or willing to relocate.
+
+  YOU MIGHT BE A FIT IF YOU ARE…
+
+  - A founder or founding engineer who automated your own
+    company's back office because someone had to.
+  - A chief of staff or business operations lead who learned to
+    build and stopped writing specs for engineers.
+  - A solutions or forward deployed engineer who wants the whole
+    company as your customer.
+  - A GTM or internal tools engineer who automated a sales team
+    and wants scope beyond the sales stack.
+  - Or you don't fit any of these neatly, but you've automated
+    your own job at least once. Apply.
+
+  NICE TO HAVES
+
+  - You've rolled out Claude or another model platform to a
+    whole company: access, permissions, usage and cost.
+  - You've been through a SOC 2 or similar audit on the side
+    that produces the evidence.
+  - Hands-on time with the systems a startup runs on: HRIS, ATS,
+    CRM, billing and spend tools.
+
+  WHAT THIS ISN'T
+
+  - An IT helpdesk. You'll automate the tickets away, not answer
+    them.
+  - Product engineering. Our customer-facing agents and
+    production infrastructure belong to the engineering team.
+  - An AI strategy role. You ship systems people use. Nobody
+    here needs a deck about transformation.
+  - The owner of the work you automate. Our compliance lead
+    still owns the security answers, and whoever runs sales
+    ops owns the CRM. You build the systems that do the work
+    for them.
+
+  WHAT SUCCESS LOOKS LIKE
+
+  - First 90 days: the knowledge agent is live in Slack and used
+    daily. A new hire gets set up in every tool in under an
+    hour, and the access record writes itself. At least three
+    workflows run without a person in the loop and are still
+    in use four weeks later.
+  - First 6 months: security questionnaires go out the same day
+    without a founder writing them. Contract renewals, notice
+    windows and price increases surface before they cost us
+    money. Every team has a system it would fight to keep.
+  - The number you own: hours of manual work retired each month,
+    measured against a baseline you set in your first month.
+
+  COMPENSATION
+
+  $211,000–$236,000 base salary, depending on experience.
+  Meaningful equity. Medical, dental and vision.
+
+  HOW TO APPLY
+
+  Skip the cover letter. Show us one thing you built that
+  other people used: a demo, a repo, or a few paragraphs on
+  what the process looked like before, what you built, how
+  many people used it and what broke. Applications without one
+  won't be reviewed.
+
+  WHERE WE WORK
+
+  We work in person from our office at 300 Kent Avenue in
+  Williamsburg, Brooklyn.
+posted_date: 2026-10-23
+url: "https://builtin.com/job/applied-ai-engineer-internal-systems/11844601"
+source: Built In

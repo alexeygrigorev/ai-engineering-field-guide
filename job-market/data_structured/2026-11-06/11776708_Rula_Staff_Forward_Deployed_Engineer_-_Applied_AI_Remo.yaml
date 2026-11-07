@@ -1,0 +1,52 @@
+company:
+  name: Rula
+  stage: null
+  focus: Mental healthcare telehealth services
+position:
+  title: Staff Forward Deployed Engineer - Applied AI (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed engineer role that builds and
+      deploys AI solutions directly with business teams, which is
+      explicitly ai-first. The engineer shapes LLM output quality
+      through evals/test sets, quality guardrails, and model
+      migration decisions across LLM providers. Customer-facing
+      discovery and coaching of non-engineering teams are core
+      duties.
+  responsibilities:
+  - Embed with business and clinical teams to learn their operational workflows through
+    observation and interviews
+  - Ship AI-powered tools weekly that dramatically reduce manual work hours
+  - Stay with teams until they can run each tool independently
+  - Turn learnings into reusable building blocks for other teams
+  - Apply privacy-by-design practices including synthetic/masked data and isolating
+    clinical content
+  - Use coding agents daily with rigorous evaluation practices for generated code
+  - Migrate systems across LLM models to optimize costs while maintaining quality
+  - Coach non-engineering team members to adopt software workflows independently
+  use_cases:
+  - Automating manual administrative and clinical operational tasks
+  - Reducing multi-hour business workflows to minutes with AI tools
+  - Integrating AI into legacy business platforms such as CRM, billing, and scheduling
+  - Cost and usage measurement for AI tooling
+  skills:
+    genai: [AI Agents, LLMs, LLM Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11776708'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:10:45.790729'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

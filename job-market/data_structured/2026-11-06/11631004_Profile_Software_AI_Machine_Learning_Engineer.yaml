@@ -1,0 +1,53 @@
+company:
+  name: Profile Software
+  stage: null
+  focus: |-
+    Banking and investment management software solutions
+    (FinTech)
+position:
+  title: AI & Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role experiments with and refines prompt engineering
+      techniques, works with LLMs, and uses OpenAI/Anthropic APIs
+      to build intelligent solutions, which is shaping LLM
+      behavior/output quality. LLM involvement makes it ai-first
+      despite also covering classical ML (neural networks).
+  responsibilities:
+  - Develop and deploy AI solutions at production scale using state-of-the-art technologies
+  - Work with closed and open-source LLMs to solve complex problems
+  - Experiment with and refine prompt engineering techniques to improve model performance
+  - Design and optimize neural networks for various applications
+  - Build and enhance intelligent solutions using OpenAI and Anthropic APIs
+  - Stay updated with the latest developments in AI and machine learning
+  use_cases:
+  - AI and ML applications for the financial sector
+  - LLM-based solutions for complex business problems
+  - Production-scale AI applications in FinTech
+  skills:
+    genai: [LLMs, Prompt Engineering, OpenAI API, Anthropic API]
+    ml: [Neural Networks, Hugging Face, TensorFlow, Keras, PyTorch, spaCy, NLP, Machine
+        Learning, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11631004'
+  location: Oslo, NOR
+  locations:
+  - Oslo, NOR
+  - Nea Smyrni, GRC
+  - Stockholm, SWE
+  - Paris, FRA
+  - London, GBR
+  extracted_at: '2026-11-06T12:26:31.148396'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

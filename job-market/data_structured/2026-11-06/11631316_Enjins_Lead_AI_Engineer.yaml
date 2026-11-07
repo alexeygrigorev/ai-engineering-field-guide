@@ -1,0 +1,49 @@
+company:
+  name: Enjins
+  stage: null
+  focus: |-
+    AI/ML engineering consultancy for climate and energy tech
+    companies
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architect and ships LLM-based and agentic systems
+      to production, shaping model behaviour through solution
+      design and leading MLOps/LLMOps architectures. LLM/agent
+      involvement makes it ai-first despite also covering
+      classical ML and data infrastructure.
+  responsibilities:
+  - Design AI roadmaps with client leadership and own them through to production
+  - Create and implement AI solution architectures for client engagements
+  - Set and uphold Data Platform and MLOps standards across the client portfolio
+  - Take LLM-based or agentic systems to production inside client infrastructure
+  - Mentor engineers and weigh in on hiring, team growth, and accounts
+  - Advance engineering practice including agentic coding workflows
+  - Translate technical complexity into clear decisions for non-technical stakeholders
+  use_cases:
+  - Energy forecasting systems
+  - Grid software
+  - Climate infrastructure
+  - Agentic AI layers for European tech companies
+  - Machine learning systems in production for scale-ups
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, LLMOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11631316'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T12:26:44.007794'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

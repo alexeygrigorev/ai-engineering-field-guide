@@ -1,0 +1,52 @@
+company:
+  name: Baker Hughes
+  stage: null
+  focus: Energy technology and services across the energy value chain
+position:
+  title: Full Stack Developer (Angular, Java, Spring Boot, AWS, AI Tools))
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack web developer; AI is only mentioned
+      as AI-assisted development tools (Copilot, ChatGPT, Cursor)
+      used for personal productivity, which is explicitly ai-
+      support. No model shaping, prompts, retrieval, or training
+      work.
+  responsibilities:
+  - Build modern, responsive web applications using Angular, TypeScript and JavaScript
+  - Develop backend services using Java Spring Boot
+  - Design, consume and integrate REST APIs for full-stack workflows
+  - Own end-to-end feature development across frontend, backend, testing and deployment
+    support
+  - Use AI-assisted development tools to improve productivity, code quality and documentation
+  - Work with AWS cloud infrastructure and cloud-native concepts
+  - Support CI/CD pipelines with Jenkins, GitHub Actions, GitLab or Azure DevOps
+  - Follow secure coding practices and remediate SAST, DAST and OSS scan findings
+  use_cases:
+  - Full-stack web applications for energy technology solutions
+  - Secure, scalable digital solutions supporting the energy value chain
+  - Backend services and API integrations for enterprise workflows
+  skills:
+    genai: []
+    ml: []
+    web: [Angular, Spring Boot, Node.js, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Jenkins, GitHub Actions, GitLab CI, Azure DevOps, GitHub Copilot,
+      Cursor, Claude Code]
+    languages: [TypeScript, JavaScript, Java, Python]
+    domains: []
+    other: [SonarQube, ChatGPT, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9096313'
+  location: Powai, IND
+  locations:
+  - Powai, IND
+  - Bengaluru, IND
+  - Hadapsar, IND
+  extracted_at: '2026-11-06T15:04:11.483475'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

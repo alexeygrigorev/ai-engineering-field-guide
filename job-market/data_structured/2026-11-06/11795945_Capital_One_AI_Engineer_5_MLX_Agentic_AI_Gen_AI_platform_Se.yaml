@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, multi-agent
+      orchestration, guardrails, model evaluation, and LLM
+      inference/foundation model training—directly shaping model
+      behavior and output quality with clear LLM/agent components.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, guardrails, and model evaluation
+  - Design, implement and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent state-of-the-art foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Lead cost-performance governance reviews tracking GPU utilization, model throughput,
+    and inference cost efficiency
+  - Lead design councils and design review boards to ensure technical consistency
+    and AI engineering standards compliance
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to the technical vision and roadmap of foundational AI systems
+  use_cases:
+  - Personalized real-time banking customer experiences
+  - Real-time customer question answering and fraud/unusual charge alerts
+  - Multi-agent workflows and AI assistants for associates
+  - Similarity and semantic search over enterprise data
+  - Scalable LLM inference and foundation model serving for production AI systems
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Evaluation, Multi-Agent
+        Systems, RAG]
+    ml: [Foundation Model Training, Model Training, Model Evaluation, PyTorch, Hugging
+        Face, CUDA, Quantization, RAG]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment, Monitoring, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11795945'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:13:48.049529'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

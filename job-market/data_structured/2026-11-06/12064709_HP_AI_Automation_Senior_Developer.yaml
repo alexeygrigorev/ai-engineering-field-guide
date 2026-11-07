@@ -1,0 +1,53 @@
+company:
+  name: HP
+  stage: null
+  focus: Technology company producing hardware and software
+position:
+  title: AI Automation Senior Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs intelligent agents and implements
+      generative AI, prompt engineering, and RAG solutions,
+      directly shaping LLM/agent behavior and output quality. AI
+      evaluation and improving accuracy further confirm shaping
+      work, with LLM components present, so it is ai-first.
+  responsibilities:
+  - Design and develop AI applications, intelligent agents, RPA bots, and end-to-end
+    automation workflows
+  - Translate business requirements into technical designs, reusable components, and
+    maintainable code
+  - Implement solutions using generative AI, document understanding, information extraction,
+    and business rules
+  - Integrate solutions with enterprise applications, APIs, databases, and other data
+    sources
+  - Deploy and support solutions on cloud platforms including application infrastructure
+    and configuration
+  - Implement testing, AI evaluation, CI/CD, logging, and monitoring for production
+    reliability
+  - Apply security, data privacy, and access control standards
+  - Conduct code reviews, maintain documentation, and mentor developers
+  use_cases:
+  - AI-powered business process automation
+  - Intelligent agents and RPA bots for enterprise operations
+  - Document understanding and information extraction
+  - Improving processing accuracy and operational efficiency across business processes
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Prompt Engineering, RAG, AI Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [SQL, Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Infrastructure as Code, Monitoring]
+    languages: [Python, Java, C#]
+    domains: []
+    other: [RPA, Workflow Orchestration, Document Understanding, Information Extraction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064709'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:40.923135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

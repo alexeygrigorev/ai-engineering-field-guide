@@ -1,0 +1,57 @@
+company:
+  name: ClickUp
+  stage: null
+  focus: AI-native productivity and work management platform
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns LLM evaluation systems (golden
+      datasets, LLM-as-judge, automated scorers), builds the core
+      agent harness, prompt self-improvement loops, and model
+      selection/routing — all of which directly shape model
+      behaviour and output quality on LLMs.
+  responsibilities:
+  - Design, build, and own ClickUp's AI evaluation system including golden datasets,
+    LLM-as-judge, automated scorers, and regression detection
+  - Build and evolve the core agent harness and the AI that performs well on evals
+  - Build self-improvement loops where agents modify other agents or prompts and rerun
+    evals automatically
+  - Benchmark new models and own model selection, routing, and fallback strategies
+    across providers
+  - Architect scalable AI platform services for LLM deployment, orchestration, and
+    lifecycle management
+  - Build robust APIs and backend systems integrating AI features into ClickUp's core
+    platform
+  - Develop infrastructure for model serving, monitoring, logging, and automated evaluation
+    in production
+  - Drive best practices in AI privacy, security, and compliance
+  use_cases:
+  - Quality measurement of AI features across an AI workspace product
+  - Agent harness and self-improving agent loops for workplace automation
+  - Model benchmarking, routing, and fallback across LLM providers
+  - Enterprise search and context-driven AI in tasks, docs, chat, and calendar
+  - AI feature privacy, security, and compliance
+  skills:
+    genai: [LLMs, LLM Evaluation, AI Agents, Prompt Engineering, LangGraph, OpenAI
+        API, Anthropic API, Gemini]
+    ml: [Machine Learning]
+    web: [APIs, REST APIs]
+    databases: [Semantic Search]
+    data: [Airflow, Ray]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, LangSmith, Monitoring, Model Deployment, Distributed
+        Systems]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100420'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:00:28.846602'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

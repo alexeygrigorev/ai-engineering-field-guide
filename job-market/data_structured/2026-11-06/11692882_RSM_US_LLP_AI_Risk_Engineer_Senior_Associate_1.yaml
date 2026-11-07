@@ -1,0 +1,58 @@
+company:
+  name: RSM US LLP
+  stage: null
+  focus: |-
+    Professional services and consulting for middle-market
+    clients
+position:
+  title: AI Risk Engineer Senior Associate 1
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role assesses and audits AI systems built by others —
+      performing risk, governance, and assurance reviews — rather
+      than shaping model behavior through prompts, retrieval
+      design, training, or building evals/guardrails. Safety and
+      governance oversight is ai-support unless the person builds
+      the evals themselves, which is not the case here.
+  responsibilities:
+  - Perform AI risk, governance, responsible AI, and AI assurance assessments across
+    enterprise environments
+  - Evaluate generative AI, machine learning, AI agents, and third-party AI services
+    for operational, security, privacy, and regulatory risks
+  - Assess AI lifecycle processes from data sourcing and model development to deployment,
+    monitoring, and retirement
+  - Review controls for bias, fairness, explainability, human oversight, model performance,
+    security, and privacy
+  - Support enterprise AI inventory, use-case classification, and governance initiatives
+  - Participate in client workshops and stakeholder interviews, translating technical
+    AI concepts into business and risk implications
+  - Prepare client-facing reports, risk assessments, and executive summaries with
+    advisory recommendations
+  - Contribute to AI risk methodologies, assessment accelerators, and thought leadership
+  use_cases:
+  - AI governance and assurance assessments for enterprise AI adoption
+  - Risk evaluation of generative AI, machine learning systems, and AI agents
+  - Third-party AI service and platform risk reviews
+  - Responsible AI, bias, fairness, and explainability control assessments
+  - Enterprise AI inventory, use-case classification, and monitoring
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure, AWS, GCP, Vertex AI, Databricks, IAM]
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: [LLMs, Generative AI, AI Agents, RAG, Model Evaluation, Microsoft Copilot,
+      Azure OpenAI, OpenAI API, Anthropic API, AWS Bedrock, Hugging Face]
+    ops: [MLOps, DevSecOps, Infrastructure as Code]
+    other: [NIST AI RMF, ISO/IEC 42001, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11692882'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:36:35.081779'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

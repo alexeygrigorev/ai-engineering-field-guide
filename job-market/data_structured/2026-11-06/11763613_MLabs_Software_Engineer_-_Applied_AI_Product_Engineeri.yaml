@@ -1,0 +1,49 @@
+company:
+  name: MLabs
+  stage: Series A
+  focus: AI platform automating commercial real estate workflows
+position:
+  title: Software Engineer - Applied AI / Product Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent-centric architectures, builds LLM
+      agent evaluation frameworks, context management/retrieval
+      strategies, and distills domain knowledge into prompts —
+      squarely shaping LLM behavior. No classical-ML-only
+      components.
+  responsibilities:
+  - Design, build, and deploy agent-centric software architectures and end-to-end
+    AI workflows
+  - Own the full product development lifecycle from user research to deployment
+  - Develop evaluation frameworks, agent harnesses, and context management strategies
+    (context window optimization, filtering, retrieval)
+  - Collaborate with domain experts to distill workflow logic into prompts, requirements,
+    and evaluation metrics
+  - Benchmark and evaluate emerging LLM models, frameworks, and agent paradigms
+  use_cases:
+  - Automating complex commercial real estate workflows
+  - Integrating email, financial models, presentation decks, and property databases
+    into a unified AI system
+  - Autonomous agents for enterprise users in commercial brokerages
+  - Financial underwriting and CRE domain workflow automation
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, RAG, LLM Evaluation,
+      Context Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [System Design, Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11763613'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:08:42.399394'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

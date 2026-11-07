@@ -1,0 +1,50 @@
+company:
+  name: General Dynamics Information Technology
+  stage: null
+  focus: IT and mission services for US government agencies
+position:
+  title: AI/ML DevOps Engineer Principal
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates cloud/DevOps infrastructure
+      (AWS, EKS, CI/CD, data pipelines) that supports AI workloads
+      and MLOps/AIOps platforms, but does not itself shape model
+      behavior — no prompt engineering, RAG design, fine-tuning,
+      or model evaluation is described. AI/ML experience is a
+      supporting platform requirement, not the deliverable.
+  responsibilities:
+  - Design, deploy, and manage cloud-native infrastructure on AWS using GitLab CI/CD
+  - Build and support Kubernetes platforms (Amazon EKS) with a focus on scalability,
+    security, and high availability
+  - Develop and automate ETL workflows and data pipelines for analytics and AI workloads
+  - Implement and support MLOps/AIOps and FinOps capabilities, including AI infrastructure
+    and model deployment pipelines
+  - Troubleshoot Linux-based systems and optimize platform performance
+  - Enforce operational best practices and automate platform operations
+  use_cases:
+  - Infrastructure supporting analytics and AI workloads
+  - MLOps/AIOps platform enablement
+  - Model deployment pipelines
+  - FinOps cost management for cloud AI infrastructure
+  skills:
+    languages: [SQL, Python, Bash, Go]
+    domains: []
+    web: []
+    cloud: [AWS, EKS]
+    data: [Data Pipelines]
+    ml: []
+    databases: [Vector Databases]
+    genai: [LLMs]
+    ops: [Kubernetes, GitLab CI, CI/CD, Infrastructure as Code, MLOps, DevOps, Linux,
+      Datadog, Model Deployment, Container Security, Observability]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11057720'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:24:26.657035'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Lead/Staff Forward Deployed AI Engineer - Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agent reasoning loops, multi-agent
+      workflows, RAG pipelines, and custom tool-calling/MCP
+      servers, directly shaping model behavior. Forward Deployed
+      Engineer adapting AI solutions is ai-first per the edge
+      cases.
+  responsibilities:
+  - Serve as senior technical anchor embedded in Line of Business delivery pods, driving
+    technical discovery with business stakeholders
+  - Architect, develop, and deploy production-grade agent reasoning loops and multi-agent
+    workflows using Python and LangGraph
+  - Lead rapid end-to-end prototyping sprints to validate business feasibility before
+    full production buildout
+  - Design secure MCP servers, OpenAPI bridges, and gRPC/REST connectors linking agents
+    to core banking systems
+  - Architect enterprise RAG pipelines with hybrid search, re-ranking, semantic caching,
+    and knowledge graphs
+  - Implement zero-trust security controls including mTLS, OAuth2/OIDC delegation,
+    and sandboxed execution
+  - Integrate automated evaluation testbeds and safety guardrails into deployment
+    pipelines
+  - Set coding standards, conduct architecture reviews, and mentor C12/C13 engineers
+  use_cases:
+  - Autonomous agents that reason, plan, and execute multi-step banking workflows
+  - Human-in-the-loop review interfaces for agent actions in core banking operations
+  - Enterprise knowledge retrieval via RAG over banking data with knowledge graphs
+  - Secure tool-calling connecting agents to sensitive core banking engines and microservices
+  skills:
+    genai: [LangGraph, AI Agents, Agentic Workflows, AutoGen, CrewAI, Semantic Kernel,
+      RAG, MCP, Function Calling, LLMs, Guardrails, LLM Evaluation, Prompt Engineering]
+    ml: [Embeddings]
+    web: [REST APIs, gRPC, OpenAPI]
+    databases: [NoSQL, Relational Databases, Knowledge Graphs, Vector Search, Vector
+        Databases]
+    data: [Kafka]
+    cloud: []
+    ops: [Docker, Kubernetes, OpenShift, OAuth]
+    languages: [Python, Java, Go, asyncio]
+    domains: []
+    other: [BM25, mTLS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12045258'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:38:16.203840'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Sixt SE
+  stage: null
+  focus: |-
+    Global mobility services: car rental, sharing, ride,
+    subscription
+position:
+  title: AI Data Engineer III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds text-to-SQL agents, including
+      retrieval and prompt strategy, query validation, and
+      evaluation pipelines, which directly shapes LLM behavior and
+      output quality. It also integrates semantic context into
+      agent workflows and defines agent-ready standards for LLM
+      agents.
+  responsibilities:
+  - Define and build a semantic layer (metrics, dimensions, entities) on the AWS data
+    warehouse as a single source of truth for KPIs
+  - Design and implement text-to-SQL agents covering retrieval, prompt strategy, query
+    generation, validation, and accuracy evaluation
+  - Specify ontologies and business glossaries for the mobility domain and publish
+    them in machine-readable form
+  - Integrate semantic context, metadata, and lineage from the data catalogue into
+    agent workflows and define agent-ready dataset standards
+  - Partner with data engineers, analysts, and AI platform teams; evangelize semantic
+    modeling best practices and mentor engineers
+  - Evaluate emerging tooling (semantic layer engines, knowledge graphs, LLM frameworks)
+    and drive build-vs-buy decisions
+  use_cases:
+  - Text-to-SQL agents enabling natural-language querying of the data warehouse
+  - Semantic layer providing a single source of truth for KPIs used by BI tools, analysts,
+    and AI agents
+  - Ontologies and business glossaries for the mobility domain (rental, fleet, pricing,
+    customer)
+  - Agent-ready datasets integrated with catalogue metadata and lineage
+  skills:
+    genai: [RAG, LLMs, LangChain, Anthropic API, MCP]
+    ml: []
+    web: []
+    databases: [Snowflake, Redshift, Knowledge Graphs]
+    data: [dbt, Databricks, Data Modeling]
+    cloud: [AWS Bedrock, AWS]
+    ops: [Git, CI/CD, Code Review]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11432801'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:49:53.442423'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Ciklum
+  stage: null
+  focus: Custom product engineering for enterprises and startups
+position:
+  title: Senior Artificial Intelligence/Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys LLM-powered agentic systems,
+      advanced RAG pipelines, and prompt engineering
+      architectures, directly shaping model behavior and output
+      quality. This is squarely ai-first.
+  responsibilities:
+  - Architect, evaluate, and deploy multi-agent coordination frameworks using LangGraph,
+    LangChain, or CrewAI
+  - Design agent capabilities including planning, self-correction loops, tool calling,
+    memory management, and dynamic routing
+  - Develop advanced prompt engineering strategies with structured outputs and hallucination
+    guardrails
+  - Design and optimize enterprise RAG systems with semantic search, hybrid retrieval,
+    re-ranking, and contextual chunking
+  - Configure and scale vector databases for high-dimensional embedding retrieval
+  - Benchmark, fine-tune, or calibrate embedding models and NLP pipelines
+  - Establish LLM evaluation and observability frameworks and trace agent executions
+  - Collaborate on system design and API integration to serve agentic workflows via
+    microservices
+  use_cases:
+  - Autonomous multi-agent systems solving complex business workflows
+  - Enterprise-grade RAG for information retrieval and question answering
+  - Agentic AI applications in production enterprise environments
+  - Agent task automation with tool calling and planning
+  - LLM-powered solutions with observability and reliability in production
+  skills:
+    languages: [Python]
+    domains: [NLP]
+    web: [FastAPI, Microservices]
+    cloud: [AWS, AWS Bedrock, SageMaker, ECS, AWS Lambda, AWS S3]
+    data: []
+    ml: [Transformers, Pydantic]
+    databases: [Vector Databases, Milvus, Pinecone, Qdrant, Chrom, pgvector, OpenSearch,
+      Vector Search, Semantic Search]
+    genai: [LangGraph, LangChain, CrewAI, AI Agents, Agentic Workflows, Multi-Agent
+        Systems, Prompt Engineering, RAG, Embeddings, LLMs, Generative AI, Function
+        Calling, Fine-Tuning, Guardrails, LLM Evaluation]
+    ops: [LangSmith, Langfuse, Docker, Kubernetes, CI/CD, OpenTelemetry, MLOps, LLMOps]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12071069'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:49:42.697180'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

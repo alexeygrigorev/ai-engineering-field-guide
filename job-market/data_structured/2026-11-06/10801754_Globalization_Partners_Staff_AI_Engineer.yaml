@@ -1,0 +1,51 @@
+company:
+  name: Globalization Partners
+  stage: null
+  focus: SaaS global employment and HR compliance platform
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates production LLM/NLP
+      systems for G-P Gia, including evaluation frameworks,
+      monitoring for hallucinations, and model selection
+      decisions. This is direct shaping of LLM behavior and output
+      quality, so it is ai-first.
+  responsibilities:
+  - Design and build production LLM and NLP systems, data pipelines, and ML services
+  - Build evaluation, monitoring, and traceability to catch hallucinations and keep
+    humans in the loop
+  - Set technical direction and architecture for AI systems, deciding on models and
+    build-vs-buy trade-offs
+  - Work with product, customers, and domain experts to frame ambiguous compliance
+    and HR problems
+  - Lead design reviews and code reviews, write design docs, and mentor engineers
+  - Build shared evaluation tooling, deployment pipelines, and data practices
+  - Track LLM and applied ML developments and turn experiments into product capabilities
+  use_cases:
+  - AI-powered HR compliance agent providing instant guidance
+  - Generating compliant HR documents
+  - Answering HR and global employment questions
+  - LLM extraction, classification, and reasoning over documents
+  skills:
+    genai: [LLMs, Structured Outputs]
+    ml: [Machine Learning, Deep Learning, Model Evaluation, Model Monitoring, Model
+        Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Docker, Terraform]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10801754'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:22:01.298683'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

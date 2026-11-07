@@ -1,0 +1,58 @@
+company:
+  name: Pratham International
+  stage: null
+  focus: Education technology nonprofit for children's learning
+position:
+  title: 'AI Engineer - ASR: PraDigi, a Pratham Initiative'
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, fine-tunes, and evaluates ASR models
+      (Whisper, wav2vec 2.0, Conformer, CTC/RNN-T) for children's
+      reading fluency assessment. This is shaping classical speech
+      models with no LLM prompting/retrieval/agent component, so
+      it is ml-first.
+  responsibilities:
+  - Design and supervise speech data collection and annotation across languages, dialects,
+    age groups, and devices
+  - Define annotation guidelines and quality-control processes for transcripts and
+    reading errors
+  - Train, fine-tune, and evaluate ASR models for children's multilingual read speech
+  - Adapt ASR architectures such as Whisper, wav2vec 2.0, Conformer, and CTC/RNN-T
+    for reading assessment
+  - Develop forced alignment, phoneme-level alignment, and error-detection approaches
+    for reading disfluencies
+  - Conduct systematic error analysis by language, reading level, accent, and recording
+    conditions
+  - Define and track ASR metrics (WER/CER, error-detection precision/recall, alignment
+    accuracy) and build reproducible evaluation pipelines
+  - Optimize models for deployment in low-bandwidth, server-based, and offline/mobile
+    environments
+  use_cases:
+  - Automated reading fluency assessment for children in Hindi and other Indian languages
+  - Detecting reading errors such as substitutions, omissions, repetitions, and hesitations
+    in read speech
+  - Multilingual ASR on children's voices in low-resource settings
+  - Translating model outputs into reading accuracy, WCPM, and fluency measures
+  - Offline and low-bandwidth deployment of speech assessment in rural education contexts
+  skills:
+    genai: []
+    ml: [PyTorch, Hugging Face, NeMo, Kaldi, Fine-Tuning, Model Training, Model Evaluation,
+      Forced Alignment]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python]
+    domains: [Speech Recognition, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11709135'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:39:11.211989'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

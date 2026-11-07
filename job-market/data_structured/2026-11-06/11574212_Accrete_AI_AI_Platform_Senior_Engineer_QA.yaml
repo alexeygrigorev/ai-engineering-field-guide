@@ -1,0 +1,55 @@
+company:
+  name: Accrete AI
+  stage: null
+  focus: |-
+    Agentic managed services: AI workforce for government and
+    enterprise
+position:
+  title: AI Platform Senior Engineer, QA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI evaluation and validation frameworks
+      themselves — LLM-as-Judge, semantic similarity validation,
+      groundedness/hallucination/stability testing of agentic and
+      LLM systems — which shapes model output quality, making it
+      ai-first. It is not merely consuming an API another team
+      designed; the deliverable is output-quality evaluation for
+      LLM/agent systems.
+  responsibilities:
+  - Test multi-agent workflows, orchestration layers, and cross-domain intelligence
+    systems
+  - Validate AI-generated narratives and analytical outputs via groundedness, hallucination,
+    coherence, and stability testing
+  - Implement LLM-as-Judge and semantic similarity-based validation for model outputs
+  - Design and maintain automation frameworks with Python, JavaScript/TypeScript,
+    Pytest, and Playwright
+  - Build E2E automation for UI, APIs, and agent pipelines and integrate with CI/CD
+  - Perform API, load, and stress testing under AI-heavy workloads
+  - Design test strategies for agentic and AI-driven systems and track quality metrics
+  use_cases:
+  - Quality assurance for multi-agent workflows and orchestration layers
+  - Validation of AI-generated narratives and analytical outputs for hallucination
+    and groundedness
+  - Testing conversational AI and chat-based agent systems
+  - Regression, stability, and output drift detection for non-deterministic AI systems
+  - Performance and scalability validation of AI-heavy workloads
+  skills:
+    genai: [LLMs, LLM Evaluation, Agentic Workflows, LangChain, AutoGen, CrewAI, RAG]
+    ml: [NLP, Model Evaluation, Machine Learning]
+    web: [REST APIs, Playwright]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Pytest, CI/CD, MLOps, AWS, GitHub Actions, Jenkins, GitLab CI, Docker, Kubernetes]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [Postman, K6, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11574212'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T12:14:03.625762'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

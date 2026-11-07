@@ -1,0 +1,58 @@
+company:
+  name: Arbiter AI
+  stage: Backed by one of the largest seed rounds in health tech history
+  focus: AI-powered care orchestration platform for healthcare
+position:
+  title: Senior QA Engineer, Voice AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role judges the quality of LLM voice-agent output
+      directly: reviewing conversations, scoring them against
+      quality rubrics, triaging agent behavior issues, and pre-
+      launch testing of agent scripts and handoffs. This is
+      evaluating model output quality and feeding fixes back,
+      which is shaping an LLM/agent system, so ai-first.
+  responsibilities:
+  - Investigate reported and detected issues on live voice agent campaigns, including
+    dropped calls, wrong agent responses, failed handoffs, and scheduling errors
+  - Trace problems across call recordings, transcripts, system logs, campaign configuration,
+    and integration data to find root causes
+  - Write reproducible bug reports with severity, member impact, and supporting evidence,
+    and triage issues to the right owner
+  - 'Run pre-launch QA on new campaigns and workflow changes: test scripts, edge cases,
+    escalation paths, and handoffs to nurses or live staff'
+  - Conduct ongoing conversation QA on live campaigns against defined quality standards
+    and flag trends
+  - 'Verify campaigns behave as designed: targeting, sequencing, disposition logic,
+    and outcome capture'
+  - 'Build and maintain the QA framework: test cases, scoring rubrics, regression
+    suites, and release checklists'
+  - Automate repetitive checks such as transcript analysis, config validation, and
+    outcome reconciliation, and track quality metrics
+  use_cases:
+  - Patient-facing voice AI agents for healthcare outreach campaigns
+  - Call orchestration with escalations and handoffs to nurses or live staff
+  - Appointment scheduling and outcome capture driven by conversational agents
+  - Campaign targeting, sequencing, and disposition logic in healthcare workflows
+  - Conversation quality monitoring and QA for live agent campaigns
+  skills:
+    genai: [LLM Evaluation, Conversational AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [SQL, JSON, YAML, Python]
+    domains: [Voice AI]
+    other: [HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11564873'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:11:57.389302'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: |-
+    Space launch vehicles, spacecraft, and satellite
+    constellations
+position:
+  title: Sr. Software Engineer (AI Data Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI systems, multi-agent workflows,
+      MCP servers, RAG-based search, prompt/context engineering,
+      and LLM evals — directly shaping LLM/agent behavior, so it
+      is ai-first.
+  responsibilities:
+  - Partner with engineering teams to identify repetitive or error-prone work and
+    build automation tools for it
+  - Build automation processing large engineering datasets (telemetry, design databases,
+    config files, test records) to automate review and flag anomalies
+  - Design agentic AI systems, multi-agent workflows, and MCP servers that let engineers
+    query and act on data across internal systems
+  - Integrate tools into CI/CD pipelines, mission workflows, and review/sign-off processes
+  - Build internal web dashboards showing mission status, open work, and data review
+    results
+  - Prototype rapidly and take tools to production-grade, maintainable state
+  - Test and validate tools, including evaluating AI outputs against known-good results
+    for flight-critical use
+  - Prioritize work by ROI and track engineering hours saved
+  use_cases:
+  - Automated review of flight and test telemetry data
+  - AI agents helping engineers prepare for missions and investigate anomalies
+  - Agentic AI systems for querying and acting on internal engineering data
+  - RAG-based search over engineering and telemetry datasets
+  - Automating repetitive engineering tasks across avionics, propulsion, and structures
+  skills:
+    genai: [Agentic Workflows, MCP, RAG, Prompt Engineering, Context Engineering,
+      Function Calling, LLMs, LLM Evaluation, AI Agents]
+    ml: []
+    web: [REST APIs, React, FastAPI, Flask]
+    databases: [PostgreSQL, NoSQL, Vector Databases]
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: []
+    ops: [Linux, Git, CI/CD, Monitoring, Docker, Kubernetes]
+    languages: [Python, SQL, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11586617'
+  location: Hawthorne, USA
+  extracted_at: '2026-11-06T12:16:13.313208'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

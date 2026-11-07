@@ -1,0 +1,61 @@
+company:
+  name: Eye Security
+  stage: null
+  focus: Cybersecurity with embedded cyber insurance solutions
+position:
+  title: Senior Infrastructure Engineer – AI Platform (f/m/x)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is explicitly a platform/infrastructure role: it builds
+      AWS infrastructure, IaC, CI/CD, and operational guardrails
+      so that agents and LLM-backed services built by others run
+      in production. The description states the person will not
+      train models or work as a prompt engineer, and the
+      guardrails cover tool access, secrets, quotas, and cost -
+      capacity and safety plumbing, not model behaviour shaping.
+      Serving and operating AI systems the person does not shape
+      is ai-support.
+  responsibilities:
+  - Design, build, and maintain scalable, resilient, secure AWS infrastructure
+  - Lead Infrastructure-as-Code practices with Terraform, including reusable modules
+    and deployment patterns
+  - Build deployment patterns, workload identity, access controls, and operational
+    guardrails for running agents and LLM-backed services in production
+  - Evolve monitoring and observability strategy with Grafana and Sentry, including
+    distributed tracing across agent and tool calls and cost attribution
+  - Establish practical ways to evaluate non-deterministic behaviour and catch regressions
+    before and after deployment
+  - Continuously improve automation, deployment pipelines, system reliability, and
+    technical debt
+  - Mentor mid-level engineers and share knowledge through documentation and reviews
+  use_cases:
+  - Cybersecurity threat detection, response, and recovery
+  - Running AI agents and LLM-backed security services in production
+  - Cost-controlled, observable infrastructure for agentic workloads
+  - Distributed tracing and cost attribution across agent and tool calls
+  skills:
+    genai: [LLMs, AI Agents, Guardrails, LangGraph, MCP, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Terraform, GitOps, CI/CD, Grafana, Infrastructure as Code, OpenTelemetry,
+      Observability]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [Sentry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11372994'
+  location: GBR
+  locations:
+  - GBR
+  - Berlin, DEU
+  - '''s-Gravenhage, NLD'
+  remote: true
+  extracted_at: '2026-11-06T15:06:43.669645'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

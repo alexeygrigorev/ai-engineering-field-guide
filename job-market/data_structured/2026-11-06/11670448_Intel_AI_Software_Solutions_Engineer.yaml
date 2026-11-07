@@ -1,0 +1,53 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductor and data center hardware
+position:
+  title: AI Software Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops ML kernels (CUTLASS/Triton) and optimizes
+      deep learning frameworks for LLMs, shaping model internals
+      and serving performance for generative models. LLM targets
+      are explicitly named (LLMs, vLLM, SGLang), so per the edge
+      case on optimizing model internals for LLM targets this is
+      ai-first.
+  responsibilities:
+  - Propose software and kernel implementation optimizations to improve AI workload
+    performance
+  - Model AI hardware and software (GPU/accelerator) for performance analysis and
+    estimate ideal kernel performance
+  - Enhance and maintain performance modeling toolkit and correlate projections with
+    device/simulator results
+  - Design hardware-agnostic and hardware-aware features for AI frameworks with focus
+    on ML kernel development
+  - Enhance deep learning training and inference capabilities in Intel's AI software
+    stack
+  - Study new deep learning networks for future optimization requirements
+  - Debug functional and convergence issues in multi-layered software systems
+  use_cases:
+  - Optimizing deep learning training and inference on Intel GPUs and AI accelerators
+  - ML kernel development for AI frameworks
+  - Performance modeling and analysis of AI workloads and accelerators
+  - Serving and inference of large language models
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [PyTorch, TensorFlow, JAX, Deep Learning, Machine Learning, Hugging Face,
+      CUTLASS, Triton]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM]
+    languages: [Python, C++]
+    domains: []
+    other: [SGLang, Computer Architecture, Compilers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11670448'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:30:52.657621'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: 6sense
+  stage: null
+  focus: B2B revenue intelligence and contextual data platform
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes agent behavior: designing LangGraph
+      orchestration, tool/MCP interfaces tuned for agent success,
+      retrieval/grounding with chunking and reranking, and
+      building LLM evals. This is clearly LLM/agent-shaping work,
+      so ai-first.
+  responsibilities:
+  - Extend LangGraph agent orchestrators with typed state, conditional routing, checkpointing,
+    durable execution, and human-in-the-loop steps
+  - Design and scale the API, tool, and MCP layer that agents use to read 6sense data
+    and take actions
+  - Tune tool design (schemas, descriptions, response shapes, error messages) for
+    agent and LLM success
+  - Expose contextual intelligence to agents via MCP, APIs, and tools with permission-aware
+    retrieval, chunking, hybrid search, and reranking
+  - 'Build and extend LLM evaluations: golden datasets, tool-call accuracy, end-to-end
+    task success, and regression gates'
+  - Enforce security, tenant isolation, prompt-injection defenses, and runtime limits
+    on agent execution
+  - Onboard external MCP clients, agent platforms, and partners; write integration
+    guides and reference clients
+  - Triage customer-reported issues, join customer/partner technical calls, and mentor
+    engineers
+  use_cases:
+  - B2B contextual intelligence layer delivered through agents and MCP
+  - Customer and partner agents reading 6sense data and taking actions
+  - Permission-aware retrieval and grounding for enterprise B2B data
+  - Multi-agent orchestration across in-app, chat, workflow, and partner surfaces
+  - 'Agent evaluation and monitoring: task success, tool-call precision, groundedness,
+    latency, cost'
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [AWS]
+    data: [Kafka, Snowflake, Databricks, Spark]
+    ml: [LLMs, Hybrid Search, Model Routing]
+    databases: [Knowledge Graphs]
+    genai: [LangGraph, MCP, AI Agents, Agentic Workflows, Function Calling, RAG, Embeddings,
+      LLM Evaluation, Context Engineering, Prompt Injection Defense]
+    ops: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11894362'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:51:40.120241'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

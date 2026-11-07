@@ -1,0 +1,61 @@
+company:
+  name: Safari AI
+  stage: null
+  focus: |-
+    Computer vision AI measuring and automating physical-economy
+    operations
+position:
+  title: AI Deployment Engineer/Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role installs, configures, and monitors computer vision
+      systems built by the ML and Engineering teams - cameras,
+      edge hardware, Linux, networks. The person never shapes
+      model behavior or output quality; they deploy and maintain
+      systems others built, which is ai-support. The CV models
+      here are classical vision, but shaping never occurs, so Step
+      3 applies.
+  responsibilities:
+  - Set up and configure edge computers, cameras, network switches and 5G/LTE modems
+    before shipping
+  - Maintain, patch and troubleshoot Linux systems in the field and improve install
+    scripts and Ansible playbooks
+  - Travel to customer sites to install cameras and edge devices and bring systems
+    online
+  - Run pre-deployment assessments covering camera inventory, network layout, bandwidth
+    sizing and rack space
+  - Help spec ML/GPU hardware and design site-to-site and VPN connections
+  - Coordinate hardware inventory, vendor ordering, shipping, timelines and status
+    reports
+  - Act as technical point of contact for customers, responding to and escalating
+    system alerts
+  - Write installation guides, SOPs and handoff documents and use AI tools and scripts
+    to automate repetitive work
+  use_cases:
+  - Computer vision monitoring of theme parks, stadiums, retail stores and live venues
+  - Real-time measurement and alerting on physical operations using existing camera
+    infrastructure
+  - AI-generated operational recommendations for enterprise customers
+  - Edge-deployed CV systems on customer premises with remote monitoring
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Ansible, Docker]
+    languages: []
+    domains: [Computer Vision]
+    other: [OpenVPN, WireGuard, NVIDIA Jetson, GPUs, IP Cameras, NVR/VMS, RTSP Streams,
+      VPN, Networking, CompTIA Network+, CCNA, Shell Scripting, SSH]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11896968'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:52:29.557705'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

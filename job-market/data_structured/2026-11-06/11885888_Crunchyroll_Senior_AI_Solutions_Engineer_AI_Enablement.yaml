@@ -1,0 +1,54 @@
+company:
+  name: Crunchyroll
+  stage: null
+  focus: Anime and manga streaming, games, and fan experiences
+position:
+  title: Senior AI Solutions Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems, RAG,
+      prompt/context engineering, guardrails, and LLM evaluations
+      end-to-end, which is directly shaping model behavior and
+      output quality. LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Embed with business teams to map real workflows and identify where AI or automation
+    creates value
+  - Choose technical approaches (agentic systems, RAG, classical ML, automation, or
+    plain software) for business problems
+  - Design and build AI systems end-to-end including tool use, orchestration, context/prompt
+    engineering, structured outputs, and human-in-the-loop workflows
+  - Prototype rapidly and take solutions from ambiguity through production and adoption
+  - Build evaluations, tracing, monitoring, and observability for reliability in production
+  - Define and measure business outcomes for each solution after launch
+  - Work with business and technical leaders to align stakeholders and manage expectations
+  - Create reusable components, patterns, and documentation to enable handoff and
+    faster future builds
+  use_cases:
+  - AI-powered agents and workflow automation for internal business operations
+  - Localization and content operations workflows
+  - Marketing operations and customer support
+  - Rights management and commerce workflows
+  - Enterprise integrations connecting AI systems to internal tools and data
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, Prompt Engineering, Context Engineering,
+      Function Calling, Structured Outputs, Guardrails, MCP, Multi-Agent Systems,
+      LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Datadog, LangSmith, Langfuse]
+    languages: [Python]
+    domains: []
+    other: [Workflow Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885888'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:35:46.305072'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

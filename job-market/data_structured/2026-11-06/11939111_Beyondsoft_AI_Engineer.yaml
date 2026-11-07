@@ -1,0 +1,55 @@
+company:
+  name: Beyondsoft
+  stage: null
+  focus: IT and business consulting services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements multi-agent workflows, RAG
+      pipelines (chunking, embeddings, reranking), prompt
+      engineering, and LLM evaluation/guardrails - directly
+      shaping LLM behavior and output quality, so it's ai-first.
+  responsibilities:
+  - Design and implement AI agents and multi-agent workflows using LangGraph, CrewAI,
+    LangChain or similar
+  - Build and optimize RAG pipelines including chunking, embeddings, vector search,
+    hybrid retrieval, and reranking
+  - Develop scalable backend services and APIs with Python and FastAPI
+  - Deploy and monitor AI applications using Docker, Kubernetes, and CI/CD in cloud
+    environments
+  - Evaluate LLM outputs, retrieval quality, latency, and cost; implement testing,
+    tracing, observability, guardrails, and human-in-the-loop controls
+  - Integrate LLMs, embedding models, vector databases, and enterprise data sources
+  - Implement secure API integrations, access controls, and responsible AI practices
+  - Partner with product, engineering, and business teams to deliver AI solutions
+  use_cases:
+  - Multi-agent workflow automation and task orchestration
+  - Retrieval-augmented generation over enterprise data
+  - LLM-powered enterprise automation integrated with backend systems
+  - Cloud-based production AI applications
+  - Evaluating and optimizing LLM output quality, latency, and cost
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, LangGraph, CrewAI, LangChain,
+      Function Calling, RAG, LLMs, Embeddings, Prompt Engineering, Fine-Tuning, Semantic
+        Kernel, AWS Bedrock, Azure OpenAI, LoRA, Guardrails]
+    ml: [Quantization, CUDA]
+    web: [FastAPI, React]
+    databases: [Vector Databases, Vector Search, PostgreSQL, Redis, Elasticsearch,
+      Cosmos DB]
+    data: []
+    cloud: [AWS, Azure, GCP, Azure AI Foundry, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring, Observability]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11939111'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:03:32.970270'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

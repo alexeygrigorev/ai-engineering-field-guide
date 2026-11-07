@@ -1,0 +1,55 @@
+company:
+  name: Turing
+  stage: null
+  focus: |-
+    AI datasets, RL environments, and enterprise agentic AI
+    deployment
+position:
+  title: Platform Engineer - Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds platform services, a model gateway, CI/CD,
+      IaC, and observability to run AI systems others design — it
+      serves and operates models rather than shaping model
+      behaviour via prompts, retrieval, or training. Model
+      serving/gateway work (vLLM, LiteLLM, Triton) is explicitly
+      infrastructure capacity, so it is ai-support.
+  responsibilities:
+  - Design, build, and operate core platform services including the model gateway
+    and platform infrastructure
+  - Create reliable deployment systems for client cloud accounts, dedicated instances,
+    and sovereign environments
+  - Build and maintain CI/CD, infrastructure as code, and deployment tooling using
+    Kubernetes, Helm, Terraform or Pulumi, and GitOps
+  - Design secure multi-tenant infrastructure with reliable service ownership and
+    operational accountability
+  - Establish observability across the platform with SLOs, structured logging, metrics,
+    tracing, and alerting
+  - Build FinOps telemetry tracking model and compute costs by tenant
+  - Participate in on-call operations and incident response for the production platform
+  use_cases:
+  - Reliable deployment of AI systems across enterprise environments
+  - Model gateway routing and serving for enterprise AI workloads
+  - Multi-tenant hosting of agentic AI systems in client-controlled environments
+  - Cost tracking (FinOps) for model and compute usage by tenant
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [PostgreSQL, Vector Databases, Object Storage]
+    data: []
+    cloud: [IAM]
+    ops: [Kubernetes, Helm, Terraform, GitOps, CI/CD, Infrastructure as Code, OpenTelemetry,
+      Prometheus, Datadog, vLLM, Triton, Model Deployment, Observability, Monitoring]
+    languages: [Go, Python, TypeScript, Ruby]
+    domains: []
+    other: [Message Queues, LiteLLM, SOC 2, Pulumi, KMS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885885'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:35:38.859433'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

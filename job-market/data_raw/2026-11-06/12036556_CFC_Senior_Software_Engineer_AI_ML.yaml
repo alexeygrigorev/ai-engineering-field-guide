@@ -1,0 +1,162 @@
+job_id: 12036556
+title: "Senior Software Engineer (AI & ML)"
+company: CFC
+location: London, GBR
+work_type: FULL_TIME
+company_size: 4400 Employees
+description: |
+  We’re building AI systems that sit at the heart of how CFC
+  makes complex underwriting decisions. Our Data & AI unit is
+  developing autonomous, multi-step agents that reason over
+  unstructured data, assess risk and deliver real business
+  outcomes, creating the kind of complex engineering problems
+  where great software engineering really matters.
+
+  Making agentic AI work reliably in production means solving
+  challenges traditional software doesn’t always face: non-
+  deterministic behaviour, tool failures, long-running
+  workflows, high-stakes decisions and outputs that need to be
+  observable and auditable. That’s where you come in.
+
+  As a Senior Software Engineer (AI & ML), you’ll help shape
+  how these systems are designed and built, working across
+  agent orchestration, APIs, tool integrations, durable state,
+  guardrails, observability and cloud infrastructure. You’ll
+  partner closely with Senior Machine Learning Engineers on
+  the same agents, bringing the engineering depth needed to
+  make them robust, testable and maintainable in production.
+
+  About the role
+
+  - Design, build and run production AI agents that automate
+    multi-step underwriting decisions over unstructured data.
+  - Build the agent runtime, including orchestration, durable
+    state, retries and long-running workflows that recover
+    cleanly from failure.
+  - Develop the tools, APIs and data services that agents call,
+    creating clear contracts, predictable failure modes and
+    full auditability.
+  - Engineer guardrails, human-in-the-loop checkpoints and
+    fallbacks for high-stakes automated decisions.
+  - Instrument, monitor and troubleshoot agents and services in
+    production, including tracing, cost, latency and decision
+    logs, working with ML engineers to turn those insights
+    into evaluations and improvements.
+  - Help drive system design and architectural decisions for our
+    agents and the services around them.
+  - Design and evolve the data models and database schemas
+    supporting submissions, agent runs, decisions and audit
+    trails.
+  - Provision and manage cloud infrastructure through Terraform
+    and contribute to a high production standard across agent-
+    generated code and tests.
+  - Work closely with business, product and engineering teams to
+    set delivery cadence, manage expectations and make
+    pragmatic decisions about where additional engineering
+    quality adds the most value.
+  - Support the development of other engineers through code
+    reviews, best-practice guidance and knowledge sharing
+
+  About you
+
+  We’re looking for someone who combines strong software
+  engineering fundamentals with hands-on experience taking
+  agentic AI beyond prototypes and into production.
+
+  You’ll bring:
+
+  - Hands-on experience building LLM-based agents or agentic
+    systems in production, ideally using orchestration
+    frameworks such as LangGraph or LangChain, or equivalent
+    systems you’ve built yourself.
+  - A strong understanding of how agents fail in the real world,
+    from non-determinism and tool failures to runaway loops,
+    cost and latency issues, and how to engineer around them.
+  - 5+ years’ professional software development experience in
+    Python or another backend language such as Go, Java or C#.
+    Our stack is Python, so you’ll need enough working
+    knowledge to transfer your skills quickly if it isn’t
+    already your main language.
+  - Strong experience with asynchronous and concurrent
+    programming, alongside a rigorous approach to unit and
+    integration testing.
+  - Day-to-day experience delivering software with AI coding
+    agents, while maintaining a high bar for the code they
+    produce.
+  - Experience designing systems end to end, including service
+    boundaries, data flows and failure modes, with the
+    judgement to make and explain architectural trade-offs.
+  - Strong relational database and data modelling experience. We
+    use PostgreSQL, covering areas including schema design,
+    query performance, transactions, concurrency and safe
+    schema migrations.
+  - Experience building distributed, asynchronous microservices
+    using message brokers such as Azure Service Bus, with an
+    understanding of at-least-once delivery, idempotency and
+    dead-letter handling.
+  - Experience building clear, well-documented RESTful APIs. We
+    use FastAPI.
+  - Strong cloud and infrastructure-as-code experience. Our
+    environment uses Azure and Terraform, and hands-on IaC
+    experience is essential for this role.
+  - Experience with Docker and production container platforms
+    such as Azure Container Apps, Kubernetes, GKE or ECS,
+    alongside CI/CD workflows and YAML pipeline definitions.
+  - Clear communication, pragmatic judgement and the confidence
+    to work independently, influence technical decisions and
+    mentor other engineers.
+
+  Experience building agents for high-stakes or regulated
+  decision-making, working with data scientists on non-
+  deterministic systems, using Databricks, or working within
+  insurance would be useful, but these are nice-to-haves
+  rather than requirements.
+
+  Core Values
+
+  Love what you do: We show up each day ready to take on the
+  world. Our passion and intensity set us apart and makes the
+  difference to our colleagues, customers, brokers and
+  carriers. Challenge everything: We’re never afraid to
+  question the way that things are done and we constantly
+  challenge ourselves and others to makes things better. Have
+  fun, be good: Insurance is a serious business, but we don’t
+  take ourselves too seriously. We make it fun to work at CFC,
+  we welcome all viewpoints, and we treat everyone how we
+  would expect to be treated.
+
+  About CFC is a specialist insurance provider, pioneering
+  emerging risk and market leader in cyber. Our global
+  insurance platform uses cutting-edge technology and data
+  science to deliver smarter, faster underwriting and protect
+  customers from today's most critical business
+  risk.Headquartered in London with offices in New York,
+  Melbourne, Sydney, Austin, Madrid, Brussels and Brisbane,
+  CFC has over 1200 staff and is trusted by more than 100,000
+  businesses across 90 countries.At CFC, insurance isn't just
+  about underwriting. From data science to software
+  development, and digital marketing design, we've got
+  something for everyone. We're passionate about pushing
+  boundaries, thinking differently and building the insurance
+  company of the future.CFC is committed to the principles of
+  equal opportunities and creating an environment in which all
+  individuals are always treated with dignity and respect. We
+  encourage a diverse corporate culture of openness and
+  appreciation to create an environment in which your talent
+  can be developed in the best possible way. Should you
+  require any reasonable adjustments at any stage of the
+  recruitment process please let us know.Feeling like you need
+  to tick every box before applying? We see things
+  differently. In a rapidly scaling company like ours,
+  ambition and the drive to learn count for more than a
+  'perfect' checklist. We're building the future of insurance,
+  and that requires diverse talent eager to grow with us. If
+  this role excites you and you're ready to make a significant
+  impact, bring your unique background and let's build
+  something great together.
+industries:
+  - Insurance
+  - Cybersecurity
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-software-engineer-ai-ml/12036556"
+source: Built In

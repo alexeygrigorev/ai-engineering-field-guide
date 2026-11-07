@@ -1,0 +1,48 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global bank building enterprise AI capabilities
+position:
+  title: Assistant Vice President - Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, LLM
+      applications, prompt engineering, RAG, and agent evaluation
+      pipelines—directly shaping LLM behavior—so it is ai-first.
+  responsibilities:
+  - Design and build core AI/ML solutions powering enterprise AI capabilities
+  - Own significant AI subsystems including agentic workflows and LLM applications
+  - Build evaluation pipelines and MLOps tooling for production AI systems
+  - Deliver scalable APIs and microservices for high-throughput workloads
+  - Implement AI safety controls such as guardrails and prompt injection detection
+  - Collaborate cross-functionally to define requirements and align with architecture
+  - Mentor junior engineers and drive technical delivery
+  use_cases:
+  - Enterprise AI platforms for a global bank
+  - Multi-step agentic AI workflows in production
+  - RAG-based retrieval and knowledge systems
+  - Evaluation and monitoring of agentic AI systems
+  - Secure AI serving with safety guardrails and PII redaction
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, Prompt Engineering, RAG, LangGraph,
+      Google ADK, OpenAI API, LLMs, Generative AI, Vector Databases, Knowledge Graphs,
+      Semantic Search, Guardrails, LoRA, RLHF, Fine-Tuning, LLM Evaluation]
+    ml: [Machine Learning, Model Serving]
+    web: [FastAPI, asyncio, APIs, Microservices, REST, gRPC, OpenAPI]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS, AWS S3, AWS Bedrock, SageMaker, EKS, IAM]
+    ops: [MLOps, Docker, Kubernetes, CI/CD, Infrastructure as Code, CloudFormation,
+      Terraform, Observability, OpenTelemetry, vLLM, Distributed Systems]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Event-Driven Architecture, OAuth, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11963743'
+  location: Bengaluru East, IND
+  extracted_at: '2026-11-06T14:12:42.967173'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

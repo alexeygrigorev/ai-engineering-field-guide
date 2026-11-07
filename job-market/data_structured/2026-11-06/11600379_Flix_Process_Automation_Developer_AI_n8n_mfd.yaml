@@ -1,0 +1,59 @@
+company:
+  name: Flix
+  stage: null
+  focus: Intercity bus travel and mobility services
+position:
+  title: Process Automation Developer – AI & n8n (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds applied AI components with LLM services,
+      structured outputs, tool calling, and agent workflows,
+      directly shaping LLM behaviour in automations. It combines
+      Python/RPA automation with hands-on agent and prompt-level
+      work.
+  responsibilities:
+  - Build and deploy automation solutions using Python, n8n, UiPath and approved AI
+    technologies, including workflow logic, integrations, and exception handling
+  - Develop applied AI components using LLM services, structured outputs, tool calling,
+    and agent workflows with measurable business value
+  - Create Python and SQL data processing pipelines for reconciliations, validations,
+    transformations, and operational controls
+  - Integrate enterprise systems such as Oracle Fusion via REST APIs, JSON, databases,
+    and connectors
+  - Use AI-assisted development tools like Claude Code to accelerate prototyping and
+    deployment
+  - Own production readiness with testing, access management, error handling, logging,
+    and audit trails
+  - Take long-term ownership of delivered solutions and coordinate with platform,
+    security, and tech teams
+  - Engage with global accounting stakeholders to translate manual processes into
+    automation approaches
+  use_cases:
+  - Automating global accounting processes (GL, AP, AR, reconciliations, invoice processing)
+  - AI-enabled workflow automation for finance operations
+  - Data reconciliations, validations, and operational controls
+  - Enterprise system integration with Oracle Fusion
+  skills:
+    genai: [LLMs, Anthropic API, Structured Outputs, Function Calling, Agentic Workflows,
+      Claude Code, LangChain, AI Agents, MCP]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: [Snowflake, Databases]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, UiPath, RPA, Oracle Fusion, Power BI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11600379'
+  location: Gurugram, IND
+  locations:
+  - Gurugram, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T12:18:53.104222'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

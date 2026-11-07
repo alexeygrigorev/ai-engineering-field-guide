@@ -1,0 +1,51 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Investment banking, asset management, and financial services
+position:
+  title: Lead Software Engineer - AI & Quantitative Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a quantitative software engineer building
+      investment management systems. AI appears only as adopting
+      AI-assisted development tools (coding, code review) to
+      improve engineering workflows — the deliverable is developer
+      workflow, not model behavior, so this is ai-support per the
+      edge case rules.
+  responsibilities:
+  - Design, develop, and troubleshoot software solutions across multiple technical
+    areas in Asset Management Technology
+  - Develop secure, high-quality production code and review/debug code written by
+    others
+  - Drive team adoption of AI-assisted engineering practices with validation standards
+    for correctness, performance, and security
+  - Apply SDLC toolchain and automation capabilities to improve delivery value
+  - Identify and automate remediation of recurring issues to improve operational stability
+  - Lead evaluation sessions with external vendors, startups, and internal teams on
+    architecture and technical fit
+  - Work with stakeholders to develop functional specifications for front-office investment
+    applications
+  use_cases:
+  - 'Investment management cycle support: research, portfolio management, and investing'
+  - Front-office quantitative applications for asset management
+  - Data processing and reporting for financial services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Oracle]
+    data: [Spark, Databricks]
+    cloud: [AWS, AWS S3, AWS Lambda]
+    ops: [Terraform, Infrastructure as Code, CI/CD]
+    languages: [Python, Java]
+    domains: []
+    other: [Responsible AI, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11849612'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:23:16.128919'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

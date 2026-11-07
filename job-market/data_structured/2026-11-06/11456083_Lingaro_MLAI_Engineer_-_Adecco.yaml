@@ -1,0 +1,35 @@
+company:
+  name: Lingaro
+  stage: null
+  focus: Unknown (description provides no company information)
+position:
+  title: ML/AI Engineer - Adecco
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description contains only generic diversity and
+      inclusion boilerplate with no actual responsibilities,
+      requirements, or technical content, so the classification
+      steps cannot be applied.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11456083'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:53:11.349617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

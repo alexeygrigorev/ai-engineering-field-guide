@@ -1,0 +1,54 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services technology
+position:
+  title: Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms
+    Technology)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the AI Platform title, the responsibilities are
+      generic full-stack engineering on cloud systems; AI appears
+      only as coding tools/copilots used for productivity, which
+      is explicitly ai-support per the edge cases.
+  responsibilities:
+  - Lead a portfolio of technology projects and a team of developers building distributed
+    microservices and full-stack solutions for regulatory needs
+  - Collaborate with digital product managers to deliver cloud-based solutions supporting
+    financial empowerment
+  - Drive end-to-end design and implementation of large-scale distributed cloud-native
+    systems
+  - Provide technical leadership across multiple teams, shaping system architecture
+    and technology direction
+  - Partner with architects and product leaders to define platform roadmaps and shared
+    services strategy
+  - Mentor engineers and participate in technology communities
+  use_cases:
+  - Regulatory compliance solutions for the enterprise
+  - Cloud-based financial services experiences for consumers
+  - Enterprise platform and shared services for technology teams
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, APIs, Full-Stack Development]
+    databases: [NoSQL, Relational Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Git, GitHub, Observability,
+      Distributed Systems]
+    languages: [Java, Scala, Python, Go, Node.js, JavaScript, TypeScript, Rust, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11387668'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - Richmond, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:39:06.697752'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

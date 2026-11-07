@@ -1,0 +1,55 @@
+company:
+  name: OneByZero
+  stage: null
+  focus: Agentic AI systems integrator for APAC enterprises
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: fine-tuning (CPT,
+      SFT, LoRA, QLoRA), designing RAG pipelines, multi-agent
+      orchestration, eval pipelines, and prompt versioning. LLM
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design end-to-end LLM system architecture for enterprise use cases from requirements
+    to production
+  - Pre-train and fine-tune LLMs and domain-specific models using CPT, SFT, LoRA,
+    and QLoRA
+  - Design and run model evaluation pipelines benchmarking performance, accuracy,
+    and cost
+  - Optimize models for latency, throughput, token efficiency, and inference cost
+    in production
+  - Integrate fine-tuned models into multi-agent pipelines with agent orchestration
+    teams
+  - Implement prompt versioning, rollback strategies, and model monitoring post-deployment
+  - Define enterprise integration patterns for GenAI systems including governance
+    and compliance
+  - Contribute hands-on code, perform code reviews, and translate client requirements
+    into model adaptation strategies
+  use_cases:
+  - Agentic AI systems for banks, telcos, insurers, and retailers in Asia Pacific
+  - Client-specific fine-tuned LLM models for regulated enterprise domains
+  - Multi-agent production pipelines with RAG retrieval for enterprise data
+  - Production GenAI deployment with latency, cost, and governance constraints
+  - Model evaluation and benchmarking across fine-tuning approaches
+  skills:
+    genai: [LLMs, RAG, LoRA, Agentic Workflows, Prompt Engineering, Guardrails, Fine-Tuning,
+      Generative AI, AWS Bedrock]
+    ml: [Model Training, Model Evaluation, Transformers, Machine Learning]
+    web: [APIs]
+    databases: [OpenSearch, Pinecone, Weaviate, Milvus, FAISS, Vector Search]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, EKS]
+    ops: [Docker, Kubernetes, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11391731'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:43:00.933261'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

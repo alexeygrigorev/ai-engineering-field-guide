@@ -1,0 +1,69 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare technology, pharmacy benefits, and care delivery
+    services
+position:
+  title: Senior AI or ML Engineer - Conversational AI, Bot Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-driven agents, prompts, RAG
+      pipelines, and orchestration frameworks (Google ADK,
+      LangGraph, LangChain), directly shaping model behaviour and
+      output quality. It also builds evaluation assets and
+      guardrails, confirming ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and continuously improve enterprise-grade chatbots,
+    voice bots, virtual assistants, and copilots
+  - Build single-agent and multi-agent solutions using frameworks such as Google ADK,
+    LangGraph, LangChain, Semantic Kernel, AutoGen, and CrewAI
+  - Design and optimise conversational experiences using Google GECX including flows,
+    intents, entities, fulfilment, and integrations
+  - Implement RAG pipelines including ingestion, chunking, embeddings, vector search,
+    reranking, and grounding
+  - Build fulfilment services, APIs, microservices, and connectors using Python, Java,
+    and Spring Boot
+  - Build CI/CD pipelines and support containerised deployments on Docker, Kubernetes,
+    GKE, and AKS
+  - Implement logging, tracing, monitoring, guardrails, and Responsible AI controls
+    for production readiness
+  - Lead and mentor engineers, conduct design reviews, and set reusable standards
+    while remaining hands-on
+  use_cases:
+  - Enterprise chatbots, voice bots, virtual assistants, and copilots for healthcare
+    services
+  - Contact-centre automation with interruption handling, escalation, and human-agent
+    hand-off
+  - Agentic workflows for multi-step task completion across chat, voice, web, and
+    mobile channels
+  - Knowledge retrieval and grounded answers from enterprise knowledge repositories
+    via RAG
+  - Integration of conversational agents with CRM, claims, and workflow platforms
+  skills:
+    genai: [Conversational AI, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      Function Calling, Prompt Engineering, RAG, Embeddings, Semantic Search, Vector
+        Search, Guardrails, LLM Evaluation, Google ADK, LangGraph, LangChain, Semantic
+        Kernel, AutoGen, CrewAI, Google GECX, Gemini, Azure OpenAI, Azure AI Search,
+      OpenAI API, Anthropic API, LLMs, Generative AI, LLMOps]
+    ml: [Fine-Tuning, Model Evaluation, NLP]
+    web: [REST APIs, APIs, Microservices, Spring Boot, Webhooks]
+    databases: [Pinecone, Weaviate, FAISS, Milvus, Chrom, Elasticsearch, Vector Databases,
+      Databases]
+    data: []
+    cloud: [GCP, Azure, Vertex AI]
+    ops: [CI/CD, Docker, Kubernetes, GKE, AKS, Monitoring, Observability, MLOps, LangSmith,
+      PromptFlow, Ragas, DeepEval, TruLens, Arize, DevOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Responsible AI, Code Review, Distributed Systems, Automated Testing, Contact
+        Centre Solutions, Speech Recognition, Text-to-Speech]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11773796'
+  location: Noida, IND
+  extracted_at: '2026-11-06T13:10:19.824051'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

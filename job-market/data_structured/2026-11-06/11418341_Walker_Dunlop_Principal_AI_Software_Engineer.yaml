@@ -1,0 +1,51 @@
+company:
+  name: Walker & Dunlop
+  stage: null
+  focus: Commercial real estate capital and financing services
+position:
+  title: Principal AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, RAG/context engineering,
+      model selection/routing, and LLM evaluation/guardrails —
+      directly shaping LLM behavior, making it ai-first.
+  responsibilities:
+  - Own complex AI and platform initiatives end-to-end, delivering business-facing
+    capabilities on the agent platform
+  - Design, build and maintain agentic workflows for loan intake, document review
+    and servicing
+  - Lead model selection and routing, evaluating models on cost, latency and quality
+  - Design interfaces used by other teams, including MCP tool servers, agent handoffs,
+    subagents and human-in-the-loop checkpoints
+  - Establish evaluation and reliability practices, including evaluation sets, LLM-as-judge
+    and regression testing
+  - Mentor engineers and raise the engineering bar through collaboration
+  use_cases:
+  - Loan origination and servicing platform automation
+  - Loan intake agentic workflows
+  - Document review automation
+  - Atlas AI collaboration platform with reusable agents and skills across the organization
+  - Model routing and evaluation for production AI systems
+  skills:
+    genai: [Agentic Workflows, LLMs, Claude Agent SDK, LangGraph, Pydantic AI, MCP,
+      A2A, Prompt Engineering, Context Engineering, RAG, Embeddings, Hybrid Search,
+      Reranking, Guardrails, LLM Evaluation, Multi-Agent Systems]
+    ml: [Model Evaluation]
+    web: [FastAPI]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Real Estate]
+    other: [Event Sourcing, Domain-Driven Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11418341'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:47:44.526242'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

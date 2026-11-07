@@ -1,0 +1,53 @@
+company:
+  name: Singapore AI Safety Hub
+  stage: null
+  focus: Building globally trusted AI verification mechanisms
+position:
+  title: Research Engineer - AI Verification
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI verification mechanisms (distinguishing
+      inference vs training workloads, zero-knowledge proofs of AI
+      inference, white-box evaluations) themselves, which counts
+      as shaping under the evals/guardrails rule. The verification
+      targets are large AI models/LLM inference, so it classifies
+      as ai-first.
+  responsibilities:
+  - Build technical prototypes supporting AI verification
+  - Support technical communications with policymakers and experts
+  - Collaborate with external experts and international partners
+  - Work across ML engineering, inference pipelines, algorithms, frontend demos, and
+    cybersecurity
+  - Explore robust, privacy-preserving, auditable verification mechanisms
+  use_cases:
+  - Distinguishing AI inference from training workloads on GPUs
+  - Zero-knowledge proofs of AI inference
+  - Privacy-preserving white-box AI evaluations
+  - Verifying activity inside datacenters running large AI models
+  - Supporting international AI agreements and governance through verification
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning, Model Training, Zero-Knowledge Proofs]
+    web: [Frontend Demos]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference Pipelines]
+    languages: []
+    domains: [AI Verification]
+    other: [Cybersecurity, Confidential Computing, Hardware Engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11867652'
+  location: Singapore, SGP
+  locations:
+  - Singapore, SGP
+  - La Flèche, FRA
+  - San Francisco, USA
+  - London, GBR
+  remote: true
+  extracted_at: '2026-11-06T13:25:18.560031'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Hertz
+  stage: null
+  focus: Vehicle rental and mobility services
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds applied AI capabilities themselves—agents,
+      automated workflows, and AI-enabled tools shipped to
+      production—so they shape LLM/agent behavior (Step 1 yes,
+      Step 2 ai-first). The analytics and pipeline work is
+      secondary.
+  responsibilities:
+  - Mine enterprise data across operations, customer behavior, pricing, and internal
+    systems for trends, anomalies, and opportunities
+  - Curate and join multi-source datasets into analysis-ready assets on Databricks
+  - Deliver decision-moving analyses with documented assumptions, lineage, and limitations
+  - Ship production capabilities including scheduled pipelines, agents, automated
+    workflows, lightweight web apps, and knowledge tools
+  - Own the full journey from discovery to deployment including refreshes, monitoring,
+    and feedback loops
+  - Quantify business impact of AI and automation by establishing baselines and tracking
+    outcomes
+  - Collaborate with business partners and technical leaders across Hertz to validate
+    and scale solutions
+  - Present findings to business and technical audiences
+  use_cases:
+  - Data discovery and anomaly detection across enterprise operational data
+  - Pricing and operational decision support through analytics
+  - AI agents and automated workflows for day-to-day team operations
+  - Knowledge tools putting data at the point of need
+  - Measuring ROI of AI and automation investments
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: [Lakehouse]
+    data: [Databricks, Spark]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11343664'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:32:21.362828'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

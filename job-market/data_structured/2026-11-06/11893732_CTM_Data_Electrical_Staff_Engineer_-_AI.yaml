@@ -1,0 +1,54 @@
+company:
+  name: CTM Data & Electrical
+  stage: null
+  focus: Financial product price comparison for consumers
+position:
+  title: Staff Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production LLM applications
+      directly, including RAG, vector search, tool calling,
+      agentic workflows, guardrails and evaluation frameworks,
+      which is shaping model behaviour and output quality. LLM
+      components are central, so it is ai-first.
+  responsibilities:
+  - Set technical direction, architecture and roadmap for AI-powered products and
+    capabilities
+  - Lead complex AI delivery from concept to production, acting as the go-to technical
+    authority for AI challenges
+  - Design, develop and deploy LLM-powered applications including RAG, vector search,
+    tool calling and agentic workflows
+  - Establish evaluation, observability, tracing, monitoring, fallback and rate-limiting
+    approaches for production reliability
+  - Embed security, safety and governance controls including prompt injection defences,
+    PII handling, output guardrails and human-in-the-loop oversight
+  - Influence engineering strategy across teams through cross-team architectural reviews
+    and model and vendor selection
+  use_cases:
+  - Financial decision-making and product comparison experiences for millions of consumers
+  - Production LLM-powered applications with retrieval and agentic capabilities
+  - Trustworthy, secure and compliant AI in a regulated consumer finance environment
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Function Calling, Vector Search, Context
+        Engineering, Guardrails, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893732'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Peterborough, GBR
+  extracted_at: '2026-11-06T13:48:54.679112'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

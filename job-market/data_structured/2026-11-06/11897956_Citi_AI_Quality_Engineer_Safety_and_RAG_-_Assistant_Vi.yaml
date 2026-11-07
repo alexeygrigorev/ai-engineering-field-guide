@@ -1,0 +1,70 @@
+company:
+  name: Citi
+  stage: null
+  focus: |-
+    Global banking and financial services, retail and wealth
+    risk technology
+position:
+  title: AI Quality Engineer, Safety and RAG - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and executes evaluation of LLM, RAG, and
+      agentic systems — retrieval validation,
+      faithfulness/groundedness evals with RAGAS/TruLens/DeepEval,
+      prompt regression suites, and red-teaming/guardrail testing.
+      Building evals and judging model output quality is shaping
+      model behaviour, and LLMs/agents are the target, so ai-
+      first.
+  responsibilities:
+  - Design end-to-end test strategies for Agentic AI pipelines including single- and
+    multi-agent workflows
+  - Validate RAG pipelines across ingestion, chunking, embedding, retrieval, reranking,
+    and generation stages
+  - Evaluate faithfulness, groundedness, and answer relevance using frameworks like
+    RAGAS, TruLens, and DeepEval
+  - Build automated test harnesses and evaluation pipelines integrated into CI/CD
+    for continuous agent and model validation
+  - Conduct red-teaming and adversarial testing for prompt injection, jailbreaks,
+    and unsafe model behavior
+  - Validate AI safety controls including guardrails, PII leakage, bias/fairness,
+    and OWASP LLM Top 10 risks
+  - Define and execute performance, reliability, and cost-efficiency testing for AI
+    services and endpoints
+  - Collaborate with MLOps and cybersecurity teams on observability, monitoring, and
+    AI threat modeling
+  use_cases:
+  - Quality and safety assurance for autonomous agentic AI systems in retail and wealth
+    risk
+  - Validation of RAG pipelines for accurate, grounded, relevant answers
+  - Red-teaming and adversarial testing to prevent jailbreaks, prompt injection, and
+    unsafe outputs
+  - Performance and reliability testing of AI inference endpoints and agent orchestration
+    services
+  - PII leakage and privacy compliance testing in regulated banking environments
+  - Continuous automated evaluation of LLM behavior across model and prompt versions
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, AI Agents, AutoGen, CrewAI,
+      LangGraph, LLMs, Embeddings, MCP, Guardrails, Prompt Engineering, RLHF]
+    ml: [LLM Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, MLOps, Monitoring, Observability]
+    languages: []
+    domains: []
+    other: [RAGAS, TruLens, DeepEval, Great Expectations, Deequ, AI Fairness 360,
+      Aequitas, Red-Teaming, Chaos Engineering, GDPR, OWASP Top 10 for LLM Applications,
+      Load Testing, SLA Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11897956'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - DLF Cybercity, IND
+  extracted_at: '2026-11-06T13:52:52.337811'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

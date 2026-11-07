@@ -1,0 +1,53 @@
+company:
+  name: Vanta
+  stage: null
+  focus: Continuous security monitoring and trust management platform
+position:
+  title: Senior Software Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent harnesses, tool calling, context
+      management, model orchestration, retrieval, and evaluation
+      tooling for LLM products - directly shaping model behavior
+      and output quality, so it is ai-first.
+  responsibilities:
+  - Build shared SDKs, APIs, and infrastructure for AI features and agentic workflows
+  - Integrate durable execution infrastructure for long-running agent workflows with
+    checkpointing, retries, human-in-the-loop, and recovery
+  - Evolve the agent harness for tool calling, context management, memory, and model
+    orchestration
+  - Develop evaluation and debugging tools to turn production failures into measurable
+    improvements
+  - Improve model integrations, retrieval, and context delivery for accurate AI behavior
+  - Own platform capabilities through rollout and operation including reliability,
+    observability, and performance
+  - Partner with product teams to prototype solutions and drive adoption of reusable
+    capabilities
+  use_cases:
+  - Trustworthy AI products for security compliance automation
+  - Reliable long-running agent workflows with human-in-the-loop steps
+  - Agent execution with tool calling and context management
+  - Reproducible evaluation and debugging of AI behavior in production
+  - Retrieval and context delivery for accurate AI responses
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, Function Calling, RAG, LLM Evaluation,
+      Embeddings]
+    ml: []
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Durable Execution]
+    languages: []
+    domains: []
+    other: [Developer Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12039645'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:36:56.912676'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

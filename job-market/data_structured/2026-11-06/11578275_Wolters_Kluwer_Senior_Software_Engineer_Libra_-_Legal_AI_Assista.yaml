@@ -1,0 +1,45 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Legal & regulatory software and AI platform
+position:
+  title: Senior Software Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack product engineer; AI appears mainly
+      as a bonus (LLM-powered products) and as AI coding agents
+      (Cursor, Claude Code) used for developer productivity.
+      Responsibilities involve building features end-to-end, not
+      shaping model behavior, prompts, or retrieval.
+  responsibilities:
+  - Design, implement, and maintain product features across the stack from backend
+    APIs to frontend interfaces
+  - Collaborate with product and design teams to deliver intuitive user experiences
+  - Ensure code quality, security, and scalability through best practices
+  - Contribute to technical decision-making and shape engineering culture
+  - Explore and integrate AI tools and agents to enhance developer productivity and
+    product capabilities
+  use_cases:
+  - Legal research and drafting automation for lawyers
+  - AI-powered legal assistant product
+  - Automating knowledge work for legal and compliance professionals
+  skills:
+    genai: [Cursor, Claude Code, LLMs]
+    ml: []
+    web: [FastAPI, Svelte]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, asyncio, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11578275'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:14:46.541790'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

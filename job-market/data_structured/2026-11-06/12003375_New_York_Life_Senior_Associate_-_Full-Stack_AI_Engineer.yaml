@@ -1,0 +1,52 @@
+company:
+  name: New York Life
+  stage: null
+  focus: Life insurance and financial services
+position:
+  title: Senior Associate - Full-Stack AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack investment technology application
+      engineering role. Generative AI is mentioned as a lever to
+      "increase productivity" and the required skills list
+      Bedrock/Claude/OpenAI/MCP, but no responsibilities describe
+      shaping model behavior through prompts, RAG, agent flows, or
+      fine-tuning. The role builds business applications and data
+      flows that consume AI services, making it ai-support.
+  responsibilities:
+  - Design, develop, and build scalable, high-performance applications for the investment
+    business
+  - Design, develop, and maintain data flows between Trading, Accounting, and Datawarehouse
+    platforms
+  - Conduct proofs of concept and develop prototypes to evaluate new technologies
+  - Design and develop reusable components, frameworks, and modern capabilities for
+    cross-team use
+  - Stay current with Generative AI, LLMs, and cloud technologies to identify efficiency
+    and automation opportunities
+  - Leverage Generative AI to increase productivity and streamline processes for investment
+    business groups
+  use_cases:
+  - Investment technology applications for New York Life's investment business
+  - Data flows between Trading, Accounting, and Datawarehouse platforms
+  - Productivity and process streamlining via Generative AI for investment business
+    groups
+  skills:
+    genai: [Anthropic API, OpenAI API, MCP, Generative AI, LLMs]
+    ml: []
+    web: [Angular]
+    databases: [Oracle, SQL Server, PostgreSQL]
+    data: []
+    cloud: [AWS Bedrock, AWS, Azure, GCP]
+    ops: []
+    languages: [Python, C#, TypeScript, .NET]
+    domains: []
+    other: [Agile, SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12003375'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:24:08.221486'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Harmonic Security
+  stage: Backed by N47, Ten Eleven Ventures, and In-Q-Tel
+  focus: AI governance and control platform for enterprise security
+position:
+  title: AI/ML Product Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour: it builds classification
+      and clustering models over unstructured AI usage data, plus
+      evaluation frameworks, ground-truth sets, and error analysis
+      that determine output quality. The described work is
+      classical applied ML (supervised classification,
+      unsupervised clustering, embeddings) with no LLM prompting,
+      retrieval, or agent design, so it is ml-first.
+  responsibilities:
+  - Turn raw AI usage data into customer-facing insights end to end, from framing
+    the question through production and iteration
+  - Make sense of unstructured data at scale using classification, clustering, and
+    other fitting approaches
+  - Build and maintain data pipelines behind the models and own their production deployment
+    and reliability
+  - Build evaluation frameworks, ground-truth sets, and error analysis to validate
+    insights before customers see them
+  - Quantify uncertainty and communicate confidence levels in product outputs
+  - 'Shape the product surface: what the model shows, to whom, and why'
+  - Keep pace with new models and approaches, adopting and retiring them as evidence
+    dictates
+  - Work across a polyglot stack (Python, Java/Spring Boot, TypeScript) deployed on
+    AWS
+  use_cases:
+  - Classifying and clustering how people and AI agents use AI tools in the enterprise
+  - Real-time analysis of unstructured AI usage data to surface value and risk insights
+  - AI governance and security visibility for enterprise customers
+  - Turning behaviour and intent signals into trusted, actionable product insights
+  skills:
+    genai: []
+    ml: [Machine Learning, Embeddings, Model Evaluation, Model Deployment]
+    web: [Spring Boot]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: []
+    languages: [Python, Java, TypeScript]
+    domains: []
+    other: [Statistics]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11487653'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-11-06T11:58:14.405225'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

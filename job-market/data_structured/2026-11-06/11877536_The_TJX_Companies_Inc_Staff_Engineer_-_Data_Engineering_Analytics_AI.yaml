@@ -1,0 +1,56 @@
+company:
+  name: The TJX Companies, Inc.
+  stage: null
+  focus: Off-price retail (TJ Maxx, Marshalls, HomeGoods)
+position:
+  title: Staff Engineer - Data Engineering, Analytics & AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role: the person builds ETL
+      pipelines, data warehouses, and data platforms that feed
+      analytics, ML, and GenAI initiatives owned by other teams.
+      No prompt engineering, RAG design, model training, or
+      output-quality work is described; AI/ML is only an enabled
+      use case for the data foundations.
+  responsibilities:
+  - Design, develop, and optimize scalable data integration solutions supporting enterprise
+    analytics, reporting, and AI/ML use cases
+  - Design and maintain enterprise ETL/ELT pipelines using Talend, with Informatica
+    and IBM DataStage
+  - Build modern data solutions on Snowflake and Databricks with best practices for
+    performance, security, and governance
+  - Develop data warehouse solutions with dimensional, relational, and analytical
+    data models
+  - Write and optimize advanced SQL queries, stored procedures, ETL jobs, and batch
+    processes
+  - Implement scheduling and orchestration with Control-M, AutoSys, DAC, TAC, TMC,
+    or comparable platforms
+  - Apply DevOps and CI/CD automation to data pipelines, database changes, and deployments
+  - Enable analytics, Data Science, ML, and GenAI initiatives with governed, trusted
+    data foundations; mentor junior data engineers
+  use_cases:
+  - Enterprise analytics and reporting for merchandising and distribution solutions
+  - Data foundations enabling Data Science, Machine Learning, and GenAI initiatives
+  - Business intelligence for retail, merchandising, and supply chain operations
+  - Enterprise data integration and warehousing across hybrid cloud environments
+  skills:
+    languages: [SQL, Python, Bash]
+    domains: []
+    web: []
+    cloud: [Azure, Microsoft Fabric]
+    data: [Data Pipelines, Data Warehousing, Data Modeling, Talend, Informatica, IBM
+        DataStage, Databricks, Azure Data Factory, Data Governance]
+    ml: []
+    databases: [Snowflake, Azure Synapse Analytics]
+    genai: []
+    ops: [CI/CD, DevOps]
+    other: [Control-M, AutoSys, Power BI, Tableau, Cognos, DataOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11877536'
+  location: Hitech City, IND
+  extracted_at: '2026-11-06T13:29:05.497576'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

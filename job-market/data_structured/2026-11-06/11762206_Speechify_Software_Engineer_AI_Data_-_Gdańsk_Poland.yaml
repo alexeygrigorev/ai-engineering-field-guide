@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and listening products
+position:
+  title: Software Engineer, AI Data - Gdańsk, Poland
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and acquisition systems that
+      feed model training runs owned by AI scientists; it moves
+      and processes data rather than shaping model behavior (no
+      prompt work, evals, fine-tuning, or retrieval design by this
+      engineer). Per the dataset-pipeline rule, this is ai-
+      support.
+  responsibilities:
+  - Discover new audio data sources and build reliable pipelines into training datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI scientists to improve training datasets and support next-generation
+    model development
+  - Own engineering projects end-to-end from problem discovery through implementation
+    and continuous improvement
+  use_cases:
+  - Text-to-speech audio products for reading and learning
+  - Building petabyte-scale datasets to train next-generation TTS models
+  - Turning documents and web content into audio for accessibility (dyslexia, ADD)
+  skills:
+    genai: []
+    ml: [ML Training Data]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Distributed Data Processing, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762206'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:53:31.395602'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

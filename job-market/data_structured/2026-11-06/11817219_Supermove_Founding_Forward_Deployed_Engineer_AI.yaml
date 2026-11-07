@@ -1,0 +1,51 @@
+company:
+  name: Supermove
+  stage: Raised $30M from a16z
+  focus: Software and AI for moving companies
+position:
+  title: Founding Forward Deployed Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM agent behaviour directly: improving
+      prompts and workflows, reviewing agent sessions, designing
+      how voice agents and Autopilot act in customer operations.
+      Forward Deployed Engineers adapting and deploying AI
+      solutions at customer sites are ai-first per the edge cases.
+  responsibilities:
+  - Build and lead the Forward Deployed Engineering function alongside the founders
+  - Write production code to build and improve AI agents, integrations, and core product
+    capabilities
+  - Own technical deployments for major enterprise accounts from discovery through
+    go-live
+  - Design how Voice Agents and Autopilot fit into customer operations, balancing
+    AI action and human involvement
+  - Review agent calls and sessions, investigate failures, improve prompts, workflows,
+    and code
+  - Turn patterns from customer deployments into reusable product improvements
+  - Use data to measure production performance and demonstrate customer impact
+  use_cases:
+  - Voice AI agents that answer leads, book moves, and hand off to humans
+  - Agent platform (Autopilot) answering business questions in plain language
+  - AI agents working inboxes and updating jobs for moving companies
+  - Enterprise AI deployments inside multi-location moving and logistics operations
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering]
+    ml: []
+    web: [APIs, Integrations]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11817219'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:17:58.451711'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

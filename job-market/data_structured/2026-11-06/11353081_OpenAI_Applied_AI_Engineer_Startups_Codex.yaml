@@ -1,0 +1,53 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: |-
+    AI research and deployment company building general-purpose
+    AI products
+position:
+  title: Applied AI Engineer, Startups (Codex)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds Codex workflows, integrations, and
+      automations with customers and evaluates their effectiveness
+      and reliability, and translates feedback into model behavior
+      and product improvements. This is forward-deployed-style
+      work that shapes how an AI coding agent is applied and
+      evaluated, so it is ai-first despite heavy community
+      engagement duties.
+  responsibilities:
+  - Partner with top startups to identify where Codex can impact how teams build and
+    ship software
+  - Design and lead technical talks, live demos, workshops, hackathons, and hands-on
+    programmes for the startup ecosystem
+  - Work directly with selected customers to build Codex workflows, integrations,
+    and automations and resolve technical blockers
+  - Evaluate effectiveness and reliability of Codex-based solutions in customer environments
+  - Turn successful approaches into reusable code examples, guides, and tools
+  - Translate customer experiences and developer feedback into actionable insights
+    for Product, Research, and Engineering teams
+  use_cases:
+  - AI-assisted software development and coding workflows for startups
+  - Codex integrations and automations in customer engineering teams
+  - Developer enablement and adoption of AI coding tools
+  - Translating developer feedback into model behavior and product improvements
+  skills:
+    genai: [Codex]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [AI Coding Tools, Developer Tools, Integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11353081'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:35:27.262426'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

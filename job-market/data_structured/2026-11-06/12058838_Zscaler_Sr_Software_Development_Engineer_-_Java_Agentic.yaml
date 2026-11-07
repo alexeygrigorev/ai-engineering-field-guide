@@ -1,0 +1,47 @@
+company:
+  name: Zscaler
+  stage: null
+  focus: Cloud security, Zero Trust SASE platform
+position:
+  title: Sr. Software Development Engineer - Java/ Agentic AI/ Big Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and orchestrates agentic AI systems—multi-
+      agent workflows, tool integrations, agent orchestration,
+      prompt engineering—which is directly shaping LLM/agent
+      behavior. Hence ai-first.
+  responsibilities:
+  - Architect and scale distributed data pipelines for high-throughput ingestion,
+    feature engineering, and real-time data serving
+  - Design, build, and orchestrate agentic AI systems including multi-agent workflows
+    and tool integrations
+  - Manage state, observability, and real-time agent serving for agentic frameworks
+  - Automate complex analytics, anomaly detection, and threat triage with cross-functional
+    partners
+  - Lead technical implementation, debugging, and end-to-end monitoring for production-grade
+    agentic frameworks
+  use_cases:
+  - Real-time analysis of massive network data volumes
+  - Anomaly detection and threat pattern identification
+  - Automated threat triage
+  - Autonomous multi-agent network analytics
+  skills:
+    genai: [LLMs, Multi-Agent Systems, Agentic Workflows, LangGraph, Prompt Engineering]
+    ml: [Anomaly Detection]
+    web: [Spring Boot]
+    databases: [Redis, BigQuery]
+    data: [Data Pipelines, Feature Engineering]
+    cloud: [Azure, GCP, AWS]
+    ops: [Distributed Systems]
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12058838'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:43:55.526109'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

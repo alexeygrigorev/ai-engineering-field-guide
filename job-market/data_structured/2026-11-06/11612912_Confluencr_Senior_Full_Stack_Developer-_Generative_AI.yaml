@@ -1,0 +1,53 @@
+company:
+  name: Confluencr
+  stage: null
+  focus: Influencer and performance marketing agencies group
+position:
+  title: Senior Full Stack Developer- Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building AI-powered products
+      using RAG, structured outputs, tool calling, and agentic
+      workflows, and evaluating models, prompts, and architectures
+      - directly shaping LLM behavior and output quality. This
+      makes it ai-first despite the full-stack engineering title.
+  responsibilities:
+  - Own products end to end, from requirements and MVP definition to production, monitoring,
+    and iteration
+  - Integrate LLMs and generative AI capabilities into products and business workflows
+  - Build AI features using structured outputs, tool calling, RAG, and agentic workflows
+  - Evaluate models, prompts, and architectures to balance quality, latency, reliability,
+    and cost
+  - 'Build full-stack applications: responsive frontends, backend services, APIs,
+    and database schemas'
+  - Integrate third-party services, authentication systems, and background job infrastructure
+  - Prototype ideas quickly, deploy, and use user feedback and business outcomes to
+    guide improvements
+  - Use AI coding tools to accelerate development while maintaining code quality
+  use_cases:
+  - AI-powered influencer marketing SaaS and creator platform features
+  - Internal AI-powered workflow automation for marketing and operations processes
+  - Document processing and semantic search workflows
+  - Multi-step AI agent workflows combined with business rules and external APIs
+  - Consumer-facing SaaS product features built with full-stack engineering
+  skills:
+    genai: [LLMs, Generative AI, Structured Outputs, Function Calling, RAG, Agentic
+        Workflows, Semantic Search, AI Agents, LLM Evaluation, Prompt Engineering]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [NoSQL]
+    data: [Event-Driven Architecture]
+    cloud: [Cloud Infrastructure]
+    ops: [CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: [Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11612912'
+  location: Bengaluru South, IND
+  extracted_at: '2026-11-06T12:21:38.418761'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

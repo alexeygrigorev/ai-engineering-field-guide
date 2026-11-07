@@ -1,0 +1,67 @@
+company:
+  name: American Express
+  stage: null
+  focus: Financial services and payments technology
+position:
+  title: Agentic AI Infrastructure Engineer II - Core Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure (GPU clusters,
+      Kubernetes, storage, networking, observability) that hosts
+      AI workloads, but does not itself shape model behavior
+      through prompts, retrieval, agent design, or training. AI-
+      assisted tools (Copilot, Cursor) and prompt techniques are
+      used to make ops workflows more efficient, which is ai-
+      support per the edge-case rules.
+  responsibilities:
+  - Design, implement, and maintain scalable infrastructure supporting AI-enabled
+    workloads aligned to technical standards
+  - Integrate AI-assisted tools and prompt engineering techniques into deployment,
+    monitoring, and infrastructure support workflows with human oversight
+  - Integrate ML-powered AIOps tools for anomaly detection, failure prediction, and
+    incident correlation
+  - Apply AI coding assistants such as GitHub Copilot, Claude Code, and Cursor to
+    develop infrastructure-as-code artifacts
+  - Design and operate GPU/accelerator compute platforms with scheduling, quota, and
+    capacity management
+  - Build reusable Kubernetes-based platform capabilities for model training, fine-tuning,
+    inference, and agentic workloads
+  - Engineer high-performance storage, networking, and data movement for distributed
+    AI workloads with SLOs
+  - Implement observability and FinOps controls including telemetry, cost attribution,
+    and capacity forecasting
+  - Partner with AI, security, risk, and platform teams for multi-tenant isolation
+    and operational readiness
+  use_cases:
+  - Infrastructure hosting for AI-enabled workloads including training, fine-tuning,
+    inference, and agents
+  - AIOps anomaly detection and incident correlation across distributed systems
+  - AI-assisted runbook generation, incident troubleshooting, and log analysis
+  - GPU/accelerator cluster capacity management and utilization optimization
+  - Multi-tenant AI platform security and cost attribution
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, LangGraph, Semantic Kernel, Fine-Tuning,
+      GitHub Copilot, Claude Code, Cursor, AI Agents]
+    ml: [Anomaly Detection]
+    web: []
+    databases: [SQL Server, Oracle, MySQL, Elasticsearch]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Terraform, Ansible, DevOps, CI/CD, Model Deployment,
+      Observability, Monitoring, Prometheus, Grafana, Linux, Puppet]
+    languages: [Python, Bash, PowerShell]
+    domains: []
+    other: [FinOps, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881384'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - Sunrise, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:30:38.748607'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

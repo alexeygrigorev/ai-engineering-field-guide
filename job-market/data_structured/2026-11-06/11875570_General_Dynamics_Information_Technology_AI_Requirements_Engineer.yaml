@@ -1,0 +1,55 @@
+company:
+  name: General Dynamics Information Technology
+  stage: null
+  focus: IT and mission services for US government and defense
+position:
+  title: AI Requirements Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role elicits and documents requirements, writes Jira
+      stories, and performs functional testing for an application
+      that integrates AI capabilities others build. It does not
+      write prompts, design retrieval, train models, or build
+      evals/guardrails itself, so it does not shape model
+      behaviour. Desirable experience evaluating AI architectures
+      is system-level requirements work, not output-quality
+      shaping.
+  responsibilities:
+  - Define low-level requirements and perform functional validation of new features
+    for an enterprise application integrating AI-enabled capabilities
+  - Elicit, analyze, and document detailed functional requirements with customers
+    and convert them into technical specifications
+  - Translate high-level requirements into actionable Jira user stories and epics
+    for development teams
+  - Conduct functional testing of application features
+  - Serve as technical liaison across systems engineers, developers, and domain experts,
+    articulating AI approach tradeoffs
+  - Coordinate design and development of AI-driven solutions from conception to deployment
+    with existing architecture
+  - Participate in Agile delivery throughout the development lifecycle
+  use_cases:
+  - AI-enabled capabilities for a mission-essential national security application
+  - Requirements definition and functional validation of AI-integrated enterprise
+    software
+  - AI-driven solution integration with existing federal software architecture
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Java, JavaScript]
+    domains: []
+    other: [Jira, Agile, Software Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11875570'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:28:35.325464'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

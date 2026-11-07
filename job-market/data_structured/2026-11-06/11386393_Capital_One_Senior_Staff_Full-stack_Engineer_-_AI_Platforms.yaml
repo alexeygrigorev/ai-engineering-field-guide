@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Consumer banking and credit cards
+position:
+  title: Senior Staff Full-stack Engineer - AI Platforms & Customer Management Modernization
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a hands-on full-stack/platform engineering
+      leadership role modernizing credit card customer management
+      systems. GenAI and agentic AI tools are mentioned only as
+      tools to arm partners with and as expertise in applying AI
+      coding tools for development - not shaping model behavior,
+      prompts, or retrieval themselves. AI coding assistants used
+      to ship faster is ai-support.
+  responsibilities:
+  - Set and deliver the technical agenda for Customer Management foundational platform
+    teams (SRE, Sustained Engineering, Data, Operations)
+  - Manage the credit card customer lifecycle from offer management to retention,
+    enabling real-time intelligent credit decisioning and offers
+  - Drive modernization of monolithic systems into microservice architectures and
+    event-driven platforms
+  - Hands-on full-stack coding across frontend, backend, data processing, and automation
+  - Lead 100+ engineers across multiple directors and mentor senior technical leaders
+  - Stand up and scale a hybrid SRE + Engineering Productitivity function for the
+    Acquisitions engineering org
+  - Design self-service systems enabling non-technical contributors to build marketing
+    experiments, UI treatments, and credit offers
+  - Partner with product management on long-term platform strategy and roadmap
+  use_cases:
+  - Real-time credit decisioning and dynamic credit offers
+  - Credit card customer lifecycle management from acquisition to retention
+  - Self-service marketing experimentation and UI treatments for non-technical users
+  - Legacy system decommissioning and microservices modernization
+  - GenAI-assisted self-service product and offer delivery
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [SPA Frameworks, Microservices]
+    databases: [Data Architecture]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Go, Java, JavaScript, TypeScript, Python, Rust, C#, Scala]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11386393'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - Chicago, USA
+  - Richmond, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:38:57.107886'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

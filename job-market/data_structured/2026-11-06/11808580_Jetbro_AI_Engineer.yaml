@@ -1,0 +1,58 @@
+company:
+  name: Jetbro
+  stage: null
+  focus: |-
+    Enterprise technology consulting and mission-critical
+    systems
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role trains, evaluates, and fine-tunes models (shaping
+      behavior) and explicitly implements agentic AI workflows, an
+      LLM/agent component, so it is ai-first. Classical ML use
+      cases alone would be ml-first, but agentic workflows tip it
+      to ai-first.
+  responsibilities:
+  - Research and evaluate AI/ML techniques for procurement workflows including forecasting,
+    recommendations, document intelligence, and anomaly detection
+  - Develop, train, evaluate, and fine-tune models for supplier scoring, spend analytics,
+    and anomaly detection
+  - Prepare high-quality training and test datasets through cleaning, structuring,
+    validation, and feature engineering
+  - Build and integrate AI services into the product with backend and frontend engineering
+    teams
+  - Implement agentic AI workflows automating multi-step procurement tasks
+  - Develop APIs exposing model capabilities reliably and securely
+  - Monitor deployed model and data performance and implement improvements
+  - Conduct experiments, benchmark models against baselines, and document research
+    and results
+  use_cases:
+  - Supplier scoring
+  - Spend analytics
+  - Forecasting
+  - Recommendations
+  - Document intelligence
+  - Anomaly detection
+  - Procurement workflow automation
+  skills:
+    genai: [Agentic Workflows]
+    ml: [scikit-learn, XGBoost, LightGBM, Machine Learning, Model Training, Fine-Tuning,
+      Model Evaluation, Feature Engineering]
+    web: [APIs]
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11808580'
+  location: Ahmedabad, IND
+  extracted_at: '2026-11-06T13:16:17.235655'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

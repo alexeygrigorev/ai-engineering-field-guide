@@ -1,0 +1,57 @@
+company:
+  name: Robots & Pencils
+  stage: null
+  focus: Applied AI engineering and enterprise agentic AI consulting
+position:
+  title: Sr. AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent frameworks (LangGraph, Bedrock
+      Agents), designs RAG with Bedrock Knowledge Bases and
+      Guardrails, and ships agentic AI systems to production -
+      shaping LLM/agent behaviour. Customer-facing consulting with
+      client engineering teams, but no people management.
+  responsibilities:
+  - Design, implement, and deploy data and AI/ML systems on AWS end-to-end, from concept
+    through production
+  - Establish an agentic AI framework with tooling and service enablement, scaling
+    agent workloads from single-agent pilot to fleet-scale operations
+  - Build data lake pipelines, observability instrumentation, and optimize for performance,
+    reliability, and cost
+  - Maintain production platforms, monitoring for drift, debugging issues, and improving
+    reliability and scalability
+  - Partner closely with AWS Professional Services, client engineering, and data teams
+  - Contribute to data and AI architecture decisions and participate in code reviews
+    and design discussions
+  - Use AI-forward coding tools like Claude Code and Cursor in daily work
+  use_cases:
+  - Enterprise agentic AI platform scaling from single-agent pilot to fleet-scale
+    automated operations
+  - Observability data platform for AI and distributed systems with drift monitoring
+  - Data lake pipelines powering enterprise operations on AWS
+  - AI co-workers integrated into enterprise client workflows
+  skills:
+    genai: [Agentic Workflows, RAG, Guardrails, LangGraph, Claude Code, Cursor, LLM
+        Evaluation, AWS Bedrock]
+    ml: [Model Evaluation, SageMaker Model Monitor]
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Lakes, Iceberg, Parquet, Data Governance, Data Engineering]
+    cloud: [AWS, SageMaker, AWS S3, AWS Lambda, IAM, AWS Glue, Amazon Athena, Amazon
+        Kinesis, Amazon MSK, Lake Formation, AWS CDK, AWS Certified Data Engineer
+        - Associate]
+    ops: [CloudWatch, OpenTelemetry, Prometheus, Grafana, AWS X-Ray, MLOps, LLMOps,
+      CI/CD, Infrastructure as Code, Monitoring]
+    languages: [Python, SQL, KMS]
+    domains: []
+    other: [KMS, Responsible AI, PII Handling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11488005'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:58:37.411243'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

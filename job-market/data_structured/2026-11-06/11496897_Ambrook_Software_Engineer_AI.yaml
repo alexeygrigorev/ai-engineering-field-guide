@@ -1,0 +1,59 @@
+company:
+  name: Ambrook
+  stage: Series B
+  focus: |-
+    Financial infrastructure for family farms and small
+    businesses
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered systems: prompt
+      engineering, evaluation infrastructure, document extraction,
+      transaction tagging, embedding search, and fine-tuning for
+      an AI CFO product. This is directly shaping model behavior
+      and output quality.
+  responsibilities:
+  - Build intelligent systems using LLMs, generative AI, and heuristics to streamline
+    bookkeeping and financial workflows
+  - Own and scale the infrastructure for evaluating those AI systems
+  - Implement document extraction and financial transaction tagging systems
+  - Improve internal tooling for classification, tagging, summarization, and user-in-the-loop
+    AI
+  - Build internal tooling for prompt iteration, embedding search, labeling, and retraining
+  - Collaborate with product, design, and operations to make AI features reliable
+    and intuitive
+  - Contribute to long-term AI strategy including automation decisions and human-in-the-loop
+    confidence measurement
+  use_cases:
+  - Automated bookkeeping assistant for financial workflows
+  - Document extraction from scanned PDFs, CSVs, and emails
+  - Financial transaction tagging and classification
+  - Cashflow management and enterprise P&L analysis
+  - AI CFO for financial decision-making and investment planning
+  skills:
+    genai: [LLMs, Prompt Engineering, Embeddings, Vector Search, Fine-Tuning, Anthropic
+        API, OpenAI API, Gemini, Generative AI, LLM Evaluation]
+    ml: [Machine Learning, Model Evaluation]
+    web: [Next.js, React]
+    databases: [Firestore, BigQuery, Google Cloud Storage]
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Vercel AI SDK, Braintrust]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11496897'
+  location: Denver, USA
+  locations:
+  - Denver, USA
+  - New York, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:59:40.238138'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

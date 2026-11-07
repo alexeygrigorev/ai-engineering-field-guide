@@ -1,0 +1,55 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Consulting and technology services for financial services
+position:
+  title: AI Engineer – Python, Generative AI, LLM/RAG, Cloud AI & MLOpsMLOps & Kubernetes
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications directly: RAG
+      solutions with embeddings and vector databases, prompt
+      engineering, AI agents, and LangChain/Semantic Kernel
+      orchestration. This is shaping model behaviour, with LLMs
+      involved, so ai-first.
+  responsibilities:
+  - Lead the design, development and deployment of AI/ML and Generative AI solutions
+  - Design RAG solutions using embeddings, vector databases, retrieval strategies
+    and prompt engineering
+  - Develop, optimize and evaluate machine learning models, LLM-based applications,
+    AI agents and data pipelines
+  - Architect scalable AI platforms meeting performance, security and reliability
+    requirements
+  - Integrate AI capabilities with APIs, microservices, databases and enterprise applications
+  - Support model deployment, monitoring, versioning and incident resolution through
+    MLOps practices
+  - Mentor AI/ML engineers through coaching, design reviews and delivery support
+  - Support responsible AI, model governance, data protection and human oversight
+  use_cases:
+  - LLM-based applications and AI agents for enterprise solutions
+  - RAG with embeddings and vector databases for retrieval applications
+  - Machine learning and deep learning model development
+  - Production AI platforms with cloud AI services and MLOps
+  - AI-enabled APIs and microservices for enterprise integration
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, AI Agents, Embeddings, LangChain,
+      Semantic Kernel, Fine-Tuning, Guardrails, LLM Evaluation]
+    ml: [TensorFlow, PyTorch, scikit-learn, Deep Learning, Model Evaluation, Feature
+        Engineering]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, SQL, NoSQL]
+    data: [Data Pipelines]
+    cloud: [Azure OpenAI, Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Git, Model Deployment, Model Monitoring,
+      Infrastructure as Code]
+    languages: [Python]
+    domains: [NLP]
+    other: [Agile, Code Review, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027900'
+  location: Hinjawadi, IND
+  extracted_at: '2026-11-06T14:33:05.388554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

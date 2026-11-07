@@ -1,0 +1,58 @@
+company:
+  name: RapidCanvas
+  stage: null
+  focus: |-
+    Hybrid enterprise AI platform combining agents with human
+    expertise
+position:
+  title: Senior AI Engineer (Customer Facing)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds agent systems with
+      LangChain/LangGraph, and develops RAG grounding pipelines
+      contextualizing LLM behavior with client knowledge — clearly
+      shaping LLM/agent behavior. It also resembles a forward-
+      deployed engineer, customer-facing but ai-first.
+  responsibilities:
+  - Interact directly with customers to understand business requirements and translate
+    them into production-ready AI solutions
+  - Architect, build, and integrate intelligent agent systems to automate IT functions
+    using frameworks like LangChain or LangGraph
+  - Develop RAG grounding pipelines to contextualize LLM behavior with client-specific
+    knowledge
+  - Integrate agents with infrastructure signals like logs and APIs into the RapidCanvas
+    platform
+  - Oversee the AI project lifecycle from data preprocessing and model development
+    to deployment, monitoring, and optimization
+  - Collaborate with customer data science teams and internal Solutions Architects,
+    Engineering, and Product teams
+  - Enable and support customers in building their own applications on the RapidCanvas
+    platform
+  - Act as Product Champion, providing feedback to drive product innovation
+  use_cases:
+  - Enterprise AI solutions delivered directly to clients
+  - Automating IT functions with intelligent agents
+  - Client-specific grounded LLM applications via RAG
+  - Multi-step agentic task automation on the RapidCanvas platform
+  - End-to-end AI project lifecycle including deployment and monitoring
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, LangChain, LangGraph, CrewAI, RAG, OpenAI
+        API, Gemini]
+    ml: [Machine Learning, Deep Learning]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, FAISS]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12072853'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:50:11.735970'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

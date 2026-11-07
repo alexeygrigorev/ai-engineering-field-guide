@@ -1,0 +1,51 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Data and AI platform for analytics and AI apps
+position:
+  title: Staff Software Engineer- Databricks AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The team builds LLMOps tooling including evaluating AI
+      agents in production, which means designing evaluation and
+      observation of LLM/agent output quality — a shaping
+      activity. Core engineering is distributed systems for the
+      MLflow platform, but the AI agent evaluation component makes
+      it ai-first.
+  responsibilities:
+  - Define platform strategy and long-term architecture for the MLOps/LLMOps platform
+  - Lead engineering efforts from design to production rollout with high standards
+    for performance and reliability
+  - Solve hard problems in ingesting and querying traces, metrics, and artifacts at
+    scale
+  - Evaluate and observe AI agents in production
+  - Shape APIs and developer experiences for AI developers
+  - Align product, research, and engineering teams on technical direction
+  - Mentor senior engineers through design reviews
+  - Represent the team externally via blog posts, talks, and open-source contributions
+  use_cases:
+  - MLOps and LLMOps platform for tracking ML experiments
+  - Model registry management
+  - Observation and evaluation of AI agents in production
+  - Ingesting and querying traces, metrics, and artifacts at scale
+  - Developer tooling for shipping AI agents to production
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Distributed Systems, MLOps, MLflow]
+    languages: [Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12011923'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:28:47.448833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

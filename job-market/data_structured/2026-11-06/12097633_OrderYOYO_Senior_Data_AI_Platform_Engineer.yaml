@@ -1,0 +1,61 @@
+company:
+  name: OrderYOYO
+  stage: null
+  focus: Online ordering, websites and marketing for restaurants
+position:
+  title: Senior Data & AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds AI into the platform themselves:
+      RAG, Azure OpenAI, agents, and prompt/version management,
+      which is shaping LLM behaviour. It also delivers applied ML
+      models (churn, recommendations, fraud), but the LLM/agent
+      component makes it ai-first.
+  responsibilities:
+  - Design, build and operate production-grade data solutions in Microsoft Fabric
+    (Lakehouse, Warehouse, notebooks, pipelines)
+  - Build and run tested, maintainable production pipelines in Fabric, Python and
+    PySpark
+  - Design scalable ingestion and transformation patterns across source systems while
+    controlling cost and source impact
+  - 'Run the platform in production: monitoring, alerting, incident triage, data-quality
+    checks, lineage and runbooks'
+  - Diagnose and resolve production issues across SQL, Spark, pipelines and semantic
+    models
+  - Lead legacy-to-modern migrations with metric parity, change control and safe decommissioning
+  - 'Build AI into the platform: RAG, Azure OpenAI and agents with prompt and version
+    management'
+  - Deliver applied data science models such as churn, recommendations, personalisation,
+    fraud or risk
+  use_cases:
+  - Executive reporting and analytics for the business
+  - Merchant insights for the restaurant platform
+  - Finance data automation reducing manual Finance work
+  - AI-driven data products delivered to the business
+  - Churn, recommendations, personalisation, fraud and risk models
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [Azure, Azure OpenAI, Azure SQL, Azure Data Lake Storage, RBAC, Azure Key
+        Vault]
+    data: [Databricks, Data Pipelines, PySpark, Delta Lake, Data Modeling, CDC, Data
+        Engineering]
+    ml: [Model Deployment]
+    databases: [SQL Server, SQL]
+    genai: [RAG, AI Agents, Prompt Engineering]
+    ops: [Monitoring, Terraform]
+    other: [Microsoft Fabric, Power BI, DAX, Entra ID, Bicep, Lakehouse Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12097633'
+  location: GBR
+  locations:
+  - GBR
+  - Manchester, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:58:43.532020'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

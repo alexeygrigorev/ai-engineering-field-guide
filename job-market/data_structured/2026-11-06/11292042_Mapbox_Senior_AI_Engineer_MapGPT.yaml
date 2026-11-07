@@ -1,0 +1,57 @@
+company:
+  name: Mapbox
+  stage: null
+  focus: Real-time location platform for maps and navigation
+position:
+  title: Senior AI Engineer, MapGPT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool calling
+      boundaries, model harnesses, evals for non-deterministic LLM
+      behavior, and prompt structure/latency tradeoffs for LLM-
+      backed features. This is directly shaping LLM/agent
+      behavior, so ai-first.
+  responsibilities:
+  - Define product behavior, measurement frameworks, and evaluation systems for non-deterministic
+    AI behavior
+  - Run continuous evaluation of APIs, SDKs, and applications from the end-user position
+    and drive fixes
+  - Own MVP delivery against a north-star technical design
+  - Build data pipelines for ingestion, conflation, entity resolution, and quality
+    checks
+  - Evaluate and adopt external datasets, models, and benchmarks from research and
+    open source
+  - Design feedback loops and instrumentation to convert failures into evaluation
+    cases
+  - Design the boundary between models and the tools they call, including the model
+    harness
+  - Work to latency and cost targets via streaming, caching, model routing, and prompt
+    structure
+  use_cases:
+  - AI-powered navigation and location intelligence (MapGPT)
+  - Search and Places data quality
+  - Making Mapbox platform usable by AI agents
+  - Geospatial data conflation and entity resolution
+  - In-vehicle voice assistant experiences
+  skills:
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    web: []
+    cloud: []
+    data: [Data Pipelines]
+    ml: []
+    databases: [OpenStreetMap]
+    genai: [LLMs, Function Calling, Agentic Workflows, Prompt Engineering, LLM Evaluation,
+      MCP, AI Agents]
+    ops: []
+    other: [Streaming ASR, TTS, Geospatial Data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11292042'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:29:35.279538'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

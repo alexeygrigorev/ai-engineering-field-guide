@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior Gen AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered workflows, RAG
+      pipelines, multi-agent systems, and applies prompt
+      engineering, evals, and guardrails — directly shaping model
+      behaviour, with LLM components throughout, so it is ai-
+      first. Despite the VP title, the description states it is an
+      individual contributor hands-on role.
+  responsibilities:
+  - Lead design and development of enterprise-grade conversational AI and agentic
+    systems for real-time customer interactions
+  - Build and optimize LLM-powered workflows using GPT, Claude, and Gemini models
+  - Design and deploy multi-agent systems to automate complex customer journeys and
+    business workflows
+  - Apply prompt engineering, evaluation frameworks, and guardrails to improve AI
+    response quality, cost, and accuracy
+  - Develop RAG pipelines and integrate vector databases with enterprise knowledge
+    repositories
+  - Build scalable backend services and cloud-native microservices with AI capabilities
+  - Monitor model performance, latency, and operational costs; implement AI governance
+    and observability
+  - Lead a team with responsibility for people, budget, and performance
+  use_cases:
+  - Conversational AI for real-time customer interactions
+  - Intelligent automation of customer journeys and business workflows
+  - Personalized self-service across millions of multilingual interactions
+  - Natural language understanding with grounding in enterprise knowledge
+  - Cost and latency optimization of LLM usage in production
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Agentic Workflows, Multi-Agent Systems,
+      Guardrails, LangChain, LangGraph, CrewAI, Conversational AI, OpenAI API, Anthropic
+        API, Gemini]
+    ml: [Machine Learning]
+    web: [Microservices, REST APIs, React, Angular]
+    databases: [Vector Databases, SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [MLOps, Model Monitoring, Distributed Systems, Observability]
+    languages: [Python, Java]
+    domains: []
+    other: [Responsible AI, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12049015'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:40:32.461857'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

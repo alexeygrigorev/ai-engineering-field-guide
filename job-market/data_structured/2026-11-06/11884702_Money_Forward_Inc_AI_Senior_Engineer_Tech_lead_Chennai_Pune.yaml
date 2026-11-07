@@ -1,0 +1,53 @@
+company:
+  name: Money Forward, Inc.
+  stage: null
+  focus: Fintech, financial software and services
+position:
+  title: AI Senior Engineer Tech lead (Chennai / Pune)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs context engineering (RAG, retrieval, token-
+      budget, memory architecture), agent orchestration, MCP
+      integration, and LLM evaluation harnesses — directly shaping
+      LLM behavior and output quality.
+  responsibilities:
+  - Lead the technical design and delivery of Context and Harness workstreams
+  - Review context formats, ontology models, harness proposals, and integration approaches
+  - Support pilot teams with context conversion, fixture authoring, and evaluation
+  - Define how GitHub, Notion, and Slack content maps into the agent context engine
+  - Establish guidelines for federated context routing and token-budget allocation
+  - Build an ontology proof of concept with YAML-based schemas
+  - Validate integration with agent platforms including access and smoke testing
+  - Capture pilot evidence and contribute to company-wide best practices
+  use_cases:
+  - Agent context engine mapping GitHub, Notion, and Slack content
+  - Context routing and token-budget allocation across sources
+  - Ontology proof of concept with YAML-based schemas
+  - Agent evaluation harness with fixtures, benchmarks, and quality gates
+  - Hallucination and policy-violation detection via guardrails and validation
+  - Sandboxed tool and MCP integration for agent actions
+  skills:
+    genai: [RAG, Context Engineering, Prompt Engineering, MCP, Guardrails, LLMs, Agentic
+        Workflows, LLM Evaluation, Function Calling, Semantic Search]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: [CI/CD, Git]
+    languages: [YAML]
+    domains: []
+    other: [DeepEval, Promptfoo]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884702'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  remote: true
+  extracted_at: '2026-11-06T13:32:37.695994'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Backbase
+  stage: null
+  focus: Digital banking and fintech engagement software
+position:
+  title: Senior AI Applied Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role's core work is full-stack engineering for banking
+      products (Java/Angular microservices). The AI
+      component—contributing to LLM-based voice assistants and
+      personalization engines using OpenAI and ML models—is
+      mentioned only as a secondary contribution, with no evidence
+      the person shapes model behavior via prompts, retrieval, or
+      training. Since AI named as a peripheral contribution to a
+      generic software role, this is ai-support.
+  responsibilities:
+  - Design and deliver complex AI-enabled product capabilities across frontend, backend,
+    APIs, and data pipelines
+  - Lead the full SDLC of digital banking products from architecture to release and
+    maintenance
+  - Improve system architecture and design components integrating across APIs and
+    microservices
+  - Mentor junior engineers, conduct critical code reviews, and raise engineering
+    standards
+  - Contribute to LLM-based voice assistants and real-time personalization engines
+    using OpenAI and ML models
+  - Implement entitlements and fraud prevention services with focus on security, scalability,
+    and resilience
+  - Optimize CI/CD pipelines and reduce technical debt
+  - Collaborate with Architects, Product Owners, and UX Designers in a pod-based model
+  use_cases:
+  - LLM-based voice assistants for digital banking
+  - Real-time personalization engines
+  - Entitlements and fraud prevention services
+  - High-traffic digital banking products
+  skills:
+    languages: [Java, TypeScript]
+    domains: []
+    web: [Spring Boot, Hibernate, Microservices, Angular, RxJS, Vue]
+    cloud: [Cloud]
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: [OpenAI API, LLMs]
+    ops: [Maven, Webpack, Jenkins, CI/CD]
+    other: [Enterprise Integration Patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12094830'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:57:28.358416'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

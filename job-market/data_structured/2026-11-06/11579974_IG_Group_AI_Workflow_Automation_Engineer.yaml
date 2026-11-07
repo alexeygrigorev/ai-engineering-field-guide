@@ -1,0 +1,52 @@
+company:
+  name: IG Group
+  stage: null
+  focus: |-
+    FTSE 100 fintech providing online trading and brokerage
+    services
+position:
+  title: AI Workflow & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, automated responses, and AI-driven
+      workflows in Intercom, and iterates on AI behaviour based on
+      accuracy/tone metrics — directly shaping LLM/conversational
+      model output quality, making it ai-first.
+  responsibilities:
+  - Design, build, and maintain AI-powered workflows, prompts, and automated responses
+    within Intercom and related platforms
+  - Translate business rules, policies, and troubleshooting steps into structured
+    AI guidance for clients and agents
+  - Analyse conversation data and KPIs to improve accuracy, tone, containment, and
+    resolution rates
+  - Collaborate with product, operations, SMEs, and compliance to keep AI content
+    correct, compliant, and up to date
+  - Maintain documentation, testing, and version control for AI and automation changes
+  - Continuously iterate and optimise AI behaviour based on performance insights and
+    feedback
+  use_cases:
+  - AI-powered customer support automation via chat and messaging
+  - Self-service client support workflows
+  - Agent-assist AI guidance
+  - Reducing manual handling and improving resolution times in servicing
+  - Improving containment and deflection rates in customer service
+  skills:
+    genai: [Prompt Engineering, Conversational AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Intercom, Genesys, A/B Testing, Version Control]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11579974'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:14:51.376157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

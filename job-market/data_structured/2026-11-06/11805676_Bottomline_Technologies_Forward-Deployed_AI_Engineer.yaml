@@ -1,0 +1,53 @@
+company:
+  name: Bottomline Technologies
+  stage: null
+  focus: Business payments and cash management solutions
+position:
+  title: Forward-Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and evaluates LLM-driven solutions: Cortex
+      Agents, RAG via Cortex Search, prompt engineering, and LLM-
+      as-judge evaluation frameworks. Shaping model behaviour and
+      output quality directly, with LLM components involved, makes
+      it ai-first.
+  responsibilities:
+  - Design AI solutions for business problems using Snowflake-native capabilities
+  - Build and evaluate ML models using Snowflake ML Functions, Snowpark ML, and Cortex
+    AI
+  - Design and implement Cortex Agents combining structured data queries with document
+    intelligence
+  - Create evaluation frameworks (golden datasets, LLM-as-judge, human review loops)
+  - Build Cortex Search services over unstructured documents
+  - Work with Cortex Analyst semantic views for natural language data access
+  - Present findings and recommendations to business stakeholders
+  - 'Contribute to the AI project lifecycle: framing problems, running spikes, evaluating
+    and iterating'
+  use_cases:
+  - Churn prediction agents
+  - Contract intelligence and document extraction
+  - Partner reporting automation
+  - Anomaly detection on business data
+  - Natural language access to business data
+  - Propensity-to-buy and recommendation models
+  skills:
+    genai: [Cortex AI, AI Agents, LLM Evaluation, Prompt Engineering, RAG, LLMs]
+    ml: [Model Training, scikit-learn, NumPy, NLP, Anomaly Detection]
+    web: [Streamlit]
+    databases: [Snowflake]
+    data: [Feature Engineering, Pandas, Snowpark ML]
+    cloud: []
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11805676'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:15:24.186915'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

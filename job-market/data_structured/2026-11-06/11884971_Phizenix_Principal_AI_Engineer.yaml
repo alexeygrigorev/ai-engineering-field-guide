@@ -1,0 +1,58 @@
+company:
+  name: Phizenix
+  stage: null
+  focus: Professional services and consulting
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs model evaluation rubrics, AI agent
+      governance, prompt data policies, and LLM-integrated
+      services — shaping model behaviour and output quality in
+      production. LLM components are explicitly involved, so it is
+      ai-first.
+  responsibilities:
+  - Design and own the firm's AI productization and governance playbook covering service
+    patterns, security standards, model evaluation rubrics, and production-readiness
+    criteria
+  - Build reusable internal tooling including AI service scaffolding, evaluation and
+    monitoring tooling, and data infrastructure
+  - Establish AI agent governance policies covering agent permissions, code execution
+    controls, and human-in-the-loop enforcement
+  - Partner with Security, Legal, and Compliance to define SOC2/ISO-aligned AI controls,
+    DPA requirements, and prompt data classification policies
+  - Establish standardized deployment patterns using containerization, infrastructure-as-code,
+    and CI/CD templates
+  - Champion AI-assisted development practices including LLM-integrated development
+    workflows and reusable tooling standards
+  - Mentor engineers and tech leads, improving delivery consistency and production
+    readiness
+  - Serve as go-to technical authority on AI/ML and platform architecture for senior
+    stakeholders
+  use_cases:
+  - Multi-tenant AI services with LLM integrations in production
+  - AI agent governance with permissions and human-in-the-loop enforcement
+  - AI security and compliance (SOC2/ISO aligned controls, prompt injection defense)
+  - Model evaluation and monitoring tooling
+  - AI-assisted developer workflows and internal tooling
+  - Microservices architecture and re-platforming of products
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning, Deep Learning]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker, Terraform, DevOps, Infrastructure as Code]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [AI Security, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11884971'
+  location: New York City, USA
+  extracted_at: '2026-11-06T13:34:06.075737'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

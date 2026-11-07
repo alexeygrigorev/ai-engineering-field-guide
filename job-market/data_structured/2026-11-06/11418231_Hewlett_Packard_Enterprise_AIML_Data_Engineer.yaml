@@ -1,0 +1,50 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and networking solutions
+position:
+  title: AI/ML Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains data pipelines, feature
+      stores, and data warehouses that feed AI/ML systems, but
+      never shapes model behaviour — no prompt design, retrieval,
+      fine-tuning, or evaluation. This is data plumbing for AI
+      teams, so ai-support.
+  responsibilities:
+  - Develop, maintain, and optimize data pipelines and workflows, including a Feature
+    Store, for scalable data ingestion and transformation
+  - Design, develop, and architect data engineering pipelines with attention to performance
+    and scalability
+  - Implement advanced data transformations and quality checks to ensure data accuracy,
+    completeness, security, and consistency
+  - Integrate data from diverse sources using AWS S3 and Snowflake for storage and
+    warehousing
+  - Create advanced data models and schemas and ensure data governance best practices
+  - Extract data via APIs and streaming processes, including web crawling and scraping
+  use_cases:
+  - Data pipelines feeding AI-driven support and service tools for networking customers
+  - Self-service and intelligent automation for support experience
+  - Feature Store serving ML/AI workflows
+  - Integration and governance of semi-structured and unstructured data (text, tables,
+    images, video, audio)
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs, Salesforce API]
+    cloud: [AWS, AWS S3, IAM]
+    data: [Data Pipelines, PySpark, Databricks, Kafka, Spark, Kafka Streaming]
+    ml: []
+    databases: [Relational Databases, Snowflake]
+    genai: []
+    ops: [GitHub Actions]
+    other: [Web Crawling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11418231'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:47:34.614384'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Kong
+  stage: null
+  focus: API gateway and AI connectivity platform
+position:
+  title: Forward Deployed Engineer AI Gateway EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and prototypes agentic architectures (MCP,
+      tool calling, model routing, evaluation flows) at customer
+      sites, which shapes agent flows and governs AI traffic
+      quality. As a Forward Deployed Engineer adapting AI
+      solutions, this is ai-first.
+  responsibilities:
+  - Lead AI, API and agentic technical discovery with customer platform, security
+    and engineering teams
+  - Design runtime architecture across models, APIs, MCP, tool access, identity and
+    policy
+  - Build prototypes, integrations, evaluation flows and reference implementations
+    proving production AI traffic governance
+  - 'Remove blockers in pilot and production: auth, network, observability, latency
+    and cost'
+  - Own the technical path from pilot to paid until workloads are running
+  - Turn field work into reusable patterns and feed requirements back to Product
+  - Pair with Kong's internal engineering team on AI Gateway and agentic roadmap work
+  - Partner with Sales, Solutions Engineering and Customer Success across EMEA
+  use_cases:
+  - Secure and govern enterprise AI traffic through an AI Gateway
+  - Agentic runtime architecture with model APIs, tool access, identity and policy
+  - Production deployment of strategic AI use cases in enterprise environments
+  - Observability, latency and cost management for AI workloads
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, MCP, LLM Evaluation]
+    ml: []
+    web: [APIs, OAuth]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Observability]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [Service Mesh, mTLS, API Gateways]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12067787'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:47:56.725812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

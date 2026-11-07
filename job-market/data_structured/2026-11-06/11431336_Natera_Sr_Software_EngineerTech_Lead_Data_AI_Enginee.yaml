@@ -1,0 +1,59 @@
+company:
+  name: Natera
+  stage: null
+  focus: Cell-free DNA testing for oncology, women's and organ health
+position:
+  title: Sr. Software Engineer/Tech Lead, Data & AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI solutions using agentic workflows,
+      RAG/retrieval, and LLM pipelines, and shapes prompt/context
+      patterns, reusable agent workflows, and guardrails. This
+      hands-on LLM shaping makes it ai-first, even though the bulk
+      of the role is data engineering.
+  responsibilities:
+  - Own technical design and architecture for analytics and AI solutions delivered
+    by the team
+  - Design, build, and maintain scalable data pipelines and transformations on the
+    cloud data platform
+  - Develop governed data models and semantic layers powering self-service analytics
+    and data products
+  - Develop AI solutions using agentic workflows, RAG/retrieval, and LLM pipelines
+    for business productivity and automation
+  - Write production-grade SQL and Python and contribute shared frameworks and tooling
+  - Use AI coding assistants and agentic tools daily and scale AI-native engineering
+    practices across the team
+  - Mentor engineers through code review, pairing, and design coaching
+  - Ensure data quality, lineage, monitoring, and HIPAA/CLIA compliance for PHI and
+    genomic data
+  use_cases:
+  - Business productivity and automation via agentic workflows and LLM extraction/classification
+  - RAG-based retrieval and LLM querying over enterprise data
+  - Self-service analytics and dashboards (Patient 360, Provider 360, Test 360) for
+    business teams
+  - Enterprise data platform pipelines for clinical, genomic, laboratory, and operational
+    data
+  - Trustworthy, compliant analytics on PHI and genomic data in a regulated healthcare
+    environment
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, LangChain, LangGraph, Prompt Engineering,
+      Guardrails, AWS Bedrock, Snowflake Cortex]
+    ml: [Model Training]
+    web: [APIs]
+    databases: [Snowflake, Relational Databases, PostgreSQL, Vector Databases, Pinecone]
+    data: [dbt, Airflow, Dagster, Prefect, Data Pipelines, Data Modeling, Data Governance]
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Monitoring, Terraform, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [HIPAA Compliance, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11431336'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:49:37.126450'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

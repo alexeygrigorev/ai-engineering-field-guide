@@ -1,0 +1,48 @@
+company:
+  name: Munchkin, Inc.
+  stage: null
+  focus: Consumer lifestyle and baby products brand
+position:
+  title: Senior AWS Agentic AI Developer (Contractor)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, RAG systems, and
+      tool-calling workflows on AWS Bedrock, directly shaping LLM
+      behavior and retrieval. This is clearly ai-first.
+  responsibilities:
+  - Design and develop agentic AI solutions using AWS and Amazon Bedrock
+  - Build AI agents, RAG systems, APIs, automations, and enterprise integrations
+  - Connect AI solutions with internal tools, databases, Jira, Workfront, Oracle,
+    and other business systems
+  - Implement security, access controls, logging, monitoring, testing, and governance
+    safeguards
+  - Develop clean, modular, maintainable, production-ready code
+  - Collaborate with AI, Security, DevOps, data, and business teams
+  - Document architecture, deployment processes, and system setup
+  - Evaluate existing prototypes and move them toward secure enterprise deployment
+  use_cases:
+  - Intelligent automation of business workflows
+  - AI agents integrated with enterprise systems (Jira, Workfront, Oracle)
+  - RAG-based access to internal enterprise data and tools
+  - Production-ready AI applications with enterprise integrations
+  skills:
+    genai: [AI Agents, RAG, Function Calling, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, IAM]
+    ops: [Monitoring]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [Jira, Workfront, Oracle]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11955306'
+  location: Los Angeles, USA
+  remote: true
+  extracted_at: '2026-11-06T14:09:56.519581'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: TransUnion
+  stage: null
+  focus: Credit reporting and information services
+position:
+  title: Lead AI Platform Engineer (Python, Cloud & GenAI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing RAG
+      pipelines (embeddings, reranking, vector DBs), prompt
+      engineering, context management, agentic orchestration, and
+      building LLM evaluation frameworks. This is hands-on GenAI
+      engineering, not just serving or consuming an API.
+  responsibilities:
+  - Design and develop production-grade Python services, APIs, and microservices using
+    FastAPI and Flask
+  - Architect cloud-native systems on GCP including GKE, Cloud Run, data pipelines,
+    and observability
+  - Build production LLM applications with prompt engineering, context management,
+    and structured outputs
+  - Design RAG pipelines with embeddings, vector databases, hybrid retrieval, reranking,
+    and GraphRAG
+  - Define AI evaluation standards including golden datasets, retrieval evaluation,
+    and groundedness metrics
+  - Define patterns for agentic AI systems with tool calling, orchestration, memory,
+    and human-in-the-loop controls
+  - Establish infrastructure-as-code with Terraform and CI/CD pipelines
+  - Mentor engineers, lead design reviews, and set engineering standards across teams
+  use_cases:
+  - Enterprise GenAI platform capabilities for product and data science teams
+  - RAG-based knowledge retrieval and search across enterprise data
+  - Agentic AI workflows with tool calling and human-in-the-loop controls
+  - LLM application evaluation and quality monitoring
+  - Model serving and inference routing on Vertex AI
+  - Real-time and batch data pipelines supporting ML and AI applications
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, RAG, Embeddings, LLM Evaluation,
+      AI Agents, Function Calling, Agentic Workflows, LLMs, Generative AI, LangChain,
+      LlamaIndex]
+    ml: [Deep Learning, Transformers, PyTorch, Hugging Face]
+    web: [FastAPI, Flask, GraphQL, REST APIs, Microservices, Event-Driven Architecture]
+    databases: [Vector Databases, Semantic Search, BigQuery, Knowledge Graphs]
+    data: [Data Pipelines]
+    cloud: [Vertex AI, GCP, GKE]
+    ops: [Git, Distributed Systems, Terraform, CI/CD, Docker, Kubernetes, Prometheus,
+      Grafana, OpenTelemetry, Observability, Infrastructure as Code]
+    languages: [Python, asyncio, Java, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11985422'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:18:55.577424'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

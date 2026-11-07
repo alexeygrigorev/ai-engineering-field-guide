@@ -1,0 +1,58 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and asset management
+position:
+  title: Vice President, AI / Machine Learning Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems, RAG
+      pipelines end-to-end, prompt engineering infrastructure, and
+      evaluation harnesses — directly shaping LLM behavior and
+      output quality. Clearly ai-first.
+  responsibilities:
+  - Implement agentic pipelines with agent loops, tool registries, memory stores,
+    reasoning traces, and self-correction mechanisms
+  - Build and optimize end-to-end RAG systems including document ingestion, chunking,
+    embeddings, hybrid retrieval, and context assembly
+  - Develop vectorization pipelines with embedding model integration, batch processing,
+    and similarity search tuning
+  - Build prompt engineering infrastructure including template management, few-shot
+    selection, and output parsing
+  - Develop evaluation harnesses with accuracy measurement, retrieval quality metrics,
+    regression detection, and A/B tooling
+  - Build FastAPI services exposing AI capabilities and contribute to Java/Spring
+    Boot platform services
+  - Design database schemas for AI metadata including audit trails, pipeline runs,
+    memory entries, and knowledge graphs
+  - Mentor mid-level engineers on AI engineering practices
+  use_cases:
+  - Intelligent document processing and autonomous extraction for financial operations
+  - Multi-agent extraction workflows with validation and classification
+  - Enterprise RAG search and retrieval over financial documents
+  - Knowledge graph construction from unstructured text
+  - AI capabilities exposed as production APIs integrated into business workflows
+  skills:
+    genai: [RAG, AI Agents, Agentic Workflows, Prompt Engineering, Function Calling,
+      Structured Outputs, Embeddings, LangGraph, Fine-Tuning, OpenAI API, Azure OpenAI,
+      Sentence-Transformers, Cohere, Semantic Search, Graph RAG, Few-Shot Learning,
+      Chain-of-Thought]
+    ml: [Model Evaluation, NLP, LLM Evaluation, Azure Document Intelligence, NLTK]
+    web: [FastAPI, Spring Boot, REST APIs, OpenAPI, Angular]
+    databases: [FAISS, Pinecone, Weaviate, Chroma, pgvector, Vector Databases, Oracle,
+      PostgreSQL, Knowledge Graphs]
+    data: []
+    cloud: [Azure]
+    ops: [Docker, CI/CD, GitLab CI]
+    languages: [Python, Pydantic, Poetry, pytest, Java, TypeScript, SQL]
+    domains: [NLP, Entity Extraction]
+    other: [A/B Testing, Gunicorn, Uvicorn]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11772860'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:09:57.076842'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

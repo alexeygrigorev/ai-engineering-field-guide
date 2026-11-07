@@ -1,0 +1,57 @@
+company:
+  name: JoVE
+  stage: null
+  focus: Video platform for scientific research and education
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships retrieval (hybrid search,
+      embeddings, reranking), RAG and agentic pipelines, evals,
+      and prompt design for LLM products, directly shaping model
+      behavior and output quality.
+  responsibilities:
+  - Build hybrid retrieval (BM25, sparse and dense embeddings) with reranking over
+    tens of millions of papers from PubMed, OpenAlex and PMC
+  - Improve paper-to-video and protocol step matching to JoVE videos and timestamps,
+    aware of organism, technique and study type
+  - Build RAG and agentic pipelines for cited synthesis, Methods Q&A and troubleshooting
+    with traceable citations
+  - Extract method steps, reagents and parameters from papers and link steps to video
+    chapters
+  - Build evaluation sets with scientific editors, tracking relevance, citation accuracy,
+    hallucination rate and match quality to gate releases
+  - Ship and run models and LLM services in production, managing latency and cost
+    per query and choosing between hosted and open models
+  - Build APIs and an MCP server exposing JoVE methods data to AI assistants, ELNs
+    and publisher widgets
+  - Instrument and analyze search, video click and watch funnels to improve ranking
+  use_cases:
+  - Hybrid scientific literature search and retrieval over tens of millions of papers
+  - Paper-to-video matching for scientific methods and protocols
+  - Cited answers, Methods Q&A and troubleshooting via RAG and agentic pipelines
+  - 'Protocol understanding: extracting method steps, reagents and parameters from
+    papers'
+  - MCP server and APIs exposing methods data to AI assistants and ELNs
+  skills:
+    genai: [Embeddings, RAG, Agentic Workflows, Prompt Engineering, MCP, Anthropic
+        API, OpenAI API, Fine-Tuning, Function Calling, LLM Evaluation]
+    ml: [BM25, Hugging Face, NLP, Learning to Rank, Vector Quantization]
+    web: [APIs]
+    databases: [Elasticsearch, OpenSearch, Milvus, pgvector, Qdrant, Pinecone]
+    data: []
+    cloud: [AWS]
+    ops: [vLLM, Docker, CI/CD, Code Review]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11964392'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:12:53.026261'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

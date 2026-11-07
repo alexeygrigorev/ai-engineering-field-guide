@@ -1,0 +1,53 @@
+company:
+  name: Salesforce
+  stage: null
+  focus: AI CRM and agentic enterprise platform
+position:
+  title: Lead Software Engineer, AI Labs (Product and Customer Facing)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys AI services including
+      agentic evaluators, and embeds with customers to build
+      agentic solutions (Agentforce), which means shaping agent
+      behavior and evaluation. There is an LLM/agent component
+      throughout, so it is ai-first. It is also customer-facing
+      via embedding with customers, but that does not change the
+      classification.
+  responsibilities:
+  - Bring cutting-edge AI theory into customer-facing practice
+  - Build tools and pipelines to support ML and AI efforts
+  - Design, build, deploy, and maintain production software and AI services such as
+    APIs, UIs, and agentic evaluators
+  - Roll out scalable cloud architectures and the software that runs on them
+  - Gather end-user requirements and deliver executive presentations
+  - Embed with demanding customers and partners to understand their problems and implement
+    solutions
+  use_cases:
+  - Agentic AI services and evaluators for enterprise customers
+  - Customer-facing AI solutions built with Salesforce Agentforce
+  - Scalable production AI services (APIs, UIs) on cloud infrastructure
+  - Enterprise transformation through data and generative AI
+  skills:
+    genai: [Claude Code, GitHub Copilot, Codex, Cursor]
+    ml: []
+    web: [APIs, React, Redux]
+    databases: [Data Modeling]
+    data: []
+    cloud: [AWS, GCP, OCI]
+    ops: [Kubernetes, Envoy, Grafana]
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: [Security]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11761328'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T12:46:50.623547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

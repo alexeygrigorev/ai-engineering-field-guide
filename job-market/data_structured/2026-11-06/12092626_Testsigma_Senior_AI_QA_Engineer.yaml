@@ -1,0 +1,50 @@
+company:
+  name: Testsigma
+  stage: null
+  focus: AI-native test automation and quality intelligence platform
+position:
+  title: Senior AI QA Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI tools (Claude, LLMs) for test case
+      generation and QA process improvement, but the person
+      consumes AI APIs rather than shaping model behavior through
+      prompts, retrieval design, or evals as their deliverable.
+      The core work is functional/API testing and test automation
+      with Playwright.
+  responsibilities:
+  - Perform functional, API, and end-to-end testing of the platform
+  - Leverage AI tools such as Claude and LLMs for test case generation, test automation,
+    and QA process improvement
+  - Build test automation using Playwright with TypeScript or Python
+  - Own feature testing, defect management, and release activities end to end
+  - Analyze requirements, identify gaps, and ensure comprehensive test coverage
+  - Validate the product against real customer workflows and customer-centric data
+  - Collaborate with cross-functional teams across features and releases
+  use_cases:
+  - AI-assisted test case generation and test automation
+  - Autonomous test writing, execution, healing, and analysis across web, mobile,
+    and API applications
+  - Validating the Testsigma platform against real customer workflows and data
+  - Quality assurance for rapid enterprise release cycles
+  skills:
+    genai: [Claude Code, LLMs]
+    ml: []
+    web: [Playwright, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Functional Testing, API Testing, End-to-End Testing, Performance Testing,
+      Low-Code/No-Code Automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12092626'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:56:08.198131'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

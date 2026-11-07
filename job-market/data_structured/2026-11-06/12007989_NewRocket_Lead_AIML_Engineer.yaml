@@ -1,0 +1,53 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and enterprise AI solutions
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes Hugging Face transformers and LLMs,
+      builds agentic AI systems, and develops conversational AI,
+      directly shaping model behavior. LLM/agent components are
+      present, so it is ai-first.
+  responsibilities:
+  - Develop, train, and deploy ML models for predictive analytics, classification,
+    and clustering
+  - Integrate and fine-tune Hugging Face transformer models for NLP tasks like text
+    classification, summarization, and sentiment analysis
+  - Work with LLMs for conversational AI, text generation, and summarization applications
+  - Develop Agentic AI systems with autonomous decision-making agents
+  - Build AI automation solutions including chatbots using Microsoft Teams and Azure
+    AI
+  - Work with cloud platforms including AWS, Azure, and GCP
+  - Design and optimize ETL pipelines for data quality and transformation
+  - Create data visualizations using Tableau and Power BI
+  use_cases:
+  - Predictive analytics, classification, and clustering
+  - Text classification, summarization, and sentiment analysis
+  - Chatbots and AI automation on Microsoft Teams
+  - Conversational AI and text generation with LLMs
+  - Autonomous agentic AI for real-time task optimization
+  - Large-scale data processing and analytics
+  skills:
+    languages: [Python, SQL]
+    domains: [NLP]
+    web: []
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, Azure, Vertex AI, Azure AI]
+    data: [Spark, Data Pipelines, Pandas, NumPy]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face, Transformers, Fine-Tuning,
+      Model Training]
+    databases: [Snowflake, MySQL, PostgreSQL, MongoDB]
+    genai: [LLMs, Agentic Workflows, Conversational AI]
+    ops: []
+    other: [Tableau, Power BI, Matplotlib, Microsoft Teams]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12007989'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:27:08.431142'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

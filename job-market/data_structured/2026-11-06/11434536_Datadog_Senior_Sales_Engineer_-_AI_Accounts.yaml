@@ -1,0 +1,52 @@
+company:
+  name: Datadog
+  stage: null
+  focus: Cloud observability and security monitoring platform
+position:
+  title: Senior Sales Engineer - AI Accounts
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role selling observability tooling
+      to AI labs; the person advises on and operates around
+      customers' AI/ML infrastructure but never shapes model
+      behaviour themselves (no prompting, retrieval design,
+      training, or evals they build). Serving, monitoring, and
+      consulting on models is ai-support. Customer-facing pre-
+      sales/solutions work clearly sets is_customer_facing true.
+  responsibilities:
+  - Own end-to-end technical relationships with a portfolio of AI lab accounts
+  - Go deep on how customers train, serve, and scale models and their downstream platforms
+  - Partner with Account Executives to identify new workloads and drive account expansion
+  - Lead technical discovery inside flat, engineering-led customer organizations
+  - Run full-scale production POVs instrumenting real workloads at scale
+  - Act as an extension of customer engineering/observability teams and proactively
+    flag issues
+  - Relay near-real-time product signal from AI lab accounts back to Datadog leadership
+  - Build reusable onboarding assets and patterns for AI lab engagements
+  use_cases:
+  - Observability for AI lab training and inference infrastructure
+  - Monitoring GPU fleets and distributed training workloads
+  - Agentic and LLM application observability
+  - Production-scale proof-of-value deployments at AI customers
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [Distributed Training, Model Evaluation]
+    databases: []
+    genai: [AI Agents, MCP]
+    ops: [GPU Fleet Management, Model Deployment, Kubernetes, APM, Distributed Tracing,
+      Observability]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11434536'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:50:18.432774'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Ōura
+  stage: null
+  focus: |-
+    Health wearables: Oura Ring and connected sleep/activity
+    tracking app
+position:
+  title: Staff AI Engineer, Developer Productivity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and owns an agentic development
+      pipeline: agent orchestration, context management, tool
+      calling, evals, LLM-as-judge grading, and guardrails. This
+      is directly shaping model/agent behaviour across the SDLC,
+      making it ai-first.
+  responsibilities:
+  - Set technical direction for the agentic ticket-to-PR pipeline, owning agent orchestration,
+    context management and tool calling
+  - 'Extend agentic workflows across the SDLC: spec checks, test generation, automated
+    review, CI triage and repair, release verification'
+  - Own eval sets, LLM-as-a-judge grading, versioning, tracing and dashboards to measure
+    pipeline quality
+  - Design sandboxing, permissions, human checkpoints and guardrails proportional
+    to risk
+  - Prototype new workflows quickly and harden them into production infrastructure
+  - Drive adoption by embedding with squads and turning what works into paved paths
+    and templates
+  - Partner cross-functionally with platform, security, AI infrastructure and mobile/backend
+    teams
+  - Track and make visible key metrics such as merge rate, rework, time-to-signal
+    and escaped defects
+  use_cases:
+  - Agentic pipeline taking tickets to reviewed, tested commits across mobile, backend
+    and web
+  - Automated test generation, code review, CI failure triage and repair
+  - Release verification and post-deploy quality signals
+  - Developer productivity measurement and safety guardrails for autonomous agents
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Function Calling, LLM Evaluation, Guardrails,
+      LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Tracing, Distributed Systems, Container Fleets]
+    languages: []
+    domains: []
+    other: [Sandboxed Execution, DORA Metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11907483'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:56:46.326211'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

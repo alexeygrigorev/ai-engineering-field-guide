@@ -1,0 +1,48 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and listening apps
+position:
+  title: Software Engineer, AI Data - The Hague, Netherlands
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed TTS model training owned by AI
+      scientists. The engineer moves and processes data rather
+      than shaping model behavior via prompts, retrieval, or
+      training. Per the dataset rule, building pipelines that feed
+      someone else's training runs is ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimizing for data quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech audio generation from written content
+  - Petabyte-scale audio dataset acquisition for TTS model training
+  - Supporting accessibility for users with dyslexia and learning differences
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762314'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:03:03.275569'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Karumi
+  stage: null
+  focus: AI engineering for voice agents and browser automation
+position:
+  title: AI engineer - Senior
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through prompt engineering,
+      agent design, and evals for voice agents and browser
+      automation agents — clear Step 1 shaping with LLM/agent
+      components.
+  responsibilities:
+  - Build and optimize voice AI systems using STT and TTS models
+  - Design browser agents that navigate, understand, and interact with web applications
+  - Implement browser automation with computer vision and DOM understanding
+  - Engineer prompt systems and LLM workflows for consistent behavior
+  - Create evaluation frameworks for voice quality and agent accuracy
+  - Integrate multimodal AI combining voice, vision, and language
+  - Build real-time AI pipelines with critical latency and reliability
+  - Manage AI infrastructure and monitor production performance
+  use_cases:
+  - Voice AI agents that listen and speak with users in real-time
+  - Browser agents that navigate and control web applications
+  - Multimodal interaction combining voice, vision, and language
+  - Production AI features with real-time latency and reliability
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Speech-to-Text, Text-to-Speech, Deepgram,
+      ElevenLabs, Prompt Engineering, Agentic Workflows, Computer Vision, Fine-Tuning]
+    ml: [Whisper]
+    web: [Playwright, Puppeteer, Selenium]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, asyncio]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11333063'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Madrid, ESP
+  extracted_at: '2026-11-06T11:31:19.110755'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

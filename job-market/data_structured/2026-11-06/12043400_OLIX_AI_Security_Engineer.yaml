@@ -1,0 +1,49 @@
+company:
+  name: OLIX
+  stage: null
+  focus: AI inference accelerator hardware for frontier AI
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds security controls and guardrails for LLM
+      agents directly, including mitigations for prompt injection,
+      unsafe agent actions, tool permissions, and human approval
+      flows. Building guardrails for LLM/agent systems is shaping
+      model behaviour, so this is ai-first.
+  responsibilities:
+  - Build and maintain an inventory of AI tools, models, agents and data flows across
+    the company
+  - Secure agents with managed identities, least-privilege access, logged actions
+    and human approvals
+  - Build controls against AI threats including prompt injection, data leakage, supply
+    chain risk, unsafe agent actions and shadow AI
+  - Harden cloud compute infrastructure used to build and run AI workloads
+  - Run the ISO 42001 self-assessment and feed AI security events into the SIEM
+  - Review new AI tools quickly and publish guardrails for safe adoption
+  use_cases:
+  - Securing AI agents and their identities across the company
+  - Protecting against prompt injection and data leakage via AI systems
+  - Securing cloud compute infrastructure running AI workloads
+  - Governance and measurable AI security via ISO 42001 and SIEM
+  skills:
+    genai: [LLMs, AI Agents, MCP, Guardrails, Prompt Injection]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Okta, Cloud Security, Application Security, SIEM, ISO 42001, NIST AI Risk
+        Management Framework]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12043400'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:37:28.940165'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

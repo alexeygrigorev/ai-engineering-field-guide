@@ -1,0 +1,54 @@
+company:
+  name: All Your BI
+  stage: null
+  focus: Managed BI services for logistics and industrial companies
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM applications, RAG, agents,
+      tool-calling, evals, and guardrails — directly shaping model
+      behavior and output quality. LLM/agent components dominate,
+      so it's ai-first.
+  responsibilities:
+  - Build and ship production-grade LLM applications, RAG over messy real-world data,
+    and agents with tool-calling
+  - Own production AI systems end to end, including incident response and fixes
+  - Implement evals, observability, tracing, and guardrails against hallucination
+    and prompt injection
+  - Manage cost and latency per task via caching, routing, and model selection
+  - Work within architectural guidelines from the Lead AI Engineer and flag practical
+    issues
+  - Translate AI capability into client value and push back on hype
+  use_cases:
+  - BI insight delivery for logistics and industrial companies
+  - RAG over messy real-world enterprise data
+  - Agentic AI with tool-calling for client solutions
+  - Production LLM applications with guardrails against hallucination and prompt injection
+  - Cost- and latency-efficient AI task execution
+  skills:
+    genai: [RAG, AI Agents, Function Calling, LLMs, Anthropic API, OpenAI API, Vector
+        Databases, Guardrails, LLM Evaluation, Structured Outputs, Prompt Engineering]
+    ml: [Distillation, Multimodal Pipelines]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, LLMOps, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11886481'
+  location: Utrecht, NLD
+  locations:
+  - Utrecht, NLD
+  - Rotterdam, NLD
+  - Amsterdam, NLD
+  - '''s-Gravenhage, NLD'
+  extracted_at: '2026-11-06T15:06:49.797216'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

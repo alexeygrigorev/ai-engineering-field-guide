@@ -1,0 +1,54 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: AI Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent systems, RAG architectures
+      (embeddings, vector DBs, retrieval pipelines), and
+      prompt/context engineering — directly shaping LLM/agent
+      behavior. This is clearly ai-first.
+  responsibilities:
+  - Develop multi-agent systems where autonomous agents collaborate to solve business
+    problems
+  - Implement planning and reasoning capabilities using knowledge graphs, rule-based
+    reasoning, and planning/search algorithms
+  - Build resilient agent architectures with feedback-driven improvement, error recovery,
+    and self-correction
+  - Integrate LLMs, predictive models, and reasoning frameworks to support complex
+    business workflows
+  - Design and optimize RAG architectures including embedding strategies, vector databases,
+    and retrieval pipelines
+  - Develop APIs, tools, and microservices integrating AI capabilities with enterprise
+    applications
+  - Optimize AI systems for low latency and high throughput via streaming, caching,
+    model selection, and token usage optimization
+  - Mentor other engineers on AI best practices and apply state-of-the-art research
+  use_cases:
+  - Automating funds transfer pricing workflows
+  - Financial hedging platform decision support
+  - Agentic AI automating complex financial workflows
+  - Multi-step reasoning and planning for business decision-making
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, LLMs, RAG, Embeddings, LangChain, LlamaIndex,
+      Google ADK, LangGraph, AutoGen, CrewAI, Prompt Engineering, Context Engineering]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL, Java]
+    domains: [Knowledge Graphs]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048836'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:40:09.278595'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

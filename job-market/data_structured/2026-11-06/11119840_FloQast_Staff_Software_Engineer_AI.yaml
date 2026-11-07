@@ -1,0 +1,52 @@
+company:
+  name: FloQast
+  stage: null
+  focus: AI-powered accounting automation and workflow platform
+position:
+  title: Staff Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds production AI products
+      including agentic workflows, model routing, context
+      engineering, vector search, and MCP integrations - directly
+      shaping LLM behavior via retrieval and agent design. LLM
+      components dominate, so ai-first.
+  responsibilities:
+  - Architect and lead development of production AI products including chatbots, document
+    processing, and agentic workflows
+  - Design and implement a centralized AI platform with model routing, provider management,
+    vector search, and MCP integrations
+  - Build scalable AI products integrating with accounting systems, document repositories,
+    and external APIs
+  - Apply context engineering for retrieval, context assembly, and multi-turn conversation
+    management
+  - Collaborate with Product, Engineering, and Security teams for compliant AI products
+  - Provide technical leadership and mentorship, establishing AI development best
+    practices
+  use_cases:
+  - Intelligent chatbots for accounting workflows
+  - Document processing for financial data
+  - AI accountant teammate automating recurring accounting workflows
+  - Multi-turn conversational AI on the accounting platform
+  - Centralized AI platform with model routing and retrieval across enterprise data
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [AWS]
+    data: []
+    ml: [RLHF]
+    databases: [Vector Search]
+    genai: [Agentic Workflows, MCP, Context Engineering, LLMs, RAG, Conversational
+        AI, Embeddings, Semantic Search]
+    ops: [Monitoring, Observability]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11119840'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T11:25:04.332087'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

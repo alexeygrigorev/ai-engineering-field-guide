@@ -1,0 +1,54 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and digital experience management
+position:
+  title: AEM AI-Native Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and architects LLM-integrated solutions and
+      AI-native workflows with Adobe Firefly/AEP/AJO, shaping how
+      AI capabilities are integrated into content systems.
+      However, the emphasis is largely on integrating pre-built
+      Adobe AI APIs and AEM platforms rather than shaping model
+      behavior directly; LLM integration and solution design
+      around AI-native workflows still puts it closest to ai-
+      first, though much is platform integration.
+  responsibilities:
+  - Architect and implement AI-native solutions using Adobe Firefly, AEP, and AJO
+    to transform content creation and delivery
+  - Develop applications in JavaScript and Python integrating Adobe APIs and microservices
+  - Deploy and manage containerized environments with Kubernetes and Docker for scalable
+    microservices
+  - Drive adoption of AEM Edge Delivery Services (EDS) and AEM Sites to modernize
+    digital front-ends
+  - Facilitate Agile/Scrum delivery cycles for timely feature releases
+  - Provide technical mentorship and leadership to development teams on AI-assisted
+    development
+  - Collaborate with cross-functional teams to design LLM-integrated solutions
+  use_cases:
+  - AI-driven content creation and delivery
+  - Digital experience management and customer engagement
+  - Modernization of digital front-ends with AEM
+  - LLM-integrated enterprise content workflows
+  skills:
+    genai: [Adobe Firefly, LLMs]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker]
+    languages: [JavaScript, Python]
+    domains: []
+    other: [Adobe Experience Platform, Adobe Journey Optimizer, AEM Sites, AEM Edge
+        Delivery Services, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891290'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:40:51.636394'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

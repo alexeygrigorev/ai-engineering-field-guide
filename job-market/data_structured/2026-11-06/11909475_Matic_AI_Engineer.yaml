@@ -1,0 +1,48 @@
+company:
+  name: Matic
+  stage: null
+  focus: AI-native clinical intelligence platform for care workflows
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic frameworks, writes and evaluates LLM
+      prompting, and improves model outputs based on feedback —
+      clearly shaping LLM behavior. It is ai-first since the
+      systems are LLM/agent-driven.
+  responsibilities:
+  - Design and build Python endpoints and APIs powering the core platform
+  - Build and extend agentic frameworks driving AI workflows
+  - Build integrations between the platform and EHR systems
+  - Work with modern LLMs and hosting platforms to power the documentation engine
+  - Test AI systems rigorously for quality and reliability
+  - Continuously improve model outputs based on real-world clinical documentation
+    needs
+  - Support customer onboarding and resolve physician feedback on documentation
+  use_cases:
+  - Clinical documentation and summarization
+  - Panel management and chart preparation
+  - Medical coding support
+  - Physician inbox management
+  - Patient follow-up and care-to-collection workflow orchestration
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Firebase]
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11909475'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:57:09.242145'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

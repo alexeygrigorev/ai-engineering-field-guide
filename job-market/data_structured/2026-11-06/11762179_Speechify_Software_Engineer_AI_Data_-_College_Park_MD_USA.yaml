@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio learning products
+position:
+  title: Software Engineer, AI Data - College Park, MD, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and data-processing
+      infrastructure that feed someone else's model training; the
+      engineer does not shape model behaviour (no prompts, evals,
+      fine-tuning, or agent design). Building datasets/pipelines
+      for others' training runs is ai-support per the rules.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimized for data quality,
+    throughput, and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Take ownership of engineering projects from problem discovery through implementation
+    and continuous improvement
+  use_cases:
+  - Text-to-speech model training data
+  - Petabyte-scale audio dataset building
+  - Large-scale data acquisition and processing for AI training
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Acquisition]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762179'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:51:17.451004'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

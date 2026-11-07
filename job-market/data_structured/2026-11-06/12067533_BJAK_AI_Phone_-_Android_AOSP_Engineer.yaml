@@ -1,0 +1,50 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    Building AI-native phones and proactive intelligent
+    applications
+position:
+  title: AI Phone - Android / AOSP Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds OS-level plumbing on Android/AOSP —
+      framework components, system services, privileged APIs —
+      that AI agents consume. The engineer does not shape model
+      behavior themselves (no prompts, RAG, agent design, or
+      training); they provide system access for AI agents built by
+      others, so it is ai-support.
+  responsibilities:
+  - Develop and modify Android Framework components
+  - Implement system services and privileged APIs
+  - Build secure interfaces for AI agents to access system functionality
+  - Work on application lifecycle, permissions and background execution
+  - Implement system-level integration with first-party applications
+  - Improve OS stability and performance
+  - Collaborate with agent engineers on execution capabilities
+  use_cases:
+  - AI-native proactive phone applications (email, messaging, notes, tasks, calendars)
+  - OS-level integration enabling AI agents to access system functionality
+  - Intelligent daily conversations, coordination and workflows with minimal prompting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, Kotlin, C++]
+    domains: []
+    other: [Android Framework, AOSP, Binder IPC, Android, Custom ROM Development,
+      Linux, Android Security, Power Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067533'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:46:53.188527'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

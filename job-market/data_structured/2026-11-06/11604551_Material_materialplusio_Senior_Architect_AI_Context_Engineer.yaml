@@ -1,0 +1,59 @@
+company:
+  name: Material (materialplus.io)
+  stage: null
+  focus: |-
+    Insights-driven marketing, growth, and digital experience
+    consulting
+position:
+  title: Senior Architect / AI Context Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: authoring prompts,
+      designing agent and MCP server architectures, building agent
+      skills, and curating prompt harnesses. These are LLM/agent
+      components, making it ai-first.
+  responsibilities:
+  - Design and maintain MCP server architectures for knowledge/memory, platform API
+    bridge, and event-triggered agent patterns
+  - Build and curate reusable agent skills, system prompts, scoring rubrics, and harness
+    configurations for governed agent archetypes
+  - Author enterprise governance documentation including ADRs, security review checklists,
+    and tiered governance models
+  - Design an enterprise context engineering layer with repo-level context file standards
+    and harness engineering patterns
+  - Drive a governed internal agent platform pilot with scoped tool access and audit
+    trail validation
+  - Develop an accelerator solution map with reusable toolkit patterns and capability
+    gap analysis
+  - 'Support Enterprise Knowledge Graph scoping: ontology design, data catalog architecture,
+    and schema governance'
+  - Author SDLC standards, engineering operating model artifacts, and EA leadership
+    artifacts such as an AI Readiness Scorecard
+  use_cases:
+  - Governed internal agent platform with scoped tool access and audit trails
+  - Knowledge and memory servers exposing organizational context to AI agents
+  - Enterprise context engineering for AI-assisted development
+  - Enterprise Knowledge Graph and semantic data architecture
+  - AI governance and architecture intake pipeline
+  skills:
+    genai: [MCP, AI Agents, Prompt Engineering, RAG, LangChain, LangGraph, Anthropic
+        API, OpenAI API, Agentic Workflows, Function Calling, Context Engineering,
+      LLMs]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [Azure, GitHub]
+    ops: [CI/CD]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Atlassian, Salesforce, Jira, TOGAF, Enterprise Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11604551'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:19:10.782198'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

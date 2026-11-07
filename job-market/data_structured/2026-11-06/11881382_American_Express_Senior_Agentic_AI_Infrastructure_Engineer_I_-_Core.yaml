@@ -1,0 +1,65 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global payments and financial services company
+position:
+  title: Senior Agentic AI Infrastructure Engineer I - Core Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs, hosts, and operates infrastructure for AI
+      workloads (GPU clusters, model serving, multi-tenant
+      isolation, FinOps) — the deliverable is capacity and
+      reliability, not model behavior. AI tools (Copilot, Claude
+      Code, AIOps) are embedded into workflows to improve ops, and
+      agent frameworks appear only as infrastructure that is
+      supported. No prompt, retrieval, or eval design that shapes
+      model output is owned by this role.
+  responsibilities:
+  - Design and operate secure, scalable infrastructure for AI-enabled workloads, including
+    GPU/accelerator compute platforms with cluster scheduling and capacity management
+  - Build reusable Kubernetes-based platform capabilities for model training, fine-tuning,
+    inference, and agentic workloads
+  - Support cloud LLM platforms such as AWS Bedrock, Azure AI Foundry/Azure OpenAI,
+    and Google Vertex AI
+  - Embed AI-assisted observability, automation, documentation, and AIOps anomaly
+    detection into team workflows
+  - Adopt AI-assisted infrastructure-as-code practices using GitHub Copilot, Claude
+    Code, and Cursor
+  - Implement end-to-end observability, FinOps controls, and security/multi-tenant
+    isolation for AI infrastructure
+  - Engineer high-performance storage, networking, and data movement for distributed
+    AI workloads
+  - Mentor junior engineers and lead cross-functional infrastructure projects
+  use_cases:
+  - Hosting and operating enterprise LLM platforms for AI-enabled workloads
+  - GPU/accelerator compute platform capacity and scheduling for training and inference
+  - 'AI-assisted infrastructure operations: incident troubleshooting, runbook generation,
+    and postmortem summarization'
+  - AIOps anomaly detection and failure prediction across distributed infrastructure
+  - Multi-tenant AI infrastructure with security, observability, and cost controls
+  skills:
+    languages: [Python, Bash, PowerShell]
+    domains: []
+    web: []
+    cloud: [AWS Bedrock, Azure OpenAI, Azure AI Foundry, Vertex AI, AWS, Azure, GCP]
+    data: []
+    ml: [Fine-Tuning, Anomaly Detection]
+    databases: [Elasticsearch]
+    genai: [LangGraph, Semantic Kernel, Agentic Workflows, GitHub Copilot, Claude
+        Code, Cursor, Prompt Engineering, LLMs]
+    ops: [Kubernetes, Docker, Terraform, Ansible, DevOps, CI/CD, Prometheus, Grafana,
+      Monitoring, Observability, Model Deployment, Linux]
+    other: [Infrastructure as Code, FinOps, Agile, Puppet]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881382'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - Sunrise, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:30:28.813902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

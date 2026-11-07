@@ -1,0 +1,212 @@
+job_id: 11884838
+title: AI Engineer
+company: Skybound Wealth Management
+location: Mumbai, IND
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  About Us
+
+  Skybound Wealth Management is a global financial advisory
+  company with employees across the UK, USA, Switzerland,
+  Cyprus, Spain, Portugal and UAE. We provide tailored
+  financial advice to international connected individuals
+  wherever they are in the world, supported by expert teams
+  across wealth planning, tax, investment, compliance and
+  operations.
+
+  Role Overview
+
+  We are seeking an experienced and technically capable AI
+  Platform & LLMOps Engineer to take ownership of the
+  reliability, performance and economics of our models,
+  prompts, agents and AI services in production.
+
+  The successful candidate will be responsible for the
+  operational layer between model providers and the
+  applications that consume them. This will include
+  deployment, observability, evaluation pipelines, provider
+  integrations, routing, quotas, release controls, cost
+  optimisation and incident response.
+
+  Working closely with our software engineering, data,
+  cybersecurity and product teams, the AI Platform & LLMOps
+  Engineer will ensure our AI services are observable,
+  resilient, repeatable, secure and cost-controlled.
+
+  This role requires someone who can operate and improve the
+  underlying AI platform while also understanding how AI
+  services are integrated into existing production
+  applications and business workflows.
+
+  Key Responsibilities
+
+  AI Platform Operations
+
+  - Operate and maintain the Group’s model gateway and AI
+    provider integrations.
+  - Manage authentication, model routing, fallback processes,
+    rate limits, quotas and provider controls.
+  - Maintain controls relating to model and provider versions,
+    deprecations and service changes.
+  - Ensure AI services are resilient, scalable and capable of
+    supporting production applications and workflows.
+  - Work closely with software engineering teams to integrate AI
+    services into existing and new applications.
+
+  Monitoring
+
+  - Build and maintain dashboards and alerts covering token
+    usage, cost, latency, error rates and service
+    availability.
+  - Monitor quality and safety evaluations, tool failures and AI
+    usage by person, team, product and use case.
+  - Implement distributed tracing, metrics and logging using
+    OpenTelemetry or equivalent technologies.
+  - Define and maintain service-level objectives, operational
+    thresholds and escalation processes.
+  - Identify emerging performance, reliability or cost issues
+    before they affect users or business operations.
+
+  Release Management
+
+  - Build prompt, agent and model release pipelines with
+    appropriate version control and approval processes.
+  - Implement automated testing and evaluation as part of the AI
+    release lifecycle.
+  - Manage canary deployments, controlled releases and rollback
+    processes.
+  - Define and measure model accuracy, service quality and
+    business value, rather than focusing solely on
+    infrastructure performance and cost.
+  - Establish evaluation frameworks that measure whether AI
+    services successfully complete the intended task, case,
+    document or workflow.
+  - Monitor model performance and identify potential drift or
+    deterioration in output quality.
+
+  Cost Management & Optimisation
+
+  - Develop clear unit economics for AI services, progressing
+    from cost per token to cost per successful task, case,
+    document or workflow outcome.
+  - Monitor and report AI consumption and expenditure across
+    teams, products and use cases.
+  - Optimise spend through model routing, caching, batching,
+    prompt and context reduction, model selection and capacity
+    planning.
+  - Balance cost, speed, accuracy and quality requirements when
+    selecting and configuring AI services.
+  - Explain cost and quality trade-offs clearly to engineering,
+    finance and executive stakeholders.
+
+  Resilience & Incident Management
+
+  - Conduct load, resilience and red-team testing across AI
+    services and supporting infrastructure.
+  - Develop and maintain operational playbooks for provider
+    outages, model drift, data leakage, prompt injection and
+    unexpected cost increases.
+  - Investigate and respond to incidents affecting AI services.
+  - Maintain incident records, post-incident reviews and
+    remediation plans.
+  - Assess provider and model changes to identify operational,
+    security and business risks.
+
+  Cloud Infrastructure & DevOps
+
+  - Manage AI infrastructure through infrastructure-as-code and
+    automated deployment practices.
+  - Build and maintain CI/CD pipelines, containers, serverless
+    compute and environment separation.
+  - Manage secrets, authentication, networking, telemetry and
+    access controls.
+  - Support the operation of cloud-native AI services,
+    applications and integrations.
+  - Maintain clear technical documentation covering
+    architecture, deployment processes, dependencies and
+    operational procedures.
+
+  Security & Governance
+
+  - Embed DevSecOps and secure software development lifecycle
+    practices across the AI platform.
+  - Conduct threat modelling and support security reviews for AI
+    services and application integrations.
+  - Implement automated security testing within CI/CD pipelines.
+  - Maintain dependency, vulnerability and software supply-chain
+    controls.
+  - Ensure secrets, credentials and sensitive information are
+    managed securely.
+  - Support auditability, data protection and regulatory
+    requirements relating to financial and client information.
+  - Maintain appropriate audit evidence, operational records and
+    provider assessments.
+
+  Requirements
+
+  Essential
+
+  - 5+ years’ experience in platform engineering, SRE, DevOps,
+    MLOps, cloud engineering or a related role, including
+    responsibility for production services and incident
+    response.
+  - Hands-on experience operating LLM or machine-learning
+    services in production, with a strong understanding of
+    token usage, context limits, latency and probabilistic
+    failure.
+  - Strong Python or scripting capability, with practical
+    experience of CI/CD, infrastructure-as-code, containers
+    and cloud-native services.
+  - Experience implementing observability using tools such as
+    OpenTelemetry, including tracing, metrics, logging,
+    dashboards and alerting.
+  - Strong knowledge of cloud and application security,
+    including identity, networking, secrets management,
+    encryption, audit logging and vulnerability management.
+  - Practical DevSecOps experience, including secure development
+    practices, threat modelling, automated security testing
+    and software supply-chain controls.
+  - Experience integrating AI or cloud services into production
+    applications and working closely with software engineering
+    and product teams.
+  - Ability to measure model quality, service performance, cost
+    and business outcomes, and communicate technical trade-
+    offs clearly to a range of stakeholders.
+
+  Desirable
+
+  - Practical experience with Microsoft Azure, including Azure
+    OpenAI, Azure AI services, App Services, Functions, Key
+    Vault, Application Insights or Azure DevOps.
+  - Experience operating AI or technology services within
+    financial services or another regulated environment.
+  - Familiarity with recognised security frameworks such as the
+    OWASP Application Security Verification Standard.
+  - Experience designing model gateways, multi-provider routing,
+    fallback processes or cost-optimised model selection.
+  - Experience developing AI evaluation, red-team or model-
+    testing frameworks.
+
+  You Will Benefit From
+
+  - A competitive salary relevant to experience.
+  - The opportunity to take ownership of the operational
+    platform supporting AI across a growing international
+    business.
+  - Exposure to AI projects spanning client services, financial
+    advice, compliance, operations and internal productivity.
+  - The opportunity to shape the Group’s standards for AI
+    reliability, security, cost management and evaluation.
+  - The chance to work closely with software engineering, data,
+    cybersecurity, finance and executive stakeholders.
+  - Full support to complete relevant industry certifications
+    and continue developing your AI, cloud and platform
+    engineering career.
+
+  Skybound Wealth Management is committed to fostering a
+  diverse and inclusive workplace. We welcome applications
+  from all qualified candidates regardless of background.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-engineer/11884838"
+source: Built In

@@ -1,0 +1,290 @@
+job_id: 11993800
+title: Principal Attack Engineer, AI/LLM
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find, fix and verify exploitable attack vectors
+  before criminals exploit them. Our flagship product, the
+  NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by IT Ops/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers & operators, and formerly
+  frustrated cybersecurity practitioners. We're committed to
+  helping solve our common security problems: ineffective
+  security tools and false positives, resulting in alert
+  fatigue, blind spots, "checkbox” security culture,
+  cybersecurity skills shortage, and the long lead time and
+  expense of hiring outside consultants. Collectively, we are
+  a team of learn it alls, committed to a culture of respect,
+  collaboration, ownership, and results.
+
+  An Overview
+
+  We are hiring a Principal Attack Engineer specializing in
+  AI/LLM security to define the long-term technical direction
+  for AI/LLM offense at Horizon3. You will lead the company’s
+  most complex and consequential efforts to break AI and
+  agentic systems and turn that research into scalable,
+  autonomous attack capabilities inside NodeZero, our
+  autonomous pentesting platform. This is not consulting or
+  manual pentesting; the goal is to establish durable,
+  production-grade capabilities that materially expand how
+  NodeZero finds and validates exploitable attack paths across
+  customer environments. The focus is LLM-based applications:
+  the chatbots, copilots, RAG pipelines, and AI agents that
+  enterprises expose to employees, customers, and the
+  internet.
+
+  You will operate at the intersection of company strategy and
+  technical direction. You will shape the vision for AI/LLM
+  offensive capabilities, partner with senior leadership on
+  major technical and product decisions, and create the
+  architecture, standards, and organizational alignment
+  required for multiple teams to execute against that vision.
+  This is a rare, company-wide role for a technical authority
+  whose judgment influences the business and, where
+  appropriate, the broader AI security field.
+
+  What You’ll Do
+
+  Company-wide Technical Leadership & Scope
+
+  - Define the long-term technical vision for AI/LLM offense and
+    its role in NodeZero and the company’s broader product
+    strategy.
+  - Partner with senior engineering, product, and business
+    leadership to shape priorities, investment decisions, risk
+    posture, and the roadmap for AI/LLM offensive
+    capabilities.
+  - Set direction for the most complex, high-risk, and business-
+    critical AI/LLM programs; establish the outcomes and
+    decision principles against which teams execute.
+  - Lead cross-company initiatives that require alignment across
+    Attack Engineering, Platform, Product, customer-facing
+    teams, and other technical functions.
+  - Diagnose systemic blockers in architecture, process,
+    operating model, or technical capability and drive durable
+    resolution.
+  - Define company-wide standards for reliability, safety,
+    observability, evaluation, testing, cost management, and
+    operational readiness in LLM-powered offensive systems.
+  - Develop P5 engineers and other senior technical leaders,
+    multiplying the organization’s capacity to reason about
+    and deliver AI/LLM security capabilities.
+  - Communicate clearly with executives, technical leaders, and
+    external stakeholders; bring the organization through
+    major technical transitions with clarity and composure.
+
+  Attacking AI/LLM Systems
+
+  - Own NodeZero's coverage strategy for the OWASP Top 10 for
+    LLM Applications (prompt injection, sensitive information
+    disclosure, system prompt leakage, improper output
+    handling, excessive agency, vector and embedding
+    weaknesses, and data and model poisoning), and define
+    where NodeZero should go beyond the list, particularly for
+    multi-agent and tool-connected systems.
+  - Set the company’s research and productization agenda for
+    breaking AI and agentic systems, balancing technical
+    opportunity, customer impact, safety, and strategic
+    differentiation.
+  - Identify novel, high-leverage attack classes and establish
+    the frameworks, abstractions, and coverage models needed
+    to make them repeatable in NodeZero.
+  - Direct the company’s approach to prompt injection, defense
+    evasion, tool-use exploitation, context poisoning, remote
+    code execution, data exfiltration, privilege escalation,
+    and other agentic attack paths.
+  - Set technical direction for assessing AI infrastructure,
+    including model serving, training pipelines, vector
+    databases, GPU/MLOps tooling, and enterprise deployment
+    architectures.
+  - Evaluate the strategic significance of model and supply-
+    chain attacks such as poisoning, training-data extraction,
+    adversarial inputs, and deployment-pipeline abuse, and
+    determine how the company should respond.
+  - Establish a durable threat-modeling approach for agentic
+    systems that accounts for trust boundaries, identities,
+    permissions, tools, data sources, downstream systems, and
+    business impact.
+  - Ensure research becomes safe, reliable, scalable product
+    capability rather than remaining isolated expertise or
+    one-off demonstrations.
+  - Serve as the definitive internal technical authority on the
+    hardest and most novel AI/LLM offensive problems; where
+    appropriate, represent the company through technical
+    writing, talks, research, or open-source contributions.
+
+  Building with LLMs
+
+  - Set the long-term architecture for LLM-powered offensive
+    applications, agentic workflows, evaluation systems, and
+    their integration with NodeZero.
+  - Establish company-wide principles for cost, safety,
+    hallucination guardrails, reliability, observability,
+    evaluation quality, and operational risk.
+  - Guide the architecture of microservices and shared platforms
+    that orchestrate LLM tasks across offensive workflows.
+  - Lead architectural transformations when the existing
+    approach cannot support the company’s scale, product
+    ambitions, or safety requirements; document the vision,
+    build the case, and bring engineers and leadership along.
+  - Ensure the organization can operate and improve these
+    systems over time through strong ownership, incident
+    learning, measurable quality standards, and sustainable
+    technical practices.
+
+  What You’ll Bring
+
+  - Exceptional Python and software engineering expertise, with
+    deep experience designing systems that are secure,
+    reliable, observable, and operable at scale.
+  - Deep expertise in offensive security, penetration testing,
+    exploit development, vulnerability research, or a closely
+    related discipline.
+  - Recognized expertise in AI/LLM and agentic-system security,
+    including the ability to identify novel attack paths and
+    translate them into durable technical strategy.
+  - Deep command of the OWASP Top 10 for LLM Applications and
+    MITRE ATLAS, combined with the judgment to extend beyond
+    existing frameworks.
+  - A track record of shipping or shaping high-impact security
+    capabilities, platforms, research programs, or technical
+    standards across multiple teams.
+  - Demonstrated ability to define long-term technical vision,
+    resolve the company’s hardest ambiguous problems, and
+    drive execution through influence rather than direct
+    authority.
+  - Company-wide technical judgment: able to make consequential
+    tradeoffs across product value, safety, reliability, cost,
+    speed, and maintainability.
+  - Proven ability to develop senior technical talent and
+    multiply the mentorship capacity of an engineering
+    organization.
+  - Self-motivated, highly credible, and deeply engaged with the
+    direction of the AI security industry.
+
+  What Sets You Apart
+
+  - Experience setting technical direction or architecture
+    across an engineering organization or multiple product
+    areas.
+  - Industry-level contributions to AI security research through
+    influential publications, conference talks, CVEs, open-
+    source projects, or widely adopted techniques.
+  - Experience shaping strategy for cloud AI platforms such as
+    AWS Bedrock, AWS Agent Core, Azure OpenAI, or Google
+    Vertex AI.
+  - Deep experience with agentic architectures, tool-use
+    security, retrieval systems, vector databases, graph
+    databases such as Neo4j, or AI infrastructure security.
+  - Background in traditional exploit development, vulnerability
+    research, or building offensive security platforms at
+    significant scale.
+  - CTF experience, particularly in AI/ML-focused challenge
+    categories.
+  - A record of strengthening a company’s technical credibility,
+    recruiting reach, or market position through external
+    technical leadership.
+
+  Travel Required
+
+  We are a fully remote company, and this job may require up
+  to 10% of travel to be successful.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $238,000 - $280,000. The exact salary
+    will be determined based on the selected candidate’s
+    location, qualifications, experience, and relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, hair length or any other
+  legally protected status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-10-30
+url: "https://www.builtinla.com/job/principal-attack-engineer-ai-llm/11993800"
+source: Built In

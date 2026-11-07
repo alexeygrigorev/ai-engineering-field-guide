@@ -1,0 +1,53 @@
+company:
+  name: Gallatin AI, Inc.
+  stage: null
+  focus: |-
+    AI-driven logistics infrastructure for national security
+    missions
+position:
+  title: Applied AI Engineer, Internal Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM agents and agentic workflows
+      (coding agent harness, document Q&A assistant, agent-native
+      CRM), including evaluations, observability, and output-
+      quality instrumentation - directly shaping model behavior,
+      so ai-first.
+  responsibilities:
+  - Turn internal workflow problems into technical requirements and identify process
+    changes before automating
+  - Build applications and integrations connecting LLMs and agents to company systems
+  - Take prototypes to production with evaluations, observability, and failure recovery
+  - Design access controls and human review into workflows handling sensitive information
+  - Instrument systems to measure time saved and output quality; use failure data
+    to improve
+  - Scope projects with the product manager, assessing technical feasibility and maintenance
+    cost
+  - Help colleagues use and extend the tools; document systems for maintainability
+  use_cases:
+  - Internal coding agent harness
+  - Assistant answering questions from internal documents with sources and access
+    controls
+  - Agent-native CRM customized for a defense business
+  - Agents keeping project status current across internal systems
+  - Automating internal workflows to save employee time
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11451986'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T11:52:38.964902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

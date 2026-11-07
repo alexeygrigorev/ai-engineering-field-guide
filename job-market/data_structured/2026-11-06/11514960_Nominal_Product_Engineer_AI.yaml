@@ -1,0 +1,50 @@
+company:
+  name: Nominal
+  stage: null
+  focus: |-
+    Connected test and operations platform for hardware
+    engineering
+position:
+  title: Product Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-native product features where engineers
+      and agents collaborate, including how agent work streams in,
+      stays editable, and presents trustworthy steps and citations
+      — designing agent behavior and interactions end to end, not
+      merely consuming an external AI API. Team owns agents and
+      MCP for hardware intelligence.
+  responsibilities:
+  - Prototype new features and interactions quickly, often with AI coding agents,
+    to test ideas with real users
+  - 'Build end-to-end experiences where engineers and agents work together: interface,
+    APIs, and editable agent work streams'
+  - Make agent work trustworthy on screen with visible steps, citations, and clean
+    handoffs back to the engineer
+  - Own product decisions in the area, from what to build to when it is ready
+  - Watch real users, sweat details, and iterate based on learnings
+  use_cases:
+  - AI agents reasoning over hardware test telemetry and test campaigns
+  - Agent-assisted engineering workflows across the hardware lifecycle
+  - Agent work visualization with visible steps and citations for engineer verification
+  - AI-native applications for hardware design and simulation analysis
+  skills:
+    genai: [AI Agents, MCP, Claude Code, Cursor, Codex, Generative UI]
+    ml: []
+    web: [React, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11514960'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:03:18.302462'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

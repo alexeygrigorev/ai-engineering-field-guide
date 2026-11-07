@@ -1,0 +1,55 @@
+company:
+  name: Pramira
+  stage: null
+  focus: |-
+    Telecommunications, electrical, and infrastructure
+    construction
+position:
+  title: AI Automation Engineer (Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents that plan and use tools, designs
+      RAG for a company assistant, and deploys agent frameworks
+      (LangGraph, CrewAI, n8n) — directly shaping LLM/agent
+      behavior. LLM components are central, so it's ai-first.
+  responsibilities:
+  - Review workflows with operations, project, field, finance, and HR teams to find
+    AI automation opportunities
+  - Build AI agents that plan, use tools, and complete multi-step business tasks
+  - Build a RAG-based AI assistant answering staff questions from company procedures
+    and policies
+  - Automate construction tasks such as RFI drafting, document data extraction, bid
+    screening, compliance reminders, and weekly reports
+  - Connect agents to Microsoft 365 (SharePoint, Teams, Power Automate), Smartsheet,
+    and other systems via APIs
+  - Deploy and run open-source platforms such as n8n, LangGraph, CrewAI, and Ollama
+    using Docker on Linux or cloud servers
+  - Monitor performance, fix issues, control costs, and keep sensitive data secure
+  - Document work and train staff to use the tools
+  use_cases:
+  - AI assistant for staff questions on company procedures and policies (RAG)
+  - Automated RFI drafting and bid screening for construction
+  - Document data extraction from PDFs, drawings, and forms
+  - Compliance reminders and automated weekly reports
+  - Multi-step business task automation across finance, HR, and operations
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, LangChain, LangGraph, CrewAI, AutoGen,
+      LLMs, Embeddings, Copilot Studio, Ollama]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Vector Databases, Chroma, Qdrant, pgvector]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Docker, Linux, n8n]
+    languages: [Python]
+    domains: []
+    other: [Power Automate, SharePoint, Microsoft Graph, Smartsheet, OCR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11408483'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T11:45:39.847049'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

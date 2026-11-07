@@ -1,0 +1,48 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking, foreign exchange and payments technology
+position:
+  title: Senior FX Java and AI Engineer (Cross Border Payments) - Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a senior Java engineer building cross-border FX
+      payments systems. AI appears only as coding tools (Devin,
+      Claude Code, Codex) used to write software faster, which is
+      explicitly ai-support; there is no shaping of model
+      behaviour.
+  responsibilities:
+  - Implement cross-border FX payments and custody solutions using cloud-native technologies
+    and CI/CD workflows
+  - Design and develop system architecture and enhance quality of deliverables
+  - Design, develop, and test new application features
+  - Collaborate with sales, trading, Quants, and Product stakeholders on payments
+    needs and data-driven solutions
+  - Provide 3rd line production support
+  - Mentor junior team members and define best practices and processes
+  - Continually improve the software development lifecycle and product quality
+  use_cases:
+  - Cross-border FX payments processing
+  - FX custody solutions
+  - Automation and consolidation of FX payment platforms
+  - Scalable cloud-native FX trading and payments systems
+  skills:
+    languages: [Java, SQL]
+    domains: []
+    web: [Spring Boot]
+    cloud: []
+    data: [Kafka, Solace, MQ]
+    ml: [Ultra-Low-Latency Development]
+    databases: [Databases, Caching, KDB]
+    genai: [Devin, Claude Code, Codex]
+    ops: [CI/CD, OpenShift, Kubernetes]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12046806'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:38:47.147005'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

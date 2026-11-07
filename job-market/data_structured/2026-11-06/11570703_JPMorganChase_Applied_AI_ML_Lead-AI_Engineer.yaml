@@ -1,0 +1,50 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and private banking
+position:
+  title: Applied AI ML Lead-AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI and LLM-powered products, doing
+      prompt engineering, RAG, fine-tuning, and building
+      guardrails/evaluation frameworks itself - direct shaping of
+      LLM behaviour. This makes it ai-first.
+  responsibilities:
+  - Own end-to-end delivery of IPB AI/ML use cases from problem framing to deployed,
+    monitored production services
+  - Lead the engineering build of agentic AI and LLM-powered products for IPB advisors
+    and clients
+  - Set engineering quality bar through code reviews, technical design, and pairing
+  - Establish and operate Responsible AI controls in production (guardrails, evaluation
+    frameworks, observability, model risk controls)
+  - Act as technical partner to IPB business stakeholders, shaping AI/ML opportunities
+    into funded workstreams
+  - Represent the AIML team in firm-wide AI governance and engineering forums
+  - Contribute to GenAI education programme and mentor junior engineers and interns
+  use_cases:
+  - Agentic AI and LLM products for private bank advisors and clients
+  - Generative AI guardrails and Responsible AI controls in production
+  - Production ML supporting advisor and client journeys
+  - AI/ML use cases in wealth management across international markets
+  skills:
+    genai: [Prompt Engineering, RAG, Fine-Tuning, Agentic Workflows, LLMs, Guardrails,
+      Claude Code, GitHub Copilot]
+    ml: [Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS]
+    ops: [CI/CD, Kubernetes, Docker]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Code Review, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11570703'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:13:21.666113'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

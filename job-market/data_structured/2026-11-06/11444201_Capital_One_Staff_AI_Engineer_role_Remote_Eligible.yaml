@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: Staff AI Engineer role (Remote Eligible)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops AI components including
+      agents, multi-agent workflows, guardrails, model evaluation,
+      and foundation model optimization — all direct shaping of
+      LLM behavior and quality. LLM/agent components are central,
+      so it's ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, multi-agent workflows, similarity search, guardrails,
+    and model evaluation
+  - Apply foundation model optimization techniques to improve performance, scalability,
+    cost, and latency of production AI systems
+  - Set technical direction for enterprise-wide AI architecture, unifying tooling,
+    observability, and deployment standards
+  - Own design and integration of model routing, caching, and orchestration systems
+    for hybrid multi-model workloads
+  - Champion responsible AI principles in system design
+  - Drive internal education and mentorship through architecture councils and AI guilds
+  use_cases:
+  - AI-powered customer experiences in banking
+  - Real-time customer question answering and fraud alerts
+  - Agentic AI systems for associate workflows
+  - Enterprise AI platform services for teams across the company
+  - High-performance LLM inference and model serving at scale
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, Guardrails, LLM Evaluation]
+    ml: [Foundation Model Training, Model Training, PyTorch, Hugging Face, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability, Model Deployment]
+    languages: [Python, Go, Scala, CUDA, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11444201'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:52:04.809868'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

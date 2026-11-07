@@ -1,0 +1,50 @@
+company:
+  name: LS Power
+  stage: null
+  focus: |-
+    North American power and energy infrastructure development
+    and investment
+position:
+  title: Automation & AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds task-specific applications using LLM APIs,
+      prompt engineering, agentic frameworks, and potentially RAG
+      directly - this is shaping LLM behavior (prompt engineering,
+      agent flows), so it is ai-first.
+  responsibilities:
+  - Design, develop, and maintain automation workflows and AI-enabled tools
+  - Build task-specific applications using LLM APIs and agentic frameworks
+  - Integrate solutions with enterprise systems, data sources, and SaaS platforms
+  - Translate business needs into technical requirements and scalable solutions
+  - Collaborate with operators, analysts, and leadership to identify automation opportunities
+  - Provide training and documentation for adoption and maintainability
+  - Coordinate with central IT on security, architecture, and governance
+  - Contribute to LS Power's AI governance framework
+  use_cases:
+  - Business process automation across energy business units
+  - Task-specific LLM and agent applications for operators and analysts
+  - Intelligent document processing of unstructured data
+  - Efficiency improvement and reduced manual processes
+  - Decision-support tools for business leadership
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Agentic Workflows, Prompt Engineering,
+      RAG]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Data Pipelines]
+    cloud: [Microsoft Fabric, Azure, AWS, GCP]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [OCR, Intelligent Document Processing, Power Automate]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10923349'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:22:53.851924'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

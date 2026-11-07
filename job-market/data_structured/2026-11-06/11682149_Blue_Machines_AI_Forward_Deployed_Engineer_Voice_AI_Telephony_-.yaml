@@ -1,0 +1,52 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Production Voice AI agents for Indian enterprises
+position:
+  title: Forward Deployed Engineer (Voice AI / Telephony) - Chennai
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE designs, prompts, builds, and evaluates production voice
+      AI agents end-to-end, including guardrails, conversation
+      design, and tool-calling logic—clearly shaping LLM/agent
+      behavior, so ai-first. Role is also customer-facing (client
+      workshops, on-site deployment).
+  responsibilities:
+  - Design, prompt, build, and deploy production voice AI agents including guardrails,
+    conversation design, and tool-calling logic
+  - Build scalable backend integrations (REST APIs, WebSockets, webhooks, CRM writes)
+    with enterprise client systems
+  - Implement AI/LLM frameworks (LangChain, OpenAI APIs) for intelligent workflows
+  - Perform root-cause analysis across logs, traces, and call flows to isolate prompt,
+    platform, or data pipeline issues
+  - Monitor and optimize agent metrics (completion rate, hallucination rate, latency,
+    cost) and run funnel experiments
+  - Partner directly with client engineering teams, lead technical workshops, and
+    travel for live-call reviews
+  use_cases:
+  - Production voice AI agents handling millions of live conversations
+  - Multilingual support in Hindi, Hinglish, and regional Indian languages
+  - Enterprise telephony integration (SIP, WebRTC, Twilio, Avaya)
+  - CRM and enterprise system integration via APIs and webhooks
+  - Agent performance monitoring and conversation funnel optimization
+  skills:
+    genai: [LLMs, AI Agents, Guardrails, Function Calling, Prompt Engineering, LangChain,
+      OpenAI API, RAG, Conversational AI]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: [SQL]
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [JWT, SIP, WebRTC, Twilio]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11682149'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:35:44.241581'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

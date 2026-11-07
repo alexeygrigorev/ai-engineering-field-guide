@@ -1,0 +1,43 @@
+company:
+  name: Onit
+  stage: null
+  focus: |-
+    AI-powered enterprise legal operations and contract
+    management
+position:
+  title: Senior Data Security Engineer - Purview & AI Governance
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description's responsibilities and skills sections
+      are empty placeholders. While the title suggests data
+      security and AI governance work with Microsoft Purview,
+      there is no text describing what the person actually does,
+      so Step 1 cannot be applied.
+  responsibilities:
+  - Data security engineering with Microsoft Purview (implied by title, details not
+    provided in description)
+  - AI governance oversight (implied by title, details not provided in description)
+  use_cases:
+  - AI-centric platform for enterprise legal management
+  - Matter management and spend management automation
+  - Contract lifecycle management automation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11934459'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:02:11.855327'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

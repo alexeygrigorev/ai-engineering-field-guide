@@ -1,0 +1,53 @@
+company:
+  name: Goldman Sachs
+  stage: null
+  focus: Global investment banking and financial services
+position:
+  title: Software Engineering - Data, Lakehouse and AI Data Platform Engineer-Bangalore-Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains data pipelines, curated
+      datasets and data quality on a lakehouse platform; AI is
+      only mentioned as a downstream use case of the data. The
+      engineer does not shape model behavior, prompts, retrieval,
+      or training, so it is ai-support.
+  responsibilities:
+  - Build, enhance and support batch and streaming data pipelines on the Lakehouse
+    and AI data platform
+  - Develop raw, refined and curated datasets supporting analytics, reporting and
+    AI use cases
+  - Apply data modelling principles including temporal and schema design to represent
+    business entities accurately
+  - Implement data quality, validation and reconciliation controls across pipelines
+    and datasets
+  - Build reusable tooling and framework components to improve delivery and platform
+    operations
+  - Refactor and modernize existing data flows for reliability, performance and maintainability
+  - Partner with data consumers to shape usable, well-documented data products
+  - Contribute to testing, monitoring and engineering standards within the team
+  use_cases:
+  - Analytics and reporting datasets
+  - Operational decision-making support
+  - Data foundation for emerging AI use cases
+  - Production batch and streaming data delivery
+  skills:
+    languages: [Python, Java, SQL]
+    domains: []
+    web: [JSON]
+    cloud: []
+    data: [Spark, Kafka, Apache Iceberg, Databricks, Hadoop, Avro, Parquet, Data Pipelines,
+      Data Modeling]
+    ml: []
+    databases: [Snowflake, Sybase IQ]
+    genai: []
+    ops: [CI/CD, Kubernetes]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11985470'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:19:02.258155'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

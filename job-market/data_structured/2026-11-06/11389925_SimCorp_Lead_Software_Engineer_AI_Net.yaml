@@ -1,0 +1,54 @@
+company:
+  name: SimCorp
+  stage: null
+  focus: Investment management software and FinTech solutions
+position:
+  title: Lead Software Engineer (AI & .Net)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops plugins and tools for generative AI models
+      and agentic AI solutions, integrates agents, and works on
+      multi-agent orchestration, guardrails, and MCP — directly
+      shaping model behavior and agent flows. LLM/agent components
+      are central, so ai-first.
+  responsibilities:
+  - Develop plugins and tools for generative AI models and agentic AI solutions
+  - Take proof-of-concepts to production-ready, high-quality solutions
+  - Integrate AI functionality with modules and agents developed by other teams
+  - Lead the design and development of complex software solutions meeting business
+    and technical requirements
+  - Provide technical leadership and mentorship to engineering teams
+  - Collaborate with product management, design, and QA teams for delivery
+  - Troubleshoot and resolve complex technical issues ensuring scalable, reliable,
+    performant solutions
+  - Participate in code reviews and uphold software development best practices
+  use_cases:
+  - Agentic ecosystem for investment operations workflows
+  - Multi-agent orchestration platform (Agent Orchestrator, SimCorp One Neo)
+  - Agent Development Stack for domain teams building AI features
+  - Evaluation, trust, safety, and guardrails for AI agents
+  - MCP integration for SimCorp One APIs
+  skills:
+    genai: [Generative AI, AI Agents, Agentic Workflows, Azure OpenAI, MCP, Function
+        Calling, Guardrails]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Azure DevOps, CI/CD, DevOps]
+    languages: [C#, .NET]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389925'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T11:41:39.465667'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

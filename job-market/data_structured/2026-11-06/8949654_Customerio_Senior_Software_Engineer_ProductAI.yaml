@@ -1,0 +1,48 @@
+company:
+  name: Customer.io
+  stage: null
+  focus: Customer messaging automation platform for email, push, SMS
+position:
+  title: Senior Software Engineer, Product/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core role is a fullstack product engineer building
+      features in Go, React, and Ember. AI appears only as a
+      developer workflow tool: the engineer uses AI agents to make
+      multi-file code changes, scoping work and verifying output -
+      the deliverable is shipped product code, not model behavior.
+      No prompting, retrieval, or model shaping of a product AI is
+      described.
+  responsibilities:
+  - Build fullstack features in Go, React, and Ember powering key customer workflows
+  - Collaborate with teammates to turn ideas into shipped customer value
+  - Share knowledge through public videos, writing, and mentorship
+  - Participate in an on-call rotation supporting system reliability
+  - Evolve systems to scale with more customers, messages, and use cases
+  - Use AI agents to make multi-file changes by scoping work, writing prompts, and
+    verifying output
+  use_cases:
+  - Automated customer communication via email, push, in-app, and SMS
+  - Messaging triggered by real-time behavioral data
+  - Scaling message delivery infrastructure for thousands of companies
+  skills:
+    genai: [AI Agents, Prompt Engineering]
+    ml: []
+    web: [React, Ember, APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8949654'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:03:51.462588'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

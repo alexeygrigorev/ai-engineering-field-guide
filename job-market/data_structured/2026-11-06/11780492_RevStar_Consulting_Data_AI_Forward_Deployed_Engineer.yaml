@@ -1,0 +1,57 @@
+company:
+  name: RevStar Consulting
+  stage: null
+  focus: Cloud, data, and Generative AI consulting solutions
+position:
+  title: Data & AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and deploys enterprise GenAI workloads
+      including custom RAG implementations with Amazon Bedrock,
+      SageMaker, and vector databases, which is designing
+      retrieval/RAG — shaping LLM output quality. Forward Deployed
+      Engineers adapting AI solutions at client sites are ai-
+      first.
+  responsibilities:
+  - Design, build, and deploy secure, scalable AWS cloud architectures using IaC and
+    microservices/serverless patterns
+  - Serve as primary technical leader on strategic enterprise client engagements,
+    partnering with C-level executives
+  - Lead large-scale cloud migrations and application modernization to AWS
+  - Architect and deploy enterprise GenAI and ML workloads with Amazon Bedrock, SageMaker,
+    vector databases, and custom RAG
+  - Drive AWS platform adoption and consumption growth by identifying new workloads
+    and building POCs
+  - Coach and mentor cloud engineers and build reusable accelerators and Terraform
+    modules
+  use_cases:
+  - Enterprise GenAI and ML workloads on AWS
+  - Custom RAG implementations with vector databases
+  - Cloud migration and legacy application modernization
+  - Secure, scalable cloud-native architecture delivery
+  - Data platforms for enterprise AI solutions
+  skills:
+    genai: [AWS Bedrock, RAG, Generative AI]
+    ml: []
+    web: []
+    databases: [DynamoDB, OpenSearch, Pinecone, pgvector, Redshift]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Lambda, ECS, EKS, API Gateway, SageMaker, IAM, AWS S3]
+    ops: [Terraform, AWS CDK, CloudFormation, CI/CD, GitHub Actions, GitLab CI, AWS
+        CodePipeline, MLOps, DevOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11780492'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-11-06T13:11:09.828266'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: |-
+    IT services company building AI-enabled enterprise
+    applications
+position:
+  title: Full Stack Developer (AI-Enabled Applications)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines and integrates
+      LLMs/Generative AI with prompt engineering and AI
+      orchestration directly, shaping model behaviour. LLM
+      components are central, so ai-first.
+  responsibilities:
+  - Architect and develop scalable full-stack applications with TypeScript, JavaScript,
+    and modern HTML/CSS frameworks
+  - Integrate LLMs and Generative AI tools into core business workflows
+  - Design and manage RAG pipelines to enhance application intelligence and retrieval
+    accuracy
+  - Engineer secure cloud infrastructure on AWS or Azure with cloud-native and microservices
+    patterns
+  - Automate deployments and configuration with Terraform and Shell scripting
+  - Develop and maintain RESTful APIs and microservices connecting AI components and
+    client applications
+  - Embed security, data privacy, and responsible AI practices into the AI development
+    lifecycle
+  - Use Python for automation scripts, AI model integration, and API interactions
+  use_cases:
+  - AI-driven enterprise applications
+  - Generative AI integrated into core business workflows
+  - RAG-powered data retrieval and application intelligence
+  - Secure cloud-native AI microservices for enterprise systems
+  skills:
+    languages: [TypeScript, JavaScript, HTML, Bash, Python]
+    domains: []
+    web: [CSS, Microservices, REST APIs]
+    cloud: [AWS, Azure]
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering, AI Orchestration]
+    ops: [Terraform]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891777'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:17.900719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Magnitude Software
+  stage: null
+  focus: |-
+    Reporting, analytics, and financial performance management
+    software
+position:
+  title: Lead Software Engineer (SQL/.Net/C#/AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds reporting/BI backend systems; AI appears
+      only as developer tooling (Copilot, Claude Code, Cursor)
+      used to accelerate coding, which is explicitly ai-support
+      per the edge cases. No shaping of model behavior.
+  responsibilities:
+  - Own end-to-end delivery of Reporting and BI features from design through production
+  - Drive architectural decisions for scalable dashboards using Oracle, BI tools,
+    Azure, and .NET/C#
+  - Champion AI-first development practices and coach the team on AI coding tools
+    like GitHub Copilot and Claude Code
+  - Shape the technical roadmap in partnership with Product
+  - Run 1:1s, performance reviews, and growth conversations; retain and grow engineers
+  - Enforce engineering standards including code quality gates, branch policies, and
+    release management
+  - Lead code reviews and architecture discussions
+  - Translate complex data reporting requirements into production-ready software
+  use_cases:
+  - Enterprise financial reporting and dashboards for Fortune 500 clients
+  - Financial Planning and Analysis (FP&A)
+  - Controllership and compliance reporting
+  - Business intelligence on large-scale financial data
+  - Performance management and analytics for finance teams
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: [REST APIs]
+    databases: [Oracle PL/SQL, Relational Databases]
+    data: []
+    cloud: [Azure]
+    ops: [GitHub Copilot, Cursor, Git, CI/CD]
+    languages: [SQL, C#, .NET]
+    domains: []
+    other: [Data Modeling, Power BI, Tableau, Qlik, Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11676684'
+  location: Hyderabad, IND
+  remote: true
+  extracted_at: '2026-11-06T12:32:07.909423'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

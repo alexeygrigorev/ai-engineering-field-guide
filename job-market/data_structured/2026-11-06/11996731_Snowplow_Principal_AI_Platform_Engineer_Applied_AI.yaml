@@ -1,0 +1,59 @@
+company:
+  name: Snowplow
+  stage: null
+  focus: |-
+    Real-time behavioral data collection platform for analytics
+    and AI
+position:
+  title: Principal AI Platform Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agents with tools, MCP
+      servers/gateways, tracing, and evaluation harnesses on an
+      internal AI platform - clearly shaping model/agent
+      behaviour, so ai-first. It is a principal IC role setting
+      technical direction without direct reports.
+  responsibilities:
+  - Design and own the GTM intelligence engine on the Firn data and AI platform, unifying
+    existing GTM services onto one foundation
+  - Build agents and tools on the factory framework with review steps and evaluations
+    as the standard shape
+  - 'Own platform architecture: MCP gateway, LLM gateway, tracing, factory framework
+    and ledger'
+  - Make every service production grade with version control, CI, alerting, recovery,
+    cost visibility and documentation
+  - Move rules from individual tools into versioned, testable code that agents can
+    read
+  - Build learning loops tying every platform action to its outcome
+  - Own eval and tracing infrastructure used by embedded and forward deployed engineers
+  - Set the engineering bar and own the platform roadmap for the Applied AI team
+  use_cases:
+  - 'Go-to-market intelligence: deciding which accounts and people to engage with
+    what, learning from every experiment'
+  - Account and engagement scoring with signal feeds from Apollo, Vector and reo.dev
+  - Always-on outbound engine and paid-media loop
+  - Curated GTM knowledge base
+  - Company-wide data and AI platform (Firn) with MCP gateway, LLM gateway, agentic
+    workflow factory and ledger
+  - Trusted, inspectable agents with review steps and evaluations
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Data Pipelines]
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Data Contracts, Cloud Infrastructure]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11996731'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:21:35.343264'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

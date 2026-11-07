@@ -1,0 +1,55 @@
+company:
+  name: Radix Trading
+  stage: null
+  focus: |-
+    Quantitative trading firm using technology for alpha
+    generation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, deploys, and evaluates agentic workflows,
+      RAG, guardrails, and eval harnesses, directly shaping
+      LLM/agent behavior and output quality. Multiple LLM
+      components are involved, so it is ai-first.
+  responsibilities:
+  - Build and accelerate firmwide AI ecosystem and infrastructure to support AI-native
+    systems and tooling
+  - Identify workflow opportunities for developers and researchers to introduce AI-first
+    systems and automation
+  - Design, deploy, and evaluate production-grade AI applications and advanced agentic
+    workflows
+  - Develop platform-level safeguards including evaluation harnesses, guardrails,
+    approval workflows, and kill switches
+  - 'Optimize metrics across agent systems: reasoning quality, retrieval accuracy,
+    latency, cost, and safety'
+  use_cases:
+  - AI-native tooling for a quantitative trading firm
+  - Automation of developer and researcher workflows
+  - Agentic AI applications with retrieval and structured outputs
+  - Safe platform-level AI deployment with guardrails and kill switches
+  skills:
+    genai: [Agentic Workflows, RAG, Semantic Search, Structured Outputs, Guardrails,
+      LLM Evaluation, LangChain, LangGraph, AutoGen, LlamaIndex, Prompt Engineering,
+      LLMs, Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11989638'
+  location: Chicago, USA
+  locations:
+  - Chicago, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:19:58.633417'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

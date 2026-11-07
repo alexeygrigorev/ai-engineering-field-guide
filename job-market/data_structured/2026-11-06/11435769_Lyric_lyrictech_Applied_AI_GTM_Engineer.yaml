@@ -1,0 +1,49 @@
+company:
+  name: Lyric (lyric.tech)
+  stage: null
+  focus: |-
+    Enterprise AI platform for supply chain decision
+    intelligence
+position:
+  title: Applied AI / GTM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds custom AI agents and AI-powered tools
+      (Claude Code, Claude Agent SDK, agentic frameworks) and
+      ships them into production, shaping agent behavior end to
+      end. This is shaping LLM/agent systems, so ai-first.
+  responsibilities:
+  - Ship AI-powered tools and agents into production for internal GTM use
+  - Own design, build, and iteration of AI products end to end
+  - Embed AI into the GTM tech stack (Slack, Salesforce, Notion, Claude, Fathom, internal
+    tooling)
+  - Partner with Sales & Marketing leadership to design and instrument new acquisition
+    channels and GTM motions
+  - Translate company strategy into data models, automations, and AI workflows that
+    scale
+  - Build MVP systems and products in RevOps that scale once value is proven
+  use_cases:
+  - Automating internal GTM and RevOps operations with AI agents
+  - AI-powered acquisition and expansion channel tooling
+  - Data models and automations for go-to-market workflows
+  - Internal productivity tools embedded in GTM tech stack
+  skills:
+    genai: [Claude Code, AI Agents, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Salesforce, Notion, Slack]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11435769'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:50:49.934669'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,45 @@
+company:
+  name: Mastra
+  stage: null
+  focus: Open-source TypeScript framework for building AI agents
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent evaluation, trace intelligence, and
+      self-improvement features (autoevals, suggestions,
+      rollouts), and tunes agent configuration and behavior based
+      on benchmark results — clearly shaping LLM/agent behavior.
+  responsibilities:
+  - Build tools for understanding agent traces and evaluating agent behavior
+  - Turn evaluation results into improvements for the Mastra framework
+  - Run experiments on Mastra primitives (e.g., memory) and analyze performance
+  - Benchmark primitives against industry-standard datasets and tune configurations
+  - Develop Agent Learning features including Autoevals, Suggestions, and Rollouts
+  - Ship agentic features into the open-source framework
+  use_cases:
+  - Agent observability and trace intelligence
+  - Automated agent self-improvement (autoevals and suggestions)
+  - Evaluating and benchmarking agent performance
+  - Improving agent memory and framework primitives
+  skills:
+    genai: [AI Agents, LLM Evaluation, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Benchmarks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11549368'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:10:14.005621'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

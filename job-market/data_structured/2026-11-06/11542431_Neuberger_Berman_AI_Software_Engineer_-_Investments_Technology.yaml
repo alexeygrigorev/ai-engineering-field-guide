@@ -1,0 +1,50 @@
+company:
+  name: Neuberger Berman
+  stage: null
+  focus: Private employee-owned investment management firm
+position:
+  title: AI Software Engineer - Investments Technology
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves prompt engineering, fine-tuning, MCP
+      servers, and RAG architecture, directly shaping LLM behavior
+      and building agentic workflows — clearly shaping AI/LLM
+      output quality.
+  responsibilities:
+  - Build and maintain end-to-end AI-powered solutions covering data ingestion, feature
+    engineering, model training, evaluation, and deployment
+  - Integrate LLMs and foundation models into product features including prompt engineering,
+    fine-tuning, MCP Servers, and RAG architecture
+  - Write clean, well-tested, well-documented code following engineering best practices
+  - Partner with Fixed Income business users to design and build agentic workflows,
+    web dashboards, and backend APIs
+  - Troubleshoot and maintain existing production applications with the Application
+    Support team
+  - Evaluate emerging AI/ML tools, frameworks, and techniques for adoption
+  use_cases:
+  - AI-powered fixed income investment technology products
+  - LLM and foundation model integration into product features
+  - RAG-based retrieval for investment data
+  - Agentic workflows for Fixed Income business users
+  - Dashboards and backend APIs for investment teams
+  skills:
+    genai: [LLMs, Prompt Engineering, Fine-Tuning, MCP, RAG, LangChain, LangGraph,
+      Agentic Workflows]
+    ml: [Model Training, Model Evaluation, Feature Engineering]
+    web: [FastAPI, Flask]
+    databases: [SQL Server, PostgreSQL, Snowflake]
+    data: [Pandas, Data Pipelines]
+    cloud: []
+    ops: [Git, CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11542431'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:08:20.605163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

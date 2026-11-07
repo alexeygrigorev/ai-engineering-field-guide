@@ -1,0 +1,52 @@
+company:
+  name: Dynatrace
+  stage: null
+  focus: Unified observability and security software platform
+position:
+  title: Sr AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds internal copilots, agents, and RAG systems,
+      implements prompt strategies, guardrails, and response
+      evaluation - directly shaping LLM behavior, so ai-first.
+      Explicitly not model training/research.
+  responsibilities:
+  - Build internal AI assistants, copilots, and agents for support, operations, and
+    business teams
+  - Implement RAG grounded in Snowflake data and curated enterprise metrics
+  - Implement prompt strategies, guardrails, and response evaluation techniques
+  - Combine LLMs and AI agents with intelligent automation platforms to automate end-to-end
+    business processes
+  - Scale proven AI POCs into production-ready, supportable solutions and build AI-powered
+    backend services and APIs
+  - Integrate AI capabilities with enterprise systems (ITSM, CRM, ERP)
+  - Implement serverless workflows on AWS and monitor AI usage, accuracy, latency,
+    and cost
+  use_cases:
+  - Internal AI copilots and assistants for support and operations teams
+  - Automated ticket triage, routing, approvals, and document handling
+  - AI-driven classification, summarization, and recommendation services
+  - Enterprise data-grounded decision support via RAG over Snowflake
+  - End-to-end business process automation with human-in-the-loop workflows
+  skills:
+    genai: [RAG, Prompt Engineering, Guardrails, LLMs, AI Agents, OpenAI API, Anthropic
+        API, Azure OpenAI, Gemini, MCP, LLM Evaluation, Function Calling, Vector Search]
+    ml: [Responsible AI, Model Evaluation]
+    web: [APIs, Microservices, OAuth]
+    databases: [Snowflake, Vector Databases]
+    data: [dbt, Data Pipelines, Airflow]
+    cloud: [AWS, AWS Lambda, AWS S3, AWS Bedrock, SageMaker, API Gateway]
+    ops: [CI/CD, MLOps, MLflow, Weights & Biases, Monitoring, Observability]
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: [Workato, Power Automate, UiPath, n8n, ServiceNow, Salesforce, RBAC, SSO]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12036441'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T14:36:28.024191'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

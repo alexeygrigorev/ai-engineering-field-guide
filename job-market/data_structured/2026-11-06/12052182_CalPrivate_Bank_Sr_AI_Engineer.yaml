@@ -1,0 +1,65 @@
+company:
+  name: CalPrivate Bank
+  stage: null
+  focus: |-
+    Community bank offering personal and business banking
+    services
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role hands-on builds generative AI solutions including
+      RAG, prompt engineering, enterprise search with Cortex
+      AI/Agents, and designs modular AI architectures for model
+      evaluation and substitution — clearly shaping LLM behavior
+      and retrieval, so ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and maintain AI, generative AI, machine learning,
+    and analytics solutions across the Bank
+  - Develop LLM and generative AI solutions including Snowflake Cortex AI, Cortex
+    Search, Cortex Agents, RAG, enterprise search, intelligent document processing,
+    and workflow automation
+  - Build and enhance Snowflake-centered data pipelines, integrations, APIs, and architecture
+    supporting analytics and AI applications
+  - Design modular AI architectures supporting evaluation, integration, and substitution
+    of different AI models and providers
+  - Establish testing, evaluation, monitoring, and observability for AI solutions
+    including quality, drift, security, and cost
+  - Partner with business teams and leadership to identify AI and automation opportunities
+    and translate strategy into solutions
+  - Work with Information Security, Risk, Compliance, and Legal to ensure responsible
+    AI implementation in a regulated banking environment
+  - Serve as senior technical resource, creating reusable frameworks, tools, and engineering
+    standards
+  use_cases:
+  - Enterprise search and internal knowledge tools using RAG
+  - Intelligent document processing and workflow automation
+  - Banking risk management and decision support analytics
+  - Reporting and forecasting enhancement
+  - Automation of manual banking processes
+  - Client and employee experience improvement through AI
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs]
+    cloud: [Azure, Azure Functions, Azure Storage]
+    data: [Data Pipelines, Data Engineering]
+    ml: [Machine Learning]
+    databases: [Snowflake, Snowpark, Relational Databases, Vector Search]
+    genai: [LLMs, Generative AI, Prompt Engineering, Embeddings, RAG, Vector Databases,
+      AI Agents, Snowflake Cortex AI, Cortex Agents]
+    ops: [CI/CD, Git, GitHub, Monitoring]
+    other: [Code Review, Enterprise Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12052182'
+  location: Brea, USA
+  locations:
+  - Brea, USA
+  - El Segundo, USA
+  - Newport Beach, USA
+  extracted_at: '2026-11-06T14:41:21.873073'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

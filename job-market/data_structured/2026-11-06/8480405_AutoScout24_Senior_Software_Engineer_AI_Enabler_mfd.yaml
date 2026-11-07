@@ -1,0 +1,48 @@
+company:
+  name: AutoScout24
+  stage: null
+  focus: Online automotive marketplace and car search
+position:
+  title: Senior Software Engineer / AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a backend software engineer who uses GenAI
+      coding tools to speed up their own work and integrates
+      third-party LLM APIs into applications. There is no evidence
+      of shaping model behavior (no prompt design, retrieval,
+      evals, or fine-tuning), so it is ai-support.
+  responsibilities:
+  - Work on product and tech initiatives balancing effort, quality and user value
+  - Optimize and improve the AutoScout24 technology stack for individual and team
+    efficiency
+  - Apply architectural principles, frameworks, and future-proven concepts
+  - Support an agile product development approach
+  - Work on high-traffic systems powering the search experience and ad products
+  use_cases:
+  - Automotive marketplace search experience
+  - Ad products powered by algorithms and data quality
+  - High-traffic search and ad systems
+  - LLM-powered internal developer tools
+  skills:
+    genai: [ChatGPT, Codex, OpenAI API, Anthropic API, Guardrails, Generative AI]
+    ml: []
+    web: [Spring Boot]
+    databases: [PostgreSQL, DynamoDB]
+    data: [Kafka]
+    cloud: [AWS, Azure OpenAI, Vertex AI]
+    ops: [GitHub Copilot]
+    languages: [Java, Scala]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8480405'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  extracted_at: '2026-11-06T15:02:55.067590'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

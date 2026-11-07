@@ -1,0 +1,52 @@
+company:
+  name: Ultra (ultra.tech)
+  stage: null
+  focus: Industrial AI robots for warehouse automation
+position:
+  title: Product Engineer, AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role rolls out AI coding tools and internal agents so
+      other teams work faster; the deliverable is developer and
+      business workflow, not model behaviour as a product. Per the
+      coding-tool rollout edge case, this is ai-support even
+      though the person builds agent infrastructure and guardrails
+      internally.
+  responsibilities:
+  - Own AI tooling adoption across Ultra, finding where AI improves velocity and driving
+    adoption
+  - 'Build the internal AI stack: services, workflows, interfaces, model integrations,
+    and agent infrastructure'
+  - Make agents competent and trustworthy in Ultra's codebase and systems via context,
+    tool access, review, testing, and CI
+  - Partner with operations, deployment, data, and business teams on workflow automation
+    and hand off maintainable systems
+  - Build reusable connectors, shared context, templates, examples, and guardrails
+    so others can extend what ships
+  - Evaluate the AI tooling ecosystem and decide what to adopt, compose, or build
+  - Partner with infrastructure and security for safe AI tool access
+  - Measure adoption, productivity, and trust; expand what works and kill what doesn't
+  use_cases:
+  - Developer productivity via AI coding agents, review, testing, and CI
+  - Internal workflow automation and agents trusted by non-engineering teams
+  - Self-service AI workflows so teams build their own automations
+  skills:
+    genai: [Agentic Workflows, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Guardrails]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11873598'
+  location: Brooklyn, USA
+  extracted_at: '2026-11-06T13:28:19.643922'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

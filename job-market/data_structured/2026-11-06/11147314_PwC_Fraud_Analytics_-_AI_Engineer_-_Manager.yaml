@@ -1,0 +1,49 @@
+company:
+  name: PwC
+  stage: null
+  focus: |-
+    Professional services: risk, regulatory, and fraud analytics
+    consulting
+position:
+  title: Fraud Analytics - AI Engineer - Manager
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the AI Engineer title, the description contains no
+      evidence of shaping model behaviour, LLM work, or even
+      concrete ML responsibilities — it is generic analytics/data
+      science consulting. Responsibilities are too vague to apply
+      Step 1, so classification is unknown.
+  responsibilities:
+  - Lead data-driven initiatives to optimize business performance and competitive
+    advantage
+  - Develop and implement innovative solutions using advanced analytics techniques
+  - Manage client service accounts and drive engagement workstreams, supervising teams
+  - Analyze and interpret large data sets using Python and data science methodologies
+  - Build and maintain data pipelines and architectures for business intelligence
+  - Guide teams in strategic planning and mentor junior staff
+  - Collaborate with stakeholders, address conflicts, and escalate when necessary
+  - Uphold professional standards and promote continuous process improvement
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Visualization]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11147314'
+  location: Chicago, USA
+  locations:
+  - Chicago, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:25:23.757111'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

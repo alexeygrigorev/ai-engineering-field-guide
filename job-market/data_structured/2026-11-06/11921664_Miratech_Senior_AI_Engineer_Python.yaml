@@ -1,0 +1,52 @@
+company:
+  name: Miratech
+  stage: null
+  focus: |-
+    Global IT services and consulting for enterprise digital
+    transformation
+position:
+  title: Senior AI Engineer (Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems using
+      LangGraph and LangChain, including agent planning,
+      orchestration, tool-calling, and RAG — directly shaping
+      LLM/agent behavior, so it's ai-first.
+  responsibilities:
+  - Develop and enhance AI agents and orchestration capabilities using Python, LangGraph,
+    and LangChain
+  - Build and extend AI-enabled guided workflows and automation capabilities
+  - Design, develop, and optimize conversational AI and chat-based experiences
+  - Implement agent planning, orchestration, memory, tool-calling, and response generation
+  - Integrate AI agents and applications with enterprise systems, services, and APIs
+  - Implement AI observability, monitoring, telemetry, and performance tracking
+  - Troubleshoot technical challenges and drive continuous platform enhancements
+  - Contribute to architecture discussions and scalable AI engineering standards
+  use_cases:
+  - Enterprise AI platform for intelligent workflows
+  - Conversational AI and chat-based experiences
+  - AI-powered automation across business functions
+  - Multi-agent orchestration and tool-calling
+  - Knowledge-based retrieval systems with RAG
+  skills:
+    genai: [LangGraph, LangChain, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      Function Calling, RAG, LLMs, Generative AI, Conversational AI, MCP]
+    ml: []
+    web: []
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11921664'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:58:35.819175'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

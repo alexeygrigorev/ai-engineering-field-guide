@@ -1,0 +1,46 @@
+company:
+  name: Flexera
+  stage: null
+  focus: |-
+    Hybrid ITAM and FinOps SaaS for technology spend
+    optimization
+position:
+  title: AI-Augmented Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend services, APIs, and data pipelines;
+      AI appears only as development tools the engineer uses (AI-
+      assisted coding) and a nice-to-have exposure. No shaping of
+      model behaviour, so it is ai-support.
+  responsibilities:
+  - Build backend services, APIs, integrations and data pipelines using Go and Python
+  - Own scoped features through implementation, testing and deployment
+  - Work with cloud-native systems, Kubernetes and containers
+  - Write maintainable code and automated tests; participate in code and design reviews
+  - Debug software issues, identify root causes and implement fixes
+  - Contribute to CI/CD, observability and production operations
+  - Use AI development tools for implementation, testing, debugging and code exploration
+  use_cases:
+  - Cloud-native, data-intensive backend systems for technology spend optimization
+  - APIs, integrations and data pipelines for ITAM and FinOps insights
+  - Multi-tenant SaaS platform services
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, gRPC]
+    databases: [Relational Databases, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, CI/CD, Observability, Docker, Terraform, Distributed Systems]
+    languages: [Go, Python]
+    domains: []
+    other: [Event-Driven Architecture, Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11933705'
+  location: Niuland, IND
+  extracted_at: '2026-11-06T14:01:50.970689'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

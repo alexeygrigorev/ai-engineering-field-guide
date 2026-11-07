@@ -1,0 +1,51 @@
+company:
+  name: Rubrik
+  stage: 'Publicly traded (NYSE: RBRK)'
+  focus: Data security and AI operations platform
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds agentic workflows, tool-calling
+      interfaces, and LLM-powered features in production, which is
+      shaping model behavior via agents and tools. Hence ai-first.
+  responsibilities:
+  - Own features end to end from database schema through backend services to React/Next.js
+    frontend
+  - Build full-stack web applications with production-grade frontends and REST APIs
+  - Design APIs and services consumed by applications, internal tools, and AI agents/LLMs
+    including tool-calling interfaces
+  - Build and productionize AI-agentified features such as agentic workflows and LLM-powered
+    automation
+  - 'Architect for distributed systems concerns: scalability, fault tolerance, consistency,
+    service boundaries'
+  - Apply reliability engineering practices including observability, SLAs/SLOs, and
+    incident response
+  - Design and optimize relational database schemas including indexing and query tuning
+  - Collaborate with internal business stakeholders, Product, QA, DevOps, and UX teams
+  use_cases:
+  - Internal business team applications and APIs with embedded AI-agentified capabilities
+  - Agentic workflows and LLM-powered automation in internal platforms
+  - Tool-calling interfaces exposing internal services to AI agents/LLMs
+  - Production-grade full-stack web applications for business stakeholders
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, Function Calling, Agentic Workflows,
+      RAG, LLMs, Guardrails, Claude Code]
+    ml: []
+    web: [React, Next.js, REST APIs, FastAPI, Flask, JavaScript, OpenAPI]
+    databases: [PostgreSQL, MySQL, SQL Server, MongoDB]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Docker, CI/CD, Git, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [Tailwind CSS, MUI, Redux, Zustand]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11788152'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:12:42.094064'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

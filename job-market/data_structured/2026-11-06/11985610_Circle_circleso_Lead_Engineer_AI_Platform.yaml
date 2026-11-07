@@ -1,0 +1,54 @@
+company:
+  name: Circle (circle.so)
+  stage: null
+  focus: |-
+    AI-powered all-in-one platform for creators and digital
+    businesses
+position:
+  title: Lead Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evals, scorers, prompt/model experiments,
+      and quality measurement for LLM agents — judging model
+      output quality and shaping agent behaviour is core, with
+      clear LLM/agent components. It's also management (leads the
+      AI Quality team), but shaping work dominates.
+  responsibilities:
+  - 'Build and own evaluation infrastructure: CI/CD pipelines, scorers, and datasets
+    for Circle''s AI agents from single tool calls to multi-turn conversations'
+  - Diagnose quality breakdowns across the agent pipeline including plan creation,
+    tool selection, and tool trajectories; prototype fixes
+  - Grow evaluation datasets via annotation workflows, AI-generated and simulated
+    conversations
+  - Run structured experiments across prompts, models, and agent harness; evaluate
+    open-source models against production baseline and pursue cost/latency wins
+  - Lead and grow the AI Quality engineering team, setting technical direction while
+    staying hands-on
+  - Partner with AI Core engineering to validate that changes improve AI quality
+  use_cases:
+  - Evaluating quality of AI agents (planners, tool-callers, sub-agents) in a community
+    platform
+  - Diagnosing agent pipeline failures in workflows, site builder, and analytics features
+  - Model selection, routing, and cost/latency optimization for production AI agents
+  - Dataset and annotation pipeline generation for AI evaluation
+  skills:
+    languages: [Python]
+    domains: []
+    web: [Ruby on Rails]
+    cloud: []
+    data: []
+    ml: [Model Evaluation, Machine Learning]
+    databases: []
+    genai: [LLMs, AI Agents, Prompt Engineering, LLM Evaluation]
+    ops: [LangSmith, CI/CD, Observability]
+    other: [Braintrust]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11985610'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:19:09.983459'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

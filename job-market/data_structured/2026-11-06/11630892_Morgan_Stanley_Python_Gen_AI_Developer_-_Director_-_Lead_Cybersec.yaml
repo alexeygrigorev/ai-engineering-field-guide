@@ -1,0 +1,50 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Python Gen AI Developer - Director - Lead Cybersecurity Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements cybersecurity controls for the firm's
+      AI/GenAI use and develops Python GenAI applications using
+      LangChain, OpenAI/Azure OpenAI APIs and PyTorch, indicating
+      hands-on work shaping GenAI solutions rather than just
+      security oversight. The developer builds applications with
+      LLM architectures, so Step 1/2 classify it as ai-first.
+  responsibilities:
+  - Implement cybersecurity controls securing the firm's use of AI and Generative
+    AI technologies
+  - Design, develop, maintain, and support web-based and distributed applications
+  - Translate high-level business requirements into functional, technical, and system
+    specifications
+  - Collaborate with cross-functional teams to identify, estimate, design, implement,
+    and test technical requirements
+  - Test and analyze software designs and solutions including debugging and troubleshooting
+  - Communicate with product leads on improvements to technology solutions
+  - Guide junior staff and manage multiple functions
+  use_cases:
+  - Cybersecurity controls for enterprise AI and Generative AI usage
+  - Securing LLM-based applications against adversarial attacks
+  - Web-based and distributed business applications supporting AI security enablement
+  skills:
+    languages: [Python]
+    domains: []
+    web: [REST APIs, SOAP, JSON]
+    cloud: [Azure OpenAI, Azure]
+    data: []
+    ml: [Machine Learning, Model Training, Model Evaluation, Transformers, PyTorch]
+    databases: [Relational Databases, DB2, Snowflake, Sybase]
+    genai: [LLMs, Generative AI, OpenAI API, LangChain]
+    ops: [Docker, Kubernetes, Jenkins, CI/CD, Git, DevOps]
+    other: [Secure Coding, Data Privacy, XML, Sonar, Service-Oriented Architecture,
+      Agile, TDD, BDD, Jupyter, VS Code]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11630892'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:26:23.499007'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

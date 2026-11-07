@@ -1,0 +1,54 @@
+company:
+  name: Affinity Solutions
+  stage: null
+  focus: Consumer purchase insights from permissioned spending data
+position:
+  title: Sr. Data & AI Application Engineer (59_2026.2)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI-powered applications including
+      chatbots, MCP integrations, and prototypes AI agent
+      orchestration, directly shaping LLM/agent behavior. Audience
+      modeling support is classical ML but the LLM/agent component
+      makes it ai-first per Step 2.
+  responsibilities:
+  - Lead front-end architecture and development with React and Next.js (Node.js)
+  - Design and implement enterprise-grade systems integrating with third-party platforms
+    such as Snowflake and ThoughtSpot
+  - Build and manage data pipelines, Snowflake clean rooms, and semantic layers
+  - Develop AI-powered applications including chatbots, MCP integrations, and API-connected
+    tools
+  - Support audience modeling workflows including model training, scoring, calibration,
+    and enrichment
+  - Build measurement frameworks and embedded BI dashboards
+  - Execute custom analytics requests including segmentation, overlap analysis, and
+    behavioral profiling
+  - Prototype R&D initiatives in privacy-preserving technologies and AI agent orchestration
+  use_cases:
+  - Consumer purchase insights platform
+  - Audience building and segmentation
+  - Marketing measurement and attribution
+  - AI-powered chatbots for insights access
+  - Privacy-preserving data collaboration and clean rooms
+  skills:
+    languages: [Node.js, SQL, Python]
+    domains: []
+    web: [React, Next.js, REST APIs, Streamlit]
+    cloud: [AWS, AWS Cognito]
+    data: [Data Pipelines]
+    ml: [Model Training, Calibration, Feature Engineering, Classification]
+    databases: [Snowflake, BigQuery, Redshift, Snowpark, Snowflake Cortex]
+    genai: [MCP, AI Agents, Agentic Workflows, Claude Code, OpenAI API, Anthropic
+        API]
+    ops: [Bitbucket, AWS EC2, Git]
+    other: [ThoughtSpot, Embedded BI, SSO, Jira, GitHub Copilot, Cursor, Differential
+        Privacy, Clean Rooms, Slack Bolt]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12079810'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:51:26.344551'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: Enterprise cloud workflow and AI platform
+position:
+  title: Senior Staff AI Native Engineer (Kubernetes)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates Kubernetes platform
+      infrastructure (operators, controllers, automation). AI is
+      mentioned only as tooling, agentic operational workflows, or
+      reasoning about AI's impact—no shaping of LLM behavior,
+      prompts, retrieval, or model output. The deliverable is
+      platform capacity and reliability.
+  responsibilities:
+  - Lead design and delivery of complex cloud-native platform components from design
+    through production operation
+  - Act as technical lead for major features and initiatives, translating ambiguous
+    problems into scalable designs
+  - Design, code, and review core systems including Kubernetes operators, controllers,
+    infrastructure automation, and platform services
+  - Operate managed and self-managed Kubernetes environments through deployment, upgrades,
+    and production operations
+  - Support stateful, distributed, and data workloads on Kubernetes
+  - Mentor mid-level and junior engineers and raise the engineering bar through reviews
+    and guidance
+  - Implement observability and reliability best practices including metrics, tracing,
+    and SLOs
+  use_cases:
+  - Kubernetes platform infrastructure at fleet scale
+  - Automated operational workflows and agentic systems for fleet visibility and operations
+  - Stateful database and data services on Kubernetes
+  - Large-scale distributed systems deployment and operation
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [Microservices]
+    databases: [Redis]
+    data: [Kafka, Parquet, ORC, Avro]
+    cloud: [EKS, AKS, GKE, AWS, Azure, GCP]
+    ops: [Kubernetes, Kubernetes Operators, Kubebuilder, Operator Framework, Custom
+        Resource Definitions, Docker, CI/CD, GitOps, Infrastructure as Code, Terraform,
+      Crossplane, Observability, Monitoring, Service Mesh, Distributed Systems, DevOps]
+    languages: [Go]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11943561'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:04:30.864080'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud, developer tools, and AI platforms
+position:
+  title: Solution Engineer - Cloud & AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed/pre-sales solution engineer who
+      guides customers in adopting Microsoft's agentic AI stack
+      (AI Foundry, Semantic Kernel, Copilot Studio) through hands-
+      on PoCs, hackathons, and architecture workshops. Per edge
+      cases, Forward Deployed Engineers adapting AI solutions at
+      customer sites are ai-first. Customer-facing technical pre-
+      sales work with deep agentic AI framework expertise.
+  responsibilities:
+  - Drive technical sales with decision makers using demos and PoCs to influence solution
+    design and enable production deployments
+  - Lead hands-on engagements such as hackathons, code-with sessions, and architecture
+    workshops to accelerate adoption of Microsoft developer tools and cloud platforms
+  - Build trusted relationships with customer developers and platform leads, co-designing
+    secure and scalable architectures
+  - Resolve technical blockers and objections, collaborating with engineering to share
+    insights and improve products
+  - Maintain deep expertise in AI Foundry and app architecture (Agentic AI frameworks,
+    Semantic Kernel, Foundry SDK, Responsible AI)
+  - Maintain expertise in cloud-native app development (APIs, containerization, microservices,
+    event-driven, Python, Java, .NET)
+  - Maintain and grow expertise in AI management and security (Gen AI Ops, Sentinel,
+    orchestration, monitoring)
+  - Represent Microsoft through thought leadership in developer communities and customer
+    forums
+  use_cases:
+  - Customer adoption of Microsoft AI Foundry and Azure AI for application development
+  - Agentic AI development where agents streamline development and operations
+  - Modernizing enterprise applications to become AI-native
+  - Secure, scalable AI application architecture and deployment for commercial customers
+  - AI management and security including Gen AI Ops and monitoring
+  skills:
+    genai: [Agentic Workflows, Semantic Kernel, Fine-Tuning, Copilot Studio]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Azure]
+    ops: [GitHub, Monitoring]
+    languages: [Python, Java, C#, C++, Node.js, .NET]
+    domains: []
+    other: [Responsible AI, Sentinel, Containerization, Event-Driven Architecture,
+      VS Code, Jupyter, PyCharm]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11408444'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:45:29.098200'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

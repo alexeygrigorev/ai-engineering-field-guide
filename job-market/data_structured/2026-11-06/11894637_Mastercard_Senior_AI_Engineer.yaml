@@ -1,0 +1,56 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments technology and data intelligence
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool calling, RAG,
+      prompt engineering, and fine-tuning strategies—directly
+      shaping LLM behavior. LLM/agent components dominate, so it's
+      ai-first.
+  responsibilities:
+  - Architect and build the tool-calling layer powering agents, wrapping internal
+    services, data platforms, and external APIs as well-defined tools
+  - Engineer reliable tool execution at scale with parallel/chained calls, retries,
+    idempotency, and error recovery
+  - Develop high-performance Python backend services for LLM orchestration with async
+    job handling, streaming, caching, and rate limiting
+  - Engineer state, memory, and context management for long multi-step agent interactions
+  - Architect multi-agent and skills-based agent systems using frameworks such as
+    LangGraph, CrewAI, or AutoGen
+  - Build RAG and Graph-RAG retrieval systems with vector databases and knowledge
+    graphs
+  - Establish LLMOps and MLOps pipelines on Databricks covering MLflow, evaluation,
+    lineage, CI/CD, and monitoring
+  - Implement Responsible AI practices including hallucination mitigation, bias detection,
+    and output safety guardrails
+  use_cases:
+  - Agentic AI systems that call enterprise services and APIs for business insights
+  - Tool-based agents handling complex multi-step workflows
+  - Grounded knowledge retrieval for agents via RAG and knowledge graphs
+  - Operational intelligence for enterprise decision-making
+  - Multimodal generative pipelines unifying text, image, tabular, and graph data
+  skills:
+    genai: [Agentic Workflows, Function Calling, LangGraph, CrewAI, AutoGen, RAG,
+      Embeddings, Semantic Search, Prompt Engineering, LLMs, Fine-Tuning, LoRA, RLHF,
+      MCP, OpenAI API, Anthropic API, Gemini, Generative AI, Guardrails, LLM Evaluation]
+    ml: [Transformers, Foundation Model Training]
+    web: [FastAPI, Microservices, APIs]
+    databases: [Pinecone, pgvector, OpenSearch, Neo4j, Knowledge Graphs, Vector Databases]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP, SageMaker, AWS Bedrock]
+    ops: [LLMOps, MLOps, MLflow, CI/CD, Weights & Biases, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894637'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:52:12.114415'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

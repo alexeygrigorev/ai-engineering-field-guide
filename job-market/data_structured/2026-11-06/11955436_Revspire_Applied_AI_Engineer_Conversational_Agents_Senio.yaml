@@ -1,0 +1,54 @@
+company:
+  name: Revspire
+  stage: null
+  focus: |-
+    AI-powered customer communication software for home services
+    businesses
+position:
+  title: Applied AI Engineer — Conversational Agents (Senior/Staff)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM/agent behavior through model
+      selection, prompting, context, orchestration, and voice
+      behavior, and builds evaluations for agent output quality.
+      This is squarely shaping AI agent systems.
+  responsibilities:
+  - Analyze production conversations, traces, and calls to identify agent failure
+    patterns and prioritize improvements
+  - Define quality dimensions and build evaluation datasets combining human judgment,
+    automated graders, and production metrics
+  - Design reproducible experiments and controlled production rollouts to compare
+    approaches
+  - 'Improve voice agent experience: turn-taking, interruptions, latency, transcription,
+    and speech naturalness'
+  - Implement improvements in the agent system and monitor reliability, cost, and
+    regressions in production
+  - Turn failures and findings into reusable datasets, evaluations, and debugging
+    tools
+  - 'At Staff level: shape evaluation and experimentation strategy across agent capabilities'
+  use_cases:
+  - Conversational voice, SMS, and email agents for home services businesses
+  - Automated customer response and appointment booking
+  - Voice agent turn-taking, latency, and naturalness improvement
+  - Production agent quality evaluation and experimentation
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLM Evaluation, Multi-Agent Systems, Conversational
+        AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11955436'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:10:02.371350'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

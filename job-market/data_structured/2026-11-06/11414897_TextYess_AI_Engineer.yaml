@@ -1,0 +1,77 @@
+company:
+  name: TextYess
+  stage: null
+  focus: AI-first CRM with autonomous agents for B2C brands
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: fixing grounding
+      via retrieval and prompts, designing hybrid ranking,
+      building evals/guardrails, and testing prompt and model
+      changes for LLM agents. This is clearly ai-first.
+  responsibilities:
+  - Fix agent grounding issues across retrieval, prompts, and evals
+  - Combine exact-match and semantic search into a single ranking system
+  - Ensure multilingual response quality across Italian, English, and other languages
+  - Profile and optimize latency, cost, and quality of agent responses
+  - Build evals with Langfuse traces and a golden-dataset harness that predict production
+    quality
+  - Rank, score, and suppress proactive insights to decide when the agent should interrupt
+    customers
+  use_cases:
+  - Autonomous sales, support, and retention agents for B2C brands
+  - Conversational commerce across WhatsApp, email, voice, and on-site
+  - Multilingual customer conversations (Italian, English, and more)
+  - Product availability and SKU/variant grounding in agent answers
+  - Proactive customer outreach with ranked, scored insights
+  skills:
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, Embeddings, Vector Search, Semantic
+        Search, Reranking, Chunking, Fine-Tuning, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Elasticsearch, Qdrant, Weaviate, Algolia]
+    data: []
+    cloud: []
+    ops: [Langfuse, LangSmith, Arize]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11414897'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T11:46:56.120151'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

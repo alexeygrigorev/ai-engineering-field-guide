@@ -1,0 +1,57 @@
+company:
+  name: FutureFit AI
+  stage: Bootstrapped 0-1, then venture-backed (funding led by JP Morgan)
+  focus: AI-powered workforce development and job coaching platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role designs, builds, and ships LLM-based products:
+      conversational coaching, agentic workflows, tool use, prompt
+      engineering, RAG, and evaluation harnesses — direct shaping
+      of LLM behavior. Also includes classical ML (ranking,
+      classification), but with a clear LLM component the
+      classification is ai-first.
+  responsibilities:
+  - 'Design, build, and ship LLM-based product experiences end to end: conversational
+    coaching, agentic workflows, and orchestration layers'
+  - Build coaching and career pathway products grounded in labor market evidence and
+    causal analysis of wage impact
+  - 'Own evaluation: build eval harnesses, quality metrics, regression tracking, and
+    human-in-the-loop review'
+  - Build predictive, classification, and ranking models when appropriate for the
+    product problem
+  - Prepare, label, govern, and maintain data pipelines and knowledge sources grounding
+    AI systems
+  - Integrate AI systems with internal tools, databases, SaaS products, and case management
+    systems with auth, guardrails, and failure handling
+  use_cases:
+  - Chat-based career coaching for job seekers
+  - Agentic workflows that complete multi-step tasks like eligibility forms and job
+    applications
+  - Evidence-grounded career pathway and next-step recommendations
+  - Context orchestration from case management systems and labor market data
+  - Predictive, classification, and ranking models for workforce products
+  - Retrieval-augmented generation over workforce data sources
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, Function Calling, RAG, LangChain,
+      LangGraph, Guardrails, LLM Evaluation, Embeddings]
+    ml: [Machine Learning, scikit-learn, Model Evaluation, Recommender Systems]
+    web: [APIs]
+    databases: [PostgreSQL, Redshift, MongoDB, Vector Search]
+    data: [Airflow, dbt, Data Pipelines]
+    cloud: [AWS, SageMaker]
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11600632'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:19:04.143310'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Cyces Innovation Labs LLP
+  stage: null
+  focus: AI solutions and application development
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered applications, agents, agentic
+      workflows, RAG, and prompt/context engineering directly,
+      which is shaping LLM behaviour. Forward Deployed Engineers
+      adapting AI solutions are ai-first. Customer-facing role
+      working closely with clients.
+  responsibilities:
+  - Build, prototype, and deploy AI-powered applications and LLM solutions
+  - Design intelligent agentic workflows and AI orchestration
+  - Develop backend services with REST APIs, microservices, and enterprise integrations
+  - Implement prompt engineering, context engineering, and RAG solutions
+  - Build rapid prototypes and PoCs and scale them to production
+  - Collaborate with clients and internal stakeholders on real-world business problems
+  use_cases:
+  - LLM-powered applications for clients
+  - Intelligent agentic workflows
+  - Enterprise AI integrations
+  - Rapid prototyping of AI solutions from concept to production
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, Context Engineering,
+      RAG, LangChain, LlamaIndex, Semantic Kernel, MCP]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Git, Docker, Kubernetes, MLOps, LLMOps]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12028312'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:33:37.757689'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

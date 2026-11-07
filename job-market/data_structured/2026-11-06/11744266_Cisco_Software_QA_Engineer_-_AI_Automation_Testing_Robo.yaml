@@ -1,0 +1,49 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and commerce platform technology
+position:
+  title: Software QA Engineer - AI Automation Testing (Robot/Playwright), 4-9 Yrs
+    exp, Bangalore
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software QA role where AI-driven testing tools are
+      leveraged, not shaped; the person does not design prompts,
+      retrieval, or model behaviour. Testing oversight is ai-
+      support unless they build AI evals/guardrails themselves,
+      which is not the case here.
+  responsibilities:
+  - Design, build, and test software products focusing on reliability, latency, and
+    performance through automated approaches
+  - Develop and maintain test automation frameworks, automated scripts, and test plans
+    for quality gates across the SDLC
+  - Conduct root-cause analysis on bugs and escaped defects and provide risk assessments
+  - Apply risk-based analysis to software integration points across the commerce platform
+  - Perform API testing and database validation
+  - Integrate test automation suites into CI/CD pipelines
+  - Document test plans, release notes, and bug reports; mentor peers and interns
+  use_cases:
+  - End-to-end quality assurance for Cisco's Quote-to-Order commerce platform
+  - Automated regression and performance testing of commercial platforms
+  - Root-cause analysis and risk assessment for software defects
+  - Quality gates in CI/CD pipelines for large-scale distributed commerce systems
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Database Validation]
+    data: []
+    cloud: []
+    ops: [Playwright, Selenium, CI/CD]
+    languages: []
+    domains: []
+    other: [AI-Driven Testing, Test Automation, Quote-to-Order]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11744266'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:45:36.147327'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: AI Lead Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI-enabled applications
+      including RAG patterns, agentic workflows, and
+      evaluation/guardrails themselves, which is shaping LLM
+      behavior. The AI-assisted tooling rollout component alone
+      would be ai-support, but the direct RAG/agent design work
+      makes it ai-first.
+  responsibilities:
+  - Lead design, development, and delivery of high-quality software solutions
+  - Drive architectural decisions for scalable, resilient distributed systems
+  - Build and maintain secure, production-grade services
+  - Mentor engineers through technical guidance and pairing
+  - Implement CI/CD automation and reliability patterns
+  - Develop data-intensive services in Java/Scala at large scale
+  - Design and build AI-enabled applications with RAG patterns, agentic workflows,
+    evaluation, and guardrails
+  - Drive adoption of AI-assisted engineering practices with validation standards
+  use_cases:
+  - Strategic AI platforms for corporate functions
+  - RAG-based AI applications for the firm
+  - Agentic workflow applications
+  - AI-assisted code review, test acceleration, and incident analysis for engineering
+    teams
+  - Data-intensive corporate technology services
+  skills:
+    genai: [RAG, Agentic Workflows, Guardrails, LLM Evaluation, LangChain, LlamaIndex,
+      Generative AI]
+    ml: []
+    web: [Spring Boot, React, Microservices, REST APIs, GraphQL, Event-Driven Architecture,
+      APIs]
+    databases: [Elasticsearch, Oracle, MongoDB]
+    data: []
+    cloud: [AWS, Databricks]
+    ops: [CI/CD, Infrastructure as Code, Docker, Kubernetes]
+    languages: [Java, Scala, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11667142'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Jersey City, USA
+  extracted_at: '2026-11-06T12:29:28.914326'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

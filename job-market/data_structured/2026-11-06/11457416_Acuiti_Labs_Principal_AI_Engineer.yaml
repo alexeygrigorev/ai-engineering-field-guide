@@ -1,0 +1,52 @@
+company:
+  name: Acuiti Labs
+  stage: null
+  focus: SAP consulting for Consume-to-Cash and subscription billing
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered applications, designs RAG and
+      vector databases, and does prompt engineering, function
+      calling, and multi-agent orchestration hands-on, which is
+      directly shaping model behaviour -> ai-first. Leadership
+      responsibilities don't change this.
+  responsibilities:
+  - Own the architecture of AI applications and platforms and manage delivery end
+    to end
+  - Lead the AI engineering team day to day, setting direction, mentoring, and managing
+    performance
+  - Plan and prioritise the team's work to ship on time and to quality
+  - Build LLM-powered applications, AI agents, and intelligent workflows
+  - Design RAG, retrieval, memory, and vector-database systems that scale
+  - Write and review backend services in Python and Java integrated with enterprise
+    and SAP APIs
+  - Handle prompt engineering, function calling, tool use, and multi-agent orchestration
+  - Keep live systems fast, secure, reliable, and cost-effective
+  use_cases:
+  - Bringing LLMs, AI agents, and automation into enterprise billing and subscription
+    platforms
+  - Intelligent workflows in and around SAP systems
+  - RAG and retrieval systems over enterprise data at scale
+  - Secure enterprise and SAP API integrations
+  skills:
+    languages: [Python, Java]
+    domains: []
+    web: [APIs]
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: []
+    databases: [Vector Databases, FAISS, Pinecone, Chroma, pgvector]
+    genai: [LLMs, AI Agents, RAG, Prompt Engineering, Function Calling, Agentic Workflows,
+      LangChain, LangGraph, AutoGen, LlamaIndex]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, LLMOps]
+    other: [SAP]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11457416'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:53:40.742516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

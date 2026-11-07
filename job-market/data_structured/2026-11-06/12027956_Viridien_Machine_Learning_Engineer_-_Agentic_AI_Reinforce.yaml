@@ -1,0 +1,50 @@
+company:
+  name: Viridien
+  stage: null
+  focus: Advanced technology, digital and Earth data company
+position:
+  title: Machine Learning Engineer - Agentic AI & Reinforcement Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds single- and multi-agent systems,
+      evaluates LLM/agent behavior, does fine-tuning and RLHF-
+      style preference optimization, and designs evals and
+      guardrails - clearly shaping LLM/agent output quality. Hence
+      ai-first.
+  responsibilities:
+  - Design and develop single-agent and multi-agent systems
+  - Implement and evaluate agent capabilities such as reasoning, planning, task decomposition,
+    memory, tool use and collaboration
+  - Integrate LLMs, vision-language models, retrieval systems and domain-specific
+    tools
+  - Experiment with fine-tuning and adapting foundation models via supervised learning,
+    preference optimisation and reinforcement learning
+  - Develop training environments, reward functions, graders and feedback mechanisms
+  - Design evaluations, guardrails and monitoring for agent reliability
+  - Turn successful prototypes into APIs, services and reusable software components
+  use_cases:
+  - Agentic AI for complex scientific and enterprise workflows
+  - AI-driven scientific research (geophysical imaging, materials science, biotechnology)
+  - Intelligent agents with reasoning, planning and tool use for scientific applications
+  - Reinforcement learning and preference optimisation for foundation models
+  skills:
+    genai: [LLMs, Multi-Agent Systems, AI Agents, Function Calling, Fine-Tuning, RLHF,
+      LangGraph, AutoGen, MCP, Guardrails]
+    ml: [Reinforcement Learning, PyTorch, JAX, TensorFlow, Generative AI]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027956'
+  location: Airoli, IND
+  extracted_at: '2026-11-06T14:33:10.723503'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU computing, AI hardware and cloud services
+position:
+  title: Senior AI Infrastructure Engineer - DGX Cloud
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, scales, and maintains GPU cloud
+      infrastructure for AI training/inference platforms; it does
+      not shape model behavior, prompts, retrieval, or training.
+      Per the edge cases, hosting and scaling models others build
+      is ai-support.
+  responsibilities:
+  - Design, build, deploy, and run internal tooling for large-scale AI training and
+    inference platforms on cloud infrastructure
+  - Conduct performance characterization and analysis on large multi-GPU and multi-node
+    clusters
+  - Engage in the full service lifecycle from design through deployment, operation,
+    and refinement
+  - Support pre-launch services through design consulting, tooling development, capacity
+    management, and launch reviews
+  - Maintain live services by monitoring availability, latency, and system health
+  - Scale systems through automation and reliability improvements
+  - Practice incident response and blameless postmortems
+  - Participate in on-call rotation for production systems
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Public Cloud]
+    ops: [Kubernetes, Linux, Docker, Infrastructure as Code, Terraform, Distributed
+        Systems, Monitoring]
+    languages: [Python, Go, C++, Java]
+    domains: []
+    other: [OpenStack, Networking, Storage, Slurm]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088041'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:53:13.047089'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

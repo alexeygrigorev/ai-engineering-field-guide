@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI-powered products
+position:
+  title: AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM inference, agents and multi-
+      agent workflows, guardrails, and model evaluation systems —
+      directly shaping model behavior and output quality for LLM-
+      based systems. AI-first since LLMs and agentic components
+      are central.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents and multi-agent workflows, similarity search,
+    guardrails, and model evaluation
+  - Invent foundation model optimization techniques to improve performance, scalability,
+    cost, latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems, ensuring maintainability,
+    observability, and ethical alignment
+  - Define and maintain service-level objectives for AI reliability including latency,
+    uptime, and model performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate model inference pipelines
+  - Lead cross-functional technical reviews for new AI system deployments covering
+    security, governance, and compliance
+  - Mentor Principal and Senior Associates on scalable design and research-to-production
+    translation
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Agentic AI and multi-agent workflows for internal and customer products
+  - Foundation model training and large-scale LLM inference platform services
+  - Model evaluation, governance, and observability for responsible AI
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Guardrails, Similarity Search]
+    ml: [PyTorch, Hugging Face, Fine-Tuning, Model Training, Model Evaluation, Machine
+        Learning, CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Distributed Systems, LLM Evaluation]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11795976'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:13:55.310869'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

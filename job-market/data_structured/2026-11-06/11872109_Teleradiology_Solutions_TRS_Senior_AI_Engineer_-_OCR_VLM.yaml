@@ -1,0 +1,66 @@
+company:
+  name: Teleradiology Solutions (TRS)
+  stage: null
+  focus: |-
+    Teleradiology and clinical AI for medical imaging and
+    document workflows
+position:
+  title: Senior AI Engineer - OCR / VLM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behaviour: fine-tuning
+      LLMs/VLMs (SFT, LoRA/QLoRA), building multimodal RAG, tool-
+      using agents with function calling/MCP, and defining
+      evals/guardrails for extraction quality. LLM/agent
+      components are central, so it's ai-first despite the
+      classical OCR/CV work.
+  responsibilities:
+  - Own OCR/VLM/Document AI system design end to end, including architecture trade-offs,
+    confidence and fallback strategy, and rollout criteria
+  - Train, fine-tune and benchmark text detection, recognition and VLM approaches,
+    choosing OCR-first, VLM-first or hybrid pipelines
+  - Fine-tune small language and vision-language models (SFT, LoRA/QLoRA, distillation)
+    and benchmark against larger and API models
+  - Build document understanding pipelines recovering structure with confidence scores,
+    provenance and human-review paths
+  - Build multimodal RAG and tool-using agents with grounded, cited answers and human-in-the-loop
+    checks
+  - Define evaluation and release criteria, own golden test sets, annotation guidelines
+    and error taxonomies
+  - Build evaluation and agent harnesses with golden sets, replayable traces, versioned
+    prompts and CI regression gates
+  - Package pipelines as production services (Python, Docker, FastAPI) with inference
+    optimization and monitoring
+  use_cases:
+  - Turning scanned pages, PDFs, forms and image-based text into reliable structured
+    data for healthcare workflows
+  - Structured extraction from medical documents including DICOM CT/X-ray studies,
+    non-DICOM scans and handwritten technologist sheets
+  - Document understanding with reading order, tables and key-value field recovery
+    with provenance and human review
+  - Grounded multimodal RAG with cited answers over text, document images and scans
+  - Production document intelligence services with PHI-safe handling and monitoring
+  skills:
+    genai: [Fine-Tuning, LoRA, RAG, AI Agents, Function Calling, MCP, Guardrails,
+      LangChain, LangGraph, Context Engineering, Prompt Engineering, LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Keras, NumPy, OpenCV, Transformer OCR, Hugging Face,
+      Model Evaluation, Fine-Tuning, Embeddings, Quantization, Transformers]
+    web: [FastAPI]
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: []
+    ops: [Langfuse, Docker, CI/CD, Linux, Git, TensorRT, ONNX, MLflow, Weights & Biases]
+    languages: [Python]
+    domains: []
+    other: [OCR, Vision-Language Models, Structured Extraction, Layout Extraction,
+      Handwritten Text Recognition, Small Language Models, PaddleOCR, Tesseract, TrOCR,
+      DICOM, pydicom, pynetdicom, SimpleITK, pytest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11872109'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:27:20.941804'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

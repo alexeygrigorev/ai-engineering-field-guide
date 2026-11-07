@@ -1,0 +1,59 @@
+company:
+  name: OrderYOYO
+  stage: null
+  focus: Branded websites, apps and marketing for restaurants
+position:
+  title: Senior Data & AI Platform Engineer Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes hands-on building of RAG, Azure OpenAI,
+      and agents with prompt and version management, which is
+      directly shaping LLM behavior, so it is ai-first. The bulk
+      of the job is data platform engineering, but the explicit
+      LLM component satisfies Step 1/2.
+  responsibilities:
+  - Design, build and operate production-grade data solutions in Microsoft Fabric
+    (Lakehouse, Warehouse, notebooks, pipelines)
+  - Build and run production pipelines in Fabric, Python and PySpark with tests and
+    maintainability
+  - Design scalable ingestion and transformation patterns across source systems while
+    controlling cost and concurrency
+  - Manage Fabric capacity and cost, retire redundant legacy layers
+  - Lead legacy-to-modern migrations with metric parity, change control and safe decommissioning
+  - 'Run the platform in production: monitoring, alerting, incident triage, data-quality
+    checks, lineage and runbooks'
+  - 'Build AI into the platform: RAG, Azure OpenAI and agents with prompt and version
+    management'
+  - Deliver applied data science models such as churn, recommendations, personalisation,
+    fraud or risk
+  use_cases:
+  - Executive reporting and merchant insights for a restaurant SaaS platform
+  - Finance data automation reducing manual finance work
+  - AI-driven data products using RAG and Azure OpenAI
+  - 'Applied data science: churn, recommendations, personalisation, fraud and risk
+    models'
+  - Migration from legacy data platform to Microsoft Fabric lakehouse
+  skills:
+    genai: [RAG, Azure OpenAI, AI Agents, Prompt Engineering]
+    ml: [Churn Prediction, Recommendation Systems]
+    web: []
+    databases: [ADLS]
+    data: [Microsoft Fabric, Databricks, PySpark, Data Pipelines, Delta Lake, CDC]
+    cloud: [Azure, Azure SQL, Entra ID, Key Vault, Synapse]
+    ops: [Terraform, Infrastructure as Code]
+    languages: [Python, SQL, T-SQL]
+    domains: []
+    other: [Power BI, DAX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12097615'
+  location: DEU
+  locations:
+  - DEU
+  - Berlin, DEU
+  remote: true
+  extracted_at: '2026-11-06T14:58:32.363019'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Johnson Controls
+  stage: null
+  focus: Building systems and digital transformation technology
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on use of Prompt Engineering and RAG
+      to drive AI-assisted code conversion and modernization
+      outcomes, plus leading POCs for AI-driven modernization. The
+      engineer shapes LLM behaviour themselves via prompts and
+      retrieval, so Step 2 gives ai-first.
+  responsibilities:
+  - Modernize legacy VB6, Synon, RPG, RPGLE, CLP, and IBM i (AS400) applications
+  - Use Generative AI, GitHub Copilot, and Azure OpenAI to accelerate code analysis,
+    conversion, testing, and documentation
+  - Design and execute migration strategies to modern Microsoft platforms
+  - Develop reusable modernization frameworks and enterprise-scale patterns
+  - Design and develop applications using C#, .NET 8+, ASP.NET Core, and .NET MAUI
+  - Design API-first architectures and service-based integrations using Azure services
+  - Lead AI proof-of-concepts and establish engineering standards for AI-assisted
+    development
+  - Mentor development teams on modernization approaches and AI tools
+  use_cases:
+  - Legacy application modernization from VB6 and AS400 to Microsoft platforms
+  - AI-assisted code conversion, testing, and documentation
+  - Cloud migration of mission-critical enterprise applications
+  - API-first integration of modernized business applications
+  - Reducing technical debt and improving maintainability
+  skills:
+    languages: [VB6, C#, JavaScript]
+    domains: []
+    web: [HTML5, APIs]
+    cloud: [Azure AI Services, Azure, Azure Functions]
+    data: []
+    ml: []
+    databases: [DB2, SQL Server]
+    genai: [Azure OpenAI, Prompt Engineering, RAG, Generative AI]
+    ops: [GitHub Copilot, Azure DevOps, GitHub, CI/CD]
+    other: [.NET Framework, ASP.NET Core, .NET MAUI, WinUI, WPF, XAML, Synon (CA 2E),
+      RPG, RPGLE, CLP, IBM i / AS400, Stored Procedures, Microsoft Copilot, Azure
+        API Management, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11257383'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:28:28.696238'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

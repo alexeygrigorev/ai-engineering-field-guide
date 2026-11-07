@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Associate AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent systems, agent orchestration,
+      prompt engineering, RAG pipelines, and LLM evaluation —
+      clearly shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Design and implement autonomous and multi-agent systems with planning, reasoning,
+    tool invocation, and workflow execution
+  - Build agent workflows using orchestration frameworks and reusable agent components,
+    skills, and enterprise integrations
+  - Enable human-in-the-loop controls and agent governance mechanisms
+  - Evaluate, select, and integrate LLMs for business use cases; optimize performance,
+    latency, cost, and response quality
+  - Design prompt engineering and prompt management strategies
+  - Implement model evaluation and monitoring frameworks
+  - Design enterprise-scale RAG solutions with document ingestion, chunking, embedding,
+    retrieval, and ranking pipelines
+  - Manage vector databases and knowledge repositories to improve factual accuracy
+    and reduce hallucinations
+  use_cases:
+  - MarTech AI solutions
+  - Autonomous agent workflows for enterprise tasks
+  - Enterprise-scale retrieval and knowledge grounding
+  - Grounded generation to reduce hallucinations
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, LLMs, Prompt Engineering,
+      RAG, Embeddings, Fine-Tuning, LLM Evaluation]
+    ml: []
+    web: [React, Next.js, REST APIs]
+    databases: [Vector Databases, Cosmos DB]
+    data: []
+    cloud: [Azure, AKS, Azure Blob Storage]
+    ops: [Kubernetes]
+    languages: [Java, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100044'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:59:32.548579'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

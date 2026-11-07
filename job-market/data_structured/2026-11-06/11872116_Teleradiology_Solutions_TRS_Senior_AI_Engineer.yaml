@@ -1,0 +1,58 @@
+company:
+  name: Teleradiology Solutions (TRS)
+  stage: null
+  focus: Clinical AI for medical imaging and teleradiology reporting
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour via training CNN/transformer
+      models for medical imaging classification, detection and
+      segmentation, with clinical evaluation and calibration.
+      There is no LLM/agent shaping component — LLMs, RAG and PEFT
+      are only good-to-haves. Core work is classical DL/computer
+      vision, so ml-first.
+  responsibilities:
+  - Own clinical AI algorithms end to end from proposal, data strategy, modelling
+    and validation to deployment, monitoring and improvement
+  - Design and train CNN, transformer and hybrid models for classification, detection
+    and segmentation
+  - Architect DICOM pipelines and dataset curation with lineage, versioning and label-quality
+    control
+  - Define clinical evaluation protocols, metrics, calibration and subgroup analyses;
+    lead threshold selection with radiologists
+  - Turn validated models into production services with Docker, FastAPI/REST, GPU
+    inference, observability and safe failure behaviour; optimise with ONNX, TensorRT
+    or CUDA
+  - Deploy on AWS, Azure, GCP and on-premise GPU infrastructure; own experiment tracking,
+    model registries, CI/CD, regression testing, drift monitoring and rollback
+  - Lead design, code and model-readiness reviews, mentor junior engineers and set
+    engineering standards
+  use_cases:
+  - Clinical AI for medical imaging across neuro/stroke, pulmonary embolism, aortic
+    pathology, urology, spine and rib fracture, solid-organ trauma and paediatric
+    chest
+  - Classification, detection and segmentation of pathologies in radiology imaging
+  - Teleradiology reporting support for radiologists in a production clinical setting
+  - Production deployment and monitoring of AI algorithms on real patient studies
+  skills:
+    languages: [Python]
+    domains: [Computer Vision]
+    web: [FastAPI, REST APIs]
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [PyTorch, TensorFlow, Keras, NumPy, scikit-learn, Machine Learning, CNNs,
+      Deep Learning, Model Evaluation, MONAI, nnU-Net, CUDA]
+    databases: []
+    genai: [VLMs, LLMs, RAG, LoRA]
+    ops: [Linux, Git, Docker, CI/CD, MLflow, Weights & Biases, Kubernetes, ONNX, TensorRT]
+    other: [OpenCV, Calibration, DICOM, NIfTI, pytest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11872116'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:27:30.736618'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

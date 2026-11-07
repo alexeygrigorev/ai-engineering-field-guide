@@ -1,0 +1,181 @@
+job_id: 12002167
+title: Software Engineer - AI Tooling Infrastructure
+company: Supabase
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Supabase
+
+  Supabase is the Postgres development platform, built by
+  developers for developers. We provide a complete backend
+  solution including Database, Auth, Storage, Edge Functions,
+  Realtime, and Vector Search. All services are deeply
+  integrated and designed for growth.
+
+  About the Role
+
+  We’re looking for a Software Engineer, AI Tooling
+  Infrastructure to join our AI Tooling team and help build
+  and run the backend services behind Supabase’s AI products.
+  The Supabase MCP server is one example of what the team runs
+  in production, alongside the services that support agent
+  skills and the dashboard assistant. You’ll work closely with
+  the Platform, SRE, Auth, Billing and Edge Functions teams,
+  and with the engineers on the AI Tooling team who build the
+  product surfaces.
+
+  The AI Tooling team runs its own services in production and
+  carries its own on-call. Traffic from AI clients and agents
+  behaves differently from traffic from people: hundreds of
+  calls a minute, retry loops, and no reading of deprecation
+  warnings. This role makes sure the services they use are
+  reliable, correctly authorized and observable. It is a
+  systems and infrastructure role rather than a product AI
+  role, and it is not an SRE role. You will build and operate
+  these systems, not only advise on them.
+
+  This role is ideal for someone who thrives in async, fast-
+  paced environments, owns what they ship in production, and
+  is excited about building developer tools that scale to
+  millions.
+
+  What You’ll Be Responsible For
+
+  In this role, you’ll:
+
+  - Build and operate the production backend services behind
+    Supabase’s AI products, including the MCP server:
+    deployment, scaling, configuration and release.
+  - Take ownership of how those services are structured,
+    including splitting or reshaping a service when that makes
+    it safer to run and easier to change.
+  - Define, measure and meet reliability targets for the
+    services the team runs. Set SLOs with the SRE team, track
+    error budgets, and use them to decide what to fix first.
+  - Participate in the AI Tooling team on-call rotation, and be
+    a first responder for incidents in those services.
+    Investigate, fix, coordinate with other teams during
+    incidents, and write the follow-ups and runbooks.
+  - Work the AI Tooling team support queue alongside on-call,
+    and turn recurring issues into fixes rather than repeated
+    manual answers.
+  - Own authentication and authorization for AI and agent
+    clients: OAuth apps, scoped tokens, and permissions that
+    make sense for agents as well as humans, including how we
+    change or deprecate a permission without breaking existing
+    integrations.
+  - Own observability for the services the team runs: metrics,
+    traces, logs, dashboards and alerts, so we find problems
+    before customers do.
+  - Handle capacity and abuse for agent traffic: rate limits,
+    cost and safety controls, and behavior under load or when
+    a dependency degrades.
+  - Improve the architecture of the services the team owns as
+    they grow, including splitting or reshaping a service when
+    that makes it safer to run and easier to change.
+  - Work with the Platform team on shared code, review ownership
+    and release process, and with the SRE team on
+    infrastructure, alerting and incident practice.
+  - Contribute to the code of the AI Tooling team’s tools, such
+    as the MCP server, where it affects reliability and
+    security, in partnership with the engineers who own the
+    product surface.
+
+  You Might Be a Good Fit If You
+
+  Must have:
+
+  - Have 5+ years of experience building and running backend
+    services in production, and have carried on-call for them.
+  - Write strong TypeScript or Go, and are comfortable working
+    in the other.
+  - Have designed and operated APIs with real consumers:
+    versioning, error handling, rate limiting, and backwards-
+    compatible change.
+  - Know OAuth, OIDC, JWT and API authorization well enough to
+    debug them in production and to explain where
+    implementations commonly deviate from the spec.
+  - Have a good understanding of PostgreSQL and relational
+    databases.
+  - Are comfortable with CI/CD, Docker and containerized
+    deployments, and with infrastructure as code. Any tool is
+    fine.
+  - Can debug across services: follow a slow or failing request
+    through several systems using metrics, traces and logs.
+  - Communicate clearly in writing, work with a wide range of
+    stakeholders, and thrive in async, globally distributed
+    teams.
+  - Are comfortable navigating ambiguity and moving quickly.
+
+  Pick your centre of gravity. We expect you to be deep in at
+  least one of these, and to tell us which:
+
+  - APIs and auth: You have designed permission models, token
+    scopes or OAuth flows for third-party or machine clients,
+    and you have migrated them without breaking users.
+  - Operations: You have run production services yourself:
+    carried the pager, written alerts and runbooks, used SLOs
+    or similar to decide what to fix, and made shared systems
+    less risky over time.
+  - Gateways and distributed systems: You have built or run
+    proxies or gateways, or debugged hard failures across
+    services (retries, partial failures, upstream outages,
+    fail-open vs fail-closed decisions), and you can reason
+    about load and degradation.
+
+  Nice to have:
+
+  - Experience with agent tooling (MCP or similar), or serving
+    traffic from AI agents and LLM clients.
+  - Experience moving a service out of a larger codebase while
+    keeping existing clients working.
+  - Experience with Grafana, OpenTelemetry, Logflare or a
+    similar observability stack, and real SLO work.
+  - Open-source contributions, especially to Node.js, Go,
+    TypeScript or API tooling.
+
+  What We Offer
+
+  - Fully RemoteWe hire globally. We believe you can do your
+    best work from anywhere. There are no Supabase offices,
+    but we provide a WeWork membership or co-working allowance
+    you can use anywhere in the world.
+  - ESOPEvery team member receives ESOP (equity ownership) in
+    the company. We want everyone to share in the upside of
+    what we’re building together.
+  - Tech AllowanceUse this budget to set up your ideal work
+    environment—laptop, monitor, headphones, or whatever helps
+    you do your best work.
+  - Health BenefitsSupabase covers 100% of health insurance for
+    employees and 80% for dependents, wherever you are. Your
+    wellbeing and your family’s health are important to us.
+  - Annual Off-SitesOnce a year, the entire company gathers in a
+    new city for a week of connection, collaboration, and fun.
+    It’s a highlight of our year.
+  - Flexible WorkWe operate asynchronously and trust you to
+    manage your own time. You know what needs to be done and
+    when.
+  - Professional DevelopmentEvery team member receives an annual
+    education allowance to spend on learning—courses, books,
+    conferences, or anything that supports your growth.
+
+  About the Team
+
+  Supabase was born-remote and open-source-first. We believe
+  our globally distributed team is our secret weapon in
+  building tools developers love.
+
+  - ~400 team members
+  - 60+ countries
+  - 20+ languages spoken
+  - Over $1B raised (including our $500M Series F)
+  - 540,000+ community members
+
+  We move fast, build in public, and use what we ship. If it’s
+  in your project, we probably use it in ours too. We believe
+  deeply in the open-source ecosystem and strive to
+  support—not replace—existing tools and communities.
+posted_date: 2026-10-31
+url: "https://www.builtinla.com/job/software-engineer-ai-tooling-infrastructure/12002167"
+source: Built In

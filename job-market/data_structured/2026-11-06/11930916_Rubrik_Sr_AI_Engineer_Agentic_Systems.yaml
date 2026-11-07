@@ -1,0 +1,55 @@
+company:
+  name: Rubrik
+  stage: null
+  focus: Security and AI operations platform
+position:
+  title: Sr AI Engineer, Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and runs production agent systems
+      end to end: multi-agent orchestration, tool calling, context
+      pipelines, evals, and guardrails — all shaping LLM/agent
+      behavior. Clearly ai-first.
+  responsibilities:
+  - Lead product discovery with PMs and domain experts to map workflows and define
+    problems, baselines, and success criteria
+  - Design, build, test, and deploy production agents, automations, and internal tools
+    on Rubrik's internal agent platform
+  - Turn complex processes into multi-agent workflows (deal qualification, order fulfillment,
+    customer health monitoring, hire-to-retire HR/IT)
+  - 'Engineer agent reliability: orchestration flows, context management, caching,
+    retries, and failure handling'
+  - 'Build full-stack surfaces: backend services, APIs, data models, approval UIs,
+    and chat interfaces'
+  - Implement evaluation, guardrails, quality gates, human-in-the-loop approvals,
+    and production monitoring
+  - Decide when problems need agents vs simpler automation, and evolve or retire agents
+    based on measured results
+  use_cases:
+  - Deal qualification and routing agents for sales workflows
+  - Order approval and fulfillment automation under business rules
+  - Customer health monitoring agents that recommend actions
+  - Hire-to-retire HR/IT process automation with coordinated agents
+  - Internal enterprise agents running Rubrik's own operations
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, LLMs, OpenAI API, MCP,
+      GraphRAG, Guardrails, LLM Evaluation, Prompt Engineering, Google ADK, LangGraph,
+      Hybrid Retrieval]
+    ml: []
+    web: [FastAPI, REST APIs, Webhooks]
+    databases: [Snowflake, Salesforce, Knowledge Graphs, Graph Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Code Review, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11930916'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:00:32.441127'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Picnic Technologies
+  stage: null
+  focus: |-
+    AI-powered online grocery shopping and fulfillment
+    automation
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM tracing, evaluation sets, fine-tuning
+      pipelines, and agent infrastructure — directly shaping model
+      output quality and behaviour. LLM/agent components are
+      central (AI Gateway, evals, fine-tuning open-weight models),
+      so it is ai-first despite the platform/infrastructure
+      framing.
+  responsibilities:
+  - Evolve an AI Gateway with provider integrations, model routing, fallbacks, rate
+    limits, privacy controls, and cost attribution
+  - Standardise LLM tracing, evaluation, and benchmarking across prompts, models,
+    retrieval, tools, and agent state
+  - Help teams turn human judgement and customer outcomes into repeatable evaluation
+    sets
+  - 'Productionize open-weight models: fine-tune, evaluate, and serve them for real-time
+    and batch workloads'
+  - Build a paved path for agents in production via APIs, SDKs, templates, and local
+    tooling
+  - Set technical direction for how engineers build with AI across search, personalisation,
+    and fulfillment teams
+  use_cases:
+  - Natural-language product search in a shopping app
+  - Personalised meal planning and effortless shopping experiences
+  - Fulfillment and supply chain automation for efficient, sustainable delivery
+  - Cost-efficient, low-latency serving of agents and LLMs in production
+  skills:
+    genai: [LLMs, AI Agents, Fine-Tuning, Agentic Workflows, MCP, Guardrails, OpenAI
+        API, Gemini, LLM Evaluation]
+    ml: []
+    web: [FastAPI]
+    databases: [Snowflake, PostgreSQL, OpenSearch]
+    data: [RabbitMQ, Kafka]
+    cloud: [AWS]
+    ops: [LiteLLM, Git, Docker, Kubernetes, Helm, Terraform, Datadog, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11675742'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T12:32:02.028325'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

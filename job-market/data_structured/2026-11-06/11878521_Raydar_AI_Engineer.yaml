@@ -1,0 +1,48 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Technology holding company (software tools)
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires a history of taking AI applications beyond
+      prototypes and includes contributing to a shared set of
+      reusable AI agent components, meaning the engineer shapes
+      agent behavior rather than merely using AI coding assistants
+      as a productivity tool. Building and generalizing these
+      agent components counts as designing agent flows.
+  responsibilities:
+  - Build internal tools that help the sales function find and reach new prospects
+  - Ship features and fixes for existing clients
+  - Generalize internal tooling so solutions built for one purpose can be reused
+  - Take unclear client problems and unfinished product features, decide what to build,
+    and deliver with limited oversight
+  - Use AI coding agents as the default way of building software
+  - Contribute to a shared set of reusable AI agent components
+  - Travel occasionally for client kickoffs
+  use_cases:
+  - Internal sales prospecting and outreach tooling
+  - Client product feature delivery and fixes
+  - Reusable internal tooling across purposes
+  - Shared reusable AI agent components
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11878521'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:29:16.935687'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    Building AI-native phones and proactive intelligent
+    applications
+position:
+  title: AI Phone - Senior Android System Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds privileged system APIs and execution
+      interfaces that AI agents use to interact with Android OS
+      functionality, directly shaping agent behaviour and tool-
+      calling integration at the OS level. This is agent/LLM-
+      focused work, so ai-first.
+  responsibilities:
+  - Implement and modify Android system services
+  - Develop privileged system APIs for AI capabilities
+  - Build interfaces allowing AI agents to interact with Android system functionality
+  - Work on permissions, IPC, application lifecycle and background execution
+  - Integrate AI services with Android system components
+  - Optimize system performance and resource consumption
+  - Collaborate with agent engineers on reliable execution interfaces
+  use_cases:
+  - OS-level AI integration on AI phones
+  - AI agents interacting with Android system functionality
+  - Proactive intelligent daily applications (email, messaging, notes, tasks, calendars)
+  - Low-cost AI-native devices for global adoption
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, Kotlin, C++]
+    domains: []
+    other: [Android Framework, AOSP, Binder IPC, Android Permissions, Application
+        Lifecycle, Performance Optimization, Android System UI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067583'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:47:21.114957'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

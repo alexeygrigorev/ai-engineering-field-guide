@@ -1,0 +1,51 @@
+company:
+  name: Hitachi Solutions America
+  stage: null
+  focus: IT consulting and systems integration services
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts with schema-constrained outputs,
+      builds RAG/classification pipelines, and builds eval
+      harnesses scoring LLM output fidelity — directly shaping
+      model behavior. LLMs are involved, so ai-first.
+  responsibilities:
+  - Develop AI/LLM components including prompt engineering with schema-constrained
+    output and LLM API integration
+  - Build RAG or classification pipelines that map legacy workflow actions to modern
+    equivalents
+  - Integrate the solution via REST APIs, webhooks, Azure CLI/Azure AD authentication
+    flows, and MCP server endpoints
+  - Build and maintain a parsing/conversion engine that reads Nintex workflow definitions
+    and generates Power Automate flow logic
+  - Own quality through automated workflow validation tests and eval harnesses scoring
+    model output fidelity
+  - Document unsupported or manually reviewed conversion cases
+  use_cases:
+  - Converting legacy Nintex workflow definitions into Power Automate flows
+  - Mapping legacy workflow actions to modern equivalents via LLM classification
+  - Retrieval-augmented lookup of workflow action mappings
+  - Automated validation and fidelity scoring of converted workflows
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Anthropic API, OpenAI API, Azure
+        OpenAI, RAG, MCP, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: [Node.js, TypeScript, Python]
+    domains: []
+    other: [XML/JSON Parsing, Regex, Rule Engines, ASTs, Test Automation, GitHub Copilot,
+      Azure CLI, Azure AD Authentication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11590822'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:17:25.255931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

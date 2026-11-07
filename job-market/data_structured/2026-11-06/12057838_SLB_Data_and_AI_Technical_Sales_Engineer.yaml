@@ -1,0 +1,52 @@
+company:
+  name: SLB
+  stage: null
+  focus: Oil and gas upstream technology and digital services
+position:
+  title: Data and AI Technical Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical sales role: the person identifies
+      customer requirements, builds PoCs to demonstrate data/ML
+      platforms, supports marketing, and delivers revenue targets.
+      There is no evidence of shaping model behavior (no
+      prompting, RAG design, training, or eval work by the person
+      themselves), so it is ai-support.
+  responsibilities:
+  - Develop new business by promoting SLB's Data and AI technology and services offerings
+  - Establish lasting professional relationships with customer contacts at user and
+    executive levels
+  - Identify new Data and AI applications suited to customer needs and challenges
+  - Answer technical questions on Data and AI in the E&P cycle and produce applicable
+    solutions
+  - Provide technical support for marketing activities such as presentations, demos,
+    and technology launches
+  - Build custom proofs-of-concept to help enterprise clients adopt data and machine
+    learning platforms
+  - Deliver yearly assigned revenue targets for the Data and AI domain
+  - Share client requirements and opportunities across SLB domains and provide input
+    into R&D
+  use_cases:
+  - Data and AI solutions for oil and gas upstream exploration and production
+  - Cloud analytics and machine learning platform adoption for enterprise clients
+  - Proofs-of-concept for Data and AI applications in E&P workflows
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Science, Analytics]
+    cloud: [Cloud]
+    ops: []
+    languages: []
+    domains: []
+    other: [Oil & Gas E&P, Digital Oil Field Workflows]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12057838'
+  location: Navi Mumbai, IND
+  extracted_at: '2026-11-06T14:43:45.291454'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

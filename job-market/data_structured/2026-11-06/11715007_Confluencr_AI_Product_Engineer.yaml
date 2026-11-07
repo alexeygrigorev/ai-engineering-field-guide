@@ -1,0 +1,51 @@
+company:
+  name: Confluencr
+  stage: bootstrapped
+  focus: Influencer marketing and creator-focused SaaS products
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds products end to end using AI tools and APIs,
+      including AI workflows that screen, score, or summarise
+      candidates and campaign data — designing those workflows
+      (prompts/agents/API composition) means shaping model
+      behaviour, with LLM-based outputs as the deliverable. There
+      is no classical ML training component.
+  responsibilities:
+  - Identify problems worth solving by working with leadership, teams and users
+  - Scope and define products, including success metrics
+  - Research existing tools and approaches before building
+  - Prototype and build products using AI coding tools, no-code/low-code platforms
+    and APIs
+  - Launch products to internal teams, early customers or app users and drive adoption
+  - Measure usage, collect feedback, fix issues and iterate post-launch
+  - Build features for the Creator App, SaaS products for brands, and internal systems
+  - Build AI workflows that screen, score or summarise candidates, creatives or campaign
+    data
+  use_cases:
+  - Screening, scoring and summarising candidates
+  - Summarising creatives and influencer campaign data
+  - New features for a consumer-facing Creator App
+  - SaaS products for brands and marketers moving to first external customers
+  - Internal workflow automation for marketing agencies
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [No-Code/Low-Code Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11715007'
+  location: Bengaluru South, IND
+  extracted_at: '2026-11-06T12:40:45.382828'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

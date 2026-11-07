@@ -1,0 +1,45 @@
+company:
+  name: Westlake Financial
+  stage: null
+  focus: Automotive finance and lending services
+position:
+  title: Sr. AI Voice Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds voice AI agents using LLMs,
+      agent frameworks, tool calling, RAG, and evaluates AI models
+      — clearly shaping LLM/agent behavior, so ai-first.
+  responsibilities:
+  - Design and develop real-time voice-to-voice AI agents
+  - Build conversational AI systems using LLMs and agent frameworks
+  - Integrate STT and TTS technologies into production applications
+  - Optimize latency and streaming performance for natural conversations
+  - Develop backend services and APIs using Python and C#/.NET
+  - Integrate with telephony, voice streaming, and communication platforms
+  - Implement conversation memory, tool calling, and RAG workflows
+  - Monitor and improve voice agent performance and evaluate emerging AI models
+  use_cases:
+  - Customer service voice automation
+  - Voice-driven sales automation
+  - Finance applications with conversational voice agents
+  - Real-time voice-to-voice conversational agents
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG]
+    ml: [Speech Recognition, Text-to-Speech]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C#, .NET]
+    domains: [Conversational AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11869305'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:26:44.125727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

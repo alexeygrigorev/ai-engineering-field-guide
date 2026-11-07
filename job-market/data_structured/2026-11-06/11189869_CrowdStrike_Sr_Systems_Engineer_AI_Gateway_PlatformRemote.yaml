@@ -1,0 +1,62 @@
+company:
+  name: CrowdStrike
+  stage: null
+  focus: AI-native cybersecurity and endpoint protection
+position:
+  title: Sr. Systems Engineer – AI Gateway Platform(Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer directly shapes AI system behavior by enforcing
+      prompt-injection protection, PII redaction, and
+      prompt/response filtering at the gateway, designing secure
+      routing for MCP servers and agents, and implementing
+      semantic caching and traffic policies for LLM workloads.
+      This is guardrail and agent-connectivity design on LLM
+      components, not just generic infrastructure.
+  responsibilities:
+  - Deploy, configure, and maintain the enterprise Kong AI Gateway platform for high-throughput
+    AI traffic
+  - Configure secure routing for MCP servers, tools, and agents across internal microservices
+    and external SaaS ecosystems
+  - Design and implement IAM controls for AI including OAuth 2.0, Okta, non-human
+    workload identities, and identity propagation across MCP tool calls
+  - Enforce AI security guardrails and DLP at the gateway, including prompt injection
+    protection, PII redaction, and prompt/response filtering
+  - Implement traffic shaping, load balancing, circuit breakers, provider failover,
+    and semantic caching to optimize latency and token costs
+  - Manage SSL/TLS certificate lifecycles, mTLS configurations, and automated certificate
+    renewal with cert-manager
+  - Build declarative infrastructure (YAML, Helm) and GitLab CI/CD pipelines for GitOps-driven
+    gateway deployments
+  - Instrument the gateway with OpenTelemetry tracing and route structured audit logs
+    into Splunk for platform metrics
+  use_cases:
+  - Enterprise AI gateway governance and secure connectivity for internal AI workloads
+  - Secure routing and identity propagation for MCP servers, agent skills, and autonomous
+    agents
+  - 'Gateway-boundary AI security: prompt injection protection, PII redaction, and
+    prompt/response filtering'
+  - Optimizing LLM traffic latency, resilience, and token consumption costs
+  - Enabling internal applications to onboard to governed AI services
+  skills:
+    genai: [MCP, AI Agents, Guardrails, Semantic Caching, Anthropic API, ChatGPT]
+    ml: []
+    web: [OAuth, REST APIs, JSON, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [Kong, IAM, DLP, Helm, GitLab CI, GitOps, CI/CD, OpenTelemetry, Kubernetes,
+      Distributed Systems]
+    languages: [Go, Lua, Python, JavaScript, TypeScript, Node.js]
+    domains: []
+    other: [Okta, Splunk, Jira, ServiceNow, Slack, Salesforce, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11189869'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:25:58.387564'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

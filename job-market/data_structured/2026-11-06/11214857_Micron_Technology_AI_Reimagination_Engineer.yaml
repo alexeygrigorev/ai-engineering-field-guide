@@ -1,0 +1,57 @@
+company:
+  name: Micron Technology
+  stage: ''
+  focus: Memory and storage solutions (DRAM, NAND, NOR)
+position:
+  title: AI Reimagination Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic/LLM-based systems: agent
+      decomposition, orchestration patterns, prompt and context
+      strategies, and evaluation criteria. This is directly
+      shaping LLM/agent behavior, so ai-first. Mentoring and
+      cross-team collaboration exist but there is no mention of
+      direct reports or people management.
+  responsibilities:
+  - 'Decompose end-to-end business processes: map current-state flows, quantify effort
+    and risk, and lead eliminate/simplify/agentify analysis'
+  - Architect agentic solutions including task and agent decomposition, orchestration
+    patterns, tool and data access, memory and context strategy, and human-in-the-loop
+    controls
+  - Develop agent workflows, prompt and context strategies, MCP/connector integration
+    requirements, and evaluation criteria following security and data-classification
+    standards
+  - Prototype and build working agentic solutions or direct platform engineers in
+    their build, validating fit and value
+  - Define testable human-in-the-loop controls and least-privilege permissions for
+    each process step
+  - Collaborate across IT architecture, security, platform engineering, and EPMO through
+    first production release
+  - Measure value with 30/90-day post-release metrics and codify findings into reference
+    flows, patterns, and playbooks
+  - Mentor engineers and grow a network of agentic champions
+  use_cases:
+  - Reimagining manual multi-step business processes as autonomous AI agent systems
+  - Agentic automation of enterprise workflows with human-in-the-loop controls
+  - Enterprise AI transformation within Micron business functions
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, MCP, AI Agents, Context Engineering,
+      LLMs, LLM Evaluation, Multi-Agent Systems]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, .NET, C#, SQL]
+    domains: []
+    other: [Business Process Redesign, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11214857'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:27:08.390576'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

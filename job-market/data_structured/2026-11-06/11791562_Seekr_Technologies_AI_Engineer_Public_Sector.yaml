@@ -1,0 +1,49 @@
+company:
+  name: Seekr Technologies
+  stage: null
+  focus: |-
+    Explainable, trustworthy AI platform for government and
+    enterprise
+position:
+  title: AI Engineer, Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs generative AI solutions with agentic
+      workflows, LLM fine-tuning, RAG, and prompt engineering for
+      USG customers — directly shaping model behavior and output
+      quality with LLM components, so it is ai-first.
+  responsibilities:
+  - Design, implement, and deploy AI solutions for US Government customers
+  - Develop prototype solutions combining generative and predictive capabilities
+  - Design and develop interfaces and applications for customer use of AI solutions
+  - Interact directly with customers and SMEs, translating AI/ML concepts into practical
+    language
+  - Support pre-sales efforts by mapping the Seekr Platform to customer requirements
+  - Research and develop cutting-edge applications of generative AI and agentic capabilities
+  use_cases:
+  - Generative and predictive AI capabilities for US Government missions
+  - Agentic workflows and LLM fine-tuning for government applications
+  - Rapid proof-of-concept AI prototypes for unique customer challenges
+  - Customer-facing AI interfaces and applications
+  skills:
+    genai: [RAG, Prompt Engineering, AI Agents, Structured Outputs, Embeddings, Fine-Tuning,
+      LangChain, LlamaIndex, OpenAI API, Multi-Modal LLMs]
+    ml: [Transformers, Predictive AI Models]
+    web: [Flask, Streamlit, FastAPI, GraphQL]
+    databases: [Pinecone, FAISS, OpenSearch, Neo4j]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Java, HTML]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11791562'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:13:18.154693'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

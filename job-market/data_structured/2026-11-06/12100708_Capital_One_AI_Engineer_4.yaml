@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: AI Engineer 4
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops LLM inference, agents and
+      multi-agent workflows, guardrails, and model evaluation —
+      directly shaping LLM/agent behaviour and quality. It also
+      includes foundation model training optimization, but with
+      LLM components present, ai-first applies.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products
+  - Design, develop, and support AI components including foundation model training,
+    LLM inference, agents, guardrails, and evaluation
+  - Apply foundation model optimization techniques to improve scalability, cost, and
+    latency of production AI systems
+  - Own end-to-end architecture for complex AI systems with maintainability and observability
+  - Define SLOs for AI reliability including latency and model performance drift
+  - Collaborate with infrastructure teams to optimize GPU/TPU utilization and inference
+    pipelines
+  - Lead technical reviews ensuring security, governance, and compliance
+  - Mentor Principal and Senior Associates on scalable design and research-to-production
+    translation
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - AI agents and multi-agent workflows for associate and customer products
+  - Fraud detection alerts for unusual charges
+  - Real-time customer question answering
+  - Scalable LLM inference and foundation model platforms for teams across the bank
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, AI Agents, Guardrails, Semantic
+        Search]
+    ml: [Foundation Model Training, Model Training, Model Evaluation, Hugging Face,
+      PyTorch, Machine Learning, CUDA, LLM Inference]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability, Distributed Systems]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100708'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:00:49.426077'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

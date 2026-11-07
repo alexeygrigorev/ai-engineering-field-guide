@@ -1,0 +1,60 @@
+company:
+  name: Emerson
+  stage: null
+  focus: Automation technology and software for industrial customers
+position:
+  title: Lead Engineer Salesforce AI Agentforce
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes Agentforce agent behavior:
+      establishing guardrails, advising on agent design patterns,
+      topic configuration, prompt quality, grounding/retrieval,
+      and hallucination prevention. This is LLM/agent behavior
+      shaping, so it is ai-first despite the governance-heavy
+      framing.
+  responsibilities:
+  - Define and enforce AI governance policies, ethics guidelines, and approval standards
+    for Salesforce AI capabilities including Agentforce and Einstein
+  - Review AI toolsets and agent use cases for regulatory, ethical, privacy, security,
+    and process readiness
+  - Establish guardrails for agent design, topic configuration, actions, data grounding,
+    escalation, auditability, and human oversight
+  - Advise delivery teams on Agentforce design patterns, prompt quality, hallucination
+    prevention, and safe human handoff
+  - Partner with Data Cloud and integration teams to ensure agent grounding data is
+    accurate, permission-aware, and compliant
+  - Audit AI agent usage, performance, compliance, and bias risk, coordinating remediation
+    actions
+  - Define AI trust and safety metrics, adoption metrics, and executive reporting
+    for Salesforce AI capabilities
+  - Develop reusable Agentforce patterns, documentation, training materials, and playbooks
+  use_cases:
+  - Governed deployment of Salesforce Agentforce agents across business functions
+  - AI-enabled CRM capabilities with Einstein
+  - Permission-aware data grounding for agents via Data Cloud
+  - Agent audit, trust and safety monitoring, and bias risk management
+  - Responsible AI governance and compliance for enterprise AI in Salesforce ecosystem
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: [Model Evaluation]
+    databases: []
+    genai: [Prompt Engineering, RAG, LLMs, AI Agents, Guardrails]
+    ops: []
+    other: [Salesforce Agentforce, Salesforce Einstein, Salesforce Data Cloud, Responsible
+        AI, GDPR, Bias Monitoring, Data Privacy Compliance, Salesforce Administrator]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11995279'
+  location: Mohali, IND
+  locations:
+  - Mohali, IND
+  - Escazu, CRI
+  extracted_at: '2026-11-06T14:20:59.816575'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

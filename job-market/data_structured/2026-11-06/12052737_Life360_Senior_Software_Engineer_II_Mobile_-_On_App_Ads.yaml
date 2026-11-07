@@ -1,0 +1,61 @@
+company:
+  name: Life360
+  stage: null
+  focus: Family location sharing and safety mobile app
+position:
+  title: Senior Software Engineer II, Mobile - On App Ads (AI Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is building and maintaining the iOS ads SDK,
+      header-bidding integrations, and privacy flows. AI tools
+      (Claude Code, Cursor, Copilot) are used as coding assistants
+      to write and verify code — developer workflow, not shaping
+      model behaviour. The role consumes and orchestrates coding
+      agents rather than shaping LLM output quality as a product.
+  responsibilities:
+  - 'Design, build, and maintain the iOS ads layer: in-house ads SDK, demand partner
+    and header-bidding integrations, and mediation'
+  - Introduce new ad formats, placements, and capabilities that grow revenue while
+    protecting the member experience
+  - 'Own privacy and consent on iOS: ATT, IDFA, SKAdNetwork/AdAttributionKit, and
+    consent frameworks'
+  - Protect ad quality by detecting and blocking bad creatives and diagnosing rendering
+    and fill issues
+  - Instrument ad events and run A/B tests on ads configuration
+  - Use AI coding agents (Claude Code) as a first-class collaborator for specs, code
+    generation, and review
+  - Partner with product, ad operations, data science, and third-party SDK vendor
+    engineering teams
+  - Mentor teammates and contribute to architectural decisions and code reviews
+  use_cases:
+  - Mobile ad monetization within a family safety app reaching 100M+ MAU
+  - In-app ad SDK, header-bidding, and mediation across 300M+ daily ad requests
+  - Ad privacy and consent compliance (ATT, SKAdNetwork, TCF/GPP) across regions
+  - 'Ad quality protection: bad creative detection and fill/rendering diagnostics'
+  - Revenue optimization via A/B testing of floors, placements, and partner mix
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, MCP, Function Calling, Claude
+        Code, Cursor, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Fastlane, Xcode Cloud, Buildkite, GitHub Actions]
+    languages: [Swift]
+    domains: []
+    other: [SwiftUI, UIKit, Xcode, Swift Concurrency, Combine, MVVM, Dependency Injection,
+      SPM, CocoaPods, Prebid, Google Mobile Ads, Header Bidding, ATT, SKAdNetwork,
+      AdAttributionKit, TCF, GPP, MetricKit, Crashlytics, OpenRTB, AdMob, AppLovin
+        MAX, WKWebView, MRAID, Statsig, LaunchDarkly, Optimizely, Kotlin, A/B Testing,
+      Instruments]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12052737'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:41:32.411283'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

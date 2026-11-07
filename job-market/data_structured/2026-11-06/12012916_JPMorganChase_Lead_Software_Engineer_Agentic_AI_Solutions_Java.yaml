@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking technology
+position:
+  title: Lead Software Engineer Agentic AI Solutions , Java or Python
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI systems (multi-agent workflows,
+      tool use), implements RAG pipelines, embeddings, and vector
+      store integrations, and owns evaluation/guardrails (prompt
+      monitoring, output validation) for LLM-based production
+      systems — directly shaping LLM behaviour, so it is ai-first.
+      Mentoring and AI-assisted tooling adoption are secondary
+      duties.
+  responsibilities:
+  - Develop secure, high-quality production code for data-intensive applications and
+    review others' code
+  - Lead end-to-end design and implementation of complex software features through
+    deployment and operational stability
+  - Build and maintain agentic AI systems with multi-agent workflows, tool-use integrations,
+    and human-in-the-loop controls
+  - Implement LLM-based applications including RAG pipelines, embedding workflows,
+    and vector store integrations
+  - Own observability, evaluation, and safety of production AI systems including prompt
+    monitoring, output validation, and latency optimization
+  - Drive adoption and governance of AI-assisted engineering practices with measurable
+    validation standards
+  - Mentor junior and mid-level engineers and contribute to firmwide frameworks and
+    SDLC practices
+  use_cases:
+  - Agentic AI automation for regulated financial services workflows
+  - LLM-based applications with retrieval-augmented generation over enterprise data
+  - Human-in-the-loop agent controls and safety for high-stakes banking operations
+  - Operational stability and automated remediation in corporate data platforms
+  - AI-assisted software development and code quality tooling across teams
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLMs, RAG, Embeddings, Function Calling,
+      Prompt Engineering, LLM Evaluation]
+    ml: [Model Serving]
+    web: [Microservices, APIs]
+    databases: [NoSQL, Vector Databases, Redis, Snowflake]
+    data: [Kafka, Airflow, Spark, PySpark, Databricks]
+    cloud: [Azure OpenAI, AWS, Azure, GCP]
+    ops: [Dynatrace, Splunk, Grafana, Temporal, CI/CD, Observability, AWS Bedrock]
+    languages: [Python, Java]
+    domains: []
+    other: [Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12012916'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:29:18.976263'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

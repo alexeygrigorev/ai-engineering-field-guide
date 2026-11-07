@@ -1,0 +1,53 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments and data-driven business insights
+position:
+  title: Lead Forward Deployed Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and builds agentic
+      pipelines, conversational interfaces, and prompts LLM APIs
+      themselves to validate AI solutions at customer sites.
+      Building agent flows and prototypes directly shapes model
+      behavior, so it is ai-first; mentoring on discovery craft
+      does not make it management.
+  responsibilities:
+  - Embed with issuer and acquirer clients to surface pain points and identify where
+    AI-driven automation creates business value
+  - Build rapid proof-of-concept prototypes - agentic pipelines, conversational interfaces,
+    analytical tools - to test specific business hypotheses
+  - Translate ambiguous client requirements into concrete, testable problem statements
+  - Run structured validation sessions with customers using working prototypes and
+    gather qualitative and quantitative signal
+  - Synthesize field observations into scoped product briefs with go/no-go recommendations
+    for product and engineering teams
+  - Partner with product managers to inform roadmap decisions with PoC findings
+  - Represent technical AI feasibility in pre-sales and discovery conversations
+  - Mentor engineers and analysts on customer discovery and PoC scoping craft
+  use_cases:
+  - AI-driven automation of issuer and acquirer operational workflows
+  - Agentic pipeline prototypes for payments operations
+  - Conversational AI interfaces for client reconciliation and operational analysis
+  - Structured data reasoning over large-scale enterprise data
+  - Pre-sales discovery and validation of AI feasibility for client workflows
+  skills:
+    genai: [LLMs, AI Agents, RAG, Prompt Engineering, Fine-Tuning]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11582171'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:15:22.591212'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Redwood Software
+  stage: null
+  focus: |-
+    Enterprise business process automation and workflow
+    orchestration platforms
+position:
+  title: Software Engineer – AI CoE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step agentic systems,
+      agent orchestration, tool calling, RAG, prompt management,
+      and AI evaluation/observability — directly shaping LLM/agent
+      behaviour. It involves LLM and agent components, so it's ai-
+      first.
+  responsibilities:
+  - Design and deliver production-grade agentic workflows and shared AI platform capabilities
+    reusable across products
+  - Build multi-step agentic systems combining reasoning, tool use, retrieval, memory,
+    policy controls, and human oversight
+  - Establish AI evaluation, observability, model selection, fallback, and failure
+    recovery approaches
+  - Lead technical delivery across multiple contributors and coordinate with product
+    and platform teams
+  - Review designs and code for scalability, security, performance, reliability, and
+    cost
+  - Resolve complex production issues and implement preventive corrective actions
+  - Create reusable frameworks, reference implementations, and engineering standards
+  - Evaluate emerging AI technologies and recommend adoption based on evidence and
+    business value
+  use_cases:
+  - Reusable AI infrastructure and agentic capabilities across an enterprise automation
+    product portfolio
+  - Multi-step agents for enterprise workflow automation with tool use, retrieval,
+    and human oversight
+  - AI platform services including model selection, fallback, and failure recovery
+  - Enterprise integration with ERP systems and business applications
+  skills:
+    genai: [Agentic Workflows, AI Agents, RAG, Prompt Engineering, Function Calling,
+      LLM Evaluation, Generative AI, LangGraph, AutoGen, Semantic Kernel, Fine-Tuning,
+      Embeddings]
+    ml: [Model Evaluation, Transformers]
+    web: [APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud Deployment]
+    ops: [CI/CD, Docker, Kubernetes, Monitoring, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11694146'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:37:21.640801'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

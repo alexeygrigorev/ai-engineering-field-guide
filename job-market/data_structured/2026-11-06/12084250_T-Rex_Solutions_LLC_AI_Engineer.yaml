@@ -1,0 +1,49 @@
+company:
+  name: T-Rex Solutions, LLC
+  stage: null
+  focus: Federal IT and data-centric services for government
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG frameworks, guardrails, and
+      evaluates/fine-tunes LLMs, which is directly shaping model
+      behavior. LLM/generative components are central, so it is
+      ai-first.
+  responsibilities:
+  - Lead development and optimization of prompt engineering strategies
+  - Design and implement RAG frameworks
+  - Develop AI applications using Python and cloud services
+  - Build and fine-tune machine learning models and conduct LLM evaluations against
+    benchmarks
+  - Implement experiment tracking, version control, testing, and CI/CD for ML deployments
+  - Manage AI project delivery and support technical implementation
+  - Collaborate with cross-functional teams and stakeholders to integrate AI solutions
+    and shape roadmaps
+  use_cases:
+  - Modernizing IRS legacy tax processing systems
+  - Responsible AI systems with guardrails for ethical and performance objectives
+  - RLHF instruction models and generative applications
+  - Advanced NLP for complex language challenges in government data
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, RLHF, Guardrails, Fine-Tuning, Generative
+        AI, LLM Evaluation]
+    ml: [Machine Learning, Model Evaluation, Model Training, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, AWS, AWS GovCloud]
+    ops: [CI/CD, Git, Docker, Kubernetes, Infrastructure as Code, Experiment Tracking]
+    languages: [Python, Java]
+    domains: [NLP]
+    other: [Agile, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12084250'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:52:41.387379'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

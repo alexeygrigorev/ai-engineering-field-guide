@@ -1,0 +1,54 @@
+company:
+  name: Yext
+  stage: null
+  focus: Enterprise agentic marketing and search visibility platform
+position:
+  title: AI Transformation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production LLM systems: retrieval/RAG,
+      answer drafting, routing, prompt design, structured outputs,
+      evals, confidence scoring, and agent patterns (tool calling,
+      guardrails, orchestration). This is directly shaping LLM
+      behavior and output quality, so it is ai-first.
+  responsibilities:
+  - Build and run production LLM workflows in n8n and similar platforms including
+    retrieval, answer drafting and routing
+  - Build APIs, integrations and data pipelines connecting CRM, support and operational
+    systems
+  - Define and run evals with test sets, groundedness checks and quality thresholds
+    before each build
+  - Build confidence scoring, review steps and human approval gates for LLM answers
+  - 'Protect sensitive data: PII handling, access scoping and audit logging'
+  - Transfer knowledge through pair-building, runbooks, documentation and training
+    department champions
+  - Design integration patterns and data flows; evaluate models and tools with build-vs-buy
+    recommendations
+  - Track LLM spend and usage by team and manage API keys
+  use_cases:
+  - Retrieval and answer drafting over ticket and documentation data
+  - Routing support and customer inquiries with confidence scoring
+  - Automation of CRM, support and operational workflows
+  - Human-in-the-loop review and approval of LLM-generated answers
+  - Internal enablement so partner teams own and operate AI systems
+  skills:
+    languages: [Python, TypeScript]
+    domains: []
+    web: [APIs]
+    cloud: []
+    data: [Data Pipelines]
+    ml: []
+    databases: [Qdrant, pgvector, Vector Databases, Snowflake]
+    genai: [AI Agents, Agentic Workflows, Function Calling, Guardrails, Prompt Engineering,
+      Structured Outputs, LLM Evaluation, LLMs, Anthropic API, OpenAI API, RAG, MCP]
+    ops: [Monitoring, Git]
+    other: [n8n, Zapier, Tray.io, Salesforce, HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12008416'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:27:38.776707'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

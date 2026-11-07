@@ -1,0 +1,54 @@
+company:
+  name: Revvity
+  stage: null
+  focus: |-
+    End-to-end health and life sciences solutions for
+    researchers and clinicians
+position:
+  title: Principal AI & DevOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements context engineering, prompt
+      chaining, and LLM orchestration strategies, directly shaping
+      LLM output quality. It also builds and evaluates AI/LLM
+      applications end-to-end, which is ai-first.
+  responsibilities:
+  - Audit existing enterprise systems, business architecture, and AI workstreams to
+    identify gaps and opportunities
+  - Lead cross-functional discovery sessions to define a prioritized AI/ML intervention
+    roadmap
+  - Evaluate and benchmark emerging AI/ML technologies and toolchain improvements
+  - Architect and deliver production-quality full-stack AI applications with Python
+    and JavaScript/Flutter
+  - Design context engineering strategies orchestrating data, memory, tools, and prompt
+    chaining within LLM context windows
+  - Own CI/CD pipelines and automated testing for LLM applications
+  - Drive data quality, pipeline integrity, and dataset governance for deployed ML
+    models
+  - Establish monitoring with AWS CloudWatch and executive-ready dashboards; mentor
+    peers and lead architectural discussions
+  use_cases:
+  - Enterprise operations transformation through generative AI
+  - Reducing manual overhead via AI-powered applications
+  - LLM-based applications producing accurate structured outputs at enterprise scale
+  - AI performance monitoring tied to business KPIs
+  skills:
+    genai: [Context Engineering, Prompt Engineering, LLMs, Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS]
+    ops: [CI/CD, Infrastructure as Code, Monitoring, CloudWatch, Code Review]
+    languages: [Python, JavaScript, Flutter]
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11372038'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T11:37:15.378506'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

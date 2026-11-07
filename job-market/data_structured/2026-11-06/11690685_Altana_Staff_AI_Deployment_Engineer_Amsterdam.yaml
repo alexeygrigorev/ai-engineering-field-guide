@@ -1,0 +1,58 @@
+company:
+  name: Altana
+  stage: null
+  focus: AI-powered network for trusted global trade
+position:
+  title: Staff AI Deployment Engineer, Amsterdam
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys agentic AI workflows —
+      prompts, tool/function calling, RAG, guardrails, and agent
+      evaluation — directly shaping LLM agent behavior, so it is
+      ai-first. It is also a forward-deployed-style customer-
+      facing implementation role.
+  responsibilities:
+  - Design, build, and deploy agentic AI workflows with multi-step agents, tool/function
+    calling, and automations acting on customer data
+  - Ground agents in customer context by connecting data sources, APIs, and systems
+    of record, and defining tools, permissions, and guardrails
+  - Write and refine prompts, system instructions, and evaluation criteria for reliable
+    production agents
+  - Build orchestration and human-in-the-loop checkpoints for safe, auditable agentic
+    workflows
+  - Monitor, evaluate, and iterate on deployed processes, tracking accuracy, cost,
+    and latency
+  - 'Lead customer implementations end to end: scoping, configuration, integration,
+    validation, go-live, and handoff'
+  - Serve as primary technical point of contact with customer stakeholders, running
+    working sessions and demos
+  - Write requirements, specs, and acceptance criteria; coordinate internal engineering,
+    data science, and product teams
+  use_cases:
+  - Agentic AI automation of customer trade and supply chain business processes
+  - Grounding LLM agents in customer data sources and systems of record
+  - Trade compliance and global trade security workflows
+  - Enterprise implementation of an AI-powered trade intelligence platform
+  - Human-in-the-loop supervised agent orchestration in production
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, RAG, Prompt Engineering,
+      LLM Evaluation, Guardrails, MCP, LangChain, Multi-Agent Systems, Claude Code,
+      Cursor, GitHub Copilot, LLMs]
+    ml: [Machine Learning]
+    web: [REST APIs, Swagger]
+    databases: [Elasticsearch, PostgreSQL, Redshift]
+    data: [Spark, Databricks, Data Pipelines, Data Modeling]
+    cloud: [AWS, Azure]
+    ops: [Docker, Git, Kubernetes]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11690685'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T12:36:09.926903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

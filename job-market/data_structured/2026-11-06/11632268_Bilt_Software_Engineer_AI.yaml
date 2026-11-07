@@ -1,0 +1,56 @@
+company:
+  name: Bilt
+  stage: null
+  focus: Rewards membership platform for rent and everyday spending
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns agent behavior end to end:
+      prompts, multi-agent orchestration, routing across models,
+      eval harnesses, and LLM judges. This is directly shaping
+      LLM/agent output quality, so it is ai-first.
+  responsibilities:
+  - 'Build agent capabilities end to end: tools, workflows, prompts, and integrations
+    with Bilt and partner systems'
+  - 'Design the agent runtime: multi-agent orchestration, context and memory, prompt
+    caching, and model routing'
+  - Build eval harnesses, LLM judges, and conversation replay to measure every model
+    and prompt change
+  - Build assistants for merchant staff working from business data, and browser agents
+    where no API exists
+  - Develop proactive engagement features such as briefings, follow-ups, and outreach
+  - Run the conversation platform and messaging infrastructure across SMS, iMessage,
+    email, web, and in-app chat
+  - Implement authentication and fine-grained authorization for members, merchants,
+    and staff
+  - Own a large surface from design through rollout and on-call, shipping daily behind
+    feature flags
+  use_cases:
+  - Concierge agent for dining, rent, payments, travel, and member support across
+    chat, SMS, iMessage, and email
+  - Merchant staff assistants grounded in the business's own data
+  - Browser agents that act where no API exists
+  - Proactive member and customer engagement via briefings, follow-ups, and outreach
+  - Shared conversation inbox across agents, merchant staff, and Bilt support
+  skills:
+    genai: [Prompt Engineering, Multi-Agent Systems, Agentic Workflows, LLMs, LLM
+        Evaluation, Function Calling, MCP, Google ADK, LangGraph]
+    ml: [Model Serving, Open-Weight Models]
+    web: [FastAPI, WebSockets, OAuth]
+    databases: []
+    data: [Pub/Sub]
+    cloud: [GCP]
+    ops: [Prompt Caching, Observability, Feature Flags, MLOps]
+    languages: [Python, Java, Go]
+    domains: [Conversational AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11632268'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:27:01.822357'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Bristol Myers Squibb
+  stage: null
+  focus: Pharmaceutical company developing innovative medicines
+position:
+  title: Analytical AI Engineer - II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds semantic/context layers, knowledge graphs,
+      and curated retrieval context specifically so AI agents and
+      LLM applications can deliver grounded insights, and applies
+      prompting/retrieval-style LLM techniques — that is shaping
+      LLM output quality via retrieval and prompts. It also does
+      classical ML, but a role shaping both is ai-first.
+  responsibilities:
+  - Build and maintain analytical and machine learning models for forecasting, classification,
+    regression, and anomaly detection
+  - Build semantic layers, ontologies, and knowledge graphs consumable by AI Agent
+    and GenAI applications
+  - Build semantic and context layers consumed through Agentic AI and Generative AI
+    solutions for grounded insights
+  - Build and maintain analytics and ML pipelines from data extraction through model
+    deployment
+  - Develop and support data pipelines for analytical modeling and reporting
+  - Apply Generative AI and LLM-based techniques to support analytics workflows
+  - Track experiments and manage model versions using experiment-tracking tools
+  - Manage source control and contribute to CI/CD workflows in Agile/Scrum team
+  use_cases:
+  - Forecasting, classification, regression, and anomaly detection for business decision-making
+  - Analytics dashboards and semantic layers for consistent self-service reporting
+  - Knowledge graphs and ontologies grounded AI Agent and LLM applications
+  - Automated insight generation and summarization via Generative AI techniques
+  - Analytics and ML pipelines for reporting and data-driven decisions
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Agentic Workflows, Prompt Engineering,
+      LangChain, LangGraph, LlamaIndex, Pydantic AI, Azure OpenAI]
+    ml: [scikit-learn, PyTorch, TensorFlow, Keras, NumPy, Forecasting, Anomaly Detection,
+      Feature Engineering, Model Evaluation]
+    web: []
+    databases: [Knowledge Graphs, Neo4j, RDF, OWL, SPARQL]
+    data: [Pandas, Databricks, PySpark]
+    cloud: [AWS Bedrock, Vertex AI, AWS, Azure, GCP]
+    ops: [MLflow, Git, GitHub, CI/CD, GitHub Copilot, Claude Code]
+    languages: [Python, SQL]
+    domains: []
+    other: [Tableau, Power BI, Looker, Agile, A/B Testing, VS Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12066952'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:46:17.202189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

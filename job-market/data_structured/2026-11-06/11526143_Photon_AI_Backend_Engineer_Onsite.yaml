@@ -1,0 +1,52 @@
+company:
+  name: Photon
+  stage: null
+  focus: Digital engineering and IT consulting services
+position:
+  title: AI Backend Engineer | Onsite
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, agentic workflows, and LLM
+      tool/function calling, and does prompt engineering and
+      evaluation—directly shaping LLM behavior. Hence ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable backend services using Node.js/TypeScript
+    and/or Python
+  - Build and integrate AI agents, agentic workflows, and LLM-powered applications
+  - Implement LLM tool/function calling, prompt engineering, evaluation frameworks,
+    and AI workflow orchestration
+  - Develop and integrate REST APIs, microservices, and event-driven services
+  - Design reliable integrations across AI services, enterprise applications, databases,
+    and external systems
+  - Lead and mentor an offshore engineering pod, providing code reviews and architecture
+    guidance
+  - Monitor, troubleshoot, and optimize backend and AI workloads for performance and
+    reliability
+  use_cases:
+  - LLM-powered applications and AI agent orchestration
+  - Tool-calling and agentic workflow automation
+  - Enterprise integrations connecting AI services with business systems
+  - Scalable event-driven backend services
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Function Calling, Prompt Engineering,
+      LLM Evaluation, OpenAI API, Azure OpenAI, AWS Bedrock, RAG, Vector Databases,
+      Embeddings]
+    ml: []
+    web: [Node.js, REST APIs, Microservices, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: [Vertex AI, AWS, Azure, GCP]
+    ops: [CI/CD, Kubernetes, Docker]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11526143'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:05:30.969004'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

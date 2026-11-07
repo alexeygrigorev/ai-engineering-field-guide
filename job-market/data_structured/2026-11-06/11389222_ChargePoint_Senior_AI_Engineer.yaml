@@ -1,0 +1,52 @@
+company:
+  name: ChargePoint
+  stage: null
+  focus: EV charging network hardware, software and mobile solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects LLM-based applications, designs RAG
+      systems, builds agentic workflows with function calling, and
+      drives evaluation/monitoring (LLMOps) — direct shaping of
+      model behavior via prompts, retrieval, and agent flows. LLM
+      components dominate, so ai-first.
+  responsibilities:
+  - Architect and build LLM-based applications such as copilots, chatbots, and AI
+    agents
+  - Design and optimize RAG and grounded AI systems using enterprise data
+  - Lead development of agentic workflows with tool/function calling and multi-step
+    reasoning
+  - Own backend services and APIs for AI inference and orchestration
+  - Drive LLMOps/GenAIOps practices including evaluation, monitoring, CI/CD, and versioning
+  - Optimize AI systems for quality, cost, latency, and reliability
+  - Apply and advocate for Responsible AI and security-by-design
+  - Mentor engineers and partner with product, platform, and security teams on AI
+    strategy
+  use_cases:
+  - Copilots, chatbots, and AI agents for enterprise use
+  - Grounded AI over enterprise data via RAG and hybrid/semantic retrieval
+  - Agentic workflows with tool calling and multi-step reasoning
+  - Low-latency production LLM inference and orchestration services
+  skills:
+    genai: [LLMs, LangChain, LangGraph, OpenAI API, Prompt Engineering, RAG, Embeddings,
+      Generative AI, AI Agents, Function Calling]
+    ml: []
+    web: [FastAPI, Django, APIs, Microservices]
+    databases: [Elasticsearch, Vector Search, Vector Databases, Qdrant, Chroma, Pinecone]
+    data: []
+    cloud: [AWS Bedrock, AWS, GCP]
+    ops: [Distributed Systems, LLMOps, MLOps, CI/CD, Docker, Kubernetes]
+    languages: [Python, Java]
+    domains: []
+    other: [Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389222'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:40:25.837134'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

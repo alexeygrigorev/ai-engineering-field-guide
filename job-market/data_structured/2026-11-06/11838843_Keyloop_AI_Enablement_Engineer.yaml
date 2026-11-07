@@ -1,0 +1,50 @@
+company:
+  name: Keyloop
+  stage: null
+  focus: Automotive retail technology and dealer management software
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role rolls out AI coding tools (Claude Code, agents,
+      skills) to help other engineering teams adopt AI, i.e.
+      improving developer workflow rather than shaping a model's
+      behavior or building a product whose agents/prompts are the
+      deliverable. Per the edge case on rolling out AI coding
+      tools, this is ai-support.
+  responsibilities:
+  - Coach, mentor, and pair with team AI Champions to drive sustained AI adoption
+    across Product & Engineering teams
+  - Work directly with teams to resolve specific technical challenges and gather first-hand
+    insight to feed back into the programme
+  - Act as first adopter of Keystone's experimental AI solutions, owning real internal
+    systems as test grounds
+  - Provide early feedback and hands-on contributions (pull requests) to Keystone's
+    AI solutions
+  - Help teams leverage Claude Code, skills, agents, and Keystone's recommended solutions
+    across their varied stacks
+  use_cases:
+  - Driving AI adoption and maturity across ~80 engineering teams
+  - AI-enabled development lifecycle improvement
+  - Enabling teams to use AI coding tools effectively across diverse technology stacks
+  - Internal enablement for an automotive retail platform transformation
+  skills:
+    genai: [Claude Code, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11838843'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:21:57.223400'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

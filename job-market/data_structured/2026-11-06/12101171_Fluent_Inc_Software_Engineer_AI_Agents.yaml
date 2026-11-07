@@ -1,0 +1,56 @@
+company:
+  name: Fluent, Inc.
+  stage: null
+  focus: Performance marketing and digital advertising network
+position:
+  title: Software Engineer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production LLM agents with tool calling,
+      retrieval, structured outputs, and evaluation, plus reusable
+      prompt/evaluation libraries and MCP connectors — directly
+      shaping model behaviour and agent flows, so ai-first.
+  responsibilities:
+  - Ship production agents and automated workflows from a business-validated backlog,
+    owning them from scoping through deployment, monitoring, and handoff
+  - 'Build the data foundation in Databricks: Unity Catalog tables, Lakeflow pipelines
+    and Connect ingestion, and Genie spaces for natural-language queries'
+  - 'Make agent quality measurable with Data Science: evaluation sets, accuracy/drift
+    tracking, cost and latency instrumentation, audit fields and failure alerts'
+  - Integrate systems via APIs, webhooks, MCP servers, and orchestration (Databricks
+    Workflows, n8n, GitHub Actions)
+  - Expose platform data and actions as APIs so agents and business teams can use
+    them directly
+  - 'Build reusable components: Claude skills, MCP connectors, prompt and evaluation
+    libraries, playbooks'
+  - Handle consumer data per privacy and compliance standards, using only approved
+    AI tools
+  - Demo weekly, document in Confluence, and share learnings
+  use_cases:
+  - Service desk agent that closes support tickets autonomously
+  - Cross-system attribution auditing agent for revenue reconciliation
+  - Automated audience modeling pipeline for advertising delivery
+  - Business workflow automation on a Databricks lakehouse data foundation
+  - Natural-language analytics (Genie) for business teams
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG, Structured Outputs, LLM Evaluation,
+      MCP, Claude Code, GitHub Copilot, Prompt Engineering, Claude Skills]
+    ml: [Model Evaluation, Machine Learning]
+    web: [REST APIs, Webhooks, OAuth]
+    databases: [Delta Lake, Unity Catalog, Vector Search]
+    data: [Databricks, Spark, Data Pipelines]
+    cloud: [Mosaic AI]
+    ops: [GitHub Actions]
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, HubSpot, Zendesk, NetSuite, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12101171'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:01:05.278329'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

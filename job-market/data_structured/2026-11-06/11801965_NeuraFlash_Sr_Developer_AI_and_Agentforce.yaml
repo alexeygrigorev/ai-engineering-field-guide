@@ -1,0 +1,57 @@
+company:
+  name: NeuraFlash
+  stage: null
+  focus: |-
+    AI, Salesforce, and AWS consulting and implementation
+    services
+position:
+  title: Sr. Developer, AI and Agentforce
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds Agentforce agents, workflows, automations,
+      retrievers/search indexes, and RAG on Data 360, directly
+      shaping agent and retrieval behavior for LLM-based agents.
+      Prototype/evaluate emerging AI tech also involves judging
+      fit of LLM tools. Customer-facing consulting but clearly
+      shaping.
+  responsibilities:
+  - Build, test, and enhance Agentforce agents, workflows, and automations for customer-facing
+    and internal experiences
+  - Prototype and evaluate emerging AI technologies adjacent to the Salesforce stack
+    for client initiatives
+  - Design scalable data architectures on Salesforce Data 360 including DLOs, DMOs,
+    identity resolution, and real-time activation
+  - Leverage unstructured DMOs, retrievers, and search indexes for RAG-style solutions
+  - Develop solutions using Apex, Lightning Web Components, and JavaScript
+  - Engage directly with customers to define requirements and deliver complex solutions
+  - Integrate Salesforce with third-party systems via REST APIs
+  - Travel up to 25% for customer projects and company events
+  use_cases:
+  - Customer service automation via Agentforce agents and AI-powered bots
+  - Conversational AI experiences on the Salesforce platform
+  - Enterprise data unification and identity resolution on Salesforce Data 360
+  - Retrieval-augmented search over structured and unstructured customer data
+  - Predictive analytics and workflow automation for enterprise clients
+  skills:
+    genai: [AI Agents, RAG, Retrievers, LLMs, Anthropic API, OpenAI API, Agentic Workflows,
+      Claude Code]
+    ml: []
+    web: [REST APIs]
+    databases: [Search Indexes, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, AWS Lambda]
+    ops: [CI/CD, Git]
+    languages: [Apex, JavaScript]
+    domains: []
+    other: [Salesforce Agentforce, Salesforce Data 360, Lightning Web Components,
+      Amazon Connect, Salesforce Einstein, Salesforce Service Cloud Voice]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11801965'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:14:30.773363'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

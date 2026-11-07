@@ -1,0 +1,61 @@
+company:
+  name: CrowdStrike
+  stage: null
+  focus: Cloud-native cybersecurity and endpoint protection
+position:
+  title: Engineer III - AI Powered SRE (UK Shift Timing)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents and agentic workflows (LangChain,
+      AutoGen, CrewAI) with prompt engineering, tool calling, and
+      RAG to autonomously remediate operational issues — shaping
+      LLM/agent behavior directly, so ai-first. It is an
+      individual contributor SRE engineering role, not customer-
+      facing.
+  responsibilities:
+  - Design and develop AI agents that autonomously detect, diagnose, and remediate
+    operational issues across bare metal servers and VMs
+  - Eliminate operational toil by documenting manual workflows and building event-driven
+    automation pipelines powered by LLMs and agentic frameworks
+  - Build and maintain agentic workflows integrated with monitoring and telemetry
+    stacks (ELK, Prometheus, Grafana) for anomaly detection and incident response
+  - Support AI-assisted incident response tooling that correlates signals across distributed
+    systems and generates remediation recommendations
+  - Instrument and evaluate agent performance with feedback loops to improve agent
+    accuracy and reliability
+  - Gather and analyze OS and application metrics to feed AI models and agents for
+    performance tuning and predictive operations
+  - Support platform operations including availability, latency, throughput, monitoring,
+    and issue response
+  - Write and maintain technical documentation for automation systems, agent workflows,
+    and runbooks
+  use_cases:
+  - Autonomous detection, diagnosis, and remediation of infrastructure operational
+    issues
+  - Self-healing operations across bare metal servers and virtual machines
+  - AI-assisted incident response and analysis with remediation recommendations
+  - Anomaly detection over monitoring and telemetry data
+  - Event-driven automation of manual SRE workflows to eliminate toil
+  - Predictive operations using OS and application metrics
+  skills:
+    genai: [AI Agents, Agentic Workflows, LangChain, LlamaIndex, AutoGen, CrewAI,
+      Prompt Engineering, Function Calling, RAG, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LangSmith, Weights & Biases, Arize, MLOps, Prometheus, Grafana, ELK Stack,
+      Docker, Kubernetes, Ansible, Puppet, Chef, CI/CD, Linux]
+    languages: [Python, Go, Java, C++]
+    domains: [Distributed Systems]
+    other: [VMware]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11826893'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:19:24.015654'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

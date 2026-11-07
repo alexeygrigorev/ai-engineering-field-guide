@@ -1,0 +1,58 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Power conversion and storage for energy transition
+position:
+  title: Staff AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the full ML lifecycle (dataset construction,
+      metrics, evaluation) and builds GenAI solutions including
+      RAG and vector databases, directly shaping model behavior
+      and output quality. It also spans classical ML, but a role
+      shaping both LLM and classical systems is ai-first.
+  responsibilities:
+  - Design, develop, and implement AI solutions including generative AI, ML models,
+    neural networks, and optimization algorithms
+  - 'Own the ML lifecycle: dataset construction, metrics, evaluation strategies, and
+    acceptance criteria'
+  - Translate business needs into scalable AI-enabled tools and workflows
+  - Support deployment and integration of AI/ML models into enterprise systems, including
+    drift and performance monitoring
+  - Define end-to-end solution architecture from data sources to enterprise integration,
+    cloud and on-premises
+  - Write technical specifications and steer/review work of external contractors and
+    internal teams
+  - Lead data collection, processing, and analysis of large-scale operational data;
+    assess data readiness
+  - Evaluate emerging technologies such as edge AI, synthetic data, reinforcement
+    learning, and LLMs
+  use_cases:
+  - Predictive maintenance for industrial equipment
+  - Anomaly detection in operational data
+  - Quality and performance prediction
+  - Forecasting and cost analysis
+  - Document and requirements analysis using GenAI/RAG
+  - Knowledge support tools for business decision-making
+  skills:
+    genai: [Generative AI, RAG, LLMs]
+    ml: [Machine Learning, Neural Networks, PyTorch, TensorFlow, scikit-learn, Gradient
+        Boosting, Time-Series Analysis, Anomaly Detection, Reinforcement Learning,
+      Optimization Algorithms]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS]
+    ops: [MLOps, Model Deployment]
+    languages: [Python, C++, SQL]
+    domains: []
+    other: [VS Code, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11622269'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:23:45.673927'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

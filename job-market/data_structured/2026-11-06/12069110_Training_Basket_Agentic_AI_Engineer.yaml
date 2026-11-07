@@ -1,0 +1,51 @@
+company:
+  name: Training Basket
+  stage: null
+  focus: IT training and technology education services
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows, tool/function calling, RAG
+      pipelines, prompt engineering, and guardrails for LLM-based
+      agents, directly shaping model behavior and output quality.
+      With a clear LLM/agent component, this is ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI agents to automate workflows and business processes
+  - Build agentic AI applications using LLMs and Generative AI technologies
+  - Develop multi-agent systems that collaborate to solve complex problems
+  - Integrate AI agents with external APIs, databases, and enterprise applications
+  - Implement tool calling, function calling, memory management, and task planning
+  - Develop RAG pipelines for knowledge-based applications
+  - Design prompt engineering strategies and implement guardrails, validation, and
+    monitoring
+  - Evaluate AI agent accuracy, reliability, latency, and cost; optimize workflows
+    for scalability, efficiency, and security
+  use_cases:
+  - Workflow and business process automation via AI agents
+  - Multi-agent collaboration for complex problem solving
+  - Knowledge-based applications powered by RAG
+  - Agent integration with enterprise applications and external APIs
+  - Agent accuracy, reliability, latency, and cost evaluation
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, LLMs, Generative AI, Prompt Engineering,
+      RAG, Function Calling, AI Agents, Multi-Agent Systems, Agentic Workflows, Embeddings,
+      Semantic Search, Guardrails]
+    ml: [Machine Learning]
+    web: [REST APIs, JSON]
+    databases: [Vector Databases, FAISS, Chroma, Pinecone, Weaviate]
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12069110'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:49:10.356215'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

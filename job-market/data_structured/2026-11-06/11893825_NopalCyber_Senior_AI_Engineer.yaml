@@ -1,0 +1,64 @@
+company:
+  name: NopalCyber
+  stage: null
+  focus: Enterprise cybersecurity products with AI-driven automation
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered applications, RAG
+      pipelines, and multi-agent orchestration with guardrails and
+      evaluations — directly shaping model behavior and output
+      quality. It involves LLMs/agents throughout, so it is ai-
+      first.
+  responsibilities:
+  - Own AI/GenAI initiatives end-to-end, from business problem to production, monitoring,
+    and continuous improvement
+  - Design and implement Agentic AI and Multi-Agent systems for autonomous investigation,
+    decision support, and security operations
+  - Build LLM-powered applications, RAG pipelines, AI agents, conversational systems,
+    and intelligent automation workflows
+  - Design agent orchestration including planning, tool calling, memory, state management,
+    human-in-the-loop, and guardrails
+  - Build enterprise-grade RAG solutions covering ingestion, chunking, embeddings,
+    vector search, reranking, and response generation
+  - Integrate AI agents with enterprise and cybersecurity systems via REST APIs, webhooks,
+    SDKs, and SIEM/EDR tools
+  - Establish AI evaluation mechanisms covering accuracy, groundedness, hallucination,
+    latency, and cost
+  - Develop production-ready AI services in Python/FastAPI with observability and
+    secure handling of AI-specific risks
+  - Mentor AI engineers and contribute to AI architecture standards and reusable frameworks
+  use_cases:
+  - Autonomous security investigation and decision support
+  - Threat analysis and security operations automation
+  - Enterprise knowledge retrieval via RAG for cybersecurity data
+  - Workflow automation with multi-agent orchestration
+  - Conversational AI systems for enterprise users
+  - Secure AI handling of prompt injection and data leakage risks
+  skills:
+    languages: [Python, Pydantic, asyncio, JavaScript, TypeScript]
+    domains: []
+    web: [FastAPI, REST APIs, Webhooks, React]
+    cloud: [AWS, AWS Lambda, AWS S3, AWS Bedrock, ECS, EKS, CloudWatch]
+    data: []
+    ml: []
+    databases: [Qdrant, Milvus, Pinecone, Weaviate, Chroma, OpenSearch, Vector Databases,
+      SQL, NoSQL, MySQL, PostgreSQL]
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, AI Agents, Function Calling,
+      LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, RAG, Embeddings, Vector Search,
+      Prompt Engineering, Structured Outputs, Context Engineering, Fine-Tuning, LLM
+        Evaluation, Guardrails, Conversational AI, OpenAI API, Azure OpenAI, Anthropic
+        API, Gemini, Llama, Mistral, MCP, LoRA, Generative AI]
+    ops: [Docker, Git, CI/CD, Observability, Model Monitoring, Monitoring]
+    other: [SIEM, EDR/XDR, Threat Intelligence, Incident Response, Prompt Injection
+        Defense]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893825'
+  location: Serilingampalle, IND
+  extracted_at: '2026-11-06T13:49:32.595675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

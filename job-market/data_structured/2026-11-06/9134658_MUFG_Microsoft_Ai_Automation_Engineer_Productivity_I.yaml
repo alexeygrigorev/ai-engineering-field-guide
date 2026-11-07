@@ -1,0 +1,58 @@
+company:
+  name: MUFG
+  stage: null
+  focus: Global financial services and banking group
+position:
+  title: Microsoft Ai & Automation Engineer, Productivity Intelligence, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing and
+      building Copilot Studio agents, conversational flows,
+      generative answers, RAG pipelines with vector databases,
+      prompt engineering, and Azure AI Foundry agent reasoning
+      workflows. This is clearly LLM/agent shaping work, so it is
+      ai-first.
+  responsibilities:
+  - Define and execute enterprise strategy for Microsoft Copilot, Copilot Studio,
+    and Power Platform AI capabilities
+  - Design, build, and deploy Copilot Studio agents with conversational flows, topics,
+    and generative answers
+  - Develop complex Power Automate workflows and integrations across Microsoft 365,
+    Dataverse, and SharePoint
+  - Build production-grade agents using Azure AI Foundry SDK with RAG pipelines and
+    vector databases
+  - Establish governance, security, and ALM standards including DLP, guardrails, and
+    Responsible AI compliance
+  - Enable citizen development with reusable templates, training, and mentoring across
+    business teams
+  - Track adoption KPIs and monitor agent performance for continuous improvement
+  use_cases:
+  - Enterprise-wide Microsoft Copilot adoption and productivity automation in a regulated
+    bank
+  - Conversational AI agents aligned to business processes with governed enterprise
+    data access
+  - Domain-specific knowledge retrieval via RAG over enterprise data sources
+  - Task-driven workflow and autonomous agent automation using Azure AI Foundry
+  - Citizen developer enablement and safe AI adoption at scale
+  skills:
+    genai: [Copilot Studio, Azure OpenAI, Azure AI Foundry, Prompt Engineering, RAG,
+      Semantic Kernel, AutoGen, Google ADK, LLMs, Generative AI, Function Calling]
+    ml: []
+    web: [REST APIs, OAuth]
+    databases: [Vector Databases, Vector Search, Dataverse]
+    data: []
+    cloud: [Azure, Azure Functions, Azure AI Search]
+    ops: [CI/CD, Azure DevOps, GitHub Actions]
+    languages: [Python, C#, JavaScript, TypeScript]
+    domains: []
+    other: [Power Platform, Power Automate, Microsoft 365, Microsoft Graph, SharePoint,
+      Logic Apps, Microsoft Purview, Responsible AI, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9134658'
+  location: Brea, USA
+  extracted_at: '2026-11-06T15:04:32.191616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

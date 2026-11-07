@@ -1,0 +1,250 @@
+job_id: 11886234
+title: "Software & AI Engineer"
+company: HealthMinds Consulting Private Limited
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 59 Employees
+description: |
+  Software & AI Engineer - JD
+
+  Company Name: Alethic Insights
+
+  Website: Alethic Insights | Executive Intelligence Systems
+
+  LinkedIn: Alethic Insights | LinkedIn
+
+  If you love owning full-stack products end-to-end, thrive on
+  building production-grade Python services and polished React
+  interfaces, and get genuinely excited about LLMs and agents
+  actually doing things — this role was written for you.
+
+  At our end, we are building our flagship platform that
+  blends data, workflow automation, and agentic AI to help
+  enterprises make smarter decisions, faster. We are looking
+  for a hands-on engineer with 3–6 years of relevant
+  experience who can own services end-to-end: design, build,
+  deploy, monitor, and iterate. You’ll ship production code,
+  shape the architecture, and help us push the boundaries of
+  what agentic AI can do inside a real product.
+
+  Why This Role Is Different
+
+  • Real ownership. You own modules end-to-end — design, ship,
+  monitor, iterate.
+
+  • True full-stack ownership. React frontends, Python APIs,
+  cloud infra, AI pipelines, auth, observability — the whole
+  stack, your call.
+
+  • AI that’s more than hype. Build and own RAG pipelines,
+  vector search, LLM integrations, and autonomous agents that
+  do actual work inside a real enterprise product.
+
+  • Small team, big leverage. Direct collaboration with senior
+  engineers and the founding team. No layers, no politics.
+
+  • Career trajectory. A clear path to senior engineering and
+  tech-lead roles as NUDGE scales.
+
+  What You’ll Actually Do
+
+  • Own features end-to-end across the full stack. Take a
+  feature from design doc to production — React UI, FastAPI
+  service, database schema, AWS deployment, and monitoring —
+  without handing off to another team. You are the team.
+
+  • Build and ship React interfaces that enterprise users
+  actually love. Design and implement component hierarchies,
+  manage state across complex workflows, integrate with REST
+  APIs, handle async data gracefully, and make sure the UI
+  stays responsive even when an AI agent is doing heavy work
+  in the background.
+
+  • Design and ship Python/FastAPI services that are built to
+  last. Clean router structure, Pydantic-validated contracts,
+  dependency-injected auth, background task queues
+  (Celery/RQ), async I/O where it matters — and the discipline
+  to write tests before you call something done.
+
+  • Implement and own end-to-end RAG pipelines. Not just “plug
+  in LangChain and call it done” — you’ll choose the right
+  chunking strategy for the document type, select and fine-
+  tune embedding models, stand up and query vector stores
+  (Pinecone, pgvector, or Weaviate), add reranking, and
+  instrument retrieval quality metrics so you know when the
+  pipeline degrades in production.
+
+  • Build agentic AI workflows that actually complete tasks.
+  Design multi-step agent graphs using LangGraph or similar,
+  wire up tool-calling against internal APIs and external
+  services, handle failure modes and retry logic, and evaluate
+  agent performance — not just “did it finish” but “did it
+  finish correctly.”
+
+  • Own the data layer from schema to query plan. Model
+  relational data in PostgreSQL with multi-tenancy and row-
+  level security in mind, write queries a DBA would be proud
+  of, reach for Redis or DynamoDB when the access pattern
+  demands it, and know how to spot an N+1 before it becomes a
+  production incident.
+
+  • Deploy and operate your own services on AWS. Containerize
+  with Docker, orchestrate on ECS or Lambda, store secrets in
+  Secrets Manager, wire IAM with least privilege, set up RDS
+  with proper connection pooling, and build CloudWatch
+  dashboards and alarms so you know when something is wrong
+  before a user files a ticket.
+
+  • Implement auth you’d stake your reputation on. JWT
+  issuance and validation, OAuth 2.0 / OIDC flows, role-based
+  access control, secure session management, and the habit of
+  asking “can this endpoint be called by the wrong tenant?”
+  before every PR merge.
+
+  • Ship with a CI/CD pipeline, not a prayer. Set up GitHub
+  Actions (or equivalent) pipelines that lint, test, build,
+  and deploy — so merging to main means it’s in production,
+  not “it’s waiting for someone to SSH into a box.”
+
+  Must-Have Skills
+
+  • Generative AI & RAG: you’ve built a RAG pipeline in
+  production — not just followed a tutorial. You understand
+  the tradeoffs between chunking strategies (fixed-size,
+  semantic, document-structure-aware), have selected and
+  compared embedding models, have stood up at least one vector
+  store (Pinecone, pgvector, Weaviate, or Qdrant), and you
+  know that retrieval quality requires measurement, not hope.
+  Fluency with LLM APIs (OpenAI, Anthropic, AWS Bedrock) and
+  at least one agent framework (LangGraph, LangChain,
+  LlamaIndex) is expected.
+
+  • SQL & data modelling: PostgreSQL is your default. You
+  write joins, window functions, CTEs, and subqueries without
+  hesitation, you understand EXPLAIN ANALYZE output, you
+  design schemas with multi-tenancy in mind, and you don’t
+  wait for a DBA to tell you your query is slow.
+
+  • Python & FastAPI: async/await, Pydantic v2, dependency
+  injection, background tasks, structured logging, and the
+  instinct to write a test alongside the feature — not a week
+  later. You can explain the difference between asyncio
+  concurrency and true parallelism, and you know when Celery
+  is the right answer and when it’s overkill.
+
+  • Auth & security fundamentals: JWT, OAuth 2.0, OIDC, RBAC,
+  and the habit of auditing every endpoint for tenant
+  isolation before merging. You’ve thought about prompt
+  injection, you know what OWASP Top 10 means in a
+  Python/React context, and you don’t store secrets in
+  environment variables committed to git.
+
+  • Systems thinking: you can sketch a multi-service
+  architecture, reason about where state should live, identify
+  single points of failure, and make deliberate tradeoffs
+  between consistency and availability. When to use a queue,
+  when to go synchronous, when Redis is the answer and when
+  it’s a crutch — you have opinions and can defend them.
+
+  • Agentic AI: you’ve built agents that do more than answer
+  questions — they plan, decide, call tools, and recover from
+  failures. You understand the difference between single-step
+  tool-calling and multi-step agent graphs (LangGraph, CrewAI,
+  or similar), know how to design reliable tool interfaces,
+  handle partial failures and retries gracefully, manage
+  context window constraints across long-running tasks, and
+  evaluate whether an agent actually completed its goal — not
+  just whether it returned a response. Prompt engineering
+  discipline (system prompts, few-shot examples, structured
+  outputs) is assumed.
+
+  • Frontend fundamental: you understand how the web actually
+  works — HTML structure and semantics, CSS layout and
+  specificity, JavaScript (ES6+) including the event loop,
+  promises, and
+
+  async/await. You know the full HTTP request/response cycle:
+  methods, status codes, headers, cookies, CORS, and how a
+  browser request travels from the user to your FastAPI
+  service and back. You understand REST vs WebSocket vs SSE
+  and can pick the right protocol for the job. You can read
+  browser DevTools network traces, debug a broken API call
+  from the frontend, and reason about where a problem lives
+  without needing someone to hand you a reproduction. React or
+  another framework is expected on top of this — but the
+  fundamentals come first.
+
+  Good-to-Have
+
+  • React & TypeScript: functional components, custom hooks,
+  Zustand or Redux for state, React Router, typed API calls
+  with axios or react-query, and clean handling of
+  loading/error/empty states. TypeScript by default. You don’t
+  need a senior frontend engineer reviewing your code for
+  correctness — just for taste.
+
+  • LLM evaluation and observability: experience with RAGAS,
+  LangSmith, Phoenix/Arize, or similar tools for measuring
+  retrieval quality, hallucination rates, and agent task
+  completion — not just “it looked right in the demo.”
+
+  • Data pipeline experience: ingestion, transformation, and
+  enrichment pipelines (Airflow, AWS Glue, or even just well-
+  structured Celery workflows) — particularly for feeding
+  structured and unstructured data into AI systems at scale.
+
+  • Infrastructure as code: Terraform, AWS CDK, or Pulumi —
+  the ability to version and review infrastructure changes the
+  same way you review code. Not required, but the team will
+  love you for it.
+
+  • Enterprise SaaS patterns: multi-tenancy, row-level
+  security, usage metering, audit logging, SSO/SAML
+  integration, or experience building for compliance-conscious
+  enterprise buyers. You’ve shipped something to a customer
+  who cares about SOC 2 or GDPR.
+
+  • NoSQL and search: DynamoDB for high-throughput key-value
+  access patterns, Redis beyond basic caching (pub/sub,
+  streams, sorted sets), or Elasticsearch/OpenSearch for full-
+  text and hybrid search — knowing when to reach past
+  PostgreSQL and why.
+
+  • Prior startup or product company experience: you know what
+  it means to own a feature end-to-end with limited resources,
+  make pragmatic tradeoffs under time pressure, and ship to
+  real users who notice when things break.
+
+  Who You Are
+
+  • 3–6 years of relevant, hands-on experience building and
+  shipping full-stack production applications — backend-heavy
+  is fine, but you should be able to own a React feature
+  without hand-holding. Bonus if some of that experience was
+  at an early-stage product company.
+
+  • A degree in Computer Science, Engineering, or a related
+  field — or a track record strong enough that we don’t need
+  to ask.
+
+  • You’ve owned features (not just tickets) from spec to
+  production, and you have the war stories to prove it.
+
+  • You read documentation before you ask questions, and you
+  ask great questions when documentation falls short.
+
+  • You care about clean code, code reviews, and the
+  difference between a PR that’s done and one that’s merged.
+
+  • You’re curious about AI but skeptical of magic — you want
+  to understand what’s actually happening under the hood.
+
+  • You communicate well in writing. Slack messages, PRs,
+  design docs, incident notes — clarity is a superpower.
+industries:
+  - Healthtech
+  - Analytics
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-ai-engineer/11886234"
+source: Built In

@@ -1,0 +1,56 @@
+company:
+  name: Photon
+  stage: null
+  focus: Digital/IT consulting building enterprise AI solutions
+position:
+  title: AI Engineer | Onsite
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on designing prompts, building agentic
+      workflows, MCP tools, RAG, and evaluation
+      frameworks—directly shaping LLM behavior and output quality.
+      This is clearly ai-first.
+  responsibilities:
+  - Design, develop, and optimize prompts for LLMs to improve accuracy, reliability,
+    and business outcomes
+  - Build and configure Agentic AI solutions with planning, reasoning, memory, and
+    multi-step execution
+  - Develop and integrate MCP tools enabling AI agents to securely access enterprise
+    systems, APIs, and data sources
+  - Implement RAG, knowledge grounding, and context orchestration patterns
+  - Define evaluation frameworks and prompt testing methodologies to measure agent
+    performance
+  - Support deployment, monitoring, troubleshooting, and continuous improvement of
+    AI agents and MCP workflows
+  - Ensure AI solutions meet security, compliance, governance, and responsible AI
+    standards
+  - Contribute to architecture reviews and technical design documentation for AI platforms
+  use_cases:
+  - Enterprise AI agents that plan, reason, and execute multi-step tasks
+  - Secure AI agent access to enterprise systems and data via MCP
+  - Retrieval-augmented, knowledge-grounded answers over enterprise and healthcare
+    data
+  - Healthcare and health record workflows with HIPAA-aligned PHI/PII handling
+  - Production deployment and monitoring of AI agents and MCP-enabled workflows
+  skills:
+    genai: [Prompt Engineering, LLMs, Agentic Workflows, MCP, RAG, AI Agents, Function
+        Calling, Embeddings, Guardrails, LLM Evaluation, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python, Java, JavaScript]
+    domains: [NLP]
+    other: [HIPAA Compliance, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893954'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:50:13.593837'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Brown and Caldwell
+  stage: null
+  focus: Environmental engineering and construction services firm
+position:
+  title: Wastewater Process and AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops and applies machine learning and hybrid
+      mechanistic/AI models (predictive analytics, anomaly
+      detection, digital twins) for wastewater processes — this is
+      shaping classical ML model behaviour. No LLM, prompt, or
+      agent component appears anywhere, so it is ml-first rather
+      than ai-first.
+  responsibilities:
+  - Collect and analyze data and develop basis process models and drawings
+  - Evaluate existing wastewater processes, perform data analysis, and suggest optimizations
+  - Develop chemical, physical, and biological process models and identify trends
+    in data
+  - Develop and deploy AI/ML solutions for predictive analytics, anomaly detection,
+    process monitoring, and optimization
+  - Build dynamic process models, digital twins, and hybrid mechanistic/AI models
+    using real-time plant data
+  - Troubleshoot facilities, identify root causes, and propose solutions
+  - Set up experiments, collect data, and evaluate technologies for feasibility
+  - Collaborate with project teams and utility clients to move solutions from concept
+    to practical application
+  use_cases:
+  - Predictive analytics and anomaly detection for wastewater treatment processes
+  - Real-time process monitoring and optimization of treatment performance
+  - Digital twins and hybrid mechanistic/AI models of wastewater facilities
+  - Optimization of biological treatment, nutrient removal, aeration, energy, and
+    chemical dosing
+  - Advanced process control and real-time optimization tools
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Training, Model Evaluation, Anomaly Detection, Predictive
+        Analytics, Digital Twins]
+    web: []
+    databases: []
+    data: [Data Analysis]
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [BioWin, GPS-X, SUMO, WEST, Wastewater Process Modeling, Process Optimization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11843398'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:22:21.080300'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

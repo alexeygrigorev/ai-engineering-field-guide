@@ -1,0 +1,42 @@
+company:
+  name: Coquina Tech
+  stage: null
+  focus: Marketplace connecting government with technology solutions
+position:
+  title: AI Native Founding Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI-first business processes
+      and scales the company with AI agents, meaning the person
+      shapes agent-driven workflows themselves rather than just
+      consuming someone else's AI API. Agent/LLM orchestration
+      work makes it ai-first.
+  responsibilities:
+  - Design and implement AI-first business processes on both sides of the marketplace
+  - Build AI agent workflows to scale software development faster and cheaper
+  - Use AI-native development tools (e.g., Cursor) in day-to-day engineering
+  - Help shape an AI-native, lean company culture
+  - Build, hire, and manage an engineering team in future quarters
+  use_cases:
+  - AI-first business processes for a government technology marketplace
+  - AI agents used to scale software development in place of hiring
+  skills:
+    genai: [Cursor, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12058290'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:43:50.297873'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: null
+  focus: Global container shipping and integrated logistics
+position:
+  title: AI/ML Engineer (Data Engineering + AI Focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly works with LLMs and Generative AI,
+      integrating them into production workflows using
+      LangChain/LlamaIndex and building RAG applications, so the
+      person shapes LLM-based system behavior. It also builds end-
+      to-end ML pipelines, but the LLM/GenAI component makes it
+      ai-first.
+  responsibilities:
+  - Design, build, and maintain robust data pipelines and data platforms using Python,
+    Spark/PySpark, and cloud-native services
+  - Develop and deploy end-to-end AI/ML solutions including data ingestion, feature
+    engineering, model training, evaluation, and production deployment
+  - Work with LLMs and Generative AI systems, integrating them into production workflows
+    using frameworks such as LangChain and LlamaIndex
+  - Implement and manage MLOps and DataOps practices including CI/CD pipelines, model
+    versioning, monitoring, and automated retraining
+  - Architect and optimize large-scale data processing systems on Azure/AWS for performance,
+    reliability, and cost efficiency
+  - Design and maintain batch and streaming data models supporting analytics, reporting,
+    and AI use cases
+  - Deploy solutions using Docker and Kubernetes in collaboration with engineering
+    teams
+  - Mentor junior engineers and contribute to engineering excellence through code
+    reviews and best practices
+  use_cases:
+  - Supply chain decision-making and logistics optimization
+  - Document processing and workflow automation
+  - Predictive analytics across Maersk's business workflows
+  - Scalable analytics and reporting on batch and streaming data
+  - Automated model retraining and monitoring in production
+  skills:
+    genai: [LLMs, Generative AI, LangChain, LlamaIndex, RAG]
+    ml: [Feature Engineering, Model Training, Model Evaluation, Deep Learning, Machine
+        Learning]
+    web: []
+    databases: []
+    data: [Spark, PySpark, Databricks, Data Pipelines, Data Modeling, Data Engineering,
+      Data Governance, Hadoop]
+    cloud: [Azure, AWS, AWS S3]
+    ops: [MLOps, CI/CD, Model Deployment, MLflow, Docker, Kubernetes, Monitoring]
+    languages: [Python, SQL, R]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11869261'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:26:38.995580'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Investment management and custom portfolio solutions
+position:
+  title: Principal Software Engineer  (AI Platform) - Parametric
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and operationalizes a GenAI
+      platform, including prompt engineering, RAG pipelines, fine-
+      tuning, agentic workflows, and evaluation frameworks -
+      directly shaping LLM behaviour, so it is ai-first. It also
+      manages an engineering team.
+  responsibilities:
+  - Lead and mentor a team of engineers building Parametric's GenAI platform
+  - Drive team vision and strategy, including communication, consensus building, and
+    project management
+  - Lead GenAI development projects across the full lifecycle from requirements to
+    deployment and support
+  - Design and maintain platform-level GenAI solutions using prompt engineering, RAG,
+    fine-tuning, and agentic workflows
+  - Design and execute AI evaluation frameworks including metrics, regression testing,
+    and output quality monitoring
+  - Select, adapt, and optimize foundation models for diverse use cases
+  - Implement and manage AWS cloud deployments with high availability and observability
+  - Collaborate with business users and engineering teams to translate business problems
+    into feasible AI solutions
+  use_cases:
+  - Platform-level GenAI services and governance for Parametric engineering teams
+  - Retrieval-augmented generation and agentic workflows for business outcomes
+  - Safe, compliant generative AI solutions in investment management
+  - Model evaluation and monitoring of GenAI outputs in production
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, RAG, Fine-Tuning, Agentic Workflows,
+      OpenAI API, Azure OpenAI, Anthropic API, LangChain, LlamaIndex, Claude Code,
+      LLM Evaluation]
+    ml: [Machine Learning, Transformers, Llama, PyTorch, TensorFlow, Hugging Face]
+    web: [Microservices, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Git, GitHub Copilot, Terraform, CI/CD, GitLab CI, GitHub Actions,
+      Datadog]
+    languages: [Python]
+    domains: [NLP]
+    other: [Event-Driven Architecture, Agile, Code Review]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10921051'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - Minneapolis, USA
+  extracted_at: '2026-11-06T11:22:42.925719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

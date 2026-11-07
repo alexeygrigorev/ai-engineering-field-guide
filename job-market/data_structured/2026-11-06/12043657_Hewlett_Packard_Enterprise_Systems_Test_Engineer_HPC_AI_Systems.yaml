@@ -1,0 +1,52 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud and HPC solutions
+position:
+  title: Systems Test Engineer, HPC & AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a systems test/validation engineer for HPC hardware
+      platforms; they test servers, firmware, networking, and OS
+      integrations that support AI workloads but never shape model
+      behaviour, prompts, retrieval, or training. AI is only the
+      workload domain, so the role is ai-support.
+  responsibilities:
+  - Validate complex system configurations across servers, accelerators, storage,
+    networking, firmware, operating systems, and management interfaces
+  - Translate product requirements into validation strategies improving test coverage
+    and release readiness
+  - Analyze, debug, and drive resolution of issues found during integrated systems
+    testing
+  - Support Linux OS certification and submission activities with vendors such as
+    Red Hat, SUSE, and Ubuntu
+  - Execute tests in local and remote labs and coordinate automated test execution
+    across global teams
+  - Partner with product, program, and vendor teams to resolve development and release
+    issues
+  - Train, guide, and support onshore and offshore test teams; mentor less-experienced
+    staff
+  use_cases:
+  - Validation of HPC and AI supercomputer systems
+  - Linux OS certification for server platforms
+  - Integrated hardware/software/firmware testing of servers, storage, and networking
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Python, Bash, JSON]
+    domains: []
+    other: [Redfish, Bash Scripting, Automated Testing, System Validation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12043657'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:37:37.941419'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

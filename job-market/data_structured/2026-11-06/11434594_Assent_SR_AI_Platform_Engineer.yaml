@@ -1,0 +1,61 @@
+company:
+  name: Assent
+  stage: null
+  focus: |-
+    Product intelligence and supply chain compliance platform
+    for manufacturers
+position:
+  title: SR AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure role: the person builds
+      deployment pipelines, Terraform, scaffolding, and auth/cost
+      primitives that other builders consume. They do not shape
+      model behavior — no prompting, RAG design, or training.
+      LLM/agentic exposure is listed only as a plus, and MCP-style
+      patterns are connector infrastructure, so the role is ai-
+      support.
+  responsibilities:
+  - Design and expand self-serve build patterns (knowledge base agents, connectors,
+    Okta-gated web apps, workflow automations) with automated scaffolding
+  - Turn one-off deployment patterns into repeatable templated build options including
+    automated repo scaffolding, CI/CD wiring, and infrastructure provisioning
+  - Own the core deployment pipeline of containerized apps on AWS ECS Fargate behind
+    an ALB with SSO enforced at the listener
+  - Write and maintain Terraform infrastructure-as-code for compute, networking, and
+    IAM, kept separate from application code
+  - Design and harden connector and integration patterns including MCP-style server
+    patterns with OAuth security and deny-by-default scoping
+  - Bake mandatory logging, metering, and cost-tracking into every provisioned pattern
+    and service
+  - Partner with cloud operations on account- and network-level concerns such as load
+    balancer rules, security groups, IAM roles, and DNS
+  - Review and harden what other builders ship against the platform patterns before
+    production
+  use_cases:
+  - Governed internal AI platform that turns AI use cases into production-ready services
+  - Self-serve builder experience generating scaffolding, deployment pipelines, and
+    security patterns for AI apps
+  - Secure internal and external system connectors with OAuth scoping and deny-by-default
+    access
+  - Automated cost metering and governance for provisioned cloud services
+  skills:
+    genai: [MCP]
+    ml: []
+    web: [OAuth]
+    databases: []
+    data: []
+    cloud: [AWS, ECS, IAM]
+    ops: [Terraform, CI/CD, Docker, CloudWatch]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11434594'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:50:37.834773'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

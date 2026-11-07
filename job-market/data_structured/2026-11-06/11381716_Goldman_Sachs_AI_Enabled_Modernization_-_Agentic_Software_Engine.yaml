@@ -1,0 +1,53 @@
+company:
+  name: Goldman Sachs
+  stage: null
+  focus: |-
+    Global investment banking, securities and investment
+    management
+position:
+  title: AI Enabled Modernization - Agentic Software Engineer - Vice President (New
+    York, NY)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys multi-agent LLM systems, builds
+      evaluation frameworks and agent orchestration—directly
+      shaping model/agent behavior and output quality. LLM agents
+      are central, so ai-first.
+  responsibilities:
+  - Design and deploy multi-agent swarms with autonomous planning, reasoning, and
+    execution across distributed cloud environments
+  - Build human-in-the-loop systems, evaluation frameworks, and observability for
+    continuous agent improvement
+  - Design integrations with APIs, developer tooling, CI/CD pipelines, data platforms,
+    and operational systems
+  - Partner with business units to identify high-impact agent use cases and translate
+    business needs into agentic workflows
+  - Apply agentic patterns to data analysis, observability, optimization, and planning
+    domains
+  use_cases:
+  - Autonomous application modernization workflows across a large technology estate
+  - Automated data analysis and synthesis of large-scale datasets
+  - Self-healing infrastructure and automated root-cause analysis
+  - Dynamic resource allocation and cost optimization
+  - Multi-step task planning and execution in non-deterministic environments
+  skills:
+    genai: [Multi-Agent Systems, AI Agents, Agentic Workflows, LLMs, LangGraph, AutoGPT,
+      MCP, LLM Evaluation, Human-In-The-Loop]
+    ml: [Reinforcement Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Distributed Systems, Observability]
+    languages: [Python, Go, Java, JavaScript]
+    domains: [Swarm Intelligence]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11381716'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:38:20.517118'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

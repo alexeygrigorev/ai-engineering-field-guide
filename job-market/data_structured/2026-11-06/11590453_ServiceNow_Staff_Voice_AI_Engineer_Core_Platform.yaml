@@ -1,0 +1,52 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: AI-powered workflow automation and enterprise cloud platform
+position:
+  title: Staff Voice AI Engineer – Core Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires building agents with prompt
+      engineering and developing LLM-based experiences, which is
+      shaping LLM behavior, so it is ai-first despite the voice
+      platform focus. Serving/integrating voice models alone would
+      be ai-support, but the agent/prompt engineering work tips it
+      to ai-first.
+  responsibilities:
+  - Design and implement the core Voice Platform (audio acquisition, conversation
+    management, speech generation, integration with API and self-hosted Voice AI models,
+    voice harness)
+  - Build and deploy large Voice AI distributed systems at scale across multiple regions
+    and datacenters
+  - Partner with product managers to work directly with customers, understand their
+    use cases and technology challenges
+  - Build high-quality, clean, scalable and reusable code with strong software engineering
+    practices (code reviews, unit testing)
+  - Contribute to continuous improvement of the SRE practice by turning operational
+    use cases into tooling requirements
+  - Mentor colleagues and promote knowledge-sharing across Voice AI engineering disciplines
+  use_cases:
+  - Real-time voice conversations with AI agents (voice assistant platform)
+  - Speech generation and audio acquisition for enterprise voice workflows
+  - Customer service and telephony automation at enterprise scale
+  - Conversation management for AI-powered voice interactions
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering]
+    ml: [STT/TTS]
+    web: [WebRTC, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, DevOps, SRE, Distributed Systems, Code Review]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Telephony, Claude Code, Cursor, Windsurf]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11590453'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:17:10.699549'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

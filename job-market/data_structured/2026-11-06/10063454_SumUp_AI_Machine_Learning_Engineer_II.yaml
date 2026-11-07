@@ -1,0 +1,50 @@
+company:
+  name: SumUp
+  stage: null
+  focus: |-
+    Financial technology and payment services for small
+    businesses
+position:
+  title: AI / Machine Learning Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-based products like chatbots and RAG
+      systems and fine-tunes models, which is shaping model
+      behaviour with LLM components, so it is ai-first. It also
+      handles classical ML, but LLM presence dominates.
+  responsibilities:
+  - Design, develop and deploy AI solutions and systems in production environments
+  - Collaborate with data scientists, product managers and developers on AI solutions
+    for Customer Support
+  - Develop and maintain ML infrastructure and pipelines for data processing, model
+    training and serving
+  - Optimize and fine-tune machine learning models for accuracy and scalability
+  - Collect, preprocess and clean large text datasets for model training and evaluation
+  - Apply software engineering best practices including version control, CI/CD and
+    unit testing
+  - Integrate machine learning solutions into software applications and platforms
+  use_cases:
+  - AI-powered customer support for merchants
+  - Chatbot assistant for customer service
+  - RAG-based support knowledge systems
+  - Operational efficiency in fintech support operations
+  skills:
+    genai: [LLMs, RAG, Conversational AI]
+    ml: [Machine Learning, Deep Learning, Model Training, Fine-Tuning, Feature Engineering]
+    web: []
+    databases: []
+    data: [Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, MLflow, Kubeflow, Langfuse, CI/CD, Model Deployment, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10063454'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T11:19:06.186361'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,159 @@
+job_id: 11954364
+title: Senior Software Engineer, AI
+company: Tono Health
+location: Brooklyn, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Tono
+
+  Specialty care is hard to access and even harder to run.
+  Patients often wait months, and clinics rely on fragmented
+  tools and manual workflows.
+
+  Tono builds software and operations together to make
+  specialty care faster to access and easier to deliver,
+  starting with dermatology.
+
+  We’re building a fully autonomous specialty medicine clinic:
+  continuous, real-time care for patients anywhere.
+
+  What makes us different is how we build. We run two clinics
+  of our own, a national telehealth practice and an in-person
+  clinic in DUMBO, Brooklyn. Our engineers work side by side
+  with our doctors and care coordinators to build (mostly)
+  every piece of the software from scratch. The long-term goal
+  is for specialty clinics across the country to run on our
+  autonomous EHR, freeing them from the administrative burden
+  that slows care down.
+
+  Today we see patients in 33 states, covering more than 80%
+  of the US population.
+
+  You will work closely with the co-founders and a team of
+  engineers and physicians (backgrounds include Amazon, Apple,
+  and leading academic medical centers). We are backed by
+  Village Global (backed by Mark Zuckerberg, Jeff Bezos,
+  Michael Dell, chaired by Reid Hoffman), HOF Capital, and
+  Oncology Ventures.
+
+  What You'll Do
+
+  Own the agents that run Tono's clinic end to end. You'll
+  design, build and ship AI agents that handle real clinical
+  and operational work, such as drafting clinical notes,
+  triaging intake, coordinating care, and automating the admin
+  work that slows doctors down. You'll work in our TypeScript
+  monorepo (Cloudflare DO, tRPC, Prisma, Postgres, Inngest)
+  alongside the engineers, physicians and care coordinators
+  who use what you build.
+
+  You'll also build the foundation other engineers build on:
+  shared agent infrastructure, tool and memory abstractions,
+  durable workflows, tracing, and the evaluation harnesses
+  that tell us whether an agent is actually getting better. On
+  any given week you might be:
+
+  - Building an agent that turns a patient visit into a
+    structured clinical note a doctor trusts
+  - Designing evals and labeled datasets from real clinician
+    feedback, then using them to catch regressions before they
+    ship
+  - Building self-improving loops where physician corrections
+    flow back into prompts, retrieval and fine-tuning
+  - Adding guardrails, human-in-the-loop review and safe
+    fallbacks so an agent fails gracefully
+  - Debugging why an agent did something unexpected, using
+    traces, logs and replay
+
+  We build AI that has to be reliable in production. That
+  means structured outputs, evaluation loops, monitoring and
+  clear escalation to a human when it matters.
+
+  How We Work
+
+  - We ship quickly, with discipline: small PRs, clear
+    ownership, and tight feedback loops.
+  - Small team, broad scope. Engineers regularly work across
+    frontend, backend, data, and infrastructure.
+  - We ship with confidence in a regulated environment: feature
+    flags, careful reviews, and safe migrations (including
+    backfills). We use AI all the time but we do not vibe code
+    our way into debt. Patients and doctors deserve better.
+  - We invest in maintainability. Dependency upgrades,
+    performance work, and removing dead code are part of the
+    roadmap.
+  - Observability is built-in. Logs, metrics, alerting, and
+    error monitoring are part of the job.
+  - We value builders. Curiosity, good taste, and a willingness
+    to pick up whatever the system needs goes a long way.
+
+  Stack
+
+  Frontend: Next.js, TanStack Start, React
+
+  Backend: Fastify, tRPC, Prisma, PostgreSQL
+
+  Durable Workflows: Inngest
+
+  AI: Mastra, Flue, OpenAI, Anthropic, Vertex
+
+  Infra: Cloudflare, Turborepo, Doppler, AWS, GCP
+
+  Observability: Posthog
+
+  Data: Motherduck/DuckDB, dbt, dlt, Prefect, BigQuery
+
+  What We're Looking For
+
+  - 5+ years of software engineering experience, with strong
+    TypeScript across frontend and backend
+  - Hands-on experience building and shipping LLM-powered agents
+    in production, not just prototypes
+  - Experience designing evals: test sets, LLM-as-judge,
+    regression suites, and tying quality metrics to real
+    outcomes
+  - A practical sense of making LLMs reliable: structured
+    outputs, retries and fallbacks, tool-calling design, and
+    monitoring
+  - Experience with data-labeling techniques and feedback loops
+    that improve an agent over time
+  - Solid relational database fundamentals (Postgres, schema
+    design, migrations)
+  - Comfort shipping iteratively with feature flags,
+    instrumentation and tight feedback loops
+  - The ability to take an ambiguous problem, break it down, and
+    drive it to done
+  - Care about code quality and take pride in your craft
+  - Nice to have: experience with agent frameworks such as
+    Mastra or LangGraph, durable workflow tools such as
+    Inngest, LoRA or fine-tuning, and startups, healthcare,
+    regulated industries or multi-tenant systems
+
+  Compensation & Benefits
+
+  Salary: 180k - 275k commensurate with experience
+
+  Equity: Meaningful equity in a high-growth, venture-backed
+  company
+
+  Medical: Medical, dental, and vision coverage
+
+  Growth: Direct access to founders and an agile team where
+  your impact is highly visible. We do weekly demos with
+  leadership
+
+  PTO: Unlimited PTO to recharge when you need it
+
+  Location
+
+  ﻿New York City preferred. We are hybrid and currently spend
+  a few days per week in our DUMBO, Brooklyn office. We will
+  consider fully remote for the right candidate.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Telehealth
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-software-engineer-ai/11954364"
+source: Built In

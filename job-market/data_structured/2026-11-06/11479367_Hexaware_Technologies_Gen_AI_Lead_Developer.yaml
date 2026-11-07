@@ -1,0 +1,56 @@
+company:
+  name: Hexaware Technologies
+  stage: null
+  focus: IT services and digital solutions provider
+position:
+  title: Gen AI Lead Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG workflows, agentic/multi-agent
+      orchestration, MCP servers, and LLM verification — directly
+      shaping model behavior and output quality. LLMs and agents
+      are central, so it is ai-first.
+  responsibilities:
+  - Own end-to-end architecture and design of enterprise AI solutions on Azure
+  - Design document processing pipelines including OCR, extraction, validation, and
+    human-in-the-loop steps
+  - Translate business problems into ML objectives and architecture blueprints
+  - Facilitate stakeholder workshops to capture success criteria, SLAs, and compliance
+    needs
+  - Architect hybrid solutions combining Azure Cognitive APIs, custom ML models, Azure
+    OpenAI/LLMs, and RAG
+  - Design RAG workflows with embeddings and vector search for cited, hallucination-mitigated
+    responses
+  - Design agentic AI frameworks including multi-agent roles, tool invocation, and
+    context/state management
+  - Establish MLOps, governance, and responsible-AI practices and lead engineering
+    teams
+  use_cases:
+  - Document processing and extraction
+  - Contract analytics
+  - Claims processing
+  - Knowledge bases
+  - Chat assistants
+  - Agentic assistants with source-cited RAG responses
+  skills:
+    genai: [Azure OpenAI, LLMs, RAG, AI Agents, Multi-Agent Systems, Agentic Workflows,
+      MCP, Embeddings]
+    ml: [Machine Learning]
+    web: [REST APIs]
+    databases: [Vector Search]
+    data: [Kafka]
+    cloud: [Azure, Azure AI Services]
+    ops: [MLOps]
+    languages: []
+    domains: []
+    other: [Responsible AI, OCR, Jira]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11479367'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:57:12.619602'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

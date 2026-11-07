@@ -1,0 +1,60 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    Cloud engineering operations and AI-powered support
+    automation
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and improves agentic resolution
+      patterns—orchestration, reasoning, retrieval, prompts, tool
+      interfaces, and agent evaluation/guardrails—directly shaping
+      LLM agent behavior. The DevOps/SRE duties wrap around, not
+      replace, that shaping work.
+  responsibilities:
+  - Build agentic resolution capabilities and patterns that raise autonomous resolution
+    rate, accuracy, and customer satisfaction
+  - Deliver end-to-end features across autonomous AI systems including orchestration,
+    reasoning, retrieval, action execution, and human escalation workflows
+  - Apply and improve standards for prompts, tool interfaces, testing, versioning,
+    CI/CD, and safe deployment practices for agent behavior
+  - Build evaluation systems including golden datasets, rubrics, judge agents, and
+    offline/online evaluation pipelines to gate releases
+  - 'Operate the agent fleet with a DevOps/SRE model: SLOs, error budgets, incident
+    response, on-call, and observability explaining agent behavior'
+  - Convert unresolved cases and customer signals into actionable engineering insights
+    and route product fixes to engineering teams
+  - 'Contribute to measurable business outcomes: support demand reduction, resolution
+    rate, time-to-resolution, and customer satisfaction'
+  - Help shape technical direction, engineering standards, and reusable platform capabilities
+    for agent development
+  use_cases:
+  - Autonomous resolution of customer support cases by a fleet of AI agents
+  - Live-safety monitoring of agent sentiment, risk, and unsafe actions with escalation
+    to humans
+  - Evaluation and repair pipelines turning agent failures into durable fixes
+  - Reducing support demand and operational toil at cloud scale
+  - Turning customer feedback and unresolved cases into engineering insights
+  skills:
+    genai: [Agentic Workflows, AI Agents, Prompt Engineering, LLM Evaluation, Guardrails,
+      Azure OpenAI]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure AI Foundry]
+    ops: [CI/CD, Observability, Monitoring, Infrastructure as Code, Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887912'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:39:39.310510'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

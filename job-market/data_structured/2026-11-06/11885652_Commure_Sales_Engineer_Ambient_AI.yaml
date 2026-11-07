@@ -1,0 +1,59 @@
+company:
+  name: Commure
+  stage: null
+  focus: AI operating system and ambient documentation for healthcare
+position:
+  title: Sales Engineer, Ambient AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a presales sales engineering role: the person scopes
+      pilots, stands up EHR integrations (browser automation, DOM
+      injection, APIs), configures existing Ambient AI features,
+      and manages templates and Salesforce hygiene. They consume
+      and deploy an AI product that another team built; they never
+      shape model behavior through prompts, retrieval, fine-
+      tuning, or evals.
+  responsibilities:
+  - Lead technical scoping calls with providers and decision makers for Ambient AI
+    pilots
+  - Stand up EHR integrations via browser automation, DOM injection, and API paths
+  - Configure advanced AI features (ICD coding, orders, Patient 360, carry forward,
+    pre-visit summaries) for pilots
+  - Translate gold-standard notes and specialty requirements into template requests
+    and triage template updates on a 24-hour SLA
+  - Own pilot Slack channels, triage in-pilot requests, and keep status current in
+    Salesforce
+  - Enable the sales team by fielding integration questions and owning technical sections
+    of RFPs and security questionnaires
+  - Hand off pilots to implementation with integration, templates, and known issues
+    documented
+  - Escalate integration and product findings to Engineering and build SE tooling
+    and playbooks
+  use_cases:
+  - Ambient clinical documentation that turns recorded visits into EHR-ready notes
+  - Automated ICD coding, orders, and pre-visit summaries for healthcare practices
+  - Patient 360 summaries and carry-forward history inside EHRs
+  - Integration of AI-generated notes into ten ambulatory EHR systems
+  - Presales pilots of ambient AI with healthcare providers
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JSON, SQL]
+    domains: [NLP]
+    other: [HL7, FHIR, Browser Automation, EHR Systems, Salesforce, Slack, HIPAA Compliance,
+      SOC 2, HITRUST, Clinical Documentation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11885652'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:35:00.103238'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

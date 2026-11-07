@@ -1,0 +1,251 @@
+job_id: 11926936
+title: "AI CoE Senior Data Engineer &  Architect"
+company: QAD
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 1,678 Employees
+description: |
+  Company Description
+
+  QAD is a global leader in cloud-based enterprise solutions,
+  empowering businesses to adapt faster and thrive in an
+  increasingly dynamic, digital world. With a strong focus on
+  innovation and AI-driven insights, QAD is shaping the future
+  of enterprise transformation across industries. We foster a
+  flexible, inclusive culture where bold ideas and future-
+  focused talent to drive real impact. Join us to help build
+  the intelligent, connected enterprise of tomorrow.
+
+  This hybrid position requires candidates to be based in
+  Pune, with 3-4 days of in-office collaboration per week.
+
+  Job Description
+
+  - About the team
+
+  QAD | Redzone is building an enterprise AI platform to
+  support AI-enabled and agentic workflows across the
+  organisation. The AI Centre of Excellence (CoE) is
+  accountable for turning that ambition into deployed,
+  measured, production workflows across priority business
+  functions.
+
+  The CoE is small, senior and high-leverage. AI Engagement
+  Specialists own the demand side with the functions; the AI
+  Architect and Senior AI Engineer build the platform and the
+  agents; AI Operations owns the run side. The Senior Data
+  Engineer & Architect owns what every agent depends on:
+  getting the right data to agents, current, governed and in a
+  shape they can use.
+
+
+
+  - Why this role exists
+
+  Every AI use case in the CoE portfolio depends on data: from
+  sales and customer systems, from support and engineering
+  knowledge sources, and from delivery and operational
+  systems. Before an agent can use it, that data has to be
+  joined, current, governed and checked against what each user
+  is allowed to see. This role makes data a shared, reusable
+  capability of the AI CoE rather than something rebuilt for
+  each use case. It owns the data layer at feasibility and
+  development) stages and keeps the data running after go-
+  live. Role overview
+
+  The AI CoE Senior Data Engineer & Architect owns the data
+  layer of the AI lifecycle. You will assess data feasibility
+  for each new use case, build and run the pipelines that feed
+  the AI platform, model the semantic layer that agents query
+  instead of raw tables, and make sure every agent sees only
+  the data its user is allowed to see.This is a hands-on
+  engineering role with production ownership, measured on
+  agents getting correct, current and permitted data, and on
+  each new use case reaching data-ready faster than the last.
+
+
+
+  - Where this role sits
+
+  Reports to Head of the AI Centre of Excellence Works with
+  Senior AI Engineer daily; AI Architect on reference
+  architecture; AI Engagement Specialist on data feasibility;
+  AI Ops Lead on pipeline health and cost; system integrators;
+  data owners in each function; Security and GRC
+
+  Owns Data feasibility assessments, AI data pipelines and
+  connectors, semantic models and metrics for AI use,
+  retrieval-ready knowledge sources, data access patterns for
+  agents, and data freshness and quality targets
+
+  QAD | Redzone — AI CoE Data Engineer · AI Centre of
+  Excellence
+
+  Accountable for Correct, current, governed data for every
+  agent in production, measured on freshness, quality, reuse
+  of semantic models and time from PRD approval to data-ready
+
+  Location India
+
+
+
+  - What you will own
+
+
+
+  1) Data feasibility and readiness
+
+  • Assess the data behind every PRD before build is approved:
+  sources, owners, volumes, quality, access paths and gaps,
+  written up as a data readiness view the stage gate can act
+  on, with what is missing, stale or not permitted and options
+  to fix it. Pipelines and integration • Build and run the
+  pipelines that feed the AI platform (on AWS today) and the
+  warehouses agents query, such as BigQuery or Redshift, with
+  incremental and, where it matters, event-driven sync. •
+  Close freshness gaps: know how long a new record or document
+  takes to reach an agent, set a target with the business, and
+  meet it. Handle deletions and permission changes, not just
+  new records. • Build and maintain connectors with the system
+  integrators, so each new source is added once and reused
+  across use cases. Semantic layer • Model the business
+  entities and metrics agents need in the semantic layer, so
+  agents query governed definitions agreed with data owners,
+  consistent with what dashboards report, instead of writing
+  SQL against raw tables. • Put guardrails on structured
+  queries: read-only access, row limits, timeouts and cost
+  limits for any agent that queries data.
+
+
+
+     2) Retrieval-ready knowledge
+
+  • Prepare unstructured sources for retrieval with the Senior
+  AI Engineer: metadata, release and version tags, access
+  tags, and structure that keeps the source context intact;
+  build and maintain the golden datasets used to test
+  retrieval and answer quality. Data access, security and
+  governance • Make agents act as the user: user-scoped
+  access, row and column-level security in the semantic layer,
+  and no over-privileged shared service accounts. • Handle
+  sensitive data properly with Security and GRC:
+  classification, masking of personal and customer data in
+  tickets, residency rules for regulated regions, lineage and
+  audit evidence. Run and improve (L5) • Own pipeline health
+  in production: freshness and quality monitoring, alerts
+  someone acts on, and fast recovery when a source system
+  changes its schema; with AI Ops, keep processing, storage
+  and embedding spend per use case in check. • Turn each build
+  into reusable data products so the next use case starts from
+  shared models and connectors, not from scratch.
+
+  Qualifications
+
+  - Essential
+
+  • 8+ years in data engineering, including at least 3 years
+  building data for ML, analytics or Gen AI products running
+  in production. • Strong SQL and Python, and pipeline
+  orchestration in practice, for example Airflow, dbt, AWS
+  Glue or similar. • Cloud data platforms: Azure , AWS (S3,
+  Glue, Redshift, RDS) and/or Google BigQuery. • Semantic and
+  dimensional modelling: hands-on with a semantic or metrics
+  layer such as Cube, dbt Semantic Layer, LookML or Power BI
+  semantic models. • Incremental and event-driven ingestion:
+  change data capture, webhooks or streaming, and handling
+  deletes and late-arriving data. • Data for retrieval:
+  document ingestion, metadata design and hybrid or vector
+  search (for example OpenSearch, Elasticsearch or pgvector),
+  and enough understanding of embeddings to work with an AI
+  engineer. • Data security in practice: role-based access,
+  row and column-level security, handling personal data, and
+  cloud identity and access management. • API integration with
+  enterprise SaaS, such as CRM and Atlassian REST APIs. • Data
+  quality discipline: tests, freshness and quality monitoring,
+  and service-level targets for data. • Clear communication
+  with data owners and business teams: able to explain what
+  the data can and cannot support, and why.
+
+
+
+  - Data depth
+
+  We are looking for someone who has run pipelines in
+  production and lived with the consequences, and can tell
+  when an agent's wrong answer is really a data problem.
+  Strongly preferred • Sales and customer data, support and
+  engineering knowledge data, or ERP and manufacturing data;
+  Progress OpenEdge familiarity is a plus. • Experience with
+  an enterprise RAG or AI platform, and with exposing data to
+  agents through APIs or MCP tools. • Working alongside system
+  integrators and a central data team, and across time zones;
+  enterprise B2B SaaS experience.
+
+  - What this role is not
+
+  • Not a BI developer. Dashboards are owned by the functions
+  and AI Ops; you make the data behind them and the agents
+  trustworthy. • Not the owner of the enterprise data
+  platform. You work with the central data team and reuse
+  their assets, and build what AI use cases need on top. • Not
+  an AI engineer. Agent logic, prompts and models sit with the
+  Senior AI Engineer; you own the data they depend on.
+
+  QAD | Redzone — AI CoE Data Engineer · AI Centre of
+  Excellence
+
+  • Not a one-off integration contractor. You own the
+  pipelines and semantic models in production, after go-live.
+  What success looks like First 3 months • Data feasibility
+  assessments completed for the priority use cases. • A data
+  readiness checklist built into the stage gates and used on
+  every new use case. • An agreed access pattern with Security
+  for user-scoped data, and freshness measured for priority
+  data sources. • Semantic layer version 1 live for the
+  priority domain, used by production agents. • Freshness and
+  quality targets set and monitored for every production data
+  source.
+
+  Additional Information
+
+  - Your health and well being are important to us at QAD. We
+    provide programs that help you strike a healthy work-life
+    balance.
+  - Opportunity to join a growing business, launching into its
+    next phase of expansion and transformation.
+  - Collaborative culture of smart and hard-working people who
+    support one another to get the job done.
+  - An atmosphere of growth and opportunity, where idea-sharing
+    is always prioritized over level or hierarchy.
+  - Compensation packages based on experience and desired skill
+    set
+
+  About QAD:
+
+  QAD | Redzone is redefining manufacturing and supply chains
+  through its intelligent, adaptive platform that connects
+  people, processes, and data into a single System of Action.
+  With three core pillars — Redzone (frontline empowerment),
+  Adaptive Applications (the intelligent backbone), and
+  Champion AI (Agentic AI for manufacturing) — QAD | Redzone
+  helps manufacturers operate with Champion Pace, achieving
+  measurable productivity, resilience, and growth in just 90
+  days.
+
+  QAD is committed to ensuring that every employee feels they
+  work in an environment that values their contributions,
+  respects their unique perspectives and provides
+  opportunities for growth regardless of background. QAD’s DEI
+  program is driving higher levels of diversity, equity and
+  inclusion so that employees can bring their whole self to
+  work.
+
+  We are an Equal Opportunity Employer and do not discriminate
+  against any employee or applicant for employment because of
+  race, color, sex, age, national origin, religion, sexual
+  orientation, gender identity, status as a veteran, and basis
+  of disability or any other federal, state or local protected
+  class.
+posted_date: 2026-10-27
+url: "https://builtin.com/job/ai-coe-senior-data-engineer-architect/11926936"
+source: Built In

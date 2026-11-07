@@ -1,0 +1,45 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity community, media and conferences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a growth/marketing role where AI is used as a tool
+      to scale copywriting and automate workflows. There is no
+      prompt design, retrieval, agent design, or model evaluation
+      described; the deliverable is marketing outcomes, not model
+      behaviour.
+  responsibilities:
+  - Identify, target, and convert private equity funds into the community with the
+    right messaging cadence
+  - Own marketing channels and execute revenue-driving activities
+  - Write persuasive copy for emails, landing pages, and posts, leveraging AI to scale
+  - Run and measure experiments on offers, copy, pricing, and pages
+  - Turn repeated work into playbooks or AI workflows
+  - Support conference logistics such as on-site registration
+  use_cases:
+  - Scaling marketing copywriting with AI
+  - Audience building and investor targeting for a private equity community
+  - Revenue growth through marketing channel experiments
+  skills:
+    genai: [AI Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11999644'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:22:03.586794'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

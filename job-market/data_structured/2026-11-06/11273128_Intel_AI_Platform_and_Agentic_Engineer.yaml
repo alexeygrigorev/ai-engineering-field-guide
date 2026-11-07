@@ -1,0 +1,58 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductor design and manufacturing
+position:
+  title: AI Platform and Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, tool-calling systems,
+      retrieval pipelines, model gateways, evaluation frameworks,
+      and structured outputs for LLMs - clearly shaping model
+      behavior and output quality, with LLM/agent components
+      throughout. Using agentic coding assistants alone would be
+      ai-support, but here the agents and platform are the
+      product.
+  responsibilities:
+  - Architect and develop Intel's reusable AI platform for Design Quality and Reliability
+  - Build AI agents and workflows for engineering data analysis, qualification planning,
+    risk assessment, knowledge retrieval, reporting, and process automation
+  - Develop production-grade backend services, APIs, data pipelines, model gateways,
+    and agent-orchestration components
+  - Establish platform capabilities for identity, access control, tool authorization,
+    memory, observability, evaluation, and auditability
+  - Implement human approval, deterministic validation, and rollback controls for
+    consequential engineering actions
+  - Design evaluation frameworks using representative Design Quality and Reliability
+    use cases
+  - Establish automated testing, CI/CD, secure configuration, monitoring, and operational-support
+    practices
+  - Mentor engineers in agentic software engineering and responsible use of AI-assisted
+    development tools
+  use_cases:
+  - Engineering data analysis for design, qualification, and reliability
+  - Automated qualification planning and risk assessment
+  - Knowledge retrieval across engineering documentation
+  - Reporting and engineering process automation
+  - Faster evidence-based decisions across the product lifecycle
+  skills:
+    genai: [Claude Code, LLMs, AI Agents, Function Calling, RAG, Structured Outputs,
+      Agentic Workflows, Prompt Engineering, LLM Evaluation, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: [Relational Databases, Vector Search]
+    data: [Data Pipelines, Data Modeling]
+    cloud: []
+    ops: [CI/CD, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [Code Review, Responsible AI, Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273128'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:28:40.232561'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

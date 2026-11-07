@@ -1,0 +1,47 @@
+company:
+  name: VERVE (addverve.com)
+  stage: null
+  focus: AI-powered market research and insight platform
+position:
+  title: Technical AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes AI tools directly building RAG, vector
+      embeddings, MCP, agentic pipelines, and prompt engineering —
+      clearly shaping LLM/agent behavior. Hands-on builder of LLM
+      applications.
+  responsibilities:
+  - Rapidly prototype new AI-enabled Vero tools, features and processes
+  - Build and test solutions using Python, APIs, LLMs and emerging AI technologies
+  - Develop and experiment with RAG, vector embeddings, MCP and agentic pipelines
+  - Build integrations between AI models, data sources and other services
+  - Run fast technical experiments to test feasibility and value
+  - Translate successful prototypes into production-ready solutions
+  - Improve performance of existing Vero tools and workflows
+  use_cases:
+  - AI-enabled market research and insight tools
+  - Intelligent personas and simulations
+  - Bespoke AI solutions grounded in client data
+  - AI tools that improve business processes and ways of working
+  skills:
+    genai: [LLMs, RAG, Embeddings, MCP, Agentic Workflows, Prompt Engineering, Generative
+        AI]
+    ml: []
+    web: [APIs, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11869188'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T13:26:11.487741'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: gFiber
+  stage: null
+  focus: Fiber internet service provider building AI-driven products
+position:
+  title: Senior Platform Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM system behaviour directly: designing RAG
+      pipelines, prompt engineering, agent frameworks, guardrails,
+      and model gateways for LLM-powered platforms. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Architect and build the Internal AI Developer Platform abstracting GCP AI services
+    into self-service APIs, SDKs, and Terraform modules
+  - Design and build enterprise model gateways with routing, rate-limiting, load balancing,
+    failover, and telemetry
+  - Build and optimize RAG pipelines grounded in internal policies and technical documentation
+  - Oversee deployment of microservices on GKE, Cloud SQL, and Cloud Build
+  - Implement guardrails and monitoring for LLMs
+  - Develop CI/CD pipelines and automated testing frameworks for AI agents and ML
+    workflows
+  use_cases:
+  - Internal AI developer platform for product engineering teams
+  - Enterprise model gateway for seamless model swapping
+  - RAG over internal policies and technical documentation
+  - Autonomous AI agent frameworks
+  - LLM observability, guardrails, and security
+  skills:
+    genai: [RAG, Prompt Engineering, LLMs, AI Agents, Multi-Agent Systems, MCP, Guardrails]
+    ml: [Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Vertex AI, GCP, AWS, Azure]
+    ops: [CI/CD, Terraform, Ansible, Kubernetes, Infrastructure as Code, Monitoring,
+      Model Deployment]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11913875'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:57:36.491453'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

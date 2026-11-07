@@ -1,0 +1,52 @@
+company:
+  name: Ledgy
+  stage: Series B
+  focus: Equity management and financial reporting platform
+position:
+  title: AI Systems - Senior Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds the Ledgy Agent itself: tools,
+      skills, context, prompt engineering, orchestration, MCP
+      server, and evals/tracing to shape agent output quality.
+      This is squarely LLM/agent shaping work.
+  responsibilities:
+  - 'Design and build the Ledgy Agent: its tools, skills, context, orchestration,
+    and request handling'
+  - Shape and maintain the Ledgy MCP server so capabilities work across in-app and
+    external AI agents
+  - Build evaluation, tracing, and feedback systems to measure and improve agent quality
+  - Design reusable AI platform foundations other teams can embed in their domains
+  - Design backend infrastructure for cost, latency, reliability, and observability
+    of the agent and MCP
+  - Talk to customers to learn how administrators use the agent and inform what to
+    build next
+  - Mentor engineers and advise other teams on adding AI to their products
+  use_cases:
+  - In-app AI agent that performs real actions on live equity data (e.g., onboarding
+    a stakeholder end to end)
+  - MCP server exposing equity management capabilities to external AI agents and tools
+  - AI-assisted workflows for equity administrators
+  - Evaluation and observability of agent quality in production
+  - Reusable AI platform capabilities embedded across an equity management product
+  skills:
+    genai: [Vercel AI SDK, MCP, AI Agents, Prompt Engineering, LLMs, LLM Evaluation]
+    ml: []
+    web: [React, Tailwind CSS, tRPC, Streaming]
+    databases: [MongoDB]
+    data: []
+    cloud: [GCP]
+    ops: [Temporal, Kubernetes, Terraform]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11733025'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-11-06T12:44:56.771219'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

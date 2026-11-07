@@ -1,0 +1,54 @@
+company:
+  name: Flow Engineering
+  stage: null
+  focus: |-
+    AI-native requirements platform for engineering
+    organizations
+position:
+  title: Senior/Staff Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, designs prompts and RAG
+      patterns, evaluates and integrates LLMs, and builds
+      guardrails and eval harnesses — directly shaping LLM
+      behavior and output quality. Multiple LLM/agent components
+      are involved, so ai-first.
+  responsibilities:
+  - Design and ship AI-powered features such as assisted requirement drafting, consistency
+    checks, and impact analysis
+  - Build agentic workflows that explore designs, simulate changes, and validate requirements
+  - Evaluate and integrate language models, optimizing for reliability, latency, cost,
+    and debuggability
+  - Build and maintain data pipelines, evaluation harnesses, prompt and model management,
+    observability, and guardrails
+  - Work across the stack from backend integrations and APIs to UI hooks to deliver
+    complete AI features
+  - Partner with product and customers to identify high-value workflows and iterate
+    based on usage
+  use_cases:
+  - Assisted requirements drafting and management for engineering teams
+  - Consistency checks and impact analysis on requirements
+  - Intelligent suggestions for systems and domain engineers
+  - Agentic exploration and simulation of design changes
+  - Validation of requirements via AI agents
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG, Prompt Engineering, Agentic Workflows,
+      Guardrails, LLMs]
+    ml: [Hugging Face]
+    web: []
+    databases: [Vector Databases, PostgreSQL]
+    data: []
+    cloud: [Cloud]
+    ops: []
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11761816'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:47:20.902113'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

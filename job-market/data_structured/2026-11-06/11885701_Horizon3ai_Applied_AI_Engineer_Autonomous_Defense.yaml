@@ -1,0 +1,56 @@
+company:
+  name: Horizon3.ai
+  stage: null
+  focus: |-
+    Autonomous penetration testing and offensive cybersecurity
+    platform
+position:
+  title: Applied AI Engineer, Autonomous Defense
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic systems with tool use, planning,
+      and long-horizon execution, plus post-training LLMs and
+      building evaluation systems — directly shaping LLM/agent
+      behavior, making it ai-first.
+  responsibilities:
+  - Build reasoning systems mapping attack paths to specific security control changes
+    ranked by effectiveness
+  - Turn pentest data into training and evaluation data for agents
+  - Design and run counterfactual experiments in representative test environments
+  - Design a reasoning layer over heterogeneous security control planes and vendor
+    APIs
+  - Design safety architecture for autonomous changes including dry-run, approval
+    gates, rollback, and audit trails
+  - Collaborate with attack and detection engineers to define agent behavior and diagnose
+    failure modes
+  - Own problems end to end in a 0→1 environment
+  use_cases:
+  - Autonomous agents that recommend and apply security control changes to break attack
+    paths
+  - 'Closed-loop defense: find, fix, and verify remediations by re-running attacks'
+  - Mapping exploitation telemetry to ranked control changes across vendor security
+    products
+  - Safety architecture for autonomous write actions in customer production environments
+  - Learning from pentest data why attacks succeed or fail across environments
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, RLHF]
+    ml: [PyTorch, Deep Learning, Transformers, Machine Learning, Fine-Tuning, Distillation,
+      Reinforcement Learning, Model Evaluation]
+    web: []
+    databases: [Neo4j, Graph Databases]
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885701'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:35:20.815345'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

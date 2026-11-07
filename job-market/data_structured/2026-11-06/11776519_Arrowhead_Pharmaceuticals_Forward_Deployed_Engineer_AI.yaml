@@ -1,0 +1,56 @@
+company:
+  name: Arrowhead Pharmaceuticals
+  stage: null
+  focus: |-
+    RNA interference-based gene silencing therapeutics for
+    genetic diseases
+position:
+  title: Forward Deployed Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows, uses RAG
+      and tool use, composing foundation models end-to-end —
+      clearly shaping model behavior via orchestration and
+      retrieval. Forward Deployed Engineers adapting AI solutions
+      are ai-first per the rules.
+  responsibilities:
+  - Partner with stakeholders across R&D, clinical, manufacturing, and commercial
+    functions to identify and prioritize AI opportunities
+  - Design, build, and deploy agentic AI workflows and applications end-to-end from
+    prototype to production
+  - Establish foundational engineering practices and reusable patterns for AI solution
+    delivery
+  - Work with the Data Platform Engineer to model and productionize data for AI solutions
+    on Databricks and AWS
+  - Collaborate with DevOps to build CI/CD pipelines, deployment processes, and monitoring
+    for AI applications
+  - Leverage AWS services (Bedrock, Lambda, S3) and Databricks to orchestrate agentic
+    workflows using existing foundation models
+  - Integrate solutions with Microsoft/Azure tools (Azure AI services, M365)
+  - Rapidly prototype proofs-of-concept with internal teams, gather feedback, and
+    iterate to production
+  use_cases:
+  - AI-driven solutions for R&D and scientific workflows
+  - AI applications for clinical operations
+  - AI tools for manufacturing and commercial business functions
+  - Internal chatbots and agentic AI applications
+  skills:
+    genai: [Agentic Workflows, RAG, Generative AI, LLMs, LLMOps]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11776519'
+  location: Pasadena, USA
+  extracted_at: '2026-11-06T13:10:35.011278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

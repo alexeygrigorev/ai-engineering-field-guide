@@ -1,0 +1,56 @@
+company:
+  name: nCircle Tech
+  stage: null
+  focus: |-
+    AI-powered automation and intelligent agent software
+    solutions
+position:
+  title: Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on designing and building agentic AI
+      workflows — planning, reasoning, tool use, multi-agent
+      orchestration, RAG, and prompt engineering — directly
+      shaping LLM/agent behavior. This is clearly ai-first.
+  responsibilities:
+  - Design, develop, and deploy autonomous and semi-autonomous AI agents for business
+    and consumer use cases
+  - Build agentic workflows involving planning, reasoning, memory management, and
+    tool usage
+  - Develop AI-powered applications using LLMs such as GPT, Claude, Gemini, and Llama
+  - Integrate AI agents with enterprise systems, APIs, databases, CRMs, ERPs, and
+    third-party platforms
+  - Create multi-agent ecosystems capable of collaboration and task delegation
+  - Build AI copilots, chatbots, automation assistants, and workflow orchestration
+    solutions
+  - Develop backend services and APIs to support agent-based applications
+  - Implement RAG, vector databases, and knowledge management systems
+  use_cases:
+  - Automation of business processes and day-to-day workflows
+  - Enterprise application integration via AI agents
+  - Multi-agent collaboration and task delegation
+  - AI copilots, chatbots, and automation assistants
+  - Knowledge management and retrieval via RAG and vector databases
+  skills:
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    web: [REST APIs, Microservices, Backend Development]
+    cloud: [Azure, AWS, GCP, Azure AI Services]
+    data: []
+    ml: []
+    databases: [Pinecone, Weaviate, Chromа, Milvus, SQL, PostgreSQL, MongoDB]
+    genai: [LangGraph, LangChain, CrewAI, AutoGen, Semantic Kernel, OpenAI Agents
+        SDK, AI Agents, Multi-Agent Systems, Prompt Engineering, RAG, Function Calling,
+      LLMs, OpenAI API, Anthropic API, Gemini, Llama, Vector Databases, AI Memory
+        Management]
+    ops: [Docker, Git, CI/CD, MLOps]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11566328'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:12:07.953997'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

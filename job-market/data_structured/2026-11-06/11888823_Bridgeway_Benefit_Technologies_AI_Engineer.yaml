@@ -1,0 +1,57 @@
+company:
+  name: Bridgeway Benefit Technologies
+  stage: null
+  focus: Benefit administration technology for fund offices
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-backed production systems and shapes
+      model behavior through retrieval design (embedding and
+      chunking choices, retrieval evaluation, semantic search),
+      prompt libraries, and refinement of prompt behavior and
+      agent reliability. LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Build production-quality Python services, pipelines, and integrations applying
+    LLMs and retrieval to product and internal problems
+  - Integrate LLM APIs into existing systems following guidance on model selection,
+    cost, and failure handling
+  - Partner with data team on embedding/chunking choices, retrieval evaluation, semantic
+    search, summarization, and anomaly narration
+  - Contribute to prompt libraries, evaluation frameworks, reference implementations,
+    and development standards
+  - Build AI implementations complying with HIPAA, SOC 2, and NIST, including prompt-injection
+    defenses and DLP for LLM interactions
+  - Maintain documentation of AI systems, data flows, and risk assessments for audit
+  - Participate in on-call rotation for AI systems, incident response, and observability;
+    build feedback loops to refine retrieval quality and prompt behavior
+  - Track cost, quality, and adoption metrics for AI systems and report outcomes
+  use_cases:
+  - Retrieval- and LLM-backed features for a benefits analytics lakehouse
+  - Semantic search and summarization for fund office users
+  - Anomaly narration and contextual guidance in analytics layer
+  - Intelligent automation across products and internal tooling
+  - Customer-facing AI capabilities in a multi-tenant SaaS
+  skills:
+    genai: [LLMs, RAG, Semantic Search, Prompt Engineering, LLM Evaluation, AI Agents,
+      Function Calling, Embeddings, Generative AI, Claude Code, GitHub Copilot]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Databricks, Data Pipelines]
+    cloud: [Azure, AWS]
+    ops: [CI/CD, Infrastructure as Code, MLOps, Observability, OpenAI API]
+    languages: [Python]
+    domains: []
+    other: [HIPAA Compliance, SOC 2, NIST]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888823'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:40:16.827719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

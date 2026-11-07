@@ -1,0 +1,52 @@
+company:
+  name: Lazer Technologies
+  stage: null
+  focus: |-
+    Digital product studio building AI-powered applications for
+    clients
+position:
+  title: Full Stack Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hosting, tuning, and managing LLM
+      services, building agentic workflows with MCP servers,
+      prompt engineering, and fine-tuning LLMs — directly shaping
+      LLM behavior and output quality. Although some work involves
+      image/video generation, the core LLM/agentic
+      responsibilities make it ai-first.
+  responsibilities:
+  - Engage with clients to understand problems, needs, goals, and technical environments
+  - Architect, build, and ship full stack applications leveraging AI and data capabilities
+  - Host, tune, and manage LLM services and agentic workflows including MCP servers
+  - Apply best practices in MLOps/LLMOps including testing, monitoring, and reliability
+  - Design and build scalable data pipelines and data lakes
+  - Communicate tradeoffs and risks transparently to support client decision-making
+  - Stay current with AI trends, technologies, and tooling
+  use_cases:
+  - Information extraction
+  - Chatbots
+  - Document construction
+  - AI-powered search
+  - Data normalization
+  - Image and video generation
+  skills:
+    languages: [TypeScript, Python, Go]
+    domains: []
+    web: [React, Node.js, React Native, Full-Stack Development]
+    cloud: [GCP, AWS, Azure, SageMaker]
+    data: [Data Pipelines, Airflow]
+    ml: []
+    databases: [BigQuery]
+    genai: [Generative AI, LLMs, Agentic Workflows, MCP, Prompt Engineering, Fine-Tuning]
+    ops: [MLOps, LLMOps, Kubernetes]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11953795'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:09:26.042396'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

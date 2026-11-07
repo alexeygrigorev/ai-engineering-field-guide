@@ -1,0 +1,49 @@
+company:
+  name: Marketscope
+  stage: null
+  focus: AI-driven analytics over business data
+position:
+  title: AI/ML Engineer — Agentic Systems (ID 1423)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes LLM agent workflows, prompts,
+      tool use, structured outputs, retrieval, and context
+      management, and builds evals and guardrails — directly
+      shaping model behavior, making it ai-first.
+  responsibilities:
+  - Design and develop agentic AI systems with self-verification and failure recovery
+  - Develop and optimize LLM agent workflows including prompts, tool use, structured
+    outputs, retrieval, and context management
+  - Write and review SQL queries against undocumented production schemas
+  - Build evaluation frameworks with success criteria, measurements, and reliability
+    monitoring
+  - Investigate valid-looking but incorrect AI outputs and diagnose root causes
+  - Evaluate deterministic checks, safeguards, retries, and validation mechanisms
+  - Work with business users to turn vague issues into reproducible technical problems
+  - Deploy and maintain reliable production agentic AI systems
+  use_cases:
+  - Self-verifying agentic AI systems that recover from failures
+  - AI agents performing SQL-based analysis over production databases
+  - Validation and reliability of AI-generated business insights
+  - Detecting correct-looking but incorrect AI outputs
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Prompt Engineering, Function Calling,
+      Structured Outputs, Retrieval, LLM Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11412652'
+  location: Noida, IND
+  extracted_at: '2026-11-06T11:46:00.106183'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

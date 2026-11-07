@@ -1,0 +1,51 @@
+company:
+  name: Kobie Marketing
+  stage: null
+  focus: Customer loyalty marketing programs and technology
+position:
+  title: Lead AI QA Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs evaluation harnesses, golden datasets, LLM-
+      as-judge and regression suites, prompt regression tests, RAG
+      correctness checks, and function-call validation for agentic
+      AI systems — building evals for LLM output quality is
+      shaping model behaviour, making it ai-first.
+  responsibilities:
+  - Design test strategies and evaluation harnesses for production-grade agentic AI
+    systems
+  - Build golden datasets and run LLM-as-judge and regression suites
+  - Test LLM-powered features including prompt regression, tool/function-call validation,
+    RAG correctness, and structured-output schema checks
+  - Automate tests and ship test pipelines using Git, Docker, and CI tooling
+  - Own the quality bar for what goes to production on the internal agent platform
+  - Build QA and automation strategies and roadmaps, instrument and monitor quality
+  - Partner with U.S. AI & Innovation team and cross-functional Engineering, Data,
+    AI and Product teams
+  - Test ETL workflows and write SQL for data validation
+  use_cases:
+  - Internal agent platform on Dataiku automating analyst workflows
+  - LLM-native interaction with complex loyalty program logic
+  - Surfacing insights from loyalty program data in Snowflake
+  - Quality assurance for production agentic AI systems in loyalty marketing
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [REST APIs]
+    cloud: [Dataiku]
+    data: [Data Pipelines]
+    ml: [RAGAS, DeepEval]
+    databases: [Snowflake]
+    genai: [Agentic Workflows, RAG, LLMs, Function Calling, Structured Outputs, Prompt
+        Engineering, LLM Evaluation]
+    ops: [LangSmith, Langfuse, Git, Docker, CI/CD, Jenkins, GitHub Actions]
+    other: [PyTest, Postman]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12093669'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:56:58.161857'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: HP
+  stage: null
+  focus: Technology company developing business automation solutions
+position:
+  title: AI and Automation Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops intelligent agents and evaluates AI
+      outputs, with required skills in prompt engineering and RAG,
+      which means the person shapes LLM behavior directly. Hence
+      ai-first.
+  responsibilities:
+  - Develop AI applications, intelligent agents, RPA bots, and automation workflows
+  - Implement document understanding, information extraction, data validation, and
+    business rule processing
+  - Integrate solutions with APIs, enterprise applications, and databases
+  - Implement exception handling and human review steps in automation workflows
+  - Support cloud deployment, application configuration, and infrastructure troubleshooting
+  - Perform unit and integration testing, evaluate AI outputs, and resolve defects
+  - Investigate production issues and improve accuracy, performance, and reliability
+  - Maintain technical documentation and follow security and privacy requirements
+  use_cases:
+  - Document understanding and information extraction
+  - Business rule processing and data validation
+  - RPA and workflow automation for business operations
+  - Intelligent agents for enterprise process improvement
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Prompt Engineering, RAG]
+    ml: []
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Git, CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: [RPA, Workflow Automation, Document Processing, Information Extraction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064729'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:45.872500'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

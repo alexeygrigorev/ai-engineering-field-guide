@@ -1,0 +1,55 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Legal AI assistant for European lawyers
+position:
+  title: Senior AI Evals Engineer (AI Quality & Safety) - Libra-Legal AI Assistant
+    (m/w/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evals, judges, rubrics, and guardrails that
+      shape LLM output quality for a legal AI product, and runs
+      automated prompt optimization (GEPA, DSPy). That is squarely
+      shaping model behaviour, with LLMs throughout.
+  responsibilities:
+  - 'Build and own the eval platform: datasets, judges, harnesses, regression gates
+    on Python, FastAPI and Langfuse, made self-service for AI Engineers'
+  - Map the quality landscape per task (research, drafting, summarisation, retrieval)
+    and per jurisdiction, defining defensible measures
+  - Design LLM-as-judge rubrics and keep judges recalibrated as models and jurisdictions
+    change
+  - Deep-dive results and traces to diagnose failures and automate fixes
+  - Instrument the app so prompts, hyperparameters and harness architecture become
+    optimization levers; run automated optimization (GEPA, DSPy)
+  - 'Optimize quality per euro: find configurations where cheaper models match or
+    beat expensive ones'
+  - Design, red-team and prove guardrails against ungrounded advice, invented citations,
+    jurisdiction/language leakage and prompt injection
+  use_cases:
+  - Legal research, drafting, and summarisation assistance for lawyers
+  - Evaluating and gating quality of LLM-powered legal features before shipping
+  - Grounding and citation accuracy in legal advice outputs
+  - Jurisdiction- and language-aware legal AI behaviour
+  - Cost-efficient model selection for legal AI workloads
+  - Guardrails against prompt injection from ingested legal documents
+  skills:
+    genai: [LLMs, Prompt Engineering, DSPy, LLM Evaluation, Guardrails, Embeddings,
+      Claude Code, Codex, Cursor]
+    ml: [Pandas, NumPy]
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python]
+    domains: []
+    other: [Human Labelling, Benchmarking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12095896'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:57:36.515286'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

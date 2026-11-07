@@ -1,0 +1,56 @@
+company:
+  name: weya AI
+  stage: null
+  focus: Voice, video and WhatsApp AI agents for BFSI
+position:
+  title: AI Engineer - Voice & Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM agents
+      (LlamaIndex/LangChain, tool calling, RAG, guardrails) and
+      voice agent pipelines end to end, directly shaping model
+      behavior and output quality. An LLM/agent component is
+      central, so it is ai-first.
+  responsibilities:
+  - 'Build agentic workflows with LlamaIndex and LangChain: tool calling, RAG over
+    policy and loan documents, multi-step reasoning, and guardrails'
+  - Design and run FastAPI services that serve agents in real time (async endpoints,
+    WebSockets, webhooks, background tasks)
+  - 'Build low-latency voice agents end to end: STT, LLM, TTS, voice activity detection,
+    barge-in handling, turn-taking'
+  - Integrate and maintain telephony providers (Twilio, Plivo, Exotel, Vonage, SIP)
+    for inbound/outbound calls, transfers, DTMF, media streaming
+  - 'Engineer for failure: retries, idempotency, and resilience against provider outages
+    and LLM timeouts'
+  - Write unit, integration, load and regression tests for agent behaviour
+  - Instrument latency, call success rates, cost per call, and alerting
+  - Work with FDEs and clients to turn real call transcripts into better agents
+  use_cases:
+  - Voice agents for debt collections, onboarding, renewals, KYC follow-ups and support
+    calls
+  - RAG over policy and loan documents for regulated conversations
+  - Real-time voice call handling with telephony integration at high concurrency
+  - AI agents for BFSI customers across multiple regions
+  skills:
+    languages: [Python, Go]
+    domains: []
+    web: [FastAPI, WebSockets, Webhooks]
+    cloud: [Twilio, Azure, GCP, AWS]
+    data: [Kafka, RabbitMQ]
+    ml: [Pydantic]
+    databases: [Redis, PostgreSQL]
+    genai: [LlamaIndex, LangChain, LangGraph, RAG, Function Calling, Guardrails, LLMs,
+      Agentic Workflows, Prompt Engineering, LLM Evaluation, Conversational AI]
+    ops: [Docker, Kubernetes]
+    other: [Speech-to-Text, Text-to-Speech, Voice Activity Detection, Telephony, Twilio,
+      Deepgram, ElevenLabs, LiveKit Agents, Vapi, WhatsApp Business API]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11983028'
+  location: Noida, IND
+  remote: true
+  extracted_at: '2026-11-06T14:16:58.645248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

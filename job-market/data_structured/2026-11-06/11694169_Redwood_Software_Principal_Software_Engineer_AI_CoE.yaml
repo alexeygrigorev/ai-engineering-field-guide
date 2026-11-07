@@ -1,0 +1,55 @@
+company:
+  name: Redwood Software
+  stage: null
+  focus: Enterprise business process automation software
+position:
+  title: Principal Software Engineer – AI CoE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step agentic systems,
+      agent orchestration, tool calling, RAG, prompt management,
+      and AI evaluation — directly shaping LLM/agent behavior.
+      Involves LLMs and agents, so ai-first.
+  responsibilities:
+  - Design and deliver complex services, agentic workflows, and shared AI platform
+    capabilities
+  - Build multi-step agentic systems combining reasoning, tool use, retrieval, memory,
+    policy controls, and human oversight
+  - Establish approaches for AI evaluation, observability, model selection, fallback
+    behaviour, and failure recovery
+  - Lead technical delivery across multiple contributors and coordinate with product
+    and platform teams
+  - Review designs and code for scalability, security, performance, reliability, maintainability,
+    and cost
+  - Create reusable frameworks, reference implementations, and engineering standards
+  - Evaluate emerging AI technologies and recommend adoption
+  - Resolve complex production issues and implement preventive corrective actions
+  use_cases:
+  - Reusable AI infrastructure and platform services across an enterprise automation
+    product portfolio
+  - Multi-step agentic automation of mission-critical enterprise business processes
+  - Agentic capabilities combining retrieval, tool use, and human oversight for ERP
+    and business applications
+  skills:
+    genai: [Agentic Workflows, AI Agents, Function Calling, RAG, Prompt Engineering,
+      LLM Evaluation, Generative AI, LangGraph, AutoGen, Semantic Kernel, Fine-Tuning,
+      Transformers]
+    ml: [Model Evaluation, Neural Networks, Inference]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Event-Driven Architecture, Distributed Systems, CI/CD,
+      Observability]
+    languages: [Python, Java]
+    domains: []
+    other: [ERP, Workflow Orchestration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11694169'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:37:29.117145'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

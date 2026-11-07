@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank building enterprise AI products
+position:
+  title: Lead AI Engineer - Enterprise AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds Generative AI and Agentic AI
+      solutions, including designing, developing and testing AI
+      Agents with Google ADK and MCP servers — directly shaping
+      agent behaviour and architecture, an LLM/agent component, so
+      ai-first.
+  responsibilities:
+  - Own and lead technical components end-to-end aligned with business and product
+    objectives
+  - Work with senior business and technology stakeholders to translate problems into
+    technical solutions
+  - Shape product roadmaps and technical strategy
+  - Build Generative AI and Agentic AI solutions using Google ADK
+  - Design, develop and test AI Agents and work with MCP and MCP servers
+  - Write production-quality code in Python and/or Java
+  - Provide technical leadership and mentoring to engineers
+  - Drive engineering quality via code reviews, design reviews, testing and CI/CD
+  use_cases:
+  - Data sharing across agent ecosystems
+  - Enabling new Agentic AI use cases across the bank
+  - Enterprise AI platforms serving the wider bank
+  skills:
+    genai: [Generative AI, AI Agents, Google ADK, MCP, Agentic Workflows]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Oracle, Graph Databases, Neo4j]
+    data: []
+    cloud: []
+    ops: [CI/CD, Jenkins, DevOps, Tekton, Harness]
+    languages: [Python, Java]
+    domains: []
+    other: [Code Review, UX/Front-End Development, Object-Oriented Programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11500812'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:00:37.611543'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

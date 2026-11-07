@@ -1,0 +1,54 @@
+company:
+  name: Treefera
+  stage: null
+  focus: |-
+    First-mile intelligence platform for ag and commodity supply
+    chains
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds deep learning and statistical forecasting
+      models for weather/satellite/spatial time-series data with
+      no LLM or agent component, so shaping model behaviour points
+      to ml-first. The AI-assisted development mention is just
+      tooling for writing code.
+  responsibilities:
+  - Build and ship forecasting models for environmental and risk signals such as agricultural
+    stress and climate volatility
+  - Extend the weather platform with new forecast products on a staged pipeline (ingestion,
+    standardisation, spatial aggregation, climatology, indices, stress scoring)
+  - Work with optical and radar satellite data to build vegetation stress signals,
+    landcover classifications and land-surface conditions
+  - Take research from prototype to production, building infrastructure, failure design
+    and orchestrated reproducible data deliveries
+  - Improve experiment design, evaluation protocols, documentation and uncertainty
+    treatment across the AI team
+  - Own a signal domain end to end and communicate methods and confidence to technical
+    and commercial colleagues
+  use_cases:
+  - Agricultural stress forecasting and seasonal risk signals
+  - Weather and climate volatility forecasting
+  - Vegetation stress and landcover classification from satellite imagery
+  - Risk and market signals for ag and soft commodity supply chains
+  - Commodity market and tradable signal modelling
+  skills:
+    genai: []
+    ml: [PyTorch, scikit-learn, scipy, xarray, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, Experiment Tracking, Cloud Infrastructure]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11417620'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:47:23.050433'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Money Forward, Inc.
+  stage: null
+  focus: Fintech software and financial services applications
+position:
+  title: Senior Golang Engineer — AI-Era Software Development  (Chennai / Pune)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core role is designing and operating Go-based cloud-
+      native systems; AI appears as development tools the engineer
+      uses (AI coding assistants, AI-assisted test generation)
+      rather than products whose behaviour they shape. The LLM API
+      integration and AI agent work are listed only as preferred
+      qualifications, not responsibilities, so the deliverable is
+      software delivery, not model behaviour.
+  responsibilities:
+  - Lead design and development of scalable, concurrent and distributed systems in
+    Go
+  - Design and manage RESTful APIs and microservices integrating with existing systems
+  - Use approved AI tools to accelerate development, testing, documentation and troubleshooting
+  - Review and verify AI-generated code and tests, remaining accountable for correctness
+    and security
+  - Build and operate cloud-native applications on AWS with containers and CI/CD pipelines
+  - Lead production releases and troubleshoot issues across development and production
+    environments
+  - Mentor engineers and coach the team on prompting and AI-output review skills
+  - Optimise SQL databases and define non-functional requirements including security
+    and observability
+  use_cases:
+  - Scalable cloud-native backend services for fintech products
+  - Microservices and API integration with existing systems
+  - AI-assisted software development workflows to speed delivery and testing
+  - Production operations, release management and observability for distributed systems
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, AI Agents]
+    ml: []
+    web: [REST APIs, Microservices, React]
+    databases: []
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS]
+    ops: [Distributed Systems, Docker, Kubernetes, CI/CD, CircleCI, GitHub, Prometheus,
+      Grafana, ELK Stack]
+    languages: [Go, SQL]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088247'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  remote: true
+  extracted_at: '2026-11-06T14:53:48.704301'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

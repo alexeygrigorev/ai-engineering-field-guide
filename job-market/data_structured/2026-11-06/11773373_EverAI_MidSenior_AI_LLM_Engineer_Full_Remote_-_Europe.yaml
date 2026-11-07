@@ -1,0 +1,77 @@
+company:
+  name: EverAI
+  stage: null
+  focus: AI companionship platform with proprietary moderation
+position:
+  title: Mid/Senior AI LLM Engineer (Full Remote - Europe)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role post-trains open-weight LLMs (SFT, LoRA/QLoRA, DPO,
+      GRPO), builds evals, and shapes model behavior for a user-
+      facing product — squarely shaping LLM output quality, hence
+      ai-first.
+  responsibilities:
+  - Fine-tune open-weight LLMs using SFT, LoRA/QLoRA and post-training methods such
+    as DPO and GRPO
+  - Diagnose model failures and turn them into experiments deciding between better
+    data, post-training, prompting or classifiers
+  - Build training data and evals that shape what gets trained next
+  - Improve model behavior across personalization, consistency, tone, multilingual
+    and group interactions
+  - Ship models to production and use real user behavior to guide iterations
+  - Speed up the training loop for faster, comparable, reproducible experiments
+  use_cases:
+  - AI companionship and roleplay chat for 50M+ users
+  - Personalized, character-consistent long conversations
+  - Multilingual and group chat interactions
+  - Content moderation and safety (EverGuard) including NSFW/adversarial content
+  skills:
+    genai: [LLMs, Prompt Engineering, LoRA, Fine-Tuning]
+    ml: [PyTorch, Hugging Face, Model Training, RLHF, CUDA, Model Evaluation, Multimodal
+        Models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Conversational AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11773373'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T13:10:02.124306'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

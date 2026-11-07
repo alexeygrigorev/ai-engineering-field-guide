@@ -1,0 +1,55 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Lead Software Engineer - Python/Java, AI/ML - Equity Derivatives
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates Equity Derivatives software; AI
+      appears only as adopting AI-assisted coding tools and
+      coaching engineers on their validation and responsible use.
+      The person shapes no model behavior, prompts, or retrieval —
+      the deliverable is developer workflow and production
+      software, so it is ai-support.
+  responsibilities:
+  - Own production outcomes for critical Equity Derivatives workflows including monitoring,
+    incident triage, and root cause follow-through
+  - Design, develop, test, release, and troubleshoot software solutions for complex
+    applications
+  - Create secure, high-quality production code and maintain integrations with critical
+    systems
+  - Produce architecture and design artifacts aligned with design and operational
+    requirements
+  - Collaborate with front office, operations, and technology teams on requirements
+    and acceptance criteria
+  - Drive UAT planning and execution for changes impacting pricing, booking, and risk
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    and validation standards
+  - Maintain release discipline including regression assessment, rollback planning,
+    and observability improvements
+  use_cases:
+  - Equity Derivatives pricing, booking, and risk workflows
+  - Production support and incident management for critical trading systems
+  - AI-assisted software development to improve code quality and delivery speed
+  skills:
+    genai: []
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [Spring Boot, Spring Data JPA, Spring Batch, Hibernate, Maven, JUnit, Agile,
+      Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10309124'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:19:49.883051'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

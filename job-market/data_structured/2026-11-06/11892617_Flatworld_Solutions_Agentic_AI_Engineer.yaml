@@ -1,0 +1,60 @@
+company:
+  name: Flatworld Solutions
+  stage: null
+  focus: |-
+    Business process outsourcing and enterprise automation
+    services
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs agent flows, tool calling,
+      structured outputs, MCP servers, agent memory/retrieval, and
+      evaluation/guardrails for LLM agents, which is squarely
+      shaping LLM/agent behavior.
+  responsibilities:
+  - Design and build AI agents that plan and execute multi-step tasks using tool calling,
+    structured outputs, and state management
+  - Build multi-agent systems with orchestrator/worker, planner/executor, and review
+    patterns
+  - Develop MCP servers exposing client systems to agents securely
+  - Integrate agents with enterprise platforms (Salesforce, ServiceNow, SAP, Microsoft
+    365, Google Workspace, telephony)
+  - Build evaluation suites for agent behaviour including task success rate and failure
+    analysis
+  - Design human-in-the-loop checkpoints and enforce guardrails such as least-privilege
+    access and prompt injection defences
+  - Deploy agents as containerised, observable services with queueing and retry handling
+  - Prepare demo-ready agent workflows for client pitches and contribute reusable
+    templates to the accelerator library
+  use_cases:
+  - Automating enterprise business processes with multi-step AI agents
+  - Integrating AI agents with enterprise systems like Salesforce, ServiceNow, SAP,
+    and telephony
+  - Contact centre automation via voice agents
+  - Browser and computer-use automation for systems without APIs
+  - Migrating rule-based RPA bots to agentic workflows
+  skills:
+    genai: [Function Calling, Structured Outputs, Agentic Workflows, Multi-Agent Systems,
+      AI Agents, MCP, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Anthropic API,
+      OpenAI API, Azure OpenAI, LLMs, LLM Evaluation, Guardrails, RAG]
+    ml: [Text-to-Speech, Speech-to-Text]
+    web: [REST APIs, Webhooks, OAuth, Playwright, Selenium]
+    databases: [Vector Databases, Pinecone, Qdrant, Chrom, pgvector, Redis]
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, Vertex AI]
+    ops: [LangSmith, Langfuse, Arize Phoenix, OpenTelemetry, Temporal, Docker, Git]
+    languages: [Python, Celery]
+    domains: []
+    other: [Salesforce, ServiceNow, SAP, Microsoft 365, Google Workspace, UiPath,
+      Automation Anywhere, Power Automate, IBM Maximo, GDPR, HIPAA Compliance, DPDP
+        Act]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11892617'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:44:53.319672'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

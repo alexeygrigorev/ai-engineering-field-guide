@@ -1,0 +1,52 @@
+company:
+  name: ZenBusiness
+  stage: null
+  focus: Helping entrepreneurs start, run, and grow small businesses
+position:
+  title: Senior Software Engineer, Developer Platform & AI Tooling
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core deliverable is developer platform infrastructure:
+      CI/CD, Kubernetes, paved paths, and developer tooling.
+      Building AI-powered developer tooling and agentic developer
+      assistants to speed up other engineers is a developer-
+      workflow role, and LLM provider exposure is a bonus
+      qualification. No evidence the person shapes model behaviour
+      as a product.
+  responsibilities:
+  - Work on developer platform initiatives improving developer experience and delivery
+    speed from design through rollout and measurement
+  - Build and scale AI-powered developer tooling
+  - Evolve the CI/CD platform to be faster, more observable, and easier to adopt
+  - Strengthen platform reliability and security in Kubernetes
+  - Create paved paths and golden templates for developers
+  - Contribute feedback to the platform roadmap and simplify product and technical
+    design
+  - Write docs, service manuals, and guides to accelerate team adoption
+  use_cases:
+  - AI-powered developer tooling
+  - Agentic developer assistants that review code and automate routine tasks
+  - CI/CD platform speed, observability, and adoption
+  - Kubernetes platform reliability and security
+  - Developer paved paths and golden templates
+  skills:
+    genai: [AI Agents, Anthropic API, LLMs]
+    ml: []
+    web: [gRPC]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Kubernetes, Observability]
+    languages: [Python, TypeScript, Node.js, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11899806'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:54:07.140003'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

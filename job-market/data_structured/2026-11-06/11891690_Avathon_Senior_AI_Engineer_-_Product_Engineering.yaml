@@ -1,0 +1,55 @@
+company:
+  name: Avathon
+  stage: null
+  focus: Industrial AI autonomy platform for heavy industries
+position:
+  title: Senior AI Engineer - Product Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM behavior directly: building
+      RAG architectures, fine-tuning, prompt orchestration,
+      evaluation, guardrails, and hallucination detection. LLMs
+      and GenAI are central, so it's ai-first.
+  responsibilities:
+  - Design, build, and deploy production-grade AI/ML systems with emphasis on Generative
+    AI and LLM applications
+  - Develop and optimize end-to-end LLM pipelines including RAG architectures, fine-tuning,
+    prompt orchestration, evaluation, and observability
+  - Build scalable backend services and APIs for AI applications
+  - Design vector search systems, embedding pipelines, and retrieval frameworks
+  - Establish guardrails, hallucination detection, and responsible AI monitoring for
+    production deployments
+  - Improve inference efficiency, latency, cost management, and reliability of deployed
+    AI systems
+  - Contribute to MLOps workflows including CI/CD, model lifecycle management, and
+    cloud deployment
+  - Partner with Product, Engineering, and Business teams to translate operational
+    challenges into AI solutions
+  use_cases:
+  - Forecasting and route optimization
+  - Anomaly detection and predictive maintenance
+  - Intelligent automation for industrial operations
+  - Knowledge-intensive retrieval applications in asset-intensive industries
+  - Agentic decision-making for asset performance and supply chain intelligence
+  skills:
+    genai: [Generative AI, LLMs, RAG, Fine-Tuning, Prompt Engineering, Embeddings,
+      LangChain, LlamaIndex, Guardrails, LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Hugging Face, Transformers, Model Evaluation, Machine
+        Learning]
+    web: [APIs]
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Langfuse, LangSmith, Weights & Biases, Observability]
+    languages: [Python]
+    domains: []
+    other: [System Design, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891690'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:54.959103'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

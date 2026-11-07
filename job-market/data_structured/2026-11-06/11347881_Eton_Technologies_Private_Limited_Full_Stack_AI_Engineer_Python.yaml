@@ -1,0 +1,48 @@
+company:
+  name: Eton Technologies Private Limited
+  stage: null
+  focus: Software development and AI-powered web solutions
+position:
+  title: Full Stack AI Engineer Python
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role; AI appears only as
+      contributing to "AI-enabled features" and LLM/RAG is listed
+      under preferred skills as a nice-to-have. No evidence the
+      person shapes model behavior themselves.
+  responsibilities:
+  - Develop and maintain full-stack applications using ReactJS, Python, FastAPI and
+    PostgreSQL
+  - Design, build and optimize scalable APIs and database solutions
+  - Collaborate with cross-functional teams to deliver high-quality software
+  - Participate in application deployment, monitoring, troubleshooting and ongoing
+    enhancements
+  - Contribute to AI-enabled features and integrations where applicable
+  - Contribute to platform infrastructure, runtime adapters and security-by-default
+    middleware following ADR-driven design
+  use_cases:
+  - Scalable web applications
+  - AI-powered platform features
+  - API services and database solutions
+  - Platform infrastructure with security-by-default middleware
+  skills:
+    genai: [LLMs, RAG]
+    ml: []
+    web: [React, FastAPI, REST APIs]
+    databases: [PostgreSQL, SQL]
+    data: []
+    cloud: [Azure]
+    ops: [Git, Docker, CI/CD, Infrastructure as Code, Temporal]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11347881'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:33:17.809028'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,38 @@
+company:
+  name: Globalization Partners
+  stage: null
+  focus: SaaS global employment platform for hiring worldwide
+position:
+  title: AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role ships LLM-based agents and automations with
+      prompting, tool use, and evals, which is directly shaping
+      LLM behavior. Hence ai-first.
+  responsibilities:
+  - Build and run data pipelines across Salesforce, HubSpot, Stripe and Databricks
+  - Maintain GTM analytics models and dashboards
+  - Ship LLM-based agents and automations for Sales, Marketing and Finance
+  - Productionise integrations with tests and monitoring
+  use_cases: []
+  skills:
+    genai: [Prompt Engineering, Function Calling, LLM Evaluation]
+    ml: []
+    web: [REST APIs]
+    databases: [Snowflake]
+    data: [Databricks, Data Pipelines]
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11721441'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T12:42:12.209340'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

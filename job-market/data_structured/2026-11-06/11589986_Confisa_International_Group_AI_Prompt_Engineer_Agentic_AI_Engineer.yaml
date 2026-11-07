@@ -1,0 +1,57 @@
+company:
+  name: Confisa International Group
+  stage: null
+  focus: Enterprise AI platforms and agentic solutions
+position:
+  title: AI Prompt Engineer / Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes LLM prompts, builds agentic
+      workflows, integrates MCP tools, designs RAG and retrieval
+      mechanisms, and builds agent evaluation frameworks — all
+      directly shaping model behavior with LLM/agent components.
+  responsibilities:
+  - Design, develop, and optimize prompts for LLMs to improve accuracy, reliability,
+    and business outcomes
+  - Build and configure Agentic AI solutions with planning, reasoning, memory, and
+    multi-step task execution
+  - Develop and integrate MCP tools enabling agents to securely interact with enterprise
+    systems, APIs, and data sources
+  - Design agent architectures, tool-calling frameworks, retrieval mechanisms, and
+    context management strategies
+  - Implement RAG, knowledge grounding, and context orchestration patterns
+  - Define evaluation frameworks and prompt testing methodologies for agent performance
+  - Support deployment, monitoring, troubleshooting, and continuous improvement of
+    AI agents and MCP workflows
+  - Contribute to architecture reviews, technical design documentation, and AI engineering
+    best practices
+  use_cases:
+  - Autonomous enterprise AI agents with planning, reasoning, and task orchestration
+  - MCP-enabled tool integration connecting agents to enterprise systems and data
+    sources
+  - RAG-based knowledge grounding and context orchestration for enterprise applications
+  - Enterprise copilots and AI assistants
+  - AI agent integration with healthcare and regulated industry systems
+  skills:
+    genai: [Prompt Engineering, AI Agents, Agentic Workflows, MCP, LLMs, OpenAI API,
+      Azure OpenAI, Anthropic API, Gemini, Conversational AI, Semantic Kernel, LangChain,
+      LangGraph, AutoGen, CrewAI, RAG, Embeddings, LLM Evaluation, Function Calling]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Vertex AI]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11589986'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:17:00.570594'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

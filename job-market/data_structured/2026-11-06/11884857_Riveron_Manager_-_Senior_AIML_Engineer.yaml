@@ -1,0 +1,64 @@
+company:
+  name: Riveron
+  stage: null
+  focus: Business advisory consulting for finance challenges
+position:
+  title: Manager - Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role designs RAG platforms, agentic systems with tool
+      calling, MCP servers, prompts, and evaluation strategies for
+      LLM systems — clearly shaping model behavior via LLM/agent
+      components, so ai-first. Title says Manager but description
+      is hands-on technical leadership with no mention of direct
+      reports or headcount.
+  responsibilities:
+  - Own AI/ML and GenAI solutions end to end including pipelines, prompts, APIs, evaluation,
+    deployment, and observability
+  - Design enterprise RAG platforms with secure ingestion, chunking, embeddings, hybrid/vector
+    search, reranking, and citations
+  - Build production agentic systems with tool/function calling, structured outputs,
+    multi-agent orchestration, and human-in-the-loop approvals
+  - Architect and operate MCP clients and servers with secure transports, authentication,
+    and prompt-injection protection
+  - Integrate agents with enterprise systems (repositories, ticketing, ERP/CRM, cloud
+    services) via reusable connectors
+  - Define evaluation strategies, quality gates, and end-to-end observability for
+    agent and MCP activity
+  - Build production services in Python with CI/CD and cloud-native deployment on
+    AWS or Azure
+  - Partner with stakeholders, lead design reviews, and mentor engineers
+  use_cases:
+  - Enterprise RAG platforms with secure, access-aware retrieval and citations
+  - Production agentic systems integrated with enterprise tools and systems
+  - MCP-based exposure of enterprise tools, resources, and prompts to agents
+  - Document intelligence and automation in finance, accounting, operations, and compliance
+    domains
+  - Agent evaluation, safety, and observability for enterprise GenAI deployments
+  skills:
+    genai: [RAG, Prompt Engineering, Embeddings, Vector Search, Agentic Workflows,
+      Multi-Agent Systems, Function Calling, Structured Outputs, MCP, LLMs, Context
+        Engineering, LLM Evaluation, OpenAI API, LangGraph, LangChain, Semantic Kernel,
+      AutoGen, LlamaIndex]
+    ml: [PyTorch, TensorFlow, scikit-learn, Pandas, NumPy]
+    web: [APIs, REST APIs]
+    databases: [pgvector, Pinecone, Weaviate, Milvus, Elasticsearch, OpenSearch]
+    data: [Data Pipelines, Data Modeling]
+    cloud: [AWS, Azure, AWS Bedrock, Azure AI Foundry]
+    ops: [CI/CD, Docker, Kubernetes, Infrastructure as Code, MLOps, LLMOps, MLflow,
+      Monitoring, GitHub]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884857'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:33:18.441833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

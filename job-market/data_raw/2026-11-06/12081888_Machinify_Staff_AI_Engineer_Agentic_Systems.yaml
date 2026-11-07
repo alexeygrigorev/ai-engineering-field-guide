@@ -1,0 +1,168 @@
+job_id: 12081888
+title: "Staff AI Engineer | Agentic Systems"
+company: Machinify
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Machinify is a leading healthcare intelligence company with
+  expertise across the payment continuum, delivering unmatched
+  value, transparency, and efficiency to health plan clients
+  across the country. Deployed by over 85 health plans,
+  including many of the top 20, and representing more than 270
+  million lives, Machinify brings together a fully
+  configurable and content-rich, AI-powered platform along
+  with best-in-class expertise. We’re constantly reimagining
+  what’s possible in our industry, creating disruptively
+  simple, powerfully clear ways to maximize financial outcomes
+  and drive down healthcare costs.
+
+  The Role
+
+  We're building production-grade agentic systems that audit
+  medical claims end-to-end — reading raw medical records,
+  reasoning over coding and clinical guidelines, and producing
+  defensible findings that hold up to clinical and regulatory
+  review. Reaching human-expert accuracy on noisy, long-
+  context documents is one of the hardest unsolved problems in
+  applied AI, and the field is moving weekly.
+
+  We're hiring a Staff (L6) AI Engineer to set the technical
+  direction for these systems. You'll own the architecture of
+  our audit agents from the first design decision to
+  production, decide how we measure whether they're right, and
+  make the engineers around you faster and better. This is a
+  hands-on role: you'll write much of the hardest code
+  yourself while leading the design work several engineers
+  build on.
+
+  What You'll Do
+
+  - Own the agent architecture. Decide the loop, the tools, the
+    context strategy and the evaluation harness for our claim-
+    audit agents. Choose between single-agent and multi-agent
+    topologies, between LLM reasoning and deterministic post-
+    passes, between retrieval and direct context loading — and
+    defend each choice with data.
+  - Set the evaluation strategy. Define, with our clinical and
+    coding experts, what expert-level accuracy means in
+    measurable terms. Build the eval infrastructure the team
+    ships against, diagnose where systems fail, fix the root
+    cause, and prove the fix moved the metric.
+  - Engineer context at scale. Long, noisy medical records;
+    citation-grounded findings; structured outputs and tool
+    surfaces that models call correctly every time.
+  - Lead through ambiguity. Turn open-ended problems into
+    technical plans, lead projects that span several engineers
+    and quarters, and make the calls on model choice, build
+    versus buy, and the trade-offs between cost, latency and
+    accuracy.
+  - Run it in production. Own reliability, observability and
+    cost control for LLM workloads that run on real claims
+    every day.
+  - Raise the bar. Mentor engineers, review designs and code,
+    and set the team's standards for agent design, evals and
+    engineering quality — including how we use Claude Code,
+    Codex and similar tools to move faster than most teams can
+    without them.
+  - Become a domain expert. Healthcare claims, coding
+    guidelines, and the medical record itself are unavoidable
+    parts of the job. Strong engineers who lean into the
+    domain become outsized contributors here.
+
+  What We're Looking ForRequired
+
+  - 8+ years of software or ML engineering experience, including
+    3+ years building applied ML / AI systems in production,
+    with a Bachelor's in CS, Math, Engineering or a related
+    quantitative field (Master's or PhD preferred).
+  - Staff-level technical leadership: you've set the
+    architecture of a production system other engineers built
+    on, and led work across a team.
+  - Hands-on generative AI experience: training or fine-tuning
+    generative models, or building agentic systems that solve
+    real business problems in production.
+  - Deep, hands-on understanding of agent loops — how a model
+    decides to call a tool, how a tool result re-enters
+    context, how loops terminate, where they fail.
+  - Hands-on experience with at least one major agent SDK —
+    OpenAI Agents SDK, Anthropic SDK / claude-agent-sdk,
+    LangGraph, or equivalent — and a well-argued view of the
+    trade-offs.
+  - Working knowledge of how modern coding agents are built and
+    how they engineer context, and fluency with Claude Code /
+    Codex as a power user — including reading their source
+    when needed to understand or extend behavior.
+  - Strong Python engineering that sets the standard for a team:
+    clean abstractions, type discipline, async, tested code.
+  - Solid command of VS Code and git — branches, rebases,
+    worktrees, conflict resolution, PR workflows.
+  - A bias toward measurement: you've built evals a team relies
+    on, you don't ship without one, and you don't believe a
+    number you can't reproduce.
+
+  Strongly preferred
+
+  - Prior work on long-context, citation-grounded systems where
+    the model must point to evidence, not just answer.
+  - Production experience with caching, observability, and cost
+    and latency control on LLM workloads at scale.
+  - Experience designing structured outputs (Pydantic / JSON
+    Schema) and tool interfaces that LLMs reliably call
+    correctly.
+  - Familiarity with reasoning models (o-series, Claude extended
+    thinking, Gemini thinking) and a sense of when they earn
+    their cost.
+  - Healthcare, legal, finance, or any other domain where
+    "mostly right" is unacceptable.
+
+  Nice to have
+
+  - Document understanding (OCR, layout-aware models, table
+    extraction).
+  - Vision-language models, multimodal retrieval.
+  - Published work or substantial open-source contributions on
+    agents, evals or LLM systems.
+
+  What We Offer
+
+  - Work from anywhere in the US! Machinify is digital-first.
+  - Top Medical/Dental/Vision offerings
+  - FSA/HSA
+  - Tuition reimbursement
+  - Competitive salary, 401(k) with company match
+  - Unlimited PTO
+  - Additional health and wellness benefits and perks
+  - Flexible and trusting environment where you'll feel
+    empowered to do your best work
+
+  The salary for this position is based on an array of factors
+  unique to each candidate, such as years and depth of
+  experience, skill set, and certifications. The base salary
+  range for this role is [L6 range: confirm with Comp before
+  posting]. Compensation also includes meaningful equity,
+  healthcare, unlimited PTO, and more.
+
+  Equal Employment Opportunity at Machinify
+
+
+
+  We are committed to equal employment opportunity regardless
+  of race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender, gender identity or expression, or
+  veteran status. We are proud to be an equal opportunity
+  workplace. Machinify is an employment at will employer. We
+  participate in E-Verify as required by applicable law. In
+  accordance with applicable state laws, we do not inquire
+  about salary history during the recruitment process. If you
+  require a reasonable accommodation to complete any part of
+  the application or recruitment process, please let our
+  recruiters know. See our Candidate Privacy Notice at:
+  https://www.machinify.com/candidate-privacy-notice/
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-11-04
+url: "https://www.builtinla.com/job/staff-ai-engineer-agentic-systems/12081888"
+source: Built In

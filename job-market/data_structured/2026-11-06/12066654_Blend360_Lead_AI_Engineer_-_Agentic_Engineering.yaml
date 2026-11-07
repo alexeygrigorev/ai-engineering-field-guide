@@ -1,0 +1,61 @@
+company:
+  name: Blend360
+  stage: null
+  focus: AI and data science consulting services
+position:
+  title: Lead AI Engineer - Agentic Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production agentic AI systems:
+      agent orchestration, context engineering, tool calling, RAG,
+      guardrails, and agent evals — squarely shaping LLM/agent
+      behavior, so ai-first. Technical leadership and mentoring
+      are individual-contributor work, not management.
+  responsibilities:
+  - Drive adoption of Agentic Engineering practices across the software development
+    lifecycle using AI coding agents
+  - Architect and develop production-grade multi-agent systems with planning, reasoning,
+    tool use, memory, and error recovery
+  - Build LLM applications using LangGraph, LangChain, and equivalent frameworks including
+    RAG, semantic search, and structured outputs
+  - Design and implement Evals and evaluation frameworks measuring agent correctness,
+    reliability, and task completion
+  - Establish best practices around context engineering, tool calling, guardrails,
+    and human-in-the-loop workflows
+  - Build production services and APIs with Python, FastAPI, Docker, Kubernetes, and
+    cloud platforms
+  - Mentor engineers and act as technical leader for Agentic AI initiatives across
+    teams
+  - Collaborate with clients and internal stakeholders to identify Agentic AI business
+    opportunities
+  use_cases:
+  - AI-augmented software development lifecycle including code generation, review,
+    testing, and debugging
+  - Autonomous multi-step engineering task execution by agents
+  - Production agentic systems integrating with APIs, databases, and enterprise systems
+  - Agent evaluation and quality measurement frameworks
+  - Developer productivity improvement through AI coding agents
+  skills:
+    genai: [Claude Code, AI Agents, Agentic Workflows, Multi-Agent Systems, Context
+        Engineering, Function Calling, MCP, Guardrails, LangGraph, LangChain, RAG,
+      Semantic Search, Vector Search, Structured Outputs, LLM Evaluation, CrewAI,
+      AutoGen, Google ADK, LLMs, Generative AI, Gemini, Llama, Embeddings, Fine-Tuning]
+    ml: []
+    web: [FastAPI, APIs]
+    databases: [Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, OpenTelemetry, Langfuse, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12066654'
+  location: Hyderabad, IND
+  remote: true
+  extracted_at: '2026-11-06T14:45:46.378172'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Dash Technologies
+  stage: null
+  focus: |-
+    Software development services building enterprise AI
+    applications
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines (chunking, embeddings,
+      retrieval, context construction), designs prompts, and
+      implements agent/tool-calling workflows, directly shaping
+      LLM behavior and output quality. Hence ai-first.
+  responsibilities:
+  - Develop Generative AI applications using Python and LLM APIs
+  - Build and enhance RAG pipelines with embeddings, vector databases, retrieval,
+    and context construction
+  - Develop backend services and APIs using Python, FastAPI, and REST
+  - Integrate LLM providers such as OpenAI, Azure OpenAI, Anthropic, and Gemini
+  - Implement prompt engineering techniques for reliable LLM responses
+  - Develop AI-agent and tool-calling workflows under senior guidance
+  - Design database integrations using PostgreSQL
+  - Containerize applications with Docker and support cloud deployment
+  - Troubleshoot API, LLM, RAG, and application issues; monitor response quality and
+    LLM costs
+  use_cases:
+  - Enterprise LLM applications
+  - RAG-based knowledge retrieval and semantic search
+  - Prompt-driven contextual generation over ingested documents
+  - AI agent and tool-calling workflows
+  - LLM-powered backend services integrated with enterprise systems
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, Embeddings, Semantic Search,
+      OpenAI API, Anthropic API, Gemini, LangChain, LangGraph, MCP, Agentic Workflows,
+      Function Calling, LLM Evaluation, Guardrails]
+    ml: []
+    web: [FastAPI, REST APIs, APIs, React, Next.js]
+    databases: [Vector Databases, PostgreSQL, Neo4j, Redis]
+    data: []
+    cloud: [Azure OpenAI, Azure, AWS]
+    ops: [Docker, Git, GitHub, CI/CD, Azure DevOps, GitHub Actions]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11903752'
+  location: Ahmedabad, IND
+  extracted_at: '2026-11-06T13:54:58.763978'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

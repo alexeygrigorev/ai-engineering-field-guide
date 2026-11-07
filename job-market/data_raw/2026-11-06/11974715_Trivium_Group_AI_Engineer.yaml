@@ -1,0 +1,126 @@
+job_id: 11974715
+title: AI Engineer
+company: Trivium Group
+location: CAN
+locations:
+  - CAN
+  - BRA
+  - ARG
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  Senior / Staff Engineer: AI Agents & Production Reliability
+
+  Job Description
+
+  Location: Remote, Canada, Argentina, Brazil and the United
+  Kingdom
+
+  Working hours: Must work U.S. Eastern Time (ET) business
+  hours
+
+  Compensation: USD 5,000 to 6,000 per month (full-time),
+  depending on experience
+
+  Schedule: Full-Time
+
+  Contract: Full-Time Independent Contractor
+
+  We are is an all-in-one AI marketing platform for dental
+  practices. Our AI tools and agents improve a practice's
+  online visibility (search, reviews, reputation, website) and
+  work around the clock to bring in more patients, from an AI
+  voice receptionist that books directly into the practice's
+  schedule to automated review requests and marketing
+  reporting. We're live with dozens of offices and growing
+  fast.
+
+  WHO WE'RE LOOKING FOR
+
+  An engineer who takes full ownership of production and, when
+  something breaks, knows exactly what went wrong and where,
+  usually before the practice notices.
+
+  - You run multiple AI agents, well. You direct several AI
+    coding agents in parallel, review what they produce
+    critically, and keep a codebase clean while moving fast.
+    You also own our production agents (voice, reviews,
+    reporting) as systems, not demos.
+  - You know where AI helps and where it doesn't. You decide
+    deliberately when to delegate to an AI agent and when to
+    write the code yourself: tricky concurrency, scheduling
+    logic, security, anything where being subtly wrong is
+    expensive.
+  - You debug fast and systematically. You form a hypothesis,
+    check the logs and traces, and find the root cause,
+    whether it's in our code, a vendor API, or the model's
+    prompt and context.
+  - You build the monitoring that's missing. If you can't see
+    it, you instrument it: tracing across every call and agent
+    action, alerts that fire on real failures, dashboards
+    people actually use.
+  - You can pinpoint where an LLM went wrong: which prompt
+    section, which tool call, which piece of context. Then you
+    prove the fix with evaluations and replays of real
+    failures.
+  - You own outcomes. You don't wait for tickets; you find
+    what's broken, fix it, and make sure it stays fixed.
+
+  WHAT YOU'LL WORK ON
+
+  - Production reliability and incident response across our AI
+    agents and integrations.
+  - Debugging and evaluation tooling for LLM agents (prompt,
+    context and tool-call tracing; regression evals; failure
+    replay).
+  - A real-time availability viewer and configurator: every
+    office schedules differently, so make it visible and
+    configurable exactly what the voice agent will offer, and
+    why.
+  - Helping finish and harden the Marketing Report and the
+    Website Builder.
+
+  Requirements
+
+  WHAT YOU NEED
+
+  - 7+ years building and operating production systems, with
+    real on-call and incident ownership.
+  - Hands-on LLM applications in production: tool calling,
+    prompt and context debugging, evals (Langfuse or similar).
+  - Daily, disciplined use of AI coding tools (Claude Code,
+    Codex, Cursor), including running several agents in
+    parallel.
+  - Strong Python and TypeScript; event-driven services; MongoDB
+    or Postgres.
+  - Experience with messy third-party integrations (scheduling
+    systems, telephony, marketing and ad platforms).
+  - Ability to work U.S. Eastern Time business hours.
+  - Based in Canada, Argentina, Brazil or the United Kingdom,
+    and able to work as an independent contractor.
+
+  BONUS POINTS
+
+  - Scheduling or constraint systems.
+  - Marketing tech.
+  - HIPAA.
+  - Twilio or voice AI.
+
+  Benefits
+
+  ENGAGEMENT DETAILS
+
+  - Full-time independent contractor engagement (not
+    employment); this role is open to candidates outside the
+    U.S. only.
+  - Compensation: USD 5,000 to 6,000 per month (full-time),
+    depending on experience.
+  - Fully remote, working U.S. Eastern Time hours.
+industries:
+  - Marketing Tech
+  - Consulting
+posted_date: 2026-10-29
+url: "https://builtin.com/job/ai-engineer/11974715"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: Weedmaps
+  stage: null
+  focus: Cannabis marketplace and technology platform
+position:
+  title: Senior Software Engineer, AI Platform (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI agents: prompts,
+      retrieval/RAG layers, agent tooling via MCP, evals,
+      guardrails against prompt injection, and model routing. This
+      is directly shaping LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Design, build and operate production AI agents, including an autonomous coding
+    agent working from Jira and Slack
+  - 'Build retrieval and context layer: embeddings, semantic search, knowledge-graph
+    modeling, Snowflake semantic layer and docs integration'
+  - Extend internal MCP server with shared skills, tools and processes for reuse by
+    other teams
+  - Own agent evaluation with offline test sets and online metrics gating releases
+  - Drive cost and latency down via model routing, caching and structured outputs
+    on AWS Bedrock
+  - Harden agents against prompt injection, memory poisoning and over-broad permissions
+  - Instrument agents with tracing and logging, participate in on-call
+  - Write design docs, review code, mentor engineers on building with LLMs
+  use_cases:
+  - Autonomous coding agent that works Jira tickets, opens PRs and applies review
+    feedback
+  - Internal AI knowledge brain giving agents trustworthy business context
+  - Enterprise-wide agent platform via internal MCP server
+  - Cost-efficient model routing and spend tracking at scale
+  - Agent safety against prompt injection and unsafe permissions
+  skills:
+    genai: [AI Agents, Function Calling, Prompt Engineering, Structured Outputs, RAG,
+      Embeddings, Semantic Search, MCP, LLMs, LLM Evaluation, Guardrails]
+    ml: [Machine Learning]
+    web: [Ruby on Rails]
+    databases: [Vector Databases, Knowledge Graphs, Snowflake]
+    data: [dbt]
+    cloud: [AWS, AWS Bedrock]
+    ops: [CI/CD, Observability, GitHub Actions]
+    languages: [Python, TypeScript, Ruby, Elixir, Node.js]
+    domains: []
+    other: [Jira, Red-Teaming, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885616'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:34:51.400610'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

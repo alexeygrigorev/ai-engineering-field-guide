@@ -1,0 +1,64 @@
+company:
+  name: Cloudflare
+  stage: null
+  focus: 'Global network services: CDN, security, DNS, edge compute'
+position:
+  title: Senior Customer Engineer, Start Up AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed-style Customer Engineer who
+      advises on and builds AI solutions at customer sites:
+      guiding agent design, model selection, prompt/RAG patterns,
+      prompt-injection defenses, and production prompt/model
+      rollout. The role directly shapes LLM/agent behavior for
+      customers, which classifies it as ai-first.
+  responsibilities:
+  - Lead technical discovery and validation with startup and AI customers, mapping
+    their infrastructure to Cloudflare architectures
+  - Design and run PoCs and technical evaluations with measurable quality, latency,
+    and cost targets
+  - Build customer-specific prototypes and deliver technical presentations, diagrams,
+    and demos
+  - Guide customers in taking AI applications and agents from prototype to production
+    reliably, safely, and affordably
+  - Carry a quota tied to new business and account growth; lead technical QBRs with
+    executives
+  - Use AI agents, coding agents, and LLMs to automate routine CE workflows and internal
+    tasks
+  - Build relationships across the startup and AI ecosystem (incubators, VCs, meetups,
+    hackathons)
+  - Create technical enablement resources such as SOPs, best practices, workshops,
+    and documentation
+  use_cases:
+  - Taking customer AI applications and agents from prototype to production
+  - Securing agent design against prompt injection with scoped access and human approval
+  - 'Production health of AI workloads: tracing, quality and cost monitoring, safe
+    rollout of model/prompt changes'
+  - Protecting internet-facing applications from AI-driven threats and agent traffic
+  - Governing how people and agents use AI within customer organizations
+  - Cost-efficiency of AI workloads (cost per task or per resolved request)
+  skills:
+    languages: [Python, JavaScript, Bash, Lua, Go]
+    domains: []
+    web: [REST APIs, GraphQL, Webhooks]
+    cloud: []
+    data: []
+    ml: [Model Evaluation]
+    databases: []
+    genai: [AI Agents, MCP, Prompt Engineering, LLMs, RAG, Embeddings, Fine-Tuning,
+      Agentic Workflows]
+    ops: [Terraform, CI/CD, Observability, Infrastructure as Code]
+    other: [Zero Trust, WAF, DNS, CDN, Bot Management, GDPR, EU AI Act, Coding Agents]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11219748'
+  location: DEU
+  locations:
+  - DEU
+  - Munich, DEU
+  remote: true
+  extracted_at: '2026-11-06T11:27:30.503959'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

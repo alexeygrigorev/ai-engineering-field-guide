@@ -1,0 +1,56 @@
+company:
+  name: ENSEK
+  stage: null
+  focus: Cloud-native SaaS software for energy retailers
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: designing RAG
+      standards, prompt versioning, evaluation frameworks, agentic
+      workflows, and guardrails for LLM and GenAI solutions. This
+      is platform-level shaping of LLM outputs and tool access,
+      making it ai-first.
+  responsibilities:
+  - Lead architecture, technical strategy and roadmap for ENSEK's AI/ML Platform
+  - Design and build production-ready golden paths for ML, GenAI and Agentic AI solutions
+  - Establish standards for model lifecycle management, prompt versioning, deployment,
+    serving, RAG, orchestration and secure tool access
+  - Build MLOps and LLMOps capabilities including evaluation frameworks, experimentation
+    tooling, observability, monitoring and cost management
+  - Maintain registries for AI products, models and prompts for governance and visibility
+  - Partner with Data Scientists to operationalise ML models, GenAI applications and
+    agentic workflows into production
+  - Define patterns for human-in-the-loop workflows, confidence-based routing and
+    AI safety mechanisms
+  - Mentor ML Engineers and help establish AI engineering standards and operating
+    model
+  use_cases:
+  - AI/ML platform enabling product teams to build, deploy and operate ML, GenAI and
+    agentic solutions
+  - AI-driven insight and automation for energy retail operations and billing
+  - Governed, auditable and safe production AI capabilities in a regulated energy
+    industry
+  - Standardised model lifecycle, evaluation and monitoring across AI products
+  skills:
+    genai: [RAG, Prompt Engineering, Agentic Workflows, LLMs, MCP, Guardrails, LLM
+        Evaluation]
+    ml: [Machine Learning, Model Deployment, Model Evaluation, Model Monitoring]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [MLOps, LLMOps, Kubernetes, Infrastructure as Code, CI/CD, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034020'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:35:18.639425'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Peregrine Technologies, Inc.
+  stage: Backed by leading Silicon Valley investors
+  focus: |-
+    AI-enabled data platform for public safety and government
+    intelligence
+position:
+  title: Staff Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The team builds generative AI-powered user experiences, and
+      the role shapes AI-driven features, applying LLMs to enhance
+      user experience and integrating/monitoring models
+      (Bedrock/SageMaker). Building AI product features with LLMs
+      involved makes it ai-first, though the description is fairly
+      general.
+  responsibilities:
+  - Build generative AI-powered user experiences and AI-driven features on the platform
+  - Own major features end-to-end from design through deployment
+  - Scale the platform to ingest terabytes of data from a variety of sources
+  - Query and notify users on ingested data in real time
+  - Optimize search algorithms to serve results quickly
+  - Collaborate with deployment team and users to iterate on solutions
+  use_cases:
+  - Turning siloed government and public safety data into operational intelligence
+  - Real-time search and alerting over large-scale multi-source data
+  - AI-assisted user interaction with an intelligence platform
+  - Mission-critical information surfacing for public safety and government agencies
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Model Training, Model Deployment]
+    web: [Django, React, Redux]
+    databases: [PostgreSQL, Elasticsearch]
+    data: [Airflow, Kafka]
+    cloud: [AWS Bedrock, SageMaker, AWS]
+    ops: [Model Monitoring, Terraform, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11594229'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:18:00.404158'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

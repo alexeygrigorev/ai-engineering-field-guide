@@ -1,0 +1,235 @@
+job_id: 11580366
+title: AI Performance Engineer
+company: Modular
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 187 Employees
+description: |
+  About Modular
+
+  At Modular, a Qualcomm company, we’re on a mission to
+  revolutionize AI infrastructure by systematically rebuilding
+  the AI software stack from the ground up. Our team, made up
+  of industry leaders and experts, is building cutting-edge,
+  modular infrastructure that simplifies AI development and
+  deployment. By rethinking the complexities of AI systems,
+  we’re empowering everyone to unlock AI’s full potential and
+  tackle some of the world’s most pressing challenges.
+
+  If you’re passionate about shaping the future of AI and
+  creating tools that make a real difference in people’s
+  lives, we want you on our team. You can read about our
+  culture and careers to understand how we work and what we
+  value.
+
+  About the role:
+
+  We are looking for an AI Performance Engineer to join the
+  ASIC Performance team. You will design, implement, and tune
+  high-performance attention kernels—and a broader set of
+  foundational AI kernels—for new accelerator architectures.
+
+  Attention is evolving quickly across models and hardware:
+  grouped-query and multi-head attention, prefill and decode,
+  paged KV caches, sliding-window and global attention, and
+  new sparse or fused variants each create different compute,
+  memory, and data-movement tradeoffs. In this role, you will
+  translate those algorithmic requirements into production-
+  quality implementations that exploit the unique capabilities
+  of GPUs, NPUs, ASICs, and other emerging accelerators.
+
+  You will also contribute to the architecture and development
+  of Modular’s Attention framework, building reusable
+  abstractions that let model and kernel developers express
+  attention variants cleanly while supporting hardware-
+  specific specialization and excellent end-to-end
+  performance.
+
+  This is a senior individual-contributor role for an engineer
+  who can independently own ambiguous performance problems,
+  collaborate across organizational boundaries, and turn
+  research ideas and hardware capabilities into robust product
+  technology. Our goal is to deliver performant tokens to end
+  cloud users with production-ready workloads, not just
+  microbenchmarks.
+
+
+
+  LOCATION: Candidates based in Edinburgh are welcome to
+  apply. You can work in our office in Edinburgh, or remotely
+  from home. Onboarding for new hires is conducted in-person
+  at the appropriate office.
+
+  What you will do:
+
+  - Design and implement high-performance attention kernels for
+    prefill and decode, including variants such as MHA, GQA,
+    paged attention, sliding-window/global attention, and
+    fused FlashAttention-style algorithms.
+  - Build and optimize general AI kernels—including matrix
+    multiplication, softmax, normalization, activation,
+    embedding, reduction, and data-movement primitives—needed
+    to bring up modern models on new accelerators.
+  - Contribute to the design and implementation of the Attention
+    framework, with reusable interfaces that balance
+    portability, composability, tunability, and hardware-
+    specific optimization.
+  - Profile workloads, identify bottlenecks, establish
+    performance models, and tune implementations against
+    hardware limits and competitive baselines.
+  - Develop benchmarks, correctness tests, regression tests, and
+    automated performance analysis to ensure kernels remain
+    reliable and fast across model shapes and hardware
+    generations.
+  - Partner with the rest of Modular teams to contribute to
+    overall software stack improvements and share learnings.
+  - Work directly with hardware partners when needed to
+    understand new architectures, validate toolchains,
+    diagnose low-level issues, and influence hardware/software
+    interfaces.
+  - Write design documents, participate in technical reviews,
+    and share architecture and performance insights across the
+    team.
+  - Mentor teammates and raise the engineering bar for kernel
+    quality, performance methodology, and maintainable low-
+    level software.
+
+  What you bring to the table:
+
+
+
+  - 5+ years of relevant industry or research experience in
+    high-performance computing, AI kernel development,
+    accelerator programming, compiler engineering, or a
+    closely related field.
+  - Demonstrated experience writing and optimizing production-
+    quality GPU or accelerator kernels, with a strong
+    understanding of parallel algorithms, numerical behavior,
+    memory access patterns, synchronization, and data
+    movement.
+  - Strong knowledge of modern attention algorithms and their
+    implementation tradeoffs, including the distinct
+    performance characteristics of prefill and decode.
+  - Strong understanding of architectures beyond conventional
+    GPUs—such as NPUs, DSPs, TPUs, or custom ASICs—and the
+    ability to reason about unfamiliar compute units, memory
+    hierarchies, and execution models.
+  - Experience with at least one heterogeneous programming model
+    or kernel ecosystem such as CUDA, Triton, SYCL, OpenCL,
+    HIP, or a vendor accelerator SDK.
+  - Strong performance-analysis skills and proficiency with
+    relevant profiling, tracing, benchmarking, and debugging
+    tools.
+  - Ability to read architecture manuals, compiler output, and
+    low-level generated code; form hypotheses from data; and
+    systematically close performance gaps.
+  - A collaborative, team-oriented approach; clear written and
+    verbal communication; intellectual curiosity; and comfort
+    owning ambiguous technical problems from investigation
+    through productization.
+
+  Helpful but not required
+
+  - Knowledge of the Mojo programming language or experience
+    authoring kernels and performance-sensitive libraries in
+    Mojo.
+  - Knowledge of MLIR, LLVM, and related AI compiler
+    technologies, including dialect design, lowering
+    pipelines, code generation, scheduling, or autotuning.
+  - Experience implementing FlashAttention or other fused
+    attention algorithms, custom attention operators, paged
+    KV-cache kernels, or inference-specific attention
+    optimizations.
+  - Experience with modern kernel DSLs and libraries such as
+    CuTe/CUTLASS, Triton, Pallas, or similar systems.
+  - Familiarity with AI framework internals and operator
+    integration in systems such as PyTorch, JAX, TensorFlow,
+    vLLM, SGLang, or TensorRT-LLM.
+  - Experience bringing up a model or kernel library on a new
+    hardware platform, including working through compiler,
+    runtime, driver, and hardware constraints.
+  - Experience with performance modeling, autotuning, numerical
+    validation, or benchmarking infrastructure.
+  - Familiarity with LLM architectures such as GPT and Gemma,
+    including grouped-query attention, mixture-of-experts,
+    speculative decoding, and long-context inference.
+  - An advanced degree in Computer Science, Electrical
+    Engineering, Computer Engineering, or a related field.
+
+  What Modular brings to the table:
+
+  - Amazing Team. We are a progressive and agile team with some
+    of the industry’s best engineering and product leaders.
+  - World-class Benefits. In order to attract the best, we need
+    to offer the best. Your benefits package may include
+    comprehensive healthcare coverage, retirement and savings
+    programs, employee stock purchase opportunities, paid time
+    off, wellbeing resources, family support programs, and
+    learning and development opportunities. Please note that
+    specific benefit packages may vary based on your location,
+    you can read more about benefits offered by Qualcomm here.
+  - Competitive Compensation. We offer very strong compensation
+    packages, including RSU grants. We want people to be
+    focused on their best work and believe in tailoring
+    compensation plans to meet the needs of our workforce.
+  - Team Building Events. We organize regular team onsites and
+    local meetups in Los Altos, CA as well as different
+    cities. Traveling 2-4 times a year is expected for all
+    roles.
+
+  Working at Modular will enable you to grow quickly as you
+  work alongside incredibly motivated and talented people who
+  have high standards, possess a growth mindset, and a purpose
+  to truly change the world.
+
+  The estimated base salary range for this role to be
+  performed in Edinburgh is £99,600–£150,000 GBR.
+
+  The salary for the successful applicant will depend on a
+  variety of permissible, non-discriminatory job-related
+  factors, which include but are not limited to education,
+  training, work experience, business needs, or market
+  demands. This range may be modified in the future. The total
+  compensation for a candidate will also include annual target
+  bonus, equity, and benefits, with equity making up a
+  significant portion of your total compensation.
+
+  For candidates who fall outside of the listed requirements,
+  we nevertheless encourage you to apply as we may have
+  upcoming openings that are lower/higher level than the ones
+  advertised.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-08
+url: "https://builtin.com/job/ai-performance-engineer/11580366"
+source: Built In

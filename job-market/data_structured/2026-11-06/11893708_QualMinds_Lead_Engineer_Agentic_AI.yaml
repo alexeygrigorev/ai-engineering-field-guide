@@ -1,0 +1,62 @@
+company:
+  name: QualMinds
+  stage: null
+  focus: Custom software product design and development services
+position:
+  title: Lead Engineer – Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecturally shapes LLM/agent behaviour: multi-
+      agent orchestration, prompt design, RAG/context engineering,
+      guardrails, and agent evaluation. All shaping targets are
+      LLM/agent components, so it is ai-first.
+  responsibilities:
+  - 'Architect multi-agent systems end-to-end: agent decomposition, orchestration
+    topologies, handoff protocols, and shared memory/state design'
+  - Design and build customer-facing voice and chat agent teams covering inventory
+    search, payment estimation, trade-in valuation, scheduling, and lead capture
+  - Ground agent responses in live business data with accuracy guarantees and brand-safe
+    guardrails (prompt injection, jailbreaks, PII)
+  - Build internal multi-agent workflows for campaigns, lead management, payments,
+    reporting, and marketing with insight-recommendation-approved action patterns
+  - Expose business capabilities as MCP tools with role-based permissions, audit logging,
+    and risk-scaled approval policies
+  - Build natural-language analytics including NL-to-SQL querying and automated forecasting
+    summaries
+  - 'Own evaluation end-to-end: golden datasets, trajectory evals, eval gates in CI/CD,
+    and production quality monitoring'
+  - 'Establish LLMOps/AgentOps practices: prompt/agent versioning, model routing,
+    semantic caching, and cross-agent observability'
+  use_cases:
+  - Customer-facing voice and chat agents for automotive dealership websites (inventory
+    search, payment estimation, trade-in valuation, scheduling, lead capture)
+  - Internal autonomous agents for campaign management, lead management, offers, payments,
+    reporting, and forecasting
+  - Email/SMS marketing automation with proactive insights and human-approved actions
+  - 'Natural-language analytics: NL-to-SQL querying and automated executive digests'
+  - Realtime speech-to-speech conversational agents with low-latency voice interaction
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows, LangGraph, OpenAI API, Google
+        ADK, Anthropic API, Pydantic AI, Vercel AI SDK, Llama, Mistral, Gemini, Function
+        Calling, Structured Outputs, MCP, RAG, Context Engineering, Embeddings, Prompt
+        Engineering, Guardrails, LLM Evaluation, Claude Code, Cursor, GitHub Copilot,
+      Conversational AI]
+    ml: [Qwen, DeepSeek]
+    web: [FastAPI, Node.js, React, Next.js, WebSockets, WebRTC, Server-Sent Events]
+    databases: [pgvector, Qdrant, Pinecone, PostgreSQL]
+    data: [Kafka, Event-Driven Architecture, NL-to-SQL]
+    cloud: [GCP, Vertex AI, Pub/Sub, Cloud Run, GKE, IAM, AWS, Azure, Vertex AI Search]
+    ops: [Docker, Kubernetes, Terraform, Temporal, GitHub, GitHub Actions, Jira, LangSmith,
+      Langfuse, Arize, OpenTelemetry, LLMOps, CI/CD, A/B Testing]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [LiveKit Agents, Pipecat, Deepgram, ElevenLabs, Cartesia, A2A]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893708'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:48:49.363135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

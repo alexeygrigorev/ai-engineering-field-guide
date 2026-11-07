@@ -1,0 +1,49 @@
+company:
+  name: Photon
+  stage: null
+  focus: Autonomous AI-driven business automation tools
+position:
+  title: AI Software Engineer, CA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent frameworks, multi-agent
+      orchestration, RAG, prompt pipelines, and LLM evaluation
+      pipelines, directly shaping LLM behavior and output quality.
+      LLM components are central, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy an AI Agentic Workflow Framework enabling autonomous
+    and semi-autonomous business operations
+  - Build multi-agent orchestration platforms and LLM integration layers
+  - Build retrieval systems (RAG) and production-grade evaluation pipelines
+  - Integrate Generative AI services to automate parsing, data mapping, and action
+    triggers
+  - Partner with design and product teams to translate workflow concepts into reliable
+    backend architecture
+  - Connect underlying data layers to execution engines via scalable pipelines
+  use_cases:
+  - Autonomous and semi-autonomous business operations
+  - Automated document parsing and data mapping
+  - Automated action triggers from AI workflows
+  - Scalable pipelines connecting data layers to execution engines
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, RAG, Prompt Engineering,
+      OpenAI API, Anthropic API, LangChain, Generative AI, LLM Evaluation]
+    ml: []
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Distributed Systems]
+    languages: [Java, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11735273'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:45:01.396657'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,90 @@
+company:
+  name: Productboard
+  stage: Backed by Index Ventures, Kleiner Perkins, Sequoia Capital, Bessemer, Tiger
+    Global, and Dragoneer
+  focus: AI-first product management platform (Productboard Spark)
+position:
+  title: Senior Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns LLM/agent system architecture: agent
+      workflows, tool calling, evals gating quality,
+      retrieval/clustering over feedback, model selection for
+      cost/quality. These shape model behaviour directly, with
+      LLMs (Anthropic models, Spark agent) central, so ai-first.
+  responsibilities:
+  - 'Own the Insights AI architecture and technical direction: context design, agent
+    tool access, output quality'
+  - Set the AI quality bar and make evals the gate for every change before shipping
+  - Lead cross-domain AI architecture decisions spanning Insights, Spark, and the
+    platform
+  - Drive the largest Insights initiatives to customer beta, setting milestones and
+    acceptance criteria
+  - Write production code on the hardest parts weekly
+  - Grow engineers around you through docs and reviews so AI workflows can be changed
+    safely
+  - Define agent-native architecture standards and context infrastructure for AI coding
+    tools
+  - Make quality, latency, cost, and reliability trade-offs including model selection
+    and caching
+  use_cases:
+  - Automated processing of all customer feedback into prioritized insights for product
+    managers
+  - AI-generated insights linking feedback themes to ARR, churn risk, and product
+    objectives
+  - Competitive intelligence mapped next to customer feedback themes
+  - Agentic drafting of product specs from accepted insights (Productboard Spark)
+  - Self-healing incident workflows with agent triage and remediation suggestions
+  - AI code review optimization with automated noise filtering
+  skills:
+    genai: [Pydantic AI, Anthropic API, LLMs, LLM Evaluation, AI Agents, RAG, Claude
+        Code, Cursor, Codex]
+    ml: [Embeddings]
+    web: [React, GraphQL]
+    databases: [Vespa, PostgreSQL, MongoDB, Elastic, Redis, Snowflake]
+    data: [Semantic Search]
+    cloud: [AWS]
+    ops: [Braintrust, Temporal, LaunchDarkly, Datadog, Kubernetes, Terraform, Distributed
+        Systems]
+    languages: [Python, Kotlin, Ruby, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11873044'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Prague, CZE
+  - Brno, CZE
+  remote: true
+  extracted_at: '2026-11-06T13:28:02.275355'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

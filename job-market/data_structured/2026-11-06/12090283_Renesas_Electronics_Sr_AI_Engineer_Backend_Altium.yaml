@@ -1,0 +1,47 @@
+company:
+  name: Renesas Electronics
+  stage: null
+  focus: AI-powered supply chain management software for electronics
+position:
+  title: Sr. AI Engineer, Backend (Altium)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects multi-step agentic systems, builds RAG
+      pipelines, and builds evaluation infrastructure — direct
+      shaping of LLM/agent behavior, so ai-first. Classical ML
+      (recommendation systems, predictive analytics) is secondary;
+      a role shaping both LLM and classical ML is ai-first.
+  responsibilities:
+  - Architect multi-step agentic systems that reason beyond simple generation
+  - Build RAG pipelines and AI-powered workflows
+  - Build evaluation infrastructure to validate AI system performance
+  - Design, build, and deploy AI/ML solutions aligned with product goals
+  - Integrate AI models into production systems via APIs and services
+  - Monitor model performance and improve accuracy and efficiency
+  - Define AI best practices, documentation, and standards for the organization
+  - Guide developers on AI adoption and mentor team members
+  use_cases:
+  - AI-driven supply chain risk and margin insights for manufacturers
+  - AI-powered supply management and sourcing workflows
+  - Agentic reasoning systems for product ecosystem automation
+  - Insight extraction from structured and unstructured product data
+  skills:
+    languages: [Python]
+    domains: [NLP, Recommender Systems, Predictive Analytics]
+    web: [APIs]
+    cloud: []
+    data: []
+    ml: [Machine Learning, PyTorch, TensorFlow, scikit-learn, Model Evaluation]
+    databases: []
+    genai: [Agentic Workflows, RAG, LLMs]
+    ops: [MLOps, Model Monitoring, CI/CD]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12090283'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:55:08.733309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

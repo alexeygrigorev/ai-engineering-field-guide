@@ -1,0 +1,50 @@
+company:
+  name: Digitals AI
+  stage: null
+  focus: AI-powered SaaS, agents, and enterprise automation
+position:
+  title: Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI applications directly: implementing
+      RAG pipelines, prompt engineering, and AI agents using LLM
+      frameworks, which shapes model behavior and output quality.
+      The model components are LLM-based (OpenAI, Claude, Gemini,
+      LangChain), so it is ai-first.
+  responsibilities:
+  - Develop and integrate Generative AI applications using LLMs and modern AI frameworks
+  - Build backend services and REST APIs using Python, FastAPI, Flask, or Django
+  - Develop AI chatbots, intelligent agents, and automation workflows
+  - Implement RAG pipelines, semantic search, and vector database integrations
+  - Integrate OpenAI, Anthropic Claude, Google Gemini, and open-source AI models
+  - Support deployment of AI applications on AWS cloud infrastructure
+  - Implement prompt engineering, testing, debugging, and performance optimization
+  - Write clean, maintainable, production-ready code
+  use_cases:
+  - AI-powered SaaS applications
+  - AI chatbots and intelligent agents
+  - Enterprise automation workflows
+  - Conversational AI systems
+  - RAG-based retrieval and semantic search
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Conversational AI, RAG, Semantic Search,
+      Vector Databases, OpenAI API, Anthropic API, Gemini, LangChain, LangGraph, LlamaIndex,
+      Prompt Engineering]
+    ml: [Machine Learning]
+    web: [FastAPI, Flask, Django, REST APIs]
+    databases: [Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11625315'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:24:23.206175'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

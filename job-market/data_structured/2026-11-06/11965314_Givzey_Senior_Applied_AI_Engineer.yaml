@@ -1,0 +1,60 @@
+company:
+  name: Givzey
+  stage: null
+  focus: Autonomous AI fundraising solutions for nonprofits
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing agentic
+      workflows, tool calling, RAG architectures, structured
+      outputs, and AI evaluation frameworks. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Lead small engineering teams in design, development, and delivery of complex AI
+    initiatives
+  - Design and build production AI systems with LLMs, agentic workflows, and retrieval
+    architectures
+  - Develop agent workflows with tool calling, structured outputs, multi-step reasoning,
+    and human-in-the-loop controls
+  - Build and optimize RAG systems including ingestion pipelines, embeddings, semantic
+    retrieval, and context assembly
+  - Develop evaluation frameworks for AI workflows including regression testing, golden
+    datasets, and trace analysis
+  - Build backend services, APIs, and tool integrations enabling AI systems to interact
+    with production applications
+  - Mentor engineers and raise engineering standards through code reviews and architectural
+    guidance
+  - Improve production AI systems for reliability, accuracy, latency, observability,
+    and cost efficiency
+  use_cases:
+  - Autonomous AI agents managing nonprofit donor portfolios end-to-end
+  - Personalized donor outreach via text, email, video, and handwritten notes
+  - Agentic AI systems executing complex multi-step business workflows
+  - Retrieval and knowledge systems connecting AI agents to organization-specific
+    data
+  - Evaluation, observability, and testing of AI behavior in production
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Function Calling, Structured Outputs, Embeddings,
+      Semantic Search, LangChain, LangGraph, DSPy, Semantic Kernel, Fine-Tuning, Prompt
+        Engineering, LLM Evaluation]
+    ml: [Foundation Model Training, Model Training, Model Evaluation]
+    web: [APIs, Microservices]
+    databases: [DynamoDB, Databases, pgvector, Pinecone, Weaviate, FAISS, OpenSearch]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS AgentCore, AWS Lambda, AWS S3]
+    ops: [CI/CD, Observability, LangSmith, Weights & Biases, OpenTelemetry, Distributed
+        Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11965314'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:13:07.977247'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

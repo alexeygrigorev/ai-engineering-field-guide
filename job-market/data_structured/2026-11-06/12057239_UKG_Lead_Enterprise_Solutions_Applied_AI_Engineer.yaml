@@ -1,0 +1,56 @@
+company:
+  name: UKG
+  stage: null
+  focus: |-
+    Workforce management and human capital management software
+    platform
+position:
+  title: Lead Enterprise Solutions Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems, agent
+      orchestration, RAG, prompts, evals, and guardrails —
+      directly shaping LLM behavior. Customer/business units are
+      internal, and building agents is the product. Lead is
+      technical leadership, not people management.
+  responsibilities:
+  - Serve as embedded technical leader within business units to deliver enterprise
+    agentic AI solutions end to end
+  - Integrate AI agents with enterprise systems such as Salesforce, SAP, legacy databases,
+    and APIs
+  - Oversee pilot launches, user training, and documentation for adoption
+  - Design and build multi-agent AI systems with agent orchestration and human-in-the-loop
+    oversight
+  - Develop evaluation tools and optimize solutions for performance, cost, and quality
+  - Create reusable libraries, templates, and reference architectures for other teams
+  - Define enterprise standards and embed safety guardrails, audit logging, and compliance
+    checks with Security and Governance teams
+  - Mentor engineers and author best practices for agentic AI development
+  use_cases:
+  - Automating complex enterprise business processes with autonomous AI agents
+  - Integrating AI agents with enterprise platforms like Salesforce, SAP, and HR systems
+  - Transforming human workflows into agent-first automated processes
+  - Workforce management and HR operations use cases on UKG's platform
+  - Enterprise governance, safety, and compliance monitoring for deployed agents
+  skills:
+    genai: [LLMs, Prompt Engineering, LangChain, LlamaIndex, RAG, AI Agents, Function
+        Calling, Agentic Workflows, Multi-Agent Systems, OpenAI API, Anthropic API,
+      Azure OpenAI, Semantic Kernel, Guardrails]
+    ml: [Machine Learning]
+    web: [React, APIs]
+    databases: [MongoDB, Pinecone, Weaviate, Qdrant, Graph Databases]
+    data: []
+    cloud: [Azure, GCP, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Authentication, Salesforce, SAP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12057239'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:42:57.919676'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

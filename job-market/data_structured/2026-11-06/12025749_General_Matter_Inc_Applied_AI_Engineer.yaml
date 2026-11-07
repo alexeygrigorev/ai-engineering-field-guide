@@ -1,0 +1,46 @@
+company:
+  name: General Matter, Inc.
+  stage: Venture-backed; incubated inside Founders Fund
+  focus: Uranium enrichment and nuclear fuel production
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI tooling with LLMs, agents, RAG, and
+      tool-use architectures to reinvent engineering workflows,
+      directly shaping agent behavior and retrieval. No classical-
+      ML-only component; it's squarely LLM/agent shaping work.
+  responsibilities:
+  - Embed with engineering teams across the company to accelerate existing engineering
+    workflows
+  - Identify workflow bottlenecks, build AI tools, and move to the next problem
+  - Build AI tooling enabling engineers to run complex safety and physics analyses
+    without specialists
+  - Automate legacy simulation workflows such as neutronics with config-file interfaces
+  - Build agents integrating with internal tools for ticket triage, routing, and prioritization
+  - Prototype proactively without waiting for specs or roadmaps
+  use_cases:
+  - Automating nuclear safety and physics analyses for engineers
+  - Automating legacy neutronics simulation workflows
+  - Agentic triage, routing, and prioritization of internal tickets and design data
+  - Reinventing nuclear licensing and engineering document workflows with AI
+  skills:
+    genai: [LLMs, AI Agents, RAG, Function Calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12025749'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:31:35.488812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: Fuse Energy
+  stage: null
+  focus: |-
+    Integrated energy startup selling power directly to
+    consumers
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications, agents, and multi-agent
+      systems, owns evaluation (datasets, LLM judges, A/B tests),
+      and chooses models by performance — all direct shaping of
+      LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Ship customer-facing AI features such as personalised energy recommendations and
+    bill-based onboarding
+  - Build LLM applications and agents for support, engineering, warehouse and back-office
+    teams, including multi-agent systems and durable workflows
+  - Build supporting cloud infrastructure, integrations, and access control for users
+    and agents
+  - Own evaluation including datasets, golden answers, human and LLM judges, and A/B
+    tests
+  - Choose models by performance, latency and cost and revisit as models improve
+  - Work with trading, operations and backend teams to reflect real-time market conditions
+    and forecasts in models
+  - Monitor AI systems in production and keep them reliable
+  use_cases:
+  - Automated software delivery pipeline (Product Factory) from requirements through
+    deployment and monitoring
+  - Personalised energy recommendations and energy bill-based customer onboarding
+  - AI agents for customer support, warehouse and back-office productivity
+  - Real-time energy market, pricing, demand and weather forecasting integration
+  skills:
+    genai: [LLMs, VLMs, AI Agents, Multi-Agent Systems, Agentic Workflows, Fine-Tuning]
+    ml: [PyTorch, TensorFlow, Forecasting, Reinforcement Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Technologies]
+    ops: [Containerisation, A/B Testing, Temporal]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12079386'
+  location: DEU
+  locations:
+  - DEU
+  - Dubai, ARE
+  - Zürich, CHE
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:51:05.709544'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

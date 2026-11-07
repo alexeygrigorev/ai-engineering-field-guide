@@ -1,0 +1,58 @@
+company:
+  name: AXIS Capital
+  stage: null
+  focus: Specialty lines insurance and reinsurance
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly designs and develops LLM-powered
+      services and agentic workflows supporting business
+      automation, so the person shapes model-driven behaviour
+      (agents, LLM application development), not merely hosts or
+      consumes an API. An LLM/agent component is central, making
+      it ai-first.
+  responsibilities:
+  - Design, build, and operate production-grade AI services, data pipelines, and platform
+    capabilities on Azure and Databricks
+  - Develop LLM-powered and agentic workflows for business process automation, document
+    intelligence, and decision support
+  - Expose AI capabilities through secure APIs and Azure Function or Container App
+    backend services
+  - Own CI/CD delivery pipelines for AI and data workloads
+  - Implement infrastructure-as-code using Terraform and Azure-native tooling
+  - Build and manage Databricks jobs, workflows, asset bundles, and data engineering
+    pipelines
+  - Implement monitoring, logging, tracing, and alerting with OpenTelemetry or equivalent
+    tools
+  - Support production AI systems including incident response and operational runbooks,
+    and mentor engineers
+  use_cases:
+  - Business process automation
+  - Document intelligence
+  - Decision support for underwriting and claims
+  - Orchestration of AI services across insurance operations
+  skills:
+    genai: [LLMs, Agentic Workflows, Azure OpenAI, Azure AI Foundry]
+    ml: []
+    web: [FastAPI, APIs]
+    databases: []
+    data: [Databricks, PySpark, Data Pipelines]
+    cloud: [Azure, Azure Functions, AKS]
+    ops: [CI/CD, Azure DevOps, Terraform, OpenTelemetry, MLflow, Docker, Kubernetes,
+      OpenShift]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11767026'
+  location: Halifax, CAN
+  locations:
+  - Halifax, CAN
+  - London, GBR
+  extracted_at: '2026-11-06T13:09:16.687810'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

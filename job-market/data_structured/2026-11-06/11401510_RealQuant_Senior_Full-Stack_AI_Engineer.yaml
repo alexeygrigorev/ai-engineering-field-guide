@@ -1,0 +1,61 @@
+company:
+  name: RealQuant
+  stage: bootstrapped
+  focus: AI infrastructure for institutional commercial real estate
+position:
+  title: Senior Full-Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds MCP servers, Claude skills/plugins,
+      guardrails, citations, and LLM evals that gate releases —
+      directly shaping LLM behavior and output quality. It also
+      ships LLM features to production and designs the AI layer,
+      making it ai-first.
+  responsibilities:
+  - 'Turn repeatable client workflows into modular, reusable components: schemas,
+    ETL pipelines, MCP servers and front-end shells'
+  - Lead client projects assembling components into production systems in each client's
+    Azure subscription
+  - Package components as off-the-shelf APIs and SaaS, including document parsers
+    and an Excel add-in
+  - Embed directly inside client teams on select engagements
+  - Build deal workflows on labs.realquant.ai including extraction, screening, text-to-SQL
+    chat and generated reports
+  - Build document parsers with citations, confidence scores and human review
+  - Build evals and deterministic accuracy checks that gate every release
+  - Help hire and lead engineers in Latin America and Europe, growing into a lead
+    role
+  use_cases:
+  - 'Commercial real estate deal workflows: sourcing, screening, ranking, pipeline
+    management'
+  - Document extraction from offering memoranda, rent rolls and T-12 P&Ls with citations
+    and confidence scores
+  - Text-to-SQL analyst chat over client data
+  - Auditable underwriting math with deterministic checks and cross-document reconciliation
+  - Plain-English querying of client data via MCP servers and Claude skills with guardrails
+  - Portfolio and debt reporting dashboards, comps and market research
+  skills:
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    web: [React, Next.js, Express, FastAPI, REST APIs, OpenAPI, SSE, Tailwind, shadcn/Radix,
+      TanStack, AG Grid, Mapbox, Playwright]
+    cloud: [Azure Document Intelligence, Azure AI Search, Azure, Microsoft Graph,
+      Entra ID]
+    data: [Databricks, Delta Lake, Unity Catalog, Data Pipelines]
+    ml: [Inspect AI, Prime Verifiers, RLHF, DPO, GRPO]
+    databases: [PostgreSQL, pgvector, PostGIS]
+    genai: [Anthropic API, Claude Code, Azure OpenAI, Azure AI Foundry, Foundry Agent
+        Service, MCP, LangGraph, Guardrails, LLM Evaluation]
+    ops: [Bicep, GitHub Actions, Docker, Azure Container Apps, Vitest, pytest, Label
+        Studio]
+    other: [Power BI, Excel, Monday.com]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11401510'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T11:44:42.181168'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

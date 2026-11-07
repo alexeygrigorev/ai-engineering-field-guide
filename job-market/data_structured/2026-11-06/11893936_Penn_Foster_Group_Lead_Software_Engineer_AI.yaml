@@ -1,0 +1,55 @@
+company:
+  name: Penn Foster Group
+  stage: null
+  focus: Online education and career training for learners
+position:
+  title: Lead Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval pipelines, agentic workflows,
+      prompt management, and LLM evaluation frameworks directly,
+      shaping LLM behavior. This is clearly ai-first despite the
+      full-stack engineering title.
+  responsibilities:
+  - Define technical strategy and architecture for AI-powered learner and content-authoring
+    experiences
+  - Design, build, and ship full-stack systems using TypeScript, Vue.js, Node.js,
+    PostgreSQL, and Azure
+  - Establish reusable patterns for RAG, agentic workflows, model orchestration, prompt
+    management, and human-in-the-loop experiences
+  - Design and maintain evaluation frameworks, quality metrics, observability, and
+    feedback loops for LLM-powered features
+  - Integrate model APIs from Anthropic, OpenAI, and other providers with attention
+    to reliability, cost, security, and prompt-injection risk
+  - Own technical direction for AI-powered content authoring and management capabilities
+  - Mentor engineers in AI-assisted development, context engineering, evaluation design,
+    and agentic workflows
+  - Raise engineering standards through design reviews, code reviews, and technical
+    documentation
+  use_cases:
+  - Helping learners discover, enroll in, and progress through education programs
+  - AI-powered content authoring and management for education
+  - Retrieval-augmented learner experiences
+  - Human-in-the-loop AI-assisted learning features
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Prompt Engineering, Anthropic API, OpenAI
+        API, Claude Code, Cursor, Context Engineering]
+    ml: [Model Evaluation]
+    web: [Vue, Node.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Azure]
+    ops: [Observability, Distributed Systems]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893936'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:50:06.107869'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

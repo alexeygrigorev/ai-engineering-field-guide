@@ -1,0 +1,51 @@
+company:
+  name: Latent AI
+  stage: null
+  focus: Edge AI and low-latency computing for robotics
+position:
+  title: AI/ML Engineer (Computer Vision & Robotics)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains and optimizes computer vision models
+      (PyTorch, CUDA, TensorRT) for robotics/edge with no LLM or
+      agent component; agentic AI is only a bonus. Model training
+      and inference optimization is shaping, classical CV/robotics
+      only, so ml-first.
+  responsibilities:
+  - Design, train, and deploy deep learning computer vision models in PyTorch for
+    real-time object detection and spatial awareness
+  - Optimize model inference speed and low-latency performance on edge hardware using
+    CUDA and TensorRT
+  - Integrate computer vision models for perception and navigation on robots, drones,
+    unmanned systems, and swarms
+  - Manage, scale, and maintain containerized edge deployments across distributed
+    hardware with Docker and Kubernetes
+  - Drive automated data insights and high-performance edge computing initiatives
+    for accuracy gains in field environments
+  - Move research prototypes into production-ready features and products
+  use_cases:
+  - Real-time object detection and spatial awareness
+  - Autonomous systems and robotics perception and navigation
+  - Drones, unmanned systems, and swarm operations
+  - Low-latency edge inference for high-speed field environments
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, TensorRT, Machine Learning, Deep Learning]
+    web: [Streamlit]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Automated Testing]
+    languages: [Python]
+    domains: [Computer Vision, Robotics]
+    other: [Dash, Gradio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11865534'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:24:47.089887'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

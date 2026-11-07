@@ -1,0 +1,58 @@
+company:
+  name: Matrix Global Services
+  stage: null
+  focus: Global technology services and consulting company
+position:
+  title: Lead AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role doesn't just roll out existing AI tools; it builds
+      reusable agent instructions, prompt frameworks,
+      evaluation/validation loops, and RAG/retrieval patterns for
+      AI assistants — directly shaping LLM/agent behavior. Per the
+      edge cases, when those agents and prompts are the
+      deliverable, this is ai-first.
+  responsibilities:
+  - Establish practical AI-first workflows for coding, debugging, testing, planning,
+    design, documentation, and code reviews
+  - Build reusable agent instructions, prompt frameworks, skills, repository context,
+    integrations, and examples for engineering teams
+  - Integrate AI workflows into CI/CD pipelines, testing, observability, and release
+    readiness processes
+  - Design validation loops verifying AI-generated outputs through testing, quality
+    controls, and security reviews
+  - Enable adoption through demonstrations, documentation, workshops, office hours,
+    and coaching
+  - Develop reusable patterns for AI-powered applications including assistants, retrieval
+    systems, and governance models
+  - Use adoption, quality, cost, and delivery metrics to prioritize investments and
+    measure impact
+  use_cases:
+  - AI-assisted software development lifecycle workflows
+  - AI coding assistants and autonomous agents for engineering teams
+  - Retrieval systems and knowledge agents for business context
+  - Internal employee AI assistants and workflow automation
+  - Validation and governance of AI-generated code and outputs
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, Function Calling, LLMs,
+      RAG, Embeddings, Vector Databases, Semantic Search]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Git, CI/CD, Monitoring, Observability]
+    languages: [Python, TypeScript, Go, C#, .NET]
+    domains: []
+    other: [AI Coding Assistants, Test Automation, Code Review, Human-in-the-Loop
+        Orchestration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11621668'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:23:37.927851'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

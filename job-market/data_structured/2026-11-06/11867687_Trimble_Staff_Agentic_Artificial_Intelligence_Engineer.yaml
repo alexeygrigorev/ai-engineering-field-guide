@@ -1,0 +1,57 @@
+company:
+  name: Trimble
+  stage: null
+  focus: |-
+    Positioning, modeling, connectivity and data analytics for
+    construction, geospatial, agriculture, transportation
+position:
+  title: Staff Agentic Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects RAG pipelines, agentic workflows
+      (LangGraph/LangChain/Semantic Kernel), and MCP-based agent
+      orchestration—directly shaping LLM behavior and retrieval.
+      Multiple LLM components make it ai-first.
+  responsibilities:
+  - Own end-to-end architecture for AI and data ecosystems from ingestion through
+    Databricks transformation, retrieval, model serving, and autonomous agents
+  - Architect Databricks workspaces, compute policies, and Unity Catalog governance
+    with Medallion architecture batch/streaming pipelines
+  - Architect agentic AI solutions using LangGraph, LangChain, or Semantic Kernel
+    and set enterprise MCP standards
+  - Direct implementation of high-performance RAG pipelines on Azure with hybrid vector/keyword
+    search and semantic ranking
+  - Design authentication, access control, and AI security defenses (prompt injection,
+    OWASP Top 10 for LLMs, PII protection)
+  - Author architecture artifacts (C4 models, ADRs), drive technical roadmap with
+    US peers, mentor engineering leads
+  use_cases:
+  - Enterprise AI platform for document and data ingestion
+  - Autonomous agent orchestration across enterprise workflows
+  - RAG-based retrieval over fragmented operational data
+  - Real-time intelligence for construction and physical-world industries
+  - Secure enterprise data governance and AI safety
+  skills:
+    languages: [Python, TypeScript, Java, Scala, SQL]
+    domains: []
+    web: [APIs, OAuth]
+    cloud: [Azure, Azure AI Foundry, Vertex AI, Azure AI Search]
+    data: [Databricks, Spark, PySpark, Spark SQL, Unity Catalog, Data Pipelines, Structured
+        Streaming, Medallion Architecture]
+    ml: [MLflow, Model Evaluation]
+    databases: [Cosmos DB, Delta Lake]
+    genai: [RAG, MCP, LangGraph, LangChain, Semantic Kernel, LLMs, Semantic Search,
+      Vector Search, Agentic Workflows, Azure OpenAI, Generative AI, FastMCP, Copilot
+        Studio, Gemini]
+    ops: [CI/CD, Terraform, Bicep, Responsible AI]
+    other: [n8n, Entra ID, Document Intelligence, Service Bus, Container Apps, Key
+        Vault, Distributed Systems, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11867687'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:25:28.594795'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

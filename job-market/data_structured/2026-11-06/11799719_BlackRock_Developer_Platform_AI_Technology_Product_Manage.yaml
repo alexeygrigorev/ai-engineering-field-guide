@@ -1,0 +1,55 @@
+company:
+  name: BlackRock
+  stage: null
+  focus: Investment management and Aladdin technology platform
+position:
+  title: Developer Platform & AI, Technology Product Manager - Director
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a product management role for a developer platform
+      that supports agent-driven workflows; the person defines
+      roadmap and capabilities, not prompts, retrieval, agent
+      flows, or model behavior. AI knowledge is listed as
+      preferred, and AI agents are consumers of the platform
+      rather than systems the role shapes. Step 1 is no, so ai-
+      support.
+  responsibilities:
+  - Own product vision, strategy, roadmap, and KPIs for a core developer platform
+    product
+  - Partner with engineering across the SDLC to prioritize capabilities improving
+    developer workflows from build to operate
+  - Translate the 10x velocity ambition into a modernization roadmap with measurable
+    delivery speed and quality improvements
+  - Define platform capabilities supporting human-led and agent-driven software delivery
+    with appropriate human oversight
+  - Build an internal developer community and use research, feedback, and adoption
+    data to validate priorities
+  - Drive incremental delivery and adoption across Aladdin engineering teams, managing
+    cross-team dependencies
+  - Influence senior stakeholders on product direction and trade-offs
+  use_cases:
+  - Developer platform modernization for a software factory supporting humans and
+    AI agents
+  - Agent-driven software delivery workflows with human oversight
+  - CI/CD and software delivery lifecycle automation
+  - Developer productivity and velocity improvement across Aladdin
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: []
+    domains: []
+    other: [SDLC]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11799719'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:14:16.555451'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

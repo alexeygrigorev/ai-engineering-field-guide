@@ -1,0 +1,54 @@
+company:
+  name: Alternative Path
+  stage: null
+  focus: Consulting services for AI quality and testing
+position:
+  title: Senior AI Test Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks, golden datasets, RAG-
+      specific metrics, and runs red-teaming for LLM/agent systems
+      — judging and shaping model output quality, which is shaping
+      an LLM-driven system. Per Step 2, LLM/agent involvement
+      makes it ai-first.
+  responsibilities:
+  - Own test and evaluation strategy for client AI agent systems including chatbots,
+    RAG research/report generation, and MCP tool-calling agents
+  - Design and build eval suites covering accuracy, groundedness, task completion,
+    latency, and safety
+  - Build and curate golden datasets reflecting real client use cases and financial-data
+    edge cases
+  - Use eval/observability tooling to trace, score, and monitor agent runs
+  - Define and track RAG-specific metrics such as retrieval precision/recall, hallucination
+    rate, and citation accuracy
+  - Run structured red-teaming for hallucinations, prompt injection, and unsafe financial
+    outputs
+  - Act as primary quality point of contact with client engineering stakeholders
+  - Mentor junior QA resources and integrate evals into CI pipelines
+  use_cases:
+  - Chatbots for financial data clients
+  - RAG-based financial research and report generation
+  - MCP-based tool-calling agents over proprietary financial datasets
+  - Hallucination and prompt injection safety for financial outputs
+  - Regression testing for prompt, model, and data-pipeline changes
+  skills:
+    genai: [RAG, MCP, AI Agents, LLMs, LLM Evaluation]
+    ml: []
+    web: [Playwright]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LangSmith, Langfuse, CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893861'
+  location: Gurgaon, IND
+  remote: true
+  extracted_at: '2026-11-06T13:49:40.425892'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

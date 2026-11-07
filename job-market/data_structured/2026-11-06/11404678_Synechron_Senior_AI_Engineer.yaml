@@ -1,0 +1,57 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Global consulting for financial services digital and AI
+    solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates production AI/ML infrastructure
+      — backend services, model serving, deployment on GCP,
+      monitoring, and integration of models built by data
+      scientists. There is no described work shaping LLM behavior
+      (prompt engineering, RAG, agents, evals are listed only as
+      preferred, not required), so the deliverable is capacity and
+      integration, making it ai-support.
+  responsibilities:
+  - Design, develop, and maintain production-grade AI and machine learning applications
+  - Build scalable backend services, APIs, data pipelines, and AI platforms using
+    Java and Python
+  - Integrate generative AI, ML, NLP, and recommendation solutions into enterprise
+    applications
+  - Deploy, monitor, optimize, and troubleshoot AI workloads on GCP
+  - Develop reliable model-serving and inference systems with focus on performance,
+    scalability, security, and cost
+  - Implement production AI practices including model versioning, evaluation, observability,
+    and drift monitoring
+  - Collaborate with data scientists and ML engineers to productionize models
+  - Mentor engineers and contribute to AI engineering best practices
+  use_cases:
+  - Production AI and machine learning applications for financial services clients
+  - Generative AI and NLP solutions integrated into enterprise applications
+  - Recommendation systems
+  - Model serving and inference at scale on cloud infrastructure
+  - Model lifecycle management including evaluation and drift monitoring
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, AI Agents, LangChain]
+    ml: [Machine Learning, TensorFlow, PyTorch, scikit-learn, Model Evaluation]
+    web: [REST APIs]
+    databases: [BigQuery, Vector Databases]
+    data: [Apache Beam]
+    cloud: [GCP, Vertex AI, Cloud Run, Dataflow, Dataproc]
+    ops: [Kubernetes, Docker, CI/CD, Monitoring, Observability, MLOps]
+    languages: [Java, Python]
+    domains: []
+    other: [Microservices, Distributed Systems, Event-Driven Architecture, Responsible
+        AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11404678'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:45:10.699573'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

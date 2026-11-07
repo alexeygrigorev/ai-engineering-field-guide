@@ -1,0 +1,56 @@
+company:
+  name: Wadhwani Foundation
+  stage: null
+  focus: Philanthropic foundation building Generative AI products
+position:
+  title: Senior AI Testing Engineer (Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM evaluation frameworks, LLM-
+      as-a-Judge pipelines, guardrail/safety testing, and
+      benchmarks for RAG and agent outputs — judging and shaping
+      model output quality is explicitly the core responsibility,
+      so it is ai-first.
+  responsibilities:
+  - Design and own testing strategies for Generative AI products including LLM applications,
+    RAG pipelines, AI agents, and voice AI systems
+  - Define evaluation methodologies covering hallucination detection, safety, guardrail
+    and prompt injection testing, bias and toxicity, retrieval quality, and latency
+    benchmarking
+  - Build reusable AI testing frameworks and automated evaluation pipelines integrated
+    with CI/CD
+  - Create datasets, benchmark suites, and golden test sets for GenAI evaluation
+  - Develop automated evaluation pipelines using LLM-as-a-Judge and hybrid evaluation
+    methods
+  - Drive observability and monitoring strategies for production AI systems
+  - Define measurable quality KPIs, testing standards, and governance processes for
+    GenAI applications
+  use_cases:
+  - Hallucination detection in LLM outputs
+  - Safety, guardrail, prompt injection, bias, and toxicity testing
+  - Retrieval quality evaluation for RAG systems
+  - Agent workflow validation
+  - Latency benchmarking of AI systems
+  - Voice AI and conversational AI quality assurance
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, AI Agents, Embeddings, Vector Databases,
+      LLM Evaluation, Guardrails, LLM-as-a-Judge, DeepEval, Ragas, LangSmith, Promptfoo,
+      TruLens, OpenAI Evals, LangChain, Conversational AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, CI/CD, DevOps, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893170'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:46:01.081246'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

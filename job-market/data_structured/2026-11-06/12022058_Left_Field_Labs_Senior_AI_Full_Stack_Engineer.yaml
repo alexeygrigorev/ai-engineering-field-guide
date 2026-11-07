@@ -1,0 +1,59 @@
+company:
+  name: Left Field Labs
+  stage: null
+  focus: |-
+    Creative technology agency building digital experiences and
+    applied AI
+position:
+  title: Senior AI Full Stack Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding assistants (Claude Code, Cursor,
+      Copilot) as tools to accelerate engineering work; the
+      deliverable is full-stack product features, not model
+      behavior. There is no prompt design, RAG, agent product
+      work, or model shaping — AI is a developer workflow
+      multiplier, which is explicitly ai-support.
+  responsibilities:
+  - Build complete, tested features across frontend (React, TypeScript, Next.js) and
+    backend (Python, FastAPI, Node.js) with PostgreSQL data models
+  - Architect and evolve backend features and APIs ensuring cohesive frontend-backend
+    flow
+  - Own platform stability, maintenance, and observability across AWS/GCP cloud infrastructure
+    and CI/CD pipelines
+  - Translate complex B2B insurance compliance requirements into clean, scalable full-stack
+    architecture and consumer-grade experiences
+  - Embed AI coding tools and agents daily across coding, refactoring, testing, review,
+    and documentation
+  - Validate AI-generated output for maintainability, security, and compliance with
+    team standards
+  - Collaborate with product, design, and business stakeholders on technical planning
+    and release management
+  - Conduct code reviews, maintain documentation, and mentor junior and peer engineers
+  use_cases:
+  - B2B insurance compliance tracking platform for non-insurance professionals
+  - Risk management and compliance workflow simplification
+  - Policy and coverage rule automation with consumer-grade UX
+  - Certificates of insurance and contract requirement management
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, Tailwind CSS, Storybook, Framer Motion, FastAPI, Node.js,
+      REST APIs, GraphQL, Atomic Design]
+    databases: [PostgreSQL, SQLAlchemy]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [CI/CD, GitHub Actions]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Claude Code, Cursor, GitHub Copilot, ChatGPT, WCAG Accessibility]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12022058'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:31:08.567540'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

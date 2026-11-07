@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: null
+  focus: AI-native phones and proactive intelligent applications
+position:
+  title: AI Phone - Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agent workflows,
+      orchestration, tool calling, context/memory retrieval, and
+      builds evals for agent workflows — all directly shaping
+      LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Implement agent workflows and orchestration
+  - Build integrations with different tools and applications
+  - Develop context retrieval and memory mechanisms
+  - Implement multi-step task execution
+  - Support long-running workflows and state management
+  - Improve agent reliability and execution accuracy
+  - Integrate local and cloud model providers
+  - Build evaluation and regression tests for agent workflows
+  use_cases:
+  - Proactive AI phone applications
+  - Agentic email, messaging, notes, tasks, and calendar workflows
+  - Multi-step task execution with memory and context retrieval
+  - Long-running agent workflows with state management
+  - Local and cloud model integration for on-device intelligence
+  skills:
+    genai: [LLMs, Function Calling, AI Agents, Agentic Workflows, RAG, Context Engineering,
+      LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [State Management, Asynchronous Execution]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067556'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:47:14.496109'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,63 @@
+company:
+  name: Syneos Health
+  stage: null
+  focus: Integrated life sciences and drug commercialization services
+position:
+  title: Principal AI Solution Engineer / AI Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects RAG solutions (chunking, embeddings,
+      reranking), designs AI agents with tool calling and
+      guardrails, and does advanced prompt engineering and LLM
+      evaluation - clear model-behavior shaping with LLM
+      components. Although classical ML architecture is also
+      covered, the LLM/agentic work makes it ai-first.
+  responsibilities:
+  - Own end-to-end architecture and delivery of enterprise AI solutions from discovery
+    through production rollout and continuous improvement
+  - Assess use cases and choose between machine learning, generative AI, agentic AI,
+    deterministic rules, or hybrid approaches
+  - Architect RAG solutions including chunking, embeddings, vector indexing, hybrid
+    retrieval, reranking, and grounding
+  - Design AI agents and agentic workflows with tool calling, orchestration, guardrails,
+    and human-in-the-loop approvals
+  - Integrate AI capabilities with enterprise systems via REST APIs, Oracle Database,
+    Oracle APEX, and Azure services
+  - Establish reference architectures, reusable prompt patterns, evaluation methods,
+    and responsible AI controls
+  - Define verification and validation plans, evaluation frameworks, and post-deployment
+    monitoring for AI solutions
+  - Mentor engineers and data scientists and influence architecture decisions across
+    teams
+  use_cases:
+  - Enterprise AI solutions for drug development and commercialization business processes
+  - RAG-based enterprise search and grounded question answering over structured and
+    unstructured content
+  - Agent-based automation of enterprise workflows with human-in-the-loop approvals
+  - Classical ML use cases including forecasting, classification, regression, and
+    anomaly detection
+  - Modernizing Oracle APEX enterprise applications with embedded AI capabilities
+  - Resource management and forecasting in data-intensive business domains
+  skills:
+    genai: [RAG, Agentic Workflows, AI Agents, Multi-Agent Systems, Function Calling,
+      Prompt Engineering, Guardrails, Embeddings, Fine-Tuning, Structured Outputs,
+      LLM Evaluation, Context Engineering, Knowledge Graphs, Semantic Search]
+    ml: [scikit-learn, XGBoost, PyTorch, TensorFlow, Machine Learning, Model Evaluation,
+      Feature Engineering, Anomaly Detection, Model Training]
+    web: [REST APIs, JSON]
+    databases: [Vector Databases, Vector Search, Oracle, SQL]
+    data: [Data Pipelines]
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure AI Search]
+    ops: [MLOps, Model Monitoring, CI/CD, Git, Model Deployment, Observability, Monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Oracle APEX, Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884869'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:33:34.609177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,127 @@
+job_id: 8993476
+title: AI Engineer
+company: Bio Protocol
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Bio is a decentralized science protocol that helps launch
+  and grow AI-driven biotech research. It enables scientists
+  to raise funds, create value from their work, and distribute
+  that value directly to their communities. Since 2023, Bio
+  has directed over $50m to global researchers, offering an
+  alternative to traditional pharma funding. Backed by
+  investors like Binance Labs, Northpond Ventures, and Animoca
+  Brands, Bio accelerates real-world therapeutics across
+  longevity, brain health, fertility, psychedelic science, and
+  more.
+
+  Why this role exists
+
+  As a Member of Technical Staff on the AI Agents team, you’ll
+  design, build, and scale the core agent systems that power
+  Bio Protocol’s products. You’ll work closely with full-stack
+  engineers and scientist-evaluators to create agents that can
+  plan, use tools, and reason safely. This role offers the
+  opportunity to shape the foundation of how AI collaborates
+  with human scientists - combining technical depth with real-
+  world scientific impact. While technical skills matter, we
+  believe drive and cultural fit matter most. If you're
+  passionate about shipping impactful work and excited by our
+  mission, we encourage you to apply - even if you don't check
+  every single box.
+
+  What you’ll do
+
+  - Build agent capabilities for planning, tool use, memory, and
+    context management, and ship them into production.
+  - Integrate agents with internal and external tools and data
+    sources (retrieval systems, structured datasets,
+    lab/biomed APIs, spreadsheets, search), with robust
+    schemas and safeguards.
+  - Develop quality and evaluation systems, including unit,
+    regression, and scenario/benchmark tests, telemetry, and
+    automated scoring.
+  - Collaborate with scientists to analyze failure modes and
+    improve performance.
+  - Partner with the knowledge and ontology team to ensure
+    outputs are source-traceable and compliant with provenance
+    standards.
+  - Implement safety measures, guardrails, and sandboxed
+    execution for risky operations.
+  - Optimize performance and reliability through profiling,
+    idempotency, retries, rate limiting, and uptime
+    management.
+  - Instrument data pipelines for supervised fine-tuning and
+    reinforcement learning when needed.
+  - Contribute to the agent platform, including services, APIs,
+    orchestration, CI/CD, and observability.
+
+  Example projects (first 90 days)
+
+  - Deliver a multi-tool agent capable of executing long-horizon
+    scientific tasks with memory and self-correction,
+    supported by regression tests and telemetry.
+  - Implement automated citation enforcement, including source
+    checking, freshness validation, and provenance display in
+    the UI.
+  - Build an evaluation dashboard tracking competency pass
+    rates, latency, and failure modes.
+  - Success metrics
+  - Improved pass rates and reduced critical error rates across
+    core scientific competencies.
+  - Performance against SLOs for latency, task success, tool-
+    call reliability, and uptime.
+  - Increased coverage of regression and evaluation scenarios.
+  - Broader adoption of the agent platform by internal teams.
+
+  Qualifications
+
+  - Experience building production software in Python and/or
+    TypeScript, with strong systems and API design skills
+    (FastAPI, gRPC, GraphQL, or similar).
+  - Proven experience shipping LLM applications or agentic
+    systems (tool use/function calling, retrieval/RAG,
+    structured outputs, evaluation, or observability).
+  - Familiarity with agent/orchestration frameworks (e.g.,
+    LangChain, LangGraph, AutoGen, CrewAI, MCP) and vector
+    databases (FAISS, Weaviate, Pinecone).
+  - Experience with cloud infrastructure and containers (AWS,
+    GCP, or Azure), Docker/Kubernetes/Terraform, CI/CD, and
+    production telemetry.
+  - Ability to translate research prototypes into robust,
+    scalable systems.
+
+  Nice to have
+
+  - Experience with fine-tuning and reinforcement learning (RL,
+    RLAIF, RLHF), including reward design and offline
+    evaluation.
+  - Familiarity with benchmarks and evaluations such as SWE-
+    Bench, OS-World, or tau-bench.
+  - Knowledge of retrieval and knowledge systems, including
+    schema and ontology design, entity modeling, and
+    provenance tracking.
+  - Background in agentic system safety and security
+    (sandboxing, isolation, permissions, auditability).
+  - Exposure to life sciences or scientific computing and
+    collaboration with domain experts.
+
+  How we work
+
+  - Evidence-first: every output is grounded and source-
+    verifiable.
+  - Tight feedback loops: weekly quality reviews with scientists
+    to ship, measure, and improve.
+  - Platform mindset: we create safe, reusable systems that
+    empower others to build new agent capabilities.
+
+  Tools you’ll use
+
+  Python, TypeScript, FastAPI/gRPC, Postgres, Redis/queues,
+  Docker, Kubernetes, Terraform, cloud LLM APIs, open-weight
+  models, vector databases, telemetry and observability tools,
+  and internal agent/evaluation systems.
+posted_date: 2026-08-14
+url: "https://www.builtinla.com/job/ai-engineer/8993476"
+source: Built In

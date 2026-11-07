@@ -1,0 +1,58 @@
+company:
+  name: SmarTek21
+  stage: null
+  focus: Digital and AI software consulting services
+position:
+  title: Senior Full-Stack AI-First Developer (.NET Core + AI Engineering)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The AI components (Claude, ChatGPT, Copilot) are used as
+      coding assistants to improve developer productivity, not as
+      products the person shapes. The core work is full-stack
+      .NET/Angular engineering; AI is a workflow accelerator,
+      which is explicitly ai-support.
+  responsibilities:
+  - Use AI-assisted development tools (Claude, ChatGPT, Copilot) as engineering collaborators
+    for productivity and code quality
+  - Develop reusable prompt patterns and AI-assisted workflows for code generation,
+    debugging, testing, and design
+  - Design, develop, and maintain full-stack applications with .NET Core backend and
+    Angular/React frontend
+  - Build high-performance APIs and microservices with a focus on scalability and
+    maintainability
+  - Implement cloud-native solutions on Azure with CI/CD pipelines and Docker deployments
+  - Ensure application security via OAuth/JWT authentication and authorization
+  - Apply TDD/BDD testing practices, leveraging AI for test generation
+  - Collaborate with clients and cross-functional teams to deliver technical solutions
+  use_cases:
+  - AI-augmented application development for clients
+  - Code generation, debugging, and test automation via AI tools
+  - Scalable enterprise full-stack web applications
+  - Secure cloud-native API and microservice delivery
+  skills:
+    genai: [Claude Code, ChatGPT, GitHub Copilot, Prompt Engineering]
+    ml: []
+    web: [Angular, React, REST APIs, Microservices, OAuth]
+    databases: [SQL Server, PostgreSQL, SQL]
+    data: []
+    cloud: [Azure]
+    ops: [Docker, CI/CD, DevOps, Git]
+    languages: [.NET, C#]
+    domains: []
+    other: [TDD]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11830038'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  - Kolkata, IND
+  - Hyderabad, IND
+  - Noida, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:20:57.171070'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Philips
+  stage: null
+  focus: Healthcare technology and enterprise informatics software
+position:
+  title: Data and AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires designing agent tools and skills, curating
+      semantic metadata, creating evaluation suites, and LLM
+      evaluation practices for agentic AI solutions - direct
+      shaping of model/agent behaviour. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Partner with business stakeholders to translate ambiguous business questions into
+    well-defined analytical problems
+  - Find, integrate and prepare data from enterprise systems (Salesforce, SAP, ServiceNow)
+    with quality, lineage and governance
+  - Analyze commercial, financial and operational data to explain performance and
+    support recurring business cycles
+  - Build and maintain curated datasets, Python/SQL solutions and semantic/metric
+    layers on Databricks Lakehouse and cloud platforms
+  - 'Prototype and productionize agentic AI solutions: design agent tools and skills,
+    curate semantic metadata, create evaluation suites'
+  - Coordinate cross-functional data, analytics and AI initiatives from requirements
+    through deployment and adoption
+  - Contribute to data and AI strategy, evaluate emerging technologies, share best
+    practices
+  use_cases:
+  - Commercial and financial analytics (revenue, pipeline, backlog, installed base)
+  - Agentic AI solutions delivering trusted insights to business users
+  - Enterprise data integration from CRM, ERP and service systems
+  - Semantic and metric layers for business reporting
+  skills:
+    genai: [Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: [Spark, PySpark, Delta Lake, Databricks, dbt, Data Modeling]
+    cloud: [Azure, AWS]
+    ops: [Git, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Salesforce, ServiceNow, SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11871371'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T13:27:03.860294'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

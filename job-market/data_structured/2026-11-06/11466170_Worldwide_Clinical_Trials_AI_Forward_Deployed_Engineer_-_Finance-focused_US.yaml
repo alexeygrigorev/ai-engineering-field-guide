@@ -1,0 +1,66 @@
+company:
+  name: Worldwide Clinical Trials
+  stage: null
+  focus: Global midsize contract research organization (CRO)
+position:
+  title: AI Forward Deployed Engineer - Finance-focused (US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on LLM application engineering —
+      prompt engineering, context engineering, retrieval,
+      structured outputs, and evaluation — directly shaping model
+      behavior in finance tools. This is an ai-first role per the
+      Forward Deployed Engineer edge case and LLM shaping
+      criteria.
+  responsibilities:
+  - Build AI-assisted variance commentary and close-checklist solutions that generate
+    draft insights from financial data
+  - Develop natural-language data exploration experiences using Databricks Genie and
+    governed finance data
+  - Create assistive reconciliation capabilities preserving human ownership of controls
+    and approvals
+  - Design and deliver AI-enabled applications using Databricks, Python, and modern
+    LLM technologies
+  - Partner with FP&A and Project Financial Analysts to deliver efficiency-improving
+    tools
+  - Measure and report solution adoption, usage, and productivity gains
+  - Ensure solutions align with governance and compliance requirements
+  - Collaborate with finance stakeholders on processes, close cycles, planning, and
+    reporting
+  use_cases:
+  - AI-assisted variance commentary and close-checklist drafting for finance
+  - Natural-language exploration of governed financial data via Databricks Genie
+  - Assistive financial reconciliation
+  - Financial planning and analysis (FP&A) support including budgeting and forecasting
+  - Accelerating monthly close activities and financial reporting
+  skills:
+    genai: [LLMs, Prompt Engineering, Context Engineering, RAG, Structured Outputs,
+      LLM Evaluation, GitHub Copilot]
+    ml: [MLflow]
+    web: [Full-Stack Development]
+    databases: [Databricks Vector Search]
+    data: [Databricks, Databricks Genie]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Microsoft 365, NetSuite, Certinia, Workday Adaptive Planning, FP&A, SOX
+        Compliance, Variance Analysis]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11466170'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - Denver, USA
+  - Durham, USA
+  - Portland, USA
+  - Olympia, USA
+  - New York, USA
+  - Sacramento, USA
+  - Township of Jacksonville, USA
+  extracted_at: '2026-11-06T11:54:57.497155'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

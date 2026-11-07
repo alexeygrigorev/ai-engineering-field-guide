@@ -1,0 +1,58 @@
+company:
+  name: Life360
+  stage: null
+  focus: Family location-sharing app and GPS tracking membership
+position:
+  title: Senior Software Engineer II, Mobile (iOS) - Global Monetization (AI Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an iOS monetization engineering role where AI coding
+      assistants (Claude Code, Cursor, Codex) are used as
+      developer productivity tools, which is explicitly ai-support
+      per the edge cases. The person builds purchase/paywall
+      features, not model behavior, prompts, or retrieval systems.
+  responsibilities:
+  - Partner with product managers to shape the roadmap and write product specs
+  - Prototype rough ideas quickly into clickable experiences using AI tools
+  - Build paywalls, plan selection, upsell/upgrade, and one-time purchase flows localized
+    across storefronts and currencies
+  - 'Own staged rollouts end-to-end: ramp exposure, monitor guardrails, decide to
+    hold, roll back, or scale'
+  - Ship performant, reliable iOS experiences with strong launch time, memory, battery,
+    and crash-free metrics
+  - Contribute to architecture decisions, code reviews, and mobile codebase quality
+  - Mentor engineers and evolve the team's AI-native engineering practices
+  use_cases:
+  - 'Global monetization: market-specific pricing, packaging, and premium features
+    for international growth'
+  - Paywall, plan selection, upsell/upgrade, and one-time purchase flows localized
+    across currencies and storefronts
+  - Mobile experimentation on pricing, paywalls, and ad placement with staged rollouts
+    and guardrail monitoring
+  - Family location-sharing app with subscription membership at 100M+ MAU scale
+  skills:
+    genai: [Claude Code, Cursor, Codex]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Amplitude, Segment, Databricks]
+    cloud: []
+    ops: [CI/CD, Fastlane, GitHub Actions, Statsig, LaunchDarkly, Optimizely, Eppo,
+      GrowthBook]
+    languages: [Swift, asyncio]
+    domains: []
+    other: [SwiftUI, UIKit, iOS Development, Xcode, Swift Concurrency, Combine, MVVM,
+      TCA, Clean Architecture, Swift Package Manager, Feature Flagging, A/B Testing,
+      Instruments, MetricKit, Xcode Organizer, Crashlytics, Xcode Cloud, Bitrise,
+      App Store Connect, In-App Purchases, Subscriptions, Localization, AdMob, AppLovin
+        MAX, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11926195'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:59:11.923223'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

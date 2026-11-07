@@ -1,0 +1,53 @@
+company:
+  name: Sopra Steria
+  stage: null
+  focus: European consulting and digital technology services
+position:
+  title: AI - Senior Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, copilots, and RAG
+      solutions with LangChain, LangGraph, CrewAI, etc., directly
+      shaping LLM behavior through prompts, retrieval, and agent
+      flows. No classical-ML-only scope; the LLM/agent component
+      makes it ai-first.
+  responsibilities:
+  - Design and develop AI agents, copilots, and autonomous workflows
+  - Build solutions using agentic AI frameworks such as LangChain, LangGraph, CrewAI,
+    AutoGen, and Google ADK
+  - Develop RAG solutions, semantic search capabilities, and enterprise knowledge
+    assistants
+  - Integrate AI solutions with business applications, APIs, databases, and enterprise
+    systems
+  - Package, deploy, and monitor AI applications in cloud environments
+  - Contribute reusable frameworks, accelerators, and AI engineering best practices
+  - Use AI-assisted development tools such as Claude Code, Cursor, and GitHub Copilot
+  use_cases:
+  - AI agents and copilots for business problems
+  - Enterprise knowledge assistants
+  - RAG-based enterprise search and retrieval
+  - Autonomous workflows and automation
+  - Semantic search over enterprise knowledge
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, Google ADK, Prompt Engineering,
+      Function Calling, LLMs, RAG, Semantic Search, Embeddings, Generative AI, Agentic
+        Workflows, Claude Code, Cursor, GitHub Copilot, MCP, Multi-Agent Systems,
+      GraphRAG, Semantic Kernel, OpenAI Agents SDK, PydanticAI, Promptfoo, RAGAS]
+    ml: []
+    web: [REST APIs, FastAPI, Flask, React, Streamlit]
+    databases: [Vector Databases, Pinecone, Chroma, Weaviate, Milvus, Knowledge Graphs]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11569385'
+  location: Noida, IND
+  extracted_at: '2026-11-06T12:13:00.950982'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

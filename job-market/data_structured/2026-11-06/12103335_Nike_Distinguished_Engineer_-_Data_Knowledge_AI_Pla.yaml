@@ -1,0 +1,54 @@
+company:
+  name: Nike
+  stage: null
+  focus: Global athletic footwear, apparel, and equipment company
+position:
+  title: Distinguished Engineer - Data, Knowledge, & AI Platforms - ITC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform architecture role: the person sets
+      technical direction, standards, and governance for
+      enterprise data/analytics/AI platforms but never writes
+      prompts, designs retrieval, trains models, or evaluates
+      model output quality. AI/GenAI appears only as a platform
+      capability to champion, so the role is ai-support.
+  responsibilities:
+  - Define long-term technical strategy for enterprise data and AI platforms focused
+    on scalability, resilience, security, and cost efficiency
+  - Lead platform architecture and modernization across cloud-native data, analytics,
+    and AI capabilities
+  - Build platform components enabling semantic layer, ontology, taxonomy, and knowledge
+    graphs
+  - Establish standards and reference patterns for platform design, governance, observability,
+    automation, and data operations
+  - Partner with product, infrastructure, and security leaders to align roadmaps and
+    enable self-service at scale
+  - Champion innovation in AI, GenAI, automation, and real-time data capabilities
+  - Influence senior stakeholders and mentor engineering leaders across geographies
+  use_cases:
+  - Enterprise data, analytics, and AI platform modernization at global scale
+  - Knowledge graph and semantic layer platform services for enterprise data discovery
+  - Self-service data access and governance across Nike Digital, Supply Chain, and
+    Enterprise Technology
+  - Real-time and automated data capabilities for engineering and business teams
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: [Knowledge Graphs, Semantic Search, Metadata Management]
+    data: [Data Pipelines, Streaming, Data Governance]
+    cloud: [Cloud-Native Architecture]
+    ops: [Observability, Distributed Systems, Automation]
+    languages: [Data Structures, Distributed Computing]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12103335'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T15:02:13.967271'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

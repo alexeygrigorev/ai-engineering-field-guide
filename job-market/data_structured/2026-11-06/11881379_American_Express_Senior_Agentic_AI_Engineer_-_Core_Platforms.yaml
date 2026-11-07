@@ -1,0 +1,59 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global financial services and payments company
+position:
+  title: Senior Agentic AI Engineer - Core Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks, eval pipelines,
+      prompts, and retrieval (RAG) systems for LLM/agentic
+      applications, directly shaping model output quality and
+      success criteria. LLMs and agents are central, so it is ai-
+      first.
+  responsibilities:
+  - Design, develop, and maintain evaluation frameworks for LLM, RAG, agentic, and
+    multimodal AI applications
+  - Build automated and human-in-the-loop evaluation pipelines with synthetic test
+    generation, model-based grading, and deterministic checks
+  - Establish regression testing, release gates, and continuous evaluation to detect
+    quality degradation, drift, and unsafe behavior
+  - Design prompt engineering and generative AI frameworks for data processing
+  - Develop end-to-end MLOps pipelines for scalable model deployment, monitoring,
+    and maintenance
+  - Integrate ML models, LLMs, and intelligent services into scalable production systems
+  - Translate business, risk, and governance requirements into measurable success
+    criteria and traceable evidence
+  - Mentor junior AI engineers and partner with product, engineering, risk, and governance
+    teams
+  use_cases:
+  - Evaluation and quality assurance of enterprise LLM, RAG, agentic, and multimodal
+    AI systems
+  - Text classification and analysis of business data with NLP models
+  - Enterprise AI governance, safety, and compliance validation
+  - Automated regression testing and release gating for AI applications
+  - Scalable production AI inference and retrieval services
+  skills:
+    languages: [Python, R, Java, C++]
+    domains: [NLP]
+    web: [APIs]
+    cloud: []
+    data: [Hadoop, Spark, Data Pipelines]
+    ml: [Machine Learning, BERT, Transformers, GPT-4]
+    databases: []
+    genai: [LLMs, RAG, Prompt Engineering, Generative AI, AI Agents, LLM Evaluation]
+    ops: [MLOps, CI/CD, Model Deployment, Monitoring, Distributed Systems]
+    other: [Human-in-the-Loop Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881379'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - Sunrise, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:30:18.154977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

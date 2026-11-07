@@ -1,0 +1,58 @@
+company:
+  name: Alaffia Health
+  stage: Series B
+  focus: |-
+    AI-driven claims review and payment integrity for health
+    plans
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing multi-agent
+      systems, building RAG pipelines, fine-tuning LLMs (SFT,
+      LoRA), and applying RLHF/DPO alignment using clinician
+      feedback. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Design and build single- and multi-agent systems for claim review with planning,
+    tool use, memory, and multi-step reasoning
+  - Build and optimize RAG pipelines over policies, contracts, clinical guidelines,
+    and medical records including chunking, embeddings, hybrid search, and re-ranking
+  - Fine-tune open-source and proprietary LLMs (SFT, LoRA/QLoRA, instruction tuning)
+    on healthcare and claims data, managing dataset curation and model versioning
+  - Develop RL-based alignment methods (RLHF, DPO, reward modeling) using human-in-the-loop
+    feedback from clinical auditors
+  - Define evaluation frameworks, benchmarks, and metrics for agents, fine-tuned models,
+    and RAG systems including hallucination, faithfulness, and retrieval quality
+  - Take models and agents from prototype to production with the Software and DevOps
+    teams, optimizing for latency, cost, and reliability
+  - Ensure PHI is handled securely per HIPAA and build guardrails for accurate, explainable,
+    auditable outputs
+  use_cases:
+  - Automated medical claim review and auditing
+  - Grounded reasoning over policies, contracts, and clinical guidelines
+  - Improper payment detection and payment integrity for health plans
+  - Medical billing and coding automation with citations to source documents
+  - Agent decision quality improvement via clinician feedback alignment
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, Function Calling, RAG,
+      Embeddings, Semantic Search, Fine-Tuning, LoRA, RLHF, Guardrails, LLMs, Prompt
+        Engineering]
+    ml: [PyTorch, Hugging Face, Reinforcement Learning, Model Training, Model Evaluation,
+      Machine Learning, DPO]
+    web: [FastAPI]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Distributed Training]
+    ops: [MLflow, Langfuse, Weights & Biases, vLLM, TGI, MLOps]
+    languages: [Python]
+    domains: [Healthcare AI]
+    other: [HIPAA Compliance, ICD-10/CPT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11928707'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:00:04.819092'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

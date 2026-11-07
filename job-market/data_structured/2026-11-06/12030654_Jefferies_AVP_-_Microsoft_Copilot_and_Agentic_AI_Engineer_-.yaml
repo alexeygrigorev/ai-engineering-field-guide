@@ -1,0 +1,63 @@
+company:
+  name: Jefferies
+  stage: null
+  focus: Global investment banking and capital markets firm
+position:
+  title: AVP - Microsoft Copilot and Agentic AI Engineer - IT Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI solutions (Copilot
+      Studio agents, orchestration, tool use), configures Azure
+      OpenAI/Azure AI Foundry including prompt design, evaluation,
+      and RAG patterns, and validates agent behavior — directly
+      shaping LLM output quality, so it is ai-first.
+  responsibilities:
+  - Design, deploy, administer and optimize Microsoft 365 Copilot and Copilot Chat
+    across the tenant, including licensing, rollout waves and configuration baselines
+  - Build and support Copilot Studio agents, declarative and custom engine agents,
+    and bespoke AI assistants for business functions
+  - Design and implement agentic AI solutions with multi-step orchestration, tool
+    and connector integration, grounding strategy and human-in-the-loop controls
+  - Configure and support Azure AI Foundry, Azure OpenAI Service and the Azure AI
+    portfolio, including model selection, prompt design, evaluation and RAG over enterprise
+    content
+  - 'Administer Claude Cowork and Claude Code in the enterprise: enablement, access
+    control, usage monitoring and governance'
+  - Develop automation with Power Platform and Power Automate and integrate enterprise
+    apps via APIs, Microsoft Graph and custom connectors
+  - 'Establish enterprise AI governance: Purview DLP, Information Barriers, records
+    management, acceptable-use guardrails and Entra ID identity/least-privilege patterns'
+  - Partner with business, Compliance, Legal and Security stakeholders to deliver
+    AI use cases and drive adoption, training and change management
+  use_cases:
+  - Enterprise AI productivity via Microsoft 365 Copilot and Copilot Chat
+  - Business process automation with agentic AI assistants and Copilot Studio agents
+  - RAG over enterprise content grounded in Microsoft 365 data
+  - Governed enterprise rollout of Claude Cowork and Claude Code for AI coding and
+    productivity
+  - Regulatory compliance for AI tooling (information barriers, DLP, records management)
+    in a financial institution
+  - Enterprise automation replacing manual operational processes via Power Platform
+  skills:
+    genai: [Copilot Studio, Agentic Workflows, Prompt Engineering, RAG, LLM Evaluation,
+      Microsoft 365 Copilot, Claude Code, Claude Cowork, Multi-Agent Systems]
+    ml: []
+    web: [APIs, Microsoft Graph]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI]
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: [Power Platform, Power Automate, Microsoft Entra ID, Microsoft Purview,
+      Information Barriers, Enterprise AI Governance, Data Loss Prevention, Exchange
+        Online, SharePoint Online, Teams, OneDrive]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12030654'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:34:37.528711'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: AuxoAI
+  stage: null
+  focus: Enterprise AI agents and ML solutions
+position:
+  title: AI Engineer (FDE)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent frameworks, tool-calling
+      architectures, and evaluation frameworks for LLM-based
+      agents, which is shaping model behavior (ai-first). It also
+      involves classical ML models, but shaping both LLM and
+      classical systems classifies as ai-first.
+  responsibilities:
+  - Design and architect modular AI agent frameworks with skill decomposition, tool
+    orchestration, and persistent state tracking
+  - Build and deploy supervised and unsupervised ML models for prediction, classification,
+    anomaly detection, and pattern recognition
+  - Develop decision-making loops balancing cost, accuracy, latency, and reasoning
+    depth trade-offs
+  - Build structured memory systems including episodic, semantic, and vector-based
+    memory with optimized retrieval
+  - Design tool-calling architectures with execution validation, retry, and failure
+    recovery
+  - Develop evaluation frameworks for agent and model performance
+  - Integrate AI agents and ML models with enterprise systems
+  - Deliver production-ready AI systems meeting reliability, cost, throughput, observability,
+    and security requirements
+  use_cases:
+  - Autonomous enterprise workflows
+  - Decision engines for manufacturing, finance, supply chain, and enterprise operations
+  - Tool-driven agent ecosystems with structured reasoning and planning
+  - Predictive ML for classification, anomaly detection, and pattern recognition
+  - Enterprise system integration (ERP, MES, IoT)
+  skills:
+    genai: [AI Agents, Function Calling, RAG, Multi-Agent Systems]
+    ml: [scikit-learn, XGBoost, PyTorch, Feature Engineering, Model Monitoring, Model
+        Deployment, Model Evaluation, Anomaly Detection, Reinforcement Learning, RLHF,
+      LLMs]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Databricks]
+    cloud: [Vertex AI, Gemini, GCP, AWS Bedrock, SageMaker, Azure AI Foundry, Azure
+        ML, Azure OpenAI]
+    ops: [Distributed Systems, Monitoring, LangSmith, Langfuse, Grafana, Prometheus,
+      Kubernetes, Docker, Terraform, Helm, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11544926'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T12:08:58.859584'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

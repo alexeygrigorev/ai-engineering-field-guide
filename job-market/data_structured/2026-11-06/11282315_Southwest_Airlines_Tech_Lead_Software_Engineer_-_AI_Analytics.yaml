@@ -1,0 +1,54 @@
+company:
+  name: Southwest Airlines
+  stage: null
+  focus: Airline providing passenger air travel
+position:
+  title: Tech Lead Software Engineer - AI & Analytics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the end-to-end architecture of an Agentic AI
+      Recommendations Platform and requires LangGraph, LangChain,
+      and MCP framework experience, meaning the person shapes
+      agent flows and LLM application behavior directly. With
+      LLM/agent components clearly involved, it classifies as ai-
+      first.
+  responsibilities:
+  - Lead and mentor a development team in planning, delivery, and operation of highly
+    reliable software
+  - Own the end-to-end platform architecture for telemetry, evaluations, observability,
+    and the Agentic AI Recommendations Platform
+  - Create, maintain, review, and approve application designs with Solution Architects
+    and shared services teams
+  - Develop and review software with focus on quality, maintainability, and automated
+    testing
+  - Plan and oversee application deployment activities across non-production and production
+    environments
+  - Drive adoption of modern cloud, AI, and observability engineering practices and
+    mentor engineers
+  - Evaluate new technologies and manage technical debt against business value
+  use_cases:
+  - Agentic AI recommendations platform for airline operations
+  - Telemetry, evaluations, and observability for AI platforms
+  - Large-scale cloud-native distributed systems
+  - Event-driven streaming architectures
+  skills:
+    genai: [Agentic Workflows, LLMs, LangGraph, LangChain, MCP]
+    ml: [Machine Learning]
+    web: [APIs, Microservices, Event-Driven Architecture, System Design]
+    databases: []
+    data: [Kafka, Kinesis]
+    cloud: [AWS, AWS Lambda, ECS, EKS, AWS S3, IAM, CloudWatch]
+    ops: [CI/CD, DevSecOps, OpenTelemetry, Observability, Monitoring, Grafana, Datadog,
+      Prometheus, PagerDuty, Distributed Systems, Site Reliability Engineering]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11282315'
+  location: Choudwar, IND
+  extracted_at: '2026-11-06T11:29:08.121371'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

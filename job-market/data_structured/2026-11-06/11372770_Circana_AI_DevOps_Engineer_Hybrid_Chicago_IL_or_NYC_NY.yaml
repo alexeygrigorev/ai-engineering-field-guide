@@ -1,0 +1,57 @@
+company:
+  name: Circana
+  stage: null
+  focus: |-
+    Technology, AI and data analytics for consumer goods and
+    retail
+position:
+  title: 'AI DevOps Engineer| Hybrid: Chicago, IL or NYC, NY'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys and supports infrastructure hosting AI/ML
+      platforms (LLMs, vector databases, copilots) but does not
+      shape model behavior — no prompt design, retrieval
+      architecture, training, or evals. The deliverable is
+      capacity, reliability, and DevOps tooling, so it is ai-
+      support.
+  responsibilities:
+  - Design, build, and maintain enterprise DevOps platforms and CI/CD pipelines
+  - Implement Infrastructure as Code and automate deployment, provisioning, and patching
+  - Support on-premises data center infrastructure and hybrid cloud integration with
+    Azure and GCP
+  - Deploy and support AI/ML infrastructure for model training, inference, and generative
+    AI services
+  - Administer container platforms including Kubernetes, OpenShift, AKS, EKS, and
+    GKE
+  - Implement monitoring, observability, and SRE practices for production reliability
+  - Participate in incident management, on-call rotations, and disaster recovery testing
+  - Ensure security compliance, governance, and cost optimization across cloud environments
+  use_cases:
+  - Infrastructure platform support for AI engineering teams doing model training,
+    inference, and experimentation
+  - Operational support for generative AI, LLM, and AI copilot services
+  - Hybrid cloud platform delivery across on-premises data centers and hyperscaler
+    clouds
+  - Enterprise CI/CD automation and Infrastructure as Code for application delivery
+  skills:
+    languages: [PowerShell, Python, Bash]
+    domains: []
+    web: []
+    cloud: [Azure, GCP, AKS, EKS]
+    data: []
+    ml: []
+    databases: [Vector Databases]
+    genai: [LLMs, Generative AI]
+    ops: [Jenkins, Azure DevOps, CI/CD, Ansible, Infrastructure as Code, Linux, Kubernetes,
+      Docker, OpenShift, Grafana, Prometheus, Azure Monitor, Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11372770'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:37:37.754391'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

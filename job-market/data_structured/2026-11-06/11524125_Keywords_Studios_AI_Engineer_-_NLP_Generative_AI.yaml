@@ -1,0 +1,52 @@
+company:
+  name: Keywords Studios
+  stage: null
+  focus: Gaming services and player support automation
+position:
+  title: AI Engineer - NLP & Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds backend systems that power AI Agents, and
+      responsibilities include designing and integrating RAG
+      pipelines, embedding services, and AI Agent orchestration
+      workflows themselves — this is shaping retrieval and agent
+      flows (LLM-based), so ai-first per Step 2.
+  responsibilities:
+  - Design, develop, and maintain scalable backend services and APIs using Python
+    and FastAPI
+  - Build backend workflows supporting AI Agents and customer support automation use
+    cases
+  - Develop secure and performant REST APIs for internal and external consumers
+  - Integrate AI components such as RAG pipelines, embedding services, and inference
+    APIs into backend systems
+  - Work with MongoDB, YugabyteDB, and PostgreSQL for high-scale, low-latency workloads
+  - Containerize with Docker and deploy/manage services on Kubernetes
+  - Deploy and operate services on AWS and GCP; maintain CI/CD pipelines and CM/CR
+    release processes
+  - Use Grafana, Elasticsearch, and Kibana for observability, debugging, and reliability;
+    troubleshoot production issues
+  use_cases:
+  - Customer support ticket automation for the gaming industry at scale
+  - AI Agent-powered support workflows
+  - Retrieval-based systems for support automation
+  - High-throughput backend services integrating AI components
+  skills:
+    genai: [AI Agents, RAG, Embeddings, MCP, LLMs]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Vector Search, MongoDB, PostgreSQL, YugabyteDB, Elasticsearch]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, Grafana, Kibana]
+    languages: [Python, Clojure]
+    domains: []
+    other: [Distributed Systems, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11524125'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:04:52.746138'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

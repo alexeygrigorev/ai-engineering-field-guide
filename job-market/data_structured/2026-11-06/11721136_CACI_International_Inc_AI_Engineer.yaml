@@ -1,0 +1,54 @@
+company:
+  name: CACI International Inc
+  stage: null
+  focus: Defense and government IT services contractor
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates RAG, agent workflows, and
+      prompt/context design using LangChain and Microsoft Agent
+      Framework, directly shaping LLM and agent behavior. This is
+      clearly ai-first per Step 2.
+  responsibilities:
+  - Design, develop, test, document, and maintain AI-enabled applications and services
+  - Implement AI and agent workflows using LangChain, Microsoft Agent Framework, or
+    other frameworks
+  - Develop RAG capabilities including data ingestion, retrieval, grounding, and integration
+    with enterprise sources
+  - Integrate AI models with APIs, enterprise applications, and business workflows
+    with human review
+  - Create and execute automated tests and evaluations to assess accuracy, relevance,
+    grounding, safety, and performance
+  - Support deployment and operations including CI/CD, monitoring, and incident resolution
+  - Apply security, privacy, and authorization-aware retrieval controls
+  - Contribute to AI safety and alignment policies and procedures
+  use_cases:
+  - AI-enabled applications for the United States Secret Service and Department of
+    Homeland Security
+  - Agent-based solutions integrated with enterprise data and workflows
+  - Retrieval-augmented generation over authorized enterprise information sources
+  - Tool and API integrations with human review
+  - Secure, privacy-protective AI capabilities in a government environment
+  skills:
+    genai: [LangChain, Microsoft Agent Framework, RAG, AI Agents, Prompt Engineering,
+      Agentic Workflows, LangGraph, Azure OpenAI, Generative AI]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: [CI/CD, DevSecOps, Observability]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, NIST AI Safety Framework]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11721136'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:42:08.079367'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

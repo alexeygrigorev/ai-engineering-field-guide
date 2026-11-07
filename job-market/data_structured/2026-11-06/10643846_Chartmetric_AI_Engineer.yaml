@@ -1,0 +1,53 @@
+company:
+  name: Chartmetric
+  stage: null
+  focus: Music data analytics dashboards for the industry
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents and AI-powered product features
+      using RAG, prompts, tools, and evaluations, which is
+      directly shaping LLM/agent behavior. Core stack also
+      includes full-stack web engineering, but the shaping
+      responsibilities make it ai-first.
+  responsibilities:
+  - Lead significant technical projects from architecture and design through deployment
+    and production support
+  - Use Claude Code, Codex, and AI coding agents to accelerate development
+  - Build AI-powered product features and internal agents using RAG, prompts, tools,
+    and evaluations
+  - Design scalable APIs, services, and data-intensive systems
+  - Improve engineering productivity through reusable tooling and automation
+  - Mentor teammates and contribute to architecture, code reviews, and engineering
+    standards
+  - Build and own full-stack product features across React, Next.js, Node.js, PostgreSQL,
+    and AWS
+  use_cases:
+  - AI-powered product features for music analytics
+  - Internal AI agents for workflow automation
+  - Self-service music industry data dashboard
+  - Data-intensive analytics systems across streaming and social platforms
+  skills:
+    genai: [Claude Code, Codex, AI Agents, RAG, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [React, Next.js, Node.js, APIs]
+    databases: [PostgreSQL, Snowflake]
+    data: [ClickHouse, Airflow, Data Engineering]
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10643846'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Mateo, USA
+  extracted_at: '2026-11-06T11:20:55.163401'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

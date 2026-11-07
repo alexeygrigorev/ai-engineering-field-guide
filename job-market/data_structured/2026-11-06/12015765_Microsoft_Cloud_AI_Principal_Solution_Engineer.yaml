@@ -1,0 +1,58 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud computing and AI software platform
+position:
+  title: Cloud & AI Principal Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a customer-facing solution engineer who runs hands-
+      on engagements (PoCs, hackathons, collaborative coding)
+      helping customers build agentic AI solutions with AI
+      Foundry, Semantic Kernel, and orchestration frameworks -
+      analogous to a Forward Deployed Engineer who adapts and
+      deploys AI solutions at customer sites. They co-design
+      agent-based architectures themselves, which is shaping
+      LLM/agent behaviour, so ai-first applies.
+  responsibilities:
+  - Drive technical sales engagements with decision-makers using demos and proofs
+    of concept to influence solution design and enable production deployments
+  - Lead hands-on engagements including hackathons, collaborative coding sessions,
+    and architecture workshops to accelerate adoption of Microsoft developer tools
+    and cloud platforms
+  - Co-design secure and scalable architectures and solutions with customer developers
+    and platform leaders
+  - Resolve technical blockers and address objections while sharing customer insights
+    with engineering teams
+  - Maintain expertise in AI Foundry, agentic AI frameworks, Semantic Kernel, Responsible
+    AI, and cloud-native application architecture
+  - Represent Microsoft through thought leadership in developer communities and customer
+    forums
+  use_cases:
+  - Customer adoption of agentic AI development using AI Foundry and Azure AI
+  - Secure and scalable AI application architecture design for enterprises
+  - Application modernization and cloud-native migration with AI integration
+  - Developer productivity improvement through AI-assisted development tools
+  - AI management, security, and Responsible AI adoption in production deployments
+  skills:
+    genai: [AI Agents, Semantic Kernel, Fine-Tuning, Agentic Workflows, Copilot Studio]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Microsoft Sentinel, Azure]
+    ops: [Microservices, Monitoring, GitHub]
+    languages: [Python, Java, .NET, Node.js, C#, C++]
+    domains: []
+    other: [Responsible AI, Event-Driven Architecture, Generative AI Operations, Visual
+        Studio Code, Jupyter, PyCharm, Power BI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12015765'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:30:01.203322'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

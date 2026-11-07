@@ -1,0 +1,53 @@
+company:
+  name: PermitFlow
+  stage: Series B (raised $90M+)
+  focus: AI agents for construction permitting and compliance
+position:
+  title: Principal Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent architecture, reasoning loops,
+      retrieval/context layer, tool-calling design, and eval
+      harnesses for an LLM-powered assistant - clearly shaping
+      model behavior. This is ai-first since the core product is
+      an LLM/agent system.
+  responsibilities:
+  - Own agent architecture including reasoning loop, planning, state/session model,
+    and recovery for long-running tasks
+  - 'Build the context layer: retrieval, memory, and context-window management over
+    project documents and jurisdictional requirements'
+  - Design the tool/action surface, permissions model, and human-in-the-loop checkpoints
+  - Stand up offline and online eval harnesses measuring task completion and failure
+    modes
+  - Establish abstractions, SDKs, and review standards for other engineers building
+    agentic features
+  - 'Stay close to customers: observe permit coordinators using the assistant and
+    feed findings into system design'
+  use_cases:
+  - Automating construction permit submission end-to-end
+  - Comprehending construction documents and extracting project details
+  - Verifying permitting, licensing, and inspection requirements across jurisdictions
+  - Filling PDF forms for permit applications
+  - Assisting permit coordinators with compliance workflows and project closeouts
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Context Engineering, RAG,
+      LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Eval Harnesses]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12086192'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T14:52:48.184079'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

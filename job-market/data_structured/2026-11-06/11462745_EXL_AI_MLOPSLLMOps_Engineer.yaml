@@ -1,0 +1,58 @@
+company:
+  name: EXL
+  stage: null
+  focus: Analytics and digital operations/business process services
+position:
+  title: AI MLOPS/LLMOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and tunes hybrid search/retrieval pipelines
+      (chunking, embeddings, reranking via dense + lexical search)
+      and instruments evaluation scoring for retrieval quality,
+      which is directly shaping LLM/retrieval system output
+      quality. LLM integrations for query expansion and trend
+      detection are designed by this person, not merely consumed.
+  responsibilities:
+  - Integrate and adjust inference pipelines for NLP modules including document classification,
+    entity extraction, de-identification, and LLM-based trend detection
+  - Connect data science-coded AI modules into production workflows via Airflow DAGs
+    on AWS EKS
+  - Build and tune hybrid search pipelines combining multilingual dense embeddings
+    with GIN lexical search on Aurora PostgreSQL
+  - Integrate with OpenAI-based API platform for multilingual query expansion and
+    LLM-driven trend detection
+  - Design and maintain document preprocessing pipelines parsing nested JSON from
+    S3/DataLake with chunking and metadata extraction
+  - Author and maintain Airflow DAGs for batch processing across AWS services (S3,
+    Athena, Glue, Fargate, SQS, Step Functions)
+  - Deploy and version models using MLflow and Databricks with schema migration via
+    Liquibase
+  - Instrument pipelines with logging, monitoring, and evaluation scoring for retrieval
+    quality
+  use_cases:
+  - Document classification and entity extraction on insurance claims
+  - PII masking and de-identification of multilingual claim notes
+  - Hybrid semantic and lexical search over hundreds of millions of text chunks
+  - LLM-based early trend detection and multilingual query expansion
+  - Large-scale document parsing and processing of embedded multilingual content
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [AWS, AWS S3, Azure Databricks]
+    data: [Airflow, Data Pipelines, Databricks]
+    ml: [NLP, Text Classification]
+    databases: [Vector Databases, pgvector, PostgreSQL, Aurora, Full-Text Search]
+    genai: [LLMs, OpenAI API, Embeddings, Vector Search]
+    ops: [MLflow, CI/CD, GitHub, Kubernetes, Model Deployment, Monitoring]
+    other: [Named Entity Recognition, PII Masking, Entity Extraction, Liquibase, AWS
+        Athena, AWS Glue, AWS Fargate, AWS EKS, AWS SQS, AWS Step Functions, JSON]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11462745'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T11:54:25.723695'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

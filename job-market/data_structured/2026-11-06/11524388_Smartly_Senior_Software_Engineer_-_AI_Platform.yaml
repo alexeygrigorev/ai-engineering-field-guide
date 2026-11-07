@@ -1,0 +1,47 @@
+company:
+  name: Smartly
+  stage: null
+  focus: AI-powered advertising technology platform
+position:
+  title: Senior Software Engineer - AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is backend engineering supporting data scientists
+      in bringing ML models to production; the person does not
+      shape model behavior themselves. ML frameworks and MLOps are
+      listed only as pluses, not core responsibilities.
+  responsibilities:
+  - Design, build and maintain backend services at the core of campaign optimization
+    products
+  - Support data scientists in bringing machine learning models to production
+  - Improve software architecture, coding practices, tools, and processes
+  - Work with product, engineering, and infrastructure stakeholders to translate business
+    needs into solutions
+  - Mentor team on software development practices like testing, monitoring, and clean
+    code
+  - Participate in work planning, retrospectives, and team improvement
+  use_cases:
+  - Campaign optimization for advertisers
+  - Ad creative generation across images, video, and text
+  - Media and creative workflow automation for marketers
+  - Product and performance data analysis for advertising
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow]
+    web: [Node.js, React, Microservices]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, MLflow, Kubeflow, MLOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11524388'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:05:06.347547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

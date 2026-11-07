@@ -1,0 +1,62 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy: quality engineering, cloud
+    platforms, developer experience
+position:
+  title: AI Security Engineer (Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and runs adversarial red-team evaluations
+      against LLMs and agentic systems, builds repeatable evals
+      for non-deterministic outputs, and defines hallucination
+      detection and mitigation approaches — this is building evals
+      and output-quality testing for models, which is shaping LLM
+      behaviour, so ai-first.
+  responsibilities:
+  - Design and run red-team exercises against AI agents and agentic workflows, including
+    prompt injection, tool-call manipulation, agent hijacking, and context poisoning
+  - Build repeatable evaluation approaches for non-deterministic systems and own hallucination
+    detection, measurement, and mitigation for agent and LLM outputs
+  - Own agentic AI risk identification and governance across an account, building
+    risk views, test strategies, and tooling recommendations
+  - Map findings and controls to external frameworks such as OWASP's agent risk taxonomy,
+    NIST AI RMF, and MITRE ATLAS
+  - Design controls for internal versus client-facing agent outputs, including review,
+    sanitisation, and gating
+  - Define rollback and incident-response procedures for compromised or misbehaving
+    agents
+  - Recommend and select agentic security testing and monitoring tooling and advise
+    delivery teams on embedding it
+  - Train and upskill security engineers to implement and automate the agentic testing
+    strategy
+  use_cases:
+  - Red-teaming and adversarial security testing of AI agents and agentic workflows
+  - Detection and mitigation of hallucinations in LLM and agent outputs
+  - Governance, risk management, and regulatory compliance for agentic AI across enterprise
+    accounts
+  - Incident response and safe rollback of compromised AI agents
+  - Evaluation of non-deterministic AI system outputs
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure]
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Agents, Agentic Workflows, LLMs, Prompt Injection, Guardrails, LLM
+        Evaluation, Multi-Agent Systems, Red Teaming]
+    ops: [Terraform, CI/CD]
+    other: [OWASP Top 10 for LLM Applications, MITRE ATLAS, NIST AI Risk Management
+        Framework, Threat Modelling, Responsible AI, EU AI Act]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893691'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:48:36.348961'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

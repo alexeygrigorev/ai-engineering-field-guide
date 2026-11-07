@@ -1,0 +1,54 @@
+company:
+  name: TIAA
+  stage: null
+  focus: Financial services and retirement planning
+position:
+  title: Senior Associate - AI Platform Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent frameworks, MCP integrations, RAG
+      architectures, prompt/context optimization, and fine-tunes
+      SLMs - directly shaping LLM/agent behavior and output
+      quality. All shaped models are LLM/agent components, so ai-
+      first.
+  responsibilities:
+  - Design and develop AI agent frameworks and orchestration layers for enterprise
+    use cases
+  - Apply LLM optimization techniques (quantization, distillation, prompt/context
+    optimization, caching) for latency and cost
+  - Lead fine-tuning of small language models for domain-specific use cases
+  - Architect backend services and APIs for AI model integration and deployment
+  - Deploy AI infrastructure and services on AWS/cloud platforms
+  - Implement Model Context Protocol (MCP) integrations for standardized agent tool/data
+    access
+  - Mentor Associate-level engineers and review code/design quality
+  - Evaluate emerging agentic AI and LLM engineering tools and recommend adoption
+  use_cases:
+  - Enterprise AI agent systems with orchestration layers
+  - Domain-specific small language model applications
+  - Tool and data access for AI agents via MCP
+  - LLM application infrastructure for enterprise financial services
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, LLMs, AI Agents, Multi-Agent Workflows,
+      RAG, Prompt Engineering, MCP, Fine-Tuning, Quantization, Agentic Workflows]
+    ml: [Machine Learning, Distillation]
+    web: [APIs, Microservices, System Architecture]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11671296'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Mumbai, IND
+  extracted_at: '2026-11-06T12:31:00.353540'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

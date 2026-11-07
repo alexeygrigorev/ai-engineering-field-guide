@@ -1,0 +1,59 @@
+company:
+  name: Stripe
+  stage: null
+  focus: Financial infrastructure platform for online payments
+position:
+  title: Solutions Engineer, AI Build Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds payments, billing, and monetization
+      solutions for AI company customers; AI tools (Cursor, Claude
+      Code, Codex) are used only as coding harnesses to accelerate
+      prototyping. The person does not shape any model's behavior,
+      prompts, or retrieval systems — AI is named as the industry
+      vertical and as a developer tool, both of which are ai-
+      support signals.
+  responsibilities:
+  - Own strategic proof-of-concept engagements end to end, from scoping through activation
+    and handoff
+  - Work deeply with customer engineers and technical leaders to understand workflows
+    and rapidly prototype solutions
+  - Design solutions spanning multiple Stripe products and resolve interoperability
+    and 0→1 gaps
+  - Translate customer needs and deployment friction into product requirements to
+    influence Stripe's roadmap
+  - Coordinate AI account teams, Solutions Architects, product, engineering, and post-sales
+    resources cross-functionally
+  - Turn customer-specific work into reusable prototypes, reference architectures,
+    and implementation playbooks
+  - Stay current on emerging AI companies, products, and technical developments across
+    the industry
+  use_cases:
+  - Payments, billing, and monetization infrastructure for frontier AI companies
+  - Proof-of-concept engagements bridging pre- and post-sales for emerging Stripe
+    products
+  - Closing interoperability and 0→1 solution gaps between Stripe products and customer
+    systems
+  - Reusable reference architectures and implementation patterns for AI-industry customers
+  skills:
+    genai: []
+    ml: []
+    web: [APIs, Integrations]
+    databases: []
+    data: [Data Flows]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript, Java, Ruby]
+    domains: []
+    other: [Application Architecture, Cursor, Claude Code, Codex, Rapid Prototyping,
+      Proof of Concepts]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11728637'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T12:43:55.403163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

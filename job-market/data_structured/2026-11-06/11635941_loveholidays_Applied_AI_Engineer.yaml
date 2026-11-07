@@ -1,0 +1,50 @@
+company:
+  name: loveholidays
+  stage: null
+  focus: Online travel agency and holiday booking platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI workflows with orchestration,
+      RAG, evaluation, and tool-using agents using Google ADK,
+      directly shaping model behavior and output. LLM/agent
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Administer and improve SaaS platforms and AI-enabled services including configuration,
+    access, environments, integrations and lifecycle management
+  - Build and maintain applied and agentic AI workflows and automation pipelines connecting
+    models, tools, business data, APIs and SaaS systems
+  - Use Google ADK or similar frameworks to build, test and iterate on tool-using
+    agents and AI-powered automations
+  - Monitor service health, usage, cost and performance; lead testing, evaluation
+    and incident triage
+  - Partner with product, engineering, security, vendors and business teams on configurations
+    and integrations
+  - Document configurations, dependencies and runbooks with secure change-management
+    practices
+  use_cases:
+  - Intelligent automation for travel business operations
+  - Agentic AI workflows connecting business data and SaaS systems
+  - AI-enabled services supporting customers and colleagues
+  - Automated integrations between SaaS platforms and backend systems
+  skills:
+    languages: []
+    domains: []
+    web: [REST APIs, Webhooks]
+    cloud: [Google ADK, GCP]
+    data: [Data Pipelines]
+    ml: []
+    databases: []
+    genai: [Agentic Workflows, RAG, LLM Evaluation, AI Agents]
+    ops: [CI/CD, Observability, Incident Management]
+    other: [SaaS Administration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11635941'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:27:34.932718'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

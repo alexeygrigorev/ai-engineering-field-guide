@@ -1,0 +1,59 @@
+company:
+  name: MetTel
+  stage: null
+  focus: |-
+    Managed communications, connectivity and network services
+    for business and government
+position:
+  title: Senior Software Engineer -AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond using AI coding tools: it designs and
+      implements AI-powered solutions like AI assistants,
+      copilots, knowledge retrieval, prompt engineering, and LLM
+      integration into products and processes. This is shaping LLM
+      behavior, so it's ai-first.
+  responsibilities:
+  - Develop AI-enabled applications using LLMs, Generative AI, and intelligent automation
+    frameworks
+  - Design AI-powered solutions including assistants, copilots, knowledge retrieval,
+    and workflow automation
+  - Lead end-to-end modernization of legacy enterprise applications to cloud-native
+    architectures
+  - Build full-stack applications with TypeScript, Node.js, NestJS, React, Python,
+    and REST APIs
+  - Implement intelligent workflow orchestration with Temporal.io and AI decisioning
+    in enterprise processes
+  - Design, deploy, and maintain cloud-native applications across AWS, Azure, and
+    GCP
+  - Establish best practices for AI-assisted development, code quality, testing, and
+    security
+  - Mentor engineers and serve as technical leader in AI-driven engineering practices
+  use_cases:
+  - AI assistants, copilots, and conversational AI for enterprise productivity
+  - Knowledge retrieval and enterprise search systems
+  - Workflow automation with AI decisioning in long-running business processes
+  - LLM integration into enterprise products and business processes
+  - Legacy platform modernization to cloud-native architectures
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, RAG, LangChain, Semantic Kernel,
+      LlamaIndex, OpenAI API, Anthropic API, Claude Code, GitHub Copilot, Cursor,
+      Conversational AI, AI Agents]
+    ml: [MLOps]
+    web: [REST APIs, React, Node.js, NestJS]
+    databases: [NoSQL, SQL Server, PostgreSQL, pgvector, Pinecone, Weaviate, Chrom]
+    data: [Kafka, Airflow, Flink, Event-Driven Architecture]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Infrastructure as Code, Kubernetes, Docker, Temporal]
+    languages: [TypeScript, JavaScript, Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11947831'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:08:04.637117'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

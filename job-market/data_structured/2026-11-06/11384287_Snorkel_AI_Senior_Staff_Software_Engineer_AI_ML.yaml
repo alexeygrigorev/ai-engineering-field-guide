@@ -1,0 +1,56 @@
+company:
+  name: Snorkel AI
+  stage: Series E ($350M raise, $3.5B valuation)
+  focus: |-
+    Frontier AI data lab building datasets, evals, and
+    benchmarks
+position:
+  title: Senior / Staff Software Engineer — AI / ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM output quality: building agentic evals,
+      quantifying LLM-as-judge accuracy, routing eval/judge calls
+      by model quality, and fine-tuning open-weight models with
+      LoRA. This is evaluating and shaping LLM behavior, making it
+      ai-first.
+  responsibilities:
+  - Make frontier-grade data generation and evaluation faster, cheaper, and more rigorous
+    with ML and AI
+  - Build efficient agentic evals using adaptive sampling, early stopping, model cascades,
+    and caching
+  - Implement AI model routing that sends eval and judge calls to the cheapest model
+    clearing quality bar
+  - Fine-tune and serve open-weight small models (LoRA and parameter-efficient methods)
+  - Build predictive difficulty models estimating task hardness for frontier systems
+  - Construct golden datasets and quantify accuracy and calibration of LLM-as-judge
+    systems
+  - Turn research prototypes into reusable, configurable production components
+  use_cases:
+  - Cost-efficient long-horizon agentic AI evaluation
+  - Model routing and cascades for eval and judge calls
+  - Fine-tuned small models as cost-effective alternatives to frontier models
+  - Predictive task difficulty estimation for frontier AI systems
+  - Measurement and calibration of AI training data quality
+  skills:
+    genai: [LLMs, Fine-Tuning, LoRA, LLM Evaluation]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: []
+    data: [Statistics]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11384287'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:38:43.674066'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

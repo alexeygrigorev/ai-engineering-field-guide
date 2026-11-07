@@ -1,0 +1,54 @@
+company:
+  name: NielsenIQ
+  stage: null
+  focus: Consumer intelligence and retail analytics
+position:
+  title: Senior Engineer, IAM with designing and architecturing AI/ML systems
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role leads the full ML lifecycle (anomaly detection,
+      clustering, classification, graph-based models) for identity
+      security with no LLM, prompt, or agent component. This is
+      classical ML model building and evaluation, so ml-first.
+  responsibilities:
+  - Design and evolve the IAM technology stack with top-tier security practices
+  - Design and build AI/ML solutions analyzing identity, access, and behavioral data
+    to detect anomalies and automate identity security
+  - 'Lead end-to-end ML lifecycle: ingestion, feature engineering, model development,
+    evaluation, deployment, and monitoring'
+  - Architect scalable ML pipelines using Python, cloud-native services, APIs, and
+    infrastructure-as-code
+  - Develop and deploy real-time and batch inference services for identity and access
+    pattern recognition
+  - Apply anomaly detection, clustering, classification, and graph-based models to
+    human and non-human identity use cases
+  - Design model monitoring, drift detection, and performance metrics aligned to security
+    KPIs
+  - Drive MLOps best practices and mentor junior engineers on applied AI standards
+  use_cases:
+  - Anomaly and risk detection in identity, access, and behavioral data
+  - Automated identity security services enforcing IAM, PAM, and Secrets Management
+    controls
+  - Real-time and batch inference for identity and access pattern recognition
+  - ML-driven security intelligence for human and non-human identities
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Anomaly Detection, Feature Engineering,
+      Model Evaluation, Model Training]
+    web: [REST APIs, APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [Distributed Systems, MLOps, CI/CD, Monitoring, Git, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [IAM, PAM, Zero Trust, Cybersecurity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11628407'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:25:15.391685'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Jefferies
+  stage: null
+  focus: Global investment banking and capital markets firm
+position:
+  title: Associate - AI Tooling Ops - Platform Reliability Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs and maintains AI tooling infrastructure on
+      AWS/Kubernetes - capacity, reliability, and observability
+      work. There is no shaping of model behaviour: no prompt
+      engineering, RAG design, evals, or training. Serving/hosting
+      infrastructure someone else builds is ai-support.
+  responsibilities:
+  - Design, build, and maintain AI tooling infrastructure on AWS and Kubernetes
+  - Monitor platform health, identify risks, and improve reliability, performance,
+    and availability
+  - Perform incident triage, troubleshooting, communication, and post-incident reviews
+  - Develop automation to reduce operational toil and manual support activities
+  - Build dashboards, alerts, and observability with Grafana, Datadog, Prometheus,
+    and OpenTelemetry
+  - Analyze logs, metrics, and distributed traces to identify bottlenecks
+  - Support enterprise messaging and Kafka-based event-driven architectures
+  - Participate in production support, problem, release, and change management
+  use_cases:
+  - Reliability and operational support for post-trade processing platforms
+  - Operational excellence and observability for AI tooling infrastructure
+  - Automation to reduce manual production support effort
+  - Enterprise messaging and Kafka-based platform support
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [NoSQL, Relational Databases, Redis, MongoDB, Elasticsearch]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Grafana, Datadog, Prometheus, OpenTelemetry, Loki, Jaeger, Observability,
+      CI/CD, Infrastructure as Code, Linux, Git, Jenkins, Ansible, Terraform, Docker,
+      OpenShift, DevOps, Distributed Systems]
+    languages: [Python, Go, C#, Java, C++]
+    domains: []
+    other: [System Design, Event-Driven Architecture, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11367165'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:36:22.628895'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

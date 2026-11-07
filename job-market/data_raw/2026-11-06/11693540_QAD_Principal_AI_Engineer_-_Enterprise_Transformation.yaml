@@ -1,0 +1,323 @@
+job_id: 11693540
+title: Principal AI Engineer - Enterprise Transformation
+company: QAD
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 1,678 Employees
+description: |
+  Company Description
+
+  QAD | Redzone is building an enterprise AI platform to
+  support AI-enabled and agentic workflows across the
+  organisation. The AI Centre of Excellence (CoE) is
+  accountable for turning that ambition into deployed,
+  measured, production workflows across priority business
+  functions.
+
+  The CoE is small, senior and high-leverage. It sets
+  architecture and standards, builds reusable capability, and
+  delivers through a combination of internal engineering and
+  external implementation partners. This is one of six
+  foundational hires and the first dedicated engineering hire
+  in the team.
+
+  Job Description
+
+  The Senior AI Engineer is the primary builder in the CoE.
+  You will take prioritised workflows from architecture and
+  PRD through to working, evaluated, production-grade AI
+  systems — and, just as importantly, factor what you build
+  into a reusable component library so that the fifth workflow
+  costs a fraction of the first.
+
+  This is an applied engineering role with unusually high
+  leverage. You are not building one product; you are building
+  the components, patterns and reference implementations that
+  internal engineers and external partner pods will use to
+  build many. The work spans retrieval, agent orchestration,
+  evaluation, and the unglamorous production engineering —
+  latency, cost, failure handling, observability — that
+  separates a demo from a system the business can depend on.
+
+  Where this role sits
+
+  Reports to: Head of the AI Centre of Excellence
+
+  Technical direction from: Lead AI Architect — you will work
+  alongside them daily, and you are expected to push back when
+  a design will not survive contact with production
+
+  Works with: The functional AI Engagement Specialists who own
+  the workflows, PRDs and quality bar for the business
+  functions in scope
+
+  Also partners with QAD engineering teams, Data & Platform
+  Engineering, Security & GRC, and external system integrators
+
+  Scope: Foundational engineering hire. Expect to set the
+  engineering standard, mentor subsequent hires, and review
+  partner-delivered code.
+
+  Key responsibilities
+
+  Building AI and agentic workflows
+
+  - Build production AI and agentic workflows end to end — from
+    PRD and architecture through implementation, evaluation,
+    release and iteration in production.
+  - Design and implement agent orchestration: multi-step flows,
+    tool and API invocation, planning and routing, state and
+    memory, retries, fallbacks, timeouts and human-in-the-loop
+    checkpoints.
+  - Make the judgement call on deterministic control flow versus
+    model-driven control flow — and default to the former
+    wherever it produces the same outcome more reliably and
+    more cheaply.
+  - Integrate with enterprise systems — ERP, CRM, support,
+    services delivery, knowledge and data platforms —
+    including systems with imperfect APIs and imperfect data.
+
+  Retrieval and context engineering
+
+  - Own the retrieval stack: corpus onboarding, document
+    parsing, chunking strategy, embedding selection, hybrid
+    lexical and vector search, reranking, metadata filtering
+    and query transformation.
+  - Implement permission-aware retrieval so that a user or an
+    agent can only ever retrieve what that identity is
+    entitled to see — non-negotiable in an enterprise context.
+  - Handle freshness and incremental indexing so that retrieval
+    reflects the state of the business rather than a snapshot
+    from onboarding day.
+  - Measure retrieval quality explicitly and treat it as a
+    tunable subsystem with its own metrics, not as an
+    assumption.
+
+  Model selection, tuning and evaluation
+
+  - Select, tune and route models across tiers based on measured
+    quality, latency and cost — not on reputation or recency.
+  - Own prompt engineering, versioning, structured output and
+    context strategy as versioned, tested artefacts under
+    source control.
+  - Apply fine-tuning, adapters or distillation only where
+    evidence shows the return justifies the operating burden —
+    and be able to make that argument either way.
+  - Build the evaluation harness: golden datasets, offline
+    evaluation, LLM-as-judge with human calibration,
+    regression suites running in CI, and online quality
+    monitoring with structured feedback capture.
+  - Work with the Engagement Specialists to turn a business
+    quality bar into measurable criteria — and be honest when
+    a workflow does not clear it.
+
+  The reusable component library
+
+  - Design, build and maintain the shared component library —
+    SDKs, shared services, templates, reference
+    implementations and documentation — that both internal
+    engineers and partner pods build against.
+  - Treat internal engineers and SI teams as customers of your
+    library: versioning, backwards compatibility, examples,
+    and documentation good enough that people use it without
+    asking you.
+  - Review partner-delivered code and designs for conformance,
+    quality and maintainability.
+
+  Production engineering and operations
+
+  - Meet explicit latency and cost budgets per workflow, using
+    caching, batching, streaming, model tiering and prompt
+    efficiency.
+  - Build for graceful degradation: provider outages, rate
+    limits, backpressure, partial failures and safe fallbacks.
+  - Implement observability for non-deterministic systems — full
+    step-level tracing, token and cost telemetry, quality
+    dashboards, and a triage path for incidents where nothing
+    crashed but the output was wrong.
+  - Own infrastructure as code, CI/CD, environment promotion,
+    secret and credential handling, and testing discipline for
+    everything the CoE ships.
+  - Participate in the operational support model for live AI
+    workflows, including post-incident review and remediation.
+
+  Craft and team
+
+  - Set the engineering standard for the CoE and raise it as the
+    team grows.
+  - Mentor subsequent engineering hires and partner engineers.
+  - Document decisions and trade-offs so that the next engineer
+    inherits reasoning, not just code.
+
+  Qualifications
+
+  What we are looking for
+
+  Essential
+
+  - 6+ years of professional software engineering, including 2+
+    years building and operating production LLM or GenAI
+    systems — systems with real users and real operating cost,
+    not notebooks or proofs of concept.
+  - Excellent Python, plus working competence in at least one
+    other language (TypeScript, Go, Java or similar).
+  - Genuine production retrieval experience — you have built a
+    RAG or hybrid search system, measured it, found it
+    wanting, and improved it.
+  - Agent orchestration experience with frameworks such as
+    LangGraph, LlamaIndex, Semantic Kernel, Google ADK,
+    Strands, CrewAI or equivalent — together with the
+    judgement to know when a framework is the wrong answer.
+  - Strong AWS and/or GCP experience, including managed AI
+    services (Bedrock, SageMaker, Vertex AI or equivalent)
+    alongside core compute, serverless, networking, IAM and
+    managed data services.
+  - API design and enterprise integration, including
+    authentication and authorisation patterns — OAuth 2.0 /
+    OIDC, service-to-service authentication, and delegated or
+    on-behalf-of access.
+  - Containerisation, infrastructure as code (Terraform, CDK or
+    equivalent), CI/CD and real testing discipline.
+  - Evaluation rigour — you can define what “good” means
+    numerically for a subjective task, defend the definition,
+    and act on the result.
+  - Cost and latency awareness as a design instinct, not an
+    afterthought raised by finance.
+  - Clear written communication — design notes, documentation
+    and honest status.
+  - Comfort with ambiguity and shifting priorities in an early-
+    stage function.
+
+  Strongly preferred
+
+  - Vector and hybrid search infrastructure at production scale
+    — OpenSearch, pgvector, Vertex AI Search, Elasticsearch,
+    Pinecone, Weaviate or similar.
+  - Evaluation and observability tooling — LangSmith, Langfuse,
+    Phoenix, Braintrust, Ragas, DeepEval or equivalent.
+  - Multi-tenant SaaS engineering, and the data isolation
+    discipline that comes with it.
+  - ERP, manufacturing or supply chain data experience.
+  - Classical ML and MLOps background — feature stores, model
+    registries, monitoring and drift.
+  - Fine-tuning, parameter-efficient adaptation, or model
+    serving and optimisation.
+  - Experience building internal platforms or SDKs consumed by
+    other engineers.
+  - Open-source contribution in the AI engineering ecosystem.
+
+  The technical environment
+
+  A predominantly AWS estate with a meaningful GCP footprint,
+  multi-tenant SaaS products, ERP and manufacturing data, and
+  a heterogeneous set of enterprise systems across CRM,
+  support, services delivery, marketing and data platforms.
+  Engineering capacity is a mix of internal team and external
+  implementation partners.
+
+  The AI toolchain is not fixed. You will help select it — and
+  then live with the consequences, which is the correct
+  incentive.
+
+  What this role is not
+
+  - Not a prompt engineering role. Prompting is one component of
+    a system that also has retrieval, orchestration,
+    evaluation, infrastructure and an operating cost.
+  - Not a research scientist role. We are not training
+    foundation models. We are shipping reliable systems on top
+    of them.
+  - Not a specification-writing role. You will build, and you
+    will read partner code line by line.
+  - Not a role where quality is somebody else’s problem. If it
+    goes to production, you own how well it works.
+
+  What success looks like
+
+  First 3 months
+
+  - The first prioritised workflow in production or at
+    production readiness, with a working evaluation harness
+    behind it.
+  - Baseline engineering standards operating — repository
+    structure, CI/CD, environments, tracing, secret handling.
+  - A shared understanding with the architect and the Engagement
+    Specialists of what “good” means, expressed as numbers.
+
+  First 6 months
+
+  - The first version of the reusable component library in use —
+    by you, by internal engineers, and by at least one partner
+    pod.
+  - Multiple workflows live, with quality, latency and cost per
+    transaction instrumented and visible.
+  - Regression evaluation running in CI, so a change that
+    degrades quality fails before release rather than in front
+    of a customer.
+
+  First 12 months
+
+  - Demonstrably lower build cost and cycle time for each
+    successive workflow, attributable to reuse.
+  - A production estate that is operable by the team —
+    monitored, documented, supported, and not dependent on any
+    one person.
+  - Partner-delivered code that meets the same standard as
+    internal code, because the standard and the review are
+    real.
+
+  How we assess
+
+  - Technical conversation on a production AI system you built —
+    architecture, evaluation approach, what broke, what you
+    would do differently.
+  - Practical exercise in retrieval or agent orchestration,
+    discussed rather than graded in isolation.
+  - Code and design review — you review something of ours, we
+    review something of yours.
+  - Collaboration interview with the CoE and a functional
+    stakeholder.
+
+  Additional Information
+
+  - Your health and well being are important to us at QAD. We
+    provide programs that help you strike a healthy work-life
+    balance.
+  - Opportunity to join a growing business, launching into its
+    next phase of expansion and transformation.
+  - Collaborative culture of smart and hard-working people who
+    support one another to get the job done.
+  - An atmosphere of growth and opportunity, where idea-sharing
+    is always prioritized over level or hierarchy.
+  - Compensation packages based on experience and desired skill
+    set
+
+  About QAD:
+
+  QAD | Redzone is redefining manufacturing and supply chains
+  through its intelligent, adaptive platform that connects
+  people, processes, and data into a single System of Action.
+  With three core pillars — Redzone (frontline empowerment),
+  Adaptive Applications (the intelligent backbone), and
+  Champion AI (Agentic AI for manufacturing) — QAD | Redzone
+  helps manufacturers operate with Champion Pace, achieving
+  measurable productivity, resilience, and growth in just 90
+  days.
+
+  QAD is committed to ensuring that every employee feels they
+  work in an environment that values their contributions,
+  respects their unique perspectives and provides
+  opportunities for growth regardless of background. QAD’s DEI
+  program is driving higher levels of diversity, equity and
+  inclusion so that employees can bring their whole self to
+  work.
+
+  We are an Equal Opportunity Employer and do not discriminate
+  against any employee or applicant for employment because of
+  race, color, sex, age, national origin, religion, sexual
+  orientation, gender identity, status as a veteran, and basis
+  of disability or any other federal, state or local protected
+  class.
+posted_date: 2026-10-15
+url: "https://builtin.com/job/principal-ai-engineer-enterprise-transformation/11693540"
+source: Built In

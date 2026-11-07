@@ -1,0 +1,64 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Generative AI Quality Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and executes test strategies that shape
+      model behavior quality: building evals for RAG pipelines,
+      agent reasoning, prompt regression suites, guardrails, and
+      red-teaming LLM systems. Building evals and guardrails for
+      LLM/agent systems is shaping, so it's ai-first.
+  responsibilities:
+  - Design and execute end-to-end test strategies for agentic AI pipelines, including
+    single-agent and multi-agent workflows
+  - Design comprehensive test strategies for RAG pipelines covering ingestion, chunking,
+    embedding, retrieval, reranking, and generation
+  - Build automated test harnesses and evaluation pipelines integrated into CI/CD
+    for continuous model and agent validation
+  - Conduct red-teaming and adversarial testing for jailbreaks, prompt injection,
+    and guardrail validation aligned with OWASP LLM Top 10
+  - Define and execute load, stress, and performance testing for AI APIs, inference
+    endpoints, and agent orchestration services
+  - Establish SLOs/SLAs for AI system availability, latency, and error rates, and
+    set up observability with MLOps teams
+  - Evaluate models for bias, fairness, and privacy/PII leakage in accordance with
+    GDPR and CCPA
+  - Conduct chaos engineering experiments to validate agent and RAG system resilience
+  use_cases:
+  - Quality assurance and validation of agentic AI workflows and multi-agent orchestration
+  - RAG pipeline validation covering retrieval accuracy, faithfulness, and citation
+    correctness
+  - AI safety and security testing including prompt injection, jailbreak, and PII
+    leakage prevention
+  - Performance, reliability, and cost-efficiency testing of AI inference endpoints
+    and agent services
+  - Regulatory-compliant AI risk management in retail banking and wealth risk domain
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, AutoGen, CrewAI, LangGraph, RAG,
+      Embeddings, RAGAS, TruLens, DeepEval, Prompt Engineering, LLMs, RLHF, Constitutional
+        AI, Guardrails, MCP]
+    ml: [Model Evaluation, AI Fairness 360, Aequitas]
+    web: []
+    databases: [Vector Databases]
+    data: [Great Expectations, Deequ]
+    cloud: []
+    ops: [CI/CD, MLOps, Observability, Chaos Engineering, Chaos Monkey, Gremlin, LitmusChaos]
+    languages: []
+    domains: []
+    other: [OWASP Top 10 for LLM Applications, GDPR, CCPA, Performance Testing, Test
+        Automation, Red-Teaming, Banking and Finance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048576'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-11-06T14:40:03.025696'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

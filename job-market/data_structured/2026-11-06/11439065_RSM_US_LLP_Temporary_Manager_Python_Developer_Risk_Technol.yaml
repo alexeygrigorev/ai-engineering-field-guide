@@ -1,0 +1,53 @@
+company:
+  name: RSM US LLP
+  stage: null
+  focus: Professional services and risk consulting for middle market
+position:
+  title: Temporary Manager – Python Developer, Risk Technology & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs via OpenAI APIs and enhances AI
+      solutions for document analysis and workflow automation,
+      going beyond merely calling an API someone else designed:
+      they enhance and expand AI solutions producing structured
+      outputs. LLM involvement makes it ai-first.
+  responsibilities:
+  - Develop, enhance, and scale Python applications and automation for credit review
+    and risk workflows
+  - Build solutions processing large volumes of structured and unstructured data
+  - Develop and maintain document ingestion, extraction, and analysis pipelines across
+    PDFs, images, and spreadsheets
+  - Enhance existing AI and automation solutions and expand them to additional lending
+    portfolios
+  - Integrate LLMs using OpenAI APIs for workflow automation, document analysis, and
+    data processing
+  - Design solutions producing structured, traceable, auditable outputs for governance
+    and reporting
+  - Partner with business stakeholders to identify automation opportunities and translate
+    requirements into solutions
+  use_cases:
+  - Automated credit review and risk workflows
+  - Document ingestion and extraction from PDFs, images, and spreadsheets
+  - LLM-driven document analysis and data processing
+  - Auditable structured outputs for governance and reporting
+  - Automation expansion across lending portfolios
+  skills:
+    languages: [Python]
+    domains: [Credit Risk]
+    web: []
+    cloud: []
+    data: [Data Pipelines, Alteryx]
+    ml: []
+    databases: []
+    genai: [LLMs, OpenAI API, Generative AI]
+    ops: []
+    other: [Power BI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11439065'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:51:08.006450'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

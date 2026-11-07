@@ -1,0 +1,152 @@
+job_id: 11985610
+title: Lead Engineer, AI Platform
+company: Circle (circle.so)
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Us
+
+  Circle is building the world’s leading AI-powered, all-in-
+  one platform for digital businesses. We make it possible for
+  creators, coaches, educators, and businesses to bring
+  together their audience with engaging discussions, live
+  streams, events, chat, courses, and payments — all in one
+  place, all under their own brand.
+
+  We’re proud to be a fully remote company of around 270 (and
+  growing!) team members from 30+ countries around the world.
+  We seek exceptional individuals around the world, set them
+  up to do the best work of their lives, and in turn, create a
+  meaningful impact in their own lives. We don't track hours,
+  but we do manage for high expectations very closely. We
+  collaborate across time zones, are highly async, and like to
+  document a lot.
+
+  Every year, we bring the whole company together in beautiful
+  places around the world for our company offsites. So far,
+  we’ve hosted offsites in Turkey, Portugal, Mexico, Thailand,
+  Colombia, Italy, Ireland, and more, with still more to come!
+
+  Check out our Careers page for more about working at Circle.
+
+  About the role
+
+  The AI Quality engineering team at Circle owns the
+  foundation for measuring, diagnosing, and improving the
+  quality of Circle's AI-powered features. This team focuses
+  on building the infrastructure to measure, diagnose, and
+  improve production AI systems, rather than ML research or
+  model training.
+
+  We're looking for a Lead Engineer to help us build out the
+  evaluation frameworks, observability tooling, and diagnostic
+  infrastructure that tell us whether our AI Agents are
+  working well, where to improve them, and how to make them
+  faster and more cost-efficient.
+
+  This is a hands-on player-coach role. You’ll also lead and
+  manage the AI Quality engineering team, with an ambitious
+  and growing roadmap.
+
+  If you're excited about making AI systems work reliably,
+  efficiently, and at scale, this is for you.
+
+  What you'll be doing
+
+  - Build and own our evaluation infrastructure. Design the
+    CI/CD pipelines, scorers, and datasets that tell us
+    whether Circle's AI agents (planners, tool-callers, and
+    sub-agents) are actually working, from a single tool call
+    to a full multi-turn conversation.
+  - Diagnose exactly where quality breaks down. Trace failures
+    across the agent pipeline including plan creation vs.
+    execution, tool selection, tool trajectory in complex
+    areas like workflows, site builder, and analytics. Turn
+    what you find into prototypes that solve the issue or
+    identify priorities for AI core engineering can help.
+  - Grow the datasets that make evaluation possible. Stand up
+    annotation workflows and build out AI-generated and
+    simulated conversations so we can cover more of the
+    product faster than manual labeling alone.
+  - Run structured experiments across prompts, models, and the
+    agent harness. Evaluate new and open-source models against
+    our production baseline, build the framework we use to
+    decide when to shift models, and chase cost and latency
+    wins through model swaps, caching, and routing by plan
+    complexity.
+  - Lead and grow the AI Quality engineering team. Set technical
+    direction and manage day-to-day priorities, all while
+    staying hands-on in the code yourself.
+  - Partner closely with AI Core engineering. Work with the
+    engineers building Circle's AI products so they have real
+    confidence that their changes are actually improving
+    quality, not just shipping.
+
+  What you'll need to be successful
+
+  - 7+ years of experience building and shipping production
+    software, ideally including LLM-powered agents that take
+    real actions in a product. You've worked on complex, tool-
+    using systems (multiple tools, planning or orchestration,
+    sub-agents) not just simple, single-turn assistants, and
+    you can walk us through something you shipped and how you
+    knew it was actually working.
+  - Comfortable in Ruby on Rails / Python or ready to pick them
+    up quickly. Ruby on Rails is our production system and the
+    foundation that Circle’s AI Agents are built on and
+    proficiency in Python is a strong plus, especially for the
+    data and evaluation side of the work.
+  - Experience building evaluation or observability
+    infrastructure for ML/AI systems. You've built eval
+    pipelines, scorers, dashboards, or CI/CD for evals before
+    and have experience with evaluation frameworks like
+    Braintrust, LangSmith, or similar.
+  - Experience designing datasets, annotation workflows, or
+    labeling pipelines for ML/AI evaluation. You know how to
+    turn raw examples into a dataset you can trust through
+    human annotation, AI-generated data, or simulation.
+  - Learn fast, experiment aggressively, and thrive in a highly
+    dynamic environment. You’ll need to be comfortable running
+    a lot of experiments and letting the results settle the
+    argument, including the ones that don't work (which will
+    be many of them in the beginning).
+  - Comfortable in a fast-paced environment with ambiguity.
+    You’ll need to learn and pick up new technologies when
+    projects require it.
+  - Strong alignment with our company values.
+  - You are proficient in English (spoken, written, and reading)
+    at a CEFR Level C2 / ILR Level 5.
+
+
+
+  Compensation & benefits
+
+  Circle offers U.S.-benchmarked compensation globally, equity
+  in the company with ongoing refresh grants, and 35 days of
+  paid time off each year.
+
+  We’re a remote-only team that comes together twice a year
+  for company retreats in incredible destinations around the
+  world. Alongside incredible flexibility and autonomy, we
+  offer a benefits package that supports health, wellbeing,
+  and professional growth. Learn more in our Candidate Hub.
+
+  Learn more
+
+  - Candidate Safety & Interview Process Notice
+  - Diversity, Equity & Inclusion
+  - How We Use Candidate Data
+  - Equal Employment Opportunity
+  - Visit our Candidate Hub to learn more about working at
+    Circle, our benefits, and our hiring process.
+industries:
+  - Artificial Intelligence
+  - Consumer Web
+  - Digital Media
+  - Information Technology
+  - Social Impact
+  - Software
+posted_date: 2026-10-30
+url: "https://www.builtinla.com/job/lead-engineer-ai-platform/11985610"
+source: Built In

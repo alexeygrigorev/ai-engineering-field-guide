@@ -1,0 +1,55 @@
+company:
+  name: STAFIDE
+  stage: null
+  focus: IT staffing and technology consulting services
+position:
+  title: 'AI Governance & Platform Engineer (ID: 3863)'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role enforces governance, security, and compliance
+      controls over AI platforms rather than shaping model
+      behaviour. It does not write prompts, design retrieval, or
+      build model evals itself; it applies Azure Policy, RBAC, and
+      DevSecOps controls around AI systems built by others, so it
+      is ai-support.
+  responsibilities:
+  - Design and maintain AI governance frameworks aligned with enterprise risk and
+    responsible AI policies
+  - Define governance processes across the AI lifecycle including data, model development,
+    deployment, and monitoring
+  - Govern Azure AI platforms including Azure OpenAI and Azure Machine Learning using
+    Azure Policy, RBAC, and compliance controls
+  - Maintain inventory and lifecycle management of AI assets across enterprise environments
+  - Build platform engineering tooling, dashboards, and automation for governance
+    compliance and risk monitoring
+  - Integrate governance and security controls into CI/CD and DevSecOps pipelines
+  - Perform vulnerability scanning, risk assessment, and remediation for AI models,
+    data pipelines, and APIs
+  - Address AI-specific security risks such as data leakage, model extraction, and
+    prompt injection
+  use_cases:
+  - Enterprise AI governance and risk compliance
+  - Security and vulnerability management for AI models and APIs
+  - Automated compliance monitoring of AI assets
+  - Governance-integrated AI/ML delivery pipelines
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Azure ML, Azure, IAM]
+    ops: [DevSecOps, CI/CD, MLOps, Infrastructure as Code, Monitoring]
+    languages: []
+    domains: []
+    other: [Policy-as-Code, Vulnerability Management, Risk Assessment, Responsible
+        AI, Prompt Injection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884778'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T13:32:53.032577'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

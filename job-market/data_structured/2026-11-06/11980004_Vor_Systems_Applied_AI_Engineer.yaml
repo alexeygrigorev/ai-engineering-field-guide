@@ -1,0 +1,55 @@
+company:
+  name: Vor Systems
+  stage: Pre-seed, backed by Gigascale Capital
+  focus: AI-native software for renewable energy project development
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic workflows, builds LLM/VLM
+      pipelines, designs evaluation frameworks, and shapes model
+      behavior for AI-native regulatory/financial/spatial
+      analyses. LLM and agent components dominate, making it ai-
+      first.
+  responsibilities:
+  - Architect the core AI reasoning system and agentic workflows that plan, execute,
+    and verify regulatory, financial, and spatial analyses
+  - Build multimodal intelligence pipelines (OCR/VLMs) on Modal to extract information
+    from scanned leases, permits, and engineering schematics
+  - Integrate validation and evaluation frameworks into high-stakes workflows
+  - Own AI-powered features end to end, from models and backend workflows to customer-facing
+    interfaces
+  - Turn messy unstructured data (legal, financial, spatial) into structured, usable
+    insights
+  - Contribute to model strategy, data architecture, and foundational pipelines
+  use_cases:
+  - Automating regulatory, financial, and spatial analyses for renewable energy projects
+  - Extracting critical information from scanned leases, permits, and engineering
+    schematics via OCR/VLM
+  - Accelerating capital deployment and project development for renewable energy
+  - Turning unstructured legal and financial documents into structured insights
+  - Validating and verifying high-stakes AI outputs where correctness matters
+  skills:
+    genai: [LLMs, Agentic Workflows, Fine-Tuning]
+    ml: [Fine-Tuning]
+    web: [React, APIs]
+    databases: [Databases]
+    data: []
+    cloud: [Modal]
+    ops: [vLLM, Observability, LLM Evaluation]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [OCR, Geospatial Data, GIS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11980004'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T14:16:02.552729'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

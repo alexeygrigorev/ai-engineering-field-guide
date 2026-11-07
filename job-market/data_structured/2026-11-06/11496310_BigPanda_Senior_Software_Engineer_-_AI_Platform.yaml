@@ -1,0 +1,56 @@
+company:
+  name: BigPanda
+  stage: null
+  focus: Agentic automation for IT operations
+position:
+  title: Senior Software Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: writing prompts,
+      designing agent orchestration, tool calling, RAG,
+      embeddings, and vector search for production AI products.
+      This is clearly ai-first.
+  responsibilities:
+  - Build production-grade backend services, APIs, data ingestion pipelines, enterprise
+    integrations, web applications, and automation platforms
+  - Build and own secure ingestion and indexing of customer data from enterprise systems
+    like ServiceNow and Snowflake
+  - Architect and implement AI-native capabilities using LLMs, prompting, tool calling,
+    agent orchestration, RAG, vector search, and knowledge graphs
+  - Write high-quality prompts for development, debugging, product behavior, agent
+    execution, and customer-facing AI experiences
+  - Propose, design, and own features end to end from customer discovery through delivery
+    and iteration
+  - Work directly with customers, GTM, product, and engineers to identify high-value
+    problems
+  - Use AI coding tools such as Cursor and Claude Code as a core part of the development
+    workflow
+  - Respond rapidly to bugs, regressions, and customer-impacting issues
+  use_cases:
+  - AI-powered incident response and prevention for IT operations
+  - Automated IT workflows and agentic automation
+  - Enterprise knowledge retrieval and operational intelligence
+  - Secure ingestion and indexing of enterprise data for AI context
+  - ITSM and incident management automation
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Agentic Workflows, RAG, Embeddings,
+      Context Engineering, Structured Outputs]
+    ml: []
+    web: [React, Next.js, Node.js, OAuth]
+    databases: [Vector Databases, Vector Search, Knowledge Graphs, Snowflake]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Lambda, AWS S3]
+    ops: [LangSmith, Code Review]
+    languages: [TypeScript]
+    domains: []
+    other: [ServiceNow, RBAC, Cursor, Claude Code, Codex, ChatGPT]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11496310'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:59:31.457439'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

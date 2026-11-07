@@ -1,0 +1,45 @@
+company:
+  name: CloudRaft
+  stage: null
+  focus: AI and cloud-native platforms for enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI applications and agents
+      (agentic systems, MCP, retrieval/memory), shaping model
+      behaviour directly. LLM/agent components are explicitly
+      central, so it is ai-first.
+  responsibilities:
+  - Build AI systems that solve business problems
+  - Work directly with customers to turn business challenges into technical solutions
+  - Design and deploy AI applications that automate workflows
+  - Run experiments, measure results, and iterate quickly
+  - Ship production code across backend systems, APIs, data pipelines, and models
+  - Deploy and operate systems on Kubernetes
+  use_cases:
+  - Workflow automation via AI applications
+  - AI agents for business problem solving
+  - Data retrieval and memory systems
+  - Multimodal AI systems
+  skills:
+    genai: [LLMs, Agentic Workflows, MCP]
+    ml: [Data Preprocessing]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Kubernetes]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11630153'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:25:55.613995'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

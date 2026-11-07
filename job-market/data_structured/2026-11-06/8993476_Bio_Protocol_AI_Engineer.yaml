@@ -1,0 +1,59 @@
+company:
+  name: Bio Protocol
+  stage: null
+  focus: |-
+    Decentralized science protocol funding AI-driven biotech
+    research
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent systems—planning, tool
+      use, memory, RAG, structured outputs, guardrails, and
+      evaluation—directly shaping LLM agent behavior, making it
+      ai-first.
+  responsibilities:
+  - Build agent capabilities for planning, tool use, memory, and context management
+    and ship them to production
+  - Integrate agents with internal and external tools and data sources with robust
+    schemas and safeguards
+  - Develop quality and evaluation systems including regression tests, telemetry,
+    and automated scoring
+  - Implement safety measures, guardrails, and sandboxed execution for risky operations
+  - Partner with knowledge and ontology team to ensure source-traceable, provenance-compliant
+    outputs
+  - Optimize performance and reliability through profiling, retries, rate limiting,
+    and uptime management
+  - Instrument data pipelines for supervised fine-tuning and reinforcement learning
+  - 'Contribute to the agent platform: services, APIs, orchestration, CI/CD, and observability'
+  use_cases:
+  - Agents that plan, use tools, and reason safely to assist scientists with long-horizon
+    scientific tasks
+  - Scientific information retrieval grounded in lab/biomed APIs, datasets, and search
+    with citation enforcement and provenance tracking
+  - Automated evaluation of agent competency, latency, and failure modes via benchmarks
+    and telemetry
+  - Safe agent execution with sandboxing and guardrails for risky operations
+  - Agent platform adopted by internal teams for scientific research workflows
+  skills:
+    genai: [Function Calling, RAG, Structured Outputs, LLM Evaluation, LangChain,
+      LangGraph, AutoGen, CrewAI, MCP, AI Agents, Fine-Tuning, Guardrails]
+    ml: [Reinforcement Learning, RLAIF, RLHF, SWE-Bench]
+    web: [FastAPI, gRPC, GraphQL]
+    databases: [FAISS, Weaviate, Pinecone, Vector Databases, PostgreSQL, Redis]
+    data: [Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8993476'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:04:04.175066'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

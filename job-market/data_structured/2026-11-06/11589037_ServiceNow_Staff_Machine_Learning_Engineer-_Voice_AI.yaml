@@ -1,0 +1,51 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: Enterprise workflow automation and AI platform software
+position:
+  title: Staff Machine Learning Engineer- Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 2+ years building agents with prompt
+      engineering and ~4 years building LLM-based applications,
+      shaping LLM behavior through prompts and agent integration
+      for voice AI. LLM components are involved, so it is ai-
+      first.
+  responsibilities:
+  - Design, develop and implement the core Voice Platform (audio acquisition, conversation
+    management, speech generation, integration with API and self-hosted Voice AI models,
+    Voice Harness)
+  - Partner with product managers to work with customers, understand use cases and
+    technology challenges
+  - Build and deploy large Voice AI distributed systems at scale across multiple regions
+    and datacenters
+  - Build high-quality, clean, scalable and reusable code enforcing software engineering
+    best practices
+  - Contribute to continuous improvement of SRE practice by turning operational use
+    cases into tooling requirements
+  - Mentor colleagues and promote knowledge sharing across Voice AI engineering disciplines
+  use_cases:
+  - Enterprise Voice AI platform for voice-based work experiences
+  - Real-time voice conversations with speech recognition and generation (STT/TTS)
+  - LLM-based conversational agents in enterprise services
+  - Workflow efficiency for non-technical enterprise users
+  skills:
+    genai: [Prompt Engineering, AI Agents, LLMs]
+    ml: [Text-to-Speech]
+    web: [WebRTC]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, DevOps, SRE]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Speech-to-Text, Real-Time Audio, Claude Code, Cursor, Windsurf]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11589037'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:16:42.417555'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

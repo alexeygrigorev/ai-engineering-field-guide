@@ -1,0 +1,61 @@
+company:
+  name: Skybound Wealth Management
+  stage: null
+  focus: Global wealth management and financial advisory services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns prompt/agent/model release pipelines,
+      evaluation frameworks measuring task success and output
+      quality, and drift monitoring — building evals and output-
+      quality monitoring for LLM-based services is shaping model
+      behaviour. LLM services are explicitly the target, so it is
+      ai-first rather than ops-only.
+  responsibilities:
+  - Operate and maintain the model gateway, AI provider integrations, routing, quotas,
+    and fallback processes
+  - Build dashboards, alerts, tracing, and metrics covering token usage, cost, latency,
+    errors, and quality evaluations
+  - Build prompt, agent, and model release pipelines with version control, automated
+    evaluation, canary releases, and rollbacks
+  - Establish evaluation frameworks measuring task, case, document, and workflow success
+    and monitor model drift
+  - Develop unit economics for AI services and optimize spend through routing, caching,
+    batching, and model selection
+  - Conduct load, resilience, and red-team testing and manage incident response and
+    post-incident reviews
+  - Manage AI infrastructure via infrastructure-as-code, CI/CD, containers, and serverless
+    compute
+  - Embed DevSecOps practices, threat modelling, secrets management, and governance
+    across the AI platform
+  use_cases:
+  - Operational platform for model gateway and AI provider integrations in production
+  - Reliability, cost, and quality monitoring for AI services in financial advisory
+    workflows
+  - Evaluation of AI task, case, document, and workflow completion in a regulated
+    environment
+  - Secure and governed integration of AI services into client services, compliance,
+    and internal productivity applications
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, LLM Evaluation, Azure OpenAI, Model
+        Gateway]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure Functions, Azure AI Foundry, Serverless]
+    ops: [LLMOps, MLOps, CI/CD, Infrastructure as Code, Docker, Kubernetes, OpenTelemetry,
+      Monitoring, Observability, Azure DevOps, DevSecOps, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Threat Modelling, OWASP ASVS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884838'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T13:33:03.468571'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

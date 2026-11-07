@@ -1,0 +1,54 @@
+company:
+  name: AKASA
+  stage: Raised over $250M in funding from Andreessen Horowitz, BOND, and Coatue
+  focus: |-
+    AI-native healthcare revenue cycle and clinical
+    documentation software
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic LLM systems, builds
+      evaluation frameworks, and shapes model behavior for
+      production AI products, so it is ai-first. The LLM/agent
+      component is explicit (agentic systems, LLM-driven features,
+      evals).
+  responsibilities:
+  - Build LLM-driven features and products across the Clinical Documentation and Medical
+    Coding suite
+  - Design agentic systems for revenue cycle workflows and the production infrastructure
+    that runs them across hundreds of hospitals
+  - Deploy evaluation frameworks and experimentation loops for reliable, production-grade
+    systems
+  - Balance medical coding guidelines, user feedback, and auditability using data-driven
+    and statistical approaches
+  - Build services, APIs, and tools undergirding the SaaS products
+  - Partner with product, clinical, and revenue cycle experts
+  use_cases:
+  - Correcting clinical errors in physician documentation
+  - Helping clinicians identify missing diagnoses
+  - Converting clinical documentation to medical codes
+  - Ensuring financial integrity for health systems revenue cycle
+  skills:
+    genai: [LLMs, Agentic Workflows, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Healthcare Interoperability Standards]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11364966'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:36:11.933474'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

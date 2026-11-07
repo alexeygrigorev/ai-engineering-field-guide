@@ -1,0 +1,201 @@
+job_id: 11748182
+title: Staff Software Engineer - AI
+company: Kuro
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 1,500 Employees
+description: |
+  tl;dr
+
+  - After 14 years in construction tech, Lea & Jonas are
+    building the AI foundation for the construction industry
+  - 6 of the 20 largest construction companies in the German-
+    speaking region already rely on Kuro every day,
+    representing over €40bn in combined annual construction
+    volume
+  - Construction has some of the most complex, unstructured data
+    you can throw at an LLM. At Kuro, you can tackle some of
+    the hardest problems in applied AI every day
+  - Curious about the bigger engineering challenge? Explore the
+    vision and open problems at kuro.build
+
+  About us
+
+  Lea and Jonas scaled two of Europe's leading construction
+  tech companies - Capmo and alcemy - and saw firsthand the
+  challenges holding the industry back. Now they're tackling
+  the root cause: the 50% of construction work still lost to
+  manual data handling.
+
+  Kuro is building the AI foundation for construction. We're
+  reimagining how construction professionals get work done and
+  make decisions by leveraging AI to augment back-office
+  workflows and make core data accessible. We are not pursuing
+  marginal improvements, but a step change for construction.
+
+  After one year on the market, leading construction
+  enterprises with a combined annual construction volume of
+  >€40 billion use Kuro every day to automate workflows and
+  make faster, better decisions. Backed by an €10 million seed
+  round, we already process more than 1 million pages every
+  month and expect that volume to grow 10x over the next six
+  months.
+
+  We are 15 people based in Berlin. You will join a group of
+  technical ex-founders and builders who are ambitious and
+  kind.
+
+  Learn more: Join Kuro - Berlin
+
+  What You'll Do
+
+  Set the technical direction
+
+  - Own the architecture decisions for the platform, from
+    document ingestion to the chat UI
+  - Write and review RFCs. The technical roadmap for the next
+    two to three quarters is yours.
+  - Make the build-or-buy decisions: which models we use, and
+    which retrieval and orchestration stack we build on.
+  - Turn a vague customer request (“show me where the bid
+    deviates from the BoQ”) into a scoped plan with the risks
+    named.
+
+  Raise the bar for the team
+
+  - Mentor engineers: Review their designs and their code.
+  - Define the engineering standards. Find what slows the team
+    down, in tooling or in the CI/CD pipeline, and fix it.
+  - Interview and hire engineers.
+  - You have no direct reports. You change decisions in product
+    and in other teams with a written argument.
+
+  Build and own end-to-end (AI) features
+
+  - Design and implement new features to solve a specific user
+    problem, such as document versioning or our agentic Chat.
+  - From concept to DB schema, to optimizing LLMs, to UI. Own
+    the full development lifecycle of customer-facing
+    features.
+  - Manage evaluations and scoring, and perform error analysis
+    on new and shipped AI features.
+
+  Build the platform that abstracts workflow building
+
+  - Contribute to the workflow harness, decision-trace standard,
+    and eval tooling so a new use case ships in ~1 month
+  - Build reusable human review & approval surfaces where trust
+    in AI output is earned
+
+  Work on the construction ontology & project graph
+
+  - Help model and evolve canonical entities of our customers
+  - Contribute to entity resolution across sources: recognizing
+    the same requirement, position, or price across BoQs,
+    contracts, drawings, and bids
+  - Build features so answers are evidence-linked and auditable,
+    and decisions flow back into the graph
+
+  Contribute to scalable data pipelines & integrations
+
+  - Extend our multi-modal ingestion of unstructured documents -
+    PDFs, scans, drawings, and 3D models - orchestrated and
+    cost-efficient at scale
+  - Build read/write integrations with customer systems
+    (document management, ERP/AVA), so workflows complete work
+    end-to-end
+
+  Projects you would be involved in
+
+  Current & Past projects
+
+  - Project & document versioning guaranteeing data lineage in
+    construction projects
+  - German tokenizer for construction-specific search
+  - Document pipeline ingesting 10,000s of PDFs per day
+  - Native BIM/DWG file support: ingesting and processing 3D
+    models
+  - Design the ontology v1 + graph schema: core construction
+    entities, evidence links, and per-customer extension model
+  - Build out our workflow harness to run agentic workflows for
+    customers
+
+  Current Tech Stack
+
+  It is still day 0 for Kuro. Therefore, we are highly
+  pragmatic with our tool choices. We believe in keeping it
+  simple and moving quickly. You significantly help shape our
+  tech stack decisions.
+
+  - Web-App: Typescript
+  - Database / Vector DB and File Storage: AWS RDS / Trubopuffer
+    / AWS S3
+  - Backend: Fastify API + Prisma ORM
+  - Workflow Orchestrator: Prefect (Python)
+  - Hosting: AWS Elastic Beanstalk
+  - AI: Azure / OpenAI, Gemini, Cohere, AWS
+  - Obsv., Eval. & Tracking: Langfuse, Datadog
+
+  Your profile
+
+  This is the perfect role for an experienced engineer who
+  wants to join an early stage company that builds a high
+  impact applied AI product
+
+  - Bring 6+ years of experience as a Staff (full-stack)
+    software engineer or Technical Lead, in a fast-paced
+    environment
+  - Have proven experience delivering production-grade applied
+    AI features to customers
+  - Take full ownership of solving customer problems by
+    designing and implementing AI features
+  - Thrive in a small, accountable team with a high degree of
+    ownership and a drive to make an impact
+  - Communicate fluently in both spoken and written English
+  - Enjoy working onsite with the team at our office in Factory
+    Berlin Mitte every day
+
+  Bonus Points
+
+  - You’ve started a company before or worked at a very early
+    stage startup
+  - You built side projects in the past - we’re excited to hear
+    about these!
+  - German-speaking (definitely not a must, we’re fully
+    international)
+
+  Why Kuro
+
+  You’ll join at a point when customer demand is proven, but
+  our product and platform are still yours to shape. You’ll
+  own customer-facing features end to end while building the
+  foundations beneath them, from ingestion pipelines and
+  workflow infrastructure to our construction ontology and
+  project graph.
+
+  As Kuro grows, you can grow with it, whether as a leading
+  individual contributor, technical leader or people manager.
+
+
+
+  The Process
+
+  - Talent Acquisition Call – Intro, motivation, logistics & fit
+    (30 min)
+  - Impact Interview – Deep dive into your experience, ownership
+    & impact (60 min)
+  - On-site Day
+    - System Design – Designing under ambiguity & LLM craft (45
+      min)
+    - AI-Native Coding – Hands-on coding with AI (45 min)
+    - Final Culture Interview (approx. 60 min)
+  - Reference calls
+  - Decision
+industries:
+  - Artificial Intelligence
+  - Software
+  - PropTech
+  - Automation
+posted_date: 2026-10-19
+url: "https://builtin.com/job/staff-software-engineer-ai/11748182"
+source: Built In

@@ -1,0 +1,45 @@
+company:
+  name: Jeeves
+  stage: null
+  focus: Stablecoin-native banking platform for global enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures and LLM pipelines that
+      ship into production, which is shaping model behavior and
+      output quality, so it is ai-first. No management or
+      customer-facing evidence.
+  responsibilities:
+  - Ship AI-powered features that process real financial data in production
+  - Build LLM pipelines and RAG architectures from prototype to production
+  - Build intelligent spend categorization and anomaly detection systems
+  - Ensure AI systems are reliable, observable, and cost-efficient
+  - Collaborate with backend engineers, data scientists, and product teams
+  - Help define how Jeeves builds with AI as the company scales
+  use_cases:
+  - Intelligent spend categorization
+  - Anomaly detection in financial transactions
+  - LLM-powered workflows for finance teams
+  - Stablecoin payment network intelligence
+  skills:
+    genai: [LLMs, RAG]
+    ml: [Anomaly Detection, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11517058'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:03:49.701432'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

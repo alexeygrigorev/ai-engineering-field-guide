@@ -1,0 +1,52 @@
+company:
+  name: Regeneron
+  stage: null
+  focus: Biotechnology company developing medicines
+position:
+  title: Sr AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role builds LLM applications with agentic workflows, RAG,
+      and prompt engineering, and builds evaluation frameworks for
+      model output quality — directly shaping model behaviour.
+      LLM-centric, so ai-first.
+  responsibilities:
+  - Develop AI-powered applications using LLMs, agentic workflows, RAG, and enterprise
+    data platforms
+  - Build intelligent workflows, AI agents, and conversational experiences for business
+    efficiency
+  - Design data pipelines, integrations, and knowledge retrieval frameworks for governed
+    enterprise data access
+  - Build evaluation frameworks for AI model performance, response quality, and grounding
+    accuracy
+  - Participate in the full AI solution lifecycle from assessment through continuous
+    improvement
+  - Contribute to design reviews, documentation, and AI governance processes
+  - Support responsible AI practices including privacy controls and risk mitigation
+  use_cases:
+  - Business information access via AI
+  - Workflow automation for business teams
+  - Conversational AI assistants for enterprise users
+  - Knowledge retrieval over governed enterprise data
+  - Data-driven business decision support
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Prompt Engineering, AI Agents, Conversational
+        AI, Generative AI, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Snowflake]
+    data: [Data Pipelines, Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12013711'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:29:36.419288'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

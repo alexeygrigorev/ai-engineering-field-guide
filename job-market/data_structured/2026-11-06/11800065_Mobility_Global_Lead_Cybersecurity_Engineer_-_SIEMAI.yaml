@@ -1,0 +1,56 @@
+company:
+  name: Mobility Global
+  stage: null
+  focus: Automotive data, analytics and intelligence (CARFAX)
+position:
+  title: Lead Cybersecurity Engineer - SIEM/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI-assisted workflows,
+      tools, and custom agents that drive alert triage and analyst
+      efficiency, shaping agent behaviour and the data/detections
+      powering automation. This is LLM/agent work, so ai-first
+      applies.
+  responsibilities:
+  - Lead maturity and optimization of the Google SecOps SIEM platform, improving detection
+    coverage and data quality
+  - Design, build, tune, and maintain detection rules, parsers, data pipelines, and
+    log integrations
+  - Develop high-confidence detection content in partnership with Threat Intelligence
+    and Cyber Defense teams
+  - Design and implement AI-assisted workflows, tools, and custom agents for analyst
+    efficiency and AI-driven alert triage
+  - Build integrations, automations, and enrichment capabilities to reduce manual
+    effort and speed investigations
+  - Define and track performance metrics such as detection effectiveness, false-positive
+    reduction, and automation adoption
+  - Create and maintain documentation for detections, engineering solutions, and workflows
+  use_cases:
+  - Security detection and alerting across the enterprise
+  - AI-driven alert triage and investigation support for security analysts
+  - Automated enrichment and response workflows in security operations
+  - Threat detection content from emerging threat intelligence
+  skills:
+    genai: [AI Agents, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Google SecOps, SIEM, Detection Engineering]
+    languages: [Python]
+    domains: []
+    other: [Threat Intelligence, Incident Response, Threat Hunting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11800065'
+  location: USA
+  locations:
+  - USA
+  - Nagar, IND
+  remote: true
+  extracted_at: '2026-11-06T13:14:22.646904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

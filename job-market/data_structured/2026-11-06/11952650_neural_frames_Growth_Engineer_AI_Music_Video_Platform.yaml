@@ -1,0 +1,51 @@
+company:
+  name: neural frames
+  stage: Bootstrapped, profitable, $5M+ annualized revenue
+  focus: AI music video generator for creators
+position:
+  title: Growth Engineer // AI Music Video Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a growth/product engineer focused on marketing
+      pages, funnels, SEO, and conversion. AI is mentioned only as
+      the company's product and as AI tools the engineer uses to
+      work; the person does not shape model behaviour.
+  responsibilities:
+  - Own and continuously improve marketing landing pages for conversion and visibility
+    in search and AI assistants
+  - Build free tools that act as product entry points carrying user work into the
+    core product
+  - 'Run conversion experiments across the funnel: signup, onboarding, paywalls, packaging,
+    and pricing'
+  - 'Ship on the core product to build growth loops: shareable creations, templates,
+    embeds, referrals'
+  - Run programmatic SEO experiments without low-quality pages or index bloat
+  - 'Build lifecycle experiments: activation, abandoned projects, paywall recovery,
+    re-engagement'
+  - Own growth measurement and data quality across PostHog, Google Search Console,
+    Google Analytics, and payment data
+  use_cases:
+  - AI music video generation from songs
+  - 'Growth funnel: landing pages, free tools, signup, onboarding, and paywalls'
+  - Product-led growth loops via shareable creations and referrals
+  - Programmatic SEO and visibility in AI assistants
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [PostHog]
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: [A/B Testing, SEO, Google Analytics, Google Search Console]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11952650'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:09:12.787032'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

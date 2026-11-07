@@ -1,0 +1,66 @@
+company:
+  name: Signant Health
+  stage: null
+  focus: |-
+    Clinical trial evidence generation and digital health
+    technology
+position:
+  title: Senior AI Business Automation Engineer (Dot Compliance) - Technology IT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents, MCP integrations,
+      prompt engineering, RAG, and eval harnesses — directly
+      shaping LLM behavior and output quality. Deliverable is AI-
+      driven workflow transformation, not just consuming an API.
+  responsibilities:
+  - Embed with business Subject Matter Experts to discover workflows and identify
+    high-leverage processes to rebuild with an AI-first design
+  - Design, prototype, and deliver AI agents, custom tools, and end-to-end automations
+    with incremental delivery against real workflow data
+  - Develop AI agents leveraging LLMs and MCP integrations, automations across REST
+    APIs, webhooks, and third-party SaaS, plus secure data pipelines
+  - Apply AI evaluation discipline including golden datasets, eval harnesses, regression
+    suites, hallucination/grounding checks, and human-in-the-loop checkpoints
+  - 'Configure and extend the Dot Compliance eQMS on Salesforce: Apex triggers/classes,
+    Lightning Web Components, Flow automations for CAPA, Deviations, Audits, Change
+    Control, Document Control, and Training Management'
+  - Integrate AI/LLM APIs into Dot Compliance quality workflows such as automated
+    CAPA root-cause drafting, deviation triage, and audit-readiness summarisation
+    grounded in GxP data
+  - Coach business users from awareness to full AI-driven workflow transformation
+    and mentor junior engineers and automation analysts
+  - Build solutions for handoff with documentation, observability, and runbooks; ensure
+    SOC 2 and ISO 27001 compliance standards
+  use_cases:
+  - Automated CAPA root-cause drafting and deviation triage in a regulated quality
+    management system
+  - Audit-readiness summarisation grounded in GxP-regulated data
+  - AI-driven business process automation and workflow reinvention for business units
+  - Enterprise workflow mining from tickets and transcripts using LLMs
+  - End-to-end integrations across REST APIs, webhooks, and third-party SaaS platforms
+  skills:
+    genai: [AI Agents, LLMs, MCP, Agentic Workflows, Prompt Engineering, RAG, LLM
+        Evaluation, Anthropic API, OpenAI API, Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, Observability]
+    languages: [JavaScript, TypeScript, Python, SQL]
+    domains: []
+    other: [Salesforce Apex, SOQL, Lightning Web Components, Salesforce Flow, Dot
+        Compliance eQMS, Boomi, MuleSoft, Workato, GxP, Computer System Validation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11640487'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T12:28:03.612098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

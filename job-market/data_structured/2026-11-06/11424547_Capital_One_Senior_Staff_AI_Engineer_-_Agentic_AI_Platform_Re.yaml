@@ -1,0 +1,64 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML
+position:
+  title: Senior Staff AI Engineer - Agentic AI Platform (Remote Eligible)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM and agent behavior directly: building
+      agents and multi-agent workflows, guardrails, model
+      evaluation, foundation model training, and inference
+      optimization for LLMs. LLM/agent components are central, so
+      it is ai-first. Mentoring and standards-setting are
+      technical leadership, not management.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and deploy AI components including foundation model training,
+    LLM inference, agents and multi-agent workflows, guardrails, model evaluation,
+    and observability
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, vector databases, and PyTorch
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Define and steer the technical AI architecture vision integrating applied research
+    into production
+  - Lead establishment of AI performance, safety, and transparency standards company-wide
+  - Drive multi-year platform initiatives unifying data, compute, and model lifecycle
+    management
+  - Mentor senior technical leaders across research, data, and engineering
+  use_cases:
+  - Agentic AI platform for enterprise banking
+  - Real-time personalized customer experiences
+  - Fraud and unusual charge notifications to customers
+  - AI assistants answering customer questions in real time
+  - Foundation model training and inference infrastructure at scale
+  skills:
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    web: []
+    cloud: [AWS, GCP, Azure]
+    data: []
+    ml: [Foundation Model Training, PyTorch, Hugging Face, Machine Learning, Model
+        Evaluation, CUDA, Model Training]
+    databases: [Vector Databases, Vector Search]
+    genai: [LLMs, Agentic Workflows, Guardrails, Multi-Agent Systems, Function Calling]
+    ops: [Model Deployment, Observability]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11424547'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:48:32.377639'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

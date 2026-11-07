@@ -1,0 +1,51 @@
+company:
+  name: HERE Technologies
+  stage: null
+  focus: Location data and geospatial technology platform
+position:
+  title: AI ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour: building embeddings,
+      similarity search and retrieval, and supporting training,
+      evaluation and fine-tuning of geospatial foundation models.
+      The models are imagery/map/sensor foundation models
+      (classical deep learning), with no explicit LLM or agent
+      component required.
+  responsibilities:
+  - Build reusable geospatial AI components including embeddings, similarity-search
+    and retrieval capabilities for domain teams
+  - Contribute to AI pipelines by implementing detection, validation and data-handling
+    components for map and imagery data
+  - Prepare and engineer imagery, map, sensor and traffic data for AI and machine-learning
+    workflows
+  - Support training, evaluation and fine-tuning of geospatial foundation models
+  - Develop well-tested, documented components and work with MLOps partners for reliable
+    production serving
+  use_cases:
+  - Geospatial AI building blocks for map and imagery data
+  - Similarity search and retrieval over geospatial data
+  - Detection and validation of map and imagery data quality
+  - Geospatial foundation model training for AI-powered mapmaking
+  skills:
+    genai: [Embeddings, RAG]
+    ml: [Machine Learning, PyTorch, TensorFlow, Fine-Tuning, Transfer Learning, Self-Supervised
+        Learning, Deep Learning, Distributed Training, Model Evaluation, TinyML, Edge
+        AI]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: [LiDAR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11587753'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T12:16:26.320232'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

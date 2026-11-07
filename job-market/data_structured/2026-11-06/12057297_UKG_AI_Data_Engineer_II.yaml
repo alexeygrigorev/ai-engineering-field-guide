@@ -1,0 +1,51 @@
+company:
+  name: UKG
+  stage: null
+  focus: Workforce management and human capital management platform
+position:
+  title: AI Data Engineer II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data engineering position building ETL/ELT
+      pipelines on cloud platforms; AI/GenAI items appear only as
+      things to "gain exposure to" or "be willing to learn," not
+      work the person does today. Moving and preparing data for AI
+      use cases is plumbing, not shaping model behaviour.
+  responsibilities:
+  - Develop and maintain ETL/ELT data pipelines for batch processing and analytics
+    workloads
+  - Build data transformation solutions using Python, PySpark, and SQL
+  - Ingest, transform, process, and curate enterprise datasets in Databricks
+  - Integrate data from relational databases, APIs, files, and cloud storage, and
+    support migration to modern cloud data platforms
+  - Perform data validation, reconciliation, and quality checks on migrated and processed
+    data
+  - Work with Azure Data Lake and related Azure data services
+  - Troubleshoot pipeline failures, performance issues, and data quality problems
+  - Prepare and process structured and unstructured datasets for AI-related data requirements
+  use_cases:
+  - Batch data processing and analytics workloads
+  - Enterprise dataset ingestion, transformation, and curation
+  - Migration of datasets and pipelines to cloud data platforms
+  - Data quality validation and reconciliation for migrated data
+  - Preparing enterprise data for AI and Generative AI use cases
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs]
+    cloud: [GCP, Azure, Azure Data Lake]
+    data: [PySpark, Databricks, Data Pipelines, Data Lake, Lakehouse]
+    ml: []
+    databases: [Relational Databases, Vector Databases, Vector Search]
+    genai: [Generative AI, LLMs, RAG, Embeddings, Semantic Search]
+    ops: [CI/CD, DevOps, Git]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12057297'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:43:23.884684'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

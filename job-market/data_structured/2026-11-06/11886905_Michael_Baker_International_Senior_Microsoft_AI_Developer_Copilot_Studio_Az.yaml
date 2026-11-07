@@ -1,0 +1,59 @@
+company:
+  name: Michael Baker International
+  stage: null
+  focus: Engineering and infrastructure consulting services
+position:
+  title: Senior Microsoft AI Developer (Copilot Studio & Azure AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds Copilot Studio agents,
+      implements RAG patterns, does prompt engineering, model
+      selection, and output evaluation on Azure OpenAI/AI Foundry
+      — directly shaping LLM behavior. No classical-only ML focus,
+      so ai-first.
+  responsibilities:
+  - Design, build, and maintain Copilot Studio agents including topics, actions, tools,
+    orchestration, connectors, and knowledge grounding
+  - Implement RAG patterns against enterprise content in SharePoint, Dataverse, and
+    MBI systems
+  - Develop generative AI solutions on Azure AI Foundry and Azure OpenAI including
+    model selection, prompt engineering, and output evaluation
+  - Build and consume Azure AI and Azure OpenAI APIs in Python to extend agents and
+    custom applications
+  - Develop supporting Power Apps and Power Automate flows for AI-enabled use cases
+  - Implement responsible AI practices including input validation, prompt injection
+    defense, and security guardrails
+  - Support PoCs, pilots, MVPs, and production deployments; document architectural
+    patterns and manage assets in source control
+  - Provide technical guidance, training, and enablement to makers, developers, and
+    business stakeholders
+  use_cases:
+  - Enterprise AI assistants built on Copilot Studio integrated with M365 and line-of-business
+    systems
+  - Grounded Q&A over enterprise content in SharePoint and Dataverse via RAG
+  - Generative AI applications on Azure AI Foundry and Azure OpenAI
+  - AI-enabled workflow automation via Power Apps and Power Automate
+  - Responsible AI with guardrails against prompt injection
+  skills:
+    genai: [Copilot Studio, AI Agents, RAG, Prompt Engineering, LLM Evaluation, Azure
+        OpenAI, Generative AI, Knowledge Grounding]
+    ml: []
+    web: [REST APIs]
+    databases: [Dataverse]
+    data: [Databricks]
+    cloud: [Azure AI Foundry, Azure, Microsoft Power Platform, Azure Functions]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Power Apps, Power Automate, SharePoint, Microsoft 365, Microsoft Fabric,
+      Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886905'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:37:54.248830'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

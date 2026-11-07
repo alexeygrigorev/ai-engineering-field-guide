@@ -1,0 +1,49 @@
+company:
+  name: Primary
+  stage: null
+  focus: AI-native ranking and credibility index for journalism
+position:
+  title: Research Engineer – AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates LLM-based systems
+      for factuality scoring, explanation generation, and fine-
+      tuning open-weight language models — directly shaping model
+      behaviour and output quality. LLMs and reasoning systems are
+      central, so it is ai-first.
+  responsibilities:
+  - Translate high-level research ideas into working AI systems
+  - Identify relevant literature and implement or extend state-of-the-art methods
+  - Design and carry out experiments to evaluate alternative approaches
+  - Develop new algorithms, objectives and evaluation methods
+  - Employ and critically evaluate AI-based software development tools
+  - Build robust, scalable research prototypes
+  - Communicate results through technical reports and research papers
+  - Adapt and fine-tune open-weight language models
+  use_cases:
+  - Automated factuality and evidence-quality assessment of news
+  - Large-scale evaluation and scoring of published journalism
+  - Faithful explanation and justification generation
+  - Large-scale local inference over news and text corpora
+  - Adapting and fine-tuning open-weight language models
+  skills:
+    genai: [LLMs]
+    ml: [Fine-Tuning, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11919320'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:58:13.714686'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

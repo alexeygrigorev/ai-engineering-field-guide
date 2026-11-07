@@ -1,0 +1,48 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: IT services and consulting
+position:
+  title: Engineer II - Quality Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a QA/test automation engineer building an NUnit
+      framework against a device simulator; no model behavior
+      shaping, prompts, retrieval, or model training is involved.
+      AI appears only in the title.
+  responsibilities:
+  - Design and implement an NUnit-based automation framework driving test execution
+    against a simulator
+  - 'Build reusable service-layer components: TCP/socket connection handling, XML
+    message construction and parsing, database state verification, and structured
+    logging'
+  - Automate test cases and maintain a requirement-to-test-case traceability matrix
+  - Implement fault-injection scenarios for resilience and chaos suites and validate
+    structured log output
+  - Integrate the automated suite into a CI/CD pipeline with phase-gated execution
+  - Document manual-only cases outside automation scope
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitHub Actions]
+    languages: [C#, SQL]
+    domains: []
+    other: [NUnit, xUnit, TCP/Socket Programming, XML, Chaos Engineering, Database
+        Validation, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892093'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-11-06T13:43:24.897059'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

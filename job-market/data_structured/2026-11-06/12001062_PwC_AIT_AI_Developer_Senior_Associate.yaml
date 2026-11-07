@@ -1,0 +1,52 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and assurance technology
+position:
+  title: AIT AI Developer Senior Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes LLM application development,
+      prompt engineering, and RAG patterns, meaning the developer
+      shapes model behavior and retrieval design themselves. The
+      integration of AI capabilities into application workflows
+      goes beyond merely calling a third-party API.
+  responsibilities:
+  - Develop AI-enabled software solutions supporting Assurance technology platforms
+    and client service applications
+  - Design, code, and test application components using Python, APIs, and modern software
+    engineering methods
+  - Integrate AI capabilities such as LLMs, prompt engineering, and RAG into software
+    workflows
+  - Build and maintain scalable features using cloud, DevOps, and CI/CD tools
+  - Translate business requirements into technical designs aligned with project objectives
+  - Guide junior team members and review code against coding standards
+  - Document technical decisions, development progress, and testing results
+  use_cases:
+  - AI-enabled assurance technology platforms
+  - Client service applications with embedded AI capabilities
+  - Workflow automation and improved reliability in software applications
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-Based AI Services]
+    ops: [CI/CD, DevOps, Version Control]
+    languages: [Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12001062'
+  location: Tampa, USA
+  locations:
+  - Tampa, USA
+  - New York, USA
+  - Boston, USA
+  extracted_at: '2026-11-06T14:22:57.126873'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

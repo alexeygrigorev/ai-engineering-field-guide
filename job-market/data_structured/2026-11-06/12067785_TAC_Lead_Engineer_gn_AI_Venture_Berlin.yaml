@@ -1,0 +1,52 @@
+company:
+  name: TAC
+  stage: pre-seed
+  focus: AI infrastructure startup with agentic engineering practices
+position:
+  title: Lead Engineer (gn) @ AI Venture, Berlin
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and improves agentic engineering workflows
+      themselves — harnesses, multi-agent orchestration, running
+      agents in parallel and evaluating/benchmarking their output
+      — and builds LLM-powered systems in production. This is
+      shaping agent behaviour and output quality, with LLM/agent
+      components involved, so it is ai-first despite the
+      lead/generalist framing.
+  responsibilities:
+  - Write code daily on core systems, from APIs to cloud infrastructure
+  - Set technical direction with the founding team, including architecture and build-vs-buy
+    decisions
+  - Lead and support a team of 2 engineers, review their work and set engineering
+    standards
+  - Support technical hiring and help shape engineering team growth
+  - Build and improve the agentic engineering setup, including harnesses, parallel
+    agents, evaluation and benchmarking
+  - Build and operate reliable AI infrastructure with security, GDPR and European
+    data residency
+  use_cases:
+  - Agentic software engineering workflows and harnesses
+  - Running multiple coding agents in parallel with evaluation and benchmarking
+  - Production AI infrastructure with security and European data residency
+  - Core platform APIs and cloud infrastructure for AI systems
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Multi-Agent Systems, Claude Code,
+      LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: [GDPR]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '12067785'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:47:45.590382'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

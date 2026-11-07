@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-driven customer
+    experiences
+position:
+  title: 'Sr. Manager, AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails,
+    Evaluation)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role oversees design and development of LLM inference,
+      guardrails, model evaluation, agentic AI workflows, and
+      foundation model optimization - directly shaping LLM output
+      quality and behavior. Explicit LLM/agent components make it
+      ai-first despite also covering ML training.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Oversee design, development, testing, deployment, and support of AI software components
+    including LLM inference, guardrails, model evaluation, and governance
+  - Make build-vs-buy decisions across open source and SaaS AI technologies
+  - Introduce foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  - Attract and retain AI talent, mentor and coach team members
+  - Operationalize Responsible AI with review gates, evaluation requirements, and
+    rollout/rollback standards
+  - Collaborate with Research, Data, and Platform teams to accelerate model lifecycle
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Real-time customer question answering and fraud/charge alerts
+  - Enterprise Gen AI platform services for agentic AI, guardrails, and evaluation
+  - Foundation model training and LLM inference at production scale
+  - Responsible AI governance and observability for production systems
+  skills:
+    languages: [Python, C++, C#, Java, Go]
+    domains: []
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [Machine Learning, PyTorch, Hugging Face, Foundation Model Training, CUDA]
+    databases: [Vector Databases, Vector Search]
+    genai: [LLMs, Guardrails, AI Agents, Agentic Workflows, LLM Evaluation]
+    ops: [MLOps, AI Observability]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '12077293'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T14:50:26.917785'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

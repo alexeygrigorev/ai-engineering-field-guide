@@ -1,0 +1,55 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage semiconductor solutions
+position:
+  title: Staff Engineer, ASIC Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and evaluates LLM workflows themselves:
+      prompting, RAG/Graph-RAG, agentic systems, benchmarking, and
+      quality evaluation for GenAI systems. That is directly
+      shaping model behaviour, with LLMs involved, so ai-first.
+  responsibilities:
+  - Design, build, and improve GenAI-powered and agentic systems for ASIC semiconductor
+    engineering workflows
+  - Build, evaluate, and optimize LLM-based workflows including prompting, RAG, Graph-RAG,
+    and benchmarking
+  - Develop ML and deep learning models for classification, regression, anomaly detection,
+    and failure analysis
+  - Partner with domain experts to translate engineering problems into AI/ML and analytics
+    solutions
+  - Support deployment, monitoring, and operationalization of AI/ML solutions in cloud
+    environments
+  - Communicate technical findings and model outcomes to technical and non-technical
+    stakeholders
+  use_cases:
+  - Code generation for ASIC semiconductor engineering
+  - Technical documentation automation and data extraction
+  - Failure triage, root cause analysis, and anomaly detection
+  - Technical knowledge retrieval and semantic search
+  - Engineering decision support and analytics
+  skills:
+    genai: [LLMs, RAG, Graph-RAG, Prompt Engineering, Agentic Workflows, AI Agents,
+      Generative AI, Claude Code, Cursor, Gemini]
+    ml: [Machine Learning, Deep Learning, scikit-learn, Anomaly Detection]
+    web: [HTML, CSS]
+    databases: []
+    data: [Pandas]
+    cloud: [GCP, AWS, Azure]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Matplotlib, Plotly]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11502139'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T12:01:20.685622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

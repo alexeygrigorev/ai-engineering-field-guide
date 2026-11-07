@@ -1,0 +1,51 @@
+company:
+  name: Point72
+  stage: null
+  focus: Global alternative investment firm, hedge fund research
+position:
+  title: Software Engineer - Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly deploys LLM-based tools and builds
+      agentic workflows for business impact, which is shaping
+      LLM/agent behavior (ai-first). Beyond that, the work is
+      primarily data engineering building pipelines and AI-ready
+      data assets.
+  responsibilities:
+  - Design and build big data pipelines for ingestion, transformation, and delivery
+    of AI-ready data assets
+  - Develop reusable software components, libraries, and APIs for experimentation
+    and production deployment
+  - Implement data quality, lineage, and governance controls for reliable, auditable,
+    compliant datasets
+  - Build scalable, AI-native, cloud-based infrastructure using distributed systems
+  - Deploy LLM-based tools and build agentic workflows for business impact
+  - Explore emerging Data and AI technologies and run proofs of concept
+  - Partner with investment, research, data science, and compliance teams to build
+    production-ready data products
+  - Provide hands-on technical leadership and influence architecture and team processes
+  use_cases:
+  - Transforming structured and unstructured data into actionable investment insights
+  - Building AI-ready data assets for research on companies, industries, and the economy
+  - LLM-based tools and agentic workflows for business analytics
+  - Compliant research products for investment professionals
+  skills:
+    genai: [LangGraph, LangChain, Embeddings, Agentic Workflows, LLMs]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Graph Databases]
+    data: [Spark, Airflow, Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11508597'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:02:47.125085'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Ubisoft
+  stage: null
+  focus: Global video game development and publishing
+position:
+  title: R&D Engineer (GEN AI/ ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes with GenAI and VLMs, designs
+      experiments, defines evaluation criteria and compares
+      approaches, which shapes model choice and output quality on
+      LLM/VLM components. Hence ai-first.
+  responsibilities:
+  - Build rapid prototypes using GenAI/VLM/ML to address QC and testing pain points
+  - Design and execute experiments with hypotheses, datasets, evaluation criteria,
+    baselines, and success metrics
+  - Implement data pipelines for experiments including collection, cleaning, labeling
+    support, and dataset versioning
+  - Integrate prototypes with internal tools and test systems via APIs, CLIs, and
+    plugins for user trials
+  - Analyze experiment results, identify failure modes, and iterate on findings
+  - Maintain reproducible research practices with experiment tracking and configuration
+    management
+  - Collaborate in agile workflows with technical and non-technical stakeholders
+  use_cases:
+  - Automated game testing and quality control
+  - Exploring automation opportunities across QC workflows
+  - VLM-based analysis of game content and testing artifacts
+  - Proof-of-value AI prototypes integrated with internal test systems
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Jenkins, Git]
+    languages: [Python, C++, C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11988371'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:19:52.171622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

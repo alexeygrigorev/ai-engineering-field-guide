@@ -1,0 +1,60 @@
+company:
+  name: Avalon Healthcare Solutions
+  stage: null
+  focus: |-
+    Diagnostic intelligence and lab testing management for
+    health plans
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates agentic systems, RAG
+      pipelines, prompt/context engineering, and evals/guardrails
+      directly shaping LLM behavior. It also builds the AI
+      features themselves, not just consuming APIs.
+  responsibilities:
+  - Lead design, development, and deployment of AI-enabled solutions with generative
+    AI and agentic capabilities
+  - Design, build, and operate agentic systems including multi-agent workflows, tool/function
+    calling, MCP servers, RAG pipelines, and agent orchestration
+  - Apply advanced prompt engineering and context engineering practices for reliable
+    model behavior
+  - Build workflow automations using n8n, integrating AI agents with enterprise systems
+    and APIs
+  - Establish evaluation, testing, observability, and guardrail practices for AI systems
+  - Develop modular application code using SQL and vector data sources; build reusable
+    prompt libraries, tool definitions, and workflow templates
+  - Mentor engineers, promote AI tools and best practices across engineering teams
+  - Deliver production-ready AI solutions with documentation and knowledge transfer
+    to operating teams
+  use_cases:
+  - AI-powered automation of health plan operations and diagnostics management
+  - Agentic workflows and RAG for enterprise data integration
+  - Workflow automation integrating AI agents with enterprise systems
+  - Improving clinical and operational efficiency through AI-driven insights
+  - High-volume mission-critical AI applications in a healthcare environment
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows, Function Calling, MCP,
+      RAG, Prompt Engineering, Context Engineering, Structured Outputs, Guardrails,
+      Anthropic API, OpenAI API, Azure OpenAI, AWS Bedrock, LangChain, LangGraph,
+      LlamaIndex, Embeddings, Fine-Tuning, LLM Evaluation]
+    ml: []
+    web: [REST, Webhooks, Microservices, APIs]
+    databases: [Vector Databases, pgvector, OpenSearch, Pinecone]
+    data: [Kafka, Airflow]
+    cloud: [AWS, AWS EC2, ECS]
+    ops: [Docker, Monitoring]
+    languages: [Python, Rust, Go, TypeScript, Node.js, Java, SQL]
+    domains: []
+    other: [n8n, Zapier, Event-Driven Architecture, Agile, Code Review, Responsible
+        AI, HIPAA Compliance, Temporal]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11898084'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:53:22.556690'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Swimlane
+  stage: null
+  focus: Security operations automation with Agentic AI
+position:
+  title: Senior AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing multi-agent
+      systems, retrieval, context engineering, guardrails, and
+      building evals. Explicitly not a model-training role, but
+      applied LLM work with agents and chatbots, making it ai-
+      first.
+  responsibilities:
+  - Lead technical strategy and execution for production-grade multi-agent systems
+    and security chatbots
+  - Design secure, maintainable LLM workflows for AI SOC use cases like alert triage,
+    summarization, and workflow automation
+  - 'Own evaluations: create test sets, define success metrics, and run regression
+    tests'
+  - Debug hallucinations and reduce failure modes through better retrieval, prompting,
+    and guardrails
+  - Define engineering standards for context engineering, tool design, retrieval,
+    and harness engineering
+  - Embed security-first practices including data privacy, access controls, and prompt
+    injection defenses
+  - Collaborate cross-functionally across Data Science, Engineering, Product, and
+    Platform teams
+  use_cases:
+  - Alert triage in security operations centers
+  - Automated alert summarization
+  - Security workflow automation
+  - Customer-facing security chatbots
+  - Intelligent SOC automation via multi-agent systems
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows, RAG, MCP, Context Engineering,
+      Prompt Engineering, Guardrails, LLM Evaluation, AWS Bedrock, LLMs, AI Agents,
+      Function Calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [.NET, TypeScript, Python]
+    domains: []
+    other: [SOAR, Prompt Injection Defenses, Cursor, Claude Code, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888271'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:39:46.808485'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: White & Case LLP
+  stage: null
+  focus: Global law firm legal services and practice innovation
+position:
+  title: Product Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds MCP integrations exposing services to AI
+      assistants (tool calling design) and defines/runs
+      evaluations for AI-enabled behavior, both of which shape LLM
+      application behavior. The bulk is production engineering,
+      but the AI-side work is LLM/agent-based, so ai-first.
+  responsibilities:
+  - Assess prototypes for production readiness and recommend hardening, refactoring,
+    rebuilding, or stopping
+  - Build Python services, relational data models, APIs and background processing
+    with lightweight frontend interfaces
+  - Develop MCP integrations through the Firm's gateway handling authentication, permissions
+    and token exchange
+  - Work with Technology on cloud deployments and on-premises integrations
+  - Follow SDLC and security policies including testing, access controls, audit logging
+    and secrets handling
+  - Take applications through deployment, controlled release and early live support
+    with handover
+  - Define and run evaluations for AI-enabled behaviour and monitor production failures,
+    latency, usage and costs
+  use_cases:
+  - Internal AI assistants at a law firm accessed via MCP gateway
+  - Hardening and productionizing legal tech prototypes
+  - Secure integration of firm applications with AI assistants
+  - AI-enabled behavior quality assurance in production
+  skills:
+    genai: [MCP, FastMCP, LLMs, LLM Evaluation]
+    ml: []
+    web: [FastAPI, Django, APIs, OAuth]
+    databases: [Relational Databases]
+    data: []
+    cloud: [Azure, API Gateway]
+    ops: [Automated Testing, Git, CI/CD, Model Deployment]
+    languages: [Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11727519'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:43:30.639819'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

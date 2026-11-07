@@ -1,0 +1,97 @@
+job_id: 11696380
+title: "Network Engineer - AI Infrastructure, RDMA & Storage"
+company: VAST Data
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Description
+
+  VAST Data is the data platform company for the AI era. We
+  build enterprise software infrastructure to capture,
+  catalog, refine, enrich, and protect massive datasets, and
+  make them available for real-time data analysis and AI
+  training and inference. Designed from the ground up to make
+  AI simple to deploy and manage, VAST takes the cost and
+  complexity out of deploying enterprise and AI infrastructure
+  across data center, edge, and cloud.
+
+  About the Role :
+
+  The fastest system in the world is only as fast as the
+  network under it. As a Network Engineer in VAST's Field
+  Engineering organization, you define how VAST connects to
+  the world: the reference architectures, validated switch
+  configurations, and RDMA fabric designs every customer
+  deployment is built on.
+
+  This is a design and research role, not a support queue. You
+  will build and run the lab where new switches, NICs, and
+  network operating systems are qualified before they ever
+  reach a customer. You will investigate why a fabric behaves
+  differently at 800G than it did at 100G, and turn the answer
+  into a standard the whole field organization uses. When a
+  strategic customer hits something nobody has seen before,
+  you reproduce it, explain it, and make sure it never happens
+  to the next customer.
+
+  You will work across R&D, QA, Support, Product, and customer
+  engineering teams, and directly with networking vendors
+  including NVIDIA, Arista, Cisco, and Juniper. The work sits
+  where AI infrastructure is hardest: GPU fabrics, lossless
+  Ethernet, and storage protocols moving at line rate.
+
+  Requirements
+
+  What a Day in the Life Looks Like :
+
+  Design the Architecture: Define reference network
+  architectures for VAST deployments: L2 and L3 fabrics, BGP
+  and EVPN/VXLAN designs, RoCEv2 and QoS policy. Decide what
+  "good" looks like, then write it down so the field can
+  execute it consistently.
+
+  Own the Lab: Build and run validation environments for
+  switch qualification, interoperability testing, performance
+  characterization, and reproduction of customer issues. Your
+  lab is where we find problems before customers do.
+
+  Qualify the Ecosystem: Evaluate new switches, network
+  operating systems, and NICs from NVIDIA, Arista, Cisco,
+  Juniper, and others. Work directly with vendor engineering
+  teams to close gaps and certify what works.
+
+  Solve What Nobody Else Can: Chase complex problems across
+  the full path between GPUs, fabric, and storage. Congestion,
+  packet loss, MTU, latency, PFC and ECN behavior under real
+  load. Root cause it, then fix it at the source.
+
+  Turn Findings into Product: Feed what you learn back into
+  VAST, as documented best practice, as automation, and as
+  direct input to R&D on what the platform should do
+  differently.
+
+  Professional Experience & Skills
+
+  - Strong data center networking fundamentals - CCNP level or
+    equivalent hands-on experience
+  - Solid command of BGP and L3 routing: eBGP/iBGP, ECMP, route
+    policy, multipath, BGP-based fabrics
+  - Hands-on experience designing and troubleshooting both L2
+    and L3 data center networks
+  - Real troubleshooting ability across layers - routing,
+    ARP/ND, MTU, congestion, packet loss, latency
+  - Working knowledge of Linux networking: interfaces, VLANs,
+    routing tables, namespaces, MTU
+  - Comfort with tcpdump, Wireshark, iperf, and the standard
+    diagnostic toolkit
+  - The instinct to build a lab and reproduce a problem rather
+    than theorize about it
+  - Clear technical writing - your designs and findings are only
+    useful if others can follow them
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-15
+url: "https://www.builtinla.com/job/network-engineer-ai-infrastructure-rdma-storage/11696380"
+source: Built In

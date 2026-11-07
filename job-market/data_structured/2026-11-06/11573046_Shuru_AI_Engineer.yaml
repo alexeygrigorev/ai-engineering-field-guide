@@ -1,0 +1,46 @@
+company:
+  name: Shuru
+  stage: null
+  focus: AI, product and technology engineering services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows, prompts, guardrails,
+      memory/context/retrieval layers, and agent evaluation
+      frameworks - directly shaping LLM/agent behavior, so it is
+      ai-first.
+  responsibilities:
+  - Build AI agents, intelligent systems, AI-powered workflows, automations, and integrations
+    from prototype to production
+  - Develop memory, context, state management, and retrieval layers
+  - Build frameworks for prompts, tools, guardrails, retries, and workflow testing
+  - Create agent evaluation and regression testing frameworks
+  - Implement observability for traces, latency, errors, token usage, and quality
+  - Build secure APIs using Python and FastAPI
+  - Integrate agents with APIs, event streams, vector databases, and enterprise systems
+  use_cases:
+  - AI agents and agentic workflows for business automation
+  - Intelligent systems integrating with enterprise systems and event streams
+  - AI applications in healthcare and other regulated domains
+  skills:
+    genai: [AI Agents, LangGraph, LangChain, LLMs, Prompt Engineering, Guardrails,
+      MCP, Context Engineering, LLM Evaluation, Human-in-the-Loop Workflows]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices]
+    databases: [MongoDB, Vector Databases, Knowledge Graphs]
+    data: [Kafka]
+    cloud: [AWS, AWS Bedrock]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11573046'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:13:50.600264'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

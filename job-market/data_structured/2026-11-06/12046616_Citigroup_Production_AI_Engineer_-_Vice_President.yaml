@@ -1,0 +1,57 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services technology
+position:
+  title: Production AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic AI workflows,
+      applies prompt engineering to production LLM use cases, and
+      builds AI-native observability agents, directly shaping
+      LLM/agent behavior. This makes it ai-first.
+  responsibilities:
+  - Design, develop, and maintain production-grade software systems emphasizing reliability
+    and scalability
+  - Architect and implement agentic AI workflows that reason, plan, and act autonomously
+    across production environments
+  - Apply advanced prompt engineering to integrate LLMs into operational tooling,
+    incident response, and developer productivity platforms
+  - Lead development of AI-native observability solutions using intelligent agents
+    for anomaly detection and automated remediation
+  - Operate and evolve CI/CD pipelines, Infrastructure-as-Code, and GitOps workflows
+  - Collaborate with platform, data, and product engineering teams to embed AI capabilities
+    into the production lifecycle
+  - Coach and mentor team members on AI engineering, prompt design, and agentic architecture
+  - Operate within a highly regulated financial environment ensuring compliance in
+    system design
+  use_cases:
+  - Autonomous agents that reason, plan, and act across production environments
+  - LLM-powered incident response and operational tooling
+  - AI-native observability for anomaly detection, failure prediction, and automated
+    remediation
+  - Developer productivity platforms with LLM integration
+  - Classification, summarisation, and code generation for production use cases
+  skills:
+    genai: [OpenAI API, Anthropic API, Gemini, LLMs, Embeddings, Prompt Engineering,
+      Agentic Workflows, AI Agents, LangChain, LangGraph, AutoGen, CrewAI, Multi-Agent
+        Systems, Function Calling]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: [Kafka]
+    cloud: []
+    ops: [GitOps, DevSecOps, CI/CD, Infrastructure as Code, Terraform, CloudFormation,
+      Docker, Kubernetes, Istio, Datadog, AppDynamics, Dynatrace]
+    languages: [Java, Python, Go]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12046616'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:38:39.896035'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

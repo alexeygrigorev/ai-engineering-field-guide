@@ -1,0 +1,47 @@
+company:
+  name: Evnek Technologies Pvt Ltd
+  stage: null
+  focus: Technology services company building GenAI applications
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and optimizes RAG pipelines, does prompt
+      engineering, LLM response evaluation, and integrates LLM
+      frameworks — all direct shaping of LLM behavior, so it's ai-
+      first.
+  responsibilities:
+  - Develop AI-powered applications using LLMs and Generative AI
+  - Build and optimize RAG pipelines for document retrieval and question-answering
+  - Work with LLM frameworks such as LangChain, LlamaIndex, and Hugging Face
+  - Integrate LLM APIs such as OpenAI, Azure OpenAI, or open-source models
+  - Implement embeddings, semantic search, and vector databases
+  - Develop Python-based APIs and backend services using FastAPI or Flask
+  - Perform prompt engineering, LLM response evaluation, and model optimization
+  - Collaborate with senior engineers to deploy scalable AI solutions
+  use_cases:
+  - Intelligent document retrieval and question-answering systems
+  - Chatbots and conversational AI applications
+  - Semantic search over enterprise documents
+  - Scalable AI-powered backend services
+  skills:
+    genai: [LLMs, RAG, Generative AI, LangChain, LlamaIndex, OpenAI API, Embeddings,
+      Semantic Search, Prompt Engineering, AI Agents, LoRA]
+    ml: [Hugging Face, Fine-Tuning, Transformers]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases, FAISS, Chroma, Pinecone]
+    data: []
+    cloud: [Azure OpenAI, AWS, Azure, GCP]
+    ops: [Docker, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064538'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:27.320681'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

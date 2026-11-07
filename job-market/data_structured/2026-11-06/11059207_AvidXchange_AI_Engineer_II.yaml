@@ -1,0 +1,52 @@
+company:
+  name: AvidXchange
+  stage: null
+  focus: Accounts payable automation and payment software
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs and develops predictive models, uses
+      statistical methods for exploratory analysis, and owns ML
+      model lifecycle quality — clearly shaping classical ML
+      models. No LLM, prompt, or agent component is mentioned;
+      preferred sub-disciplines are CV, NLU, ML, DL, RL, so it is
+      ml-first.
+  responsibilities:
+  - Design and develop non-traditional data models for predictive modeling and complex
+    representational needs
+  - Use statistical and mathematical methods for exploratory data analysis to build
+    evidence for solution approaches
+  - Leverage existing machine learning libraries and frameworks
+  - Extend traditional application models with intelligent systems design
+  - Guarantee ML software delivery quality across the model lifecycle and guide the
+    team to improve it
+  - Collaborate with Product Owner, QA engineers, and other engineers to transform
+    business requirements into features
+  - Solve problems, debug, and optimize code for performance and security; maintain
+    code quality and unit test coverage
+  - Mentor junior engineers
+  use_cases:
+  - Predictive modeling for business problems in AP automation
+  - Intelligent features for a SaaS bill payment platform
+  - Enhancing traditional application models with intelligent systems
+  skills:
+    languages: [C#, R, Python]
+    domains: [Computer Vision, Reinforcement Learning, NLP]
+    web: []
+    cloud: []
+    data: [Hadoop, Spark, Databricks]
+    ml: [Machine Learning, Deep Learning, Statistical Learning]
+    databases: []
+    genai: []
+    ops: [Git, CI/CD]
+    other: [Agile, OWASP, Unit Testing, Object-Oriented Programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11059207'
+  location: Nagar, IND
+  extracted_at: '2026-11-06T11:24:37.673639'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

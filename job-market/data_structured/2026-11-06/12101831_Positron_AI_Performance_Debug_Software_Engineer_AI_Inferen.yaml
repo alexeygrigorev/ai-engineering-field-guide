@@ -1,0 +1,58 @@
+company:
+  name: Positron AI
+  stage: null
+  focus: |-
+    Custom AI inference accelerator hardware (ASIC/FPGA) for
+    LLMs
+position:
+  title: Performance & Debug Software Engineer – AI Inference
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role optimizes serving performance (profiling,
+      throughput, latency, KV cache data movement) on custom
+      accelerators — the deliverable is capacity/performance, not
+      shaping LLM behavior through prompts, retrieval, training,
+      or evals. Per the edge case, hosting/scaling/optimizing
+      inference infrastructure without shaping the model is ai-
+      support.
+  responsibilities:
+  - Profile and optimize LLM inference latency, throughput, and utilization across
+    hardware-accelerated attention, accelerator configuration, runtime, and host software
+  - Use performance counters, traces, telemetry, and simulation to isolate regressions
+    and validate fixes
+  - Develop and optimize distributed inference including KV cache management and data
+    movement across heterogeneous hardware
+  - Build representative benchmarks and workload traces exposing compute, memory,
+    interconnect, and scheduling bottlenecks
+  - Partner with test engineers to turn performance findings into regression tests
+    and release gates
+  - Influence hardware and software architecture where measured performance reveals
+    structural limitations
+  - Debug across application, runtime, driver, firmware, and hardware boundaries
+  use_cases:
+  - Low-latency, high-throughput LLM inference on custom ASIC/FPGA accelerators
+  - Hardware-accelerated attention optimization
+  - Distributed inference with KV cache management
+  - Benchmarking and regression testing of inference serving performance
+  skills:
+    genai: [AI Agents]
+    ml: [CUDA, PyTorch, GPU Kernel Development, Quantization, Transformers, Mixture
+        of Experts]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, vLLM, Model Deployment, Model Monitoring, Perfetto, Linux]
+    languages: [C++, Python]
+    domains: [NLP]
+    other: [FPGA, ASIC, eBPF]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12101831'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:01:37.112924'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

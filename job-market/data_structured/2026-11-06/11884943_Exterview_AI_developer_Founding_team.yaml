@@ -1,0 +1,54 @@
+company:
+  name: Exterview
+  stage: null
+  focus: AI-driven candidate screening and interview platform
+position:
+  title: AI developer (Founding team)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements multi-agent orchestration,
+      prompt evaluation pipelines, guardrails, and RAG systems
+      shaping LLM behavior (Azure OpenAI), clearly making it ai-
+      first.
+  responsibilities:
+  - Implement multi-agent orchestration system (ScreeningAgent, InterviewAgent, FeedbackAgent)
+    with reliable asynchronous coordination
+  - Integrate Azure OpenAI models and Cognitive Services for multimodal reasoning
+    and hybrid model selection
+  - Design Agent-to-Agent communication via Azure Service Bus / Event Grid with low-latency
+    messaging
+  - Build context and memory systems in Redis, Cosmos DB, and Neo4j Candidate Graph
+  - Build evaluation pipelines and guardrails using LangSmith/Langfuse to reduce hallucinations
+    and monitor drift
+  - Integrate RAG pipelines with candidate profiles and job documentation
+  - Implement adaptive learning loops that adjust interview and assessment flows
+  - Benchmark and optimize orchestration for concurrent interviews and batch processing
+  use_cases:
+  - AI-driven candidate screening and fit scoring
+  - Autonomous interview agents conducting technical Q&A
+  - Skill-based scorecards and AI-driven feedback generation
+  - Adaptive assessment loops that adjust based on candidate results
+  - Candidate knowledge graph linking candidates, roles, and skills
+  - Enterprise-scale concurrent interview processing with drift monitoring
+  skills:
+    genai: [LangChain, CrewAI, Azure OpenAI, RAG, Agentic Workflows, Guardrails, LLM
+        Evaluation, Structured Outputs]
+    ml: [RLHF, NLP]
+    web: [React, Node.js, Express]
+    databases: [Redis, Neo4j, Graph Databases, Cosmos DB, MongoDB]
+    data: [Kafka]
+    cloud: [Azure, Azure Functions]
+    ops: [LangSmith, Langfuse, GitHub Actions, CI/CD, API Management, Monitoring]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Azure Service Bus, Azure Event Grid, Cognitive Services, Linear, Notion,
+      GitHub]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884943'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:33:59.454036'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

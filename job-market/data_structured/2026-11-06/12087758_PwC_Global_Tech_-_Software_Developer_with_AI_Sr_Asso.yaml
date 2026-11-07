@@ -1,0 +1,49 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and consulting
+position:
+  title: Global Tech - Software Developer with AI, Sr. Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds applications with "AI-enabled features" and
+      uses AI tools and prompt techniques as an aid in
+      development, but there is no evidence the person shapes
+      model behaviour through prompts, retrieval design, or
+      training themselves. AI is a tool and a vague feature
+      adjective here, not the deliverable.
+  responsibilities:
+  - Develop software solutions using Python, Java, JavaScript, or related languages
+  - Design and build applications with AI-enabled features, microservices, and enterprise
+    integration patterns
+  - Translate business requirements into functional technical designs and code
+  - Write, review, and debug code for reliability, maintainability, and performance
+  - Create and execute test cases including acceptance-driven and automated testing
+  - Use CI/CD pipelines and application lifecycle management tools for controlled
+    releases
+  - Collaborate with internal stakeholders to clarify priorities and track progress
+  - Troubleshoot software issues, document root causes, and apply corrective fixes
+  use_cases:
+  - Software solutions supporting digital transformation within Internal Firm Services
+  - Enterprise applications with AI-enabled features and microservices integration
+  - Internal practice support tooling across the software development lifecycle
+  skills:
+    genai: [Prompt Engineering]
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, Java, JavaScript]
+    domains: []
+    other: [Code Review, AI Tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12087758'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:53:05.503692'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

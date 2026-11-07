@@ -1,0 +1,44 @@
+company:
+  name: WIN Home Inspection
+  stage: null
+  focus: Home inspection and home services technology
+position:
+  title: Software Engineer- Agentic AI & Integrations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds intelligent agentic workflows,
+      RAG, and LLM orchestration, which is shaping model behavior
+      via agents and retrieval. LLM/agent components are central,
+      so it is ai-first.
+  responsibilities:
+  - Design and develop software applications, AI-powered solutions, and scalable technology
+    platforms
+  - Build intelligent agentic workflows that automate complex business processes
+  - Connect internal and external systems via integrations and tool-integration architectures
+  - Develop new products and platform capabilities for the home services industry
+  - Apply emerging AI technologies including LLM orchestration and RAG
+  use_cases:
+  - Automating complex business processes in home services
+  - Customer access to home services via intelligent automation
+  - Conversational AI and real-time automation solutions
+  - Integrating internal and external systems and services
+  skills:
+    languages: []
+    domains: []
+    web: [FastAPI, Microservices, Event-Driven Architecture]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [MCP, AI Agents, Conversational AI, LLMs, RAG, LLM Evaluation]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12007496'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:27:00.734654'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,143 @@
+job_id: 11640201
+title: Senior Software Engineer, AI DevEx
+company: Splash Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Splash
+
+  Splash brings people and communities together through the
+  gamification of live sports and events. We nurture, foster,
+  and inspire the competitive spirit that lives within us all
+  - one season, one game, one play at a time. With a variety
+  of sports categories and pool formats to choose from, our
+  websites are the premier spots for hosting friendly
+  competitions against friends and family. We're a small,
+  quickly growing, and remote-first team, looking for talented
+  people who love sports and tech startups!
+
+  The Role
+
+  We're hiring an engineer to build the infrastructure that
+  lets AI agents do most of our software development. It's our
+  software factory: a ticket, bug report, support chat or a
+  Datadog alert becomes work an agent picks up, builds, tests
+  and gets reviewed. Engineers set the principles and the
+  architecture and agents write, test and deliver the code
+  under a continuous feedback loop.
+
+  Location: This is a full-time, remote position in the US.
+  Our team is distributed across the US and Prague.
+
+  What You'll Ship
+
+  - Cloud coding environments. Any engineer or agent can spin up
+    our core services in a environment and run their tests,
+    without the local setup our polyrepo needs today.
+  - Autonomous coding agents. Agents running in those
+    environments take tickets all to reviewed pull requests,
+    with their own browser / native app testing, validation
+    against production observability and configuration, fit
+    with product requirements and compliance rules.
+  - SRE integration. Agents wired into Datadog and our incident
+    tooling, so a production alert can create a fix PR.
+  - An agent platform for the business. The same runtime,
+    triggers and guardrails, so teams outside engineering can
+    run agents on it with help from our enablers.
+
+  We'll judge the impact on two numbers:
+
+  - PR cycle time and review latency: how long work waits
+    between opened and merged.
+  - Agent share of work: the percentage of PRs that agents
+    author or review.
+
+  What You'll Own
+
+  - Environments. Our local dev stack and cloud coding
+    environments, reproducible from a fresh checkout by a
+    person or an agent.
+  - Agents, built or bought. Pick the right agent for each job,
+    whether that's an open-source agent running on our
+    infrastructure or a vendor's cloud agent. Then wire it in:
+    how it gets triggered (Slack, Jira, GitHub, Datadog), what
+    credentials and context it gets, and how we see what it
+    did and what it cost.
+  - Guardrails. Which data agents can touch, how secrets and PII
+    are handled, and where human review is required for a
+    company that runs real-money contests in a regulated
+    industry.
+  - Feedback loops. Find where agents struggle in our codebases
+    and fix the root cause, whether that's missing context, a
+    flaky test, missing tools, or an environment gap.
+
+  Who you are
+
+  - You do 90% or more of your work with AI agents today. Claude
+    Code, Codex, Cursor or similar. You know where they fall
+    down and what you do about it.
+  - Ideally, you run multi-agent or subagent setups. You've
+    orchestrated parallel agents or delegated work to
+    subagents, and built the skills, hooks or harness config
+    that made their output better.
+  - You have infrastructure depth. AWS (ECS/Fargate, RDS,
+    Lambda, networking and IAM), infrastructure as code
+    (CDK/CloudFormation or Terraform), containers, and CI/CD
+    pipelines you've built and made faster.
+  - You can work in our code. You're comfortable contributing
+    directly to TypeScript/Node services.
+  - You've built tools engineers actually adopted. Internal
+    platforms, dev environments or developer tooling that
+    other people chose to use.
+  - You make data-driven decisions. You're familiar with
+    evaluating agents for coding and non-coding tasks.
+  - You work well on your own in a remote team. You write
+    clearly and keep people in the loop across US and Prague
+    time zones. You don't wait for work, you solve problems
+    proactively, making other people uncomfortable with your
+    desire for speed.
+  - 6+ years of software engineering, with meaningful time on
+    infrastructure, platform or developer tooling.
+
+  Nice to Have
+
+  - Sandboxed or ephemeral environments at scale (Docker,
+    devcontainers, Kubernetes, Nix or similar).
+  - You've built MCP servers or other integrations that give
+    agents access to real systems.
+  - Tracing and evals for agent work (OpenTelemetry, LLM traces,
+    cost tracking).
+  - Experience in a regulated industry like gaming or fintech.
+  - A love for sports.
+
+  Compensation & Benefits
+
+  As a Splash team member, you'll receive a comprehensive
+  compensation and benefits package that includes:
+
+  - A competitive annual salary range of $150-190k. This range
+    may be modified, and final compensation may vary based on
+    work experience and skill level
+  - Potential to earn equity in the company
+  - Medical, Dental, & Vision Insurance
+  - 401K/Retirement Plan Options
+  - Flexible PTO
+  - Annual company retreats & team offsites
+  - Frequent company-wide games with cash prizes
+  - An exciting opportunity to be a part of the fast-growing
+    fantasy sports industry, where you'll help build products
+    for millions of fans across the country!
+
+  Splash is committed to creating an inclusive work
+  environment. We are proud to be an equal opportunity
+  employer and will consider all qualified applicants
+  regardless of gender, gender identity, race, religion,
+  color, nationality, ethnic origin, sexual orientation,
+  marital status, veteran status, age or disability.
+industries:
+  - Gaming
+  - Sports
+posted_date: 2026-11-03
+url: "https://www.builtinla.com/job/senior-software-engineer-ai-devex/11640201"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Tailscale
+  stage: null
+  focus: Zero-config secure networking for people and devices
+position:
+  title: Software Engineer, AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is about enabling Tailscale's engineering org to
+      adopt AI coding tools — building workflows, guardrails, and
+      adoption measurement so other engineers ship faster. This is
+      developer workflow enablement, not shaping model behavior or
+      product AI systems, so it's ai-support even though it
+      touches the Aperture gateway team.
+  responsibilities:
+  - Define and drive the internal AI-enablement roadmap with engineering leadership
+  - Work with the team building Aperture by Tailscale, the AI gateway used internally
+    and as a product
+  - Build tools, workflows, and shared practices that help engineers get value from
+    coding agents, and evaluate new models and tools for adoption
+  - Partner with engineering and non-engineering teams to find high-leverage AI opportunities
+  - Establish guardrails, review practices, and documentation for safe AI-generated
+    code and advocate good practices
+  - Track adoption and measure the impact of AI tooling on velocity and quality, reporting
+    to leadership
+  use_cases:
+  - AI-assisted software development enablement for an engineering organization
+  - Safe adoption of coding agents and AI-generated code across teams
+  - Evaluation and benchmarking of LLMs and coding tools for internal adoption
+  - Developer productivity and internal tooling for AI workflows
+  skills:
+    genai: [Claude Code, Codex, LLMs, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11581794'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:15:16.364634'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

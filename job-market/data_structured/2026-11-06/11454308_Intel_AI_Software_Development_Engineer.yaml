@@ -1,0 +1,52 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductors and computing hardware
+position:
+  title: AI Software Development Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds AI deployment platforms, containerized
+      workloads, model lifecycle management, and benchmarks for
+      power/performance — delivering capacity and enablement, not
+      shaping model behavior. While inference optimization is
+      mentioned, the emphasis is on platform services,
+      firmware/driver/middleware enablement, and optimizing
+      workloads to maximize hardware utilization, which is
+      serving/infrastructure work rather than prompt, retrieval,
+      or training design.
+  responsibilities:
+  - Design and build cloud-native and edge AI platforms
+  - Develop AI deployment frameworks and model lifecycle management
+  - Run containerized AI workloads and optimize inference for edge deployments
+  - Develop and debug software enabling AI features across Intel's product portfolio
+  - Collaborate with partners to optimize AI solutions across firmware, drivers, OS,
+    middleware, and frameworks
+  - Improve AI workloads and benchmarks for power and performance analyses
+  - Contribute AI software to open-source communities
+  use_cases:
+  - Edge AI deployments
+  - Cloud and edge AI inference optimization
+  - AI benchmarks for power and performance analysis
+  - AI software enablement across Intel hardware portfolio
+  skills:
+    genai: [Generative AI, Fine-Tuning]
+    ml: [Machine Learning, Model Training]
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Inference Optimization, Kubernetes, Docker, MLOps, Distributed Systems,
+      Linux]
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11454308'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:53:01.272411'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

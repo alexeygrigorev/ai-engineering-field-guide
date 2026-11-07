@@ -1,0 +1,57 @@
+company:
+  name: Tempo Software
+  stage: null
+  focus: Atlassian ecosystem apps for time and portfolio management
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behaviour directly: prompt design,
+      evaluation strategy, model selection, agent architecture,
+      RAG, function calling, and LLM-powered insight synthesis.
+      Classical ML (anomaly detection) is present but the
+      LLM/agent component makes it ai-first.
+  responsibilities:
+  - Build statistical and ML-based anomaly detection for portfolio signals from CDC
+    event streams
+  - Develop an LLM-powered insight synthesis engine producing root causes, confidence
+    scores, and evidence chains
+  - Design a translation layer between natural language planning rules and the Monte
+    Carlo scheduling engine
+  - Build evaluation and testing frameworks including prompt regression suites and
+    A/B testing for model updates
+  - Define MCP tool specs for domain capabilities within a hub-and-spoke MCP architecture
+  - Absorb work from external AI partners and establish AI engineering patterns for
+    the broader team
+  - Serve as internal anchor for prompt design, evaluation strategy, model selection,
+    and agent architecture
+  use_cases:
+  - 'Portfolio signal detection: velocity changes, capacity saturation, dependency
+    risks'
+  - LLM-driven insight synthesis with root cause analysis and confidence scoring
+  - Natural language to structured planning rule compilation for Monte Carlo scheduling
+  - Runtime tool invocation by Tempo AI via MCP for queries, capacity lookups, and
+    simulations
+  - Enterprise decision support for portfolio and resource management
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, RAG, Function Calling, LangChain,
+      LlamaIndex, CrewAI, AutoGen, MCP, AWS Bedrock, Azure OpenAI]
+    ml: [Anomaly Detection, Time-Series Analysis, Machine Learning]
+    web: []
+    databases: []
+    data: [CDC, Data Pipelines]
+    cloud: [Vertex AI]
+    ops: [CI/CD, Observability]
+    languages: [Python, Kotlin, TypeScript]
+    domains: []
+    other: [A/B Testing, Monte Carlo Simulation, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11729156'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:44:11.289311'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

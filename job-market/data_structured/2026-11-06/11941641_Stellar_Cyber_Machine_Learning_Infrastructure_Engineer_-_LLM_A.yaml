@@ -1,0 +1,54 @@
+company:
+  name: Stellar Cyber
+  stage: null
+  focus: Cybersecurity platform with Open XDR and Autonomous SOC
+position:
+  title: Machine Learning Infrastructure Engineer - LLM & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds Agentic AI frameworks
+      orchestrating LLM-based agents and develops MCP servers that
+      drive agent behaviour — directly shaping agent flows and
+      tool calling, so it is ai-first despite the infrastructure
+      title. Serving/inference infrastructure alone would be ai-
+      support, but here model behaviour is shaped through agent
+      orchestration and MCP integration.
+  responsibilities:
+  - Design and build Agentic AI frameworks to orchestrate LLM-based agents that reason,
+    plan, and execute SecOps tasks in the Open XDR platform
+  - Design and develop scalable LLM inference infrastructure for cost- and runtime-efficient
+    serving across LLM hosting providers
+  - Develop MCP servers that interact with Open XDR platform services and integrate
+    with LLM-based agents
+  - Develop supporting API services for Autonomous SOC applications providing reliable
+    interfaces for agent operations
+  - Collaborate with ML/security researchers, UI/backend/infrastructure engineers,
+    and product management to align infrastructure with product needs
+  use_cases:
+  - Autonomous SOC where LLM agents act like SOC analysts
+  - SecOps task automation (reasoning, planning, execution) in an Open XDR platform
+  - MCP-based integration between LLM agents and security platform services
+  - Cost- and runtime-efficient LLM inference serving across hosting providers
+  - Cyber threat detection and response automation
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, MCP, LangChain, LangGraph, AutoGen,
+      Prompt Engineering, RAG, Generative AI]
+    ml: [MLOps]
+    web: [REST APIs, gRPC, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud Computing]
+    ops: [Docker, Kubernetes, vLLM, LLMOps, Observability, Distributed Systems]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [llama.cpp, SecOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11941641'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:04:05.891865'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

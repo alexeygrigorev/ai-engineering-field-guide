@@ -1,0 +1,58 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Global digital consulting for financial services and
+    insurance
+position:
+  title: AI-Driven Data Profiling Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, refines prompts/instructions, and improves
+      behavior of autonomous Kiro agents for data profiling, with
+      reviewer-agent validation and human-in-the-loop controls.
+      This is direct shaping of LLM/agent behavior, so it is ai-
+      first.
+  responsibilities:
+  - Refine and enhance the autonomous agent workflow for MGA BDX data profiling
+  - Review and improve behavior, prompts, instructions, controls, and outputs of the
+    Kiro agents
+  - Develop and refine profiling plans for individual MGA programs and run the workflow
+    across 80-100 programs
+  - Identify recurring data quality issues, structural variations, missing fields,
+    anomalies, and business-rule exceptions
+  - Validate profiling results through reviewer-agent and human review processes
+  - Ensure profiling outputs are clear, actionable, and traceable for downstream onboarding
+    into the BDX platform and enterprise data hub
+  - Maintain documentation of profiling rules, patterns, exceptions, and workflow
+    changes
+  - Define dashboards, metrics, and reporting for profiling progress and data quality
+  use_cases:
+  - Autonomous agent workflow for profiling MGA BDX insurance data
+  - Discovery and extraction of PMA-related information from MGA BDX data
+  - Accelerating onboarding of MGA programs into the BDX management platform and enterprise
+    data hub
+  - Detecting data quality issues, anomalies, and business-rule exceptions in insurance
+    program data
+  - Reviewer-agent and human review validation of AI profiling outputs
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, Kiro, Generative AI,
+      Human-in-the-Loop]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Quality, Data Lineage, Metadata, Data Contracts]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Data Profiling, Insurance Industry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11790545'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:13:11.423664'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

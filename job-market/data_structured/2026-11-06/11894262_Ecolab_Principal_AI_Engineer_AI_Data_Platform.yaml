@@ -1,0 +1,53 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention services
+position:
+  title: Principal AI Engineer — AI & Data Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs the enterprise agent orchestration layer,
+      agent communication standards, tool integration, and
+      evaluates/onboards foundation models, directly shaping agent
+      and LLM system behavior. It also builds safeguards and
+      governance over LLM outputs, which is shaping. Management
+      title with direct team leadership.
+  responsibilities:
+  - Define vision, roadmap, and operating model for the enterprise Agentic AI Platform
+  - Design and manage the enterprise orchestration layer and multi-agent frameworks
+  - Own enterprise LLM services including model evaluation, benchmarking, deployment,
+    and lifecycle management
+  - Define and implement AI governance, Responsible AI, and model risk management
+    frameworks
+  - Implement AI security controls against prompt injection, jailbreaks, and data
+    leakage
+  - Establish observability, SLAs/SLOs, and incident management for platform operations
+  - Lead teams of AI Platform Engineers, MLOps Engineers, and AI Security Specialists
+  - Manage vendor relationships and drive platform adoption across business domains
+  use_cases:
+  - Enterprise-wide AI agent development, deployment, and management at scale
+  - Multi-agent orchestration with workflow planning, memory, and tool integration
+  - Enterprise LLM model selection, benchmarking, and cost optimization
+  - AI security against prompt injection, jailbreak, and data leakage attacks
+  - Governance and monitoring of agent performance and model behavior
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure, Azure AI Foundry]
+    data: [Databricks]
+    ml: []
+    databases: [Snowflake]
+    genai: [LangGraph, CrewAI, AutoGen, Semantic Kernel, OpenAI API, Azure OpenAI,
+      Anthropic API, Gemini, LLMs, Generative AI, Agentic Workflows]
+    ops: [Kubernetes, Docker, MLOps, DevSecOps]
+    other: [Zero Trust Architecture, API Gateways, Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11894262'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:51:17.025387'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Recode Solutions
+  stage: null
+  focus: IT consulting and data engineering solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered use cases
+      themselves: prompt engineering, guardrails, RAG pipelines,
+      agentic workflows with tool calling, and evaluating/fine-
+      tuning LLM performance. This is clearly shaping model
+      behavior, with LLM components throughout, so it is ai-first.
+  responsibilities:
+  - Design, develop, and manage Azure Databricks jobs, workflows, and notebooks
+  - Build reusable Python/PySpark scripts for data ingestion, transformation, and
+    analytics
+  - Implement Delta Lake-based lakehouse architectures with ACID transactions and
+    versioning
+  - Develop Python-based microservices exposing data and AI capabilities via REST
+    APIs
+  - Design and build LLM-powered AI use cases such as copilots, assistants, and automation
+    agents
+  - Implement Copilot agentic mode workflows with tool calling, task planning, and
+    multi-step reasoning
+  - Develop prompt engineering strategies, system prompts, and guardrails
+  - Build RAG pipelines using enterprise data and evaluate/fine-tune LLM performance
+  use_cases:
+  - Copilots and intelligent assistants for enterprise users
+  - Automation agents with tool calling and multi-step reasoning
+  - RAG pipelines over enterprise data lakes
+  - Real-time and batch AI inference integrated with microservices
+  - Batch and streaming data ingestion, transformation, and analytics
+  skills:
+    genai: [LLMs, Azure OpenAI, OpenAI API, Agentic Workflows, Prompt Engineering,
+      LangChain, Semantic Kernel, RAG, Vector Databases, Embeddings, Guardrails, Fine-Tuning,
+      Copilot Studio]
+    ml: []
+    web: [FastAPI, Flask, REST APIs, Microservices]
+    databases: []
+    data: [Azure Databricks, Delta Lake, PySpark, Spark, Data Pipelines, Kafka]
+    cloud: [Azure, Azure Data Lake Storage]
+    ops: [CI/CD, Azure DevOps, GitHub Actions, Git, Docker, Terraform, Observability]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11806063'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:15:44.939246'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: Keeper Security, Inc.
+  stage: null
+  focus: |-
+    Zero-knowledge cybersecurity and privileged access
+    management software
+position:
+  title: Senior Software Engineer, AI Platform Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLM-powered services, agents, and tool-
+      calling workflows into production systems, and preferred
+      qualifications include prompt engineering, agentic
+      workflows, tool calling, and MCP. Since the engineer builds
+      these LLM/agent integrations (not merely consuming another
+      team's API passively, but translating model/agent/platform
+      requirements into production software), the role shapes LLM-
+      driven behavior, making it ai-first.
+  responsibilities:
+  - Build full-stack capabilities supporting AI initiatives across Keeper's product
+    portfolio
+  - Develop backend services, APIs and integration layers connecting AI capabilities
+    with existing applications
+  - Build or modify frontend experiences exposing AI-powered functionality to end
+    users
+  - Integrate LLM-powered services, agents and tool-calling workflows into secure
+    production environments
+  - Extend shared services and platform capabilities for reusable AI integrations
+    across products
+  - Maintain security, privacy and zero-knowledge principles in AI-enabled functionality
+  - Build automated tests and integrate functionality into CI/CD workflows
+  - Use AI-assisted development tools to accelerate coding, debugging and delivery
+  use_cases:
+  - Integrating AI capabilities into a password management and PAM platform
+  - LLM-powered services and agents embedded in secure zero-knowledge production environments
+  - AI-driven functionality exposed to end users across Vault, Admin Console and PAM
+    Gateway products
+  - Secure, observable and reliable AI integrations across a multi-product SaaS platform
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Prompt Engineering,
+      MCP, ChatGPT, GitHub Copilot, Claude Code]
+    ml: []
+    web: [APIs, React, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Git, CI/CD, Monitoring, Linux, Distributed Systems]
+    languages: [JavaScript, TypeScript, Rust, Java, Kotlin, C#, Go, Python]
+    domains: []
+    other: [Event-Driven Architecture, Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11583528'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:15:41.791458'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

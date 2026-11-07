@@ -1,0 +1,49 @@
+company:
+  name: AgileEngine
+  stage: null
+  focus: Software development outsourcing for global clients
+position:
+  title: Lead Artificial Intelligence Engineer ID87377
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects generative AI workflows using RAG,
+      vector databases, and LLM APIs, and develops agentic models
+      — directly shaping LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Architect Generative AI workflows using RAG, vector databases, and LLM APIs
+  - Automate creation of cloud configuration requirements, Rego policies, and Terraform
+    modules
+  - Oversee AI-enabled drift detection, continuous discovery, and gap analysis for
+    cloud security remediation
+  - Accelerate generation and validation of compliant Terraform modules, Rego policies,
+    and Regula test cases for CI/CD pipelines
+  - Act as technical lead for the Cloud Security Tooling team's AI enablement initiatives
+  - Lead and mentor engineers across a distributed, follow-the-sun team
+  use_cases:
+  - Automating cloud configuration and remediation
+  - Generating Terraform modules and Rego policies for new cloud services
+  - AI-enabled drift detection and continuous cloud discovery
+  - Gap analysis for cloud security response and remediation
+  - Compliant infrastructure-as-code generation for CI/CD pipelines
+  skills:
+    genai: [RAG, Vector Databases, LLMs, OpenAI API, Anthropic API, AI Agents, LangChain,
+      LangGraph, Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, AWS S3]
+    ops: [Terraform, CI/CD]
+    languages: []
+    domains: []
+    other: [Rego, Open Policy Agent, Regula, Infrastructure as Code, PagerDuty, Atlassian
+        Suite, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11963495'
+  location: Kochi, IND
+  extracted_at: '2026-11-06T14:12:31.071132'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

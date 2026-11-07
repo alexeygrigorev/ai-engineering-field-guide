@@ -1,0 +1,54 @@
+company:
+  name: Wavestone
+  stage: null
+  focus: |-
+    Management consulting: business, digital and AI
+    transformation services
+position:
+  title: Data and AI - AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems, RAG pipelines,
+      model orchestration, and evaluates LLM behaviour across the
+      full lifecycle - clearly shaping model behaviour/output
+      quality on LLM components. This is consulting delivery with
+      hands-on build, so ai-first.
+  responsibilities:
+  - Lead and deliver AI-driven transformation engagements from strategy and architecture
+    through hands-on build and production deployment
+  - Design and implement end-to-end AI solutions including agentic systems, automation
+    workflows, RAG pipelines, and model-orchestration layers
+  - Develop high-quality code in Python and TypeScript/JavaScript
+  - Act as subject-matter expert in pre-sales, proposals, RFPs, demos, and prototypes
+  - Shape AI/GenAI propositions and thought leadership, developing reusable accelerators
+    and toolkits
+  - Mentor consultants and engineers and support internal capability building
+  - Stay current on LLMs, agentic systems, RAG patterns, evaluation techniques, and
+    cloud-native AI tooling
+  use_cases:
+  - Enterprise AI transformation for FTSE100 and large enterprise clients
+  - Agentic, production-grade AI applications and automation workflows
+  - RAG-based retrieval and knowledge solutions
+  - Tool-using AI applications and copilots
+  - GenAI solution delivery across insurance, financial services, and life sciences
+  skills:
+    genai: [RAG, Agentic Workflows, AI Agents, LLMs, Anthropic API, OpenAI API, LangChain,
+      LlamaIndex, Generative AI, Copilots]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Distributed Systems]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11614508'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:22:05.069439'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Sunbytes
+  stage: null
+  focus: Conversational AI and customer engagement solutions
+position:
+  title: Senior Full-stack AI Engineer (Vietnam based only)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool calling, prompt
+      engineering, MCP servers, and agent evaluation directly,
+      shaping LLM behavior. Multiple LLM/agent components are
+      involved, so it is ai-first.
+  responsibilities:
+  - Design single/multi-agent systems with routing, tool calling, state, and recovery
+    logic using Vercel AI SDK
+  - Build low-latency real-time voice pipelines including streaming STT/TTS and barge-in
+    handling
+  - Operate the WebRTC-based real-time transport layer with audio rooms and session
+    lifecycles
+  - Build MCP servers/clients to securely connect databases and implement agentic
+    browser automation
+  - Deliver end-to-end features in Node.js/TypeScript and React/Svelte with streaming
+    agent states and embeddable widgets
+  - Tune for latency, cost, and reliability with streaming, caching, and fallbacks
+  - Set up tracing, implement prompt-injection and PII defenses, and run online A/B
+    tests
+  use_cases:
+  - Conversational AI customer experiences
+  - Real-time voice agents with emotion-aware responses
+  - Agentic browser automation for real-world tasks
+  - Customer engagement and conversational commerce
+  - Embedded web AI widgets in third-party funnels
+  skills:
+    genai: [OpenAI API, Anthropic API, Vercel AI SDK, Multi-Agent Systems, Function
+        Calling, MCP, LLMs, Structured Outputs, Prompt Engineering, Agent Evaluation,
+      RAG, Vector Databases, Fine-Tuning, Model Routing, AG-UI]
+    ml: [Speech-to-Text, Text-to-Speech]
+    web: [Node.js, React, Svelte, WebRTC, Embeddable Widgets]
+    databases: []
+    data: []
+    cloud: [AWS, Vercel]
+    ops: [Langfuse, OpenTelemetry, Tracing, Caching]
+    languages: [TypeScript]
+    domains: []
+    other: [A/B Testing, Security, WCAG Accessibility]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884256'
+  location: NLD
+  remote: true
+  extracted_at: '2026-11-06T13:32:13.226967'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

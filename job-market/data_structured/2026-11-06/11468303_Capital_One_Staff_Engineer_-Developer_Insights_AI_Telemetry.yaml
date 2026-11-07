@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with cloud data platforms
+position:
+  title: Staff Engineer -Developer Insights & AI Telemetry
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role spearheads LLM-as-a-Judge inference capabilities
+      that autonomously score code complexity, categorize AI use
+      cases, and assess generative AI tool ROI — directly shaping
+      LLM evaluation and output quality. This LLM component makes
+      it ai-first.
+  responsibilities:
+  - Architect the enterprise roadmap for distributed AI telemetry, streaming data
+    engineering, and automated developer insight frameworks
+  - Scale the internal developer telemetry platform into a stateless, low-latency
+    system handling billions of annual high-fidelity events globally
+  - Deploy LLM-as-a-Judge inference to score code complexity, categorize AI use cases,
+    and measure ROI of generative AI tools
+  - Own end-to-end data strategy shifting from batch reporting to real-time event-driven
+    Medallion architectures feeding an enterprise data lake
+  - Correlate AI code density telemetry with business outcomes such as Feature Lead
+    Time and PR cycle time
+  - Enforce privacy-by-design with automated PII masking, token management, and secret
+    filtering
+  - 'Lead through technical contribution: prototyping, evaluating build vs. buy, authoring
+    code patterns, and mentoring senior engineers'
+  use_cases:
+  - Developer productivity telemetry and insights at enterprise scale
+  - Autonomous scoring of code complexity and AI use case categorization via LLM-as-a-Judge
+  - Measuring ROI and TrueThroughput of generative AI coding tools
+  - Correlating AI code density with business delivery metrics like Feature Lead Time
+    and PR cycle time
+  - Privacy-preserving telemetry with automated PII masking and secret filtering
+  skills:
+    genai: [LLM Evaluation, Generative AI]
+    ml: [Model Deployment]
+    web: []
+    databases: [MongoDB, Cassandra, DynamoDB, Snowflake, Redshift, Relational Databases,
+      NoSQL]
+    data: [Spark, Databricks, Airflow, Dagster, Data Pipelines, Data Modeling, Data
+        Engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: [Monitoring, Splunk]
+    languages: [Python, Java, Scala, SQL]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11468303'
+  location: Plano, USA
+  locations:
+  - Plano, USA
+  - McLean, USA
+  - Richmond, USA
+  - New York, USA
+  - Wilmington, USA
+  extracted_at: '2026-11-06T11:55:20.555257'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

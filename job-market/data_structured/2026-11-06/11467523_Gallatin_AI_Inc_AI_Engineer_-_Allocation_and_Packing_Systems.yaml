@@ -1,0 +1,52 @@
+company:
+  name: Gallatin AI, Inc.
+  stage: null
+  focus: AI logistics infrastructure for national security missions
+position:
+  title: AI Engineer - Allocation and Packing Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is operations research: bin packing,
+      allocation, and constraint-based optimization algorithms
+      with no LLM, agent, or model-training component. Machine
+      learning appears only as a bonus qualification, and AI is
+      mentioned generically. The person builds deterministic
+      optimization systems, not shaped model behavior.
+  responsibilities:
+  - Build, maintain, and implement packing and allocation models for transport assets
+  - Develop and refine heuristics or exact methods for solving packing and allocation
+    problems at fleet scale
+  - Encode constraints around volume, weight, compatibility, sequencing, and asset
+    usage
+  - Own, validate, normalize, and maintain the data inputs feeding allocation and
+    packing
+  - Integrate packing outputs into resupply and routing workflows
+  - Validate solutions through scenario testing and operational feedback
+  - Ensure AI-generated plans cannot bypass physical feasibility or constraint enforcement
+    layers
+  use_cases:
+  - Packing and allocation of cargo across transport assets
+  - Logistics decision-making for defense and national security missions
+  - Resupply and routing workflows in contested environments
+  - Vehicle loading and palletization planning
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Operations Research, Optimization, Linear Programming, Mixed-Integer Programming,
+      Bin Packing, Knapsack Problems, Heuristic Algorithms, A/B Testing, Causal Inference]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11467523'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T11:55:13.109635'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

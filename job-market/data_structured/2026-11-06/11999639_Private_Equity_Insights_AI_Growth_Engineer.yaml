@@ -1,0 +1,46 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity community, media and conferences
+position:
+  title: AI Growth Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a growth/marketing role where AI is used as a
+      tool to scale copywriting and marketing workflows. There is
+      no indication the person shapes model behaviour (no prompts,
+      RAG, fine-tuning, or evals designed as deliverables). AI
+      appears only as leverage for growth tasks, making this ai-
+      support.
+  responsibilities:
+  - Identify, target, and convert private equity funds into the community with the
+    right messaging
+  - Own and execute marketing channels that drive revenue
+  - Write persuasive copy for emails, landing pages, and posts, leveraged at scale
+    with AI
+  - Run, measure, and iterate growth experiments on offers, copy, pricing, and pages
+  - Build repeatable playbooks and AI workflows instead of one-off efforts
+  - Support conference operations and other client-facing tasks as needed
+  use_cases:
+  - AI-assisted copywriting and outreach at scale for investor audiences
+  - Marketing automation workflows for audience growth and conversion
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11999639'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:21:56.985617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

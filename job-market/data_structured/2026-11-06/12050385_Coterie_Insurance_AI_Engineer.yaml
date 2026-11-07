@@ -1,0 +1,52 @@
+company:
+  name: Coterie Insurance
+  stage: null
+  focus: Small commercial insurance quoting platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with LLMs, prompt
+      engineering, embeddings, vector databases, RAG, and agentic
+      workflows, and includes evaluating model performance and
+      building production generative AI systems - clearly shaping
+      LLM behavior, so ai-first.
+  responsibilities:
+  - Partner with DnA teammates, software engineers and business stakeholders to deliver
+    AI-enabled solutions
+  - Integrate AI capabilities into internal tools, customer-facing products and operational
+    workflows
+  - Productionalize AI/ML solutions including generative AI, NLP, predictive modeling
+    and automation workflows
+  - Evaluate model performance, reliability, safety, bias, latency, cost and business
+    impact; establish monitoring and feedback loops
+  - Implement secure, compliant AI systems aligned with responsible AI principles
+  - Document technical decisions, system architectures and model assumptions
+  - Stay current on emerging AI tools and frameworks and recommend adoption strategies
+  use_cases:
+  - AI-enabled quoting and insurance operations
+  - Generative AI and NLP for business workflows
+  - Predictive modeling and automation for operational efficiency
+  - AI capabilities embedded in customer-facing insurance products
+  skills:
+    languages: [Python, SQL]
+    domains: [NLP]
+    web: [FastAPI]
+    cloud: [AWS, Azure, GCP]
+    data: [Databricks]
+    ml: [Machine Learning, Predictive Modeling]
+    databases: [Vector Databases]
+    genai: [LLMs, Prompt Engineering, Embeddings, RAG, Agentic Workflows, Anthropic
+        API, Gemini, LangChain, LangGraph, OpenAI API]
+    ops: [Pytest, CI/CD, Observability, Docker, Kubernetes]
+    other: [Pydantic, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12050385'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:41:10.197842'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

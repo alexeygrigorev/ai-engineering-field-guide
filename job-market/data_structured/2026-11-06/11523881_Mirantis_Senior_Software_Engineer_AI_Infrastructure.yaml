@@ -1,0 +1,53 @@
+company:
+  name: Mirantis
+  stage: null
+  focus: Kubernetes-native AI infrastructure platforms
+position:
+  title: Senior Software Engineer, AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates LLM serving infrastructure on
+      Kubernetes - deploying, scaling, and hosting models and
+      integrating them with gateway/observability services. It
+      does not shape model behaviour (no prompts, retrieval,
+      training, or evals), so per the serving edge case it is ai-
+      support.
+  responsibilities:
+  - Design and build LLM serving infrastructure on Kubernetes including deployment,
+    GPU scheduling, and scaling
+  - Manage model lifecycle on the serving platform
+  - Package the platform for enterprise environments with Helm-based installs, upgrades,
+    and restricted/offline networks
+  - Integrate the serving layer with the platform's API gateway, identity, and metering
+    services
+  - Build observability for production GPU inference including serving metrics and
+    GPU telemetry
+  - Contribute across a multi-service codebase and set engineering direction through
+    design docs and reviews
+  use_cases:
+  - LLM inference serving at scale on Kubernetes
+  - GPU orchestration and scheduling for AI workloads
+  - Enterprise AI platform deployment in air-gapped and restricted networks
+  - Production observability for GPU inference workloads
+  skills:
+    genai: [LLMs, Claude Code, Codex]
+    ml: [Machine Learning]
+    web: [React, APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Helm, Docker, CI/CD, Infrastructure as Code, Observability,
+      Monitoring, Quantization, Distributed Systems]
+    languages: [Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11523881'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:04:45.595879'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

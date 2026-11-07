@@ -1,0 +1,58 @@
+company:
+  name: Arcadia
+  stage: null
+  focus: |-
+    Healthcare data platform and population health management
+    software
+position:
+  title: Principal Software Engineer - Agent AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the platform underneath agent workflows,
+      providing agent building blocks (workflows, memory, evals,
+      guardrails) on a third-party agent framework. Designing
+      agent flows and building evals/guardrails is shaping model
+      behaviour, and LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Own and evolve the agent platform underlying Arcadia's agent workflows, supporting
+    longer-running workflows and client-facing agents at scale
+  - 'Provide platform building blocks: persistence, workflows, memory, and identity-aware
+    compliant tool connectivity'
+  - Implement quality attributes such as caching, compaction, evals, guardrails, observability,
+    resiliency, and safe PHI handling
+  - Maintain the agent harness and gateway/router across model providers built on
+    a third-party agent framework
+  - Drive adoption of the platform as a product across engineering teams, showing
+    measurable impact
+  - Enable clients to bring and assemble their own agents on Arcadia building blocks
+  - Run and operate production systems hands-on, working closely with SRE on cloud-native
+    distributed infrastructure
+  use_cases:
+  - Agent workflows for clients' clinical, analytics, and operations teams
+  - Client-facing agents with PHI-safe, compliant execution at scale
+  - Healthcare data platform unifying disparate data into a governed foundation
+  - 'Population health management: surfacing care opportunities to physicians near
+    real-time'
+  skills:
+    genai: [AI Agents, Guardrails, LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: [Lakehouse]
+    data: [Spark]
+    cloud: [AWS]
+    ops: [Kubernetes, Infrastructure as Code, Distributed Systems, Observability,
+      Caching]
+    languages: []
+    domains: []
+    other: [Security Architecture, HIPAA Compliance, SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10631233'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:20:46.299114'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

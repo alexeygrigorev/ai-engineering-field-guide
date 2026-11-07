@@ -1,0 +1,42 @@
+company:
+  name: Provectus
+  stage: null
+  focus: AI consulting firm delivering Claude and AWS solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description contains only company marketing content;
+      the "What you'll do" and requirements sections are empty.
+      While the role mentions shipping Claude + AWS systems to
+      clients, no responsibilities are stated that would show
+      whether the person shapes model behavior (prompts, RAG,
+      agents) or merely deploys systems, so the classification
+      cannot be determined.
+  responsibilities:
+  - Embed inside client organizations such as banks, insurers, and health systems
+  - Ship production Claude + AWS systems into regulated client environments
+  - Own engagements autonomously from framing through production deployment
+  - Work directly with client teams and founders as an embedded engineer
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12041129'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:37:10.372406'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

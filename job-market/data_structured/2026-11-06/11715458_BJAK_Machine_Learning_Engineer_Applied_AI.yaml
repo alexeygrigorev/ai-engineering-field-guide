@@ -1,0 +1,51 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    Building proactive, agent-first AI-native mobile
+    communication apps
+position:
+  title: Machine Learning Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval (embeddings, hybrid search,
+      reranking), builds evaluation pipelines to measure model
+      quality, and fine-tunes models — all shaping model
+      behaviour. Retrieval and reranking for an agent-first AI
+      application points to an LLM-driven system, so ai-first
+      applies.
+  responsibilities:
+  - Build and improve ML models for classification, ranking, retrieval and personalization
+  - Improve search relevance and context retrieval using embeddings, hybrid search
+    and reranking
+  - Build personalization models learning from user behavior while respecting privacy
+  - Develop evaluation pipelines, labeled datasets and metrics to measure model quality
+  - Fine-tune and adapt existing models when sufficient data is available
+  - Build and maintain ML training, inference and deployment pipelines
+  - Debug production issues and monitor model performance
+  use_cases:
+  - Classification and ranking for AI-native communication apps
+  - Search relevance and context retrieval
+  - Personalization learning from user behavior
+  - Evaluation and quality monitoring of production ML models
+  skills:
+    genai: [Embeddings]
+    ml: [PyTorch, JAX, Fine-Tuning, Model Evaluation, Model Training, Neural Networks]
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: [Model Deployment, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11715458'
+  location: DEU
+  remote: true
+  extracted_at: '2026-11-06T12:41:05.865298'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

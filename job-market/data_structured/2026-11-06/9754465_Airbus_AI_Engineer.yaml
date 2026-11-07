@@ -1,0 +1,53 @@
+company:
+  name: Airbus
+  stage: null
+  focus: Aerospace and aircraft engineering
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and configures AI agents, prompting
+      strategies, RAG, and agent knowledge bases, directly shaping
+      LLM behavior and output quality. Multiple LLM/agent
+      components make it ai-first.
+  responsibilities:
+  - Analyze business and engineering workflows and document functional requirements
+    for AI agent personas, tools, and guardrails
+  - Design, configure, and fine-tune AI agents, prompting strategies, and agent knowledge
+    bases on the internal EKF platform
+  - Assess feasibility and risks of AI automation use cases, including failure modes,
+    data gaps, and regulatory risks
+  - Act as liaison between engineering business teams and EKF development teams, managing
+    expectations
+  - Develop AI behavior test plans (accuracy, hallucination mitigation, regression),
+    lead UAT, and ensure quality standards
+  - Create agent documentation and prompt catalogs, and train end-users on agent usage
+    and auditing
+  - Monitor agent performance in production and iteratively improve agent reasoning,
+    context retrieval, and efficiency
+  use_cases:
+  - Autonomous AI agents for aircraft engineering workflows
+  - Decision support for aerospace engineering business processes
+  - Retrieval-augmented access to engineering knowledge and data
+  - Digital continuity and AI-augmented engineering across Airbus
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, Prompt Engineering,
+      RAG, LLMs, LLM Evaluation, Function Calling, Embeddings, Guardrails]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs, Vector Databases, Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Agile, SAFe, Jira, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9754465'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T15:05:26.532837'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

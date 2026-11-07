@@ -1,0 +1,51 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU-accelerated computing, graphics, and cloud gaming
+position:
+  title: Senior AI Tools Engineer, SRE Operations - GeForce NOW
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads development of LLM- and Agent-based systems,
+      owns and enhances LLM-based pipelines, and applies ML to
+      root-cause analysis—directly shaping model-driven behavior
+      and output for operational intelligence. Data pipeline
+      duties exist but are secondary to the LLM/agent system
+      building.
+  responsibilities:
+  - Build and deploy AI/ML tools that analyze production data to identify incident
+    root causes and predict operational trends
+  - Lead development of new LLM- and Agent-based systems to improve operational efficiency
+  - Own and enhance LLM-based pipelines, integrating knowledge of LLM advances into
+    the product
+  - Build and maintain data pipelines transforming large-scale production data sources
+    for model development
+  - Serve as resident authority on AI frameworks, recommending platforms, toolsets,
+    and architecture
+  - Apply monitoring and visualization tooling such as Grafana to production data
+  use_cases:
+  - Automated root cause analysis for production incidents on GeForce NOW
+  - Prediction of future service trends and patterns from production telemetry
+  - Operational efficiency improvements for a global cloud gaming service
+  - Transforming signals, metrics, and logs into actionable intelligence
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Kubernetes, Grafana, Monitoring]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12002770'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:23:28.771645'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

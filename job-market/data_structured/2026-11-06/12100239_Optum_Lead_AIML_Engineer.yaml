@@ -1,0 +1,60 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare technology, pharmacy benefits, and care delivery
+    services
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM agents, RAG pipelines
+      (chunking, embeddings, reranking), agent orchestration,
+      guardrails, prompt engineering, and LLM evaluation
+      frameworks — clearly shaping model behavior, all around
+      LLM/agent components.
+  responsibilities:
+  - Build and deploy production LLM agents that automate detection, triage, and remediation
+    of platform and application issues
+  - Design and tune RAG pipelines over runbooks, incident history, logs, code, and
+    internal documentation
+  - Implement agent orchestration including tool/function calling, multi-step planning,
+    multi-agent handoffs, memory, and state management
+  - Build supporting infrastructure for agents including tool wrappers, guardrails,
+    human-in-the-loop approval paths, and fallback behavior
+  - Own model and prompt engineering including model selection, context optimization,
+    output structuring, and fine-tuning where warranted
+  - Build evaluation pipelines and quality metrics for agent and RAG behavior
+  - Integrate agents with observability and security platforms through APIs and MCP
+    tool interfaces
+  - Partner with SRE, InfoSec, and platform teams to deliver scalable, secure, responsible
+    AI solutions
+  use_cases:
+  - Automated detection, triage, and remediation of platform and application issues
+  - Retrieval over runbooks, incident history, logs, code, and internal documentation
+  - AI-assisted incident response integrated into developer workflows
+  - Observability and security data analysis via agent tool interfaces
+  - Enterprise AI capability delivery with responsible AI practices
+  skills:
+    languages: [Java, C#, Python, Go]
+    domains: []
+    web: [APIs]
+    cloud: [Azure, AWS, GCP]
+    data: []
+    ml: [Fine-Tuning, Model Evaluation]
+    databases: [Vector Databases, Azure AI Search, Pinecone, Milvus, pgvector, FAISS,
+      Vector Search]
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, Function Calling, MCP, Prompt
+        Engineering, Fine-Tuning, LoRA, LLM Evaluation, Embeddings, Guardrails, LangGraph,
+      LangChain, LlamaIndex, Semantic Kernel, CrewAI, Semantic Search]
+    ops: [CI/CD, Observability]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100239'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:59:59.208539'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

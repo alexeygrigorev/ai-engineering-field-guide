@@ -1,0 +1,53 @@
+company:
+  name: Aledade
+  stage: null
+  focus: |-
+    Primary care network supporting independent physician
+    practices
+position:
+  title: Staff Software Engineer- AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates shared infrastructure (model
+      gateways, routing, fallback, usage controls, observability)
+      for other teams to access foundation models. Serving and
+      scaling models that others shape is ai-support; there is no
+      prompt, retrieval, eval, or training work.
+  responsibilities:
+  - Build and operate shared platform infrastructure for secure, reliable access to
+    foundation models
+  - Develop model gateways, provider integrations, routing and fallback, and usage
+    controls
+  - Implement observability, reliability, and model governance for the AI platform
+  - Design reusable self-service platform capabilities for teams building AI applications
+    and agents
+  - Manage cost, capacity, quotas, and usage attribution for shared infrastructure
+  - Apply identity, access control, secrets management, and security practices for
+    shared platforms
+  - Collaborate with product, security, infrastructure, and AI application teams
+  use_cases:
+  - Secure enterprise access to foundation models via a shared gateway
+  - Model routing, fallback, and governance across AI providers
+  - Usage controls and cost attribution for AI consumption across the company
+  - Self-service platform enabling AI applications and agents company-wide
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [APIs]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure OpenAI, Vertex AI]
+    ops: [CI/CD, Distributed Systems, Kubernetes, Infrastructure as Code, Observability]
+    languages: [Java, Python, Scala, C#, C++, Go]
+    domains: []
+    other: [Identity and Access Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11812097'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:17:03.926603'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

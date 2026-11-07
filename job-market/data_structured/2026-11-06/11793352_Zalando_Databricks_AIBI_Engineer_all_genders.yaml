@@ -1,0 +1,52 @@
+company:
+  name: Zalando
+  stage: null
+  focus: European online fashion and lifestyle e-commerce platform
+position:
+  title: Databricks AI/BI Engineer (all genders)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and maintains Databricks Genie Spaces,
+      iterating on instructions and tuning prompts to improve
+      natural-language query accuracy against governed metrics —
+      this directly shapes LLM output quality. The surrounding
+      work is data engineering, but the Genie/metric-view
+      responsibility makes it ai-first.
+  responsibilities:
+  - Build and maintain Metric Views and interactive Databricks Dashboards for data-driven
+    decisions
+  - Define and maintain metric views and business logic so natural language queries
+    map to governed KPIs
+  - Build and maintain Genie Spaces, iterating on data room composition and instructions
+    to improve response accuracy
+  - Assist in building scalable ELT pipelines using Databricks Delta Live Tables
+  - Learn and apply Data Governance and security standards using Unity Catalog
+  - Troubleshoot data quality issues and dashboard failures via root cause analysis
+  - Collaborate with engineering teams and the Zalando Data Foundation to streamline
+    data flows
+  use_cases:
+  - Natural-language querying of governed KPIs via Genie Spaces
+  - Interactive BI dashboards for cross-team data-driven decisions
+  - Governed, reliable departmental Data Products
+  - Scalable ELT data pipelines in the Databricks ecosystem
+  skills:
+    languages: [Python]
+    domains: []
+    web: [Databricks Dashboards, REST APIs]
+    cloud: [Databricks, AWS]
+    data: [ELT Pipelines, Data Governance, Medallion Architecture, Data Modeling,
+      PySpark, Spark]
+    ml: []
+    databases: [Delta Live Tables, Unity Catalog]
+    genai: [Databricks Genie, Prompt Engineering]
+    ops: [Git, Docker, CI/CD, Terraform]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11793352'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T13:13:35.989442'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

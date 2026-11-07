@@ -1,0 +1,49 @@
+company:
+  name: Altman Solon
+  stage: null
+  focus: TMT strategy consulting firm
+position:
+  title: Data, Analytics & AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates and enables AI capabilities (Microsoft
+      365 Copilot, Copilot Studio, Azure AI) into business
+      processes but does not shape model behavior through prompts,
+      retrieval, or training. Core work is data platform, BI, and
+      integration engineering; AI is consumed, not shaped.
+  responsibilities:
+  - Own and develop the Microsoft Fabric environment including data flows, pipelines,
+    workspaces, and integrations
+  - Act as internal Power BI expert, developing reusable datasets, semantic models,
+    and reporting standards
+  - Integrate data from enterprise applications and Microsoft 365, automating data
+    and reporting processes using Azure, APIs, and Power Platform
+  - Support internally developed applications including their data integrations and
+    reporting
+  - Provide technical expertise in Microsoft 365 Copilot, Copilot Studio, and Azure
+    AI to integrate AI into business processes
+  - Partner with Finance, HR, Staffing, Marketing, and Operations to translate requirements
+    into technical solutions
+  - Establish a Power BI and Fabric Center of Excellence with governance, standards,
+    and self-service analytics enablement
+  use_cases: []
+  skills:
+    genai: [Microsoft 365 Copilot, Copilot Studio]
+    ml: []
+    web: [APIs]
+    databases: [OneLake]
+    data: [Microsoft Fabric, Data Pipelines, Data Modeling]
+    cloud: [Azure, Azure AI]
+    ops: []
+    languages: [SQL, Python, PowerShell]
+    domains: []
+    other: [Power BI, DAX, Power Query, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12032763'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:34:52.084852'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

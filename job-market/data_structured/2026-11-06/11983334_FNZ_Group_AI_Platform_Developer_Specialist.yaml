@@ -1,0 +1,62 @@
+company:
+  name: FNZ Group
+  stage: null
+  focus: Global wealth management platform for financial institutions
+position:
+  title: AI Platform Developer Specialist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure that delivers AI
+      services (LLM platforms, MCP gateways, RAG, model serving,
+      caching) — running, scaling, and governing models, not
+      shaping their behaviour. The description explicitly notes
+      that harnesses and agents are developed by other teams. This
+      matches the serving/hosting edge case: deliverable is
+      capacity and platform, not model output quality.
+  responsibilities:
+  - Design, develop, and maintain reusable cloud infrastructure and platform capabilities
+    using Terraform, Azure, Kubernetes, and IaC best practices
+  - Implement and operate AI infrastructure services including Azure AI Foundry, LLM
+    platforms, MCP gateways, RAG solutions, vector databases, storage, and caching
+  - Build, maintain, and optimise CI/CD pipelines and automation frameworks using
+    GitHub and GitHub Actions
+  - Enable product teams to securely deploy and consume AI and cloud services through
+    standardised golden paths and self-service capabilities
+  - Implement security, identity, access control, and data governance controls for
+    cloud and AI workloads including regulated data
+  - Establish observability, monitoring, distributed tracing, logging, and usage instrumentation
+    for AI workload performance
+  - Drive FinOps and cost optimisation through usage monitoring, reporting, and governance
+    controls
+  - Support AI service and model lifecycle management including onboarding, upgrades,
+    deprecation planning, and production escalation support
+  use_cases:
+  - Platform delivery of AI services (LLMs, RAG, MCP gateways, model serving) for
+    a wealth management platform
+  - Self-service and golden-path deployment of AI and cloud services for product teams
+  - Secure handling of regulated and PII data within RAG stores and AI workloads
+  - Cost and usage instrumentation (token/API) for AI products
+  - Model lifecycle management including version deprecation and rollout of replacement
+    models
+  - Production support and monitoring for AI workloads in a regulated financial environment
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure, Azure AI Foundry, Azure Networking]
+    data: []
+    ml: []
+    databases: [Vector Databases]
+    genai: [LLMs, RAG, MCP, Agentic Workflows]
+    ops: [Terraform, Infrastructure as Code, Kubernetes, GitHub, GitHub Actions, CI/CD,
+      OpenTelemetry, Distributed Tracing, Monitoring, Observability]
+    other: [HashiCorp Vault, Azure Key Vault, Responsible AI, FinOps, Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983334'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T14:18:08.555648'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

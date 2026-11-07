@@ -1,0 +1,55 @@
+company:
+  name: Oteemo Inc.
+  stage: null
+  focus: Digital transformation consulting with agentic AI platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM agents with
+      LangGraph/LangChain, builds RAG pipelines (chunking,
+      embeddings, vector search, retrieval evaluation), and
+      establishes prompt/agent eval practices — directly shaping
+      LLM behaviour. It also evolves into a client-facing Forward
+      Deployed Engineer role, which is ai-first.
+  responsibilities:
+  - Build and deploy AI-powered applications, agentic workflows, and backend services
+  - Design and ship LLM agents using LangGraph, LangChain, or LibreChat
+  - Build RAG pipelines including chunking, embeddings, vector search, and retrieval
+    evaluation
+  - Establish prompt and agent evaluation practices to measure accuracy and reduce
+    hallucination
+  - Develop APIs and services with Python, FastAPI, TypeScript, and Node.js
+  - Build React/TypeScript frontend applications
+  - Deploy applications with Docker, cloud platforms, and Infrastructure as Code
+  - Integrate Azure AI Foundry and AWS AI/ML cloud services
+  - Collaborate with clients, prototype solutions, and evolve into a Forward Deployed
+    Engineer role
+  use_cases:
+  - Secure agentic AI applications and copilots for regulated commercial and federal
+    environments
+  - Enterprise RAG-based knowledge retrieval and search
+  - Document intelligence and processing with Azure/AI services
+  - Client solution prototyping and deployment in the field
+  - AI-powered enterprise workflow automation
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, LangGraph, LangChain, LibreChat, RAG,
+      Embeddings, LLM Evaluation, Azure OpenAI, Prompt Engineering]
+    ml: []
+    web: [FastAPI, REST APIs, React, Node.js, Tailwind CSS]
+    databases: [PostgreSQL, MongoDB, Redis, pgvector, Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP, Azure AI Foundry, Azure AI Search, AWS Bedrock, SageMaker]
+    ops: [Docker, Infrastructure as Code, Terraform, Kubernetes, AKS, EKS, GKE]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11539753'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:07:54.089483'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

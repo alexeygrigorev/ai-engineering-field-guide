@@ -1,0 +1,51 @@
+company:
+  name: IC Markets Global (a trading name of Raw Trading Ltd)
+  stage: null
+  focus: Online forex and CFD trading platform provider
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through prompt engineering,
+      designing agent workflows with LangChain/LangGraph,
+      optimizing RAG and vector retrieval, and evaluating agent
+      performance. These are core LLM/agent shaping
+      responsibilities, making it ai-first.
+  responsibilities:
+  - Design and deploy production-ready Python services powering AI capabilities using
+    FastAPI
+  - Architect and fine-tune end-to-end agent workflows for chat, search, and retrieval
+    use cases
+  - Develop intelligent agents using LangChain, LangGraph, and LangSmith, including
+    prompt engineering and testing
+  - Integrate and optimize vector databases (Qdrant, Milvus) for embeddings, lookups,
+    and hybrid search
+  - Evaluate and monitor agent performance for reliability, accuracy, and consistency
+    in production
+  - Optimize agent systems for latency, cost efficiency, and horizontal scalability
+  use_cases:
+  - Intelligent chat agents for trading support
+  - Search and retrieval use cases
+  - RAG-based knowledge retrieval with hybrid search
+  - Agent performance monitoring and evaluation in production
+  skills:
+    genai: [LangChain, LangGraph, Prompt Engineering, Embeddings, RAG, LlamaIndex,
+      LLMs]
+    ml: []
+    web: [FastAPI, Microservices]
+    databases: [Qdrant, Milvus, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LangSmith, Docker]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005189'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:25:07.714992'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

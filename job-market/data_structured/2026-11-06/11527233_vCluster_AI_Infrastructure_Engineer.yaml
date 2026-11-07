@@ -1,0 +1,52 @@
+company:
+  name: vCluster
+  stage: venture-backed startup
+  focus: |-
+    Kubernetes tenant isolation platform for GPU AI
+    infrastructure
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys and operates GPU/Kubernetes infrastructure
+      and inference clusters; it does not shape model behaviour
+      (no prompts, RAG, evals, or training). Inference serving and
+      LLM deployment tooling are bonuses for serving models others
+      build, so this is ai-support.
+  responsibilities:
+  - Lead end-to-end technical deployments for GPU neocloud and AI Factory customers,
+    from bare metal configuration to validated vCluster environments
+  - Configure and troubleshoot bare metal GPU node infrastructure including CNI, GPU
+    Operator, distributed storage backends, and RDMA/InfiniBand
+  - Deploy and validate Kubernetes and vCluster to provide GPU-powered managed Kubernetes
+  - Work alongside customer teams for knowledge transfer and platform self-sufficiency
+  - Document reusable playbooks and deployment architectures
+  - Collaborate with Engineering and Product to surface field feedback into the roadmap
+  - Join pre-sales engagements requiring deep infrastructure work for proofs of value
+  use_cases:
+  - GPU-powered managed Kubernetes as a service on bare metal
+  - AI Factory and neocloud infrastructure enablement from bare metal to production
+  - GPU node provisioning, networking, and storage configuration
+  - Inference cluster hosting for AI workloads
+  skills:
+    languages: [Bash, Python, Go]
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: []
+    databases: [Ceph]
+    genai: []
+    ops: [Kubernetes, CUDA, Docker, Model Deployment, Monitoring]
+    other: [NVIDIA GPU Operator, CNI Plugins, RDMA/InfiniBand, CSI Drivers, Rook,
+      Weka, Longhorn, Kubernetes Operators, GPU Scheduling, LLM Deployment, Load Balancing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11527233'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:05:37.331879'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

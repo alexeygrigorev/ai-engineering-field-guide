@@ -1,0 +1,116 @@
+job_id: 11945540
+title: Senior Software Engineer (AI/Data)
+company: Codat
+location: London, GBR
+work_type: FULL_TIME
+company_size: 55 Employees
+description: |
+  About Codat
+
+  Codat is an advisory intelligence solution purpose-built for
+  modern commercial banking. Through rich, specialized data,
+  forward-looking insights, and integrated workflows, Codat
+  empowers banking teams to deepen their relationships, grow
+  their revenue, and simplify their day-to-day work.
+
+  Founded in 2017 and backed by JPMorgan, PayPal, Amex, Plaid,
+  and Shopify, Codat has successfully powered over 350,000
+  connections to business customers’ financial systems — and
+  is trusted by industry leaders to turn scattered information
+  into actionable, strategic advantages in real time, every
+  time.
+
+  The Role
+
+  We're building the Advisory Intelligence Platform: Codat's
+  client intelligence delivered inside the assistant a banker
+  already uses (Microsoft Copilot first). Ask it anything
+  about a client and it answers from the client's real books.
+  Don't ask, and it still tells you what's changed, why it
+  matters and what to do about it. Under it we're building the
+  semantic layer, so every answer uses the same definitions,
+  the signal layer that spots what's changed for a client, and
+  the reasoning layer, a Codat-side LLM that turns those
+  signals into advice. The first bank goes live this year.
+  You'll be building the data and reasoning behind all of it.
+
+  This is a hands-on job for software engineers who want to
+  build the systems a model reasons over, not configure a
+  warehouse. Codat is AI-first, not AI bolted onto SaaS. The
+  product lives inside the AI assistant our clients already
+  use, and we build it the same way: agents do the repetitive
+  work, engineers do the hard parts. You'll build it and
+  you'll run it. Nobody hands it over the wall once it's live.
+  You'll also get a real say in where it goes next. That means
+  making your case to engineers, product and the commercial
+  team, and bringing them along with you.
+
+  What You'll Work On
+
+  - The semantic layer. Measures, dimensions and definitions the
+    model is allowed to use, so every answer it gives is the
+    same answer. Yours to grow, persona by persona.
+  - The signal layer. Detecting what's changed for a client and
+    surfacing it before the banker asks. You'll be designing
+    and building this.
+  - The reasoning layer. A Codat-side LLM that turns signals
+    into advice. Our calculations are the ground truth it
+    reasons over. You own the calculations the model relies
+    on, and the names, definitions and structure that let it
+    pick the right one.
+  - The agents and MCP (Model Context Protocol) servers behind
+    the assistant. What tools it has, how they're built, how
+    they fail, and the evals that prove they work.
+  - Everything from raw source data to the number the assistant
+    quotes: the pipelines, services and data models, with the
+    testing and observability to prove the number is right and
+    the evals that catch the model quoting the wrong one.
+
+  You'll Probably Have
+
+  - Built production systems from scratch, writing the code
+    yourself rather than configuring managed services. You
+    think about interfaces, failure modes and how the next
+    person will change your code. If we ask about the hardest
+    system you've built, you'll have a story ready.
+  - Served data to an LLM and seen where it goes wrong:
+    ambiguous definitions, poor retrieval, no evals. You know
+    why "the model will work it out" isn't a data strategy.
+  - Worked with data along the way, and liked it. You may never
+    have been called a data engineer. You've built things that
+    move, shape and serve data, and you know how they break,
+    and how a model breaks on top of them.
+  - Solid C#, Python or another backend language. Your code
+    comes with tests, and you leave things tidier than you
+    found them.
+  - Depth in at least one of SQL, Spark, Databricks/Delta Lake,
+    Dagster/Airflow/Temporal or dbt. Bonus if you've shaped
+    any of them into something a model can query, through a
+    metrics layer, metric views or an MCP server.
+  - Time with CI/CD, Docker, cloud infrastructure (we're on
+    Azure) and observability. Even better if you set them up
+    for a team.
+  - An interest in the business behind the data. If someone asks
+    for a number the data can't support, you'll say so, and
+    you'll build the guard-rail so the model says so too.
+  - Treated your own workflow as something to engineer. AI has
+    already taken over the repetitive parts of it, and you're
+    the person others ask how to do the same.
+
+  How We Work
+
+  We're a small team with plenty to do. Things move fast: we'd
+  rather ship something useful and improve it than polish it
+  in private. What you build is yours from start to finish.
+
+  There’s no return-to-office mandate, and you can work hybrid
+  or fully remote. We trust you to be around when the team
+  needs you and to deliver what you said you would. What we
+  don’t want is anyone staying online late to prove a point.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-10-28
+url: "https://builtin.com/job/senior-software-engineer-ai-data/11945540"
+source: Built In

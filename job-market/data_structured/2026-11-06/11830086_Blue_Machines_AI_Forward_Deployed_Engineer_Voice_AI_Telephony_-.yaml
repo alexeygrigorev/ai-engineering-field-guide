@@ -1,0 +1,52 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Production Voice AI agents for Indian enterprises
+position:
+  title: Forward Deployed Engineer (Voice AI / Telephony) - Mumbai
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, prompts, builds, and deploys production
+      voice agents with guardrails, tool-calling, and agent
+      evaluation — directly shaping model behavior. Forward
+      Deployed Engineers adapting AI solutions at customer sites
+      are ai-first.
+  responsibilities:
+  - Design, prompt, build, and deploy production voice agents end-to-end, including
+    guardrails, conversation design, and tool-calling logic
+  - Build scalable backend integrations (REST APIs, WebSockets, webhooks, CRM writes)
+    with enterprise systems
+  - Implement AI/LLM frameworks using LangChain, OpenAI APIs, or similar SDKs
+  - Perform root-cause analysis on logs, traces, and call flows to isolate prompt,
+    platform, or data issues
+  - Monitor and optimize agent metrics (completion rate, hallucination rate, latency,
+    cost) and run funnel experiments
+  - Partner with client engineering teams, lead technical workshops, and travel for
+    live-call reviews
+  use_cases:
+  - Production voice AI agents handling millions of live conversations
+  - Multilingual support in Hindi, Hinglish, and regional Indian languages
+  - Enterprise system integration via APIs, webhooks, and CRM writes
+  - Real-time telephony conversations with agents (SIP, WebRTC)
+  - Conversation quality optimization including hallucination and latency reduction
+  skills:
+    genai: [Prompt Engineering, Guardrails, Function Calling, AI Agents, LangChain,
+      OpenAI API, RAG, LLMs, Conversational AI]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [SIP, WebRTC, Twilio, JWT]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11830086'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T13:21:05.565121'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

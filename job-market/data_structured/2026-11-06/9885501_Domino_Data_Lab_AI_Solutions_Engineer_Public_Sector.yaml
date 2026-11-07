@@ -1,0 +1,54 @@
+company:
+  name: Domino Data Lab
+  stage: Backed by Sequoia Capital, Coatue Management, NVIDIA, Snowflake and other
+    leading investors
+  focus: Enterprise AI/ML platform for regulated organizations
+position:
+  title: AI Solutions Engineer, Public Sector
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales solutions engineer role that demos an
+      existing AI/ML platform and runs POC deployments at customer
+      sites. There is no evidence the person writes prompts,
+      designs retrieval or agent flows, or trains/evaluates models
+      themselves — they showcase and configure the Domino
+      platform, so they do not shape model behaviour.
+  responsibilities:
+  - Lead technical evaluations and platform demonstrations for Department of Defense,
+    civilian agencies, FFRDCs, and defense contractors
+  - Design and execute proof-of-concept deployments tailored to each customer's environment
+    and mission needs
+  - Collaborate with account executives to craft solution architectures meeting federal
+    security and compliance standards (FedRAMP, IL5)
+  - Develop and maintain reusable demonstration environments and technical assets
+    to accelerate sales cycles
+  - Partner with Customer Success and Solutions Architects for smooth post-POC handoff
+    into deployment
+  - Feed customer insight back to Product, Engineering, and Marketing to shape platform
+    direction
+  use_cases:
+  - AI/ML platform adoption for mission-critical government and defense use cases
+  - Proof-of-concept deployments in regulated, air-gapped federal environments
+  - Model and app development, hosting, and governance at scale for regulated industries
+  - Supporting national security and defense customer workflows
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS GovCloud, Azure Government, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python, R]
+    domains: []
+    other: [FedRAMP Compliance, Pre-Sales Engineering, Data Science]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9885501'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:05:39.416015'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

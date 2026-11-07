@@ -1,0 +1,53 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: AI solution delivery and consulting services
+position:
+  title: Lead Python with AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects GenAI/LLM solutions including RAG,
+      prompt design, agent frameworks, and model evaluation,
+      directly shaping model behaviour and output quality. LLMs
+      and agents are central, so it is ai-first.
+  responsibilities:
+  - 'Lead a pod of three FDEs: plan sprints, assign work, review code and unblock
+    the team'
+  - Translate client business problems into technical solution designs and delivery
+    plans
+  - Architect AI solutions on GCP including GenAI, LLM and agent-based workflows
+  - Design voice and document management solutions (speech-to-text, TTS, conversational
+    voice agents, document extraction)
+  - 'Own production quality: debugging, root-cause analysis, monitoring and performance
+    tuning'
+  - Run client workshops, demos, status reviews and steering updates
+  - Manage scope, timelines, risks and escalations with client and internal leadership
+  - Mentor and grow the Senior and Junior FDEs and set engineering standards
+  use_cases:
+  - Voice agents and conversational speech solutions
+  - Speech-to-text and text-to-speech pipelines
+  - Document extraction and classification
+  - GenAI and LLM agent-based enterprise workflows
+  - RAG-based AI solutions on GCP
+  skills:
+    languages: [Python]
+    domains: []
+    web: [FastAPI, Flask, Microservices]
+    cloud: [GCP, Vertex AI, Cloud Run, Cloud Functions, Pub/Sub, IAM, Cloud Storage]
+    data: []
+    ml: [Model Evaluation]
+    databases: [BigQuery]
+    genai: [Generative AI, LLMs, Gemini, Prompt Engineering, RAG, Agentic Workflows,
+      Conversational AI, Dialogflow CX]
+    ops: [Cloud Logging, CI/CD, Cloud Build, Terraform]
+    other: [Speech-to-Text, Text-to-Speech, Document AI, OCR, Data Structures, Algorithms,
+      Object-Oriented Design, Design Patterns, Concurrency, Async Programming]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '12005222'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:25:25.895278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,91 @@
+job_id: 11796424
+title: Software Engineer, Data Platform Lead (Horizon AI)
+company: STN Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Data Platform Lead
+
+  Horizon AI is building the operating system for how
+  organizations run themselves. The first step is autonomous
+  data centers. A fleet of AI agents senses the state of STN’s
+  GPU infrastructure, reasons about what it finds, and
+  increasingly acts on it. This is running in production
+  against real fleet data, not a prototype. Agents already
+  take action where the risk is bounded and the outcome is
+  verifiable. Everything riskier arrives as a recommendation
+  for a human, and the work is moving decisions from the
+  second category into the first, one class at a time, on
+  evidence rather than optimism.
+
+  Data centers are the proving ground, not the destination. We
+  start here because infrastructure is measurable and
+  unforgiving: an agent is either right, or the fleet tells
+  you it was wrong. What we build here generalizes, and we
+  know where it goes next.
+
+  Level: Principal (MTS 5) · Reports to: Chief AI Officer
+
+  The role. Build the data foundation the platform reasons
+  over. Today our agents assemble a picture of the fleet by
+  querying several separate systems, and we cannot prove wider
+  autonomy because we do not systematically capture how humans
+  decide. You fix both.
+
+  The problems you inherit
+
+  - Fleet state is scattered across a relational store, a DCIM
+    system, and multiple time-series and monitoring systems.
+    Each has its own query path. There is no unified model. -
+    No decision-capture pipeline exists. We record what agents
+    did, but not what operators saw, concluded, and chose.
+    That record is the evidence base for granting agents wider
+    autonomy.
+  - Our retrieval pipeline is document-oriented rather than
+    fleet-state-oriented.
+  - We consume telemetry from systems other teams operate, where
+    retention and granularity are tuned for dashboards rather
+    than for learning from history.
+
+  You will
+
+  - Design and build the fleet knowledge model: assets,
+    topology, configuration, and current state, queryable by
+    an agent in one call rather than five
+  - Build the decision-capture pipeline, and instrument the
+    operator workflow so we accumulate labelled human
+    decisions from day one
+  - Own the data access layer that abstracts telemetry sources,
+    so we can keep consuming today and build our own
+    collection if that stops scaling
+  - Negotiate our requirements with the teams who own the
+    telemetry: signals, granularity, retention, raw event
+    access
+  - Own the scale path, including vector index behaviour and the
+    analytics separation a growing schema will eventually need
+
+  You have
+
+  - Strong data modelling judgment, particularly modelling
+    physical or infrastructure domains as something queryable
+  - Experience with time-series and event data at scale,
+    including cardinality and retention trade-offs
+  - Depth in PostgreSQL, including vector search, and comfort
+    with a large evolving schema - Enough infrastructure
+    literacy to know what a fleet actually is: nodes, GPUs,
+    fabric, schedulers, power. Familiarity with DCIM tooling
+    is a strong plus
+  - A bias toward shipping a usable model early over designing a
+    complete one
+
+  Nice to have: GPU fleet or HPC exposure, DCGM, Slurm, entity
+  resolution across inconsistent sources
+industries:
+  - Cloud
+  - Information Technology
+  - Cybersecurity
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-21
+url: "https://www.builtinla.com/job/software-engineer-data-platform-lead-horizon-ai/11796424"
+source: Built In

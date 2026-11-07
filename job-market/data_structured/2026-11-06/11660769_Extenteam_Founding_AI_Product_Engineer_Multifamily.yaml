@@ -1,0 +1,54 @@
+company:
+  name: Extenteam
+  stage: null
+  focus: AI-driven operations platform for rental property management
+position:
+  title: Founding AI Product Engineer, Multifamily
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic workflows, Claude API
+      pipelines with prompt chains and structured outputs, MCP
+      integrations, and owns model evaluation criteria and output
+      quality - direct shaping of LLM behavior, making it ai-
+      first.
+  responsibilities:
+  - 'Own AI and automation product scope for the multifamily platform: discovery,
+    definition, prioritization, delivery, and iteration'
+  - Build and maintain agentic workflows, Claude API pipelines, and MCP integrations
+    hands-on
+  - Define evaluation criteria, monitor AI model output quality, and drive continuous
+    improvement
+  - Run structured discovery with agents and client-facing teams to surface workflow
+    bottlenecks and automation opportunities
+  - Design automation-first workflows determining where AI can own processes end-to-end
+    vs where human oversight is needed
+  - Write specs and documentation; maintain a prioritized backlog balancing quick
+    wins and product bets
+  - Track adoption and outcomes using data to inform what to build next
+  use_cases:
+  - Automating multifamily property management workflows end-to-end
+  - Human-in-the-loop AI where model confidence determines when a human steps in
+  - Automating guest communication and daily operational workflows for property managers
+  - Agentic AI pipelines and MCP tool-use integrations for operational automation
+  skills:
+    genai: [Claude Code, Anthropic API, Prompt Engineering, Structured Outputs, LLM
+        Evaluation, Agentic Workflows, MCP, Function Calling, LLMs]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [GitHub]
+    languages: [Bash, SQL]
+    domains: []
+    other: [Railway, Yardi, AppFolio, Buildium, Entrata, ClickUp, HubSpot, Analytics
+        Dashboards]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11660769'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:29:09.414803'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Trane Technologies
+  stage: null
+  focus: Climate solutions for buildings, homes and transportation
+position:
+  title: Senior Engineer, Senior AI/ML Research-1
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI systems, converts models into
+      agent-accessible artifacts, and designs evaluation and
+      benchmarking for frontier AI models — shaping model
+      behaviour and evaluation, with LLM/agent components central.
+  responsibilities:
+  - Apply AI/ML methods to engineering and industrial use cases
+  - Research, prototype, and evaluate approaches using frontier AI models
+  - Convert existing models and tools into agent-accessible artifacts
+  - Translate successful experiments into reusable software and platform components
+  - Design and execute evaluation, benchmarking, and validation approaches
+  - Collaborate with data engineers, software engineers, cloud architects, and stakeholders
+  - Use GitHub workflows, automated testing, and CI/CD to integrate and validate work
+  - Deploy and evaluate capabilities on GCP or comparable cloud services
+  use_cases:
+  - Engineering and industrial AI/ML applications
+  - Agent-accessible engineering models and tools
+  - Evaluation and benchmarking of AI capabilities
+  - Manufacturing and industrial technical use cases
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [CI/CD, GitHub, Automated Testing]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11871511'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:27:08.023285'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

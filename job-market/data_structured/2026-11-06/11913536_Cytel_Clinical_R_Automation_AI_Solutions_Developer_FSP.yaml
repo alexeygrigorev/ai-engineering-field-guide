@@ -1,0 +1,57 @@
+company:
+  name: Cytel
+  stage: null
+  focus: Clinical trial statistics and analytics services
+position:
+  title: Clinical R Automation & AI Solutions Developer FSP
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses LLMs as a tool for coding, summarization, and
+      workflow automation while building R/Shiny automation tools;
+      there is no evidence of shaping model behavior (no prompt
+      design, RAG, or fine-tuning as the deliverable). The
+      deliverable is clinical automation software, with AI as an
+      assistive utility.
+  responsibilities:
+  - Interpret user requirements and identify practical workflow improvements for clinical
+    trials
+  - Define sensible scope for client requests
+  - Build proof-of-concept automation tools
+  - Utilize LLM-supported coding and R/Shiny tools
+  - Create testing and documentation for matured prototypes
+  - Ensure mature prototypes align with regulated clinical development expectations
+  - Present to technical and non-technical audiences
+  use_cases:
+  - Clinical trial workflow automation
+  - LLM-assisted coding, summarization, and documentation
+  - Reusable R packages and Shiny dashboards for clinical analysis
+  - Workflow automation for statisticians and programmers
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [Shiny]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [R]
+    domains: [Clinical Trial Data]
+    other: [CDISC, Code Review, Unit Testing, Regulated Delivery]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11913536'
+  location: ESP
+  locations:
+  - ESP
+  - IND
+  - POL
+  - NLD
+  - ZAF
+  - GBR
+  - Pune, IND
+  remote: true
+  extracted_at: '2026-11-06T13:57:29.329457'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Digital payments and financial services technology
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, multi-agent workflows,
+      RAG retrieval pipelines, and AI evaluation/observability
+      practices, directly shaping LLM/agent behavior. This makes
+      it ai-first.
+  responsibilities:
+  - Lead architecture, design, and implementation of enterprise AI and agentic systems
+    with scalability, reliability, and security
+  - Build AI-ready data products, retrieval pipelines, vector data stores, and knowledge
+    systems powering AI solutions
+  - Develop and standardize agent engineering capabilities including orchestration,
+    tool integration, memory management, and multi-agent workflows
+  - Establish AI observability, evaluation, and AgenticOps practices including tracing,
+    monitoring, and performance measurement
+  - Partner with Data Science, Data Engineering, and Product teams to operationalize
+    AI solutions across the enterprise
+  - Structure and engineer data and AI model evaluation and reporting processes for
+    fraud solutions
+  use_cases:
+  - AI-powered payment fraud detection and risk management
+  - Enterprise agentic AI systems embedded in Mastercard platforms
+  - Retrieval and knowledge systems powering AI solutions
+  - AI observability and evaluation for production AI systems
+  skills:
+    genai: [RAG, AI Agents, Agentic Workflows, LLMs]
+    ml: [Machine Learning, Spark ML, Model Evaluation]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines, PySpark, Data Engineering]
+    cloud: []
+    ops: [Distributed Systems, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11821632'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T13:18:41.666695'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

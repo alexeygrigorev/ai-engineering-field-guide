@@ -1,0 +1,57 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Data and AI platform for analytics and AI apps
+position:
+  title: Staff Software Engineer - AI Research Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure that schedules,
+      orchestrates, and monitors training/inference workloads that
+      researchers design. It does not itself shape model behavior
+      through prompts, RAG, training, or evaluation; running and
+      hosting others' model workloads is ai-support even at an AI
+      research org.
+  responsibilities:
+  - Design and build services to schedule, orchestrate, and observe large-scale training
+    and inference experiment workloads across thousands of GPUs
+  - Design and implement infrastructure for large-scale experiments, data processing,
+    and model training (HPC clusters, GPU fleets, cloud systems)
+  - Build abstractions for job submission, scheduling, and monitoring so researchers
+    can go from idea to experiment quickly
+  - Create tooling to improve research developer productivity, including experiment
+    management and CI/testing infrastructure for research code
+  - Partner with research scientists, ML engineers, and platform teams to turn experimental
+    workloads into robust pipelines
+  - Influence the long-term roadmap for research computation
+  - Serve as a technical mentor for engineers working on compute, infra, and AI systems
+  use_cases:
+  - Scheduling and orchestrating large-scale ML training and inference experiment
+    workloads
+  - Enabling researchers to run experiments from idea to large-scale runs quickly
+  - Experiment management and research CI/testing infrastructure
+  - Operating GPU fleets and HPC/cloud compute for AI research
+  skills:
+    genai: []
+    ml: [Fine-Tuning, Model Training, Model Evaluation, Distributed Training, Model
+        Parallelism]
+    web: []
+    databases: []
+    data: [Ray, Data Pipelines]
+    cloud: []
+    ops: [Kubernetes, Slurm, Distributed Systems, Monitoring]
+    languages: [C++, Rust, Go, Java, Scala]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9386610'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:04:57.977974'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

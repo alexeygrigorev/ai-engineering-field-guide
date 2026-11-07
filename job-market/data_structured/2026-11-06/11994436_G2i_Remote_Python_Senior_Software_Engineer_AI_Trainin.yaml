@@ -1,0 +1,48 @@
+company:
+  name: G2i
+  stage: null
+  focus: Talent matching for software and AI engineers
+position:
+  title: Remote Python Senior Software Engineer, AI Training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The core responsibility is evaluating and judging the output
+      quality of LLM coding agents (Codex, Claude Code) and giving
+      preference-style feedback that defines what good looks like.
+      Judging model output quality is shaping, and the targets are
+      LLM/agent systems, so ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end to end
+  - Judge whether outputs are useful, correct, and aligned with strong engineering
+    judgment
+  - Assess the quality of explanations and reasoning, not just the code
+  - Distinguish between levels of response quality on a graded scale
+  - Write clear, opinionated feedback on what worked and what didn't
+  - Help define standards for what great interactions with coding agents look like
+  - Record short video explanations of evaluations
+  use_cases:
+  - Evaluating quality of AI coding agent interactions
+  - Assessing reasoning and engineering judgment of code-generating models
+  - Providing human feedback to define and improve model response quality
+  - Shaping standards for AI-assisted development workflows
+  skills:
+    genai: [Codex, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11994436'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:20:50.571552'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

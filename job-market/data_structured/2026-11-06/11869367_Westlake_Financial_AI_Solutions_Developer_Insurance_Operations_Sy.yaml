@@ -1,0 +1,56 @@
+company:
+  name: Westlake Financial
+  stage: null
+  focus: Auto finance and insurance services
+position:
+  title: AI Solutions Developer – Insurance Operations & Systems Integration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding assistants and low-code platforms as
+      tools to build internal apps and integrations, but never
+      shapes model behavior, prompts, retrieval, or agent design
+      itself. The deliverables are business applications and
+      system integrations, so this is ai-support.
+  responsibilities:
+  - Build internal web applications, dashboards, reporting tools, and workflow automations
+    using AI-assisted development tools
+  - Prototype and deploy proof-of-concept applications for operational needs
+  - Connect internal insurance systems, databases, and third-party platforms through
+    APIs and middleware
+  - Build and maintain integrations for rating, billing, claims, CRM, data warehouse,
+    and analytics systems
+  - Work with external IT companies and vendors to share requirements and validate
+    integrations
+  - Validate systems across underwriting, rating, billing, claims, reporting, and
+    security
+  - Perform QA on internally developed software and vendor solutions before production
+    release
+  - Translate operational needs into technical specifications for technical and non-technical
+    stakeholders
+  use_cases:
+  - Insurance underwriting workflow efficiency
+  - Automated reporting and analytics for insurance operations
+  - Systems integration across rating, billing, claims, and CRM platforms
+  - Claims triage and FNOL intake systems
+  - Internal dashboards and portals for operational staff
+  skills:
+    genai: []
+    ml: []
+    web: [Full-Stack Development, APIs, React]
+    databases: [SQL, Databases]
+    data: []
+    cloud: [SaaS Applications]
+    ops: []
+    languages: [Python, JavaScript, Node.js]
+    domains: []
+    other: [AI-Assisted Development Tools, Low-Code/No-Code Platforms, Reporting and
+        Analytics, Workflow Automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11869367'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:26:51.102063'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

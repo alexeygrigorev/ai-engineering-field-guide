@@ -1,0 +1,57 @@
+company:
+  name: Wenodo
+  stage: null
+  focus: Enterprise SaaS software with AI-powered capabilities
+position:
+  title: Senior AI-Native Full Stack Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, agent workflows, MCP integration,
+      RAG, function calling, guardrails, and LLM evaluation
+      directly for production LLM features built on OpenAI and
+      Claude APIs, which is shaping LLM behavior. AI coding agents
+      alone would be ai-support, but the explicit LLM integration
+      and design work makes this ai-first.
+  responsibilities:
+  - Design, develop, and maintain enterprise-grade full stack applications using Angular
+    and Node.js
+  - Build secure, high-performance backend services and RESTful APIs
+  - Integrate OpenAI, Anthropic Claude, and other LLM APIs into production applications
+  - Implement LLM workflows with function calling, structured outputs, streaming responses,
+    and conversation management
+  - Develop RAG solutions and integrate LLMs with internal databases, business APIs,
+    and third-party applications
+  - Apply prompt engineering, context management, token optimization, and model selection
+    strategies
+  - Use AI coding agents (Claude Code, Cursor, GitHub Copilot, Codex) to accelerate
+    development and validate AI-generated code
+  - Implement guardrails, structured validation, monitoring, and secure AI integrations
+    including prompt injection protection
+  use_cases:
+  - AI assistants and conversational interfaces for enterprise products
+  - Intelligent automation workflows and AI-enabled business applications
+  - LLM-powered features in enterprise SaaS products
+  - Retrieval-augmented generation over internal business data
+  - Accelerating software delivery using AI coding agents
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, Claude Code, Cursor, GitHub Copilot,
+      Codex, Prompt Engineering, Function Calling, Structured Outputs, RAG, MCP, Agentic
+        Workflows, Guardrails, Gemini, Multi-Agent Systems, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Express.js, NestJS, WebSockets, Socket.IO]
+    databases: [SQL, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Angular, Node.js, TypeScript, JavaScript, HTML, CSS]
+    domains: []
+    other: [RxJS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886590'
+  location: Bhopāl, IND
+  extracted_at: '2026-11-06T13:37:32.378848'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services delivering SAP BTP enterprise solutions
+position:
+  title: SAP BTP Application Developer – AI Native
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG systems, agentic AI workflows, and AI
+      evaluation/monitoring themselves, which is shaping LLM
+      behavior — ai-first. Classical or purely infrastructural AI
+      work is absent.
+  responsibilities:
+  - Design, develop, and maintain applications within the SAP BTP environment
+  - Implement AI-driven features including LLM integration and agentic AI workflows
+  - Build RAG systems and retrieval-based applications
+  - Utilize SAP Business Application Studio for coding, testing, and deployment
+  - Configure and administer SAP BTP connectivity
+  - Establish AI evaluation protocols and monitoring mechanisms
+  - Develop user interfaces with SAPUI5, XML, and MVC patterns
+  - Manage data modeling and integration using SAP HANA
+  use_cases:
+  - Enterprise applications on SAP BTP with embedded AI features
+  - Retrieval-augmented data accessibility and intelligence across enterprise data
+    landscapes
+  - Agentic AI workflows for business process automation
+  - AI model performance monitoring and evaluation
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, LLM Evaluation]
+    ml: []
+    web: [SAPUI5, MVC]
+    databases: [SAP HANA]
+    data: []
+    cloud: [SAP BTP]
+    ops: [Git, CI/CD]
+    languages: []
+    domains: []
+    other: [XML, SAP Business Application Studio, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891718'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:01.352599'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

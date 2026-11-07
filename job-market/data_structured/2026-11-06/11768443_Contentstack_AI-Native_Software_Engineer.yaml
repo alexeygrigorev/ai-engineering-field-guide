@@ -1,0 +1,55 @@
+company:
+  name: Contentstack
+  stage: null
+  focus: |-
+    Agentic Experience Platform combining content, data, and AI
+    orchestration
+position:
+  title: AI-Native Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineer on an assets platform (files,
+      media processing, permissions, CDN). AI appears only as
+      integrating pre-built "AI-powered media features" (smart
+      cropping, background removal, auto-tagging) — the person
+      calls APIs/services others designed, with no prompt, RAG,
+      eval, or training work. Per the edge cases, that is ai-
+      support.
+  responsibilities:
+  - Design, build, and maintain backend services and APIs for managing assets, folders,
+    files, and metadata
+  - Implement access control, permissions, sharing, and visibility features for assets
+  - Build secure and performant asset delivery including CDN delivery, caching, and
+    event-driven integrations
+  - Develop image editing capabilities such as cropping, resizing, rotation, format
+    conversion, and on-the-fly transformations
+  - Develop video editing and processing capabilities such as trimming, transcoding,
+    and thumbnail generation
+  - Explore and integrate AI-powered media features like smart cropping, background
+    removal, and auto-tagging
+  - Build asset usage tracking to show where assets are referenced
+  use_cases:
+  - Digital asset management for enterprise content platforms
+  - Image and video media processing and transformation
+  - AI-powered media enhancements such as smart cropping and auto-tagging
+  - Asset access control, sharing, and usage tracking
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [CDN]
+    ops: [Caching]
+    languages: []
+    domains: []
+    other: [Image Processing, Video Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11768443'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T13:09:32.672502'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

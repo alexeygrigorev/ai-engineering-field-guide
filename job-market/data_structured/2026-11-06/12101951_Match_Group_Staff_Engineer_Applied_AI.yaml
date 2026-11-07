@@ -1,0 +1,48 @@
+company:
+  name: Match Group
+  stage: null
+  focus: Consumer dating apps and social connection
+position:
+  title: Staff Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the design of an agent platform — gateway, MCP
+      connectors, and agent-facing policy/identity layers — which
+      is designing agent tool-calling and orchestration
+      infrastructure, shaping how agents behave and act. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Own the design and evolution of Tinder's internal agent platform
+  - Build and grow the set of MCP connectors exposing internal systems to agents
+  - Make the platform safe by default for agents reading sensitive data and taking
+    consequential actions
+  - Ensure the platform is fast and reliable enough for internal teams to build on
+  - Keep agent onboarding simple so new connectors or agents ship in days
+  - Collaborate with internal teams on real agent use cases across code review, security,
+    accessibility, and marketing workflows
+  use_cases:
+  - Agents performing code review and security risk review
+  - Automated accessibility and UI improvements
+  - Marketing workflow automation
+  - Agents running in engineers' coding tools and Slack
+  - Safe agent access to internal systems and sensitive data
+  skills:
+    genai: [AI Agents, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12101951'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T15:01:45.150842'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

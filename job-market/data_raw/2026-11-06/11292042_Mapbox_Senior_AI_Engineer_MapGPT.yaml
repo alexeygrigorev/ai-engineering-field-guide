@@ -1,0 +1,209 @@
+job_id: 11292042
+title: Senior AI Engineer, MapGPT
+company: Mapbox
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Mapbox is the leading real-time location platform for a new
+  generation of location-aware businesses. Mapbox is the only
+  platform that equips organizations with the full set of
+  tools to power the navigation of people, packages, and
+  vehicles everywhere. More than 4 million registered
+  developers have chosen Mapbox because of the platform’s
+  flexibility, security and privacy compliance. Organizations
+  use Mapbox applications, data, SDKs and APIs to create
+  customized and immersive experiences that delight their
+  customers.
+
+
+
+  What you'll do
+
+  This role is scoped by skill rather than by product. The
+  problems below span multiple departments and show up across
+  our Search and Places data work, our Location and Navigation
+  Intelligence work, and the Platform work that makes Mapbox
+  usable by agents. You'll be hired into one specific team or
+  product area, but you'll work across teams where your
+  expertise meets the highest-priority AI problems. You should
+  expect to move between teams and tech stacks as the work
+  demands.
+
+  At this level you own the technical design and delivery of a
+  multi-component AI system, and you are accountable for the
+  quality of what ships in your area.
+
+
+
+  In this role, you will:
+
+  - Define how the products you own should work, build a
+    measurement framework for it, and build evaluation systems
+    for non-deterministic behavior. Formulate hypotheses
+    around the products we build and seek the signal needed to
+    validate them. Define what a correct result is for a given
+    input and state, determine whether to assemble datasets
+    from real usage or hand-written cases, and gate changes on
+    regression results.
+  - Run continuous evaluation of the products we build, whether
+    APIs, SDKs, data representations, or reference
+    applications, from the position of the end user, whether
+    developer, agent, or consumer. Assess the gaps such as
+    misuse of parameters or integration anti-patterns,
+    recommend the fixes, and make sure they land.
+  - Own the MVP against an agreed north star technical design,
+    and balance technical perfection against shipping useful
+    increments.
+  - Build data pipelines and the tooling around them: ingestion,
+    conflation, entity resolution, quality checks, and the
+    batch and streaming jobs that keep a large dataset
+    current.
+  - Track and pull external datasets, models, and benchmarks
+    from published research and open-source releases. Evaluate
+    what fits the problem and constraints , and decide when to
+    adopt what exists versus build your own.
+  - Design feedback loops so that using a product generates data
+    that improves it. Instrument systems so failures arrive
+    with enough context to reproduce, then turn the recurring
+    ones into evaluation cases.
+  - Design the boundary between a model and the tools it calls.
+    Build or improve the model harness, decide what the model
+    handles, what it delegates, and how to keep it working
+    from the state it actually fetched.
+  - Work to a latency and cost target per request: streaming,
+    partial results, caching, model routing, prompt structure.
+  - Build the internal harnesses and tools (CLI, MCP, and
+    others) your team needs to iterate quickly, and share the
+    parts that generalize with other teams.
+  - Raise the bar on your team through code and design review,
+    and bring other engineers up on eval practice.
+  - Some of the technical questions in this area are still open.
+    You will help answer them.
+  - Participate in an on-call rotation to ensure our systems
+    remain available to customers 24/7. Team members alternate
+    as the on-call primary responder, which may require
+    immediate response outside normal working hours, including
+    weekends.
+
+  What We Believe are Important Traits for This Role
+
+  - Required Education/Certification:
+    - Bachelors Degree in STEM discipline and 5+ years of software
+      engineering experience, with production ownership of
+      services, pipelines, or SDKs.
+  - Technical Skills & Tools (Must-Haves):
+    - 2+ years shipping LLM-backed features to real users, in
+      systems that carried error budgets, on-call rotations,
+      and customers who noticed regressions.
+    - Data engineering depth: SQL, at least one distributed
+      processing framework, and experience with pipelines
+      where a wrong record mattered more than a slow one.
+    - Fluency with tool calling and agent orchestration, including
+      the failure modes: stale context, hallucinated
+      arguments, silent partial success, unbounded loops.
+    - Strong Python or TypeScript, and comfort reading code in
+      whatever language the caller happens to be written in.
+  - Core Competencies & Scope:
+    - Direct experience or deep understanding of designing
+      evaluations for non-deterministic systems. You can
+      describe a dataset you built and the failure it caught.
+    - Working knowledge of more than one agent harness, and
+      opinions about where each of them is weak.
+    - Experience diagnosing latency in a distributed request path.
+    - Comfort with ambiguity, and the judgment to ship something
+      narrow that works while the general solution is still
+      unclear.
+
+
+
+  Nice to Have Traits for this Role
+
+  - Geospatial data experience: routing, geocoding, POI or
+    address data, OpenStreetMap, or conflation of overlapping
+    sources.
+  - Public API or SDK design experience, particularly for
+    developers you never talk to.
+  - Experience building against MCP or similar tool transports.
+  - Experience running evals in CI, with a commercial harness or
+    one you built.
+  - Automotive, in-vehicle infotainment, CarPlay, or Android
+    Auto experience.
+  - Voice pipeline experience: streaming ASR, TTS, barge-in,
+    endpointing, wake word.
+  - Work under constrained compute, offline, or intermittent
+    connectivity.
+  - Experience operating a product through its first external
+    integrations, where the customer finds the gaps before you
+    do.
+
+
+
+
+
+  What We Value
+
+  In addition to our core values, which are not unique to this
+  position and are necessary for Mapbox leaders:
+
+  - We value high-performing creative individuals who dig into
+    problems and opportunities.
+  - We believe in individuals being their whole selves at work.
+    We commit to this through supportive health care, parental
+    leave, flexibility for the things that come up in life,
+    and innovating on how we think about supporting our
+    people.
+  - We emphasize an environment of teaching and learning to
+    equip employees with the tools needed to be successful in
+    their function and the company.
+  - We strongly believe in the value of growing a diverse team
+    and encourage people of all backgrounds, genders,
+    ethnicities, abilities, and sexual orientations to apply.
+
+  How We Support You
+
+  - Hybrid/Remote Options: Enjoy flexibility to work comfortably
+    from home or periodically from an office where applicable.
+  - Comprehensive Healthcare: Private medical coverage for you
+    and your dependents.
+  - Family-First Support: Generous maternity and paternity leave
+    policies to support your growing family.
+  - Fertility & Family Building: Inclusive fertility support.
+    Grow your family on your terms.
+  - Lifestyle Spending Account: Contributions to support your
+    health, wellness, and personal growth.
+  - Balance & Brainpower: Mental health support for you and your
+    dependents.
+  - Rest & Recharge: Flexible paid time away, company holidays,
+    and generous absence policies.
+  - Time Off to Give Back: Dedicated paid volunteering time in
+    addition to your standard PTO.
+  - Invest & Grow: Retirement plans with competitive matching.
+
+  Our annual base compensation for this role ranges from
+  $175,100 - $236,900 for most US locations and 5% to 10%
+  higher for US locations with a higher cost of labor. Job
+  level and actual compensation will be decided based on
+  factors including, but not limited to, individual
+  qualifications objectively assessed during the interview
+  process (including skills and prior relevant experience,
+  potential impact, and scope of role), market demands, and
+  specific work location. Please discuss your specific work
+  location with your recruiter for more information.
+
+  By applying for this position, you acknowledge that you
+  agree to the Mapbox Privacy Policy which is linked here.
+
+  Mapbox participates in E-Verify to confirm employee work
+  authorization. Please refer to the Notice of E-Verify
+  Participation and Right to Work posters for more
+  information.
+
+  Applications are accepted on an ongoing basis. We are
+  committed to a fair and equitable hiring process. We do not
+  discriminate against any protected class.
+
+  #LI-Remote
+posted_date: 2026-10-29
+url: "https://www.builtinla.com/job/senior-ai-engineer-mapgpt/11292042"
+source: Built In

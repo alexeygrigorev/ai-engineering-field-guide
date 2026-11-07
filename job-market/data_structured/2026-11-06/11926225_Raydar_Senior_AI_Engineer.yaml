@@ -1,0 +1,45 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Software company building production AI agent solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM agent systems, including
+      orchestration, context handling, evaluation, and safety
+      checks, directly shaping model behavior. LLM/agent component
+      is central, so ai-first.
+  responsibilities:
+  - Build and release production AI agents that execute multi-step business workflows
+  - Design shared agent frameworks, orchestration, context handling, evaluation and
+    verification layers
+  - Work directly with end customers to understand processes and turn them into AI
+    solutions
+  - Own features end to end across model pipeline, infrastructure, backend services
+    and UX
+  - Contribute platform abstractions and shared systems for the engineering team
+  use_cases:
+  - Multi-step business workflow automation via AI agents
+  - Agent frameworks and orchestration for enterprise engineering teams
+  - Customer process automation turned into AI-based solutions
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLM Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11926225'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:59:17.817969'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

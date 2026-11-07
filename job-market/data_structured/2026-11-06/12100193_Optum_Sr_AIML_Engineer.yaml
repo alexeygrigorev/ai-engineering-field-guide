@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Sr AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys AI applications,
+      agents, and platforms, shares prompt engineering techniques,
+      and evaluates AI outputs — directly shaping LLM/agent
+      behavior and quality, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-powered solutions solving business problems
+  - Build AI-enabled applications, automations, agents, and platforms at enterprise
+    scale
+  - Integrate AI capabilities into existing products and engineering workflows
+  - Define AI solution architecture and engineering standards and drive technical
+    decisions for AI adoption
+  - Leverage GitHub Copilot, M365 Copilot, enterprise LLMs, and approved AI tools
+    to automate coding, testing, documentation, and analysis
+  - Apply responsible AI principles, governance, and compliance controls; evaluate
+    AI outputs and risks before production
+  - Coach engineers on AI best practices, prompt engineering techniques, and frameworks
+  - Evaluate emerging AI technologies, prototype new capabilities, and translate business
+    opportunities into AI solutions
+  use_cases:
+  - Enterprise-scale AI applications, automations, and agents
+  - AI-assisted coding, testing, documentation, and analysis automation
+  - Integrating AI capabilities into existing healthcare products
+  - Productivity improvements across engineering teams via AI tooling
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLMs, GitHub Copilot, Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100193'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:59:49.578638'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Handshake
+  stage: null
+  focus: Career network with AI data business for frontier labs
+position:
+  title: Senior Forward Deployed Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer building and deploying AI agents
+      and designing evals to shape agent performance — directly
+      shaping LLM/agent behaviour. Customer-embedded deployment of
+      agents is explicitly ai-first.
+  responsibilities:
+  - Embed directly with enterprise customers to deeply understand their business and
+    workflows
+  - Define AI-driven solutions based on real customer business needs
+  - Build and deploy production-grade AI agents end-to-end for customer use cases
+  - Design and run evals to measure agent performance and iterate until results improve
+  - Develop domain expertise in the customer's vertical to improve AI over time
+  - Establish agent patterns, engineering best practices, and reusable frameworks
+    for the deployment team
+  - Surface deployment insights to inform Handshake's product roadmap
+  use_cases:
+  - Production AI agents tailored to enterprise customer workflows
+  - AI-driven automation of customer business operations
+  - Agent performance measurement and improvement via evals
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLM Evaluation, Multi-Agent Systems, Fine-Tuning]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11216440'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:27:16.873575'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

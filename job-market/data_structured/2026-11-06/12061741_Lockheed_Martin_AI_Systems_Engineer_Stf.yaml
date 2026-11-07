@@ -1,0 +1,60 @@
+company:
+  name: Lockheed Martin
+  stage: null
+  focus: Aerospace and defense technology and systems
+position:
+  title: AI Systems Engineer Stf
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure/platform tooling
+      for an AI/ML platform (CI/CD, Kubernetes, IaC,
+      observability). The person runs and serves models others
+      build; there's no prompt engineering, retrieval design, or
+      model training. Per the edge cases, serving/hosting/scaling
+      models without shaping them is ai-support.
+  responsibilities:
+  - Develop software and automation for platform provisioning, configuration, deployment,
+    and operations
+  - Build and improve CI/CD and GitOps workflows for infrastructure and platform services
+  - Develop infrastructure as code, reusable tooling, and self-service capabilities
+  - Operate and improve Kubernetes-based environments for training, deploying, and
+    running AI/ML systems
+  - Improve platform reliability through observability, automated validation, and
+    incident response
+  - Incorporate security controls into development and deployment workflows with cybersecurity
+    teams
+  - Review designs, guide technical decisions, and mentor engineers
+  - Integrate and test autonomous hardware and software systems, including verification
+    and validation
+  use_cases:
+  - Enterprise AI/ML platform (AI Factory) for developing, deploying, and running
+    models
+  - Infrastructure automation and self-service tooling for ML environments
+  - Kubernetes-based training and inference environments
+  - Autonomous systems hardware/software integration and testing
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [CI/CD, Kubernetes, Docker, Linux, Infrastructure as Code, GitOps, ArgoCD,
+      GitLab CI, Helm, Terraform, Ansible, Prometheus, Grafana, Kubeflow, Monitoring,
+      DevSecOps]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12061741'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-11-06T14:44:02.500989'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the title "AI Engineer", the description contains no
+      AI/ML responsibilities - only generic software engineering
+      accountabilities with no mention of prompts, retrieval,
+      models, or training. It is too vague to apply Step 1, so the
+      classification is unknown.
+  responsibilities:
+  - Design, develop and improve software using industry-aligned languages, frameworks
+    and tools
+  - Deliver scalable, maintainable and performance-optimized code
+  - Collaborate with product managers, designers and engineers to define requirements
+    and solution strategies
+  - Participate in code reviews and promote code quality and knowledge sharing
+  - Adhere to secure coding practices and implement unit testing
+  - Advise on decision making, mitigate risk and contribute to policy development
+  - Lead collaborative assignments and guide team members as an individual contributor
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11908824'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:57:03.872484'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

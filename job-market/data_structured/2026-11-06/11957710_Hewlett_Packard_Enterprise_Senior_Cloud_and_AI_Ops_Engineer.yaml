@@ -1,0 +1,48 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud and networking (SASE) solutions
+position:
+  title: Senior Cloud and AI Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is cloud/SRE operations: reliability, monitoring,
+      IaC, Kubernetes. AI is mentioned only as implementing AI
+      workflows from monitoring data, with no evidence of shaping
+      model behaviour via prompts, retrieval, or training.
+      Serving/ops work is ai-support.
+  responsibilities:
+  - Lead cloud operations supporting customer success and engineering escalations
+  - Provide day-to-day operational support and monitoring for HPE Networking SASE
+    cloud services
+  - Design and maintain scalable infrastructure using Terraform and CloudFormation
+  - Collaborate with development teams on cloud application performance and reliability
+  - Implement AI workflows using monitoring data to enhance product features
+  - Drive automation for deployment, monitoring, scaling, and incident response
+  - Manage and optimize Kubernetes clusters and containerized applications
+  use_cases:
+  - Operational support and monitoring for SASE cloud networking services
+  - Cloud reliability, availability, and incident response automation
+  - Scalable cloud infrastructure provisioning via IaC
+  - AI-driven workflows from cloud monitoring telemetry to enhance product features
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Terraform, CloudFormation, Kubernetes, Helm, Docker, CI/CD, Ansible, Jenkins,
+      Git, Grafana, Datadog, Prometheus, Monitoring, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [TCP/IP, BGP, OSPF/ISIS, NetFlow, SNMP, Internet Traffic Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957710'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:10:50.228853'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

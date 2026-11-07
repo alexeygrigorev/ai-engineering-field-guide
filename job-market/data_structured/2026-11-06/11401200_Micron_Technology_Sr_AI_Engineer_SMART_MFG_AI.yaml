@@ -1,0 +1,59 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions manufacturer
+position:
+  title: Sr AI Engineer, SMART MFG & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs GenAI solutions directly: prompt
+      orchestration, RAG retrieval pipelines (chunking,
+      embeddings, reranking/grounding), agent/MCP integration, and
+      evaluation with safeguards. That is shaping LLM behavior, so
+      ai-first.
+  responsibilities:
+  - Lead end-to-end design, development, testing, deployment and support of full-stack
+    and AI-powered applications
+  - Build secure backend services, APIs and microservices using C#, .NET and ASP.NET
+    Core
+  - Develop responsive frontend components using Angular, React or Blazor
+  - Design and implement GenAI solutions using LLMs, RAG, prompt orchestration, tool
+    calling, AI agents and copilots
+  - Implement MCP integration patterns connecting AI agents with enterprise tools,
+    APIs and data sources
+  - Design retrieval pipelines including document ingestion, chunking, embeddings,
+    vector search and grounding strategies
+  - Integrate relational, non-relational, streaming and analytical data sources supporting
+    AI applications
+  - Own production readiness through CI/CD, observability, performance tuning and
+    incident response; mentor junior engineers
+  use_cases:
+  - Enterprise AI copilots and agents for manufacturing, engineering and business
+    operations
+  - RAG-based retrieval and grounded Q&A over enterprise data sources
+  - Governed connectivity between AI agents and enterprise tools and APIs via MCP
+  - Smart manufacturing automation and intelligent applications
+  - Data integration pipelines supporting AI-powered applications
+  skills:
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering, Function Calling, AI Agents,
+      MCP, Azure OpenAI, Semantic Kernel, Embeddings]
+    ml: []
+    web: [ASP.NET Core, REST APIs, Angular, React, Blazor, HTML, CSS]
+    databases: [Vector Search, SQL Server, PostgreSQL, Vector Databases, Relational
+        Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, GCP, AWS]
+    ops: [Kubernetes, OpenShift, Docker, CI/CD, Azure DevOps, GitHub Actions, Git,
+      Observability]
+    languages: [C#, .NET, TypeScript, JavaScript, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11401200'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:44:30.572778'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

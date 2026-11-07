@@ -1,0 +1,55 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services, KYC operations
+position:
+  title: Senior AI Engineer, KYC Operations - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-powered workflows, RAG solutions, agent
+      orchestration, prompt engineering, and LLM evaluation —
+      directly shaping model behavior, so ai-first. Mentoring and
+      stakeholder influence are IC-level leadership, not people
+      management.
+  responsibilities:
+  - Own end-to-end engineering lifecycle for GenAI and automation initiatives from
+    discovery through production
+  - Design LLM-powered workflows, RAG solutions, agents, prompt chains, tool-calling,
+    and human-in-the-loop review
+  - Build rapid prototypes and MVPs using enterprise LLM platforms
+  - Integrate AI capabilities with enterprise systems, APIs, workflow platforms, and
+    data repositories
+  - Implement guardrails for data privacy, hallucination control, bias mitigation,
+    and regulatory compliance
+  - Define evaluation datasets, metrics, regression tests, and prompt scorecards before
+    scaling prototypes
+  - Partner with business, risk, compliance, and technology teams to align solutions
+  - Mentor junior engineers on prompt engineering, API development, and AI patterns
+  use_cases:
+  - GenAI-enabled automation of banking operations workflows
+  - KYC and compliance process automation
+  - Risk, servicing, and regulatory reporting automation
+  - Document analysis and enterprise knowledge search over banking data
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Agentic Workflows, Function Calling, LLM
+        Evaluation, Guardrails, Anthropic API, Gemini, OpenAI API, Azure OpenAI, GitHub
+        Copilot, LangChain, LlamaIndex, Semantic Kernel, Embeddings, Conversational
+        AI]
+    ml: [NLP, Machine Learning, Fine-Tuning]
+    web: [REST APIs, Microservices, APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, GCP, AWS]
+    ops: [DevSecOps, CI/CD, Docker, Kubernetes, Infrastructure as Code, Observability]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [PII Protection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048900'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:40:25.279730'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

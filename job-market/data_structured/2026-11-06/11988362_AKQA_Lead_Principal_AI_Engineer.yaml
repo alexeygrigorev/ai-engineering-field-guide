@@ -1,0 +1,59 @@
+company:
+  name: AKQA
+  stage: null
+  focus: Digital agency building AI products for brands
+position:
+  title: Lead / Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM/agent behavior: designing
+      agentic workflows, RAG, prompt engineering, guardrails,
+      evals, and fine-tuning. LLM/agent components dominate, so it
+      is ai-first.
+  responsibilities:
+  - Architect, develop and deploy production-ready AI systems including agentic workflows,
+    multi-agent orchestration, RAG and intelligent automation
+  - Design and integrate agent tools, APIs and MCP interfaces with enterprise systems
+    and external services
+  - Develop compound AI architectures combining LLMs with specialized models, semantic
+    search, re-ranking and deterministic workflows
+  - Build evaluation frameworks, automated testing, guardrails and observability for
+    model behavior and output quality
+  - Apply judgement to model selection, prompt engineering, structured outputs, fine-tuning
+    and retrieval strategies
+  - Design backend services and integration layers with Python, TypeScript, Node.js
+    and cloud technologies
+  - Establish CI/CD practices for AI systems with automated evaluations and regression
+    testing
+  - Engage with clients and senior stakeholders, providing technical leadership and
+    architectural guidance
+  use_cases:
+  - Consumer-facing applications and connected digital products powered by AI
+  - Intelligent marketing platforms
+  - Agentic workflows and multi-agent orchestration for enterprise automation
+  - RAG-based enterprise search and retrieval
+  - Bespoke enterprise AI tools integrating with enterprise systems via agents
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, MCP, LLMs, Prompt Engineering,
+      Structured Outputs, Fine-Tuning, Embeddings, Vector Databases, Semantic Search,
+      LangGraph, CrewAI, AutoGen, Llama, Mistral, Anthropic API, OpenAI API, Guardrails,
+      Vercel AI SDK]
+    ml: []
+    web: [REST APIs, React, Next.js, Headless CMS]
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, AWS Bedrock, Vertex AI]
+    ops: [CI/CD, LangSmith, OpenTelemetry, Monitoring, Observability, Distributed
+        Systems]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Microservices, Figma]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11988362'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:19:46.754159'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

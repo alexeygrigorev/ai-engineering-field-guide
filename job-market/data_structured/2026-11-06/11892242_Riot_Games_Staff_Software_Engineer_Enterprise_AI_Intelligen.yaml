@@ -1,0 +1,54 @@
+company:
+  name: Riot Games
+  stage: null
+  focus: Game development and interactive entertainment
+position:
+  title: Staff Software Engineer, Enterprise AI (Intelligence Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role personally builds agent orchestration, RAG
+      retrieval with embeddings/reranking, tool calling, prompt
+      iteration, and evaluation of LLM output quality. This is
+      direct shaping of LLM/agent behavior, making it ai-first.
+  responsibilities:
+  - Build an orchestrator plus specialist-agent architecture with retrieval, tool
+    use, structured outputs, and multi-step reasoning on a semantic data layer
+  - Design and implement retrieval and grounding for RAG/semantic search, including
+    embeddings, reranking, citations, and hallucination reduction
+  - Integrate agents with internal and external tools/APIs via function/tool calling
+  - Build the full-stack application layer, APIs, and UI exposing AI-powered search,
+    chat, and workflow experiences
+  - Instrument AI features with observability for quality, latency, token usage, and
+    cost
+  - Iterate on prompts and model choices with fallback handling for failures and low-confidence
+    output
+  - 'Apply engineering fundamentals: testing, code review, CI/CD, and on-call ownership'
+  use_cases:
+  - Enterprise semantic search and grounded Q&A over internal company data
+  - AI chat and workflow experiences for leaders to find information and make decisions
+    faster
+  - Agentic workflows that take real actions via internal and external tool integrations
+  - Supporting HR, Finance, IT, Legal, and Workplace operations such as hiring, planning,
+    spending, and onboarding
+  skills:
+    genai: [RAG, AI Agents, Agentic Workflows, Function Calling, Structured Outputs,
+      Prompt Engineering, Embeddings, Semantic Search, LLMs, LangGraph, AutoGen, CrewAI,
+      Reranking, LLM Evaluation]
+    ml: []
+    web: [React, Next.js, NestJS, GraphQL, REST APIs]
+    databases: [Vector Databases, PostgreSQL, MySQL, Redis]
+    data: [Databricks, Data Catalog]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, Observability, Code Review, Automated Testing]
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892242'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:43:44.161486'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

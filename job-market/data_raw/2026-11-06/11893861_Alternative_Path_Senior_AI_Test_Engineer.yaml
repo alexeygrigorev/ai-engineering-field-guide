@@ -1,0 +1,134 @@
+job_id: 11893861
+title: Senior AI Test Engineer
+company: Alternative Path
+location: Gurgaon, IND
+remote: true
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  This is a remote position.
+
+   Senior AI Test Engineer
+
+
+  Location: Remote
+
+   About the Role
+
+
+  Alternative Path is looking for a Senior AI Test Engineer to
+  lead quality assurance on a client engagement with a leading
+  financial data and analytics company that has built AI agent
+  systems (chatbots, RAG-based research/report generation,
+  MCP-based tool-calling agents) on top of its proprietary
+  datasets for its own clients. This is a senior, client-
+  facing role: you'll own the test strategy for these systems
+  end-to-end, working directly with the client's engineering
+  team to validate accuracy, reliability, and safety before
+  these agents reach financial industry end-users — where
+  hallucinations or bad data retrieval carry real business
+  risk.
+
+
+
+  This is not conventional QA. You'll be building evaluation
+  frameworks and datasets, running systematic evals, and
+  defining quality bars for non-deterministic, LLM-driven
+  systems operating over complex financial data.
+
+   What You'll Do
+
+
+  - Own the test and evaluation strategy for the client's AI
+    agent systems — chatbots, RAG-based research/report
+    generation, and MCP-based tool-calling agents
+  - Design and build eval suites covering accuracy,
+    groundedness/faithfulness to source data, task completion,
+    latency, and safety
+  - Build and curate golden datasets reflecting real client use
+    cases and financial-data edge cases (ambiguous queries,
+    stale data, conflicting sources, numerical precision)
+  - Use eval/observability tooling such as LangSmith (or
+    equivalents — Ragas, DeepEval, Braintrust, Langfuse,
+    PromptFoo) to trace, score, and monitor agent runs
+  - Define and track RAG-specific metrics (retrieval
+    precision/recall, hallucination rate, citation/source
+    accuracy) — critical given the systems sit on top of
+    financial datasets where correctness is non-negotiable
+  - Evaluate MCP-based tool-calling behavior — correct tool
+    selection, multi-step task execution, failure handling
+  - Design regression testing so prompt, model, or data-pipeline
+    changes don't silently degrade quality
+  - Run structured red-teaming for hallucinations, prompt
+    injection, and unsafe/incorrect financial outputs
+  - Act as the primary quality point of contact with the
+    client's engineering stakeholders — translating findings
+    into clear, actionable risk assessments
+  - Mentor/guide any junior QA resources staffed onto the
+    engagement as it scales
+  - Build automation to integrate evals into CI pipelines where
+    feasible
+
+   What We're Looking For
+
+
+  Must-haves
+
+
+
+  - 3+ years in software QA/testing, with hands-on senior-level
+    experience evaluating LLM-based or agentic AI systems (not
+    just traditional QA)
+
+
+
+  - Direct experience with eval frameworks/tools — LangSmith
+    strongly preferred; also acceptable: Ragas, DeepEval,
+    PromptFoo, Braintrust, Langfuse
+  - Strong understanding of RAG architecture and how to
+    independently evaluate retrieval quality vs. generation
+    quality
+  - Practical familiarity with MCP (Model Context Protocol) or
+    comparable agent tool-calling frameworks
+  - Strong Python skills for building test harnesses, scoring
+    pipelines, and automation
+  - Experience designing evaluation approaches for non-
+    deterministic systems (probabilistic scoring, not binary
+    pass/fail)
+  - Comfortable working directly with client engineering teams —
+    strong communication, able to explain quality risk to both
+    technical and business stakeholders
+  - Prior experience in a client services / consulting QA
+    environment (this is a client-facing engagement, not an
+    internal product team)
+
+
+
+  Nice-to-haves
+
+
+
+  - Experience testing AI systems in fintech, capital markets,
+    or data/analytics domains
+  - Familiarity with financial data accuracy/compliance
+    considerations (numerical precision, source traceability,
+    audit trails)
+  - Exposure to LLM red-teaming/safety evaluation practices
+  - Experience with browser-automation agent testing (Playwright
+    or similar)
+
+   Why This Role Matters
+
+
+  The client's end-users rely on these agents for financial
+  research and decision-making — the cost of a hallucinated
+  number or a wrong source is high. You'll be the senior
+  technical authority ensuring these systems are trustworthy
+  before they ship, working at the intersection of AI
+  evaluation and financial-data correctness.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-ai-test-engineer/11893861"
+source: Built In

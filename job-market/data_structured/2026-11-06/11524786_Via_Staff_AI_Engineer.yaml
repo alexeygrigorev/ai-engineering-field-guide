@@ -1,0 +1,51 @@
+company:
+  name: Via
+  stage: null
+  focus: Public transportation technology platform provider
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic solutions, agentic workflows, and
+      LLM-powered experiences end-to-end, directly shaping model
+      behavior via agents and LLM applications. LLM/agent
+      components are clearly involved.
+  responsibilities:
+  - Build and ship production-grade AI products end-to-end, from problem framing and
+    data pipeline design to deployment and iteration
+  - Work in a forward-deployed manner with partners to understand problems and iterate
+    on scalable agentic solutions
+  - Lead technical scoping workshops with city leaders to solve local problems with
+    agentic workflows
+  - Contribute to intelligent tooling involving data consolidation, predictive modelling,
+    real-time decision-making, and LLM-powered experiences
+  - Collaborate with product, data science, and operations teams to prioritize AI
+    opportunities
+  - Write clean, scalable backend code powering AI-driven features - designing APIs
+    and managing data flows
+  - Help shape the technical culture of AI Labs
+  use_cases:
+  - Agentic solutions for city and transit partner problems
+  - Data consolidation and predictive modelling tooling
+  - Real-time decision-making for transit networks
+  - LLM-powered product experiences
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents]
+    ml: [Model Evaluation, Predictive Modelling, Machine Learning]
+    web: [REST APIs, APIs, Full-Stack Development]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11524786'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:05:13.347185'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

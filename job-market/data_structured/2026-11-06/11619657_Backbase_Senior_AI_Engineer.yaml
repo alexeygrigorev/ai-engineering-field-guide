@@ -1,0 +1,56 @@
+company:
+  name: Backbase
+  stage: null
+  focus: AI-powered enterprise digital banking software
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a native iOS engineering role; the AI content is
+      about adopting AI tools (GitHub Copilot, Cursor, agentic
+      frameworks) to improve developer productivity and workflows,
+      not shaping a model's behaviour. The deliverable is mobile
+      banking software, with AI as tooling.
+  responsibilities:
+  - Design, build, and maintain capabilities for the Backbase Mobile Platform with
+    Principal Engineers
+  - Build and grow SDKs and libraries for Identity and Authentication journeys in
+    mobile banking apps
+  - Write clean, maintainable Swift code and develop features with native Apple frameworks
+    and technologies
+  - Automate testing with XCTest and XCUITest to achieve at least 80% unit test coverage
+    alongside QAs
+  - Apply AI tools and agentic frameworks for code generation, test automation, and
+    developer productivity, and encourage AI adoption across engineering workflows
+  - Contribute to all aspects of product development from requirements gathering to
+    documentation and product adoption support
+  - Uphold engineering standards and lead initiatives to improve engineering excellence
+    within the squad
+  use_cases:
+  - Identity and authentication journeys for retail, business, and wealth mobile banking
+    apps
+  - Enterprise-grade digital banking platform capabilities for millions of users
+  - Mobile SDKs and libraries enabling secure banking features
+  - AI-assisted code generation and test automation for iOS development
+  skills:
+    genai: [GitHub Copilot, Cursor, Agentic Workflows, Code Generation]
+    ml: []
+    web: [REST APIs, GraphQL, SwiftUI, UIKit]
+    databases: []
+    data: []
+    cloud: []
+    ops: [XCTest, XCUITest, CI/CD, Bitrise, GitHub Actions, Git, Jenkins, GitLab CI]
+    languages: [Swift, Objective-C]
+    domains: [Mobile Security]
+    other: [MVVM, VIPER, Clean Architecture, Combine, RxSwift, Grand Central Dispatch,
+      async/await, Agile, Keychain, Biometrics, Swift Package Manager, CocoaPods,
+      Firebase, Crashlytics, A/B Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11619657'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:23:05.744481'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

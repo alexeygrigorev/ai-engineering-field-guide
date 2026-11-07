@@ -1,0 +1,58 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductors and data center AI platforms
+position:
+  title: LLM & Agentic AI Performance Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes LLM inference internals (KV-cache,
+      attention, batching, quantization) and shapes agent
+      frameworks (LangGraph, CrewAI, AutoGen, MCP) — directly
+      shaping model behaviour and serving quality, so it's ai-
+      first. This is not mere hosting of models someone else
+      built; they modify serving stacks and agent systems
+      themselves.
+  responsibilities:
+  - Characterize and optimize LLM and Agentic AI workloads across the full software
+    and hardware stack
+  - Identify performance bottlenecks across AI frameworks, inference runtimes, OS,
+    memory, compute, and platform architecture
+  - Design and develop hardware-aware and hardware-agnostic optimizations for AI frameworks
+    and runtimes
+  - Optimize LLM inference techniques including KV-cache management, attention, continuous
+    batching, and quantization
+  - Work hands-on with serving stacks such as vLLM, SGLang, and TGI
+  - Analyze host and accelerator performance using VTune, EMON/PMU, perf, top-down
+    analysis, and roofline modeling
+  - Convert findings into upstream code contributions, best-known configurations,
+    and reusable optimization guidance
+  - Translate silicon-level findings for software developers and application insights
+    for hardware architects
+  use_cases:
+  - LLM inference performance optimization on Intel data center platforms
+  - Agentic AI workload characterization and optimization
+  - Hardware/software co-optimization of AI serving stacks
+  - Performance analysis using hardware counters and roofline modeling
+  - Upstream open-source performance improvements for AI frameworks
+  skills:
+    genai: [LLMs, Agentic Workflows, LangGraph, CrewAI, AutoGen, MCP]
+    ml: [Quantization, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, SGLang, TGI, OpenVINO, Linux, eBPF, ftrace, perf, VTune, Roofline
+        Modeling, Distributed Systems]
+    languages: [Python, C++, C, Rust]
+    domains: []
+    other: [NUMA, Open Source]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11715432'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:41:00.848890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

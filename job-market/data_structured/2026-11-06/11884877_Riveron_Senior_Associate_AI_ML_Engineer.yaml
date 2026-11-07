@@ -1,0 +1,62 @@
+company:
+  name: Riveron
+  stage: null
+  focus: Finance and business consulting services
+position:
+  title: Senior Associate – AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG solutions (chunking, embeddings,
+      reranking), develops agentic workflows with tools and
+      guardrails, does prompt engineering, and builds LLM
+      evaluation pipelines—clearly shaping LLM behavior. Hence ai-
+      first.
+  responsibilities:
+  - Build and maintain end-to-end AI/ML and Generative AI applications including data
+    pipelines, APIs, evaluation, deployment, and monitoring
+  - Design RAG solutions with document ingestion, chunking, embeddings, vector search,
+    reranking, and access-aware retrieval
+  - Develop agentic AI workflows with tool calling, structured outputs, guardrails,
+    human-in-the-loop approvals, and failure recovery
+  - Integrate foundation models and AI services; select models based on quality, latency,
+    cost, privacy, and deployment constraints
+  - Implement prompt engineering, few-shot patterns, structured output validation,
+    and fine-tuning where justified
+  - Create reproducible evaluation pipelines for accuracy, groundedness, safety, latency,
+    reliability, and cost
+  - Develop production Python services with REST APIs, asynchronous processing, and
+    containerized cloud deployments
+  - Apply secure AI practices including prompt-injection defenses, privacy controls,
+    and responsible AI principles
+  use_cases:
+  - Enterprise document intelligence and RAG-based search
+  - Agentic workflow automation with tool calling and human approval steps
+  - Enterprise AI applications in finance, accounting, operations, and customer service
+  - Model evaluation and monitoring for groundedness, safety, and cost
+  skills:
+    genai: [RAG, Prompt Engineering, AI Agents, Agentic Workflows, Structured Outputs,
+      Function Calling, Embeddings, Vector Databases, Fine-Tuning, LLMs, Generative
+        AI, LLM Evaluation, Guardrails, LangChain, LangGraph, Semantic Kernel, LlamaIndex,
+      AutoGen, LoRA]
+    ml: [PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Machine Learning]
+    web: [REST APIs, JSON]
+    databases: [pgvector, Pinecone, Weaviate, Milvus, Elasticsearch, OpenSearch]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, GitHub, CI/CD, GitHub Actions, Docker, Kubernetes, MLflow, MLOps, LLMOps,
+      Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Code Review, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884877'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:33:44.489605'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

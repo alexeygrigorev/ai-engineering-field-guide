@@ -1,0 +1,56 @@
+company:
+  name: Staples India
+  stage: null
+  focus: Retail and office supplies in India
+position:
+  title: Senior Lead AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour through forecasting, price
+      elasticity modeling, causal inference, and reinforcement
+      learning/multi-armed bandits for pricing and promotions -
+      all classical ML with no LLM or agent component. This is ml-
+      first.
+  responsibilities:
+  - Design, develop, and deploy time-series forecasting models for demand across thousands
+    of SKUs
+  - Build dynamic pricing, promotion optimization, and recommendation models using
+    reinforcement learning or multi-armed bandits
+  - Apply statistical and causal inference techniques to evaluate promotion effectiveness
+    and seasonality
+  - Develop cross-channel regular price optimization models across B2C and B2B segments
+    with elasticity, margin, and competitive signals
+  - Architect ML pipelines for promotion targeting and ROI optimization, from ingestion
+    to production APIs and dashboards
+  - Implement model monitoring, retraining, and drift detection systems
+  - Work with data warehouses and APIs for data processing and operationalization
+  - Collaborate with cloud teams for deployment on Azure or GCP
+  use_cases:
+  - Demand forecasting and price-demand curves across thousands of SKUs
+  - Price elasticity modeling and cross-channel price optimization for B2C and B2B
+  - Promotion effectiveness, incrementality, and lift analysis
+  - Dynamic pricing and promotion optimization with margin guardrails
+  - ROI and profitability optimization for promotions
+  - Seasonality-driven and peak-demand dynamic pricing
+  skills:
+    genai: []
+    ml: [Prophet, ARIMA, DeepAR, LSTM, Temporal Fusion Transformer, Reinforcement
+        Learning, Multi-Armed Bandits, TensorFlow, PyTorch, scikit-learn, Feature
+        Engineering, Model Evaluation, Time Series Forecasting]
+    web: []
+    databases: [Azure SQL, Snowflake]
+    data: [Databricks, Delta Lake]
+    cloud: [Azure, GCP]
+    ops: [Model Monitoring, Git, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Causal Inference]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983990'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:18:25.353435'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

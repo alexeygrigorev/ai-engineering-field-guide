@@ -1,0 +1,51 @@
+company:
+  name: Titan (titanmsp.ai)
+  stage: null
+  focus: AI workforce for IT and managed service providers
+position:
+  title: Forward Deployed Engineer - Managed AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer building and deploying LLM agents
+      (Claude, ChatGPT, Copilot) with connectors and MCP servers
+      directly at client sites; the role shapes agent behavior and
+      builds evals, so it is ai-first per the FDE rule.
+  responsibilities:
+  - 'Scope client agent builds: systems, actions, user group, success metric and baseline'
+  - Build agents, connectors (Microsoft Graph, SharePoint, Teams, Outlook, client
+    APIs, MCP servers) and skills
+  - Deploy agents into client tenants with least-privilege access and governance documentation
+  - Measure agents against baselines, train users, and hand over to ongoing maintenance
+  - Join vCAIO-led opportunity assessments and run scoping sessions with client business
+    leaders
+  - Turn successful engagement patterns into reusable connectors, skills, evals and
+    templates
+  use_cases:
+  - Customer site activation tracker reading Teams, SharePoint and Outlook to flag
+    stalled sites
+  - Investor DDQ responder drafting sourced answers to questionnaires
+  - Supplier quality monitor flagging expiring certifications and drafting corrective
+    action requests
+  - IT service desk and operations automation across MSP and enterprise customers
+  skills:
+    genai: [AI Agents, Claude Code, ChatGPT, GitHub Copilot, MCP, LLM Evaluation,
+      LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Microsoft Graph, SharePoint, Microsoft Teams, Outlook, Microsoft 365]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11846935'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:23:03.133002'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

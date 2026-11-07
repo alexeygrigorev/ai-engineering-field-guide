@@ -1,0 +1,60 @@
+company:
+  name: The Carlyle Group
+  stage: null
+  focus: Global private markets investment and asset management
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements RAG components (chunking,
+      embeddings, hybrid search, re-ranking, grounding), agent
+      tool interfaces with guardrails and evaluation hooks, and
+      context engineering for LLMs and agents — directly shaping
+      model behavior and output quality. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Build and operate AI-ready data pipelines including embedding generation, chunking,
+    indexing, and refresh workflows
+  - Implement RAG components such as vector store integrations, hybrid search, re-ranking,
+    and grounding logic
+  - Develop tool and function interfaces with guardrails, logging, and evaluation
+    hooks for agents and copilots
+  - Design, build, and maintain production-grade ELT, streaming, and transformation
+    pipelines using dbt, Fivetran, and Snowflake
+  - Implement semantic models, data contracts, and dimensional models for analytics
+    and AI grounding
+  - Build logging, evaluation, and monitoring components for AI systems including
+    prompt/response capture and retrieval metrics
+  - Partner with Data Science, AI Engineering, Governance, and domain teams across
+    a federated data platform
+  - Mentor junior data engineers and document reusable engineering patterns
+  use_cases:
+  - Enterprise retrieval and grounding of firm data for LLMs, agents, and copilots
+  - Natural-language analytics and conversational reporting for business users
+  - AI-driven insights across investment platforms, portfolio operations, and investor
+    relations
+  - Trusted self-service analytics via semantic models and data products
+  - Pipeline observability and AI trust including retrieval metrics and model performance
+    monitoring
+  skills:
+    genai: [RAG, Embeddings, LLMs, AI Agents, Agentic Workflows, Generative AI, Function
+        Calling, Guardrails, LLM Evaluation, Context Engineering, LangChain, LlamaIndex,
+      OpenAI API, Anthropic API, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Vector Databases, Pinecone, pgvector, Vector Search, Snowflake]
+    data: [dbt, Data Pipelines, Spark, Data Modeling, Fivetran, Databricks]
+    cloud: [AWS, AWS Bedrock, Snowflake Cortex]
+    ops: [MLflow, CI/CD, Model Monitoring, Monitoring, Data Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Palantir, Semantic Layer]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11828976'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:20:13.661817'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

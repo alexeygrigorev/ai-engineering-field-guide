@@ -1,0 +1,53 @@
+company:
+  name: Assent
+  stage: null
+  focus: Supply chain compliance and product intelligence platform
+position:
+  title: SR Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent systems (tool calling,
+      sub-agent orchestration, RAG pipelines, evals, guardrails),
+      which is directly shaping LLM behavior. Explicitly stated as
+      not a classical ML role, and it's production LLM/agentic
+      work.
+  responsibilities:
+  - Design and build production agent systems with tool calling, sub-agent orchestration,
+    memory and context management, and multi-step reasoning workflows
+  - Partner with business unit stakeholders to scope use cases and co-design agentic
+    solutions
+  - Build and tune RAG pipelines grounded in enterprise data (Confluence, Jira, Snowflake,
+    Salesforce), including retrieval strategy, embeddings, and evaluation
+  - Build evaluation harnesses and observability into every agent covering accuracy,
+    hallucination rate, latency, and cost
+  - Take solutions from proof-of-concept to production deployment within governed
+    patterns for authentication, cost metering, and logging
+  - Contribute reusable patterns back into a shared library for organization-wide
+    reuse
+  - Work with the platform and integration team to deploy agents into a governed catalog
+  use_cases:
+  - Governed internal agentic AI services deployed across company functions
+  - RAG over enterprise data sources (Confluence, Jira, Snowflake, Salesforce)
+  - Agent-assisted workflows for Sales, Customer Success, and Enterprise Systems teams
+  - Production agent monitoring for accuracy, hallucination rate, latency, and cost
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, MCP, RAG, Embeddings, Function
+        Calling, Agentic Workflows, LLMs, LLM Evaluation]
+    ml: []
+    web: [FastAPI]
+    databases: [Pinecone, Qdrant, Chrom, Vector Databases, Snowflake]
+    data: []
+    cloud: [AWS, ECS, AWS Lambda, AWS Bedrock]
+    ops: [Langfuse, LangSmith, MLflow, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Jira, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11434589'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:50:29.769757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

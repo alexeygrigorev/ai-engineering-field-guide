@@ -1,0 +1,54 @@
+company:
+  name: Super Speciosa
+  stage: null
+  focus: Vendor of kratom and botanical products (ERPNext user)
+position:
+  title: ERPNext / Frappe Developer - AI-Assisted Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is ERPNext/Frappe development; AI tools
+      (Claude Code, Codex, Cursor) are used as coding assistants
+      to speed up the engineering work, which is explicitly ai-
+      support per the edge cases. The developer does not shape any
+      model's behavior.
+  responsibilities:
+  - Develop and maintain custom Frappe applications and ERPNext functionality
+  - Build DocTypes, workflows, reports, dashboards, and print formats
+  - Integrate ERPNext with external platforms through APIs and webhooks
+  - Diagnose bugs, improve performance, and maintain existing customizations
+  - Use AI coding agents to support implementation, debugging, refactoring, testing,
+    and documentation
+  - Review AI-generated code for correctness, security, and maintainability
+  - Work through Git, staging environments, and a clear release process
+  use_cases:
+  - ERP customization and maintenance for business operations
+  - ERP integrations with external platforms
+  - Manufacturing, inventory, purchasing, and accounting workflows (nice-to-have)
+  skills:
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    web: [APIs, Webhooks, Vue]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [Claude Code, Codex, Cursor]
+    ops: [Git, Linux, Docker, CI/CD]
+    other: [ERPNext, Frappe, Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12102103'
+  location: CHL
+  locations:
+  - CHL
+  - IND
+  - BRA
+  - MEX
+  - COL
+  - ARG
+  remote: true
+  extracted_at: '2026-11-06T15:01:50.161100'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

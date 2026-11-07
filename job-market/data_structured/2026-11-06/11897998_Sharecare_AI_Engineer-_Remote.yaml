@@ -1,0 +1,57 @@
+company:
+  name: Sharecare
+  stage: null
+  focus: |-
+    Digital healthcare software and tech-enabled health
+    management services
+position:
+  title: AI Engineer- Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops generative AI applications using LLMs,
+      RAG, and conversational AI, and owns guardrails ensuring AI
+      agents can safely act on patient care — directly shaping
+      model behaviour and output quality, so it is ai-first.
+      Classical ML tasks are secondary to the LLM/agent work.
+  responsibilities:
+  - Design, develop, deploy, and maintain AI/ML solutions including generative AI
+    applications using LLMs, RAG, and conversational AI
+  - 'Build the factory platform: merge gates, migration safety, canary and rollback
+    for a system where deploys can touch patient care'
+  - Own the guardrails layer ensuring AI agents and humans can safely act on patient
+    care with auditability and fail-closed checks
+  - Build and optimize ML models, predictive analytics, recommendation systems, and
+    intelligent automation tools
+  - Develop and maintain data pipelines and warehouse/analytics infrastructure for
+    model training, evaluation, and monitoring
+  - Monitor model performance and manage retraining, optimization, and lifecycle processes
+  - Ensure AI solutions meet security, privacy, compliance, and governance standards
+    including responsible AI practices
+  - Integrate AI/ML models into enterprise applications, workflows, and cloud environments
+  use_cases:
+  - Evidence-based health guidance and symptom triage (AskMD health app)
+  - Agentic engineering layer for AI agents and humans acting on patient care safely
+  - Predictive analytics and recommendation systems for healthcare business needs
+  - Intelligent automation of enterprise healthcare workflows
+  - Data warehouse, analytics, and pipelines for patient care and model monitoring
+  skills:
+    genai: [LLMs, RAG, Conversational AI, Generative AI, Guardrails, AI Agents]
+    ml: [Machine Learning, NLP, Predictive Analytics, Recommendation Systems]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, DevOps, CI/CD]
+    languages: []
+    domains: [NLP]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11897998'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:53:12.487641'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

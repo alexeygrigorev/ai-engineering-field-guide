@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML experiences
+position:
+  title: AI Engineer 4 (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: foundation model
+      training, LLM inference, agents and multi-agent workflows,
+      guardrails, and model evaluation. LLM components are
+      central, making it ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents and multi-agent workflows, guardrails, and
+    model evaluation
+  - Invent and apply foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems ensuring maintainability, observability,
+    and ethical alignment
+  - Define and maintain service-level objectives for AI reliability including latency,
+    uptime, and model performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate inference pipelines
+  - Lead cross-functional technical reviews for AI system deployments ensuring security,
+    governance, and compliance
+  - Contribute to the technical vision and roadmap of foundational AI systems
+  - Ment Principal and Senior Associates on scalable design and research-to-production
+    translation
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud and unusual charge detection notifications
+  - Real-time customer question answering
+  - Internal AI platforms empowering teams across the bank
+  - Scalable LLM inference and agent workflows in production
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails]
+    ml: [PyTorch, Hugging Face, Model Evaluation, Foundation Model Training, Similarity
+        Search, CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Monitoring, Distributed Systems]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12077305'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:50:34.904387'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

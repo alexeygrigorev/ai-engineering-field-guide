@@ -1,0 +1,58 @@
+company:
+  name: Vicoland GmbH
+  stage: Series A (€20 million round A financing)
+  focus: |-
+    AI-driven SaaS platform for virtual companies in
+    professional services
+position:
+  title: Lead Product Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: context engineering,
+      prompting, model selection, designing evals (LLM-as-judge),
+      tracing/observability, and building AI agents with RAG
+      pipelines. These are Step 1 shaping activities involving
+      LLMs and agents, so ai-first.
+  responsibilities:
+  - Lead, grow and enable a team of (forward deployed) engineers, including hiring
+    and coaching
+  - Own the technical direction and architecture across the stack from frontend to
+    infrastructure
+  - 'Stay hands-on: build features and prototypes end-to-end using AI-assisted development'
+  - Translate business needs into technical roadmaps with Business Development, Product
+    and stakeholders
+  - 'Ensure engineers work end-to-end: design, development, QA, deployment and monitoring
+    with quality gates'
+  - 'Improve AI-assisted engineering practices: context engineering, model selection,
+    evaluation, tracing and observability'
+  - Run architectural discussions, code reviews and retrospectives
+  - Act as sparring partner to the CPO and business leadership on technology strategy
+    and build-vs-buy decisions
+  use_cases:
+  - AI agents integrated into business workflows of a SaaS platform
+  - Virtual companies (Vicos) organizing freelancers, SMEs and AI agents through an
+    AI-driven platform
+  - Human-agentic interaction for professional services delivery
+  - AI-assisted software engineering practices across a product team
+  - End-to-end platform covering marketing, finance, legal and organization
+  skills:
+    genai: [LLMs, Embeddings, RAG, AI Agents, Context Engineering, Prompt Engineering,
+      LLM Evaluation, Claude Code, Cursor]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Observability, Tracing]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11951083'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:09:06.893045'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU hardware and AI computing platforms
+position:
+  title: Senior Compiler Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds compiler and runtime infrastructure (JaxPP)
+      that scales deep learning training across GPU clusters. The
+      deliverable is execution capacity and performance, not
+      shaping any model's behavior or output quality — pipeline
+      scheduling, sharding, and runtime dispatch are scaling
+      concerns on models others define. Per the serving/scaling
+      edge case, this is ai-support.
+  responsibilities:
+  - Design and implement program transformations on JAX programs (jaxpr) for large-scale
+    training, including pipeline schedules, task placement, sharding, and communication-computation
+    overlap
+  - Develop optimizing compilers and runtime execution frameworks for accelerating
+    deep learning training on large-scale distributed systems
+  - Compile a graph intermediate representation to target-specific code and build
+    the distributed runtime that dispatches per-stage programs to GPUs using communication
+    libraries such as NCCL
+  - Advance compiler technology for high-performance large-scale training workloads,
+    including mixture-of-experts models
+  - Collaborate with framework teams (JAX, XLA) and hardware architecture teams, and
+    integrate JaxPP into training frameworks like MaxText
+  - 'Maintain the open-source JaxPP project: compatibility with new JAX releases,
+    testing, and performance tracking'
+  - Work directly with engineers at partner companies to debug and tune large training
+    runs
+  use_cases:
+  - Distributed training of very large deep learning models on GPU clusters
+  - Pipeline parallelism for unmodified JAX training programs
+  - Efficient execution of mixture-of-experts model training
+  - Communication-computation overlap in large-scale training runs
+  - Compiler technology for the open-source deep learning community
+  skills:
+    genai: []
+    ml: [JAX, XLA, PyTorch, CUDA, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [C++, Python]
+    domains: []
+    other: [MPI, NCCL, MLIR, StableHLO, NVSHMEM, RDMA, Pipeline Parallelism, Megatron-LM,
+      MaxText, Compiler Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12026309'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:31:58.948727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

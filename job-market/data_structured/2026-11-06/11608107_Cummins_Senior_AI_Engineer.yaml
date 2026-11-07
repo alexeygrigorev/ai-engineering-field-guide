@@ -1,0 +1,56 @@
+company:
+  name: Cummins
+  stage: null
+  focus: Power solutions manufacturer building AI-enabled analytics
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM/GenAI solutions including
+      agentic workflows, RAG, prompt engineering, and guardrails,
+      directly shaping model behavior and output quality. LLM
+      components are clearly involved, so it is ai-first.
+  responsibilities:
+  - Design, build, validate, and deploy AI-enabled solutions converting operational,
+    product, engineering, and business data into recommendations and intelligent workflows
+  - Develop LLM applications, agentic workflows, and multi-agent systems using orchestration
+    frameworks
+  - Implement RAG, semantic search, and vector database architectures for knowledge
+    retrieval
+  - Build production-grade Python applications, REST APIs, and microservices
+  - Deploy AI workloads on Azure cloud services with Docker and Kubernetes
+  - Collaborate with product owners, data scientists, data engineers, architects,
+    and business stakeholders across the Analytics and AI portfolio
+  - Establish engineering standards, reusable frameworks, and best practices for AI
+    solution delivery
+  - Lead technical initiatives and mentor engineering teams
+  use_cases:
+  - Convert complex operating, product, engineering, and business data into practical
+    recommendations and intelligent workflows
+  - Enterprise knowledge retrieval via RAG, semantic search, and knowledge management
+    architectures
+  - Intelligent agent workflows and multi-agent orchestration for business processes
+  - Integration of AI capabilities into business applications and enterprise platforms
+  - Enterprise Copilots and conversational AI solutions
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Multi-Agent Systems, Prompt Engineering,
+      Guardrails, Agent Evaluation, RAG, Semantic Search, LangGraph, LangChain, LlamaIndex,
+      Hugging Face, Conversational AI, Fine-Tuning, Embeddings]
+    ml: [Feature Engineering, PyTorch, TensorFlow]
+    web: [REST APIs, Microservices, React, Angular]
+    databases: [Vector Databases, Neo4j, Knowledge Graphs]
+    data: [Databricks, Spark, Data Pipelines]
+    cloud: [Azure, Azure AI Services, Azure OpenAI, Azure Functions, AKS]
+    ops: [Docker, Kubernetes, MLOps, LLMOps, CI/CD, Git, Azure DevOps, Jenkins, MLflow]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11608107'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:19:40.713506'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

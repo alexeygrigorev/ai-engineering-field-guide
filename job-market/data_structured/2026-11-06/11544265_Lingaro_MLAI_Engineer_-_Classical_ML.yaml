@@ -1,0 +1,47 @@
+company:
+  name: Lingaro
+  stage: null
+  focus: End-to-end data services for global brands and enterprises
+position:
+  title: ML/AI Engineer - Classical ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds, deploys, and monitors classical ML models
+      (recommendation/ranking, gradient boosting) with no LLM or
+      agent component. The engineer shapes model behavior through
+      building and evaluating these models, making it ml-first.
+  responsibilities:
+  - Develop and maintain production ML pipelines using Python and Spark/PySpark
+  - Build, deploy, and support ML-based recommendation systems and ranking models
+  - Work with Databricks and Unity Catalog for data and ML workflows
+  - Use MLflow for experiment tracking and model lifecycle management
+  - Monitor model performance and identify data drift and model drift
+  - Implement model governance and production monitoring practices
+  - Work with SQL and structured data to support ML solutions
+  - Collaborate with data engineers, data scientists, and stakeholders
+  use_cases:
+  - Production recommendation systems
+  - Ranking and personalization models
+  - Model monitoring and drift detection
+  - Model lifecycle and governance in production
+  skills:
+    genai: []
+    ml: [XGBoost, LightGBM]
+    web: []
+    databases: [SQL, Unity Catalog, Star Schema, Data Warehousing]
+    data: [Spark, PySpark, Databricks]
+    cloud: []
+    ops: [MLflow, MLOps, Model Monitoring, Model Governance]
+    languages: []
+    domains: [Recommender Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11544265'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:08:44.304777'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

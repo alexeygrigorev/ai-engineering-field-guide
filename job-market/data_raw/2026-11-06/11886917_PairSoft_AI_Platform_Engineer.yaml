@@ -1,0 +1,185 @@
+job_id: 11886917
+title: AI Platform Engineer
+company: PairSoft
+location: Ahmedabad, IND
+work_type: FULL_TIME
+company_size: 111 Employees
+description: |
+  Job Title: AI Platform Engineer Location:  PAN India (
+  remote) Timings :11 am to 8pm Job Summary This is a hands-on
+  build role on a new team. PairSoft is standing up a central
+  AI services platform that will be consumed by every product
+  line in the portfolio. You will build the platform, not
+  maintain a legacy stack. You will make daily technical
+  decisions that shape how AI is delivered across the company,
+  and you will see your work in production, in front of real
+  customers, on a short cycle. You will work alongside two or
+  three other senior engineers on the founding platform team.
+  In the first three to six months you will focus on shipping
+  the v1 platform: model gateway, RAG-as-a-service, evals and
+  observability, guardrails, and cost tagging. You will help
+  migrate existing product AI features onto the platform and
+  harden the operational surface. Responsibilities / Essential
+  Functions Build
+
+  - Design, build, and operate services in the central AI
+    platform. Every service should have clear API contracts,
+    versioning, and SLOs from day one.
+  - Write production Python for AI services. Contribute to
+    shared libraries, SDKs, and integration patterns that
+    product teams will consume.
+  - Instrument everything: cost tagging per request, latency and
+    error metrics, quality signals, and audit logs. If it is
+    not measured, it is not shipped.
+  - Own on-call rotation for the AI platform services you build.
+    Author runbooks and improve them after every incident.
+
+  Partner
+
+  - Work directly with product engineering leads across the
+    product lines to onboard their AI features onto the
+    central platform.
+  - Provide technical support, integration guidance, and
+    troubleshooting to product teams consuming platform
+    services.
+  - Contribute to Architecture Decision Records. Push back on
+    decisions you disagree with; document tradeoffs.
+
+  Operate
+
+  - Set the operational bar: observability, alerting, incident
+    response, and post-incident reviews.
+  - Own vendor evaluation for tools in your area of
+    specialization. Run bakeoffs when the choice is not
+    obvious. Make cost, quality, and reliability tradeoffs
+    explicit.
+  - Contribute to the AI security posture: PII handling, tenant
+    isolation, prompt injection defense, and audit logging
+    within your services.
+
+  Applied AI & RAG Engineering
+
+  - The AI-forward end of the platform. You build the retrieval,
+    prompt, and guardrail systems that make LLM output good
+    enough to ship to customers.
+  - RAG-as-a-service platform: ingestion, chunking, embedding,
+    retrieval quality, and hybrid search.
+  - Prompt engineering at scale: templates, evaluation,
+    versioning, and per-tenant customization.
+  - Guardrails and content safety: input filtering, output
+    validation, PII redaction, tool-use sandboxing.
+  - Agent frameworks and tool-use patterns as agent workflows
+    move into production across product lines.
+  - Domain-specific fine-tuning experiments and quality
+    benchmarking.
+
+  Backend & Platform Engineering The foundation of the AI
+  platform. You own the model gateway, orchestration layer,
+  service mesh, and the data plumbing that ties everything
+  together.
+
+  - Multi-provider model gateway with routing, fallback, retry,
+    and rate-limit logic.
+  - Prompt registry, versioning, and rollout controls (canary,
+    feature flags).
+  - Shared libraries and SDKs for product-team consumption. API
+    contracts, versioning, deprecation strategy.
+  - Tenant isolation architecture: how customer data flows
+    through platform services safely.
+  - Cost attribution and budget enforcement at the gateway
+    layer.
+
+  MLOps/ LLMOps Engineering
+
+  The operational spine of the AI platform. You own how models
+  are deployed, observed, evaluated, and rolled back safely
+  across the portfolio.
+
+  - Observability platform: prompt and response tracing, cost
+    per request, quality signals, drift detection.
+  - Evaluation infrastructure: golden datasets, offline evals,
+    LLM-as-judge patterns, regression testing.
+  - Model deployment pipelines, including fine-tuned models
+    where applicable.
+  - Alerting and SLO framework for AI services. Distinct from
+    general engineering SLOs: quality regression is a first-
+    class alert.
+  - Fine-tuning and RLHF pipelines when product-specific tuning
+    becomes justified.
+
+  Requirements
+
+  - Bachelor's or Master's degree in Computer Science,
+    Engineering, or equivalent.
+  - 5+ years of professional software engineering experience
+    with a strong production track record.
+  - 6+ years building production distributed systems, ideally
+    including internal developer platforms or API gateways at
+    scale.
+  - 5+ years in MLOps, LLMOps, ML platform engineering, or a
+    hybrid DevOps plus ML role at production scale.
+  - Hands on experience with observability tools for LLM
+    systems: LangSmith, Langfuse, Braintrust, Arize, or
+    comparable.
+  - Working knowledge of evaluation methodology for LLM systems:
+    benchmark design, LLM-as-judge, human review workflows
+  - Working fluency in the modern LLM ecosystem: OpenAI or
+    Anthropic APIs, at least one orchestration framework
+    (LangChain, LlamaIndex, or equivalent), at least one
+    vector database, at least one observability tool.
+  - 2+ years of hands-on production experience with LLM-based
+    systems: prompt engineering, RAG, evaluation, or LLM
+    infrastructure.
+  - Strong Python and one of Go or Java. Comfortable with async
+    patterns, backpressure, and rate limiting. Comfortable
+    writing production code, not just notebooks or scripts.
+  - Experience designing multi-tenant systems with hard
+    isolation guarantees.
+  - Cloud-native depth on Azure or AWS: Kubernetes, service
+    mesh, IaC (Terraform), CI/CD.
+  - Experience shipping model updates safely in production:
+    canaries, shadow evaluation, rollback triggers.
+  - Comfort with the full ML lifecycle: training pipelines,
+    serving infra, monitoring, and cost management.
+  - Strong grasp of AI security fundamentals: PII handling,
+    tenant isolation, prompt injection basics.
+  - Ability to communicate technical decisions clearly in async
+    writing. This role is distributed across time zones and
+    cannot be run on synchronous meetings alone.
+  - Fluent English language skills
+
+  Preferred Qualifications
+
+  - Domain experience in procure-to-pay, ERP integration,
+    accounts payable, procurement, or adjacent finance and
+    operations software.
+  - Experience at a product company or PE-backed B2B SaaS,
+    ideally on an internal platform team.
+  - Contributions to open-source AI/ML infrastructure projects.
+  - Experience with agent frameworks (LangGraph, AutoGen,
+    CrewAI, or custom orchestration) in production.
+  - Prior experience on a founding platform team where you
+    shipped v1 of a service used by multiple internal
+    customers.
+
+  Work and Physical Requirements This position may work from
+  home and/or office environment. Working in an office
+  environment may require prolonged sitting, work in an air-
+  conditioned environment, ability to work with others at
+  various noise levels and ability to lift up to 30 pounds or
+  15 kg. Other Duties This job description is not intended to
+  be a complete list of responsibilities. Other duties may be
+  assigned by management that may reasonably fit in the scope
+  of job. Equal Employment Opportunity Statement PairSoft is
+  an equal opportunity employer. All aspects of employment
+  including the decision to hire, promote, discipline, or
+  discharge, will be based on merit, competence, performance,
+  and business needs. We do not discriminate on the basis of
+  race, color, religion, marital status, age, national origin,
+  ancestry, physical or mental disability, medical condition,
+  pregnancy, genetic information, gender, sexual orientation,
+  gender identity or expression, veteran status, or any other
+  status protected under federal, state, or local law.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-platform-engineer/11886917"
+source: Built In

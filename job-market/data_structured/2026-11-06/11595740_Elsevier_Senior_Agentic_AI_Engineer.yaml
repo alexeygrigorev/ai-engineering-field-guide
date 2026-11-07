@@ -1,0 +1,48 @@
+company:
+  name: Elsevier
+  stage: null
+  focus: Scientific publishing, information and analytics
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "Agentic AI Engineer" title, the
+      responsibilities are generic software engineering on cloud-
+      hosted distributed services; agentic development is
+      something the hire "wants to learn," and AI appears only as
+      coding assistants listed as desirable. The role shapes no
+      model behaviour itself.
+  responsibilities:
+  - Design, develop, and deploy applications in a cloud-hosted distributed system
+    for the next-generation Submission product
+  - Collaborate with business stakeholders to identify requirements and gather feedback
+  - Provide input into architectural decisions to ensure stability and performance
+  - Identify and implement enhancements to improve the delivery process
+  - Partner with cross-functional Agile and DevOps implementation teams
+  - Support Document Intelligence services that transform unstructured manuscripts
+    into structured data
+  use_cases:
+  - Document Intelligence for scientific manuscript understanding at scale
+  - Document transformation, metadata extraction, content enrichment, and entity recognition
+  - Automating manual submission and editorial processes
+  - Enabling content discovery and AI-driven features in the Submission portfolio
+  skills:
+    languages: [Java, Python]
+    domains: []
+    web: [Spring Boot, Microservices]
+    cloud: [AWS]
+    data: [Kafka]
+    ml: []
+    databases: []
+    genai: [GitHub Copilot, Anthropic API, Codex]
+    ops: [Git, DevOps]
+    other: [Jira, Agile, IntelliJ, VS Code, Mockito, Confluence, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11595740'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:18:16.707887'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

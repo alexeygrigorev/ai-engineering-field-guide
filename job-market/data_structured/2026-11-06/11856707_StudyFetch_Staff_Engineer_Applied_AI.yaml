@@ -1,0 +1,45 @@
+company:
+  name: StudyFetch
+  stage: null
+  focus: AI-native personalized learning platform for students
+position:
+  title: Staff Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns prompt and eval pipelines, retrieval/RAG, and
+      agent workflows for LLM features in production, which is
+      directly shaping model behavior and output quality. LLMs and
+      agents are central, so it is ai-first.
+  responsibilities:
+  - Own product surfaces end to end, from architecture to production and on-call
+  - Build and ship AI and LLM features in the live product, including prompt and eval
+    pipelines
+  - Design retrieval, RAG, and agent workflows while managing latency, cost, and model
+    behavior at scale
+  - Do full-stack development across web and mobile
+  - Set engineering patterns and standards for the team
+  use_cases:
+  - Personalized AI-powered learning for students
+  - Adaptive courses matching learner pace and level
+  - Learner progression from understanding to mastery via the Learn Engine
+  - Workforce learning platform for organizations (Honen)
+  skills:
+    genai: [LLMs, Prompt Engineering, LLM Evaluation, RAG, AI Agents]
+    ml: []
+    web: [Next.js, React, Tailwind, Node.js, Express, REST APIs, React Native]
+    databases: [MongoDB, PostgreSQL, Vector Databases]
+    data: []
+    cloud: [Serverless, GCP, Cloudflare, Vercel]
+    ops: [Kubernetes, vLLM]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11856707'
+  location: Beverly Hills, USA
+  extracted_at: '2026-11-06T13:24:26.181814'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

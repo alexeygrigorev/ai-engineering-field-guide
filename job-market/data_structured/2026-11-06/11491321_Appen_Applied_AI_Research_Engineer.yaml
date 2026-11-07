@@ -1,0 +1,53 @@
+company:
+  name: Appen
+  stage: null
+  focus: AI training data and model evaluation services
+position:
+  title: Applied AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM pipelines, agentic systems, eval
+      harnesses, and runs fine-tuning experiments that shape model
+      behavior and output quality, with LLM/agent components
+      clearly present. Customer-facing engagement context
+      (Frontier labs, customer trials) supports forward-deployed-
+      style AI work.
+  responsibilities:
+  - Build reinforcement learning and agent environments with task specifications,
+    scoring, and evaluation
+  - Develop benchmarks and evaluation harnesses measuring accuracy, robustness, safety,
+    latency, and cost
+  - Build LLM pipelines and agentic systems for research, evaluation, and customer
+    trials
+  - Run fine-tuning, adapter, and model experiments to evaluate data and method impact
+    on model behavior
+  - Deploy local or self-hosted models for evaluation, inference, and automation workflows
+  - Document experiments, configurations, and results for reproducibility
+  - Partner with GenAI Research team to turn technical work into reusable customer
+    assets
+  use_cases:
+  - Agent and RL environments for frontier lab and customer use cases
+  - Model evaluation benchmarks and harnesses
+  - LLM research pipelines and customer trials
+  - Fine-tuning experiments to study data and method effects on model behavior
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs]
+    ml: [Reinforcement Learning, Fine-Tuning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11491321'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:58:58.436297'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

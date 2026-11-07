@@ -1,0 +1,66 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops AI software including agents,
+      multi-agent workflows, guardrails, model evaluation, and LLM
+      inference optimization - clearly shaping model behavior and
+      output quality with LLM/agent components. Foundation model
+      optimization (quantization, distillation-class work) on
+      generative models also points to ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, multi-agent workflows, guardrails, and model
+    evaluation
+  - Invent and apply foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Own the design and integration of model routing, caching, and orchestration systems
+    for hybrid multi-model workloads
+  - Set technical direction for enterprise-wide AI architecture, unifying tooling,
+    observability, and deployment standards
+  - Champion responsible AI principles - transparency, reproducibility, fairness-by-design
+    - in system design
+  - Drive internal education, mentorship, and best-practice dissemination through
+    architecture councils and AI guilds
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - AI-powered products changing how associates work and customers interact with the
+    bank
+  - Real-time, personalized banking customer experiences
+  - Informing customers about unusual charges and answering questions in real time
+  - Enterprise AI platform enabling teams across Capital One to add AI to products
+  - Scalable, high-performance LLM inference and orchestration infrastructure
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, Guardrails]
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, CUDA]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11358937'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:35:42.586175'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

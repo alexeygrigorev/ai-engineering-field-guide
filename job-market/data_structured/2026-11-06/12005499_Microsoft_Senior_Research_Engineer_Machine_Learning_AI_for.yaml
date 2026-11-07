@@ -1,0 +1,60 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Software and cloud computing; AI for science research
+position:
+  title: Senior Research Engineer Machine Learning, AI for Science
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes developing agentic workflows to
+      automate model development, training, and evaluation, and
+      requires experience designing agentic frameworks and AI
+      agent orchestration. Designing agent flows is shaping
+      behaviour, and any agent/LLM component makes it ai-first,
+      even though the bulk of the work is infrastructure for a
+      classical scientific ML model (deep learning DFT). A role
+      shaping both LLM-agent and classical ML systems is ai-first.
+  responsibilities:
+  - Develop and maintain scalable infrastructure for large-scale machine learning
+    training, evaluation, and benchmarking
+  - Architect and implement large-scale data pipelines for heterogeneous scientific
+    data
+  - Build and optimize distributed data processing, model training, evaluation, and
+    benchmarking pipelines
+  - Develop software and agentic workflows to automate model development, training,
+    evaluation, and benchmarking
+  - Continuously monitor and improve the stability of data, training, evaluation,
+    and benchmarking workflows
+  - Work cross-functionally with machine learning researchers and natural science
+    researchers
+  use_cases:
+  - Electronic structure prediction of molecules and materials using deep learning-powered
+    DFT
+  - Predictive modeling for chemistry and materials science
+  - Automating machine learning model development and benchmarking via agentic workflows
+  - Large-scale scientific data processing and distributed model training
+  skills:
+    genai: [Agentic Workflows, AI Agents]
+    ml: [PyTorch, JAX, Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Platforms]
+    ops: [Distributed Systems, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005499'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  - Amsterdam, NLD
+  - Cambridge, GBR
+  extracted_at: '2026-11-06T14:25:51.004179'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

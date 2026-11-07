@@ -1,0 +1,55 @@
+company:
+  name: American Express Global Business Travel
+  stage: null
+  focus: Corporate travel and business travel services
+position:
+  title: Senior Security GRC Engineer, AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes and deploys LLM-based solutions (control
+      testing, evidence review, policy mapping, risk narrative
+      generation) and builds guardrails, testing, and quality
+      controls for AI-assisted outputs, which is directly shaping
+      LLM behavior and output quality.
+  responsibilities:
+  - Design, build, and maintain automation pipelines that collect, normalize, and
+    validate compliance and control evidence across security and business systems
+  - Prototype and deploy LLM-based solutions to accelerate GRC workflows including
+    control testing, evidence review, policy mapping, and risk narrative generation
+  - Integrate GRC platforms (Onspring, Archer, MetricStream) with security and IT
+    systems via APIs for automated data flows, dashboards, and reporting
+  - Develop scripts, bots, and workflow tools that automate recurring GRC tasks such
+    as evidence gathering and audit preparation
+  - Establish guardrails, testing, and quality controls to ensure AI-assisted outputs
+    are accurate, explainable, and compliant
+  - Monitor and report on performance, reliability, and risk posture of automation
+    and AI tools within the GRC program
+  - Partner with analysts and program managers to re-engineer manual processes into
+    scalable automated solutions
+  use_cases:
+  - Automated compliance evidence collection and validation
+  - AI-assisted control testing and evidence review
+  - Policy mapping and risk narrative generation
+  - Audit preparation automation
+  - Automated GRC reporting and dashboards
+  skills:
+    genai: [LLMs, Generative AI, Guardrails]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: [Workflow Automation]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [GRC, NIST, ISO 27001, SOC 2, GDPR, PCI DSS, Onspring, Archer, MetricStream]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12101241'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:01:13.175704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

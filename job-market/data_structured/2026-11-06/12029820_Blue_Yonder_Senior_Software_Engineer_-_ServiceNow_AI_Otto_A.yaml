@@ -1,0 +1,53 @@
+company:
+  name: Blue Yonder
+  stage: null
+  focus: Supply chain and retail software solutions
+position:
+  title: Senior Software Engineer - ServiceNow AI, Otto & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements and designs ServiceNow AI capabilities
+      including AI Agents, Virtual Agent, Now Assist, and Otto,
+      designing intelligent workflows and defining AI use cases -
+      shaping agent behavior and output rather than just consuming
+      an API. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Lead implementation of ServiceNow AI and automation capabilities including Otto,
+    Now Assist, Virtual Agent, Predictive Intelligence, and AI Agents
+  - Design intelligent workflows and AI-powered employee experiences
+  - Identify automation opportunities across IT, HR, and enterprise services
+  - Provide technical leadership and mentoring for ServiceNow development teams
+  - Partner with stakeholders to define AI use cases, business value, and adoption
+    strategies
+  - Ensure AI solutions comply with governance, security, and responsible AI practices
+  - Support platform upgrades and adoption of new ServiceNow AI capabilities
+  use_cases:
+  - IT service management automation
+  - HR and enterprise services automation
+  - AI-powered employee self-service and virtual agent experiences
+  - Intelligent enterprise workflow automation
+  - Predictive intelligence for service requests
+  skills:
+    genai: [AI Agents, Conversational AI, Generative AI, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript]
+    domains: []
+    other: [ServiceNow, Glide API, Flow Designer, IntegrationHub, Predictive Intelligence,
+      Virtual Agent, Now Assist, Otto, AI Control Tower, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12029820'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:34:17.888446'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

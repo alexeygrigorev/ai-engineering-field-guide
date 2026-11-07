@@ -1,0 +1,49 @@
+company:
+  name: MRI Software
+  stage: null
+  focus: Real estate (PropTech) software
+position:
+  title: AI Software Engineer III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM agent behavior: designing
+      multi-agent orchestration in LangGraph, authoring MCP
+      servers, architecting RAG systems, and building agent
+      evaluation/observability. This is clearly ai-first.
+  responsibilities:
+  - Design and implement multi-agent orchestration using LangGraph (state, checkpointing,
+    human-in-the-loop)
+  - Author MCP servers including tool schemas, auth, error contracts, and versioning
+  - Architect RAG systems covering retrieval strategy, reranking, hybrid search, and
+    evaluation
+  - Build and maintain the agent evaluation and observability stack
+  - Deploy and operate agents on Azure Foundry Agent Service and Azure Functions
+  - Establish agentic patterns and reference implementations for the team
+  - Mentor junior engineers and lead technical design reviews
+  use_cases:
+  - Multi-agent orchestration platform (Agora Orchestrator) for real estate workflows
+  - RAG-based retrieval over real estate content with hybrid search and reranking
+  - Tool-calling agents via MCP servers with auth and versioning
+  - Agent evaluation and observability with tracing and cost telemetry
+  - Human-in-the-loop agent workflows deployed on Azure
+  skills:
+    genai: [LangGraph, MCP, Multi-Agent Systems, Agentic Workflows, LangChain, RAG,
+      Prompt Engineering, LLM Evaluation, LLMs, Semantic Search, Embeddings]
+    ml: [PyTorch, Transformers, sentence-transformers, scikit-learn, NumPy, Pandas]
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Azure Functions]
+    ops: [LangSmith, Promptfoo, App Insights, Monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Okta, OAuth, JWT, Multi-Tenant SaaS, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11499771'
+  location: Vadodara, IND
+  extracted_at: '2026-11-06T12:00:07.647943'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

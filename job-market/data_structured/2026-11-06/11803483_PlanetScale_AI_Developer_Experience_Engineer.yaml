@@ -1,0 +1,56 @@
+company:
+  name: PlanetScale
+  stage: profitable
+  focus: Managed MySQL/Postgres database platform for developers
+position:
+  title: AI Developer Experience Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent behaviour directly: it improves tool
+      descriptions, agent skills, llms.txt, and error messages
+      agents act on, and builds evals and benchmarks that run real
+      agent tasks. This is designing agent context and evaluating
+      model/agent output quality, which is shaping an LLM/agent
+      component.
+  responsibilities:
+  - Build and maintain PlanetScale plugins across AI marketplaces, MCP directories,
+    agent plugins, and IDE extension stores
+  - Own integrations with AI coding tools, agent frameworks, and platforms
+  - Test the PlanetScale MCP server and CLI across Claude Code, Cursor, Codex, VS
+    Code and other clients, catching regressions
+  - 'Improve the context agents rely on: tool descriptions, skills, llms.txt, agent-oriented
+    docs, and actionable error messages'
+  - Build evals and benchmarks running real agent tasks against PlanetScale databases
+  - 'Instrument and report on agent usage: databases created by agents, time to first
+    connection, MCP vs CLI usage, session failures'
+  - Track how often AI assistants recommend PlanetScale and whether their statements
+    are accurate (AEO)
+  - Create demos, sample apps, docs, blog posts, videos, and conference talks on building
+    with AI and databases
+  use_cases:
+  - Agent-driven database creation, connection, migrations, and query debugging
+  - MCP server and CLI integration with AI coding agents
+  - Evaluating and benchmarking agent performance against databases
+  - Answer engine optimization so agents find and recommend PlanetScale
+  - Developer education on using databases safely and effectively with AI
+  skills:
+    genai: [MCP, AI Agents, Claude Code, Cursor, Codex, LLM Evaluation]
+    ml: []
+    web: [APIs, OAuth]
+    databases: [PostgreSQL, MySQL, Relational Databases, SQLite, Vitess]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [TypeScript, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11803483'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:14:49.701268'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

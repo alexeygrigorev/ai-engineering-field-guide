@@ -1,0 +1,53 @@
+company:
+  name: NTT DATA
+  stage: null
+  focus: |-
+    Business and technology services, enterprise AI and cloud
+    infrastructure
+position:
+  title: Associate Engineer - AI services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an entry-level software engineer; ML/AI is only
+      mentioned as running ML/AI algorithms on telemetry data,
+      with no prompt design, RAG, training, or eval work shaping
+      model behaviour. The person builds microservices and
+      consumes AI/ML components others design.
+  responsibilities:
+  - Assist with designing, developing, and testing software systems and modules for
+    new products and enhancements
+  - Write, test, and refactor code, and review code written by other developers
+  - Assist with execution of automated testing and participate in software deployment
+  - Design and develop functionality in a microservices environment working with APIs
+    and telemetry data
+  - Run ML/AI algorithms on structured and unstructured data
+  - Build and debug large-scale distributed systems following detailed instructions
+  - Support integration of solutions through automation and coding using 3rd party
+    software
+  - Write and maintain technical documentation and operational procedures
+  use_cases:
+  - Cloud-based and internet-related software tools and products
+  - Microservices-based software development with APIs and telemetry data
+  - Running ML/AI algorithms on structured and unstructured data
+  - Large-scale distributed systems for multi-vendor infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, APIs, REST APIs]
+    databases: [Elasticsearch, MongoDB, Cassandra, NoSQL]
+    data: [Large Data Sets]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, LXC/LXD, CI/CD, DevOps, Continuous Delivery, Distributed
+        Systems]
+    languages: [C++, C, C#, Java, JavaScript, Python, Node.js, SQL]
+    domains: []
+    other: [Microsoft Office 365, Agile, Test-Driven Development, Lean]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11569909'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:13:15.714492'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Scope Labs
+  stage: null
+  focus: Software product development and AI consulting
+position:
+  title: AI Engineer - NY
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-based applications, agents,
+      RAG, fine-tuning, evals, and orchestration for customers —
+      clearly shaping model behaviour, with LLM/agent components
+      throughout. Customer-embedded forward-deployed style work is
+      still ai-first.
+  responsibilities:
+  - Own the full technical customer lifecycle from deployment through activation and
+    ongoing utilization
+  - Identify and champion high-impact AI use cases with startup customer engineering
+    teams
+  - Ship AI integrations into customer production environments
+  - Design and prototype AI workflows and systems end-to-end
+  - Bring field insights, patterns, and friction points back to internal Product and
+    Engineering teams
+  use_cases:
+  - AI systems powering startup customer products
+  - LLM-based applications and agent pipelines for customer workflows
+  - AI integrations that accelerate customer engineering workflows
+  - Autonomous coding tools in production
+  skills:
+    genai: [LLMs, AI Agents, RAG, Fine-Tuning, LLM Evaluation, MCP, Model APIs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11503845'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:02:11.827702'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

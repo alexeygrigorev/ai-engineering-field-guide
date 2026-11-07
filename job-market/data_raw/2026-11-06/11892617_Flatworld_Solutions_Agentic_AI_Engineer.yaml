@@ -1,0 +1,227 @@
+job_id: 11892617
+title: Agentic AI Engineer
+company: Flatworld Solutions
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 4,049 Employees
+description: |
+  Key Responsibilities
+
+  A. Agent Design & Development
+
+  • Design and build AI agents that plan and execute multi-
+  step tasks using tool calling, structured outputs,
+
+  and state management.
+
+  • Build multi-agent systems — orchestrator/worker,
+  planner/executor, and review patterns — and decide
+
+  when a single agent is the better choice.
+
+  • Translate business processes from BA and solution
+  documents into agent workflows with clear goals,
+
+  steps, decision points, and exit conditions.
+
+  • Design agent memory and context: conversation state, long-
+  running task state, and retrieval of relevant
+
+  knowledge at each step.
+
+  B. Tools, Integrations & MCP
+
+  • Build and maintain the tools agents use — API connectors,
+  database queries, document actions, and
+
+  browser or desktop automation where no API exists.
+
+  • Develop Model Context Protocol (MCP) servers that expose
+  client systems to agents in a secure, reusable
+
+  way.
+
+  • Integrate agents with enterprise platforms such as
+  Salesforce, ServiceNow, SAP, Microsoft 365, Google
+
+  Workspace, and telephony systems.
+
+  • Write clear tool descriptions, input schemas, and error
+  messages so agents use tools correctly and recover
+
+  when a call fails.
+
+  C. Reliability, Safety & Evaluation
+
+  • Build evaluation suites for agent behaviour: task success
+  rate, tool-selection accuracy, step count, cost per
+
+  task, and failure analysis on real traces.
+
+  • Design human-in-the-loop checkpoints for high-impact
+  actions — approvals, escalations, and handoff to
+
+  human agents.
+
+  • Enforce guardrails: least-privilege tool access, prompt
+  injection defences, action limits, timeouts, and safe
+
+  fallbacks.
+
+  • Instrument full traceability — log every model call, tool
+  call, and decision so any agent run can be replayed
+
+  and audited.
+
+  • Control cost and latency through model routing, caching,
+  context management, and limits on runaway
+
+  loops.
+
+  D. Deployment & Collaboration
+
+  • Deploy agents as reliable services — containerised,
+  observable, with queueing and retry handling for
+  longrunning tasks.
+
+  • Prepare demo-ready agent workflows for client pitches,
+  working with the AI Solutions Lead on scenarios
+
+  that show clear business value.
+
+  • Contribute reusable agent templates, tool libraries, and
+  MCP connectors to Flatworld's AI accelerator
+
+  library.
+
+  • Document agent architecture, tool inventories,
+  permissions, and known limitations for every build.
+
+  Requirements
+
+  Mandatory Technical Requirements
+
+  The following are non-negotiable for this role:
+
+  • Python: Strong production-grade Python — clean, typed,
+  tested code; async programming; API
+
+  integration. [MANDATORY]
+
+  • LLM Tool Calling: Hands-on experience building
+  applications with LLM tool/function calling and structured
+
+  outputs on at least one major API (Anthropic, OpenAI,
+  Google, or Azure OpenAI). [MANDATORY]
+
+  • Agent Frameworks: Built at least one working agent with
+  LangGraph, CrewAI, AutoGen, OpenAI Agents
+
+  SDK, Claude Agent SDK, or a well-structured custom
+  orchestration loop. [MANDATORY]
+
+  • System Integration: Experience integrating with REST APIs,
+  webhooks, and authentication schemes
+
+  (OAuth, API keys, service accounts). [MANDATORY]
+
+  • Agent Evaluation & Tracing: Practice of testing agent
+  behaviour with scenario-based test sets and
+
+  inspecting execution traces — not just manual trial runs.
+  [MANDATORY]
+
+  • Deployment: Ability to containerise with Docker and deploy
+  services to a cloud platform; proficiency with
+
+  Git. [MANDATORY]
+
+  Strongly Preferred
+
+  • Model Context Protocol (MCP): Building or deploying MCP
+  servers and clients.
+
+  • RAG: Retrieval pipelines and vector databases (Pinecone,
+  Qdrant, Chroma, or pgvector) used as agent
+
+  knowledge sources.
+
+  • Observability: Agent tracing and evaluation tools such as
+  LangSmith, Langfuse, Arize Phoenix, or
+
+  OpenTelemetry.
+
+  • Workflow & Queues: Durable workflow or task-queue tools
+  (Temporal, Celery, Redis, or cloud-native
+
+  equivalents) for long-running agent tasks.
+
+  • Cloud Agent Platforms: AWS Bedrock Agents, Azure AI
+  Foundry Agent Service, or Google Vertex AI Agent
+
+  Builder.
+
+  Advantageous
+
+  Not required, but a clear differentiator for this role:
+
+  • Voice agents — real-time speech-to-text, text-to-speech,
+  and telephony integration for contact centre
+
+  automation.
+
+  • Browser or computer-use agents (Playwright, Selenium, or
+  model-native computer use) for systems
+
+  without APIs.
+
+  • Background in RPA (UiPath, Automation Anywhere, Power
+  Automate) and moving rule-based bots to
+
+  Agentic workflows.
+
+  • Experience with enterprise platforms such as SAP, IBM
+  Maximo, or ServiceNow.
+
+  • Awareness of data protection requirements (GDPR, HIPAA,
+  India's DPDP Act) as they apply to autonomous
+
+  systems.
+
+  Benefits
+
+  What We Offer
+
+  • Work at the front of applied AI — building agents that
+  automate real enterprise processes, not just chat
+
+  interfaces.
+
+  • Variety across industries and systems, with a direct line
+  from your build to a client decision.
+
+  • Access to current commercial and open-weight models and
+  freedom to choose the right framework for
+
+  each problem.
+
+  • Mentorship from the AI Solutions Lead and AI Solution
+  Architect, with exposure to pre-sales and solution
+
+  design.
+
+  • Learning budget for AI upskilling, conferences, and cloud
+  certifications.
+
+  • Competitive compensation with a clear path toward Senior
+  Agentic AI Engineer or AI Solution Architect
+
+  tracks
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/agentic-ai-engineer/11892617"
+source: Built In

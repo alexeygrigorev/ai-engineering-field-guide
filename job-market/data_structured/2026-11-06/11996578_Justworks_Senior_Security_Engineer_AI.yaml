@@ -1,0 +1,54 @@
+company:
+  name: Justworks
+  stage: null
+  focus: HR and payroll SaaS platform for small businesses
+position:
+  title: Senior Security Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements guardrails and security
+      controls specifically for AI systems, evaluates AI threats,
+      and works hands-on with AI frameworks like
+      LangChain/LangGraph and MCP — building guardrails is
+      explicitly shaping model behavior, so it is ai-first. The
+      security oversight alone would be ai-support, but the
+      guardrail and control implementation makes this shaping.
+  responsibilities:
+  - Research AI threat landscape, vulnerabilities, and remediations
+  - Evaluate and govern AI tools and AI system security controls
+  - Design AI security architecture and design standards across applications and infrastructure
+  - Implement AI security capabilities in AWS and corporate environments
+  - Provide AI security guidance to product managers, engineers, and corporate IT
+  - Participate in AI R&D and new AI initiatives to embed security controls pre-production
+  - Build AI security control requirements with engineering and risk teams
+  - Assist Cyber Defense Operations with AI-related security incident triage
+  - Champion AI adoption within Digital Security for security operations and risk
+    management
+  use_cases:
+  - AI system security governance and threat evaluation
+  - Guardrails protecting data against AI-specific threats
+  - AI security controls in AWS production and corporate environments
+  - Secure AI adoption including coding assistants and AI model hosting
+  - Security incident triage for AI systems
+  skills:
+    genai: [LangChain, LangGraph, MCP, Agent-to-Agent Protocol, Guardrails, Claude
+        Code, Cursor]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [AI Model Hosting, Monitoring, DevSecOps, DevOps, Threat Modeling, Vulnerability
+        Management]
+    languages: [Ruby on Rails, JavaScript, Go, Python]
+    domains: []
+    other: [Secure-SDLC, Security Architecture, Linux, CISSP, Jira, Scripting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11996578'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:21:17.407456'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

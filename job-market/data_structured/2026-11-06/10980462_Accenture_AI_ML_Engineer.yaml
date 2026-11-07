@@ -1,0 +1,47 @@
+company:
+  name: Accenture
+  stage: null
+  focus: Global professional services in technology and consulting
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops conversational agents and applies GenAI
+      models as part of solutions, shaping model behavior via
+      conversational AI design. LLM/generative components are
+      involved, so it is ai-first.
+  responsibilities:
+  - Design and build AI-driven applications and systems leveraging cloud AI services
+  - Apply generative AI models as part of solutions
+  - Integrate cloud-based or on-premises pipelines for production-ready, scalable
+    solutions
+  - Develop and optimize chatbots and conversational agents
+  - Lead development and deployment of AI applications aligned with organizational
+    objectives
+  - Mentor junior team members and contribute to key decisions across teams
+  - Evaluate emerging AI technologies and recommend adoption
+  use_cases:
+  - Chatbots and conversational agents
+  - Generative AI solutions
+  - Image processing applications
+  - Production AI application pipelines
+  skills:
+    genai: [Conversational AI, Generative AI]
+    ml: [Deep Learning, Neural Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud AI Services]
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: [Image Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10980462'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:23:38.655054'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

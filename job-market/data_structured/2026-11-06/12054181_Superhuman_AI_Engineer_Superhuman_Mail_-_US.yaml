@@ -1,0 +1,51 @@
+company:
+  name: Superhuman
+  stage: null
+  focus: AI productivity platform with email and assistant products
+position:
+  title: AI Engineer (Superhuman Mail) - US
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds MCP tools, agentic workflows, LLM evals, and
+      model selection for Superhuman Mail, directly shaping
+      LLM/agent behavior. This is clearly ai-first.
+  responsibilities:
+  - Build and evolve Superhuman Mail's MCP layer with new tools and standards for
+    agents
+  - Design and ship agentic workflows and personalization features at scale
+  - Build evaluation systems to measure LLM quality and catch regressions
+  - Choose and evaluate models across OpenAI, Anthropic, and open source providers
+  - Provide AI building blocks for teams across Superhuman
+  - Shape modeling approach including data collection and generation
+  use_cases:
+  - Intelligent email inbox management
+  - Agents taking real actions across user tools via MCP
+  - Personalized AI assistance in Mail
+  - Ask AI features routing across multiple models
+  - Model evaluation and quality regression detection
+  skills:
+    genai: [MCP, Agentic Workflows, LLMs, LLM Evaluation, Prompt Engineering, OpenAI
+        API, Anthropic API]
+    ml: [Machine Learning]
+    web: []
+    databases: [PostgreSQL, Redis, TurboPuffer]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12054181'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T14:41:48.383670'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

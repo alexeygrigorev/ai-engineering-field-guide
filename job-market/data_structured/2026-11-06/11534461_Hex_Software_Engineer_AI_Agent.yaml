@@ -1,0 +1,50 @@
+company:
+  name: Hex
+  stage: null
+  focus: |-
+    Data and analytics platform with AI-powered natural language
+    exploration
+position:
+  title: Software Engineer, AI Agent
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role partners with the Research team on context and
+      model prompting and builds agent infrastructure for data
+      agents, shaping LLM/agent behavior directly. This is
+      LLM/agent work, so ai-first.
+  responsibilities:
+  - Build AI-powered Magic AI features into the Hex platform
+  - Partner with the Research team on context and model prompting
+  - Integrate AI features with the rest of the product engineering teams
+  - Own scalable agent infrastructure powering data agents
+  - Build experimentation tooling for rapid AI feature delivery
+  - Develop high-quality, performant frontend and backend experiences
+  - Lead product initiatives and mentor fellow engineers
+  use_cases:
+  - AI-augmented analytics workflows
+  - Natural-language data exploration with or without code
+  - Agent-powered data analysis features
+  - Experimentation tooling for rapid AI feature development
+  skills:
+    genai: [AI Agents]
+    ml: [Model Evaluation]
+    web: [React, GraphQL, Node.js, Express]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, CI/CD, Terraform, Helm]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Redux]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11534461'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:06:59.174585'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

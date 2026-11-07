@@ -1,0 +1,45 @@
+company:
+  name: Acuiti Labs
+  stage: null
+  focus: SAP consulting and digital transformation solutions
+position:
+  title: Software Engineer – AI (Python & Java)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      RAG pipelines, LLM orchestration, building AI agents, and
+      memory/retrieval design. LLM involvement makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI/LLM-powered applications and intelligent workflows
+  - Build and integrate AI agents with enterprise APIs and business applications
+  - Develop scalable backend services using Python and Java
+  - Implement memory, retrieval, and vector database solutions for AI applications
+  - Work on prompt engineering, RAG pipelines, and LLM orchestration frameworks
+  - Optimize AI model performance, scalability, security, and reliability
+  - Conduct testing, debugging, and continuous improvement of AI systems
+  use_cases:
+  - AI-powered enterprise applications and intelligent workflows
+  - AI agents integrated with enterprise APIs and business applications
+  - LLM orchestration with RAG and vector-based retrieval
+  - Digital transformation for subscription and consumption-based business models
+  skills:
+    genai: [LLMs, LangChain, LangGraph, AutoGen, LlamaIndex, Prompt Engineering, RAG,
+      AI Agents, Function Calling, Embeddings, Generative AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, FAISS, Pinecone, Chroma, pgvector]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLOps, LLMOps]
+    languages: [Python, Java]
+    domains: []
+    other: [SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11457409'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:53:30.666479'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductors; robotics and Physical AI software
+position:
+  title: Robotics and Physical AI Developer Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a developer relations role supporting communities
+      around Intel's robotics and Physical AI software. The
+      engineer builds samples, tutorials, and community engagement
+      but does not shape model behavior through prompts,
+      retrieval, training, or evals. AI/ML frameworks (PyTorch,
+      OpenVINO) are tools they help developers use, not systems
+      they shape.
+  responsibilities:
+  - Build, moderate, and grow Intel's robotics and Physical AI developer communities
+    across GitHub, Discord, Reddit, and ROS communities
+  - Answer technical questions and troubleshoot issues for developers daily
+  - Develop sample applications, tutorials, demos, and reference implementations using
+    Robotics AI Suite and Physical AI Toolkit
+  - Create technical content such as blog posts, walkthroughs, videos, workshops,
+    and hands-on labs
+  - Collect, prioritize, and communicate developer feedback to product and engineering
+    teams
+  - Identify friction points in onboarding, documentation, tooling, and deployment
+    workflows and drive developer experience improvements
+  - Serve as the technical voice of Intel in the robotics developer ecosystem
+  use_cases:
+  - Robotics and Physical AI software ecosystem enablement
+  - Edge AI and autonomous robotics development
+  - Sample applications and demos for robotics AI toolkits
+  - Developer onboarding and troubleshooting for robotics platforms
+  skills:
+    genai: []
+    ml: [PyTorch, OpenVINO]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub]
+    languages: [Python, C++]
+    domains: [Robotics]
+    other: [ROS, ROS2, Edge AI, VLA/VLM Workflows, Discord, Slack, Stack Overflow]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11907690'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:56:59.790295'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Signant Health
+  stage: null
+  focus: Clinical trial technology and evidence generation
+position:
+  title: Software Engineer - AI Accelerated Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows,
+      RAG pipelines, and prompt engineering as production features
+      — clearly shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Design and build AI agents and agentic workflows with tool-use, multi-step orchestration,
+    and agent loops for clinical trial platforms
+  - Integrate LLM APIs into .NET application code handling authentication, streaming,
+    error handling, and cost/latency tradeoffs
+  - Deliver AI features end-to-end from backend integration to production-ready front-end
+  - Build custom agents and tools with the Claude Agent SDK
+  - Author custom skills and slash commands for Claude Code
+  - Implement RAG pipelines and integrate vector stores to ground agent outputs
+  - Instrument agents for evaluation and observability
+  - Apply AI-specific risk controls (hallucination, determinism, auditability) in
+    a regulated environment
+  use_cases:
+  - AI-powered agentic features in clinical trial platforms
+  - Grounding agent outputs in trusted clinical data via RAG
+  - Automating multi-step clinical trial workflows
+  - Auditable and verifiable agent outputs for regulated healthcare
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Anthropic API, OpenAI
+        API, Claude Agent SDK, Claude Code, RAG, Prompt Engineering, MCP, Multi-Agent
+        Systems, LLM Evaluation]
+    ml: []
+    web: [ASP.NET Core, Full-Stack Development]
+    databases: [Qdrant, pgvector, Pinecone]
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI]
+    ops: []
+    languages: [Python, C#]
+    domains: []
+    other: [Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11640677'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T12:28:21.540758'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

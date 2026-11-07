@@ -1,0 +1,58 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global shipping and logistics
+position:
+  title: Associate SAP ABAP Developer - AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond calling AI APIs: it includes prompt
+      design, RAG with SAP data as grounded context, evaluating
+      model output quality, and building AI use cases like
+      document extraction and NL assistants on LLM services. This
+      is shaping LLM behaviour, making it ai-first.
+  responsibilities:
+  - Design, develop, test and deploy custom ABAP solutions including reports, interfaces,
+    enhancements, forms and workflows
+  - Build modern ABAP applications with ABAP OO, CDS views, AMDP, RAP, OData services
+    and Fiori/UI5 integration
+  - Integrate AI capabilities into SAP processes using SAP AI Core, Generative AI
+    Hub and SAP Business AI on SAP BTP
+  - Build ABAP-to-AI integrations calling ML and LLM services via REST APIs, including
+    prompt design and response handling
+  - Develop AI use cases such as document extraction, intelligent classification,
+    anomaly detection, forecasting support and natural-language assistants
+  - Support RAG patterns using SAP data as grounded context and evaluate model output
+    quality
+  - Automate SAP Security and Basis tasks such as user provisioning, access reviews,
+    health checks and monitoring using ABAP, Python, PowerShell and Ansible
+  - Gather requirements, write specifications, participate in code reviews and mentor
+    junior developers
+  use_cases:
+  - Document extraction and intelligent classification in SAP processes
+  - Natural-language assistants for SAP data
+  - Anomaly detection in user behaviour and system events
+  - Forecasting support for SAP business processes
+  - Retrieval-Augmented Generation using SAP data as grounded context
+  - Automated SAP Security and Basis operations with self-service workflows
+  skills:
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering, Vector Databases, Embeddings]
+    ml: [Machine Learning, Anomaly Detection]
+    web: [REST APIs, OData, SOAP, JSON, OAuth, Fiori, SAPUI5]
+    databases: []
+    data: [IDocs]
+    cloud: [SAP AI Core, Generative AI Hub, SAP BTP, S/4HANA, SAP Integration Suite,
+      SAP Build Process Automation, Azure, AWS, GCP]
+    ops: [CI/CD, Git, Jenkins, Ansible, Docker]
+    languages: [ABAP, Python, PowerShell, SQL]
+    domains: []
+    other: [OWASP LLM Top 10, BAdIs, SAP GRC Access Control]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893864'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:49:49.715184'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

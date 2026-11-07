@@ -1,0 +1,61 @@
+company:
+  name: GlobalFoundries
+  stage: null
+  focus: |-
+    Semiconductor foundry providing design and fabrication
+    services
+position:
+  title: AI/ML Compiler & Runtime Software Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds compiler and runtime software that
+      quantizes, lowers, and optimizes ML model execution on
+      NPU/edge hardware - quantization and kernel-level model
+      optimization are shaping model output/execution. There is no
+      LLM/agent shaping; LLM stacks (llama.cpp) appear only as
+      nice-to-have exposure, so this is classical ML compiler
+      work.
+  responsibilities:
+  - Architect and develop AI/ML compiler and runtime software for RISC-V based IP,
+    NPU, and SoC platforms
+  - Develop and enhance IREE-based compiler flows including MLIR lowering, code generation,
+    and runtime integration for edge AI workloads
+  - Create custom MLIR dialects, compiler passes, and lowering pipelines to map AI
+    workloads to custom NPU hardware
+  - Optimize neural network workloads for edge deployment including operator fusion,
+    tiling, memory planning, and quantization
+  - Collaborate with architecture, hardware, firmware, FPGA, and validation teams
+    to bring up AI workloads on simulators, FPGA, and silicon
+  - Analyze model performance and drive optimizations across graph, operator, and
+    kernel-level execution paths
+  - Build test infrastructure, benchmark suites, and CI pipelines for compiler/runtime
+    correctness and performance
+  - Provide technical leadership to engineers on AI compiler, runtime, and edge AI
+    software development
+  use_cases:
+  - Physical AI workloads on next-generation RISC-V IP and SoC platforms
+  - Efficient edge AI model execution on NPUs and custom accelerators
+  - Low-latency, power-efficient AI inference for real-time embedded use cases
+  - AI workloads for vision, audio, transformers, robotics, automotive, and industrial
+    applications
+  skills:
+    genai: [llama.cpp]
+    ml: [IREE, LLVM, MLIR, PyTorch, ONNX, TensorFlow Lite, Quantization, ONNX Runtime,
+      TVM, XNNPACK]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, CI/CD, Jenkins, Git, CMake, Bazel]
+    languages: [Python, C++]
+    domains: [Computer Vision, Robotics]
+    other: [RISC-V, ARM, Jira, FPGA, NPU Acceleration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12028503'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:33:58.959587'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

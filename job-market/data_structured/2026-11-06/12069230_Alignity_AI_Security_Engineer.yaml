@@ -1,0 +1,56 @@
+company:
+  name: Alignity
+  stage: null
+  focus: |-
+    IT solutions integrator and consulting firm for client
+    hiring
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond governance oversight: it hands-on
+      designs and builds safeguards and security controls against
+      LLM-specific threats (prompt injection, misuse of AI agents
+      and tools), which is building guardrails for LLM-based
+      applications. Target is LLM/AI-agent systems, so ai-first.
+  responsibilities:
+  - Focus on AI-specific security threats and secure architecture across AI-enabled
+    applications, software, and processes
+  - Partner with stakeholders to incorporate AI security standards, safeguards, and
+    controls into AI workloads and application designs
+  - Assess AI solutions and architectures to identify security risks and control gaps
+    across the solution lifecycle
+  - Develop and promote reusable AI security architecture patterns for consistent
+    secure AI adoption
+  - Automate security architecture, assessment, validation, and control processes
+    using existing tooling
+  - Research and evaluate AI security testing tools, frameworks, and utilities
+  - Support implementation and integration of AI security controls into enterprise
+    AI solutions
+  use_cases:
+  - Securing AI-enabled enterprise applications and workloads
+  - Mitigating LLM threats such as prompt injection and sensitive data exposure
+  - Managing model and AI supply chain security risk
+  - Preventing misuse of AI agents and tools
+  - Secure adoption of AI capabilities via reusable architecture patterns
+  skills:
+    genai: [AI Agents, Prompt Injection, OWASP Top 10 for LLM Applications]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI]
+    ops: [Security Automation]
+    languages: []
+    domains: []
+    other: [NIST AI RMF, MITRE ATLAS, Threat Modeling, Security Architecture, AI Security
+        Posture Management, Wiz AISPM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12069230'
+  location: Shaikpet, IND
+  extracted_at: '2026-11-06T14:49:24.291886'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Bubble
+  stage: null
+  focus: No-code visual AI app development platform
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, prompt engineering,
+      RAG/retrieval pipelines, LLM fine-tuning, and evals for AI-
+      driven app generation — all directly shaping LLM behaviour,
+      so it is ai-first.
+  responsibilities:
+  - Design and build agentic workflows enabling multi-step AI-driven app generation
+    at scale
+  - Improve LLM reasoning and retrieval techniques for AI-powered development tools
+  - Build and maintain production LLM pipelines including prompt engineering, evaluation
+    frameworks, and latency optimization
+  - Fine-tune and optimize LLMs using proprietary Bubble datasets
+  - Own AI feature quality end-to-end from prototype through eval, deployment, and
+    monitoring
+  - Collaborate with Product, Infrastructure, and Research to scale AI research into
+    production systems
+  use_cases:
+  - AI-driven app generation from natural language descriptions
+  - Multi-step AI agents that generate, modify, and enhance user apps
+  - AI-assisted development workflows on a visual no-code platform
+  - Retrieval-augmented app building tools
+  skills:
+    genai: [Agentic Workflows, LLMs, Prompt Engineering, RAG, Context Engineering,
+      Fine-Tuning, LLM Evaluation, Embeddings, LangChain, Mastra, OpenAI API, Anthropic
+        API]
+    ml: [Transformers, Hugging Face]
+    web: [SolidJS, React Native]
+    databases: [PostgreSQL, Redis, ECS]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker]
+    languages: [Python, TypeScript, Node.js, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11396028'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:44:10.255811'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

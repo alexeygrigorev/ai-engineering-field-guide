@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Knoxville, TN, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data
+      processing systems that feed model training runs owned by AI
+      scientists; it does not shape model behavior itself. Per the
+      dataset rule, moving and cleaning training data is plumbing,
+      even at an AI company.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines into training
+    datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Building petabyte-scale audio training datasets for TTS models
+  - Audio data acquisition and ingestion pipelines
+  - Text-to-speech products for accessibility and learning differences
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762306'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:02:23.986769'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

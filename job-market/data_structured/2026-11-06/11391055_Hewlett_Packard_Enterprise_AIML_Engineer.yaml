@@ -1,0 +1,56 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud enterprise IT solutions and services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, evaluates, and tunes classical ML models
+      (regression, random forests, SVMs, deep learning) with no
+      LLM, agent, or prompt component named anywhere, making it
+      shaping of classical models -> ml-first.
+  responsibilities:
+  - Design, develop, and implement machine learning models and algorithms to solve
+    business problems
+  - Prepare and pre-process large datasets, including data cleaning, normalization,
+    feature extraction, and transformation
+  - Train models, optimize hyperparameters, cross-validate, and evaluate performance
+    using metrics such as accuracy, precision, recall, and F1-score
+  - Collaborate with data scientists, software engineers, and stakeholders to gather
+    requirements and iterate on solutions
+  - Present work in design reviews and prepare presentations and reports for stakeholders
+  - Interpret data findings and maintain or update business intelligence tools, databases,
+    dashboards, and systems
+  - Contribute to stand-up meetings, propose solutions, and provide peer feedback
+    during design and implementation
+  use_cases:
+  - Improving product and system performance, data management, quality, and accuracy
+    through ML and statistical modeling
+  - Descriptive, diagnostic, predictive, and prescriptive analytics on structured
+    and unstructured data
+  - Applying deep learning to enable systems to visualize, learn, and respond to complex
+    situations
+  - Translating customer requirements and industry trends into AI/ML products and
+    solutions
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, Machine Learning, Deep Learning,
+      Model Evaluation, Feature Engineering, Model Training, Hyperparameter Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python, R, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11391055'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:42:24.211323'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: AI and geospatial technology solutions
+position:
+  title: AI Engineer (GIS)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires production agentic deployments, harness
+      engineering, grounding, and evaluation of LLM outputs, which
+      is directly shaping model behavior. The primary model type
+      is LLM/agent-based (LangGraph, LLM Ops), so it is ai-first.
+  responsibilities:
+  - Own end-to-end lifecycle of AI/ML initiatives from problem identification through
+    architecture, development, and deployment
+  - Define and execute the AI technology roadmap, evaluating emerging technologies
+    (LLMs, GenAI, Edge AI) for strategic fit
+  - Mentor and provide technical leadership to junior and mid-level Data Scientists
+    and ML Engineers
+  - Serve as principal technical authority for AI initiatives, communicating with
+    executive stakeholders
+  - Define and implement MLOps best practices with DevOps and ML Engineering teams
+    for production integration
+  - Architect and oversee deployment of scalable, high-availability, low-latency inference
+    services
+  - Ensure AI development adheres to governance, compliance, and ethical AI standards
+  use_cases:
+  - Agentic AI deployments in production
+  - Geospatial (GIS) AI applications
+  - Scalable low-latency AI inference services
+  - AI-driven business problem solutions from POC to production
+  skills:
+    genai: [AI Agents, LangGraph, LLMs, Generative AI, LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Machine Learning, Model Deployment]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LLMOps, MLOps]
+    languages: [Python, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11347444'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:33:10.090328'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Applied Materials
+  stage: null
+  focus: |-
+    Semiconductor manufacturing equipment and materials
+    engineering
+position:
+  title: AI/ML Algorithm Developer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops physics-informed neural networks, ML
+      surrogates, and predictive/control models for semiconductor
+      manufacturing - classical ML/DL with no LLM or agent
+      component. Model training and evaluation is core work, so
+      this is shaping, hence ml-first.
+  responsibilities:
+  - Design and develop scalable data pipelines to collect, process, and analyze high-volume
+    sensor data from semiconductor manufacturing systems
+  - Identify and model underlying physical relationships governing complex process
+    behavior
+  - Develop predictive and control algorithms combining physics-based methods with
+    machine learning, including physics-informed neural networks
+  - Build maintainable software modules integrating directly with real-world manufacturing
+    tools and systems
+  - Develop ML surrogates and reduced-order models based on rigorous physics simulations
+  - Optimize accuracy and performance tradeoffs of algorithm modules
+  - Implement models and code for user-facing applications, control systems, or dashboards
+  - Collaborate with multidisciplinary teams spanning physics, engineering, software
+    development, and data science
+  use_cases:
+  - Predictive and control models for semiconductor manufacturing processes
+  - Real-time optimization of complex manufacturing processes using hybrid physics
+    and ML approaches
+  - ML surrogates and reduced-order models from physics simulations
+  - Intelligent automation solutions for semiconductor manufacturing tools
+  - Analysis of large-scale sensor and metrology data from manufacturing systems
+  skills:
+    genai: []
+    ml: [Physics-Informed Neural Networks, Machine Learning, Model Training, Statistical
+        Modeling, Reduced Order Models]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Physical Modeling, Engineering Simulation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11692438'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:36:23.508281'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

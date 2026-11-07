@@ -1,0 +1,55 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Forward Deployed AI Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops agent features, prompt templates, and few-
+      shot examples, and builds automated evaluation testbeds
+      measuring agent task completion and hallucination - directly
+      shaping LLM/agent output quality. Forward Deployed Engineers
+      adapting AI solutions are ai-first.
+  responsibilities:
+  - Develop and iterate on agent features, prompt templates, system instructions,
+    few-shot examples, and data pre-processing scripts
+  - Build, calibrate, and execute automated evaluation test suites measuring task
+    completion, tool call correctness, semantic similarity, latency, and hallucination
+    metrics
+  - Curate, version, and maintain golden evaluation datasets, synthetic benchmarks,
+    and edge-case regression testbeds with domain experts
+  - Author and maintain automated test execution scripts in enterprise CI/CD pipelines
+    enforcing continuous evaluation gates
+  - Validate and test AI guardrail policies including prompt injection defenses, toxicity
+    filters, and PII redaction
+  - Monitor agent performance metrics, log evaluations, and generate prompt diagnostic
+    reports for squad leads and stakeholders
+  - Participate in agile squads including sprint planning, standups, and codebase
+    maintenance
+  use_cases:
+  - Intelligent agents that reason, plan, and execute multi-step workflows
+  - Automated evaluation of agent accuracy, safety, and reliability
+  - Guardrail and security verification for production AI agents
+  - Enterprise integration and observability of deployed AI agents
+  skills:
+    genai: [Prompt Engineering, Generative AI, AI Agents, LLM Evaluation, Guardrails,
+      LLMs]
+    ml: []
+    web: [REST APIs, gRPC]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git, CI/CD, Jenkins, GitHub Actions, Tekton]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [Harness]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11704025'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:38:47.702181'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

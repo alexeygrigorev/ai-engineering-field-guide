@@ -1,0 +1,60 @@
+company:
+  name: Coherent Laser India Pvt. Ltd.
+  stage: null
+  focus: |-
+    Lasers, engineered materials and optical networking
+    components
+position:
+  title: Senior Engineer - AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds supervised ML models (regression,
+      classification, anomaly detection), Bayesian optimization,
+      and RL for classical manufacturing/test problems. It shapes
+      model behavior via training and evaluation, but there is no
+      LLM or agent component, so it is ml-first.
+  responsibilities:
+  - Design, develop, validate, and deploy ML solutions improving optical transceiver
+    calibration quality, test time, yield, and equipment utilization
+  - Build supervised-learning models for prediction, classification, regression, anomaly
+    detection, and early test-outcome prediction
+  - Apply Bayesian optimization, reinforcement learning, and hybrid model-based approaches
+    for multi-parameter tuning
+  - Develop feature-engineering, data-quality, model-training, and model-evaluation
+    pipelines for test and trace data
+  - Integrate ML inference and optimization services with production test software,
+    APIs, databases, and automation frameworks
+  - Monitor production model performance and data drift; implement versioning, alerting,
+    rollback, and retraining
+  - Analyze test and manufacturing data to identify bottlenecks, failure signatures,
+    and test-suite optimization opportunities
+  - Mentor junior engineers and prepare technical documentation and business-impact
+    reporting
+  use_cases:
+  - Optical transceiver calibration quality and test-time optimization
+  - Early test-outcome prediction and anomaly detection in manufacturing
+  - Yield improvement and false-pass/false-fail risk reduction in production testing
+  - Multi-parameter tuning of expensive test operations via optimization
+  - Equipment utilization and test-suite optimization
+  skills:
+    genai: []
+    ml: [PyTorch, scikit-learn, XGBoost, LightGBM, Feature Engineering, Model Evaluation,
+      Anomaly Detection, Reinforcement Learning, Bayesian Optimization, Model Training,
+      Model Explainability, Multi-Armed Bandits]
+    web: [REST APIs, FastAPI]
+    databases: [PostgreSQL, Elasticsearch]
+    data: [Pandas, NumPy, Data Pipelines, Airflow]
+    cloud: []
+    ops: [MLflow, Docker, MLOps, CI/CD, Linux, Model Monitoring]
+    languages: [Python, SQL, C#, .NET]
+    domains: []
+    other: [LabVIEW, Statistical Process Control]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11627586'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:24:58.746010'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

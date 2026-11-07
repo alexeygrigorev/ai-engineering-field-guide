@@ -1,0 +1,59 @@
+company:
+  name: Dentsu Creative
+  stage: null
+  focus: Creative and customer experience marketing for global brands
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing agentic
+      workflows, RAG and KG-augmented retrieval, prompt
+      engineering, fine-tuning (LoRA/QLoRA, RLHF/RLAIF),
+      guardrails, and evaluation pipelines for LLM-based systems.
+      LLM/agent work is central, so it is ai-first.
+  responsibilities:
+  - Build conversational and non-conversational multimodal and agentic AI applications
+    using LLMs and frameworks like LangChain, LangGraph, LlamaIndex, and AutoGen
+  - Design AI workflows incorporating reasoning, planning, tool-use, memory, grounding,
+    and external system integrations
+  - Develop Knowledge Graph-assisted AI systems including entity extraction, linking,
+    and KG-augmented retrieval
+  - Implement fine-tuning, alignment (RLHF/RLAIF), LoRA/QLoRA, pruning, and model
+    evaluation pipelines
+  - Transform models into scalable APIs and microservices using Python, FastAPI/Flask,
+    and Docker
+  - Deploy and monitor ML/AI systems on AWS/Azure/GCP, optimizing for cost, latency,
+    and reliability
+  - Build information retrieval systems including hybrid dense-sparse retrieval, ranking,
+    and relevance optimization
+  - Mentor junior engineers and document models, experiments, and deployment processes
+  use_cases:
+  - Intelligent agents for customer engagement for global brands
+  - Multimodal AI experiences and conversational applications
+  - Knowledge-grounded AI solutions using RAG and knowledge graphs
+  - Personalization systems
+  - Predictive modeling and ML pipelines
+  - Hybrid information retrieval and relevance optimization
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [FastAPI, Flask, Django, REST APIs, Microservices]
+    cloud: [AWS, Azure, GCP]
+    data: [Spark, Hadoop, Data Pipelines]
+    ml: [PyTorch, TensorFlow, Deep Learning, Machine Learning, Model Evaluation, Feature
+        Engineering, Neural Networks, Predictive Modeling]
+    databases: [MongoDB, Knowledge Graphs, NoSQL]
+    genai: [LangChain, LangGraph, LlamaIndex, AutoGen, LLMs, RAG, Prompt Engineering,
+      Agentic Workflows, Fine-Tuning, RLHF, LoRA, Embeddings, Vector Search, Guardrails,
+      Conversational AI, Function Calling]
+    ops: [Docker, CI/CD, MLOps, Model Deployment, Model Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12006843'
+  location: Kharadi, IND
+  extracted_at: '2026-11-06T14:26:40.640779'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

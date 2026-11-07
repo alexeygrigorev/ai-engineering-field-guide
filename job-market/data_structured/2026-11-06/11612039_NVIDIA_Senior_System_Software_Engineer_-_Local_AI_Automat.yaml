@@ -1,0 +1,58 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and accelerated computing hardware and software
+position:
+  title: Senior System Software Engineer - Local AI Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds system software and automation
+      infrastructure to run, deploy, benchmark, and qualify AI
+      models and applications through various inference backends.
+      It does not shape model behavior through prompts, retrieval,
+      training, or eval design of model quality; the deliverable
+      is infrastructure capacity and reliability, which is ai-
+      support.
+  responsibilities:
+  - Design and maintain system software and infrastructure to run AI workloads through
+    inference backends such as Llama.cpp, Ollama, PyTorch, vLLM, WinML, and TRT-RTX
+  - Define system requirements for deploying AI applications, benchmarks, and models
+    and develop solutions to measure correctness, functionality, reliability, and
+    performance
+  - Build infrastructure to download AI models, manage a local model repository, and
+    automate repository synchronization
+  - Analyze large datasets and system workload metrics, building data processing infrastructure
+    and visualizations for developers
+  - Collaborate with internal developers on system-level instrumentation, diagnostics,
+    and debugging capabilities
+  - Build and maintain automated build, integration, deployment, and qualification
+    infrastructure across inference frameworks and environments
+  - Debug existing frameworks, identify performance bottlenecks, and improve system
+    efficiency and scalability
+  use_cases:
+  - Automated deployment and benchmarking of local AI models across inference backends
+  - Local AI model repository management and synchronization
+  - Correctness, functionality, reliability, and performance qualification of AI workloads
+  - System instrumentation, diagnostics, and debugging for local AI applications
+  - Automated build, integration, and deployment qualification across inference frameworks
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Llama.cpp, Ollama, vLLM, CI/CD, Git, Perforce, Jenkins, Docker, Kubernetes,
+      Grafana, Monitoring, Observability, Linux]
+    languages: [C++, C, C#, Java, Python]
+    domains: []
+    other: [Performance Optimization, Multithreaded Software]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11612039'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:21:30.774464'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

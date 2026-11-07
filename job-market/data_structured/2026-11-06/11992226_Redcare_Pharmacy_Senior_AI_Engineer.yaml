@@ -1,0 +1,49 @@
+company:
+  name: Redcare Pharmacy
+  stage: null
+  focus: Europe's leading e-pharmacy and digital healthcare
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evolves generative AI systems
+      including training, evaluation, and continuous improvement
+      of LLM-driven solutions, which is shaping model behavior.
+      Generative AI/LLM components are central, so ai-first.
+  responsibilities:
+  - Design, build and evolve scalable ML and generative AI systems for customer-facing
+    and operational use cases
+  - Develop end-to-end pipelines for training, evaluation, deployment, monitoring,
+    and continuous improvement of AI solutions in production
+  - Collaborate with product, engineering, data, and business stakeholders to embed
+    AI in core digital healthcare systems
+  - Explore and implement cutting-edge AI advancements to enhance innovation
+  - Act as AI Technical Owner, shaping the technical roadmap and driving the full
+    AI lifecycle
+  - Adhere to governance, experimentation, model quality, versioning, observability,
+    and compliance practices in a regulated environment
+  use_cases:
+  - Digital healthcare AI for patient outcomes
+  - Customer-facing pharmacy use cases
+  - Operational efficiency in e-pharmacy business
+  - Production AI systems across the organization
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11992226'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:20:26.792448'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

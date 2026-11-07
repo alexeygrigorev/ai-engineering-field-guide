@@ -1,0 +1,56 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: AWS Platform Engineer – Terraform | Kubernetes | AI/ML Cloud Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, secures, and integrates AWS AI services
+      (Bedrock, SageMaker, Amazon Q) built by others; the
+      deliverable is platform capacity and guardrails, not shaping
+      model behavior through prompts, retrieval, or training. No
+      evidence of writing prompts, designing RAG, or evaluating
+      model output quality.
+  responsibilities:
+  - Design, build, and migrate workloads to AWS
+  - Develop secure, reusable infrastructure as code with Terraform, CloudFormation,
+    or CDK
+  - Manage AWS environments, provisioning, performance, stability, security, and lifecycle
+    activities
+  - Implement CI/CD pipelines, containerization, monitoring, and automation
+  - Enable AI platforms and APIs with security, audit, and operational guardrails
+  - Apply AWS Well-Architected principles
+  - Collaborate with application, architecture, security, data, and operations teams
+  - Troubleshoot incidents and improve platform reliability and cost efficiency
+  use_cases:
+  - Cloud migration and workload hosting on AWS
+  - Infrastructure automation and platform operations
+  - AI platform enablement with security and operational guardrails
+  - CI/CD and containerized deployment automation
+  - Platform security, compliance, monitoring, and cost optimization
+  skills:
+    genai: [MCP, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [DynamoDB, RDS, Aurora]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS S3, ECS, IAM, AWS CDK, EKS, AWS Bedrock, SageMaker,
+      Amazon Textract, Amazon Q, Fargate, VPC, Route 53, EC2]
+    ops: [Terraform, CloudFormation, Docker, Kubernetes, CI/CD, GitHub Actions, TeamCity,
+      Policy-as-Code, GitOps, Git, Monitoring, CloudWatch, Guardrails, DevOps, Automation]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11517474'
+  location: Location, USA
+  locations:
+  - Location, USA
+  - Thanisandra Nagavara, IND
+  extracted_at: '2026-11-06T12:04:02.145938'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

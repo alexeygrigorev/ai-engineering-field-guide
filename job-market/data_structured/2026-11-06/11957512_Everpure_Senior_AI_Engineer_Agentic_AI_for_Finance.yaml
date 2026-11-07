@@ -1,0 +1,52 @@
+company:
+  name: Everpure
+  stage: null
+  focus: Enterprise data platform and storage company
+position:
+  title: Senior AI Engineer, Agentic AI for Finance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, ships, and owns multi-agent systems
+      (LangGraph, Bedrock AgentCore), builds MCP tools and RAG
+      pipelines, and implements evals and guardrails — all
+      directly shaping LLM behavior. With LLM/agent components
+      central, it's ai-first.
+  responsibilities:
+  - Architect, ship, and own end-to-end multi-agent systems using LangGraph and Amazon
+    Bedrock AgentCore with deterministic, auditable outputs
+  - Build secure least-privilege MCP tool integrations across ERP, CRM, and ticketing
+    systems
+  - Implement grounded retrieval architectures and read-only query layers on Snowflake
+  - Develop Next.js approval portals, admin consoles, and human-in-the-loop review
+    interfaces
+  - Implement AI guardrails, automated evals, shadow-mode validation, RBAC, audit
+    logging, and prompt-injection defenses
+  - Monitor accuracy, drift, latency, and cost with Datadog and Langfuse; guide engineers
+    via code reviews and on-call ownership
+  use_cases:
+  - Agentic automation of Finance/CFO workflows
+  - Enterprise tool integrations (ERP, CRM, ticketing) with secure data access
+  - Grounded retrieval and read-only analytics over Snowflake for financial insights
+  - Human-in-the-loop approval portals for governed financial outputs
+  - AI safety, evals, and audit compliance for regulated finance processes
+  skills:
+    genai: [LangGraph, Multi-Agent Systems, MCP, RAG, Guardrails, LLM Evaluation,
+      Prompt Engineering]
+    ml: [LLMs]
+    web: [Next.js, APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS Lambda, ECS]
+    ops: [Datadog, Langfuse, Monitoring, Observability, Distributed Systems]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957512'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:10:43.777234'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

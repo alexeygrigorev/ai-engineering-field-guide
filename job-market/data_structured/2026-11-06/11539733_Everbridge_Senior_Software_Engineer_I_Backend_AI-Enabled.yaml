@@ -1,0 +1,47 @@
+company:
+  name: Everbridge
+  stage: null
+  focus: |-
+    Critical event management and emergency communication
+    software
+position:
+  title: Senior Software Engineer I – Backend & AI-Enabled
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role for a voice processing
+      application. AI appears only as development tools the
+      engineer uses to write code faster (AI-assisted development
+      practices), which does not shape any model's behaviour, so
+      it is ai-support. No model training, prompting, retrieval,
+      or agent design work is described.
+  responsibilities:
+  - Design and develop backend services for a mission-critical voice processing application
+  - Build scalable, reliable, cloud-native software systems
+  - Contribute across the stack when needed
+  - Leverage AI-powered development tools to accelerate delivery and innovation
+  - Collaborate with frontend, product, QA, and platform engineering teams
+  - Adapt quickly and apply modern AI-assisted development practices to improve productivity
+    and software quality
+  use_cases:
+  - Mission-critical voice processing application
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11539733'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T12:07:45.460118'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

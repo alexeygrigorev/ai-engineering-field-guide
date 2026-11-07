@@ -1,0 +1,56 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Senior Director, Java Full-Stack Engineer - AI Hub Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and implements AI-powered solutions
+      using LLMs, vector databases, and orchestration frameworks,
+      which is designing LLM-based systems and
+      retrieval/orchestration — that is shaping model behavior,
+      making it ai-first. The remainder of the role is full-stack
+      engineering, but the AI architecture responsibilities
+      dominate the AI classification.
+  responsibilities:
+  - Consult with internal business groups to provide application software development
+    and technical support
+  - Design, develop, test, and maintain scalable full-stack applications using Java,
+    React, Oracle, Kafka, and Snowflake
+  - Architect and implement AI-powered solutions using LLMs, vector databases, and
+    orchestration frameworks
+  - Lead technical discovery, proof-of-concepts, and prototyping of emerging technologies
+  - Provide senior-level technical consulting and strategic guidance to IT leadership
+    and business stakeholders
+  - Establish engineering best practices, coding standards, and architectural principles
+  - Participate in code reviews and mentor junior engineers
+  - Drive AI modernization initiatives while ensuring platform stability and scalability
+  use_cases:
+  - AI-powered enterprise applications within an AI Hub engineering team
+  - Intelligent automation solutions for financial services
+  - Full-stack application development for data solutions and services
+  - Platform modernization and reduction of technical debt
+  skills:
+    genai: [LLMs, Orchestration Frameworks]
+    ml: []
+    web: [React, Node.js, Angular, HTML, CSS, JSON, Containerization]
+    databases: [Oracle, Snowflake, Vector Databases]
+    data: [Kafka]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Java, JavaScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11537780'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Pittsburgh, USA
+  extracted_at: '2026-11-06T12:07:32.377797'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

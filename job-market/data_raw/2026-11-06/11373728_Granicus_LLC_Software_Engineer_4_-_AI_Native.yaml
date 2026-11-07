@@ -1,0 +1,323 @@
+job_id: 11373728
+title: Software Engineer 4 - AI Native
+company: Granicus LLC
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  The Company
+
+  Serving the People Who Serve the People
+
+  Granicus is driven by the excitement of building,
+  implementing, and maintaining technology that is
+  transforming the Govtech industry by bringing governments
+  and its constituents together. We are on a mission to
+  support our customers with meeting the needs of their
+  communities and implementing our technology in ways that are
+  equitable and inclusive. Granicus has consistently appeared
+  on the GovTech 100 list over the past 5 years and has been
+  recognized as the best companies to work on BuiltIn.
+
+  Over the last 25 years, we have served 5,500 federal, state,
+  and local government agencies and more than 300 million
+  citizen subscribers power an unmatched Subscriber Network
+  that use our digital solutions to make the world a better
+  place. With comprehensive cloud-based solutions for
+  communications, government website design, meeting and
+  agenda management software, records management, and digital
+  services, Granicus empowers stronger relationships between
+  government and residents across the U.S., U.K., Australia,
+  New Zealand, and Canada. By simplifying interactions with
+  residents, while disseminating critical information,
+  Granicus brings governments closer to the people they
+  serve—driving meaningful change for communities around the
+  globe.
+
+  Want to know more? See more of what we do here.
+
+  Job Summary
+
+  Granicus serves more than 7,000 public-sector agencies and
+  powers approximately 30 billion digital interactions
+  annually. Within the Office of the CTO, we operate an AI-
+  native software development lifecycle: a production
+  engineering model in which autonomous agents perform high-
+  confidence implementation work and senior engineers
+  orchestrate, review, and own the outcome. The model is
+  established and operating; we are scaling it across
+  additional delivery teams.
+
+  This role joins one of those teams. Our engineering
+  standards are calibrated to the practices used by leading
+  software and AI organizations — generator-verifier
+  architecture, eval-driven development, staged deployment,
+  and high-volume autonomous pull-request pipelines — operated
+  within a FedRAMP-authorized environment. We are hiring
+  practitioners who will set and uphold these standards, not
+  engineers who simply use AI tooling.
+
+  Operating constraints (non-negotiable): agents execute only
+  within branches; all agent-generated code passes senior
+  human review before merging to production; autonomous
+  execution is a force multiplier and does not transfer
+  accountability away from the responsible engineer.
+  Compliance obligations — NIST 800-53 Rev 5, WCAG, SOC 2, and
+  applicable FedRAMP authorizations — are treated as
+  engineering requirements and a source of competitive
+  advantage.
+
+  Why this role exists
+
+  When agents produce the majority of initial implementation,
+  the scarce engineering skill shifts from authoring code to
+  directing it, reviewing it rigorously at volume, and owning
+  whether it is correct. This role is for a senior engineer
+  who has made that transition: decomposing work for the agent
+  array, authoring the evaluation suites that hold agent
+  output to a measurable standard, reviewing agent-generated
+  pull requests with greater rigor than most engineers apply
+  to their own work, and shipping production code within a
+  FedRAMP-authorized environment. The role contributes to
+  defining how engineers operate in an AI-native lifecycle,
+  not merely to adopting AI tooling.
+
+  What Your Impact Will Look Like
+
+  - Direct the agent array on production workstreams — decompose
+    problems into tasks suitable for agent execution, dispatch
+    them, and integrate the output into shipped software.
+
+  - Review agent-generated pull requests at volume and at depth
+    — identify correctness, security, and accessibility
+    defects that automated tests do not catch, while
+    maintaining review throughput and a consistent quality
+    bar.
+
+  - Author evaluation suites that make quality measurable —
+    define criteria under which the pipeline validates
+    correctness rather than relying on subjective assessment.
+    Eval-driven development is your standard practice.
+
+  - Own quality end to end — correctness, performance, security
+    posture, and WCAG accessibility of the software your team
+    ships, irrespective of which component or agent produced
+    the initial implementation.
+
+  - Advance workstreams along the autonomy ladder on the basis
+    of evidence — move work from supervised to autonomous
+    execution when measured reliability supports it, and
+    revert promptly when it does not.
+
+  - Strengthen the development lifecycle itself — identify where
+    patterns, prompts, or pipeline components degrade at
+    volume and work with the lead architect to remediate them.
+
+  - Maintain agent operations within the security boundary —
+    branch-only execution, vaulted credentials, sandboxed
+    actions, and in-VPC inference. Throughput does not justify
+    exceptions.
+  - OWNERSHIP FROM DAY ONE
+    - An active workstream directed through the agent array
+    - Agent pull-request review as a core, high-signal
+      responsibility
+    - Evaluation suites authored and owned for your team’s
+      deliverables
+    - End-to-end quality ownership within the FedRAMP-authorized
+      environment
+  - SCOPE YOU WILL GROW INTO
+    - Higher autonomy ratios substantiated by reliability data
+    - Reusable prompt and evaluation patterns adopted by other
+      engineers
+    - Contribution to the lifecycle standards as a co-author, not
+      only a user
+    - Mentorship of engineers transitioning to agent-directed
+      delivery
+
+  You Will Love This Job If You Have
+
+  Required
+
+  - Strong engineering fundamentals. Data structures, systems
+    design, and testing, with the ability to read unfamiliar
+    code quickly and assess it accurately. Agents amplify
+    engineering judgment; they do not substitute for it.
+
+  - A record of shipping production software you owned the
+    quality of, including responsibility for diagnosis and
+    remediation when it failed.
+
+  - Hands-on experience directing coding agents on production
+    work, including their failure modes and the practice of
+    reviewing agent-generated code critically rather than
+    approving it by default.
+
+  - Demonstrated code-review competence. You identify defects
+    that automated tests do not catch, provide actionable
+    feedback, and maintain a high bar without becoming a
+    bottleneck.
+
+  - High autonomy. You advance work without step-by-step
+    direction and escalate issues proactively.
+
+  Preferred
+
+  - High-assurance or regulated experience. Shipping within
+    FedRAMP, defense, financial services, healthcare, or
+    another NIST 800-53 / SOC 2 / HIPAA-bound environment.
+
+  - Depth in evaluation authoring or test-first development
+    within a rigorous engineering culture.
+
+  - Full-stack range, sufficient to review front-end and back-
+    end agent output with equal confidence.
+
+  - Public-sector or govtech experience and familiarity with the
+    relevant end users.
+
+  Indicators of a strong fit
+
+  - You deliver more effectively by directing multiple agents
+    than by authoring code directly, while retaining a precise
+    understanding of the intended implementation.
+
+  - You regard rigorous code review as a core engineering
+    competency.
+
+  - You prefer to establish quality through evaluation suites
+    rather than through discussion.
+
+  - You treat the agent array as leverage and reliably identify
+    when its output is incorrect.
+
+  - You want to contribute to how engineering is practiced here,
+    not only to apply new tooling.
+
+  Indicators this role is not a fit
+
+  - You measure your contribution by lines of code personally
+    authored. That metric does not apply in this model.
+
+  - You approve pull requests without thorough review under time
+    pressure. At agent volume, this is the primary path by
+    which defects reach production.
+
+  - You are uncomfortable owning quality for code you did not
+    author. Ownership here is intentionally decoupled from
+    authorship.
+
+  - You regard evaluation and compliance as impediments to
+    shipping.
+
+  - You prefer narrowly scoped tickets and no involvement in how
+    the system operates.
+
+  Pay RangeUSD $88,000.00 - USD $180,000.00 /Yr. About Us
+
+  Don’t have all the skills/experience mentioned above? At
+  Granicus, we are trying to build diverse, inclusive teams.
+  We do not have degree requirements for most of our roles. If
+  you don’t meet every requirement above but are excited to
+  learn more, we encourage you to apply. We might just be able
+  to find another role that could be a perfect fit!
+
+  Security and Privacy Requirements
+
+  - Responsible for Granicus information security by
+    appropriately preserving the Confidentiality, Integrity,
+    and Availability (CIA) of Granicus information assets in
+    accordance with the company's information security
+    program.
+  - Responsible for ensuring the data privacy of our employees
+    and customers, their data, as well as taking all required
+    privacy training in a timely manner, in accordance with
+    company policies.
+
+  The Team
+
+  - We are a remote-first company with a globally distributed
+    workforce across the United States, Canada, United
+    Kingdom, India, Armenia, Australia, and New Zealand.
+
+  The Culture
+
+  - At Granicus, we are building a transparent, inclusive, and
+    safe space for everyone who wants to bea part of our
+    journey.
+  - A few culture highlights include – Employee Resource Groups
+    to encourage diverse voices
+  - Coffee with Mark sessions – Our employees get to interact
+    with our CEO on very important andsometimes difficult
+    issues ranging from mental health to work-life balance and
+    current affairs.
+  - Microsoft Teams communities focused on wellness, art,
+    furbabies, family, parenting, and more.
+  - We bring in special guests from time to time to discuss
+    issues that impact our employeepopulation
+
+  The Impact
+
+  - We are proud to serve dynamic organizations around the globe
+    that use our digital solutions to make the world a better
+    place — quite literally. We have so many powerful success
+    stories that illustrate how our solutions are impacting
+    the world. See more of our impact here.
+
+  The BenefitsAt Granicus, we offer a  comprehensive and
+  flexible benefits package designed to support your well-
+  being, growth, and work-life balance—starting from day one.
+  Here’s what you can expect as a U.S.-based team member:
+
+   Flexibility & Balance
+
+  - Flexible Time Off – Take the time you need to rest,
+    recharge, and live your life.
+  - Company-Wide Wellbeing Days – Paid days off to unplug and
+    focus on your mental health.
+  - Work From Home Reimbursement – Support a productive home
+    office environment.
+
+   Health & Wellness
+
+  - Multiple Health Plan Options – Including a 100% employer-
+    paid plan.
+  - Employer HSA Contributions – When enrolled in a High-
+    Deductible Health Plan.
+  - Fitness Reimbursement Program – Stay active, your way.
+  - On-Demand Mental Health Support – Access to Headspace and
+    other wellness tools.
+
+  Family & Future
+
+  - Paid Parental Leave – For both birthing and non-birthing
+    parents.
+  - Traditional & Roth 401(k) – With a generous company match.
+  - Life & AD&D Insurance – 100% employer-paid coverage for
+    peace of mind.
+
+  Growth & Recognition
+
+  - Online Learning Platforms – Fuel your professional
+    development.
+  - Competitive Salary & Bonuses – Your contributions are valued
+    and rewarded.
+
+  Equal Opportunity EmployerGranicus is committed to providing
+  equal employment opportunities. All qualified applicants and
+  employees will be considered for employment and advancement
+  without regard to race, color, religion, creed, national
+  origin, ancestry, sex, gender, gender identity, gender
+  expression, physical or mental disability, age, genetic
+  information, sexual or affectional orientation, marital
+  status, status with regard to public assistance, familial
+  status, military or veteran status or any other status
+  protected by applicable law.
+industries:
+  - Cloud
+  - Marketing Tech
+  - Professional Services
+  - Social Impact
+  - Software
+posted_date: 2026-09-25
+url: "https://www.builtinla.com/job/software-engineer-4-ai-native/11373728"
+source: Built In

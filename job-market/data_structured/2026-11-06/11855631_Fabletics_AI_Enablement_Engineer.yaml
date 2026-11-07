@@ -1,0 +1,48 @@
+company:
+  name: Fabletics
+  stage: null
+  focus: Athleisure apparel and activewear retailer
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with LLM APIs, prompt
+      engineering, agents, RAG, and evals, and the engineer
+      hardens and ships AI-assisted builder apps including
+      guardrails and testing, which means shaping LLM-based system
+      behavior. This makes it ai-first rather than ai-support.
+  responsibilities:
+  - Design and lead training for the internal Builder Program
+  - Advise non-engineer Builders on architecture and tooling for AI-assisted apps
+  - Review, harden, and deploy Builder-created apps with secure auth, testing, CI/CD,
+    and monitoring
+  - Define production paths and support models for internal apps
+  - Build reusable templates, starter kits, and guardrails
+  - Take on complex cross-functional builds end-to-end
+  - Partner with engineering, security, and data teams to raise production standards
+  use_cases:
+  - Hardening and productionizing AI-assisted internal apps built by non-engineers
+  - Internal prototyping with AI and low-code tools
+  - Reusable internal app templates and guardrails
+  - Developer enablement and citizen-developer program
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, RAG, LLM Evaluation, Guardrails,
+      Generative AI]
+    ml: []
+    web: [Next.js, Vercel]
+    databases: [Supabase, PostgreSQL]
+    data: []
+    cloud: []
+    ops: [GitHub, CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: [Zapier, n8n, Make, Retool, v0]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11855631'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T13:24:14.514421'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,84 @@
+job_id: 11630136
+title: Senior AI Engineer
+company: Meeru AI Inc
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  About Meeru AI
+
+  Meeru AI is building an AI-native platform that transforms
+  how finance and accounting teams operate. We connect to
+  enterprise financial systems — ERPs, CRMs, billing
+  platforms, HRIS — and apply machine learning to turn
+  fragmented operational data into grounded, auditable
+  intelligence for CFOs, controllers, and FP&A leaders.
+
+  We deploy on customer terms — SaaS multi-tenant, SaaS
+  single-tenant, and on-premises — across AWS, Azure, and GCP.
+  Our customers are Fortune 500 finance teams who require data
+  isolation, auditability, and compliance.
+
+  The Role
+
+  We are looking for a Senior AI Engineer to build the AI and
+  intelligence layer — and help uphold the discipline that
+  keeps it honest. Our output sits adjacent to externally
+  reported financials, so "sounds plausible" is not good
+  enough: everything the AI produces must be grounded in, and
+  traceable to, verified data.
+
+  You'll build the machine-learning models that learn each
+  customer's patterns, the LLM and agentic systems that
+  produce grounded natural-language output, and help uphold
+  the rigor that keeps that output faithful. You own
+  significant pieces of the layer end-to-end, working closely
+  with our Staff AI Engineer and evaluation engineer, and you
+  build per-customer models without leaking the very signal
+  they're meant to detect.
+
+  This is a hands-on engineering role. You turn designs into
+  robust production systems, measure quality rigorously, help
+  turn user feedback into durable improvements, and grow
+  toward staff-level technical ownership.
+
+  Requirements
+
+  - Build per-customer ML models that learn normal vs. anomalous
+    behavior on time-series and operational data, using
+    statistical baselines and gradient-boosted models
+    (LightGBM/XGBoost) with strict anti-leakage discipline.
+  - Build a template-first natural-language generation layer
+    that is strictly grounded in verified data, using
+    guardrails and structured output to prevent hallucinated
+    or unsupported statements.
+  - Implement agentic orchestration (LangGraph or equivalent)
+    with verification and human-confirmation checkpoints.
+  - Integrate managed LLMs running inside customer clouds (AWS
+    Bedrock, GCP Vertex AI, Azure OpenAI).
+  - Partner with an evaluation engineer to gate grounding,
+    hallucination, and faithfulness checks in CI.
+  - Turn user feedback into durable model and system
+    improvements.
+  - Ship production Python services with SQL/warehouse access
+    (Snowflake, PostgreSQL) in containerized, customer-hosted
+    deployments.
+
+  Nice-to-Have
+
+  - Finance or accounting domain experience (fintech, FP&A, ERP,
+    audit, financial close).
+  - Feature-attribution experience (e.g. SHAP), along with an
+    understanding of its limits.
+  - Human-in-the-loop systems and feedback loops.
+  - Hands-on work with Bedrock, Vertex AI, or Azure OpenAI in
+    VPC or private deployments.
+  - Zero-inflated or sparse-event modeling.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Automation
+posted_date: 2026-10-13
+url: "https://builtin.com/job/senior-ai-engineer/11630136"
+source: Built In

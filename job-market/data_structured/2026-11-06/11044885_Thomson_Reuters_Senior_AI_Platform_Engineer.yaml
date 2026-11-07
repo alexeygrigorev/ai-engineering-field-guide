@@ -1,0 +1,58 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, and compliance information services
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform/OS engineering and operations lead.
+      It identifies and pilots AI/automation use cases for
+      incident triage and monitoring, but never shapes a model
+      itself — no prompts, retrieval, evals, or training.
+      Consuming or deploying AI/automation into operations
+      workflows is ai-support.
+  responsibilities:
+  - Own build, hardening, patching, and lifecycle of the OS and platform estate
+  - Identify, pilot, and scale AI/automation use cases for incident triage, RCA, runbook
+    execution, and predictive monitoring
+  - Serve as top escalation point for complex and major incidents, leading recovery
+    efforts
+  - Drive change management and adoption of AI-enabled ways of working, coaching 1st
+    line teams
+  - Instrument and evidence reductions in incident volume and MTTR from process redesign
+    and automation
+  - Design solutions and multi-workstream delivery plans, including costed designs
+  - Author runbooks, technical policies, and AI governance/guardrail documentation
+  - Partner with architecture, security, development, vendors, and the business to
+    land change
+  use_cases:
+  - AI-assisted incident triage
+  - Root cause analysis automation
+  - Automated runbook execution
+  - Predictive monitoring
+  - Reduction of incident volume and MTTR in production operations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Infrastructure as Code, Configuration Management, Monitoring, Capacity Planning,
+      Guardrails]
+    languages: []
+    domains: [Root Cause Analysis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11044885'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T11:24:03.230914'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

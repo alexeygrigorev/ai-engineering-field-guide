@@ -1,0 +1,49 @@
+company:
+  name: MSCI Inc.
+  stage: null
+  focus: Financial data, analytics and index solutions for investors
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements ML/NLP/GenAI/Agentic AI methodologies
+      and AI-driven anomaly detection for data quality, with LLMs
+      and Agentic AI explicitly part of the responsibilities.
+      Building agentic and LLM-based solutions means shaping model
+      behavior/output quality, so ai-first.
+  responsibilities:
+  - Develop data science applications contributing to MSCI's AI adoption journey
+  - Implement ML/NLP/GenAI/Agentic AI and anomaly detection methodologies in data
+    science tools
+  - Deliver new functionality for the internal production platform and client delivery
+    platform
+  - Support teams in implementing AI solutions and integrating services with MSCI's
+    data science platforms
+  - Build deep understanding of MSCI APIs and data delivery platforms
+  - Collaborate with Product Management, QA, Data Operations, and IT Infrastructure
+    across the development lifecycle
+  use_cases:
+  - AI-driven data quality enhancement across MSCI products
+  - Anomaly detection for irregularities, data drift, and quality issues
+  - Data science tooling for internal production and client delivery platforms
+  - Trusted data foundation for downstream analytics and client-facing solutions
+  skills:
+    genai: [Generative AI, Agentic Workflows, LLMs]
+    ml: [Machine Learning, Anomaly Detection, Statistical Models, Data Mining]
+    web: [APIs]
+    databases: []
+    data: [Data Visualization]
+    cloud: [Azure, GCP]
+    ops: [CI/CD, DevOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [Test-Driven Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11826762'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:19:14.330977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

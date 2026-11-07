@@ -1,0 +1,56 @@
+company:
+  name: Supabase
+  stage: Series F
+  focus: Open-source Postgres development platform for developers
+position:
+  title: Software Engineer - AI Tooling Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the production infrastructure
+      behind Supabase's AI products (MCP server, auth,
+      observability, capacity) — the description explicitly says
+      it is a systems and infrastructure role, not a product AI
+      role. The person does not shape model behaviour through
+      prompts, retrieval, or training; they run and scale services
+      others build.
+  responsibilities:
+  - 'Build and operate production backend services behind Supabase''s AI products,
+    including the MCP server: deployment, scaling, configuration and release'
+  - Define and meet reliability targets, set SLOs with the SRE team, and track error
+    budgets
+  - Participate in the AI Tooling on-call rotation and act as first responder for
+    incidents
+  - 'Own authentication and authorization for AI and agent clients: OAuth apps, scoped
+    tokens, and agent-friendly permissions'
+  - 'Own observability for team services: metrics, traces, logs, dashboards and alerts'
+  - 'Handle capacity and abuse controls for agent traffic: rate limits, cost and safety
+    controls'
+  - Improve service architecture, including splitting or reshaping services as they
+    grow
+  use_cases:
+  - MCP server that lets AI clients and agents interact with Supabase
+  - Services supporting agent skills and the dashboard assistant
+  - Authentication and authorization for AI and agent clients
+  - Reliability and observability of AI product backend services
+  - Rate limiting and abuse handling for high-volume agent traffic
+  skills:
+    genai: [MCP]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL, Relational Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Infrastructure as Code, Grafana, OpenTelemetry, Monitoring]
+    languages: [TypeScript, Go]
+    domains: []
+    other: [OAuth, OIDC, JWT, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12002167'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:23:17.318333'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

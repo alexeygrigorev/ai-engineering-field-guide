@@ -1,0 +1,237 @@
+job_id: 11885701
+title: Applied AI Engineer, Autonomous Defense
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find and fix and verify exploitable attack
+  vectors before criminals exploit them. Our flagship product,
+  the NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox” security culture, cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn it
+  alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  What You'll Do
+
+  We're looking for an AI Researcher to build the agents that
+  turn our offensive knowledge into defensive action.
+
+  You'll build agents that reason from a proven attack path to
+  the specific control changes that break it - EDR policy,
+  firewall and segmentation rules, conditional access,
+  detection content, cloud IAM, GPO - apply or stage those
+  changes in the customer's environment, and then prove the
+  fix by re-running the attack.
+
+  That last part is why this is tractable. Most defensive AI
+  has no ground truth and gets graded on whether its advice
+  sounds reasonable. Ours gets graded on whether the attack
+  still works. You will have a real outcome signal on a short
+  loop, and hundreds of thousands of prior tests to learn
+  from. It is also why this is hard. These agents run inside
+  customer tenants and modify production security controls. A
+  bad change is an outage or a new hole in someone's defense.
+  The reasoning problem and the safety problem are the same
+  problem here, and you will own both.
+
+  The goal is closed-loop defense: find, fix, verify, running
+  autonomously at enterprise scale. If you want to work on
+  agents where the feedback is real and the stakes are real,
+  this is the job for you.
+
+  Responsibilities
+
+  - Build the reasoning systems that map proven attack paths and
+    exploitation telemetry to specific, applicable control
+    changes, ranked by effectiveness against operational blast
+    radius.
+  - Turn our pentest data into training and evaluation data.
+    Extract the signal of why an attack succeeded in one
+    environment and failed in another.
+  - Design and run counterfactual experiments in representative
+    test environments: would this change have broken this
+    attack chain, what does it cost operationally, and does it
+    generalize beyond the tenant it was learned in.
+  - Design the reasoning layer over heterogeneous control planes
+    so an agent can work across vendor APIs with different
+    policy models without a hardcoded playbook per product.
+  - Design the safety architecture for autonomous change — dry-
+    run and simulation, blast-radius classification, approval
+    gates for high-impact actions, staged rollout, rollback,
+    and an audit trail a customer's change board will accept.
+  - Work with our attack engineers and detection engineers to
+    define target agent behavior and diagnose failure modes:
+    ineffective remediations, over-broad changes, business-
+    breaking policy edits, and recommendations that look right
+    and don't hold on re-test.
+  - Own problems end to end in a 0→1 environment where
+    requirements are ambiguous, systems move fast, and
+    reliability matters, because the output lands in someone's
+    production security posture.
+
+  What You'll Bring
+
+  Required
+
+  - Strong ML engineering experience building, evaluating, and
+    deploying production AI systems, with hands-on work in
+    deep learning, transformer models, and PyTorch.
+  - Hands-on experience with at least one of: post-training
+    large language models (supervised fine-tuning,
+    distillation, preference optimization, RL), or designing
+    agentic systems with tool use, planning, and long-horizon
+    execution that hold up outside a demo.
+  - A track record of building evaluation systems for open-ended
+    tasks where there is no clean label and success is judged
+    by outcome.
+  - Experience reasoning over structured, heterogeneous, messy
+    real-world data — configurations, graphs, logs, policy
+    documents — rather than clean benchmark datasets.
+  - Strong software engineering fundamentals and a track record
+    of shipping and maintaining production-quality code in
+    Python, not just scripts and proofs of concept.
+  - Experience with data pipelines, distributed systems, and
+    cloud infrastructure, preferably AWS.
+  - Ability to work across model behavior, APIs, and
+    infrastructure, and to collaborate closely with attack
+    engineers, detection engineers, product, and
+    infrastructure.
+  - Ability to independently research unfamiliar systems and
+    rapidly become the team's expert.
+  - Strong written and verbal communication, including clear
+    technical documentation.
+  - Master's in Computer Science, Machine Learning, or a related
+    field, or equivalent practical experience, plus 4+ years
+    of professional engineering experience.
+
+  You do not need to have been a pentester or a SOC analyst.
+  You do need to be seriously interested in how attackers and
+  defenders actually operate, and willing to learn it in
+  depth. The reasoning we are building cannot be designed by
+  someone who does not understand the domain.
+
+  Preferred
+
+  - Background in detection engineering, purple teaming,
+    security engineering, offensive security, or incident
+    response.
+  - Hands-on familiarity with security control planes and their
+    APIs and policy models: EDR (CrowdStrike, SentinelOne,
+    Defender), firewalls and segmentation (Palo Alto,
+    Fortinet), identity and conditional access (Entra ID,
+    Okta), SIEM and detection content (Splunk, Sentinel),
+    cloud IAM, WAF, MDM, and GPO.
+  - Experience with causal or counterfactual inference, or with
+    graph reasoning, planning, and search over large state
+    spaces. Familiarity with Neo4j and attack-path analysis.
+  - Experience building automation that takes write actions in
+    production systems, along with the safety and change-
+    management machinery around it.
+  - Experience with adversarial robustness or prompt injection,
+    particularly where an agent consumes untrusted input from
+    the environment it operates in.
+  - Experience integrating ML into production, multi-tenant
+    SaaS, or running ML systems in customer-controlled or air-
+    gapped environments.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $313,000 - $369,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-10-26
+url: "https://www.builtinla.com/job/applied-ai-engineer-autonomous-defense/11885701"
+source: Built In

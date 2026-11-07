@@ -1,0 +1,59 @@
+company:
+  name: NeuraFlash
+  stage: null
+  focus: |-
+    AI consulting integrating Salesforce, Agentforce, and AWS
+    solutions
+position:
+  title: Forward Deployed Engineer, AI & Agentforce
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who architects, tunes, and
+      troubleshoots Agentforce agents (subagents, guardrails,
+      dynamic actions) directly in client environments. This is
+      shaping LLM/agent behaviour, and per the edge cases, forward
+      deployed engineers adapting AI solutions at customer sites
+      are ai-first.
+  responsibilities:
+  - Rapidly construct agentic Agentforce solutions in client environments including
+    subagents, guardrails, dynamic actions, and data models
+  - Lead recurring technical client engagements as the primary touchpoint, incorporating
+    real-time feedback and driving iteration
+  - Build competitive bake-off solutions and fast proof-of-value prototypes on tight
+    timelines
+  - Deliver live interactive demonstrations of complex Agentforce solutions to stakeholders
+  - Perform real-time troubleshooting of dialogue flow failures, execution bugs, and
+    system logic issues
+  - Connect technical delivery to business metrics like deflection, handle duration,
+    and operational expenses for leadership
+  - Convert client implementation insights into reusable accelerators, demo assets,
+    and internal knowledge bases
+  use_cases:
+  - Customer service deflection and handle-time reduction via agentic AI
+  - Competitive bake-offs evaluating Agentforce against other AI architectures
+  - Rapid proof-of-value prototypes for agentic AI solutions
+  - Live demonstrations of agentic platform capabilities to prospective clients
+  - Voice and telephony integration for customer experience workflows
+  skills:
+    genai: [AI Agents, Agentic Workflows, Guardrails, LLMs, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Snowflake, BigQuery]
+    data: [Databricks]
+    cloud: [AWS Bedrock, Vertex AI, AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Salesforce, Agentforce, Salesforce Service Cloud, Salesforce Flow, Apex,
+      Service Cloud Voice, Amazon Connect, Genesys, NICE, Salesforce Data 360, Claude
+        Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11711082'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:40:03.118157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Telnyx
+  stage: null
+  focus: Global connectivity, APIs and edge network services
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent primitives (tool calling,
+      agent orchestration) and defines interfaces/workflows for
+      agent tool use, which is shaping agent behavior. Forward
+      Deployed Engineer-style AI enablement roles are ai-first.
+      LLM/agent component present, so ai-first.
+  responsibilities:
+  - Design, build, and operate production services for AI agents
+  - Build internal tools that improve employee productivity
+  - Build external integrations, connectors, and tools to ease customer integrations
+  - Develop reusable primitives for meetings, browsing, search, email, and payments
+  - Define reliable interfaces and workflows for agent tool use
+  - Work with product and engineering teams to turn agent use cases into practical
+    services
+  - Improve safety, observability, testing, and operational reliability across the
+    platform
+  - Help shape the architecture and direction of the agent enablement platform
+  use_cases:
+  - Agent tool use for meeting participation
+  - Web search and browser automation for agents
+  - Agent-driven email and payments
+  - Customer and employee enablement tools
+  - Agent enablement platform services
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12099340'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:59:17.250769'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

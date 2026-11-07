@@ -1,0 +1,59 @@
+company:
+  name: Yondu AI
+  stage: null
+  focus: Autonomous robot software for warehouse labor
+position:
+  title: Physical AI Infrastructure Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds R&D infrastructure for robot learning:
+      annotation pipelines feeding training datasets,
+      teleoperation, and evaluating whether model-driven behaviors
+      actually succeed against physical outcomes (reward
+      verification, isolating model/controller effects). Judging
+      model output quality and shaping training data signals
+      counts as shaping, but the models are robotics/RL systems
+      with no LLM or agent component, so it is ml-first.
+  responsibilities:
+  - Improve the data annotation pipeline, including data validation, labeling tools,
+    and turning robot demonstrations and deployment data into training datasets
+  - Maintain and improve teleoperation software, including action smoothing, motion
+    mapping, responsiveness, and debugging tools
+  - Develop and evaluate manipulation capabilities including inverse kinematics, motion
+    control, redundancy, and compliant grasping
+  - Write CAN communication and hardware test code for prototype R&D systems (AMR
+    base, lift, arm, gripper interfaces)
+  - Build calibration tools and input/action adapters for swapping arms, grippers,
+    and cameras
+  - Verify real task outcomes with the AI team, investigating false success signals
+    and evaluating rewards against physical results
+  - Build repeatable tests isolating effects of model, controller, and hardware changes
+  - Consolidate experimental branches into a shared, tested, documented codebase
+  use_cases:
+  - Turning robot demonstrations and deployment data into training datasets for robot
+    learning
+  - Teleoperated control of robot arms for warehouse tasks
+  - Autonomous manipulation and grasping with robot arms in warehouses
+  - Prototype hardware evaluation for new robotic systems
+  - Task success verification and reward evaluation for learned robot behaviors
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, Imitation Learning, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Providers]
+    ops: []
+    languages: [Python, C++]
+    domains: [Robotics]
+    other: [Teleoperation, Inverse Kinematics, Motion Control, CAN Communication,
+      Robot Calibration, ROS, Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11548133'
+  location: Gardena, USA
+  extracted_at: '2026-11-06T12:09:47.739001'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

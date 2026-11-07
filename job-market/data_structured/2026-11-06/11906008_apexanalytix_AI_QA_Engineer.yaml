@@ -1,0 +1,56 @@
+company:
+  name: apexanalytix
+  stage: null
+  focus: Procure-to-pay supplier management software
+position:
+  title: AI QA Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evals, guardrails, and LLM-as-a-judge
+      rubrics for LLM, agentic, and RAG systems - building evals
+      and output-quality monitoring for models is shaping model
+      behaviour, and LLM components are involved, so it is ai-
+      first.
+  responsibilities:
+  - Own test strategy for AI products covering LLM features, agentic workflows, RAG
+    pipelines, and ML models
+  - Define acceptance criteria and quality metrics for non-deterministic outputs using
+    LLM-as-a-judge and human evaluation
+  - Build golden datasets, ground-truth labels, and regression suites with subject-matter
+    experts
+  - Develop automated evaluation pipelines (DeepEval, Ragas, promptfoo, LangSmith)
+    running in CI/CD
+  - Test agentic behavior including multi-step planning, tool calling, and guardrail
+    adherence
+  - Validate ML models and data pipelines for quality, bias/fairness, and drift
+  - Perform adversarial and safety testing including prompt injection, jailbreaks,
+    and PII leakage
+  - Monitor production AI quality and lead root-cause analysis of degradations
+  use_cases:
+  - Quality assurance of GenAI and agentic applications for enterprise clients
+  - Testing RAG pipelines and LLM features in production products
+  - Validation of ML models for data quality, bias, and drift
+  - Safety testing against prompt injection, jailbreaks, and PII leakage
+  - Document and image analysis extracting insights from unstructured data
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Prompt Engineering, Function Calling, LLM
+        Evaluation, Guardrails, LangChain, LangGraph, Anthropic API, OpenAI API]
+    ml: [Hugging Face, Machine Learning, Model Evaluation, Statistics, A/B Testing]
+    web: [API Testing, Playwright, Selenium]
+    databases: [Vector Databases]
+    data: [Data Validation, Data Pipelines, Data Quality]
+    cloud: []
+    ops: [LangSmith, CI/CD, Docker, Kubernetes, MLOps, Monitoring, Observability,
+      DevSecOps, PyTest]
+    languages: [Python, SQL]
+    domains: []
+    other: [AI Risk and Governance Frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11906008'
+  location: Noida, IND
+  extracted_at: '2026-11-06T13:56:02.204989'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

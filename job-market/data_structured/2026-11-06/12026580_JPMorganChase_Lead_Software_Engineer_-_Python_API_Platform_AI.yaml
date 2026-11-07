@@ -1,0 +1,53 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Lead Software Engineer - Python, API Platform & AI- assisted development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role shapes no model behaviour: it develops software and
+      drives adoption of enterprise-authorized AI coding
+      assistants and sets validation standards for AI outputs,
+      which is developer workflow enablement, explicitly an ai-
+      support pattern. The AI tools are not the product; this
+      person uses and promotes them.
+  responsibilities:
+  - Design, develop, and troubleshoot software solutions across multiple technical
+    areas
+  - Write secure, high-quality production code and review/debug code written by others
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    (code review, refactoring, test acceleration, incident analysis)
+  - Establish validation standards for AI outputs including secure coding, peer review,
+    and automated testing
+  - Apply SDLC toolchain knowledge, including AI-assisted development and automation
+    capabilities
+  - Identify opportunities to automate remediation of recurring issues to improve
+    operational stability
+  - Lead evaluation sessions with external vendors, startups, and internal teams on
+    architectural designs
+  use_cases:
+  - AI-assisted code review and refactoring
+  - AI-accelerated test strategy and validation
+  - AI-supported incident and root-cause analysis
+  - Automation of recurring software remediation for operational stability
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Native]
+    ops: [CI/CD, DevSecOps]
+    languages: []
+    domains: []
+    other: [Agile, Responsible AI, Software Development Life Cycle]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12026580'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:32:06.432219'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

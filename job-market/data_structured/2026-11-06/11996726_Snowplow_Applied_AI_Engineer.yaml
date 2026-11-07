@@ -1,0 +1,55 @@
+company:
+  name: Snowplow
+  stage: null
+  focus: Real-time behavioral data collection and delivery platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and maintains LLM-driven GTM agents and
+      workflows: designing prompts, tools, structured outputs,
+      evaluation, agent review steps, and Claude skills for
+      sellers. This is directly shaping LLM/agent behavior, so it
+      is ai-first.
+  responsibilities:
+  - 'Own production GTM workflows: outbound orchestrator, campaign builder, intent-signal
+    routine, enrichment pipelines, and paid-media loop'
+  - Build agent review steps that validate lists, signals, and copy before sequences
+    send, with sampled human sign-off
+  - 'Run the learning loop: instrument sends, run A/B tests, and report which messaging
+    works'
+  - Maintain signal and enrichment pipelines into Snowflake and expose fields through
+    MCP tools
+  - Build Claude skills and routines for Growth Associates and AEs
+  - Own deliverability rules, warm-inbox discipline, and suppression windows
+  - 'Apply engineering standards: version control, alerting, tracing, runbooks, and
+    migration to the Firn framework'
+  use_cases:
+  - Outbound sales sequences with daily account scoring and personalized messaging
+  - Campaign builder turning target lists into reviewed outreach campaigns
+  - Intent-signal ranking of warm contacts for sellers
+  - Signal and enrichment pipelines feeding growth analytics
+  - Paid-media ad adjustment loop
+  - Claude-powered seller routines and skills
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, LLM Evaluation,
+      AI Agents, MCP, Claude Code]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Data Pipelines]
+    cloud: []
+    ops: [Git, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, Zapier, Clay, Salesforce, Apollo, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11996726'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:21:25.786352'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

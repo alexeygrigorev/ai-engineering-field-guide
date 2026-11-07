@@ -1,0 +1,128 @@
+job_id: 11747002
+title: Software Engineer, Applied AI
+company: CircuitHub
+location: London, GBR
+locations:
+  - London, GBR
+  - Cambridge, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About CircuitHub
+
+  CircuitHub is reshaping electronics manufacturing with The
+  Grid, a factory-scale robotics platform that makes small-
+  batch, high-mix electronics assembly radically more
+  efficient. Think semiconductor-fab precision applied to the
+  chaotic world of prototyping and low-volume production: a
+  10x throughput improvement in one of the world's most
+  foundational industries.
+
+  We've raised $45M from top-tier investors including Plural,
+  Y Combinator and Google Ventures, and we're already
+  profitable. Our customers include a major EV maker, a top AI
+  lab and many of the worlds largest companies.
+
+  The Grid isn't a prototype. It's live, scaling fast and
+  delivering real revenue, and we're building the team that
+  will scale it further.
+
+  The Role
+
+  CircuitHub makes electronics on demand. Engineers upload a
+  circuit board design; we buy the parts, build the board in
+  our own robotic factory and ship it. More and more of that
+  business is now run by AI agents, and we want you to help
+  build them.
+
+  These aren't chatbots. Our agents have real jobs:
+
+  - They inspect boards. An agent checks camera images of every
+    panel we build for wrong, rotated or missing parts.
+  - They program robots. Agents read datasheets so our pick-and-
+    place machines know how to handle each new part.
+  - They watch the factory. They spot stray parts in robot
+    storage, diagnose printer faults and clear stuck machines.
+  - They run the back office. They book supplier invoices, chase
+    late orders, explain quotes and triage bugs.
+  - They write our code. Most of what our team ships starts in
+    an agent session.
+
+  What you'll do
+
+  Find a process people still do by hand and automate it end
+  to end: decide what needs judgement and what needs plain
+  code, build the tools, and prove it works before it runs
+  alone. Then make it cheaper, faster and right more often.
+  You'll also improve the platform every agent runs on, and
+  work closely with the people your work serves, from factory
+  operators to finance.
+
+  How we build
+
+  - Evals first. An agent earns the right to work alone: blind
+    tests against people's verdicts, shadow runs beside the
+    humans, replays of past decisions. We track accuracy and
+    cost per run, and re-test whenever we change a model, a
+    prompt or the effort level.
+  - Agents judge, code writes. Agents return structured answers.
+    Plain code checks them against a second source and makes
+    every change.
+  - Classical first, model second. Cheap vision and maths narrow
+    the problem so the model only looks where it matters.
+  - Safe by construction. Agents work in sandboxed cloud
+    machines that never hold real credentials, and tool calls
+    are built so a business action can't run twice.
+
+  Recent work
+
+  - Image alignment ranks the parts on each board photo. The
+    worst 20% of parts hold about 90% of real defects, so the
+    agent only inspects those. In a blind re-run it caught all
+    13 defects operators had marked.
+  - A photo check for stray parts in robot storage scored 10 out
+    of 10 blind, at about 8¢ a photo. The model it replaced
+    caught about half.
+  - Agent tool calls leave durable receipts, so a session killed
+    mid-deploy resumes without sending the same email or order
+    twice.
+  - Invoices extracted from supplier emails matched what a
+    person had entered 66 times out of 66.
+  - A constraint solver replans the whole factory every two
+    minutes, across robots, ovens and people.
+
+  What we look for
+
+  - You've put LLM agents into production and can tell us what
+    broke and how you knew it was working.
+  - You're a strong software engineer first. Most of this job is
+    real engineering, not prompting: concurrency, idempotency,
+    data modelling, security.
+  - You build the eval before you trust the result.
+  - You like the physical world: cameras, robots, parts rotated
+    by 90°.
+  - Bonus: computer vision, optimisation or electronics.
+
+  Stack
+
+  - Agents: Claude Code, Codex, Claude and OpenAI APIs, MCP,
+    skills in plain Markdown
+  - Code: TypeScript (Bun, React), Python (FastAPI, Dagster,
+    OpenCV, OR-Tools), PostgreSQL
+  - Infra: Nix and NixOS, Nomad, Terraform, Vault, AWS, Modal
+    sandboxes, OpenTelemetry
+
+  Pay
+
+  UK £80k–£125k · US $125k–$250k, depending on experience,
+  plus equity.
+industries:
+  - Hardware
+  - Internet of Things
+  - On-Demand
+  - Appliances
+  - Manufacturing
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-applied-ai/11747002"
+source: Built In

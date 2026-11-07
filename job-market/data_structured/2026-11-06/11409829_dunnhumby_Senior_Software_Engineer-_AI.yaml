@@ -1,0 +1,48 @@
+company:
+  name: dunnhumby
+  stage: null
+  focus: Customer data science for retail media
+position:
+  title: Senior Software Engineer- AI
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description builds AI-powered applications and platform
+      capabilities but never states the person writes prompts,
+      designs retrieval/agents, or trains/evaluates models; work
+      is largely software engineering supporting AI/ML systems.
+      Responsibilities are too vague to confirm shaping, so it
+      lands between ai-support and unknown; no model-behaviour
+      evidence is given.
+  responsibilities:
+  - Build and deploy AI-powered applications and services supporting Tesco Media products
+  - Collaborate with engineers, product managers and data specialists to translate
+    business challenges into technical solutions
+  - Develop scalable APIs, data pipelines and platform capabilities supporting machine
+    learning and intelligent automation
+  - Drive engineering excellence through testing, code reviews and CI/CD practices
+  - Contribute to architecture discussions shaping AI capabilities across the platform
+  - Mentor colleagues and share technical expertise
+  use_cases:
+  - Retail media campaign effectiveness and personalisation
+  - Targeted advertising across retailers' digital and physical touchpoints
+  - Data-driven measurement and automation for advertisers and retailers
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud]
+    ops: [CI/CD, Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11409829'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T11:45:45.784516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

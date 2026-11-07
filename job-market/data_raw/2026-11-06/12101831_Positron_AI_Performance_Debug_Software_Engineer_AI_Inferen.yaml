@@ -1,0 +1,191 @@
+job_id: 12101831
+title: "Performance & Debug Software Engineer – AI Inference"
+company: Positron AI
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Positron AI
+
+  Positron AI is building next-generation AI inference
+  accelerators designed from the ground up for low-latency,
+  high-throughput large language model inference. Our first-
+  generation ASIC, Asimov, is a cutting-edge accelerator
+  targeting frontier AI workloads, with additional generations
+  already underway.
+
+  Role Overview
+
+  This engineer will improve end-to-end large language model
+  (LLM) inference performance on Positron's custom AI
+  accelerators, including our FPGA-based Atlas systems and our
+  Titan systems built on the Asimov ASIC. The work spans
+  hardware-accelerated attention, accelerator tuning,
+  distributed KV cache, and scalable inference serving
+  architectures. It covers profiling, algorithms, GPU-side
+  data preparation, host-to-device data movement, runtime
+  behavior, and measurement on production-relevant models.
+
+  You will join a small, performance-focused team that is
+  expected to optimize the whole stack, and not merely tune
+  isolated kernel interfaces. The goal is to sustain a
+  repeatable path from observing workload symptoms to
+  identifying root causes and creating measured improvements.
+
+  Key ResponsibilitiesPerformance Profiling and Optimization
+
+  - Profile and optimize latency, throughput, utilization, and
+    efficiency across hardware-accelerated attention,
+    accelerator configuration, the device runtime, host
+    software, and on-device execution.
+  - Use performance counters, hardware and software traces,
+    telemetry, and simulation to isolate regressions and
+    validate fixes.
+
+  Distributed Inference and KV Cache
+
+  - Develop and optimize distributed inference capabilities,
+    including efficient KV cache management and data movement
+    across heterogeneous hardware.
+
+  Benchmarking and Test Infrastructure
+
+  - Build representative benchmarks and workload traces that
+    expose bottlenecks in compute, memory, chip-to-chip
+    interconnect, networking, scheduling, and model loading.
+  - Partner with test engineers embedded in the team to turn
+    performance findings into durable regression tests and
+    release gates.
+
+  Architecture Influence
+
+  - Influence hardware and software architecture and interfaces
+    where measured performance reveals a structural
+    limitation.
+
+  Required Qualifications
+
+  - Strong C++ and Python skills, with hands-on experience
+    profiling and optimizing complex systems that exercise
+    Linux VFIO interfaces..
+  - Deep understanding of memory hierarchy, concurrency, data
+    movement, batching, scheduling, and performance
+    measurement.
+  - Hands-on experience using profilers, counters, traces, and
+    statistical methods to distinguish signal from noise.
+  - Demonstrated ability to debug across application, runtime,
+    driver, firmware, and hardware boundaries.
+  - Experience bringing up software on new silicon, and
+    debugging and analyzing performance optimizations in
+    customer production deployments.
+  - Enthusiasm for AI-accelerated software development,
+    including using coding agents and orchestrating subagents
+    to move faster without compromising engineering outcomes.
+
+  Preferred Qualifications
+
+  - Experience with CUDA, HIP, Triton, GPU kernel development,
+    distributed inference, or KV cache systems.
+  - Familiarity with transformer inference, mixture-of-experts
+    (MoE) models, model serving, FPGA or ASIC accelerators.
+  - Working knowledge of Perfetto, Linux perf, eBPF, simulation,
+    or hardware performance counters.
+
+  Leveling & Scope
+
+  While this role is currently posted at a specific level, we
+  are a growth-oriented organization and are open to hiring at
+  a more senior level for the right candidate. Please note
+  that this job description serves as a focused but
+  generalized overview of the role; specific responsibilities
+  and impact expectations will be tailored to the experience
+  and seniority of the final hire.
+
+  What Success Looks Like
+
+  Within the first 12 months:
+
+  - A baseline performance scorecard exists for priority
+    workloads, with repeatable measurement and clearly
+    identified bottlenecks.
+  - At least one major bottleneck in hardware-accelerated
+    attention, accelerator tuning, or distributed inference
+    has been removed, with an automated regression guard in
+    place.
+  - A key distributed inference data path has a working
+    implementation with quantified end-to-end cost.
+
+  Why Join Us?
+
+  - Work on a small, high-leverage performance team with the
+    mandate to debug and improve the full stack, from
+    application code down to firmware and hardware, rather
+    than being confined to a single layer.
+  - Help shape the distributed inference architecture and KV
+    cache strategy for a custom inference accelerator at a
+    formative stage, with direct influence over interfaces and
+    system design.
+
+  Compensation & Benefits
+
+  The base salary range for this role is $200,000 – $300,000.
+
+  Please note that the figures provided represent the base
+  salary range only and do not include other elements of our
+  total compensation package, equity, or comprehensive
+  benefits.
+
+  At Positron AI, we value the unique expertise each candidate
+  brings. While the range above reflects our typical
+  expectation for the position, we reserve the flexibility to
+  exceed this range for candidates whose specialized skills,
+  significant experience, or unique qualifications fall
+  outside the standard scope of the role. Final offers are
+  determined based on a variety of factors, including internal
+  equity, and individual impact.
+
+  Benefits & Perks
+
+  We want you to do your best work and feel confident that you
+  and your family are taken care of. That means comprehensive
+  coverage, real time to rest, and support for your future.
+
+  Health and wellness
+
+  - Fully company-paid medical, dental, and vision insurance for
+    you and your dependents.
+  - Company-paid life and disability coverage, with voluntary
+    options to add more.
+  - Supplemental hospital, critical illness, and accident
+    coverage available.
+
+  Time off and flexibility
+
+  - Unlimited paid time off; we encourage everyone to truly
+    unplug and recharge.
+  - 13 paid company holidays.
+  - Remote-first culture with a company-provided computer and
+    home office setup.
+
+  Compensation and future
+
+  - Competitive salary and equity.
+  - 401(k) with company matching, eligible from day one.
+
+  Visa Support
+
+  This position is open to candidates currently authorized to
+  work in the U.S. We cannot provide new visa sponsorship for
+  this role but are open to facilitating H-1B visa transfers
+  for eligible candidates.
+
+  Equal Opportunity Employer. If you're excited about the role
+  but don't meet every bullet, we'd still love to hear from
+  you.
+industries:
+  - Hardware
+  - Information Technology
+  - Software
+posted_date: 2026-11-06
+url: "https://www.builtinla.com/job/performance-debug-software-engineer-ai-inference/12101831"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Unified data and AI platform (lakehouse)
+position:
+  title: Evergreen - AI Engineer, AI FDE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, agents, fine-tuning, and
+      LLM deployment on customer data — directly shaping LLM
+      behavior and output quality. Customer-facing forward-
+      deployed AI engineer work is ai-first.
+  responsibilities:
+  - Develop LLM solutions on customer data such as RAG architectures on enterprise
+    knowledge repos
+  - Build, scale, and optimize customer data science workloads and productionize them
+    with MLOps
+  - Advise data teams on data science architecture, tooling, and best practices
+  - Present at conferences such as Data+AI Summit
+  - Provide technical mentorship to the broader ML SME community at Databricks
+  - Collaborate cross-functionally with product and engineering to influence the product
+    roadmap
+  use_cases:
+  - RAG over enterprise knowledge repositories
+  - Natural language querying of structured data (text2sql)
+  - Content generation
+  - Productionizing ML/LLM pipelines for enterprise customers
+  - Scaling customer data science workloads
+  skills:
+    genai: [RAG, AI Agents, Text2SQL, Fine-Tuning, LLMs, Generative AI, LangChain,
+      OpenAI API]
+    ml: [Hugging Face, scikit-learn, TensorFlow, PyTorch, Machine Learning]
+    web: []
+    databases: []
+    data: [Pandas, Spark, Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12011905'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:28:38.275699'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

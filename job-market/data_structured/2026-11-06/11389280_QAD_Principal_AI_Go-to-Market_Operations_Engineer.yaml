@@ -1,0 +1,54 @@
+company:
+  name: QAD
+  stage: null
+  focus: |-
+    Cloud-based enterprise software for manufacturing and supply
+    chain
+position:
+  title: Principal AI Go-to-Market Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds proprietary LLM-based tools, agentic
+      workflows, prompt libraries, and refinement workflows for AI
+      agents — directly shaping LLM/agent behavior. AI agent
+      orchestration and prompt engineering make it ai-first.
+  responsibilities:
+  - Design, code, and deploy custom AI integrations connecting CRM, sales engagement,
+    and tech stack components
+  - Build internal LLM-based tools for account/contact enrichment and outbound messaging
+    automation
+  - Develop agentic workflows handling administrative tasks like CRM data, meeting
+    summaries, and scheduling
+  - Audit the GTM tech stack with RevOps/Marketing Ops to replace redundant vendors
+    with AI
+  - Implement predictive modeling for high-intent pipeline and Next Best Action recommendations
+  - Build AI-driven retention loops and automated renewal triggers with Customer Success
+  - Train GTM teams on effective use of deployed AI tools and prompt libraries
+  use_cases:
+  - Automated account and contact enrichment
+  - Outbound messaging generation for funnel prospects
+  - Predictive pipeline identification with Next Best Action recommendations
+  - Administrative automation (CRM updates, meeting summaries, scheduling)
+  - AI-driven retention loops and renewal triggers
+  - Content distribution and performance marketing automation to lower CAC
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, Anthropic API,
+      Claude Code]
+    ml: [Predictive Modeling, Model Evaluation]
+    web: [APIs]
+    databases: [Salesforce]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, HTML]
+    domains: []
+    other: [Salesforce, Gong, Outreach, Clay]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389280'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:40:34.539527'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

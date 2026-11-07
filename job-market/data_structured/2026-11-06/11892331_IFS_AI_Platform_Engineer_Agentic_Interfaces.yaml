@@ -1,0 +1,58 @@
+company:
+  name: IFS
+  stage: null
+  focus: Enterprise software for asset and operations management
+position:
+  title: AI Platform Engineer, Agentic Interfaces
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs MCP servers, agent skill routing,
+      semantic/ontology layers, control planes with injection
+      resistance, and agent evaluation harnesses — directly
+      shaping agent behaviour and output quality. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design and build MCP servers over the product's business objects with capability
+    modelling, versioning and backward compatibility
+  - Build the write path that lets agents safely change customer operational data
+  - 'Build a semantic layer: ontology and knowledge graph generated from platform
+    metadata and curated per industry'
+  - Build the skills layer mapping requests to correct operations with a router between
+    them
+  - 'Build the control plane: authentication, entitlements, agent identity, telemetry,
+    metering and injection resistance'
+  - Build an evaluation harness certifying agent behaviour against the real product
+  - Build rapid prototypes and proofs of concept to validate emerging technology and
+    customer scenarios
+  - 'Establish engineering practices: evaluation, observability, security and operational
+    excellence, and represent the team externally'
+  use_cases:
+  - AI agents operating safely inside enterprise software
+  - Agent-driven writes to customer operational data
+  - Industry-specific semantic knowledge graph over an enterprise product
+  - Routing user requests to correct operations and sequences
+  - 'Agent governance: identity, entitlements, metering and injection resistance'
+  - Evaluation and certification of agent behaviour against real product
+  skills:
+    genai: [MCP, LLMs, RAG, Agentic Workflows, Function Calling, Multi-Agent Systems,
+      Prompt Engineering, Context Engineering, Semantic Kernel, LangGraph, AutoGen,
+      CrewAI, OpenAI API, PydanticAI, Embeddings]
+    ml: []
+    web: [APIs, OData]
+    databases: [Knowledge Graphs, Vector Databases, Oracle, SQL]
+    data: [Event-Driven Architecture]
+    cloud: [Azure, AWS, GCP]
+    ops: [Distributed Systems, Observability, Monitoring, Docker, Kubernetes, CI/CD,
+      Security]
+    languages: [PL/SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11892331'
+  location: Staines-upon-Thames, GBR
+  extracted_at: '2026-11-06T13:44:10.793821'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

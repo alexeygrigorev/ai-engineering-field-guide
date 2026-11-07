@@ -1,0 +1,65 @@
+company:
+  name: Horizon3.ai
+  stage: null
+  focus: Autonomous pentesting and offensive cybersecurity platform
+position:
+  title: Principal Attack Engineer, AI/LLM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: directing prompt
+      injection research, designing LLM-powered agentic workflows,
+      evaluation systems, and guardrails for autonomous offensive
+      capabilities. The deliverable is model/agent behavior and
+      output quality in NodeZero's LLM attack engine, making it
+      ai-first.
+  responsibilities:
+  - Define long-term technical vision for AI/LLM offensive capabilities within NodeZero
+    and company product strategy
+  - Own NodeZero's coverage of the OWASP Top 10 for LLM Applications and define coverage
+    beyond it for multi-agent and tool-connected systems
+  - Direct research on prompt injection, tool-use exploitation, context poisoning,
+    data exfiltration, and other agentic attack paths
+  - Set technical direction for assessing AI infrastructure including model serving,
+    training pipelines, vector databases, and MLOps tooling
+  - Establish company-wide standards for safety, reliability, observability, evaluation,
+    and cost in LLM-powered offensive systems
+  - Set architecture for LLM-powered agentic applications, evaluation systems, and
+    their integration with NodeZero
+  - Develop senior technical talent and lead cross-company initiatives across engineering,
+    product, and customer-facing teams
+  - Represent the company externally through technical writing, talks, research, and
+    open-source contributions
+  use_cases:
+  - Autonomous AI/LLM security testing of enterprise chatbots, copilots, RAG pipelines,
+    and AI agents
+  - Finding and validating exploitable attack paths including prompt injection and
+    tool-use abuse in customer environments
+  - Detecting sensitive information disclosure, system prompt leakage, and excessive
+    agency in LLM applications
+  - 'Assessing AI infrastructure security: model serving, training pipelines, vector
+    databases, and MLOps tooling'
+  - Evaluating model poisoning, training-data extraction, and supply-chain attacks
+    on AI systems
+  skills:
+    genai: [Agentic Workflows, Prompt Injection, RAG, AI Agents, LLMs, LLM Evaluation,
+      Guardrails]
+    ml: []
+    web: [Microservices]
+    databases: [Vector Databases, Neo4j]
+    data: []
+    cloud: [AWS Bedrock, AWS, Azure OpenAI, Vertex AI]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [Penetration Testing, Offensive Security]
+    other: [OWASP Top 10 for LLM Applications, MITRE ATLAS, Vulnerability Research,
+      Threat Modeling, Exploit Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11993800'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:20:44.187178'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

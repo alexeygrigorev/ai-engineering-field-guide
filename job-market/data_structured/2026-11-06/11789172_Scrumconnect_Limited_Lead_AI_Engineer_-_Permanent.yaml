@@ -1,0 +1,58 @@
+company:
+  name: Scrumconnect Limited
+  stage: null
+  focus: |-
+    Digital consultancy delivering AI and digital services to UK
+    government
+position:
+  title: Lead AI Engineer - Permanent
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, semantic search,
+      embedding infrastructure, LLM orchestration with agentic
+      frameworks, prompt engineering, and evaluation harnesses —
+      directly shaping model behaviour and output quality. LLM
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design, build, and ship production AI components including RAG pipelines, retrieval
+    and embedding infrastructure, orchestration logic, and integration layers
+  - 'Lead engineering practice within the squad: set coding standards, review designs
+    and PRs, unblock complex problems, mentor engineers'
+  - Implement guardrails such as bias mitigation checks, evaluation harnesses, and
+    human-in-the-loop review points in the running system
+  - Build AI services to be secure-by-default and observable in production with logging,
+    monitoring, alerting, and rollback paths
+  - Pair with and upskill internal government engineers via OKUA framework and Docs-as-Code
+    practices
+  - Right-size models and infrastructure for resource efficiency in line with Green
+    AI and Net Zero commitments
+  use_cases:
+  - AI Operating Model programme for a central UK government department
+  - Semantic search and RAG over sensitive public-sector data
+  - Generative AI capability integrated into legacy and multi-cloud environments
+  - Responsible AI enforcement with bias, hallucination, and human-in-the-loop controls
+  skills:
+    languages: [Python]
+    domains: [Computer Vision]
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: [Data Engineering, Data Pipelines]
+    ml: [Fine-Tuning, Machine Learning, Deep Learning, NLP]
+    databases: []
+    genai: [RAG, Semantic Search, Embeddings, LangChain, LlamaIndex, Agentic Workflows,
+      Prompt Engineering, Guardrails, LLM Evaluation, Generative AI, LLMs]
+    ops: [LLMOps, MLOps, CI/CD, Infrastructure as Code, Monitoring, Model Deployment]
+    other: [RPA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11789172'
+  location: GBR
+  locations:
+  - GBR
+  - Exeter District, GBR
+  remote: true
+  extracted_at: '2026-11-06T13:12:56.981382'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

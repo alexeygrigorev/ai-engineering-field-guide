@@ -1,0 +1,54 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: |-
+    GPU and accelerated computing hardware and software
+    platforms
+position:
+  title: Senior AI Developer Technology Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes the internals of generative AI models
+      (LLMs, diffusion, multimodal) — low-level performance
+      optimization, parallelization of training/inference, and
+      contributing to training frameworks. Optimizing model
+      internals is shaping, and LLM/generative targets are
+      involved, so it is ai-first.
+  responsibilities:
+  - Develop techniques to GPU-accelerate generative AI workloads including LLMs, diffusion
+    models, and multimodal systems
+  - Optimize and accelerate generative AI training and inference with key developers
+    on the NVIDIA platform
+  - Contribute to training and inference frameworks, low-level software libraries,
+    and open-source projects
+  - Partner with industry and academic experts to analyze and optimize AI algorithms
+    on CPU and GPU architectures
+  - Influence next-generation hardware, system software, libraries, and programming
+    model design with internal engineering and research teams
+  - Publish optimization techniques in developer blogs and present at conferences
+  use_cases:
+  - GPU acceleration of generative AI training and inference
+  - Performance optimization of LLMs, diffusion models, and multimodal architectures
+  - Parallelization and low-level optimization of AI algorithms on CPU/GPU
+  - Optimization of pre-training and post-training pipelines
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [PyTorch, Deep Learning, Machine Learning, CUDA, Model Training, Fine-Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [C++, Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11624824'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:24:05.941189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and AI solutions
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows,
+      and RAG systems to shape LLM output quality, which makes it
+      ai-first. Infrastructure work (EKS, CI/CD) is secondary to
+      shaping LLM behavior.
+  responsibilities:
+  - Design, build, and optimize autonomous AI agents and workflow automation systems
+    using Gen AI authoring frameworks
+  - Develop and deploy generative AI applications leveraging LLMs and RAG for context-aware
+    outputs
+  - Architect cloud-native solutions on AWS using EKS for container orchestration
+    and scalability
+  - Establish and maintain CI/CD pipelines for ML model and software deployment
+  - Write clean, efficient Python code for backend logic, data processing, and model
+    integration
+  - Collaborate with cross-functional teams on technical requirements and reliability
+    of AI services
+  - Evaluate emerging AI tools and technologies to recommend improvements
+  use_cases:
+  - Autonomous AI agents and workflow automation for complex business challenges
+  - Context-aware generative AI applications using LLMs and RAG
+  - Production-ready AI services to enhance operational efficiency for clients
+  skills:
+    genai: [AI Agents, Agentic Workflows, Generative AI, LLMs, RAG, Prompt Engineering]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, EKS]
+    ops: [Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12002067'
+  location: Gurugram, IND
+  locations:
+  - Gurugram, IND
+  - Pune, IND
+  extracted_at: '2026-11-06T14:23:08.679554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

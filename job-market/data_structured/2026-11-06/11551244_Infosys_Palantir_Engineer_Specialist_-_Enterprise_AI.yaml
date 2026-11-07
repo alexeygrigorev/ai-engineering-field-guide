@@ -1,0 +1,52 @@
+company:
+  name: Infosys
+  stage: null
+  focus: Global IT services and management consulting
+position:
+  title: Palantir Engineer Specialist - Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines, transformations, and
+      ontology models in Palantir Foundry for analytics and
+      operational use cases. There is no prompt engineering, RAG,
+      agent design, or model training/evaluation - it is data
+      engineering and consulting delivery, so it is ai-support.
+  responsibilities:
+  - Own end-to-end delivery of Palantir Foundry-based solutions from problem definition
+    to production
+  - Design and implement data pipelines and transformations across diverse data sources
+  - Model data using Foundry Ontology concepts to support analytics and operational
+    use cases
+  - Build scalable solutions using Python, SQL, and PySpark within Foundry
+  - Collaborate with business stakeholders to define requirements, success metrics,
+    and roadmaps
+  - Support prototyping, productionisation, and scaling of data-driven applications
+  - Ensure solutions meet data quality, governance, security, and performance requirements
+  - Act as technical advisor within project teams and contribute to best practices
+  use_cases:
+  - Enterprise data integration and transformation on Palantir Foundry
+  - Ontology-based data modeling for analytics and operational use cases
+  - Scalable ETL/ELT pipelines across diverse enterprise data sources
+  - Data governance, quality, and lineage in client environments
+  - Data-driven applications across Energy, Finance, Public Sector, Healthcare, and
+    Logistics domains
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs]
+    cloud: [AWS, Azure, GCP]
+    data: [Data Pipelines, PySpark]
+    ml: []
+    databases: [Databases]
+    genai: []
+    ops: [CI/CD, Docker, Kubernetes]
+    other: [Palantir Foundry, Data Lakes, Data Warehouses]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11551244'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:10:48.116133'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

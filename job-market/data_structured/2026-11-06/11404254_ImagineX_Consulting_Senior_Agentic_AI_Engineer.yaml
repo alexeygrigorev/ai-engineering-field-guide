@@ -1,0 +1,59 @@
+company:
+  name: ImagineX Consulting
+  stage: null
+  focus: |-
+    AI-assisted teams building enterprise software, data, and AI
+    solutions
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic LLM systems in
+      production: multi-agent orchestration, tool-use reasoning
+      loops, guardrails, evals, and RAG — all directly shaping
+      model behaviour via LLMs.
+  responsibilities:
+  - Design, build, and deploy production-grade autonomous agent systems, multi-agent
+    frameworks, and stateful orchestration pipelines in Python
+  - Implement tool-use reasoning loops, dynamic planning, function-calling patterns,
+    and memory architectures
+  - Evaluate, benchmark, and integrate foundation models (OpenAI, Anthropic, open-weight)
+    for latency, cost, and reasoning quality
+  - Connect agents securely to enterprise tools, databases, APIs, and external execution
+    environments
+  - Build retrieval pipelines, hybrid search systems, and vector databases to supply
+    real-time context
+  - Implement evals, guardrails, tracing, and observability for agent behavior and
+    hallucination prevention
+  - Design fallback mechanisms, human-in-the-loop execution paths, and retry logic
+  - Own end-to-end technical direction for AI initiatives and partner with client
+    leaders on product roadmaps
+  use_cases:
+  - Autonomous agent orchestration for enterprise workflows
+  - Tool-use and multi-step reasoning with enterprise tools and APIs
+  - Retrieval-augmented context supply via RAG and vector search
+  - Agent reliability via evals, guardrails, and human-in-the-loop fallbacks
+  - Model selection and benchmarking for production latency and cost
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, Function Calling, Structured Outputs,
+      LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex, LLMs, OpenAI API, Anthropic
+        API, Embeddings, RAG, Guardrails, Semantic Search]
+    ml: []
+    web: []
+    databases: [Vector Databases, Pinecone, Qdrant, Weaviate, pgvector]
+    data: []
+    cloud: [Azure, AWS Bedrock, Vertex AI]
+    ops: [LangSmith, Weights & Biases, Observability]
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11404254'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:44:51.115698'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

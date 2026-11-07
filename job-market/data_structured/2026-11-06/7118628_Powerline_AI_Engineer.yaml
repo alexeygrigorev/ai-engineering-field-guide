@@ -1,0 +1,77 @@
+company:
+  name: Powerline
+  stage: null
+  focus: Renewable energy asset optimization software
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic LLM systems — tool-using
+      agents, RAG/memory, evals, and orchestration — directly
+      shaping model behavior, so it is ai-first.
+  responsibilities:
+  - Architect and build agentic AI systems that plan, reason, and act across workflows
+  - Design tool-using agents that integrate with Powerline systems
+  - Develop multi-step, stateful, and long-running autonomous decision systems
+  - Define and implement evaluation frameworks for agent behavior
+  - Improve reliability, observability, and safety of LLM-based systems in production
+  - Collaborate with energy market specialists to translate workflows into agent behavior
+  - Help lead technical direction for agent architecture
+  use_cases:
+  - Decision support for energy asset operations
+  - Answering complex questions and explaining algorithm results in energy markets
+  - Autonomous continuous monitoring tasks without human intervention
+  - Orchestrating modeling workflows combining LLMs, time-series data, and optimization
+    engines
+  - Maximizing operational performance of renewable energy and battery storage assets
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, LangChain, Pydantic AI, LLM Evaluation]
+    ml: [Machine Learning, Time-Series Forecasting]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7118628'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - AUS
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Palo Alto, USA
+  remote: true
+  extracted_at: '2026-11-06T15:02:36.679249'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

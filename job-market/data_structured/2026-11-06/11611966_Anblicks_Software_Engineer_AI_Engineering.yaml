@@ -1,0 +1,57 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data and AI consulting for enterprises
+position:
+  title: Software Engineer – AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, builds AI agent workflows
+      with prompt engineering and function calling, and develops
+      MCP servers - directly shaping LLM behavior. Explicitly not
+      a traditional ML role, with clear LLM/agent components.
+  responsibilities:
+  - Develop full-stack applications including UIs, backend services, REST APIs, and
+    LLM integrations
+  - Build AI agent workflows using LLMs, prompt engineering, function calling, and
+    structured outputs
+  - Develop and integrate MCP servers to connect AI agents with enterprise tools and
+    data sources
+  - Design and enhance RAG pipelines including chunking, embeddings, vector search,
+    and context retrieval
+  - Build secure AI platform capabilities such as access controls, policy enforcement,
+    and usage monitoring
+  - Integrate enterprise data sources, semantic layers, and knowledge graphs into
+    AI workflows
+  - Implement automated testing, LLM evaluations, logging, tracing, and monitoring
+  - Maintain data pipelines supporting AI and RAG-based solutions
+  use_cases:
+  - Enterprise-grade AI platforms
+  - Intelligent AI agents
+  - LLM-powered enterprise applications
+  - RAG-based retrieval over enterprise data sources
+  - Connecting AI agents to enterprise tools and APIs via MCP
+  - Secure enterprise AI with access controls and monitoring
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, MCP, RAG,
+      Embeddings, AI Agents, OpenAI API, Anthropic API, Gemini, LangChain, LangGraph,
+      LlamaIndex, CrewAI, AutoGen, LLM Evaluation, Generative AI]
+    ml: []
+    web: [React, Next.js, REST APIs, OAuth]
+    databases: [Vector Databases, Knowledge Graphs, Neo4j, Snowflake, SQL, Vector
+        Search]
+    data: [Data Pipelines, Databricks, dbt]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, Docker, LangSmith, Langfuse]
+    languages: [Python, TypeScript, JavaScript, Node.js]
+    domains: []
+    other: [GitHub Copilot, Cursor, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11611966'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:21:06.510915'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

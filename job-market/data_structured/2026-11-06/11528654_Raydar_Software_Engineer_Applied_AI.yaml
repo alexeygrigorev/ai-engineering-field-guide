@@ -1,0 +1,50 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Financial services technology company
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships autonomous agents, orchestration
+      layers, RAG, tool calling, prompt engineering, and
+      evaluation infrastructure — directly shaping LLM/agent
+      behavior. Clear ai-first.
+  responsibilities:
+  - Build autonomous software agents that handle complex multi-step tasks using planning,
+    code execution, search and retrieval
+  - Develop background agents that triage communications, process meetings and draft
+    messages on behalf of users
+  - Create the orchestration layer connecting language models, context, tools, retrieval
+    and business logic
+  - Design interactive real-time interfaces for human-agent collaboration
+  - Build evaluation infrastructure measuring factual accuracy and judgment-based
+    quality
+  - Design memory and context systems that evolve understanding of individual users
+  - Account for auditability, compliance and fast-changing datasets in system design
+  use_cases:
+  - Autonomous agents executing complex multi-step tasks
+  - Background agents triaging communications and drafting messages
+  - Meeting processing on behalf of users
+  - Human-agent collaborative real-time workflows
+  - Personalized memory and context understanding of users
+  skills:
+    genai: [AI Agents, RAG, Function Calling, Prompt Engineering, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Modeling]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11528654'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:06:09.078805'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

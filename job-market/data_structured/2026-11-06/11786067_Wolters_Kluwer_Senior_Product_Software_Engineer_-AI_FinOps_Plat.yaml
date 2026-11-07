@@ -1,0 +1,51 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Professional information services and software
+position:
+  title: Senior Product Software Engineer -AI FinOps & Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core responsibilities are generic software engineering
+      (designing, developing, testing applications). AI appears
+      only in a skills bullet about adopting AI tools, validating
+      AI-generated code, and designing agent workflows "for team
+      efficiency" — the deliverable is developer workflow and team
+      productivity, not product model behaviour. Per the edge
+      cases, rolling out AI tools so other engineers ship faster
+      is ai-support.
+  responsibilities:
+  - Lead design, development, and maintenance of complex software applications
+  - Collaborate with cross-functional teams on design specifications
+  - Prepare technical specifications and requirements documents
+  - Identify bottlenecks and optimize software performance
+  - Create comprehensive testing routines and procedures
+  - Apply mathematical and statistical approaches to solve complex software problems
+  - Prepare and preprocess data for analysis in software applications
+  - Evaluate AI tool usage and validate AI-generated code; establish responsible AI
+    practices and design AI agent workflows for team efficiency
+  use_cases:
+  - Software product development and maintenance
+  - AI tool adoption and AI-generated code validation for engineering teams
+  - AI agent workflow design for team efficiency
+  - Data preparation and preprocessing for analysis
+  skills:
+    genai: [Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python, Java, C++, SQL]
+    domains: []
+    other: [Software Testing, Agile, Responsible AI, Technical Documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11786067'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:11:42.298491'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

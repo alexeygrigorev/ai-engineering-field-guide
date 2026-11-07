@@ -1,0 +1,57 @@
+company:
+  name: Snowplow
+  stage: null
+  focus: Real-time behavioral data platform for analytics and AI
+position:
+  title: Forward Deployed Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows with prompts,
+      tools, evaluation, and approval gates on a shared agent
+      framework — directly shaping agent/LLM behavior. Forward
+      Deployed Engineers who build and adapt AI solutions are ai-
+      first per the edge cases.
+  responsibilities:
+  - Map how a business function's work actually runs today, including inputs, handoffs,
+    approvals, and quality bars
+  - Build the case for whether a workflow should move onto agents, including recommending
+    against AI when appropriate
+  - Design and build agentic workflows on Snowplow's shared factory framework with
+    declared queues, gates, and focused agents
+  - Decide approval gates where agents act autonomously versus propose for human approval,
+    and record agent actions
+  - Make a function's knowledge, systems of record, and quality bar explicit enough
+    for agents to work from
+  - Tune agent output with domain experts, handle reliability and edge cases, and
+    encode judgment into automated checks
+  - Hand off built workflows to the function and embedded engineers, then support
+    improvements from afar
+  - Own and document the repeatable pattern for moving workflows from map to agents
+    to handoff
+  use_cases:
+  - Internal AI-native transformation of business functions
+  - Agentic workflows that automate recurring operational work across sales, marketing,
+    and customer teams
+  - Agent orchestration with approval gates and audit ledgers for agent runs
+  - Handing off agent-run workflows that functions own and evolve themselves
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, Prompt Engineering, Function Calling]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11990305'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:20:10.326984'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

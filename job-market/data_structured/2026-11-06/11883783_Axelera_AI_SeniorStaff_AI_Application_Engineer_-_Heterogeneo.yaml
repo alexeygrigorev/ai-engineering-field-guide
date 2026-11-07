@@ -1,0 +1,91 @@
+company:
+  name: Axelera AI
+  stage: null
+  focus: Edge AI hardware accelerator and software platform
+position:
+  title: Senior/Staff AI Application Engineer - Heterogeneous Computing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes model internals (graph partitioning,
+      operator fusion, memory planning, offloading, expert
+      caching, speculative decoding) to shape how models execute
+      across heterogeneous hardware, which is shaping model
+      behaviour. Targets include large/LLM models with generative
+      execution techniques, so per the edge case for optimizing
+      model internals with generative targets, this is ai-first.
+  responsibilities:
+  - 'Build the model enablement platform and agent harness: reusable tools to partition,
+    compile, run and profile models, with closed-loop runs and verification integrated
+    into CI'
+  - 'Own model ingestion: capture, analyse and split PyTorch/ONNX models across the
+    AIPU, host CPU and host accelerators with user-overridable placement tags'
+  - Extend heterogeneous execution to large models, cascades and multi-model pipelines,
+    including expert offloading and caching across device and host memory
+  - 'Drive end-to-end performance: host/device overlap, zero-copy buffers, batching,
+    multi-core scheduling, profiling device time, host time and data movement'
+  - Study customer-critical models on Metis and Europa and turn lessons into platform
+    improvements
+  - Use AI coding agents to build, test and verify own engineering work
+  use_cases:
+  - Compiling and partitioning ML models for edge AI hardware (Metis/Europa AIPU)
+  - Heterogeneous execution of large models and multi-model pipelines across CPU,
+    GPU, NPU and AIPU
+  - End-to-end inference performance optimization for edge AI workloads
+  - Automated model verification and regression testing in CI
+  - Expert offloading and caching for large-model execution across device and host
+    memory
+  skills:
+    genai: [MCP, AI Agents]
+    ml: [PyTorch, ONNX, MLIR, TVM, XLA, TorchInductor, IREE, CUDA, Quantization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ONNX Runtime, Differential Testing]
+    languages: [C++, Python]
+    domains: []
+    other: [OpenCL, Vulkan, Speculative Decoding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11883783'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Paris, CAN
+  - Athens, CAN
+  - Eindhoven, NLD
+  - Amsterdam, NLD
+  - Bluewater, CAN
+  - Site, TUR
+  - Dawn-Euphemia, CAN
+  remote: true
+  extracted_at: '2026-11-06T13:31:50.965614'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

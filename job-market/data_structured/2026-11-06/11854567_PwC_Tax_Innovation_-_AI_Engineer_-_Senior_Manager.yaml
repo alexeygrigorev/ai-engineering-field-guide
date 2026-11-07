@@ -1,0 +1,56 @@
+company:
+  name: PwC
+  stage: null
+  focus: 'Professional services: tax, audit, and advisory'
+position:
+  title: Tax Innovation - AI Engineer - Senior Manager
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, implements, and iterates on AI/ML systems
+      (Python, deep learning, NLP) for tax workflows, so it shapes
+      model behavior. No LLM/agent components are named—only
+      classical ML, NLP, and deep learning—so it classifies as ml-
+      first.
+  responsibilities:
+  - Lead AI engineering workstreams for tax technology initiatives, translating client
+    needs into scalable solutions
+  - Design and implement AI systems using Python, deep learning, and NLP for tax data
+    automation and insight generation
+  - Build data pipelines and validate model inputs for production environments
+  - Direct teams through complex delivery scenarios and decide on technical issues
+    and delivery risks
+  - Present technical narratives, findings, and recommendations to clients and internal
+    stakeholders
+  - Guide rapid experimentation, model testing, and iteration to improve AI solutions
+  - Coach team members on AI implementation methods and responsible use of machine
+    learning
+  use_cases:
+  - Tax data automation
+  - Insight generation for tax workflows
+  - AI-driven transformation of tax service delivery
+  - Processing structured and unstructured tax data
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning]
+    web: []
+    databases: [Snowflake]
+    data: [Data Pipelines, Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11854567'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Chicago, USA
+  - New York, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T13:24:01.758227'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,62 @@
+company:
+  name: Velsera
+  stage: null
+  focus: Genomics and drug discovery software platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role rolls out an internal AI platform and AI developer
+      tooling (code assistance, PR review support, test
+      generation) plus AI-assisted ops on existing monitoring
+      stacks — the deliverable is developer workflow and
+      operational capacity, not shaping model behaviour. No prompt
+      design, retrieval, training, or eval ownership of the models
+      themselves is described.
+  responsibilities:
+  - 'Build and operate an internal AI platform for developer workflows: code assistance,
+    PR review support, test generation, documentation, and automation'
+  - Integrate AI capabilities into the CI/CD and developer toolchain with templates,
+    examples, and self-service patterns
+  - Implement AI quality gates (policy checks, confidence thresholds, regression tests,
+    secure-by-default configs) before merging/releasing AI-generated changes
+  - Design logging/auditability, access controls, and data-handling guardrails for
+    HIPAA/GxP regulated work
+  - Maintain FedRAMP-boundary-safe separation and compliant tooling alternatives for
+    federal work
+  - Partner with engineering leads and security/compliance to define internal standards
+    for responsible AI use
+  - 'Build AI-assisted operations: anomaly detection, incident triage support, runbook
+    automation, and self-healing patterns to reduce MTTR'
+  - Measure impact on adoption, cycle time, and incident metrics and report to engineering
+    leadership
+  use_cases:
+  - AI-assisted developer workflows (code assistance, PR review support, test generation,
+    documentation)
+  - 'AI-assisted operations: anomaly detection, intelligent alerting, incident triage,
+    runbook automation'
+  - Automated agent workflows executing scoped engineering tasks
+  - Responsible AI adoption and quality gating in regulated life-sciences environments
+  - Regulated clinical and federal software delivery for genomics and drug discovery
+  skills:
+    genai: [LLMs, Agentic Workflows, Code Review]
+    ml: [Anomaly Detection]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Jenkins, GitLab CI, GitHub, Prometheus, ELK Stack, CloudWatch, SonarQube,
+      Monitoring, Observability, DevOps Guru]
+    languages: [Python, Java, Go, TypeScript]
+    domains: []
+    other: [HIPAA Compliance, Responsible AI, FedRAMP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11961377'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:11:51.195965'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

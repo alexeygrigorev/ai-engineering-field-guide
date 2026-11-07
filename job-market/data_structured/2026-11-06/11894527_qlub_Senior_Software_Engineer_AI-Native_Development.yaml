@@ -1,0 +1,60 @@
+company:
+  name: qlub
+  stage: null
+  focus: QR-code payments and ordering for restaurants
+position:
+  title: Senior Software Engineer, AI-Native Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows (retrieval,
+      tool calling, controlled actions) plus guardrails,
+      approvals, and observability for them, which is shaping LLM
+      behavior. Requirement of LLM APIs, tool calling, RAG,
+      agentic workflows confirms ai-first.
+  responsibilities:
+  - Design, build, and operate secure, scalable payment services including gateways,
+    transaction processing, reconciliation, and settlement
+  - Build and maintain integrations with POS systems, payment providers, and third-party
+    platforms
+  - Use AI-assisted development tools across the software development lifecycle
+  - Design and develop AI-powered agentic workflows that retrieve data, call tools,
+    and execute controlled actions
+  - Implement permissions, human approvals, guardrails, observability, auditability,
+    and fallbacks for agentic systems
+  - Improve speed, reliability, security, and cost efficiency of payment and AI workflows
+  - Write clean, tested, well-documented code following financial-system security
+    best practices
+  use_cases:
+  - Agentic workflows that retrieve data, call tools, and execute controlled actions
+    on internal systems
+  - 'Payment services: gateways, transaction processing, reconciliation, settlement'
+  - POS and third-party payment provider integrations
+  - Guardrails, approvals, and observability for production AI agents
+  skills:
+    languages: [Go]
+    domains: []
+    web: [REST APIs, Microservices, React]
+    cloud: []
+    data: []
+    ml: []
+    databases: [Vector Databases, Data Modeling]
+    genai: [LLMs, Function Calling, RAG, Agentic Workflows, AI Agents, Prompt Engineering,
+      Guardrails, Embeddings, Semantic Search, LLM Evaluation]
+    ops: [Observability, CI/CD, Infrastructure as Code, Automated Testing, Distributed
+        Systems]
+    other: [POS Systems, PCI DSS, Payment Gateways]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894527'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Bucharest, ROU
+  - Amsterdam, NLD
+  - Warsaw, POL
+  remote: true
+  extracted_at: '2026-11-06T13:51:48.711063'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

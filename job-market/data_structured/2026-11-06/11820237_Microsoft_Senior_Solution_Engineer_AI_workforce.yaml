@@ -1,0 +1,51 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Enterprise software and cloud computing
+position:
+  title: Senior Solution Engineer (AI workforce)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical pre-sales/solution engineering role that
+      connects customer needs to Microsoft's existing AI portfolio
+      (Copilot, Azure AI) and designs solution architectures for
+      sales. The person does not shape model behaviour through
+      prompts, retrieval, training, or evals; they consume and
+      position solutions others built.
+  responsibilities:
+  - Act as trusted technical advisor to strategic Japan-headquartered global customers
+    on AI and cloud workforce transformation
+  - Design and validate solution architectures demonstrating business value in complex
+    digital transformation engagements
+  - Lead complex technical wins across workloads, regions, and teams, coaching technical
+    sellers and account teams
+  - Scale customer success through partner relationships and ecosystem orchestration
+  - Develop competitive and market insights and feed them back to product and engineering
+    teams
+  - Shape long-term architectures and de-risk large multi-country deals
+  use_cases:
+  - Workforce transformation with AI and cloud solutions
+  - Productivity and employee experience enhancement
+  - Operational excellence for Japan-headquartered global enterprises
+  - Security and workforce transformation solution architecture
+  skills:
+    genai: [GitHub Copilot, Copilot Studio]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11820237'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T13:18:20.367464'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy: quality engineering, cloud
+    platforms, developer experience
+position:
+  title: AI Enabled SDLC Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core deliverable is production Python/FastAPI services
+      and coaching 120+ engineers on AI-assisted development using
+      agentic editors like Claude Code and Cursor. Using and
+      rolling out AI coding tools is explicitly ai-support; the
+      person does not shape a model's behaviour through prompts,
+      retrieval, or evals, but enforces engineering guardrails
+      (architecture tests, coded standards) around AI-generated
+      code.
+  responsibilities:
+  - Design, build, and ship production-quality Python/FastAPI services on an agentic
+    development platform
+  - Establish and enforce engineering guardrails via acceptance tests, architecture
+    tests, and coded standards
+  - Use agentic editors (Claude Code, Cursor) daily as a core delivery tool
+  - Coach other engineers on safe, productive, and governed use of agentic development
+    across 120+ engineers
+  - Identify and mitigate agent failure modes such as prompt injection, hallucinated
+    APIs, and unsafe code edits
+  - Work cross-functionally with cloud, AI, Snowflake, and application teams to surface
+    blockers and keep delivery on track
+  use_cases:
+  - Agentic AI-assisted software development at enterprise scale
+  - Governance and guardrails for AI-generated code in production
+  - Re-architecting legacy or Excel-based applications into modern services
+  - Internal developer platform adoption and paved-road engineering
+  skills:
+    genai: [Prompt Injection]
+    ml: []
+    web: [FastAPI]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS]
+    ops: [Claude Code, GitHub Actions]
+    languages: [Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893688'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:48:28.246833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

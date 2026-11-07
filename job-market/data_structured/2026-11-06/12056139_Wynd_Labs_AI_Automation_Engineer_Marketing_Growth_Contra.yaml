@@ -1,0 +1,52 @@
+company:
+  name: Wynd Labs
+  stage: null
+  focus: Web data infrastructure for AI model training
+position:
+  title: AI Automation Engineer, Marketing & Growth (Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered automated workflows and agents
+      for content production, including prompt design, structured
+      outputs, and evaluating output quality — directly shaping
+      model behavior. LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Audit and time-map current blog production, marketing, and community workflows
+    to set a measurable baseline
+  - Build automated workflows and agents for rote blog production steps (research,
+    briefs, drafts, fact checks, SEO metadata, CMS publishing) with human approval
+    gates
+  - Encode brand voice into reusable prompts, style guides, and examples
+  - Automate creation of marketing and sales collateral from templates and existing
+    content
+  - Turn published posts into on-brand drafts for X, LinkedIn, and community channels
+  - Document workflows and run a handoff so the team can operate them independently
+  use_cases:
+  - Automated blog content production (research, drafting, SEO, publishing)
+  - Brand-voice-consistent marketing and sales collateral generation
+  - Social media content repurposing for X and LinkedIn
+  - Marketing, growth, and community workflow automation
+  - RAG-based support or FAQ assistants
+  skills:
+    genai: [Anthropic API, OpenAI API, Prompt Engineering, Structured Outputs, LLM
+        Evaluation, LLMs, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12056139'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:42:49.241753'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

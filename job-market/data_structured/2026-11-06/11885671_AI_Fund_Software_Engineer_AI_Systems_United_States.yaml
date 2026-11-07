@@ -1,0 +1,50 @@
+company:
+  name: AI Fund
+  stage: VC-backed pre-seed venture
+  focus: |-
+    Enterprise learning intelligence for EHS incident
+    investigation and safety
+position:
+  title: Software Engineer, AI Systems (United States)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs the LLM reasoning layer connecting evidence
+      and knowledge graph to product experiences, including
+      specialized AI agents, evaluation, and traceability of model
+      output — clearly shaping model behavior. An LLM/agent
+      component is central, so ai-first.
+  responsibilities:
+  - Build and operate the AI and LLM engineering layer connecting evidence base and
+    knowledge graph to product experiences
+  - Design agent reasoning for incident investigation, assurance review, and cross-history
+    learning
+  - Ship, instrument, and iteratively improve AI reasoning using production evidence
+  - Ensure precision, traceability, and evaluation with human oversight in regulated
+    safety-critical deployments
+  - Support multi-tenant and dedicated enterprise deployments
+  use_cases:
+  - Evidence synthesis and causal analysis for incident investigation
+  - Continuous review of investigation quality, guideline adherence, and CAPA strength
+  - Cross-incident reasoning to surface recurring control failures and emerging signals
+  - Traceable AI assessments for human review in safety-critical enterprises
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885671'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:35:14.612586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

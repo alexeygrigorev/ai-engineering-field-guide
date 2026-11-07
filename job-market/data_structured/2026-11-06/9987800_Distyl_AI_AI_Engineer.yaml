@@ -1,0 +1,55 @@
+company:
+  name: Distyl AI
+  stage: null
+  focus: Applied AI for enterprise operations automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds compound AI workflows combining
+      prompts, agents, tools, retrieval, and evaluation
+      frameworks, directly shaping LLM system behavior in
+      production. This is shaping LLM/agent systems, so ai-first.
+      It is also customer-facing deployment work.
+  responsibilities:
+  - Build and operate production AI systems deployed in customer environments
+  - Design and implement compound AI workflows combining models, prompts, agents,
+    tools, retrieval, and evaluation
+  - Develop clean Python services integrating AI capabilities into customer workflows,
+    APIs, and applications
+  - Operate live systems by measuring behavior, debugging failure modes, and iterating
+    on quality
+  - Build evaluation frameworks, test cases, feedback mechanisms, and observability
+    patterns
+  - Work directly with customer stakeholders and SMEs to clarify requirements and
+    adapt systems
+  - Use AI-native engineering tools to accelerate implementation and experimentation
+  use_cases:
+  - Production AI systems in customer enterprise environments
+  - Mission-critical workflow automation across telecom, healthcare, insurance, and
+    manufacturing
+  - Compound AI workflows combining agents, retrieval, and tools
+  - AI system reliability and evaluation in production
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, RAG, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9987800'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T15:05:53.153289'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

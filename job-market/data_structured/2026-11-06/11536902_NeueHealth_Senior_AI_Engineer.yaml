@@ -1,0 +1,57 @@
+company:
+  name: NeueHealth
+  stage: null
+  focus: |-
+    Value-driven healthcare company serving ACA, Medicare,
+    Medicaid
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns prompts, agent behavior, retrieval/RAG design,
+      fine-tuning, model selection, and evaluation frameworks for
+      LLM-based agentic workflows — clearly shaping model behavior
+      with LLM components.
+  responsibilities:
+  - Lead end-to-end delivery of complex AI products including agentic workflows, RAG
+    systems, and services
+  - Translate stakeholder needs into validated, access-aware AI workflows with risk
+    controls and acceptance criteria
+  - Design AI workflow and RAG product lines including ingestion, retrieval quality,
+    attribution, agent tools, and human-review paths
+  - Implement workflows with reliable AI control layers and optimize models across
+    prompting, retrieval, reranking, fine-tuning, and model selection
+  - Own AI evaluation and release frameworks including adversarial testing, regression
+    thresholds, release gates, and production telemetry
+  - Provide senior technical leadership through design and code reviews, incident
+    response, and mentoring
+  - Deliver healthcare AI services using approved cloud capabilities and HITRUST-aligned
+    controls for PHI/PII and compliance
+  use_cases:
+  - High-stakes healthcare workflows automated with AI agents and RAG
+  - Clinical and operational workflow automation in payer/provider operations
+  - PHI/PII-safe AI decision logic for regulated healthcare environments
+  - Enterprise-scale AI evaluation, release gating, and production monitoring
+  - Access-aware, human-reviewed AI workflows for value-based care
+  skills:
+    genai: [Agentic Workflows, RAG, Prompt Engineering, Structured Outputs, Function
+        Calling, Guardrails, LLM Evaluation, Fine-Tuning, Embeddings, Reranking]
+    ml: [Model Evaluation, Machine Learning, LLMs]
+    web: [APIs]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP, Azure AI Foundry, Azure OpenAI, Azure ML]
+    ops: [Kubernetes, AKS, OpenTelemetry, CI/CD, Monitoring]
+    languages: [Python, Java, Scala, C#, TypeScript]
+    domains: []
+    other: [HITRUST Compliance, Human-in-the-Loop Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11536902'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:07:26.096022'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

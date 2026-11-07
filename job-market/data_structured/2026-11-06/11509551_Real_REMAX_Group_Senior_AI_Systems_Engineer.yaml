@@ -1,0 +1,52 @@
+company:
+  name: Real REMAX Group
+  stage: null
+  focus: Global real estate technology and franchise network
+position:
+  title: Senior AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic pipelines, orchestrates
+      LLM tool integration, and develops generative AI systems
+      directly, which is shaping model behaviour via agents and
+      orchestration. This makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-powered software systems for real estate operations,
+    customer experience, and product innovation
+  - Build and optimize agentic pipelines including orchestration, tool integration,
+    and feedback loops
+  - Collaborate with operations, marketing, and product teams to identify and prioritize
+    AI and LLM integration opportunities
+  - Architect and maintain scalable production-grade AI systems using Python, cloud
+    platforms, and AI orchestration frameworks
+  - Implement event-driven and asynchronous architectures for high-performance AI
+    applications
+  - Troubleshoot, optimize, and refine AI systems for production performance and reliability
+  - Maintain documentation and communicate findings to stakeholders
+  use_cases:
+  - AI-powered real estate operations
+  - Customer experience enhancement via AI
+  - LLM-driven product innovation
+  - Agentic automation pipelines across business functions
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Pydantic AI, Prompt Engineering,
+      Claude Code, Codex]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, Docker]
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11509551'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:02:53.812307'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

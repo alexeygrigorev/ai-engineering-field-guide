@@ -1,0 +1,48 @@
+company:
+  name: Accenture
+  stage: null
+  focus: Global professional services, technology consulting
+position:
+  title: Responsible AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role assesses AI systems against ethical/responsible
+      benchmarks and designs governance and mitigation strategies,
+      but there is no evidence of shaping model behaviour via
+      prompts, RAG, fine-tuning, or building evals/guardrails
+      themselves. Safety/governance oversight without building the
+      evals is ai-support.
+  responsibilities:
+  - Assess AI systems against predefined ethical, responsible, and sustainable thresholds
+    and benchmarks
+  - Design and implement technology mitigation strategies to achieve ethical and responsible
+    standards
+  - Continuously monitor and evaluate AI outputs against established benchmarks
+  - Lead initiatives to develop and implement frameworks promoting ethical AI usage
+  - Collaborate with stakeholders to maintain compliance and responsible AI practices
+  - Facilitate knowledge sharing and training on responsible AI principles
+  - Support and guide junior team members
+  use_cases:
+  - Ethical assessment and benchmarking of AI systems
+  - Bias and risk mitigation for AI technologies
+  - AI governance and compliance monitoring
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11906781'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:56:08.129905'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

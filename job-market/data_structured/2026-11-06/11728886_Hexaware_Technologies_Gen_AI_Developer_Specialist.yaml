@@ -1,0 +1,51 @@
+company:
+  name: Hexaware Technologies
+  stage: null
+  focus: IT services and consulting
+position:
+  title: Gen AI Developer Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires prompt/context engineering, RAG and
+      vectorization design, agentic AI frameworks, and multi-agent
+      systems — all direct shaping of LLM/agent behavior. Building
+      MCPs and agentic workflows confirms ai-first.
+  responsibilities:
+  - Build coding prompts and contexts using GitHub Copilot, Claude Code, and Amazon
+    Q Developer to convert business stories into working code and PRs
+  - Develop GenAI applications with LLMs and chatbots
+  - Design and manage AWS cloud infrastructure including EKS, ECS, S3, Lambda, and
+    Kafka event streaming
+  - Implement prompt engineering and context engineering including long/short-term
+    memory, token management, and cache management
+  - Build RAG and vectorization solutions with vector databases and Redis cache
+  - Build MCPs and autonomous agentic workflows including multi-agent systems
+  - Conduct A/B testing of AI features and validate agentic real-time decisioning
+  use_cases:
+  - AI-assisted code generation from business stories
+  - LLM-powered chatbots
+  - Autonomous multi-agent workflows
+  - Retrieval-augmented generation with vector databases
+  - Auto lending/auto-finance decisioning
+  skills:
+    genai: [Claude Code, Prompt Engineering, Context Engineering, LLMs, Anthropic
+        API, OpenAI API, RAG, Agentic Workflows, MCP, Multi-Agent Systems]
+    ml: [Machine Learning]
+    web: [Chatbots]
+    databases: [Redis, NoSQL, Vector Databases, Amazon Q Developer]
+    data: [Kafka]
+    cloud: [AWS, EKS, ECS, AWS S3, AWS Lambda, AWS Bedrock]
+    ops: [GitHub Copilot]
+    languages: [Python, SQL]
+    domains: []
+    other: [A/B Testing, Token Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11728886'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:44:03.301490'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Fabric Health
+  stage: null
+  focus: Healthcare clinical capacity and care delivery automation
+position:
+  title: Staff Software Engineer, Applied AI Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack application owner role that partners
+      with AI engineers who own the prompts, conversation
+      pipeline, and clinical-safety layer; the description
+      explicitly says the role does not design models or prompts.
+      The person builds application plumbing around the AI Intake
+      system, which is ai-support.
+  responsibilities:
+  - Own the embeddable patient widget, clinician portal, and Python service layer
+    end-to-end
+  - Build application plumbing supporting the AI Intake system, including encounter
+    data flow and partner platform integrations
+  - Advise on full-stack architectural decisions and shore up rapidly built foundations
+  - Coordinate the application layer with AI/ML engineers who own the conversation
+    pipeline and prompts
+  - Ship and version shared components consumed as dependencies by other teams
+  - Manage and scale internal tooling used by engineers and clinicians
+  - Mentor junior engineers to independently own technical surfaces
+  - Keep dependencies current and operate built systems with daily maintenance habits
+  use_cases:
+  - Patient-facing clinical AI intake for care journeys
+  - Clinician portal and embeddable patient widget
+  - Intelligent automation of healthcare administrative workflows
+  - Encounter data flow and partner platform integrations
+  - Internal tools for clinicians and engineering teams
+  skills:
+    genai: [LLMs, LangGraph]
+    ml: []
+    web: [React, Next.js, SDKs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Infrastructure as Code, LangSmith]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Braintrust, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11448413'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:52:12.588091'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

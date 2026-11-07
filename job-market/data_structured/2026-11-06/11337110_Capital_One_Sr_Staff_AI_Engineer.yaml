@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Sr. Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops AI components including LLM
+      inference, agents and multi-agent workflows, guardrails,
+      model evaluation, and foundation model training/optimization
+      — directly shaping model behavior and output quality with
+      LLMs involved, so ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy and support AI components including foundation model training,
+    LLM inference, agents, similarity search, guardrails, evaluation and observability
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency and throughput of production AI systems
+  - Define and steer the technical AI architecture vision, integrating applied research
+    into production ecosystems
+  - Lead establishment of AI performance, safety and transparency standards company-wide
+  - Drive multi-year platform initiatives unifying data, compute and model lifecycle
+    management
+  - Mentor senior technical leaders across research, data and engineering disciplines
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized customer banking experiences
+  - Real-time customer question answering and chat
+  - Unusual charge and fraud detection alerts
+  - Internal associate productivity AI products
+  - Enterprise AI platform powering AI features across the company
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, Semantic Search]
+    ml: [Foundation Model Training, Model Training, Fine-Tuning, Model Evaluation,
+      PyTorch, Hugging Face, CUDA, Machine Learning, LLM Inference]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11337110'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - Richmond, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:31:58.100105'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

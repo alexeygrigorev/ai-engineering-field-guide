@@ -1,0 +1,59 @@
+company:
+  name: Circana
+  stage: null
+  focus: Consumer and retail analytics, AI and data solutions
+position:
+  title: 'AI Principal Engineer| Hybrid: Chicago, IL or NYC, NY'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent platforms, harness
+      engineering (tools, MCP servers, guardrails,
+      context/memory), evaluation infrastructure, and an
+      autonomous software factory — all core shaping of LLM/agent
+      behavior. Explicit agentic systems and orchestration
+      frameworks make it ai-first.
+  responsibilities:
+  - 'Design and build Circana''s agent platform: runtime, agent identity and access,
+    tool and MCP registries, context and memory services, evaluation, observability,
+    and deployment'
+  - Build an autonomous software factory where agents build, test, and ship software
+    with human intent-setting and release approval
+  - 'Lead a team of engineers: set technical direction, review work, mentor, and raise
+    the bar'
+  - 'Own harness engineering: context management, tool contracts and MCP servers,
+    guardrails, retries, tracing and replay'
+  - 'Establish evaluation as infrastructure: golden traces, regression suites, routing
+    tests, offline/online measurement, and release gates'
+  - Own shared patterns, services, and conventions other teams build on
+  - Lead embedded engagements with business teams to make workflows agentic and fold
+    learnings into the platform
+  - Represent the work to product owners, architects, security, executives, and client
+    stakeholders
+  use_cases:
+  - Agentic ecosystem for consumer behavior analytics platform
+  - Autonomous software factory where agents build, test, and deploy software
+  - Agent platform runtime with tool registries, context, memory, and observability
+  - Agentic workflows for business teams in consumer goods and retail
+  - Evaluation and release gating for agent-driven systems
+  skills:
+    genai: [Google ADK, LangGraph, Anthropic API, OpenAI API, Embeddings, RAG, Vector
+        Search, MCP, Agentic Workflows, Claude Code, Guardrails, LLM Evaluation]
+    ml: []
+    web: [OpenAPI, OAuth, gRPC]
+    databases: []
+    data: [Airflow]
+    cloud: [Vertex AI, Azure AI Foundry]
+    ops: [Docker, Kubernetes, ArgoCD, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11372771'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:37:45.984735'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

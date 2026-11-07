@@ -1,0 +1,50 @@
+company:
+  name: OPENLANE
+  stage: null
+  focus: Digital wholesale marketplace for used vehicles
+position:
+  title: AI First iOS Software Engineer (Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds iOS features for a marketplace app and uses
+      AI coding assistants (copilots, debuggers, test generators)
+      as productivity tools. The person does not shape any model's
+      behavior, design prompts/RAG/agents, or train models - AI is
+      named only as a development accelerator, which is ai-
+      support.
+  responsibilities:
+  - Implement iOS features primarily in SwiftUI across seller and buyer marketplace
+    experiences
+  - Ship flag-gated work, write unit and UI tests, and meet dual-OS PR gate expectations
+  - Use AI tools daily to accelerate coding, tests, and debugging, verifying outputs
+    before merge
+  - Collaborate with Product, design, backend, and platform teams under Senior guidance
+  - Pair with Android counterparts on shared product behavior
+  - Take growing end-to-end ownership of features including reliability and operational
+    health
+  use_cases:
+  - Wholesale used-vehicle marketplace mobile app
+  - Seller and buyer marketplace experiences on iOS
+  - Real-time high-value marketplace systems at scale
+  skills:
+    genai: []
+    ml: []
+    web: [SwiftUI, UIKit, MVVM]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Swift]
+    domains: []
+    other: [Unit Testing, UI Testing, Snapshot Testing, Feature Flags, Mobile Analytics,
+      Code Review, SPM, AI Coding Assistants, WebView]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609595'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:20:19.765508'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services
+position:
+  title: GOOGLE CLOUD VERTEX AI ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role applies prompt engineering techniques and AI
+      evaluation frameworks to refine model outputs, which is
+      shaping model behavior. Generative and agentic AI are
+      explicitly involved, so it is ai-first.
+  responsibilities:
+  - Design and develop machine learning models using Google Cloud Vertex AI
+  - Deploy and manage AI models in production environments
+  - Troubleshoot and debug applications to maintain reliability
+  - Create and maintain technical documentation
+  - Apply prompt engineering and AI evaluation frameworks to refine model outputs
+  - Oversee the full ML model lifecycle from concept to monitoring
+  - Collaborate with cross-functional teams to integrate AI solutions
+  use_cases:
+  - Generative and agentic AI solutions for business applications
+  - ML model lifecycle management in production
+  - Cloud-based AI model development and deployment
+  skills:
+    genai: [Generative AI, Agentic Workflows, Prompt Engineering, LLM Evaluation]
+    ml: [Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, GCP]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891970'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:43.155386'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

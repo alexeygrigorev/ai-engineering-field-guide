@@ -1,0 +1,57 @@
+company:
+  name: Softobiz
+  stage: null
+  focus: |-
+    US healthcare company delivering technology-enabled
+    healthcare experiences
+position:
+  title: TE-1518 - AI-First Senior Full Stack Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and building AI-powered features
+      such as smart search, summarisation and assistants, plus
+      hands-on integration of LLM APIs (Claude, OpenAI, Gemini),
+      which counts as shaping LLM-driven product behaviour. AI
+      coding assistants are daily workflow, but the AI feature-
+      building responsibilities make this ai-first.
+  responsibilities:
+  - Build end-to-end features across web apps, APIs and backend services
+  - Write clean, maintainable, well-tested code and own it from design to production
+  - Build with security and privacy in mind, protecting patient data under HIPAA-aligned
+    practices
+  - Improve performance, reliability and observability across the platform
+  - Design and build AI-powered features such as smart search, summarisation and assistants
+    for patients and care teams
+  - Identify manual work in Support, Operations and Marketing that AI can automate
+    and build solutions
+  - Use AI coding tools (Claude Code, Cursor, Copilot) daily and stay accountable
+    for code quality
+  - Take part in code reviews, sprint ceremonies, release planning and production
+    support rotation
+  use_cases:
+  - Healthcare platform connecting patients, doctors, care teams, clinics and pharmacies
+  - Smart search for patients and care teams
+  - Summarisation and AI assistants for patients and care teams
+  - Automation of manual work in Support, Operations and Marketing
+  - Clinical decision support and operational automation
+  skills:
+    genai: [Anthropic API, OpenAI API, Gemini, Claude Code, Cursor, GitHub Copilot,
+      LangChain, MCP, Prompt Engineering]
+    ml: []
+    web: [React, Next.js, APIs, GraphQL, Microservices]
+    databases: [SQL]
+    data: []
+    cloud: [AWS]
+    ops: [Git, CI/CD]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: [Event-Driven Architecture, n8n, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11672718'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:31:33.470158'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

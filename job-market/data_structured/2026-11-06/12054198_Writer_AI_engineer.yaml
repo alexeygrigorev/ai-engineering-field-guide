@@ -1,0 +1,49 @@
+company:
+  name: Writer
+  stage: null
+  focus: Enterprise generative AI platform for marketing and revenue
+position:
+  title: AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds intelligent agents, AI-powered features, and
+      LLM applications, shaping model behavior through deployed AI
+      agent systems and evaluation of LLM technologies. This
+      involves LLM/agent components, making it ai-first.
+  responsibilities:
+  - Architect, develop, and deploy high-performance scalable AI applications into
+    production environments
+  - Drive the development of intelligent agents and AI-powered features
+  - Collaborate with research scientists, data scientists, and product managers to
+    define technical requirements
+  - Research and evaluate emerging AI technologies, frameworks, and tools
+  - Champion responsible AI practices including bias detection, explainability, and
+    safety alignment
+  use_cases:
+  - Autonomous agents executing across the buyer journey for marketing and revenue
+    teams
+  - Enterprise AI applications grounded in company data and knowledge
+  - AI-powered productivity features for enterprise customers
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [PyTorch, TensorFlow, JAX, Machine Learning, Deep Learning, NLP]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12054198'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T14:41:53.210595'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: ASOS
+  stage: null
+  focus: Online fashion retail
+position:
+  title: Senior AI / LLM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-powered systems including RAG, fine-
+      tuning, tool use, and multi-agent orchestration, and builds
+      LLM evaluation frameworks and guardrails — directly shaping
+      model behavior and output quality. LLMs and agents are
+      central, so ai-first.
+  responsibilities:
+  - Design and build LLM-powered systems including RAG, fine-tuning, tool use, and
+    multi-agent orchestration
+  - Develop agentic workflows for automation, reasoning, and conversational experiences
+  - Build and scale solutions on the Azure AI stack (Azure OpenAI, AI Studio, Azure
+    ML, Cognitive Services)
+  - 'Create reusable AI infrastructure: prompt orchestration layers, vector search
+    and retrieval pipelines, and evaluation/observability frameworks'
+  - Design and implement LLM evaluation frameworks (offline and online)
+  - Implement AI safety guardrails including hallucination control, filtering, and
+    explainability
+  - Build reusable AI capabilities such as stylist reasoning, product understanding,
+    and copilots
+  - Optimise systems for performance, cost, and reliability with token-aware design
+  use_cases:
+  - Product discovery and personalisation for online fashion retail
+  - Stylist reasoning and product understanding AI capabilities
+  - Copilots for internal teams
+  - Conversational customer experiences
+  - Operational decision-making automation
+  - AI safety and risk controls including hallucination mitigation
+  skills:
+    genai: [RAG, Fine-Tuning, Function Calling, Agentic Workflows, Multi-Agent Systems,
+      LLMs, Prompt Engineering, Semantic Kernel, LangChain, Embeddings, Guardrails,
+      LLM Evaluation, Semantic Search]
+    ml: []
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [Azure OpenAI, Azure AI Foundry, Azure ML, AKS]
+    ops: [Event-Driven Architecture, LLMOps, MLOps, CI/CD, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11810140'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:16:46.683928'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

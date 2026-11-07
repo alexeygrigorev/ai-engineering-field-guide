@@ -1,0 +1,49 @@
+company:
+  name: Law In Order Pty Ltd
+  stage: null
+  focus: Legal technology and eDiscovery services
+position:
+  title: Senior Full Stack AI Engineer (.NET)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, designs RAG, and does prompt
+      engineering and tool calling themselves, directly shaping
+      LLM behavior. Full-stack engineering around it does not
+      change the classification.
+  responsibilities:
+  - Build and deploy AI agents and LLM-powered applications using tool calling, agent
+    workflows and RAG
+  - Develop AI tools for eDiscovery on Relativity aiR, eHearings and internal process
+    automation
+  - Build full stack .NET web applications and APIs (C#, ASP.NET Core, Angular or
+    React)
+  - Build Python AI services
+  - Write clean, well-tested code using TDD and BDD practices
+  - Work in an Agile team with Lead Engineer, Business Analyst and Product Owner
+  - Build and maintain CI/CD pipelines and cloud deployments
+  use_cases:
+  - eDiscovery on Relativity aiR
+  - eHearings
+  - Legal process automation
+  - Internal workflow automation
+  skills:
+    genai: [AI Agents, Prompt Engineering, RAG, Anthropic API, LangChain, MCP, Function
+        Calling, LLMs]
+    ml: []
+    web: [ASP.NET Core, FastAPI, Django, Flask, Angular, React]
+    databases: [SQL Server, Vector Databases]
+    data: []
+    cloud: [Azure OpenAI, Azure, AWS]
+    ops: [CI/CD, Docker, Git]
+    languages: [C#, .NET, Python, Java]
+    domains: []
+    other: [Agile, Relativity, OCR, TDD, BDD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027499'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:32:27.727976'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

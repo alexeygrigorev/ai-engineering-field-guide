@@ -1,0 +1,56 @@
+company:
+  name: NICE
+  stage: null
+  focus: CX and financial crime software
+position:
+  title: Senior Software Engineer (AI Architect , Development)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered solutions: RAG
+      pipelines, agents, prompt engineering, automated
+      evaluations, and guardrails — direct model-behaviour
+      shaping, ai-first. It is an individual contributor role.
+  responsibilities:
+  - Design AI solution architectures covering agents, retrieval, integrations, data
+    flows, and UX
+  - Build prototypes and production-grade solutions using LLM APIs, agent frameworks,
+    and RAG pipelines
+  - Apply prompt engineering and context design, iterating on user feedback
+  - Develop integrations and APIs connecting AI solutions to enterprise systems such
+    as Salesforce, Snowflake, Power BI, ServiceNow, Workday, and Microsoft 365
+  - Apply full SDLC with Git workflows, code review, CI/CD, automated evaluations,
+    and regression tests
+  - Add logging, monitoring, and cost tracking; follow security, privacy, and responsible
+    AI standards
+  - Prepare documentation, runbooks, and demos for support, change management, and
+    business teams
+  - Improve and extend solutions post-launch using feedback and support issues
+  use_cases:
+  - Internal AI assistants and agents for sales, service, support, and operations
+    teams
+  - Workflow automation of business processes across CX International
+  - Prompt-based assistants integrated with enterprise systems (Salesforce, Snowflake,
+    ServiceNow, Workday, Microsoft 365)
+  - Enterprise tools hardened from internal incubation prototypes for global rollout
+  skills:
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, Function Calling, LangChain,
+      LangGraph, AutoGen, CrewAI, MCP, Anthropic API, Copilot Studio, LLM Evaluation]
+    ml: []
+    web: [REST APIs, JSON, Event-Driven Architecture]
+    databases: [Vector Databases, Snowflake]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Git, Code Review]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Salesforce, Power BI, ServiceNow, Workday, Microsoft 365, Cognigy, NICE
+        CXone, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11830229'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:21:32.394428'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

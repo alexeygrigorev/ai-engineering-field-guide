@@ -1,0 +1,53 @@
+company:
+  name: Duolingo
+  stage: null
+  focus: |-
+    Language-learning and education app with freemium
+    monetization
+position:
+  title: Staff AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role trains and fine-tunes models, including LLMs, and
+      builds quality evaluations — clear model-shaping work. Since
+      LLMs are explicitly involved alongside bandits and neural
+      networks, it is ai-first.
+  responsibilities:
+  - Develop and train bandit models and large-scale neural network models
+  - 'Work across the ML stack: feature engineering, training data, fine-tuning, reinforcement
+    learning, evaluations, deployment, and monitoring'
+  - Deploy bandit models balancing revenue and retention for monetization
+  - Collaborate with cross-functional teams to align model outputs with company objectives
+  - Participate in strategic product and business decision-making on the Monetization
+    leadership group
+  - Mentor team members in their professional development
+  - Deliver high-quality, scalable, and efficient machine learning solutions
+  use_cases:
+  - Bandit models balancing revenue and user retention
+  - AI systems improving the learning experience while driving monetization
+  - Large-scale neural network models for the Duolingo Monetization team
+  skills:
+    genai: [LLMs]
+    ml: [Fine-Tuning, Reinforcement Learning, Machine Learning, Neural Networks, Feature
+        Engineering, Model Evaluation, Model Training, Model Deployment, Model Monitoring,
+      Multi-Armed Bandits]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9959718'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Pittsburgh, USA
+  extracted_at: '2026-11-06T15:05:46.561096'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

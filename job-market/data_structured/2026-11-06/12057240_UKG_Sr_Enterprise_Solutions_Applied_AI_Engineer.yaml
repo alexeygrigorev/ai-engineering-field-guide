@@ -1,0 +1,54 @@
+company:
+  name: UKG
+  stage: null
+  focus: Workforce management and HCM software platform
+position:
+  title: Sr Enterprise Solutions Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step agents with
+      tool/function calling, RAG, and prompt engineering, and
+      develops evaluations and quality optimization for LLM-based
+      systems—clearly shaping model behavior, ai-first.
+  responsibilities:
+  - Own end-to-end delivery of complex AI services and GenAI features from concept
+    to production rollout
+  - Integrate agentic solutions with enterprise systems (CRMs, ERPs, HR platforms,
+    data warehouses, internal APIs)
+  - Lead design and implementation of multi-step agents including tool/function calling,
+    retrieval, state management, and human-in-the-loop oversight
+  - Develop evaluation approaches such as test suites, golden datasets, and regression
+    checks, optimizing for accuracy, latency, reliability, and cost
+  - Implement production observability (logging, tracing, monitoring) and contribute
+    to runbooks and incident response
+  - Create reusable libraries, templates, and reference implementations; lead technical
+    reviews
+  - Mentor P1-P2 engineers through code and design reviews
+  - Lead pilot launches including documentation, user enablement, and stakeholder
+    alignment
+  use_cases:
+  - Automating and augmenting critical enterprise workforce workflows
+  - Integrating AI capabilities into enterprise platforms (HR, CRM, ERP)
+  - Multi-step agentic automation with human-in-the-loop oversight
+  - Production AI services with quality, latency, reliability, and cost optimization
+  skills:
+    genai: [Prompt Engineering, RAG, Function Calling, LangChain, LlamaIndex, Semantic
+        Kernel, Microsoft Agent Framework, LLMs, Generative AI]
+    ml: []
+    web: [REST APIs]
+    databases: [Data Warehouses]
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12057240'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:43:03.692993'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

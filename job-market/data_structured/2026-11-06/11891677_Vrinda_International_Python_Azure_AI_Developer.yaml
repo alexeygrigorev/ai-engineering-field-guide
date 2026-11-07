@@ -1,0 +1,52 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and digital transformation solutions
+position:
+  title: Python + Azure AI Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds full-stack applications on Python/Azure that
+      "integrate machine learning models into production
+      environments," but the description gives no evidence of
+      shaping model behaviour — no prompt engineering, RAG,
+      training, or eval work. The deliverable is application
+      infrastructure consuming AI, so it is ai-support.
+  responsibilities:
+  - Architect and develop scalable AI-powered applications using Python frameworks
+    (Django, Flask, FastAPI)
+  - Design and implement efficient MS SQL database solutions with indexing, performance
+    tuning, and stored procedure optimization
+  - Integrate Azure cloud-native services including Service Bus, Blob Storage, App
+    Services, Key Vault, and Redis
+  - Collaborate on responsive frontend development with Angular, React, and JavaScript
+  - Support existing systems with .NET technologies for interoperability between components
+  - Optimize application performance and reliability through testing, debugging, and
+    code quality improvements
+  use_cases:
+  - AI-powered enterprise applications for IT services clients
+  - Scalable cloud-native application infrastructure on Azure
+  - Data-driven backend services with optimized SQL storage
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [Django, Flask, FastAPI, Angular, React]
+    databases: [SQL Server, Redis]
+    data: []
+    cloud: [Azure, Azure Blob Storage]
+    ops: []
+    languages: [Python, JavaScript, .NET]
+    domains: []
+    other: [Azure Service Bus, Azure App Services, Azure Key Vault]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891677'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:46.475072'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

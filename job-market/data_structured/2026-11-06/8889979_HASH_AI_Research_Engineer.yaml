@@ -1,0 +1,55 @@
+company:
+  name: HASH
+  stage: null
+  focus: |-
+    Open-source knowledge graph and world model AI
+    infrastructure
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role post-trains open-source foundation models
+      (preference optimization, alignment, distillation) and
+      shapes model behavior and evaluation directly.
+      LLM/foundation model training is the focus, making it ai-
+      first.
+  responsibilities:
+  - Research and develop novel model architectures for reasoning, representation learning,
+    and world modeling
+  - Post-train and adapt open-source foundation models for real-world use cases
+  - Design, run, and analyze experiments across training, evaluation, and scaling
+  - Turn research into deployed capability across data, systems, and product
+  - Contribute to research direction, technical strategy, and model roadmap
+  - Define culture and standards of a research-driven founding team
+  use_cases:
+  - Deterministic simulation and world modeling
+  - Reasoning and representation learning
+  - Adapting foundation models for high-performance real-world use cases
+  - Knowledge graph-based process simulation, optimization, and automation
+  skills:
+    languages: [Python, Rust]
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: [Machine Learning, Deep Learning, Foundation Model Training, Model Training,
+      Fine-Tuning, Transformers, Diffusion Models, Preference Optimization, Synthetic
+        Data, Distillation, Continual Learning, Alignment, Model Evaluation, Inference
+        Optimization, Sequence Modeling, Multimodal Learning, Generative Modeling,
+      Scaling]
+    databases: [Knowledge Graphs]
+    genai: [LLMs]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8889979'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  extracted_at: '2026-11-06T15:03:45.288835'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

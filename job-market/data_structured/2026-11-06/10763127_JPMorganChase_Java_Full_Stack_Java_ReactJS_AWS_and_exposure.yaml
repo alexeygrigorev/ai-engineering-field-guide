@@ -1,0 +1,50 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Banking and financial services technology
+position:
+  title: Java Full Stack (Java, ReactJS, AWS, and exposure to AI tools) Software Engineer
+    II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack Java/React software engineering role
+      where AI appears only as enterprise-authorized coding
+      assistants (Copilot, code generation) used as tools to write
+      code faster, and validating AI-generated output is required.
+      Per the edge cases, using AI coding assistants to do the
+      engineering work is ai-support.
+  responsibilities:
+  - Design and develop scalable, resilient systems using Java for product teams
+  - Use enterprise-authorized AI coding assist tools for code generation, refactoring,
+    unit tests, and documentation
+  - Validate AI-generated output through peer review, automated testing, and secure
+    coding standards
+  - Create secure, high-quality production code and maintain algorithms
+  - Contribute to architecture and design artifacts for applications
+  - Gather, analyze, and develop visualizations and reporting from large, diverse
+    data sets
+  - Apply SDLC toolchain automation capabilities, including AI-assisted development
+  use_cases:
+  - Employee platforms software for internal corporate technology
+  - AI-assisted code generation, refactoring, and unit test creation
+  - Data visualization and reporting for continuous improvement of applications
+  skills:
+    genai: [Prompt Engineering, GitHub Copilot]
+    ml: []
+    web: [Spring Boot, React]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Monitoring]
+    languages: [Java]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10763127'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:21:43.670098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

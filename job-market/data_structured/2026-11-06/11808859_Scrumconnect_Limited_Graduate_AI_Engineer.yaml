@@ -1,0 +1,47 @@
+company:
+  name: Scrumconnect Limited
+  stage: null
+  focus: AI and machine learning consulting services
+position:
+  title: Graduate AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role assists with developing and training machine
+      learning models, which is shaping model behaviour. The work
+      is classical ML (neural networks, NLP, computer vision) with
+      no LLM, prompt, or agent component, so it is ml-first.
+  responsibilities:
+  - Assist with data collection, preprocessing, and cleaning tasks
+  - Support the development and training of machine learning models
+  - Collaborate on AI research projects under the guidance of senior AI engineers
+  - Perform exploratory data analysis to identify patterns and trends
+  - Document project milestones, coding progress, and learnings
+  - Work with AI technologies including neural networks, natural language processing,
+    and computer vision
+  use_cases:
+  - General AI research projects
+  - Pattern and trend discovery through exploratory data analysis
+  - Neural network-based solutions
+  - Natural language processing applications
+  - Computer vision applications
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Keras, Neural Networks, Machine Learning,
+      Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11808859'
+  location: Staines, GBR
+  extracted_at: '2026-11-06T13:16:30.882484'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

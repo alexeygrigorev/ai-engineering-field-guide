@@ -1,0 +1,51 @@
+company:
+  name: Inviso Corporation
+  stage: null
+  focus: Enterprise software and AI platform services
+position:
+  title: Applied AI Engineer - Germany
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: designing RAG,
+      prompt design, agent runtimes, tool calling, guardrails, and
+      evaluation harnesses for LLM systems. This is squarely ai-
+      first.
+  responsibilities:
+  - Build and operate AI capabilities across an enterprise platform including agent
+    runtimes and model routing
+  - Design and implement RAG, tool/function calling, and AI workflow patterns
+  - Build evaluation harnesses, golden sets, regression checks, and quality gates
+  - Implement guardrails for untrusted retrieved content and tool output risk
+  - Monitor production AI behavior and improve systems based on evidence
+  - Manage cost, latency, reliability, and safety as engineering constraints
+  - Partner with product, engineering, and client teams on AI adoption decisions
+  - Move AI prototypes into monitored production systems
+  use_cases:
+  - Enterprise AI agent runtime and orchestration
+  - Retrieval-augmented generation over enterprise content
+  - Production AI evaluation, guardrails, and monitoring
+  - Cost- and latency-aware model routing
+  - Client-facing AI consulting and solution delivery
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, Function Calling, Prompt Engineering,
+      LLM Evaluation, Guardrails, Fine-Tuning, Anthropic API, OpenAI API, Azure OpenAI,
+      MCP, Multi-Agent Systems, Embeddings]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: [Monitoring, Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12081139'
+  location: DEU
+  remote: true
+  extracted_at: '2026-11-06T14:52:14.083407'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: IFS
+  stage: null
+  focus: Enterprise software with AI-driven solutions
+position:
+  title: Senior Software Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic flows, retrieval/RAG,
+      context and memory models, guardrails, and an evaluation
+      harness that gates autonomy claims — all direct shaping of
+      LLM/agent behaviour, so ai-first.
+  responsibilities:
+  - Build session and context spine with persistence, resumption, and identity/entitlement-based
+    context resolution
+  - Build retrieval and grounding across structured records and documents within cost
+    and latency budgets
+  - Build document intelligence over manuals, engineering drawings, certification
+    directives and contracts
+  - Build the agentic flow runtime for multi-step tool-based work with human-in-the-loop
+    rules
+  - Handle speech and images as first-class inputs alongside text
+  - Build the evaluation harness gating autonomy claims
+  - Build the language interface over scheduling and optimisation engines
+  - Build the security layer including prompt injection resistance, guardrails, audit
+    and data residency
+  use_cases:
+  - Agentic system taking actions against business systems (API calls, record updates,
+    workflow triggers)
+  - Document intelligence and grounding over enterprise manuals, drawings, and contracts
+  - Multimodal request handling (text, speech, images) for field/plant use
+  - Natural language interface to scheduling and optimisation engines
+  - Enterprise AI security including prompt injection resistance and guardrails
+  skills:
+    genai: [RAG, Embeddings, Agentic Workflows, LangChain, MCP, Pydantic AI, Generative
+        AI, LLM Evaluation, Guardrails, Prompt Engineering, Prompt Injection]
+    ml: []
+    web: [n8n, Temporal, MuleSoft, Apache Camel, Boomi, API Gateway, Kong, Tyk]
+    databases: []
+    data: []
+    cloud: [CNCF]
+    ops: [Docker, Kubernetes, CI/CD, DevOps]
+    languages: [Go, Python]
+    domains: []
+    other: [Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892338'
+  location: Staines-upon-Thames, GBR
+  extracted_at: '2026-11-06T13:44:18.242806'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

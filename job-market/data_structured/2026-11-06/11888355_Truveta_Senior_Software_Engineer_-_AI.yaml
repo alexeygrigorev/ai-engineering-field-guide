@@ -1,0 +1,55 @@
+company:
+  name: Truveta
+  stage: null
+  focus: Health provider-led medical data platform for research
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing multi-agent
+      workflows (LangGraph, AutoGen, CrewAI), building RAG
+      pipelines with vector stores, and fine-tuning LLMs with
+      LoRA/PEFT/TRL, plus designing reward functions and LLM-as-
+      judge evaluators. LLM/agent components dominate, so ai-
+      first.
+  responsibilities:
+  - Design and build multi-agent AI workflows using frameworks like LangGraph, AutoGen,
+    or CrewAI
+  - Fine-tune large language models and multimodal models using supervised, reinforcement,
+    and instruction-tuning techniques
+  - Design reward functions, evaluators, and grader models for reinforcement fine-tuning
+    and continuous improvement
+  - Build RAG pipelines and semantic search integrating vector databases and embeddings
+  - Translate experimental AI ideas into robust, maintainable production systems within
+    large-scale AI platforms
+  - Provide technical thought leadership, mentoring peers and setting technical direction
+  - Collaborate with platform, application, and product engineers to deliver scalable
+    AI solutions
+  use_cases:
+  - Healthcare AI intelligence platform over large-scale health data
+  - Adaptive agentic systems that reason and learn for research and care delivery
+  - Clinical decision support for clinicians and researchers
+  - Automation of insights for R&D, business strategy, and healthcare operations
+  - Semantic search and retrieval over diverse healthcare data
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: [Machine Learning, Transformers, Precision and Recall]
+    databases: []
+    genai: [Agentic Workflows, LangGraph, AutoGen, CrewAI, Multi-Agent Systems, LLM
+        Evaluation, RAG, Embeddings, Semantic Search, Vector Databases, FAISS, Pinecone,
+      Chroma, Azure AI Search, LLMs, Fine-Tuning, LoRA, TRL, MCP, A2A, AI Agents]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888355'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:39:56.364413'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

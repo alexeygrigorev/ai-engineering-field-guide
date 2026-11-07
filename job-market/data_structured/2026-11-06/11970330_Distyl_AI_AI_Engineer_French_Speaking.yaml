@@ -1,0 +1,55 @@
+company:
+  name: Distyl AI
+  stage: Backed by Lightspeed, Khosla Ventures, Coatue, DST Global
+  focus: |-
+    Applied AI systems for enterprise mission-critical
+    operations
+position:
+  title: AI Engineer (French Speaking)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs compound AI workflows combining prompts,
+      agents, tools, retrieval, and evaluation frameworks for LLM-
+      powered systems, directly shaping model behavior and output
+      quality. It builds production systems in customer
+      environments with accountability for outcomes, fitting a
+      forward-deployed AI engineer pattern.
+  responsibilities:
+  - Build and operate AI systems deployed in customer environments, owning reliability
+    and production outcomes
+  - Design and implement compound AI workflows combining models, prompts, agents,
+    tools, retrieval, evaluation, and feedback loops
+  - Develop clean Python services integrating AI capabilities into customer workflows,
+    data platforms, and APIs
+  - Measure, debug, and iterate on live systems to improve quality and user value
+  - Build evaluation frameworks, test cases, feedback mechanisms, and observability
+    patterns for AI systems
+  - Work directly with customer stakeholders and SMEs to clarify requirements and
+    adapt systems
+  - Use AI-native engineering tools to accelerate implementation and analysis
+  use_cases:
+  - Mission-critical enterprise operations for telecom, healthcare, insurance, and
+    manufacturing customers
+  - AI-native operational workflows deployed in customer environments
+  - Compound AI systems combining retrieval, agents, tools, and evaluation for production
+    use
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, RAG, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11970330'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:13:59.242666'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

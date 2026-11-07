@@ -1,0 +1,48 @@
+company:
+  name: Clark
+  stage: null
+  focus: AI that automates audit and accounting work
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered agents, retrieval,
+      prompts, tool-use orchestration, evals, and guardrails —
+      directly shaping model behavior and output quality, so it is
+      ai-first.
+  responsibilities:
+  - Build and improve LLM-powered workflows within Ava
+  - Design agentic systems for audit and accounting workflows
+  - Improve retrieval, reasoning, evaluation, and reliability of AI outputs
+  - Create evaluations, monitoring, guardrails, and human-in-the-loop review systems
+  - Improve prompt, tool-use, orchestration, and evaluation systems
+  - Improve accuracy, reliability, latency, and cost of production AI workflows
+  - Debug AI failure modes in live customer workflows
+  - Ship product features that directly impact customer adoption
+  use_cases:
+  - Automating audit fieldwork and workflows
+  - Document intelligence for audit and accounting documents
+  - Automated audit execution with human-in-the-loop review
+  - Trust-sensitive AI in compliance and accounting domains
+  - Improving reliability and accuracy of AI-driven audit outputs
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, RAG, Prompt Engineering, Function
+        Calling, Guardrails, LLM Evaluation, Document Intelligence]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11352916'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:35:11.186265'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

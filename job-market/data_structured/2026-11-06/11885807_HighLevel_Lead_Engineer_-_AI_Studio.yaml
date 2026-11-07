@@ -1,0 +1,49 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered business operating system for agencies and SMBs
+position:
+  title: Lead Engineer - AI Studio
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The team builds prompt-driven generation of React apps and
+      websites, orchestrating LLM-powered workflows for code,
+      component, and design generation — directly shaping LLM
+      output quality and agent-style workflows, so it is ai-first.
+  responsibilities:
+  - Build AI Studio, an AI-based React application builder that generates production-ready
+    websites and apps from natural language
+  - Develop prompt-driven app generation, component and layout creation, and automated
+    copy/design generation
+  - Implement real-time preview and editing of generated applications
+  - Enable one-click deployment of generated apps across the product ecosystem
+  - Orchestrate complex workflows spanning data processing, LLM-powered reasoning,
+    and code generation
+  - Ensure reliability, correctness, and performance at scale for millions of applications
+    and billions of visitor interactions
+  use_cases:
+  - Natural-language generation of production-ready websites and React applications
+  - Automated component, layout, copy, and design generation
+  - One-click deployment of AI-generated apps to custom domains
+  - Enabling non-technical SMBs to build and publish web applications
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows]
+    ml: []
+    web: [React, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885807'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:35:25.916222'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

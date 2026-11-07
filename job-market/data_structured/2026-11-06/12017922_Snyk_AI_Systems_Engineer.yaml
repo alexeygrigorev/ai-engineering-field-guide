@@ -1,0 +1,49 @@
+company:
+  name: Snyk
+  stage: null
+  focus: |-
+    Developer security platform for secure AI software
+    development
+position:
+  title: AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production-grade RAG systems with
+      LangChain/LangGraph and works with GenAI models, meaning the
+      engineer designs retrieval and shapes LLM-driven systems
+      themselves. Pipeline/deployment duties exist, but the
+      RAG/GenAI design work makes it ai-first.
+  responsibilities:
+  - Build and maintain software pipelines for training, deploying, and monitoring
+    ML and GenAI projects for internal tasks
+  - Optimize AI infrastructure for scalability, efficiency, and cost-effectiveness
+  - Integrate data from various sources and perform cleaning and transformation for
+    AI projects
+  - Partner with data scientists and business teams to translate needs into AI solutions
+  - Own end-to-end delivery of full-stack internal AI applications
+  use_cases:
+  - Internal knowledge management
+  - Internal data analysis
+  - Process automation
+  - Decision support
+  - Internal GenAI-powered AI systems
+  skills:
+    genai: [LangChain, OpenAI API, LangGraph, RAG, Generative AI]
+    ml: [Model Training]
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Kubernetes, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12017922'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:30:14.617077'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

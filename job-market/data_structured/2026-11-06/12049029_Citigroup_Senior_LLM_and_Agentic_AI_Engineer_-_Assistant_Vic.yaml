@@ -1,0 +1,51 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global financial services and digital banking
+position:
+  title: Senior LLM and Agentic AI Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys GenAI applications, builds
+      agentic workflows with LangChain/LangGraph/CrewAI, designs
+      RAG architectures, and implements prompt engineering, evals,
+      and guardrails - directly shaping LLM behaviour.
+  responsibilities:
+  - Design and deploy enterprise-grade GenAI applications using GPT, Claude, or Gemini
+  - Build agentic AI solutions and multi-agent systems with LangChain, LangGraph,
+    or CrewAI
+  - Implement prompt engineering, evaluation frameworks, and guardrails
+  - Design and optimize RAG architectures with vector databases and enterprise knowledge
+    repositories
+  - Build scalable backend services, REST APIs, and cloud-native microservices in
+    Java/Python
+  - Monitor model performance, latency, and inference costs; implement AI governance
+    and observability
+  use_cases:
+  - Customer engagement and personalized digital experiences
+  - Automating customer journeys and business workflows
+  - Grounded enterprise knowledge retrieval and search
+  - Conversational AI for banking customers
+  - Recommendation engines for financial services
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, AI Agents, Multi-Agent Systems,
+      LangChain, LangGraph, CrewAI, RAG, Prompt Engineering, LLM Evaluation, Guardrails,
+      Conversational AI]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices, React, Angular]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [MLOps]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12049029'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:40:40.239579'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

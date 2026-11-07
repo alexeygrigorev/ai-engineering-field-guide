@@ -1,0 +1,57 @@
+company:
+  name: Life360
+  stage: null
+  focus: Family location sharing and safety mobile app
+position:
+  title: Senior Software Engineer II, Mobile - Revenue Experiences (AI Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a mobile (Android/iOS) engineer building
+      subscription and monetization features. AI appears only as
+      developer workflow — orchestrating Claude
+      Code/Cursor/Copilot coding agents to generate specs, code,
+      and tests — which is explicitly ai-support, not shaping an
+      LLM product. The deliverable is the Life360 app's premium
+      revenue surfaces, not model behaviour.
+  responsibilities:
+  - Design, build, and maintain premium membership features end-to-end for 100M+ users
+  - Build paywalls, plan selection, upsell/upgrade, and in-app purchase flows
+  - Own ads experience quality including placement, mediation, and performance impact
+  - Run monetization experiments across paywalls, pricing, and ad placement
+  - Use AI coding assistants (Claude Code, Cursor, Copilot) as primary workflow, orchestrating
+    agents for specs, code generation, tests, and reviews
+  - Contribute to architecture, code reviews, and technical standards across mobile
+    codebases
+  - Participate in on-call and incident response for premium features
+  - Mentor engineers and evolve the team's AI-native engineering practices
+  use_cases:
+  - Family location sharing and safety membership app
+  - Subscription tiering, pricing, and paywall monetization
+  - In-app purchase and upsell flows for premium memberships
+  - Mobile ad placement and mediation
+  skills:
+    genai: [Prompt Engineering, MCP, Agentic Workflows, Claude Code, Cursor, GitHub
+        Copilot]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Amplitude, Segment, Databricks]
+    cloud: []
+    ops: [CI/CD, GitHub Actions]
+    languages: [Kotlin, Kotlin Coroutines]
+    domains: []
+    other: [Android, iOS, Jetpack Compose, Android Studio, Flow, MVVM, MVI, Clean
+        Architecture, Jetpack, ViewModel, Navigation, Hilt, Dagger, Google Play Billing,
+      StoreKit, Feature Flagging, A/B Testing, Perfetto, Macrobenchmark, Crashlytics,
+      Gradle, Fastlane, Bitrise, AdMob, AppLovin MAX, Statsig, LaunchDarkly, Optimizely,
+      Eppo, GrowthBook]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11712072'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:40:15.123281'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

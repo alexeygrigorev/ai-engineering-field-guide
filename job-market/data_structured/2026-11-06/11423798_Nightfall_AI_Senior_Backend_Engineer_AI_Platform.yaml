@@ -1,0 +1,53 @@
+company:
+  name: Nightfall AI
+  stage: backed by leading VC firms (Bain Capital Ventures, Venrock, WestBridge, Pear
+    VC)
+  focus: AI-native data loss prevention and insider risk platform
+position:
+  title: Senior Backend Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly architects search and agentic systems,
+      optimizing LLM accuracy/cost/scalability, with prompt and
+      context engineering and agent orchestration among the
+      responsibilities. That is directly shaping LLM behaviour and
+      agent flows, making it ai-first despite the primarily
+      backend nature.
+  responsibilities:
+  - Build highly available and secure authentication and API services
+  - Maintain and evolve mission-critical internal databases and services
+  - Architect, optimize, and operate auto-scaling real-time data ingestion infrastructure
+    and ML inferencing
+  - Architect search and agentic systems for highly concurrent workflows, optimizing
+    LLM accuracy, cost, and scalability
+  - Build observability at scale for insights into customer usage and performance
+  - Write and maintain documentation for internal and public services
+  use_cases:
+  - Data loss prevention and sensitive data detection across SaaS, GenAI tools, email,
+    and endpoints
+  - Real-time detection and prevention of data exfiltration at scale
+  - Automatic remediation of security violations before they become incidents
+  - Agentic search and summarization over sensitive data at high concurrency
+  - Coaching end-users to self-heal policy violations
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, Context Engineering, Semantic Search,
+      LLMs]
+    ml: [Model Deployment]
+    web: [Microservices, Node.js, React]
+    databases: [PostgreSQL, Cassandra, Redis, SQL, NoSQL, Snowflake]
+    data: [Kafka, Flink, Hadoop, Zookeeper, Data Pipelines]
+    cloud: [AWS]
+    ops: [Terraform, Docker, Kubernetes, Envoy, Monitoring, Observability, Distributed
+        Systems]
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11423798'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:48:21.412649'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

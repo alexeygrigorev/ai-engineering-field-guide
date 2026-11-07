@@ -1,0 +1,58 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Audit confirmation platform for accounting professionals
+position:
+  title: Staff Software Engineer – AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production LLM-powered applications, AI
+      agents, orchestration, MCP servers, retrieval/RAG,
+      guardrails, and evaluation — directly shaping model behavior
+      and output quality. LLM/agent components dominate, so it is
+      ai-first.
+  responsibilities:
+  - Architect and deliver production backend and platform services using C#/.NET,
+    PostgreSQL, AWS, and distributed-system patterns
+  - Build production AI/ML capabilities in Python including LLM integration, AI agents,
+    orchestration, retrieval, and multi-step workflows
+  - Build AI orchestration capabilities including routing, tool calling, MCP servers,
+    guardrails, evaluation, and resilient error handling around third-party LLMs
+  - Develop retrieval and data capabilities using vector stores, embeddings, semantic
+    search, and indexing for audit and confirmation use cases
+  - Design reliable, scalable distributed AI workloads with caching, queuing, rate
+    limiting, model failover, observability, and cost optimization
+  - Provide hands-on Staff-level technical leadership, setting technical direction,
+    mentoring engineers, and coding production systems
+  use_cases:
+  - AI-assisted document processing and document understanding for audit workflows
+  - Retrieval and semantic search over large-scale audit and confirmation data
+  - LLM-powered agents and multi-step AI workflows in an audit confirmation platform
+  - Automated balance and transaction verification between audit firms and institutions
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, MCP, Function Calling, Guardrails,
+      LLM Evaluation, Embeddings, Semantic Search, OpenAI API, Anthropic API]
+    ml: [Model Evaluation]
+    web: [ASP.NET Core, Microservices, REST APIs, GraphQL, Angular]
+    databases: [Vector Databases, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, Observability, Distributed Systems]
+    languages: [C#, .NET, Python, TypeScript, SQL]
+    domains: []
+    other: [Microsoft Orleans, Akka]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11470999'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - Ann Arbor, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:55:57.304137'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

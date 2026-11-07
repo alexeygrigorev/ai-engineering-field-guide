@@ -1,0 +1,53 @@
+company:
+  name: Zenoti
+  stage: Unicorn ($1B+ valuation, backed by TPG)
+  focus: Cloud-based salon and wellness business management SaaS
+position:
+  title: Senior Software Engineer - .NET + AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds SaaS applications with .NET/C# and uses AI
+      coding assistants (Claude Code, Cursor, Copilot) as
+      engineering productivity tools; the person never shapes an
+      LLM product's behavior through prompts, retrieval, or evals.
+      Per the edge cases, AI used only as a developer tool is ai-
+      support.
+  responsibilities:
+  - Own end-to-end development and technical success of significant features within
+    a product module
+  - Design, build, and evolve scalable SaaS applications using .NET/C#, REST APIs,
+    SQL/NoSQL, and Flutter/React
+  - Lead technical design reviews and make sound architectural decisions within your
+    domain
+  - Drive testing standards and coverage; improve test automation infrastructure
+  - Own compliance, data governance, and security-first design including threat modelling
+    for owned components
+  - 'Own production health: monitoring, alerts, dashboards, and incident response'
+  - Leverage AI-assisted development tools (Claude Code, Cursor) throughout the engineering
+    lifecycle
+  - Write clear design documents and communicate technical decisions to technical
+    and non-technical audiences
+  use_cases:
+  - Cloud-based salon and wellness business management platform
+  - Online appointment bookings, POS, CRM, and marketing for beauty and wellness businesses
+  - Enterprise-scale SaaS features for 30,000+ businesses across 50+ countries
+  skills:
+    genai: [MCP]
+    ml: []
+    web: [REST APIs, React, Flutter]
+    databases: [NoSQL, SQL Server]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Distributed Systems, GitHub Copilot, Claude Code, Cursor]
+    languages: [.NET, C#]
+    domains: []
+    other: [SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11413058'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:46:21.582231'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

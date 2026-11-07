@@ -1,0 +1,49 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud-scale AI frameworks and model serving infrastructure
+position:
+  title: Senior and/or Principal Software Engineer- AI GPU Performance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes GPU kernels, runtimes, and low-level
+      internals of an LLM serving stack for OpenAI and Microsoft
+      models. Optimizing a model's own internals (kernels,
+      quantization, inference parallelism) is shaping, and since
+      the target is LLM serving, it classifies as ai-first.
+  responsibilities:
+  - Develop and optimize GPU kernels and runtime components for LLM serving performance
+  - Profile workloads and improve latency, throughput, and hardware efficiency
+  - Integrate robust optimizations into production serving systems
+  - Drive cross-stack optimization across kernels, compilers, runtimes, and distributed
+    serving
+  - Resolve critical low-level performance bottlenecks
+  - Collaborate across model, compiler, infrastructure, research, and hardware teams
+  - Turn performance innovations into reusable production capabilities
+  - Use AI-assisted development tools to accelerate development and mentor engineers
+  use_cases:
+  - High-performance LLM inference serving at cloud scale
+  - Latency and throughput optimization for served AI models
+  - Distributed inference across NVIDIA, AMD, and Microsoft GPUs
+  - Cross-stack acceleration of kernels, compilers, and runtimes
+  skills:
+    genai: [LLMs, Fine-Tuning]
+    ml: [CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, Triton, Model Deployment, Monitoring]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11192095'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:26:13.897590'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

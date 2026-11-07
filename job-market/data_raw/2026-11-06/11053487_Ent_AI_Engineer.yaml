@@ -1,0 +1,170 @@
+job_id: 11053487
+title: AI Engineer
+company: Ent
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  AI Engineer
+
+  About Ent
+
+  Ent is the intent-aware workspace security platform for
+  securing human and AI-driven work. Built to protect
+  productivity, the new attack surface, Ent understands not
+  just what users and agents do but why, and intervenes at the
+  moment of risk before incidents occur. Where existing tools
+  see events, Ent sees intent, so security teams can step in
+  at the moment of risk instead of investigating days later.
+  Founded by Lou Manousos and Brandon Dixon, co-founders of
+  RiskIQ (acquired by Microsoft) and the team behind Microsoft
+  Security Copilot, Ent is in production with Global 2000
+  customers across hospitality, financial services, and
+  defense, and backed by Decibel, Sequoia, Crosspoint Capital,
+  Craft Ventures, Shield Capital, Felicis, and In-Q-Tel. We’re
+  now hiring the team that will define this category.
+
+  How We Work
+
+  Customer first. The product and the business are built
+  around problems we’ve watched real security teams struggle
+  with — not the other way around. Every roadmap conversation
+  starts with what a CISO told us last week.
+
+  Humble. No drama. We hire people who share the mission and
+  trust each other to deliver. Teamwork over showmanship.
+  Accountability over politics. The work speaks louder than
+  the person doing it.
+
+  Urgency. The window to build a durable security company in
+  the AI era is open right now and it will not stay open. The
+  shot clock has started. We move at the speed of the people
+  we want to protect.
+
+  About the Role
+
+  We are seeking a Senior AI Engineer to solve hard problems
+  in running AI models where work actually happens: on the
+  endpoint. As people and AI agents take on more of the work
+  inside an enterprise, security has to understand behavior as
+  it unfolds, not days later in an alert queue. At Ent, small,
+  fast models on the endpoint watch the live stream of
+  activity in context and make decisions in milliseconds.
+  Larger reasoning models and agents in the cloud handle
+  deeper investigation and response. You will take models and
+  algorithms from our AI scientists and make them production-
+  grade, with reproducible training, gated evaluation and
+  efficient inference on the edge and in the cloud. Then you
+  will own them in production, so the team can keep pushing
+  into new research. This is a role for an engineer who wants
+  to understand the models they ship, likes working without a
+  map, and wants to help define how AI protects both humans
+  and agents.
+
+  What You’ll Achieve (Responsibilities)
+
+  - Take models and algorithms from our scientists into
+    production, understanding them well enough to reimplement
+    them correctly (for example Python to C++ or Java) and
+    verify parity with the original.
+  - Own models after launch, including retraining, monitoring
+    and evaluation, so researchers can move on to the next
+    problem.
+  - Design evaluation and release gates that decide when a model
+    is safe to ship, catch regressions from model or data
+    changes, and explain shifts in metrics such as precision
+    and recall.
+  - Build production monitoring for model quality, including
+    drift detection, retrain triggers and ground-truth
+    strategies for unlabeled data.
+  - Run inference within tight latency, memory, CPU and power
+    budgets on the endpoint, and at scale in the cloud, using
+    quantization, distillation, batching and caching.
+  - Build the pipelines that connect the two layers, so
+    behavioral baselines and context learned in the cloud flow
+    reliably back to endpoints.
+  - Build the infrastructure for training and experimentation
+    (datasets, reproducible training, CI/CD for models) and
+    keep it simple enough for a fast-moving team.
+
+  What You’ll Bring (Requirements)Must Have
+
+  - A track record of owning and designing whole systems end to
+    end, shown by growing scope across roles or companies.
+  - Experience training, evaluating and deploying your own
+    models in production. Integrating LLM APIs alone is not
+    enough for this role.
+  - The ability to take someone else's algorithm, understand the
+    math and logic behind it, and turn it into correct, tested
+    production code.
+  - A strong grasp of model evaluation: designing evals beyond
+    simple tests, reasoning about regressions, and knowing how
+    you'd tell that a model was ready to ship.
+  - Strong engineering skills in Python and at least one systems
+    or backend language (C/C++, Java, Rust or Go).
+  - Curiosity beyond your own job description, including about
+    where AI and security are heading.
+  - Comfort with ambiguity: you define the problem, then solve
+    it, and you close gaps without being asked.
+
+  Nice to have
+
+  - Edge or resource-constrained inference (ONNX Runtime,
+    llama.cpp, Core ML, TensorRT, OpenVINO or similar), with
+    results you can quantify.
+  - Building and operating data or inference pipelines at scale,
+    with a solid grasp of cost and latency tradeoffs.
+  - Building infrastructure without a big-company platform
+    behind you, at a startup or with your own setup.
+  - Using AI coding agents as a core part of your workflow, with
+    judgment about checking what they produce.
+  - Production LLM or agentic systems, including evaluating
+    probabilistic outputs, agent harnesses and MCP.
+  - Background in security: endpoint detection, DLP, behavioral
+    analytics, or protecting AI agents.
+
+  Our Benefits
+
+  - Distributed workplace. While we have positions we hire for
+    in our SF office, we also hire remotely across North
+    America.
+  - Own a piece of the journey. Every teammate gets meaningful
+    equity on top of their salary.
+  - We’ve got you covered. Generally, we pay 90% of your
+    medical, dental, and vision is paid by Ent. We also cover
+    75% for your dependents.
+  - Take the time you need. Our flexible PTO lets you recharge,
+    travel, or just take a breather.
+  - Family matters. 14 weeks of fully paid parental leave
+    (birth, adoption, or foster)!
+  - Live well. A $100 monthly lifestyle account to spend on what
+    keeps you healthy and happy — fitness, wellness, learning,
+    and more.
+  - Set up your space. A $500 home office stipend when you join
+    as a remote employee.
+
+  Diversity & Accommodations
+
+  We’re committed to building a diverse, inclusive, and
+  equitable workplace where people of all backgrounds,
+  identities, experiences, and abilities are welcomed, valued,
+  and supported. We recognize there is no single path to
+  success and value nontraditional career journeys and diverse
+  perspectives as key to building stronger, more innovative
+  teams.
+
+  We strive to ensure an inclusive experience at every stage
+  of hiring and are happy to provide reasonable
+  accommodations. If you require accommodations or accessible
+  formats at any point during our process, please let your
+  recruiter know. As an equal opportunity employer, our hiring
+  process is designed to put you at ease and help you do your
+  best work. If there’s anything we can do to improve your
+  experience, we’re always open to feedback.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Cybersecurity
+posted_date: 2026-09-08
+url: "https://www.builtinla.com/job/ml-ops-production-engineer/11053487"
+source: Built In

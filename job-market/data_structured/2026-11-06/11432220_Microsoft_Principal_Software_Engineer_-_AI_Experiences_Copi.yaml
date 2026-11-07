@@ -1,0 +1,52 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    Consumer and enterprise AI Copilot experiences across
+    platforms
+position:
+  title: Principal Software Engineer - AI Experiences, Copilot Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The team designs intelligent prompts and builds agent-driven
+      Copilot experiences with quality feedback loops, so the
+      person shapes model behavior and agentic systems directly.
+      The LLM/agent component is central, making this ai-first
+      rather than ai-support.
+  responsibilities:
+  - Design and develop next generation products and features for Copilot experiences
+    on Windows, Mac, and mobile
+  - Design and develop secure and performant platform services supporting Copilot
+    experiences
+  - Collaborate with platform, infrastructure, application engineers and researchers
+    on AI products and services
+  - Ship high-quality, well-tested, secure, and maintainable code
+  - Drive adoption of agentic coding tools and define best practices for prompt design
+    and human-in-the-loop systems
+  - Deliver work quickly and iteratively in a fast-paced product development cycle
+  use_cases:
+  - AI-assisted and agentic computing experiences on Windows, Mac, and mobile
+  - Copilot platform and UX features that enhance everyday computing
+  - Agent-driven systems that reason, plan, and execute tasks
+  - Consumer-scale AI services that transform user PC interaction
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, Claude Code, Codex, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C, C++, C#, Java, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11432220'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:49:44.987157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

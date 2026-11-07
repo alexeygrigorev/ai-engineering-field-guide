@@ -1,0 +1,60 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data and AI consulting for enterprise digital transformation
+position:
+  title: Senior Software Engineer – AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic workflows, MCP
+      servers, prompt engineering, and LLM evaluation/guardrails
+      directly, shaping LLM behavior. Explicitly hands-on AI
+      engineering with LLM agents, not traditional ML.
+  responsibilities:
+  - Own architecture, design, and delivery of AI platform capabilities from prototype
+    to production
+  - Build end-to-end AI applications spanning frontend, backend services, APIs, data
+    pipelines, and LLM integrations
+  - Design and deploy LLM-powered agents and multi-agent workflows with planning,
+    tool calling, and retrieval
+  - Architect secure REST APIs and MCP servers connecting AI agents to enterprise
+    systems
+  - Lead development of RAG pipelines including chunking, embeddings, vector/hybrid
+    search, reranking, and context assembly
+  - Develop context engineering frameworks and governed AI platform capabilities (registries,
+    policies, approvals, monitoring)
+  - Establish LLM testing, evaluation, and observability practices including guardrails
+    and audit trails
+  - Mentor engineers and lead architecture discussions and code reviews
+  use_cases:
+  - Enterprise-grade agentic AI platforms
+  - LLM-powered enterprise applications with multi-agent workflows
+  - RAG-based document retrieval and search over enterprise data
+  - Governed AI platform with security, PII masking, and audit trails
+  - Integration of enterprise knowledge graphs and semantic layers into AI workflows
+  - MCP servers connecting AI agents to enterprise tools and data sources
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, RAG, Prompt Engineering, Function
+        Calling, Structured Outputs, Embeddings, Context Engineering, LangChain, LangGraph,
+      LlamaIndex, OpenAI API, Anthropic API, Gemini, Llama, Semantic Kernel, AutoGen,
+      CrewAI, Guardrails, LLM Evaluation, Generative AI]
+    ml: []
+    web: [FastAPI, Flask, Express, React, Next.js, REST APIs, GraphQL, Webhooks, OAuth]
+    databases: [pgvector, Pinecone, Weaviate, OpenSearch, Snowflake Cortex Search,
+      Vector Search, Knowledge Graphs, Neo4j]
+    data: [dbt, Airflow, Spark, Snowflake, Databricks, Data Modeling, Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Distributed Systems, Git, Terraform, LangSmith,
+      Langfuse, MLflow, OpenTelemetry]
+    languages: [Python, TypeScript, Node.js, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11611967'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:21:21.087373'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

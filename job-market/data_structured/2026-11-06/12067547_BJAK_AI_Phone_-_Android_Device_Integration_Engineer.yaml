@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Building AI-native phones and proactive applications
+position:
+  title: AI Phone - Android Device Integration Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is embedded systems/firmware engineering:
+      integrating AOSP with device hardware, HALs, drivers, and
+      boot processes. It does not shape any model's behavior—no
+      prompts, retrieval, training, or evals—and only serves
+      hardware on an AI-branded product.
+  responsibilities:
+  - Integrate AOSP / custom ROM with selected device hardware
+  - Work with Board Support Packages (BSPs) and vendor-specific HALs
+  - Work with firmware and device drivers and support device bring-up and boot
+  - Integrate camera, microphone, speakers, sensors, modem, Wi-Fi and Bluetooth
+  - Troubleshoot hardware and firmware compatibility issues
+  - Work with ODM/OEM and chipset vendors
+  - Optimize power consumption and hardware performance
+  use_cases:
+  - AI phone hardware and OS integration
+  - Device bring-up and boot for custom Android ROM devices
+  - Peripheral integration (camera, sensors, connectivity) for proactive AI devices
+  - Power and performance optimization on smartphone hardware
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C, C++]
+    domains: []
+    other: [Android Platform, Embedded Linux, Board Support Packages, Hardware Abstraction
+        Layers, Device Drivers, Firmware, AOSP, Custom ROM Development, Linux Kernel,
+      Qualcomm, MediaTek]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12067547'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:47:08.614004'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

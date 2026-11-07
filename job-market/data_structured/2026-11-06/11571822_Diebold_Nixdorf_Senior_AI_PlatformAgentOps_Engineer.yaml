@@ -1,0 +1,51 @@
+company:
+  name: Diebold Nixdorf
+  stage: null
+  focus: Self-service commerce, ATM and retail banking technology
+position:
+  title: Senior AI Platform/AgentOps Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, administers, and operates AI platforms,
+      agents, and environments (Copilot Studio, Foundry, CI/CD,
+      security, cost controls) but does not shape model behavior
+      through prompts, retrieval, training, or evals. It is
+      platform/infrastructure plumbing for enterprise AI, which is
+      ai-support.
+  responsibilities:
+  - Build and operate shared AI platform capabilities and services
+  - Manage Sandbox, Dev, Test and Production environments with controlled promotion
+  - Automate build, validation, deployment, versioning and rollback via CI/CD
+  - Manage agent configuration, deployment, publishing, lifecycle and operational
+    controls
+  - Track model, agent, API and infrastructure consumption for cost visibility
+  - Manage identity, secrets, connections, environment isolation and platform security
+    controls
+  - Establish production readiness, runbooks, incident support and lifecycle management
+  - Administer AI platforms, Foundry environments, Copilot Studio and other agent
+    platforms
+  use_cases:
+  - Industrializing enterprise AI agents into secure, scalable, observable services
+  - Enterprise AI platform administration and governance
+  - Automated promotion of AI agents across environments
+  - Cost tracking and visibility for AI model and agent consumption
+  skills:
+    genai: [Copilot Studio, LLMs, Generative AI, AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Kubernetes, Observability, Monitoring, Docker]
+    languages: []
+    domains: []
+    other: [AgentOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11571822'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:13:29.763704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

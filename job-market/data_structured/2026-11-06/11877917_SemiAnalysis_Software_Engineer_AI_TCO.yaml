@@ -1,0 +1,53 @@
+company:
+  name: SemiAnalysis
+  stage: null
+  focus: |-
+    Independent semiconductor and AI industry research and
+    analysis
+position:
+  title: Software Engineer, AI TCO
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds dashboards presenting analysts'
+      financial/TCO models; AI is only used as coding agents to
+      write code faster, which is explicitly ai-support. No
+      shaping of model behavior, prompts, or retrieval.
+  responsibilities:
+  - Build and maintain dashboards delivering institutional models to clients (TCO,
+    Tokenomics, CCM)
+  - Load new model releases into dashboards and develop checks to catch errors before
+    clients see them
+  - Collect and validate data such as component prices, power costs, GPU rental prices,
+    and token prices with clear sourcing
+  - Work with analysts to translate model outputs into accurate dashboards
+  - Answer client questions about the numbers and turn results into charts and written
+    explanations
+  - Contribute to newsletter articles with opportunities for direct authorship
+  use_cases:
+  - GPU cluster total cost of ownership dashboards (cost per GPU-hour, rental price
+    comparison)
+  - AI tokenomics tracking (revenue, token prices, compute spend, margins)
+  - AI financing and compute capital markets tracking (deals, debt, rental prices,
+    funding costs)
+  - Client decision support for buying, pricing, and financing AI infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11877917'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:29:10.259079'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading apps for accessibility
+position:
+  title: Software Engineer, AI Data - Frisco, TX, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines that feed someone else's
+      model training runs - discovering audio data sources and
+      moving/cleaning data, not shaping model behavior or judging
+      output. Per the dataset-pipeline rule, this is ai-support.
+  responsibilities:
+  - Discover new audio data sources and build pipelines to ingest them into training
+    datasets
+  - Build and improve large-scale data-processing systems optimized for quality, throughput,
+    and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Building text-to-speech products that convert written content to audio
+  - Assembling petabyte-scale audio training datasets for next-generation TTS models
+  - Supporting accessible reading for users with dyslexia and learning differences
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762287'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:00:47.384170'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

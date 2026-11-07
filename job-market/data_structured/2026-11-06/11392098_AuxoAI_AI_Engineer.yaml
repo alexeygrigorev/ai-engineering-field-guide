@@ -1,0 +1,56 @@
+company:
+  name: AuxoAI
+  stage: null
+  focus: Enterprise AI agents for industrial operations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent frameworks, tool-calling
+      architectures, memory systems, and evaluation frameworks for
+      LLM-based agents, which is shaping model behavior. It also
+      combines classical ML, but any LLM/agent component makes it
+      ai-first.
+  responsibilities:
+  - Design and architect modular AI agent frameworks with skill decomposition, tool
+    orchestration, and persistent state tracking
+  - Build and deploy supervised and unsupervised ML models for prediction, classification,
+    anomaly detection, and pattern recognition
+  - Develop decision-making loops balancing exploration vs. exploitation, cost vs.
+    accuracy, and latency vs. reasoning depth
+  - Build structured memory systems including episodic memory, semantic memory layers,
+    and vector-based memory with optimised retrieval
+  - Design tool-calling architectures with execution validation, retry mechanisms,
+    and failure recovery
+  - Develop evaluation frameworks for agent and model performance using task success
+    metrics and rollout simulations
+  - Integrate AI agents and ML models with enterprise systems and deliver production-ready,
+    reliable AI systems
+  use_cases:
+  - Autonomous enterprise workflows
+  - Decision engines for manufacturing, finance, and supply chain
+  - Tool-driven agent ecosystems
+  - Prediction, classification, and anomaly detection on operational data
+  - Inference on live streaming industrial and IoT data
+  skills:
+    genai: [AI Agents, Function Calling, RAG, Vector Databases, LLMs, Prompt Engineering,
+      Gemini]
+    ml: [scikit-learn, XGBoost, PyTorch, Feature Engineering, Cross-Validation, Anomaly
+        Detection, Reinforcement Learning, Machine Learning]
+    web: [APIs]
+    databases: [Databricks]
+    data: [Kafka, Pub/Sub, Data Pipelines]
+    cloud: [Vertex AI, GCP]
+    ops: [Model Deployment, Model Monitoring, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Enterprise Systems Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11392098'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:43:17.407617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

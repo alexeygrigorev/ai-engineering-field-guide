@@ -1,0 +1,51 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Recruiting agency placing AI engineering roles
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs automated systems to evaluate and improve
+      LLM output and builds applications on large language models,
+      which is shaping model behaviour. While it also explores
+      generative image/video, it explicitly centers on LLM-based
+      applications, so it is ai-first.
+  responsibilities:
+  - Build quick proofs of concept to test how far AI can be taken within data-driven
+    workflows
+  - Design automated systems that evaluate and improve model output with minimal manual
+    input
+  - Explore methods for pushing the limits of AI-generated video, including lifelike
+    synthetic people
+  - Experiment with generating image and brand assets consistent with a given visual
+    identity
+  - Tie experimental work to practical customer and product uses
+  - Carry projects from early exploration through to execution
+  use_cases:
+  - AI-enhanced data-driven business workflows
+  - Automated evaluation and improvement of model output
+  - AI-generated video with lifelike synthetic people
+  - Consistent image and brand asset generation
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Machine Learning, Deep Learning, Fine-Tuning, Model Training, Probabilistic
+        Modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11770053'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:09:37.500583'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

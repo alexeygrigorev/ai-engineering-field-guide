@@ -1,0 +1,52 @@
+company:
+  name: Adsparkx Media
+  stage: null
+  focus: AI product for running and optimizing Meta ads
+position:
+  title: Sr. Full Stack Developer (AI First)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds AI-powered features using LLMs, agentic
+      workflows, RAG, tool calling, embeddings, and designs
+      guardrails, evaluations, context/memory, and cost/latency
+      tradeoffs — directly shaping model behavior and output
+      quality. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Design and build scalable backend services using Node.js/TypeScript and Python
+  - Build REST APIs, microservices, asynchronous workflows, and third-party integrations
+  - Design and work with databases including PostgreSQL, MongoDB, MySQL, Redis, and
+    DynamoDB
+  - Build AI-powered applications using LLMs, agentic AI, RAG, tool calling, and embeddings
+  - Use AI coding agents and LLMs for development, debugging, testing, and refactoring
+  - Design reliable AI systems with evaluation, guardrails, context/memory, latency,
+    and cost considerations
+  - Participate in architecture and technical decisions and communicate trade-offs
+  - Debug production issues, write tests, review code, and improve performance, security,
+    and reliability
+  use_cases:
+  - Automated onboarding and weekly planning for Meta ad campaigns
+  - Generating ad creatives
+  - Optimizing advertising workflows for brands
+  - AI orchestration and agent-driven advertising tasks
+  - Retrieval-augmented and tool-calling AI features
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Function Calling, Embeddings, Guardrails,
+      AI Agents]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [PostgreSQL, MongoDB, MySQL, Redis, DynamoDB]
+    data: []
+    cloud: [AWS]
+    ops: [Git, Monitoring, Distributed Systems]
+    languages: [Node.js, TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323862'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T11:29:56.064696'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

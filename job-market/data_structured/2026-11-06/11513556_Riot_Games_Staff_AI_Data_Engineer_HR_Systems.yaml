@@ -1,0 +1,57 @@
+company:
+  name: Riot Games
+  stage: null
+  focus: Game developer building enterprise HR technology
+position:
+  title: Staff AI & Data Engineer, HR Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI solutions with LLMs,
+      RAG, tool calling, orchestration, evaluation, and
+      guardrails, directly shaping model behavior and output
+      quality. LLM/agent components are central, so it is ai-
+      first.
+  responsibilities:
+  - Design and build agentic AI solutions using LLMs, RAG, tool calling, memory, and
+    orchestration within defined guardrails
+  - Build scalable HR data pipelines, products, and domain models on Databricks with
+    Unity Catalog and medallion architecture
+  - Integrate structured and unstructured data across Workday, Databricks, and AI
+    services using MCPs, APIs, events, and orchestration
+  - Establish evaluation, observability, and responsible AI practices ensuring accuracy,
+    safety, and production readiness
+  - Translate HR processes and business needs into scalable technical solutions across
+    the employee lifecycle
+  - Mentor and pair with HR Tech engineers to build AI, data, and automation capabilities
+  - Establish reusable architectures, patterns, and engineering standards
+  - Evaluate AI, automation, and platform capabilities for high-value HR Technology
+    opportunities
+  use_cases:
+  - Agentic AI assistants for HR operations, recruiting, onboarding, compensation,
+    and benefits
+  - AI-augmented HR analytics and workforce planning
+  - Governed HR data products and trusted data access for analytics and AI
+  - Intelligent automation of HR workflows across SaaS and custom systems
+  - Secure enterprise integrations across Workday, Databricks, and AI services
+  skills:
+    genai: [LLMs, RAG, Function Calling, Agentic Workflows, Prompt Engineering, MCP,
+      Multi-Agent Systems, Semantic Search, LLM Evaluation, Guardrails]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: [Unity Catalog, Vector Search]
+    data: [Databricks, Data Pipelines, Data Modeling, Medallion Architecture]
+    cloud: [AWS, AWS Lambda, GCP]
+    ops: [CI/CD, DevOps, Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Workday, Workato, Windsurf, Devin, TrueFoundry, Microsoft Copilot, ServiceNow,
+      Greenhouse, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11513556'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:03:03.140360'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

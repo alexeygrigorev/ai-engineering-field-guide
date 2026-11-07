@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services with AI security solutions
+position:
+  title: Python Backend Engineer (AI Security)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and secures LLM workflows: integrating
+      OpenAI/Anthropic APIs, implementing vector search and
+      embeddings with ChromaDB for AI retrieval. Building
+      retrieval/embedding components for AI systems is shaping
+      model behaviour/output quality, so it is ai-first (LLM
+      components involved).
+  responsibilities:
+  - Design and implement secure backend services using Python 3.11+ with asynchronous
+    processing and high-performance APIs
+  - Develop and maintain database schemas using SQLModel and SQLite
+  - Architect system components following C4 principles and create Data Flow Diagrams
+  - Integrate and manage LLM APIs from providers such as OpenAI and Anthropic securely
+  - Implement vector search and manage embeddings using ChromaDB for AI retrieval
+  - Build test suites with pytest and pytest-asyncio for asynchronous code reliability
+  - Collaborate with cross-functional teams to align AI application architecture with
+    security best practices
+  use_cases:
+  - Securing LLM integrations and AI workflows
+  - Advanced AI retrieval via vector search and embeddings
+  - Data integrity and system resilience for AI-driven products
+  - Secure asynchronous backend services for AI applications
+  skills:
+    genai: [Embeddings, LLMs, OpenAI API, Anthropic API, Generative AI]
+    ml: []
+    web: [FastAPI]
+    databases: [SQLModel, SQLite, Vector Search, Chroma]
+    data: []
+    cloud: []
+    ops: [Pytest]
+    languages: [Python, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891585'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:13.293241'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

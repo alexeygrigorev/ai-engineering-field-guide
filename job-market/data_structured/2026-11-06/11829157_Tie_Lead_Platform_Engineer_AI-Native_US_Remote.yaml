@@ -1,0 +1,59 @@
+company:
+  name: Tie
+  stage: Series A heading into a Series B
+  focus: |-
+    Data infrastructure for digital commerce and marketing
+    analytics
+position:
+  title: Lead Platform Engineer, AI-Native (US Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding tools (Claude Code, Cursor, agentic
+      workflows) to accelerate engineering delivery — the
+      deliverable is developer workflow and product/data
+      infrastructure, not model behaviour. No prompt design, RAG,
+      evals, or model training is owned by this person.
+  responsibilities:
+  - 'Own real-time data/ML pipelines: Kafka event ingestion, ClickHouse analytics,
+    transformations, backfills, and end-to-end data reliability'
+  - 'Build and scale full-stack product surfaces: React frontends, Node/Express/Nest-style
+    services, and MongoDB-backed APIs'
+  - 'Own infrastructure and DevOps: CI/CD with GitHub Actions, Terraform, Kubernetes,
+    AWS/GCP, secrets management, and deployment automation'
+  - Use AI coding tools (Claude Code, Cursor, agentic workflows) to accelerate delivery
+    including tests, migrations, and debugging workflows
+  - Establish an AI-assisted engineering workflow for the rest of the team
+  - Own SOC 2 readiness, IAM hygiene, observability (OpenTelemetry, Sumo Logic), and
+    incident response
+  - Improve production and pipeline observability across services, containers, and
+    data flows
+  - Replace vendor-dependent infrastructure with internally-owned Terraform/Kubernetes
+    automation
+  use_cases:
+  - Identity resolution and customer intelligence for e-commerce brands
+  - Real-time marketing analytics on streaming event data
+  - Turning anonymous traffic into revenue for 200+ brands
+  - Customer-facing SaaS analytics and activation systems
+  - Automation-heavy internal tooling
+  skills:
+    genai: [Claude Code, Cursor, Agentic Workflows]
+    ml: [Model Deployment]
+    web: [React, Node.js, Express, NestJS]
+    databases: [ClickHouse, MongoDB, BigQuery, Neo4j]
+    data: [Kafka, dbt, Airbyte]
+    cloud: [AWS, GCP, IAM]
+    ops: [Terraform, Kubernetes, CI/CD, GitHub Actions, Docker, OpenTelemetry, Sumo
+        Logic, Grafana, Prometheus]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [SOC 2, Auth0, Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11829157'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:20:41.200151'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

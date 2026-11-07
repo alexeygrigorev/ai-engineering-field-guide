@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    AI research for scientific modelling and drug/materials
+    discovery
+position:
+  title: Senior Data and Cloud Engineer, AI for Science
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates cloud data pipelines and
+      infrastructure that generate datasets feeding someone else's
+      deep-learning DFT models. It does not shape model behaviour,
+      prompts, or training. 'Agentic software development' appears
+      to mean using AI coding tools, which is ai-support.
+  responsibilities:
+  - Turn quantum chemistry software into large-scale cloud data generation pipelines
+    with domain experts
+  - Organize, validate, and store large scientific datasets for ML and analysis
+  - Build cloud infrastructure with containers, infrastructure as code, and CI/CD
+  - Ensure reliability, security, and efficiency through observability, incident response,
+    and capacity planning
+  use_cases:
+  - Generating quantum chemistry datasets for machine learning
+  - Deep learning-powered density functional theory (DFT) for electronic structure
+    prediction
+  - Scientific discovery for sustainable materials and drug discovery
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines, Distributed Systems]
+    cloud: [Azure]
+    ops: [CI/CD, Infrastructure as Code, Observability, Incident Response, Capacity
+        Planning]
+    languages: [Python]
+    domains: []
+    other: [Agentic Software Development, Quantum Chemistry, Cloud Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005495'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  - Amsterdam, NLD
+  - Cambridge, GBR
+  extracted_at: '2026-11-06T14:25:41.381149'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

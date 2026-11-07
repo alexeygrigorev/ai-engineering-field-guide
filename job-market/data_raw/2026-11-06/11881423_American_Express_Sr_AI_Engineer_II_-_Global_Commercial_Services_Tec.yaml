@@ -1,0 +1,136 @@
+job_id: 11881423
+title: Sr AI Engineer II - Global Commercial Services Technology
+company: American Express
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Senior AI Engineer II – Agentic AI, Global Commercial
+  ServicesThe Role
+
+  As a Senior AI Engineer II – Agentic AI, you will be a
+  hands-on engineer within Amex Technology, building and
+  evolving production-grade agentic AI systems that power
+  intelligent customer and enterprise experiences. Today that
+  means agents that work in real time to take the tedious part
+  of spend management off our business customers. They read
+  messy real-world documents, work out what belongs in the
+  record, and propose values that already fit the customer's
+  policy, so the user reviews instead of types. Working
+  closely with architects, Product, UX, Data Science, and
+  Engineering teams, you will design, implement, and operate
+  scalable, reliable, and secure AI solutions. You'll work in
+  a small team that owns the full stack of an AI product, from
+  the agent framework and pipelines to the evals and the
+  production service, and you'll drive the direction of major
+  pieces of it.
+
+  Global Commercial Services (GCS) serves millions of business
+  customers around the world, from mom-and-pop shops to
+  Fortune 500 companies. We back businesses so they can do
+  more business, with a mission to be the undisputed leader in
+  financial and membership services — responsibly driving
+  double-digit revenue growth. We do that by offering a
+  diverse range of payment and cashflow tools, from a wide
+  range of traditional card products, to working capital and
+  supply chain financing, to new digital solutions that make
+  it easy for our customers to manage a full range of their
+  financial and payment needs.
+
+  Why Join Our Team
+
+  The difficult part is not making an LLM demo look
+  convincing. It is building systems that remain useful when
+  context is incomplete, tools fail, models change, and the
+  outcome must be explainable. At American Express, those
+  systems must also meet the security, reliability, privacy,
+  and control standards of a global payments company.
+
+  In this role, you will own the technical shape of a problem,
+  not just its implementation. You will lead ambiguous work
+  across services and teams, decide where deterministic
+  software should end and model behavior should begin,
+  establish evaluation and operating standards, and remain
+  accountable after launch. Your decisions will influence both
+  customer-facing capabilities and the shared AI platform
+  other engineers use.
+
+  The team also treats developer experience as a product. We
+  build and refine model access, orchestration patterns,
+  evaluation harnesses, observability, guardrails, and AI-
+  assisted engineering workflows. When a tool or practice
+  proves useful, we make it reusable so teams across Amex can
+  move faster without lowering the engineering bar.
+
+  ResponsibilitiesWhat You'll Do
+
+  - Lead the technical design of new agent capabilities, from
+    ambiguous product intent to shipped system.
+  - Build and operate those services end to end, from event
+    trigger through LLM reasoning to persisted, surfaced
+    results.
+  - Extend and shape our shared agent framework: orchestration,
+    tool use, structured generation, and observability.
+  - Design and tune RAG and embedding pipelines on the vector
+    search built into our operational database.
+  - Design evals for new agent behaviors and gate prompt changes
+    on them.
+  - Own reliability: failure classification, idempotency, DLQ
+    handling, and rollout safety for AI features in
+    production.
+  - Set the standard in design review and code review, and
+    mentor engineers ramping onto the AI stack.
+  - Evaluate emerging models and techniques, and fold the ones
+    that earn their keep into the platform.
+
+  The Stack
+
+  AI platform
+
+  - TypeScript
+  - In-house agent framework on the Vercel AI SDK and Effect
+  - Embeddings and vector search in our operational database
+  - Offline eval harness in Go; live-traffic evals in Datadog
+
+  Services and infrastructure
+
+  - TypeScript and Go services
+  - gRPC and tRPC APIs
+  - Event-driven pipelines on Kafka, SQS, and Lambda
+  - EKS on AWS, feature-flagged rollouts, infrastructure as code
+
+  Qualifications
+
+  What We're Looking For
+
+  - 6+ years building large-scale backend or distributed systems
+    in production.
+  - Shipped LLM-powered features to real users, and can talk
+    concretely about what broke and how you found out.
+  - Strong TypeScript or Go, and comfort working across both.
+  - Strong distributed-systems instincts: queues, event-driven
+    design, failure modes, idempotency.
+  - Judgment about what an LLM should decide versus what code
+    should decide.
+  - A track record of driving designs across a team.
+  - Clear communication across engineering, product, and design.
+
+  Nice to Have
+
+  - Contributions to open-source projects, especially AI,
+    developer-tooling, or infrastructure libraries.
+  - Experience building developer tooling, internal platforms,
+    or frameworks other engineers build on.
+  - Experience designing LLM evals or operating LLM
+    observability at scale.
+  - Experience with durable execution or workflow orchestration
+    engines such as Temporal.
+  - AI features shipped in financial services or another
+    regulated industry.
+  - Vector search or embedding pipelines in production.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-10-26
+url: "https://www.builtinla.com/job/sr-ai-engineer-ii-global-commercial-services-technology/11881423"
+source: Built In

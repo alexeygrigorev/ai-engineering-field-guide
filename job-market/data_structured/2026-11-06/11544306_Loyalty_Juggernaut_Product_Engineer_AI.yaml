@@ -1,0 +1,53 @@
+company:
+  name: Loyalty Juggernaut
+  stage: null
+  focus: B2B SaaS loyalty and customer engagement platform
+position:
+  title: Product Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys AI-driven product
+      features including GenAI technologies, shapes model quality
+      through experimentation and improvement of accuracy and
+      performance, and owns end-to-end ML pipelines from training
+      to monitoring. GenAI involvement plus model evaluation and
+      deployment makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-driven product features using ML, NLP, or GenAI
+    technologies
+  - Collaborate with product managers, data scientists, and platform engineers to
+    deliver scalable AI solutions
+  - Build and maintain end-to-end ML pipelines from data preparation through training,
+    deployment, and monitoring
+  - Analyze data and experiment with techniques to improve model accuracy, performance,
+    and business impact
+  - Integrate models into production microservices and APIs
+  - Follow software development best practices including version control, CI/CD, and
+    testing
+  - Document solutions, share knowledge, and contribute to technical reviews
+  use_cases:
+  - Personalized real-time customer engagement at scale
+  - Intelligent loyalty program features for enterprise brands
+  - Increasing customer lifetime value through AI-driven experiences
+  - Revenue-generating loyalty ecosystems across airlines, retail, hospitality, financial
+    services, and telecom
+  skills:
+    genai: [Generative AI]
+    ml: [scikit-learn, TensorFlow, PyTorch, Machine Learning, Model Training]
+    web: [Microservices, APIs]
+    databases: []
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Model Deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11544306'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:08:50.023893'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

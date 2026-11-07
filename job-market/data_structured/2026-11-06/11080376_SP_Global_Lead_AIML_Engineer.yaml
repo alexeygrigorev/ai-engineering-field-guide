@@ -1,0 +1,52 @@
+company:
+  name: S&P Global
+  stage: null
+  focus: Credit ratings, benchmarks, and analytics for global markets
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior through agentic AI
+      frameworks, LLM fine-tuning, RAG, and building model
+      evaluation frameworks for production GenAI systems.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Architect and own end-to-end delivery of scalable ML and Generative AI solutions
+    from requirements to production deployment on AWS
+  - Design and build reusable AI platforms, model evaluation frameworks, and performance
+    optimization tooling
+  - Apply agentic AI frameworks, LLM fine-tuning, and retrieval-augmented generation
+    to credit ratings datasets
+  - Lead technical research and adoption of emerging AI/ML technologies to improve
+    existing analytics solutions
+  - Partner with cross-functional teams to translate analytical requirements into
+    production-grade solutions
+  - Define and champion AI engineering best practices and technical standards
+  use_cases:
+  - Data-driven insights from credit ratings datasets informing global market decisions
+  - Next-generation analytics platform for S&P Global Ratings
+  - Production agentic AI and RAG systems over structured and unstructured credit
+    data
+  - Automated model evaluation and performance optimization for enterprise analytics
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, Generative AI, Claude Code, LangChain, LangGraph,
+      CrewAI]
+    ml: [Fine-Tuning, TensorFlow, PyTorch, scikit-learn, Model Training, Deep Learning,
+      Feature Engineering]
+    web: [Spring Boot, Microservices, React, HTML]
+    databases: [Neo4j, Graph Databases, Databricks, Snowflake]
+    data: [Data Engineering, Feature Engineering, Spark, Hadoop]
+    cloud: [AWS, SageMaker, AWS Bedrock, AWS Glue]
+    ops: [Docker, Kubernetes, CI/CD, Git, GitHub Copilot, MLflow, Weights & Biases]
+    languages: [Python, Java, SQL, JavaScript]
+    domains: [NLP]
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080376'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:24:49.817550'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

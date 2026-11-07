@@ -1,0 +1,46 @@
+company:
+  name: G2i
+  stage: null
+  focus: Talent marketplace for vetted remote engineers
+position:
+  title: Senior Software Engineer, AI Training - LATAM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role judges the output quality of AI coding agents
+      (Codex, Claude Code), ranking and critiquing model-generated
+      interactions and shaping what great looks like. Judging
+      model output quality is shaping an LLM, so it is ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end to end
+  - Judge whether agent outputs are useful, correct, and aligned with strong engineering
+    judgment
+  - Assess quality of explanations and reasoning, not just code
+  - Distinguish between levels of response quality (e.g., 2 vs 4 ratings)
+  - Write clear, opinionated feedback on what worked and what didn't
+  - Help define standards for great interactions with tools like Cursor, Codex, and
+    Claude Code
+  use_cases:
+  - Evaluating quality of AI coding agent interactions
+  - Assessing reasoning and engineering judgment of coding agents
+  - Defining standards for AI-assisted development workflows
+  skills:
+    genai: [OpenAI API, Codex, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11451573'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:52:30.854860'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

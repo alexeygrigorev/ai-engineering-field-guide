@@ -1,0 +1,51 @@
+company:
+  name: Create Music Group
+  stage: null
+  focus: Music distribution, label, and entertainment network
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agentic AI architecture, RAG pipelines,
+      guardrails, and LLM evaluation for CreateOS — directly
+      shaping LLM and agent behavior. Mentoring is IC technical
+      leadership, not management.
+  responsibilities:
+  - Architect AI agents and shared orchestration, tool-use, memory, and routing patterns
+    as a cohesive agent platform
+  - Design RAG pipelines and semantic search grounded in CreateOS structured data
+  - Define guardrails, evaluation, observability, and human-in-the-loop standards
+    for agentic systems
+  - Drive model, prompt, and tool-use choices including cost and latency tradeoffs
+  - Integrate frontier and open-source LLMs into user-facing CreateOS features
+  - Ship full-stack AI-native features end-to-end from data model to UI
+  - Deploy and maintain production AI services with revenue-critical reliability
+  - Partner with product, M&A, A&R, and Marketing stakeholders and mentor the ML Engineer
+  use_cases:
+  - Agentic AI layer for a music industry operating platform (CreateOS)
+  - RAG and semantic search over contracts, royalty statements, and catalog metadata
+  - Chat interfaces, copilot tools, and workflow automation for internal users
+  - Deal term and A&R decision support features
+  - Marketing-facing AI features
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, Prompt Engineering, Function Calling,
+      OpenAI API, Anthropic API, LLMs, Guardrails, LLM Evaluation, Embeddings, Cursor,
+      Claude Code]
+    ml: []
+    web: [REST APIs, React, Next.js]
+    databases: [Vector Databases, Semantic Search, PostgreSQL, SQL]
+    data: [dbt, Airflow]
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Observability]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11779683'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:11:02.068170'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

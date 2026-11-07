@@ -1,0 +1,53 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: AI safety research; building reliable, beneficial AI systems
+position:
+  title: Applied AI Engineer, Beneficial Deployments (Life Sciences)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes agents, designs agent architectures,
+      prompt/context engineering, evaluation frameworks, and
+      builds MCP servers — directly shaping model behavior and
+      usefulness. LLM/agent-driven work makes it ai-first;
+      customer-facing forward-deployed work confirms shaping.
+  responsibilities:
+  - Partner with flagship life sciences research institutions, embedding in their
+    scientific workflows and building alongside their engineering teams
+  - Take projects from early exploration to production systems integrated into partners'
+    day-to-day science
+  - Build reusable ecosystem infrastructure such as MCP servers, domain-specific benchmarks,
+    and reusable agent skills
+  - Identify deployment challenges in life sciences (heterogeneous data, auditability,
+    prototype-to-trust gap) and feed findings back to product, engineering, and research
+  - Create technical content and documentation enabling partner self-serve adoption
+  use_cases:
+  - Deploying Claude in life sciences research workflows from discovery to translation
+  - Agents integrated into genomics, literature, and experimental data pipelines
+  - Domain-specific MCP servers connecting Claude to life sciences data sources and
+    instruments
+  - Scientifically-grounded benchmarks for AI in biomedical research
+  - Reusable agent skills adoptable across life sciences institutions
+  skills:
+    languages: []
+    domains: [Scientific Computing, Genomics, Drug Discovery]
+    web: []
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [Prompt Engineering, Context Engineering, AI Agents, MCP, LLMs, LLM Evaluation]
+    ops: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11411876'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:45:51.974446'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

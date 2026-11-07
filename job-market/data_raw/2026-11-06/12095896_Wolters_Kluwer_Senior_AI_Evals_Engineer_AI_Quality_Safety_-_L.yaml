@@ -1,0 +1,173 @@
+job_id: 12095896
+title: "Senior AI Evals Engineer (AI Quality & Safety) - Libra-Legal AI Assistant (m/w/d)"
+company: Wolters Kluwer
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 18,996 Employees
+description: |
+  About Us There are hundreds of thousands of lawyers across
+  Europe, and at Libra we're transforming how they work. Our
+  AI platform combines deep legal reasoning with cutting-edge
+  generative technology, fundamentally changing how lawyers
+  research, draft, and deliver legal work. We operate with the
+  speed and ownership of a startup, while being backed by the
+  scale and stability of an established leader. Libra is an
+  independent business unit within the Legal & Regulatory
+  division of Wolters Kluwer, a leading global provider of
+  information, software, and services for professionals. For
+  180 years, Wolters Kluwer has supported and simplified the
+  work of experts and organizations through innovative
+  solutions, relying today on more than 20,000 colleagues
+  worldwide to bring that vision to life.
+
+  About The Role As an Evals Engineer (m/w/d) at Libra, you'll
+  be the first dedicated hire on a new team that owns how we
+  measure quality: the datasets, rubrics, judges and harnesses
+  that decide whether an AI feature is good enough to ship,
+  and the automated optimization that runs against them.
+
+  Optimizing a system against a target is newly automatable:
+  LLM optimizers like GEPA now propose and test the candidates
+  themselves. Nobody has to invent the experiments any more,
+  and the system will improve in whatever direction the evals
+  point, whether or not that's where you meant to go. That
+  makes defining what good means the highest-leverage work we
+  do, and it has to be done task by task, from scratch, for a
+  legal AI platform at European scale. You'll work in a lean,
+  agile environment with AI Engineers, Legal Engineers and
+  Product, based at the vibrant Merantix AI Campus in Berlin,
+  surrounded by a community of AI innovators.
+
+  What you'll do
+
+  - Build and own the eval platform: datasets, judges,
+    harnesses, regression gates, cost and quality in one view,
+    on Python, FastAPI and Langfuse. Make it self-service, so
+    AI Engineers can evaluate and tune their own features
+    without going through you, and eval-driven development
+    becomes the most effective path rather than a tax.
+  - Map the quality landscape: good means something different
+    for research, drafting, summarisation and retrieval, and
+    again per jurisdiction. Work out what a defensible measure
+    looks like for each, going first on the ones nobody has
+    evaluated before and then making them repeatable without
+    you.
+  - Design the rubrics and set the standard for LLM-as-judge:
+    turn Legal Engineers' and subject-matter experts' judgment
+    into version-controlled criteria, keep judges recalibrated
+    as models and jurisdictions change, and make authoring
+    cheap enough to do at volume on privileged material.
+  - Deep-dive results and traces until you can say why something
+    failed, then find the lever that moves it and automate the
+    fix.
+  - Unhobble the optimizer: instrument the app so prompts,
+    hyperparameters and harness architecture become levers a
+    search can safely pull, then run automated optimization
+    (GEPA, DSPy) over them against a fitness function you
+    trust, widening that surface as you go.
+  - Make cheaper models win: treat quality per euro as a first-
+    class metric, instrumented per call, and find the
+    configuration where a smaller model matches or beats an
+    expensive one.
+  - Own guardrails: ungrounded advice, invented or misattributed
+    citations, jurisdiction and language leakage, prompt
+    injection from ingested documents. Design them, red-team
+    them, prove they hold.
+
+  What you'll bring Education
+
+  - Bachelor's degree or equivalent in a relevant technical
+    field (e.g. Computer Science, Software Engineering,
+    Statistics, Data Science); advanced degree is a plus.
+
+  Experience
+
+  - Minimum 5 years in software engineering, at least 1 building
+    LLM-powered products in production.
+  - Strong Python: FastAPI, modern tooling, and the data stack
+    (pandas, numpy, notebooks), because much of this job is
+    analysis.
+  - Hands-on experience designing evaluations: datasets,
+    rubrics, LLM-as-judge, benchmarking, human labelling.
+  - Solid security and data-privacy practice. You'll handle
+    traces, documents and datasets derived from privileged
+    legal material.
+  - AI coding agents (Claude Code, Codex, Cursor) in your daily
+    workflow.
+  - Genuine interest in the legal domain.
+  - Bonus: automated prompt or pipeline optimization (GEPA, DSPy
+    or similar), and a broader data science toolkit, e.g.
+    embedding clustering to check dataset coverage.
+
+  Skills
+
+  - A strong engineer who hasn't hand-written code in months.
+    The architecture is yours, the typing isn't. You ship more
+    working software than you ever did alone, reject code that
+    runs but is shaped wrong, and leave less rework and
+    cognitive debt behind you.
+  - You think in systems and expect them to be gamed. The app,
+    the evals, the optimizer and the people using them are one
+    loop. Once evals gate releases, everything optimizes
+    toward them, so some judgments stay human.
+  - Hard to fool by a single number. "Could these all be within
+    variance?" comes before any ranking, and a judge's
+    reliability before you trust its grades. You report
+    bounds, and retire a result that doesn't hold up,
+    including your own.
+  - You get expertise out of people who have no time to give you
+    any, and build tools they choose to use. An eval nobody
+    runs is worth nothing.
+  - Runs on macro-management. You ask the sharp questions up
+    front, then come back with options, their trade-offs and
+    the assumptions behind each, and help pick. Good to think
+    out loud with. Entrepreneurial, accountable, pragmatic.
+  - Excellent communication in English.
+
+  What we offer:
+
+  - Permanent employment from day one.
+  - Remote work & flexibility: Work remotely up to 3 days per
+    week (home office) (= 8 days a month in the office) with
+    flexible working hours.
+  - Work abroad flexibly: Work from anywhere within the EU for
+    up to 20 days within a twelve-month period.
+  - Rest & time off: 30 vacation days starting from 2027 (26
+    days for 2026).
+  - Show your commitment: 1 additional day off per year for your
+    volunteer work (Volunteer Day).
+  - Support for development: E-learning via LinkedIn, online
+    language training with goFluent, and other training and
+    development opportunities.
+  - Mobility on the go: JobRad leasing for the bicycle or e-bike
+    of your choice.
+  - Company pension scheme.
+  - Well equipped for working from home: €300 budget for IT
+    equipment
+  - Modern on-site working: Attractive office in Berlin.
+  - A great start: structured onboarding with a buddy program.
+
+  #LI-Hybrid
+
+  Our Interview Practices
+
+  To maintain a fair and genuine hiring process, we kindly ask
+  that all candidates participate in interviews without the
+  assistance of AI tools or external prompts. Our interview
+  process is designed to assess your individual skills,
+  experiences, and communication style. We value authenticity
+  and want to ensure we’re getting to know you—not a digital
+  assistant. To help maintain this integrity, we ask to remove
+  virtual backgrounds and include in-person interviews in our
+  hiring process. Please note that use of AI-generated
+  responses or third-party support during interviews will be
+  grounds for disqualification from the recruitment process.
+
+  Applicants may be required to appear onsite at a Wolters
+  Kluwer office as part of the recruitment process.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-05
+url: "https://builtin.com/job/senior-ai-evals-engineer-ai-quality-safety-libra-legal-ai-assistant-m-w-d/12095896"
+source: Built In

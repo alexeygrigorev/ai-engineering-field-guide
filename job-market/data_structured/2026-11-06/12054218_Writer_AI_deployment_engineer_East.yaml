@@ -1,0 +1,54 @@
+company:
+  name: Writer
+  stage: null
+  focus: |-
+    Enterprise generative AI platform for marketing and revenue
+    teams
+position:
+  title: AI deployment engineer (East)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs sophisticated prompts and architects custom
+      AI applications and integrations using LLMs and Knowledge
+      Graph capabilities, directly shaping model behavior and
+      output quality for customer solutions. An LLM component is
+      central, so it is ai-first.
+  responsibilities:
+  - Partner with enterprise customers to identify strategic AI use cases and validate
+    technical feasibility
+  - Architect and deliver custom applications, templates, and integrations on the
+    Writer platform and APIs
+  - Design prompts and leverage Knowledge Graph capabilities for tailored generative
+    AI solutions
+  - Own end-to-end implementation of customer solutions
+  - Translate technical concepts into prescriptive recommendations for customers and
+    executives
+  - Collaborate with Product and Engineering teams to feed customer feedback into
+    the roadmap
+  - Develop scalable processes, documentation, and workflows to reduce customer time-to-value
+  - Champion adoption and expansion of Writer's AI solutions within customer accounts
+  use_cases:
+  - Enterprise generative AI applications for marketing and revenue teams
+  - Custom AI solutions for buyer journey automation
+  - AI applications grounded in enterprise brand and product knowledge
+  - Customer-specific AI use case implementation at Fortune 500 companies
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12054218'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:41:58.682125'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

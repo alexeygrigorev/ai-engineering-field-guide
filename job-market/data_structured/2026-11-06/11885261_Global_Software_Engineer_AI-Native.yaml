@@ -1,0 +1,60 @@
+company:
+  name: Global
+  stage: null
+  focus: |-
+    Media company running Radio and Outdoor advertising
+    commercial products
+position:
+  title: Software Engineer (AI-Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineer role on commercial
+      microservices (Java/Spring Boot, Kubernetes, Kafka). AI
+      appears as coding assistants (Claude Code, Copilot, Cursor)
+      the engineer uses, and the 'AI enablement' work is building
+      internal developer workflow tooling around AI agents, which
+      per the edge cases is ai-support even though it touches
+      guardrails and testing standards.
+  responsibilities:
+  - Design and deliver features with sound architectural decisions supporting the
+    product roadmap
+  - 'Own services in production across their lifecycle: design, build, CI/CD, deployment
+    on Kubernetes, and health monitoring'
+  - Instrument services well and diagnose production issues using metrics, logs and
+    traces
+  - Collaborate with engineers, architects and product owners to shape requirements
+    and weigh trade-offs
+  - Review human- and AI-written code for correctness, security, performance and maintainability
+  - Scale AdPower self-service advertising platform with new features and event-driven
+    integrations
+  - Take Outdoor products into new international markets with multi-currency, timezone
+    and regional rule support
+  - 'Build AI enablement tooling: guardrails, review/testing standards and reusable
+    patterns for AI agents'
+  use_cases:
+  - Self-service advertising campaign planning, booking and execution (AdPower platform)
+  - Outdoor advertising product internationalization across currencies, time zones
+    and regional rules
+  - IT transformation replacing legacy systems with modern reliable services
+  - Internal AI software factory enabling agents to take features from specification
+    to production safely
+  skills:
+    genai: [Claude Code, GitHub Copilot, Cursor, AI Agents]
+    ml: []
+    web: [Microservices, Spring Boot]
+    databases: [Relational Databases, NoSQL]
+    data: [Kafka]
+    cloud: [AWS, AWS Lambda]
+    ops: [CI/CD, Jenkins, Terraform, Kubernetes, Prometheus, Grafana, Observability]
+    languages: [Java]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885261'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:34:27.616874'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

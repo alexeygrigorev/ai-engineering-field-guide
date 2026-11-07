@@ -1,0 +1,51 @@
+company:
+  name: Playtech
+  stage: Publicly traded (premium listing on London Stock Exchange)
+  focus: B2B gaming technology and software platform provider
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, builds RAG and LLM-based
+      applications, and works with evals and agent frameworks,
+      directly shaping model behaviour and output quality.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Build practical AI tools, prototypes, and applications improving workflows, products,
+    and productivity
+  - Create reusable patterns, templates, and best practices for AI adoption across
+    Playtech
+  - Design agentic workflows that automate tasks, use APIs, and support complex processes
+  - Partner with teams to turn ideas into real solutions and support hands-on AI adoption
+  - Improve solution quality, cost, and performance through better design and optimisation
+  - Identify and mitigate AI risks and contribute to AI standards, governance, and
+    best practices
+  - Share knowledge, mentor others, and raise the AI engineering bar across business
+    units
+  use_cases:
+  - Enterprise AI adoption across multiple business units
+  - Automated task and process workflows via agentic systems
+  - Workflow and productivity improvements through AI tools
+  - Platform-level AI capabilities (APIs, SDKs, shared services) for engineering teams
+  - Safe and governed AI use in a regulated gaming environment
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs, SDKs]
+    cloud: [Google Cloud AI, Gemini, Google ADK]
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: [Agentic Workflows, RAG, LLM Evaluation, AI Agents, MCP, Multi-Agent Systems,
+      LLMs, Vector Stores, Cursor]
+    ops: [Terraform, DevOps, Git]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11413975'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:46:28.393122'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

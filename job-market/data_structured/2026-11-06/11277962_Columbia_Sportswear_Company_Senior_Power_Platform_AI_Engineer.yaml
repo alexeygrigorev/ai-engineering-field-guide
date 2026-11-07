@@ -1,0 +1,53 @@
+company:
+  name: Columbia Sportswear Company
+  stage: null
+  focus: Global outdoor apparel, footwear, and lifestyle products
+position:
+  title: Senior Power Platform & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents in Copilot Studio,
+      implements prompt engineering, RAG, grounding, and response
+      validation — directly shaping LLM behavior. All shaping work
+      involves LLM/agentic components, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy enterprise AI agents and conversational AI using Microsoft
+    Copilot Studio
+  - Implement prompt engineering, grounding, RAG, and response validation strategies
+  - Develop Power Apps, Power Automate, Dataverse, and Power Fx solutions
+  - Design RPA and intelligent orchestration automations integrating with AI agents
+  - Build API-based enterprise integrations with Azure services, Microsoft 365, and
+    third-party systems
+  - Integrate Azure OpenAI, Azure AI Foundry, and Azure AI Search into business applications
+    with content safety and governance
+  - Partner with business stakeholders and mentor developers on Power Platform and
+    AI best practices
+  use_cases:
+  - Enterprise copilots and conversational AI agents for business teams
+  - Automated end-to-end business processes across enterprise systems
+  - AI-powered workflow automation combining RPA, AI agents, and business rules
+  - Document intelligence and knowledge-grounded AI applications
+  - Intelligent process automation for sourcing and supply chain operations
+  skills:
+    genai: [Copilot Studio, Prompt Engineering, RAG, AI Agents, Generative AI, LLMs,
+      Conversational AI, Azure OpenAI]
+    ml: [Document Intelligence]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Azure AI Search, Azure Functions, Logic Apps, Azure]
+    ops: [Power Automate Desktop, DevOps, CI/CD]
+    languages: [JSON]
+    domains: []
+    other: [Microsoft Graph, Power Apps, Power Automate, Dataverse, Power Fx, Custom
+        Connectors, Automation Anywhere, UiPath, SharePoint, Microsoft 365, Purview,
+      Responsible AI, ALM, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11277962'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:28:59.567342'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

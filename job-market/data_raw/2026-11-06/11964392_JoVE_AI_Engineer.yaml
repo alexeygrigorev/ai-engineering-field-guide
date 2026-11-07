@@ -1,0 +1,102 @@
+job_id: 11964392
+title: AI Engineer
+company: JoVE
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 5600 Employees
+description: |
+  JoVE is the world-leading video platform for scientific
+  research and education. Millions of scientists, educators
+  and students worldwide use JoVE for their research, teaching
+  and learning. Our institutional clients comprise over 1,000
+  universities, colleges, and biopharma companies, including
+  leaders such as Harvard, MIT, and Stanford. As a rapidly
+  growing company, with offices in the USA, UK, Australia, and
+  India servicing clients in over 60 countries, we are seeking
+  talented and ambitious individuals to join our company.
+
+  The Role
+
+  As an AI Engineer at JoVE, you will build the retrieval,
+  matching and LLM systems behind our AI research products.
+  You will own features end to end, from prototype and
+  evaluation to production, monitoring and cost. You will work
+  closely with product, the JoVE science editors, and the web
+  and data engineers.
+
+  Responsibilities
+
+  - Retrieval and search: Build hybrid retrieval (BM25, sparse
+    and dense embeddings) with reranking over tens of millions
+    of papers. Sources include PubMed, OpenAlex and PMC open-
+    access full text.
+  - Paper-to-video matching: Improve how papers and protocol
+    steps are matched to JoVE videos and timestamps. Make
+    matching aware of organism, technique and study type.
+  - AI answers with citations: Build RAG and agentic pipelines
+    for cited synthesis, Methods Q&A and troubleshooting.
+    Every claim must trace to a source.
+  - Protocol understanding: Extract method steps, reagents and
+    parameters from papers. Link each step to the matching
+    video chapter.
+  - Evaluation: Build eval sets with scientific editors. Track
+    relevance, citation accuracy, hallucination rate and match
+    quality, and gate releases on them.
+  - Production and cost: Ship and run models and LLM services in
+    production. Watch latency and cost per query, and choose
+    between hosted and open models.
+  - Platform and APIs: Help build the APIs and an MCP server
+    that let AI assistants, ELNs and publisher widgets use
+    JoVE's methods data.
+  - Instrumentation: Work with product to measure the search,
+    video click and watch funnel, and use it to improve
+    ranking.
+
+  Requirements
+
+  - 4+ years in software or ML engineering, including 2+ years
+    shipping LLM, search or NLP features to production.
+  - Strong Python and solid software engineering habits:
+    testing, code review, CI/CD.
+  - Hands-on experience building RAG systems: chunking,
+    embeddings, hybrid retrieval, reranking and prompt design.
+  - Experience with a vector or search engine such as
+    Elasticsearch/OpenSearch, Milvus, pgvector, Qdrant or
+    Pinecone.
+  - Experience with LLM APIs (Anthropic, OpenAI or similar) and
+    open models (Hugging Face, vLLM).
+  - A track record of building offline evals and using metrics,
+    not demos, to decide what ships.
+  - Experience with agent frameworks, tool use, or building MCP
+    servers.
+  - Comfort with cloud infrastructure (AWS), Docker and API
+    design.
+  - Clear communication with non-engineers, including scientists
+    and editors.
+
+  Nice to have
+
+  - Experience with scholarly data: PubMed, OpenAlex, Semantic
+    Scholar, PMC, or entity extraction for genes, organisms
+    and methods.
+  - Multimodal work: video transcripts, timestamp alignment, or
+    image and video embeddings.
+  - Fine-tuning embedding or reranker models, or learning-to-
+    rank.
+  - Experience with large-scale indexing (100M+ documents) and
+    vector quantisation.
+
+  Benefits
+
+  - A competitive compensation package.
+  - We are fully remote!
+  - You will make a direct impact in accelerating science
+    research and education.
+  - Opportunity to work with global teams and in an environment
+    that promotes innovation and collaboration.
+  - Our strong promotion from within culture draws a clear path
+    to advance your career with us.
+posted_date: 2026-10-29
+url: "https://builtin.com/job/ai-engineer/11964392"
+source: Built In

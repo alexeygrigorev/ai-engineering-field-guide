@@ -1,0 +1,51 @@
+company:
+  name: TensorOps
+  stage: null
+  focus: Boutique AI consultancy building production AI systems
+position:
+  title: Mid AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG systems, agentic workflows,
+      fine-tuning, and embeddings for LLMs, directly shaping model
+      behavior and output quality, so it is ai-first. Mentoring
+      juniors is IC technical leadership, not management.
+  responsibilities:
+  - Design, build, and deploy production ML and LLM-based systems (RAG, agentic workflows,
+    fine-tuning, embeddings) for enterprise clients
+  - Own technical delivery end-to-end from architecture and prototyping to deployment,
+    monitoring, and iteration
+  - Work directly with client engineering and product teams to translate business
+    needs into scoped technical solutions
+  - Mentor junior ML engineers through code reviews, technical guidance, and knowledge
+    sharing
+  - Help shape internal best practices, tooling, and technical standards
+  - Represent TensorOps technically in client conversations, workshops, and industry
+    conferences
+  use_cases:
+  - Enterprise RAG systems for knowledge retrieval
+  - Agentic AI workflow applications
+  - LLM fine-tuning and chatbot deployments
+  - ML-driven products across diverse industries
+  skills:
+    genai: [RAG, Agentic Workflows, Fine-Tuning, Embeddings, LLMs, LangChain, Chatbot
+        Architectures]
+    ml: [PyTorch, TensorFlow, scikit-learn, Model Training, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Model Monitoring, Model Versioning]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11941065'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:03:58.370196'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

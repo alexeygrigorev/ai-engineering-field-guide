@@ -1,0 +1,45 @@
+company:
+  name: Crypto.com
+  stage: null
+  focus: Global cryptocurrency trading and exchange platform
+position:
+  title: AI Engineer, Trading Ops & Management
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly leverages LLMs to automate legacy manual
+      trading operations processes, indicating the person builds
+      AI-driven automation themselves (prompt/LLM application
+      work). LLMs are named, so it is ai-first.
+  responsibilities:
+  - Manage daily trading operational workflows
+  - Monitor and manage trading risk
+  - Lead digital transformation of trading operations functions
+  - Leverage LLMs and machine learning to automate legacy manual processes
+  - Improve predictive risk modeling
+  - Build real-time performance visualization tools and analyses
+  use_cases:
+  - Automating legacy manual trading operations processes
+  - Predictive risk modeling for trading
+  - Real-time trading performance visualization and analysis
+  - Risk monitoring and management
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11634237'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:27:20.567438'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

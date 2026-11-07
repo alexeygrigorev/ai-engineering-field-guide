@@ -1,0 +1,52 @@
+company:
+  name: BJAK
+  stage: null
+  focus: AI-native phones and proactive intelligent applications
+position:
+  title: AI Phone - AI Application Integration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the integration layer through which AI
+      agents interact with applications: exposing structured
+      actions, agent-executable interfaces, cross-application
+      agentic workflows, and agent tools/MCP integrations. This is
+      designing agent tool calling and orchestration surfaces,
+      which is shaping agent behavior, so it is ai-first.
+  responsibilities:
+  - Build integrations between AI agents and first-party applications
+  - Expose structured actions (search, create, update, send, delete) that agents can
+    execute
+  - Implement interfaces for retrieving information from applications
+  - Build cross-application agent workflows
+  - Develop reusable integration interfaces and SDKs
+  - Handle authentication, authorization and permissions
+  - Investigate third-party application integration limitations
+  - Work with Android engineers on system-level application access
+  use_cases:
+  - AI agents interacting with everyday applications such as email, messaging, notes,
+    tasks and calendars
+  - Proactive, minimal-prompting intelligence in daily conversations and workflows
+  - Cross-application workflow automation executed by AI agents
+  - Making applications accessible and actionable by AI agents
+  skills:
+    genai: [AI Agents, MCP]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Authentication & Authorization, Android Development, Android Intents,
+      IPC, Asynchronous Workflows, SDK Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067587'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:47:29.199338'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

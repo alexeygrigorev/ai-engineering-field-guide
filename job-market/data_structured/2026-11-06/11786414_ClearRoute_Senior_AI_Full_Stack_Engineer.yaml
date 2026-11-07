@@ -1,0 +1,52 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy for quality engineering and cloud
+    platforms
+position:
+  title: Senior AI Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates front-end apps with LLM-based APIs,
+      Agentic AI systems, and lists MCP server authorship and
+      LangGraph state graphs as desirable experience — directly
+      designing agent flows and AI components, which is shaping
+      LLM/agent behaviour. It is not merely consuming an AI API
+      another team built, given the desired MCP/LangGraph/Azure AI
+      Search retrieval evaluation experience.
+  responsibilities:
+  - Design, build, and maintain scalable front-end applications using React, Python,
+    and modern JavaScript/TypeScript
+  - Build front-end solutions supporting high data throughput, performance optimisation,
+    and responsiveness at scale
+  - Integrate front-end applications with AI-powered services, including LLM-based
+    APIs, workflows, and Agentic AI systems
+  - Collaborate on deployment of applications to cloud environments, primarily Azure
+  - Work with containerised environments (Docker) and cloud-native deployment pipelines
+  - Support CI/CD processes and reliable, repeatable deployments
+  use_cases:
+  - Intelligent web applications with AI-driven components at scale
+  - LLM-based API and agentic workflow integration into production apps
+  - High-throughput web applications handling large datasets
+  - Cloud-native deployment and automation/orchestration on Azure
+  skills:
+    genai: [LLMs, Agentic Workflows, MCP, LangGraph]
+    ml: []
+    web: [React, Microservices]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, Azure AI Search]
+    ops: [Docker, CI/CD, Observability]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11786414'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:11:57.668791'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

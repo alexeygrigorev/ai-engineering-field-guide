@@ -1,0 +1,60 @@
+company:
+  name: CAMP Systems International
+  stage: null
+  focus: |-
+    Aircraft compliance and health management for business
+    aviation
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role demos and pilots existing AI products (AI
+      Operations Manager, AI Technician) with customer data — data
+      mapping, integration, and technical presales. There is no
+      prompt design, retrieval architecture, fine-tuning, or eval
+      work described; working knowledge of LLM applications is
+      contextual, not shaping.
+  responsibilities:
+  - Build and deliver customer-specific demonstrations using operational data, workflows,
+    and use cases
+  - Inspect, map, validate, transform, and troubleshoot structured data using SQL,
+    APIs, scripting, and analytics tools
+  - Lead technical discovery on customer systems, data sources, integrations, security
+    needs, and desired outcomes
+  - Scope pilots with clear technical requirements, assumptions, dependencies, and
+    success criteria
+  - Explain current product capability and identify where configuration, integration,
+    or product development is needed
+  - Handle routine technical presales work, escalating architecture and feasibility
+    questions to Product and Engineering
+  - Turn successful demos, data mappings, and integration approaches into reusable
+    playbooks
+  - Support account teams in presenting AI solutions to executives, operational teams,
+    and IT stakeholders
+  use_cases:
+  - AI Operations Manager for aviation businesses
+  - AI Technician supporting aircraft maintenance workflows
+  - AI Analyst for operational data insights
+  - Aviation ERP-integrated AI products for planning and operations
+  - Customer-specific demos and pilots on operational aviation data
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [APIs]
+    databases: [SQL]
+    data: [Data Pipelines, Integration]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Analytics]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12100913'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:00:55.839601'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

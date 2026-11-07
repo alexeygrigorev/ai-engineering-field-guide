@@ -1,0 +1,49 @@
+company:
+  name: Verisk
+  stage: null
+  focus: Data, analytics, and technology for insurance industry
+position:
+  title: Gen AI Principal/Tech Lead Engineer - Python, FAST API
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, prompt engineering
+      workflows, and AI model evaluation/optimization, directly
+      shaping LLM behavior and output quality. This makes it ai-
+      first.
+  responsibilities:
+  - Design, develop, and deploy Generative AI applications using LLMs and modern AI
+    frameworks
+  - Build scalable backend services and REST APIs using Python frameworks
+  - Implement RAG pipelines and semantic search solutions using vector databases
+  - Integrate commercial and open-source LLMs into enterprise applications
+  - Develop prompt engineering workflows and support AI model evaluation and optimization
+  - Deploy and support AI applications on AWS cloud platforms
+  - Troubleshoot and optimize AI systems for latency, reliability, scalability, and
+    cost efficiency
+  - Participate in code reviews, testing, and CI/CD processes
+  use_cases:
+  - Enterprise Generative AI applications powered by LLMs
+  - RAG-based retrieval and semantic search over enterprise data
+  - AI-powered risk modeling and analytics for insurance
+  - Scalable AI backend services integrated with enterprise applications
+  skills:
+    genai: [RAG, Prompt Engineering, LLMs, Semantic Search, OpenAI API, Anthropic
+        API, AWS Bedrock]
+    ml: [Hugging Face, LLM Evaluation, Generative AI]
+    web: [FastAPI, Flask, Django, REST APIs]
+    databases: [Vector Databases, Pinecone, OpenSearch]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Git]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11501003'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:00:48.616244'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

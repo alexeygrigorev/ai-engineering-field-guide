@@ -1,0 +1,52 @@
+company:
+  name: Axway
+  stage: null
+  focus: Enterprise integration and digital transformation software
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, copilots, RAG
+      pipelines, and prompt/tool-calling workflows, directly
+      shaping LLM behavior — clearly ai-first.
+  responsibilities:
+  - Design and develop AI agents, copilots, and autonomous workflows
+  - Build solutions using agentic AI frameworks such as LangChain, LangGraph, CrewAI,
+    AutoGen, and Google ADK
+  - Develop RAG solutions, semantic search, and enterprise knowledge assistants
+  - Integrate AI solutions with business applications, APIs, databases, and enterprise
+    systems
+  - Package, deploy, and monitor AI applications in cloud environments
+  - Contribute reusable frameworks, accelerators, and AI engineering best practices
+  - Leverage AI-assisted development tools such as Claude Code, Cursor, and GitHub
+    Copilot
+  use_cases:
+  - Enterprise AI agents and copilots
+  - Autonomous business workflows
+  - RAG-based enterprise knowledge assistants
+  - Semantic search over enterprise knowledge
+  - Integration of AI with business applications and enterprise systems
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows, LangChain, LangGraph,
+      CrewAI, AutoGen, Google ADK, RAG, Semantic Search, Prompt Engineering, Function
+        Calling, Embeddings, MCP, Multi-Agent Systems, GraphRAG, Semantic Kernel,
+      OpenAI Agents SDK, PydanticAI, Promptfoo, RAGAS, Claude Code, Cursor, GitHub
+        Copilot]
+    ml: []
+    web: [REST APIs, FastAPI, Flask, React, Streamlit]
+    databases: [Vector Databases, Pinecone, Chrom, Weaviate, Milvus, Knowledge Graphs]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12068484'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:48:12.074072'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

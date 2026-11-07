@@ -1,0 +1,59 @@
+company:
+  name: ClarityPay
+  stage: null
+  focus: Point-of-sale credit and BNPL fintech for merchants
+position:
+  title: Forward Deployed Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs bounded agents, writes
+      prompts, builds evals and guardrails (day-zero controls,
+      human-in-the-gate) for LLM-based systems — squarely shaping
+      model behavior. Explicit LLM production experience required.
+  responsibilities:
+  - Embed with process owners in finance, credit risk, servicing, collections, and
+    operations to scope problems before building
+  - Own delivery end to end from discovery through build and production rollout, staying
+    as secondary owner of the process
+  - Design bounded agents with defined mandates, action sets, escalation owners, and
+    pause conditions
+  - Write evaluations for shipped systems and re-check as models, data, and processes
+    change
+  - Instrument processes with detective controls - thresholds, exception inventories,
+    and alerting with named owners
+  - Build external-facing AI solutions for merchants and partners with Product and
+    Engineering
+  - Codify reusable patterns, evals, and agent-harness standards for faster subsequent
+    deployments
+  - 'Own the value case: set impact hypotheses, measure baselines, and report business
+    impact to executives'
+  use_cases:
+  - Automating recurring portfolio, collections, servicing, and finance performance
+    reporting via agents on governed data
+  - Replacing desktop and spreadsheet-based reporting with AI agentic systems with
+    human review gates
+  - External-facing AI solutions for merchants and partners on the ClarityPay platform
+  - Automating operational processes in credit and portfolio risk, collections, and
+    month-end close
+  - Detective day-zero controls with thresholds, exception inventories, and alerting
+    for process breaches
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, LLM Evaluation, MCP, Fine-Tuning]
+    ml: []
+    web: []
+    databases: [ClickHouse]
+    data: [Data Pipelines, Databricks]
+    cloud: []
+    ops: [MLOps, Model Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Retool, Zapier, n8n, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11689653'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:36:01.103361'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

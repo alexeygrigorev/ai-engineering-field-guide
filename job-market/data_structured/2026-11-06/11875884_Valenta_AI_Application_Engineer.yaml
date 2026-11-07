@@ -1,0 +1,50 @@
+company:
+  name: Valenta
+  stage: null
+  focus: |-
+    Professional services: intelligent automation, data
+    analytics, AI solutions
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer integrates LLM capabilities (Claude, Azure
+      OpenAI) into products through prompt design, tool calling,
+      and structured outputs themselves, which is shaping LLM
+      behavior, making this ai-first despite the full-stack
+      framing.
+  responsibilities:
+  - Design, develop and maintain scalable backend services and RESTful APIs using
+    Python and Node.js
+  - Develop responsive user interfaces in React.js integrated with backend services
+  - Integrate LLM capabilities including Claude and Azure AI services via prompt design,
+    tool calling and structured outputs
+  - Build secure third-party integrations using REST APIs, webhooks and OAuth
+  - Deploy, monitor and maintain applications on Azure, Railway and Vercel
+  - Engage with international clients to gather requirements and ensure delivery
+  - Uphold engineering best practices through code reviews, testing and documentation
+  use_cases:
+  - AI product applications with LLM capabilities
+  - Third-party platform integrations
+  - Client-facing AI-driven solutions for automation and analytics
+  skills:
+    genai: [LLMs, Anthropic API, Prompt Engineering, Function Calling, Structured
+        Outputs, RAG]
+    ml: []
+    web: [REST APIs, Node.js, React, Webhooks, OAuth]
+    databases: [PostgreSQL, Vector Search]
+    data: []
+    cloud: [Azure, Azure OpenAI]
+    ops: [Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11875884'
+  location: New Delhi, IND
+  extracted_at: '2026-11-06T13:28:40.887421'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

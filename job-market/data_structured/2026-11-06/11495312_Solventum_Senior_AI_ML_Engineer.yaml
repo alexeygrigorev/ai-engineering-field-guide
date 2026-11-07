@@ -1,0 +1,59 @@
+company:
+  name: Solventum
+  stage: null
+  focus: Healthcare technology and materials science company
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys AI agents and multi-agent
+      systems with LangGraph/LangChain, develops LLM workflows,
+      does prompt engineering, RAG, and evaluates/optimizes LLMs —
+      directly shaping LLM/agent behavior, plus classical ML work,
+      making it ai-first.
+  responsibilities:
+  - Design, develop, and deploy scalable ML models and AI solutions for complex supply
+    chain business challenges
+  - Build end-to-end ML pipelines for forecasting, optimization, predictive analytics,
+    anomaly detection, and intelligent automation
+  - Design, build, test, and deploy AI Agents and multi-agent systems using LangGraph,
+    LangChain, AutoGen, CrewAI, or similar frameworks
+  - Develop data ingestion, transformation, and feature engineering pipelines for
+    structured and unstructured enterprise data
+  - Integrate knowledge graphs, vector databases, and intelligent document processing
+    to enable contextual AI insights and retrieval
+  - Deploy and manage AI/ML applications on AWS and Azure with MLOps and LLMOps pipelines
+    including versioning, CI/CD, monitoring, and retraining
+  - Evaluate, monitor, and optimize ML models and LLMs for accuracy, latency, cost,
+    and responsible AI practices
+  - Partner with supply chain stakeholders and cross-functional teams to translate
+    business requirements into scalable AI-ML solutions
+  use_cases:
+  - Supply chain demand forecasting and optimization
+  - Predictive analytics and anomaly detection for supply chain operations
+  - Agentic AI workflows automating business processes and operational decision-making
+  - Enterprise knowledge retrieval via RAG, knowledge graphs, and vector databases
+  - Intelligent document processing for contextual enterprise AI insights
+  skills:
+    genai: [Generative AI, AI Agents, Multi-Agent Systems, LangGraph, LangChain, AutoGen,
+      CrewAI, LLMs, Prompt Engineering, RAG]
+    ml: [Machine Learning, Model Evaluation, Feature Engineering, Anomaly Detection,
+      Forecasting]
+    web: [Microservices, APIs]
+    databases: [Knowledge Graphs, Vector Databases]
+    data: [Data Pipelines, Databricks]
+    cloud: [AWS, Azure]
+    ops: [MLOps, LLMOps, CI/CD, Model Monitoring, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11495312'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:59:07.826222'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

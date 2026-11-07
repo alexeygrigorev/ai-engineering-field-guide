@@ -1,0 +1,54 @@
+company:
+  name: American Express
+  stage: null
+  focus: |-
+    Global commercial payments and financial services for
+    businesses
+position:
+  title: Sr AI Engineer I - Global Commercial Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI systems end to end: agent
+      orchestration, tool use, RAG/embedding pipelines, and LLM
+      evals that gate prompt changes - directly shaping model
+      behavior and output quality. LLM/agent components dominate
+      the work.
+  responsibilities:
+  - Build production agentic AI services end to end, from event trigger through LLM
+    reasoning to persisted, surfaced results
+  - 'Contribute to shared agent framework: orchestration, tool use, structured generation,
+    and observability'
+  - Build RAG and embedding pipelines on vector search in the operational database
+  - Implement evals for new agent behaviors and use them to gate prompt changes
+  - 'Build for reliability: failure classification, idempotency, DLQ handling, and
+    safe rollout of AI features'
+  - Participate in technical design discussions and code reviews
+  - Help onboard engineers ramping onto the AI stack
+  use_cases:
+  - Automated spend management for business customers
+  - Agents that read messy real-world documents and fit extracted values to customer
+    policy
+  - Customer-facing agentic AI capabilities in commercial payments
+  - Shared internal AI platform used by other Amex engineers
+  skills:
+    genai: [Vercel AI SDK, AI Agents, Agentic Workflows, RAG, Embeddings, LLM Evaluation,
+      Structured Outputs, Guardrails, LLMs]
+    ml: []
+    web: [gRPC, tRPC]
+    databases: [Vector Search]
+    data: [Kafka]
+    cloud: [AWS, AWS Lambda, EKS]
+    ops: [Infrastructure as Code, Observability, Datadog, Temporal, Event-Driven Architecture]
+    languages: [TypeScript, Go]
+    domains: []
+    other: [Effect]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881421'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:30:45.869954'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

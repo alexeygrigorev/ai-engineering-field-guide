@@ -1,0 +1,56 @@
+company:
+  name: ASOS
+  stage: null
+  focus: Global online fashion retailer
+position:
+  title: Senior AI Engineer (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent runtimes, orchestration, tool
+      calling, prompt design patterns, MCP/tool abstraction, and
+      agent lifecycle evaluation practices - directly shaping
+      model and agent behaviour on an agentic AI platform.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Design and build shared AI platform capabilities on Azure focused on agentic AI
+    patterns such as agent runtimes, orchestration and tool integration
+  - Define how agents are built, integrated and operated across ASOS through the Agentic
+    AI Platform initiative
+  - Design standardised templates, reusable components and reference implementations
+    for LLM and Generative AI workflows
+  - Build reusable patterns for prompt design, tool calling, multi-step agent flows,
+    retries and failure handling
+  - Implement secure, governed access patterns for LLMs and enterprise tools using
+    APIM, gateways, Entra ID, RBAC and managed identities
+  - Contribute to LLMOps and model runtime patterns including model access, routing,
+    caching, token optimisation and cost controls
+  - Support lifecycle and evaluation practices for agent configurations, prompts and
+    AI workflows
+  - Contribute to AgentOps and GenAIOps capabilities including telemetry, run history,
+    error analysis and feedback loops
+  use_cases:
+  - Enterprise agentic AI platform on Azure shared across ASOS engineering teams
+  - Standardised patterns for building, deploying and operating AI agents at scale
+  - Secure governed access to LLMs and enterprise tools via APIM and identity controls
+  - Agent evaluation, observability and operational readiness for production AI
+  skills:
+    genai: [Agentic Workflows, LLMs, Generative AI, Prompt Engineering, Function Calling,
+      MCP]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure API Management]
+    ops: [CI/CD, LLMOps, MLOps, Observability, Automated Testing]
+    languages: [Python]
+    domains: []
+    other: [Entra ID, RBAC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11443452'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:51:37.067679'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

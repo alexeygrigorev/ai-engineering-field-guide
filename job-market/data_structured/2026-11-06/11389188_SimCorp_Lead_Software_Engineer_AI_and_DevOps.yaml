@@ -1,0 +1,59 @@
+company:
+  name: SimCorp
+  stage: null
+  focus: Investment management software and FinTech solutions
+position:
+  title: Lead Software Engineer (AI and DevOps)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a DevOps lead that builds infrastructure, CI/CD,
+      and monitoring for AI solutions built with C#/.NET and
+      Azure. Deploying Azure OpenAI/Foundry models, managing model
+      versioning and quotas, and running RAG indexing jobs are
+      serving and plumbing work, not shaping model behavior;
+      guardrails/evals are named as team deliveries rather than
+      this person's own responsibility. Per the edge-case rules,
+      hosting and scaling models someone else builds is ai-
+      support.
+  responsibilities:
+  - Build and maintain infrastructure, CI/CD pipelines, and monitoring for AI solutions
+    developed in C#, .NET, and Azure
+  - Take proof-of-concept AI solutions to production-ready quality
+  - Lead the design and development of DevOps solutions and infrastructure
+  - Provide technical leadership and mentorship to the engineering team
+  - Ensure adherence to DevOps best practices, testing, and documentation
+  - Design observability and incident response for AI workloads
+  - Ensure security, compliance, and data governance (PII, tenant isolation) for AI
+    infrastructure
+  - Participate in code reviews for Azure infrastructure and pipelines
+  use_cases:
+  - Agentic ecosystem for investment operations
+  - Production deployment of Agent Orchestrator and SimCorp One Neo
+  - RAG-based search and indexing for financial data
+  - Multi-agent orchestration platform for domain teams
+  - Evaluation, trust, safety, and guardrails for AI agents
+  skills:
+    genai: [RAG, Embeddings, Agentic Workflows, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Governance]
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry, Azure AI Search, Key Vault, Managed
+        Identity, Azure Policy, RBAC, Private Endpoints]
+    ops: [CI/CD, Azure DevOps, Monitoring, Observability, Azure Monitor, OpenTelemetry,
+      Azure Bicep, Infrastructure as Code]
+    languages: [C#, .NET, PowerShell, YAML]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389188'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T11:40:06.551450'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

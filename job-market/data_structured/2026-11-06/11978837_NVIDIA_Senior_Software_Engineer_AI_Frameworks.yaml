@@ -1,0 +1,57 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and accelerated computing hardware and AI software
+position:
+  title: Senior Software Engineer, AI Frameworks
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates NVIDIA Grove into AI frameworks, builds
+      adapters/runtime components, optimizes serving performance,
+      and improves operational tooling. The person runs, hosts,
+      and scales frameworks others build; there is no prompt
+      engineering, retrieval design, or model training shaping
+      model behaviour. Kernel-level tuning is only a "ways to
+      stand out" bonus, not a responsibility.
+  responsibilities:
+  - Design and implement end-to-end integrations of Grove with open-source AI frameworks
+    such as Dynamo, llm-d, Ray, and PyTorch
+  - Build adapters, plugins, operators, and runtime components enabling Grove features
+    across training and inference stacks
+  - Partner with framework owners to upstream changes and contribute patches for long-term
+    maintainability
+  - Develop reference workflows, sample apps, and best-practice guides for users and
+    partners
+  - Optimize performance, scalability, and reliability for distributed training and
+    inference in multi-node, multi-GPU environments
+  - Improve observability and operational readiness for Kubernetes-based deployments
+  - Define APIs/contracts in technical design reviews and ensure cross-version compatibility
+  - Diagnose complex issues across containers, networking, scheduling, CUDA/GPU utilization,
+    and framework runtimes
+  use_cases:
+  - Scaling and operating AI workloads across open-source frameworks
+  - Distributed training and inference in multi-node, multi-GPU environments
+  - Large-scale model serving and multi-tenant AI platforms
+  - Kubernetes-based deployment and observability of AI infrastructure
+  skills:
+    languages: [Go, C++, Python]
+    domains: []
+    web: []
+    cloud: []
+    data: [Ray]
+    ml: [PyTorch, CUDA, GPU Performance Profiling]
+    databases: []
+    genai: []
+    ops: [Kubernetes, Helm, Docker, CI/CD, Triton, Distributed Systems, Model Deployment,
+      Observability]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11978837'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:15:52.222701'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

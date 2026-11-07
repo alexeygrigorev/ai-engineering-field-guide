@@ -1,0 +1,60 @@
+company:
+  name: Blue Orange Digital
+  stage: null
+  focus: |-
+    Data engineering and AI consultancy building production data
+    platforms
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production agentic systems, RAG pipelines,
+      MCP tool-calling layers, and evals/guardrails — directly
+      shaping LLM behavior. Consulting delivery, client-facing,
+      not management (senior IC).
+  responsibilities:
+  - Build production-grade agentic systems on Databricks and lakehouse platforms,
+    including orchestration frameworks, task runners, and monitoring layers
+  - Implement RAG pipelines, vector stores, and retrieval architectures under real-world
+    load
+  - Stand up evals, observability, and guardrails for client-deployed AI systems
+  - Design and integrate MCP servers and tool-calling layers between LLMs and client
+    systems
+  - Lead the AI engineering workstream on a client pod, partnering with Architect
+    and Consultant
+  - Coach client engineering teams on production AI patterns including prompt management,
+    model routing, and FinOps
+  - Contribute to internal Edge product suite including reference architectures and
+    Blueprint scan engine
+  use_cases:
+  - Agentic document processing and review workflow automation for mid-market SaaS
+    companies
+  - Production RAG systems for financial services, legal, and compliance domains
+  - MCP-based integration layers connecting LLMs to client systems of record and SaaS
+  - Customer-facing copilots
+  - AI readiness assessments across private equity portfolios
+  - Internal AI enablement standing up client agent platforms
+  skills:
+    genai: [LangChain, LangGraph, RAG, AI Agents, Agentic Workflows, MCP, Embeddings,
+      Function Calling, LLMs, Prompt Engineering, Guardrails, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases, Snowflake]
+    data: [Databricks, dbt]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [FinOps]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11886314'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T13:36:56.387900'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

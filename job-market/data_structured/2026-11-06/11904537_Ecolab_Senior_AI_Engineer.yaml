@@ -1,0 +1,58 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention digital solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships production LLM applications,
+      agentic workflows, prompt/context engineering, RAG, and
+      evals—clearly shaping model behavior. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Design, build, and ship production LLM applications and agentic systems end to
+    end, from data through inference, serving, and product integration
+  - Build multi-agent and multi-step workflows with tool-calling, handoffs, and DAG-based
+    orchestration
+  - Practice prompt and context engineering with structured prompts, output schemas,
+    and context window management
+  - Build RAG systems over vector indexes including chunking, embeddings, hybrid search,
+    and reranking with retrieval quality evaluation
+  - 'Own production lifecycle: evaluation harnesses, monitoring, tracing, drift detection,
+    versioning, and champion/challenger promotion'
+  - Engineer for cost and latency with caching, model routing, batching, and streaming
+  - 'Build guardrails and security: prompt-injection defense, tool misuse protection,
+    PII handling, audit logging, and authentication'
+  - Expose AI capabilities as production services and APIs and partner with product,
+    data science, and engineering
+  use_cases:
+  - Customer-facing intelligence products from data in the Institutional & Specialty
+    segment
+  - Multi-agent and multi-step workflow automation with tool calling
+  - Retrieval-augmented generation over vector indexes for reliable, auditable answers
+  - Production LLM services exposed as APIs with cost, latency, and security constraints
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, Agentic Workflows, LangChain, Anthropic
+        API, OpenAI API, Hugging Face, Fine-Tuning, MCP, Conversational AI, Context
+        Engineering]
+    ml: [Machine Learning, PyTorch, Model Training, Model Evaluation, LLM Evaluation,
+      Fine-Tuning]
+    web: [APIs]
+    databases: [Vector Databases, SQL]
+    data: [PySpark, Databricks]
+    cloud: [Azure]
+    ops: [MLflow, CI/CD, Docker, Kubernetes, Infrastructure as Code, Model Deployment,
+      Monitoring, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11904537'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:55:31.472211'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

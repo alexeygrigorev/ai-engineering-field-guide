@@ -1,0 +1,57 @@
+company:
+  name: General Mills
+  stage: null
+  focus: Consumer-packaged foods company (General Mills)
+position:
+  title: Sr. D&T Machine Learning Engineer (Agentic Ai)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, multi-agent workflows,
+      prompt tuning, and RAG/MCP integrations directly, shaping
+      LLM agent behavior. Agent quality telemetry and
+      prompt/tool/workflow tuning further confirm hands-on shaping
+      of LLM-based agentic systems.
+  responsibilities:
+  - Enable, integrate, and enhance advanced agentic AI platforms, workflow design,
+    and agentic architecture
+  - Architect and develop custom connectors linking data sources, enterprise applications,
+    and external services to agentic platforms
+  - Design, develop, and test APIs for secure integration with internal and external
+    systems supporting agentic workflows
+  - Develop and optimize agent orchestration, inter-agent communication, and decision-making
+    strategies
+  - Establish monitoring and observability for agentic workflows including telemetry,
+    tracing, and quality/cost/latency dashboards, using insights to tune prompts,
+    tools, and workflows
+  - Operationalize and standardize ML tooling and processes with best practices and
+    documentation
+  - Lead agile POCs and prototypes evaluating emerging agentic tools and platforms
+  - Establish governance best practices and ensure security and compliance of agentic
+    solutions
+  use_cases:
+  - Enterprise agentic AI and ML platform for data-driven decision making at scale
+  - Agentic workflows serving business-impacting problem statements
+  - Intelligent automation across enterprise applications and data sources
+  - Agent quality, telemetry, and FinOps monitoring with cost/latency dashboards
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGen, Generative AI, Agentic Workflows, Multi-Agent
+        Systems, Prompt Engineering, MCP, RAG, Embeddings, LLMs, Knowledge Graphs]
+    ml: [Machine Learning, MLOps]
+    web: [REST APIs, GraphQL, gRPC, OAuth]
+    databases: [Salesforce, SAP, ServiceNow, Vector Search]
+    data: []
+    cloud: [GCP, AWS, Vertex AI]
+    ops: [Prometheus, Grafana, ELK Stack, Datadog, Splunk, CI/CD, Airflow, Kubeflow,
+      Docker, Kubernetes, Terraform, CloudFormation, Infrastructure as Code]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [Glean]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11484872'
+  location: Powai, IND
+  extracted_at: '2026-11-06T11:57:31.785681'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

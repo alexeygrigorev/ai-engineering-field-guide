@@ -1,0 +1,50 @@
+company:
+  name: Traba
+  stage: null
+  focus: |-
+    AI operating system for industrial supply chain and staffing
+    marketplace
+position:
+  title: Senior Software Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer wires LLMs and agents into product with
+      prompting, tool wiring, and evals—directly shaping model
+      behaviour—so Step 1 is yes. LLM/agent components are
+      involved, making it ai-first despite heavy full-stack
+      product engineering.
+  responsibilities:
+  - Apply existing agents and frontier models across worker app, business app, ops
+    platform, and marketplace to automate vetting, matching, and fulfillment
+  - Lead frontend and backend development, mentoring other engineers
+  - Architect and build core systems including real-time matching, autonomous vetting
+    pipelines, distributed systems, and APIs
+  - Own product surfaces end to end, partnering with product and design
+  - Partner with the CTO on architecture and roadmap
+  - Ship product features including payments flows and platform work
+  use_cases:
+  - Automated worker sourcing, vetting, and matching for temporary industrial staffing
+  - Automating manual workflows for logistics providers, manufacturers, and 3PLs
+  - Placement of workers across millions of shifts via a staffing marketplace
+  - Real-time matching and fulfillment automation
+  - Payments and platform workflows supporting the marketplace
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, Function Calling, LLM Evaluation]
+    ml: []
+    web: [React, React Native, APIs]
+    databases: [PostgreSQL]
+    data: [Kafka, RabbitMQ]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12008262'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:27:30.998258'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

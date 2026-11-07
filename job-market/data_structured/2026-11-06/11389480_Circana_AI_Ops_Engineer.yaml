@@ -1,0 +1,58 @@
+company:
+  name: Circana
+  stage: null
+  focus: Consumer and retail market analytics and data solutions
+position:
+  title: AI Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, hosts, and monitors AI/ML infrastructure
+      (model training, inference, LLM, vector DB, orchestration
+      frameworks) that AI engineering teams build. No prompt
+      design, retrieval engineering, training, or eval work — the
+      deliverable is capacity and reliability, so it is ai-
+      support.
+  responsibilities:
+  - Design, build, and maintain enterprise DevOps platforms and CI/CD pipelines with
+    Jenkins and Azure DevOps
+  - Implement Infrastructure as Code with Ansible and automate deployment, provisioning,
+    patching, and operational workflows
+  - Support on-premises data center infrastructure including virtualization, compute,
+    storage, networking, and backup
+  - Deploy and support AI/ML infrastructure platforms for model training, inference,
+    experimentation, and deployment
+  - Manage infrastructure for generative AI, LLMs, AI copilots, vector databases,
+    and AI orchestration frameworks
+  - Design and support hybrid cloud workloads across Azure and GCP, including containers
+    on Kubernetes, OpenShift, AKS, EKS, or GKE
+  - Implement monitoring, observability, and SRE practices with incident management
+    and on-call support
+  - Ensure security compliance, disaster recovery, and business continuity for critical
+    platforms
+  use_cases:
+  - Predictive analytics and market measurement for CPG, manufacturing, and retail
+    clients
+  - AI/ML platform infrastructure for model training and inference
+  - Generative AI, LLM, and AI copilot infrastructure support
+  - Enterprise DevOps and hybrid cloud platform delivery
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, GCP, AKS, EKS, GKE]
+    ops: [Jenkins, Azure DevOps, CI/CD, Infrastructure as Code, Ansible, Linux, Kubernetes,
+      Docker, OpenShift, Monitoring, Observability, Grafana, Prometheus, Azure Monitor]
+    languages: [PowerShell, Python, Bash]
+    domains: []
+    other: [Site Reliability Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389480'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:40:58.797651'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

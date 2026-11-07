@@ -1,0 +1,58 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking and security platforms
+position:
+  title: Principal Engineer – Agentic AI for Network & Security Operations | 15+ years,
+    Bangalore
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI architectures: tool-using
+      agents, agent orchestration, evaluation frameworks,
+      guardrails, and retrieval/grounding for LLM-based systems —
+      clearly shaping LLM/agent behavior. Classical fault
+      detection and telemetry work is secondary.
+  responsibilities:
+  - Define architecture for agentic AI platforms for network troubleshooting, incident
+    analysis, and operational assistance
+  - Build tool-using AI agents that reason over network telemetry, configurations,
+    events, alerts, and logs
+  - Establish evaluation frameworks, guardrails, and gateway services for safe agent
+    deployment in production
+  - Design real-time fault detection, alerting, and automated-remediation systems
+  - Architect large-scale streaming and event-processing platforms for network and
+    security telemetry
+  - Design resilient cloud platforms using Kubernetes, microservices, and distributed
+    data technologies across AWS and GCP
+  - Integrate network and security platforms with SIEM, ITSM, collaboration, and notification
+    systems
+  - Mentor senior engineers and provide technical direction across engineering teams
+  use_cases:
+  - Network troubleshooting and operational assistance
+  - Incident analysis and dynamic visualization for network and security operations
+  - Closed-loop proactive detection, guided investigation, and safe automated remediation
+  - Anomaly and fault detection over high-volume network telemetry
+  - SIEM and ITSM integrations for security operations
+  skills:
+    genai: [AI Agents, Agentic Workflows, LangGraph, LLMs, Guardrails, Agent Evaluation,
+      RAG, Function Calling]
+    ml: [Anomaly Detection]
+    web: [Microservices, Webhooks]
+    databases: [OpenSearch, Elasticsearch, Redis, DynamoDB, Relational Databases,
+      RocksDB]
+    data: [Kafka, Flink, Event-Driven Architecture]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker, Prometheus, Grafana, ELK Stack, Observability, Distributed
+        Systems]
+    languages: [Java, Python]
+    domains: []
+    other: [Splunk, ServiceNow, Zero Trust, TCP/IP, TLS, SNMP, Kinesis]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11984764'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:18:34.446303'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

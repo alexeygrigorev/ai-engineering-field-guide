@@ -1,0 +1,57 @@
+company:
+  name: Humana
+  stage: null
+  focus: U.S. healthcare and insurance services
+position:
+  title: Lead AI Engineer - NBA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows, prompt
+      engineering, RAG, tool use, structured outputs, and LLM
+      evaluation frameworks themselves — clearly shaping LLM
+      behavior. Contractor/pod management exists but is secondary
+      to hands-on IC work.
+  responsibilities:
+  - Design, build, and own agentic AI agent workflows surfacing intelligent analysis,
+    recommendations, and automation across the NBA platform
+  - Architect multi-step agentic pipelines integrating with the platform's data layer,
+    decisioning outputs, and activation channels
+  - Own LLM integration (Claude, GPT) including prompt engineering, tool use, structured
+    output handling, and context management
+  - Partner with frontend and product teams to deliver AI-powered experiences in operator-facing
+    UIs
+  - Build evaluation frameworks to measure AI output quality and ensure reliable,
+    auditable agentic workflows
+  - Manage AI engineering contractors within the pod, setting expectations and reviewing
+    work
+  - Model best practices for AI-assisted development across the engineering organization
+  use_cases:
+  - AI-augmented decision-making and automation across a healthcare operations platform
+  - Agentic workflows delivering intelligent analysis and recommendations in operator-facing
+    UIs
+  - Retrieval-augmented intelligent analysis over platform data
+  - AI-powered analytics and insight surfaces in a business intelligence context
+  - Safe, auditable AI in a regulated healthcare environment
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, Function Calling, Structured
+        Outputs, RAG, LLMs, Anthropic API, OpenAI API, Claude Code, GitHub Copilot,
+      Multi-Agent Systems, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Salesforce, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11571892'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:13:44.650199'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

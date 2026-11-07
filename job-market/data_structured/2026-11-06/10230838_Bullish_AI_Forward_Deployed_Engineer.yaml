@@ -1,0 +1,54 @@
+company:
+  name: Bullish
+  stage: null
+  focus: Regulated digital asset exchange and market data services
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production AI systems directly — RAG
+      pipelines, conversational interfaces, internal agents, and
+      agentic workflows — shaping LLM behavior themselves, which
+      is ai-first. Although titled Forward Deployed, the work is
+      hands-on building of LLM-driven tools rather than merely
+      consuming another team's AI API.
+  responsibilities:
+  - Partner with business counterparts to identify and scope operational bottlenecks,
+    then build tools to fix them
+  - Move autonomously across the organization to gather requirements, secure data
+    access, and build trust with teams
+  - Ship solutions quickly using n8n, Make, Zapier, Lovable, or custom Python
+  - 'Build and maintain production AI systems: RAG pipelines, conversational interfaces,
+    workflow automation, internal agents'
+  - Run workshops and training sessions to help non-technical teams adopt built tools
+  - Define metrics upfront, track them, and communicate impact
+  use_cases:
+  - Internal workflow automation across Customer Success, Exchange Operations, Trading,
+    and Custody
+  - RAG-based internal knowledge retrieval
+  - Conversational internal interfaces
+  - Internal AI agents for eliminating operational friction
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Conversational AI, AI Agents, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Vector Databases, Qdrant, Pinecone, pgvector, Relational Databases]
+    data: []
+    cloud: []
+    ops: [Docker, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, Zapier, Make, Lovable]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10230838'
+  location: HKG
+  locations:
+  - HKG
+  - London, GBR
+  remote: true
+  extracted_at: '2026-11-06T11:19:20.743098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

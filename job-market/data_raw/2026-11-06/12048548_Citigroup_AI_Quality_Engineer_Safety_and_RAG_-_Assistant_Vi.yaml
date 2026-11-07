@@ -1,0 +1,223 @@
+job_id: 12048548
+title: AI Quality Engineer, Safety and RAG - Assistant Vice President
+company: Citigroup
+location: Pune, IND
+locations:
+  - Pune, IND
+  - Chennai, IND
+work_type: FULL_TIME
+company_size: 226,610 Employees
+description: |
+  We are seeking a highly motivated and experienced AI Quality
+  Engineer to join our Retail and Wealth Risk Engineering team
+  under the Enterprise Risk Technology platform. This role
+  spans the full spectrum of modern AI quality engineering —
+  from Agentic AI flow testing and RAG pipeline validation to
+  AI safety, test automation, and performance & reliability
+  engineering.
+
+  You will be the quality pillar for complex autonomous AI
+  systems, ensuring they are safe, accurate, explainable,
+  resilient, and production-ready at scale. This is a high-
+  impact, highly technical role that requires both depth in
+  AI/ML and breadth across testing disciplines.
+
+  Responsibilities
+
+  Agentic AI Testing
+
+  - Design and execute end-to-end test strategies for Agentic AI
+    pipelines, including single-agent and multi-agent
+    workflows.
+  - Validate agent reasoning, planning, and decision-making
+    chains (e.g., ReAct, Chain-of-Thought, Plan-and-Execute,
+    Reflexion).
+  - Test tool-use correctness — ensuring agents invoke the right
+    tools, with correct parameters, at the right time.
+  - Evaluate agent memory systems (short-term, long-term,
+    episodic) for accuracy and context retention across
+    sessions.
+  - Validate agent handoff and delegation logic in multi-agent
+    orchestration frameworks (e.g., AutoGen, CrewAI,
+    LangGraph).
+  - Test termination conditions, loop detection, and infinite
+    loop prevention in autonomous agent loops.
+
+  RAG (Retrieval-Augmented Generation) Testing
+
+  - Design comprehensive test strategies for end-to-end RAG
+    pipelines — covering ingestion, chunking, embedding,
+    retrieval, reranking, and generation stages.
+  - Validate retrieval accuracy and relevance — ensuring the
+    correct context chunks are retrieved for a given query.
+  - Test embedding model quality and vector similarity
+    thresholds across different document corpora.
+  - Evaluate faithfulness, groundedness, and answer relevance of
+    generated responses using frameworks like RAGAS, TruLens,
+    DeepEval.
+  - Test chunking strategies (fixed, semantic, hierarchical) for
+    their impact on retrieval quality.
+  - Validate context window management — ensuring retrieved
+    context does not exceed token limits or degrade generation
+    quality.
+  - Conduct end-to-end regression testing when the underlying
+    knowledge base, embedding model, or LLM changes.
+  - Test multi-turn conversational RAG for context coherence and
+    citation accuracy across turns.
+
+  Test Automation
+
+  - Build and maintain automated test harnesses for Agentic and
+    RAG systems, including agent trajectory replay, tool mock
+    injection, and prompt simulation.
+  - Develop automated evaluation pipelines integrated into CI/CD
+    workflows for continuous model and agent validation.
+  - Create data validation and data quality frameworks (using
+    Great Expectations, Deequ, or custom tooling) for
+    training, retrieval, and inference data.
+  - Build prompt regression suites to detect behavioral drift
+    across LLM versions or prompt changes.
+  - Implement determinism and reproducibility tests for
+    stochastic LLM-based decisions.
+  - Automate vector database validation — index integrity,
+    embedding drift, and retrieval consistency checks.
+
+  AI Safety & Security Testing
+
+  - Conduct red-teaming and adversarial testing to uncover
+    jailbreaks, prompt injection vulnerabilities, and goal
+    misalignment in LLM-based systems.
+  - Test output guardrails and content filters for unsafe,
+    biased, toxic, or out-of-scope model behavior.
+  - Validate privilege escalation controls — ensuring agents do
+    not exceed permitted actions or access unauthorized
+    resources.
+  - Perform data poisoning and backdoor attack simulations to
+    assess model robustness.
+  - Evaluate models for bias, fairness, and discrimination using
+    frameworks such as AI Fairness 360 and Aequitas.
+  - Test PII leakage and data privacy controls in RAG and agent
+    pipelines in accordance with GDPR, CCPA, and internal data
+    governance policies.
+  - Conduct security testing aligned with the OWASP Top 10 for
+    LLM Applications , including:
+    - Prompt Injection (Direct & Indirect)
+    - Insecure Output Handling
+    - Training Data Poisoning
+    - Insecure Plugin / Tool Design
+    - Sensitive Information Disclosure
+  - Validate constitutional AI constraints, RLHF-aligned
+    behavior boundaries, and system prompt integrity.
+  - Collaborate with cybersecurity teams on AI-specific threat
+    modeling and vulnerability management.
+  - Maintain safety testing playbooks and document red-team
+    findings with severity ratings and remediation
+    recommendations.
+
+  Performance & Reliability Testing
+
+  - Define and execute load, stress, soak, and spike testing for
+    AI-powered APIs, inference endpoints, and agent
+    orchestration services.
+  - Measure and optimize end-to-end latency across RAG and
+    agentic pipelines — from query to final response.
+  - Benchmark LLM inference throughput (tokens/second) and
+    identify bottlenecks across model serving infrastructure.
+  - Test auto-scaling behavior of AI services under variable
+    load conditions.
+  - Validate circuit breaker, retry, and fallback mechanisms in
+    agentic and RAG systems for graceful degradation.
+  - Test vector database performance — query latency, index
+    build time, and retrieval accuracy under high concurrency.
+  - Conduct cost efficiency analysis — measuring token
+    consumption, API call costs, and infrastructure spend per
+    agent task.
+  - Establish SLOs (Service Level Objectives) and SLAs for AI
+    system availability, latency percentiles (P50, P95, P99),
+    and error rates.
+  - Collaborate with MLOps teams to set up observability
+    dashboards, monitoring alerts, and automated anomaly
+    detection for production AI systems.
+  - Perform chaos engineering experiments to validate agent and
+    RAG system resilience under infrastructure failures.
+
+  Domain Knowledge
+
+  - Deep understanding of RAG architecture patterns — naive RAG,
+    advanced RAG, modular RAG.
+  - Solid grasp of agent design patterns: ReAct, Plan-and-
+    Execute, Reflexion, MRKL, Mixture-of-Agents.
+  - Familiarity with AI safety and alignment principles (RLHF,
+    Constitutional AI, guardrail layers).
+  - Knowledge of token economics, context management, and LLM
+    cost optimization.
+  - Proficiency in performance engineering methodologies for
+    distributed AI systems.
+
+  Preferred Qualifications
+
+  - Experience with MCP (Model Context Protocol) or similar
+    agentic communication standards.
+  - Exposure to multi-modal agent testing (agents handling text,
+    images, code, documents).
+  - Experience in regulated industries (banking, finance,
+    healthcare) with strict compliance requirements.
+  - Familiarity with chaos engineering tools (Chaos Monkey,
+    Gremlin, LitmusChaos).
+
+  Education
+
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field.
+  - Master’s degree is a plus.
+
+  Experience
+
+  - 8+ years of experience in software or AI/ML quality
+    engineering.
+  - 3+ years of hands-on experience with RAG systems, or Agentic
+    AI.
+  - Proven experience building automated test frameworks for
+    non-deterministic AI systems.
+  - Strong background in performance testing and AI
+    safety/security assessments.
+
+  ------------------------------------------------------
+
+  Job Family Group: Technology
+
+  ------------------------------------------------------
+
+  Job Family:Technology Quality
+
+  ------------------------------------------------------
+
+  Time Type:Full time
+
+  ------------------------------------------------------
+
+  Most Relevant Skills Please see the requirements listed
+  above.
+
+  ------------------------------------------------------
+
+  Other Relevant Skills For complementary skills, please see
+  above and/or contact the recruiter.
+
+  ------------------------------------------------------
+
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+
+
+
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+posted_date: 2026-11-03
+url: "https://builtin.com/job/ai-quality-engineer-safety-and-rag-assistant-vice-president/12048548"
+source: Built In

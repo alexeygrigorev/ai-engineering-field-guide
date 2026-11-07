@@ -1,0 +1,59 @@
+company:
+  name: Alternative Path
+  stage: null
+  focus: AI platform and agentic systems engineering
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows
+      (planner/executor/verifier, multi-agent), RAG pipelines,
+      prompts, and evaluation frameworks — directly shaping LLM
+      behavior, so it is ai-first.
+  responsibilities:
+  - Design and build autonomous AI agents with tool use, web/API interaction, memory,
+    and multi-step execution
+  - Architect agentic workflows including planner/executor/verifier, multi-agent,
+    HITL, retry, and failure-recovery patterns
+  - Integrate OpenAI, Anthropic, and Gemini with structured outputs, function calling,
+    context management, and prompt optimization
+  - Build RAG and knowledge pipelines using embeddings, vector databases, hybrid search,
+    reranking, and agent memory
+  - Develop scalable backend services with Python and/or Node.js/TypeScript, REST/GraphQL
+    APIs, and async processing
+  - Design reliable distributed systems with state persistence, caching, idempotency,
+    and fault tolerance
+  - Build observability and evaluation frameworks including tracing, behavioral regression
+    testing, and cost monitoring
+  - Own CI/CD and cloud deployments and evaluate emerging technologies such as MCP
+    and A2A
+  use_cases:
+  - Autonomous AI agents that reason, use tools, and execute complex multi-step workflows
+  - Multi-agent and human-in-the-loop workflow orchestration
+  - RAG-powered knowledge retrieval and agent memory
+  - Behavioral evaluation, tracing, and cost monitoring for AI systems
+  - Web and API interaction by agents including browser automation
+  skills:
+    genai: [AI Agents, Agentic Workflows, OpenAI API, Anthropic API, Gemini, Structured
+        Outputs, Function Calling, Prompt Engineering, RAG, Embeddings, Vector Databases,
+      Hybrid Search, Reranking, LangGraph, CrewAI, AutoGen, MCP, Guardrails, LLMs]
+    ml: []
+    web: [Node.js, REST APIs, GraphQL, Playwright]
+    databases: [PostgreSQL, DynamoDB]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, API Gateway, AWS S3, IAM, CloudWatch]
+    ops: [Docker, GitHub Actions, Terraform, CI/CD, Langfuse, LangSmith, Datadog,
+      Distributed Systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893866'
+  location: Gurgaon, IND
+  remote: true
+  extracted_at: '2026-11-06T13:49:58.592525'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

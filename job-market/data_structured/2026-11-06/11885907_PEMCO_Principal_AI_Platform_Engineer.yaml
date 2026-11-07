@@ -1,0 +1,59 @@
+company:
+  name: PEMCO
+  stage: null
+  focus: Mutual insurance company (auto, home, renters, boat)
+position:
+  title: Principal AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates model-shaping systems
+      themselves: fine-tuning/LoRA, quantization, prompt/output
+      guardrails, evaluation tooling with regression testing, and
+      RAG retrieval pipelines with chunking and embeddings for LLM
+      agents. Serving and gateway work is paired with shaping
+      responsibilities, so ai-first applies.
+  responsibilities:
+  - Build AI consumption telemetry and LLM observability layer (tracing, evaluation,
+    drift monitoring) for the entire AI estate
+  - Run a single AI gateway fronting every provider and model with routing, fallback
+    chains, quotas, and per-agent cost capture
+  - Stand up high-throughput open-weight model serving on Azure GPU capacity with
+    quantization and right-sizing
+  - 'Build the retrieval layer: vector stores, embedding pipelines, and document processing
+    on a governed platform'
+  - Deploy, monitor, and run incident response for the production agent fleet with
+    MCP-based orchestration and least-privilege identity
+  - Hold governance via RBAC for models/agents, prompt/output guardrails, and seat
+    on the AI Governance Working Group
+  - Shape platform architecture and represent reliability, security, and economics
+    in AI solution reviews across teams
+  use_cases:
+  - Enterprise AI platform serving all company AI agents and models for a mutual insurer
+  - Cost and consumption telemetry for AI spend across agents, workflows, and business
+    outcomes
+  - Governed retrieval and document processing powering in-house AI builds
+  - Production agent fleet for business workflows with least-privilege identity
+  - Hybrid cloud/on-prem GPU serving of open-weight models for economics
+  skills:
+    genai: [Fine-Tuning, LoRA, RAG, Embeddings, MCP, LangChain, LangGraph, Semantic
+        Kernel, Guardrails, LLM Evaluation]
+    ml: [Quantization, CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry]
+    ops: [vLLM, Triton, TensorRT, Langfuse, LangSmith, Arize, Kubernetes, AKS, Monitoring,
+      Observability, LLMOps]
+    languages: []
+    domains: []
+    other: [FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885907'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:35:54.209109'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

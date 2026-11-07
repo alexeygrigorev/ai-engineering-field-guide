@@ -1,0 +1,60 @@
+company:
+  name: Transaction Network Services
+  stage: null
+  focus: Transaction network services for payments and telecom
+position:
+  title: Sr AI Architect/Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns the harness around Claude on
+      Bedrock: prompt and context management, tool/function
+      calling, agent orchestration, retrieval pipelines,
+      guardrails, and evaluation suites — clearly shaping LLM
+      behavior. It also runs forward-deployed engineering with
+      business lines.
+  responsibilities:
+  - Own the Claude deployment on AWS Bedrock end to end, including model access, versioning,
+    data residency, and private VPC-isolated hosting
+  - 'Build and maintain the application harness: prompt and context management, tool
+    and function calling, agent orchestration, retrieval pipelines, guardrails, caching,
+    and fallbacks'
+  - 'Own the evaluation harness: regression suites, quality benchmarks, and the model
+    release/upgrade process'
+  - Design secure, governed data connectivity between AI systems and enterprise data,
+    including retrieval architecture, indexing, and permission-trimming
+  - Architect least-privilege security across identity, network, and data layers and
+    defend against AI-specific threats like prompt injection
+  - 'Instrument monitoring and observability: latency, errors, output quality and
+    drift, guardrail trips, and usage telemetry'
+  - 'Own AI cost management: token-level attribution, budgets, model right-sizing,
+    prompt caching, and chargeback reporting'
+  - Embed with lines of business to prototype, ship, and drive adoption of AI solutions
+    and enable AI champions
+  use_cases:
+  - Enterprise AI platform hosting Claude models privately on AWS Bedrock
+  - Secure RAG against TNS enterprise data with permission-aware retrieval
+  - Business automation across Communications, Payments, and Corporate lines of business
+  - AI cost attribution and chargeback by application and business unit
+  - 'AI security and governance: prompt injection defense, audit trails, tenant isolation'
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [AWS Bedrock, AWS, Azure, Azure AI, IAM]
+    data: []
+    ml: []
+    databases: [Vector Search]
+    genai: [RAG, AI Agents, Agentic Workflows, Function Calling, Prompt Engineering,
+      Guardrails, LLM Evaluation, Anthropic API, Fine-Tuning, Copilot Studio]
+    ops: [CI/CD, Terraform, CloudWatch, Monitoring, Infrastructure as Code]
+    other: [Entra ID, Microsoft 365, SharePoint, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11937820'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:03:03.982378'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

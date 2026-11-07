@@ -1,0 +1,58 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy: quality engineering, cloud
+    platforms, DevEx
+position:
+  title: DevSecOps Engineer AI-First
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs how autonomous agents act on the toolchain
+      (identity, scoping, audit trails, stop controls), builds MCP
+      servers, and puts agents to work on remediation, pipeline
+      upgrades, and triage. This is directly shaping agent
+      behaviour and flows, with LLM/agent components, so ai-first.
+  responsibilities:
+  - Build working prototypes and harden the ones that prove their value
+  - Deploy autonomous agents on the toolchain for remediation at scale, pipeline upgrades,
+    scanner triage and credential rotation
+  - 'Design agent governance: identity, scoping, audit trail and stop controls'
+  - Create new platform products such as self-serve dashboards, MCP servers, skills
+    and developer tooling
+  - Make the secure, correct path the default in CI/CD pipelines
+  - Run time-boxed experiments with decide-or-kill dates and written verdicts
+  - Make the estate observable via monitoring, telemetry, logging, tracing and alerting
+  - Help run the platform with zero-downtime practices defined in code and tested
+    before release
+  use_cases:
+  - Autonomous agent-driven remediation, pipeline upgrades and scanner triage
+  - Credential rotation automation via agents
+  - Self-serve developer dashboards and platform tooling
+  - MCP servers and developer skills marketplace
+  - Secure-by-default CI/CD pipelines in a regulated environment
+  skills:
+    genai: [AI Agents, MCP, Anthropic API, GitHub Copilot, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, DevSecOps, Kubernetes, Terraform, Infrastructure as Code, Monitoring,
+      Observability, GitHub, Azure DevOps]
+    languages: [Python, TypeScript, C#]
+    domains: []
+    other: [Artifactory, Test-Driven Development, Behavior-Driven Development, Trunk-Based
+        Development, DORA Metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983099'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:17:11.047543'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

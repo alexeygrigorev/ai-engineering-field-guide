@@ -1,0 +1,187 @@
+job_id: 11615768
+title: AI Engineer - Front end
+company: IFS
+location: Staines-upon-Thames, GBR
+work_type: FULL_TIME
+company_size: 6,788 Employees
+description: |
+  Company Description
+
+  IFS is a billion-dollar revenue company with 7000+ employees
+  on all continents. Our leading AI technology is the backbone
+  of our award-winning enterprise software solutions, enabling
+  our customers to be their best when it really matters–at the
+  Moment of Service™. Our commitment to internal AI adoption
+  has allowed us to stay at the forefront of technological
+  advancements, ensuring our colleagues can unlock their
+  creativity and productivity, and our solutions are always
+  cutting-edge.
+
+  At IFS, we’re flexible, we’re innovative, and we’re focused
+  not only on how we can engage with our customers but on how
+  we can make a real change and have a worldwide impact. We
+  help solve some of society’s greatest challenges, fostering
+  a better future through our agility, collaboration, and
+  trust.
+
+  We celebrate diversity and understand our responsibility to
+  reflect the diverse world we work in. We are committed to
+  promoting an inclusive workforce that fully represents the
+  many different cultures, backgrounds, and viewpoints of our
+  customers, our partners, and our communities. As a truly
+  international company serving people from around the globe,
+  we realize that our success is tantamount to the respect we
+  have for those different points of view.
+
+  By joining our team, you will have the opportunity to be
+  part of a global, diverse environment; you will be joining a
+  winning team with a commitment to sustainability; and a
+  company where we get things done so that you can make a
+  positive impact on the world.
+
+  We’re looking for innovative and original thinkers to work
+  in an environment where you can #MakeYourMoment so that we
+  can help others make theirs. With the power of our AI-driven
+  solutions, we empower our team to change the status quo and
+  make a real difference.
+
+  If you want to change the status quo, we’ll help you make
+  your moment. Join Team Purple. Join IFS.
+
+  Job Description
+
+  Build and operate the interface, semantic layer and controls
+  that let AI agents work inside IFS software safely.
+
+  This role is hybrid or remote.
+
+  The role:
+
+  You will own the web client of an AI agent product for our
+  enterprise customers. It is a React and TypeScript single-
+  page application, and almost everything on its screen
+  arrives as a stream from a language-model agent.
+
+  What you will do:
+
+  - Build an interface that people can trust while the content
+    on it is still arriving, changing and occasionally wrong.
+  - Turn what the agent produces into a usable interface: prose,
+    generated views and actions the user can take.
+  - Make sure the agent acts only with the user's explicit
+    consent, and that people can always see what it did and
+    why.
+  - Own the front-end architecture, the component system and the
+    contracts with the teams behind the agent.
+  - Help move the interface towards Lit and Web Components, so
+    that what we build is standards-based and not tied to a
+    single framework or application.
+  - Treat accessibility, performance, testing and observability
+    as part of the product rather than a late pass.
+  - Work across the boundary into the services your interface
+    depends on, then ship what you build and run it in
+    production.
+
+
+
+  Why it is interesting:
+
+  Most front-end work assumes that a page loads and is then
+  correct. Here the content arrives in pieces, gets revised,
+  sometimes fails partway and is sometimes wrong. And some of
+  it is code a model wrote, which the browser should not
+  trust. The protocols involved are young and still changing
+  (AG-UI, A2UI, MCP Apps). You will help shape them, not just
+  consume them.
+
+
+
+  What we are looking for:
+
+  - Substantial production single-page applications, built and
+    operated, with real depth in TypeScript and React.
+  - Asynchronous state you can reason about.
+  - Browser security as a working concern: iframe sandboxing,
+    postMessage, Content Security Policy, sanitising content
+    you did not write.
+  - Component and design-system work in a shared codebase,
+    including web components used inside React.
+  - Accessibility as a practice. You know how to keep it tested.
+  - Willing to write Go and to read Python. Prior experience in
+    either is not required.
+  - Test-first habits and continuous delivery.
+  - Clear writing. Decisions are recorded as short architecture
+    decision records (ADRs), and protocols are documented
+    before they change.
+  - Comfortable working with AI coding agents as part of how you
+    build.
+
+
+
+  Also valuable:
+
+  - A product surface built on a language model in production:
+    streaming, partial output, retries, and showing
+    uncertainty.
+  - Hands-on knowledge of the Model Context Protocol (MCP) and
+    MCP Apps, AG-UI or A2UI.
+  - Experience building with Lit and Web Components, including
+    shadow DOM and custom elements used from other frameworks.
+  - Expression languages or compilers.
+  - A platform where behaviour is configured through data or
+    metadata rather than written in code.
+  - Data visualisation.
+  - Familiarity with Docker, Kubernetes and Helm.
+  - Knowledge of an enterprise domain: asset management, field
+    service, manufacturing, supply chain.
+
+  Qualifications
+
+  - Production experience building and operating substantial
+    single-page applications, with real depth in modern
+    TypeScript and a current framework such as Angular or
+    React.
+
+  - Built a product surface on top of a language model in
+    production: streaming, partial output, cancellation,
+    retries, and what to show when the system is uncertain.
+
+  - Component architecture and design-system work in a codebase
+    other teams contribute to.
+
+  - Accessibility as a working practice, and performance work
+    you can describe in numbers.
+
+  - Comfortable across the boundary: you can write the service-
+    side code your surface needs.
+
+  - Automated testing, observability and continuous delivery as
+    part of how you build.
+
+  Also valuable
+
+  - A platform where behaviour is configured through data or
+    metadata rather than written in code.
+
+  - Mobile or progressive web applications, including offline
+    behaviour and poor connectivity.
+
+  - Voice interfaces.
+
+  - Enterprise software domains: asset management, field
+    service, manufacturing, supply chain.
+
+  Additional Information
+
+  We believe that coming together as a community, in person,
+  is important for innovation, connection and fostering a
+  sense of belonging. Our roles have the right balance of
+  remote and in-office working to enable flexibility for
+  managing your life along with ensuring a real connection
+  with your colleagues and the broader IFS community.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-10-12
+url: "https://builtin.com/job/ai-engineer-front-end/11615768"
+source: Built In

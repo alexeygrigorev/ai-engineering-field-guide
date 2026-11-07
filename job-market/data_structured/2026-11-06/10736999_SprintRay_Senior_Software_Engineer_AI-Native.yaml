@@ -1,0 +1,51 @@
+company:
+  name: SprintRay
+  stage: null
+  focus: 3D printing and digital dentistry solutions
+position:
+  title: Senior Software Engineer, AI-Native
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds cloud, microservice, and IoT infrastructure
+      connecting an existing AI/algorithm layer; nothing indicates
+      the engineer shapes model behavior via prompts, retrieval,
+      or training. It consumes AI outputs and integrates them, so
+      it is ai-support.
+  responsibilities:
+  - Design, build, and enhance software and platform including microservice orchestration,
+    micro-frontend and IoT workflows, and cloud infrastructure
+  - Contribute senior-level design and implementation across the printing experience,
+    product scalability, and dental manufacturing pipeline including AI and algorithm
+    integration layer
+  - Drive assigned features end-to-end from requirements through design, implementation,
+    and observability within cloud compute architecture and device software
+  - Improve performance, reliability, and cost of services including monitoring, root
+    cause analysis, and incident response
+  - Collaborate with product managers, cross-disciplinary engineering teams, and global
+    stakeholders
+  - Apply advanced AI flows to dental technologies from scan to final dental applications
+  use_cases:
+  - On-premises production and printing of dental appliances in dental practices
+  - Dental manufacturing pipeline from dental scan to final dental applications
+  - IoT workflows connecting printers and device software to cloud computing
+  - Microservice and cloud platform powering the dental printing experience
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Lambda, AWS S3]
+    ops: [CI/CD, Docker, Monitoring, Observability, Distributed Systems]
+    languages: [JavaScript, Java, C#, C++, Kotlin]
+    domains: []
+    other: [Event-Driven Architecture, Applied Cryptography]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10736999'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T11:21:24.060907'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

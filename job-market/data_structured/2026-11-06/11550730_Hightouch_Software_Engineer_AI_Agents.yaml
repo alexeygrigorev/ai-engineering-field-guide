@@ -1,0 +1,46 @@
+company:
+  name: Hightouch
+  stage: null
+  focus: |-
+    Agentic marketing platform and composable customer data
+    platform
+position:
+  title: Software Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves prototyping and architecting production
+      LLM pipelines and building production data agents, which is
+      directly shaping agent behavior and model output quality.
+      Agents/LLM components are central, so it's ai-first.
+  responsibilities:
+  - Rapidly prototype POCs exploring AI integration in data and marketing workflows
+  - Make key decisions about AI architecture and framework choices
+  - Build production data agents that answer analytics and data science questions
+    from company data
+  - Architect and ship production LLM pipelines
+  - Study user workflows to design seamless AI-assisted user experiences
+  use_cases:
+  - AI-powered marketing campaign generation
+  - Data agents answering analytics and data science questions about users
+  - AI-assisted data and marketing workflows
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11550730'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:10:30.121040'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

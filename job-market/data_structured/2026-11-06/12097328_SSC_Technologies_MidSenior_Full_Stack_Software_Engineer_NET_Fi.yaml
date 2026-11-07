@@ -1,0 +1,64 @@
+company:
+  name: SS&C Technologies
+  stage: null
+  focus: |-
+    Mission-critical software for financial services and
+    healthcare
+position:
+  title: Mid/Senior Full Stack Software Engineer – .NET, FinTech & AI Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer designs and implements LLM capabilities
+      themselves: prompt engineering, RAG, function calling,
+      structured outputs, AI agents, and evaluating LLM output
+      quality within the product. This is direct shaping of LLM
+      behavior, making it ai-first, though blended with
+      substantial full-stack work.
+  responsibilities:
+  - Design, develop, test, and maintain enterprise Trust accounting and FinTech applications
+  - Develop backend services and business logic using .NET/.NET Core and C#
+  - Build full-stack web functionality with JavaScript, TypeScript, HTML, CSS, and
+    Vue.js
+  - Design, develop, and consume REST APIs and web services for internal, client,
+    and third-party integrations
+  - Design and optimize Microsoft SQL Server database solutions including T-SQL, stored
+    procedures, and performance tuning
+  - Design and implement AI-enabled capabilities including Generative AI, LLM solutions,
+    RAG, prompt engineering, and function calling
+  - Integrate applications with enterprise AI platforms, APIs, and AI/LLM services
+    while ensuring AI governance, security, and privacy compliance
+  - Collaborate with business analysts, product owners, QA, architects, and stakeholders
+    in an Agile environment; mentor less experienced developers
+  use_cases:
+  - Enterprise Trust accounting and financial technology platform development
+  - LLM-powered capabilities embedded in financial applications
+  - Enterprise knowledge retrieval over financial and client data via RAG and vector
+    search
+  - AI-assisted workflows and automation of business processes in financial services
+  - Integration of enterprise applications with AI/LLM services and APIs
+  skills:
+    languages: [C#, SQL, T-SQL, JavaScript, TypeScript, C++]
+    domains: []
+    web: [.NET, HTML, CSS, Vue, REST APIs, Microservices, OAuth]
+    cloud: [Azure]
+    data: [RabbitMQ]
+    ml: []
+    databases: [SQL Server, Vector Search]
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, Embeddings, AI Agents, Function
+        Calling, Structured Outputs]
+    ops: [Git, GitHub, CI/CD]
+    other: [Azure API Management, Event-Driven Architecture, JWT, SSO, Microsoft Entra
+        ID, Responsible AI, AI Security and Governance, Agile, Code Review, SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12097328'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - New York, USA
+  - Jacksonville, USA
+  extracted_at: '2026-11-06T14:58:09.776143'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

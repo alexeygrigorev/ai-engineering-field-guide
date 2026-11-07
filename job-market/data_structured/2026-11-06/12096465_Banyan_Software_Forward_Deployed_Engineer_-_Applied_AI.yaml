@@ -1,0 +1,59 @@
+company:
+  name: Banyan Software
+  stage: null
+  focus: Acquires and grows vertical software companies permanently
+position:
+  title: Forward Deployed Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered features themselves:
+      prompt design, tool calling, retrieval, and evaluation
+      harnesses. This is shaping model behaviour (Step 1 yes, LLM
+      involved -> ai-first). Forward Deployed Engineers adapting
+      AI solutions at customer sites are ai-first.
+  responsibilities:
+  - Build and ship LLM-powered AI features end to end in MedicatOne, including prompt
+    design, tool calling, retrieval, and evaluation harnesses
+  - Integrate with real clinical data, writing services, SQL, and data pipelines that
+    move PHI safely
+  - Deploy alongside customers, joining clinic implementation and discovery calls
+    as technical lead through go-live
+  - Embed with internal teams to automate repetitive work and help them adopt AI tools
+  - 'Own production quality: instrument, monitor, and debug latency, cost, accuracy,
+    and failure modes with evals'
+  - Implement HIPAA-compliant patterns for PHI handling, logging, access control,
+    and de-identification
+  - Review and productionize AI tools built by non-engineering teams before they touch
+    customer data
+  - Feed the roadmap with field-derived working prototypes and technical recommendations
+  use_cases:
+  - LLM-powered features in a college health EHR (MedicatOne) for clinicians and students
+  - Clinical data integration moving PHI between EHR, customer systems, and model
+    providers
+  - HIPAA-compliant PHI handling, de-identification, and access control for AI features
+  - Automation of repetitive workflows for clinic customers and internal teams
+  - 'AI tool hardening and observability: latency, cost, accuracy, and eval-driven
+    regression detection'
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, LLM Evaluation, RAG, Embeddings,
+      Vector Databases, pgvector, Pinecone, OpenAI API, Anthropic API, Azure OpenAI,
+      MCP]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [Relational Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS]
+    ops: [CI/CD, Git, Code Review, Monitoring, LangSmith, Langfuse]
+    languages: [Python, C#, .NET, TypeScript, Node.js, SQL]
+    domains: []
+    other: [HIPAA Compliance, Automated Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12096465'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:57:59.578268'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

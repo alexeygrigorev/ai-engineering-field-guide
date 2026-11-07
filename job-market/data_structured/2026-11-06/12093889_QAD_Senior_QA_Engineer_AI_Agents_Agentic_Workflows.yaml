@@ -1,0 +1,59 @@
+company:
+  name: QAD
+  stage: null
+  focus: Manufacturing and supply chain SaaS platform
+position:
+  title: Senior QA Engineer, AI Agents & Agentic Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds evaluation frameworks,
+      regression suites, LLM-as-judge rubrics, and adversarial
+      prompt testing that directly shape and gate the behaviour of
+      an LLM multi-agent product. Judging and safeguarding model
+      output quality via self-built evals counts as shaping, so it
+      is ai-first.
+  responsibilities:
+  - Design, run and maintain end-to-end business scenarios exercising multi-step agentic
+    workflows, including agent routing, tool/function calls, and multi-turn conversations
+  - Evaluate agent outputs for correctness, relevance, groundedness, consistency,
+    tone and completeness using human review and automated methods
+  - Build and maintain eval datasets (golden sets, edge cases, adversarial prompts)
+    and automated regression suites as agents, prompts, models and tools change
+  - Identify cross-agent, orchestration and integration issues such as wrong agent
+    selection, broken handoffs, tool-call failures, context loss, and looping behavior
+  - Test for hallucination, prompt injection, jailbreaks, data leakage and unsafe
+    or out-of-scope responses
+  - Detect and quantify regressions caused by model upgrades, prompt changes or retrieval/knowledge
+    changes
+  - Triage and root-cause issues with Engineering and Product, separating prompt,
+    model, retrieval, tool and orchestration causes
+  - Document test strategy, eval results and quality trends for global stakeholders
+  use_cases:
+  - Quality assurance and continuous validation of Champion Assist, a multi-agent
+    AI product with ~20 evolving agents
+  - Testing agent reasoning, tool use, orchestration, handoffs and response quality
+    in manufacturing/supply chain workflows
+  - Detecting hallucinations, prompt injection, jailbreaks and unsafe responses in
+    LLM-driven agents
+  - Regression detection and quantification across model, prompt and retrieval changes
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, LLM Evaluation, Prompt Engineering,
+      Function Calling, Multi-Agent Systems, RAG, Guardrails]
+    ml: []
+    web: [Playwright, API Testing]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Selenium, TestComplete]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12093889'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:57:12.205175'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

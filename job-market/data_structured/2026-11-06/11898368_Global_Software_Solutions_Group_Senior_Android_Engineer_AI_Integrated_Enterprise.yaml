@@ -1,0 +1,52 @@
+company:
+  name: Global Software Solutions Group
+  stage: null
+  focus: Enterprise Android applications
+position:
+  title: Senior Android Engineer, AI Integrated Enterprise Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly integrates LLM APIs and MCP frameworks
+      into production apps, handling token management, context
+      handling, agentic workflows, and multi-agent orchestration —
+      all shaping model behavior within the app, involving LLMs,
+      so ai-first.
+  responsibilities:
+  - Own architecture and design across feature teams for enterprise-grade Android
+    applications
+  - Build scalable Gradle architectures and high-performance Jetpack Compose UIs
+  - Integrate LLM APIs and MCP frameworks into production apps, handling token and
+    context management, agentic workflows, multi-agent orchestration, and AI error
+    recovery
+  - Diagnose memory leaks and ANR issues, implement Firebase Crash Reporting, and
+    drive performance improvements
+  - Apply Hilt/Dagger dependency injection and MVVM/Clean Architecture for a testable
+    codebase
+  - Ship apps through the full lifecycle to Google Play Store within a CI/CD workflow
+  use_cases:
+  - LLM-powered AI features embedded in enterprise Android apps
+  - Agentic workflows and multi-agent orchestration on mobile
+  - Token and context management for on-device AI interactions
+  - AI error recovery in production mobile applications
+  skills:
+    languages: [Kotlin]
+    domains: []
+    web: [OkHttp, Protobuf]
+    cloud: [Firebase]
+    data: []
+    ml: []
+    databases: [Room]
+    genai: [LLMs, MCP, Agentic Workflows, Multi-Agent Systems, Anthropic API, OpenAI
+        API]
+    ops: [CI/CD]
+    other: [Android SDK, Jetpack Compose, Gradle, Hilt, Dagger, MVVM, Clean Architecture,
+      Kotlin Coroutines, Flow, DataStore, WorkManager, Google Play Store]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11898368'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:53:42.473992'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Keywords Studios
+  stage: null
+  focus: Technical and creative services for gaming and entertainment
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys LLM applications, builds
+      autonomous agents with orchestration frameworks, fine-tunes
+      foundation models, and works with RAG and MCP — all
+      activities that shape model behaviour and output, with LLMs
+      at the core.
+  responsibilities:
+  - Design, develop, and deploy generative AI and conversational AI solutions
+  - Build context-aware autonomous AI agents to automate workflows
+  - Collaborate with data engineers to preprocess and curate datasets for training
+    and testing models
+  - Experiment with ML algorithms and fine-tune foundation models for production
+  - Build and deploy scalable production-ready AI pipelines
+  - Analyze and optimize AI model performance against business requirements
+  - Track GenAI/LLM advancements and propose innovative product solutions
+  use_cases:
+  - Generative and conversational AI applications
+  - Autonomous AI agents automating complex business workflows
+  - Domain-specific LLM fine-tuning for production
+  - Multimodal applications integrating vision and language models
+  - Scalable AI model serving via production APIs
+  skills:
+    languages: [Python]
+    domains: [Multimodal Learning]
+    web: [REST APIs, FastAPI, Flask]
+    cloud: [Vertex AI, AWS, Azure, GCP]
+    data: []
+    ml: [Transformers, Accelerate, Deep Learning, TensorFlow, PyTorch, Fine-Tuning,
+      Machine Learning]
+    databases: [Vector Databases, Supabase]
+    genai: [LoRA, DSPy, LLMs, Gemini, OpenAI API, Anthropic API, LangChain, LlamaIndex,
+      Agentic Workflows, LangGraph, AutoGen, CrewAI, Multi-Agent Systems, RAG, MCP,
+      Prompt Engineering]
+    ops: [vLLM, LLMOps, MLOps, Containerization, CI/CD]
+    other: [n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11351476'
+  location: IND
+  locations:
+  - IND
+  - Pune, IND
+  remote: true
+  extracted_at: '2026-11-06T11:34:51.379236'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

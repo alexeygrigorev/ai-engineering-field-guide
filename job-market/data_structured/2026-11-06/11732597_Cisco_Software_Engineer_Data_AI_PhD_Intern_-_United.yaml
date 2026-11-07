@@ -1,0 +1,44 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and data infrastructure technology
+position:
+  title: Software Engineer Data & AI PhD (Intern) - United States
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines, analytics platforms, and ML
+      infrastructure that support others' AI/ML initiatives; it
+      does not shape model behavior through prompts, retrieval,
+      training, or evaluation. ML frameworks are qualifications,
+      not responsibilities of model quality work.
+  responsibilities:
+  - Develop scalable data pipelines for Cisco's business groups
+  - Design and maintain analytics platforms
+  - Build infrastructure to support machine learning initiatives
+  - Deploy data and ML workloads using containerization and orchestration tools
+  - Build and maintain software tools enabling data-driven insights
+  use_cases:
+  - Data pipelines and ML infrastructure for business groups
+  - Supply chain analytics
+  - Analytics platforms for operational insights
+  - AI-driven intelligent automation across Cisco
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [Spark, Hadoop, Flink]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11732597'
+  location: Santa Monica, USA
+  extracted_at: '2026-11-06T12:44:31.883485'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

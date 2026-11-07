@@ -1,0 +1,54 @@
+company:
+  name: Robots & Pencils
+  stage: null
+  focus: |-
+    Consulting firm building production AI systems for
+    enterprises
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains and optimizes models directly — writing
+      PyTorch training code, tuning distributed runs, and
+      optimizing execution at the Trainium hardware/compiler level
+      — which is shaping model behaviour. No LLM, agent, or prompt
+      component is named; the work is training/optimizing models
+      on custom accelerators, making it ml-first.
+  responsibilities:
+  - Train and operate models on Amazon SageMaker using AWS Trainium compute
+  - Write and optimize PyTorch training code with deep understanding of Trainium compilation
+    and execution (NeuronCore architecture, compiler behavior, memory and throughput
+    tradeoffs)
+  - Diagnose hardware-specific training run issues, distinguishing data/code problems
+    from compiler or device-level ones
+  - Translate client Trainium requests into working, cost-aware end-to-end training
+    pipelines
+  - Tune distributed training runs for throughput and cost on SageMaker training infrastructure
+  - Work directly with client and internal engineering teams to scope and deliver
+    production training workloads
+  use_cases:
+  - Large-scale model training on custom accelerator hardware
+  - Cost-aware production training pipelines for enterprise clients
+  - Throughput and cost optimization of distributed training runs
+  - Hardware-level diagnosis and debugging of model training workloads
+  skills:
+    genai: []
+    ml: [PyTorch, Model Training, Machine Learning, Distributed Training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [AWS Trainium, AWS Inferentia, Neuron SDK, NeuronCore Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11211491'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:26:57.837845'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

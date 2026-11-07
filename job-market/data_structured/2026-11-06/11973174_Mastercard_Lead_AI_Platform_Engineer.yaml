@@ -1,0 +1,59 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments technology and services
+position:
+  title: Lead AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates enterprise AI platform
+      infrastructure (MLOps, serving, observability, deployment)
+      rather than shaping model behavior. Mentions of evaluation,
+      fine-tuning, guardrails, and RAG are platform
+      tooling/support responsibilities for other teams, not direct
+      model shaping. The deliverable is capacity, reliability, and
+      platform enablement.
+  responsibilities:
+  - Lead design, development, and operation of enterprise AI/ML platform infrastructure
+    across public and private clouds
+  - Develop infrastructure and tooling for model training, evaluation, fine-tuning,
+    deployment, inference, monitoring, and governance
+  - Implement repeatable, scalable MLOps capabilities and AI development workflows
+  - Build data ingestion, preprocessing, and feature engineering workflows supporting
+    model training and inference
+  - Design observability capabilities including telemetry, monitoring, alerting, model
+    monitoring, and drift detection
+  - Lead troubleshooting, root cause analysis, and incident response for complex platform
+    issues
+  - Influence platform architecture through design reviews, prototypes, and technical
+    recommendations
+  - Mentor engineers and drive engineering best practices across IaC, CI/CD, and secure
+    development
+  use_cases:
+  - Enterprise AI platform infrastructure for ML, generative AI, and agentic AI workloads
+  - Model lifecycle management including training, fine-tuning, deployment, and inference
+  - AI observability including model monitoring and drift detection
+  - Data ingestion and feature engineering pipelines for model training
+  - AI governance and compliance in a regulated payments environment
+  skills:
+    genai: [Generative AI, LLMs, Guardrails, RAG, Agentic Workflows]
+    ml: [Fine-Tuning, Model Evaluation, Machine Learning, Feature Engineering, Drift
+        Detection]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [MLOps, CI/CD, Infrastructure as Code, Kubernetes, OpenShift, Docker, Helm,
+      GitOps, Model Monitoring, Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, GPU Computing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11973174'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:14:30.480983'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,45 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare services, pharmacy benefits and care delivery
+position:
+  title: Associate AI or ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an RPA developer (UiPath, Power Automate)
+      automating business processes; AI/ML knowledge is listed
+      only as a "knowledge" requirement, not as work shaping model
+      behavior. No prompt engineering, RAG design, or model
+      training is part of the responsibilities.
+  responsibilities:
+  - Identify and assess automation opportunities within Shared Services
+  - Develop automations using RPA tools such as UiPath and Power Automate
+  - Define, design, configure, test, deploy and integrate new or enhanced automations
+  - Perform end-to-end development and support through hyper care or warranty period
+  - Participate in workshops to define and design automation solutions
+  - Conduct integration, end-to-end and user acceptance testing; track and resolve
+    defects
+  - Create lifecycle deliverables and documentation including requirements, solution
+    designs and SOPs
+  - Perform code review of automations to ensure quality
+  use_cases: []
+  skills:
+    genai: [LLMs, RAG, Generative AI, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [UiPath, Power Automate]
+    languages: [Java, .NET, VBA]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11845409'
+  location: Noida, IND
+  extracted_at: '2026-11-06T13:22:56.585145'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

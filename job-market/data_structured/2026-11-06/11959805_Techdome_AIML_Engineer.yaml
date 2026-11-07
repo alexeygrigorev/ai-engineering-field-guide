@@ -1,0 +1,61 @@
+company:
+  name: Techdome
+  stage: null
+  focus: |-
+    Technology consultancy and product engineering, AI-powered
+    cloud-native platforms
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI applications with LLMs, including RAG
+      pipelines, AI agents, prompt engineering, and fine-tuning —
+      directly shaping model behaviour, with an LLM component
+      present.
+  responsibilities:
+  - Design, train, evaluate and deploy ML and deep learning models for real business
+    problems
+  - Build Generative AI applications using LLMs, including RAG pipelines, AI agents,
+    prompt engineering and fine-tuning
+  - Work with frameworks such as LangChain, LlamaIndex and vector databases
+  - Develop data preprocessing, feature engineering and model training pipelines
+  - Deploy models as scalable APIs and services; set up MLOps practices for versioning,
+    monitoring and retraining
+  - Evaluate model performance, accuracy, latency and cost, and optimise accordingly
+  - Collaborate with product, data and engineering teams to take AI features from
+    proof of concept to production
+  use_cases:
+  - Generative AI applications built on LLMs
+  - RAG-based retrieval and AI agent systems
+  - ML and deep learning models for real business problems
+  - NLP, computer vision and predictive modelling
+  - Production AI services with MLOps-driven monitoring and retraining
+  skills:
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    web: [FastAPI, Flask, APIs]
+    cloud: [SageMaker, Azure ML, Vertex AI]
+    data: [Spark, Databricks]
+    ml: [Machine Learning, Deep Learning, scikit-learn, PyTorch, TensorFlow, Feature
+        Engineering, Model Training, Model Evaluation, NLP, Predictive Modelling]
+    databases: [Pinecone, FAISS, Weaviate, pgvector, Vector Databases]
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, Fine-Tuning, LangChain, LlamaIndex,
+      OpenAI API, Anthropic API, Llama, Mistral, LoRA, LLM Evaluation, Agentic Workflows,
+      LangGraph, CrewAI, AutoGen, MCP]
+    ops: [MLOps, MLflow, Kubeflow, Docker, Model Monitoring]
+    other: [Kaggle]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11959805'
+  location: IND
+  locations:
+  - IND
+  - Mumbai, IND
+  - Hyderabad, IND
+  - Indore, IND
+  remote: true
+  extracted_at: '2026-11-06T14:11:27.969680'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

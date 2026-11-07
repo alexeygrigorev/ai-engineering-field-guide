@@ -1,0 +1,49 @@
+company:
+  name: OPENLANE
+  stage: null
+  focus: Digital marketplace for wholesale used vehicles
+position:
+  title: AI First Sr. iOS Engineer (Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a senior iOS engineer who uses AI coding
+      assistants to accelerate development; AI is a tool the
+      engineer uses, not something they shape. No prompt
+      engineering, RAG, agent design, or model training is
+      involved.
+  responsibilities:
+  - Design, build, and ship iOS features for seller and buyer marketplace experiences
+  - Lead technical direction on iOS, balancing SwiftUI growth with UIKit legacy and
+    shared kits
+  - Raise the bar on unit/UI/snapshot testing and PR gates; partner on TestFlight/App
+    Store releases
+  - Use AI tools to accelerate delivery while mentoring intermediate engineers
+  - Partner with Android team to keep product behavior aligned across platforms
+  - Take end-to-end ownership from design collaboration through release and operational
+    health
+  use_cases:
+  - Wholesale used-vehicle marketplace mobile apps for sellers and buyers
+  - High-volume transactional marketplace experiences
+  - Camera/scanning and realtime features in iOS apps
+  skills:
+    genai: [GitHub Copilot]
+    ml: []
+    web: [SwiftUI, UIKit, SPM, SignalR]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Fastlane]
+    languages: [Swift, Kotlin]
+    domains: []
+    other: [Code Review, Feature Flags, Product Analytics, Crash Reporting, AppAuth,
+      Snapshot Testing, UI Testing, BrowserStack, Cordova]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609592'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:20:10.513307'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

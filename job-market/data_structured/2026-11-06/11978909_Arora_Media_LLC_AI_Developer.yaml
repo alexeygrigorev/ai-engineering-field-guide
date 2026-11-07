@@ -1,0 +1,44 @@
+company:
+  name: Arora Media LLC
+  stage: null
+  focus: Growth consulting for CPG, SaaS, DTC and commerce brands
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, RAG pipelines, and integrates
+      LLMs for creative ideation and copy generation, directly
+      shaping LLM behavior. This is ai-first per Step 2.
+  responsibilities:
+  - Build AI-powered workflows, automations, and internal tools multiplying creative
+    and media output
+  - Develop and maintain AI agents for creative ideation, copy generation, video production
+    pipelines, and reporting
+  - Integrate LLMs and third-party APIs into operating systems and client delivery
+  - Ship and iterate quickly on AI-driven marketing operations tooling
+  use_cases:
+  - Creative ideation and copy generation
+  - Video production pipelines
+  - Marketing operations automation
+  - Reporting and analytics workflows
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, AI Agents, RAG, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Engineering]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11978909'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:15:56.249165'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

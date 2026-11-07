@@ -1,0 +1,53 @@
+company:
+  name: Eli Lilly and Company
+  stage: null
+  focus: Pharmaceutical company developing life-changing medicines
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, RAG
+      solutions, and prompt engineering for LLM-based
+      applications, directly shaping model behavior and output
+      quality. This is clearly ai-first per Step 2.
+  responsibilities:
+  - Design and build AI-powered applications using LLMs, agentic AI workflows, and
+    RAG on enterprise knowledge sources
+  - Integrate AI services with business applications and external systems; evaluate,
+    optimize, and monitor AI performance and quality
+  - Build responsive frontend applications and scalable backend services and APIs
+  - Deploy and manage applications on AWS with CI/CD pipelines, Docker containers,
+    and Kubernetes orchestration
+  - Design and manage SQL and NoSQL databases and integrate enterprise and third-party
+    systems
+  - Collaborate with product teams to translate business requirements into technical
+    solutions and implement monitoring and observability
+  use_cases:
+  - Enterprise AI copilots and intelligent assistants
+  - Agentic AI workflows with tools, reasoning, memory, and orchestration
+  - RAG solutions over enterprise knowledge sources
+  - AI-powered full stack business applications
+  - Integration of AI services with enterprise systems and collaboration platforms
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Agentic Workflows, LangGraph, LangChain,
+      LlamaIndex, OpenAI API, Anthropic API, AWS Bedrock, Azure OpenAI, Semantic Search,
+      MCP, Generative AI, AI Agents, Vector Databases]
+    ml: []
+    web: [FastAPI, Flask, Microservices, APIs, React]
+    databases: [SQL, NoSQL, PostgreSQL, MySQL, SQL Server]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, GitLab CI, Monitoring,
+      Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Microsoft Teams, Jira, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11981037'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:16:28.074722'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

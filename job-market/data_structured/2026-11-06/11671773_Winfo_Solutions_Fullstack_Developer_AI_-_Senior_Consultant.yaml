@@ -1,0 +1,52 @@
+company:
+  name: Winfo Solutions
+  stage: null
+  focus: Enterprise IT consulting and AI solutions
+position:
+  title: Fullstack Developer AI - Senior Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on work with LLMs, RAG,
+      AI Agents, and Prompt Engineering to integrate GenAI
+      capabilities into applications, which is shaping model
+      behaviour via prompts and retrieval. LLM involvement makes
+      it ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable full-stack applications
+  - Build responsive user interfaces with React.js or Angular
+  - Develop backend services and REST APIs using Python, Java, or .NET
+  - Integrate AI/ML and Generative AI capabilities including LLMs, RAG, AI Agents,
+    and Prompt Engineering
+  - Develop APIs, microservices, and third-party integrations
+  - Work with SQL and NoSQL databases and design data models
+  - Deploy and manage applications on Azure, AWS, or GCP
+  - Perform code reviews, troubleshooting, performance optimization, and production
+    support
+  use_cases:
+  - AI-powered enterprise applications
+  - Generative AI integration into full-stack products
+  - RAG-based retrieval and AI agent workflows
+  skills:
+    genai: [RAG, AI Agents, Prompt Engineering, LLMs, OpenAI API, Azure OpenAI, Generative
+        AI, LangChain, LlamaIndex]
+    ml: [Machine Learning]
+    web: [React, Angular, REST APIs, Microservices, APIs]
+    databases: [SQL, NoSQL, Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, Git, CI/CD]
+    languages: [Python, Java, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11671773'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Andersonpet, IND
+  extracted_at: '2026-11-06T12:31:08.507347'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

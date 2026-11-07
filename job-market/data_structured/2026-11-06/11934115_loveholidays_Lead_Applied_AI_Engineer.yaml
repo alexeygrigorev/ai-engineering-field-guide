@@ -1,0 +1,54 @@
+company:
+  name: loveholidays
+  stage: null
+  focus: Online travel agency for holiday bookings
+position:
+  title: Lead Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role sets technical direction and standards for agentic
+      AI workflows, tool-using agents (Google ADK), RAG, and
+      evaluation — directly shaping model/agent behaviour.
+      LLM/agent components dominate, so it is ai-first, despite
+      heavy management and SaaS ownership duties.
+  responsibilities:
+  - Line-manage and coach Applied AI engineers, set goals, manage performance, recruit
+    and onboard new team members
+  - Set the team's technical direction and delivery roadmap with business and technology
+    stakeholders
+  - Provide hands-on technical leadership for applied and agentic AI workflows, integrations
+    and automation pipelines
+  - Set standards for building, testing and evaluating tool-using agents with Google
+    ADK or similar frameworks, including safe tool access and human oversight
+  - Own operational performance of AI-enabled services and SaaS platforms including
+    health, releases, usage and cost
+  - Own third-party SaaS supplier relationships, service reviews and contract lifecycle
+    with procurement, legal and finance
+  - Manage spend for SaaS and AI services and inform build-versus-buy decisions
+  - Establish engineering and operational standards for secure change management,
+    documentation and governance
+  use_cases:
+  - Intelligent automation for internal business systems at a travel company
+  - Agentic AI workflows combining models, tools and business data
+  - Integrations between SaaS platforms, AI services and backend systems
+  - AI-enabled customer and colleague support platforms
+  skills:
+    genai: [Google ADK, AI Agents, Agentic Workflows, RAG, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Webhooks, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [CI/CD, Observability, Incident Management]
+    languages: []
+    domains: []
+    other: [SaaS Platform Administration]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11934115'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:02:00.364538'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

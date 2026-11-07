@@ -1,0 +1,46 @@
+company:
+  name: MarcoPolo Learning
+  stage: null
+  focus: Early childhood education content and technology
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts and agents, builds RAG (embeddings,
+      vector search, re-ranking), and evaluates LLM output quality
+      for Audrey, an AI teaching companion. This is hands-on
+      shaping of LLM behaviour, so ai-first.
+  responsibilities:
+  - Partner with the CEO on product direction, shaping priorities and buildable plans
+  - Design and build AI features end to end, including prompts, agents, and retrieval
+  - Put evaluation and testing in place so AI quality is measurable and improving
+  - Ship full-stack features across front end, back end, and cloud deployment
+  - 'Collaborate with engineers: share context, pair on problems, and help the team
+    use AI tools'
+  - Communicate progress, risks, and trade-offs early and clearly
+  - Build with privacy and safety in mind, including FERPA/COPPA alignment
+  use_cases:
+  - AI teaching companion and coach (Audrey) for early-learning educators
+  - Classroom instructional support in early childhood education
+  - Educational technology product features for teachers and young learners
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, RAG, Embeddings, LLM Evaluation]
+    ml: []
+    web: [React, Node.js]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11785593'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T13:11:33.549283'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,121 @@
+job_id: 11647267
+title: AI Software Engineer
+company: IOMETE
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About us
+
+  IOMETE is the sovereign data platform for the AI era.
+  Enterprises run our data lakehouse, built on Apache Spark
+  and Apache Iceberg, in their own trusted environment: on-
+  premises, in their own cloud, or hybrid. It is built for
+  regulated industries such as financial services, healthcare
+  and government. Customer data never leaves the customer's
+  trust perimeter, and the AI we build on it stays inside that
+  perimeter too.
+
+  Position overview
+
+  We are seeking a highly skilled and motivated AI Software
+  Engineer to join our team. We tackle a variety of exciting
+  challenges, from connecting AI tools and models to the
+  lakehouse to diagnosing Spark applications and
+  troubleshooting failures. You'll build agents that run
+  inside the customer's environment, on LLMs the customer
+  provides or, later, on custom models we train for Spark
+  tuning and troubleshooting. You'll also build the framework
+  that defines those agents and the harness that runs, limits,
+  traces and evaluates them.
+
+  The AI team
+
+  We are building the AI platform for the lakehouse —
+  Lakehouse Intelligence. The team's roadmap includes, but is
+  not limited to, the MCP Server for AI Agents, which lets AI
+  tools query the lakehouse; the Model Gateway, through which
+  IOMETE's AI features call models; agents for Spark
+  application diagnosis, troubleshooting and onboarding; and
+  SQL AI Functions, which run language models from inside a
+  query. Down the road, you'll also get to fine-tune and build
+  custom models for our platform's specific needs, small
+  enough to run inside a customer's deployment.
+
+  What you'll do
+
+  - Contribute to and maintain IOMETE's AI services, including
+    the MCP Server for AI Agents, the Model Gateway, SQL AI
+    Functions, and lakehouse-specific agents (such as Spark
+    Application Diagnosis) and their harness.
+  - Build AI enablers: extend the IOMETE lakehouse and platform
+    to support more AI-powered features, for example by making
+    Spark job logs, query history and table metadata available
+    to them.
+  - Be hands-on with Kubernetes, including the Helm charts that
+    ship our AI services into each customer's deployment.
+  - Collaborate closely with external customer engineering teams
+    to support integrations, troubleshoot complex issues and
+    provide guidance for successful adoption of our platform.
+  - Participate in design discussions about agents, model
+    access, evaluation, and overall systems architecture.
+  - Write the tests, docs and release notes for what you build.
+    A feature is done when it has shipped with all of them.
+  - Review your teammates' work and provide feedback.
+
+  What we're looking for
+
+  - 5+ years of professional experience in software engineering
+    (we’re open to exceptional candidates with less experience
+    who demonstrate deep systems knowledge and impact).
+  - Deep understanding of LLM-based systems in production – tool
+    calling, structured output, retrieval, evaluation, and how
+    they fail.
+  - Our AI features are written mostly in Python and Go. The
+    data platform is built on the JVM, in Kotlin and Java, and
+    new platform features are being built in Go. Production
+    experience with any of these languages is a big plus, but
+    we know strong engineers learn a new language fast.
+  - Familiarity with distributed systems and their challenges
+    (e.g., data consistency, fault tolerance, scheduling).
+  - Fluency in English, both written and verbal — this role
+    involves working with international customers and
+    partners.
+  - Based in a time zone that overlaps Amsterdam working hours
+    (CET/CEST).
+
+  Preferred qualifications
+
+  - Hands-on experience across the AI stack: agents and their
+    evaluation, tool protocols such as MCP, model routing and
+    serving, and fine-tuning.
+  - Prior exposure to data platforms like Snowflake, Databricks,
+    etc.
+  - Experience with Apache Spark (especially tuning Spark jobs),
+    Apache Iceberg, or contributing to open-source compute
+    engines.
+  - Hands-on experience with Kubernetes and Helm.
+
+  What we offer
+
+  - Exciting projects and challenges.
+  - Opportunity to work with cutting-edge technology.
+  - Ability to play a key role in shaping the direction,
+    culture, and architecture of a young & growing engineering
+    organization.
+  - Competitive compensation and stock options.
+
+  Hiring process
+
+  - Introduction call — 30 mins max
+  - Technical conversation (with a challenge) — 90 mins
+  - Team interview — 60 mins
+  - Offer
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Software
+  - Analytics
+posted_date: 2026-10-13
+url: "https://www.builtinla.com/job/ai-software-engineer/11647267"
+source: Built In

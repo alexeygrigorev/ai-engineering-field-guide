@@ -1,0 +1,55 @@
+company:
+  name: Intercom
+  stage: null
+  focus: AI customer service agent platform
+position:
+  title: GTM Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered agents and designs their
+      prompts, tools, guardrails, evals, and workflow quality
+      improvements — clearly shaping model behavior. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Build and ship AI agents and LLM-powered tools for Sales and Success teams (account
+    research, call prep, follow-up, renewal risk, pipeline review)
+  - 'Own the full stack: Python backends and APIs, Snowflake data models, feedback
+    pipelines, and React frontends'
+  - Instrument agents by tracing actions, tool calls, failures, and rep edits to agent
+    output
+  - Build evaluation sets, grade output with human and model graders, run regression
+    tests and production monitoring
+  - Diagnose weak results across context, data, tools, prompts and workflow design;
+    test fixes on replayed traffic
+  - Define agent autonomy boundaries and build guardrails and review steps
+  - Measure adoption and business impact via experiments and staged rollouts
+  - Enable teams through playbooks, sessions, and working with sales leaders
+  use_cases:
+  - Account research and sales call preparation
+  - Post-call follow-up drafting
+  - Renewal risk and churn signal detection
+  - Pipeline review and deal win/loss analysis
+  - Outbound research and outreach drafting
+  skills:
+    genai: [AI Agents, LLMs, Prompt Engineering, LLM Evaluation, Guardrails]
+    ml: []
+    web: [APIs, React]
+    databases: [Snowflake]
+    data: [dbt, Airflow]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, Gong, Outreach]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8879596'
+  location: Dublin, IRL
+  locations:
+  - Dublin, IRL
+  - London, GBR
+  extracted_at: '2026-11-06T15:03:38.805815'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

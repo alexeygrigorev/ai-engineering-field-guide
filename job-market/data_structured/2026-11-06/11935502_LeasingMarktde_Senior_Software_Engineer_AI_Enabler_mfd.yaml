@@ -1,0 +1,52 @@
+company:
+  name: LeasingMarkt.de
+  stage: null
+  focus: Car leasing marketplace platform in Germany
+position:
+  title: Senior Software Engineer  / AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and rolls out GenAI coding assistants and
+      AI-first workflows so other engineers ship faster, and uses
+      AI tools to accelerate its own development. It integrates
+      LLM APIs into internal tools but does not shape model
+      behavior through prompts, retrieval design, or training as a
+      core responsibility — the deliverable is developer
+      productivity and workflow enablement.
+  responsibilities:
+  - Design and develop robust, scalable applications for a large automotive leasing
+    marketplace
+  - Apply an AI-first mindset across design, coding, testing, deployment and operations
+  - Work hands-on in product codebases using GenAI tools to accelerate development
+    and improve quality
+  - Build and evolve AI-powered internal tools and workflows (coding, review, documentation,
+    testing assistants)
+  - Coach teams on effective GenAI usage and establish AI-first ways of working
+  - Run data-informed experiments with teams and turn successful approaches into standards
+    and playbooks
+  use_cases: []
+  skills:
+    genai: [Generative AI, GitHub Copilot, ChatGPT, Claude Code, Cursor, Codex, LLMs,
+      OpenAI API, Anthropic API, Azure OpenAI, Vertex AI, Guardrails]
+    ml: []
+    web: [Next.js, Spring Boot]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Observability]
+    languages: [PHP, TypeScript, Node.js, Java]
+    domains: []
+    other: [Laravel, Caching]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11935502'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  - Düsseldorf, DEU
+  extracted_at: '2026-11-06T14:02:26.102719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

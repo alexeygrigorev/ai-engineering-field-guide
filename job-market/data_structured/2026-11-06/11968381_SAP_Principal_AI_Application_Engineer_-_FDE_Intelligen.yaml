@@ -1,0 +1,54 @@
+company:
+  name: SAP
+  stage: null
+  focus: Enterprise applications and business AI software
+position:
+  title: Principal AI Application Engineer - FDE Intelligent Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns AI quality in production for deployed
+      LLM/agent solutions: drift detection, performance
+      benchmarking, guardrails validation, and retraining
+      triggers. Building guardrails and evals for LLM-based
+      systems is shaping model output quality, so it is ai-first.
+  responsibilities:
+  - Define the handover framework for transitioning FDE engagements from Value Delivery
+    to Value Operation
+  - Build monitoring, alerting, and incident response capabilities for deployed AI
+    solutions to meet contractual SLAs
+  - 'Own AI production quality: drift detection, performance benchmarking, guardrails
+    validation, and retraining triggers'
+  - Establish operational governance for production security, data boundaries, and
+    compliance across customer engagements
+  - Design a scalable operational model with tooling, automation, and partner integration
+  - Mentor engineers and set operational standards for a newly assembled team
+  - Work with the Knowledge & IP team to feed operational learnings back into the
+    delivery lifecycle
+  use_cases:
+  - Operational assurance for production LLM and agent solutions deployed at customer
+    sites
+  - Drift detection and quality monitoring for agentic AI applications
+  - Incident response and SLA compliance for deployed enterprise AI systems
+  - Production security, data boundaries, and compliance governance for AI engagements
+  skills:
+    languages: []
+    domains: []
+    web: [Application Security]
+    cloud: [Cloud Architecture]
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Output Quality Assurance, Context Engineering, Agentic Workflows, LLMs,
+      Guardrails, Evaluations and Benchmarking]
+    ops: [Observability, High Availability Engineering, Incident Management, CI/CD,
+      Monitoring]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11968381'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:13:52.107977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

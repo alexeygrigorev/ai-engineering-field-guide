@@ -1,0 +1,56 @@
+company:
+  name: Fortinet
+  stage: null
+  focus: Cybersecurity and AI security platforms
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales technical role supporting sales of an AI
+      security product. The person runs demos, POCs, architecture
+      reviews, and deployment assistance, but does not shape model
+      behavior or output quality. AI security concepts like
+      guardrails and red-teaming are knowledge requirements, not
+      build responsibilities.
+  responsibilities:
+  - Partner with AI Sales Specialist to shape and execute GTM strategy for AI Security
+    solutions across the region
+  - Enable and train regional Sales Engineers on product capabilities, roadmap, and
+    demonstration delivery
+  - Support technical discovery, architecture deep dives, and proof of concepts throughout
+    the sales cycle
+  - Assist customers with deployment of AI Security solutions in self-hosted environments
+  - Maintain demo environments, demo certifications, training materials, and performance
+    benchmarking
+  - Engage channel and reseller partners to build technical expertise for closing
+    AI Security opportunities
+  - Lead customer-facing engagements including architecture reviews, integration evaluations,
+    demos, and training
+  - Facilitate post-sales technical handovers and cultivate relationships with CTOs,
+    CISOs, and enterprise AI leaders
+  use_cases:
+  - Securing the creation and usage of AI applications
+  - AI security for homegrown AI and agentic AI tools
+  - Self-hosted deployment of AI security solutions
+  - Proof of concepts and architecture validation for AI security
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11881917'
+  location: Los Angeles, USA
+  remote: true
+  extracted_at: '2026-11-06T13:30:58.930345'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

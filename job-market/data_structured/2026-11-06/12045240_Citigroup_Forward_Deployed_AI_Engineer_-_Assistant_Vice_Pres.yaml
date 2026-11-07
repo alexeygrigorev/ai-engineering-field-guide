@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Forward Deployed AI Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent features, prompt templates, evaluation
+      testbeds, and guardrail verification for production AI
+      agents — directly shaping LLM/agent behavior and output
+      quality. Forward Deployed Engineers adapting and deploying
+      AI solutions are ai-first.
+  responsibilities:
+  - Develop agent features, prompt templates, system instructions, few-shot examples,
+    and data pre-processing scripts
+  - Build and execute automated evaluation test suites measuring task completion,
+    tool call correctness, semantic similarity, latency, and hallucination metrics
+  - Curate and maintain golden evaluation datasets, synthetic benchmarks, and edge-case
+    regression testbeds with domain experts
+  - Author automated test execution scripts in CI/CD pipelines enforcing evaluation
+    gates before rollout
+  - Validate AI guardrail policies including prompt injection defenses, toxicity filters,
+    and PII redaction
+  - Monitor agent performance metrics and generate prompt diagnostic reports for stakeholders
+  - Participate in agile pod sprints, planning, and codebase maintenance
+  - Assess risk and ensure compliance with laws, regulations, and firm policies
+  use_cases:
+  - Production AI agents that reason, plan, and execute multi-step workflows
+  - Automated evaluation of agent task completion, tool call correctness, and hallucination
+    metrics
+  - Guardrail enforcement including prompt injection defense, toxicity filtering,
+    and PII redaction
+  - Continuous testing pipelines gating agent deployment to staging and production
+  - Enterprise agent integration with security and observability
+  skills:
+    genai: [Generative AI, Prompt Engineering, LLM Evaluation, LLM-as-a-Judge, AI
+        Agents, Guardrails]
+    ml: []
+    web: [REST APIs, gRPC]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git, CI/CD, Tekton, Jenkins, GitHub Actions, Harness]
+    languages: [Python, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12045240'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:38:07.899957'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

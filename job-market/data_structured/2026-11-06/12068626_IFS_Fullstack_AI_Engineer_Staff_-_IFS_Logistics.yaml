@@ -1,0 +1,57 @@
+company:
+  name: IFS
+  stage: Billion-dollar revenue company with 7000+ employees
+  focus: AI-native enterprise logistics SaaS platform
+position:
+  title: Fullstack AI Engineer (Staff) - IFS Logistics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly decides where agents sit in each product
+      surface and designs guardrails, observability and cost
+      controls for agentic behaviour, plus RAG and evals in
+      production — shaping LLM/agent output quality and safety, so
+      ai-first. The fullstack/platform engineering is in service
+      of an agent-led product architecture.
+  responsibilities:
+  - Set technical direction and architecture for the new Experience squad, owning
+    standards and what it ships
+  - Build the cross-product experience layer unifying identity, SSO, tenancy and permissions
+    across Data Connect, TPAO, Shipper TMS and Revenue Protect
+  - Design the integration architecture between the Experience layer, IFS Intelligence,
+    IFS Cloud and other systems
+  - Define where the agent sits in each surface, with guardrails, observability and
+    cost controls for agentic behaviour
+  - Build and maintain a commercially load-bearing demo environment
+  - Work with the Product and UX Lead from the problem onwards and incorporate customer
+    feedback
+  - Stay hands-on across backend (Python/Django) and frontend (React) while reviewing
+    and raising the squad's standards
+  use_cases:
+  - AI-native enterprise logistics platform unifying transport data and automating
+    shipment execution
+  - Cross-product identity, SSO and permissions across four logistics product areas
+  - Agentic features such as agentic audit and agent-managed fulfilment rules in product
+    surfaces
+  - Carrier spend optimisation and revenue protection for enterprise shippers
+  - Commercially load-bearing demo environment for customer-facing product demonstrations
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Guardrails, LLM Evaluation, Claude Code]
+    ml: []
+    web: [Django, Django REST Framework, REST APIs, React]
+    databases: [BigQuery]
+    data: [dbt]
+    cloud: [GCP]
+    ops: [Observability, Kubernetes, Terraform, GitLab CI, Pub/Sub, Cursor]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [SSO, Jira]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12068626'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:48:43.874976'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,62 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Senior Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires GenAI/Agentic AI engineering -
+      LangGraph/LangChain, Google ADK, MCP/A2A protocols, prompt
+      engineering, RAG, and vLLM serving on an AI platform.
+      Building agentic workflows and prompt/RAG design is shaping
+      model behaviour, with LLM components clearly involved, so
+      ai-first.
+  responsibilities:
+  - Design, develop and deliver high-quality, scalable software solutions for the
+    AI platform
+  - Build enterprise-scale platform and infrastructure with distributed systems, active-active
+    and failover patterns
+  - Develop GenAI/Agentic AI capabilities using frameworks like LangGraph, LangChain,
+    or Google ADK with MCP/A2A protocols
+  - Deploy and operate workloads on AWS/EKS with Bedrock, service mesh (Istio/Envoy)
+    and GPU scheduling
+  - Implement AI safety measures including prompt injection detection, PII redaction
+    and content filtering
+  - Collaborate cross-functionally with product managers, designers and engineers
+    on solution strategy
+  - Participate in code reviews and promote code quality, secure coding and unit testing
+    practices
+  - Advise senior stakeholders and manage/mitigate risks in line with governance and
+    controls agenda
+  use_cases:
+  - Enterprise AI platform providing GenAI and agentic AI capabilities for the bank
+  - High-throughput, low-latency AI inference serving with multi-tenant GPU scheduling
+  - Secure GenAI usage in financial services with safety guardrails and compliance
+    controls
+  skills:
+    genai: [LangGraph, LangChain, Google ADK, MCP, Prompt Engineering, RAG, AI Agents,
+      Guardrails]
+    ml: []
+    web: [FastAPI]
+    databases: [Aurora]
+    data: []
+    cloud: [AWS, EKS, IAM, AWS Bedrock, CloudFormation]
+    ops: [Distributed Systems, vLLM, Kubernetes, Istio]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Envoy, Async Programming, A2A Protocol, Prompt Injection Detection, PII
+        Redaction, NIST AI RMF, MITRE ATLAS, OWASP LLM Top 10, WASM Filters, xDS API,
+      GPU Scheduling, Multi-Tenancy, Regulatory Compliance, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11906836'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru East, IND
+  extracted_at: '2026-11-06T13:56:19.072436'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

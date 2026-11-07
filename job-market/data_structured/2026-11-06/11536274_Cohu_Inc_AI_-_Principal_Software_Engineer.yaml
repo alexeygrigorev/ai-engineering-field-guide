@@ -1,0 +1,52 @@
+company:
+  name: Cohu, Inc.
+  stage: publicly traded
+  focus: Semiconductor test and handling equipment
+position:
+  title: AI - Principal Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role personally designs and ships agent tooling, RAG
+      systems, agent development patterns, and model evaluation
+      methodology, which directly shapes LLM/agent behavior and
+      output. Inference infrastructure duties exist but are
+      secondary to hands-on agent/RAG architecture, and LLM/agent
+      components are clearly involved, so the role is ai-first.
+  responsibilities:
+  - Design, build, and ship agent tooling, RAG systems, and infrastructure hands-on
+  - Set technical direction for software integration, cloud infrastructure, and on-prem
+    GPU/hardware for air-gapped LLM inference
+  - Architect reusable patterns for custom AI agent development, RAG/retrieval architecture,
+    and custom UIs
+  - 'Own Kubernetes-based infrastructure: capacity planning, scaling, cluster lifecycle,
+    incident response'
+  - Provide coaching and day-to-day prioritization for the team and serve as technical
+    escalation point
+  - Drive team standardization on AI coding agents and stay ahead of the model-serving/inference-hardware
+    landscape
+  use_cases:
+  - AI engineering platform for semiconductor test
+  - Air-gapped on-prem LLM inference
+  - AI-driven workflows for application and field engineers
+  - Custom agent tooling and RAG for semiconductor test/ATE domain
+  skills:
+    genai: [RAG, AI Agents, MCP, Agentic Workflows, Claude Code, Cursor, Codex, LLMs]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: [Kubernetes, vLLM, TensorRT, Distributed Systems]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11536274'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:07:16.996753'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

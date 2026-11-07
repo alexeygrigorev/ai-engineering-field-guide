@@ -1,0 +1,59 @@
+company:
+  name: Plum (withplum)
+  stage: null
+  focus: |-
+    Consumer money management and AI-driven financial guidance
+    app
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role establishes prompt engineering, AI guardrails, and
+      AI evaluation methodologies and builds internal AI
+      frameworks with agentic architectures, which is shaping
+      model behaviour and output quality via LLM components. Hence
+      ai-first rather than pure platform/ai-support.
+  responsibilities:
+  - Design, build, and maintain a scalable, cost-effective AI Platform supporting
+    AI initiatives across the organization
+  - Develop internal frameworks, libraries, and services used by multiple product
+    squads
+  - Establish and promote best practices around prompt engineering, AI guardrails,
+    and AI evaluation methodologies
+  - Build platform capabilities enabling teams to safely deploy, monitor, and iterate
+    on AI-powered applications
+  - Configure and maintain tracing, monitoring, observability, and incident management
+    solutions
+  - Partner with product and engineering teams to provide scalable platform solutions
+  - Improve developer experience and platform adoption across the organization
+  use_cases:
+  - AI-powered financial guidance platform
+  - Foundational AI infrastructure and tooling for organization-wide AI products
+  - Internal frameworks enabling product squads to deploy AI-powered applications
+  - AI application observability, guardrails, and evaluation
+  skills:
+    genai: [Google ADK, LangChain, LangGraph, CrewAI, Agentic Workflows, Prompt Engineering,
+      Guardrails, LLM Evaluation]
+    ml: []
+    web: [FastAPI, Microservices]
+    databases: [PostgreSQL, BigQuery, Firestore]
+    data: [RabbitMQ]
+    cloud: [GCP, AWS, Azure]
+    ops: [Terraform, Grafana, Prometheus, Langfuse, Observability, Monitoring, Infrastructure
+        as Code, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11786237'
+  location: Athens, GRC
+  locations:
+  - Athens, GRC
+  - Nicosia, CYP
+  - London, GBR
+  extracted_at: '2026-11-06T13:11:50.090670'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

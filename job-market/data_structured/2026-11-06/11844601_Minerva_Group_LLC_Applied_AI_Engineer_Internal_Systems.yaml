@@ -1,0 +1,53 @@
+company:
+  name: Minerva Group, LLC
+  stage: null
+  focus: |-
+    AI agents that automate marketer workflows and campaign
+    operations
+position:
+  title: Applied AI Engineer, Internal Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents (knowledge agent, skill library with
+      evals, guardrails, approval flows) over company systems -
+      designing agent flows, skills, permissions, and evals that
+      shape model behavior. It explicitly excludes mere API
+      consumption; they build agents themselves. Internal
+      customers make it forward-deployed-style ai-first work.
+  responsibilities:
+  - Own the company's knowledge agent over docs, Slack, calls and tickets with Slack
+    front end
+  - 'Automate internal processes: hiring, onboarding, offboarding, provisioning, vendor
+    reviews, security questionnaires, billing'
+  - 'Run the skill library: Claude skills per team with owners, evals and permissions'
+  - Own the source of truth for company information, kept findable by people and agents
+  - 'Build plumbing for operating dashboards: metrics, controls and board reporting'
+  - 'Put guardrails first: least-privilege access, human approvals, audit trails'
+  - Sit with users to identify and automate manual work
+  - Measure adoption, model spend and agent permissions; retire unused systems
+  use_cases:
+  - Internal knowledge agent answering with sources over docs, Slack, calls and tickets
+  - Automating onboarding, offboarding and access provisioning
+  - Automating customer security questionnaires and contract renewal tracking
+  - Skill library giving each team Claude with evals and permissions
+  - Operating metrics, controls and board reporting automation
+  skills:
+    genai: [Anthropic API, MCP, AI Agents, LLM Evaluation, Guardrails, LLMs]
+    ml: []
+    web: [OAuth, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Mastra, Temporal, Slack]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11844601'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:22:37.506987'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

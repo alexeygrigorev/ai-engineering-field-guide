@@ -1,0 +1,62 @@
+company:
+  name: xCures
+  stage: venture-backed
+  focus: |-
+    Healthcare data interoperability and patient record
+    intelligence
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents, skills, and automations with least-
+      privilege defaults, human approval gates, and evals for
+      agent and skill behavior, plus builds with LLM APIs
+      including tool use and evaluating output quality — this is
+      shaping LLM/agent behavior, making it ai-first. Integration
+      and connector work is secondary to the agent-building
+      responsibilities.
+  responsibilities:
+  - 'Build and own customer integrations end to end: data connectors, API-based integrations,
+    and FHIR and C-CDA data flows'
+  - Build agents, skills, and automations used daily by Customer Solutions, Customer
+    Success, and Sales
+  - Prototype proofs of concept and demo environments for prospects using synthetic
+    patient records, carried end to end with the account team
+  - Support customer onboarding and technical troubleshooting at the Customer Solutions
+    layer
+  - Join discovery calls with Sales and Channel Partnerships, answer technical questions
+    in the sales cycle, and contribute to RFP responses
+  - 'Design agents and automations to be safe by default: least privilege, human approval
+    for irreversible actions, and audit records'
+  - Write tests including evals for agent and skill behavior, and automate review,
+    testing, and deployment gates
+  - Threat-model shipped work and protect secrets and patient data following HIPAA
+    and HITRUST practices
+  use_cases:
+  - Healthcare data interoperability between diagnostic labs, health systems, and
+    the xCures platform
+  - Agentic automation of internal Customer Solutions, Success, and Sales workflows
+  - Patient record data extraction and integration with full traceability
+  - Proof-of-concept environments for prospects using synthetic patient records
+  - Automating administrative work around patient care to reduce cost and errors
+  skills:
+    genai: [LLMs, Function Calling, LLM Evaluation, AI Agents]
+    ml: []
+    web: [React, REST APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Git, CI/CD, Code Review, DevOps]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [FHIR, C-CDA, HIPAA Compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11531667'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:06:24.139086'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

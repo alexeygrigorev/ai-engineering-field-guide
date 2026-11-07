@@ -1,0 +1,55 @@
+company:
+  name: Provectus
+  stage: null
+  focus: AI consulting and delivery for enterprises
+position:
+  title: Senior Forward Deployed AI Engineer (GenAI, AWS)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role that builds and ships
+      GenAI/LLM systems at customer sites, owns eval suites for
+      non-deterministic systems, and works hands-on with Claude
+      Code, MCP, and agent workflows — directly shaping model
+      behavior and output quality. Customer-facing AI deployment
+      work is ai-first.
+  responsibilities:
+  - Embed with client teams to learn their business function from the inside, then
+    rebuild it with GenAI alongside the client and a Forward Deployed Executive
+  - Deliver Cowork Activation, Agentic SDLC, and Blueprint Activation engagements
+    in Financial Services and Healthcare
+  - Build and own eval suites for non-deterministic GenAI systems
+  - Adapt and extend industry Blueprints — pre-built working GenAI systems — to client
+    environments
+  - Build tooling and frameworks for the growing AI delivery practice
+  - 'Support pre-sales: scoping and redesign conversations with senior client stakeholders'
+  - Feed field learnings back into the Blueprint baselines
+  use_cases:
+  - Enterprise GenAI adoption in Financial Services
+  - Enterprise GenAI adoption in Healthcare
+  - Cowork/agentic AI activation for client workflows
+  - Agentic software development lifecycle (SDLC)
+  - Rebuilding business functions from first principles with AI
+  skills:
+    genai: [LLMs, Claude Code, MCP, Agentic Workflows, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, ECS, CI/CD, AWS CDK, CloudFormation, Terraform]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11941035'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-11-06T14:03:51.154760'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

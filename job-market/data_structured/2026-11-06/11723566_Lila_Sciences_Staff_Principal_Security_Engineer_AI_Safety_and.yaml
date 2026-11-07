@@ -1,0 +1,66 @@
+company:
+  name: Lila Sciences
+  stage: null
+  focus: |-
+    AI systems for autonomous scientific discovery and automated
+    laboratories
+position:
+  title: Staff / Principal Security Engineer, AI Safety and Security
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security role overseeing AI systems: the person
+      threat-models, runs adversarial tests against defenses, and
+      recommends protections, but does not shape model behavior
+      through prompts, retrieval, training, or building
+      evals/guardrails themselves. They assess and recommend
+      security requirements rather than producing the safeguards,
+      which places the role in safety/security governance of
+      models — ai-support per the edge-case rule.
+  responsibilities:
+  - Threat-model consequential systems and capabilities, identifying actors, access
+    routes and failure paths across models, deployed services and scientific workflows
+  - Test assumptions behind defenses by examining architectures, code, configurations
+    and operational evidence, and running focused adversarial tests and prototypes
+  - Turn dangerous-capability assessments into concrete security requirements for
+    safe deployment
+  - Define evidence that controls and safeguards work together and make evidence-based
+    recommendations with remaining uncertainty explained
+  - Carry findings through to practical improvements, prioritizing changes and specifying
+    acceptance criteria with Security, Safety and engineering owners
+  - Anticipate security needs of more capable systems and update assessments as systems
+    change
+  - Develop reusable threat models, assessment methods and technical guidance for
+    Safety and Security colleagues
+  use_cases:
+  - Protecting advanced AI models for scientific discovery from dangerous misuse and
+    compromise
+  - Securing automated laboratories and scientific workflows where digital access
+    has real-world consequences
+  - Protecting sensitive models, data and research assets
+  - Combining model safety evaluations with security testing to make deployment decisions
+  - Anticipating security and safety needs of increasingly capable AI systems
+  skills:
+    genai: [Safeguard Evaluation, AI Agents]
+    ml: [Adversarial Robustness]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Threat Modeling, Security Architecture, Application Security, Infrastructure
+        Security, Offensive Security, Incident Response, Risk Assessment]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11723566'
+  location: Cambridge, USA
+  locations:
+  - Cambridge, USA
+  - San Francisco, USA
+  - London, GBR
+  extracted_at: '2026-11-06T12:43:06.170977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

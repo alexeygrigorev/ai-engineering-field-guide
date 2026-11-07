@@ -1,0 +1,53 @@
+company:
+  name: Ciena
+  stage: null
+  focus: Optical networking and high-speed connectivity technology
+position:
+  title: AI Engineer-Cyber Security Transformation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG solutions, builds agents/copilots,
+      creates MCP integrations, and applies prompt
+      engineering—directly shaping LLM behavior and outputs,
+      making it ai-first.
+  responsibilities:
+  - Design, build, and operationalize AI-powered applications, copilots, and autonomous
+    agents for cybersecurity use cases
+  - Develop RAG solutions leveraging enterprise knowledge sources and security data
+  - Create MCP-enabled integrations connecting AI agents with security tools, workflows,
+    and enterprise platforms
+  - Build secure and scalable AI services using modern software engineering and DevOps
+    practices
+  - Enhance self-hosted AI infrastructure, model serving platforms, and AI observability
+    capabilities
+  - Develop security automation workflows improving analyst productivity
+  - Partner with Security Operations, Risk, Product Security, Vulnerability Management,
+    and Threat Intelligence teams
+  use_cases:
+  - AI-powered cybersecurity copilots and autonomous agents
+  - Security knowledge retrieval over enterprise and security data
+  - Security automation workflows for analyst productivity
+  - MCP integrations connecting AI agents with security tooling
+  - Secure self-hosted AI infrastructure for enterprise security
+  skills:
+    genai: [RAG, Prompt Engineering, LLMs, AI Agents, MCP, Agentic Workflows, Multi-Agent
+        Systems, Semantic Search]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Model Deployment, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886068'
+  location: Gurugram, IND
+  remote: true
+  extracted_at: '2026-11-06T13:36:21.276652'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: PairSoft
+  stage: null
+  focus: Procure-to-pay and accounts payable automation software
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG-as-a-service (chunking, embedding,
+      retrieval), prompt engineering at scale, guardrails,
+      evals/LLM-as-judge, and fine-tuning/RLHF pipelines — all
+      directly shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Build and operate central AI platform services with API contracts, versioning,
+    and SLOs
+  - 'Build RAG-as-a-service: ingestion, chunking, embedding, retrieval quality, hybrid
+    search'
+  - Design prompt registry with templating, evaluation, versioning, and per-tenant
+    customization
+  - 'Build guardrails and content safety: input filtering, output validation, PII
+    redaction, tool-use sandboxing'
+  - Own multi-provider model gateway with routing, fallback, retry, and rate-limiting
+  - 'Build observability and evaluation infrastructure: tracing, cost per request,
+    LLM-as-judge, drift detection'
+  - Onboard product teams onto the platform and provide integration support
+  - Own on-call, runbooks, alerting, and AI security posture (PII, tenant isolation,
+    prompt injection defense)
+  use_cases:
+  - Central AI platform serving all product lines (model gateway, RAG-as-a-service)
+  - RAG-based document retrieval for procure-to-pay / ERP product features
+  - Agent workflows with tool use moving into production
+  - Domain-specific fine-tuning and quality benchmarking
+  - Multi-tenant AI services with cost attribution and quality monitoring
+  skills:
+    genai: [RAG, Prompt Engineering, LLMs, OpenAI API, Anthropic API, LangChain, LlamaIndex,
+      Embeddings, Hybrid Search, Guardrails, Fine-Tuning, RLHF, LLM Evaluation, Agentic
+        Workflows, LangGraph, AutoGen, CrewAI, Vector Databases]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Kubernetes, Terraform, CI/CD, MLOps, LLMOps, LangSmith, Langfuse, Monitoring,
+      Model Deployment, Observability, Service Mesh]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886917'
+  location: Ahmedabad, IND
+  extracted_at: '2026-11-06T13:38:05.145069'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

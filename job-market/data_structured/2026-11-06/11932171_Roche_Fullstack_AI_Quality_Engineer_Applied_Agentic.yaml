@@ -1,0 +1,61 @@
+company:
+  name: Roche
+  stage: null
+  focus: Pharmaceuticals and healthcare innovation
+position:
+  title: Fullstack AI Quality Engineer – Applied & Agentic AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI evaluation harnesses
+      (RAGAS, DeepEval, Promptfoo), evaluates LLM responses, RAG
+      accuracy, agentic tool-use behavior, and bias/fairness of
+      model outputs. Judging model output quality and building
+      evals is shaping behavior, and LLMs are the target, so ai-
+      first.
+  responsibilities:
+  - Design and implement testing strategies for LLM-based applications and agentic
+    systems, including response evaluation, RAG accuracy, and multi-agent/tool-use
+    behavior
+  - Build automated test suites spanning UI/API/MCP integration, performance, and
+    specialized AI behavior tests across Python and TypeScript stacks
+  - Maintain quality assurance frameworks and test documentation covering output consistency,
+    contextual accuracy, and ethical compliance in a regulated environment
+  - Identify and test edge cases in LLM behavior including ambiguous inputs, bias,
+    and fairness across user groups
+  - Test AI-specific security concerns such as prompt injection and data leakage
+  - Conduct performance testing of GenAI applications including response time, load,
+    and resource utilization
+  - Curate and version golden datasets for benchmarking model responses in development
+    and production
+  - Integrate automated evaluation suites into CI/CD pipelines and use tracing/observability
+    to monitor drift and user feedback
+  use_cases:
+  - Quality assurance for LLM-based and agentic AI applications in healthcare
+  - Evaluation of RAG pipeline accuracy and LLM response reliability
+  - Bias, fairness, and edge-case testing of model outputs for clinical and enterprise
+    users
+  - Security testing of LLM applications including prompt injection and data leakage
+  - Production monitoring and drift detection for GenAI applications in a regulated
+    (GxP/CSV) environment
+  skills:
+    genai: [LLMs, RAG, Generative AI, Agentic Workflows, AI Agents, MCP, LLM Evaluation,
+      RAGAS, DeepEval, Promptfoo, Prompt Engineering, Claude Code]
+    ml: [Machine Learning, Model Evaluation, NLP]
+    web: [APIs, React, Angular, Playwright, Jest, Cypress]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, GitHub Actions, LangSmith, Arize Phoenix, Grafana, Code Review, Jira,
+      GitHub]
+    languages: [Python, TypeScript, pytest]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11932171'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:01:10.362237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

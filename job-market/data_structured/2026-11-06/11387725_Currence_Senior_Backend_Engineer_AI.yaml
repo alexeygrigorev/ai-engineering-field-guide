@@ -1,0 +1,50 @@
+company:
+  name: Currence
+  stage: null
+  focus: AI-native energy market intelligence and data engine
+position:
+  title: Senior Backend Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, evaluates, and deploys agentic
+      workflows, retrieval strategies, RAG pipelines, and agent
+      evals — directly shaping LLM/agent behaviour, so it's ai-
+      first.
+  responsibilities:
+  - Design, build, evaluate and deploy automations for agentic workflows, retrieval
+    strategies, and LLM-powered data pipelines
+  - Create evals for multi-step agent workflows
+  - Add proactive intelligence inside data pipelines from ingestion to consumption
+  - Create interfaces that make agent behavior easier to inspect, steer, and trust
+    by internal users
+  - Work closely with product, research and commercial teams to define quality standards
+  - Take ownership of the codebase, balancing code quality, security and speed of
+    development
+  - Own and drive forward PoCs and solve broad technical challenges
+  use_cases:
+  - Energy market intelligence platform
+  - Agentic workflow automations and retrieval
+  - LLM-powered data pipelines from ingestion to consumption
+  - Multi-step agent workflow evaluation
+  - Internal tools for inspecting and steering agent behavior
+  - Investment decision insights from data engine
+  skills:
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    web: [React]
+    cloud: [AWS]
+    data: [Dagster, Iceberg, Data Pipelines]
+    ml: [Model Training]
+    databases: [PostgreSQL, Elasticsearch]
+    genai: [Agentic Workflows, RAG, LLMs, MCP]
+    ops: [Kubernetes, Performance Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11387725'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:39:21.513334'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

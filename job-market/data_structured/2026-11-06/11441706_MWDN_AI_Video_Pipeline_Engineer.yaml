@@ -1,0 +1,53 @@
+company:
+  name: MWDN
+  stage: null
+  focus: |-
+    IT outstaffing connecting tech talent with international
+    clients
+position:
+  title: AI Video Pipeline Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds pipelines integrating image, video, TTS, and
+      talking-head generation models, selecting models by quality
+      and cost, and training LoRAs — these are generative
+      image/video/audio models driven by training and evaluation,
+      not LLM shaping via prompts/retrieval/agents, so Step 2
+      gives ml-first.
+  responsibilities:
+  - Build modular, config-driven workflows covering scripts, hooks, avatars or LoRAs,
+    voices, music, UI assets, and aspect ratios
+  - Integrate the fal Queue API to manage jobs, rate limits, webhooks, and retries
+  - Make runs resumable so failures do not trigger duplicate generation costs
+  - Fetch and cache UI assets and use FFmpeg to assemble clips, add subtitles and
+    CTAs, sync talking-head audio, and mix sound
+  - Produce video ads in 9:16 and 1:1 formats
+  - Document the pipeline and provide configuration examples that the marketing team
+    can use without writing code
+  use_cases:
+  - Automated generation of video ads and marketing creatives
+  - Variation generation by swapping avatars, scripts, voices, and creative assets
+  - Talking-head video production with synced audio and subtitles
+  - Mobile user acquisition creatives in 9:16 and 1:1 formats
+  - Scalable, resumable AI video production for marketing teams
+  skills:
+    languages: [Python, TypeScript]
+    domains: []
+    web: [APIs, Webhooks]
+    cloud: []
+    data: []
+    ml: [Diffusion Models, Model Evaluation]
+    databases: []
+    genai: [Generative AI, fal.ai, ComfyUI, LoRA, Fine-Tuning]
+    ops: []
+    other: [FFmpeg]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11441706'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T11:51:27.375383'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

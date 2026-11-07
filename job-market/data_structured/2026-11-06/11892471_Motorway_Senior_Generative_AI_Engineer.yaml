@@ -1,0 +1,50 @@
+company:
+  name: Motorway
+  stage: Series C (raised £143 million)
+  focus: |-
+    UK online car-selling marketplace connecting sellers and
+    dealers
+position:
+  title: Senior Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behaviour directly: prompting,
+      retrieval/RAG design, agent design, evals, guardrails, and
+      monitoring for LLM-powered features. This is squarely ai-
+      first.
+  responsibilities:
+  - Own AI features end to end from ambiguous problem to reliable production system
+  - Build retrieval and data foundations, treating retrieval quality as a first-class
+    engineering problem
+  - Design evaluation, monitoring and guardrails that make quality, reliability and
+    safety measurable
+  - Build AI applications and agents using LLMs, orchestration, APIs and data systems
+  - Make trade-off decisions on models, cost and latency and document the reasoning
+  - Prototype quickly and harden reusable patterns into team-wide components
+  - Raise team quality through code review, design feedback and standards
+  - Represent technical decisions to product managers and stakeholders
+  use_cases:
+  - Agentic workflows in the car-selling customer journey
+  - LLM-powered tooling for the dealer network
+  - AI features for an online car marketplace connecting sellers and dealers
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Agentic Workflows, Function
+        Calling, Structured Outputs, LLM Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [MLOps, CI/CD, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892471'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:44:28.746820'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

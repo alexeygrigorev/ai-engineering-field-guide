@@ -1,0 +1,57 @@
+company:
+  name: Building Service 32BJ Benefit Funds
+  stage: null
+  focus: |-
+    Administers health, pension, and benefits funds for SEIU
+    32BJ members
+position:
+  title: Associate AI Solutions Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and improves agents and AI-assisted
+      workflows, configures coding agents/subagents, and tests
+      whether agent/LLL outputs are useful, accurate, and
+      consistent - shaping AI behavior without training models
+      from scratch. Agents/LLM components are explicitly involved,
+      so it is ai-first.
+  responsibilities:
+  - Build and improve small applications, agents, and AI-assisted workflows supporting
+    member experiences and internal operations
+  - Write and debug Python scripts and application features that process data, automate
+    tasks, and connect APIs, models, and business tools
+  - Use approved AI coding assistants (GitHub Copilot, Claude Code, Genie Code, Codex)
+    to draft, refine, and test code, and configure coding agents or subagents
+  - Review and validate AI-generated work before submitting it
+  - Build and test prototypes and updates to existing solutions, seeking approval
+    for design, security, or production changes
+  - Test workflows with representative questions and tasks, record result quality,
+    investigate failures, and implement improvements
+  - Use GitHub and Azure DevOps for version control, testing, documentation, and code
+    review
+  - Collaborate with data scientists, data engineers, business partners, IT, and security
+    colleagues on data sources and privacy requirements
+  use_cases:
+  - Applications and workflows supporting clearer member benefit experiences
+  - Internal operations automation for benefit fund administration
+  - AI-assisted software development and testing workflows
+  - Data processing and connecting business tools and data sources
+  skills:
+    genai: [LLMs, AI Agents, Claude Code, Codex]
+    ml: [Machine Learning]
+    web: [APIs, JSON]
+    databases: [Snowflake, SQL]
+    data: [Databricks]
+    cloud: [Microsoft Fabric, Azure, AWS]
+    ops: [GitHub Copilot, GitHub, Azure DevOps, Git]
+    languages: [Python]
+    domains: []
+    other: [Visual Studio Code, PyCharm, Dynamics 365]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11761483'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:47:01.235163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

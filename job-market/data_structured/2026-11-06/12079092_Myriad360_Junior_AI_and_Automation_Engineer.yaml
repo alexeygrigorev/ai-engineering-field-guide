@@ -1,0 +1,55 @@
+company:
+  name: Myriad360
+  stage: null
+  focus: Technology consulting and AI automation services
+position:
+  title: Junior AI and Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures and refines GPTs, AI agents, prompts,
+      and tools, and tests retrieval results for AI applications,
+      which directly shapes LLM behavior and output quality.
+      Although junior and guided, these responsibilities meet the
+      shaping criteria for LLM-based systems, making it ai-first.
+  responsibilities:
+  - Build and update workflow automations, scripts, and integrations using established
+    designs and standards
+  - Configure and refine GPTs, AI agents, prompts, and tools with guidance from the
+    team
+  - Connect applications through approved connectors, APIs, and webhooks and assist
+    with data preparation
+  - Prepare internal knowledge sources and test retrieval results for AI applications
+  - Test solutions, document results, support UAT, and incorporate stakeholder feedback
+  - Monitor existing automations, investigate failures, and resolve routine issues
+  - Document workflow logic, configurations, dependencies, and support procedures
+  - Participate in discovery sessions, capture requirements, and share progress with
+    the team
+  use_cases:
+  - Internal workflow automation to reduce manual effort
+  - GPTs and AI agents for internal business operations
+  - AI applications with retrieval over internal knowledge sources
+  - Application integrations across Microsoft 365 environment
+  - Business process automations using Power Automate, StackAI, and Zapier
+  skills:
+    genai: [Prompt Engineering, Generative AI, AI Agents, ChatGPT, RAG, MCP, Copilot
+        Studio]
+    ml: []
+    web: [APIs, JSON, Webhooks]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Git]
+    languages: [Python, JavaScript, TypeScript, PowerShell]
+    domains: []
+    other: [Power Automate, Zapier, StackAI, Microsoft 365, SharePoint, Microsoft
+        Graph]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12079092'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:50:59.824477'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

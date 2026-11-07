@@ -1,0 +1,52 @@
+company:
+  name: Doctolib
+  stage: null
+  focus: Digital healthcare platform for professionals and patients
+position:
+  title: Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour: leads design of agentic
+      solutions, standardizes ML/LLM evaluation frameworks, prompt
+      versioning, guardrails, and LLM fine-tuning and evaluation
+      are named expertise areas. With LLM/agent components
+      central, this is ai-first. Principal IC role, no direct
+      reports mentioned.
+  responsibilities:
+  - Own cross-team ML architecture decisions including model selection, deployment
+    patterns, and build vs. buy strategy
+  - Define and drive adoption of rigorous evaluation frameworks for model and agentic
+    performance across all AI teams
+  - 'Establish shared production infrastructure patterns for AI: model and prompt
+    versioning, guardrails, uncertainty quantification, cost optimization, and observability'
+  - Lead technical design of agentic solutions that product teams build on
+  - Elevate technical standards across the DS & AI org through architecture reviews
+    and technical guidance
+  - Partner with Product, Legal, and Compliance for safe, EU-regulation-compliant
+    AI rollout
+  use_cases:
+  - Clinical NLP for healthcare applications
+  - AI phone assistant and automatic speech recognition
+  - Productivity AI for healthcare professionals
+  - Agentic AI solutions across healthcare product teams
+  - RAG systems for medical information
+  skills:
+    languages: [Python, TypeScript, Java, Kotlin, Swift]
+    domains: [NLP]
+    web: [React Native, Ruby on Rails]
+    cloud: [AWS, GCP]
+    data: []
+    ml: [Fine-Tuning, Reinforcement Learning, PyTorch, Transformers, Model Evaluation]
+    databases: []
+    genai: [LLM Evaluation, RAG, Prompt Engineering, Guardrails]
+    ops: [vLLM]
+    other: [GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9552133'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T15:05:06.340048'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

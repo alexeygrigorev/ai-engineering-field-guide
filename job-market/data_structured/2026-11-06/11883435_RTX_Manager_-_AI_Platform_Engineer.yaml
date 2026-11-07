@@ -1,0 +1,63 @@
+company:
+  name: RTX
+  stage: null
+  focus: Aerospace and defense systems and technology
+position:
+  title: Manager - AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the AI platform (gateways,
+      model serving, agent runtimes, observability, security
+      patterns) that other teams consume; it does not shape model
+      behavior through prompts, retrieval design, or training.
+      Building AI evaluation infrastructure and lifecycle tooling
+      is plumbing capacity, not judging or tuning model output.
+  responsibilities:
+  - Design and own scalable backend services, APIs, and microservices supporting enterprise
+    AI applications, models, and agents
+  - Lead integration of AI platform capabilities including AI gateways, model routing,
+    agent runtimes, model serving, and retrieval services
+  - Design secure platform patterns for agent and application identity, authentication,
+    authorization, secrets, and tool access
+  - Define deployment patterns across environments using containers, Kubernetes, CI/CD,
+    and infrastructure-as-code
+  - Establish observability and reliability capabilities including logging, metrics,
+    tracing, monitoring, and AI workload cost visibility
+  - Build reusable capabilities for AI evaluation, model/agent lifecycle management,
+    versioning, and MLOps
+  - Drive technical decisions for scalability, availability, security, and performance
+    across cloud, hybrid, and restricted environments
+  - Partner with AI architecture, security, data, and product teams and mentor engineers
+  use_cases:
+  - Enterprise AI platform enabling generative AI, ML, and agentic solutions across
+    a global aerospace and defense company
+  - Secure model access, routing, and serving for enterprise AI applications
+  - Agent lifecycle management including registration, tool execution, identity, and
+    permissions
+  - AI evaluation and observability including execution telemetry and cost visibility
+  - Deployment of AI workloads across cloud, hybrid, on-premises, and restricted environments
+  skills:
+    genai: [MCP, AI Agents, Agentic Workflows]
+    ml: []
+    web: [APIs, Microservices, REST APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, MLOps, Monitoring, Observability,
+      Distributed Systems, Model Deployment, Event-Driven Architecture]
+    languages: [Python, Java, Go, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11883435'
+  location: The Village, USA
+  locations:
+  - The Village, USA
+  - Bengaluru, IND
+  - Yelahanka, IND
+  extracted_at: '2026-11-06T13:31:14.275262'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

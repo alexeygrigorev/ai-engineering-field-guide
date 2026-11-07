@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services enterprise operations
+position:
+  title: Senior Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered agentic systems, RAG
+      architectures, and guardrails in production, which is
+      directly shaping model behavior. LLM/agent work dominates,
+      so ai-first.
+  responsibilities:
+  - Design and implement intelligent agents that automate complex enterprise workflows
+  - Build production Generative AI and LLM-powered applications primarily in Python
+  - Deploy and manage applications in OpenShift container environments
+  - Design data layers optimized for AI/ML and RAG workloads
+  - Uphold engineering best practices including testing, code reviews, documentation,
+    and CI/CD
+  - Research new Generative AI models, techniques, and frameworks
+  - Implement guardrails and responsible AI considerations into AI solutions
+  - Mentor others and contribute to applied engineering and research initiatives
+  use_cases:
+  - Automation of critical enterprise business processes
+  - Enterprise workflow orchestration via intelligent agents
+  - Operational risk reduction at global scale
+  - Enterprise operational efficiency through Generative AI
+  skills:
+    genai: [Generative AI, LLMs, RAG, LangChain, LangGraph, Google ADK, Agentic Workflows,
+      Guardrails, Transformers]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, OpenShift, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10892821'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:22:29.785557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

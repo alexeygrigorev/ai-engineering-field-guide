@@ -1,0 +1,50 @@
+company:
+  name: CIRCL Technologies
+  stage: null
+  focus: |-
+    IoT, enterprise workflows, and AI for global logistics and
+    energy
+position:
+  title: Full-Stack Developer (AI-Augmented)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack developer role where AI tools (Copilot,
+      Cursor, Claude) are used to speed up coding; the deliverable
+      is product code, not model behaviour. There is no mention of
+      the person designing prompts, retrieval, agent flows, or
+      evals themselves — LLM tools are listed in the stack
+      generically as automation aids, making this ai-support.
+  responsibilities:
+  - Build and maintain full-stack applications using React, Golang, and Node.js
+  - Use AI tools like GitHub Copilot, Cursor, and Claude to enhance development speed
+    and quality
+  - Collaborate with product and design to deliver customer-centric end-to-end solutions
+  - Contribute to deployment and DevOps strategies including containerization, CI/CD,
+    and cloud infrastructure
+  - Own work from idea to release, deploying often and iterating fast
+  - Improve system scalability, maintainability, and product processes
+  use_cases:
+  - Optimizing last-mile delivery and logistics workflows
+  - Energy consumption management systems
+  - Customer-facing product experiences for IoT and enterprise workflows
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, LLMs]
+    ml: []
+    web: [React, Node.js, Next.js, GraphQL, REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [GitHub Copilot, Cursor, Docker, GitHub Actions, Kubernetes]
+    languages: [Go, Python, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12057538'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:43:38.706874'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

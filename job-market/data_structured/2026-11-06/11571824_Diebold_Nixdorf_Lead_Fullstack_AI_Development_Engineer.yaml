@@ -1,0 +1,54 @@
+company:
+  name: Diebold Nixdorf
+  stage: null
+  focus: Self-service commerce and banking technology solutions
+position:
+  title: Lead Fullstack AI Development Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements RAG pipelines, multi-agent
+      orchestration, prompt engineering pipelines, and LLM
+      integration directly — clearly shaping model behaviour and
+      LLM-driven systems, so ai-first. Technical lead role without
+      direct-report management evidence.
+  responsibilities:
+  - Lead system design and full-stack development of production-grade AI applications,
+    front-end interfaces, and microservices
+  - Architect scalable APIs and orchestration layers connecting business logic with
+    LLMs, agentic workflows, and predictive systems
+  - Build high-performance web front-ends with real-time streaming of LLM token responses
+  - Implement and optimize enterprise-scale RAG, multi-agent orchestration, and prompt
+    engineering pipelines
+  - Manage vector databases with efficient indexing, caching, and query optimization
+    for sub-second responses
+  - Establish engineering standards for code quality, code reviews, automated testing,
+    and CI/CD build systems
+  - Troubleshoot and resolve escalated production and integration issues and recommend
+    architecture scaling improvements
+  use_cases:
+  - Enterprise-grade AI product applications
+  - Streaming LLM-powered conversational interfaces
+  - Retrieval-augmented generation with vector search for knowledge access
+  - Multi-agent orchestration for business automation
+  - Predictive systems integrated with core business logic
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Prompt Engineering, LangChain, LlamaIndex,
+      AutoGen, CrewAI]
+    ml: [PyTorch, TensorFlow]
+    web: [React, Next.js, TypeScript, REST APIs, GraphQL, WebSockets, Microservices]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, GitHub Actions, GitLab CI, Jenkins, Distributed Systems]
+    languages: [Python, Java, Go, HTML, CSS]
+    domains: []
+    other: [Redux, Zustand, Tailwind CSS, Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11571824'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:13:38.599156'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Granicus LLC
+  stage: null
+  focus: Govtech cloud software connecting governments and residents
+position:
+  title: Software Engineer 4 - AI Native
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer directs autonomous coding agents on production
+      work, authors prompts and evaluation suites that define
+      agent output quality, and remediates degraded
+      prompt/pipeline patterns — this is shaping agent behaviour
+      and output quality, with a clear LLM/agent component. It
+      goes beyond merely using AI tooling, which the description
+      itself distinguishes.
+  responsibilities:
+  - Direct an array of autonomous coding agents on production workstreams, decomposing
+    problems into agent-executable tasks and integrating output
+  - Review agent-generated pull requests at volume and depth, catching correctness,
+    security, and accessibility defects
+  - Author and own evaluation suites that make agent output quality measurable, practicing
+    eval-driven development
+  - Own end-to-end quality of shipped software including performance, security posture,
+    and WCAG accessibility
+  - Advance workstreams along the autonomy ladder based on measured reliability evidence
+  - Identify and remediate degrading prompt and pipeline patterns in collaboration
+    with the lead architect
+  - 'Maintain agent operations within security boundaries: branch-only execution,
+    vaulted credentials, sandboxed actions, in-VPC inference'
+  - Mentor engineers transitioning to agent-directed delivery
+  use_cases:
+  - Autonomous agent-driven software development lifecycle for govtech products
+  - High-volume automated pull-request generation and review pipelines
+  - Evaluation-driven validation of agent-generated code in a regulated government
+    cloud environment
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [FedRAMP, NIST 800-53, SOC 2, WCAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11373728'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:37:54.304784'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

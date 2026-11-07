@@ -1,0 +1,57 @@
+company:
+  name: Umbrella Incorporated
+  stage: null
+  focus: |-
+    Digital transformation consulting: strategy, data, AI,
+    cloud, security
+position:
+  title: Solution Engineer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI solutions themselves:
+      prompt design, RAG, agent frameworks, and knowledge
+      assistants, and monitors/tunes output quality. This is
+      client-facing advisory plus hands-on delivery of LLM
+      systems, so ai-first.
+  responsibilities:
+  - Lead discovery sessions with business and technical stakeholders
+  - Identify and prioritize automation opportunities and assess data, systems and
+    security readiness
+  - Build demos and POCs and support solution scoping
+  - Design, build and support AI-powered workflows and integrations across ERP, CRM,
+    e-commerce and Microsoft 365
+  - Deliver document processing solutions for invoices, POs, shipping documents and
+    contracts
+  - Build secure knowledge assistants grounded in client content with human review,
+    audit trails and security controls
+  - Convert recurring client needs into packaged services, reusable accelerators and
+    reference architectures
+  - Monitor production solutions for accuracy, usage and cost; tune and improve solutions
+  use_cases:
+  - Document processing for invoices, purchase orders, shipping documents and contracts
+  - Secure knowledge assistants grounded in client content
+  - AI-powered automation workflows integrated with ERP, CRM, e-commerce and Microsoft
+    365
+  - Business process automation advisory and solutioning for clients
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Azure OpenAI, Prompt Engineering, RAG,
+      AI Agents, Claude Code, Copilot Studio]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Azure AI Document Intelligence]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Power Automate, n8n, Document AI, PIPEDA Compliance, Law 25 Compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11505181'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:02:27.124839'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

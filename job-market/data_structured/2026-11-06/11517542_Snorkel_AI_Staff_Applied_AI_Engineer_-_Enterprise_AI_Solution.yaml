@@ -1,0 +1,59 @@
+company:
+  name: Snorkel AI
+  stage: null
+  focus: AI data development platform for enterprise AI
+position:
+  title: Staff Applied AI Engineer - Enterprise AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG, fine-tuning pipelines,
+      prompt engineering recipes, agentic workflows, and
+      evaluation workflows for customers — directly shaping model
+      behaviour and output quality. LLM/agent components are
+      central, so it is ai-first. It is also customer-facing
+      deployment work.
+  responsibilities:
+  - Partner with customers to scope use cases, explore data, develop models, and deploy
+    Gen AI and ML solutions
+  - Develop AI systems including RAG, fine-tuning pipelines, prompt engineering recipes,
+    and agentic workflows
+  - Create augmented datasets and evaluation workflows to ensure model reliability
+    and transparency
+  - Manage relationships with customer leadership and stakeholders throughout AI project
+    delivery
+  - Collaborate with pre-sales Solutions and Product teams to map customer needs and
+    prioritize roadmap gaps
+  - Standardize solutions into reusable recipes, workflows, and internal tooling
+  - Educate stakeholders and run enablement workshops on AI capabilities
+  - Serve as voice of the customer to product teams for new AI paradigms
+  use_cases:
+  - Customer-specific Gen AI and ML solution delivery
+  - Retrieval-augmented generation and agentic workflow systems
+  - Fine-tuning pipelines and prompt engineering solutions
+  - Synthetic dataset curation and model evaluation
+  - Enterprise AI enablement and stakeholder education
+  skills:
+    genai: [RAG, Fine-Tuning, Prompt Engineering, Agentic Workflows, LlamaIndex, LangGraph,
+      CrewAI, LLM Evaluation, Embeddings]
+    ml: [scikit-learn, PyTorch, Hugging Face, Transformers]
+    web: [FastAPI]
+    databases: [FAISS, Chroma, Weaviate]
+    data: [Pandas, Spark, Ray, Airflow]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Pydantic, pytest, mypy, Poetry, msgspec]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11517542'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T12:04:20.924656'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

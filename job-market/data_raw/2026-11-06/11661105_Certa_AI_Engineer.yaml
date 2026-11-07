@@ -1,0 +1,164 @@
+job_id: 11661105
+title: AI Engineer
+company: Certa
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 265 Employees
+description: |
+  Certa (certa.ai) is an AI-native third-party risk management
+  platform that unifies the full third-party lifecycle, from
+  onboarding through continuous monitoring and offboarding.
+  Enterprises from the Fortune 500 to fast-growing startups
+  use our no-code platform to manage vendors, suppliers, and
+  partners across risk, compliance, and ESG. Trusted by
+  Honeywell, Uber, MARS, and Boeing, we’ve processed over 10
+  million entities for 100,000+ users across 120+ countries.
+
+  At Certa, AI agents do real work for enterprise risk and
+  procurement teams: Studio designs workflows, Data Agent
+  answers questions over customer data, and Risk Agent
+  assesses third parties. The model is the same one everyone
+  can buy - the harness is what makes ours do the job
+  reliably, safely, and cheaply, and you’ll own that harness.
+  This isn’t a “build AI features” role: you own an agent end
+  to end and you’re measured on whether it does the task -
+  success rate, latency, cost per task, and what customers
+  stop doing by hand. It’s a small team with high ownership,
+  where you’ll work directly with PMs, design, and customers,
+  and be trusted to make the call.
+
+  What You’ll Do
+
+  - Own the agent loop: Step control, planning, retries, error
+    feedback, subagents, and parallel tool calls for long,
+    multi-step tasks.
+  - Design tools & actions: Build the tools, MCP servers, and
+    skills our agents use - narrow, well-described,
+    permissioned, and safe to call against customer data.
+  - Engineer context: Decide what the model sees on every step -
+    compaction, memory, retrieval-as-a-tool, and how agents
+    read large enterprise records without drowning.
+  - Build evals that gate every change: Golden sets, regression
+    suites, and trace-based scoring wired into CI, so no
+    prompt, model, or harness change ships blind.
+  - Own model choices & the runtime: Route across models on
+    capability, latency, and cost, running new model launches
+    through the eval suite and re-tuning the harness when the
+    frontier moves, with durable sessions, sandboxed
+    execution, nested-trace observability, token budgets, and
+    graceful fallbacks for multi-tenant enterprise customers.
+  - Own the backend systems: Design services end to end (data
+    model, APIs, storage choice, failure modes), build async
+    pipelines (queues, workers, retries, idempotency,
+    backpressure), and make them fast and cheap at scale
+    (caching, batching, indexing, p95/p99 latency budgets) on
+    multi-tenant AWS with isolation, least-privilege access,
+    PII handling, and audit trails.
+  - Own it in production: Write the design doc, weigh the trade-
+    offs, defend them in review, and own the service in
+    production.
+
+  What Success Looks Like
+
+  - Day 30 - Backend: Own one Studio backend service end to end
+    and ship a production change (a new API, a pipeline fix,
+    or a performance improvement) with a measurable result,
+    such as a lower p95 latency or error rate, and join its
+    on-call rotation.
+  - Day 60 - Fix: Find the top failure mode of an existing agent
+    from its traces and ship a fix that lifts its task success
+    rate by a measurable amount on our eval set (target: +10
+    points).
+  - Day 90 - Build: Ship one new agent capability or backend
+    service you designed from scratch, live with at least one
+    customer, with a written design doc and a target metric
+    you set and hit.
+
+  What You’ll Need
+
+  - Backend & system design: 3+ years building production
+    backend systems with strong system design - you’ve
+    designed and scaled services under real load, picked the
+    data stores, modeled the data, and handled async
+    processing, queues, caching, idempotency, and failure in
+    production. Python preferred.
+  - Shipped an agent: You’ve shipped at least one LLM agent to
+    real users and can explain its loop, its tools, its
+    failure modes, and the numbers that showed it worked.
+  - Evals that change decisions: You’ve built evals that changed
+    a decision - you killed, shipped, or reworked something
+    because the eval said so.
+  - Context & tool design instincts: Strong instincts for
+    context and tool design, able to say why an agent failed
+    by reading its trace.
+  - Works with coding agents: You use coding agents (Claude
+    Code, Codex, Cursor) as a core part of how you work, and
+    have opinions about what makes a harness good.
+  - Owns outcomes: A record of owning outcomes - you pick the
+    metric, move it, and report honestly when it doesn’t move.
+  - Nice to have: Built or contributed to an agent harness,
+    framework, or orchestration layer (open source counts);
+    enterprise B2B in a regulated domain (PII, audit trails,
+    permissions, SOC 2); founder or founding-engineer
+    experience; and any framework (LangGraph, Agent SDKs, Deep
+    Agents) or none - we care about the judgment, not the
+    library.
+
+  Compensation and Benefits
+
+  - Compensation: Top of market salary + bonuses and equity
+  - Time off: 49 days paid time off
+  - Benefits: PTO, full benefits, retirement and wellness plans
+  - Growth: Professional development support, remote workspace
+    setup bonus
+  - Team building: Annual company offsites in exciting locations
+    around the world
+
+  Location
+
+  Certa is a remote-first company and we hire globally. We
+  believe strongly in each team member working from the
+  location that they choose. Should Certers wish to meet and
+  work in person, they have 3 lively office locations they can
+  travel to:
+
+  - London
+  - San Francisco
+  - Jaipur
+
+  The perfect place for Certers to collaborate, co-work, and
+  have face-to-face meetings.
+
+  Why Certa
+
+  - Category leadership. Certa was named a Leader in the
+    inaugural 2026 Gartner Magic Quadrant for Third-Party Risk
+    Management Tools - recognition that we’re defining the
+    category, not following it.
+  - Industry recognition. We’ve been honored across the analyst
+    and awards landscape, including Top Tech and Customer
+    Value distinctions in The Hackett Group’s 2026 Risk
+    Management SolutionMap, the ProcureTech100 (Advanced AI
+    and Risk Management categories), and Best Overall
+    eProcurement Software in the FinTech Breakthrough Awards.
+  - A top place to work. Certa was named one of Forbes’ Best
+    Startup Employers in the US. We’re a fast-growing company
+    where you’ll wear many hats, ship quickly, and shape
+    decisions that matter.
+  - Real scale with strong backing. We’ve processed over 10
+    million entities for 100,000+ users across 120+ countries.
+    We’re well-funded by leading investors including Fin
+    Capital, Vertex Ventures, and Point72 Ventures, on the
+    back of an oversubscribed Series B, headed towards Series
+    C.
+
+  We’re excited to meet you!
+industries:
+  - Artificial Intelligence
+  - Security
+  - Software
+  - Automation
+posted_date: 2026-10-13
+url: "https://builtin.com/job/ai-engineer/11661105"
+source: Built In

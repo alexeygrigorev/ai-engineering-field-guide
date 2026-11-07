@@ -1,0 +1,53 @@
+company:
+  name: HP
+  stage: null
+  focus: |-
+    Technology company providing PCs, printers, and software
+    solutions
+position:
+  title: Developer/Support Engineer -  AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI systems with LLMs, multi-agent
+      frameworks, and RAG directly, so it shapes model behavior
+      and output quality (ai-first). Enterprise integration and
+      support are secondary to building the AI agents themselves.
+  responsibilities:
+  - Design and develop Agentic AI systems using LLMs and multi-agent frameworks for
+    autonomous decision-making
+  - Build scalable automation solutions to streamline manual processes
+  - Identify and assess AI and automation opportunities with business stakeholders
+  - Integrate AI-driven solutions with enterprise systems (JIRA, SharePoint, ServiceNow)
+    via APIs and cloud platforms
+  - Lead full development lifecycle from POC to deployment and optimization
+  - Translate complex requirements into scalable technical architectures
+  use_cases:
+  - Autonomous task execution and decision-making via multi-agent AI
+  - Process automation to improve operational efficiency
+  - AI integration with enterprise tools like JIRA, SharePoint, and ServiceNow
+  - Opportunity discovery for AI-driven improvements across the organization
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, LangChain, OpenAI API, AutoGen,
+      RAG, AI Agents]
+    ml: [Machine Learning, Deep Learning, PyTorch, scikit-learn, TensorFlow, NLP]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Spark]
+    cloud: [AWS, Azure]
+    ops: []
+    languages: [Python, JavaScript, TypeScript, C++, Java]
+    domains: []
+    other: [Automation, RPA, Agile Methodology, ServiceNow, Salesforce, Jira, Data
+        Science]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12064925'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - Tlaquepaque, MEX
+  extracted_at: '2026-11-06T14:45:04.583733'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

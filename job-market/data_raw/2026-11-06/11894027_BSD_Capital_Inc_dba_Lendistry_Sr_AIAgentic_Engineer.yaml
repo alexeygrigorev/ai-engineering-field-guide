@@ -1,0 +1,356 @@
+job_id: 11894027
+title: Sr AI/Agentic Engineer
+company: B.S.D. Capital, Inc. dba Lendistry
+location: Tustin, USA
+locations:
+  - Tustin, USA
+  - Los Angeles, USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Lendistry is an Equal Opportunity/Affirmative Action
+  Employer. We consider applicants without regard to race,
+  color, religion, age, national origin, ancestry, ethnicity,
+  gender, gender identity, gender expression, sexual
+  orientation, marital status, veteran status, disability,
+  genetic information, or membership in any other group
+  protected by federal, state, or local law.
+
+  If you need assistance or accommodation due to a disability,
+  you may contact us at hr@lendistry.com
+
+  Lendistry does not accept unsolicited resumes from
+  recruiters, employment agencies, or staffing firms. To
+  conduct business with Lendistry, a Master Services Agreement
+  (MSA) must be executed and confirmed prior to submitting any
+  information relating to a potential candidate. Without a
+  signed MSA, Lendistry shall not be responsible to any
+  individual or entity for any payment relating to any form of
+  fee or compensation.
+
+  And, in the event that a resume or candidate is submitted by
+  a recruiter, an employment agency, or a staffing firm
+  without a fully executed MSA, Lendistry has the unrestricted
+  right to pursue and hire any of those candidate(s) without
+  any legal or financial responsibility to the recruiter,
+  agency, and/or firm.
+
+  A Day in the Life
+
+  The Senior AI Engineer will deliver the Lendistry AI
+  strategy. This is a hands-on applied engineering role for an
+  experienced LLM practitioner who can take ownership of end-
+  to-end AI features — from design through production
+  operation — and help set technical direction for the
+  engineers building alongside you.
+
+  You will work directly with the VP Organizational
+  Intelligence, the AI team lead, and the Senior Staff
+  Engineer, AI. You will lead the day-to-day delivery of
+  agentic workflows, document intelligence, retrieval systems,
+  and borrower- and operator-facing AI experiences, and you
+  will help mentor more junior AI engineers on the team. You
+  will contribute to and shape the shared AI platform — the
+  prompt registry, tool-calling framework, evaluation harness,
+  and inference routing layer — that every Lendistry product
+  team consumes.
+
+  Lendistry: Who We Are
+
+  We’re proud to be the nation’s largest minority-led, tech-
+  savvy lender for small businesses and commercial real
+  estate.  As a certified Community Development Financial
+  Institution (CDFI) and Community Development Entity (CDE),
+  our mission is all about creating economic opportunities and
+  fueling growth for small business owners and their
+  communities.  Join us as we pave the way with innovative
+  financing and financial education!
+
+  What You’ll Be Doing
+
+  As a Senior AI Engineer on the Lendistry AI team, you will
+  lead the delivery of:
+
+  - Document intelligence pipelines that read loan applications,
+    tax returns, bank statements, and financial statements
+    with human-level comprehension and full audit trails.
+  - Underwriting copilots that surface risk signals, policy
+    checks, and recommended conditions in real time for
+    Lendistry underwriters.
+  - Borrower-facing conversational AI that helps small business
+    owners navigate applications, understand decisions, and
+    manage their loans.
+  - Shared AI platform components — prompt registry, tool-
+    calling framework, evaluation harness, retrieval
+    infrastructure, and the inference routing layer that every
+    product team consumes.
+  - The evaluation and observability layer that turns AI
+    reliability from a hope into a measured, managed property
+    of the system.
+
+  LLM Systems Ownership
+
+  - Own end-to-end LLM features — from requirements through
+    design, implementation, evaluation, deployment, and
+    production operation — across origination, underwriting,
+    servicing, and borrower experience.
+  - Lead the design of new agentic workflows — LLMs that plan,
+    call tools, evaluate results, and iterate across multi-
+    step lending tasks with appropriate human-in-the-loop
+    controls.
+  - Maintain, debug, and improve existing LLM-powered features
+    already running in production — prompt pipelines,
+    retrieval systems, and the document intelligence stack.
+  - Fine-tune and adapt foundation models (including LLaMA-
+    family open-weight models and Bedrock-hosted models) to
+    Lendistry-specific tasks using LoRA, QLoRA, instruction
+    tuning, and prompt optimization techniques.
+  - Design and build RAG systems end to end — chunking
+    strategies, embedding model selection, vector retrieval,
+    hybrid search, and re-ranking — tuned for financial
+    documents and lending policy.
+
+  Agentic Workflows & Document Intelligence
+
+  - Lead the development of document processing pipelines that
+    extract structured data from PDFs, scanned images, and
+    other unstructured financial documents using a combination
+    of OCR, layout understanding, and LLM-based extraction.
+  - Design validation, confidence scoring, and fallback
+    mechanisms that make AI outputs safe to use in regulated,
+    high-stakes financial decisions — with clear audit trails
+    and escalation paths.
+  - Diagnose and resolve agentic failure modes — non-
+    determinism, prompt sensitivity, tool misuse, looping,
+    context-window exhaustion, and retrieval gaps — and build
+    the patterns that prevent recurrence across the team.
+
+  Platform, Evaluation & Reliability
+
+  - Contribute to and shape the shared AI platform — the prompt
+    registry, tool-calling framework, evaluation harness,
+    retrieval infrastructure, and inference routing layer
+    owned by the AI team.
+  - Design evaluation frameworks that measure model quality,
+    output reliability, retrieval accuracy, and regressions
+    across iterations — golden sets, LLM-as-judge scoring, and
+    human-review harnesses.
+  - Instrument AI systems with observability — logging, metrics,
+    traces, token and cost accounting, drift monitoring, and
+    alerting on accuracy, latency, and failure modes.
+  - Manage cost and latency at the feature level — token
+    budgeting, response caching, model-tier routing, and
+    batching strategies — treating cost as a first-class
+    engineering constraint.
+
+  Technical Leadership & Collaboration
+
+  - Partner with the AI team lead and Senior Staff Engineer, AI
+    to translate AI strategy and architectural direction into
+    shipped, reliable features.
+  - Collaborate with product, credit, underwriting, and platform
+    engineering to translate business requirements into
+    reliable LLM system designs.
+  - Mentor more junior AI engineers through design reviews, code
+    reviews, and pairing — raising the bar on prompt
+    engineering, evaluation discipline, and responsible AI
+    development.
+  - Lead proof-of-concept work to validate new AI use cases
+    quickly, measure real business impact, and scale what
+    works into production.
+
+  AI-Assisted Development Practice
+
+  Lendistry AI engineers are expected to be among the most
+  effective users of AI tools in the company. This is how we
+  ship.
+
+  - Daily use of AI coding assistants — Claude Code, GitHub
+    Copilot, Cursor, or equivalents — as a standard part of
+    the development loop for code generation, refactoring,
+    testing, documentation, and review.
+  - Human in the Loop: Follow human review process – AI
+    engineers must maintain clear judgment and utilize
+    established criteria for about when to trust, verify, or
+    override AI-generated suggestions, outputs, consistent
+    with Lendistry’s AI usage policies and applicable
+    regulatory requirements, particularly in security-contexts
+    involving lending decisions, borrower data, or other
+    sensitive and business-critical contexts and financial
+    information.
+  - Leadership in adopting and sharing emerging agentic
+    development tools across Lendistry engineering.
+  - Familiarity with agentic development concepts — multi-step
+    task automation, LLM tool use, prompt engineering for code
+    generation, and the integration of AI agents into
+    engineering workflows.
+
+  Your Areas of Knowledge and Expertise
+
+  - Builder mentality. Bias toward shipping production systems;
+    pragmatic about tradeoffs between model quality, latency,
+    and cost.
+  - Ownership. Takes features from prototype through production,
+    operates what you build, and owns the outcome.
+  - Rigor. Measures quality instead of eyeballing it; builds
+    evaluation before declaring victory.
+  - Mentorship. Elevates the engineers around you through
+    reviews, pairing, and durable technical habits.
+  - Communication. Explains AI behavior and limitations clearly
+    to product, credit, and business partners.
+  - Responsible AI judgment. Thinks seriously about safety,
+    fairness, auditability, and the real-world consequences of
+    lending decisions.
+  - Comfort with ambiguity. Thrives in a fast-moving environment
+    where the AI landscape shifts monthly and priorities
+    evolve with it.
+
+  Core Experience
+
+  - 5+ years of software engineering experience, with 3+ years
+    building and shipping LLM-powered applications in
+    production.
+  - Expert-level Python for production systems — clean
+    architecture, type-safe data modeling (Pydantic or
+    equivalent), clean async patterns, and testable design.
+  - Deep hands-on production experience with at least one major
+    LLM provider — AWS Bedrock, Anthropic Claude, OpenAI GPT,
+    Google Gemini, or equivalent — including tool/function
+    calling, structured output, and streaming.
+  - Proven track record designing and operating RAG systems end
+    to end — chunking, embeddings, vector databases (Qdrant,
+    Pinecone, Weaviate, OpenSearch, or pgvector), retrieval,
+    and re-ranking — including measuring and improving
+    retrieval quality.
+  - Demonstrated experience leading agentic workflows in
+    production — LLM agents that call tools, reason across
+    multiple steps, and autonomously complete multi-stage
+    tasks with appropriate safeguards and audit trails.
+  - Hands-on experience with fine-tuning and adaptation — LoRA,
+    QLoRA, instruction tuning, or preference tuning — and with
+    rigorous evaluation of model outputs rather than demo-
+    driven validation.
+
+  Engineering & Platform Skills
+
+  - Strong LLM tooling fluency — LangChain or LangGraph,
+    LlamaIndex, DSPy, Hugging Face — with the judgment to pick
+    the right tool and the willingness to build custom when
+    the tool is wrong.
+  - Production experience with unstructured data — extracting,
+    classifying, and generating structured outputs from text-
+    heavy inputs, including documents, forms, and scanned
+    images.
+  - Cloud and deployment depth — AWS preferred (including
+    Bedrock), containerization (Docker), and hands-on
+    experience with self-hosted LLM serving (vLLM, TGI,
+    Ollama, or similar).
+  - Evaluation discipline — ability to design evaluation
+    frameworks for non-deterministic systems, build golden
+    sets, and reason about output quality at scale.
+  - Strong debugging instincts for LLM-specific failure modes —
+    hallucinations, retrieval gaps, prompt drift, latency
+    spikes, and cost regressions.
+  - API and service design experience — exposing AI capabilities
+    as reliable internal APIs with clear contracts, error
+    handling, and cost controls.
+
+  Security & Regulated-Industry Awareness
+
+  - Working knowledge of LLM security concerns — prompt
+    injection, data exfiltration, output filtering, and secure
+    inference for sensitive workloads.
+  - Discipline around PII and sensitive financial data — PII
+    detection and redaction, data minimization, and deployment
+    patterns that keep sensitive data inside Lendistry's trust
+    boundary.
+
+  Preferred Qualifications
+
+  - Experience in fintech, lending, banking, healthcare, or
+    another regulated or data-sensitive industry.
+  - Experience fine-tuning LLaMA or similar open-weight models
+    on domain-specific corpora.
+  - Familiarity with document understanding models (LayoutLM,
+    Donut, Nougat) and modern OCR tooling (Textract,
+    Tesseract, or equivalents).
+  - Background in NLP tasks such as named entity recognition,
+    classification, or semantic similarity.
+  - Experience building and operating shared AI platforms
+    (prompt registry, evaluation harness, routing layer)
+    consumed by multiple product teams.
+  - Experience mentoring engineers and leading design reviews.
+  - B.S. or M.S. in Computer Science, Machine Learning, or
+    equivalent experience.
+
+  Why You'll Love Working Here:
+
+  - Comprehensive Medical, Dental, and Vision Insurance
+  - Generous Paid Time Off
+  - Birthday Day Off
+  - 12 Paid Company Holidays
+  - 401(k) Match
+  - FSA and HSA
+  - Paid Life Insurance
+  - Paid Disability Insurance
+  - Pet Insurance
+  - Employee Assistance Program (EAP)
+  - Professional Development Courses
+  - In Office Provided Snacks and Drinks
+  - Gym Facilities (LA & Tustin/CEC Offices)
+  - In Office Engagement Activities
+
+  Compensation Range
+
+  The US base salary range for this full-time position is
+  $111,200 - $185,000 annually.
+
+  Our salary ranges are determined by role, level, and
+  location.
+
+  The range displayed on each job posting reflects the minimum
+  and maximum base salary for new hires for the position
+  across all US locations.  Within the range, individual pay
+  is determined by multiple factors like job-related skills,
+  experience, and state of residence.  Your recruiter can
+  share more about the specific salary range during the
+  interview process.
+
+  Please note that the compensation details listed in US role
+  postings reflect the base salary only, and do not include
+  any variable compensation elements.
+
+  Physical Requirements
+
+  This is a stationary position that requires frequent sitting
+  (approximately 95%), repetitive wrist motions, grasping,
+  speaking, listening, close vision, and the ability to adjust
+  focus.  It also may require occasional standing, lifting,
+  carrying of 20lbs or less, walking, kneeling,
+  bending/stooping, twisting, pulling/pushing, and reaching
+  above the shoulder.  Employees in this position must be
+  physically able to efficiently perform the essential
+  functions of the position.
+
+  ACKNOWLEDGEMENT B.S.D. Capital, Inc. dba Lendistry is an
+  equal employment opportunity employer committed to providing
+  its employees, applicants and other covered persons with
+  equal opportunities without regard to race, color, age (40
+  or older), religious creed (including religious belief,
+  practice or dress and grooming practices), national origin,
+  ancestry, physical disability, mental disability, medical
+  condition, genetic information, marital status, sex, gender
+  (including pregnancy, childbirth or medical condition
+  related to pregnancy or childbirth), gender expression,
+  gender identity, sexual orientation, military or veteran
+  status (including past, current or prospective service), or
+  any other characteristic protected under applicable federal,
+  state or local law.
+industries:
+  - Fintech
+  - Professional Services
+  - Social Impact
+  - Financial Services
+posted_date: 2026-10-26
+url: "https://www.builtinla.com/job/sr-ai-agentic-engineer/11894027"
+source: Built In

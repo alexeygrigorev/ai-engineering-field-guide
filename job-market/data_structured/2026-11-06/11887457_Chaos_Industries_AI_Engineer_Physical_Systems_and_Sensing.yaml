@@ -1,0 +1,53 @@
+company:
+  name: Chaos Industries
+  stage: null
+  focus: Defense sensing and radar systems
+position:
+  title: AI Engineer, Physical Systems and Sensing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys LLM-powered workflows that
+      interpret telemetry, summarize test results, and surface
+      insights from sensor data, and builds AI-driven analysis
+      pipelines that shape output quality (anomaly detection, root
+      cause analysis). Both LLM components and classical ML are
+      involved, so it is ai-first.
+  responsibilities:
+  - 'Build AI-driven analysis pipelines for hardware-in-the-loop test systems: anomaly
+    detection, root cause analysis, and regression identification'
+  - Design and deploy LLM-powered workflows interpreting telemetry and summarizing
+    test results from sensor data
+  - Develop automated test and validation frameworks for software, firmware, and FPGA
+    systems in Python, integrated into CI/CD
+  - Create intelligent monitoring and reporting dashboards using ML to detect drift,
+    degradation, and subtle failure modes
+  - Collaborate with systems, hardware, and software engineers to close the loop between
+    AI insights and product improvements
+  - Establish and scale the team's testing and validation capabilities as a foundational
+    member
+  use_cases:
+  - Automated anomaly detection and root cause analysis for hardware test systems
+  - LLM-based interpretation of sensor and RF telemetry
+  - Automated validation of software, firmware, and FPGA systems
+  - Monitoring for drift and degradation in radar and sensing products
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: [Machine Learning, Anomaly Detection, Model Evaluation, CUDA]
+    web: []
+    databases: []
+    data: [Data Pipelines, Time-Series Analysis]
+    cloud: [Azure]
+    ops: [CI/CD, Jenkins, Docker]
+    languages: [Python]
+    domains: []
+    other: [Signal Processing, Sensor Fusion, Hardware-in-the-Loop Testing, Embedded
+        Systems, FPGA, RF/IQ Data Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887457'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T13:38:58.957835'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

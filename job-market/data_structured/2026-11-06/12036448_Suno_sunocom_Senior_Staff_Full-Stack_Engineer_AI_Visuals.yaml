@@ -1,0 +1,52 @@
+company:
+  name: Suno (suno.com)
+  stage: null
+  focus: AI music generation and creative entertainment platform
+position:
+  title: Senior / Staff Full-Stack Engineer, AI Visuals
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI director workflows (multi-step
+      orchestration, agentic AI systems) and evaluates generation
+      models to shape output quality, which is shaping agent/model
+      behaviour. Although image/video generation models are ml-
+      first by themselves, the agentic LLM orchestration component
+      makes the role ai-first.
+  responsibilities:
+  - Build and ship features for AI music videos, generative cover art, and animated
+    video covers
+  - Build preference data pipelines to support model tuning and improve output quality
+  - Collaborate with UX/UI designers to refine the visual quality of generated images
+    and videos
+  - Build AI director agentic workflows guiding music video creation from concept
+    to final cut
+  - Evaluate emerging image and video models and translate capabilities into product
+    features
+  - Work across frontend and backend, helping shape product scope with designers and
+    PMs
+  use_cases:
+  - AI-generated music videos
+  - Generative cover art for songs
+  - Animated video covers
+  - AI director workflows guiding music video creation from concept to final cut
+  - Preference data pipelines for improving generation model output quality
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG]
+    ml: [Model Evaluation, Fine-Tuning, Embeddings]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12036448'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:36:33.547237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

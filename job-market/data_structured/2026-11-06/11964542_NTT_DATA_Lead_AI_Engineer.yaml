@@ -1,0 +1,49 @@
+company:
+  name: NTT DATA
+  stage: null
+  focus: |-
+    Business and technology services, digital infrastructure and
+    consulting
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI Engineer" title, the description is a
+      generic software applications development team lead role
+      with no responsibilities involving shaping model behaviour,
+      prompts, retrieval, or model training. AI is only mentioned
+      in the company boilerplate.
+  responsibilities:
+  - Direct design, development, and implementation of new applications and upgrades
+    from conception to completion
+  - Oversee technical staff and assign development tasks across the team
+  - Perform proofs of concept and keep development costs and activities within budget
+  - Work with external stakeholders to define scope, including cost-benefit analysis,
+    risk management, and feasibility studies
+  - Take on complex programming activities and resolve technical issues during design,
+    development, and implementation
+  - Ensure testing, quality assurance, and documentation of applications prior to
+    deployment
+  - Provide documentation, training, and support to relevant teams
+  - Research emerging infrastructure and application technologies and best practices
+  use_cases: []
+  skills:
+    languages: [Java, Python, C++]
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: []
+    ops: []
+    other: [Perl, Agile, Waterfall, Microsoft 365]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11964542'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:12:58.175270'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

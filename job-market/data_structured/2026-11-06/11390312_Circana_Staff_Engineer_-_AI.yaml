@@ -1,0 +1,52 @@
+company:
+  name: Circana
+  stage: null
+  focus: |-
+    Consumer analytics, AI, and data solutions for retail and
+    CPG
+position:
+  title: Staff Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes agentic systems end to end:
+      prompt design, context management, tool design, guardrails,
+      evals, and MCP servers, with LLMs at the core. This is
+      direct model-behaviour shaping, so it is ai-first.
+  responsibilities:
+  - 'Build AI agents end to end: graphs, tools, MCP servers, and backing services,
+    from design to production'
+  - 'Craft agent harnesses daily: context management, prompt design, plan construction,
+    tool result shaping, and guardrails'
+  - Build and maintain evaluation sets and regression suites; investigate agent failures
+    at the step level
+  - Work with domain experts to map practitioner questions to agent capabilities
+  - 'Debug from traces: reproduce, isolate, fix, and add regression tests'
+  - Automate the development loop with commands, hooks, and subagents
+  - Move decisions forward with working prototypes
+  use_cases:
+  - Agentic systems that reason, plan, and act across consumer behavior data
+  - Intelligent agents for the world's largest retail and CPG brands
+  - Predictive analytics and market share measurement for manufacturers and retailers
+  - Automation of domain expert workflows via agents and tools
+  skills:
+    genai: [LangGraph, Google ADK, MCP, Prompt Engineering, Context Engineering, Agentic
+        Workflows, Structured Outputs, Guardrails, LLM Evaluation, Anthropic API,
+      OpenAI API, Claude Code]
+    ml: []
+    web: [React, CopilotKit]
+    databases: []
+    data: []
+    cloud: [Vertex AI, Azure AI Foundry, GCP, Azure]
+    ops: [Observability, CI/CD]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11390312'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:41:57.315297'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

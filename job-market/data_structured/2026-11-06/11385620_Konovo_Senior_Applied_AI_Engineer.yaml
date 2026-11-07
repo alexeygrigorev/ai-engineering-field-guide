@@ -1,0 +1,53 @@
+company:
+  name: Konovo
+  stage: null
+  focus: |-
+    Healthcare intelligence platform connecting professionals
+    and patients
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys LLM-powered features,
+      establishes prompt engineering and model evaluation
+      practices, and advances AI architecture — directly shaping
+      model behaviour and output quality in production. LLM
+      components are central, so it's ai-first.
+  responsibilities:
+  - Design, build, and deploy production-grade AI and LLM-powered features
+  - Improve model performance, reliability, observability, and cost efficiency at
+    enterprise scale
+  - Advance a provider-agnostic AI architecture for secure access to multiple LLM
+    ecosystems
+  - Build internal AI tooling for engineering productivity and employee workflows
+  - Establish best practices for model evaluation, prompt engineering, testing, and
+    governance
+  - Ensure responsible AI with guardrails around privacy, auditability, and regulatory
+    compliance
+  - Mentor engineers and contribute to platform architectural decisions
+  use_cases:
+  - AI-native healthcare intelligence platform features
+  - Enterprise LLM-powered product capabilities
+  - Internal AI tooling for engineering and employee workflows
+  - Provider-agnostic multi-LLM access architecture
+  - Responsible AI with privacy, auditability, and regulatory guardrails
+  skills:
+    genai: [LLMs, Prompt Engineering, Model Evaluation, RAG, Model Orchestration Frameworks]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Snowflake]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11385620'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:38:49.507715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

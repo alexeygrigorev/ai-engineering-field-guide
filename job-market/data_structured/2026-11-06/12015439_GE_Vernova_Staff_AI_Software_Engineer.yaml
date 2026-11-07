@@ -1,0 +1,52 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Energy electrification and power technology solutions
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, MCP servers,
+      structured prompting, memory/context management, and RAG
+      patterns, directly shaping LLM/agent behavior, so it is ai-
+      first.
+  responsibilities:
+  - Collaborate with cross-functional teams to build AI-native application experiences
+  - Build AI agents, deploy MCP servers and tools, and integrate LLM/generative AI
+    capabilities including structured prompting, memory and context management
+  - Implement RAG patterns (embeddings + retrieval) for context-aware personalized
+    experiences
+  - Drive end-to-end execution of medium-to-large features independently and contribute
+    to technical direction
+  - Deliver using coding agents and eval-driven development, establishing testing
+    approaches for prompts and model performance
+  - Implement observability for AI features and provide production support
+  - Lead technical reviews, integrations, and delivery execution with internal teams
+    and external contractors
+  use_cases:
+  - AI agents and MCP servers standardizing enterprise data connectivity, skills,
+    and tools
+  - Enterprise RAG and semantic search for context-aware personalized user experiences
+  - Conversation memory management at scale
+  - AI-powered features for 100k+ users
+  skills:
+    genai: [AI Agents, MCP, Prompt Engineering, RAG, Embeddings, Agentic Workflows,
+      LLMs, Generative AI, LangChain, Google ADK, Strands, Semantic Search, LLM Evaluation]
+    ml: []
+    web: [React, Vue, Angular]
+    databases: [pgvector, Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [Docker, Kubernetes, Code Review, Observability]
+    languages: [Python, Java, Go, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12015439'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:29:51.799140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: McCain Foods
+  stage: null
+  focus: Global frozen food manufacturer
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, agentic/multi-agent
+      systems, MCP integrations, and quantization/serving
+      optimization for LLM platforms - directly shaping model
+      behaviour and output infrastructure. LLM/agent components
+      dominate, so it is ai-first.
+  responsibilities:
+  - Architect and develop reusable foundational AI capabilities including pretrained
+    model pipelines, multimodal workflows, and RAG architectures
+  - Design, build, and optimize enterprise-grade agentic and multi-agent systems using
+    AI orchestration frameworks
+  - Drive integration standards via Model Context Protocol (MCP), external tools,
+    model routing, and enterprise data systems
+  - Optimize model inference infrastructure through quantization, runtime tuning,
+    memory optimization, dynamic batching, and serving architectures
+  - Design and support distributed AI workloads on Kubernetes and GPU-enabled infrastructure
+  - Implement observability, monitoring, context management, caching, and performance
+    guardrails
+  - Establish engineering best practices for code quality, testing, security, and
+    production readiness
+  - Conduct design and code reviews and mentor engineers across AI and software teams
+  use_cases:
+  - Reusable enterprise AI platform capabilities (pretrained model pipelines, multimodal
+    workflows)
+  - Advanced retrieval-augmented generation for enterprise applications
+  - Agentic and multi-agent AI systems for business functions
+  - Production model serving and inference optimization at enterprise scale
+  - Distributed AI workloads on Kubernetes/GPU infrastructure
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, MCP, LangChain, LangGraph,
+      LlamaIndex, AutoGen, Generative AI]
+    ml: [Model Training, Quantization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, vLLM, MLflow, Weights & Biases, Kubernetes, MLOps, Observability,
+      Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11855253'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T13:24:08.751107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

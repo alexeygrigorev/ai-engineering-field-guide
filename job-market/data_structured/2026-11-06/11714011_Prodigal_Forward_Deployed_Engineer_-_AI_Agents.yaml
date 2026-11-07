@@ -1,0 +1,45 @@
+company:
+  name: Prodigal
+  stage: null
+  focus: AI platform for financial institution operations
+position:
+  title: Forward Deployed Engineer - AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys LLM-powered AI agents and
+      designs prompts, RAG pipelines, and evaluation frameworks,
+      directly shaping model behavior. Forward Deployed Engineers
+      adapting AI at customer sites are ai-first per edge cases.
+  responsibilities:
+  - Build and deploy LLM-powered AI agents, including voice agents, in production
+  - Own end-to-end lifecycle of AI systems from design to deployment, monitoring,
+    and iteration
+  - Design and optimize prompts, RAG pipelines, and evaluation frameworks
+  - Work directly with customers and Implementation Managers to understand workflows
+    and drive go-lives
+  use_cases:
+  - AI agents for financial collections and servicing operations
+  - Voice agents conducting customer conversations
+  - Conversation analysis and context capture to guide human agents
+  - Deciding next-best actions and orchestrating outreach for borrowers
+  - Document processing and back-office workflows in lending
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, AI Agents, LLM Evaluation, Voice AI]
+    ml: []
+    web: []
+    databases: [MongoDB]
+    data: [Databricks]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11714011'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:40:35.274722'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

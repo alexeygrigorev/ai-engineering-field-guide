@@ -1,0 +1,162 @@
+job_id: 11906859
+title: AI Engineer (Founding Engineer – AI)
+company: Gradientflo Labs
+location: Hyderabad, IND
+locations:
+  - Hyderabad, IND
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  Role Overview
+
+  You will be the intelligence architect of Vibecoderz. As the
+  AI Engineer, you’ll design, implement, and optimize the
+  multi-agent orchestration system that powers the TutorAgent,
+  PlannerAgent, ScreenPerceptionAgent, and CodeAgent.
+
+  This is not a research-only role. It’s applied AI at scale:
+  integrating Gemini models, Pub/Sub protocols, LangSmith
+  evals, and Neo4j graphs into a production-grade learning
+  platform. You’ll work closely with Backend, Prompt, and
+  Frontend engineers to ensure AI capabilities feel seamless,
+  fast, and trustworthy for 150M+ developers worldwide.
+
+  You’ll use Linear for task management, Notion for specs and
+  experiments, and GitHub for code reviews, making the AI
+  system’s evolution transparent and collaborative.
+
+  Key Responsibilities
+
+  - Multi-Agent Orchestration - Implement TutorAgent and sub-
+    agents using the Google Agent Development Kit (ADK),
+    ensuring modularity and reliability.
+  - Model Integration - Integrate Gemini Pro, Gemini Vision, and
+    Gemini Live API for multimodal reasoning (text, vision,
+    voice).
+  - Communication Protocols - Design and maintain Agent-to-Agent
+    (A2A) communication via Google Pub/Sub. Guarantee low-
+    latency, async messaging.
+  - Context & Memory Systems - Build working memory in Redis,
+    long-term user data in Firestore, and Developer Graph in
+    Neo4j to support adaptive tutoring.
+  - Artifact Generation - Collaborate with Prompt Engineers to
+    refine artifact workflows: slides, quizzes, code snippets,
+    and runnable mini-apps.
+  - Evaluation & Guardrails - Build evaluation pipelines in
+    LangSmith/Langfuse to test prompt stability, reduce
+    hallucinations, and monitor drift.
+  - RAG & Vibe Browser - Integrate retrieval-augmented
+    generation (RAG) pipelines with GitHub docs,
+    StackOverflow, and MDN for contextual support.
+  - Adaptive Learning Loops - Implement performance-tracking
+    systems that adapt course flow based on learner progress
+    and quiz outcomes.
+  - Scaling & Optimization - Benchmark and optimize model
+    selection via hybrid routers (Gemini Flash for speed,
+    Pro/Claude for depth).
+  - Security & Safety - Implement guardrails against unsafe
+    generations, prompt injection, and biased outputs.
+  - Cross-Team Collaboration - Translate PM requirements into AI
+    system designs, coordinate with Backend for APIs, and FE
+    for real-time outputs.
+
+  Success Metrics
+
+  90 Days (Probation):
+
+  - TutorAgent and PlannerAgent integrated with Gemini Pro +
+    Pub/Sub messaging.
+  - Redis working memory and Firestore user schema live.
+  - LangSmith evaluation pipeline created with baseline metrics
+    (<15% hallucination rate).
+
+  12 Months:
+
+  - Orchestrate 10+ specialized agents in production.
+  - Reduce TutorAgent response latency <3s end-to-end.
+  - Adaptive learning system live with >40% improvement in
+    learner retention.
+  - AI drift monitoring and guardrails automated in CI/CD.
+
+  Must-Haves
+
+  - 10+ years in applied AI/ML engineering.
+  - Expertise in LLM orchestration frameworks (LangChain,
+    CrewAI, ADK).
+  - Deep experience with multimodal model integration (text,
+    voice, vision).
+  - Strong knowledge of messaging systems (Pub/Sub, Kafka, or
+    similar).
+  - Proven delivery of AI-first products in production
+    environments.
+
+  Nice-to-Haves
+
+  - Research background in NLP, RLHF, or agentic AI systems.
+  - Contributions to open-source AI frameworks.
+  - Prior work on developer-focused AI products.
+  - Startup/founding engineer experience.
+
+  Tech Stack Visibility
+
+  - Core AI: Google ADK, Gemini Pro, Gemini Vision, Gemini Live
+    API
+  - Communication: Google Cloud Pub/Sub
+  - Memory: Redis (working), Firestore (archival), Neo4j Aura
+    (Developer Graph)
+  - Eval & Prompting: LangSmith, Langfuse, hybrid model router
+  - Infra: Cloud Run, API Gateway, GitHub Actions
+  - Tools: Linear (execution), Notion (PRDs/experiments), GitHub
+    (repos)
+
+  Assessment
+
+  Objective: Validate ability to design and implement a
+  production-ready multi-agent system.
+
+  Challenge (Candidate PoC):
+
+  - Build a TutorAgent that:
+    - Takes input: “Teach me React Hooks.”
+    - Delegates to sub-agents:
+      - CurriculumAgent → outline
+      - ContentAgent → lessons
+      - CodeAgent → runnable code snippet
+      - QuizAgent → quiz JSON
+    - Stores all results in Firestore + Developer Graph (Neo4j).
+    - Communicates via Pub/Sub.
+  - Add a Learning Adaptation Loop:
+    - If quiz score <60%, regenerate lesson with simplified
+      examples.
+  - Evaluation & Guardrails:
+    - Set up LangSmith eval pipeline with at least 20 golden
+      prompts.
+    - Implement guardrail filter to block unsafe outputs.
+  - Performance Targets:
+    - TutorAgent orchestration end-to-end <3s.
+    - Sub-agent response <1.5s each.
+
+  Deliverables:
+
+  - Multi-agent orchestration codebase.
+  - Firestore + Neo4j schema examples.
+  - Evaluation report (accuracy, latency, hallucination rate).
+  - GitHub repo with CI integration.
+  - 5-min Loom demo walkthrough.
+
+  Evaluation Criteria:
+
+  - Architecture & Orchestration Design (30%)
+  - Model Integration & Multimodal Handling (20%)
+  - Evaluation & Guardrails Implementation (20%)
+  - Performance & Scalability (15%)
+  - Documentation & Testing (15%)
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Machine Learning
+  - Software
+posted_date: 2026-10-27
+url: "https://builtin.com/job/ai-engineer-founding-engineer-ai/11906859"
+source: Built In

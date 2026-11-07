@@ -1,0 +1,52 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU-accelerated computing and AI hardware/software
+position:
+  title: Senior Systems Engineer -- Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agent runtimes, harnesses,
+      orchestration, and evaluation for agentic AI systems, which
+      means directly shaping agent/LLM system behavior and output
+      quality (agent flow design, evaluation), so it is ai-first
+      per Step 2. The systems/infrastructure work serves that
+      agent stack rather than being generic capacity engineering.
+  responsibilities:
+  - Architect and build scalable, reliable systems for agentic AI spanning agent runtimes,
+    harnesses, inference, evaluation, and orchestration
+  - Solve large-scale systems challenges across distributed execution, data/ETL pipelines,
+    HPC, cloud, Kubernetes, and GPU compute environments
+  - Optimize systems for reliability, scalability, performance, resource utilization,
+    and developer experience
+  - Prototype emerging ideas and write high-quality production code
+  - Provide technical leadership across research, engineering, product, and infrastructure
+    teams
+  - Take ambiguous technical problems from architecture through implementation and
+    production
+  use_cases:
+  - Agentic AI agent runtimes and harnesses
+  - Agent inference, routing, and orchestration at scale
+  - AI evaluation and benchmarking infrastructure
+  - Large-scale distributed execution on GPU and HPC environments
+  skills:
+    languages: [Python, C++, Go, Rust]
+    domains: []
+    web: []
+    cloud: [Cloud]
+    data: [Data Pipelines, Workflow Orchestration]
+    ml: [Model Deployment, Multimodal Models]
+    databases: []
+    genai: [LLMs, Agentic Workflows, LLM Evaluation]
+    ops: [Kubernetes, Distributed Systems]
+    other: [HPC, GPU Compute]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11722152'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:42:19.368090'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

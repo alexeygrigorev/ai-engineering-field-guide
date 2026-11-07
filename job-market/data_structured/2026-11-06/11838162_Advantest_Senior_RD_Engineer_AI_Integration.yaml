@@ -1,0 +1,54 @@
+company:
+  name: Advantest
+  stage: null
+  focus: Semiconductor test equipment and systems
+position:
+  title: Senior R&D Engineer – AI Integration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates AI services that others design into
+      existing systems, calling model APIs and building
+      interfaces; there is no evidence of shaping model behavior
+      through prompts, retrieval design, or evaluation of output
+      quality. Integration plumbing into Java/C++ systems is ai-
+      support.
+  responsibilities:
+  - Design, implement, test, and maintain production-quality software for complex
+    semiconductor test systems
+  - Analyze, debug, refactor, and extend large, mature Java and C++ codebases
+  - Integrate AI components and services into existing Java- and C++-based systems
+  - Define robust interfaces between existing platforms, AI services, and supporting
+    tools
+  - Develop automation, integration, and data-processing tools using Python and Shell
+  - Evaluate AI integrations for correctness, performance, reliability, security,
+    and maintainability
+  - Apply software engineering best practices including code reviews, automated testing,
+    version control, and continuous integration
+  - Provide technical guidance and lead integration projects
+  use_cases:
+  - AI-enabled capabilities for semiconductor test systems
+  - Integration of LLM-based solutions such as RAG, embeddings, and semantic search
+    into mature software platforms
+  - Automation and data-processing tooling for test systems
+  skills:
+    languages: [Java, C++, Python, Bash]
+    domains: []
+    web: [APIs]
+    cloud: [AWS, Azure]
+    data: []
+    ml: []
+    databases: []
+    genai: [LLMs, RAG, Embeddings, Semantic Search]
+    ops: [Linux, Git, CI/CD, Docker, MLOps]
+    other: [Object-Oriented Programming, Software Architecture, Design Patterns, System
+        Integration, SmarTest 8, Eclipse RCP, OSGi]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11838162'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:21:50.421094'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

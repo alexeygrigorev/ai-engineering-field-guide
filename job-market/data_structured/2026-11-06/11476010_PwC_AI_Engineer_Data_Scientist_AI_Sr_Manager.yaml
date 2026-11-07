@@ -1,0 +1,60 @@
+company:
+  name: PwC
+  stage: null
+  focus: |-
+    Professional services: digital assurance and technology
+    consulting
+position:
+  title: AI Engineer / Data Scientist, AI Sr. Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role sets strategy for testing and evaluation of AI-
+      enabled systems, covering failure modes, hallucinations,
+      bias, drift, explainability, and guardrails, and directs the
+      development of evaluation tools and monitoring. Judging and
+      evaluating AI model output quality is shaping model
+      behaviour, and guardrails/hallucination evaluation points to
+      LLM-based systems, so it is ai-first.
+  responsibilities:
+  - Lead the design and development of advanced AI and machine learning solutions
+    for business process innovation
+  - Design and optimize algorithms, models, and systems for intelligent decision-making
+    and automation
+  - Transform raw data into actionable insights to support decision-making and business
+    growth
+  - Manage complex data analysis, integration, and data modeling to improve data quality
+    and infrastructure
+  - Set quality standards for evaluating AI system behavior, performance, robustness,
+    bias, explainability, and failure modes
+  - Direct development of reusable evaluation tools, automated testing, reference
+    datasets, and monitoring capabilities
+  - Lead cross-functional teams responsible for production AI deployment, monitoring,
+    evaluation, and incident response
+  - Coach and develop team members and technical leaders, translating technical findings
+    for executive clients
+  use_cases:
+  - Intelligent decision-making and business process automation for assurance practice
+  - AI system evaluation covering failure modes, bias, drift, hallucinations, and
+    explainability
+  - Production AI deployment, monitoring, and incident response
+  - Data quality improvement and analytics for client engagements
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: [Data Modeling, Data Pipelines]
+    cloud: []
+    ops: [Model Monitoring]
+    languages: []
+    domains: []
+    other: [Data Analysis, Guardrails, LLM Evaluation]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11476010'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T11:56:41.541361'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

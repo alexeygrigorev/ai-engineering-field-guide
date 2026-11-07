@@ -1,0 +1,51 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: AI Engineer – Agentic AI | Bedrock, LangChain & LangGraph
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems with
+      LangChain, LangGraph, Bedrock, and MCP, including prompt
+      engineering, orchestration, and agent evaluation - directly
+      shaping LLM/agent behavior. All shaped components are
+      LLM/agent-based, so it is ai-first.
+  responsibilities:
+  - Design and develop autonomous AI agents and multi-agent workflows
+  - Build agentic applications using Amazon Bedrock, AgentCore, LangChain, LangGraph,
+    and Strands Agents SDK
+  - Implement orchestration, planning, memory management, and tool-calling capabilities
+  - Design and integrate MCP-based solutions
+  - Evaluate and optimize LLM performance, reliability, safety, and latency
+  - Define and apply testing and evaluation approaches for agent behavior and LLM
+    responses
+  - Support deployment, monitoring, and continuous improvement of AI applications
+  - Document architecture, implementation decisions, and operational procedures
+  use_cases:
+  - Enterprise intelligent automation and operational efficiency
+  - Autonomous AI agents and multi-agent collaboration for task completion
+  - LLM orchestration with planning, routing, memory, and tool calling
+  - Retrieval-augmented generation for document workflows
+  - Production generative AI applications with monitoring and evaluation
+  skills:
+    genai: [LangChain, LangGraph, MCP, Multi-Agent Systems, Prompt Engineering, Generative
+        AI, Agentic Workflows, RAG, Function Calling]
+    ml: []
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [AgentCore, Strands Agents SDK, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12066578'
+  location: Bellandur, IND
+  extracted_at: '2026-11-06T14:45:35.326553'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

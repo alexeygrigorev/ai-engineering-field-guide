@@ -1,0 +1,57 @@
+company:
+  name: Nextracker
+  stage: null
+  focus: Utility-scale solar power plant technology platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI features, LLM
+      applications with prompt engineering, RAG, tool calling, and
+      evals/guardrails — directly shaping model behavior and
+      output quality, with LLM/agent components throughout.
+  responsibilities:
+  - Design and build agentic AI features using tool/function calling, structured outputs,
+    workflow orchestration, state management, and human-in-the-loop controls
+  - Integrate agents with APIs, databases, documents, business services, and external
+    systems
+  - Select appropriate solutions including deterministic workflows, single-agent,
+    or multi-agent orchestration
+  - Build LLM applications using prompt engineering, context management, RAG, vector
+    search, and model APIs
+  - Implement asynchronous workflows with retries, timeouts, progress tracking, and
+    recovery
+  - Define evaluations and automated tests for accuracy, reliability, latency, cost,
+    and safety
+  - Add guardrails for prompt injection, unauthorized actions, data leakage, and unsafe
+    tool use
+  - Add tracing and observability for prompts, model calls, retrieval, tool calls,
+    and workflow state
+  use_cases:
+  - Agentic AI for engineering and business platforms in solar energy
+  - Agents that use tools and APIs to work with enterprise data
+  - Human-in-the-loop approval and review workflows
+  - Document and data retrieval via RAG and vector search
+  - Structured output generation from enterprise systems
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Structured Outputs, Prompt
+        Engineering, RAG, Vector Search, LLMs, Guardrails, LLM Evaluation, LangGraph,
+      LangChain, Semantic Kernel, Azure OpenAI, Responsible AI]
+    ml: []
+    web: [Django, FastAPI, Angular, REST APIs]
+    databases: [PostgreSQL, MySQL, Redis, pgvector, Vector Databases]
+    data: []
+    cloud: [Azure AI Foundry, Azure, Azure AI Search]
+    ops: [Docker, OpenTelemetry, Observability]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884915'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:33:51.747833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

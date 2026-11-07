@@ -1,0 +1,56 @@
+company:
+  name: Hitachi Solutions America
+  stage: null
+  focus: IT consulting and systems integration services
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering
+      with schema-constrained outputs, RAG/classification
+      pipelines, AI-in-the-loop bounding of LLM output, and
+      building eval harnesses that score model output fidelity.
+      LLMs are central, so ai-first.
+  responsibilities:
+  - Own end-to-end architecture of an AI-assisted migration platform covering agent/skill
+    design and Azure cloud architecture
+  - Drive AI/ML strategy including build-vs-buy, model selection, fine-tuning vs prompting
+    trade-offs, and fidelity scoring metrics
+  - Develop AI/LLM components including schema-constrained prompt engineering and
+    LLM API integrations
+  - Build RAG and classification pipelines mapping legacy workflow actions to modern
+    equivalents
+  - Integrate via REST APIs, webhooks, Azure AD flows, and MCP server endpoints
+  - Lead and mentor a 3-8 person AI/automation engineering team and own migration
+    risk and rollback strategy
+  - Own quality through automated validation tests and eval harnesses scoring model
+    output fidelity
+  - Build the parsing/conversion engine that reads Nintex XML workflow definitions
+    and generates Power Automate flow logic
+  use_cases:
+  - Automated migration of legacy Nintex workflows to Power Automate flows
+  - AI-assisted code/conversion of workflow definitions from XML to modern flow logic
+  - Mapping legacy workflow actions to modern equivalents via RAG and classification
+  - Automated workflow validation and model output fidelity scoring
+  - Agent/skill-based AI-in-the-loop migration platform
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Anthropic API, OpenAI API, Azure
+        OpenAI, RAG, MCP, Claude Code, GitHub Copilot, Fine-Tuning, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: [Azure, Azure Functions, IAM]
+    ops: [Test Automation]
+    languages: [Node.js, TypeScript, Python]
+    domains: []
+    other: [Regex, ASTs, Rule Engines, XML/JSON Parsing, Power Automate, SharePoint]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11389219'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T11:40:14.497471'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

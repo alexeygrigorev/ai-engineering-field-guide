@@ -1,0 +1,49 @@
+company:
+  name: Woolpert
+  stage: null
+  focus: Architecture, engineering, and geospatial consulting firm
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes and customizes Gemini models and designs
+      end-to-end AI/ML solutions including integration of Gemini
+      Enterprise, which is shaping LLM behavior. Model training
+      and deployment also included, but the LLM component makes it
+      ai-first.
+  responsibilities:
+  - Deliver hands-on, client-facing AI/ML project engineering for the Digital Innovations
+    market
+  - Research and implement Google AI/ML technologies including Gemini Enterprise
+  - Run client discovery activities to capture business and technical requirements
+    and success metrics
+  - Develop AI/ML roadmaps and strategies aligned with client goals
+  - Design and implement end-to-end AI/ML solutions on GCP, from data ingestion to
+    model training, deployment, and monitoring
+  - Provide technical leadership to project teams and user training
+  use_cases:
+  - Custom Gemini Enterprise integration and model customization for clients
+  - End-to-end AI/ML solution delivery on Google Cloud
+  - AI/ML roadmaps and strategies for enterprise clients
+  - Data ingestion, model training, and deployment in professional services projects
+  skills:
+    genai: [Gemini]
+    ml: [TensorFlow, Fine-Tuning, Feature Engineering, Model Training]
+    web: []
+    databases: [BigQuery]
+    data: [Dataflow]
+    cloud: [GCP, Vertex AI, Cloud Storage, IAM]
+    ops: [Model Deployment, Monitoring, Git]
+    languages: [Python, Node.js]
+    domains: []
+    other: [Jira, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11532843'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:06:34.326935'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

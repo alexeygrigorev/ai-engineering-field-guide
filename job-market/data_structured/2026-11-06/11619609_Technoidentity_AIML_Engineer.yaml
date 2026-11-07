@@ -1,0 +1,49 @@
+company:
+  name: Technoidentity
+  stage: null
+  focus: Data & AI product engineering and enterprise solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, agentic workflows, MCP tools, and
+      uses prompt engineering, RAG, and function calling - clearly
+      shaping LLM behavior. LLM/agent components are central, so
+      ai-first.
+  responsibilities:
+  - Design, develop, and maintain AI/ML applications and LLM-powered solutions
+  - Build AI agents, agentic workflows, and orchestration layers
+  - Develop and integrate MCP tools and AI system integrations
+  - Work with prompts, tools, retrieval, function calling, and workflow automation
+    patterns
+  - Collaborate with product, engineering, and business teams to convert use cases
+    into AI solutions
+  - Evaluate model performance, reliability, safety, and output quality
+  - Support production deployment, monitoring, and continuous improvement of AI systems
+  - Document solution architecture, workflows, and evaluation results
+  use_cases:
+  - LLM-powered enterprise applications
+  - AI agents and agentic workflow automation
+  - Tool-based AI system integrations via MCP
+  - Production AI systems with evaluation and monitoring
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, Prompt Engineering, Function
+        Calling, RAG, Embeddings, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant, Chrom, pgvector]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Observability, Monitoring]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Temporal, Google ADK]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11619609'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:22:56.325735'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

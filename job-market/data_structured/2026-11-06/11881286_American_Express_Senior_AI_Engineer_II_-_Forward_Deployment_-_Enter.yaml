@@ -1,0 +1,60 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global financial services and payments company
+position:
+  title: Senior AI Engineer II - Forward Deployment - Enterprise AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role that builds Generative AI,
+      agentic systems, and intelligent automation solutions,
+      designing agents, workflows, RAG, and evaluation/guardrails
+      itself. Adapting and deploying AI solutions with stakeholder
+      engagement is squarely ai-first.
+  responsibilities:
+  - Lead discovery sessions with business units to translate needs into AI use cases
+    and value propositions
+  - Design, build, and deploy Generative AI, agentic AI, and intelligent automation
+    solutions
+  - Build agents and AI-enabled workflows that interact with enterprise APIs, knowledge
+    sources, and data platforms
+  - Develop evaluation approaches and safeguards measuring quality, outcomes, latency,
+    cost, and reliability
+  - Take solutions through prototyping, production scaling, adoption, and transition
+    to long-term ownership
+  - Use coding agents and AI-assisted engineering techniques to accelerate development
+  - Generalize engagement patterns into reusable platform capabilities and reference
+    architectures
+  - Influence decisions and align stakeholders across business, product, engineering,
+    and risk teams
+  use_cases:
+  - Intelligent automation of enterprise business processes
+  - AI agents interacting with enterprise APIs, knowledge sources, and data platforms
+  - Workflow automation with human-in-the-loop controls in a regulated financial services
+    environment
+  - AI-enabled process transformation from discovery through production adoption
+  skills:
+    genai: [Generative AI, Agentic Workflows, AI Agents, RAG, Vector Databases, Function
+        Calling, MCP, LangGraph, LangChain, LlamaIndex, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: [Workflow Orchestration, Temporal, Responsible AI, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881286'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - New York, USA
+  - Sunnyvale, USA
+  extracted_at: '2026-11-06T13:29:35.918862'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

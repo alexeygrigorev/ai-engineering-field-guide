@@ -1,0 +1,58 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions for semiconductors
+position:
+  title: AI ENGINEER, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and agentic AI into manufacturing
+      workflows and requires prompt engineering, RAG, model
+      evaluation, and building AI agents — the person shapes model
+      behaviour, with LLM/agent components involved. Classical ML
+      (predictive models) is also present, and LLM work makes it
+      ai-first.
+  responsibilities:
+  - Design and build end-to-end AI solutions including data pipelines, feature engineering,
+    model training and inference, APIs, and observability
+  - Develop front-end applications with React, Angular, or Streamlit backed by Python/FastAPI
+    services
+  - Integrate LLMs and agentic AI capabilities into manufacturing and engineering
+    workflows
+  - Build, train and deploy predictive machine learning models for manufacturing decision-making
+  - Integrate robotics platforms, AMRs, tool automation, control systems, and the
+    MES ecosystem
+  - Develop containerized applications with Docker and deploy via Kubernetes or OpenShift
+  - Contribute to CI/CD pipelines, monitoring, drift detection, and model evaluation
+    for production AI applications
+  - Apply Responsible AI practices including input validation, prompt-injection prevention,
+    and model governance
+  use_cases:
+  - AI-powered applications for manufacturing operations across global fabs and assembly/test
+    sites
+  - Predictive ML models for manufacturing and operational decision-making
+  - LLM and agentic AI integration into manufacturing and engineering workflows
+  - Robotics, AMR, and equipment automation integration with the MES ecosystem
+  - Autonomous, data-driven manufacturing operations
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Generative AI]
+    ml: [Feature Engineering, Model Training, Model Evaluation, TensorFlow, PyTorch,
+      scikit-learn, Machine Learning, Deep Learning, Reinforcement Learning, Neural
+        Networks]
+    web: [FastAPI, APIs, React, Angular, Streamlit]
+    databases: [SQL]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, MLOps, Monitoring, Model Deployment]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Responsible AI, Industrial IoT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034091'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:35:47.971950'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

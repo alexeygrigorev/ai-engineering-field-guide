@@ -1,0 +1,47 @@
+company:
+  name: Enjins
+  stage: null
+  focus: |-
+    AI/ML engineering consultancy for climate, energy, mobility
+    scale-ups
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and architects LLM-based and agentic AI
+      systems end-to-end for production, which is shaping model
+      behavior (agent design, LLM system architecture).
+      LLM/agentic components are central, so ai-first.
+  responsibilities:
+  - Develop and implement robust AI/ML/LLM applications end-to-end, scalable and production-ready
+  - Act as hands-on technical lead on client engagements, translating AI architectures
+    into business decisions
+  - Coach engineers and share knowledge on evolving technologies
+  - Apply new AI developments, including agentic AI, into client systems
+  - Oversee project delivery and manage client accounts
+  - Participate in interviews and help shape the company's tools and methods
+  use_cases:
+  - Production-grade ML and agentic AI systems for clients
+  - Scalable AI applications for climate, energy and mobility scale-ups
+  - LLM-based and agentic systems deployed in client production environments
+  - Data infrastructure and MLOps foundations for enterprise AI
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [Software Architecture]
+    databases: []
+    data: [Data Pipelines, Data Engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Docker, Kubernetes, CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7475008'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T15:02:48.007159'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

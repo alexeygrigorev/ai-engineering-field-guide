@@ -1,0 +1,59 @@
+company:
+  name: VT Netzwelt
+  stage: null
+  focus: Software product engineering and AI/ML consulting
+position:
+  title: Software Engineer / Sr. Software Engineer (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and evaluates ML models (shaping) and also
+      builds LLM applications including RAG, embeddings, and fine-
+      tuning/LoRA (shaping LLM behaviour). A role that shapes both
+      classical ML and LLM components is ai-first, with classical
+      ML as the primary focus.
+  responsibilities:
+  - Design, develop and optimise machine learning and predictive models for real-world
+    business problems
+  - Perform data exploration, preprocessing, feature engineering and feature selection
+    on structured and unstructured datasets
+  - Build solutions using regression, classification, clustering, ensembles, forecasting
+    and deep learning
+  - Define evaluation strategies, perform hyperparameter tuning, validation and error
+    analysis
+  - Build scalable batch and real-time inference pipelines and MLOps pipelines for
+    training, deployment, versioning, retraining and monitoring
+  - Monitor model accuracy, data/model drift, latency, cost and production reliability
+  - Contribute to LLM/Generative AI applications including RAG, embeddings, semantic
+    search and AI integrations
+  - Collaborate with clients and internal teams to translate business problems into
+    AI/ML solutions and build POCs
+  use_cases:
+  - Predictive models for real-world business problems
+  - NLP, Computer Vision, recommendation systems and time-series forecasting applications
+  - Scalable batch and real-time ML inference in production
+  - LLM/Generative AI applications with RAG, embeddings and semantic search
+  - AI-powered integrations aligned with client business workflows
+  skills:
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    web: [REST APIs, FastAPI]
+    cloud: [AWS, Azure, GCP]
+    data: [Pandas, NumPy, Airflow, Prefect, Databricks, Data Pipelines, Spark, Data
+        Engineering]
+    ml: [Machine Learning, Data Science, Feature Engineering, scikit-learn, XGBoost,
+      PyTorch, TensorFlow, Neural Networks, Transformers, Hugging Face, LoRA, Model
+        Evaluation]
+    databases: [Snowflake, FAISS, pgvector, Pinecone, Qdrant]
+    genai: [LLMs, RAG, Embeddings, Generative AI, Semantic Search, AI Agents, Agentic
+        Workflows, Graph RAG, Fine-Tuning]
+    ops: [Docker, Git, CI/CD, MLOps, Model Monitoring, MLflow, Kubeflow, Model Deployment]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12089729'
+  location: Mohali, IND
+  extracted_at: '2026-11-06T14:54:28.785206'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

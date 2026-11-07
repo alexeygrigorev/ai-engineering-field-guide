@@ -1,0 +1,57 @@
+company:
+  name: Teleradiology Solutions (TRS)
+  stage: null
+  focus: Teleradiology services and clinical AI for medical imaging
+position:
+  title: Junior AI Engineer – Applied AI (Non-Clinical)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The core work is training and evaluating classical ML models
+      (gradient boosting, forecasting, anomaly detection) for case
+      routing and prioritisation - this is shaping model
+      behaviour, but with no LLM or agent component in the
+      responsibilities; LLMs/RAG appear only as good-to-have. Per
+      Step 2, purely classical ML work is ml-first.
+  responsibilities:
+  - Build, train and evaluate models for case routing, worklist prioritisation, TAT
+    prediction, radiologist scheduling and volume forecasting
+  - Build AI-enabled features in mobile apps (React Native, Flutter, native iOS/Android)
+    integrated with backend model services
+  - Convert, optimize and deploy ML models for production use balancing accuracy,
+    latency, memory and size
+  - Build data pipelines from operational systems, define success metrics and measure
+    model impact against production baselines
+  - Use AI-assisted coding tools like Claude Code while owning review, testing and
+    correctness of shipped code
+  - Package models as tested services (Python, Docker, FastAPI) with unit/regression
+    tests, logging and monitoring
+  - Collaborate with operations, product and engineering teams to turn workflow problems
+    into measurable AI solutions
+  use_cases:
+  - Case routing and worklist prioritisation for 24x7 teleradiology operations
+  - Turnaround time (TAT) prediction for radiology reports
+  - RVU/volume forecasting and radiologist scheduling
+  - Anomaly detection on operational data
+  - AI-enabled features in mobile apps for radiologists and hospital partners
+  - On-device inference for production mobile deployment
+  skills:
+    genai: [LLMs, RAG, Claude Code]
+    ml: [scikit-learn, XGBoost, LightGBM, Time-Series Forecasting, Feature Engineering,
+      Anomaly Detection, Model Evaluation, PyTorch, TensorFlow Lite, Core ML]
+    web: [React Native, FastAPI, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Git, CI/CD, MLflow, Weights & Biases, Linux, Model Deployment]
+    languages: [Python, Swift, Kotlin]
+    domains: []
+    other: [Optimisation, OR-Tools, Flutter, pytest, Healthcare Workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11872121'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:27:40.282352'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

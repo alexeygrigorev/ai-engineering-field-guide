@@ -1,0 +1,59 @@
+company:
+  name: Vector8 Group LTD
+  stage: null
+  focus: |-
+    Production-grade AI solutions for financial services and
+    retail
+position:
+  title: Senior AI/ML Engineer, London
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM agents, orchestration,
+      guardrails, RAG, and prompt engineering, directly shaping
+      model behaviour and output quality. An LLM/agent component
+      is central, so it is ai-first.
+  responsibilities:
+  - Design and build LLM agents and AI workflows with tool integration, orchestration,
+    guardrails and human validation
+  - Integrate LLMs, retrieval and classical ML or speech models with client systems
+    and data
+  - Make AI solutions production-reliable through evaluation, tracing, fallbacks,
+    cost and latency control
+  - Deploy and monitor solutions, including MLOps pipelines for training, fine-tuning,
+    versioning and A/B testing
+  - 'Apply software engineering best practices: testing, CI/CD, modular design, documentation'
+  - Own solutions end to end from client scoping to production monitoring
+  - Mentor junior engineers and translate product requirements into architectural
+    decisions
+  use_cases:
+  - Agentic AI systems integrating with enterprise systems and data
+  - LLM, retrieval and classical ML or speech solutions for financial services and
+    retail clients
+  - Production AI in regulated industries with security and compliance requirements
+  - Reusable AI foundations and accelerators for company-wide AI capabilities
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, Guardrails, Structured
+        Outputs, Function Calling, MCP, LLMs, RAG, Prompt Engineering, Fine-Tuning,
+      LLM Evaluation, Generative AI]
+    ml: [Machine Learning, Transformers, Model Training, Model Evaluation, Quantization,
+      PyTorch, Llama, Mistral]
+    web: [FastAPI, APIs, Pydantic]
+    databases: [Vector Databases, Pinecone, Weaviate, Milvus, Relational Databases,
+      NoSQL]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, GitHub Actions, GitLab CI, ArgoCD, Docker, Kubernetes, Terraform,
+      MLOps, Monitoring, vLLM, A/B Testing]
+    languages: [Python, asyncio]
+    domains: [NLP]
+    other: [Agile, KServe]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11791778'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T13:13:27.730284'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

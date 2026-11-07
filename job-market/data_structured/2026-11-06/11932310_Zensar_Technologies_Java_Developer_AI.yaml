@@ -1,0 +1,46 @@
+company:
+  name: Zensar Technologies
+  stage: null
+  focus: |-
+    Digital solutions and experience engineering services for
+    enterprises
+position:
+  title: Java Developer + AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a generic Java enterprise application developer
+      role; the only AI mention is in the job title. There are no
+      responsibilities involving shaping model behavior, prompts,
+      retrieval, or model evaluation, so it does not qualify as
+      ai-first or ml-first. AI is not meaningfully present beyond
+      the title, making it ai-support.
+  responsibilities:
+  - Design, develop, and maintain scalable, high-performance enterprise applications
+  - Build APIs and microservices using Java and Spring Boot
+  - Work with cloud-native technologies for secure, reliable solutions
+  - Collaborate with cross-functional teams to deliver business-critical applications
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, Microservices, APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Technologies]
+    ops: []
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11932310'
+  location: IND
+  locations:
+  - IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T14:01:28.168987'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

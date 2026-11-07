@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Princeton, NJ, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines that feed model training runs
+      designed by AI scientists; it does not shape model behavior
+      itself (no prompt design, retrieval, evals, or training).
+      Per the dataset rule, building pipelines that feed someone
+      else's training is ai-support, even at an AI company.
+  responsibilities:
+  - Discover new audio data sources and build reliable pipelines into training datasets
+  - Build and improve large-scale data-processing systems optimized for quality, throughput,
+    and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech reading products
+  - Turning written content (PDFs, books, articles) into audio
+  - Accessibility for users with learning differences like dyslexia and ADD
+  - Building petabyte-scale audio datasets for model training
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: [Web Crawlers]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762146'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:48:33.598856'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

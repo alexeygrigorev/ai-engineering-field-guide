@@ -1,0 +1,46 @@
+company:
+  name: Two Sigma
+  stage: null
+  focus: Quantitative investment management and trading
+position:
+  title: 'Quantitative Software Engineer: Generative AI'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads applied research with generative AI and
+      builds NLP/LLM services for production pipelines, which
+      shapes LLM behavior and output quality. LLMs are explicitly
+      central, so it is ai-first.
+  responsibilities:
+  - Lead applied research initiatives using generative AI technologies
+  - Implement and maintain scalable machine learning and NLP systems in production
+    environments
+  - Build NLP and LLM services for research tools and production pipelines
+  - Collaborate with modeling partners to prototype and iterate on emerging NLP research
+  - Develop data pipelines delivering millions of events daily
+  - Translate research publications into practical solutions
+  use_cases:
+  - Collecting and organizing unstructured data including news, social media, and
+    regulatory filings
+  - Automatic signal mining evaluating research hypotheses end-to-end
+  - Interactive research platform backed by a one-petabyte corpus
+  - Delivering millions of events to production trading systems daily
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning, Deep Learning, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12042053'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:37:19.212771'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

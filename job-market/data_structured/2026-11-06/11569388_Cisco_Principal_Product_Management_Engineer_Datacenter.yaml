@@ -1,0 +1,51 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking infrastructure for data centers and AI
+position:
+  title: Principal Product Management Engineer | Datacenter, Networking and AI | 14+
+    years, Bangalore
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a product management role for data center networking
+      hardware/products. AI/ML fabrics are a market the products
+      serve, but the person never shapes model behavior, prompts,
+      retrieval, or training. No LLM or ML work at all, so it is
+      ai-support.
+  responsibilities:
+  - Define Cisco's Data Center Networking strategy and roadmap for AI/ML fabrics and
+    enterprise data center fabrics
+  - Steer the product portfolio by identifying data center market opportunities and
+    defining new product strategy
+  - Work with engineering, supply chain, finance, customer service, sales, and channel
+    partner teams to build differentiated products
+  - Develop business plans including market analysis, competitive analysis, financial
+    models, and pricing proposals
+  - Build product marketing content such as presentations, blogs, and videos
+  - Provide product briefings to customers and partners and cultivate relationships
+  - Present Cisco's Data Center Networking vision at internal and external events
+  use_cases:
+  - Secure, scalable networking fabrics for AI/ML clusters in data centers
+  - Enterprise data center networking infrastructure
+  - Hyperscale, neocloud, sovereign-cloud, and public sector data center modernization
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Networking Protocols]
+    other: [Data Center Networking, Product Management, Product Marketing, Financial
+        Analysis, Market Analysis]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11569388'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:13:07.249248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

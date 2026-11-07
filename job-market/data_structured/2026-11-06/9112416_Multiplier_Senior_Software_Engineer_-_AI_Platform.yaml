@@ -1,0 +1,57 @@
+company:
+  name: Multiplier
+  stage: null
+  focus: |-
+    Global employment platform for hiring, onboarding, and
+    payroll
+position:
+  title: Senior Software Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role must build AI-powered tooling themselves, including
+      prompting, evaluation, and guardrails for LLM-based
+      workflows like test generation and failure triage. That is
+      directly shaping LLM behavior/output quality, so it is ai-
+      first despite the platform-engineering framing.
+  responsibilities:
+  - Contribute to the Platform roadmap from problem discovery to rollout and adoption
+  - Build developer productivity tools and frameworks that scale quality across teams
+  - Design and implement CI quality gates across unit, integration, API, contract,
+    and E2E testing
+  - Embed AI-assisted workflows such as test generation, failure analysis, flake detection,
+    and regression recommendations
+  - Build platforms for automation utilities, reporting, and observability to reduce
+    engineering toil
+  - Set standards and build reusable libraries and SDKs for engineering teams
+  - Partner with Product Engineering, SRE/Platform, and Security teams to improve
+    release confidence
+  use_cases:
+  - AI-assisted test generation and test data generation
+  - Automated failure analysis and flake detection
+  - Regression recommendations and smarter triage
+  - Developer productivity and quality tooling platform
+  - Quality signals and CI gates to prevent production issues
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, LLM Evaluation, Guardrails]
+    ml: []
+    web: [APIs, GraphQL, REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [CI/CD, Observability, Distributed Systems]
+    languages: [Java, JavaScript, TypeScript, Go, Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9112416'
+  location: Colombo, LKA
+  locations:
+  - Colombo, LKA
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T15:04:18.759566'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

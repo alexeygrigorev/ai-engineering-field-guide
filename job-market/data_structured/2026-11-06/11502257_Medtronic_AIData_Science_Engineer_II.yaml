@@ -1,0 +1,49 @@
+company:
+  name: Medtronic
+  stage: null
+  focus: Healthcare technology and medical devices
+position:
+  title: AI/Data Science Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, evaluates, and optimizes prompts for LLM
+      applications, which directly shapes model output quality.
+      Combined with integrating AI/ML solutions into production
+      apps, this is ai-first.
+  responsibilities:
+  - Design, evaluate, and optimize prompts for LLM and AI-enabled applications
+  - Develop and maintain full stack applications using Python, Vue, JavaScript, and
+    TypeScript
+  - Integrate AI and machine learning solutions into production-grade software applications
+  - Apply machine learning techniques from data preparation through model deployment
+    and evaluation
+  - Manage application deployment, support, and troubleshooting in IIS and Windows
+    server environments
+  - Produce technical documentation for traceability, reproducibility, and audit readiness
+  - Collaborate with engineering, product, and business stakeholders
+  - Contribute to technical design, code reviews, testing, and debugging
+  use_cases:
+  - AI-enabled enterprise applications for healthcare technology
+  - LLM-powered applications with optimized prompts
+  - Production deployment of machine learning models
+  skills:
+    genai: [Prompt Engineering, LLMs]
+    ml: [Machine Learning, Feature Engineering, Model Evaluation]
+    web: [Vue]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [IIS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11502257'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:01:25.630651'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: YipitData
+  stage: null
+  focus: Market research and analytics using alternative data
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, fine-tunes, and evaluates ML/DL models
+      (Step 1: shaping), but the model work centers on classical
+      ML/NLP with LLMs only mentioned as a supporting area of
+      research alongside predictive analytics. No prompt
+      engineering, RAG, or agent design is named. However, since
+      NLP/LLMs are explicitly part of the model development and
+      fine-tuning scope, this leans ai-first? No — the LLM work is
+      via Hugging Face Transformers fine-tuning, which involves
+      training/evaluating generative models (ml-first per rules).
+      Actually LLM fine-tuning is named, so ai-first applies.
+      Reconsidering: LLMs are named as core responsibilities
+      (fine-tuning LLMs), making this ai-first.
+  responsibilities:
+  - Develop, train, and fine-tune machine learning models
+  - Clean, preprocess, and feature-engineer large datasets for training
+  - Implement and optimize deep learning models using TensorFlow, PyTorch, or scikit-learn
+  - Support R&D of AI applications in NLP, LLMs, and predictive analytics
+  - Collaborate with software engineers to deploy and integrate models into production,
+    including API services
+  - Conduct experiments and enhance model accuracy, efficiency, and latency
+  use_cases:
+  - NLP applications for market research and analytics
+  - Large language model development for alternative data analysis
+  - Predictive analytics on large alternative datasets
+  skills:
+    languages: [Python]
+    domains: [NLP]
+    web: []
+    cloud: [SageMaker, Vertex AI, Azure]
+    data: [Pandas, NumPy]
+    ml: [Machine Learning, Deep Learning, PyTorch, TensorFlow, Model Training, Fine-Tuning,
+      Model Deployment, Model Evaluation, scikit-learn, Hugging Face, Transformers,
+      spaCy, Feature Engineering]
+    databases: []
+    genai: [LLMs]
+    ops: [MLOps, CI/CD]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11931774'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:00:40.833685'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

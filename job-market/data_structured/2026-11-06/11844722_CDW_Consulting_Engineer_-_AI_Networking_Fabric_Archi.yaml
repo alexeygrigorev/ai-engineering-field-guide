@@ -1,0 +1,53 @@
+company:
+  name: CDW
+  stage: Fortune 500
+  focus: Technology solutions and services provider
+position:
+  title: Consulting Engineer - AI Networking & Fabric Architecture
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role implements and validates network fabrics
+      (InfiniBand, RoCE, Ethernet) that transport AI/GPU cluster
+      traffic but never shapes model behavior—no prompting, RAG,
+      training, or evals. Serving infrastructure for AI workloads
+      is ai-support.
+  responsibilities:
+  - Implement and validate high-performance AI network fabrics using InfiniBand, Ethernet,
+    and RoCE
+  - Configure lossless networking, congestion management, QoS, routing, telemetry,
+    and fabric-management components
+  - Support GPU-to-GPU, node-to-node, storage, and management network connectivity
+    for distributed training and inference
+  - Execute installation, burn-in, performance validation, troubleshooting, and knowledge
+    transfer at customer sites
+  - Provide technical input for SOWs, ROMs, LOEs, and implementation plans
+  - Create and maintain as-built documentation, test plans, and client handoff materials
+  - Manage time and expense against Statement of Work expectations
+  use_cases:
+  - High-performance network fabrics for GPU clusters running distributed AI training
+  - Lossless data-center networking for accelerated computing
+  - GPU-to-GPU and node-to-node connectivity for training and inference environments
+  - AI storage and management network infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [InfiniBand, Ethernet Switching, RoCE, RDMA, GPUDirect RDMA, BGP, VLANs,
+      Telemetry, Quality of Service, NVIDIA Spectrum-X, NVIDIA Quantum InfiniBand,
+      Cumulus Linux, SONiC, NVIDIA UFM, NetQ, Linux]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11844722'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:22:43.870313'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

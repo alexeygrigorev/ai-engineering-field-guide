@@ -1,0 +1,48 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPUs and accelerated computing hardware
+position:
+  title: Senior Physical Design AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI solutions for physical design
+      teams, benchmarking across AI models and evaluating output
+      quality, which is shaping LLM/agent behavior. Primary
+      deliverable is agent solutions for chip design workflows, so
+      it is ai-first.
+  responsibilities:
+  - Collaborate with Physical Design Implementation teams to understand complex problems
+    and build agentic AI solutions for all product lines
+  - Deliver efficient, token-optimized AI solutions that consistently produce high-quality
+    outputs
+  - Provide continuous support, maintenance, and enhancements for AI solutions
+  - Benchmark solutions across various AI models to evaluate and improve their effectiveness
+  - Research and innovate new AI methods to address evolving physical design challenges
+  - Build robust regression testbenches to validate quality, reliability, and performance
+    of AI solutions
+  use_cases:
+  - Agentic AI solutions for semiconductor physical design implementation
+  - Improving productivity, efficiency, and quality across NVIDIA product lines
+  - Token-optimized AI assistance for RTL-to-GDSII chip implementation flows
+  skills:
+    genai: [Agentic Workflows, Claude Code, Codex, Cursor, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Tcl, Python]
+    domains: [Physical Design]
+    other: [RTL-to-GDSII, Synthesis, Place and Route, Clock Tree Synthesis, Timing
+        Convergence, Synopsys ICC2, Cadence Innovus]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11543297'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:08:30.028876'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

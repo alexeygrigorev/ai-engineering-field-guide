@@ -1,0 +1,61 @@
+company:
+  name: HP
+  stage: null
+  focus: |-
+    Personal computers, printers, and enterprise
+    hardware/software
+position:
+  title: Open AI Platform Engineer and Infrastructure Support
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, integrates, governs, and supports an OpenAI
+      platform (availability, access governance, monitoring,
+      performance) but never shapes model behavior via prompts,
+      retrieval, or fine-tuning. Enabling other developers to use
+      AI tools and securing the AI ecosystem is
+      plumbing/enablement, so it is ai-support. Mentions of
+      reportees make it a management role.
+  responsibilities:
+  - Lead OpenAI platform engineering and infrastructure support ensuring availability,
+    scalability, and operational excellence
+  - Manage AI platform integrations, access governance, monitoring, and performance
+    optimization for enterprise adoption
+  - Collaborate with security, compliance, and infrastructure teams to deliver a secure
+    and reliable AI ecosystem
+  - Support AI enablement initiatives with technical guidance, troubleshooting, automation,
+    and platform enhancements
+  - Perform data analytics to support AI governance and data management
+  - Build standards, designs, and automated deployment for software projects aligned
+    with business and security strategies
+  - Contribute to technology strategy, engineering roadmaps, and proof-of-concept
+    execution
+  - Guide and coach reportees and manage scheduling, manpower, and cost estimation
+  use_cases:
+  - Enterprise AI platform availability, integration, and governance
+  - Secure and reliable AI ecosystem for internal developer adoption
+  - AI enablement, troubleshooting, and automation support
+  - AI governance and data management analytics
+  skills:
+    genai: [OpenAI API]
+    ml: []
+    web: [APIs, Full-Stack Development, React]
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [DevOps, Docker, Kubernetes]
+    languages: [C++, Java, JavaScript, Python, SQL]
+    domains: []
+    other: [AI Strategy, Automation, Microservices, Scalability, Software Engineering,
+      Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '12064949'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - Tlaquepaque, MEX
+  extracted_at: '2026-11-06T14:45:12.449278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

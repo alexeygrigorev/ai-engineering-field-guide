@@ -1,0 +1,61 @@
+company:
+  name: Euromonitor International
+  stage: null
+  focus: |-
+    Global market research, data analytics and business
+    intelligence
+position:
+  title: Senior Software Engineer - Data Science & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval/RAG (chunking, hybrid search,
+      reranking, embeddings), builds LLM-as-judge evaluation
+      harnesses, and contributes to agent frameworks and tool
+      registries — directly shaping LLM behaviour and output
+      quality, so ai-first.
+  responsibilities:
+  - Develop reusable ranking, personalisation and recommendation components from experimentation
+    through to shared production services
+  - Build and operate the evaluation harness as a shared service including golden
+    datasets, LLM-as-judge pipelines and regression gates
+  - 'Advance shared retrieval capability across structured and unstructured data:
+    chunking, hybrid search, reranking, embedding lifecycle'
+  - Design and build versioned, documented backend services and APIs for the AI platform
+    (retrieval, ranking, evaluation, agentic components)
+  - Contribute to the agent framework, skills and tool registry with clean SDK surfaces
+  - Embed observability, cost/token telemetry, quality gates and Responsible AI controls
+    in platform components
+  - Onboard consuming teams via reference implementations, documentation and paved
+    road patterns
+  - Collaborate with Engineering, Architecture and Data Platform teams on cloud native
+    alignment
+  use_cases:
+  - Ranking, personalisation and recommendations on a market research platform
+  - Hybrid and semantic search over structured and unstructured research content
+  - Agentic AI features and new AI-first products built on the Passport platform
+  - LLM output quality evaluation and regression gating for AI components
+  - Reusable AI platform services consumed by multiple product teams
+  skills:
+    genai: [Generative AI, RAG, LangGraph, LangChain, LlamaIndex, Semantic Kernel,
+      Prompt Engineering, LLM Evaluation, MCP, Function Calling, AutoGen, CrewAI,
+      AI Agents, Embeddings, Ragas, DeepEval]
+    ml: [Machine Learning, NLP, PyTorch, TensorFlow, scikit-learn, Fine-Tuning]
+    web: [APIs]
+    databases: [Elasticsearch, OpenSearch, Azure AI Search, pgvector, Vector Databases,
+      Vector Search]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP, AKS, Azure ML, SageMaker, Vertex AI]
+    ops: [Kubernetes, OpenTelemetry, LangSmith, Langfuse, CI/CD, Azure DevOps, GitHub
+        Actions, MLflow, Responsible AI]
+    languages: [Python, C#, Java, Go, TypeScript, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11610968'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:20:48.381845'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

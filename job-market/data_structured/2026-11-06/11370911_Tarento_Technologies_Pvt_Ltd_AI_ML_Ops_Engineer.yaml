@@ -1,0 +1,54 @@
+company:
+  name: Tarento Technologies Pvt Ltd.
+  stage: null
+  focus: |-
+    Technology consulting: digital transformation and product
+    engineering
+position:
+  title: AI ML Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, monitors, and scales models (ASR/NMT/TTS)
+      built by others on GPU infrastructure with Docker,
+      Kubernetes, and Triton. The deliverable is serving capacity
+      and pipeline reliability, not model behaviour, so per the
+      edge-case rules it is ai-support.
+  responsibilities:
+  - Deploy and scale ASR, NMT, and TTS models on GPU servers using Docker, Kubernetes,
+    and Triton Inference Server
+  - Build and maintain CI/CD pipelines moving models from training to production
+  - Monitor services for latency, throughput, errors, and GPU utilization and debug
+    production issues
+  - Optimize inference performance for real-time use cases such as live transcription
+    and voice agents
+  - Manage GPU capacity across cloud and on-prem environments
+  use_cases:
+  - Live transcription
+  - Voice agents
+  - Speech translation (NMT)
+  - Text-to-speech serving
+  - Real-time low-latency ML inference
+  skills:
+    genai: []
+    ml: [CUDA, Model Deployment, Machine Learning]
+    web: [FastAPI, gRPC]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Triton, CI/CD, GitHub Actions, GitLab CI, Jenkins, TorchServe,
+      Linux, Prometheus, Grafana, TensorRT, Helm, Terraform]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11370911'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - Indore, IND
+  extracted_at: '2026-11-06T11:36:57.732520'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

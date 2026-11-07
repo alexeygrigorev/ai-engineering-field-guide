@@ -1,0 +1,66 @@
+company:
+  name: Félix (felixpago)
+  stage: Series C, backed by over $300 million in funding
+  focus: |-
+    AI-powered cross-border remittances and financial services
+    for US Latinos
+position:
+  title: AI Developer Relations Engineer (Copy)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires agent/evaluation knowledge: defining
+      evaluations, assessing tool calling, multi-step
+      orchestration, structured outputs, quality/latency risks,
+      and prototyping with LLM SDKs. Defining evals and assessing
+      output quality is shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Translate AI priorities into technical plans with scope, requirements, milestones,
+    success metrics, and acceptance criteria
+  - Turn incomplete briefs into testable hypotheses, baselines, and measurable outcomes
+  - Coordinate technical dependencies across Engineering, Product, Data, FDE, AI Enterprise,
+    and platform teams
+  - Drive technical decisions with engineers, making trade-offs explicit and recording
+    outcomes
+  - Manage execution and risk, tracking commitments, removing blockers, and escalating
+    early
+  - Coordinate evaluations and deployment readiness covering quality, latency, cost,
+    and permissions risks
+  - Secure named owners for support, monitoring, and maintenance and measure solution
+    impact
+  - Work with AISec and the AI Governance Committee so reviews happen early
+  use_cases:
+  - Conversational AI interface for cross-border remittances
+  - Agent-based integrations with multi-step orchestration deployed across internal
+    teams
+  - AI evaluations covering quality, latency, cost, and permissions
+  - Customer experience and compliance metrics in a fintech setting
+  skills:
+    genai: [OpenAI API, LLMs, Function Calling, Agentic Workflows, Structured Outputs,
+      LLM Evaluation, RAG]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088084'
+  location: Miami, USA
+  locations:
+  - Miami, USA
+  - Seattle, USA
+  - New York, USA
+  - Guadalajara, MEX
+  - San Francisco, USA
+  - Mexico, MEX
+  - ARG
+  remote: true
+  extracted_at: '2026-11-06T14:53:36.403946'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

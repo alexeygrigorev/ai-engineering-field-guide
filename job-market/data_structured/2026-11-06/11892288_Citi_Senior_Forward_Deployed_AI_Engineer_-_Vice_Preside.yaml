@@ -1,0 +1,59 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior Forward Deployed AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM agent behavior: implementing
+      agent reasoning loops, dynamic tool calling, MCP servers,
+      RAG pipelines, prompt chains, guardrails, and evaluation
+      suites for LLM-based agents. This is hands-on GenAI/LLM
+      engineering at customer sites, which is ai-first.
+  responsibilities:
+  - Implement production-quality agent reasoning loops, tool calling, memory management,
+    and sub-agent delegation in Python
+  - Build and maintain custom MCP servers and API connectors integrating agents with
+    enterprise systems
+  - Develop and optimize RAG components including document parsing, embeddings, vector
+    indexing, and semantic search
+  - Implement resilience patterns such as retries, circuit breaking, fallbacks, and
+    Human-in-the-Loop escalation
+  - Build structured output validation layers with Pydantic and JSON Schema
+  - Integrate AI guardrails for prompt injection defense, jailbreak mitigation, and
+    PII redaction
+  - Build automated evals, regression testbeds, and golden datasets integrated into
+    CI/CD pipelines
+  - Collaborate directly with Line of Business users to build and iterate on agent
+    prototypes from daily feedback
+  use_cases:
+  - Autonomous AI agents that reason, plan, and execute multi-step enterprise workflows
+  - Intelligent agents integrated with enterprise systems like ticketing, databases,
+    and message queues
+  - Retrieval-augmented document search and semantic retrieval for business users
+  - Automated support and operational workflow tools for traders, bankers, and analysts
+  - Safe and governed agent execution with guardrails, PII redaction, and human-in-the-loop
+    escalation
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, Agentic Workflows, AI Agents, MCP, Function
+        Calling, RAG, Prompt Engineering, Embeddings, Semantic Search, Guardrails,
+      Structured Outputs]
+    ml: []
+    web: [REST APIs, gRPC]
+    databases: [Vector Databases, NoSQL]
+    data: []
+    cloud: [Azure OpenAI, Vertex AI]
+    ops: [Docker, Git, CI/CD, Linux]
+    languages: [Python, Java, Go, Pydantic, JSON Schema]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11892288'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:43:53.174020'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

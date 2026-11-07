@@ -1,0 +1,56 @@
+company:
+  name: Félix (felixpago)
+  stage: Series C
+  focus: |-
+    AI-powered conversational cross-border financial services
+    for Latinos
+position:
+  title: Machine Learning Data Engineer (LLM & Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds fine-tuning data pipelines (SFT/RLHF/DPO),
+      synthetic data generation via prompt engineering, LLM/agent
+      evaluation telemetry, and RAG vector database data flows —
+      all directly shaping model behaviour and output quality. LLM
+      components are central, so ai-first.
+  responsibilities:
+  - Design automated, scalable data pipelines to extract, clean, and format datasets
+    for LLM fine-tuning (SFT, RLHF, DPO)
+  - Build telemetry and sampling systems to continuously evaluate and benchmark live
+    LLM and AI agent performance
+  - Architect and scale synthetic data generation workflows using foundational models
+    to cover edge cases and mitigate bias
+  - Implement automated data quality checks, deduplication, and toxicity filtering
+    for training data
+  - Integrate data pipelines with model training infrastructure and CI/CD for model
+    updates alongside ML and DevOps teams
+  - Manage and optimize data flows into vector databases supporting RAG for agentic
+    workflows
+  use_cases:
+  - Fine-tuning LLMs for a conversational financial assistant for the US Latino community
+  - Autonomous AI agents for cross-border remittances and financial services
+  - Real-time evaluation and benchmarking of production LLM and agent performance
+  - RAG-powered agentic workflows over financial data
+  - Synthetic data generation to cover edge cases and mitigate bias in training data
+  skills:
+    genai: [LLMs, Fine-Tuning, RLHF, Prompt Engineering, RAG, AI Agents, Agentic Workflows,
+      OpenAI API, Anthropic API, Hugging Face, Llama, LangChain, LlamaIndex, AutoGen,
+      DPO, Semantic Search]
+    ml: [Synthetic Data Generation, MLflow]
+    web: []
+    databases: [Vector Databases, Pinecone, Milvus, Weaviate, Qdrant, Vector Search]
+    data: [Data Pipelines, Kafka, Flink, Workflow Orchestration]
+    cloud: [GCP]
+    ops: [CI/CD, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11830387'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:21:43.884861'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

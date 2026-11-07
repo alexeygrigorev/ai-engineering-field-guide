@@ -1,0 +1,49 @@
+company:
+  name: Law In Order Pty Ltd
+  stage: null
+  focus: Legal tech, eDiscovery and eHearings services
+position:
+  title: Lead Full Stack AI Engineer (.NET)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents and LLM applications
+      themselves: prompt engineering, RAG, vector databases, tool
+      calling, and multi-step workflows. This is directly shaping
+      LLM behavior, so it is ai-first despite the full-stack lead
+      title.
+  responsibilities:
+  - Lead, mentor and set direction for a team of Senior Full Stack AI Engineers
+  - Design, build and deploy AI agents and LLM-powered applications with tool calling,
+    multi-step workflows and RAG
+  - Build tools supporting eDiscovery (on Relativity aiR) and eHearings, and automate
+    internal business processes
+  - Build full stack .NET web applications and APIs, and Python AI services
+  - Work with business stakeholders, Business Analyst and Product Owner to turn requirements
+    into working software
+  - Lead Agile delivery and own CI/CD pipelines, cloud deployment and production quality
+  use_cases:
+  - eDiscovery automation on Relativity aiR
+  - eHearings support tools
+  - Automation of internal legal business processes
+  - LLM-powered applications with multi-step agentic workflows and RAG
+  skills:
+    languages: [C#, .NET, Python]
+    domains: []
+    web: [ASP.NET Core, Angular, React, APIs]
+    cloud: [Azure, AWS]
+    data: []
+    ml: [OCR]
+    databases: [Vector Databases, SQL Server]
+    genai: [Prompt Engineering, RAG, Anthropic API, Azure OpenAI, LangChain, MCP,
+      AI Agents, Function Calling, LLMs]
+    ops: [Entity Framework, CI/CD, Docker, Kubernetes, Infrastructure as Code]
+    other: [Agile, Legal Tech, eDiscovery, Relativity, SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027500'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:32:34.570309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

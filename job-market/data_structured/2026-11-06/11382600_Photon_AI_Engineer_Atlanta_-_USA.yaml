@@ -1,0 +1,49 @@
+company:
+  name: Photon
+  stage: null
+  focus: Digital technology consulting and enterprise AI services
+position:
+  title: AI Engineer | Atlanta - USA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI/LLM applications with hands-on prompt
+      engineering, RAG, agents/agentic workflows, tool calling,
+      and model evaluation - directly shaping LLM behavior. Hence
+      ai-first.
+  responsibilities:
+  - Build, enhance, and support Generative AI/LLM-based applications in production
+    environments
+  - Integrate applications with LLMs, AI services, and enterprise APIs
+  - Apply GenAI concepts including prompt engineering, RAG, AI agents, and tool calling
+  - Develop and consume REST APIs integrating with enterprise systems and data sources
+  - Troubleshoot complex production issues across application, integration, AI/model,
+    and platform layers
+  - Monitor and evaluate AI applications including observability and cost optimization
+  - Ensure security, privacy, and responsible AI practices in enterprise AI applications
+  use_cases:
+  - Enterprise LLM-based application development
+  - Enterprise knowledge retrieval with RAG and semantic search
+  - Multi-step AI agent workflows
+  - Integration of AI capabilities with enterprise applications and APIs
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Agentic Workflows, RAG, Prompt Engineering,
+      Function Calling, Embeddings, Semantic Search, LLM Evaluation]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11382600'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:38:34.398638'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

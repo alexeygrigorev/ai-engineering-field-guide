@@ -1,0 +1,53 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud hybrid cloud and storage platforms
+position:
+  title: Systems Platform QA and AI engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core role is QA/automation engineering for enterprise
+      storage platforms; AI/ML appears as techniques applied to
+      internal quality problems (failure analysis, anomaly
+      detection) with GenAI/LLMs only preferred, not a
+      responsibility shaping model behavior. No evidence of
+      designing prompts, RAG, agent flows, or training as primary
+      duties.
+  responsibilities:
+  - Drive end-to-end quality engineering for enterprise storage platforms covering
+    hardware, firmware, BIOS, BMC/iLO, OS, kernel, drivers, storage protocols, and
+    platform software
+  - Design and develop scalable test automation frameworks and tools primarily in
+    Python
+  - Troubleshoot cross-layer interactions and dependencies in large-scale enterprise
+    storage environments for root cause analysis
+  - Apply AI/ML-based approaches to engineering quality problems such as failure analysis,
+    test optimization, anomaly detection, and workflow automation
+  - Build reusable tools and utilities improving engineering productivity, test effectiveness,
+    and observability
+  - Mentor, share knowledge, and promote collaboration and continuous learning
+  use_cases:
+  - Failure analysis in enterprise storage platforms
+  - Test optimization for hardware/software validation
+  - Anomaly detection in large-scale systems
+  - Workflow automation for QA engineering
+  skills:
+    genai: [LLMs, Prompt Engineering, Generative AI]
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Python]
+    domains: []
+    other: [Enterprise Storage Systems, Distributed Systems, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11495906'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:59:23.887183'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

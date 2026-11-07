@@ -1,0 +1,46 @@
+company:
+  name: Globalization Partners
+  stage: null
+  focus: SaaS global employment and expansion platform
+position:
+  title: Senior Software Engineer - AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a backend/cloud platform engineer. "AI native /
+      AI first approach" is a methodology statement with no
+      responsibilities involving shaping LLM behavior, prompts,
+      retrieval, or agent design. AI in production is only a
+      "plus" preference, so this is ai-support.
+  responsibilities:
+  - Design and develop cloud-based platform services across the G-P ecosystem
+  - Turn ideas into prototypes and then production-grade code
+  - Build solutions for a cloud-managed, serverless-first platform
+  - Advocate agile methodologies, scalability, and quality practices including full
+    test suites
+  - Diagnose and fix issues reported by internal teams and customers
+  - Coach and support other software engineers
+  use_cases:
+  - Global employment platform enabling hiring across 180+ countries
+  - Cloud-managed serverless platform services and frameworks
+  - Integration of CRM and third-party systems with internal workflows
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Redis, MySQL, PostgreSQL, MongoDB, DynamoDB, NoSQL]
+    data: [Data Modeling, Data Governance]
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Node.js, Java, Python, Go]
+    domains: []
+    other: [Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11434196'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:50:10.247570'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

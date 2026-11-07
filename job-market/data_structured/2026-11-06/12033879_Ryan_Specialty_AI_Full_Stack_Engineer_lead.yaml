@@ -1,0 +1,58 @@
+company:
+  name: Ryan Specialty
+  stage: null
+  focus: Specialty insurance and wholesale brokerage services
+position:
+  title: AI Full Stack Engineer lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered features themselves:
+      RAG pipelines, AI agent integration with
+      LangChain/LangGraph, prompt engineering, and fine-tuning
+      LLMs. This is shaping model behavior with a clear LLM/agent
+      component, so it is ai-first.
+  responsibilities:
+  - Design and develop full stack applications with AI-native features, integrating
+    LLM APIs into frontend and backend layers
+  - Develop RESTful and GraphQL APIs exposing AI agent capabilities to clients and
+    third-party systems
+  - Build responsive modern UIs with React/Next.js that interact with AI backends
+    in real time
+  - Implement RAG pipelines using vector databases (Azure AI Search) for contextual
+    AI applications
+  - Containerize and deploy full stack AI applications to Azure/AWS using Docker,
+    Kubernetes, and CI/CD pipelines
+  - Monitor, evaluate, and improve LLM-powered features through prompt engineering,
+    fine-tuning, and feedback loops
+  - Collaborate with product, data, and DevOps teams to ship AI-powered features from
+    prototype to production
+  use_cases:
+  - AI-powered full stack web applications with real-time streaming responses
+  - Contextual AI applications via RAG and semantic search
+  - AI agent capabilities exposed through APIs to clients and third-party systems
+  - LLM-powered product features improved through prompt engineering and feedback
+    loops
+  - Multi-modal AI applications (vision, speech, document intelligence)
+  skills:
+    genai: [OpenAI API, Azure OpenAI, Anthropic API, LLMs, AI Agents, RAG, Prompt
+        Engineering, Fine-Tuning, Embeddings, Semantic Search, Function Calling, LangChain,
+      LangGraph, AutoGen, CrewAI, Gemini, GitHub Copilot, Cursor, Claude Code, Generative
+        AI]
+    ml: []
+    web: [FastAPI, Flask, REST APIs, GraphQL, React, Next.js, Node.js, APIs]
+    databases: [PostgreSQL, MongoDB, Redis, Azure AI Search, Vector Databases, NoSQL]
+    data: []
+    cloud: [Azure, AWS, Azure AI Foundry, Azure ML, AWS Bedrock]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Model Monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: [Document Intelligence]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12033879'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:35:10.511536'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Zaizi
+  stage: null
+  focus: Public sector and UK government digital consultancy
+position:
+  title: Lead Machine Learning Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role acts as the organization's generative AI subject-
+      matter expert, researching, prototyping, customizing,
+      optimizing and re-training models, and choosing which models
+      are used in products. This is shaping model behaviour and
+      output quality on generative AI targets, so it is ai-first.
+  responsibilities:
+  - Design, build, test, and deploy complex machine learning models with high quality,
+    performance, and scalability
+  - Decide which models are most suitable for use in products and services
+  - Design and manage MLOps pipelines covering CI/CD, monitoring, and model retraining
+  - Customise, optimise, re-train and maintain existing models
+  - Deploy models into production and assure they meet performance requirements
+  - Integrate models with existing systems and ensure live models stay safe, secure,
+    and effective
+  - Research and evaluate new generative AI technologies for feasibility in the National
+    Security domain
+  - Deliver complex, high-risk AI proofs of concept and mentor junior team members
+  use_cases:
+  - Automating business tasks for public sector organisations
+  - Gaining insights from government data
+  - AI applications in the National Security domain
+  - Automated model retraining and monitoring in production services
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Model Training, Fine-Tuning, Model Evaluation, Data Science]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [MLOps, CI/CD, Model Deployment, Monitoring, Model Monitoring]
+    languages: []
+    domains: []
+    other: [Agile, Prototyping]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11568995'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:12:52.280364'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

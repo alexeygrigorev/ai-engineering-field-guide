@@ -1,0 +1,49 @@
+company:
+  name: Netcompany
+  stage: null
+  focus: IT consulting and digital transformation services
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds, deploys, and evaluates classical ML models
+      (regression, trees, XGBoost, forecasting) with no LLM,
+      prompt, RAG, or agent component mentioned. Model development
+      and evaluation directly shape model behaviour, so it is ml-
+      first.
+  responsibilities:
+  - Design and implement data science and AI solutions translating requirements into
+    technical components
+  - Apply machine learning techniques to analyse data and solve business problems
+  - Build, test, and deploy machine learning models into production environments
+  - Design and maintain MLOps pipelines for scalable and maintainable solutions
+  - Work with clients and internal teams to gather requirements and communicate findings
+  - Apply responsible AI principles and support governance and compliance standards
+  - Mentor junior data scientists and engineers
+  use_cases:
+  - Client-facing data science and AI solutions across the full development lifecycle
+  - Predictive modelling for business problems using regression, tree ensembles, clustering,
+    anomaly detection, and forecasting
+  - Production deployment and monitoring of ML models
+  - AI/ML solutions for public sector organisations handling sensitive public data
+  skills:
+    genai: []
+    ml: [scikit-learn, TensorFlow, PyTorch, Machine Learning, XGBoost, Anomaly Detection,
+      Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure ML, SageMaker, Vertex AI]
+    ops: [MLOps, Monitoring]
+    languages: [Python, C#, SQL, R]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11595280'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:18:10.023050'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

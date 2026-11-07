@@ -1,0 +1,49 @@
+company:
+  name: Fundrise
+  stage: null
+  focus: Direct-to-investor alternative asset investment platform
+position:
+  title: AI Infrastructure Deployment Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an electrical/field engineer deploying GPU
+      compute site infrastructure (power, fiber, permitting,
+      commissioning). There is no model shaping - no prompts,
+      retrieval, agent design, training, or evals - only
+      hosting/scaling infrastructure for compute. Per the edge
+      cases, serving/scaling models someone else builds is ai-
+      support.
+  responsibilities:
+  - Evaluate candidate sites for viable power, equipment, fiber, access, and permitting
+    conditions
+  - Define electrical infrastructure upgrades for distributed GPU compute deployments
+  - Lead deployment of modular GPU-compute nodes from diligence through commissioning
+  - Coordinate utility companies, electrical contractors, engineering consultants,
+    network providers, equipment vendors, and property teams
+  - Travel frequently to properties across the United States for field work
+  use_cases:
+  - Distributed GPU compute infrastructure platform across industrial, commercial,
+    and build-to-rent properties
+  - Modular GPU-compute node deployment for AI compute capacity
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Electrical Engineering, Site Evaluation, Power Infrastructure, Permitting,
+      Vendor Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11577841'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:14:35.554978'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

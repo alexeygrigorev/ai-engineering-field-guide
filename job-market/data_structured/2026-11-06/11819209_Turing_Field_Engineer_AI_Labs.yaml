@@ -1,0 +1,63 @@
+company:
+  name: Turing
+  stage: null
+  focus: |-
+    AI training data, benchmarks, and enterprise agentic AI
+    solutions
+position:
+  title: Field Engineer, AI Labs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role runs comprehensive evaluations of frontier LLMs,
+      designs/structures benchmarks, builds LLM-as-a-judge
+      pipelines, and analyzes model output quality and failure
+      modes — judging model output quality is shaping, and the
+      targets are LLMs, so ai-first. The forward-deployed nature
+      reinforces but is not required for the classification.
+  responsibilities:
+  - Connect frontier model APIs and inference endpoints into evaluation harnesses
+  - Execute large-scale benchmark runs across proprietary Turing datasets including
+    reasoning, coding, multimodal, and agentic environments
+  - Analyze eval results, isolate failure cases, detect behavioral drift, and identify
+    data distributions to address capability gaps
+  - Serve as technical counterpart to sales leads on calls with frontier AI labs and
+    enterprise AI teams
+  - Translate evaluation metrics into reports, presentations, and technical collateral;
+    answer technical questionnaires and RFIs
+  - Operate internal data infrastructure (DataOS, Data Hub, task catalogs) to query,
+    curate, and move data
+  - Own last-mile delivery, schema alignment, and packaging of data deliverables to
+    client specifications
+  - Surface lab feedback and emerging benchmark requirements to internal R&D and dataset
+    design teams
+  use_cases:
+  - Evaluating frontier LLM performance against proprietary benchmark datasets
+  - Uncovering model failure modes and behavioral drift to guide data procurement
+  - Pre-training and post-training data curation and delivery for frontier AI labs
+  - Agentic and coding benchmark evaluation (agent benchmarks, SWE-bench style tasks)
+  - Enterprise deployment of agentic AI systems in mission-critical workflows
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM Evaluation, Agentic Workflows, LoRA, Fine-Tuning,
+      LLMs, Generative AI]
+    ml: [Model Evaluation, Embeddings, Synthetic Data Generation]
+    web: [REST APIs, gRPC]
+    databases: []
+    data: [Pandas, Data Pipelines]
+    cloud: [AWS Bedrock]
+    ops: [vLLM]
+    languages: [Python, SQL]
+    domains: []
+    other: [Benchmark Design, SWE-bench]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11819209'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:18:15.260711'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

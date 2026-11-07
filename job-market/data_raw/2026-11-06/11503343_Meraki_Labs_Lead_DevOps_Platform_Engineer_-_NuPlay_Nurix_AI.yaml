@@ -1,0 +1,153 @@
+job_id: 11503343
+title: "Lead DevOps & Platform Engineer - NuPlay (Nurix AI)"
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Lead DevOps & Platform Engineer Bangalore, India · Full-time
+  · 10+ years
+
+  About NuPlay AI
+
+  NuPlay AI (formerly Nurix AI) builds enterprise AI agents
+  for voice, chat and workflows, plus the platform that runs
+  them and keeps improving them. More than 150 enterprises run
+  NuPlay agents in production, including Aditya Birla Capital,
+  Myntra, Groww, Tata Digital and super.money. Our voice
+  agents handle more than 5 million call minutes a month.
+
+  NuPlay was founded by Mukesh Bansal (Myntra, Cult.fit) and
+  has raised over $42M from Accel, General Catalyst and
+  Prosus. In July 2026 we acquired Verloop.io to extend our
+  chat and voice reach. We hold ISO 27001, ISO 42001 and SOC 2
+  Type 2 certifications.
+
+  The role
+
+  You will own the platform every NuPlay product runs on:
+  cloud, Kubernetes, GPU inference, observability, incident
+  response and access control. First, you will lead our move
+  from AWS to Azure without dropping a call. Alongside that,
+  you will build the observability, incident management and
+  access controls that enterprise customers expect.
+
+  This is a hands-on lead role. You write the Terraform, the
+  tooling and the runbooks, review service designs with our
+  engineers, and set the standard the team follows.
+
+  What you’ll own
+
+  Our platform runs voice agents (cascade and speech-to-
+  speech), chat agents, deep RAG and enterprise search, user
+  and agent memory, a self-hosted multi-tenant auth service,
+  agent-building frameworks, post-call analytics and our own
+  fine-tuned LLMs.
+
+  - Cloud architecture and the Azure migration:
+    - Design landing zones, multi-region networking (hub-and-
+      spoke, Private Link, NAT, layered trust zones) and HA/DR
+      against defined RPO and RTO targets.
+    - Lead the AWS → Azure migration and run both clouds safely in
+      between.
+    - Keep everything as code in Terraform.
+  - Kubernetes and the AI runtime:
+    - Run EKS and AKS clusters for microservices, real-time voice
+      pipelines and GPU serving of our fine-tuned LLMs.
+    - Autoscale for call peaks, hold the voice latency budget, and
+      track GPU cost per call minute.
+  - Observability and incident management:
+    - Build observability across the application, data and model
+      layers: metrics, logs, traces, and SLOs per product and
+      per tenant.
+    - Set up on-call, severity levels, incident command, customer
+      status updates and blameless RCAs.
+    - Feed alerts into our agents’ auto-heal loops.
+  - Tenant isolation, security and access:
+    - Ship each sub-product as shared multi-tenant SaaS, as a
+      dedicated tenant stack, or into a customer’s own cloud,
+      all from one codebase and one pipeline.
+    - Run RBAC and just-in-time access for internal staff across
+      clusters, databases, vector stores, logs and call
+      recordings, with full audit trails.
+    - Own the infrastructure controls and evidence for SOC 2 and
+      ISO audits.
+    - Keep the auth service highly available.
+  - Delivery and developer platform:
+    - Own CI/CD and GitOps across all sub-products, with safe
+      rollouts and fast rollbacks.
+    - Build internal tooling in code.
+    - Review service designs so they scale and fail well.
+  - Team leadership:
+    - Lead and grow the DevOps team: hire, mentor, and set the
+      standards for infrastructure and on-call.
+    - Act as the bridge between product engineering and
+      infrastructure.
+
+  What we’re looking for
+
+  - 8–12 years in total. You started as a backend engineer
+    shipping production services in Python, Go, Java or
+    Node.js, then led an infrastructure, platform or SRE
+    charter for at least 3 years.
+  - You have designed, not just operated, production cloud on
+    AWS, all in Terraform or an equivalent.
+  - Hands-on Azure experience (AKS, VNets, Entra ID, Private
+    Link), or you have led a cloud-to-cloud migration.
+  - Deep production Kubernetes: multi-cluster operations,
+    networking and ingress, service mesh, stateful workloads,
+    GitOps (Argo CD or Flux), and autoscaling with HPA, KEDA
+    or Karpenter.
+  - You have built observability and incident processes others
+    relied on: OpenTelemetry, Prometheus and Grafana or
+    Datadog, SLOs and error budgets, on-call rotations and
+    RCAs.
+  - You have run multi-tenant SaaS for enterprise customers:
+    IAM, RBAC, secrets management, network isolation and audit
+    logging.
+  - At least one year running AI products in production.
+
+  Nice to have
+
+  - Real-time voice infrastructure: SIP, WebRTC, telephony
+    carriers and per-hop latency budgets.
+  - GPU inference for LLMs: vLLM, TensorRT-LLM or Triton, GPU
+    scheduling and cost control.
+  - Search, vector and streaming systems in production:
+    OpenSearch, Weaviate or pgvector, Kafka.
+  - Identity and compliance: Keycloak, OIDC and SAML; SOC 2, ISO
+    27001, ISO 42001, HIPAA, GDPR or India’s DPDP Act audits.
+  - CKA, CKS or Azure Solutions Architect Expert certification.
+
+  What success looks like
+
+  - First 90 days: On-call, severity levels and the incident
+    process are live. SLO dashboards cover voice latency and
+    availability for every product. The Azure landing zone and
+    migration plan are signed off.
+  - By 6 months: The first products serve production traffic on
+    Azure. Internal access runs through RBAC and just-in-time
+    grants, with audit logs. A dedicated-tenant deployment
+    ships from the standard pipeline.
+  - By 12 months: The migration is complete with no customer-
+    visible downtime. DR has been tested against its RPO and
+    RTO. Infrastructure evidence for SOC 2 and ISO audits is
+    collected automatically.
+
+  Our interview process
+
+  - Recruiter screening (20 min): your career path from backend
+    engineering to platform leadership.
+  - Architecture round (90 min): design NuPlay’s voice platform
+    on Azure at scale.
+  - Incident deep dive (60 min): walk through a live incident
+    scenario and one you have led.
+  - Hands-on round (90 min): review a Terraform module and a
+    service PR, then extend a small tool.
+  - Leadership conversation (45 min): with our CTO or a founder.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-10-05
+url: "https://builtin.com/job/lead-devops-platform-engineer/11503343"
+source: Built In

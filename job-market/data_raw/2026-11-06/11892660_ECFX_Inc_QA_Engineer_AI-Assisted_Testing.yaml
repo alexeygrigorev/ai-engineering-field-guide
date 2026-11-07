@@ -1,0 +1,188 @@
+job_id: 11892660
+title: "QA Engineer: AI-Assisted Testing"
+company: ECFX, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Join ECFX, a company transforming how the legal industry
+  works through technology. Every day our platform pulls court
+  notices and legal documents from hundreds of court portals
+  and e-filing systems, categorizes them with AI, and delivers
+  them into our customers' document and case management
+  systems. When something is late, dropped, or misfiled, a law
+  firm can miss a deadline.
+
+  We're looking for a hands-on QA Engineer who loves finding
+  what others miss, and who uses AI to do it faster and
+  deeper. Our engineers build with AI coding agents, so
+  changes arrive quickly and in volume. You'll be the person
+  who works out what could break and tests it thoroughly by
+  hand, using AI as your co-pilot for test design, test data,
+  investigation, and reporting. This is a testing role first.
+  If you also enjoy building automation, there's room to use
+  AI to create targeted automated checks where they pay off.
+  You will have a real say in how we build, test, and ship
+  software.
+
+  What You'll Engage In
+
+  - Test Smarter with AI: Use AI tools (such as Claude, Claude
+    Code, Cursor, or ChatGPT) to read tickets, merge requests,
+    and code diffs; map out risks and edge cases; draft test
+    charters and checklists; and decide where to focus. You
+    bring the judgment about what matters.
+  - Explore and Uncover: Run risk-based exploratory, functional,
+    and regression testing across our Vue dashboard, admin
+    tools, email notifications, and integrations. Find defects
+    before customers do.
+  - Validate What Matters Most: Make sure documents are
+    retrieved, parsed, categorized, stored, and delivered
+    correctly across many external sources: court portals,
+    2FA/OTP logins, and integrations such as Clio, Filevine,
+    iManage, and NetDocuments. Hunt for silent failures, where
+    a document is dropped but the run reports success.
+  - Test Below the UI: Much of our work has no screen to click.
+    Verify backend and platform changes by hand, using API
+    calls, SQL queries, logs, and dashboards (Grafana/Loki,
+    Sentry), with AI helping you write the queries and make
+    sense of the output.
+
+  - Build Realistic Test Scenarios: Use AI to generate test
+    data, sample court notice emails, and edge-case documents,
+    and drive our simulators and test environments to
+    reproduce hard-to-reach situations.
+  - Test Our AI Features: Evaluate our AI document
+    categorization and our LLM-facing tools (an MCP server
+    used by AI assistants). Build sample sets, check accuracy
+    and consistency, try to break them with unusual or hostile
+    inputs, and flag when a model or prompt change makes
+    results worse.
+  - Guard Security and Access: Check logins (password, SAML SSO,
+    OAuth), user roles and permissions, and that one firm can
+    never see another firm's data. Verify security fixes
+    without breaking what already works.
+  - Reproduce and Triage: Investigate customer-reported and
+    production issues, reproduce them reliably, and write bug
+    reports clear enough that an engineer, or an AI agent, can
+    act on them right away.
+  - Automate Where It Pays Off (Optional): If automation is in
+    your toolkit, use AI to create focused automated checks,
+    such as Playwright scripts or API checks, for high-risk
+    flows you find yourself retesting.
+  - Agile Collaboration: Work with engineers and product
+    managers in sprint planning, backlog refinement, and
+    retrospectives. Help write testable acceptance criteria
+    and raise quality risks early
+
+  What You're Likely to Bring
+
+  Professional Experience: 3 to 7 years in software quality
+  assurance for web or SaaS applications, with deep experience
+  in exploratory and manual testing of complex, data-heavy
+  systems.
+
+  AI Fluency
+
+  - ·You use AI assistants in your testing every day and can
+    give concrete examples: generating test ideas and edge
+    cases, building test data, writing SQL or log queries,
+    summarizing logs or diffs, reproducing bugs, and drafting
+    clear reports.
+  - Skill at prompting and giving context, such as feeding in
+    the ticket, the diff, and the acceptance criteria to get
+    useful output instead of generic answers.
+  - Healthy skepticism. You verify what AI tells you, recognize
+    when it is confidently wrong, and never let it replace
+    your own judgment about risk.
+  - An understanding of how to test systems that don't always
+    give the same answer, such as AI features, by using
+    repeated trials, sample sets, and "is this answer right?"
+    checks rather than exact matches.
+  - Careful handling of data. You use synthetic or masked data
+    with AI tools and never paste customer or court data into
+    unapproved services.
+
+  Technical Proficiency
+
+  ·     Comfort with the command line, Git, and reading logs.
+  Some experience with Docker or Kubernetes (such as port-
+  forwarding or checking pod logs) is a plus.
+
+  ·     Experience with defect tracking and test management in
+  Jira.
+
+  How You Work
+
+  - Analytical Mindset: Sharp attention to detail, curiosity,
+    and a methodical approach to breaking software and finding
+    root causes.
+  - Communication Excellence: Strong written and verbal
+    communication for bug reports, test notes, and status
+    updates. Your reports are precise enough that another
+    person, or an AI agent, can pick them up and act.
+  - Ownership: When something seems "untestable," you find a
+    way, whether that's a query, a log search, a simulator, or
+    a question to the right engineer, rather than skipping it.
+
+  Requirements
+
+  - Experience writing or maintaining automated tests (for
+    example Playwright, Selenium, or API test scripts),
+    including building them with AI and reviewing and fixing
+    what it produces.
+  - Experience testing AI or LLM features, such as checking
+    classification accuracy, spotting hallucinations, or
+    testing for prompt injection.
+  - SQL skills for checking data in PostgreSQL.
+  - Experience testing APIs directly with tools like Postman,
+    curl, or Bruno, and an understanding of HTTP, REST, and
+    JSON.
+  - Experience with web security testing, including
+    authentication and sessions, roles and permissions,
+    OAuth2/SAML, CSRF, and XSS.
+  - Experience using AI browser tools (for example Playwright
+    MCP or browser agents) to speed up exploratory testing.
+  - Experience testing integrations with third-party systems,
+    email-driven workflows, or browser automation against
+    external sites.
+  - Experience with accessibility testing (WCAG 2.2 AA).
+  - Knowledge of the legal domain, especially court e-filing,
+    docketing, or legal document management.
+  - ISTQB or a similar QA certification.
+  - An understanding of or experience with the Lean Startup
+    approach.
+
+  Why QA Engineers Like It Here
+
+  - Modern Tooling: Company-provided AI tools, with clear
+    guidelines for using them safely.
+  - Real Impact: You'll shape how we test in an AI-assisted
+    team, not follow a fixed script.
+  - AI in Production: Hands-on work testing real AI features
+    used by law firms every day.
+
+  Benefits
+
+  - Remote Flexibility: A fully remote role open to every US
+    time zone, Hawaii included.
+  - Work-Life Harmony: Flexible working hours and a supportive
+    approach to getting work done.
+  - Comprehensive Coverage: A range of insurance options
+    covering health, dental, vision, and life.
+  - Discretionary Time Off: We know a healthy work-life balance
+    matters. Our discretionary time off (DTO) policy means
+    that, on top of scheduled vacations and holidays,
+    employees can take unplanned time off when needed, with
+    supervisor approval. Life happens, and we trust our team
+    to manage their time well.
+  - Employee Stock Options: The opportunity to participate in
+    the company stock option plan.
+industries:
+  - Enterprise Web
+  - Legal Tech
+  - Software
+  - Automation
+posted_date: 2026-10-26
+url: "https://www.builtinla.com/job/qa-engineer-ai-assisted-testing/11892660"
+source: Built In

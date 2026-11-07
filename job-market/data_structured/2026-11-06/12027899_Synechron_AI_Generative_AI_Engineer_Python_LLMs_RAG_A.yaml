@@ -1,0 +1,56 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: AI / Generative AI Engineer – Python, LLMs, RAG, AI Agents, Azure OpenAI
+    & AWS Bedrock
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications directly: RAG
+      pipelines, prompt engineering, AI agents with
+      LangChain/LangGraph/MCP, and LLM evaluation/guardrails — all
+      core model-behavior shaping work with LLM components.
+  responsibilities:
+  - Design, develop and deploy Generative AI solutions using LLMs and foundation models
+  - Build end-to-end AI applications covering data ingestion, prompt engineering,
+    RAG pipelines, model orchestration and API integration
+  - Develop intelligent AI agents and agentic workflows using LangChain, LangGraph
+    and MCP
+  - Implement AI capabilities using Azure OpenAI, AWS Bedrock and OpenAI APIs
+  - Design and manage vector databases and semantic search solutions
+  - Optimize LLM performance through prompt engineering, retrieval optimization and
+    evaluation frameworks
+  - Implement AI guardrails, responsible AI practices, monitoring and governance
+  - Create scalable APIs and microservices integrating AI capabilities into enterprise
+    applications
+  use_cases:
+  - Enterprise Generative AI applications powered by LLMs and foundation models
+  - Retrieval-augmented generation over enterprise data with vector search and semantic
+    search
+  - Intelligent AI agents and agentic workflow automation
+  - AI-enabled APIs and microservices integrated into enterprise applications
+  - AI governance, guardrails and response-quality monitoring for production AI systems
+  skills:
+    languages: [Python, Node.js, JavaScript, TypeScript]
+    domains: [NLP]
+    web: [REST APIs, FastAPI, React, Microservices]
+    cloud: [Azure OpenAI, AWS Bedrock, Azure, AWS]
+    data: [Data Pipelines]
+    ml: [Transformers, Hugging Face]
+    databases: [Vector Databases, Pinecone, Chroma, FAISS, Weaviate, SQL, NoSQL, Knowledge
+        Graphs, Semantic Search]
+    genai: [Generative AI, LLMs, Embeddings, Prompt Engineering, RAG, LangChain, LangGraph,
+      Agentic Workflows, AI Agents, MCP, OpenAI API, Guardrails, Multi-Agent Systems,
+      Fine-Tuning, LLM Evaluation]
+    ops: [Docker, Kubernetes, CI/CD, Git, GitHub, GitLab CI, MLOps]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027899'
+  location: Bellandur, IND
+  extracted_at: '2026-11-06T14:32:54.888330'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

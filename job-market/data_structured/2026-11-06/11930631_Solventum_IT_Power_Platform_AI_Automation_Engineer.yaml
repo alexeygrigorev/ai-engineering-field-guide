@@ -1,0 +1,50 @@
+company:
+  name: Solventum
+  stage: null
+  focus: Healthcare technology and material science solutions
+position:
+  title: IT Power Platform AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and governs Copilot Studio agents, including
+      knowledge sources, custom actions, connectors, and prompt
+      design, which is shaping LLM/agent behaviour. While much of
+      the job is Power Platform automation delivery, the
+      agent/prompt design work makes it ai-first.
+  responsibilities:
+  - Deliver end-to-end automation backlog items using Copilot Studio, Power Apps,
+    Power Automate, and PowerShell for M365 automation and lifecycle management
+  - Implement Copilot Studio agents and AI-enabled automations for approved use cases
+    under governance and security standards
+  - Determine root causes of automation failures, performance issues, and operational
+    incidents and remediate them
+  - Support production automation and platform workloads, contributing documentation,
+    runbooks, and knowledge-base articles
+  - Build and maintain Power BI reports and dashboards covering automation health,
+    platform usage, and governance metrics
+  use_cases:
+  - Enterprise automation of M365 and business workflows
+  - AI-enabled agents and copilots for approved business use cases
+  - Automation health and governance monitoring via dashboards
+  - Production automation support and incident remediation
+  skills:
+    genai: [Copilot Studio, AI Agents, Prompt Engineering, LLMs]
+    ml: []
+    web: [Power Apps, Power Automate]
+    databases: [Dataverse]
+    data: []
+    cloud: [Microsoft 365, Graph API, Azure AI Foundry]
+    ops: [ALM]
+    languages: [PowerShell]
+    domains: []
+    other: [Power BI, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11930631'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:00:22.204873'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

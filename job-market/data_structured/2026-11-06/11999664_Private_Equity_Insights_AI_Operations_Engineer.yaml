@@ -1,0 +1,48 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity industry media and conferences community
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a growth/marketing role that uses AI as a tool
+      to scale copywriting and marketing workflows. There is no
+      indication the person shapes model behaviour through
+      prompts, retrieval, or agent design as a core
+      responsibility; AI is leveraged to outperform a marketing
+      team. The description is vague on AI specifics, so it falls
+      to ai-support.
+  responsibilities:
+  - Identify, target, and convert private equity funds into the community with tailored
+    messaging
+  - Own marketing channels and execute activities that drive revenue
+  - Write persuasive copy for emails, landing pages, and posts, leveraging AI at scale
+  - Run and measure experiments on offers, copy, prices, and pages
+  - Turn repeated work into playbooks and AI workflows
+  - Support conferences including on-site logistics such as registration
+  use_cases:
+  - AI-assisted copywriting and marketing at scale
+  - Audience building and investor targeting for a private equity community
+  - Revenue-driving marketing channel optimisation
+  - Workflow automation to scale growth operations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11999664'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:22:27.042499'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

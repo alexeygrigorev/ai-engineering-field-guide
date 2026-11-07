@@ -1,0 +1,54 @@
+company:
+  name: Arcesium
+  stage: null
+  focus: |-
+    Financial technology and data solutions for financial
+    institutions
+position:
+  title: Forward Deployed Engineer, AI Transformation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, prototypes with LLMs
+      and agent frameworks, and ships agent-based solutions in
+      production, which is shaping model behavior (ai-first). It
+      is an internal Forward Deployed Engineer role adapting AI to
+      business workflows.
+  responsibilities:
+  - Partner with business and functional teams to identify workflow automation and
+    AI-assisted decision-making opportunities
+  - Convert ambiguous business problems into structured problem statements, system
+    designs, and technical workflows
+  - Build agents, workflow automations, and internal applications on corporate data
+    systems and enterprise tools
+  - Rapidly prototype using LLMs, agent frameworks, and MCPs and iterate on user feedback
+  - Design agent architectures that complete business tasks reliably
+  - Work with engineering, business, and security teams to move prototypes into scalable,
+    maintainable production solutions
+  - Evaluate build-vs-buy options for AI workflows and create reusable components,
+    templates, and playbooks
+  - Define KPIs, measure impact, and drive adoption
+  use_cases:
+  - Workflow automation for internal business processes
+  - AI-assisted decision-making
+  - Agents completing business tasks in production
+  - Reducing manual effort in enterprise operations
+  skills:
+    genai: [LLMs, MCP, Agentic Workflows, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11428275'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:49:14.788326'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

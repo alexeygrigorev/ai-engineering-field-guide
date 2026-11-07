@@ -1,0 +1,61 @@
+company:
+  name: Hitachi
+  stage: null
+  focus: Energy technology and shared business services
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic LLM solutions using RAG,
+      tool calling, prompt engineering, fine-tuning, and builds AI
+      evaluation practices, directly shaping model behaviour and
+      output quality with LLM/agent components.
+  responsibilities:
+  - Design and build AI-powered and agentic solutions automating CSS business processes
+  - Develop LLM and multimodal foundation model applications using RAG, tool calling,
+    structured outputs, and context engineering
+  - Build, orchestrate, and govern AI agents with LangGraph, Semantic Kernel, Microsoft
+    Agent Framework, and MCP
+  - Optimize models through prompt engineering, fine-tuning, distillation, and quantization
+  - Establish AI evaluation and observability practices including automated evaluations,
+    tracing, and cost governance
+  - Develop APIs, integrations, and event-driven pipelines embedding AI into enterprise
+    platforms like SAP and ServiceNow
+  - Industrialize validated AI use cases with LLMOps/MLOps, CI/CD, and deployment
+    standards
+  - Evaluate emerging AI technologies and prototype approaches such as GraphRAG, agentic
+    workflows, and document intelligence
+  use_cases:
+  - Business process automation across Finance, Supply Chain, HR Operations, and Logistics
+  - Enterprise AI agents automating repetitive and decision-driven shared services
+    tasks
+  - Document intelligence and multimodal AI for intelligent document processing
+  - Enterprise search and retrieval with RAG, hybrid search, and GraphRAG
+  - Integrating AI capabilities into enterprise platforms like SAP, ServiceNow, and
+    Microsoft 365
+  skills:
+    genai: [RAG, Function Calling, Structured Outputs, Context Engineering, Agentic
+        Workflows, LangGraph, Semantic Kernel, MCP, Prompt Engineering, Fine-Tuning,
+      LangChain, LlamaIndex, CrewAI, Google ADK, GraphRAG, LLMs, Embeddings, Vector
+        Databases, Semantic Search, Guardrails, LoRA, LLM Evaluation]
+    ml: [PyTorch, Transformers, scikit-learn, Quantization, ONNX Runtime, Machine
+        Learning, OCR, Speech-to-Text, Text-to-Speech, Vision-Language Models]
+    web: [REST APIs, OpenAPI, gRPC, Webhooks]
+    databases: []
+    data: [Databricks, Spark, Data Quality, Data Modeling]
+    cloud: [Azure AI Foundry, Azure OpenAI, Vertex AI, AWS Bedrock]
+    ops: [Git, CI/CD, Docker, Kubernetes, LLMOps, MLOps, LangSmith, Langfuse, MLflow,
+      Event-Driven Architecture]
+    languages: [Python, SQL, Java, C#, .NET]
+    domains: []
+    other: [SAP, ServiceNow, Microsoft 365, Power Platform, Responsible AI, Agile,
+      Jira, OWASP Top 10]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887769'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:39:20.671610'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

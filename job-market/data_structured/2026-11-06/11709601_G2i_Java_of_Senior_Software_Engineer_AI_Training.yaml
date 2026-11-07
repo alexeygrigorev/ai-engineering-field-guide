@@ -1,0 +1,50 @@
+company:
+  name: G2i
+  stage: null
+  focus: |-
+    Talent marketplace connecting engineers to AI training
+    projects
+position:
+  title: Java of Senior Software Engineer, AI Training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role's core work is judging the quality of LLM coding
+      agent outputs (Codex, Claude Code) and writing structured
+      feedback that defines what good looks like — judging model
+      output quality is shaping an LLM, making this ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end to end
+  - Judge whether agent outputs are useful, correct at a high level, and reflect strong
+    engineering judgment
+  - Assess quality of explanations and reasoning, not just code
+  - Distinguish between levels of response quality using rubric scales
+  - Write clear, opinionated feedback on what worked and what didn't
+  - Help define standards for great interactions with coding agents like Cursor, Codex
+    and Claude Code
+  - Record short video explanations of evaluations
+  use_cases:
+  - Quality evaluation of AI coding agent interactions
+  - Assessing reasoning and engineering judgment of coding models
+  - Preference/quality feedback for model training and evaluation
+  - Defining standards for AI-assisted development workflows
+  skills:
+    genai: [Codex, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11709601'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:39:17.175770'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

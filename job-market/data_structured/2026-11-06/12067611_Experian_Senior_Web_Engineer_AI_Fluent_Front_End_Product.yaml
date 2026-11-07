@@ -1,0 +1,51 @@
+company:
+  name: Experian
+  stage: null
+  focus: Global data and technology company
+position:
+  title: Senior Web Engineer (AI Fluent), Front End Products
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role directs AI coding agents (Claude Code, Copilot,
+      Cursor) as a development tool to ship web software; the
+      deliverable is the product code and developer workflow, not
+      the behaviour of a model the role shapes. Per the edge case
+      on rolling out AI coding tools, this is ai-support.
+  responsibilities:
+  - 'Own web software end-to-end: design, build, ship, and support it in production'
+  - Direct AI coding agents as the primary implementation method rather than hand-writing
+    code
+  - Decompose features into agent-executable chunks and write prompts and specs to
+    guide them
+  - 'Make architecture calls: interface and API design, state and service boundaries,
+    versioning, backward compatibility'
+  - 'Design for uncontrolled environments: hostile host pages, partner configurations,
+    external API clients'
+  - Use AI to generate test suites and regression coverage, then hunt gaps the generator
+    missed
+  - Assess blast radius of changes in a multi-tenant white-label product
+  use_cases:
+  - White-label embedded components running inside partner applications
+  - Turnkey hosted sites carrying a partner's brand
+  - Multi-tenant web products where partner reputation depends on code quality
+  - Component libraries and SDKs consumed by external teams
+  skills:
+    genai: [Claude Code, GitHub Copilot, Cursor, Prompt Engineering]
+    ml: []
+    web: [React, Node.js, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [Design Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067611'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:47:35.807089'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

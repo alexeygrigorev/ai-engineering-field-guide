@@ -1,0 +1,58 @@
+company:
+  name: Hawk
+  stage: null
+  focus: |-
+    AI-supported anti-money laundering and fraud detection
+    technology
+position:
+  title: Frontend Engineer - Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend role building the UI of an agentic AI
+      product; the engineer consumes AI agent output and backend
+      APIs but does not shape model behaviour (no prompt writing,
+      retrieval design, or agent orchestration of their own). AI
+      coding tools are explicitly a developer workflow aid, not
+      the product, which is ai-support.
+  responsibilities:
+  - Build product features end to end in React and TypeScript such as workflow graph
+    editors, investigation timelines, and data-heavy tables and dashboards
+  - Develop and maintain Module Federation microfrontends shared between the Investigation
+    Agent and Case Manager applications
+  - Contribute to the shared shadcn/ui + Tailwind component library documented in
+    Storybook
+  - Consume Python/FastAPI backends via OpenAPI-generated clients with TanStack Query
+    and Router
+  - Build, test and deploy in a pnpm + Turborepo monorepo with GitHub Actions CI,
+    Vitest and Playwright tests, and AWS deployments with per-PR previews
+  - Collaborate with Product, UX, backend engineers and Data Science
+  - Use AI coding tools such as Claude Code or Cursor in daily workflow
+  use_cases:
+  - User interface for an agentic AI investigation agent used by compliance analysts
+  - Configuration of AI workflows and monitoring of autonomous investigations
+  - Making agentic AI output understandable and actionable for AML compliance analysts
+  - Anti-money laundering and fraud detection
+  skills:
+    genai: [Agentic Workflows, Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [React, Module Federation, shadcn/ui, Radix, Tailwind, Material UI, Storybook,
+      FastAPI, OpenAPI, TanStack Query, Vite, Turborepo, Vitest, Playwright]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [GitHub Actions, Terraform, AWS CDK, CI/CD, Infrastructure as Code]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Auth0, OIDC, Accessibility Testing, Visual Regression Testing, pnpm]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11688559'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  extracted_at: '2026-11-06T12:35:53.788434'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

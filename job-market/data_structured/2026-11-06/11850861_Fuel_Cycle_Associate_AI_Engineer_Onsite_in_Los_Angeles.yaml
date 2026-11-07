@@ -1,0 +1,49 @@
+company:
+  name: Fuel Cycle
+  stage: null
+  focus: AI-powered market research and insights platform
+position:
+  title: Associate AI Engineer (Onsite in Los Angeles)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, prompt loops, RAG
+      pipelines, MCP tools, and evaluates model quality/tradeoffs
+      - directly shaping LLM behavior, so it is ai-first.
+  responsibilities:
+  - Design, build, and improve tool-calling AI agents using Strands Agents and AWS
+    Bedrock
+  - Build and integrate MCP tools and servers
+  - Deploy and run agents on Bedrock AgentCore with the platform team
+  - Build RAG pipelines over pgvector or FAISS, choosing chunking, embedding, and
+    retrieval approaches
+  - Design, test, and iterate on prompts; evaluate answer quality, latency, and token
+    cost; apply guardrails
+  - Evaluate models, tools, and approaches and document recommendations
+  - Ship features and bug fixes in FastAPI services with REST and WebSocket APIs
+  - Contribute to background jobs and queue consumers; submit and review pull requests
+  use_cases:
+  - AI agents for market research and decision intelligence
+  - Tool-calling agents running on a production insights platform
+  - RAG over research data for customer-led decision insights
+  - Automated agent workflows via background jobs and queues
+  skills:
+    genai: [AI Agents, Function Calling, MCP, RAG, Embeddings, Prompt Engineering,
+      Guardrails, LLMs, LangChain, OpenAI API]
+    ml: []
+    web: [FastAPI, REST APIs, WebSockets, Flask, Django]
+    databases: [pgvector, FAISS, PostgreSQL, Redis, Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS, AWS S3]
+    ops: [Git, Code Review]
+    languages: [Python, SQL]
+    domains: []
+    other: [SQLAlchemy]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11850861'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:23:43.989196'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: NBCUniversal
+  stage: null
+  focus: Media and entertainment content across film, TV, streaming
+position:
+  title: Senior AI Platform Governance Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role governes, secures, and monitors AI platforms —
+      semantic models, CI/CD, RBAC, cost monitoring — without
+      shaping model behavior (no prompt design, retrieval design,
+      training, or evals). It requires understanding of LangGraph,
+      MCP, and RAG, not building them. Therefore ai-support.
+  responsibilities:
+  - Design and maintain semantic models in Snowflake and Databricks for AI systems
+  - Define governed metrics, entities, lineage, and access patterns with data owners
+  - Build CI/CD pipelines and Infrastructure-as-Code for AI applications, agents,
+    and ML workloads
+  - Enable repeatable deployment patterns across dev, staging, and production
+  - Create monitoring frameworks for latency, quality, reliability, and model usage
+  - Define auditability, compliance, and responsible AI standards
+  - Optimize AI infrastructure utilization and manage cloud consumption
+  - Design governance frameworks and implement RBAC and identity controls across AI
+    platforms
+  use_cases:
+  - Trusted business definitions powering AI systems across media businesses
+  - Governance of models, agents, tools, datasets, and APIs
+  - AI infrastructure cost monitoring and optimization
+  - Auditability, compliance, and responsible AI adoption
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [AWS, IAM, Azure]
+    data: [Databricks, dbt, Spark]
+    ml: []
+    databases: [Snowflake]
+    genai: [LangGraph, MCP, RAG, Generative AI]
+    ops: [Git, Terraform, Infrastructure as Code, CI/CD, GitHub Actions, Docker, Kubernetes,
+      MLOps, Model Deployment]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11782961'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T13:11:16.237617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

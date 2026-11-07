@@ -1,0 +1,146 @@
+job_id: 11996731
+title: Principal AI Platform Engineer, Applied AI
+company: Snowplow
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 138 Employees
+description: |
+  About Snowplow Snowplow is the real-time customer context
+  layer that collects, validates, enriches, and delivers
+  behavioral data for advanced analytics, ML, and AI agent
+  decisioning. Snowplow's event tracking is leveraged across
+  2M+ websites and applications globally, processing over one
+  trillion events per month. More than 250 companies,
+  including Experian, AutoTrader, Strava, Condé Nast, and
+  HelloFresh, rely on Snowplow to build a well-governed,
+  first-party data foundation that powers their customer-
+  facing AI agents, in-session personalization and
+  recommendations, and real-time analytics. This Opportunity
+  Snowplow is rebuilding how the company runs its own work,
+  and the Applied AI team owns Firn, the single data and AI
+  platform the whole company runs on. Firn already gives
+  people and agents the same governed tools over our Snowflake
+  warehouse through an MCP gateway, routes every model call
+  through one LLM gateway with tracing, runs agentic workflows
+  on a factory framework with a ledger that records every run,
+  and holds the skills catalog the company draws on. Most of
+  the company uses it every day. The platform is at its
+  beginning, and the next stage is to expand it until it holds
+  the company's commercial intelligence and lets agents act on
+  it safely. You are the principal engineer who leads that
+  expansion. The first engagement is Go-to-Market, full time
+  for about six months. Our buyers research with AI agents
+  now, and reaching them means using our own data and AI to
+  decide which accounts and people to engage, with what, and
+  learning from every experiment. The GTM teams have built a
+  lot: daily account and engagement scoring, signal feeds from
+  Apollo, Vector and reo.dev, an always-on outbound engine, a
+  paid-media loop, a curated GTM knowledge base, and the
+  integrations between them. Much of it was built by
+  operational teams to get results fast, and it did. You
+  design how those services come onto Firn, unify and
+  modernize them, build the agents and tools and learning
+  loops on top, and make the whole thing production grade.
+  This is a principal role. You report to the Senior Director
+  of Applied AI, who still ships code, and work as a peer.
+  Marketing, Sales, Account Management and Partnerships are
+  the platform's customers and set their own priorities. You
+  decide how it gets built and whether it is sound. Once the
+  GTM services run without you, they stay yours as their owner
+  and most of your time goes to what Snowplow needs next. What
+  you will own
+
+  - The GTM intelligence engine on Firn. The data and AI that
+    decide who we engage and with what, and that learn from
+    the outcome of every action. You design it with our data
+    engineers as a set of platform services with several
+    internal customers, and you bring the GTM services that
+    exist today onto the same foundation.
+  - Agents and tools. The agents that run GTM work and the tools
+    people and other agents call, built on the factory
+    framework with review steps and evaluations as the
+    standard shape, so every agent on the platform can be
+    trusted and inspected the same way.
+  - Platform architecture. The MCP gateway, LLM gateway,
+    tracing, factory framework and ledger, and how they grow
+    to hold more of the company's work. You decide what is
+    built, what is bought, and what is retired.
+  - Production grade. Version control, CI, alerting and
+    recovery, cost visibility, documentation, and handover for
+    every service on the platform, including the ones that
+    arrive from operational teams. You set the bar and you
+    make it visible to the teams that depend on it.
+  - Logic as code. Rules that today live inside individual tools
+    move into versioned code on the platform, where agents can
+    read them and engineers can test them, and the tools
+    become endpoints the platform drives.
+  - Learning loops. Every action the platform takes is recorded
+    and tied to its outcome, so people and agents can see what
+    worked and the next action is better. Metric definitions
+    sit with our data engineers; the instrumentation that
+    applies them is yours.
+  - Eval and tracing infrastructure. The harness the embedded
+    and forward deployed engineers use to prove their agents
+    work. You own the tooling; they own the checks.
+  - The technical bar and the roadmap. You set the engineering
+    bar for the Applied AI team and own the platform roadmap,
+    and you keep the long view of the platform at all times.
+
+  We would love to hear from you if you have
+
+  - Years of production software behind you. You have designed,
+    shipped and run systems other teams depend on, in Python
+    or TypeScript, with SQL, CI/CD and cloud infrastructure as
+    everyday tools. This is a principal role and the bar is
+    set there.
+  - Built LLM systems that real work runs on. Agents with tools,
+    MCP servers, gateways, tracing and evaluation, and the
+    failure modes that come with them. You can say what broke
+    in production and what you changed.
+  - Platform instincts. You have built systems other people
+    depend on, whether internal teams or customers, through
+    interfaces you designed, and you know the difference
+    between a platform and a pile of integrations.
+  - Data platform fluency. Snowflake or an equivalent warehouse,
+    dbt, data contracts, and the pipelines that move warehouse
+    data into SaaS tools and back.
+  - Operational discipline. Alerting, recovery, runbooks and
+    cost tracking are things you add before anyone asks, and
+    you have run systems where that discipline mattered.
+  - Judgment about where an agent belongs. You can tell which
+    decisions should be deterministic code, which an agent can
+    make, and which should stay with a person, and you can
+    explain the reasoning to a non-engineer.
+  - An AI-native way of working you can show us. A workflow,
+    agent or tool you built and still use. Expect to
+    demonstrate it during the interview process.
+  - Comfort with internal customers who are not engineers. You
+    can sit with a growth director, a seller or a marketer,
+    take a requirement, and hold the line on how it gets
+    built. No sales or marketing background is needed.
+  - Technical direction without a title. You have set direction
+    for a platform that other engineers followed because the
+    design was right, not because they reported to you.
+
+  How we hire for this role The interview process includes a
+  working session where you walk us through how you work with
+  AI on a real task, using your own setup, and a design
+  conversation on a system we run today. We work this way
+  ourselves, and you are welcome to use AI when applying. What
+  you get in return for being awesome
+
+  - Meaningful equity stake
+  - Competitive Base Salary
+  - Flexible working
+  - Generous PTO
+  - Private Medical Insurance
+  - Company Pension
+  - MacBook and home office equipment allowance
+  - Enhanced Family leave
+industries:
+  - AdTech
+  - Marketing Tech
+posted_date: 2026-10-30
+url: "https://builtin.com/job/principal-ai-platform-engineer-applied-ai/11996731"
+source: Built In

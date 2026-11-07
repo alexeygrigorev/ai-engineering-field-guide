@@ -1,0 +1,58 @@
+company:
+  name: Truvio
+  stage: null
+  focus: SaaS solutions for Microsoft Dynamics 365 ERP
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, tool calling, agent workflows, and
+      evals for LLM-powered finance agents, directly shaping model
+      behaviour. There is a clear LLM/agent component, so it is
+      ai-first.
+  responsibilities:
+  - Build agentic features for AP, AR and treasury on the Truvio AI platform
+  - Design prompts, tools and multi-step workflows acting on ERP data with human review
+    points
+  - Create evaluation datasets with domain experts, including synthetic data, to drive
+    accuracy, cost and latency improvements
+  - Ship to production, monitor quality, investigate failures and iterate with customer
+    feedback
+  - Work with product managers, consultants and customers to map finance workflows
+  - Feed learnings back to the platform team
+  use_cases:
+  - Invoice capture and coding agents
+  - Payment matching
+  - Anomaly flagging in finance data
+  - Decision preparation and approvals in Dynamics 365
+  - Accounts payable, receivable and treasury automation
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, Retrieval,
+      AI Agents, LLM Evaluation, Fine-Tuning, Azure OpenAI, Document AI]
+    ml: [Quantization]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI Document Intelligence]
+    ops: []
+    languages: [Python, .NET]
+    domains: []
+    other: [Microsoft Dynamics 365, ERP, OCR, APIs]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12034458'
+  location: DEU
+  locations:
+  - DEU
+  - Venlo, NLD
+  - Berlin, DEU
+  - DNK
+  - Solna, SWE
+  - København, DNK
+  - Richmond, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:35:53.949425'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

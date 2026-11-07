@@ -1,0 +1,50 @@
+company:
+  name: thinkbridge
+  stage: null
+  focus: |-
+    Custom software, ERP replacements, and AI agent delivery for
+    growing companies
+position:
+  title: AI-Native Product Engineer - Generalist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds end-to-end software (frontend, backend,
+      APIs) using AI coding assistants and agent tools to
+      accelerate delivery. There is no evidence of shaping model
+      behavior - no prompt design, RAG, evals, or fine-tuning
+      owned by the engineer; they consume AI tools others built.
+      Per the edge case rules, using AI coding assistants for
+      engineering work is ai-support.
+  responsibilities:
+  - Build end-to-end software solutions across frontend, backend, APIs, and integrations
+  - Leverage AI-assisted development tools to accelerate delivery
+  - Check and correct AI-generated code output
+  - Read, modify, and explain existing code and learn unfamiliar codebases
+  - Break unclear requirements into testable steps and take ownership from concept
+    to deployment
+  - Write tests and manage work with Git
+  use_cases:
+  - End-to-end product engineering for client business systems
+  - AI-assisted application development
+  - Frontend, backend, API, and integration delivery
+  - Modernization of legacy software for growing companies
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Relational Databases, NoSQL]
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11695667'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:38:00.161630'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

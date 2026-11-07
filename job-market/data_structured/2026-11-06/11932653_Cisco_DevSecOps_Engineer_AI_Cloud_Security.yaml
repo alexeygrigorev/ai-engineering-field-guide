@@ -1,0 +1,52 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, cloud infrastructure, and security solutions
+position:
+  title: DevSecOps Engineer – AI & Cloud Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds AI agent workflows for alert
+      triage, threat modeling, and incident response with human-
+      in-the-loop guardrails, plus secures prompt guardrails and
+      agent tool permissions. Designing agent flows and guardrails
+      is shaping model behavior, so it is ai-first.
+  responsibilities:
+  - Build AI agent workflows to automate alert triage, threat modeling, evidence collection,
+    and guided incident response with human-in-the-loop guardrails
+  - Design and implement secure-by-default AWS cloud foundations including IAM least
+    privilege, encryption, and network segmentation
+  - Build CI/CD automation with GitHub Actions, Terraform, and container security
+    tooling (SAST/DAST/SCA, SBOMs, artifact signing)
+  - Conduct threat modeling across microservices, APIs, Kubernetes, and AI/LLM applications
+    with engineering teams
+  - Streamline audit readiness and operational workflows for SOC 2, FedRAMP, and ISO
+    27001 using Python, APIs, and Infrastructure-as-Code
+  use_cases:
+  - Automated security alert triage and incident response
+  - Threat modeling and evidence collection automation
+  - Securing generative AI applications and agent tool permissions
+  - Secure-by-default multi-account AWS cloud foundations
+  - Audit readiness and compliance automation (SOC 2, FedRAMP, ISO 27001)
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Guardrails, Prompt Engineering, Generative
+        AI]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, IAM]
+    ops: [CI/CD, GitHub Actions, Terraform, Infrastructure as Code, DevSecOps, Kubernetes,
+      Docker, GitHub, Monitoring, GitHub Copilot, Cursor]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11932653'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:01:38.486955'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

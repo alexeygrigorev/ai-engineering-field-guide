@@ -1,0 +1,48 @@
+company:
+  name: G2i
+  stage: null
+  focus: |-
+    Talent marketplace connecting engineers with AI evaluation
+    projects
+position:
+  title: TypeScript Senior Software Engineer, AI Training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates the quality of AI coding agent outputs
+      (Codex, Claude Code), rating and giving preference-style
+      feedback that determines what the models learn. Judging LLM
+      output quality is shaping an LLM, so this is ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end to end
+  - Judge whether agent outputs are useful, correct, and aligned with strong engineering
+    judgment
+  - Assess quality of explanations and reasoning, not just code
+  - Distinguish levels of response quality and assign ratings
+  - Give clear written and video feedback on what worked and what did not
+  - Help define standards for what great agent interactions look like
+  use_cases:
+  - Evaluating quality of AI coding agent interactions
+  - Assessing reasoning and engineering judgment of coding assistants
+  - Providing preference and quality feedback to improve coding models
+  - Defining standards for AI-assisted development workflows
+  skills:
+    genai: [Codex, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11709626'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:39:39.842040'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

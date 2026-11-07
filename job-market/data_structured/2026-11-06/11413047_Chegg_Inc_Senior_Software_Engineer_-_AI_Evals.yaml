@@ -1,0 +1,57 @@
+company:
+  name: Chegg, Inc.
+  stage: null
+  focus: |-
+    Education technology and online learning services for
+    students
+position:
+  title: Senior Software Engineer - AI Evals
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM/agent evaluation frameworks,
+      rubrics, LLM-as-judge evaluators, and adversarial datasets
+      whose results feed SFT/RLHF training signal — this is
+      judging and shaping model output quality, squarely ai-first.
+  responsibilities:
+  - Own evaluation solutions end-to-end from framework design through deployment and
+    production monitoring
+  - Design evaluation frameworks and harnesses for LLMs and multi-step AI agents
+  - Define rubrics and scoring methodologies for open-ended tasks such as tutoring
+    quality and reasoning
+  - Build automated model-graded (LLM-as-judge) and rule-based evaluators validated
+    against human judgment
+  - Develop agent-specific evaluations covering tool-use correctness, multi-turn task
+    completion, and failure recovery
+  - Create golden datasets, adversarial test sets, and regression suites
+  - Partner with research teams to translate eval results into SFT/RLHF/RLAIF training
+    signal and reward modeling
+  - Build dashboards and reporting on model quality trends across releases
+  use_cases:
+  - Evaluating LLM and agentic AI tutoring systems for accuracy, reasoning, safety,
+    and pedagogical quality
+  - Measuring tool-use correctness and multi-turn task completion of autonomous agents
+  - Detecting quality and safety regressions before production release
+  - Responsible-AI evaluation for bias, hallucination, and academic integrity in an
+    education product
+  - Feeding evaluation results back into model training and fine-tuning decisions
+  skills:
+    genai: [LLMs, LLM Evaluation, AI Agents, Function Calling, Generative AI]
+    ml: [PyTorch, TensorFlow, RLHF, Fine-Tuning]
+    web: []
+    databases: []
+    data: [Databricks, Delta Lake, Data Pipelines]
+    cloud: [AWS, SageMaker, AWS Bedrock]
+    ops: [MLflow]
+    languages: [Python]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11413047'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:46:12.574350'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Verisk
+  stage: null
+  focus: Data, analytics, and technology for insurance
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behavior directly: prompt
+      engineering, RAG design, multi-agent orchestration, MCP
+      patterns, and evaluation pipelines. These are LLM/agent
+      components, so it is ai-first.
+  responsibilities:
+  - Architect and design production-ready applications using Generative AI and agentic
+    AI frameworks
+  - Build, deploy, and monitor intelligent workflows using LLMs, multi-agent coordination,
+    and orchestration pipelines
+  - Implement prompt engineering, RAG, and contextual memory systems
+  - Implement AI agents with reasoning, planning, and multi-step execution using MCP
+    patterns
+  - Develop evaluation pipelines to measure accuracy, safety, and performance of AI
+    systems
+  - Integrate new AI applications with existing traditional applications
+  - Apply AI governance principles for responsible, auditable model usage
+  - Mentor developers and promote AI engineering best practices
+  use_cases:
+  - Autonomous agents integrated into real-world business applications
+  - Multi-step task execution and orchestration in insurance workflows
+  - Enterprise knowledge retrieval via RAG and contextual memory
+  - AI governance, auditability, and risk monitoring for production AI
+  skills:
+    genai: [Generative AI, Agentic Workflows, LLMs, Prompt Engineering, RAG, MCP,
+      AI Agents, Embeddings, Guardrails, Responsible AI]
+    ml: []
+    web: [REST APIs, React, .NET]
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Kubernetes, Git, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11203581'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:26:50.608968'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

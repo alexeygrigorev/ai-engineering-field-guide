@@ -1,0 +1,51 @@
+company:
+  name: Block LLP
+  stage: null
+  focus: Plaintiff personal injury law firm
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, builds RAG pipelines, AI agents,
+      and evaluates LLM outputs for internal legal tools. This
+      directly shapes LLM behavior, making it ai-first.
+  responsibilities:
+  - Design, build, test, and maintain internal AI-powered applications and tools
+  - Build AI assistants and agents supporting legal and operational workflows
+  - Develop RAG solutions for secure retrieval from internal documents
+  - Create and optimize prompts, agent instructions, tool integrations, and AI workflows
+  - Build processes to evaluate AI outputs for accuracy and reliability
+  - Integrate AI applications with firm systems via APIs, webhooks, and automation
+    platforms
+  - Write clean, maintainable code primarily in Python and/or JavaScript/TypeScript
+  - Partner with leadership, attorneys, and staff to translate workflow challenges
+    into technical solutions
+  use_cases:
+  - Document analysis and information extraction for legal workflows
+  - Summarization of legal documents
+  - Internal knowledge retrieval over firm documents
+  - Workflow automation across firm systems
+  - AI assistants supporting legal and operational staff
+  - Secure information movement between business systems
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Gemini, AI Agents, Agentic Workflows,
+      RAG, Prompt Engineering, LLM Evaluation, Generative AI, Vector Databases, Embeddings,
+      Semantic Search, LangChain, LangGraph, LlamaIndex]
+    ml: []
+    web: [REST APIs, Webhooks, APIs]
+    databases: [Databases, Relational Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Git]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [n8n, Zapier, Make]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11363334'
+  location: Burbank, USA
+  extracted_at: '2026-11-06T11:36:04.675108'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

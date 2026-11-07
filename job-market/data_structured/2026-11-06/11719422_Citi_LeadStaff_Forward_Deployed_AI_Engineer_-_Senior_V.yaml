@@ -1,0 +1,58 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank applying AI agents internally
+position:
+  title: Lead/Staff Forward Deployed AI Engineer - Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic workflows, agent reasoning
+      loops, RAG pipelines, prompt templates, and
+      evaluation/guardrail integration for LLM-powered systems,
+      directly shaping model behavior. Forward Deployed Engineers
+      adapting AI solutions are ai-first per the edge cases.
+  responsibilities:
+  - Serve as senior technical authority embedded within Line of Business delivery
+    pods, driving technical discovery with business stakeholders
+  - Architect, develop, and deploy production-grade agent reasoning loops and multi-agent
+    workflows using Python, LangGraph, and enterprise orchestration runtimes
+  - Lead rapid end-to-end prototyping sprints to validate feasibility of conversational
+    and multi-agent prototypes
+  - Co-design Human-in-the-Loop review interfaces and feedback mechanisms with business
+    users
+  - Design and implement secure MCP servers, OpenAPI bridges, and gRPC/REST connectors
+    linking agents to core banking systems
+  - Architect enterprise RAG pipelines including hybrid search, semantic caching,
+    chunking, re-ranking, and knowledge graph integrations
+  - Implement zero-trust security controls for agent execution including mTLS, OAuth2/OIDC
+    delegation, and sandboxed containers
+  - Integrate automated evaluation testbeds and safety guardrails; mentor engineers
+    and set coding standards
+  use_cases:
+  - Multi-step agentic workflows for core banking operations
+  - Enterprise RAG over banking knowledge with hybrid search
+  - Human-in-the-loop review of autonomous agent actions
+  - Secure tool-calling connecting agents to banking backends and databases
+  - Automated evaluation of agent task completion and hallucinations
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, Semantic Kernel, RAG, Prompt Engineering,
+      MCP, Function Calling, LLMs, Agentic Workflows, AI Agents, Embeddings, Knowledge
+        Graphs]
+    ml: [Model Evaluation]
+    web: [REST APIs, gRPC, OpenAPI]
+    databases: [Relational Databases, NoSQL]
+    data: [Kafka]
+    cloud: []
+    ops: [Docker, Kubernetes, Observability]
+    languages: [Python, Java, Go, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11719422'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:41:51.839473'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

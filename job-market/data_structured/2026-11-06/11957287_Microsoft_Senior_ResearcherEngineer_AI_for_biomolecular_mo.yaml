@@ -1,0 +1,55 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: AI emulators for biomolecular modelling and simulation
+position:
+  title: 'Senior Researcher/Engineer: AI for biomolecular modelling and simulation'
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains and develops generative deep learning models
+      (diffusion, flow models) for biomolecular simulation —
+      classical ML/DL with no LLM or agent shaping. The brief
+      mention of "agentic software design" is peripheral to the
+      core model-development work.
+  responsibilities:
+  - Drive a research agenda on machine learning in the molecular sciences
+  - Develop AI emulators modeling biomolecular structure, dynamics, and interactions
+  - Integrate large-scale heterogeneous data from molecular simulation and lab experiments
+    and identify new data sources
+  - Write research code to test new approaches and develop novel theoretical and practical
+    insights
+  - Orchestrate large-scale data generation campaigns and training runs
+  - Prepare technical papers and presentations
+  - Collaborate day-to-day with an international interdisciplinary research team
+  use_cases:
+  - Biomolecular structure and dynamics prediction at scale
+  - Modelling biomolecular conformational changes and complex formation
+  - Predicting interactions between biomolecules, drug molecules, and nucleic acids
+  - Accelerating molecular simulation with AI emulators at quantum chemical accuracy
+  - Drug discovery and medicinal development
+  skills:
+    genai: [Agentic Workflows]
+    ml: [PyTorch, JAX, Deep Learning, Generative Models, Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Molecular Dynamics, Computational Chemistry, Statistical Mechanics, Computational
+        Statistics, Bioinformatics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957287'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  - Amsterdam, NLD
+  - Cambridge, GBR
+  extracted_at: '2026-11-06T14:10:16.728265'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

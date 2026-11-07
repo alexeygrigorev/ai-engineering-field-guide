@@ -1,0 +1,59 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU-accelerated computing and AI hardware/software
+position:
+  title: Senior System Software Engineer - Local AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops autonomous AI agents for
+      infrastructure management, workload orchestration, and
+      diagnostics with tool integration — that is directly shaping
+      agent behavior (Step 1 yes, LLM/agent component → ai-first).
+      It also builds reproducible model evaluation and
+      benchmarking infrastructure, reinforcing model-output
+      quality work.
+  responsibilities:
+  - Design and maintain shared infrastructure for deploying, benchmarking, and qualifying
+    AI workloads across inference backends such as llama.cpp, Ollama, PyTorch, vLLM,
+    and WinML
+  - Build Git-based CI infrastructure for automated builds, integration testing, and
+    regression detection across platforms and runtimes
+  - Develop model management services to download, version, cache, and synchronize
+    checkpoints and dependencies for reproducible execution
+  - Design databases, backend services, and data pipelines for model metadata, benchmark
+    results, system telemetry, and execution artifacts
+  - Create dashboards and reports for comparing inference configurations and diagnosing
+    performance bottlenecks
+  - Develop and operate server infrastructure including provisioning, scheduling,
+    resource management, and failure recovery
+  - Develop autonomous AI agents for infrastructure management, orchestration, monitoring,
+    and diagnostics
+  - Maintain Git repositories, companion websites, documentation, and evaluation results
+  use_cases:
+  - Local AI inference deployment and benchmarking on RTX and DGX-class GPUs
+  - Reproducible model evaluation and qualification across inference backends
+  - Automated CI builds, integration testing, and regression detection for AI workloads
+  - Model checkpoint management, versioning, and caching
+  - Autonomous AI agents for infrastructure management, monitoring, and diagnostics
+  - Performance telemetry, dashboards, and bottleneck analysis
+  skills:
+    genai: [AI Agents]
+    ml: [PyTorch]
+    web: []
+    databases: [Databases]
+    data: [Data Pipelines, Data Modeling]
+    cloud: []
+    ops: [vLLM, llama.cpp, Ollama, WinML, Git, CI/CD, Grafana, Kibana, Observability]
+    languages: [Python, C++, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11741055'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:45:17.662567'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

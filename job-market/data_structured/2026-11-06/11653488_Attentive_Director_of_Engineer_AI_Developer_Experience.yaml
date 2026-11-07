@@ -1,0 +1,54 @@
+company:
+  name: Attentive
+  stage: null
+  focus: AI-powered marketing platform for personalized messaging
+position:
+  title: Director of Engineer, AI Developer Experience
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds developer tooling, testing infrastructure,
+      and enablement so engineers and business users adopt AI
+      coding tools. Per the edge case rules, rolling out AI coding
+      tools and agent workflows so others ship faster is ai-
+      support; the deliverable is developer workflow and adoption,
+      not shaping a product model's behaviour.
+  responsibilities:
+  - Set strategy across AI Developer Experience and AI Business Enablement teams
+  - Lead and develop two managers, hire teams, and set a high bar for technical execution
+  - Make AI a core part of engineering planning, implementation, testing, review,
+    and delivery
+  - Build trusted testing infrastructure and improve cloud environments, builds, CI,
+    and code review
+  - Provide non-technical employees supported tools, training, and secure infrastructure
+    to build apps and automations with AI
+  - Partner with Security and IT on approved integrations and permissioned data access
+  - Evaluate tools, prototype workflows, and drive adoption of AI development practices
+  - Measure impact through delivery cycle time, reliability, and sustained tool usage
+  use_cases:
+  - Accelerating software delivery with AI-assisted engineering workflows
+  - Developer experience tooling and trusted testing infrastructure for engineering
+    teams
+  - Enabling non-technical business teams to build internal apps and automations with
+    AI
+  - Secure, governed access to company systems for AI-built tools
+  - Turning prototypes into dependable, maintained internal tools
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Environments]
+    ops: [CI/CD, Code Review, Monitoring]
+    languages: []
+    domains: []
+    other: [Developer Tooling, Test Infrastructure]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11653488'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:28:44.305546'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Fynd
+  stage: null
+  focus: Retail technology and autonomous AI business operations
+position:
+  title: SDE - 1 | Fullstack Developer | Backend & Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a backend/fullstack engineer building
+      scalable services and APIs. AI appears as a secondary
+      "contribute to AI engineering efforts" and a "good to have"
+      for agentic AI features, with no evidence the person designs
+      prompts, retrieval, or agent flows themselves; they
+      integrate AI capabilities others build. Per the edge cases,
+      this is ai-support.
+  responsibilities:
+  - Design and develop backend services, APIs, and data models using Python and modern
+    application frameworks
+  - Build scalable, secure, high-availability systems supporting product growth
+  - Implement asynchronous processing, background jobs, and event-driven workflows
+  - Integrate agentic AI capabilities into backend workflows and product features
+  - Monitor production systems, improve observability, and support incident response
+    and root-cause analysis
+  - Optimize service performance, reliability, and resource usage
+  - Collaborate with product and engineering teams from concept to production
+  - Participate in deployment, troubleshooting, and operational support across containerized
+    and cloud-native environments
+  use_cases:
+  - Autonomous AI systems for business operations in retail, manufacturing, marketing,
+    and logistics
+  - AI-enabled product features powered by backend services
+  - Scalable backend infrastructure for commerce and retail platform operations
+  skills:
+    genai: [Agentic Workflows]
+    ml: []
+    web: [APIs, Full-Stack Development]
+    databases: [MongoDB]
+    data: [Data Modeling]
+    cloud: []
+    ops: [Kubernetes, Docker, Prometheus, Grafana, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: [Asynchronous Processing, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11945109'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:07:08.672001'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

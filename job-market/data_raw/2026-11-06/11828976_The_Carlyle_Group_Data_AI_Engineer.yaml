@@ -1,0 +1,217 @@
+job_id: 11828976
+title: "Data & AI Engineer"
+company: The Carlyle Group
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2,000 Employees
+description: |
+  Department Description The Data & AI Engineer sits within
+  Carlyle’s Enterprise Technology & Data organization and
+  supports firm-wide data and AI initiatives spanning
+  investment platforms, portfolio operations, investor
+  relations, and corporate functions. The role operates within
+  a federated data operating model, partnering with domain
+  engineering teams to implement shared platforms and reusable
+  patterns for data and AI under the technical direction of
+  the Senior AI & Data Architect. Position Summary The Data &
+  AI Engineer is an experienced, hands-on engineer who turns
+  Carlyle’s data and AI architecture into working production
+  systems. Reporting to the Senior AI & Data Architect, this
+  role is responsible for building and operating the
+  pipelines, semantic layers, retrieval systems, and AI-ready
+  data products that power analytics, automation, LLMs,
+  agents, and generative AI applications across the firm. The
+  role requires deep, hands-on expertise across modern data
+  engineering and applied AI engineering. The Data & AI
+  Engineer will implement retrieval-augmented generation (RAG)
+  patterns, embedding and indexing pipelines, vector stores,
+  and semantic models alongside core ELT, streaming, and
+  analytical pipelines — treating LLMs, agents, and copilots
+  as first-class consumers of the data platform. This is a
+  senior individual-contributor engineering role that executes
+  against architectural standards, contributes to their
+  evolution through hands-on learning, and partners closely
+  with data science, AI engineering, governance, and domain
+  teams to deliver trusted, AI-consumable data at enterprise
+  scale. What Success Looks Like: In the first 12 months, this
+  role will deliver foundational AI-ready data pipelines and
+  retrieval components defined in the target-state
+  architecture, productionize one or more priority RAG or
+  agent-grounding use cases, and establish reusable
+  engineering patterns that other domain teams can adopt
+  across the federated data platform. In-office requirement: 4
+  days per week Location: Washington, D.C. or New York, NY
+
+  Responsibilities
+
+  Data Pipelines & Retrieval Systems (≈35%)
+
+  - Build and operate AI-ready data pipelines — embedding
+    generation, chunking, indexing, and refresh workflows —
+    that make Carlyle’s enterprise data reliably retrievable
+    by LLMs, agents, and generative AI applications.
+  - Implement retrieval-augmented generation (RAG) components,
+    including vector store integrations, hybrid search, re-
+    ranking, and grounding logic, against architectural
+    patterns defined by the Senior AI & Data Architect.
+  - Develop and maintain tool and function interfaces that allow
+    agents and copilots to query and act on enterprise data
+    safely, with appropriate guardrails, logging, and
+    evaluation hooks.
+  - Partner with Data Science and AI Engineering teams to
+    operationalize feature stores, evaluation datasets, and
+    reusable AI data products.
+  - Contribute to semantic and context engineering work that
+    powers natural-language analytics, conversational
+    reporting, and AI-driven insights for business users.
+
+  Modern Data Pipeline Engineering (≈30%)
+
+  - Design, build, and maintain production-grade ELT, streaming,
+    and transformation pipelines using tools such as dbt,
+    Fivetran and Snowflake.
+  - Implement ingestion, modeling, and consumption patterns that
+    meet enterprise standards for scalability, performance,
+    security, resiliency, and cost efficiency.
+  - Write clean, well-tested Python and SQL; apply software
+    engineering best practices including version control, code
+    review, CI/CD, modular design, and automated testing.
+  - Productionize new sources and domains under the federated
+    operating model, partnering with domain data engineers to
+    apply shared platform capabilities consistently.
+
+  Semantic Layer & Data Product Development (≈20%)
+
+  - Implement semantic models, data contracts, and
+    analytical/dimensional models that enable trusted self-
+    service analytics and reliable AI grounding.
+  - Build and maintain reusable data products with clear
+    ownership, documented contracts, and contextual metadata
+    suitable for both human and AI consumers.
+  - Collaborate with the Senior AI & Data Architect to refine
+    and extend enterprise semantic standards based on what
+    works in production.
+  - Support discovery and consumption tooling so that analysts,
+    applications, and agents can find and use data products
+    with minimal friction.
+
+  Data Quality, Observability & AI Trust (≈10%)
+
+  - Implement data quality checks, lineage capture, and pipeline
+    observability across both data and AI workloads.
+  - Build logging, evaluation, and monitoring components for AI
+    systems — including prompt and response capture, retrieval
+    metrics, and model performance signals — in line with
+    governance standards.
+  - Partner with Data Governance to operationalize metadata,
+    stewardship, and access controls, ensuring AI systems
+    consume enterprise data with the same rigor as human
+    users.
+  - Surface issues early, propose remediations, and feed lessons
+    learned back into architectural patterns.
+
+  Collaboration & Engineering Craft (≈5%)
+
+  - Participate in architectural design reviews and contribute
+    hands-on engineering perspective to evolving patterns and
+    standards.
+  - Mentor junior data engineers and analysts on modern data and
+    AI engineering practices.
+  - Document patterns, write runbooks, and share knowledge
+    across the federated organization to accelerate adoption
+    of reusable platform capabilities.
+
+  Education & Certifications
+
+  - Bachelor’s degree, required
+  - Concentration in computer science, data engineering,
+    information systems, or a related field, preferred
+  - Masters degree, preferred
+  - Relevant certifications in cloud, data engineering,
+    analytics, or AI/ML are preferred
+
+  Professional Experience
+
+  - 6+ years of overall relevant technical experience, required
+  - Experience in data engineering, analytics engineering, or
+    platform engineering, with at least 1-2 years of direct,
+    hands-on experience building generative AI or AI/ML
+    systems in production.
+  - Proven experience implementing retrieval, grounding, and
+    semantic components for LLM- or agent-based applications,
+    including RAG pipelines, vector stores, embedding
+    workflows, and structured tool use.
+  - Hands-on experience with one or more modern AI platforms and
+    tooling categories (e.g., AWS Bedrock, Databricks ML,
+    Snowflake Cortex, OpenAI/Anthropic APIs,
+    LangChain/LlamaIndex or equivalents, MLflow, and vector
+    databases such as Databricks Vector Search, pgvector, or
+    Pinecone).
+  - Strong, demonstrable expertise in Python and SQL, with
+    working knowledge of distributed processing frameworks
+    (e.g., Spark).
+  - Deep, hands-on experience with modern data stacks — dbt,
+    Fivetran, Snowflake — in AWS-based environments.
+  - Track record of building data pipelines and products whose
+    consumers include AI systems, not only BI tools and human
+    analysts.
+  - Palantir experience a plus.
+  - Experience operating within federated data operating models
+    and complex, regulated enterprise environments; financial
+    services experience preferred.
+
+  Competencies & Attributes
+
+  - Demonstrated AI-forward instinct: defaults to asking how AI
+    changes what gets built, rather than whether AI can be
+    added later.
+  - Fluency in current AI engineering patterns (RAG, agents,
+    tool use, evaluations, guardrails, observability) and the
+    practical trade-offs involved in shipping them.
+  - Strong engineering craft: clean code, automated testing,
+    thoughtful design, and a bias toward production-quality
+    systems over prototypes.
+  - Pragmatic, delivery-oriented mindset with strong attention
+    to data quality, AI trust, and long-term maintainability;
+    able to distinguish durable engineering decisions from AI
+    hype.
+  - Collaborative partner to architects, data scientists, AI
+    engineers, and domain teams; comfortable operating in a
+    matrixed, federated organization and in high-visibility
+    transformational initiatives.
+
+  Benefits/Compensation The compensation range for this role
+  is specific to the applicable office location and takes into
+  account a wide range of factors, including required and
+  preferred skill sets; prior experience and training; and
+  licenses and/or certifications. The anticipated base salary
+  range for this role is $160,000 to $180,000. In addition to
+  base salary, the hired professional will receive a
+  comprehensive benefits package including retirement
+  benefits, health insurance, life and disability insurance,
+  paid time off, paid holidays, family planning benefits, and
+  wellness programs. The hired professional may also be
+  eligible for an annual discretionary incentive program based
+  on individual and organizational performance.
+
+
+
+
+
+
+
+  Who We Are
+
+  When people, ideas, and capital come together, opportunity
+  expands across private markets. At Carlyle, this belief has
+  shaped how we invest for decades, fueling growth for
+  companies and delivering performance for investors.
+
+  Visit our website to learn more about our firm and the ways
+  our platform is shaping private markets.
+industries:
+  - Aerospace
+  - Consulting
+posted_date: 2026-10-23
+url: "https://builtin.com/job/data-ai-engineer/11828976"
+source: Built In

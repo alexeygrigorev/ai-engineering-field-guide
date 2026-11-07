@@ -1,0 +1,53 @@
+company:
+  name: Fello (fello.ai)
+  stage: VC-backed, profitable hyper-growth
+  focus: Agentic AI real estate SaaS platform
+position:
+  title: Staff Software Engineer, GTM AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes deep on LLM systems — agents, tool use,
+      structured outputs, retrieval, and memory — and the
+      company's core product (Felix) is an agentic AI teammate the
+      engineer shapes and ships. This is an engineer designing
+      agent workflows and structured outputs themselves, not just
+      consuming an API, so it is ai-first.
+  responsibilities:
+  - Design, build, and maintain backend services and APIs using Node.js
+  - Architect and optimize databases for efficient read and write performance
+  - Implement and improve CI/CD pipelines for fast, safe deployments
+  - Own technical leadership across multiple teams, guiding engineers from architecture
+    to shipped product
+  - Own performance, reliability, and security of the systems you build
+  - Design and ship LLM-powered agents, copilots, and workflows
+  - Design highly available, fault-tolerant distributed systems on AWS
+  - Mentor senior and mid-level engineers on technical challenges and career development
+  use_cases:
+  - Agentic AI teammate (Felix) automating real estate team follow-up across calls,
+    texts, and emails
+  - Marketing automation for real estate teams
+  - Data intelligence for real estate engagement
+  - Conversational AI that executes team workflows in real time
+  skills:
+    genai: [AI Agents, Function Calling, Structured Outputs, RAG, LLMs, Anthropic
+        API, OpenAI API, Agentic Workflows, Conversational AI]
+    ml: []
+    web: [Node.js, APIs]
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, API Gateway, DynamoDB]
+    ops: [CI/CD, Monitoring, Datadog, CloudWatch, Observability, Distributed Systems,
+      System Design]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12008028'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:27:18.305884'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

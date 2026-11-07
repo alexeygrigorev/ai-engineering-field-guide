@@ -1,0 +1,50 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and risk consulting
+position:
+  title: Fraud Analytics- AI Developer - Senior Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data analytics/consulting position in PwC's
+      fraud practice. There is no mention of shaping model
+      behavior, prompts, retrieval, agent flows, or training - the
+      work is data analysis and dashboards, so it does not shape
+      model output quality. Any AI is at most a tool used, making
+      this ai-support.
+  responsibilities:
+  - Analyze complex data sets to derive actionable insights supporting strategic decision-making
+  - Develop and implement innovative data solutions to optimize business performance
+  - Apply advanced analytics techniques to enhance clients' competitive advantage
+  - Build and maintain client relationships, anticipating client needs
+  - Collaborate with cross-functional teams on process improvement and data quality
+  - Design and deploy data visualization tools and dashboards
+  - Manage stakeholders to align data initiatives with business objectives
+  - Leverage Python programming for data analysis and pipeline development
+  use_cases:
+  - Fraud detection and risk analytics for clients
+  - Business performance optimization through data-driven insights
+  - Decision support via visualization dashboards and reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Visualization]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11147304'
+  location: Chicago, USA
+  locations:
+  - Chicago, USA
+  - New York, USA
+  extracted_at: '2026-11-06T11:25:17.315619'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: LenDenClub
+  stage: null
+  focus: Fintech lending and digital financial products
+position:
+  title: Manager (M3) - Sr Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires shaping model behaviour: fine-tuning LLMs
+      and transformers, choosing between fine-
+      tune/prompt/classical ML, and designing evaluation
+      frameworks — with LLM components named explicitly. Although
+      management-titled, the description says it is a building
+      role, so the hands-on shaping work governs the
+      classification.
+  responsibilities:
+  - Set technical direction for applied AI work while staying hands-on
+  - Own models from research through production, including post-launch retraining,
+    regressions, and incidents
+  - Make and defend build vs. buy and fine-tune vs. prompt vs. classical ML decisions
+    on cost, latency, and accuracy
+  - Design evaluation frameworks and data strategy for vision or language models
+  - Mentor engineers and turn ambiguous business problems into scoped, sequenced roadmaps
+  - Apply AI to fintech domains such as KYC, fraud, risk, and document intelligence
+    at scale
+  - Scale GPU training and inference infrastructure with cost control
+  use_cases:
+  - KYC verification and document intelligence at scale
+  - Fraud detection and risk management for lending
+  - Smarter credit risk assessment for P2P lending and instant loans
+  - Vision-based classification, detection, and segmentation for fintech workflows
+  skills:
+    genai: [Fine-Tuning, Prompt Engineering, LLMs]
+    ml: [Model Training, Machine Learning, Transformers, Embeddings, Model Evaluation,
+      Neural Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11695335'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T12:37:53.660895'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Supabase
+  stage: Series F
+  focus: Postgres-based backend development platform
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes LLM agent systems directly: agent
+      runtime design, prompt/tool-call logging, evaluation layers
+      with rubrics and CI gates, governance guardrails, and agent
+      portfolio. This is clearly shaping model behavior via agents
+      and evals on LLM systems.
+  responsibilities:
+  - 'Ship the agent execution platform: event-triggered queue, headless model-agnostic
+    runtime, durable state, human review gate, atomic rollback, and full run logging'
+  - 'Own the evaluation layer: golden suites, behavioral assertions, judge rubrics,
+    safety cases, and a CI gate blocking regressions'
+  - Build and register a portfolio of agents (reporting, drafting, linting, triage,
+    QA) plus a meta layer that observes and improves the platform
+  - 'Enforce governance in code: risk tiers, least-privilege credentials, tool-permission
+    gates, decision audit log, and autonomy classes'
+  - 'Design how the system contacts people: interruption budgets, message bundling,
+    and useful-before-asking structure'
+  - 'Own platform tooling: compiler, validator, inventory integrity, and distribution
+    of context/capabilities into repos and chat surfaces'
+  - Compute operating measures and a maturity grade per team from production data
+  - 'Instrument the platform''s return: ledger logging work absorbed by each agent'
+  use_cases:
+  - Internal AI operating system where agents carry operational load across the company
+  - 'Agent portfolio: executive reporting, drafting, linting, triage, and question
+    answering'
+  - Platform self-improvement via meta agents that observe and fix drift
+  - Governed agent execution with risk tiers, human approval gates, and atomic rollback
+  - Measurement of agent value and team AI maturity from production data
+  skills:
+    genai: [Prompt Engineering, AI Agents, Agentic Workflows, MCP, LLM Evaluation,
+      Guardrails, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Infrastructure as Code, Monitoring, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886759'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:37:46.355189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

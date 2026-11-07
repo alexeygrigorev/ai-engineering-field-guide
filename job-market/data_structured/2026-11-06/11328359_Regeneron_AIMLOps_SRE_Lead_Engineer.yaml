@@ -1,0 +1,58 @@
+company:
+  name: Regeneron
+  stage: null
+  focus: Biopharmaceutical company developing medicines
+position:
+  title: AI/MLOps SRE Lead Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates and monitors LLM, RAG, and AI Agent
+      platforms for reliability, scalability, and governance — it
+      runs infrastructure others build rather than shaping model
+      behavior via prompts, retrieval design, or training. Per the
+      serving/hosting edge case, this is ai-support despite
+      extensive LLM/AI platform exposure.
+  responsibilities:
+  - Establish SLOs, SLIs, error budgets, and reliability best practices across multi-cloud
+    AI/ML environments
+  - Design, build, and operate enterprise ML platform infrastructure using Dataiku,
+    SageMaker AI, Databricks, and Vertex AI
+  - Develop AI-powered observability with anomaly detection, predictive analytics,
+    and automated remediation
+  - Operate, monitor, and optimize LLM, SLM, RAG, and AI Agent platforms for performance
+    and governance
+  - Implement Infrastructure as Code, CI/CD pipelines, self-healing systems, and platform
+    automation
+  - Architect enterprise ChatOps solutions integrating observability and AI workflows
+  - Mentor engineers and influence reliability engineering and MLOps strategy across
+    the organization
+  use_cases:
+  - Enterprise ML platform operations across multi-cloud environments
+  - LLM, SLM, RAG, and AI Agent platform reliability and monitoring
+  - AI-powered observability and automated incident remediation
+  - Enterprise ChatOps workflow automation
+  - Self-healing platform infrastructure and engineering productivity automation
+  skills:
+    genai: [LLMs, RAG, AI Agents]
+    ml: [SageMaker, Machine Learning, Predictive Analytics, Model Deployment, Model
+        Monitoring]
+    web: []
+    databases: []
+    data: [Databricks, Dataiku]
+    cloud: [AWS, GCP, Azure, Vertex AI, EKS, AKS]
+    ops: [SRE, MLOps, Anomaly Detection, Automated Remediation, Infrastructure as
+        Code, Terraform, CI/CD, ChatOps, Prometheus, Grafana, Datadog, OpenTelemetry,
+      Kubernetes, Kubeflow, MLflow, LangSmith, Weights & Biases, Observability, Monitoring,
+      FinOps, Dataiku]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: [Dataiku]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11328359'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:30:52.676331'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

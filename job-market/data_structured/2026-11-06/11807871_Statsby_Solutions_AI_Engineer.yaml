@@ -1,0 +1,44 @@
+company:
+  name: Statsby Solutions
+  stage: null
+  focus: Software solutions using AI and machine learning
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on designing, building, training, and
+      deploying ML models and evaluating their performance, which
+      is shaping model behavior. LLMs and generative AI appear
+      only as nice-to-haves, with no prompt/RAG/agent work
+      described, so the shaped models are classical ML (ml-first).
+  responsibilities:
+  - Design, build, and deploy machine learning and AI models for real business problems
+  - Lead projects end to end including planning, task allocation, delivery, and stakeholder
+    updates
+  - Work with data teams to prepare, clean, and understand datasets
+  - Test, monitor, and improve model performance in production
+  - Mentor junior team members and review their work
+  - Track new AI tools and techniques and recommend adoption
+  use_cases:
+  - Machine learning solutions for real business problems
+  - Production AI models monitored and improved over time
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning, TensorFlow, PyTorch, scikit-learn, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11807871'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:16:09.590554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

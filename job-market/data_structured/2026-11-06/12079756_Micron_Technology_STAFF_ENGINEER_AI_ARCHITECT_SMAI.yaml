@@ -1,0 +1,48 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions manufacturing
+position:
+  title: STAFF ENGINEER, AI ARCHITECT, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires expertise in Agentic AI and Gen
+      AI and architecting AI/ML solutions, including designing
+      end-to-end solutions involving LLM/agent components for
+      Smart Manufacturing. Architecting agentic AI solutions
+      counts as shaping agent flows, making it ai-first.
+  responsibilities:
+  - Architect scalable cloud analytics, machine learning, and data science solutions
+    for Smart Manufacturing problems
+  - Lead technical architecture decisions covering system design, data models, platform
+    standards, and lifecycle management
+  - Provide subject matter expertise to troubleshoot critical technical issues across
+    projects
+  - Collaborate in cross-functional teams and technical working groups to align stakeholders
+  - Coach and mentor Data Scientists, AI Engineers, and AI Product Owners
+  - Evaluate emerging tools and frameworks to drive innovation
+  use_cases:
+  - Smart Manufacturing AI/ML solutions
+  - Enterprise data analytics and data science platforms
+  - Agentic AI solutions for manufacturing operations
+  - IoT-enabled manufacturing intelligence
+  skills:
+    genai: [Agentic Workflows, Generative AI]
+    ml: [Machine Learning]
+    web: [Angular]
+    databases: []
+    data: [Big Data, Data Pipelines]
+    cloud: [GCP, Azure]
+    ops: [Kubernetes, OpenShift, GitHub]
+    languages: [Python, .NET, SQL]
+    domains: []
+    other: [Solace, IoT, Cloud Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12079756'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:51:12.893252'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

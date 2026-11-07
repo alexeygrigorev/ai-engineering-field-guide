@@ -1,0 +1,50 @@
+company:
+  name: KKR
+  stage: null
+  focus: Global investment and alternative asset management firm
+position:
+  title: Full Stack Developer (Java, Node.js, AWS) - AI, Data & Platforms - Senior
+    Analyst/Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role that builds
+      infrastructure and internal developer tooling. AI appears
+      only as "integrating and supporting AI-driven services and
+      workflows" and familiarity with MCP — consuming/integrating
+      AI capabilities others designed, not shaping model behavior
+      through prompts, retrieval, or training.
+  responsibilities:
+  - Design, build, and maintain core platform services and internal developer tooling
+  - Develop backend services and automation using Python and Java
+  - Manage and provision infrastructure using Terraform and Infrastructure as Code
+  - Build and operate cloud-native solutions on AWS, GCP, or Azure
+  - Integrate and support AI-driven services and workflows within the platform
+  - Work with MCP or similar AI/platform integration frameworks
+  - Collaborate with application, DevOps, and security teams to improve platform reliability
+    and developer experience
+  - Monitor, troubleshoot, and optimize platform performance and cost
+  use_cases:
+  - Internal developer platform services
+  - Infrastructure automation via Infrastructure as Code
+  - Cloud-native platform operations
+  - AI-enabled platform integration and workflows
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, Infrastructure as Code, CI/CD, Kubernetes, Observability, Docker]
+    languages: [Python, Java, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11868853'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T13:26:07.270904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

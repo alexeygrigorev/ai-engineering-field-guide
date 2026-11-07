@@ -1,0 +1,59 @@
+company:
+  name: BlackLine
+  stage: null
+  focus: Financial automation and accounting close software
+position:
+  title: Staff II Software Engineer AI/ML Ops
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM agent behavior directly: building CI/CD
+      for LLM agent deployment with prompt evaluation,
+      architecting guardrails (prompt injection protection, tool
+      usage authorization), defining agent evaluation and
+      experimentation frameworks, and managing MCP registry for
+      agentic components. These are output-quality and agent-
+      lifecycle responsibilities, not just model serving.
+  responsibilities:
+  - Lead development of PySpark ETL data pipelines with high data quality and performance
+  - Define and manage MCP Registry for agentic component onboarding, versioning, and
+    dependency governance
+  - Build CI/CD pipelines automating LLM agent deployment, policy validation, and
+    prompt evaluation
+  - Architect end-to-end guardrails for AI agents including prompt injection protection
+    and tool usage authorization
+  - Design training infrastructure including distributed training orchestration and
+    GPU/TPU allocation
+  - Architect model registries and feature stores for version tracking, lineage, and
+    reproducibility
+  - Implement monitoring and observability for model and agent performance, safety
+    events, and latency SLAs
+  - Lead incident response and reliability strategies for ML/AI systems
+  use_cases:
+  - Data pipelines powering AI-driven accounting agents
+  - LLM agent deployment and evaluation workflows
+  - Production ML model deployment and monitoring
+  - Agentic runtime governance and compliance auditing
+  - Large-scale financial data integration via connectors
+  skills:
+    languages: [Python, Java, Scala, Bash]
+    domains: []
+    web: [APIs]
+    cloud: [Vertex AI, GCP, AWS, Azure]
+    data: [PySpark, Data Pipelines, Airflow]
+    ml: [MLflow, TensorFlow, PyTorch, scikit-learn, LLMs]
+    databases: []
+    genai: [Guardrails, MCP, AI Agents, Prompt Engineering, LangChain, LangGraph,
+      Google ADK]
+    ops: [LLMOps, MLOps, Weights & Biases, Kubeflow, CI/CD, Infrastructure as Code,
+      DevSecOps, Docker, Kubernetes, Prometheus, Grafana, DevOps, Model Deployment,
+      Monitoring]
+    other: [Fivetran, Plaid, New Relic, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894306'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T13:51:30.717422'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

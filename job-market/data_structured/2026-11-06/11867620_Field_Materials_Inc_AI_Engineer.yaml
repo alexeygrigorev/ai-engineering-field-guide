@@ -1,0 +1,77 @@
+company:
+  name: Field Materials Inc.
+  stage: null
+  focus: AI-native construction procurement software
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, evaluates, and integrates LLM-based
+      document extraction and RAG-driven automations, with
+      evaluation suites and tuned models — directly shaping model
+      behavior/output quality. Company focus is Generative AI +
+      LLMs, so it's ai-first.
+  responsibilities:
+  - Own AI models, data pipelines, evaluation suites, and AI product features end
+    to end
+  - Design, evaluate, and integrate AI models and data pipelines in production
+  - Build and tune generative AI document extraction for construction procurement
+    documents
+  - Develop LLM and RAG driven workflow automations for procurement, AP, and inventory
+  - Maintain evaluation sets and improve model quality against metrics
+  - Build backend services with Go, GraphQL, and Postgres integrated with construction
+    ERPs
+  use_cases:
+  - Automated document data extraction for construction procurement
+  - Workflow automation for procurement, AP, and inventory management
+  - Reducing manual data entry in legacy construction ERPs
+  - Bidirectional ERP integrations across construction systems
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, LLM Evaluation]
+    ml: [Fine-Tuning]
+    web: [GraphQL, REST APIs]
+    databases: [PostgreSQL, SQL, ODBC]
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: []
+    languages: [Go]
+    domains: []
+    other: [Optimization Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11867620'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T13:25:09.449190'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

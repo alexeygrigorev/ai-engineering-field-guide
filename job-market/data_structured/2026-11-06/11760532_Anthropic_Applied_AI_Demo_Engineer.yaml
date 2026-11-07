@@ -1,0 +1,57 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: Building safe, steerable AI systems and Claude models
+position:
+  title: Applied AI Demo Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents, prompts, tool use, retrieval, and
+      eval/validation harnesses on top of LLM APIs, directly
+      shaping model-driven behavior for demos and internal agentic
+      systems. Forward deployed-style customer-facing role
+      adapting AI solutions is ai-first.
+  responsibilities:
+  - Own demo readiness for new Claude capabilities including environments, integrations,
+    synthetic data, evaluations, and fallback paths
+  - Build prototypes, agents, and reference flows that make capabilities concrete
+    for customers
+  - Turn recurring requests into reusable accelerators such as companion apps, templates,
+    Skills, and plugins
+  - Partner with GTM colleagues on high-impact customer moments and unblock technical
+    gaps
+  - Build internal agentic systems that automate demo preparation, validation, and
+    asset maintenance
+  - Translate field insights into product feedback and launch-readiness priorities
+  - Define and raise the bar for demo quality across accuracy, safety, and reliability
+  use_cases:
+  - Demos and reference implementations of Claude capabilities for customer-facing
+    teams
+  - 'Reusable demo assets: companion apps, templates, Skills, and plugins'
+  - Internal agentic systems automating demo preparation and validation
+  - Evaluation and validation harnesses ensuring demo accuracy and reliability
+  - Synthetic/sanitized datasets for realistic demos
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, RAG, Claude Code, MCP, AI
+        Agents, Agentic Workflows]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLM Evaluation]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11760532'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:46:34.482006'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

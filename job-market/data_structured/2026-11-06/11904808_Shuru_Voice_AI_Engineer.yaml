@@ -1,0 +1,47 @@
+company:
+  name: Shuru
+  stage: null
+  focus: AI-native technology and engineering services company
+position:
+  title: Voice AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: building agentic
+      workflows with prompts, tool calling, structured outputs,
+      and RAG, plus LLM evaluation suites. Clear ai-first per Step
+      1/2.
+  responsibilities:
+  - Own and improve a production Voice AI / LLM application
+  - Build agentic workflows using prompts, tool calling, structured outputs, and RAG
+  - Work hands-on with Amazon Connect, Lex V2, and Bedrock
+  - Build LLM evaluation suites and automated quality gates
+  - Improve voice latency, reliability, and production performance
+  - Implement PII/PHI safeguards and monitor quality and cost
+  use_cases:
+  - Production voice AI agent for a US insurance organization
+  - Converting scripted call flows into agentic conversations
+  - Low-latency, reliable voice interactions
+  - Secure handling of PII/PHI in regulated insurance environment
+  - Quality and cost monitoring for LLM-driven calls
+  skills:
+    genai: [Prompt Engineering, Function Calling, RAG, Structured Outputs, Agentic
+        Workflows, LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, IAM, AWS, AWS S3]
+    ops: [CloudWatch, KMS]
+    languages: [Python]
+    domains: []
+    other: [Amazon Connect, Amazon Lex V2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11904808'
+  location: Gurgaon, IND
+  remote: true
+  extracted_at: '2026-11-06T13:55:37.016960'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

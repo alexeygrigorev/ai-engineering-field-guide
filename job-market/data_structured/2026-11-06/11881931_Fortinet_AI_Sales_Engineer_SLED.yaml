@@ -1,0 +1,62 @@
+company:
+  name: Fortinet
+  stage: null
+  focus: Network and AI security platforms
+position:
+  title: AI Sales Engineer, SLED
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales sales engineer role supporting
+      Fortinet's AI security platform. The person demos, deploys,
+      and evangelizes a security product for AI workloads; they do
+      not shape model behaviour through prompts, retrieval,
+      training, or evals. Pre-sales technical support for an AI
+      product is ai-support.
+  responsibilities:
+  - Partner with the AI Sales Specialist on GTM strategy for AI Security solutions
+    across the region
+  - Enable and train regional Sales Engineers on product capabilities, roadmap, and
+    demonstrations
+  - Support technical discovery, architecture deep dives, and proof of concepts through
+    the sales cycle
+  - Assist customers with deployment of AI Security solutions in self-hosted environments
+  - Maintain demo environments, certifications, training materials, and performance
+    benchmarking
+  - Engage channel and reseller partners to equip them to close AI Security opportunities
+  - Lead customer-facing engagements including architecture reviews, demos, and technical
+    training
+  - Facilitate post-sales technical handovers and build relationships with CTOs, CISOs,
+    and AI leaders
+  use_cases:
+  - Securing customer-built AI applications
+  - Securing usage of popular agentic AI tools
+  - Access controls and identity management for AI workloads
+  - Network integration and endpoint detection for AI environments
+  - Guardrails and red-teaming for AI deployments
+  skills:
+    genai: [Generative AI, Agentic Workflows, Guardrails, Red-Teaming]
+    ml: [Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, EKS, GKE]
+    ops: [Docker, Kubernetes]
+    languages: []
+    domains: [AI Security]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11881931'
+  location: Miami, USA
+  locations:
+  - Miami, USA
+  - Dallas, USA
+  - Chicago, USA
+  - New York, USA
+  - Sacramento, USA
+  remote: true
+  extracted_at: '2026-11-06T13:31:05.092902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Defense Unicorns
+  stage: null
+  focus: Secure software delivery and DevSecOps for U.S. government
+position:
+  title: Senior AI Software Engineer (RD271)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agent orchestration, coding agents, and
+      AI-driven development workflows — directly shaping agent
+      behavior, tool calling, and LLM integration. This is ai-
+      first per Step 2.
+  responsibilities:
+  - Build AI-driven workflows for creating, packaging, validating, and maintaining
+    mission applications
+  - Develop agent orchestration combining AI reasoning with deterministic tooling
+    and human oversight
+  - Create secure, isolated development environments for executing AI agents
+  - Integrate UDS packaging, Kubernetes, and software delivery tooling into automated
+    workflows
+  - Build automated testing and validation for generated software and UDS packages
+  - Own design, implementation, and delivery of complex features; drive architecture
+    decisions
+  - Debug complex issues across Kubernetes, virtualization, storage, networking, and
+    operating systems
+  - Review code, mentor teammates, and establish engineering practices
+  use_cases:
+  - Automated application development, packaging, and delivery for secure mission
+    environments
+  - AI agent orchestration for software creation with deterministic validation and
+    human oversight
+  - Secure isolated execution environments for AI coding agents
+  - Automated validation ensuring generated software and UDS packages are secure and
+    deployable
+  - Software delivery into air-gapped, regulated, or disconnected environments
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, MCP, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, CI/CD, Docker, Helm, GitOps, Terraform, Infrastructure as Code,
+      Distributed Systems]
+    languages: [Go, TypeScript]
+    domains: []
+    other: [Zarf, Kata Containers, Software Supply Chain Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11928653'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:59:53.855221'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

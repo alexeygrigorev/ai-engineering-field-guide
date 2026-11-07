@@ -1,0 +1,62 @@
+company:
+  name: Infiterra
+  stage: null
+  focus: Subscription commerce platform for IT distributors and MSPs
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, evaluates, and operates LLM-based
+      systems including prompting, retrieval/RAG, agentic
+      workflows, and fine-tuning, directly shaping model behavior
+      and output quality. LLM/agent components are central, so it
+      is ai-first.
+  responsibilities:
+  - Own design, implementation, evaluation and production operation of complex AI
+    systems
+  - Translate ambiguous business problems and domain constraints into measurable AI
+    behavior
+  - 'Select AI approaches based on evidence: prompting, retrieval, orchestration,
+    predictive ML, fine-tuning'
+  - Build production systems with model APIs, structured outputs, RAG, and agentic
+    tool-based workflows
+  - Design evaluation strategies covering behavior, groundedness, business correctness,
+    robustness and regressions
+  - Establish production monitoring and feedback loops using metrics, traces and operational
+    data
+  - Diagnose complex AI and software failures and convert learnings into prevention
+  - Mentor less-experienced engineers and contribute reusable patterns
+  use_cases:
+  - Knowledge systems reconciling business knowledge from product, engineering and
+    production evidence
+  - Automated vendor-integration capabilities and Integration Hub automation
+  - 'AI-assisted software delivery: analysis, requirements, implementation, testing,
+    code review'
+  - 'AI-enabled production intelligence: anomaly detection, failure-pattern analysis,
+    intelligent monitoring'
+  - Predictive and analytical platform capabilities
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [Cloud]
+    data: [Data Pipelines]
+    ml: [Model Evaluation, Anomaly Detection, Predictive ML]
+    databases: []
+    genai: [RAG, Prompt Engineering, Agentic Workflows, Structured Outputs, Fine-Tuning,
+      MCP, LangGraph]
+    ops: [Kubernetes, CI/CD, Observability, Monitoring, Docker]
+    other: [Distributed Systems, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11628669'
+  location: GRC
+  locations:
+  - GRC
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T12:25:23.060049'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

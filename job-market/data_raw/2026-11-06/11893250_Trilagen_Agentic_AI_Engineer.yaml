@@ -1,0 +1,130 @@
+job_id: 11893250
+title: Agentic AI Engineer
+company: Trilagen
+location: McLean, USA
+locations:
+  - McLean, USA
+  - Bethesda, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  We build AI agents that actually work in enterprise
+  environments — not prototypes, not demos. We need engineer's
+  who can own the entire agent stack: a production frontend, a
+  robust backend, a properly secured API and identity layer, a
+  memory architecture that scales, and LLM integrations that
+  are model-agnostic and built to last.
+
+  You'll be deployed on client engagements as the lead
+  technical architect and builder of agentic systems running
+  in AWS, OCI, and Azure. You'll work directly with client
+  stakeholders, translate complex requirements into working
+  systems, and leave behind infrastructure clients can operate
+  and extend. You'll also help Trilagen productize our
+  delivery approach as we scale the practice.
+
+  If you've only ever built agents that run on your laptop,
+  this isn't the role. If you've shipped agentic systems into
+  production cloud environments and know exactly what breaks
+  and why — we want to talk.
+
+  What you'll own
+
+  Full-stack agent development You design and build the entire
+  application — not just the AI layer. This means a React or
+  Next.js frontend with streaming, real-time agent UX; a
+  Python or Node.js backend that orchestrates agent logic,
+  manages state, and exposes clean APIs; and containerized,
+  cloud-deployed services that operations teams can actually
+  run. You own the repo, the CI/CD pipeline, the deployment,
+  and the runbook.
+
+  Multi-cloud deployment Production agent systems on all three
+  major clouds: AWS (Lambda, ECS/Fargate, Bedrock, API
+  Gateway), Oracle OCI (OKE, Functions, AI Services), and
+  Azure (AKS, Azure OpenAI Service, Azure Functions). You
+  understand the tradeoffs between platforms and can advise
+  clients on where to run what and why.
+
+  LLM integration and model strategy You have deep, hands-on
+  experience with the leading LLM providers and their APIs —
+  Anthropic Claude (Messages API, tool use, streaming, context
+  management), OpenAI (GPT-4o, Assistants API, function
+  calling), and Google Gemini (Gemini Pro/Flash, Vertex AI).
+  You architect model-agnostic integration layers so clients
+  aren't locked in, and you know how to select, swap, and
+  benchmark models for specific agent tasks.
+
+  Agentic architecture You understand how to design systems
+  that do real multi-step work: tool use and function calling
+  patterns, ReAct and plan-and-execute loops, agent-to-agent
+  orchestration and handoffs, human-in-the-loop checkpoints,
+  retry and failure recovery strategies, and cost/latency
+  optimization across long-running agent workflows. Frameworks
+  like LangGraph, CrewAI, AutoGen, and the Model Context
+  Protocol (MCP) are tools in your toolbox, not the ceiling of
+  your knowledge.
+
+  Memory and context layer You've designed and implemented
+  memory architectures for production agents: short-term
+  conversational context, long-term persistent memory, RAG
+  pipelines with vector databases (Pinecone, pgvector,
+  OpenSearch, Weaviate), semantic search, and hybrid retrieval
+  strategies. You know when to use each and how to keep them
+  performant at scale.
+
+  Security and identity layer This is non-negotiable for our
+  client base. You build the security envelope around every
+  agent system you ship: OAuth 2.0 / OIDC authentication
+  flows, API key lifecycle management, role-based access
+  control enforced within agent workflows, secrets management
+  (AWS Secrets Manager, Azure Key Vault, OCI Vault), audit
+  logging for agent actions, prompt injection defense, and
+  data residency controls. Familiarity with Okta or SailPoint
+  ISC is a direct advantage on our engagements.
+
+  Requirements
+
+  - 4+ years of software engineering experience with at least 2
+    years building and shipping LLM-powered or agentic
+    applications in production cloud environments
+  - Hands-on depth with at least two of the three major LLM
+    providers: Anthropic Claude, OpenAI, and Google Gemini —
+    at the API level, not just via wrappers
+  - Full-stack proficiency: Python (FastAPI, Flask, or similar)
+    backend, React or Next.js frontend, REST and WebSocket API
+    design
+  - Production experience on at least two of: AWS, Azure, OCI —
+    with real deployments, not sandbox accounts
+  - Demonstrated ability to design and implement agent memory
+    and retrieval systems using vector databases and RAG
+  - Strong command of AI security practices: auth, RBAC, secrets
+    management, audit logging, and prompt-level safeguards
+  - Consulting DNA — you can run a discovery session, write a
+    technical design doc, manage client expectations, and own
+    delivery end to end
+
+  Nice to have
+
+  - Experience with all three LLM providers (Anthropic, OpenAI,
+    Gemini) and model-agnostic orchestration patterns
+  - Okta and/or SailPoint ISC integration experience
+  - Cloud certifications: AWS Solutions Architect, Azure
+    Solutions Architect, OCI Architect
+
+  Benefits
+
+  Benefits:
+
+  - 401K
+  - Health Insurance
+  - Dental Insurance
+  - Paid Time Off
+  - Paid Sick Leave
+industries:
+  - Information Technology
+  - Cybersecurity
+posted_date: 2026-10-26
+url: "https://builtin.com/job/agentic-ai-engineer/11893250"
+source: Built In

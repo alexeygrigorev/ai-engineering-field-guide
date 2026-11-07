@@ -1,0 +1,57 @@
+company:
+  name: Circana
+  stage: null
+  focus: Consumer analytics and AI data solutions for retail
+position:
+  title: Principal Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic systems end-to-end: agent
+      orchestration, tool contracts, MCP servers, guardrails,
+      evals, and prompt design. This is squarely shaping model
+      behavior of LLM/agent systems, so it is ai-first.
+  responsibilities:
+  - Lead the design and delivery of agentic systems for a solution family, from domain
+    discovery through production use
+  - Translate domain expertise into intent ontologies, tool contracts, and evaluation
+    sets with subject matter experts
+  - 'Own harness engineering: context management, tool contracts, MCP servers, guardrails,
+    retries, tracing and replay'
+  - 'Establish evaluation as infrastructure: golden traces, regression suites, routing
+    tests, offline and online measurement'
+  - Set reusable patterns, shared services, tools, and conventions for faster subsequent
+    builds
+  - 'Anchor a pod of engineers: set technical direction, review work, raise the bar'
+  - Represent the work to product owners, architects, security, executives, and client
+    stakeholders
+  use_cases:
+  - Agentic systems that reason, plan, and act over consumer behavior data for brands
+    and retailers
+  - Market share measurement and consumer behavior analytics automation
+  - Intent ontologies and tool contracts translating domain expertise into agent capabilities
+  - 'Evaluation-driven agent quality: golden traces, regression suites, routing tests'
+  skills:
+    genai: [Agentic Workflows, LangGraph, Google ADK, Microsoft Agent Framework, MCP,
+      A2A, AG-UI, Prompt Engineering, Structured Outputs, Guardrails, Anthropic API,
+      OpenAI API, Gemini, Claude Code, LLM Evaluation, Context Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, GCP, Azure, Azure AI Foundry]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11390307'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T11:41:46.329653'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

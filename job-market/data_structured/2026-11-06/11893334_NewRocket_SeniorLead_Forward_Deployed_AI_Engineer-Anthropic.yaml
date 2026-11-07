@@ -1,0 +1,60 @@
+company:
+  name: NewRocket
+  stage: ''
+  focus: ServiceNow consulting and enterprise AI workflow solutions
+position:
+  title: Senior/Lead Forward Deployed AI Engineer-Anthropic-UK
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role that shapes LLM behavior
+      directly: prompt/context engineering, RAG design, tool use,
+      structured outputs, agent workflows, and model evaluation
+      using Claude. Explicitly customer-facing delivery of AI
+      solutions.
+  responsibilities:
+  - Deploy, configure, and operationalize agentic AI workflows, AI assistants, and
+    automations in client ServiceNow and enterprise environments
+  - Build enterprise AI applications using Claude, the Anthropic API, and other LLM
+    platforms
+  - Apply prompt and context engineering, RAG, tool use, structured outputs, and multi-step
+    orchestration patterns
+  - Develop and execute AI evaluation approaches and implement responsible AI safeguards
+    including human-in-the-loop workflows
+  - Develop secure integrations between ServiceNow, enterprise systems, APIs, and
+    AI services
+  - Build demos, prototypes, and proof-of-concept implementations for customer use
+    cases
+  - Contribute reusable assets, prompt patterns, and evaluation frameworks to NewRocket's
+    AI platforms
+  - Diagnose and troubleshoot issues across AI workflows, retrieval pipelines, and
+    integrations
+  use_cases:
+  - Agentic AI workflow automation in ServiceNow enterprise environments
+  - Enterprise knowledge assistants grounded in authorized company data via RAG
+  - Intelligent enterprise automations and AI-powered integrations
+  - Document analysis and enterprise knowledge workflows with Claude
+  - AI-powered enterprise decision support and workflow acceleration
+  skills:
+    genai: [Anthropic API, Prompt Engineering, RAG, Agentic Workflows, AI Agents,
+      Structured Outputs, Function Calling, Context Engineering, MCP, Claude Code,
+      LLM Evaluation, Embeddings, LangChain, LangGraph, LlamaIndex, Semantic Kernel,
+      Responsible AI]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Vector Search, SQL, Semantic Search]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Git, Infrastructure as Code, Observability]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [ServiceNow]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893334'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T13:46:31.620146'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

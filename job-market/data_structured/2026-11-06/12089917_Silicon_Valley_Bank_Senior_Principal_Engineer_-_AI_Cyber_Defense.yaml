@@ -1,0 +1,56 @@
+company:
+  name: Silicon Valley Bank
+  stage: null
+  focus: 'U.S. bank global capability center: cybersecurity and risk'
+position:
+  title: Senior Principal Engineer - AI Cyber Defense
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs and trains custom ML models for
+      cybersecurity (anomaly detection, threat prediction,
+      behavioral analytics) and tunes them for detection accuracy,
+      which is shaping classical ML — no LLM, prompt, RAG, or
+      agent work is described. Embedded AI in existing security
+      tools is consumed, not shaped.
+  responsibilities:
+  - Design and develop AI/ML models for anomaly detection, threat prediction, and
+    behavioral analytics
+  - Leverage and extend embedded AI capabilities within existing security tools (SIEM,
+    SOAR, XDR, EDR, DLP, firewalls)
+  - Build AI-driven protection mechanisms such as automated blocking, adaptive controls,
+    and risk-based access enforcement
+  - Defend against AI-driven threats including deepfake fraud, adversarial AI, and
+    model evasion
+  - Improve detection accuracy and reduce false positives through model tuning and
+    intelligent enrichment
+  - Perform data engineering and feature engineering for model training and analytics
+  - Develop intelligent automation workflows for faster, self-healing security operations
+  - Ensure governance, explainability, and responsible AI use in cybersecurity
+  use_cases:
+  - Anomaly detection and threat prediction in enterprise telemetry
+  - Behavioral analytics and UEBA for user/entity risk
+  - Predictive prevention of attacks from early signals and adversary behavior
+  - AI-driven adaptive access controls and automated blocking
+  - Defense against deepfake fraud and adversarial AI attacks
+  - Reducing false positives in security detection and alerting
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Anomaly Detection, Feature Engineering,
+      Model Deployment, Model Monitoring]
+    web: [APIs]
+    databases: []
+    data: [Data Engineering]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [SIEM, SOAR, XDR, UEBA, Cybersecurity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12089917'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:54:52.210182'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services, asset and wealth management
+position:
+  title: Lead Software Engineer - Python and AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-driven SDLC agents, multi-
+      agent orchestration (LangGraph, A2A, MCP), and RAG-based
+      agent solutions, directly shaping LLM behavior. Lead is
+      technical leadership with mentorship only, not people
+      management.
+  responsibilities:
+  - Design and implement LLM-driven agent services for design, code generation, documentation,
+    test creation, and observability on AWS
+  - Develop orchestration and communication layers between agents using frameworks
+    like A2A SDK, LangGraph, or AutoGen
+  - Integrate AI agents with toolchains such as Jira, Bitbucket, GitHub, Terraform,
+    and monitoring platforms
+  - Collaborate on system design, SDK development, and data pipelines supporting agent
+    intelligence
+  - Provide technical leadership, mentorship, and guidance to junior engineers
+  - Drive adoption and governance of approved AI-assisted engineering practices across
+    teams
+  - Apply SDLC toolchain automation capabilities to improve value realized at scale
+  use_cases:
+  - Autonomous agents across the software development lifecycle (code generation,
+    documentation, testing)
+  - Multi-agent orchestration for an AI-native SDLC framework
+  - RAG-based AI agent solutions for engineering workflows
+  - AI-assisted code review, refactoring, and test acceleration
+  - Incident and root-cause analysis automation
+  - Agent-driven observability and release readiness
+  skills:
+    genai: [LangGraph, RAG, AI Agents, Multi-Agent Systems, LLMs, Prompt Engineering,
+      Context Engineering, LangChain, AutoGen, MCP, A2A]
+    ml: []
+    web: [FastAPI, Pydantic, APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, EKS, AWS Lambda, AWS S3, Azure, GCP]
+    ops: [Terraform, CI/CD, Kubernetes, Docker, Monitoring, MLOps, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Jira, Bitbucket, GitHub, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12066420'
+  location: Mumbai, IND
+  locations:
+  - Mumbai, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:45:28.030363'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

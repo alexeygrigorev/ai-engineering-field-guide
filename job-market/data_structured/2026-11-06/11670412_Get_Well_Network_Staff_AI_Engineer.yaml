@@ -1,0 +1,49 @@
+company:
+  name: Get Well Network
+  stage: null
+  focus: Digital patient engagement and AI healthcare navigation
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems with CrewAI,
+      LangChain, and LangGraph, and trains/fine-tunes LLMs,
+      directly shaping model behavior. LLM/agent component makes
+      it ai-first.
+  responsibilities:
+  - Design and implement AI solutions using unimodal and multimodal LLMs and agentic
+    systems
+  - Develop agentic systems with frameworks like CrewAI, LangChain, and LangGraph
+    for autonomous decision-making and workflow automation
+  - Execute model training, fine-tuning, and inference optimization
+  - Establish testing and validation protocols for AI models and drive accuracy improvements
+  - Implement AI monitoring and observability using Langfuse, Prometheus, and Grafana
+  - Serve as technical liaison between AI engineering, product, and clinical teams
+  - Optimize cloud-based AI infrastructure for scalability and reliability
+  - Ensure compliance with healthcare regulations including HIPAA and GDPR
+  use_cases:
+  - Autonomous decision-making and workflow automation via agentic systems
+  - Patient engagement and personalized healthcare journey navigation
+  - Multimodal AI-driven healthcare solutions
+  - Clinical workflow automation across hospitals and care partners
+  skills:
+    genai: [LLMs, CrewAI, LangChain, LangGraph, Agentic Workflows, MCP, A2A Protocol,
+      Fine-Tuning]
+    ml: [Machine Learning, PyTorch, TensorFlow, Hugging Face, Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Langfuse, Prometheus, Grafana]
+    languages: [Python, C++]
+    domains: []
+    other: [HIPAA Compliance, GDPR, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11670412'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:30:28.430107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

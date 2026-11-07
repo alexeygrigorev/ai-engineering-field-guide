@@ -1,0 +1,50 @@
+company:
+  name: Johnson Controls
+  stage: null
+  focus: Building automation and HVAC/fire security systems
+position:
+  title: Moveworks AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role hands-on configures an AI assistant's
+      conversations, paths, skills, and plugins, and analyzes
+      chatbot interactions to improve the AI Assistant's behavior
+      — this is shaping an agent/LLM product's output quality. The
+      target is an LLM-based assistant (Moveworks), so it is ai-
+      first.
+  responsibilities:
+  - Hands-on configuration and enhancement of the Moveworks AI Assistant / chatbot
+  - Partner with ServiceNow and Workday technical teams to support and maintain integrations
+  - Analyze chatbot interaction data and update AI Assistant skills
+  - Configure Moveworks paths and conversations based on defined requirements
+  - Enable and support Moveworks plugins and platform features
+  - Support enhancement delivery from concept through deployment, including testing
+    coordination
+  - Document technical configurations and system changes
+  - Provide technical support to HR stakeholders and end-user guidance
+  use_cases:
+  - AI-driven HR assistant for employee self-service
+  - HR process automation such as onboarding and offboarding support
+  - Chatbot answering HR-centric employee questions
+  - Integration of the AI assistant with ServiceNow and Workday HR systems
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Moveworks, ServiceNow, Workday, Chatbot Conversation Configuration, Enterprise
+        SaaS Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10433234'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:20:26.534882'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

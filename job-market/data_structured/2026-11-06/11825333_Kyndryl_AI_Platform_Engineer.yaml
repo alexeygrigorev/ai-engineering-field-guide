@@ -1,0 +1,53 @@
+company:
+  name: Kyndryl
+  stage: null
+  focus: Mission-critical IT infrastructure and services
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and maintains AI platform infrastructure
+      (networking, security, CI/CD, AKS, Azure services) rather
+      than shaping model behavior. Generative AI and RAG/agents
+      appear as supporting knowledge for platform consumers, but
+      the deliverable is scalable, governable infrastructure and
+      developer tooling, not prompts, retrieval design, or model
+      quality.
+  responsibilities:
+  - Design and develop scalable AI infrastructure aligned with strict banking standards
+    (monitoring, security-by-design, privacy, auditability)
+  - Prototype emerging AI infrastructure components and translate them into enterprise
+    standards
+  - Collaborate with architecture, security, risk, and data governance teams on regulatory
+    alignment
+  - Build templates and reference implementations for developer teams consuming AI
+    services
+  - Design and implement cloud-native solutions on Azure with containerized services
+  - Implement CI/CD pipelines and drive end-to-end platform automation
+  - Develop integrations between AI services, AKS Kubernetes services, and data platforms
+  use_cases:
+  - Enterprise AI platform infrastructure for a banking client
+  - Secure, governed bank-wide deployment of AI applications at scale
+  - Developer enablement for consuming AI models and services
+  - Banking compliance and auditability for AI workloads
+  skills:
+    genai: [Generative AI, RAG, Prompt Engineering, AI Agents]
+    ml: []
+    web: [API Management]
+    databases: []
+    data: [Databricks, Unity Catalog]
+    cloud: [Azure, Azure AI Services, IAM, AKS, Azure Monitor]
+    ops: [LLMOps, CI/CD, Infrastructure as Code, Azure DevOps, Kubernetes, Observability,
+      Monitoring]
+    languages: [Bicep, Python]
+    domains: []
+    other: [GitHub Copilot, DevEx]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11825333'
+  location: Hoofddorp, NLD
+  extracted_at: '2026-11-06T13:19:08.342900'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

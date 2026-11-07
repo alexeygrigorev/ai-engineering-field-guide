@@ -1,0 +1,55 @@
+company:
+  name: Donaldson Company
+  stage: null
+  focus: Filtration technology and industrial solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys LLM-based solutions including
+      RAG, AI agents, and prompt engineering, directly shaping
+      model behaviour. With LLM/GenAI components central, this is
+      ai-first.
+  responsibilities:
+  - Lead end-to-end delivery of AI and Generative AI solutions from business discovery
+    through deployment and operational support
+  - Work with business stakeholders to define requirements and translate challenges
+    into AI solutions
+  - Design scalable architectures leveraging LLMs, RAG, AI agents, APIs, and cloud
+    services
+  - Develop and deploy production-grade AI applications, services, and copilots using
+    Python, Azure AI, and Snowflake
+  - Establish testing, evaluation, and monitoring practices for AI accuracy, reliability,
+    and security
+  - Build reusable frameworks, accelerators, and engineering standards for AI adoption
+  - Provide technical leadership via architecture reviews, code reviews, and coaching
+  - Evaluate emerging AI technologies and recommend solutions with measurable business
+    value
+  use_cases:
+  - Enterprise AI copilots and intelligent assistants for business users
+  - Enterprise knowledge retrieval with RAG over corporate knowledge sources
+  - Agent-based workflow automation
+  - Production AI services integrated into enterprise systems
+  - AI governance, evaluation, and observability
+  skills:
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, LangChain, LangGraph, Semantic
+        Kernel, AutoGen, CrewAI, LlamaIndex, Azure OpenAI, Copilot Studio, Generative
+        AI, LLM Evaluation, Machine Learning]
+    ml: []
+    web: [FastAPI, Flask, Streamlit, React, Next.js]
+    databases: [Snowflake, Snowflake Cortex AI]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure AI Search]
+    ops: [CI/CD, DevOps, MLOps, LLMOps, Docker, Kubernetes, AKS]
+    languages: [Python, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609566'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:19:58.717841'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

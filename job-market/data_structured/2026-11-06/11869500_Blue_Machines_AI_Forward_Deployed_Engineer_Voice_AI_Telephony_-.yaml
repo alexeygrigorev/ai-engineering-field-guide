@@ -1,0 +1,51 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: Production voice AI agents for Indian enterprises
+position:
+  title: Forward Deployed Engineer (Voice AI / Telephony) - Delhi
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE designs, prompts, builds, and evaluates production voice
+      AI agents end-to-end, including guardrails, conversation
+      design, and tool-calling logic — directly shaping LLM
+      behavior. Edge case: Forward Deployed Engineers adapting AI
+      solutions are ai-first.
+  responsibilities:
+  - Design, prompt, build, and deploy production voice AI agents end-to-end
+  - Build backend integrations (REST APIs, WebSockets, webhooks, CRM writes) with
+    enterprise systems
+  - Implement AI/LLM frameworks (LangChain, OpenAI APIs) for intelligent workflows
+  - Perform root-cause analysis across prompts, platform layer, and data pipelines
+  - Monitor and optimize agent metrics (completion rate, hallucination rate, latency,
+    cost) and run funnel experiments
+  - Partner with client engineering teams, lead technical workshops, and travel for
+    on-site deployment reviews
+  use_cases:
+  - Production voice AI agents handling live conversations in Hindi, Hinglish, and
+    regional languages
+  - Enterprise telephony integrations with CRM systems
+  - Intelligent conversational workflows via LLM agent orchestration
+  - Agent performance optimization (completion rate, hallucination rate, latency,
+    cost)
+  skills:
+    genai: [AI Agents, Prompt Engineering, Guardrails, Function Calling, LangChain,
+      OpenAI API, LLMs, RAG, Conversational AI]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [SIP, WebRTC, Twilio]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11869500'
+  location: New Delhi, IND
+  extracted_at: '2026-11-06T13:26:57.614174'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

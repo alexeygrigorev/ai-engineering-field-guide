@@ -1,0 +1,234 @@
+job_id: 11983028
+title: "AI Engineer - Voice & Agentic Systems"
+company: weya AI
+location: Noida, IND
+remote: true
+work_type: FULL_TIME
+company_size: 13 Employees
+description: |
+  This is a remote position.
+
+
+
+
+
+   Job Title: AI Engineer (Voice & Agentic Systems)
+
+
+
+
+   Location: Noida
+
+
+
+
+   Working Mode: Remote
+
+
+
+
+   Type: Full-time
+
+
+
+
+
+   Experience: 2+ Years (shipping LLM agents)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   About the Company:
+
+
+
+
+
+
+
+
+
+   weya AI builds AI automations - Voice, video and WhatsApp
+  agents that banks, lenders and insurers put in front of
+  their customers. Our agents handle collections, onboarding,
+  renewals, KYC follow-ups and support calls at scale, across
+  India, the Middle East & Africa, Australia and the US. We're
+  a small team of 11-15 people. Every engineer ships to
+  production, talks to customers, and owns real outcomes. If
+  an agent mishandles a loan call, it costs a client money and
+  trust, so we build for reliability first.
+
+
+
+
+
+
+
+
+
+
+   About the Role:
+
+
+
+
+
+
+
+
+
+
+
+        You'll design, build and run the agents that talk to
+  our clients' customers: LLM orchestration with
+  LlamaIndex/LangChain, FastAPI services behind them, and
+  real-time voice pipelines wired into telephony providers.
+  You own an agent end to end, from the first prompt to the
+  10,000th concurrent call.
+
+
+
+
+
+
+
+
+
+
+
+
+
+   What You'll Do?
+
+
+
+
+
+
+
+
+  - Build agentic workflows with LlamaIndex and LangChain: tool
+    calling, RAG over policy and loan documents, multi-step
+    reasoning, and guardrails for regulated conversations.
+  - Design and run FastAPI services that serve agents in real
+    time: async endpoints, WebSockets, webhooks, background
+    tasks and clean API contracts.
+  - Build low-latency voice agents end to end: STT, LLM, TTS,
+    voice activity detection, barge-in/interruption handling,
+    and turn-taking.
+  - Integrate and maintain telephony providers (e.g. Twilio,
+    Plivo, Exotel, Vonage, SIP trunks): inbound/outbound
+    calls, call transfer, recordings, DTMF, and media
+    streaming.
+  - Engineer for failure: provider outages, dropped calls, LLM
+    timeouts, partial transcripts, retries and idempotency, so
+    one bad dependency never takes down a campaign.
+  - Write tests that catch problems before clients do: unit and
+    integration tests, simulated calls, load tests, and
+    regression suites for agent behaviour.
+  - Instrument everything: latency per turn, call success rates,
+    cost per call, and alerts that fire before a client
+    notices.
+  - Work directly with FDEs and clients to turn real call
+    transcripts into better agents.
+
+
+
+
+
+
+
+    Requirements
+
+   What We're Looking For? (Non-Negotiable)
+
+
+
+
+  - Agentic frameworks: shipped production agents with
+    LlamaIndex and/or LangChain (or LangGraph), including tool
+    use, memory and RAG. Not just notebooks.
+  - FastAPI: extensive experience building async Python services
+    with FastAPI, Pydantic, WebSockets and background workers,
+    under real traffic.
+  - Voice agents: built at least one voice agent that handled
+    real customer calls, with hands-on work on STT/TTS
+    providers (e.g. Deepgram, ElevenLabs, Azure, Google) and
+    latency tuning.
+  - Telephony: integrated two or more telephony providers or SIP
+    setups, and can explain how audio flows from a phone
+    network to your code and back.
+  - Production mindset: you think about concurrency, rate
+    limits, timeouts, retries and edge cases before writing
+    the happy path, and you write tests for them.
+  - Debugging under pressure: comfortable reading logs, call
+    recordings and traces to find why a call failed.
+  - Clear written English; able to explain a technical trade-off
+    to a client.
+
+
+
+
+
+   Good to have (Bonus Points):
+
+
+
+
+
+
+  - Real-time voice frameworks such as LiveKit Agents or Vapi,
+    or speech-to-speech models.
+  - Go for high-throughput services alongside Python.
+  - Multilingual voice work, especially Hindi, Hinglish, Arabic
+    or other Indic languages.
+  - Experience in BFSI or other regulated domains: consent, call
+    recording rules, PII handling, audit trails.
+  - LLM evaluation: automated scoring of agent conversations,
+    prompt regression testing.
+  - WhatsApp Business API or video agent experience.
+  - Docker, Kubernetes, AWS/GCP, Redis, Postgres, and queues
+    like Kafka or RabbitMQ.
+
+
+
+
+
+
+
+    Benefits
+
+   Get Real Experience on "What Success looks like?"
+
+
+
+
+
+
+   To apply: send your CV at hr@weya.ai, GitHub or a demo of a
+  voice agent you built, and one paragraph
+
+
+
+
+
+   on the hardest telephony problem you've solved. Open
+  question: application email or link.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Conversational AI
+  - Automation
+posted_date: 2026-10-30
+url: "https://builtin.com/job/ai-engineer-voice-agentic-systems/11983028"
+source: Built In

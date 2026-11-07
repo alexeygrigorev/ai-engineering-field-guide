@@ -1,0 +1,52 @@
+company:
+  name: DDN Storage
+  stage: null
+  focus: High-performance storage solutions for AI and HPC
+position:
+  title: Advisory Sales Engineer - Strategic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs storage infrastructure that supports AI
+      workloads, but the person never shapes model behavior—they
+      architect SAN/NAS/object storage and run POCs/benchmarks.
+      Storage sizing and hosting for AI training is plumbing, not
+      shaping, so this is ai-support.
+  responsibilities:
+  - Partner with customers to understand critical data challenges such as high-frequency
+    trading, genomics, AI model training, and sensor fusion
+  - Translate technical requirements into scalable storage solutions and act as trusted
+    technical advisor through the sales cycle
+  - Architect storage for AI/ML training, HPC simulations, data analytics, and GPU-accelerated
+    workloads
+  - Create BOMs, system architectures, and technical proposals for complex RFPs
+  - Conduct live demos, POCs, and performance benchmarking
+  - Integrate storage with GPU clusters, Kubernetes, cloud platforms, and AI frameworks
+  - Collaborate with Product and Engineering teams and mentor team members
+  use_cases:
+  - Storage for AI/ML model training and GPU-accelerated workloads
+  - High-frequency trading infrastructure
+  - Genomics and drug discovery data processing
+  - HPC simulations and research computing
+  - Autonomous vehicle sensor fusion data platforms
+  skills:
+    genai: []
+    ml: [AI/ML Infrastructure]
+    web: []
+    databases: [Object Storage, NAS]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Kubernetes, GPU Clusters]
+    languages: []
+    domains: []
+    other: [Parallel File Systems, SAN, S3, POSIX, NFS, SMB, TCP/IP, InfiniBand, RDMA,
+      Lustre, GPFS, HPC, German]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11335237'
+  location: DEU
+  remote: true
+  extracted_at: '2026-11-06T11:31:32.973950'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

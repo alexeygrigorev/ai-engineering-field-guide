@@ -1,0 +1,43 @@
+company:
+  name: Palantir Technologies
+  stage: null
+  focus: Data-driven decision and operations software platforms
+position:
+  title: Software Engineer - Applied AI, Defense Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the end-to-end Agent experience in Palantir's
+      defense AI products, refining agent workflows, UX, and agent
+      performance for accuracy and latency - this is shaping agent
+      behaviour (Step 1 yes, LLM/agent component -> ai-first).
+  responsibilities:
+  - Own the end-to-end Agent experience in defense AI products
+  - Collaborate with users to refine UX of agent workflows
+  - Fine-tune agent performance for low-latency and accurate operational outcomes
+  - Build cross-functional capabilities with small product teams
+  - Continuously improve software efficiency, reliability, and scalability
+  - Adapt workflow to user requirements and emerging technical challenges
+  use_cases:
+  - AI-assisted mission-critical workflows for defense users
+  - Operational decision support for the modern warfighter
+  - Low-latency, accurate operational outcomes
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12021352'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:30:27.951408'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

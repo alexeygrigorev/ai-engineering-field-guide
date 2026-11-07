@@ -1,0 +1,60 @@
+company:
+  name: Factset
+  stage: null
+  focus: |-
+    Financial data, analytics, and software for investment
+    professionals
+position:
+  title: Principal Software Engineer, Applied AI - Hybrid  (LLM, Agentic, Claude Code,
+    MCP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs and builds LLM/agentic
+      applications — multi-step agents, tool calling, RAG,
+      workflow orchestration — and builds evals, guardrails, and
+      monitoring for model output quality, which is shaping LLM
+      behavior. Hence ai-first.
+  responsibilities:
+  - Design and develop production-grade LLM and agentic applications including multi-step
+    agents, tool calling, RAG, and workflow orchestration
+  - Build evaluation frameworks, guardrails, and monitoring to optimize quality, safety,
+    latency, and cost of AI features
+  - Rapidly prototype emerging AI approaches and harden successful solutions for production
+  - Lead code and design reviews and mentor engineers on applied AI patterns and AI
+    coding assistant usage
+  - Define team standards for AI-assisted development across code review, testing,
+    security, and responsible use
+  - Partner with product managers, designers, architects, and engineering peers to
+    scope solutions
+  - Diagnose and resolve AI-specific issues such as hallucinations, model regressions,
+    and prompt or tool failures
+  - Evaluate new AI-enabled development tools and workflows and contribute to AI strategy
+  use_cases:
+  - AI-powered financial data and analytics products for investment professionals
+  - Multi-step agentic workflows with tool calling and RAG over FactSet's data
+  - AI-driven features with quality, safety, latency, and cost optimization
+  - AI-assisted development workflows for engineering productivity
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Function Calling, Agentic Workflows, AI
+        Agents, MCP, Claude Code, LLM Evaluation, Guardrails]
+    ml: [Fine-Tuning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [CI/CD, MLOps, LLMOps, Observability, Code Review]
+    languages: []
+    domains: []
+    other: [Financial Data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11876553'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Norwalk, USA
+  extracted_at: '2026-11-06T13:28:52.083104'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

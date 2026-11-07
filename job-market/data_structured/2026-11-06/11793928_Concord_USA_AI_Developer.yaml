@@ -1,0 +1,37 @@
+company:
+  name: Concord USA
+  stage: null
+  focus: null
+position:
+  title: AI Developer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description contains only a title ("AI Developer")
+      with no responsibilities, skills, or company details, so it
+      is too vague to apply the shaping test or classify the AI
+      type.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11793928'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T13:13:40.228603'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

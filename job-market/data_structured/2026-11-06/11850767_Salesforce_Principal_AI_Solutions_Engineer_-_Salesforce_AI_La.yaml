@@ -1,0 +1,58 @@
+company:
+  name: Salesforce
+  stage: null
+  focus: AI CRM and enterprise agentic AI software
+position:
+  title: Principal AI Solutions Engineer - Salesforce AI Labs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent workflows, tool calling,
+      retrieval, orchestration, evaluations, and human-approval
+      loops within agent solutions, directly shaping LLM/agent
+      behavior. This matches the forward-deployed engineer edge
+      case, which is ai-first. It is also customer-facing and
+      hands-on with OpenAI/Anthropic models.
+  responsibilities:
+  - Build working prototypes, API integrations, and agent workflows spanning multiple
+    products and enterprise systems
+  - Identify high-value use cases with customers, portfolio leaders, and go-to-market
+    teams
+  - Create reliable, repeatable demonstrations connecting customer needs to business
+    results
+  - Present solutions to executives, customers, developers, and sales teams
+  - Rapidly experiment with new agentic experiences and architectures
+  - Package reference architectures, integration components, demo environments, and
+    playbooks for reuse
+  - Measure outcomes such as implementation time, cost to serve, and service resolution
+  - Surface integration gaps and customer demand to product and engineering leaders
+  use_cases:
+  - Multi-product agent workflow demonstrations connecting enterprise systems
+  - Agentic customer service and workflow automation solutions
+  - Rapid prototyping of new agentic experiences for customer outcomes
+  - Executive and customer-facing demos showing measurable business value
+  - Reusable reference architectures for cross-product integrations
+  skills:
+    genai: [OpenAI API, Anthropic API, Function Calling, AI Agents, Agentic Workflows,
+      LLM Evaluation]
+    ml: []
+    web: [APIs, Webhooks, Event-Driven Architecture]
+    databases: [Data Contracts]
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11850767'
+  location: Chicago, USA
+  locations:
+  - Chicago, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T13:23:36.444404'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

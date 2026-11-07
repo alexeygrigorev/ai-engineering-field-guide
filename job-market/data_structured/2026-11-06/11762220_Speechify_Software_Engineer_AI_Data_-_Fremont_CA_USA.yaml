@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio products
+position:
+  title: Software Engineer, AI Data - Fremont, CA, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed other teams' model training
+      runs. Discovering sources, moving and processing data is
+      plumbing, not shaping model behaviour. No prompting,
+      retrieval, training, or eval work is done by this engineer.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI scientists to improve training datasets and support next-generation
+    model development
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech audio generation
+  - Building training datasets for speech models
+  - Accessibility for readers with dyslexia and learning differences
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: [Web Crawlers]
+    databases: []
+    data: [Data Pipelines, Data Engineering]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762220'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:54:45.464948'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

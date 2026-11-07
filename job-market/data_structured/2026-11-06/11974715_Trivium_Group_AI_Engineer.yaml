@@ -1,0 +1,57 @@
+company:
+  name: Trivium Group
+  stage: null
+  focus: All-in-one AI marketing platform for dental practices
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns production LLM agents and their behavior:
+      pinpointing which prompt section, tool call, or piece of
+      context failed, proving fixes with evals and replays, and
+      building LLM debugging/evaluation tooling. That is directly
+      shaping model output quality with an LLM/agent component, so
+      ai-first.
+  responsibilities:
+  - Own production reliability and incident response across AI agents and integrations
+  - Debug LLM agents across prompts, context, and tool calls, tracing failures to
+    root cause
+  - Build debugging and evaluation tooling including prompt/context/tool-call tracing,
+    regression evals, and failure replay
+  - Build monitoring, tracing, alerts, and dashboards for agent actions
+  - Direct multiple AI coding agents in parallel while reviewing their output critically
+  - Build a real-time availability viewer and configurator for the voice agent's scheduling
+    offers
+  - Help finish and harden the Marketing Report and Website Builder features
+  use_cases:
+  - AI voice receptionist that books appointments into practice schedules
+  - Automated review requests and online reputation management for dental practices
+  - Marketing reporting for dental practices
+  - AI-assisted website builder for dental practices
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, Prompt Engineering, LLM Evaluation,
+      Claude Code, Codex, Cursor]
+    ml: []
+    web: []
+    databases: [MongoDB, PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Event-Driven Architecture, Twilio, HIPAA Compliance, Voice AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11974715'
+  location: CAN
+  locations:
+  - CAN
+  - BRA
+  - ARG
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T14:15:10.525815'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

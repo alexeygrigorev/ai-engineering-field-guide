@@ -1,0 +1,62 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Advertising creative quality and monetization services
+position:
+  title: Senior Software Engineer - AI Experiences, Monetization
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds services for creative review and ad quality
+      and uses AI-assisted tools to write code, but there is no
+      evidence the engineer shapes model behavior through prompts,
+      RAG, evals, or fine-tuning. AI appears as tooling ("AI-
+      assisted requirements, design, coding") and Responsible AI
+      compliance, so it is ai-support.
+  responsibilities:
+  - Partner with product managers, security specialists, and support teams to define
+    requirements for creative processing, audit quality, API performance, and policy
+    enforcement
+  - Lead architecture and design for complex APIs, distributed workers, event-driven
+    pipelines, and data services spanning creative ingestion, scanning, scoring, search,
+    and publishing
+  - Own test strategies covering integration, performance, security invariants, and
+    regression prevention
+  - Improve AI-assisted requirements, design, coding, testing, and operations, and
+    validate AI-generated assets with Responsible AI controls
+  - Deliver extensible, maintainable, secure code and provide substantive code and
+    test reviews while mentoring engineers
+  - Automate CI/CD and production deployment toward zero-touch operations with progressive
+    rollout and rollback plans
+  - Design instrumentation, dashboards, and alerts; serve as DRI in on-call rotation
+    and lead incident mitigation and retrospectives
+  - Evaluate emerging technologies and share learnings to improve engineering practices
+    across teams
+  use_cases:
+  - Advertising creative review and content scanning for ad quality
+  - AI-assisted auditing of advertising creatives
+  - Malware detection and policy enforcement for ads
+  - Operational analytics for advertisers, publishers, and internal partners
+  - Creative ingestion, scoring, search, and publishing pipelines
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [CI/CD, DevOps]
+    languages: [C, C++, C#, Java, JavaScript, Python]
+    domains: []
+    other: [Responsible AI, Threat Modeling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12082845'
+  location: Redmond, USA
+  locations:
+  - Redmond, USA
+  - New York, USA
+  extracted_at: '2026-11-06T14:52:30.688333'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

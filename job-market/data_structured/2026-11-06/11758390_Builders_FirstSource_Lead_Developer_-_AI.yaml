@@ -1,0 +1,54 @@
+company:
+  name: Builders FirstSource
+  stage: null
+  focus: Building materials distribution and home construction supply
+position:
+  title: Lead Developer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI, RAG, and GenAI
+      solutions, including copilots, knowledge retrieval, and LLM
+      evaluation — clearly shaping LLM behavior and output
+      quality. Hence ai-first.
+  responsibilities:
+  - Design and build AI solutions using Agentic AI, Generative AI, and RAG
+  - Develop enterprise copilots, intelligent assistants, and knowledge discovery solutions
+  - Rapidly prototype AI capabilities and evolve proofs of concept into scalable enterprise
+    solutions
+  - Architect and deploy cloud-native applications using Docker, Kubernetes (AKS),
+    CI/CD, and Azure services
+  - Provide technical leadership, architecture guidance, and mentoring to engineering
+    teams
+  - Troubleshoot and optimize application, AI, database, and infrastructure performance
+  - Perform hands-on coding for complex, high-risk, or business-critical work
+  - Integrate AI solutions with SAP S/4HANA and SAP BTP alongside business and integration
+    partners
+  use_cases:
+  - Enterprise copilots and intelligent assistants
+  - AI-powered search and knowledge discovery platforms
+  - Document intelligence solutions
+  - Business process automation and productivity within SAP-based operations
+  skills:
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    web: [REST APIs, Microservices, React, Next.js]
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure Functions]
+    data: [Databricks, Delta Lake]
+    ml: []
+    databases: [Knowledge Graphs, PostgreSQL, SQL Server, Data Modeling]
+    genai: [AI Agents, Generative AI, RAG, Agentic Workflows, Multi-Agent Systems,
+      LLM Evaluation, Embeddings, Semantic Search, Vector Databases, LangGraph, LangChain,
+      Semantic Kernel, LlamaIndex, MCP, GraphRAG]
+    ops: [Distributed Systems, Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD,
+      Grafana, Monitoring]
+    other: [SAP S/4HANA, SAP BTP, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11758390'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:46:29.233687'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

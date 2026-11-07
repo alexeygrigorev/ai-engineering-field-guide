@@ -1,0 +1,59 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage (DRAM/NAND) semiconductor manufacturing
+position:
+  title: SENIOR AI ENGINEER, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and agentic AI into workflows,
+      applies prompt engineering and RAG, and builds model
+      evaluation and guardrail practices (Responsible AI, prompt-
+      injection prevention), which is shaping LLM behavior. It
+      also includes classical ML (predictive models), but LLM
+      involvement makes it ai-first.
+  responsibilities:
+  - Design and build end-to-end AI solutions including data ingestion, feature engineering,
+    model training, inference, APIs, and observability
+  - Develop responsive front-end apps in React, Angular, or Streamlit backed by Python/FastAPI
+    services
+  - Support integration of LLMs and agentic AI capabilities into manufacturing and
+    engineering workflows
+  - Build, train, and deploy predictive machine learning models for structured and
+    unstructured data
+  - Develop containerized applications with Docker and deploy via Kubernetes or OpenShift
+  - Integrate robotics platforms, AMRs, tool automation, and MES ecosystem
+  - Contribute to CI/CD pipelines, monitoring, drift detection, and model evaluation
+    for production AI applications
+  - Apply Responsible AI practices including input validation, prompt-injection prevention,
+    and model governance
+  use_cases:
+  - AI-powered applications for manufacturing operations across fabs and assembly/test
+    sites
+  - Predictive and classification models for manufacturing decision-making
+  - LLM and agentic AI integration into manufacturing and engineering workflows
+  - Robotics, AMR, and tool automation integration with the MES ecosystem
+  - Autonomous, data-driven operations and observability for production AI
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, Agentic Workflows, Generative AI, AI Agents,
+      LLM Evaluation]
+    ml: [TensorFlow, PyTorch, scikit-learn, Model Training, Feature Engineering, Deep
+        Learning, Reinforcement Learning]
+    web: [React, Angular, Streamlit, FastAPI, APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, MLOps, Model Deployment,
+      Monitoring, Model Monitoring]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Responsible AI, MES, Industrial IoT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034057'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:35:39.905675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,88 @@
+company:
+  name: N-iX
+  stage: null
+  focus: Global software development services for Fortune 500 clients
+position:
+  title: Senior / Lead PHP Engineer with AI skills
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates and orchestrates agentic AI workflows
+      (LLM-based agents, tool-calling pipelines) into products and
+      internal tooling, which is shaping model behaviour through
+      agent flows and retrieval. LLM/agent involvement makes it
+      ai-first despite the primarily PHP backend title.
+  responsibilities:
+  - Design, build, and maintain backend services and APIs using PHP and Laravel for
+    the next major product release
+  - Own features from technical design through deployment and monitoring
+  - Integrate and orchestrate agentic AI workflows (LLM-based agents, tool-calling
+    pipelines, autonomous task runners) into products and internal tooling
+  - Improve system performance, reliability, and security across the stack
+  - Mentor other engineers and partner with cross-functional colleagues
+  - Stay current with the PHP/Laravel ecosystem and emerging agentic AI tools and
+    patterns
+  use_cases:
+  - Agentic AI automation in an online car marketplace product
+  - LLM-based agents and tool-calling pipelines in internal tooling
+  - Autonomous task runners integrated into existing product workflows
+  skills:
+    languages: [PHP]
+    domains: []
+    web: [Laravel]
+    cloud: [AWS, GCP]
+    data: []
+    ml: []
+    databases: [MySQL, PostgreSQL]
+    genai: [LLMs, Function Calling, Retrieval, AI Agents, Agentic Workflows, Claude
+        Code, Codex]
+    ops: [Docker]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11417416'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - CHL
+  - PER
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - GUY
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ECU
+  - ISL
+  - URY
+  - COL
+  - ROU
+  - SUR
+  - BOL
+  - LUX
+  - PRY
+  - CHE
+  - NLD
+  - ARG
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T11:47:15.469920'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

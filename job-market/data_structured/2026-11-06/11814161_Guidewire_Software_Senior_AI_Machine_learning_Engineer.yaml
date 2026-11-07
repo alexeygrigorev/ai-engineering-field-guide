@@ -1,0 +1,53 @@
+company:
+  name: Guidewire Software
+  stage: null
+  focus: Cloud software platform for P&C insurance
+position:
+  title: Senior AI Machine learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      RAG, fine-tuning, and evaluating/monitoring LLM output
+      quality in production. LLM/GenAI is the core focus, so it is
+      ai-first.
+  responsibilities:
+  - Lead design, implementation, and evolution of GenAI and LLM products including
+    data pipelines, fine-tuning, deployment, and monitoring on AWS
+  - Architect and build ML/LLM pipelines for claims summarization, underwriting assistance,
+    pricing intelligence, and developer productivity tools
+  - Develop and optimize LLM solutions using prompt engineering, RAG, vector databases,
+    and fine-tuning
+  - Establish ML Ops best practices for CI/CD, experimentation, evaluation, observability,
+    and responsible AI
+  - Mentor engineers and data scientists and conduct code and design reviews
+  - Partner with cross-functional teams to ensure AI solutions meet data governance
+    and security controls
+  use_cases:
+  - Claim summarization for P&C insurers
+  - Underwriting assistance
+  - Pricing and rating intelligence
+  - Developer productivity tools
+  - Insurance workflow automation via Agentic AI
+  skills:
+    genai: [Prompt Engineering, RAG, Vector Databases, Fine-Tuning, Generative AI,
+      LLMs, Agentic Workflows]
+    ml: [Machine Learning, Neural Networks, XGBoost, Model Training, LLM Evaluation,
+      Random Forest]
+    web: [APIs]
+    databases: []
+    data: [Spark, Data Pipelines]
+    cloud: [AWS, AWS S3, SageMaker, AWS Glue]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, Terraform, Model Monitoring]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11814161'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:17:24.613531'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

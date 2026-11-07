@@ -1,0 +1,49 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and listening products
+position:
+  title: Software Engineer, AI Data - Sofia, Bulgaria
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed models trained by AI
+      scientists; it does not shape model behavior via prompts,
+      retrieval, or training itself. Building datasets that feed
+      someone else's training runs is ai-support even at an AI
+      company.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimized for data quality,
+    throughput, and cost
+  - Collaborate closely with AI Scientists to improve training datasets for next-generation
+    models
+  - Take ownership of engineering projects from problem discovery through implementation
+    and continuous improvement
+  use_cases:
+  - Text-to-speech audio products
+  - Petabyte-scale training dataset construction
+  - Audio data acquisition for next-generation model training
+  - Reading accessibility for people with learning differences
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762378'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:08:31.562475'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

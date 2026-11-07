@@ -1,0 +1,267 @@
+job_id: 11887912
+title: Senior Applied AI Engineer
+company: Microsoft
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  Are you a customer-obsessed, AI-curious problem-solver who
+  thrives in an inclusive, collaborative global team? Join
+  Engineering Operations (EngOps), the organization driving
+  operational excellence across the Microsoft Cloud to
+  strengthen quality, reliability, security, and customer
+  trust.
+
+
+
+  Our mission is to prevent issues before they happen by
+  turning operational signals into action through AI-powered
+  automation, enabling measurable customer impact at cloud
+  scale. Our culture of empowerment, inclusion, and growth
+  mindset defines how we work.
+
+
+
+  Within EngOps ACES, the Agent Fleet Operations (AFO) team is
+  looking for an AI-first software engineer to join the Cloud
+  Operational Demand Engineering (CØDE) organization and help
+  advance our mission of driving operational demand to zero.
+  We're seeking a hands-on engineer with a DevOps background —
+  CI/CD and release engineering, safe deployment,
+  observability, and always-on production operations — who
+  pairs that discipline with AI engineering skills and a
+  learn-it-all mindset.
+
+
+
+  You are passionate about applying AI to solve real customer
+  problems and energized by the challenge of eliminating
+  operational toil.
+
+  In this role, you will build and ship production AI
+  solutions that reduce operational demand and improve
+  customer outcomes. You will contribute to the technical
+  execution that turns unresolved cases into autonomously
+  resolved, customer-delighting outcomes — and help build the
+  release, observability, and reliability practices that let a
+  fleet of agents run safely in the customer path.
+
+
+
+  Role summary
+
+  As an individual contributor, you will be hands-on building
+  and improving the agentic patterns that reduce operational
+  demand and improve customer satisfaction. This is a DevOps
+  and production-operations engineering role applied to
+  autonomous AI: you own the delivery, quality, and production
+  health of the components you build, not just their design.
+  This role suits an engineer who has built and shipped
+  production-scale AI systems — and ideally the CI/CD, safe-
+  deployment, and reliability practices around them — and who
+  wants to go deep on agentic resolution while collaborating
+  closely across the team.
+
+
+
+  Team charter
+
+  Build, operationalize, and scale AI-native support
+  experiences for Broad Commercial customers by transforming
+  supportability knowledge into reusable, versioned, testable,
+  and measurable assets that power product experiences,
+  support engineers, and autonomous agents. The team reduces
+  support demand, engineering toil, and time-to-resolution
+  through AI-driven resolution capabilities that continuously
+  learn from customer signals, unresolved cases, and
+  operational insights.
+
+
+
+  AFO operates a fleet of autonomous agents that resolve
+  customer support cases with human oversight. This is a
+  production DevOps discipline, not a set of prototypes:
+  agents run continuously in the customer path and released,
+  observed, and improved with the same rigor as any always-on
+  service. You and your team will build and run this system
+  across several planes of a single AIOps suite:
+
+  • Fleet execution and live safety: operating the agents that
+  execute individual cases end to end — evidence acquisition,
+  diagnosis, reasoning, response composition, and safe
+  escalation — alongside the live-safety services that
+  continuously watch sentiment, risk, and unsafe or
+  irreversible actions and can pause autonomy or transfer a
+  case to a human.
+
+  • Evaluation and repair: running the evaluation systems that
+  judge per-turn and completed-case quality, and the repair
+  pipelines that turn failures into durable fixes —
+  documentation, diagnostics, prompt/routing/policy changes,
+  reusable skills, or product work items routed to the right
+  engineering team.
+
+  • A control and learning plane: owning the lifecycle state
+  machine that moves every change from observed → detected →
+  diagnosed → repair candidate → independently evaluated →
+  approved → shadowed → canaried → released → production-
+  verified, with explicit expand, pause, revise,
+
+
+
+  Responsibilities
+
+  - Build agentic resolution capabilities for AFO
+  - Build and improve agentic patterns that raise autonomous
+    resolution rate, accuracy, and customer satisfaction,
+    contributing to the team's technical execution.
+  - Deliver engineering for Agentic AI solutions
+  - Deliver end-to-end features across autonomous AI systems,
+    including orchestration, reasoning, retrieval, action
+    execution, and human escalation workflows. Take
+    capabilities from prototype through production across
+    support surfaces while partnering effectively across
+    dependent engineering teams.
+  - Contribute to technical direction and engineering standards
+  - Help shape the technical foundation for agent development by
+    implementing architectures, design patterns, evaluation
+    frameworks, and reusable platform capabilities.
+  - Apply and help improve standards for prompts, tool
+    interfaces, testing, versioning, code quality, CI/CD, and
+    safe deployment practices (shadow, canary, progressive
+    rollout, automated rollback) so agent behavior remains
+    reliable, observable, and scalable.
+  - Build evals that improve customer confidence that our agents
+    are trustworthy in understanding customer sentiment and
+    intent and in validating agentic actions.
+  - Contribute to production health and reliability
+  - Help run the service with a DevOps/SRE operating model.
+    Support availability, latency, cost per resolution, SLOs
+    and error budgets, regression detection, incident
+    response, and the on-call rotation for a fleet of agents
+    acting autonomously in the customer path. Build the
+    observability needed to explain why an agent did what it
+    did, and drive durable fixes rather than repeated
+    mitigations.
+  - Build and maintain evaluation systems
+  - Contribute to the evaluation framework that determines
+    whether agents are safe and effective in production. Build
+    and maintain golden datasets, rubrics, judge agents,
+    frozen anchors, and offline/online evaluation pipelines.
+    Use evaluation signals to gate releases and continuously
+    improve quality through production feedback loops.
+  - Contribute to measurable business impact
+  - Help move key business outcomes, including support demand
+    reduction, autonomous resolution rate, resolution quality,
+    time-to-resolution, engineer productivity, and customer
+    satisfaction. Ensure the capabilities you build are
+    measurable and directed toward the highest-impact
+    opportunities.
+  - Turn Customer Signals into Engineering Insight
+  - Build mechanisms that convert unresolved cases, customer
+    feedback, and dissatisfaction signals into actionable
+    engineering insights. Help ensure recurring failure
+    patterns improve future agent capabilities and route
+    product fixes back to the appropriate engineering teams.
+  - Grow your craft and share learnings
+  - Deepen your agentic AI and DevOps craft, and extend the
+    team's impact by sharing proven patterns, tools, and
+    operational learnings with your peers.
+
+  Qualifications
+
+  Bachelor's Degree in Computer Science, Engineering, or
+  related field AND +8 years technical engineering experience
+  in software engineering, applied AI/ML, or distributed
+  systems, OR equivalent experience.
+
+  • 8+ years of IT experience and 3+ years of experience using
+  Agentic AI
+
+  • Demonstrated hands-on experience building and shipping AI
+  or machine learning systems in production.
+
+  • Demonstrated DevOps or SRE background: hands-on experience
+  with CI/CD and release engineering, safe-deployment
+  practices (e.g., blue/green, canary, progressive rollout,
+  automated rollback), observability and monitoring, and
+  participation in production incident response and on-call
+  for always-on services.
+
+
+
+  Preferred qualifications
+
+  • Master's degree in Computer Science, AI, or a related
+  field.
+
+  • Experience building and shipping multi-agent orchestration
+  systems or agentic AI services in production.
+
+  • Experience with AI evaluation frameworks: rubrics, golden
+  datasets, judge agents, offline and online evaluation.
+
+  • Experience with Azure AI Foundry, Azure OpenAI, or
+  comparable enterprise AI platforms.
+
+  • Familiarity with agent security patterns: prompt injection
+  defense, tool access controls, data boundary enforcement.
+
+  • DevOps/SRE toolchain depth: CI/CD pipelines,
+  infrastructure-as-code, deployment automation, and
+  progressive-delivery tooling (shadow, canary,
+  feature/rollout gating, automated rollback).
+
+  • Observability engineering: building tracing, metrics, and
+  logging for distributed or agentic systems and using them to
+  drive durable fixes rather than repeated mitigations.
+
+  • Reliability practice: working with SLIs/SLOs and error
+  budgets and taking part in the operational rhythm (live-site
+  reviews, post-incident reviews, repair-item and corrective-
+  action tracking) that keeps a fleet healthy.
+
+  • Experience contributing to cross-org or co-development
+  engineering delivery with partner teams.
+
+  • Business acumen, with the ability to connect engineering
+  work to measurable customer and business outcomes.
+
+  • Background in customer support engineering,
+  supportability, or customer experience platforms.
+
+  • Experience operating always-on production services,
+  including on-call participation and incident response.
+
+
+
+
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-30
+url: "https://builtin.com/job/senior-applied-ai-engineer/11887912"
+source: Built In

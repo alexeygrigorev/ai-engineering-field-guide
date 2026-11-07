@@ -1,0 +1,53 @@
+company:
+  name: Prodlane GmbH
+  stage: null
+  focus: AI platform for enterprise data search and agents
+position:
+  title: (Senior) Software Engineer – AI (m/f/d) – Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds MAIA's agent systems, RAG pipelines, and
+      agentic workflows directly — designing retrieval,
+      integrating and evaluating LLMs with evals — which is
+      clearly shaping LLM behavior. AI-first per Step 2.
+  responsibilities:
+  - Own features from prototype through continuous improvement based on feedback and
+    usage data
+  - Build chat and agent experiences with multi-step tasks, traceable progress and
+    verifiable results
+  - Connect external systems and make knowledge across file formats searchable with
+    sourced answers and access rights
+  - Integrate new language models and compare quality, cost and speed; build evals
+    to improve answers and agents
+  - Build isolated environments for running code and tools and improve response times
+    and data processing
+  - Write plans and review output of coding agents as part of daily agentic development
+  - Apply secure development practices including tenant isolation and access rights
+  use_cases:
+  - Enterprise internal knowledge search with sourced answers
+  - Agents embedded into company processes completing multi-step tasks
+  - RAG over large heterogeneous file formats and connected external systems
+  - Model selection and quality evaluation for reliable enterprise AI
+  - Secure isolated execution of code and tools for agent workflows
+  skills:
+    genai: [LLMs, RAG, Embeddings, Vector Search, Agentic Workflows, Prompt Engineering,
+      LLM Evaluation, Function Calling]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: [Asynchronous Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12004812'
+  location: Berlin, DEU
+  remote: true
+  extracted_at: '2026-11-06T14:24:45.790202'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

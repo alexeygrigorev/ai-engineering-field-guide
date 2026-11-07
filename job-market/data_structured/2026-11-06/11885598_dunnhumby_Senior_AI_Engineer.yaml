@@ -1,0 +1,65 @@
+company:
+  name: dunnhumby
+  stage: null
+  focus: Customer data science for retailers and brands
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing agentic
+      workflows, RAG pipelines, prompt orchestration, guardrails,
+      and fine-tuning (LoRA/QLoRA/PEFT) with heavy LLM/agent stack
+      involvement. LLM components clearly dominate, so ai-first.
+  responsibilities:
+  - Build reusable, scalable AI services for prompt orchestration, model routing,
+    embeddings, structured generation, and tool calling
+  - Design multi-agent and autonomous systems with reasoning, planning, memory, tool
+    execution, and human-in-the-loop workflows using MCP and A2A
+  - Build enterprise-grade RAG pipelines with ingestion, chunking, embeddings, hybrid
+    search, reranking, and citations; evaluate retrieval quality
+  - Train, fine-tune (LoRA/QLoRA/PEFT), and evaluate ML/DL models and productionize
+    them with data science partners
+  - Deploy, monitor, and improve agents and models in production with experiment tracking,
+    registry, drift/cost monitoring, CI/CD, and canary deployments
+  - Implement guardrails for hallucination, prompt injection, and PII; establish evaluation
+    and responsible-AI practices
+  - Build cloud-native AI services on GCP and Azure with Docker, Kubernetes, and Terraform,
+    owning services end to end
+  - Build React-based interfaces for chat, copilots, prompt playgrounds, and agent/evaluation
+    dashboards; mentor engineers
+  use_cases:
+  - Enterprise AI platform serving internal engineering teams
+  - Multi-agent autonomous workflows with human-in-the-loop checkpoints
+  - Enterprise RAG for document ingestion and retrieval with citations
+  - 'AI-powered user experiences: chat, copilots, prompt playgrounds'
+  - Model fine-tuning and productionization for retail customer data science
+  - Agent/evaluation dashboards with observability and cost monitoring
+  skills:
+    languages: [Python, TypeScript, JavaScript, SQL, asyncio]
+    domains: []
+    web: [REST APIs, gRPC, React, WebSockets, SSE, Microservices]
+    cloud: [Vertex AI, Azure AI Foundry, Azure OpenAI, Model Garden, GCP, Azure]
+    data: [Temporal, Argo Workflows, Event-Driven Architecture, Message Queues]
+    ml: [PyTorch, TensorFlow, Hugging Face, Model Training, Hyperparameter Optimization,
+      GPU Optimization]
+    databases: [Pinecone, Weaviate, Milvus, pgvector, Vertex AI Vector Search, Azure
+        AI Search]
+    genai: [Prompt Orchestration, Embeddings, Structured Outputs, Function Calling,
+      Multi-Agent Systems, Agentic Workflows, MCP, A2A, RAG, Hybrid Search, LLMs,
+      Prompt Engineering, Fine-Tuning, LoRA, Quantization, LangChain, LangGraph, Google
+        ADK, OpenAI Agents SDK, CrewAI, AutoGen, LlamaIndex, Semantic Kernel, DSPy,
+      Pydantic AI, Guardrails, Generative AI]
+    ops: [MLflow, Kubeflow, Model Registry, Experiment Tracking, LangSmith, Langfuse,
+      Arize Phoenix, OpenTelemetry, Grafana, New Relic, Agent Evaluation, Cost Monitoring,
+      Docker, Kubernetes, Terraform, ArgoCD, GitHub Actions, Azure DevOps, CI/CD,
+      Infrastructure as Code, Distributed Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885598'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T13:34:42.685346'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

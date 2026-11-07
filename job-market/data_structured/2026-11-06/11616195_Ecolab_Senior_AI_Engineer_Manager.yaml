@@ -1,0 +1,56 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene, and infection prevention solutions
+position:
+  title: Senior AI Engineer Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role leads enterprise data platform operations
+      (Databricks, Snowflake, Azure) — governance, monitoring,
+      security, and ETL pipelines. AI/ML tooling (LangGraph,
+      MLflow) is only "exposure" preferred, and no
+      responsibilities involve shaping model behavior, prompts, or
+      retrieval.
+  responsibilities:
+  - Lead the enterprise data engineering platform operating model across Databricks,
+    Snowflake, and Azure Data Lake
+  - Own platform administration including Unity Catalog, workspaces, clusters, SQL
+    warehouses, and governance controls
+  - Define observability, monitoring, SLA/SLO, and data quality standards for pipelines
+    and platform operations
+  - Drive automation via self-service provisioning, CI/CD, testing frameworks, and
+    Infrastructure-as-Code
+  - Define integration patterns and ETL/ELT standards for batch, streaming, CDC, and
+    event-driven pipelines
+  - Own data security and access governance including RBAC/ABAC/PBAC, encryption,
+    and compliance controls
+  - Lead a platform engineering team through hiring, coaching, and performance management
+  use_cases:
+  - Enterprise analytics enablement via governed data platform
+  - Data ingestion, ETL/ELT, and streaming pipelines at enterprise scale
+  - Data governance, security, and access control across enterprise domains
+  - Semantic and ontology layer for consistent business definitions and trusted analytics
+  - Platform observability, reliability, and cost efficiency
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure, Azure Data Lake, Microsoft Purview]
+    data: [Databricks, Data Pipelines, dbt, Kafka, Azure Data Factory, Airflow, Data
+        Governance, Delta Lake, Spark, DataOps]
+    ml: []
+    databases: [Snowflake, Unity Catalog, Collibra]
+    genai: [LangGraph]
+    ops: [CI/CD, Terraform, Infrastructure as Code, MLOps, MLflow, Observability,
+      SRE, DevSecOps, LLMOps]
+    other: [RBAC, CDC, FinOps]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11616195'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:22:25.456677'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Rubrik
+  stage: null
+  focus: Security and AI operations, cyber resilience platform
+position:
+  title: Senior Software Engineer - Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend/infrastructure role on an internal AI
+      enablement team: it owns Kubernetes, cloud-native services,
+      and distributed systems. AI appears as tooling the engineer
+      integrates with (Claude, LiteLLM, AI gateways), not as model
+      behavior they shape through prompts, retrieval, or evals, so
+      it is ai-support.
+  responsibilities:
+  - Own end-to-end delivery of major platform initiatives from design through deployment
+  - Own Kubernetes clusters, networking, operators, and multi-tenant orchestration
+  - Design and optimize distributed cloud-native services on AWS and/or GCP
+  - Build backend services integrating applied AI tooling such as Claude, LiteLLM,
+    and agent frameworks
+  - Drive engineering excellence through code reviews, design reviews, and CI/CD best
+    practices
+  - Mentor engineers on architecture decisions and delivery trade-offs
+  use_cases:
+  - Internal AI enablement platform making engineering teams faster with AI-powered
+    workflows
+  - Kubernetes and multi-tenant orchestration platform at enterprise scale
+  - Cloud-native distributed infrastructure powering Rubrik's platform
+  - AI gateway and agent tooling integration for internal engineering use
+  skills:
+    genai: [Claude Code, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [SQL, NoSQL, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, IAM]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, Prometheus, Grafana, Datadog, OpenTelemetry,
+      Distributed Systems, Infrastructure as Code]
+    languages: [C++, Go, Java, Python]
+    domains: []
+    other: [LiteLLM, Observability, Data Structures and Algorithms, Performance Tuning]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11628320'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:25:07.623890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

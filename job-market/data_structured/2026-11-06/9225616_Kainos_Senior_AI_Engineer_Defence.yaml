@@ -1,0 +1,53 @@
+company:
+  name: Kainos
+  stage: null
+  focus: |-
+    Digital services and AI/data solutions for government,
+    healthcare, defence
+position:
+  title: Senior AI Engineer (Defence)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on prompt engineering, RAG design,
+      model evaluation, and monitoring of LLM output quality,
+      which is shaping model behavior with an LLM component. Fine-
+      tuning/distillation of LLMs is also mentioned.
+  responsibilities:
+  - Deliver advanced AI solutions using machine learning, generative and agentic AI
+    technologies
+  - Design and productionize RAG, prompt engineering, model evaluation and monitoring
+    pipelines
+  - Drive adoption of modern AI frameworks, AIOps best practices and cloud-native
+    architectures
+  - Collaborate with customers to translate business challenges into trustworthy AI
+    solutions
+  - Ensure responsible AI practices throughout delivery
+  - Mentor junior developers and foster engineering excellence
+  use_cases:
+  - Production-grade AI solutions for defence sector clients
+  - Generative and agentic AI solutions for government, healthcare and commercial
+    clients
+  - Retrieval-augmented generation with semantic search and knowledge graphs
+  - Responsible, secure and interpretable AI deployment
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [Azure, AWS]
+    data: [Data Engineering]
+    ml: [Model Evaluation, Machine Learning, PyTorch, TensorFlow, GPT, Llama, Claude,
+      Gemini, scikit-learn, XGBoost, Distillation]
+    databases: [Vector Databases, Semantic Search, Knowledge Graphs]
+    genai: [Prompt Engineering, RAG, LLMs, Generative AI, Fine-Tuning, AI Agents]
+    ops: [CI/CD, Kubernetes, Docker, AIOps]
+    other: [Responsible AI, Model Interpretability]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9225616'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T15:04:43.952820'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

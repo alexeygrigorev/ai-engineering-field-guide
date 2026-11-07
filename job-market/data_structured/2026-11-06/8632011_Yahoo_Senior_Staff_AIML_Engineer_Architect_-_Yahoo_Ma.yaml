@@ -1,0 +1,57 @@
+company:
+  name: Yahoo
+  stage: null
+  focus: Consumer email and intelligent mail platform
+position:
+  title: Senior Staff AI/ML Engineer / Architect - Yahoo Mail
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic AI systems including multi-agent
+      orchestration, tool-augmented LLM patterns, retrieval
+      architectures, and LLM evaluation frameworks - shaping model
+      behaviour and output quality directly. LLM/agent components
+      dominate over classical ML.
+  responsibilities:
+  - Define reference architectures for multi-agent systems, tool-augmented LLM orchestration,
+    memory/context frameworks, and retrieval-reasoning hybrids
+  - Establish guardrails, explainability, and responsible AI standards, including
+    human-in-the-loop autonomy patterns
+  - Define next-gen personalization architecture with unified user representation
+    and real-time ranking/recommendation systems
+  - Lead inference and ML platform modernization decisions including model serving,
+    LLM hosting strategy, and cost/latency optimization
+  - Define evaluation frameworks for LLM and ML quality and set ML lifecycle governance
+  - Set engineering standards and drive build-vs-buy decisions at business-unit scale
+  - Lead cross-functional alignment across Product, Data Science, and Infrastructure
+  - Mentor principal and senior engineers and represent Yahoo engineering externally
+  use_cases:
+  - Intelligent capabilities and personalization for a consumer email inbox serving
+    220M+ users
+  - Agentic, assistive, and proactive intelligence that reasons, acts, and orchestrates
+    workflows for users
+  - Extracting meaning from unstructured email content and understanding user context
+    and intent
+  - Real-time personalization, ranking, and recommendations across Yahoo products
+  - Personalized user journeys at massive scale across the Yahoo ecosystem
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Multi-Agent Systems, Agentic Workflows,
+      RAG, Guardrails, LLM Evaluation]
+    ml: [Personalization, Ranking Systems, Recommendation Systems]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, Distributed Systems]
+    languages: []
+    domains: [Machine Learning]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8632011'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:03:17.229911'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,212 @@
+job_id: 11733025
+title: AI Systems - Senior Software Engineer
+company: Ledgy
+location: London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  At Ledgy, we’re on a mission to make Europe a powerhouse of
+  entrepreneurship by building a modern, tech-driven equity
+  management and financial reporting platform for private and
+  public companies. In 2026, we aim to be the leading provider
+  for European IPOs and reporting for share-based payments. We
+  are a value-based company with a core focus on being humble,
+  transparent, ambitious and impactful, all in order to
+  delivery the best experience for our customers and end
+  users.
+
+  We are proud to partner with some of the world’s leading
+  investors. New Enterprise Associates led our $22m Series B
+  round in 2022, with Philip Chopin joining Sequoia’s Luciana
+  Lixandru on our board.
+
+  We were founded in Switzerland in 2017 and today we operate
+  globally from offices in Zurich and London. We encourage
+  diversity and are an international team coming from 26
+  different countries and speaking 25 different languages.
+
+  About the Role
+
+  As a Software Engineer on our AI Systems team, you'll build
+  the AI foundations and product experiences of Ledgy: the
+  Ledgy Agent, the tools and skills it runs on, our MCP
+  server, and the platform capabilities that let other teams
+  embed AI safely in their domains. You'll collaborate with
+  fellow engineers, product managers, and designers in a new
+  and fast-moving product area where correctness matters as
+  much as speed - our customers need equity data they can
+  trust.
+
+  Location: We hire remotely across the UK, Spain, Germany,
+  Poland, and Romania. For candidates based in London, we use
+  a hybrid model with 2 days in the office per week.
+
+  The team you'll join: AI Systems - Develops Ledgy's AI
+  foundations and product experiences, from AI agents and AI-
+  assisted workflows to the platform capabilities that help
+  other teams embed AI safely in their domains. The team works
+  in a new and evolving product area, balancing rapid
+  iteration with reliable execution, evaluation tooling, and
+  responsible automation.
+
+  What You'll Work On
+
+  Help build the future of how companies manage equity.
+
+  - Ledgy Agent. You'll design and build the system behind our
+    in-app agent, so equity administrators can do through AI
+    what they do manually in the app today. Ledgy Agent takes
+    real actions and runs real analysis on live equity data,
+    like onboarding a stakeholder end to end, and
+    administrators depend on its accuracy and observability.
+    You'll design the tools, skills, context, and
+    orchestration behind it, and how it decides to handle each
+    request.
+  - Ledgy MCP. Not everyone wants to open Ledgy to get things
+    done. Our MCP server lets customers bring equity into the
+    AI agents and tools they already use. You'll shape it
+    alongside the in-app agent, so a capability built once
+    works in both places, and you'll decide what we expose and
+    how we keep it safe.
+  - Measuring and improving the agent. You'll design and build
+    the system we use to measure the agent's quality and learn
+    from how customers use it: evaluations, tracing, and
+    feedback from real conversations. You decide what "good"
+    means for customers, how we measure it, and how what we
+    learn changes what we build next.
+  - Scaling. The Ledgy web application, the agent, MCP, and
+    surfaces we haven't built yet all need the same
+    capabilities. You'll design the foundations that let us
+    build AI features once and reuse them everywhere, and that
+    let other teams add AI to their domains without
+    compromising correctness. You'll also design how it runs
+    as usage grows: the backend infrastructure, cost, and
+    latency behind the agent and MCP, and how we keep them
+    reliable and observable.
+
+  You'll own real parts of this and have a say in where we
+  invest. You'll also spend time with customers to see how
+  administrators actually use the agent, and use that to
+  decide what to build next.
+
+  You'll Thrive in This Role If You
+
+  Don't worry if you don't tick every box. These are the
+  things that would make you an especially good fit.
+
+  - You have 5+ years of experience working as a Software
+    Engineer, with strong TypeScript/Node fundamentals across
+    back end and front end
+  - You've built and shipped agentic or LLM-based software to
+    production, such as an agent, an assistant, or a chat
+    product, and you've been the one running it. You've
+    debugged failures in real conversations and kept cost and
+    latency in check as usage and models changed.
+  - You've designed the agent itself: tools and skills, context
+    and prompt engineering, state, streaming, and the agent
+    loop. You know at least one agent framework or runtime
+    well and can say where it works and where it doesn't.
+  - You improve these systems with evidence. Evals, regression
+    sets, tracing, and feedback from real usage tell you
+    whether a change helped, and you use them to decide what
+    to do next.
+  - You keep up with what the foundation labs and the wider
+    community are learning about building agents. You try new
+    techniques early and judge which ones make our product
+    better and are worth adopting now, and which should wait.
+  - You take part in deciding what we build. You read the data,
+    talk to customers, and push for what you think matters
+    most.
+
+  Our Tech Stack
+
+  We work in a TypeScript monorepo: React and Tailwind on the
+  front end, tRPC, Node.js, MongoDB, and Temporal on the back
+  end. It runs on GCP with Kubernetes, managed through
+  Terraform. The agent is currently built on the Vercel AI
+  SDK, and we run an MCP server alongside it.
+
+  You don't need to know all of it, but hands-on experience
+  building with LLMs is strongly preferred.
+
+  What Your Journey Could Look Like
+
+  First day: Get the app running locally and make your first
+  commit. Your onboarding buddy helps you get there.
+
+  First week:
+
+  - Meet the engineers, product managers, and designers you'll
+    work with.
+  - Learn the agent end to end: its tools, skills, MCP surface,
+    and how we evaluate it.
+  - Ship a few smaller features.
+
+  First month:
+
+  - Meet the wider engineering team and learn how Ledgy works
+    and how customers use it today. This is the background
+    you'll use for decisions later.
+  - Make larger contributions and take a bigger part in code
+    reviews.
+
+  First 3 months:
+
+  - Drive part of a larger piece of work, such as process,
+    tooling, a new product, or new functionality.
+  - Work with Product and Design to prove and deepen the value
+    AI adds to the product.
+  - Take part in architecture and long-term decisions.
+
+  After the first 3 months:
+
+  - Take a bigger role in shaping where the team is heading. Own
+    key parts of our AI platform and decide where we can add
+    the most value for customers.
+  - Mentor other engineers and raise the bar. Help teams across
+    Ledgy add AI to what they build, whether that means
+    advising, reviewing, or working alongside them.
+  - Help shape Ledgy's technical direction, for AI and for
+    everything else we build.
+
+  The interview process:
+
+  - Getting to know you (45 min): Meet with someone from our
+    people team to talk about your experience and to ask
+    questions about the role
+  - Live Coding (60 min): An equity domain problem to solve
+    collaboratively using your preferred language and IDE. We
+    want to see how you think, so this step does not allow AI.
+    But you can freely look up syntax questions if you need
+    to.
+  - System Design (60 min): A system design session where you
+    will design an architecture for a problem from the Ledgy
+    domain using a visual tool of your choice
+  - Behavioural (45 min): Answer behavioural style questions
+    about your experience, using the STAR method - with a PM
+    and EM.
+  - Culture Interview: A chance to meet one of our founders and
+    your hiring manager for a 30-minute chat about Ledgy's
+    mission and values
+  - Offer 🎉
+
+  Being part of Ledgy means:
+
+  - Recharge and re-energize with flexible working hours, 25
+    days of vacation, and up to 40 days of remote work from
+    outside your home country.
+  - We make space for your own professional development, with a
+    generous yearly learning & development budget.
+  - This role will receive a competitive salary + benefits +
+    equity. All salaries are aligned with competitively
+    benchmarked ranges based on work location and levelling.
+  - For candidates based in London we use a hybrid work model of
+    2 days in the office per week.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-11-04
+url: "https://builtin.com/job/ai-software-engineer-senior-or-staff/11733025"
+source: Built In

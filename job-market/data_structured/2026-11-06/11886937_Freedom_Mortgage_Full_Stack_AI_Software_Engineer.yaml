@@ -1,0 +1,60 @@
+company:
+  name: Freedom Mortgage
+  stage: null
+  focus: Residential mortgage lending and servicing
+position:
+  title: Full Stack AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer designs and implements LLM capabilities
+      themselves: prompts, RAG, embeddings, agent flows, tool
+      calling, model selection, evals, and guardrails. This is
+      shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Partner with business stakeholders to define requirements and deliver production
+    software iteratively
+  - Build full-stack applications across frontend, backend, API, integration, data,
+    and infrastructure layers
+  - Design and implement AI-enabled capabilities using LLMs, RAG, embeddings, vector
+    search, structured outputs, and agentic workflows
+  - Build AI agents that securely interact with applications, APIs, databases, documents,
+    and enterprise systems
+  - Develop prompts, tool definitions, context-management strategies, and reusable
+    AI skills
+  - Evaluate and select models and implement evals, guardrails, observability, and
+    safety controls
+  - Own application lifecycle including deployment, monitoring, vulnerability remediation,
+    and modernization for up to three applications
+  - Mentor engineers and contribute reusable AI engineering patterns to the organization
+  use_cases:
+  - Enterprise AI-enabled applications for mortgage business processes
+  - AI agents securely interacting with applications, APIs, databases, documents,
+    and enterprise systems
+  - Retrieval-augmented generation and semantic search over documents
+  - Workflow automation for regulated mortgage lending operations
+  - AI-assisted software development and testing
+  skills:
+    genai: [LLMs, RAG, Embeddings, Vector Search, Structured Outputs, Function Calling,
+      Agentic Workflows, AI Agents, Prompt Engineering, LangGraph, Semantic Kernel,
+      MCP, Semantic Search, Guardrails, LLM Evaluation, Cursor, Claude Code, GitHub
+        Copilot, Codex, Generative AI]
+    ml: [Model Evaluation]
+    web: [React, Angular, Vue, REST APIs, Microservices, APIs]
+    databases: [SQL, Vector Databases, Relational Databases]
+    data: [Data Modeling, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, DevOps, Kubernetes, Docker, Infrastructure as Code, Observability,
+      Monitoring]
+    languages: [Python, Java, C#, Go, TypeScript, Node.js, JavaScript, SQL]
+    domains: []
+    other: [Event-Driven Architecture, Code Review, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886937'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:38:14.798626'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Writer
+  stage: null
+  focus: |-
+    Enterprise generative AI platform for marketing and revenue
+    teams
+position:
+  title: AI engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role drives development of intelligent agents and LLM-
+      powered features, translating research into solutions and
+      evaluating AI technologies/frameworks, which is shaping
+      LLM/agent behavior. LLMs and AI agents are central, so it is
+      ai-first.
+  responsibilities:
+  - Architect, develop, and deploy scalable AI applications into production with robust
+    platform integrations
+  - Drive the development of intelligent agents and AI-powered features for enterprise
+    customers
+  - Collaborate with research scientists, data scientists, and product managers to
+    define technical requirements
+  - Research and evaluate emerging AI technologies, frameworks, and tools
+  - Champion responsible AI practices including bias detection, explainability, and
+    safety alignment
+  use_cases:
+  - Autonomous agents executing across the buyer journey
+  - Enterprise AI applications grounded in company data
+  - AI-powered features for enterprise productivity
+  - Responsible AI with bias detection and safety alignment
+  skills:
+    genai: [LLMs, AI Agents, Generative AI]
+    ml: [PyTorch, TensorFlow, JAX, Machine Learning, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12054229'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:42:11.283474'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

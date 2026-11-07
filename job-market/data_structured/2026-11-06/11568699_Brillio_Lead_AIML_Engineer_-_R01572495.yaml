@@ -1,0 +1,56 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Lead AI/ML Engineer - R01572495
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents, multi-agent systems, RAG,
+      prompting, guardrails, and evaluation — directly shaping LLM
+      behavior, so ai-first. Lead title is technical leadership,
+      not people management.
+  responsibilities:
+  - Design, build, and deploy AI agents and multi-agent systems using Azure AI services
+    and agentic frameworks
+  - Develop and operationalize agentic workflows integrated with Microsoft 365, Dynamics
+    365, Power Platform, and enterprise APIs
+  - Implement enterprise RAG solutions with Azure AI Search, vector search, and semantic
+    ranking
+  - Build production-ready LLM applications with tool calling, memory systems, and
+    workflow orchestration
+  - Establish observability, guardrails, evaluation, security, and monitoring for
+    AI applications
+  - Optimize agent and LLM applications for latency, accuracy, scalability, and cost
+  - Collaborate with cross-functional teams to prototype and iterate AI solutions
+  - Contribute to internal best practices for agent architecture, prompting, RAG,
+    and evaluation
+  use_cases:
+  - Enterprise agentic automation for business functions
+  - Knowledge retrieval and decision support via enterprise RAG
+  - AI integration with Microsoft 365 and enterprise systems
+  - Scalable, secure production LLM applications
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, Semantic Kernel, LangChain,
+      LangGraph, AutoGen, RAG, LLMs, Function Calling, Prompt Engineering, Guardrails,
+      LLM Evaluation, Embeddings]
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras]
+    web: [APIs, Microservices]
+    databases: [Vector Search, Azure AI Search]
+    data: []
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry, Azure Functions, Azure Container
+        Apps, AKS, Azure Storage]
+    ops: [Kubeflow, BentoML, Evidently AI, Great Expectations]
+    languages: [Python, R]
+    domains: []
+    other: [Microsoft 365, Microsoft Teams, SharePoint, Dynamics 365, Power Platform,
+      R Studio, SAS, SPSS, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11568699'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:12:37.392829'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

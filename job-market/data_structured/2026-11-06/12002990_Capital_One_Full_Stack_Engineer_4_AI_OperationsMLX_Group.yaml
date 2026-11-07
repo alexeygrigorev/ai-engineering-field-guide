@@ -1,0 +1,54 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Financial services and banking for consumers
+position:
+  title: Full Stack Engineer 4 (AI Operations/MLX Group)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the AI Operations group in the title, the
+      responsibilities are full-stack software engineering; no
+      work shaping model behaviour, prompts, retrieval, or
+      training is described. AI appears only as coding
+      tools/copilots the engineer uses, which is explicitly ai-
+      support.
+  responsibilities:
+  - Lead a portfolio of technology projects and a team of developers building distributed
+    microservices and full-stack solutions for regulatory needs
+  - Collaborate with digital product managers to deliver cloud-based solutions supporting
+    financial empowerment
+  - Build with languages including Java, Scala, Python, Go, Node.js, JavaScript and
+    TypeScript
+  - Use container orchestration (Docker, Kubernetes) and AWS tools and services
+  - Provide technical leadership and set standards for design, development, and operational
+    excellence across Agile teams
+  - Partner with architects to define service boundaries, integration patterns, and
+    reusable frameworks
+  - Reduce technical debt and improve system performance through refactoring
+  - Evaluate emerging tools and practices to influence long-term technology strategy
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [APIs, Microservices]
+    databases: [NoSQL, Relational Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Git, Observability, Distributed
+        Systems, GitHub Copilot]
+    languages: [Java, Scala, Python, Go, Node.js, JavaScript, TypeScript, Rust, C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12002990'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-11-06T14:23:46.876656'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior AI and Machine Learning Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role hands-on builds agentic AI frameworks, RAG with
+      vector databases, tunes LLMs, and designs agent evaluation
+      strategies — clearly shaping LLM behavior. There is no non-
+      LLM-only ML component dominating, so it is ai-first.
+  responsibilities:
+  - Develop and implement AI/ML model strategies for the Global Reconciliation Utility
+    team
+  - Implement and deploy scalable agentic AI frameworks and Generative AI solutions
+    for banking use cases
+  - Build full-stack applications integrating ML and LLM tools into AI solutions
+  - Prototype and integrate advancements in agent-based systems and generative AI
+  - Write production-quality code, set technical standards, and validate architectural
+    decisions
+  - Take AI capabilities from proof-of-concept to secure production deployments with
+    cloud-native, container-first services
+  - Design and implement metrics and evaluation strategies for AI system and agent
+    performance
+  - Collaborate with AI researchers, data scientists, product managers, and engineers
+  use_cases:
+  - Enterprise reconciliation processing in global banking hubs
+  - AI-powered financial reconciliation (Global Reconciliation Utility)
+  - Agentic AI solutions for critical banking use cases
+  - LLM-based data matching and pattern discovery in reconciliation data
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, Agentic Workflows, Generative AI, RAG,
+      LLMs, Fine-Tuning]
+    ml: [Machine Learning, NLP]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Docker, GenAIOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027070'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:32:16.159280'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

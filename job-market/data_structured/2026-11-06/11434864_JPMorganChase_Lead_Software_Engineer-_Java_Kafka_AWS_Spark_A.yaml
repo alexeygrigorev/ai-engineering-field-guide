@@ -1,0 +1,52 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: |-
+    Consumer and community banking technology, trust and
+    security
+position:
+  title: Lead Software Engineer- Java, Kafka, AWS, Spark, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a backend/data software engineer. AI appears
+      only as enterprise-authorized coding assistants the engineer
+      and team use to write and review code; the person never
+      shapes model behavior, designs prompts or RAG, or trains
+      models. Deliverable is software and developer workflow, so
+      ai-support.
+  responsibilities:
+  - Design, develop, and troubleshoot software solutions across multiple technical
+    areas
+  - Create secure, high-quality production code and maintain algorithms
+  - Leverage enterprise-authorized AI coding assist tools to improve code quality
+    and delivery speed
+  - Drive team adoption of AI-assisted engineering practices with validation standards
+  - Produce architecture and design artifacts for complex applications
+  - Gather, analyze, and visualize large, diverse data sets for continuous improvement
+  - Identify hidden problems and patterns in data to improve coding hygiene and system
+    architecture
+  use_cases:
+  - Trust and security technology for consumer and community banking
+  - Event-driven microservices on AWS
+  - Large-scale batch and streaming data processing
+  - Distributed data storage with Cassandra at scale
+  skills:
+    languages: [Java, Python]
+    domains: []
+    web: [Spring Boot, Microservices, REST APIs]
+    cloud: [AWS, AWS S3, AWS Lambda, AWS Glue, ECS, EKS]
+    data: [Kafka, Data Pipelines, Spark]
+    ml: []
+    databases: [Cassandra]
+    genai: [AI Agents]
+    ops: [Docker, Kubernetes, Jenkins, CI/CD, Git, Distributed Systems]
+    other: [Maven, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11434864'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:50:45.626443'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

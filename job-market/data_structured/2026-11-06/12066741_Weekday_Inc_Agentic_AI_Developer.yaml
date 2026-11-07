@@ -1,0 +1,52 @@
+company:
+  name: Weekday, Inc.
+  stage: null
+  focus: Staffing platform recruiting agentic AI talent for clients
+position:
+  title: Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds autonomous AI agents, LLM-
+      powered applications, RAG pipelines, and multi-agent
+      orchestration directly, shaping model behavior through
+      prompts, retrieval, and agent flows. LLMs are central, so it
+      is ai-first.
+  responsibilities:
+  - Design, develop, and deploy autonomous AI agents for reasoning, planning, and
+    decision-making
+  - Build LLM-powered applications using Python and LangChain
+  - Develop agentic workflows using LangGraph, CrewAI, and similar orchestration frameworks
+  - Implement RAG pipelines over enterprise knowledge bases
+  - Design multi-agent systems where agents collaborate on complex tasks
+  - Integrate LLMs with external APIs, databases, and enterprise applications
+  - Optimize prompts, response accuracy, latency, and token consumption
+  - Develop scalable backend services and REST APIs to support AI applications
+  use_cases:
+  - Autonomous agents automating complex business workflows
+  - Enterprise knowledge retrieval via RAG over knowledge bases
+  - Multi-agent collaboration for complex task completion
+  - LLM integration with enterprise applications and third-party services
+  - AI-driven business process automation
+  skills:
+    genai: [LLMs, LangChain, Agentic Workflows, Multi-Agent Systems, RAG, AI Agents,
+      LangGraph, CrewAI, AutoGen, MCP, Prompt Engineering, Function Calling, Embeddings,
+      OpenAI API, Azure OpenAI, Generative AI]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Pinecone, Weaviate, Chrom, FAISS, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12066741'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:45:58.740707'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

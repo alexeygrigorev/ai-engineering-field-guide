@@ -1,0 +1,50 @@
+company:
+  name: Jodie AI
+  stage: null
+  focus: AI phone receptionist for small businesses
+position:
+  title: Senior LiveKit / Voice AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds voice agents (LiveKit Agents) and shapes
+      their behavior: improving turn detection, interruptions,
+      speech recognition/synthesis, and building repeatable
+      evaluations of conversation quality. Designing agent flows
+      and evaluating model output quality is shaping, and the
+      agent component makes it ai-first.
+  responsibilities:
+  - Build production voice agents with LiveKit Agents in Python or Node.js
+  - Improve turn detection, interruption handling, speech recognition and synthesis
+    in real customer conversations
+  - Own SIP and telephony integrations, call transfers and graceful provider failover
+  - Measure end-to-end latency, completion rates and conversation quality with traces
+    and repeatable evaluations
+  - Establish a repeatable evaluation and release process for parts of the voice stack
+  - Diagnose and fix failure modes in the real-time call path
+  use_cases:
+  - AI receptionist answering business phone calls
+  - Real-time voice conversation with natural turn-taking and interruption handling
+  - Call detail capture and follow-up for business owners
+  - Telephony call transfers with graceful provider failover
+  - Voice quality and latency evaluation on live calls
+  skills:
+    genai: [LiveKit Agents, AI Agents, Conversational AI]
+    ml: [Model Evaluation, VAD]
+    web: [WebRTC, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Node.js, TypeScript]
+    domains: []
+    other: [SIP, Audio Pipelines, Load Testing, Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11634188'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-11-06T12:27:16.019549'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

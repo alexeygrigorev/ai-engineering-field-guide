@@ -1,0 +1,59 @@
+company:
+  name: Meraki Labs
+  stage: raised over $42M from Accel, General Catalyst and Prosus
+  focus: Enterprise AI agents for voice, chat and workflows
+position:
+  title: Lead DevOps & Platform Engineer - NuPlay (Nurix AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role runs, hosts, and scales infrastructure for AI
+      products (GPU serving of LLMs, Kubernetes, migration), but
+      does not shape model behaviour — no prompt design, retrieval
+      design, training, or eval work is owned. Serving models
+      somebody else builds is explicitly ai-support even when
+      vLLM/GPU is named.
+  responsibilities:
+  - Design Azure landing zones, multi-region networking, and HA/DR, and lead the AWS
+    to Azure migration with Terraform as code
+  - Run EKS and AKS clusters for microservices, real-time voice pipelines, and GPU
+    serving of fine-tuned LLMs
+  - Autoscale for call peaks, hold voice latency budgets, and track GPU cost per call
+    minute
+  - Build observability (metrics, logs, traces, SLOs), on-call rotations, incident
+    command, and blameless RCAs; feed alerts into agents' auto-heal loops
+  - Ship multi-tenant SaaS, dedicated tenant stacks, and customer-cloud deployments
+    from one codebase and pipeline
+  - Run RBAC and just-in-time access with audit trails, own SOC 2 and ISO audit evidence,
+    and keep the auth service highly available
+  - Own CI/CD and GitOps across sub-products with safe rollouts and fast rollbacks;
+    build internal tooling
+  - Lead, hire, and mentor the DevOps team and act as bridge between product engineering
+    and infrastructure
+  use_cases:
+  - Enterprise voice AI agents (cascade and speech-to-speech) handling call traffic
+  - Chat agents and agentic workflows for enterprise customers
+  - Deep RAG and enterprise search over customer data
+  - GPU serving of self-hosted fine-tuned LLMs at call-peak scale
+  - Multi-tenant SaaS platform for agent deployment, memory, and post-call analytics
+  skills:
+    languages: [Python, Go, Java, Node.js]
+    domains: []
+    web: [WebSockets]
+    cloud: [AWS, Azure, AKS, EKS, IAM]
+    data: [Kafka]
+    ml: []
+    databases: [OpenSearch, Weaviate, pgvector]
+    genai: [RAG, LLMs]
+    ops: [Terraform, Kubernetes, CI/CD, GitOps, ArgoCD, Prometheus, Grafana, Datadog,
+      OpenTelemetry, Observability, Monitoring, vLLM, Triton, TensorRT, Infrastructure
+        as Code, Distributed Systems]
+    other: [SOC 2, GDPR, HIPAA Compliance, RBAC]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11503343'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:01:52.770523'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

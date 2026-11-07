@@ -1,0 +1,53 @@
+company:
+  name: RELX
+  stage: null
+  focus: Scientific publishing, information and analytics
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "Agentic AI Engineer" title, the
+      responsibilities describe building cloud-hosted distributed
+      services, and the requirements say the candidate "wants to
+      learn" agentic development. AI coding tools (Copilot,
+      Claude, Codex) are listed as merely desirable, and there is
+      no evidence of the person shaping LLM behavior (prompts,
+      RAG, evals, fine-tuning) themselves. The role builds
+      infrastructure around AI/LLM capabilities rather than
+      shaping them.
+  responsibilities:
+  - Design, develop and deploy applications in a cloud-hosted distributed system for
+    the next-generation Submission product
+  - Build Document Intelligence services that transform unstructured manuscripts into
+    structured information
+  - Collaborate with business stakeholders to identify requirements and gather feedback
+  - Provide input into architectural decisions to ensure stability and performance
+  - Identify and implement enhancements to improve the delivery process
+  - Partner with cross-functional Agile and DevOps implementation teams
+  use_cases:
+  - Document intelligence for scientific manuscript processing
+  - Metadata extraction and content enrichment from unstructured research documents
+  - Entity recognition in scientific submissions
+  - Automating manual editorial and submission workflows
+  - Content discovery and AI-driven features in scholarly publishing
+  skills:
+    languages: [Java, Python]
+    domains: []
+    web: [Spring Boot, Microservices]
+    cloud: [AWS]
+    data: [Kafka]
+    ml: []
+    databases: []
+    genai: [Claude Code, Codex]
+    ops: [Git, GitHub Copilot]
+    other: [Test-Driven Development, Mockito, Jira, Confluence, Agile, Kanban, Event-Driven
+        Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11596338'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:18:25.623883'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

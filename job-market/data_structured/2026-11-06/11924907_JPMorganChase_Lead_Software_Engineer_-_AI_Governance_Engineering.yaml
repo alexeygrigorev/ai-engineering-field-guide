@@ -1,0 +1,54 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Lead Software Engineer - AI Governance Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers LLM-powered capabilities
+      including prompt design, agent workflows, and retrieval-
+      augmented generation, which is directly shaping model
+      behavior and output quality. Core platform/governance work
+      exists, but the explicit LLM prompt/agent/retrieval
+      engineering makes it ai-first.
+  responsibilities:
+  - Build and enhance platform capabilities for model registries, feature registries,
+    promotion policies, and governance tooling
+  - Design and deliver services for data preparation, annotation workflows, lineage,
+    and auditability
+  - Develop cloud-native microservices and APIs to support scalable model delivery
+    and operations
+  - Create LLM-powered capabilities including prompt design, agent workflows, and
+    retrieval
+  - Produce architecture and design artifacts meeting performance, resiliency, and
+    security constraints
+  - Analyze telemetry and user feedback; build reporting and metrics for continuous
+    improvement
+  - Improve code health, observability, and platform architecture
+  use_cases:
+  - ML lifecycle platform supporting model operations and governance
+  - Model and feature registries with promotion policies
+  - Data preparation, annotation, lineage, and auditability workflows
+  - LLM-powered capabilities with grounded, reliable retrieval-based outcomes
+  - Internal developer experience for moving ML models to production
+  skills:
+    genai: [Prompt Engineering, AI Agents, RAG, LLMs]
+    ml: [Model Evaluation, PyTorch, TensorFlow, Hugging Face, scikit-learn]
+    web: [React, REST APIs, Microservices, Event-Driven Architecture]
+    databases: [PostgreSQL, MongoDB, Redis, Elasticsearch, Cassandra]
+    data: []
+    cloud: []
+    ops: [Model Deployment, Docker, Kubernetes, Terraform, CI/CD, Observability]
+    languages: [Python, Java, JavaScript, Node.js, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11924907'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:58:48.116260'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

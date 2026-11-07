@@ -1,0 +1,53 @@
+company:
+  name: CME Group
+  stage: null
+  focus: Global derivatives marketplace and financial exchange
+position:
+  title: Cyber Defense Monitoring Engineer – Automation & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, trains, and deploys AI-driven autonomous
+      agents for SOC triage, integrates LLMs into investigation
+      pipelines, and uses prompt engineering and AI orchestration
+      frameworks like LangChain. This is directly shaping
+      LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Design, train, and deploy AI-driven autonomous agents to perform tier-1/tier-2
+    triage, context gathering, and initial containment
+  - Architect and write automation playbooks using Python, REST APIs, and SOAR platforms
+  - Apply data analytics and ML models to security datasets to reduce false positives
+    and improve SIEM alert fidelity
+  - Implement Detection as Code practices with CI/CD pipelines, version control, and
+    automated testing
+  - Serve as Level 3 escalation point for complex and severe security events, including
+    APTs
+  - Conduct hypothesis-driven threat hunting and integrate threat intelligence into
+    automated defenses
+  - Oversee health, tuning, and strategic direction of SIEM, EDR, and NDR tooling
+  use_cases:
+  - Autonomous AI agents for SOC alert triage and initial containment
+  - LLM-assisted security investigation pipelines
+  - ML-based anomaly detection and false positive reduction in SIEM alerts
+  - SOAR playbook automation for incident response
+  - Automated threat detection and response lifecycle (MTTD/MTTR reduction)
+  skills:
+    genai: [LLMs, Prompt Engineering, LangChain, AI Agents, Agentic Workflows]
+    ml: [Machine Learning, Data Science]
+    web: [REST APIs]
+    databases: []
+    data: [Pandas]
+    cloud: [AWS]
+    ops: [CI/CD, Cortex XSOAR, Linux]
+    languages: [Python, Go, PowerShell, SQL]
+    domains: []
+    other: [JSON, Jupyter, SOAR, Splunk SOAR, Torq, Tines, SIEM, EDR, NDR, MITRE ATT&CK,
+      Incident Response, Threat Hunting, Windows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389712'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:41:08.770461'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

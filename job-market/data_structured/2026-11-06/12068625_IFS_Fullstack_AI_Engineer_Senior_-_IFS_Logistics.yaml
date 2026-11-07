@@ -1,0 +1,58 @@
+company:
+  name: IFS
+  stage: ''
+  focus: Enterprise logistics and supply chain software
+position:
+  title: Fullstack AI Engineer (Senior) - IFS Logistics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly owns where AI agents sit in product
+      flows, designs human-in-the-loop review points, and builds
+      guardrails for agent-driven freight execution — that is
+      shaping agent behavior, so ai-first. The LLM/RAG/evals work
+      is framed as part of the product architecture ("agent-led
+      product architecture"), though core stack depth is fullstack
+      product engineering.
+  responsibilities:
+  - 'Own the product surface of the transport execution product end to end: freight
+    booking, carrier setup, self-serve configuration, and document generation'
+  - Build freight booking across road, sea and rail including spot quoting and multi-leg
+    consolidated movements
+  - Deliver self-serve carrier integration and configuration for fulfilment rules,
+    packaging, products and SKUs
+  - Generate shipping and customs documents for shipment execution
+  - Design where AI agents sit in product flows, human review points, and guardrails
+    for safe automation
+  - Build Django endpoints, data contracts and validation behind product surfaces
+  - Mentor engineers earlier in their career and raise code quality standards in the
+    squad
+  - Work directly with the squad's Product Lead and Designer as the second technical
+    voice
+  use_cases:
+  - Freight booking and transport execution across road, sea and rail
+  - Spot quoting and multi-leg consolidated shipment movements
+  - Self-serve carrier setup and integration for enterprise shippers
+  - Automated fulfilment rule and packaging/SKU configuration
+  - Shipping and customs document generation
+  - Agent-led automation of logistics workflows with human-in-the-loop review and
+    guardrails
+  skills:
+    genai: [RAG, LLMs, AI Agents, LLM Evaluation]
+    ml: []
+    web: [React, Django, REST APIs]
+    databases: [BigQuery, Cube Cloud]
+    data: [dbt, Superset]
+    cloud: [GCP, Pub/Sub]
+    ops: [Kubernetes, Terraform, CI/CD, GitLab CI]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Cursor, Claude Code, Notion, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12068625'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:48:33.432264'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Solaris SE
+  stage: null
+  focus: Embedded finance / Banking-as-a-Service platform
+position:
+  title: Senior AI Engineer (f/m/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role delivers GenAI process automations end-to-end,
+      integrating GenAI solutions in banking operations — shaping
+      LLM-driven workflows, so ai-first. (Step 1 satisfied via
+      GenAI implementation ownership.)
+  responsibilities:
+  - Automate banking operations processes using GenAI
+  - Support operations in evaluating business processes from a technical perspective
+  - Architect and deliver scalable, secure operations workflows
+  - Collaborate with product, engineering and operations to align technical decisions
+    with business outcomes
+  - Take end-to-end ownership of systems from design to operations
+  - Guide architectural decisions and long-term technical strategy
+  use_cases:
+  - Customer support automation
+  - Fraud detection
+  - Banking operations process automation
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, DevOps, Distributed Systems]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11698787'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T12:38:28.046555'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

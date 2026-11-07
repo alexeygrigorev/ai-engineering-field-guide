@@ -1,0 +1,54 @@
+company:
+  name: American Express
+  stage: null
+  focus: Financial services and payments technology
+position:
+  title: Staff AI Engineer - Personalization, Brand, Communications Tech
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems: agent
+      orchestration, planning/tool use/memory, RAG pipelines,
+      evals and safety tooling - directly shaping LLM/agent
+      behavior. Hence ai-first.
+  responsibilities:
+  - Drive technical direction for agentic AI initiatives, influencing architecture
+    patterns, autonomy boundaries, and system design
+  - Design, build, and operate production-grade agentic AI systems used across multiple
+    products
+  - 'Own shared agentic AI capabilities: agent frameworks and orchestration, planning,
+    tool use, memory, RAG pipelines, LLM infrastructure and model gateways, and evaluation/observability/safety
+    tooling'
+  - Lead technical design reviews and guide teams through tradeoffs involving autonomy,
+    safety, reliability, scalability, and cost
+  - Partner across teams to deliver complex, cross-cutting agentic AI initiatives
+    from concept to production
+  - Evaluate emerging models, techniques, and agentic patterns and translate them
+    into enterprise-ready improvements
+  - Mentor senior engineers and raise the technical bar for agentic AI development
+  use_cases:
+  - Autonomous agentic workflows for enterprise operations
+  - Decision support systems for financial services
+  - Customer-facing AI experiences for card members
+  - Personalization and customer communications targeting
+  - Retrieval-grounded generation across Amex products
+  skills:
+    genai: [LangGraph, LangChain, LLMs, Agentic Workflows, LlamaIndex, Semantic Kernel,
+      CrewAI, Embeddings, Pydantic, RAG, LLM Evaluation]
+    ml: [PyTorch, Hugging Face, Fine-Tuning, TensorFlow]
+    web: [REST APIs, gRPC, tRPC]
+    databases: []
+    data: [Kafka, Airflow]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Distributed Systems]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [Zod, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881350'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:29:50.622209'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

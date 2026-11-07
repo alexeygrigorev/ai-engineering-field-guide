@@ -1,0 +1,60 @@
+company:
+  name: CSAA Insurance Group
+  stage: null
+  focus: Personal lines property and casualty insurance (AAA insurer)
+position:
+  title: Principal Software Engineer - Emerging Technology & AI - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is a hands-on technical leader building prototypes
+      and pilots that apply GenAI, agentic AI, and emerging AI
+      technologies, which means shaping LLM/agent-driven behavior
+      through hands-on experimentation and evaluation. There is an
+      explicit LLM/agent component, so it classifies as ai-first.
+  responsibilities:
+  - Design rapid prototypes, proofs of concept, and controlled pilots for emerging
+    and AI technologies
+  - Translate ambiguous business opportunities into technical hypotheses, experiments,
+    and recommendations
+  - Evaluate AI platforms, APIs, cloud services, and vendor products through hands-on
+    technical testing
+  - Partner with Enterprise Architecture on platform fit, integration, security, and
+    governance
+  - Write high-quality prototype code and conduct technical reviews with actionable
+    feedback
+  - Convert experiment findings into reusable patterns, standards input, and platform
+    recommendations
+  - Mentor engineers and provide technical guidance while remaining an individual
+    contributor
+  - Collaborate with AI Strategy, business sponsors, Security, Data, Risk, and delivery
+    teams
+  use_cases:
+  - Enterprise experimentation and pilot programs for emerging AI technologies
+  - Applying GenAI and agentic AI to insurance enterprise use cases
+  - Intelligent document processing pilots
+  - Evaluating AI platform and integration fit for enterprise adoption
+  - Translating validated prototypes into scalable production solutions
+  skills:
+    genai: [Generative AI, AI Agents, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [React, APIs]
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS Lambda, AWS S3]
+    ops: [Jenkins]
+    languages: [Java, Python, Node.js, JavaScript, TypeScript]
+    domains: []
+    other: [Intelligent Document Processing, Maven]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11850494'
+  location: USA
+  locations:
+  - USA
+  - Home Junction, USA
+  remote: true
+  extracted_at: '2026-11-06T13:23:29.763789'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,141 @@
+job_id: 11904537
+title: Senior AI Engineer
+company: Ecolab
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 29,154 Employees
+description: |
+  Senior AI Engineer
+
+  Ecolab Digital is seeking a Senior AI Engineer to design and
+  ship the production LLM and agent systems that turn data
+  into intelligent, customer-facing intelligence products
+  across the Institutional & Specialty segment. This is a
+  builder role. You own systems end to end, from the data
+  layer through inference, serving, and product integration,
+  and you write code every day.
+
+  You will work across LLM-based applications and multi-agent
+  workflows, combining GenAI reasoning with deterministic
+  logic to produce outputs that are reliable, auditable, and
+  feasible to run at scale. Partnering with product, data
+  science, and engineering teams, you will take systems from
+  first prototype through production and the long tail of
+  operating them: evaluation, monitoring, cost, and latency.
+  You care about the craft of engineering as much as the
+  model.
+
+  What you will do
+
+  - Design, build, and ship production LLM applications and
+    agentic systems end to end, owning the technical decisions
+    from data through inference, serving, API exposure, and
+    product integration.
+  - Build multi-agent and multi-step workflows: tool-calling,
+    sequential handoffs, and scheduled or DAG-based
+    orchestration, with sound judgment on when to use
+    probabilistic reasoning versus deterministic rules.
+  - Treat prompt and context engineering as a real discipline:
+    structured prompts, output schemas, exclusion rules, and
+    deliberate management of what goes into the model's
+    context window.
+  - Build retrieval-augmented generation over vector indexes:
+    chunking, embeddings, hybrid search, reranking, and
+    evaluation of retrieval quality, not just of the final
+    answer.
+  - Own the production lifecycle of the systems you build:
+    evaluation harnesses, monitoring and tracing, drift
+    detection, prompt and version management, champion or
+    challenger promotion, and retraining.
+  - Engineer for cost and latency as first-class requirements:
+    caching, model routing, batching, and streaming, and sound
+    judgment on when to spend inference on a reasoning model
+    versus route to a faster, cheaper one.
+  - Build in guardrails and security from the start: prompt-
+    injection defense including through retrieved content,
+    protection against tool misuse and data exfiltration in
+    agentic systems, PII handling, audit logging, and
+    authentication on anything customer-facing.
+  - Expose AI capabilities as production services and APIs, with
+    attention to latency, reliability, versioning, and auth.
+  - Partner with product, data science, and engineering to
+    translate requirements into systems that scale, and
+    communicate design, tradeoffs, and results clearly to
+    technical and non-technical audiences.
+
+  Minimum Qualifications
+
+  - Bachelor's degree in Computer Science, Data Science, Math,
+    Statistics, or a related field with 5 years of AI, ML, or
+    software engineering experience, or a Master's degree in a
+    related field with 3 or more years.
+  - 4+ years of Python. You write clean, modular, production-
+    grade code and treat version control, testing, and code
+    review as standard practice, not afterthoughts.
+  - 2+ years of SQL for querying and preparing data.
+  - Hands-on experience with PySpark and DataFrame APIs on a
+    large-scale distributed platform, comfortable moving from
+    a notebook to production-scale data.
+  - 3+ years building machine learning models, covering
+    training, tuning, and evaluation. Solid ML and statistics
+    are how you keep GenAI systems honest, not something GenAI
+    replaces.
+  - 2+ years shipping production LLM applications. Prompt
+    engineering as a discipline, RAG over vector indexes, and
+    GenAI reasoning combined with deterministic logic for
+    reliable, auditable outputs. You should be able to show
+    what you shipped, who used it, and how you improved it
+    after launch.
+  - 2+ years hands-on with GenAI frameworks and tools: LangChain
+    or equivalent, Anthropic, OpenAI or Hugging Face APIs, and
+    vector databases.
+  - 1+ year building and orchestrating multi-agent or multi-step
+    systems: tool-calling, sequential handoffs, and scheduled
+    or DAG-based workflows.
+  - Experience exposing AI as production services and APIs, with
+    attention to latency, reliability, versioning, and auth.
+    You can put a model behind a service other teams depend
+    on, not just run it in a notebook.
+  - 2+ years of production operations for AI or ML, with
+    evaluation-driven development at the center. Evaluation,
+    monitoring, tracing, cost, and latency. You build the eval
+    set and regression gates before you tune, calibrate an LLM
+    judge against human-labeled ground truth, and can prove a
+    prompt or model change actually made things better rather
+    than just confirming it still runs. You have operated real
+    systems, not only proofs-of-concept.
+  - Solid engineering and DevOps fundamentals as a normal part
+    of how you ship: Git, CI/CD, containerization with Docker,
+    and owning your services in production including logging,
+    monitoring, secrets handling, and safe rollbacks.
+  - Strong analytical thinking and communication, including
+    product judgment in a probabilistic setting: knowing what
+    "good enough" is and setting realistic expectations with
+    stakeholders for systems that are not deterministic.
+
+  Preferred Qualifications
+
+  - Experience with the Databricks GenAI stack: Model Serving,
+    Unity Catalog, Vector Search, MLflow including prompt
+    registry and champion or challenger evaluation, and
+    Databricks Asset Bundles.
+  - Experience with Model Context Protocol (MCP) servers and
+    tools, conversational AI assistants, and emerging agent-
+    to-agent (A2A) orchestration patterns.
+  - Experience with agent memory and state management for long-
+    running or stateful agents.
+  - Judgment on when to fine-tune or distill a model versus
+    prompt or retrieve, and experience doing at least one in
+    production.
+  - Proficiency across the Microsoft Azure suite (App Service,
+    Functions, Key Vault, ADO Pipelines), and infrastructure-
+    as-code or Kubernetes for multi-environment deployment.
+  - Fluency using AI-assisted development tools as a genuine
+    productivity multiplier.
+
+  Sharing a public GitHub profile or project portfolio is
+  encouraged; we would love to see examples of your hands-on
+  work where available.
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-ai-engineer/11904537"
+source: Built In

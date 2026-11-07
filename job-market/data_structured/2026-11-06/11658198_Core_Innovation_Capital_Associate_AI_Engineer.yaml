@@ -1,0 +1,51 @@
+company:
+  name: Core Innovation Capital
+  stage: null
+  focus: |-
+    Venture capital investing in fintech, healthcare, and small
+    business startups
+position:
+  title: Associate AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates LLM agents, retrieval, and
+      evaluation systems for VC sourcing and research, which is
+      shaping model behavior. LLMs/agents are explicitly central
+      (agent harnesses, VLMs, retrieval evaluation), so ai-first.
+  responsibilities:
+  - Design, build, and run AI/ML experiments across sourcing, research, and the data
+    platform
+  - Build software to find founders earlier, understand them better, and support portfolio
+    companies
+  - Turn messy raw material (pitch decks, call recordings, CRM data) into investment
+    decisions
+  - Build computer vision pipelines including OCR, object detection, and image classification
+  - Evaluate LLMs, agents, and retrieval systems
+  - Ship quickly from idea to production with high autonomy
+  use_cases:
+  - Founder and startup sourcing for venture capital
+  - Investment research and decision-making
+  - Processing pitch decks, meeting notes, and call recordings
+  - Data platform for VC workflows
+  - Document understanding via CV pipelines (OCR, classification)
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, LLM Evaluation, Multimodal LLMs,
+      Claude Code, Codex]
+    ml: [Machine Learning, OCR, Object Detection, Image Classification]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11658198'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:29:02.547394'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

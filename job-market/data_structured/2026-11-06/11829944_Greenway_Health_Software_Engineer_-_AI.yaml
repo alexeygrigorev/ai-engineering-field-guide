@@ -1,0 +1,59 @@
+company:
+  name: Greenway Health
+  stage: null
+  focus: Healthcare technology and electronic health records software
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The engineer uses AI coding tools (Copilot, Cursor, ChatGPT)
+      as accelerators to generate, review, and validate code for
+      regular software deliverables. The product being built is
+      not an LLM/agent system, and the role does not shape model
+      behavior, prompts-as-product, or retrieval for an AI
+      offering; per the edge-case rules, AI-assisted engineering
+      work is ai-support. The prompt templates and validation are
+      developer workflow artifacts, not model shaping.
+  responsibilities:
+  - Use AI-assisted development tools to generate, test, document, refactor, and improve
+    software solutions
+  - Convert product and business requirements into clear technical prompts, implementation
+    plans, and acceptance criteria
+  - Generate 80-90% of initial solution drafts using AI tools, then review, validate,
+    and refine the output
+  - Detect and correct AI hallucinations, inaccurate assumptions, invalid code, security
+    issues, and requirement gaps
+  - Create automated tests to verify expected behavior and business outcomes
+  - Build reusable prompt templates and AI-native development workflows for common
+    engineering tasks
+  - Collaborate with product, QA, DevOps, architecture, and security teams to deliver
+    production-ready solutions
+  - Educate and guide other engineers in adopting AI-native development practices
+  use_cases:
+  - AI-assisted software development for healthcare technology products
+  - Automated code generation, testing, documentation, and refactoring via AI coding
+    tools
+  - Converting business requirements into AI-executable prompts and implementation
+    plans
+  - Validation and quality assurance of AI-generated code in production systems
+  skills:
+    languages: []
+    domains: []
+    web: [APIs]
+    cloud: [Cloud Services]
+    data: []
+    ml: []
+    databases: []
+    genai: [Prompt Engineering, LLMs, GitHub Copilot, Cursor, ChatGPT, Anthropic API,
+      Gemini, AI Agents, RAG]
+    ops: [CI/CD]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11829944'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:20:50.324488'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

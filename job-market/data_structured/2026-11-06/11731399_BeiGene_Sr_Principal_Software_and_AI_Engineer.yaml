@@ -1,0 +1,59 @@
+company:
+  name: BeiGene
+  stage: null
+  focus: Oncology drug development and pharmaceutical research
+position:
+  title: Sr. Principal Software and AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecting and shipping agentic applications,
+      multi-agent orchestration, context engineering, MCP tool
+      integration, structured outputs, guardrails, and model
+      evaluation - directly shaping LLM behavior.
+      Leadership/mentorship does not change this.
+  responsibilities:
+  - Architect, build, and deploy AI and agentic applications that accelerate protocol
+    generation and clinical trial execution
+  - Define scalable platform architecture for multi-agent orchestration, model and
+    tool integration, and the full LLMOps lifecycle
+  - Establish best practices for AI-native development, evaluation, testing, observability,
+    and performance monitoring within a validated SDLC
+  - Assess frontier and open-weight models, agent frameworks, and tooling; make build,
+    buy, and model sourcing decisions
+  - Ensure GxP compliance, data privacy, security, and responsible AI standards with
+    traceability and human oversight
+  - Lead project execution, setting priorities, scope, and timelines for the AI engineering
+    team
+  - Mentor AI and software engineers through design and code reviews and reference
+    implementations
+  - Partner with clinicians, medical writers, statisticians, and clinical operations
+    to embed AI into regulated workflows
+  use_cases:
+  - Automated clinical protocol generation (ICH M11 structured protocols)
+  - Clinical trial execution acceleration from study design through operational delivery
+  - Embedding AI into regulated clinical development workflows
+  - Enterprise knowledge architecture (ontologies, knowledge graphs) for domain knowledge
+    usable by AI systems
+  - Multi-layered evaluation and monitoring of model behavior in production
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows, Context Engineering, MCP, Structured
+        Outputs, Guardrails, Fine-Tuning, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: [PostgreSQL, Elasticsearch, Neo4j, Knowledge Graphs]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, Observability, CI/CD]
+    languages: [Python, .NET]
+    domains: []
+    other: [GxP Compliance, Responsible AI, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11731399'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:44:20.048338'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Marketscope
+  stage: null
+  focus: Develops AI/ML and generative AI applications
+position:
+  title: AI/ML Developer (ID 1442)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, optimizes prompts, and
+      builds LLM-powered applications and agent workflows with
+      LangChain/LangGraph/CrewAI, which is directly shaping LLM
+      behavior. Classical ML work is secondary, so it is ai-first.
+  responsibilities:
+  - Develop, test, and deploy AI/ML applications using Python and Generative AI technologies
+  - Work with LLMs (OpenAI, Azure OpenAI, Claude, Gemini) to build intelligent applications
+  - Develop RAG pipelines for context-aware response generation
+  - Design and optimize prompts to improve LLM output quality
+  - Build REST APIs with FastAPI or Flask to integrate AI/ML models
+  - Build LLM applications and workflows using LangChain, LlamaIndex, and agent frameworks
+    (LangGraph, CrewAI)
+  - Implement embeddings and vector search for semantic search and RAG
+  - Deploy AI applications on cloud platforms with Docker; troubleshoot and optimize
+    for performance and scalability
+  use_cases:
+  - Context-aware question answering via RAG
+  - Semantic search over structured and unstructured data
+  - Task-oriented AI agent solutions
+  - Intelligent LLM-powered applications
+  skills:
+    languages: [Python]
+    domains: []
+    web: [FastAPI, Flask, REST APIs]
+    cloud: [Azure OpenAI, AWS, Azure, GCP]
+    data: [Pandas, NumPy]
+    ml: [Model Training, Feature Engineering, Model Evaluation]
+    databases: [Vector Search, Semantic Search, SQL, FAISS, Pinecone, Weaviate, Chrom]
+    genai: [Generative AI, LLMs, OpenAI API, Anthropic API, Gemini, RAG, Prompt Engineering,
+      LangChain, LlamaIndex, LangGraph, CrewAI, Embeddings]
+    ops: [Docker, Git]
+    other: [Jupyter Notebook]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11591305'
+  location: Noida, IND
+  extracted_at: '2026-11-06T12:17:38.120725'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

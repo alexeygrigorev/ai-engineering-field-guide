@@ -1,0 +1,59 @@
+company:
+  name: Humanoid
+  stage: null
+  focus: Building commercially scalable humanoid robots
+position:
+  title: Engineering Lead, Developer Productivity (AI & Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent behaviour directly: context assembly,
+      model/tool routing, task decomposition, evals, and agent
+      orchestration runtimes for coding agents. These are the
+      systems that shape how agents perform work, not mere
+      consumption of an external AI API, so it is ai-first even
+      though the beneficiary is internal developer productivity.
+  responsibilities:
+  - 'Own the end-to-end path from agent task to healthy deployed change: acceptance
+    criteria, execution, verification, merge, rollout, monitoring, and rollback'
+  - Build secure, reproducible agent runtimes with task-scoped identity, short-lived
+    credentials, bounded access, cost controls, and replayable execution records
+  - Detect unauthorized agent activity across internal and external compute clusters
+  - Build developer interfaces to launch, monitor, and control agents, plus agent
+    collaboration tooling with shared memory and coordinated access
+  - Reduce tokens and retries per accepted change through context assembly, model
+    and tool routing, caching, and task decomposition
+  - Give agents access to builds, tests, simulation, replay, and hardware-in-the-loop
+    with tamper-proof acceptance criteria
+  - Improve codebase navigability and verifiability with clear interfaces, strong
+    invariants, and fast local checks
+  - Recruit and lead the developer productivity team while remaining hands-on, measuring
+    cost per accepted change, review time, defects, and push-to-healthy time
+  use_cases:
+  - Developer productivity platform for AI coding agents at a robotics company
+  - Secure agent runtimes with isolation, identity, and bounded access to code and
+    infrastructure
+  - Automated verification of AI-authored code changes before deployment to humanoid
+    robots
+  - Agent orchestration and collaboration across engineering teams
+  - Detection of unauthorized agent activity across compute clusters
+  skills:
+    languages: []
+    domains: [Robotics]
+    web: []
+    cloud: [Cloud Infrastructure]
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Agents, Coding Agents, Context Engineering, LLM Evaluation, Agentic
+        Workflows]
+    ops: [CI/CD, Kubernetes, Linux, Docker, Monitoring, Model Routing, Automated Testing]
+    other: [Monorepos, Access Controls]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11620812'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:23:17.966742'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

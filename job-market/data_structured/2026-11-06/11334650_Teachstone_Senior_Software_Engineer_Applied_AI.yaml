@@ -1,0 +1,54 @@
+company:
+  name: Teachstone
+  stage: null
+  focus: Education technology supporting classroom teaching quality
+position:
+  title: Senior Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through prompt and context
+      design, model evaluation, safeguards, and monitoring for AI-
+      enabled production systems, with no classical-ML-only focus.
+      Sharing AI coding assistant practices is secondary to
+      designing and evaluating AI capabilities themselves.
+  responsibilities:
+  - Partner with Product Management to evaluate and prioritize AI opportunities, providing
+    technical judgment on feasibility and risk
+  - Lead technical design, prototyping, implementation, deployment, and operation
+    of AI-enabled products and internal tools
+  - Translate responsible AI principles into system requirements including evaluation,
+    data protection, monitoring, and human oversight
+  - Establish reusable architectures, patterns, and documentation for sustainable
+    AI system development
+  - Guide choices among AI models, platforms, and vendors balancing quality, cost,
+    and governance
+  - Define success measures and use production data and evaluations to improve AI
+    system quality
+  - Promote responsible AI-assisted development practices across Engineering
+  - Mentor others and build AI literacy across cross-functional teams
+  use_cases:
+  - AI-enabled products for educators improving classroom interactions
+  - Internal AI-powered tools for organizational needs
+  - AI-assisted software development workflows for engineering teams
+  - Evaluation and monitoring of AI systems in production
+  skills:
+    genai: [Prompt Engineering, LLM Evaluation, Guardrails]
+    ml: []
+    web: [React, Ruby on Rails, Spring Boot]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11334650'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:31:25.619974'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

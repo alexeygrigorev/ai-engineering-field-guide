@@ -1,0 +1,53 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and investment banking technology
+position:
+  title: AI Java Lead Engineer _ Vice President _Software Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While fundamentally a Java backend role, the requirements
+      state hands-on integration of LLMs into production backends
+      and the ability to design multi-agent workflows
+      (orchestrator/subagent patterns, tool calling, guardrails,
+      prompt engineering, eval-driven iteration) themselves.
+      Designing agent flows and prompt engineering is shaping
+      model behavior, with LLM components, so ai-first.
+  responsibilities:
+  - Build scalable, high-performance Java backend enterprise applications for Prime
+    Brokerage and Institutional Equity
+  - Design microservices with REST APIs and messaging integrations (Kafka, JMS, RabbitMQ)
+  - Integrate LLMs (OpenAI, Azure OpenAI, Anthropic) into production backend systems
+  - Design agentic AI workflows using orchestrator/subagent patterns with guardrails
+  - Apply tool/function calling, agent memory, and multi-step reasoning loops with
+    agentic frameworks
+  - Manage AI reliability concerns including hallucination mitigation, observability,
+    latency, and cost
+  - Drive performance tuning, scalability improvements, CI/CD, and production observability
+  use_cases:
+  - Agentic AI workflows for prime brokerage and institutional equity platforms
+  - LLM-integrated production backend systems in financial services
+  - Multi-agent orchestration with guardrails for autonomous systems
+  - RAG-based retrieval with vector databases
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Claude Code, Agentic Workflows, Function
+        Calling, Prompt Engineering, LangChain, LangGraph, Spring AI, AutoGen, CrewAI,
+      Claude Agent SDK, Multi-Agent Systems, Guardrails, RAG]
+    ml: []
+    web: [Spring Boot, Microservices, REST APIs]
+    databases: [Vector Databases]
+    data: [Kafka, JMS, RabbitMQ]
+    cloud: [Azure OpenAI]
+    ops: [Distributed Systems, CI/CD, DevOps, Observability, GitHub Copilot]
+    languages: [Java, SQL, Python]
+    domains: [Investment Banking]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11524287'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T12:05:01.756216'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

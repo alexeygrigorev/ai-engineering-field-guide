@@ -1,0 +1,72 @@
+job_id: 11211491
+title: Staff AI/ML Engineer
+company: "Robots & Pencils"
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Robots & Pencils is an AWS Partner building production AI
+  systems for enterprise clients who need real engineering,
+  not proofs of concept that never ship. We work forward-
+  deployed, embedded directly with client teams, solving the
+  problems that are too new or too specialized for a typical
+  vendor relationship to handle.
+
+  The Role We're looking for an engineer who can operate and
+  train models on Amazon SageMaker running on AWS Trainium,
+  AWS's custom silicon built specifically for large-scale
+  model training. This isn't a role where you call an API and
+  wait. You'll be walking up the stack: understanding what a
+  training request actually looks like at the Trainium
+  hardware and compiler level, then carrying that
+  understanding all the way up through PyTorch training code
+  and into a production SageMaker pipeline. PyTorch is the
+  backbone of this work. If you know the framework deeply and
+  you're comfortable reasoning about how your code actually
+  behaves on custom accelerator hardware rather than treating
+  it as a black box, this role is built around that skill set
+  specifically.
+
+
+
+  What You'll Do
+
+  - Train and operate models on Amazon SageMaker with AWS
+    Trainium as the underlying compute
+  - Write and optimize PyTorch training code with a real
+    understanding of how it compiles and executes on Trainium
+    (NeuronCore architecture, compiler behavior, memory and
+    throughput tradeoffs)
+  - Diagnose training run issues that show up specifically
+    because of the hardware, not just the model,
+    distinguishing a data or code problem from a compiler or
+    device-level one
+  - Translate a request for "a Trainium job" into an actual
+    working, cost-aware training pipeline, end to end
+  - Tune distributed training runs for throughput and cost on
+    SageMaker's training infrastructure
+  - Work directly with client and internal engineering teams to
+    scope and deliver real production training workloads, not
+    experiments that stay in a notebook
+
+  What You'll Bring
+
+  - Strong, hands-on PyTorch experience, ideally including
+    distributed or multi-device training
+  - Production experience with Amazon SageMaker for training
+    and/or inference
+  - Comfort working close to the hardware layer: you understand
+    device-specific compilation and can debug issues that are
+    actually about the accelerator, not just the model
+  - AWS Trainium or Inferentia (Neuron SDK) experience is a
+    strong plus; if you don't have it yet but have deep
+    PyTorch and a track record of picking up new hardware
+    targets fast, we want to talk to you
+  - Solid Python fundamentals and comfort operating in a client-
+    facing, production engineering environment
+industries:
+  - Information Technology
+  - Design
+posted_date: 2026-09-16
+url: "https://www.builtinla.com/job/staff-ml-engineer-aws-trainium-sagemaker/11211491"
+source: Built In

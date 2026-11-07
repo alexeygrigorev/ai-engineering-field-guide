@@ -1,0 +1,47 @@
+company:
+  name: Winfo Solutions
+  stage: null
+  focus: IT consulting and enterprise data/AI solutions
+position:
+  title: AI/ML Engineer - Senior Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and implements RAG-based AI applications and
+      works directly with LLMs, embeddings, vector databases, and
+      prompt engineering, which is shaping model behavior and
+      output quality. An LLM component is involved, so it is ai-
+      first.
+  responsibilities:
+  - Develop and maintain ETL/ELT data pipelines using Databricks
+  - Build and implement RAG-based AI applications
+  - Work with LLMs, embeddings, vector databases, and prompt engineering
+  - Prepare, clean, transform, and validate data for AI/ML applications
+  - Develop ML/AI solutions using Python
+  - Integrate AI models with enterprise applications and data platforms
+  - Optimize data pipelines and AI solutions for performance and scalability
+  - Collaborate with Data Engineering and business teams to deliver AI solutions
+  use_cases:
+  - RAG-based AI applications for enterprise data retrieval
+  - AI/ML and data solutions built on Databricks
+  - Enterprise application integration with AI models
+  - ETL/ELT data pipelines feeding AI and ML workloads
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [REST APIs]
+    cloud: [Azure, AWS, GCP]
+    data: [Data Pipelines, Databricks, PySpark, Spark]
+    ml: [Machine Learning]
+    databases: [Vector Databases]
+    genai: [RAG, LLMs, Embeddings, Prompt Engineering, LangChain, LlamaIndex]
+    ops: [MLflow, Model Deployment]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11671794'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:31:13.677992'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

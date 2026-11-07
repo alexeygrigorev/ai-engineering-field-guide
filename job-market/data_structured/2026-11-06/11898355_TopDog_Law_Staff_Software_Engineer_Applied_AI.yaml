@@ -1,0 +1,56 @@
+company:
+  name: TopDog Law
+  stage: null
+  focus: Personal injury law firm scaling nationally
+position:
+  title: Staff Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered systems themselves:
+      RAG, retrieval, agents, guardrails, evaluation, and context
+      engineering in production. This is shaping model behaviour
+      via prompts, retrieval, and agent design, with an LLM/agent
+      component, so ai-first.
+  responsibilities:
+  - Architect and build internal tools and platforms for operations teams, owning
+    them from design through deployment and operation
+  - Define service boundaries, integration patterns, and data flow across teams; write
+    technical strategy and RFCs
+  - Design AI into systems where it adds value (retrieval, agents, LLM-powered features,
+    workflow automation)
+  - Run time-boxed proofs of concept and advance successful ones into production with
+    evaluation, observability, reliability, and security
+  - Assess AI maturity, define an AI roadmap, and track AI cost and ROI
+  - Build reliable integrations with legacy and third-party SaaS systems with security,
+    access control, and audit trails
+  - Design data models and instrumentation so products generate clean data for analytics
+  - Lead technical alignment across teams, mentor engineers, and advise leadership
+    on build-versus-buy and AI decisions
+  use_cases:
+  - Internal tools and platforms for law firm operations teams
+  - LLM-powered features and workflow automation for business processes
+  - Retrieval and agent-based systems applied to legal and document-heavy workflows
+  - Analytics data generation to guide leadership investment decisions
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, RAG, Embeddings, Vector Search, Context
+        Engineering, Prompt Engineering, Function Calling, Guardrails, LLM Evaluation,
+      Claude Code, GitHub Copilot, Fine-Tuning]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: [Vector Databases, BigQuery, Snowflake]
+    data: [dbt, Data Pipelines]
+    cloud: [Cloud Infrastructure]
+    ops: [SLOs, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11898355'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:53:35.051677'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

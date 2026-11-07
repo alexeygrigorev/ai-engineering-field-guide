@@ -1,0 +1,245 @@
+job_id: 11448413
+title: Staff Software Engineer, Applied AI Team
+company: Fabric Health
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Fabric Health
+
+  At Fabric Health, we are powering boundless care by solving
+  healthcare’s biggest challenge: clinical capacity. We aren’t
+  here to disrupt healthcare; we’re here to fix it. We unify
+  the care journey from intake to treatment, using intelligent
+  automation to remove administrative burdens and make care
+  delivery 2-10x more efficient. Our technology empowers
+  clinicians to move faster and focus on what matters most:
+  the patient.
+
+  We are a mission-driven team of brilliant minds trusted by
+  leading organizations including Intermountain Health, OSF
+  HealthCare, SSM Health, and MUSC Health. Our vision is
+  backed by premier investors such as Thrive Capital, GV
+  (Google Ventures), General Catalyst, and Salesforce
+  Ventures. We move quickly for good reason, listen deeply to
+  solve big challenges, and build products with the same care
+  and quality we’d want for our own loved ones.
+
+  Learn more: About Us | News & Press | LinkedIn | Careers
+
+  About the Role
+
+  You will help lead application development for a live,
+  patient-facing clinical product: an embeddable widget, a
+  clinician portal, and the Python service layer between them.
+  Because some of the system was built rapidly by a small
+  team, parts of it need a durable owner to shore up the
+  foundations before pushing new features. You will own these
+  application surfaces end-to-end, advise on full-stack
+  architectural decisions, and dive deep into the system to
+  independently identify what needs improvement and what we
+  should tackle next.
+
+  You will work alongside our AI engineers to support Fabric’s
+  flagship AI Intake system, ensuring the application layer
+  and the machine learning models evolve in lockstep. This is
+  a small, high-trust team that leans heavily on AI coding
+  tools, spec-driven development, and effective test coverage.
+  You will operate with real autonomy, shipping critical
+  encounter plumbing and internal tools while still
+  interacting regularly with other engineers and cross-
+  functional partners.
+
+  What You'll Do
+
+  As a Staff Software Engineer, you are the durable owner of
+  the application surfaces our patients and clinicians rely
+  on. Your ramp-up and core responsibilities include:
+
+  Your First Six Months:
+
+  - Month 1: Dive into the widget, portal, and service layer to
+    become an owner of all of them, shipping meaningful
+    changes and forming a tight working relationship with our
+    other engineers and partners.
+  - Month 3: Take full ownership of a major integration or
+    platform initiative and step into the role of primary
+    reviewer for all application-side design decisions.
+  - Month 6: Deliver an end-to-end system that external teams
+    depend on, and mentor potential junior engineers to the
+    point where they independently own technical surfaces of
+    their own.
+
+  Ongoing Architectural & Application Ownership:
+
+  - Build the AI Plumbing: Operate the critical application work
+    that supports AI Intake, including encounter data flow,
+    integration against partner platforms, and every surface a
+    new customer touches (typically managing one in flight and
+    another right behind it).
+  - Own Internal Tooling: Manage and scale the growing set of
+    internal tools that your own team and our clinicians
+    depend on.
+  - Drive Full-Stack Architecture: Advise on and make
+    foundational architectural decisions, going deep enough
+    into the system to independently identify what needs
+    shoring up and where development should head next.
+  - Partner with AI Engineers: Keep the application layer
+    tightly coordinated with the AI/ML engineers who own the
+    conversation pipeline, prompts, and clinical-safety layer.
+  - Protect Shared Surfaces: Ship and version components that
+    other teams consume as a dependency, explicitly protecting
+    those consumers from expensive breaking changes.
+  - Maintain Operational Excellence: Keep dependencies current
+    and operate what you build so maintenance stays a daily
+    habit rather than a quarterly crisis.
+
+  Why You Might Be a Good Fit
+
+  - You are drawn to systems you can own and live with, taking
+    real satisfaction in making quickly built foundations
+    durable rather than just shipping and handing them off.
+  - You care deeply about the patient on the other end,
+    understanding the real safety stakes of a live clinical
+    product and wanting your work to matter.
+  - You are a fluent full-stack engineer who moves easily from a
+    React widget down through a Python service and its data
+    layer, making sound architectural calls across the entire
+    stack.
+  - You are comfortable with agentic coding tools and spec-
+    driven development practices.
+  - You act as a genuine partner to data scientists, knowing
+    enough about LLM application development to speak the
+    language of prompts, evaluation, and latency tradeoffs
+    without needing to own the models yourself.
+  - You think in dependencies and blast radius, understanding
+    why breaking changes are expensive and designing shared
+    surfaces with consuming teams in mind.
+  - You write clearly, mentor generously, and treat making other
+    people's work easier as a core part of the job.
+
+  This Might Not Be The Right Fit If...
+
+  - You want to design the models and prompts yourself (this
+    role strictly partners with the people who do that).
+  - You prefer greenfield builds that you hand off, rather than
+    inheriting and shoring up systems other people started
+    quickly.
+  - You prefer to specialize narrowly in the frontend or backend
+    rather than owning the full stack architecture.
+  - You view keeping dependencies current, operating what you
+    ship, and mentoring junior engineers as overhead.
+
+  Your Qualifications
+
+  - 6+ years of professional full-stack web software experience,
+    including at least 1 year operating at a Staff level and
+    living with architecture you built.
+  - Depth in TypeScript and React, with fluency in a modern
+    server-rendered framework (we use Next.js).
+  - Strong Python experience with an async web framework, plus
+    the surrounding data layer (relational schema design,
+    migrations, caching).
+  - Experience building versioned dependencies consumed by other
+    teams (widgets, SDKs, or component libraries).
+  - Fluency with LLM application development to effectively
+    partner with data scientists on prompts, evaluations, and
+    cost tradeoffs.
+
+  Bonus Points
+
+  - Healthcare experience involving PHI, HIPAA, clinical
+    workflows, or patient-facing surfaces with real safety
+    stakes.
+  - Familiarity with agent or workflow orchestration frameworks
+    like LangGraph.
+  - Experience designing for accessibility and
+    internationalization from the start.
+  - AWS background (especially Bedrock) and infrastructure-as-
+    code.
+  - Eval tooling experience (Braintrust, LangSmith, or custom-
+    built equivalents).
+  - Having been the first or second engineer on a greenfield
+    product and having to live with it.
+
+  The national pay range for this role is $150,000.00 -
+  $190,000.00 per year. Actual compensation will be determined
+  by factors such as the candidate's geographic market,
+  experience, skills, and qualifications. Certain roles may
+  also be eligible for additional compensation, including a
+  comprehensive benefits package such as medical, dental,
+  vision, unlimited PTO, and a 401(k) plan, stock options and
+  bonuses. If your compensation requirement is greater than
+  our posted range, please still consider applying; a
+  determination can be made based on unique qualifications.
+  Expected compensation ranges for this role may change over
+  time.At Fabric, we believe that a diverse workforce is
+  essential to our success. We are an equal opportunity
+  employer and are committed to creating an inclusive
+  environment for all employees. We do not discriminate on the
+  basis of race, color, religion, sex, national origin, age,
+  disability, veteran status, or any other legally protected
+  characteristic. We actively encourage individuals from all
+  backgrounds to apply.
+
+  Recruitment Fraud Alert: Protect Yourself
+
+  Fabric Health is aware of scammers attempting to impersonate
+  employers. To ensure that any recruiting contact you receive
+  is legitimate, please adhere to the following:
+
+  - Verify the Domain: Official recruitment emails will only
+    come from addresses ending in @fabrichealth.com or
+    @gem.com. No other domain names are legitimate.
+  - Official Interview Tools: We use Gem for our recruitment
+    process and Google Meet for all video interviews. Google
+    Meet is always the platform used for your first interview;
+    you will never be sent a Zoom link to set up or conduct an
+    initial interview. All interviews are conducted via video
+    unless specifically stated by our team as an audio call.
+    We never conduct interviews via chat, social media, Skype,
+    or WhatsApp.
+  - Zoom Usage: Zoom is utilized only for specific meetings set
+    directly by our team for purposes outside of the standard
+    interview process (e.g., coordination or onboarding
+    discussions). It is never the first link you will receive
+    from us.
+  - Authorized Contact & Texting: Fabric will only contact you
+    if you have submitted an application or if you are
+    connected to a current employee who shared your
+    information with us. We will only send text messages if
+    you have provided explicit authorization and consent,
+    either through your application or while communicating
+    directly with our team. If you have not explicitly
+    authorized us to reach out, treat any SMS or unsolicited
+    outreach as fraudulent and do not respond.
+  - Sensitive Data: We will never ask you for sensitive personal
+    or financial documents (ID, banking info, SSN) during the
+    application, interview, or candidacy stages. All sensitive
+    data is handled through secure internal systems post-
+    offer.
+  - Verify the Team: You can reference LinkedIn to verify
+    members of our recruiting team; however, please remain
+    vigilant as scammers may create fraudulent profiles.
+    Always cross-reference the sender's email domain with our
+    official @fabrichealth.com address.
+
+  If you question the validity of a contact or receive a
+  suspicious message, do not click any links. Please submit a
+  report via this link: https://forms.gle/N1AGAiXcAL2W57H9A
+
+  Please note: The security inbox is for reporting fraudulent
+  activity only. Do not email this address for application
+  status updates or to share application materials, as these
+  will not be reviewed. Applications are only accepted and
+  reviewed if submitted through our official application
+  portal, and no application status information will be
+  provided via the security email.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Telehealth
+posted_date: 2026-09-30
+url: "https://www.builtinla.com/job/staff-software-engineer/11448413"
+source: Built In

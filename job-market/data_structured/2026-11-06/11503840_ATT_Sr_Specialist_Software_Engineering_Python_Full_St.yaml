@@ -1,0 +1,55 @@
+company:
+  name: AT&T
+  stage: null
+  focus: Telecommunications services and connectivity
+position:
+  title: Sr Specialist Software Engineering (Python Full Stack Developer, Agentic
+    AI & Azure cloud)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on agentic AI development with
+      coding agents as a must-have skill, which involves designing
+      agent flows and shaping model behaviour, making it ai-first.
+      The rest of the role is full-stack engineering, but the
+      explicit agent development requirement is central enough per
+      the title and must-have list.
+  responsibilities:
+  - Design, develop, and maintain scalable backend applications using Python and Flask
+  - Build and consume APIs for integration with internal and external systems
+  - Develop cloud-native solutions on Microsoft Azure
+  - Implement data processing, transformation, and analytics pipelines using Polars
+  - Design and optimize database schemas, queries, and stored procedures in PostgreSQL
+  - Develop front-end components using HTML, CSS, and JSON-based integrations
+  - Contribute to CI/CD automation and deployment processes
+  - Participate in code reviews, testing, troubleshooting, and production support
+  use_cases:
+  - Agentic AI development with coding agents
+  - Data processing and analytics pipelines
+  - API integrations with internal and external systems
+  - Cloud-native application development on Azure
+  - Automated web testing
+  skills:
+    genai: [AI Agents, LLMs]
+    ml: []
+    web: [Flask, APIs, CSS, Playwright, OAuth]
+    databases: [PostgreSQL, SQL, Redis]
+    data: [Polars, Pandas, PySpark]
+    cloud: [Azure, Azure Functions, Azure OpenAI]
+    ops: [Git, Docker, Kubernetes, GitHub Actions, Azure DevOps]
+    languages: [Python, HTML, JSON]
+    domains: []
+    other: [Jira, Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11503840'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  - CHN
+  remote: true
+  extracted_at: '2026-11-06T12:02:03.725465'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

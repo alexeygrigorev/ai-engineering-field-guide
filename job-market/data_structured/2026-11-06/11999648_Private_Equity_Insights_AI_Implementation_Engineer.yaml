@@ -1,0 +1,45 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity community, media, and conferences
+position:
+  title: AI Implementation Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a growth/marketing position where AI is used as
+      a tool (workflows, copywriting at scale) to support
+      marketing and audience-building tasks. There is no evidence
+      of shaping model behaviour, designing RAG, prompts, or agent
+      systems as the core deliverable; AI is deployed to
+      outperform team output. Hence ai-support.
+  responsibilities:
+  - Identify, target, and convert PE funds into the community with tailored messaging
+  - Own and execute marketing channels that drive revenue
+  - Write persuasive copy for emails, landing pages, and posts, leveraging AI at scale
+  - Run and measure experiments on offers, copy, prices, and pages
+  - Turn repeated work into playbooks and AI workflows
+  - Support events, including conference logistics and registration
+  use_cases:
+  - Audience growth and investor outreach for a PE community
+  - Marketing automation and revenue-driving campaigns
+  - Copywriting scaled with AI workflows
+  skills:
+    genai: [AI Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11999648'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:22:08.820403'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: NICE
+  stage: null
+  focus: |-
+    Customer experience, financial crime, and public safety
+    software
+position:
+  title: Specialist Technical Support Engineer (AI Solutions)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an L2/L3 technical support role that diagnoses
+      incidents in AI systems designed by others; it troubleshoots
+      and maintains rather than shapes model behaviour, prompts,
+      or retrieval design. Supporting LLM integrations and RAG
+      pipelines in production is maintenance, not shaping.
+  responsibilities:
+  - Own and resolve complex P1/P2 incidents across agentic AI, cloud, data, and application
+    layers
+  - Diagnose AI agent workflows, LLM integrations, RAG pipelines, APIs, MCP tools,
+    and orchestration failures
+  - Analyze Snowflake and AWS environments for performance, security, data, and integration
+    issues
+  - Perform code-level debugging, implement fixes, and develop regression tests
+  - Monitor system health using observability and LLMOps tools
+  - Improve operational maturity through runbooks, alerts, and knowledge articles
+  - Ensure governance, security, and safe execution of autonomous AI workflows
+  - Collaborate with engineering, architecture, product, and business teams
+  use_cases:
+  - Production support for agentic AI applications
+  - LLM integration and RAG pipeline incident resolution
+  - Cloud, data platform, and API reliability in enterprise AI solutions
+  - Governance and safe execution of autonomous AI workflows
+  - Operational maturity for enterprise-scale AI systems
+  skills:
+    genai: [Agentic Workflows, RAG, MCP, LangGraph, LangChain, PydanticAI, AutoGen,
+      CrewAI, Semantic Kernel, OpenAI API, Azure OpenAI, Anthropic API, AWS Bedrock,
+      Gemini, LLMs, Embeddings, Vector Databases, LLM Evaluation, Guardrails, Cortex
+        Agents, Cortex Search, Cortex Analyst]
+    ml: [Snowpark]
+    web: [REST APIs, Microservices, OAuth, API Gateway]
+    databases: [Snowflake, Snowflake Cortex]
+    data: [Airflow, Temporal, dbt, Data Pipelines]
+    cloud: [AWS, AWS Lambda, ECS, API Gateway, IAM]
+    ops: [CI/CD, Git, CloudWatch, LLMOps, Observability, Monitoring, Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: [ServiceNow, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11915584'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:58:05.072732'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Codingal
+  stage: Backed by Y Combinator, Rebright Partners, and angel investors
+  focus: Online AI and coding education for K-12 kids
+position:
+  title: Curriculum Developer Intern (AI & Coding)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs educational curriculum about AI topics
+      rather than shaping any model's behavior. AI tools (ChatGPT,
+      scikit-learn) are subjects of the lessons students build
+      with, not systems the intern prompts, tunes, or evaluates.
+      This is content development where AI is the topic, so it is
+      ai-support.
+  responsibilities:
+  - Redesign existing course content including lesson plans, code examples, quizzes,
+    activities and assignments
+  - Break down AI and coding topics into step-by-step, age-appropriate instructions
+  - Collaborate with teachers to ensure content is teachable and aligned with student
+    learning curves
+  - Identify and address gaps where students struggle such as debugging and conceptual
+    misunderstandings
+  - Review and update content to reflect latest AI, coding and educational trends
+  - Develop AI-focused learning modules (generative AI, machine learning, NLP, computer
+    vision) for K-12
+  - Create real-world student projects building apps, games or AI-powered solutions
+  use_cases:
+  - AI and coding education for K-12 kids and teens
+  - Student projects building apps, games, and AI-powered solutions
+  - Generative AI, machine learning, NLP and computer vision learning modules for
+    children
+  skills:
+    genai: [ChatGPT, OpenAI API, Anthropic API, Generative AI]
+    ml: [scikit-learn, Hugging Face, Machine Learning, Data Science]
+    web: [HTML, CSS, JavaScript]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [Scratch, App Inventor, Instructional Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11587396'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:16:19.623082'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

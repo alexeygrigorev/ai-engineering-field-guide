@@ -1,0 +1,54 @@
+company:
+  name: Percepta AI
+  stage: null
+  focus: |-
+    Applied AI transformation for critical industries via
+    forward deployment
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates infrastructure, IaC, SRE, and
+      observability for agentic systems that other teams build; it
+      does not shape model behavior via prompts, retrieval, or
+      training. Serving and operating autonomous agents without
+      shaping them is ai-support per the edge cases.
+  responsibilities:
+  - 'Build SRE foundations: SLOs, alert routing, on-call, incident response, and postmortems'
+  - Own and evolve Terraform IaC across AWS, Azure, and GCP with testing and drift
+    discipline
+  - Automate standing up new customer environments (firewall exceptions, DNS, deploy
+    identities, cert chains)
+  - Maintain multi-cloud parity of services across AWS, Azure, and GCP
+  - Implement HIPAA and SOC 2 compliance controls as infrastructure code
+  - Own the observability stack (Grafana, Loki, Mimir, Tempo, Alloy, Langfuse, LiteLLM)
+    and answer questions about agent behavior
+  - Provide a paved deployment road for engineers shipping into customer tenants
+  use_cases:
+  - Operating and deploying autonomous agents for enterprise customers
+  - Multi-cloud BYOC and single-tenant infrastructure for regulated industries (healthcare,
+    manufacturing, energy)
+  - Observability of agent decision-making, data access, and cost
+  - Automated, compliant customer environment provisioning across AWS, Azure, and
+    GCP
+  skills:
+    genai: []
+    ml: [SkyPilot, SGLang]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: [AWS, Azure, GCP, EKS, AKS, IAM]
+    ops: [Terraform, Kubernetes, Grafana, Loki, Mimir, Tempo, Langfuse, LiteLLM, GitOps,
+      vLLM, SLOs, Observability]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: [HIPAA Compliance, SOC 2, Progressive Delivery, Policy as Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11527651'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:05:52.239416'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

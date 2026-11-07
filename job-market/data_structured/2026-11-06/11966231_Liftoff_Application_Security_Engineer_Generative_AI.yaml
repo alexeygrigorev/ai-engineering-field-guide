@@ -1,0 +1,60 @@
+company:
+  name: Liftoff
+  stage: null
+  focus: AI-powered performance marketing for mobile apps
+position:
+  title: Application Security Engineer, Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an application security role focused on securing
+      GenAI systems, not shaping model behavior. The person
+      performs threat modeling, code reviews, and sandbox design
+      around AI applications; no prompt engineering, RAG design,
+      or model training is done by them. Security/governance
+      oversight of models is ai-support unless they build
+      evals/guardrails for model output, which they do not.
+  responsibilities:
+  - Establish secure software development standards and integrate security into engineering
+    design and development
+  - Perform design and code reviews, threat modeling, and security assessments for
+    GenAI, Creative GenAI, and emerging businesses, including sandbox design and isolation
+  - Triage and prioritize security vulnerabilities and work with engineering teams
+    on remediation and verification
+  - Build self-service security paths with documented review workflows, reusable tools,
+    and secure design patterns
+  - Build security tools and automation, including an AI-assisted code-security triage
+    pilot
+  - Assess vendors and AI tools for secure employee use
+  - Share on-call and incident-response rotation and conduct blameless post-incident
+    reviews
+  - Contribute across application, cloud, and infrastructure security as priorities
+    change
+  use_cases:
+  - Securing GenAI and Creative GenAI applications at a mobile advertising platform
+  - Sandbox design and isolation for AI systems
+  - AI-assisted code security triage automation
+  - Vulnerability management and remediation across engineering
+  - Vendor and AI tool security assessment
+  skills:
+    languages: [Go, Python, Clojure, JavaScript]
+    domains: []
+    web: [API Security]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: []
+    ops: [CI/CD]
+    other: [Application Security, Threat Modeling, Code Review, Incident Response,
+      Authentication and Authorization, Sandbox Design, Observability, Version Control,
+      Postmortems, Cloud Security, Infrastructure Security, Vendor Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11966231'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:13:29.717019'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

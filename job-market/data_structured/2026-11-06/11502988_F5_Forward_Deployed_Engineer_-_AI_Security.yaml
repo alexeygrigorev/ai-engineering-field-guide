@@ -1,0 +1,55 @@
+company:
+  name: F5
+  stage: null
+  focus: Application security, delivery, and AI security solutions
+position:
+  title: Forward Deployed Engineer - AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer adapting and deploying AI security
+      solutions at customer sites is ai-first per the FDE edge
+      case. Customer-facing post-sales deployment of AI systems,
+      though no specific shaping work like prompts or RAG is
+      described.
+  responsibilities:
+  - Lead technical onboarding and implementation for new customers including planning,
+    scoping, and success metrics
+  - Serve as the primary post-sales technical point of contact for customer engineering
+    and security teams
+  - Develop and execute structured implementation plans to drive fast First Time to
+    Value
+  - Identify and manage implementation risks, blockers, and misaligned expectations
+  - Collaborate cross-functionally with Sales, Engineering, Services, and Product
+    teams
+  - Document repeatable processes, technical guides, and internal runbooks
+  - Triage technical issues and coordinate support and engineering follow-up
+  - Gather customer feedback to inform product roadmap and future services
+  use_cases:
+  - AI security product deployment at enterprise customers
+  - Technical onboarding and implementation of AI systems
+  - Post-sales customer success in cybersecurity
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [SaaS]
+    ops: [Kubernetes, OpenShift]
+    languages: []
+    domains: []
+    other: [Networking, Containers, Security Protocols, Project Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11502988'
+  location: Fields, USA
+  locations:
+  - Fields, USA
+  - Enfield, USA
+  - City of Garfield, USA
+  - Town of Marshfield, USA
+  extracted_at: '2026-11-06T12:01:38.418968'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

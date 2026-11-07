@@ -1,0 +1,56 @@
+company:
+  name: Digital Green
+  stage: null
+  focus: Nonprofit using technology to help smallholder farmers
+position:
+  title: Associate AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role writes and refines prompts, builds agentic
+      workflows with tool-use and MCP, maintains embedding/vector
+      retrieval, and builds LLM evaluation frameworks to catch
+      hallucination and bias. This directly shapes LLM behavior
+      and output quality, so it is ai-first.
+  responsibilities:
+  - Build and integrate LLM-powered features for the FarmerChat conversational AI
+    platform using provider APIs
+  - Write and refine prompts and wire up tool-use patterns using provider SDKs and
+    MCP
+  - Run and extend automated LLM evaluation suites for accuracy, hallucination, and
+    bias using Ragas, DeepEval, and Promptfoo
+  - Test agent workflows end-to-end and document edge cases and failure modes
+  - Maintain embedding pipelines and vector stores grounding LLM responses in agricultural
+    knowledge
+  - Support multi-modal work including speech-to-text, text-to-speech, and image classification
+    for crop and pest detection
+  - Monitor system health with observability tools and document prompts, experiments,
+    and runbooks
+  use_cases:
+  - Conversational AI advisory platform (FarmerChat) for smallholder farmers
+  - Multilingual, low-resource agricultural question answering grounded in agricultural
+    knowledge
+  - Crop and pest detection via image classification
+  - Speech-to-text and text-to-speech for farmer voice interactions
+  - Automated evaluation to prevent hallucination and bias in production models
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [AWS Bedrock, SageMaker, Vertex AI, Azure]
+    data: []
+    ml: [Whisper, Deepgram, Image Classification, ViT, CLIP, YOLO]
+    databases: [Qdrant, pgvector, FAISS, Vector Databases]
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, MCP, Anthropic API, OpenAI
+        API, Gemini, Embeddings, Fine-Tuning, LoRA, Function Calling, Structured Outputs]
+    ops: [Langfuse, Arize Phoenix, Weights & Biases, Ragas, DeepEval, Promptfoo, LLM
+        Evaluation, Git, Docker]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12054963'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:42:29.790847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

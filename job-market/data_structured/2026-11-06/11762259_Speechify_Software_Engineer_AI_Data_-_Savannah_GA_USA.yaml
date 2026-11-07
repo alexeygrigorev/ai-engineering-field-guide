@@ -1,0 +1,48 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Savannah, GA, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data
+      processing systems that feed model training runs owned by AI
+      scientists. Moving, acquiring, and processing training data
+      is plumbing, not shaping model behavior, so per the dataset
+      rule it is ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimizing for quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Audio data acquisition and ingestion for TTS model training
+  - Petabyte-scale dataset construction powering text-to-speech models
+  - Text-to-speech conversion of documents, books, articles, and web content into
+    audio
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762259'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:58:17.771339'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

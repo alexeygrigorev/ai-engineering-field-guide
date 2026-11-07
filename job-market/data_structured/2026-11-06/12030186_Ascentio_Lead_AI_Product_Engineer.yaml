@@ -1,0 +1,62 @@
+company:
+  name: Ascent.io
+  stage: null
+  focus: |-
+    Data and analytics consultancy delivering digital
+    transformation
+position:
+  title: Lead AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production AI features directly:
+      retrieval/grounding patterns, structured outputs,
+      orchestration, guardrails, evaluation, and prompt/context
+      design on LLM applications. This is shaping LLM behavior, so
+      ai-first.
+  responsibilities:
+  - Own solutions end-to-end from discovery and architecture through implementation,
+    deployment, monitoring, and production support
+  - Build production AI capabilities including model/service integration, grounding
+    and retrieval patterns, structured outputs, orchestration, guardrails, and fallback
+    behavior
+  - 'Deliver full-stack product features: web experiences, APIs and services, and
+    integration between application, AI, and data layers'
+  - Create reusable components, templates, reference architectures, and deployment
+    patterns across initiatives
+  - Implement automated tests and repeatable evaluation of AI quality, reliability,
+    latency, and failure modes
+  - Instrument applications for observability and perform root-cause analysis across
+    dependencies
+  - Embed security, authentication, secrets management, compliance, and auditability
+    into designs
+  - Optimize run cost, token consumption, model selection, retrieval strategy, caching,
+    and latency
+  use_cases:
+  - AI-enabled applications embedded in day-to-day business workflows
+  - Grounded retrieval and structured AI outputs for enterprise workflows
+  - AI quality, reliability, and cost evaluation in production
+  - Observability and tracing of AI application behavior
+  - Secure, compliant AI solutions for regulated industries
+  skills:
+    genai: [RAG, Structured Outputs, Guardrails, LLMs, Prompt Engineering, Azure OpenAI,
+      LLM Evaluation]
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: [Azure]
+    ops: [CI/CD, Infrastructure as Code, Distributed Systems, Application Insights,
+      OpenTelemetry]
+    languages: [JavaScript, TypeScript, C#, .NET, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12030186'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:34:26.474592'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

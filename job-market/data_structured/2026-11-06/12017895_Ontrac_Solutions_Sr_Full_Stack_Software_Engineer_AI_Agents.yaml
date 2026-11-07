@@ -1,0 +1,57 @@
+company:
+  name: Ontrac Solutions
+  stage: null
+  focus: Contractor program building multi-agent applications on GCP
+position:
+  title: Sr. Full Stack Software Engineer – AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-agent systems with Google
+      ADK, including agent architecture, tool design, prompt
+      revision, and evaluation/feedback loops that shape agent
+      behavior. This is LLM/agent shaping work, so it is ai-first.
+  responsibilities:
+  - Design multi-agent architecture including agent roles, delegation, tool boundaries,
+    and state handling
+  - Implement agents and tools with Google ADK, integrating customer and third-party
+    systems over REST and MCP
+  - Build web frontend and backend services exposing agents to users
+  - Deploy agents and application services to GCP on Cloud Run and Agent Engine with
+    CI/CD
+  - Build and maintain evaluation suites and feedback loops measuring agent output
+    and driving prompt, tool, and agent structure changes
+  - Instrument agents and services with tracing and logging for production debugging
+  - Use Claude and multi-agent AI coding workflows to accelerate design, implementation,
+    and review
+  - Deliver unit, integration, end-to-end, and agent evaluation tests and document
+    architecture for team and customer
+  use_cases:
+  - Multi-agent applications built on Google ADK for customer engagement
+  - Agent tool integration with customer and third-party systems over REST and MCP
+  - Web interfaces with streaming agent responses and authenticated sessions
+  - Agent evaluation and feedback loops to keep agent behavior reliable in production
+  - Retrieval and grounding of agent responses with Vertex AI Search
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, Prompt Engineering,
+      LLM Evaluation, MCP, Function Calling, Structured Outputs, RAG, Claude Code,
+      A2A Protocol, Gemini Enterprise]
+    ml: []
+    web: [REST APIs, OAuth]
+    databases: [PostgreSQL, Vector Search, BigQuery]
+    data: []
+    cloud: [GCP, Google ADK, Vertex AI, Gemini, Cloud Run, Agent Engine, Vertex AI
+        Search]
+    ops: [CI/CD, OpenTelemetry, Monitoring]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12017895'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:30:08.498176'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

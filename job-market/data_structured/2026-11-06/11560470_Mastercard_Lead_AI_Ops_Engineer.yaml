@@ -1,0 +1,55 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Digital payments technology and services
+position:
+  title: Lead AI Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates whether agents' reasoning stays correct
+      in production, runs evals, diagnoses hallucination and drift
+      issues, and runs experiments on prompts, context, and
+      routing validated via evals. This is judging and shaping
+      LLM/agent output quality, making it ai-first.
+  responsibilities:
+  - Own end-to-end production monitoring for AI agents, tracking accuracy, latency,
+    SLAs, guardrail triggers, and out-of-scope rates via observability dashboards
+  - Serve as L1/L2 production support with first-response monitoring, triage, and
+    escalation for new agentic services
+  - Diagnose issues by monitoring eval scores and drift alerts, inspecting failing
+    traces, and classifying root causes (intent, tool, parameter, hallucination errors)
+  - Evaluate whether agent reasoning remains correct, context retrieval stays current,
+    and the learning loop is not drifting
+  - Manage post-production reliability including API, authentication, and external
+    AI endpoint failures for revenue-generating agents
+  - Partner with AI Engineering to run experiments on prompts, context, and routing
+    in Dev and validate improvements via evals
+  - Embed governance in the agent's learning loop with approval workflows and audit
+    logging for every production change
+  use_cases:
+  - Production operation and reliability of AI agents
+  - Monitoring agent reasoning correctness, context retrieval freshness, and learning-loop
+    drift
+  - Triage and root-cause analysis of agent errors including hallucinations and tool
+    selection failures
+  - Governance, audit logging, and approval workflows within agent learning loops
+  skills:
+    genai: [AI Agents, Guardrails, LLM Evaluation, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring, LLMOps, Model Monitoring]
+    languages: []
+    domains: []
+    other: [Drift Detection, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11560470'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:11:47.459110'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

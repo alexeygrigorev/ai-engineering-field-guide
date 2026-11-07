@@ -1,0 +1,53 @@
+company:
+  name: Arctic Wolf
+  stage: null
+  focus: Managed detection and response cybersecurity services
+position:
+  title: Staff Quality Engineer ( Python , AI )
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds test frameworks and evaluation pipelines
+      that judge LLM output quality (accuracy, hallucination,
+      bias, toxicity, prompt-response consistency). Judging model
+      output quality and building LLM evals is shaping, and the
+      target is LLMs, so this is ai-first.
+  responsibilities:
+  - Create and extend software frameworks and tools to run, monitor, and report on
+    automated tests
+  - Build and maintain automation frameworks and CI/CD pipelines
+  - Review testing strategies, approaches, and test plans and provide insight to development
+    teams
+  - Architect, design and build software to automate testing methods such as API validation,
+    performance/load testing, and fuzzing
+  - Develop and maintain test frameworks for GenAI-based and AI/ML applications including
+    model validation, LLM prompt-response consistency, hallucination detection, and
+    regression testing for AI inference APIs
+  - Implement evaluation pipelines to test LLM accuracy, latency, bias, toxicity,
+    and reliability
+  use_cases:
+  - Quality engineering for a security operations platform processing 600 billion
+    events daily
+  - Automated testing of real-time threat detection and analysis systems
+  - LLM evaluation pipelines covering accuracy, latency, bias, toxicity, and reliability
+  - Regression testing for AI inference APIs
+  - Hallucination detection and prompt-response consistency testing for GenAI applications
+  skills:
+    genai: [LangChain, Ragas, LLM Evaluation]
+    ml: [LLMs]
+    web: [Selenium, Playwright, OpenAPI, Microservices]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS Lambda, AWS S3, Azure, GCP]
+    ops: [Docker, Kubernetes, Linux, CI/CD, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Load Testing, Fuzz Testing, Locust]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10433034'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:20:13.732053'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

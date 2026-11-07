@@ -1,0 +1,54 @@
+company:
+  name: NielsenIQ
+  stage: null
+  focus: Consumer intelligence and market research analytics
+position:
+  title: Lead AI & Automation Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered solutions including prompt
+      design, grounding, evaluation, and safe use of model
+      outputs, which is directly shaping model behaviour. LLM
+      components are central (extraction, summarization, RAG), so
+      it is ai-first.
+  responsibilities:
+  - Assess existing legacy Innovation reports and processes to identify automation
+    opportunities
+  - Prioritize automation opportunities based on business value, feasibility, and
+    risk
+  - Develop Python-based automations, data-processing workflows, APIs, and scheduled
+    solutions
+  - Build LLM-powered solutions for extraction, summarization, classification, knowledge
+    retrieval, and recommendations
+  - Integrate solutions with existing tools, databases, APIs, and cloud services
+  - Deploy, monitor, and support solutions in production and create reusable components
+  - Drive user adoption and measure business improvements in effort, cycle time, and
+    quality
+  use_cases:
+  - Document extraction and summarization from legacy BASES reports
+  - Text classification and knowledge retrieval
+  - Recommendation generation for Innovation workflows
+  - Automation of repetitive operational processes and reports
+  - Scheduled data-processing and reporting pipelines
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [REST APIs, Microservices]
+    cloud: [Azure, Azure OpenAI]
+    data: [Pandas, Polars, Data Modeling]
+    ml: []
+    databases: [Vector Databases, Semantic Search, NoSQL]
+    genai: [LLMs, Prompt Engineering, LLM Evaluation, RAG, LangChain]
+    ops: [Git, Code Review, CI/CD, Terraform, Distributed Systems, Docker, Kubernetes,
+      Observability, Infrastructure as Code, GitHub Copilot]
+    other: [Pytest, Power Automate, Power BI, Pulumi, Event-Driven Architecture, Agile,
+      Responsible AI, Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11925222'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T13:59:01.785789'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

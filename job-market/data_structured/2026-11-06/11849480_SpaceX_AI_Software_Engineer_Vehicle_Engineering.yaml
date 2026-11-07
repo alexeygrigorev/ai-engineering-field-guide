@@ -1,0 +1,55 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: Space exploration and rocket development company
+position:
+  title: AI Software Engineer (Vehicle Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evals, benchmarks, automated graders, agent
+      training environments, and RL/reward functions for LLM/agent
+      systems — squarely shaping model behavior and output
+      quality. LLM/agent components are central, so it's ai-first.
+  responsibilities:
+  - Build AI systems and applications addressing engineering and business problems
+    with measurable success criteria
+  - Develop evals, benchmarks, and datasets to measure model and agent performance
+    and detect regressions
+  - Build automated graders and scoring methods, validating agreement with expert
+    judgments
+  - Create reproducible training and evaluation environments for agents (task definitions,
+    tools, feedback signals)
+  - Run experiments, establish baselines, and analyze failures to guide improvements
+  - Develop data preparation, augmentation, and synthetic data workflows for low-data
+    problems
+  - Operate reliable workloads with Docker and Kubernetes including isolation, logging,
+    and reproducibility
+  - Maintain deployed systems via testing, monitoring, evaluation, and operational
+    debugging
+  use_cases:
+  - Internal AI applications for vehicle engineering and business needs
+  - Tools and training environments for AI agents
+  - Machine learning systems with limited real-world data
+  - Evaluation and benchmarking of model and agent performance
+  - Agent integration with engineering tools and company data
+  skills:
+    genai: [AI Agents, LLM Evaluation, Fine-Tuning, RLHF]
+    ml: [PyTorch, Machine Learning, Reinforcement Learning, Synthetic Data Generation,
+      Model Evaluation]
+    web: [APIs]
+    databases: [Databases]
+    data: [Data Augmentation]
+    cloud: []
+    ops: [Docker, Kubernetes, Monitoring, Distributed Job Execution, Linux, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11849480'
+  location: Hawthorne, USA
+  extracted_at: '2026-11-06T13:23:09.936690'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,63 @@
+company:
+  name: CreatorIQ
+  stage: null
+  focus: Enterprise influencer/creator marketing platform
+position:
+  title: MLOps / DevOps Engineer – AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs, scales, and secures AI/ML infrastructure
+      (Databricks, SageMaker, model serving, monitoring) but never
+      shapes model behaviour - no prompt engineering, retrieval
+      design, or training. Model evaluation is explicitly
+      partnered with ML Engineering. Using AI coding tools to
+      boost DevOps productivity is also ai-support.
+  responsibilities:
+  - Support and maintain secure, scalable cloud infrastructure using Infrastructure
+    as Code (Terraform, Terragrunt, CloudFormation)
+  - Build and optimize CI/CD pipelines with GitLab CI/CD and Jenkins for application
+    and ML model deployments
+  - Operate and scale ML platform infrastructure including Databricks and SageMaker
+    clusters, jobs, pipelines, and model serving endpoints
+  - Manage production model-serving compute, provisioned throughput, and autoscaling
+    for high-throughput inference
+  - Maintain infrastructure-level monitoring for model drift, data quality, inference
+    performance, and serving health
+  - Deploy and secure infrastructure supporting AI and agentic products, including
+    MCP and agent integrations
+  - Implement observability, incident response, and root cause analysis using Prometheus,
+    Grafana, Coralogix, and CloudWatch
+  - Apply DevSecOps and cloud security best practices including IAM, encryption, and
+    vulnerability management
+  use_cases:
+  - ML model serving and inference infrastructure at production scale
+  - AI and agentic product infrastructure, including MCP and agent integrations
+  - Automated CI/CD deployment of applications and ML models
+  - Cloud security, compliance, and disaster recovery for AI infrastructure
+  - Observability and monitoring of ML pipeline and model serving health
+  skills:
+    languages: [Python, Bash]
+    domains: []
+    web: []
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, API Gateway, IAM, GCP, EKS]
+    data: [Databricks, Data Pipelines]
+    ml: []
+    databases: [SQL]
+    genai: [MCP, AI Agents]
+    ops: [Terraform, CloudFormation, Infrastructure as Code, CI/CD, GitLab CI, Jenkins,
+      Kubernetes, Docker, Helm, Linux, DevOps, DevSecOps, MLOps, Prometheus, Grafana,
+      CloudWatch, Monitoring, Model Deployment, Model Monitoring]
+    other: [FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11820448'
+  location: USA
+  locations:
+  - USA
+  - Los Angeles, USA
+  remote: true
+  extracted_at: '2026-11-06T13:18:30.128782'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

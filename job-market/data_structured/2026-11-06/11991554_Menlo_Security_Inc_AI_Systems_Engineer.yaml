@@ -1,0 +1,83 @@
+company:
+  name: Menlo Security Inc.
+  stage: null
+  focus: Browser and AI agent runtime security platform
+position:
+  title: AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds guardrails, continuous evaluation, and
+      regression gates that judge SLM detection quality, and
+      performs model quantization and batching optimization on
+      Small Language Models - all of which shape model
+      behavior/output quality with an LLM (SLM) component, making
+      it ai-first. Serving infrastructure alone would be ai-
+      support, but the explicit ownership of guardrails, automated
+      evals, and quantization tips it into shaping.
+  responsibilities:
+  - Architect and optimize production serving pipelines for Small Language Models
+    and traditional ML models using quantization, batching, and GPU acceleration
+  - Own and scale backend microservices delivering real-time threat detection (prompt
+    injection, document detection)
+  - Build consumption-based monitoring, tenant rate-limiting, and runtime guardrail
+    infrastructure
+  - Manage and optimize GPU cluster replicas on Kubernetes to minimize cold-start
+    times and infrastructure costs
+  - Build continuous evaluation, automated retraining pipelines, model CI/CD, and
+    automated regression gates
+  - Refactor legacy service boundaries, service-to-service auth flows, and backend
+    database configurations
+  use_cases:
+  - Real-time prompt injection detection for browser and AI agent security
+  - Content and intent classification for threat detection
+  - Securing AI agents at runtime (Agent Runtime Security)
+  - Document and data-loss-pretection (DLP/PII) filtering
+  skills:
+    languages: [Python, Go, C++]
+    domains: []
+    web: [Microservices]
+    cloud: [AWS, GCP, Vertex AI]
+    data: []
+    ml: [Quantization, ONNX Runtime, Model Deployment]
+    databases: [Databases]
+    genai: [Guardrails]
+    ops: [TensorRT, vLLM, Triton, Kubernetes, CI/CD, MLOps, LLMOps, Terraform, Linux]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11991554'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T14:20:21.456474'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Crewmeister
+  stage: null
+  focus: Workforce management and time-tracking SaaS software
+position:
+  title: Backend Software Engineer - AI/ML (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, AI agents, and retrieval-based
+      solutions into production and builds evaluation, monitoring,
+      and observability for AI-powered features — designing
+      retrieval and judging model output quality is shaping an LLM
+      system, making it ai-first. Explicitly not an ML research
+      role, but the GenAI integration work dominates the AI
+      responsibilities.
+  responsibilities:
+  - Design, build, and operate backend services and APIs powering AI-driven and traditional
+    product capabilities
+  - Develop production software primarily in Java, secondarily in Python
+  - Own services end-to-end from architecture through deployment, monitoring, and
+    operations
+  - Integrate LLMs, AI agents, and retrieval-based solutions into production applications
+  - Build evaluation, monitoring, and observability capabilities for AI-powered features
+  - Contribute to CI/CD pipelines, deployment automation, and engineering best practices
+  - Ensure AI-powered systems are scalable, secure, and production-ready
+  - Troubleshoot complex production issues and collaborate with AI Engineers, Product
+    Owners, and Cloud Operations teams
+  use_cases:
+  - AI-driven capabilities for workforce management products
+  - Retrieval-based AI features in an enterprise SaaS platform
+  - Evaluation and monitoring of AI-powered product features
+  - Scalable backend infrastructure enabling AI functionality at enterprise scale
+  skills:
+    genai: [LLMs, AI Agents, RAG, LangChain, LangGraph, CrewAI, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Pinecone, Weaviate, Milvus, Chrom, pgvector, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP, EKS, AKS]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, Monitoring, Observability, Distributed
+        Systems]
+    languages: [Java, Python]
+    domains: []
+    other: [SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11962573'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:12:15.905081'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

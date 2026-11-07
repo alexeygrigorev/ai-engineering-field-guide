@@ -1,0 +1,53 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global logistics and container shipping
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI applications and
+      intelligent workflows using AI agents to automate business
+      processes, which is directly shaping agent behavior (Step 1,
+      LLM/agent component). Data pipeline work is present but the
+      AI application development is core to the role.
+  responsibilities:
+  - Design and build AI-powered and agentic AI applications using modern frameworks
+    and enterprise AI platforms
+  - Develop intelligent workflows using AI agents to automate business processes and
+    decision-making
+  - Build scalable data pipelines and data products to support AI and analytics use
+    cases
+  - Enable self-service data access and governed, reliable data consumption
+  - Develop scalable, secure backend services and APIs supporting AI and data applications
+  - Follow modern engineering practices including CI/CD, DevOps, testing, and observability
+  - Collaborate with Product, Data, Platform, and AI teams on end-to-end solutions
+    and SAP/non-SAP integrations
+  - Monitor, troubleshoot, and improve reliability and performance of AI and data
+    solutions
+  use_cases:
+  - Agentic AI applications automating business processes and decision-making
+  - Enterprise self-service analytics and AI-driven decision-making
+  - Cross-platform end-to-end supply chain visibility
+  - Data products supporting AI and analytics use cases
+  - Backend services and integrations across SAP and non-SAP systems
+  skills:
+    languages: [Python, Java, SQL]
+    domains: []
+    web: [APIs, Microservices]
+    cloud: [Azure]
+    data: [Data Pipelines]
+    ml: []
+    databases: []
+    genai: [AI Agents]
+    ops: [Distributed Systems, CI/CD, DevOps]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11326194'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T11:30:34.903357'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

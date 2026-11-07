@@ -1,0 +1,58 @@
+company:
+  name: TechAhead
+  stage: null
+  focus: |-
+    Digital transformation and bespoke software development
+    services
+position:
+  title: Senior Full Stack AI Developer - MERN
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI/GenAI features themselves,
+      including prompt engineering, RAG solutions with vector
+      databases, and evaluating LLM responses - directly shaping
+      LLM behavior. It also explicitly distinguishes this from
+      merely consuming AI tools.
+  responsibilities:
+  - Design, develop, and maintain scalable MERN stack healthcare applications
+  - Design and implement Epic EHR/EMR integrations using FHIR, HL7, SMART on FHIR,
+    and Epic App Orchard APIs
+  - Build AI/GenAI features such as summarization, intelligent search, knowledge assistants,
+    and NL interfaces
+  - Develop and optimize prompts and build RAG solutions using vector databases
+  - Evaluate AI-generated responses for accuracy, reliability, relevance, and safety
+  - Implement healthcare security and HIPAA compliance, protecting PHI/PII with OAuth
+    2.0, JWT, and RBAC
+  - Design scalable REST APIs and integration services, including async/event-driven
+    workflows
+  - Troubleshoot production issues, optimize performance, and participate in deployments
+    and code reviews
+  use_cases:
+  - Clinical and document summarization for healthcare applications
+  - Intelligent search and knowledge assistants over clinical data
+  - Natural-language interfaces and content generation
+  - Intelligent classification and data extraction
+  - AI-powered workflow automation in healthcare
+  - Epic EHR/EMR integration and healthcare data interoperability via FHIR/HL7
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, OpenAI API, Embeddings, Vector Databases,
+      LLM Evaluation, LangChain, LangGraph, Semantic Kernel, AI Agents]
+    ml: []
+    web: [Express.js, React, REST APIs, OAuth, Microservices]
+    databases: [MongoDB, Vector Search, PostgreSQL, MySQL, SQL Server, Pinecone, Weaviate]
+    data: []
+    cloud: [Azure OpenAI, Azure, AWS]
+    ops: [Docker, CI/CD]
+    languages: [Node.js, JavaScript, TypeScript]
+    domains: []
+    other: [Epic EHR/EMR, FHIR, HL7, SMART on FHIR, Epic App Orchard, HIPAA Compliance,
+      JWT, RBAC, Event-Driven Architecture, Responsible AI, OWASP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11348650'
+  location: Noida, IND
+  extracted_at: '2026-11-06T11:33:46.141365'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

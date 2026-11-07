@@ -1,0 +1,53 @@
+company:
+  name: Gilead Sciences
+  stage: null
+  focus: |-
+    Biopharmaceutical company developing therapies for serious
+    diseases
+position:
+  title: Fullstack AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and integrates LLM-powered solutions, RAG
+      architectures, and AI agents directly, which is shaping
+      model behaviour via retrieval and agent design. LLM
+      components are involved, so it is ai-first despite the full-
+      stack title.
+  responsibilities:
+  - Own end-to-end development of enterprise-grade full-stack applications with embedded
+    AI/ML and Generative AI capabilities
+  - Design, build, and maintain front-end applications, back-end services, APIs, databases,
+    and cloud-native platforms
+  - Develop and integrate LLM-powered solutions, RAG architectures, AI agents, ML
+    models, and intelligent automation workflows
+  - Engineer secure, scalable microservices and distributed systems
+  - Partner with product managers, data scientists, architects, and business stakeholders
+    on technical solutions
+  - Build and support CI/CD pipelines, cloud deployments, infrastructure automation,
+    and observability
+  - Provide technical leadership and mentoring while staying hands-on in architecture
+    and delivery
+  use_cases:
+  - Enterprise digital products with embedded AI capabilities
+  - LLM-powered solutions and intelligent automation for business-critical applications
+  - Data-intensive analytics-driven enterprise platforms in pharma/healthcare
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: [Databases, Vector Databases]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [CI/CD, Observability, MLOps, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Automated Testing, Secure Coding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12093224'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:56:30.418680'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

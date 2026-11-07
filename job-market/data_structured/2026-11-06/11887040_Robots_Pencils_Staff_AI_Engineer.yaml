@@ -1,0 +1,53 @@
+company:
+  name: Robots & Pencils
+  stage: null
+  focus: Digital consultancy building AI systems for enterprises
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic systems, RAG pipelines (chunking,
+      embeddings, vector DBs, retrieval), and builds LLM
+      evaluation frameworks and guardrails themselves, which is
+      directly shaping LLM behavior and output quality.
+  responsibilities:
+  - Lead design and implementation of complex AI/ML systems end-to-end, from research
+    through production at scale
+  - Build scalable ML platforms, pipelines, and infrastructure supporting repeatable
+    model development and deployment
+  - Define AI architecture and engineering standards, including responsible AI practices
+  - Design and ship complex agentic systems in production environments
+  - Build evaluation frameworks and observability tooling for LLM applications
+  - Partner with product, engineering, and leadership to shape AI strategy
+  - Mentor and grow junior and mid-level engineers through coaching, code reviews,
+    and pairing
+  - Own ambiguous, high-stakes work driving it through to production with care for
+    reliability, cost, and safety
+  use_cases:
+  - Enterprise AI system integration into real business workflows
+  - Production agentic systems for clients
+  - RAG-based enterprise knowledge retrieval
+  - LLM application reliability, safety, and cost optimization
+  - AI-assisted engineering workflow adoption
+  skills:
+    genai: [Generative AI, Agentic Workflows, RAG, Embeddings, Vector Databases, LLM
+        Evaluation, Prompt Engineering, Claude Code, Cursor]
+    ml: [Quantization, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Docker, Kubernetes, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887040'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:38:30.656184'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

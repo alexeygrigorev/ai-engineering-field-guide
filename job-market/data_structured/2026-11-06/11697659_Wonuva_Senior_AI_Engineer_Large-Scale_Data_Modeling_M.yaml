@@ -1,0 +1,55 @@
+company:
+  name: Wonuva
+  stage: null
+  focus: AI-powered data-driven e-commerce products
+position:
+  title: Senior AI Engineer – Large-Scale Data Modeling & Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, evaluates, and deploys ML models
+      including LLMs, RAG, and AI agents themselves, shaping model
+      behavior and output quality. Because LLM/GenAI components
+      are named responsibilities alongside classical ML, it is ai-
+      first.
+  responsibilities:
+  - Design, develop, and deploy AI and ML models using large-scale datasets
+  - Build and optimize data models to extract insights from complex structured and
+    unstructured data
+  - Develop ML pipelines covering data collection, preprocessing, feature engineering,
+    training, validation, and deployment
+  - Develop recommendation systems, personalization engines, forecasting models, and
+    intelligent automation solutions
+  - Implement generative AI, LLMs, and RAG solutions where appropriate
+  - Integrate AI models into production applications and APIs with backend and product
+    teams
+  - Monitor model performance, accuracy, drift, and reliability in production
+  - Establish best practices for model evaluation, experimentation, reproducibility,
+    and version control
+  use_cases:
+  - E-commerce product recommendations and personalization
+  - Demand forecasting and predictive analytics
+  - Customer segmentation and product discovery
+  - Intelligent automation from large-scale data
+  - Retrieval-augmented generation with LLMs
+  skills:
+    genai: [LLMs, RAG, AI Agents, Generative AI]
+    ml: [scikit-learn, PyTorch, TensorFlow, Machine Learning, Feature Engineering,
+      Model Evaluation, Deep Learning, Transformers, Embeddings, Fine-Tuning]
+    web: [APIs]
+    databases: [Relational Databases, Vector Databases]
+    data: [Pandas, NumPy, Spark, Databricks, Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Model Monitoring, Docker, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11697659'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:38:23.475021'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

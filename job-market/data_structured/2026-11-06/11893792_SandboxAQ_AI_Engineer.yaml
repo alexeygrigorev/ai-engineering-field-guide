@@ -1,0 +1,54 @@
+company:
+  name: SandboxAQ
+  stage: null
+  focus: |-
+    AI solutions using quantitative models across science,
+    finance, security
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic frameworks including monitoring,
+      guardrails, evaluation, and red teaming of agents, directly
+      shaping agent behaviour and output quality. It also includes
+      fine-tuning models, but the LLM/agent component dominates,
+      so ai-first.
+  responsibilities:
+  - Create new agentic capabilities including frameworks for monitoring, guardrails,
+    and evaluating agents
+  - Make agents work effectively on their own, in teams, and with humans through shared
+    context
+  - Perform classical ML tasks including exploratory data analysis, feature engineering,
+    and fine-tuning models
+  - Translate AI research into applicable features and software engineering projects
+    with Product and Research
+  - Rapidly iterate on prototypes and features based on feedback and evolving product
+    needs
+  - Contribute production-ready code, delivering scalable software across engineering
+  - Explore new opportunities in the latest agentic developments
+  use_cases:
+  - 'Agent security: discovery, evaluation, red teaming, monitoring, and guardrails'
+  - Measuring ROI of agents and suggesting improvements
+  - Human-agent collaboration with shared context
+  - Safe and reliable agentic AI in production
+  skills:
+    genai: [Agentic Workflows, Guardrails, AI Agents]
+    ml: [Machine Learning, Feature Engineering, Fine-Tuning, Exploratory Data Analysis]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893792'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:49:19.883156'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

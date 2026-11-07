@@ -1,0 +1,62 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: AI Quality Engineer, Safety and RAG - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and executes evaluations of LLM output
+      quality — RAG faithfulness/groundedness evals (RAGAS,
+      TruLens, DeepEval), prompt regression suites, red-teaming,
+      and guardrail/output-quality testing — which is shaping
+      model behaviour. LLMs and agents are the target, so ai-
+      first.
+  responsibilities:
+  - Design and execute end-to-end test strategies for agentic AI pipelines, including
+    single-agent and multi-agent workflows
+  - 'Validate RAG pipelines end to end: ingestion, chunking, embedding, retrieval,
+    reranking, and generation quality'
+  - Conduct red-teaming and adversarial testing for prompt injection, jailbreaks,
+    and unsafe model behaviour
+  - Build automated test harnesses and evaluation pipelines integrated into CI/CD
+    for continuous model and agent validation
+  - Perform load, stress, and performance testing for AI APIs, inference endpoints,
+    and vector databases; define SLOs/SLAs
+  - Evaluate models for bias, fairness, PII leakage, and privacy compliance (GDPR,
+    CCPA, OWASP LLM Top 10)
+  - Create data quality frameworks for training, retrieval, and inference data
+  - Collaborate with cybersecurity and MLOps teams on threat modeling, observability,
+    and monitoring of production AI systems
+  use_cases:
+  - Quality assurance for autonomous multi-agent AI systems in banking risk technology
+  - RAG pipeline validation including retrieval accuracy and response groundedness
+  - 'AI safety: prompt injection, jailbreak, bias, PII leakage, and guardrail testing'
+  - Continuous automated evaluation of LLM and agent behaviour across versions
+  - Performance, reliability, and cost-efficiency engineering for production AI services
+  skills:
+    genai: [RAG, AI Agents, Agentic Workflows, Multi-Agent Systems, AutoGen, CrewAI,
+      LangGraph, LLMs, Embeddings, Prompt Engineering, MCP, Guardrails, RLHF, LLM
+        Evaluation, ReAct, Chain-of-Thought, Constitutional AI]
+    ml: [Fine-Tuning, Model Evaluation, AI Fairness 360, Aequitas]
+    web: []
+    databases: [Vector Databases]
+    data: [Great Expectations, Data Quality, RAGAS, TruLens, DeepEval]
+    cloud: []
+    ops: [CI/CD, MLOps, Monitoring, Observability]
+    languages: []
+    domains: []
+    other: [Red-Teaming, OWASP LLM Top 10, Chaos Engineering, Load Testing, Test Automation,
+      GDPR, CCPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048548'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-11-06T14:39:51.911403'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

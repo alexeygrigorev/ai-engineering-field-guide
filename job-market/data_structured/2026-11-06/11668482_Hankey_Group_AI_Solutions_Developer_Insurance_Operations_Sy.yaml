@@ -1,0 +1,55 @@
+company:
+  name: Hankey Group
+  stage: null
+  focus: Insurance and financial services group
+position:
+  title: AI Solutions Developer – Insurance Operations & Systems Integration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding assistants and low-code platforms as
+      tools to build internal applications, integrations, and
+      workflow automations. There is no evidence of shaping model
+      behavior through prompts, RAG, fine-tuning, or evals — the
+      AI is a development aid, not the product, so the role is ai-
+      support.
+  responsibilities:
+  - Build internal web applications, dashboards, reporting tools, and workflow automations
+    using AI-assisted development tools
+  - Prototype and deploy proof-of-concept applications for operational needs
+  - Develop lightweight web interfaces for internal and external users
+  - Connect internal insurance systems, databases, and third-party platforms through
+    APIs and middleware
+  - Build integrations for rating, billing, claims, CRM, reporting, data warehouse,
+    and analytics systems
+  - Work with external IT companies and vendors to validate integrations and data
+    flow
+  - Review insurance manuals, underwriting guidelines, and rating algorithms to understand
+    business logic
+  - Perform QA and validate internally developed software and vendor solutions before
+    production release
+  use_cases:
+  - Underwriting and rating workflow automation
+  - Claims and billing system integration
+  - FNOL intake and claims triage systems
+  - Operational reporting and analytics dashboards
+  - Enterprise systems integration across rating, billing, CRM, and data warehouse
+  skills:
+    genai: [AI Coding Assistants]
+    ml: []
+    web: [Web Application Development, APIs, React, Full-Stack Development]
+    databases: [SQL]
+    data: [Reporting and Analytics]
+    cloud: [Cloud Platforms, SaaS Applications]
+    ops: [Workflow Automation]
+    languages: [Python, JavaScript, Node.js]
+    domains: []
+    other: [Low-Code Platforms]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11668482'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:29:53.684996'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

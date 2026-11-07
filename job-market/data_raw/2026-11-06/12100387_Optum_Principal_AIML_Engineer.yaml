@@ -1,0 +1,179 @@
+job_id: 12100387
+title: Principal AI/ML Engineer
+company: Optum
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2399722 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. Primary Responsibilities:
+
+  - Design, code, test, debug, document and maintain the
+    services that make up the AI platform and agent runtime,
+    taking systems from design review through production
+    operation and long-term support
+  - Design the public surface of the platform - APIs, SDKs,
+    client libraries, schemas and versioning strategy - so
+    that internal teams, client engineering teams and external
+    builders can integrate without bespoke work for each
+    consumer
+  - Build the Capability Gateway: implement Model Context
+    Protocol (MCP) servers and tool interfaces with typed
+    contracts, authentication and authorization, input and
+    output validation, quota and rate limiting, audit logging,
+    and an automated conformance test suite that new
+    capabilities must pass
+  - Build and operate the agent harness and runtime:
+    orchestration and tool-calling execution, state and
+    session management, retrieval paths, concurrency, queuing
+    and retries, timeout and failure handling, idempotency,
+    and graceful degradation under partial outage
+  - Establish engineering standards, methods and tooling for the
+    portfolio: coding standards, code review practice,
+    branching and release strategy, CI/CD pipelines,
+    infrastructure as code, environment management, and
+    automated testing at unit, contract, integration and end-
+    to-end levels
+  - Engineer the platform for cost and scale, including
+    inference routing across models, caching, batching,
+    connection and resource pooling, capacity planning, and
+    per-tenant cost telemetry that ties spend to completed
+    work
+  - Code and deploy the ML and LLM components of the platform
+    into production: model and prompt serving, retrieval and
+    embedding pipelines, adapters and fine-tuned variants, and
+    the deployment mechanics behind them including canary,
+    shadow and rollback paths
+  - Implement AI/ML capabilities in support of healthcare
+    workflows, which may include natural language processing
+    and understanding, semantic search, intent classification,
+    information extraction, document AI and computer vision,
+    and automatic speech recognition applied to clinical
+    notes, claims, faxes, referrals, prior authorizations and
+    recorded encounters
+  - Build the evaluation and experimentation infrastructure the
+    platform depends on: golden datasets, task-level
+    benchmarks, offline and online evals, human-in-the-loop
+    review workflows, regression gates wired into CI, and
+    experiment tooling with defensible statistical treatment
+    of results
+  - Work with large-scale computing frameworks and data analysis
+    systems to build the data foundation behind agent
+    capabilities, including distributed processing, feature
+    and vector stores, streaming ingestion, schema evolution
+    and lineage Engineer for PHI from the first commit: data
+    minimization and de-identification, tenant isolation,
+    encryption in transit and at rest, secrets management,
+    retention and access controls, and enforcement that keeps
+    agent behavior inside approved data and action boundaries
+  - Evaluate new tools, techniques and strategies - models,
+    frameworks, orchestration approaches, serving stacks -
+    with enough rigor to make a build, buy or adopt
+    recommendation, and communicate the results and trade-offs
+    to leadership and internal stakeholders
+  - Partner across Platform Enablement, product management,
+    design, security, privacy and legal, forward-deployed
+    engineering, operations and external partners such as
+    Azure and Databricks on one integrated backlog with
+    explicit interfaces and SLOs
+  - Raise the engineering bar through reference implementations,
+    reusable libraries, design review participation, code
+    review and technical mentorship, and influence thought and
+    leadership on where the platform should go next
+  - Comply with all applicable Company policies, procedures, and
+    business directives, changes including those relating to
+    work location, team assignments, work schedules, and
+    flexible work arrangements
+
+  You'll be rewarded and recognized for your performance in an
+  environment that will challenge you and give you clear
+  direction on what it takes to succeed in your role as well
+  as provide development for other roles you may be interested
+  in.  Required Qualifications:
+
+  - Bachelor's degree in computer science, engineering or a
+    related technical field, or equivalent experience
+  - 10+ years of professional software engineering experience
+    building and operating production systems
+  - 5+ years of experience designing distributed services and
+    platform-level APIs consumed by other engineering teams
+  - Hands-on experience with LLM-based or agentic systems,
+    including retrieval-augmented generation, tool and
+    function calling, and orchestration
+  - Expert-level proficiency in Python and at least one
+    additional production language such as Java, TypeScript,
+    Scala or C++
+  - Demonstrated depth in software engineering fundamentals:
+    testing strategy, debugging complex production issues,
+    performance profiling, code review and technical
+    documentation
+  - Experience with cloud-native delivery, including containers
+    and Kubernetes, CI/CD, infrastructure as code, and
+    observability tooling
+  - Experience with large-scale computing frameworks and
+    distributed data processing such as Spark/Databricks, Ray,
+    Kafka or equivalent
+  - Experience building software subject to security, privacy or
+    regulatory constraints
+  - Demonstrated ability to explain complex technical results
+    and trade-offs clearly to non-technical stakeholders and
+    senior leaders
+
+  Preferred Qualifications:
+
+  - Experience building multi-tenant platforms or services,
+    including tenant isolation, quota and entitlement
+    enforcement, and developer experience as an explicit
+    product concern
+  - Experience implementing or operating Model Context Protocol
+    (MCP) servers, tool-calling standards, or agent frameworks
+    such as LangGraph or equivalent
+  - Experience with vector databases, embedding lifecycle
+    management, hybrid retrieval and enterprise knowledge
+    graphs
+  - Experience with inference cost management or FinOps for AI
+    workloads
+  - Experience with responsible AI practice, including bias and
+    fairness evaluation, model risk management, model
+    documentation, or alignment to frameworks such as the NIST
+    AI Risk Management Framework
+  - Experience on a 0-to-1 product or platform, working directly
+    with design partners or customers to shape what gets built
+  - Experience with Azure AI services and Databricks in a
+    regulated enterprise environment
+  - Health care industry experience including provider, payer,
+    medical device, pharmaceutical, or other health services a
+    plus
+
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone - of every race, gender,
+  sexuality, age, location and income - deserves the
+  opportunity to live their healthiest life. Today, however,
+  there are still far too many barriers to good health which
+  are disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-11-05
+url: "https://builtin.com/job/principal-ai-ml-engineer/12100387"
+source: Built In

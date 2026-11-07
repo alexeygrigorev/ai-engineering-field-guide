@@ -1,0 +1,51 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and consulting
+position:
+  title: Global Tech - Software Developer with AI, Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role applies "AI fluency" and delivers AI-enabled
+      software solutions but never shapes model behaviour through
+      prompts, retrieval, agents, training, or evals. It's a
+      general software engineering management role where AI is a
+      context, not the deliverable.
+  responsibilities:
+  - Lead software engineering workstreams for client support and internal technology
+    initiatives
+  - Develop and review application code, design patterns, and architecture across
+    web, mobile, and enterprise platforms
+  - Guide teams through project planning, budgeting, delivery timelines, and issue
+    resolution
+  - Apply AI fluency to shape software solutions and automation in development activities
+  - Oversee code review, testing, debugging, and release activities
+  - Translate business requirements into technical specifications and development
+    tasks
+  - Improve software delivery through CI/CD pipelines and version control practices
+  - Coach team members and manage client expectations across stakeholders
+  use_cases:
+  - AI-enabled software solutions for clients
+  - Digital transformation and application development
+  - Automation in software development activities
+  - Enterprise web and mobile application delivery
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [CI/CD, Application Lifecycle Management]
+    languages: [Python, Java, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '12087755'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:53:00.545688'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Pentland Brands
+  stage: null
+  focus: Global family business behind active and lifestyle brands
+position:
+  title: Azure AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops intelligent agents, generative
+      AI apps, and RAG architectures including prompt engineering,
+      embeddings, fine-tuning, and multi-step agent orchestration,
+      directly shaping LLM behavior. This is clearly ai-first.
+  responsibilities:
+  - Design, develop, deploy and enhance production-grade AI solutions including intelligent
+    agents, generative AI applications and ML pipelines
+  - Own ongoing enhancement and operational support of AI agent solutions including
+    defect resolution and deployments
+  - Provide BAU support and enhancement delivery for production APIs on Azure, covering
+    incident investigation and root-cause analysis
+  - Provide Azure platform operational support across App Service, Azure SQL Database,
+    Storage Accounts and managed identities
+  - Administer and support Azure SFTP including users, permissions and connectivity
+    troubleshooting
+  - Support deployment and release processes including environment configuration,
+    validation and rollback
+  - Monitor application and platform health using App Service logs and Application
+    Insights with root-cause analysis
+  - Collaborate with cross-functional stakeholders to translate requirements into
+    reliable solutions
+  use_cases:
+  - Intelligent agents solving real business problems across brands
+  - Generative AI applications for decision-making enhancement
+  - Machine learning pipelines at scale on Azure
+  - Production API operational support on Azure
+  - Similarity search and RAG pipelines for information retrieval
+  skills:
+    genai: [Prompt Engineering, RAG, Embeddings, Fine-Tuning, LLMs, Google ADK, LangChain,
+      LangGraph, Agentic Workflows, AI Agents]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [REST APIs, gRPC, FastAPI, Flask]
+    databases: [Vector Databases, Pinecone, Weaviate, Chroma, Qdrant, FAISS]
+    data: [Airflow, Prefect]
+    cloud: [Azure]
+    ops: [MLOps, CI/CD, MLflow, Kubeflow, Weights & Biases, Docker, Kubernetes, Git]
+    languages: [Python, .NET, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11679653'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:34:46.299501'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

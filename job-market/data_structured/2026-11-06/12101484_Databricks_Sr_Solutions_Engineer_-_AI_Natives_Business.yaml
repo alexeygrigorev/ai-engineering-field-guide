@@ -1,0 +1,49 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Unified data and AI platform for analytics and AI apps
+position:
+  title: Sr. Solutions Engineer - AI Natives Business
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales solutions engineer role that consults on
+      big data architectures and builds proof of concepts on the
+      Databricks platform. The role does not shape model
+      behaviour—no prompt engineering, RAG design, fine-tuning, or
+      evals are described—so it is ai-support.
+  responsibilities:
+  - Partner with sales team to provide technical leadership to customers
+  - Consult on Big Data architectures and implement proof of concepts for strategic
+    projects
+  - Validate integrations with cloud services, homegrown tools, and third-party applications
+  - Collaborate with Solutions Architects and customer-facing teams to develop architectures
+    and solutions
+  - Guide customers through competitive landscape, best practices, and implementation
+  - Promote and recruit contributors for Databricks open-source projects (Spark, Delta
+    Lake, MLflow)
+  use_cases:
+  - Big data architecture consulting and proof of concepts
+  - Data engineering, data science, and machine learning workflows
+  - SQL analysis workflows
+  - Cloud service and third-party application integrations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Spark, Delta Lake, Data Engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12101484'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:01:22.995906'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

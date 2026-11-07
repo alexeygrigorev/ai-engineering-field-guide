@@ -1,0 +1,53 @@
+company:
+  name: CircuitHub
+  stage: null
+  focus: Robotics-driven on-demand electronics manufacturing platform
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM agents that autonomously run factory and
+      back-office processes, designing agent flows, tools,
+      prompts, and evals — direct model-behavior shaping with
+      LLM/agent components, hence ai-first.
+  responsibilities:
+  - Automate manual processes end-to-end with AI agents, deciding what needs model
+    judgement vs plain code
+  - Build the tools agents use and prove reliability before autonomous operation
+  - 'Build evals: blind tests, shadow runs, replays tracking accuracy and cost per
+    run'
+  - Improve the platform every agent runs on
+  - Continuously make agents cheaper, faster, and more accurate
+  - Work closely with stakeholders from factory operators to finance
+  use_cases:
+  - Automated visual inspection of circuit boards for wrong, rotated or missing parts
+  - Agents programming pick-and-place robots by reading datasheets
+  - 'Factory monitoring: stray parts detection, printer fault diagnosis, clearing
+    stuck machines'
+  - 'Back-office automation: invoice booking, order chasing, quote explanation, bug
+    triage'
+  - Agent-driven code generation for the team's shipped code
+  skills:
+    genai: [Claude Code, Codex, Anthropic API, OpenAI API, MCP, LLMs, AI Agents]
+    ml: [OpenCV]
+    web: [React, FastAPI]
+    databases: [PostgreSQL]
+    data: [Dagster]
+    cloud: [AWS]
+    ops: [Terraform, OpenTelemetry, Nomad, Vault, Nix]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11747002'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Cambridge, GBR
+  remote: true
+  extracted_at: '2026-11-06T12:45:43.006872'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

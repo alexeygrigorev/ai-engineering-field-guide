@@ -1,0 +1,55 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior AI Engineer - Wholesale Credit Risk Analytics -  Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds an agentic AI platform with LLM
+      orchestration, RAG, prompt engineering, and tool integration
+      - clearly shaping LLM behavior, so ai-first. It also leads a
+      team of developers and partners with stakeholders.
+  responsibilities:
+  - Collaborate with quantitative model developers, Model Risk Management, and business
+    leaders to define the technical vision and product roadmap
+  - Identify, scope, and prioritize use cases for the agentic workflow platform
+  - Lead architectural design of a scalable agentic AI platform including orchestration,
+    RAG-based knowledge retrieval, and tool integration
+  - Engage in hands-on development of foundational components, proofs-of-concept,
+    and complex technical challenges
+  - Design secure integrations with internal data sources, external APIs, and LLMs
+    in compliance with data governance policies
+  - Establish CI/CD, testing, logging, and monitoring frameworks for the platform
+  - Lead, mentor, and manage a team of software engineers, guiding architecture and
+    delivery
+  use_cases:
+  - Augmenting quantitative credit risk modelers' productivity across the model development
+    lifecycle
+  - Agentic workflows for ad hoc data analysis and documentation
+  - Workflow orchestration for credit risk model development and governance
+  - Knowledge retrieval over internal risk and model documentation
+  skills:
+    genai: [LangChain, LLMs, Prompt Engineering, RAG, Agentic Workflows, AI Agents,
+      Generative AI]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Event-Driven Architecture, System Design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11382131'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Jersey City, USA
+  extracted_at: '2026-11-06T11:38:26.371087'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

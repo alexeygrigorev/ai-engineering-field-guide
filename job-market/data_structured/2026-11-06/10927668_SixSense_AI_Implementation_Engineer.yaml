@@ -1,0 +1,52 @@
+company:
+  name: SixSense
+  stage: null
+  focus: AI-powered visual inspection for semiconductor manufacturing
+position:
+  title: AI Implementation Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model output quality by curating training
+      data, defining defect classes, and analyzing model errors
+      for a computer-vision defect inspection system, with no LLM
+      or agent component. This is classical ML (CV) work, so it is
+      ml-first. The role is also customer-facing, owning customer
+      projects end to end.
+  responsibilities:
+  - Discover customer pain points and define measurable success criteria for AI projects
+  - Plan data requirements and define defect classes with labelling guidelines
+  - Select representative training samples and improve data quality on the SixSense
+    AI platform
+  - Train models, run structured experiments, and analyze model errors image by image
+  - Validate model performance against agreed criteria using confusion matrices and
+    yield metrics
+  - Deploy models to customer servers or cloud and monitor live performance
+  - Automate data extraction and validation with SQL and Python
+  - Present results to customers, own customer communication, and drive product feedback
+    internally
+  use_cases:
+  - Visual defect detection on semiconductor production lines
+  - Quality inspection to prevent defects escaping to customers
+  - Reducing over-rejection of good dies in inspection
+  - Single defect models working across many devices
+  - Yield and quality metrics monitoring in manufacturing
+  skills:
+    genai: []
+    ml: [Model Training, Model Evaluation, Deep Learning, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10927668'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:23:12.297182'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

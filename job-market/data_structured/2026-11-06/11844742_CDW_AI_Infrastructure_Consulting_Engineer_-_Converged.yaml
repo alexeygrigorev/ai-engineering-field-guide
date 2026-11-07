@@ -1,0 +1,58 @@
+company:
+  name: CDW
+  stage: Fortune 500
+  focus: |-
+    Technology solutions and consulting for business,
+    government, education, healthcare
+position:
+  title: AI Infrastructure Consulting Engineer - Converged Compute & Storage
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role installs, configures, and supports GPU compute and
+      storage infrastructure that AI workloads run on; it never
+      shapes model behaviour, writes prompts, or designs training.
+      Serving/hosting infrastructure others use is ai-support even
+      though it names DGX, inference, and fine-tuning.
+  responsibilities:
+  - Design, implement, validate, and support high-performance compute and storage
+    infrastructure for AI/ML workloads
+  - Perform discovery, installation, configuration, migration, validation, benchmarking,
+    and troubleshooting in client environments
+  - Implement accelerated compute (GPU) and high-performance storage solutions for
+    AI training, fine-tuning, and inference
+  - Manage time and expense against Statement of Work deliverables and escalate scope,
+    schedule, or budget risks
+  - Collaborate with project managers, architects, sales, partners, and client stakeholders
+    on expectations and timelines
+  - Provide technical input for SOWs, ROMs, LOEs, and implementation plans
+  - Create and maintain project documentation, as-built configurations, test plans,
+    and client handoff materials
+  - Deliver knowledge transfer to clients
+  use_cases:
+  - Infrastructure for AI training and fine-tuning workloads
+  - Inference serving infrastructure
+  - High-performance data ingest and checkpointing for AI pipelines
+  - Model artifact management storage
+  - Enterprise AI/ML compute and storage deployment
+  skills:
+    genai: []
+    ml: [Fine-Tuning]
+    web: []
+    databases: [Object Storage, SMB]
+    data: []
+    cloud: []
+    ops: [NVIDIA DGX, GPU-Based Systems, Parallel File Systems, NVMe, NFS, Linux,
+      RDMA, GPUDirect Storage, Kubernetes, Slurm, Container Runtimes]
+    languages: []
+    domains: []
+    other: [NVIDIA AI Enterprise]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11844742'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:22:51.146683'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

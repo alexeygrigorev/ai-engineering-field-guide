@@ -1,0 +1,50 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductor and SoC design and manufacturing
+position:
+  title: Microarchitecture and Design Engineer - AI SoC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is RTL/microarchitecture design for an AI SoC —
+      writing SystemVerilog, closing timing/power, integrating
+      IPs. The person builds hardware that runs AI workloads but
+      never shapes a model's behavior (no prompts, RAG, training,
+      or evals). AI model knowledge is only listed as a preferred
+      learning interest.
+  responsibilities:
+  - Develop logic design, RTL coding, and simulation for SoC designs
+  - Define and implement architecture and microarchitecture features for logic blocks
+  - Perform quality checks across RTL, timing, power, and design integrity to meet
+    performance goals
+  - Optimize RTL logic for power, performance, area, and timing targets
+  - Collaborate with IP providers to integrate and validate IPs at the SoC level
+  - Review and contribute to verification plans and resolve RTL test failures
+  - Apply secure development practices to address security objectives in the design
+  - Drive quality assurance compliance for IP and SoC handoff throughout the design
+    flow
+  use_cases:
+  - AI SoC hardware design for edge devices
+  - AI SoC hardware design for data center accelerators
+  - Power, performance, and area optimization of AI accelerator logic blocks
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [SystemVerilog]
+    domains: []
+    other: [RTL Design, Microarchitecture, SoC Design, Timing Analysis, Power Optimization,
+      IP Integration, Secure Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11568853'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:12:43.748557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

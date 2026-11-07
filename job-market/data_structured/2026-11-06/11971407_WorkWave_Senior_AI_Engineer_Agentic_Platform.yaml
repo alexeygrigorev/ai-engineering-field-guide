@@ -1,0 +1,47 @@
+company:
+  name: WorkWave
+  stage: null
+  focus: Software for service businesses, in-product AI assistant
+position:
+  title: Senior AI Engineer, Agentic Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agents (agent engineering,
+      deployment, testing) on top of a semantic/serving layer,
+      which is shaping agent behaviour and output quality of an
+      LLM-based assistant. Although detailed bullets are missing,
+      the description explicitly frames the person as an owner of
+      agent engineering rather than a consumer of an API.
+  responsibilities:
+  - Turn customer decision needs into reliable in-product agents for the AskWaive
+    assistant
+  - Build endpoints, tools, and experiences on top of existing serving and semantic
+    layers
+  - Engineer, deploy, and test agents as part of end-to-end delivery
+  - Drive quality and coverage improvements for the live assistant
+  - Propose and drive changes to data platform or infrastructure when they limit agent
+    performance
+  use_cases:
+  - In-product AI assistant helping customers make job-related decisions
+  - Agents that improve customer effectiveness in service-business workflows
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11971407'
+  location: GBR
+  remote: true
+  extracted_at: '2026-11-06T14:14:12.819627'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

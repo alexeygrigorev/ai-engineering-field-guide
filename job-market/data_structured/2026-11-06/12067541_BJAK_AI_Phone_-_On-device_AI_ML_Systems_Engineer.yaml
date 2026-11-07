@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Building AI-native phones and proactive applications
+position:
+  title: AI Phone - On-device AI / ML Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior by evaluating and choosing
+      models, applying quantization/compression/distillation, and
+      optimizing on-device LLMs for quality and latency. LLM
+      components are explicitly involved (on-device LLMs, agent
+      runtime), making it ai-first.
+  responsibilities:
+  - Evaluate open-weight and commercial models for on-device execution
+  - Benchmark model performance on target mobile hardware
+  - Integrate models into Android applications and system services
+  - Optimize inference latency, memory consumption, and power usage
+  - Evaluate quantization, compression, and distillation techniques
+  - Build hybrid local/cloud model routing mechanisms
+  - Integrate local models into the AI agent runtime
+  use_cases:
+  - On-device AI for AI-native smartphones
+  - Proactive email, messaging, notes, tasks, and calendar applications
+  - Hybrid local/cloud inference for mobile workflows
+  - Low-power mobile AI agents
+  skills:
+    genai: [LLMs]
+    ml: [Quantization, Model Evaluation, Fine-Tuning, Neural Networks, TensorFlow
+        Lite, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python, C++]
+    domains: []
+    other: [Qualcomm QNN, MediaTek NeuroPilot, ONNX Runtime, ExecuTorch, Android NDK,
+      Edge AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12067541'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:47:00.300902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

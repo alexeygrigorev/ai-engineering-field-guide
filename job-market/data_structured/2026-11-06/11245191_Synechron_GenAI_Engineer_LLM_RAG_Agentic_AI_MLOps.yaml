@@ -1,0 +1,55 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: GenAI Engineer – LLM, RAG, Agentic AI & MLOps
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG systems, prompts, fine-tunes LLMs, and
+      builds agentic AI solutions, directly shaping model behavior
+      and output quality. LLMs and agents are central, so it is
+      ai-first.
+  responsibilities:
+  - Lead design, training, and deployment of LLMs and multimodal agents for enterprise
+    automation
+  - Develop scalable AI pipelines for real-time inference, retraining, and model monitoring
+    in cloud environments
+  - Build retrieval-augmented and knowledge-based AI systems
+  - Support prompt engineering, model evaluation, bias detection, and performance
+    tuning
+  - Automate deployment, versioning, and monitoring workflows supporting MLOps practices
+  - Conduct model validation, interpretability checks, and security assessments for
+    compliance
+  - Document model architecture, training, and deployment procedures for audit readiness
+  - Collaborate with data scientists, platform engineers, and business stakeholders
+  use_cases:
+  - Enterprise business process automation
+  - Knowledge management and retrieval-based insights
+  - Decision support for enterprise operations
+  - Multimodal AI systems handling text, images, and audio
+  - Model fairness and compliance monitoring in regulated environments
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, LangChain, Gemini, Llama]
+    ml: [PyTorch, TensorFlow, Fine-Tuning, Hugging Face, Deep Learning, Model Evaluation,
+      Feature Engineering, Model Training]
+    web: []
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11245191'
+  location: Location, USA
+  locations:
+  - Location, USA
+  - Bellandur, IND
+  extracted_at: '2026-11-06T11:28:06.507305'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

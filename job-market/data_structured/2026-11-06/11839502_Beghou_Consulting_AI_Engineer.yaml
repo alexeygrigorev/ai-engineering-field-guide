@@ -1,0 +1,52 @@
+company:
+  name: Beghou Consulting
+  stage: null
+  focus: Life sciences commercialization consulting and technology
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly through prompting,
+      retrieval, model selection, structured generation, and
+      building evaluations and safeguards for document-
+      understanding features. This is LLM-centric work, so it is
+      ai-first.
+  responsibilities:
+  - Build and ship AI features for document understanding, structured extraction,
+    and review workflows
+  - Develop pipelines combining language models with application logic, validation,
+    and human review
+  - Design evaluations using representative examples, labeled data, and quality measures
+  - Improve output quality through prompting, retrieval, model selection, and structured
+    generation
+  - Build safeguards for uncertain, incomplete, or conflicting inputs
+  - Integrate AI services into APIs, background jobs, and customer-facing applications
+  - Monitor quality, latency, and cost in production to guide improvements
+  - Document system behavior, limitations, and operational considerations
+  use_cases:
+  - Document understanding and structured extraction from unstructured business documents
+  - AI-assisted review workflows with human-in-the-loop validation
+  - Customer insights and engagement for life sciences commercialization
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, LLM Evaluation, Structured Outputs]
+    ml: [Model Evaluation]
+    web: [FastAPI]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: []
+    languages: []
+    domains: []
+    other: [OCR, Human-in-the-Loop Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11839502'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Hyderabad, IND
+  extracted_at: '2026-11-06T13:22:02.674142'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

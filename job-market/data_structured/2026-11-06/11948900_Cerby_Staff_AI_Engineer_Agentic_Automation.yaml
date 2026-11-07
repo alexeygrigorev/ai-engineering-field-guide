@@ -1,0 +1,57 @@
+company:
+  name: Cerby
+  stage: null
+  focus: |-
+    Enterprise identity automation and security for disconnected
+    applications
+position:
+  title: Staff AI Engineer, Agentic Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns LLM agents that onboard applications, repair
+      automations, design agent loops/tool use, build eval
+      benchmarks, and choose models — all direct shaping of LLM
+      agent behavior. There is no classical-ML-only component.
+  responsibilities:
+  - 'Own agentic onboarding and self-healing automation end to end: architecture,
+    roadmap, and on-call'
+  - Take existing agent systems to production on durable workflows (Temporal) with
+    observability
+  - Detect drift from failed runs before customers notice
+  - Build agents that diagnose, repair, and re-validate broken workflows or API specs
+  - Own benchmarks for generated specs, workflows, and repairs; own cost and latency
+    per output with model selection
+  - 'Own the security threat model: prompt injection, credential isolation, token
+    handling, sandboxed browsing, egress'
+  - Partner with integrations, automation-runtime, and platform teams; write design
+    docs and mentor contributors
+  use_cases:
+  - Generating validated OpenAPI specs from vendor API documentation via headless
+    browsing
+  - Automating SaaS web UI tasks (login, MFA, one-time codes, CAPTCHAs) into replayable
+    workflows
+  - Self-healing automation workflows when vendor sites or APIs change
+  - Automated onboarding of new applications onto the security platform
+  - Cost- and latency-controlled LLM agent execution at production scale
+  skills:
+    genai: [AI Agents, Function Calling, Structured Outputs, LLM Evaluation, Pydantic
+        AI]
+    ml: []
+    web: [Playwright, OpenAPI]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS, IAM]
+    ops: [Temporal, Distributed Systems, Terraform]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Chrome MV3 Extensions]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11948900'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:08:31.278930'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

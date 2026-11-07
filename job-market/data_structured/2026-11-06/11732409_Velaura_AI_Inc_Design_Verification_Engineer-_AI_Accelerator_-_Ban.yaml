@@ -1,0 +1,48 @@
+company:
+  name: Velaura AI, Inc.
+  stage: null
+  focus: Custom compute silicon for cloud, edge, and Physical AI
+position:
+  title: Design Verification Engineer- AI Accelerator - Bangalore
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a hardware design verification role for an AI
+      accelerator SoC. The person verifies correctness of RTL
+      blocks and compute engines; they do not shape model behavior
+      through prompts, retrieval, training, or evals - they verify
+      hardware. No LLM/agent component is involved, so ai-support.
+  responsibilities:
+  - Verify Velaura's next-generation Physical AI SoC, focusing on AI acceleration
+    units
+  - Own verification of custom compute engines delivering inference performance within
+    tight power envelopes
+  - Verify correctness, performance, reliability, and safety from individual RTL blocks
+    through full hardware/software systems running real workloads
+  - Validate numerical behavior of compute hardware in addition to protocol compliance
+  - Collaborate closely with architects, RTL engineers, software engineers, and system
+    teams
+  use_cases:
+  - AI inference acceleration for Physical AI workloads
+  - Compute engines for robots, autonomous systems, and drones
+  - Energy-efficient edge and cloud AI compute
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [RTL Verification, SoC Verification, AI Accelerators, Computer Architecture,
+      Numerical Verification]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11732409'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:44:25.688682'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Alcon
+  stage: null
+  focus: Eye care and MedTech devices/pharmaceuticals R&D
+position:
+  title: Principal, Data Science (Sr. AI Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG, AI agents, copilots, and
+      document-processing solutions, and works with prompt
+      engineering, vector databases, and model evaluation —
+      directly shaping LLM behavior and output quality.
+  responsibilities:
+  - Design and develop AI and Generative AI applications using AWS services and modern
+    AI frameworks
+  - Build RAG, AI agent, copilot, and intelligent document-processing solutions
+  - Develop secure, scalable APIs, microservices, and cloud-native applications
+  - Drive technical solution design, architecture reviews, rapid prototypes, and production
+    deployment
+  - Implement MLOps and GenAIOps practices including CI/CD, testing, monitoring, observability,
+    and governance
+  - Collaborate with R&D, Clinical, Regulatory, Quality, and Medical stakeholders
+    to translate business needs into AI solutions
+  use_cases:
+  - RAG-based knowledge retrieval and search across R&D content
+  - AI agents and copilots for MedTech R&D workflows
+  - Intelligent document processing for clinical, regulatory, and quality documents
+  - Generative AI applications for innovation acceleration across Alcon R&D
+  skills:
+    languages: [Python]
+    domains: []
+    web: [REST APIs, Microservices, FastAPI, Flask]
+    cloud: [AWS, AWS Bedrock, SageMaker, AWS Lambda, ECS, EKS, AWS S3, API Gateway]
+    data: [AWS Glue, Amazon Athena]
+    ml: [Model Evaluation, Multimodal AI]
+    databases: [OpenSearch, DynamoDB, Vector Databases, Knowledge Graphs, Amazon Neptune,
+      Neo4j]
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Generative AI, LangGraph, CrewAI,
+      AutoGen]
+    ops: [AWS Step Functions, Docker, Kubernetes, GitHub Actions, Terraform, CloudFormation,
+      CI/CD, MLOps, GenAIOps]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12071948'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:50:03.534833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: AppGate
+  stage: null
+  focus: Zero Trust Network Access security platform
+position:
+  title: Senior/Staff/Principal AI/ML Engineer - Agentic AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM-based systems: building agentic AI
+      security detections (prompt injection, agent drift
+      detection), leveraging agentic AI techniques for threat
+      investigation/remediation, and evaluating LLMs for anomaly
+      analysis. It mixes classical ML threat detection with
+      LLM/agent components, which is ai-first.
+  responsibilities:
+  - Build threat detection algorithms for identity compromise, privilege escalation,
+    impossible travel, and data exfiltration across telemetry
+  - Design explainable risk scoring and aggregation systems that drive adaptive access
+    enforcement decisions
+  - Build scalable, low-latency streaming pipelines processing ZTNA events in near
+    real time
+  - Define and implement security controls for autonomous AI agents including prompt
+    injection and agent drift detection
+  - Train, evaluate, and deploy ML models on identity and network telemetry, tuned
+    for production precision and recall
+  - Develop agentic AI-powered automated threat investigation and remediation workflows
+  use_cases:
+  - Real-time threat detection on ZTNA network and identity telemetry
+  - 'Identity threat detection: credential compromise, privilege escalation, insider
+    activity, data exfiltration'
+  - Dynamic risk scoring for adaptive access enforcement
+  - Security monitoring and threat detection for autonomous AI agents (prompt injection,
+    agent drift, data leakage)
+  - Automated threat investigation and remediation via agentic AI
+  skills:
+    genai: [AI Agents]
+    ml: [Machine Learning, Deep Learning, LLMs, Model Training, Model Evaluation,
+      Anomaly Detection]
+    web: []
+    databases: []
+    data: [Kafka, Flink, Spark, Apache Iceberg]
+    cloud: [SageMaker]
+    ops: [MLOps, CI/CD, Kubernetes, MLflow, Kubeflow, Model Monitoring]
+    languages: []
+    domains: []
+    other: [MITRE ATT&CK, UEBA, Feature Stores, ZTNA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893761'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:49:03.222260'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

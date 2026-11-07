@@ -1,0 +1,49 @@
+company:
+  name: Full Potential Solutions
+  stage: null
+  focus: Performance-based omnichannel customer experience solutions
+position:
+  title: SDE III Conversational AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements conversational flows and designs NLU/NLP
+      behavior in Conversational AI platforms, directly shaping
+      LLM/dialogue model behavior and output quality.
+      Conversational AI driven by intents and dialogue design maps
+      to ai-first.
+  responsibilities:
+  - Implement conversational flows in Conversational AI platforms (Cognigy, Yellow.AI,
+    Kore.AI, Lex, LUIS, Google Dialogflow, IBM Watson)
+  - Build API integrations and handle complex logic with Node.js or Python
+  - Support iterative Conversational NLU/NLP design and recommend data-driven improvements
+    across releases
+  - Define metrics and data needed to measure chatbot application performance
+  - Understand data structures feeding chatbot applications
+  - Participate in Agile team meetings, application reviews, and JIRA-based issue
+    tracking
+  - Collaborate with business, product, and engineering leaders across the organization
+  use_cases:
+  - Enterprise chatbots and virtual assistants
+  - Omnichannel conversational customer experiences
+  - Conversational NLU/NLP improvement across product releases
+  skills:
+    languages: [Node.js, Python]
+    domains: [NLP]
+    web: [APIs]
+    cloud: [AWS]
+    data: []
+    ml: []
+    databases: []
+    genai: [Conversational AI, NLU, Dialogflow]
+    ops: []
+    other: [Jira, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11681389'
+  location: Pune, IND
+  remote: true
+  extracted_at: '2026-11-06T12:35:09.190819'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

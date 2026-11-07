@@ -1,0 +1,59 @@
+company:
+  name: M&T Bank
+  stage: null
+  focus: |-
+    Regional bank providing commercial banking and financial
+    services
+position:
+  title: Principal AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes RAG pipelines, agent-based
+      architectures, prompt engineering standards, and LLM
+      evaluation frameworks, directly shaping model behavior and
+      output quality. LLM/agent components dominate, so it is ai-
+      first.
+  responsibilities:
+  - Design, develop, and support enterprise-scale GenAI solutions including AI-assisted
+    development, documentation, testing, analytics, and workflow automation
+  - Lead architecture and optimization of RAG solutions including ingestion pipelines,
+    embeddings, vector stores, and search capabilities
+  - Design and approve agent-based and tool-integrated AI architectures with multi-step
+    LLM workflows
+  - Establish prompt engineering standards, evaluation methodologies, and testing
+    frameworks for AI solution quality and safety
+  - Develop APIs, shared services, and reusable frameworks connecting AI models to
+    internal and third-party systems
+  - Drive model testing, benchmarking, and performance analysis using enterprise-approved
+    frameworks
+  - Mentor engineers and define architecture standards and design patterns for AI-enabled
+    solutions
+  - Lead resiliency, observability, security, and responsible AI governance practices
+    within AI platforms
+  use_cases:
+  - AI-assisted software development, documentation, testing, and analytics
+  - Enterprise workflow automation
+  - Enterprise knowledge retrieval via RAG and semantic search
+  - Multi-step LLM agent workflows with tool integration
+  skills:
+    genai: [RAG, Embeddings, Vector Databases, Semantic Search, Prompt Engineering,
+      LLMs, Generative AI, AI Agents, LLM Evaluation, OpenAI API]
+    ml: [Transformers, Model Evaluation, Tokenization]
+    web: [REST APIs, Microservices]
+    databases: [NoSQL]
+    data: [Data Pipelines]
+    cloud: [Azure, Azure AI Foundry]
+    ops: [CI/CD, DevOps, Observability, Model Monitoring]
+    languages: [Java, Python, C#]
+    domains: []
+    other: [Responsible AI, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11480034'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:57:19.599306'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

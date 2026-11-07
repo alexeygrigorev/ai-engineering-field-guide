@@ -1,0 +1,56 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM and agent behavior directly:
+      architecting GenAI systems, agent frameworks, LLM
+      integration, multi-agent orchestration, MCP, and
+      context/governance standards. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Define enterprise-wide architecture for GenAI systems, agent frameworks, LLM integration,
+    and multi-agent orchestration
+  - Establish AI governance standards including security, ethical usage, context management
+    (MCP), agent-to-agent protocols (A2A), and explainability
+  - Lead evaluation and integration of emerging AI tooling and frameworks, from retrieval
+    infrastructure to observability platforms
+  - Serve as a cross-functional advisor on LLM implementation across product teams,
+    engineering pods, and data science
+  - Develop reusable components, SDKs, or templates that standardize GenAI deployment
+    patterns
+  - Review and challenge architectural proposals from Lead Engineers and ensure alignment
+    with long-term AI strategy
+  - Build internal GenAI capability through mentoring, tech talks, and hackathons
+  - Support cross-region scalability, data sensitivity considerations, and deployment
+    performance benchmarking
+  use_cases:
+  - Enterprise GenAI and agentic AI architecture across Ecolab's digital ecosystem
+  - Multi-agent orchestration and agent-to-agent protocol integration
+  - Standardized GenAI deployment patterns via reusable SDKs and templates
+  - AI governance covering security, privacy, hallucination mitigation, and explainability
+  - Cross-region scalable AI deployment with data sensitivity controls
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Multi-Agent Systems, MCP, OpenAI
+        API, LangChain, Pydantic, RAG]
+    ml: [Transformers, Hugging Face, Machine Learning]
+    web: []
+    databases: [FAISS, Pinecone]
+    data: [Databricks]
+    cloud: [Azure, Azure AI Foundry]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12009994'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:28:20.524607'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Loyens & Loeff
+  stage: null
+  focus: International law and tax advisory firm
+position:
+  title: Legal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes AI solution behaviour by configuring tools,
+      instructions, and knowledge sources for legal AI workflows,
+      defining how knowledge is structured and used in AI
+      solutions, and designing/executing tests of AI output
+      quality and usability. This is prompt/context/retrieval-
+      level shaping of LLM solutions, even though programming is
+      not required.
+  responsibilities:
+  - Design, develop, implement and continuously improve AI solutions aligned with
+    the firm's strategic objectives
+  - Identify, analyse and prioritise AI opportunities with legal Expertise Groups
+    and business teams
+  - Translate legal and business use cases into practical AI-enabled workflows, configuring
+    tools, instructions and knowledge sources
+  - Define standards for structuring and using legal knowledge and information assets
+    in AI solutions
+  - Advise practice teams on knowledge management choices to make AI solutions scalable
+    and reusable
+  - Coordinate intake, evaluation and delivery of AI initiatives with engineers, IT
+    and business stakeholders
+  - Design and execute testing to assess quality, usability and business value of
+    AI solutions
+  - Support adoption through documentation, guidance materials and demonstrations,
+    and monitor AI developments
+  use_cases:
+  - AI-enabled legal and tax workflows for professional services
+  - Knowledge-driven AI solutions grounded in structured legal information assets
+  - Testing and quality assessment of AI solutions for legal work
+  - Adoption of AI tools by legal and business professionals
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Legal Knowledge, Knowledge Management, Low-Code/No-Code Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11672722'
+  location: NLD
+  remote: true
+  extracted_at: '2026-11-06T12:31:39.542906'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

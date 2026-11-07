@@ -1,0 +1,52 @@
+company:
+  name: FinThrive
+  stage: null
+  focus: Healthcare revenue management and finance
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements an Agentic AI platform,
+      building agent flows, GenAI automations, and model
+      performance tooling - direct shaping of LLM/agent behaviour,
+      so ai-first. Model monitoring and MLOps duties accompany but
+      do not override the agent design work.
+  responsibilities:
+  - Design and implement AI solutions in production as part of a team of data scientists,
+    data engineers, and AI engineers
+  - Design, build, and deploy infrastructure for AI-based solutions
+  - Integrate AI solutions with existing systems and applications, owning MLOps and
+    DevOps for scalability, reliability, and security
+  - Implement automation for agent flows, RPA, GenAI, and model training, testing,
+    and deployment
+  - Build model management and model performance monitoring capabilities
+  - Partner with internal business, product, and technical teams on requirements and
+    solution delivery
+  - Oversee code quality, consistency, and best practices across applications
+  use_cases:
+  - Agentic AI platform for healthcare business operations automation
+  - Document intelligence and NLP for healthcare data processing
+  - Predictive analytics for healthcare, insurance, and consumer credit
+  - RPA and GenAI-driven workflow automation
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [Azure]
+    data: [Databricks, Spark, Big Data, Data Visualization]
+    ml: [Machine Learning, NLP, Document Intelligence, TensorFlow, PyTorch, scikit-learn,
+      Hugging Face, NVIDIA NeMo, Apache MXNet, Model Training]
+    databases: []
+    genai: [Generative AI, Agentic Workflows, AI Agents, RAG]
+    ops: [MLOps, DevOps, Azure DevOps, CI/CD, Terraform, DevSecOps, Model Monitoring,
+      Model Deployment, RPA]
+    other: [Agile, Jira, UiPath, Predictive Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11645900'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T12:28:31.596756'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

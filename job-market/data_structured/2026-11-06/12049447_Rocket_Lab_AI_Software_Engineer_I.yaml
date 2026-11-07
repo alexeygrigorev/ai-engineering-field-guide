@@ -1,0 +1,48 @@
+company:
+  name: Rocket Lab
+  stage: null
+  focus: End-to-end space company building rockets and spacecraft
+position:
+  title: AI Software Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements AI agents and MCP integrations, building
+      AI-driven solutions and APIs across internal applications.
+      Designing agent flows and evaluating external AI solutions
+      means the person shapes model behavior, with clear LLM/agent
+      components, making it ai-first.
+  responsibilities:
+  - Provide access to off-the-shelf AI tools with integration support and training
+  - Build AI-driven solutions that deliver high value across the organization
+  - Integrate internal applications with AI by implementing AI agents and providing
+    APIs for developers
+  - Evaluate and integrate specialized AI solutions from external partners
+  - Run rapid experiments to identify promising AI use cases
+  - Share knowledge and train colleagues on practical AI applications
+  - Stay informed about internal developments to assess emerging AI opportunities
+  use_cases:
+  - Company-wide deployment of AI tools and solutions
+  - AI agents integrated with internal business applications
+  - AI APIs enabling developers to embed AI in software
+  - Employee enablement and training on AI tools
+  - Evaluation of external partner AI solutions
+  skills:
+    genai: [AI Agents, MCP]
+    ml: [PyTorch, Deep Learning, Reinforcement Learning, Machine Learning]
+    web: []
+    databases: []
+    data: [Pandas]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, CI/CD, TeamCity, ArgoCD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12049447'
+  location: Long Beach, USA
+  extracted_at: '2026-11-06T14:41:02.216682'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

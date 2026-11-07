@@ -1,0 +1,64 @@
+company:
+  name: GSK
+  stage: null
+  focus: Global biopharma company developing medicines and vaccines
+position:
+  title: Senior, Forward Deployed Engineer (Physical AI & Self-Driving Labs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The FDE designs multi-agent workflows, prompt templates,
+      RAG, evaluation, and shapes agent orchestration — clear
+      LLM/agent shaping, and Forward Deployed Engineers adapting
+      AI solutions are ai-first per the edge cases. The physical
+      AI/simulation work includes NVIDIA agentic stacks but
+      LLM/agent components dominate.
+  responsibilities:
+  - Own high-priority CMC business unit use cases from problem framing through working
+    prototypes at days-to-weeks cadence
+  - Build Physical AI capabilities for self-driving labs and simulated tech transfers,
+    orchestrating physical lab space from the digital space
+  - Simulate lab and manufacturing line operations via virtual commissioning and Omniverse
+    representations to enable one-click deployment
+  - Operate AI agent workflows (planning, coding, testing, review) for autonomous
+    prototype delivery
+  - Embed with BU teams, prototype against real data and workflows, and package proven
+    use cases for scale-up handoff
+  - Begin governance conversations (Code Orange, Responsible AI, Accountability Reports)
+    during prototyping
+  - Contribute reusable agents, prompt templates, and reference architectures to the
+    pattern library
+  - Coach BU engineers on AI-augmented ways of working and defend kill/continue recommendations
+    to leadership
+  use_cases:
+  - Self-driving labs and lab automation orchestration from the digital space
+  - Simulated tech transfer and virtual commissioning of manufacturing lines
+  - Higher-throughput, one-click deployment of manufacturing lines
+  - Predictive and anomaly detection modeling for manufacturing control
+  - AI prototyping (PoC/PoV/MVP) for chemical manufacturing and control use cases
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, RAG, Prompt Engineering, LLM Evaluation,
+      Agentic Workflows, Claude Code, GitHub Copilot]
+    ml: [Deep Learning, Anomaly Detection, Model Evaluation, Model Training, Machine
+        Learning, Neural Networks, Feature Engineering]
+    web: [Full-Stack Development]
+    databases: []
+    data: [Databricks]
+    cloud: [GCP, Azure]
+    ops: [MLOps]
+    languages: [Python, TypeScript, JavaScript, Go]
+    domains: [Computer Vision]
+    other: [NVIDIA Omniverse, Isaac Sim, Nemotron, Lab Automation, Robotics, Edge
+        Deployment, Computer Vision, Embedded Systems, Closed-Loop Control, Manufacturing
+        Execution Systems, Virtual Commissioning, GxP, GDPR, SOX, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11919516'
+  location: South Street, GBR
+  locations:
+  - South Street, GBR
+  - Stevenage, GBR
+  extracted_at: '2026-11-06T13:58:23.747979'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

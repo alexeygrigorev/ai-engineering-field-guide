@@ -1,0 +1,51 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: AI/GenAI solutions and delivery services
+position:
+  title: Senior Python with AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops prompt pipelines, RAG, tool calling, and
+      agent workflows — directly shaping LLM behavior — so it is
+      ai-first. It also builds voice/document AI pipelines but the
+      LLM/agent component dominates.
+  responsibilities:
+  - Build and deploy AI solutions on GCP from design through production
+  - 'Develop GenAI and LLM features: prompt pipelines, RAG, tool calling, and agent
+    workflows'
+  - Build voice workflows (speech-to-text, text-to-speech, voice bots) and document
+    pipelines (extraction, classification, search)
+  - Write clean, tested Python services and integrate with client systems and APIs
+  - Lead debugging of production issues and drive fixes to closure
+  - Review Junior FDEs' code, pair with them, and break work into clear tasks
+  - Join client calls to gather requirements, demo progress, and explain technical
+    choices
+  - Document solutions, runbooks, and handover notes
+  use_cases:
+  - Voice workflows including speech-to-text, text-to-speech, and voice bots
+  - Document pipelines for extraction, classification, and search
+  - GenAI and LLM features with RAG and agent workflows
+  - Integration of AI services with client systems and APIs
+  skills:
+    genai: [Generative AI, LLMs, Gemini, Embeddings, Prompt Engineering, RAG, Function
+        Calling, Agentic Workflows, Conversational AI]
+    ml: []
+    web: [REST APIs]
+    databases: [BigQuery, Vector Search]
+    data: [Pub/Sub]
+    cloud: [GCP, Vertex AI, Cloud Run, Cloud Functions, Cloud Storage, Cloud Build]
+    ops: [Docker, CI/CD, GitHub Actions]
+    languages: [Python]
+    domains: [Speech-to-Text, Text-to-Speech, Voice Bots]
+    other: [Document AI, OCR, Data Structures and Algorithms, Object-Oriented Design,
+      Design Patterns]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12005223'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:25:35.809020'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

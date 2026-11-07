@@ -1,0 +1,54 @@
+company:
+  name: ClickUp
+  stage: null
+  focus: AI-powered productivity workspace for tasks, docs, chat
+position:
+  title: Senior AI Engineer, Voice Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior via LLM-powered post-
+      processing, context injection into prompts, prompt-driven
+      mention resolution, and voice-to-action parsing. It also
+      evaluates ASR models, and the LLM/agent components (LLM
+      post-processing, NL-to-commands) make it ai-first.
+  responsibilities:
+  - Design, build, and optimize real-time speech-to-text pipelines (streaming ASR,
+    VAD, audio processing)
+  - Improve transcription accuracy through context injection such as user names, custom
+    vocabulary, and language detection
+  - Develop and maintain LLM-powered post-processing including grammar correction,
+    filler removal, mention resolution, and formatting
+  - Build voice-to-action systems that parse natural language into structured workspace
+    commands
+  - Evaluate, benchmark, and integrate ASR models for cost, latency, and accuracy
+  - Collaborate with product and platform teams to ship voice features across Desktop,
+    Mobile, Web, and Browser Extension
+  - Explore multimodal AI capabilities (screen, voice, text) for next-gen assistant
+    experiences
+  use_cases:
+  - Real-time voice transcription in a productivity tool
+  - Intelligent transcription reformatting and mention detection
+  - Voice-to-action natural language commands in the workspace
+  - Context-aware voice assistant experiences across devices
+  - Multimodal (screen + voice + text) assistant features
+  skills:
+    genai: [LLMs, Prompt Engineering, Generative AI]
+    ml: [Whisper, Fine-Tuning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AssemblyAI]
+    ops: []
+    languages: []
+    domains: [Speech Recognition, Multimodal AI]
+    other: [VAD, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892690'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:45:29.235589'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Thales
+  stage: null
+  focus: |-
+    Aerospace, defence, cybersecurity and digital identity
+    technology
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with agentic
+      architectures, RAG pipelines, orchestration frameworks,
+      evaluation pipelines, and guardrails - directly shaping LLM
+      behavior and output quality, so it is ai-first.
+  responsibilities:
+  - Design and build AI solutions using agentic architectures and RAG pipelines
+  - Develop modern web applications with React and Spring Boot microservices
+  - Build and maintain evaluation pipelines, guardrails, and tool orchestration for
+    AI systems
+  - Apply memory management, planning, and model evaluation concepts in AI system
+    design
+  - Implement CI/CD pipelines in GitLab and follow TDD practices
+  - Set up AI-assisted development workflows including automation, code generation,
+    and AI-assisted review gates
+  - Prepare technical documentation and collaborate in Agile teams
+  use_cases:
+  - Agentic AI applications with tool orchestration and planning
+  - Retrieval-augmented generation pipelines
+  - Intelligent automation solutions
+  - AI-assisted development workflows with automated code generation and review quality
+    gates
+  skills:
+    genai: [Agentic Workflows, RAG, LLM Evaluation, Guardrails, Responsible AI]
+    ml: []
+    web: [Microservices, REST APIs, React, Spring Boot]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Git, GitLab CI]
+    languages: [Java, JavaScript]
+    domains: []
+    other: [Agile, Test-Driven Development, Intelligent Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11392544'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:43:25.517379'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

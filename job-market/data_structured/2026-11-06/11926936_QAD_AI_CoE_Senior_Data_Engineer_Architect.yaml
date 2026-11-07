@@ -1,0 +1,61 @@
+company:
+  name: QAD
+  stage: null
+  focus: |-
+    Cloud-based enterprise manufacturing and supply chain
+    software
+position:
+  title: AI CoE Senior Data Engineer &  Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Although the role explicitly disclaims prompts and agent
+      logic, the person hands-on designs the retrieval layer for
+      RAG: metadata design, retrieval-ready knowledge sources,
+      golden datasets for retrieval and answer quality, and data
+      access for agents via MCP tools. Designing retrieval is
+      shaping LLM output quality, so this is ai-first rather than
+      ai-support.
+  responsibilities:
+  - Assess data feasibility and readiness for every new AI use case before build approval
+  - Build and run data pipelines and connectors feeding the AI platform and agent-facing
+    warehouses
+  - Model the semantic layer of business entities and metrics that agents query instead
+    of raw tables
+  - 'Put guardrails on agent queries: read-only access, row limits, timeouts and cost
+    limits'
+  - Prepare unstructured knowledge sources for retrieval, including metadata, access
+    tags and golden test datasets
+  - Enforce user-scoped access, row and column-level security, and sensitive-data
+    handling with Security and GRC
+  - 'Own pipeline health in production: freshness and quality monitoring, schema-change
+    recovery and cost control'
+  - Turn each build into reusable data products, semantic models and connectors
+  use_cases:
+  - Enterprise AI platform supporting AI-enabled and agentic workflows across business
+    functions
+  - Governed, current data delivery to AI agents across sales, support, engineering
+    and delivery systems
+  - Retrieval-ready knowledge sources for RAG-based agent answers
+  - User-scoped secure data access so agents only see permitted data
+  - Manufacturing and supply chain intelligent operations (Champion AI)
+  skills:
+    genai: [Embeddings, MCP, RAG]
+    ml: []
+    web: [Webhooks, REST APIs]
+    databases: [Redshift, BigQuery, OpenSearch, Elasticsearch, pgvector, Vector Search]
+    data: [Airflow, dbt, AWS Glue, Data Pipelines, Change Data Capture]
+    cloud: [AWS, AWS S3, Azure, IAM]
+    ops: [Monitoring]
+    languages: [SQL, Python]
+    domains: []
+    other: [dbt Semantic Layer, Cube, LookML, Power BI, Event-Driven Architecture,
+      Progress OpenEdge]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11926936'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:59:32.743184'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

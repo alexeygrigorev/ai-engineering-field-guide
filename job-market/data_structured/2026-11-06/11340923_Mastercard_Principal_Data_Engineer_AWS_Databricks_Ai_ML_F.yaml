@@ -1,0 +1,60 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Digital payments technology and financial services
+position:
+  title: Principal Data Engineer (AWS, Databricks, Ai, ML Flow, Data Architecture,
+    Apache Airflow)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates data platforms and pipelines
+      that support ML/GenAI workloads, but explicitly "enables AI
+      and product teams rather than taking ownership of data
+      science or model research." No prompt engineering, RAG
+      design, or model shaping is done by this person - they move
+      and govern data.
+  responsibilities:
+  - Lead architecture, design, and engineering of scalable batch, streaming, and event-driven
+    data platforms
+  - Design and build data ingestion, transformation, enrichment, processing, and consumption
+    pipelines
+  - Develop governed lakehouse and modern data platform architectures using cloud-native
+    technologies
+  - Build platforms supporting analytics, machine learning, generative AI, and agentic
+    AI workloads
+  - Enable the AI and ML lifecycle through feature engineering, training, evaluation,
+    deployment, and inference pipelines
+  - Implement data governance including quality controls, lineage, metadata management,
+    cataloging, and compliance
+  - Define engineering standards for data modeling, CI/CD, observability, and operational
+    excellence
+  - Provide hands-on technical leadership through architecture reviews, code reviews,
+    and mentoring
+  use_cases:
+  - Data foundations powering advanced analytics, machine learning, generative AI,
+    and agentic AI solutions in an R&D lab
+  - Governed lakehouse data platforms for sensitive and regulated payments data
+  - Feature engineering, training, and inference pipelines enabling the ML lifecycle
+  - Reusable data products, APIs, and self-service capabilities accelerating experimentation
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [AWS, Azure, Azure ML, Azure AI Foundry]
+    data: [PySpark, Spark, Databricks, Airflow, Kafka, Data Pipelines, Data Modeling,
+      Data Governance, Data Lakes]
+    ml: [Machine Learning]
+    databases: []
+    genai: [Generative AI, Agentic Workflows]
+    ops: [MLflow, CI/CD, Infrastructure as Code, Docker, Kubernetes, Terraform, Observability,
+      Responsible AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11340923'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:32:12.937331'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

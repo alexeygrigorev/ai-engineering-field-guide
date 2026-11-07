@@ -1,0 +1,48 @@
+company:
+  name: Palantir Technologies
+  stage: null
+  focus: Data-driven decision and operations software platforms
+position:
+  title: Software Engineer, Internship - Sovereign AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agentic AI system behaviour: building
+      agentic workflows, tool interfaces, context assembly,
+      evaluations, and agent identity/permissions. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Build production software that deploys, operates, evaluates, or monitors AI systems
+    in customer-controlled environments
+  - Contribute to infrastructure for agentic workflows including tool use, context
+    assembly, permissions, and execution safety
+  - Design and implement services, APIs, test harnesses, evaluation pipelines, or
+    developer tools for AI operations
+  - Work with engineers, product, and customer-facing teams to turn operational problems
+    into durable software
+  - Debug issues across services, deployment systems, logs, configuration, and permissions
+  - Write maintainable code and participate in code review
+  use_cases:
+  - Deploying and governing AI agents in high-stakes operational environments
+  - Agentic workflows that turn model outputs into operational decisions
+  - Evaluation and monitoring of production AI systems
+  - Agent identity, permissions, and execution safety
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability, Distributed Systems]
+    languages: [Java, Python, C++, Go, Rust, JavaScript]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12103206'
+  location: London, GBR
+  extracted_at: '2026-11-06T15:02:04.262614'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

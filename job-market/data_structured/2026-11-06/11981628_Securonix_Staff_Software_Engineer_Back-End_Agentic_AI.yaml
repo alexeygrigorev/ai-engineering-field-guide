@@ -1,0 +1,57 @@
+company:
+  name: Securonix
+  stage: Backed by Vista Equity Partners
+  focus: Cybersecurity and cyber threat intelligence platform
+position:
+  title: Staff Software Engineer (Back-End & Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes designing, prototyping, and
+      integrating AI agents into products and mentoring engineers
+      on prompt engineering and evaluation of AI-driven features,
+      which means the person shapes agent behavior and prompts.
+      With LLM/agent components involved, this is ai-first, though
+      agent work is one part of a broader backend architecture
+      role.
+  responsibilities:
+  - Lead architecture and design for major platform capabilities, translating product
+    and customer needs into secure, scalable technical plans
+  - Evolve ThreatQ's service, data, and integration architecture balancing delivery
+    with operability
+  - Design for scale across high-volume threat data ingestion, enrichment, search,
+    analysis, and operational workflows
+  - Remain hands-on in implementation of complex or high-impact changes, setting a
+    high bar for code quality and observability
+  - Provide technical leadership across teams through design reviews and shared engineering
+    standards
+  - Design, prototype, and integrate AI agents and intelligent services into internal
+    systems and customer-facing products
+  - Guide adoption of event-driven patterns, APIs, and cloud/on-prem deployment practices
+  - Mentor engineers on technical growth and effective use of AI tools and prompt
+    engineering
+  use_cases:
+  - Cyber threat intelligence collection, prioritization, and analysis at scale
+  - High-volume threat data ingestion, enrichment, and search
+  - AI agent integration into internal systems and customer-facing security products
+  - Operationalizing threat intelligence workflows for security teams
+  skills:
+    genai: [AI Agents, Prompt Engineering]
+    ml: []
+    web: [Laravel, React, HTML, CSS, REST APIs, JSON]
+    databases: [SQL, MariaDB, MongoDB, Redis, Solr]
+    data: [RabbitMQ]
+    cloud: [AWS]
+    ops: [Microservices, PHPUnit, pytest, Jest, CI/CD, Git, Docker, Kubernetes, Terraform,
+      RKE2]
+    languages: [PHP, Python, TypeScript]
+    domains: []
+    other: [Agile, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11981628'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:16:45.400742'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

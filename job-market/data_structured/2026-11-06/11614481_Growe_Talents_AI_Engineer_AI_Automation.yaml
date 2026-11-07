@@ -1,0 +1,85 @@
+company:
+  name: Growe Talents
+  stage: null
+  focus: Recruiting for international online gaming company
+position:
+  title: AI Engineer / AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model output quality directly: architecting
+      GenAI workflows, model selection, prompt engineering,
+      guardrails against prompt injection, and automated
+      validation of AI-generated assets. LLMs and vision-language
+      models are central components, so it is ai-first.
+  responsibilities:
+  - Manage the full development cycle of AI automation features from theme brief to
+    automated asset generation, validation, and release integration
+  - Analyze product requirements and model output quality to catch generation defects
+    and pipeline bottlenecks before release
+  - Architect and optimize Generative AI workflows, model selection, and prompt engineering
+    for high-fidelity static assets for slot games
+  - Implement AI security, input validation, and guardrails to prevent prompt injection
+    attacks
+  - Develop backend integrations connecting AI asset generation services with game
+    engines, asset storage pipelines, and operator panels
+  - Collaborate with QA, UI/UX, and gamedev teams so generated assets pass standards
+    and certification tests
+  - Design scalable microservices, proxy routing, and request handling across distributed
+    environments
+  - Build and maintain internal tooling and AI agents to streamline development workflows
+  use_cases:
+  - Automated static asset and visual content generation for slot games
+  - Automated asset validation and quality review before release
+  - Theme-based reskin delivery pipelines for gaming products
+  - AI security and prompt injection defense in automated pipelines
+  - Internal AI agents embedded in team workflows and CI/CD
+  skills:
+    genai: [Generative AI, Prompt Engineering, LLMs, Fine-Tuning, Guardrails, AI Agents,
+      Claude Code, Cursor, GitHub Copilot]
+    ml: [Model Evaluation]
+    web: [Microservices, APIs, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker]
+    languages: []
+    domains: []
+    other: [Postman]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11614481'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-11-06T12:21:56.913469'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

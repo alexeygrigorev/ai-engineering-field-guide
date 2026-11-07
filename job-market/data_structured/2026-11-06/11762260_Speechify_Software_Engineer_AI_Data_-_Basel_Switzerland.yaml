@@ -1,0 +1,46 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio products
+position:
+  title: Software Engineer, AI Data - Basel, Switzerland
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines that feed model training runs
+      owned by AI scientists; moving, cleaning, and acquiring data
+      is plumbing, not shaping model behaviour. No prompt work,
+      retrieval design, or training/fine-tuning by this person is
+      described.
+  responsibilities:
+  - Discover new audio data sources and build reliable pipelines into training datasets
+  - Build and improve large-scale data-processing systems optimizing quality, throughput,
+    and cost
+  - Collaborate with AI scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech model training datasets
+  - Petabyte-scale audio data acquisition and processing
+  - Audio listening products for reading accessibility
+  skills:
+    genai: []
+    ml: [ML Training Data]
+    web: [Web Crawlers]
+    databases: []
+    data: [Data Pipelines, Distributed Data Processing]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762260'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:58:22.830685'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

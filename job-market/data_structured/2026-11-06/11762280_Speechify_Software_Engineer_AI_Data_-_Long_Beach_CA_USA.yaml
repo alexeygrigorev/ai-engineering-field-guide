@@ -1,0 +1,49 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading products for accessibility
+position:
+  title: Software Engineer, AI Data - Long Beach, CA, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and data-processing
+      infrastructure that feed model training runs owned by AI
+      scientists. The engineer does not shape model behavior
+      through prompts, training, or evaluation - the deliverable
+      is data acquisition and pipeline throughput/quality. Per the
+      dataset-pipeline rule, this is ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimizing for data quality,
+    throughput, and cost
+  - Collaborate with AI Scientists to improve training datasets and support next-generation
+    model development
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech model training datasets at petabyte scale
+  - Audio data acquisition and ingestion pipelines
+  - Large-scale data processing for AI training efficiency
+  - Accessibility reading tools for users with dyslexia and other learning differences
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762280'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:00:08.753423'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

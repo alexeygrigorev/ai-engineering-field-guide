@@ -1,0 +1,62 @@
+company:
+  name: JCDecaux
+  stage: null
+  focus: Outdoor advertising and real-world communications
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based copilots and agentic
+      AI solutions, including prompt flows, RAG, agent behaviours,
+      and guardrails - directly shaping model behaviour and output
+      quality. LLM/agent components are central, so it is ai-
+      first.
+  responsibilities:
+  - Design and implement AI copilots and agentic AI solutions that automate multi-step
+    tasks and orchestrate calls to internal tools
+  - Translate business use cases into Copilot scenarios, prompt flows, connectors
+    and agent behaviours with secure, scalable architectures
+  - Build and maintain AI components such as RAG, classification, recommendation and
+    summarisation using Python and ML/LLM frameworks
+  - Implement end-to-end MLOps pipelines for development, testing, deployment and
+    monitoring of Copilot and AI solutions
+  - Integrate AI agents with enterprise systems (CRM, ERP, scheduling, inventory,
+    data platforms) via APIs and microservices
+  - Design data pipelines, retrieval layers (vector stores, search indices) and large-scale
+    processing with data engineers
+  - Implement monitoring and analytics, and lead optimisation to address drift, hallucinations
+    and latency
+  - Contribute to AI engineering standards, guardrails and best practices, and ensure
+    compliance with security, privacy and ethical AI requirements
+  use_cases:
+  - AI copilots and assistants that augment users and automate complex workflows
+  - Agentic AI that automates multi-step tasks and orchestrates calls to internal
+    tools and systems
+  - RAG, classification, recommendation and summarisation components embedded in products
+    and processes
+  - Integration of AI agents with enterprise systems such as CRM, ERP, scheduling
+    and inventory
+  - Intelligent decision support enhancing client and consumer understanding for outdoor
+    advertising
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs, Microservices, Event-Driven Architecture]
+    cloud: [Azure, Azure OpenAI, Azure ML, GCP, AWS]
+    data: [Pandas, NumPy, Data Pipelines, Spark, Databricks, Hadoop]
+    ml: [TensorFlow, PyTorch, scikit-learn, Neural Networks, Recommendation Systems,
+      Model Evaluation]
+    databases: [Vector Databases]
+    genai: [Copilot Studio, Agentic Workflows, RAG, Prompt Engineering, LLMs, Function
+        Calling, Guardrails, Generative AI]
+    ops: [MLOps, Docker, Kubernetes, Git, CI/CD, MLflow, Airflow, Monitoring, DevOps]
+    other: [Microsoft 365 Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12096131'
+  location: Westminster, GBR
+  extracted_at: '2026-11-06T14:57:48.755732'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

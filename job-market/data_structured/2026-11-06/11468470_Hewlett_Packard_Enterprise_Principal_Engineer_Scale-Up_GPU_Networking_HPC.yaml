@@ -1,0 +1,57 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and supercomputers
+position:
+  title: Principal Engineer – Scale-Up GPU Networking (HPC / AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds GPU networking, DMA, and communication stack
+      infrastructure for HPC/AI supercomputers. It optimizes
+      hardware data paths, drivers, and collectives rather than
+      shaping any LLM or model's behavior via prompts, retrieval,
+      or training, and it doesn't train classical ML models either
+      — it's systems plumbing for AI workloads.
+  responsibilities:
+  - Design and implement GPU-aware scale-up networking for high-bandwidth, low-latency
+    intra-node communication
+  - Develop and optimize GPU to NIC to GPU data movement, shared memory models, and
+    DMA pathways
+  - Integrate and optimize scale-up communication semantics with NVIDIA CUDA/NVLink/NCCL
+    and AMD ROCm/InfinityFabric/RCCL ecosystems
+  - Enhance communication stacks (Libfabric, UCX, CXI, SHMEMX, OpenMPI) for GPU-accelerated
+    workflows
+  - Characterize and tune multi-NIC, NUMA-zone mapping, GPU locality, and CPU/GPU
+    topology performance
+  - Lead upstream contributions to open-source projects and shape future architectures
+    with ecosystem teams
+  - Own complex debugging across driver, runtime, GPU, kernel, and user-space boundaries
+  - Develop profiling workflows using Nsight, ROCm tools, eBPF, and perf
+  use_cases:
+  - Scale-up GPU networking for high-performance supercomputers
+  - AI/HPC training clusters with multi-GPU and multi-NIC topologies
+  - Low-latency intra-node and inter-GPU communication
+  - GPU-direct data movement and DMA acceleration
+  - Open-source HPC communication stack enablement
+  skills:
+    genai: []
+    ml: [CUDA, ROCm, NVLink, NCCL, RCCL]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, NUMA Tuning]
+    languages: [C++]
+    domains: []
+    other: [RDMA, PCIe, GPUDirect Storage, GPUDirect RDMA, MPI, SHMEM, Libfabric,
+      UCX, CXI, SHMEMX, OpenMPI, IOMMU, DMA, Nsight, eBPF, perf, RoCE, InfiniBand,
+      Slingshot, AllReduce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11468470'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:55:32.387641'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

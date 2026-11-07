@@ -1,0 +1,61 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: AI-powered workflow automation and enterprise cloud platform
+position:
+  title: Principal Software Engineer - AI Native UX
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds frontend/UX surfaces that expose agentic
+      backends built by other teams; it explicitly notes the
+      platform-layer agent orchestration sits with another team
+      and does not require having built it. There is no prompt
+      writing, retrieval design, evals, or model shaping in the
+      responsibilities - the person consumes and translates AI
+      capabilities into UX. Per Step 1, not shaping model behavior
+      -> ai-support.
+  responsibilities:
+  - Define and own the long-term architecture for AI-native user experiences across
+    the ServiceNow platform, making build-vs-buy decisions
+  - Design and build user-facing surfaces exposing agentic backends such as recommendations,
+    autonomous triage, and generated fixes through trustworthy interaction patterns
+  - 'Own hard AI-native UX problems: progressive disclosure of agent reasoning, handling
+    uncertainty and latency, and human-in-the-loop review flows'
+  - 'Own the UXC/Workspace (UI16) surface: component architecture, design system consistency,
+    and performance'
+  - Partner with platform/ML teams on agent orchestration, tool calling, and reasoning
+    traceability, translating backend capabilities into UX patterns
+  - Write production-grade frontend code (Lit.js, React/TypeScript, design systems)
+    with fluency in backend code (Java, Python, Postgres, Kubernetes)
+  - Mentor senior engineers and champion UX and engineering excellence in AI-native
+    product development
+  - Align UX and technical architecture with business goals around adoption, retention,
+    and time-to-market
+  use_cases:
+  - AI-native user experiences exposing agent reasoning, autonomous triage, and generated
+    fixes to end users
+  - Human-in-the-loop review flows and legible, controllable autonomous system behavior
+  - Workspace platform (UI16) as the canvas for AI-native features
+  - Agent-to-UI interaction patterns with real-time/streaming UX for AI-generated
+    content
+  - Trust and safety UX for multi-step agent reasoning
+  skills:
+    genai: [MCP, AI Agents]
+    ml: [Multi-Agent Systems]
+    web: [React, Design Systems, Component Architecture]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Distributed Systems]
+    languages: [TypeScript, Java, Python]
+    domains: []
+    other: [Lit.js]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11567898'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:12:19.230201'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

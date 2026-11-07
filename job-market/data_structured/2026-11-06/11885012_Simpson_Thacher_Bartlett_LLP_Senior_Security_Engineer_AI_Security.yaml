@@ -1,0 +1,57 @@
+company:
+  name: Simpson Thacher & Bartlett LLP
+  stage: null
+  focus: International law firm
+position:
+  title: Senior Security Engineer, AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI guardrails (prompt injection, jailbreak,
+      excessive agency mitigations) and security controls directly
+      on LLM platforms like Claude, agents, and MCP integrations.
+      Guardrail construction is explicitly shaping model
+      behaviour, with a clear LLM component, so ai-first.
+  responsibilities:
+  - Lead implementation and continuous improvement of the enterprise AI Security Program
+  - Operationalize AI security standards, control frameworks, and governance processes
+    for AI technology onboarding and monitoring
+  - Serve as lead security engineer for AI platforms including Claude, AI coding assistants,
+    AI gateways, Agents, and MCP-based integrations
+  - Develop AI guardrails to mitigate prompt injection, jailbreaks, excessive agency,
+    data exposure, and adversarial attacks
+  - Design security controls including IAM, authorization models, encryption, logging,
+    monitoring, and data protection
+  - Build security automation, governance automation, and policy-as-code capabilities
+  - Conduct security architecture reviews and threat modeling for AI-enabled applications
+    and agents
+  - Partner with Data Protection, Privacy, and Compliance teams and report KPIs on
+    AI security maturity
+  use_cases:
+  - Securing enterprise LLM platforms such as Claude and AI coding assistants
+  - Mitigating prompt injection, jailbreaks, and adversarial AI attacks
+  - Securing AI agents, gateways, and MCP-based integrations
+  - Governance and secure onboarding of AI technologies in a law firm
+  - Protecting sensitive data used within AI platforms
+  skills:
+    genai: [LLMs, AI Agents, MCP, Guardrails, Claude Code, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [DevSecOps]
+    languages: []
+    domains: []
+    other: [Threat Modeling, OWASP Top 10 for LLM Applications, NIST AI Risk Management
+        Framework, MITRE ATLAS, Application Security, Cloud Security, Identity and
+        Access Management, RBAC, API Security, Secure SDLC, Software Supply Chain
+        Security, Container Security, CISSP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885012'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:34:18.039014'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

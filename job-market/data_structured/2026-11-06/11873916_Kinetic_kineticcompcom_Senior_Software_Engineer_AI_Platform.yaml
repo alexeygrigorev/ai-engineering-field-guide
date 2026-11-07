@@ -1,0 +1,55 @@
+company:
+  name: Kinetic (kineticcomp.com)
+  stage: null
+  focus: Technology-driven workers' compensation insurance solutions
+position:
+  title: Senior Software Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: building agent
+      orchestration, prompts, tools, guardrails, evaluation
+      harnesses, and rollout gates for LLM agents. It explicitly
+      requires hands-on multi-agent system building with LLM
+      frameworks, so it's ai-first.
+  responsibilities:
+  - 'Build and operate the agent orchestration layer: model routing, tools, memory,
+    permissions, and guardrails, portable across frameworks and providers'
+  - 'Manage agents as code: ship prompts, tools, and model versions through CI/CD
+    with cost/latency tracking and rollback'
+  - Build MCP servers and tools giving agents secure access to Salesforce, Athena,
+    and claims data with PHI/PII redaction and audit logs
+  - Build evaluation harnesses and rollout gates testing changes against golden datasets
+    before production
+  - Build human-in-the-loop checkpoints for critical decisions
+  - Replatform or retire one-off AI scripts and workflows
+  - Set standards, review agent designs and code, and mentor engineers across Kinetic
+  - Evaluate when to use AI and when to buy vs build components
+  use_cases:
+  - Insurance agents across broker submissions, underwriting, and claims
+  - Generative AI for workers' comp claims management
+  - Secure agent access to Salesforce, Athena, and claims data with PHI/PII redaction
+  - Injury prediction and prevention for labor-intensive industries
+  - Safe agent rollout with evaluation gates and human-in-the-loop review
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, CrewAI, LangGraph,
+      OpenAI Agents SDK, Google ADK, AWS Bedrock, Function Calling, Structured Outputs,
+      RAG, MCP, LLMs, Prompt Engineering, Guardrails, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Athena]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Infrastructure as Code, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: [Salesforce, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11873916'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:28:27.721531'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

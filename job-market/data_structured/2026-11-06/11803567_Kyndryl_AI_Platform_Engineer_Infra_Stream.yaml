@@ -1,0 +1,50 @@
+company:
+  name: Kyndryl
+  stage: null
+  focus: Enterprise IT infrastructure and managed technology services
+position:
+  title: AI Platform Engineer Infra Stream
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains infrastructure that hosts AI
+      services (Azure AI, AKS, CI/CD, IaC) but does not shape
+      model behaviour—no prompt engineering, RAG, fine-tuning, or
+      evals. LLM deployment is only a preferred nice-to-have. This
+      is platform/serving work, hence ai-support.
+  responsibilities:
+  - Design and build scalable AI infrastructure adhering to enterprise standards for
+    security, privacy, and auditability
+  - Translate emerging AI infrastructure components into enterprise-ready standards
+  - Align banking regulatory requirements with architecture, security, risk, and governance
+    teams
+  - Support development teams consuming AI services with platform and infrastructure
+    expertise
+  - Create automated templates and reference implementations for AI infrastructure
+    consumption
+  - Design cloud-native solutions integrating Azure AI services with AKS
+  - Develop and maintain CI/CD pipelines for platform automation
+  use_cases:
+  - Enterprise AI platform infrastructure for banking customers
+  - Secure, compliant access to AI models via Azure services on AKS
+  - Developer enablement through standardized AI infrastructure templates
+  - Automated platform delivery via CI/CD pipelines
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: [Unity Catalog]
+    data: [Databricks]
+    cloud: [Azure, Azure AI Foundry, AKS, Kubernetes, Cloud-Native Architecture]
+    ops: [Infrastructure as Code, CI/CD, Azure DevOps, MLOps]
+    languages: []
+    domains: []
+    other: [Bicep, Security-by-Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11803567'
+  location: Hoofddorp, NLD
+  extracted_at: '2026-11-06T13:14:55.814757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

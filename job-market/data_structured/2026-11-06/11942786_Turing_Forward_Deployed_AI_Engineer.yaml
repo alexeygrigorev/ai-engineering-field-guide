@@ -1,0 +1,52 @@
+company:
+  name: Turing
+  stage: null
+  focus: AI data and end-to-end agentic AI solutions for enterprises
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and builds agentic
+      systems themselves — multi-agent orchestration, tool use,
+      context engineering, RAG, evaluation and guardrails — which
+      is shaping LLM behavior. Customer-facing deployment of
+      generative AI solutions makes this ai-first per the edge-
+      case rules.
+  responsibilities:
+  - Work directly with customers to uncover high-value opportunities and translate
+    business needs into technical direction
+  - Architect and build production AI systems including multi-agent workflows, orchestration,
+    tool use, context engineering, memory and state, and RAG
+  - Build supporting APIs, data pipelines, integrations, and distributed systems to
+    make AI solutions reliable at scale
+  - Own solutions end to end from discovery through deployment and measurable impact
+  - Own evaluation, observability, security, reliability, latency, scalability, and
+    cost of deployed systems
+  - Communicate with senior client leaders and executives to earn trust and drive
+    outcomes
+  use_cases:
+  - Enterprise agentic AI systems embedded in mission-critical workflows
+  - Generative AI solutions driving measurable ROI in large institutions
+  - Multi-agent workflows with orchestration, tool use, and retrieval for enterprise
+    business problems
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [Cloud Infrastructure]
+    data: []
+    ml: []
+    databases: [Databases]
+    genai: [Agentic Workflows, Context Engineering, RAG, Function Calling, LLMs, LLM
+        Evaluation, Guardrails, Generative AI]
+    ops: [Distributed Systems, Observability]
+    other: [System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11942786'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:04:13.502854'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

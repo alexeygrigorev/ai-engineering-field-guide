@@ -1,0 +1,279 @@
+job_id: 11892948
+title: Senior Staff AI Application Engineer
+company: GE Healthcare
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 50,282 Employees
+description: |
+  Job Description SummaryWe are looking for a senior full-
+  stack engineer who has shipped production applications, and
+  who has owned software that other engineering teams depended
+  on — a framework, SDK, shared library or internal developer
+  platform — living with an abstraction decision long enough
+  to have had to correct it while consumers depended on it.
+  Establishing engineering standards through automation rather
+  than documentation should be instinctive. You will be the
+  senior technical owner of GE HealthCare's internal AI
+  engineering platform: the shared libraries, standardised
+  interfaces, code generation tools and automated verification
+  our data scientists and engineers use to take AI solutions
+  into production. It exists to deliver four outcomes for the
+  company: • reduce time from working prototype to production
+  from months to days; • allow data scientists to ship
+  production-grade AI without expertise in cloud
+  infrastructure, deployment, application security or front-
+  end development; • make security, compliance and consistency
+  automatically enforced properties of every solution, rather
+  than outcomes dependent on scarce expert review; • allow
+  underlying technologies to be replaced — model provider,
+  agent framework, user interface approach — without rewriting
+  the solutions built on them. Your accountability is the
+  platform's architecture and public interfaces, the automated
+  verification that enforces our engineering standards, and
+  the versioning and migration approach that keeps it
+  dependable as it evolves beneath a growing number of
+  applications. The role also includes building AI
+  applications end to end yourself — front end, back end and
+  agents — where that is the fastest way to prove a platform
+  capability or unblock a priority use case; the emphasis at
+  this level sits firmly on the platform, with application
+  work serving it rather than competing with it. This is a
+  hands-on senior engineering role with substantial
+  architectural responsibility and organisational influence —
+  not a management position, and not a research position.
+
+  Job Description
+
+  GE HealthCare's Chief Data and Analytics Office is
+  delivering a portfolio of strategic AI programmes across
+  Commercial, Finance, Supply Chain, Quality, Manufacturing
+  and Operational Excellence.
+
+  The problem this team addresses is structural. Most people
+  creating AI solutions here are data scientists, and it would
+  be neither reasonable nor efficient to require deep
+  infrastructure, security and front-end expertise of them.
+  Every solution must nonetheless reach production as a
+  secure, reliable, observable, supportable enterprise system,
+  and remain so through years of change. That is the central
+  design constraint: the platform and its automated safeguards
+  must substitute for a depth of software engineering review
+  that is not available at the scale and pace we require.
+
+  The failures a strong platform engineer prevents —
+  undetected interface drift, poorly chosen abstractions that
+  become permanent, over-broad access permissions,
+  configuration that cannot be reviewed or reversed — are
+  silent, and present months later as an outage, an audit
+  finding or a security incident rather than as a broken
+  feature.
+
+  Core Responsibilities
+
+  Architecture and design
+
+  - Define the platform's architecture and public interfaces:
+    what is offered, what is guaranteed, what is private, and
+    what a version number promises to dependent applications.
+  - Design isolation boundaries so each significant third-party
+    technology — agent framework, model provider, message
+    queue, data source, UI rendering approach — is confined to
+    a single replaceable component, with automated checks
+    making that a verified property rather than a documented
+    intention. Validate each in practice, for example by
+    running the same agent unmodified on two frameworks
+    (LangGraph and AWS Bedrock AgentCore, say) with equivalent
+    evaluated behaviour.
+  - Design the interfaces between roles and components as
+    machine-readable specifications with automated
+    verification, so no two teams need to read each other's
+    code to work together reliably.
+  - Hold the boundary between declarative configuration and
+    executable code — configuration states what, code
+    implements how — preventing the familiar progression by
+    which a configuration format acquires conditional logic
+    and becomes an undocumented programming language with no
+    type checking, debugger or tooling.
+  - Record architectural decisions formally (options rejected,
+    trade-offs accepted, revisit conditions), and decline
+    unnecessary abstraction in writing and with reasoning. A
+    significant part of this role's value lies in shared
+    capability deliberately not built.
+
+  Engineering delivery and long-term ownership
+
+  - Lead the highest-leverage components hands-on: the agent
+    execution layer, the secure data resolution layer, and the
+    configuration-driven user interface system. This is a
+    building role, not a supervisory one.
+  - Build selected AI applications end to end — front end, back
+    end and agents — where that is the fastest way to prove a
+    platform capability or unblock a priority use case, and
+    judge what should then be harvested into the platform and
+    what should remain specific to that use case.
+  - Establish automated verification before the practice it
+    enforces is adopted — a standard that is not automatically
+    enforced does not, in practice, exist — including
+    automated quality evaluation of AI behaviour in the
+    release path, so degraded output prevents release and a
+    change of model or framework can be shown to have
+    preserved behaviour.
+  - Own backward compatibility and the migration path. The
+    platform will change continuously while dozens of
+    solutions depend on it; making that change inexpensive and
+    safe for consumers is a primary responsibility.
+  - Prevent version divergence across applications and shared
+    components; run deprecation properly — announce, migrate,
+    remove — and maintain visibility of the platform's own
+    engineering health, acting before it is raised.
+
+  Interfaces with adjacent disciplines
+
+  - Define and maintain the interfaces between this team and
+    adjacent specialist functions — infrastructure, security,
+    data — as version-controlled specifications with automated
+    validation rather than request queues or standing
+    meetings. These cover what an environment provides, what
+    an infrastructure component accepts, what a service
+    requires to run and is permitted to do, what must pass
+    before release, what artefact is deployed and how it is
+    promoted, and what telemetry and service level commitments
+    apply.
+  - Anticipate and act on the recognised ways such boundaries
+    deteriorate: a request queue re-forming, resources created
+    outside the sanctioned path, release throughput
+    constrained by a single function, divergent standards
+    emerging, or incidents beginning with a dispute about
+    ownership.
+  - Represent the platform's architecture and trade-offs to
+    enterprise architecture, information security, risk and
+    senior leadership, in terms appropriate to each audience.
+
+  Technical leadership
+
+  - Mentor engineers and data scientists moving into platform
+    and application engineering, and establish a review
+    culture in which human review addresses design judgement
+    and business fit, because formatting, type correctness,
+    security fundamentals and interface compliance are handled
+    automatically.
+  - Author the guidance, reference implementations and worked
+    examples that let colleagues and AI coding assistants work
+    productively without direct supervision, and set the
+    standard for responsible use of those assistants under
+    named human accountability.
+
+  Experience Requirements
+
+  - Bachelor's degree in Computer Science, Software Engineering
+    or a related field, or equivalent demonstrable practical
+    experience. An advanced degree is welcome but not
+    required.
+  - Minimum 8 years of professional software engineering
+    experience, including demonstrable ownership of a shared
+    library, framework, SDK or internal developer platform
+    relied upon by other engineering teams. This is the
+    essential requirement: not a record of delivering many
+    applications, but an engineer whose software other
+    engineers' software depends on, and who can describe
+    concretely what it cost when an abstraction had to change.
+
+  Software engineering
+
+  - Expert Python: advanced static and structural typing (mypy
+    or Pyright, strict), interface definition, and judgement
+    about where type-level guarantees earn their cost. Strong
+    TypeScript and modern component-based front-end
+    engineering (React), sufficient to design typed component
+    contracts and a design token system rather than only
+    consume them.
+  - API and interface design and long-term evolution:
+    specification (OpenAPI), generated clients, versioning,
+    compatibility, deprecation. Relational databases and SQL
+    at depth: schema design, migrations, indexing, behaviour
+    under load, injection resistance established structurally
+    rather than by review.
+  - Testing strategy across unit, integration, interface-
+    contract and end-to-end levels; CI/CD design (GitHub
+    Actions, GitLab CI) including shared reusable pipeline
+    components, and the discipline of keeping checks fast
+    enough that engineers do not bypass them.
+
+  AI and Generative AI engineering
+
+  - Substantial production experience with LLM systems:
+    instruction design, tool and function calling, structured
+    output, retrieval-augmented generation and retrieval
+    quality, cost and latency control, characteristic failure
+    modes.
+  - Hands-on experience with more than one AI agent framework
+    (for example LangGraph, LangChain, AWS Bedrock AgentCore,
+    OpenAI Agents SDK) and demonstrated ability to design a
+    durable abstraction across them — including rigorous
+    reasoning about which capabilities belong in a common,
+    framework-independent agent definition and which do not.
+  - Familiarity with emerging standards for AI tool and context
+    interoperability (for example the Model Context Protocol),
+    with the judgement to design toward such a standard's
+    shape without prematurely building infrastructure for it.
+  - Evaluation-driven development at depth: designing evaluation
+    suites and quality measures for non-deterministic systems
+    and using them as a formal release gate.
+
+  Cloud and delivery engineering Infrastructure and production
+  operations are specialist disciplines owned elsewhere in the
+  organisation; our applications request what they need
+  through version-controlled declarations validated
+  automatically, rather than by authoring infrastructure or
+  access policies directly. You are not expected to author
+  infrastructure modules, access policies or network
+  components, nor to own cloud estate design, release
+  execution or infrastructure on call. Required at this depth:
+
+  - Strong working knowledge of a major public cloud, ideally
+    AWS: serverless compute (Lambda), messaging (SQS), object
+    and vector storage (S3, S3 Vectors), secret management,
+    managed relational databases (Aurora), content delivery,
+    event routing, managed AI model services (Bedrock) —
+    sufficient to design well against them and reason about
+    cost, quota, scaling and failure.
+  - Infrastructure-as-code: fluent reading and review
+    (Terraform) — interpret an execution plan, evaluate
+    whether a component's interface meets a requirement,
+    articulate precisely what is missing and why. Access-
+    management design literacy at boundary level: what a grant
+    permits, what a boundary constrains, why least-privilege
+    access is better generated than hand-written, and how to
+    identify an over-broad request in review.
+  - Observability design (OpenTelemetry): distributed tracing,
+    structured logging, standardised telemetry, service level
+    objectives and error budgets. Supply chain and delivery
+    security: immutable artefact identity, build provenance,
+    secret scanning, dependency vulnerability management,
+    short-lived federated credentials.
+  - Cost engineering at the level of declared resource
+    requirements: compute sizing, execution limits, model
+    consumption, caching and result limits.
+
+  Leadership and communication
+
+  - Ability to explain a technical design and its trade-offs to
+    executive leadership, to security and risk, and to a data
+    scientist, adjusting the level without losing the
+    substance — and willingness to state clearly when a
+    programme is blocked and what would unblock it.
+  - Experience leading work where the principal difficulty was
+    organisational rather than technical, with a concrete
+    account of how a cross-team boundary was kept healthy.
+
+  Additional Information
+
+  Relocation Assistance Provided: Yes
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Analytics
+  - Biotech
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-staff-ai-application-engineer/11892948"
+source: Built In

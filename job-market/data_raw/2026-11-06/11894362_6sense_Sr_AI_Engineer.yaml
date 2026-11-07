@@ -1,0 +1,223 @@
+job_id: 11894362
+title: Sr. AI Engineer
+company: 6sense
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 520 Employees
+description: |
+  Our Mission:
+
+  6sense's mission is to multiply what matters: growth,
+  retention, and efficiency.  We envision a future where
+  companies, teams and people reach their full potential.
+
+  Our People:
+
+  People are the heart and soul of 6sense. We serve with
+  passion and purpose. We live by our Being 6sense values of
+  Win as One Team, Stay Curious, Do The Right Thing, Own the
+  Outcome, and Create Belonging.  Every 6sensor plays a part
+  in deﬁning the future of our industry-leading technology.
+  6sense is a place where difference-makers roll up their
+  sleeves, take risks, act with integrity, and measure success
+  by the value we create for our customers.  We want 6sense to
+  be the best chapter of your career.
+
+  Job Description
+
+  6sense has agents and an MCP server in production today,
+  used by real customers. This role takes them further by
+  building more capable agents, strengthening the API and tool
+  layer, and creating an ecosystem that external agents,
+  clients, and partners can connect to.
+
+  You'll work across the full journey from a customer's agent
+  to 6sense data and actions—including APIs, tools, MCP,
+  orchestration, context, evaluation, and security.
+
+  6sense is working to become the default Contextual
+  Intelligence layer for B2B. Agents and MCP are how that
+  context reaches customers, partners, and their AI tools.
+  You'll partner closely with the team building contextual
+  intelligence, write production Python daily, own multi-month
+  projects, support the teams and customers who depend on
+  these systems, and keep the platform current as the agent
+  tooling landscape evolves.
+
+  What You'll OwnAgents and Orchestration
+
+  - Extend LangGraph orchestrators with typed state, conditional
+    routing, subgraphs, checkpointing, durable execution, and
+    human-in-the-loop steps.
+  - Choose among routing, orchestrator-worker, plan-and-execute,
+    reflection, and multi-agent handoff patterns based on the
+    problem.
+  - Run agents headless—API- and MCP-first—across in-app, chat,
+    workflow, and partner surfaces from one shared core.
+  - Maintain reusable components for state, memory, tool-
+    calling, and agent-to-agent delegation with scoped
+    permissions.
+
+  APIs, Tools, and MCP
+
+  - Evolve the APIs and tools agents use to read 6sense data and
+    take action, for both human and LLM callers.
+  - Tune tool design for agent success, including names,
+    descriptions, schemas, response shapes, error messages,
+    and token-efficient outputs.
+  - Redesign and scale the MCP layer for production workloads,
+    including concurrency, per-tenant quotas, latency budgets,
+    caching, and graceful degradation, while maintaining
+    backward compatibility and adopting new specification
+    capabilities as they mature.
+  - Onboard external MCP clients, AI assistants, agent
+    platforms, and partners. Write integration guides and
+    reference clients, and define how 6sense consumes third-
+    party MCP servers, including trust boundaries.
+  - Harden execution with idempotency, retries, rate limits,
+    permissions, and spend controls. Maintain standards for
+    tool contracts, versioning, and discovery.
+
+  Context and Evaluation
+
+  - Partner with the Contextual Intelligence team to expose
+    context to agents through MCP, APIs, and tools, ensuring
+    one context layer serves every surface. Establish
+    contracts defining what each call returns, how fresh the
+    information is, where it comes from, and how it is scoped
+    to the tenant and user.
+  - Improve permission-aware retrieval and grounding through
+    chunking, hybrid search, reranking, and citations.
+    Optimize context assembly and memory within token and
+    latency limits.
+  - Extend evaluation using golden datasets, tool-selection and
+    tool-call accuracy, end-to-end task success, regression
+    suites, and release gates, including context-quality
+    measures.
+  - Expand tracing and usage analytics, and report on task
+    success rate, tool-call precision, groundedness, latency,
+    and cost per successful outcome.
+
+  Security, Privacy, and Trust
+
+  - Make security a first consideration in every tool, API,
+    agent, and MCP change, and review your own and teammates'
+    work for vulnerabilities.
+  - Enforce tenant isolation and user-level authorization on
+    every call so agents never access data beyond the caller's
+    permissions. Maintain short-lived, scoped credentials.
+  - Defend against prompt injection, tool poisoning, excessive
+    agency, and data leakage through tool outputs, traces, and
+    logs. Set runtime limits on steps, tokens, time, and cost.
+
+  Customers and Engineering Craft
+
+  - Triage and debug customer-reported issues across agents,
+    tools, models, and downstream systems, identify root
+    causes, and deliver fixes.
+  - Participate in customer and partner technical calls, and
+    support enablement teams with guidance, demos, and
+    documentation.
+  - Write design documents that clearly explain assumptions and
+    trade-offs, review code and designs, mentor engineers
+    earlier in their careers, and participate in on-call
+    rotations and incident response.
+  - Track developments in MCP, agent frameworks, and model
+    capabilities. Prototype promising technologies and provide
+    short, evidence-backed recommendations.
+
+  What You'll Bring
+
+  - 5+ years of experience building and running production
+    software, with strong distributed-systems fundamentals,
+    including idempotency, fault tolerance, backpressure, and
+    failure recovery.
+  - 2+ years of experience building production LLM-based
+    systems, including agents used by real customers.
+  - Strong Python skills and production experience with
+    LangGraph or an equivalent orchestration framework.
+  - Experience designing APIs and tool interfaces for LLM
+    callers, including schemas, descriptions, error handling,
+    and tool-selection behavior. Direct MCP experience is
+    strongly preferred.
+  - Experience scaling an API or platform used by external
+    customers or partners, including authentication, rate
+    limiting, versioning, and backward compatibility.
+  - Production experience with retrieval and grounding, as well
+    as writing and running LLM evaluations.
+  - Experience with multi-tenant, security-sensitive cloud
+    systems, preferably AWS, including authorization
+    boundaries and data-leakage prevention.
+  - Experience debugging production issues across services and
+    supporting customers directly or through support and
+    solutions teams.
+  - A track record of owning multi-month, cross-team projects
+    independently and communicating clearly with technical and
+    non-technical audiences.
+  - Bachelor's degree in Computer Science, Engineering, or
+    equivalent practical experience.
+
+  Nice to Have
+
+  - Experience building or operating MCP servers in production,
+    or contributing to MCP open-source projects.
+  - Experience serving context to agents from signals, entity
+    data, knowledge graphs, or enterprise data platforms.
+  - Experience integrating with external agent platforms or AI
+    assistants as a partner, or working with agent
+    interoperability protocols.
+  - Experience with B2B go-to-market, RevTech, CRM, or intent-
+    data platforms.
+  - Experience with model routing, caching, and cost/latency
+    optimization.
+  - Experience with Kafka, Snowflake, Databricks, or Spark.
+
+  What This Role Is Not
+
+  - Not an architect role: You'll set direction through working
+    code and design documents.
+  - Not MCP-only: MCP sits alongside APIs, tools, and
+    orchestration.
+  - Not a greenfield build: These systems are live, with real
+    customers depending on them.
+
+  Our Benefits:
+
+  Full-time employees can take advantage of health coverage,
+  paid parental leave, generous paid time-off and holidays,
+  quarterly self-care days off, and stock options. We’ll make
+  sure you have the equipment and support you need to work and
+  connect with your teams, at home or in one of our oﬃces.
+
+  We have a growth mindset culture that is represented in all
+  that we do, from onboarding through to numerous learning and
+  development initiatives including access to our LinkedIn
+  Learning platform. Employee well-being is also top of mind
+  for us. We host quarterly wellness education sessions to
+  encourage self care and personal growth. From wellness days
+  to ERG-hosted events, we celebrate and energize all 6sense
+  employees and their backgrounds.
+
+  Equal Opportunity Employer:
+
+  6sense is an Equal Employment Opportunity and Affirmative
+  Action Employers. Qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, sexual orientation, gender perception or
+  identity, national origin, age, marital status, protected
+  veteran status, or disability status. If you require
+  reasonable accommodation in completing this application,
+  interviewing, completing any pre-employment testing, or
+  otherwise participating in the employee selection process,
+  please direct your inquiries to jobs@6sense.com.
+
+  We are aware of recruiting impersonation attempts that are
+  not affiliated with 6sense in any way. All email
+  communications from 6sense will originate from the
+  @6sense.com domain. We will not initially contact you via
+  text message and will never request payments. If you are
+  uncertain whether you have been contacted by an official
+  6sense employee, reach out to jobs@6sense.com
+posted_date: 2026-10-26
+url: "https://builtin.com/job/sr-ai-engineer/11894362"
+source: Built In

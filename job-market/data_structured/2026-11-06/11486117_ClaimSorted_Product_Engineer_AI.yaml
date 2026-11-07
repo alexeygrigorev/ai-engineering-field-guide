@@ -1,0 +1,45 @@
+company:
+  name: ClaimSorted
+  stage: null
+  focus: InsurTech AI claims handling automation
+position:
+  title: Product Engineer // AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic AI systems end-to-end in
+      production - designing agents that take real actions is
+      shaping LLM/agent behavior, making it ai-first. Customer
+      interaction is with internal claims handlers, and building
+      agents is the core product work.
+  responsibilities:
+  - Liaise with claims handlers to identify automation opportunities in the claims
+    process
+  - Design and build agentic AI systems that perform real actions on real claims in
+    production
+  - Take features from idea to production end-to-end as a full-stack builder
+  - Work with AI engineers and ops to ensure shipped automations are safe and correct
+  - Own risk and correctness of automations, iterating as the system scales
+  use_cases:
+  - Automated insurance claims handling
+  - Process automation for high-volume insurance operations
+  - Agents performing actions on real claims end-to-end
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11486117'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:57:43.983671'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

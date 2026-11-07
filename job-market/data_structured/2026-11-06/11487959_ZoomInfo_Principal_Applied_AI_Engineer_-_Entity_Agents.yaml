@@ -1,0 +1,58 @@
+company:
+  name: ZoomInfo
+  stage: null
+  focus: |-
+    Go-to-market intelligence platform with B2B company and
+    contact data
+position:
+  title: Principal Applied AI Engineer - Entity Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and operates LLM entity agents (agent loops,
+      tool use, retrieval, structured output) plus their
+      evaluation and golden-gate harnesses, directly shaping agent
+      behavior and output quality. LLM/agent component present, so
+      ai-first.
+  responsibilities:
+  - Run the benchmark and golden-gate system on a schedule, with automated gating,
+    variance and drift tracking per agent version
+  - 'Complete the entity-agent pipeline: enricher fan-out, location sets, hierarchy
+    batch files, and classifier migration to the shared runner'
+  - Build evidence adapters behind a single envelope with replayable vendor store,
+    measured lift per shape, and per-vendor kill switches
+  - Deploy the company and contact agents onto the ZoomInfo Agentic Platform with
+    rollback paths per version
+  - Build self-service review queues, tagging tools, blast-radius viewers, and batch
+    runners for researchers and PMs
+  - Own health and deployment of company classifier, contact classifier, agents hub,
+    and judge platform in internal tooling
+  - Instrument cost per call, row, and stage; quality per version; and proactive alerting
+  use_cases:
+  - Entity resolution over hundreds of millions of company and contact records
+  - AI-native data management where agents gather evidence and decide entity attributes
+  - Automated evaluation and quality gating of entity-agent versions before release
+  - Vendor-evidence ingestion with replayability, swappability, and kill switches
+  - Self-service review and batch tooling for researchers and product managers
+  - Go-to-market intelligence for B2B sales, marketing, and customer success
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, RAG, Structured
+        Outputs, Anthropic API, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [NoSQL]
+    data: [Data Pipelines, Data Engineering]
+    cloud: []
+    ops: [Model Deployment, Monitoring, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11487959'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:58:24.537873'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

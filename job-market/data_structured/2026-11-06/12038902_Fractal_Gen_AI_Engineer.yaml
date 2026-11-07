@@ -1,0 +1,62 @@
+company:
+  name: Fractal
+  stage: null
+  focus: AI consulting and analytics services
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications directly:
+      prompt engineering, RAG architectures, agentic workflows,
+      evaluation frameworks, and guardrails. This is shaping model
+      behaviour, with LLM/agent components throughout.
+  responsibilities:
+  - Design, develop, and implement LLM-based solutions end-to-end with minimal supervision
+  - Define architecture patterns for LLM applications including RAG pipelines, agentic
+    workflows, and hybrid systems
+  - Build reusable accelerators, frameworks, and internal IP (assets, templates, reference
+    architectures)
+  - Ensure reliability of LLM systems via evaluation frameworks, guardrails, and fallback
+    strategies
+  - Design safe and responsible AI systems with hallucination mitigation, bias handling,
+    and governance
+  - Optimize cost-performance trade-offs in large-scale deployments
+  - Engage with client and business stakeholders on requirements, PoCs, and proposals
+  - Mentor junior team members and drive quality standards across projects
+  use_cases:
+  - Enterprise LLM applications with RAG and agentic workflows
+  - Q&A systems, chatbots, summarization, and content generation
+  - Document AI and document digitization
+  - Conversational AI and enterprise search
+  - Cost-optimized, production-grade AI systems for clients
+  skills:
+    genai: [LangChain, LlamaIndex, Prompt Engineering, AI Agents, Function Calling,
+      Azure OpenAI, LLMs, CrewAI, AutoGen, LangGraph, Semantic Kernel, RAG, Knowledge
+        Graphs, Conversational AI, Named Entity Recognition, MCP, Copilot Studio,
+      Generative AI]
+    ml: [Text Classification]
+    web: [FastAPI, Flask]
+    databases: [Vector Databases]
+    data: [Databricks, Unity Catalog, Delta Lake]
+    cloud: [Azure, Azure Functions, Azure Blob Storage, Azure AI Search, Azure Document
+        Intelligence]
+    ops: [Azure DevOps, MLflow, LLMOps, LangSmith, Langfuse, Weights & Biases, CI/CD,
+      Docker]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [OCR, Agile, n8n]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12038902'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  - Mumbai, IND
+  - Gurugram, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T14:36:51.013140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

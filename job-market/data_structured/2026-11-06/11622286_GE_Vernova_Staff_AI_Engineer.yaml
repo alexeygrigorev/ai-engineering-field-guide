@@ -1,0 +1,57 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Power conversion and storage for energy transition
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour and output quality: it
+      designs GenAI solutions, selects modelling approaches, and
+      owns the ML lifecycle including evaluation strategies and
+      acceptance criteria. Since generative AI / LLM components
+      are explicitly part of the work, the role is ai-first.
+  responsibilities:
+  - Design and implement AI solutions including generative AI, ML models, neural networks,
+    and optimization algorithms
+  - 'Own the ML lifecycle: dataset construction, metrics, acceptance criteria, and
+    evaluation strategies'
+  - Deploy and integrate AI/ML models into enterprise systems, monitoring for drift,
+    degradation, and cost
+  - Define end-to-end solution architecture from data sources to enterprise IT integration
+  - Write technical specifications and steer/review work of external contractors and
+    partners
+  - Lead data collection, processing, and readiness assessment for large-scale operational
+    data
+  - Develop data-driven solutions such as predictive maintenance, anomaly detection,
+    and forecasting
+  - Evaluate emerging technologies such as edge AI, synthetic data, reinforcement
+    learning, and LLMs
+  use_cases:
+  - Predictive maintenance for industrial equipment
+  - Anomaly detection in operational data
+  - Quality and performance prediction
+  - Demand/load forecasting and cost analysis
+  - Document and requirement analysis
+  - Knowledge support tools
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning, Neural Networks, Deep Learning, Reinforcement Learning,
+      Anomaly Detection, Feature Engineering, Model Evaluation]
+    web: []
+    databases: []
+    data: [Synthetic Data]
+    cloud: [Edge AI]
+    ops: []
+    languages: [Python, C++]
+    domains: []
+    other: [Optimization Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11622286'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:23:52.440624'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

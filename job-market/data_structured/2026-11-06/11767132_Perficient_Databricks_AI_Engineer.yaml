@@ -1,0 +1,46 @@
+company:
+  name: Perficient
+  stage: null
+  focus: Global digital and AI technology consulting
+position:
+  title: Databricks AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG-based applications, LLM-
+      powered solutions, and AI agents, which is direct shaping of
+      LLM behavior (retrieval design, agent flows). LLM components
+      are involved, so it is ai-first.
+  responsibilities:
+  - Design, build, and deploy AI/ML and Generative AI solutions using Databricks
+  - Develop scalable data pipelines leveraging Spark, Delta Lake, and Unity Catalog
+  - Build, train, and operationalize machine learning models using MLflow
+  - Develop RAG-based applications and LLM-powered solutions
+  - Implement MLOps best practices including CI/CD, model monitoring, and governance
+  - Collaborate with data, engineering, and business teams to deliver AI solutions
+  - Optimize performance, scalability, and reliability of Databricks-based AI platforms
+  use_cases:
+  - Enterprise AI/ML and Generative AI solutions on Databricks
+  - RAG and LLM-powered applications for clients
+  - Scalable data pipelines on Spark, Delta Lake, and Unity Catalog
+  - Operationalized ML models with MLOps governance
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, LangChain, LangGraph]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks, Spark, PySpark, Delta Lake]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow, MLOps, CI/CD, Model Monitoring, Model Deployment]
+    languages: [Python, SQL]
+    domains: []
+    other: [Unity Catalog]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11767132'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:09:25.167275'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

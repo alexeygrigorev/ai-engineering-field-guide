@@ -1,0 +1,55 @@
+company:
+  name: Samsara
+  stage: recently public
+  focus: IoT Connected Operations Cloud for physical operations
+position:
+  title: Senior AI Data & Analytics Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds AI-enabled data products and
+      agents with retrieval pipelines and evaluation practices,
+      and ships LLM/agent systems in production — directly shaping
+      LLM/agent behaviour, so ai-first.
+  responsibilities:
+  - Define strategy and multi-quarter roadmap for the MDA data and AI foundation
+  - Architect ETL/ELT pipelines, Databricks Gold Layer tables, and core data models
+    powering segmentation, targeting, automation, and analytics
+  - Design semantic layers, data dictionaries, and structured documentation enabling
+    self-serve BI and conversational analytics
+  - Translate ambiguous business questions from Marketing, Sales, and R&D into scalable
+    solutions
+  - Build AI-enabled data products and agents with integrations, retrieval pipelines,
+    and evaluation practices
+  - Automate manual workflows with AI across Marketing and GTM teams, from concept
+    to production
+  - Ship high-quality Python and SQL, directing agentic coding tools and verifying
+    AI-generated work
+  - Serve as senior technical lead, mentoring engineers and raising engineering quality
+  use_cases:
+  - Marketing and GTM analytics data foundation
+  - Self-serve BI and conversational analytics
+  - AI agents and AI-enabled data products for marketing workflows
+  - Automation of manual Marketing and GTM workflows
+  - Segmentation, targeting, and campaign analytics
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [Streamlit]
+    cloud: []
+    data: [Databricks, dbt, Data Pipelines, Data Modeling]
+    ml: [Machine Learning]
+    databases: [Snowflake, BigQuery]
+    genai: [AI Agents, Agentic Workflows, RAG, LLMs, LLM Evaluation, Claude Code,
+      Cursor]
+    ops: [Monitoring]
+    other: [Salesforce, Semantic Layers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11677739'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T12:34:22.161147'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

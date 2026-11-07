@@ -1,0 +1,58 @@
+company:
+  name: Sprinklr
+  stage: null
+  focus: |-
+    Unified Customer Experience Management (Unified-CXM)
+    enterprise platform
+position:
+  title: IT AI and Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and maintains AI-driven support workflows,
+      builds Copilot Studio agents, and optimizes AI prompt
+      structures and chatbot performance — directly shaping LLM
+      agent behavior and output quality, so it is ai-first. This
+      is not merely consuming an AI API; the person designs the
+      agents, prompts, and integrations that determine the
+      conversational output.
+  responsibilities:
+  - Design, build, and maintain AI-driven support workflows using Microsoft Copilot
+    and related platforms
+  - Develop and manage Copilot Studio agents integrated with ITSM, asset management,
+    and request management systems
+  - Build Power Automate flows and API-based automations to reduce repetitive Tier
+    1 and Tier 2 support tasks
+  - Integrate internal systems via APIs and connectors to enable conversational IT
+    support and self-service
+  - Maintain and optimise automation scripts, workflows, and AI prompt structures
+  - Monitor chatbot and automation performance using usage analytics and continuously
+    improve effectiveness
+  - Ensure governance, auditability, and security controls across automation implementations
+  - Analyse ticket trends and propose scalable automation and pilot initiatives for
+    emerging AI tools
+  use_cases:
+  - Conversational IT support and self-service for employees
+  - Automation of repetitive Tier 1 and Tier 2 IT support tasks
+  - ITSM, service catalog, and request management automation
+  - High-volume ticket pattern reduction via scalable automations
+  - Chatbot performance monitoring and improvement for IT operations
+  skills:
+    genai: [Copilot Studio, Prompt Engineering, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Power Automate]
+    ops: []
+    languages: [C#, .NET, JavaScript, TypeScript, Python]
+    domains: []
+    other: [ITSM Platforms, Microsoft 365, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8671138'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T15:03:27.549325'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

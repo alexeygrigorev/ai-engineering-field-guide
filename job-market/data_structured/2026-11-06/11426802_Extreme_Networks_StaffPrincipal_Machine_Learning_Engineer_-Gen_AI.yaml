@@ -1,0 +1,50 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven networking solutions and services
+position:
+  title: Staff/Principal Machine Learning Engineer -Gen AI, Machine Learning, Graph
+    ML, Big Data(10030)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role centers on building high-performance microservices
+      and real-time inference infrastructure (Triton, TensorRT)
+      for models developed elsewhere; serving and scaling models
+      without shaping them is ai-support. No prompt design, RAG,
+      agent flows, or training/eval work is mentioned.
+  responsibilities:
+  - Drive an innovative vision for products and platforms and design strategic ML
+    solutions
+  - Lead the end-to-end software development lifecycle including design, testing,
+    deployment, and operations
+  - Craft high-performance, high-scale microservices architectures with synchronous
+    and asynchronous web services
+  - Develop real-time online inferencing for complex models using Triton, TensorRT,
+    and mixed precision computing
+  - Mentor engineers, establish technical direction, and foster team culture
+  - Build highly resilient and scalable systems and champion operational improvements
+  use_cases:
+  - Real-time online inferencing for complex ML models
+  - ML solutions for networking products and platforms
+  - Scalable cloud-driven networking analytics and automation
+  skills:
+    genai: []
+    ml: [PyTorch, Model Training]
+    web: [REST APIs, FastAPI]
+    databases: [NoSQL]
+    data: []
+    cloud: [SageMaker, AWS, Azure, GCP]
+    ops: [Triton, TensorRT, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Microservices, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11426802'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:49:06.371292'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

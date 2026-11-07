@@ -1,0 +1,50 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud technology and services
+position:
+  title: Software Development Engineer II - AI and Optimization
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack application developer on AI/ML-
+      powered security applications; AI/ML, LLMs, and agentic AI
+      are listed only as "familiarity" preferences, with no
+      evidence the person shapes model behaviour (no prompt
+      writing, RAG design, or training). The core work is building
+      and testing MERN/Python applications, so it is ai-support.
+  responsibilities:
+  - Design enhancements, updates, and programming changes for application components,
+    services, and supporting systems
+  - Analyze design requirements and determine coding, programming, testing, and integration
+    activities
+  - Develop application functionality using established engineering standards and
+    project guidelines
+  - Execute test plans, debug software issues, and improve code quality, performance,
+    and reliability
+  - Contribute to AI/ML-powered security applications as a member of cross-functional
+    engineering teams
+  - Collaborate with engineering teams and development partners on design status,
+    progress, and issue resolution
+  use_cases:
+  - AI/ML-powered security applications
+  - Enterprise product security tooling
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: []
+    web: [MERN Stack]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitOps, Docker, Jenkins, GitHub Actions, MLOps]
+    languages: [Python]
+    domains: []
+    other: [OWASP Top 10, Secure Coding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12063827'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:44:07.742760'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

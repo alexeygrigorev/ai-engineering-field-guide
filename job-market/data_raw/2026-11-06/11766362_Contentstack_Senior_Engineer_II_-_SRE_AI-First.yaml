@@ -1,0 +1,201 @@
+job_id: 11766362
+title: Senior Engineer II - SRE (AI-First)
+company: Contentstack
+location: Chennai, IND
+work_type: FULL_TIME
+company_size: 523 Employees
+description: |
+  What is Contentstack?
+
+  Contentstack is redefining how modern digital experiences
+  are built and managed. As the pioneer of the Agentic
+  Experience Platform (AXP), Contentstack brings together
+  structured content and brand governance (Content Cloud),
+  real-time customer data, omnichannel personalization (Data
+  Cloud) and autonomous AI orchestration (Agent OS) into one
+  unified system.
+
+  While many organizations adopted headless CMS or standalone
+  AI tools expecting transformation, they often found
+  themselves managing disconnected systems and manual
+  workflows. Contentstack helps enterprises move beyond that
+  complexity by connecting content, data and AI in a way that
+  makes digital experiences faster to launch, easier to manage
+  and more adaptive in real time.
+
+  Leading brands including Steve Madden, LG Electronics,
+  Subaru of America, Dolce & Gabbana, ASICS, Decathlon, and
+  Caesars Entertainment rely on Contentstack to reduce
+  operational friction and deliver personalized, scalable
+  digital experiences with confidence. The company is known
+  for its customer-first culture and commitment to the
+  communities it serves through the Contentstack Cares
+  program.
+
+  Learn more at www.contentstack.com.
+
+  Who Are We?
+
+  At Contentstack we are more than colleagues, we are a tribe.
+  Our vision is to pursue equity among our communities,
+  employees, partners, and customers. We are global-diverse
+  yet close; distributed yet connected. We are dreamers and
+  dreammakers who challenge the status quo. We do the right
+  thing, even when no one is watching. We are curious
+  trendspotters and brave trendsetters. Our mission is to make
+  Contentstack indispensable for organizations to tell their
+  stories and to connect with the people they care about
+  through inspiring, modern experiences. We care deeply about
+  our customers and the communities we serve.
+  #OneTeamOneDream. Chalo, let’s go!
+
+  What you will be working on
+
+  - Reliability of a multi-tenant platform under growth:
+    Defining SLIs and SLOs for the services in your area,
+    instrumenting them honestly, and having the error-budget
+    conversation when one is at risk.
+  - Making releases boring: Progressive delivery through Argo CD
+    — canary and blue/green, automated verification, fast
+    rollback — so a bad change is contained in minutes rather
+    than escalated.
+  - Release management at pace: Coordinating what ships and when
+    across [N] services, with change gates that catch problems
+    without becoming a queue.
+  - Helm as a product, not a pile of charts: Reusable, tested,
+    versioned charts that other teams can depend on.
+  - Incident response and what happens after: Leading incidents
+    on the platform, then writing the postmortem and landing
+    the follow-up work — the part most teams skip.
+  - Removing toil rather than absorbing it: Every recurring
+    manual task is a candidate for automation in Python, Bash,
+    or Ansible, and you'll have the time budget to actually do
+    it.
+  - Deciding what AI should and shouldn't touch in our delivery
+    path: Reviewing AI-authored Helm and pipeline code before
+    it reaches production, keeping secrets and customer data
+    out of agent context, scoping the credentials our CI
+    agents hold.
+
+  Roles & Responsibilities
+
+  - Service level management: Define and operate SLIs, SLOs, and
+    error budgets for platform services; make reliability
+    legible to engineering and product; drive the follow-
+    through when budgets are burned.
+  - Production on-call and incident response: Hold primary on-
+    call, act as incident commander, and run blameless
+    postmortems with tracked actions. Escalate cleanly to
+    Infra SecOps where infrastructure or credential changes
+    are required. Use AI-assisted analysis to improve triage,
+    root-cause identification, anomaly detection, and MTTR.
+  - Observability: Build and maintain the instrumentation, SLO
+    monitors, and dashboards in Datadog that make failure
+    visible before customers see it; reduce alert noise as
+    deliberately as you add alerts.
+  - CI/CD engineering: Design, operate, and optimise build and
+    deployment pipelines — caching, parallel execution,
+    automated testing, security scanning, deployment
+    verification. Manage artifacts and dependencies in the
+    Artifactory.
+  - Release management and progressive delivery: Own the release
+    process end-to-end; implement GitOps with Argo CD
+    including canary and blue/green rollouts, automated
+    validation, and rollback; run change management so that
+    shipping is routine rather than an event.
+  - Helm and deployment configuration: Build and maintain
+    production-grade Helm charts and libraries with testing,
+    versioning, policy validation, and reusable standards
+    across services.
+  - Kubernetes day-2 operations: Operate and troubleshoot
+    production Kubernetes — scheduling, autoscaling, resource
+    management, add-on lifecycle, workload networking — at a
+    depth that holds up at 3am. Cluster provisioning sits with
+    Infra SecOps; you'll partner with them on upgrades and
+    capacity changes.
+  - Toil reduction and automation: Identify and eliminate
+    recurring operational work with automation in Python,
+    Bash, and Ansible.
+  - Capacity and resilience: Workload-level capacity planning
+    and resource tuning, resilience and failover testing, and
+    feeding infrastructure capacity requirements into Infra
+    SecOps ahead of need.
+  - AI guardrails and review: Define how AI-generated deployment
+    and pipeline code is reviewed before it reaches
+    production, keep secrets and customer data out of prompts
+    and agent context, scope CI agent credentials to least
+    privilege, and maintain provenance for generated code.
+  - Cross-team partnership: Review and raise pull requests
+    against Infra SecOps' Terraform where platform changes are
+    needed, and keep the interface between the two teams
+    working.
+  - Technical leadership: Contribute to design and architecture
+    reviews, mentor engineers, and raise the bar on
+    availability, deployment speed, and developer experience.
+
+  Mandatory Skills
+
+  - Production on-call ownership: You've held the pager for a
+    SaaS platform, led incidents end-to-end, and written the
+    postmortems.
+  - SLO practice, not SLO vocabulary: You've defined SLIs and
+    SLOs for real services and can describe a decision and an
+    error budget changed.
+  - Kubernetes in production: Deep, hands-on day-2 operation and
+    troubleshooting of EKS — scheduling, autoscaling, resource
+    management, add-ons — not just deploying onto it.
+  - Helm depth: You've written charts and libraries that other
+    teams depend on, with tests and CI behind them.
+  - CI/CD engineering: You've built and owned pipelines at
+    scale, not just consumed them — and you can talk about
+    what you did to make them fast and trustworthy.
+  - Release engineering judgement: Practical experience with
+    progressive delivery and rollback — Argo CD, Flux, or
+    equivalent.
+  - Observability: Hands-on with Datadog or equivalent — you've
+    built the monitors and dashboards, not just read them.
+  - Systems fundamentals: Strong Linux, load balancing, and
+    application clustering; you can debug from logs, stack
+    traces, and core dumps.
+  - Demonstrated AI-assisted workflow: Show us something you
+    built — an agent or MCP integration, a prompt/context
+    library your team uses, an AI-assisted review or incident
+    workflow — and tell us where you decided not to use it.
+  - Works well across a boundary: You've operated in a model
+    where some remediation needs another team, and you know
+    how to make that fast rather than resentful.
+
+  What Do We Offer?
+
+  Interesting Work | We hire curious trendspotters and brave
+  trendsetters. This is NOT your boring, routine, cushy, rest-
+  and-vest corporate job. This is the “challenge yourself”
+  role where you learn something new every day, never stop
+  growing, and have fun while you’re doing it.
+
+  Tribe Vibe | We are more than colleagues, we are a tribe. We
+  have a strict “no a**hole policy” and enforce it diligently.
+  This means we spend time together - with spontaneous office
+  happy hours, organized outings, and community volunteer
+  opportunities. We are a diverse and distributed team, but we
+  like to stay connected.
+
+  Bragging Rights | We are dreamers and dream makers. Our
+  efforts pay off and we work with the most prestigious
+  brands, from big-name retailers to airlines, to professional
+  sports teams. Your contribution will make an impact with
+  many of the most recognizable names in almost every industry
+  including AirFrance KLM, ASICS, Burberry, Mattel,
+  Mitsubishi, Walmart, and many more!
+
+  One Team One Dream | This is one of our values, and it
+  shows. We don’t believe in artificial hierarchies. If you’re
+  part of the tribe, you have an opportunity to contribute.
+  Your voice will be heard and you will also receive regular
+  updates about the business and its performance. Which, btw,
+  is through the roof, so it’s a great time to be joining…
+
+  To review our Privacy Policy, please click here.
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-engineer-ii-sre-ai-first/11766362"
+source: Built In

@@ -1,0 +1,48 @@
+company:
+  name: Raydar
+  stage: null
+  focus: |-
+    Small software company automating document-heavy financial
+    processes
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-driven agent applications,
+      shaping agent flows, context design, and evaluation across
+      the full lifecycle. This is direct shaping of LLM/agent
+      behavior, so it is ai-first.
+  responsibilities:
+  - Design and develop LLM-driven agent applications that automate multi-step financial
+    processes
+  - 'Own the full lifecycle: prototyping, evaluation, release, monitoring, and continuous
+    improvement'
+  - Choose between rule-based code, assisted AI flows, or autonomous agents per problem
+  - Observe real work with founders and domain experts to identify and fix agent context
+    or design weaknesses
+  - Integrate AI capabilities naturally into the user experience
+  - Help steer the product roadmap based on hands-on agent work
+  use_cases:
+  - Automating multi-step financial processes
+  - Document-heavy business process automation
+  - Agent-based document processing and retrieval
+  skills:
+    genai: [LLMs, AI Agents, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11693212'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:36:52.621807'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

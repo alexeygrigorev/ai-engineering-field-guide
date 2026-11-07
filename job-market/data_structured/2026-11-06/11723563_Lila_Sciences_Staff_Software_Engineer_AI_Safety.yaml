@@ -1,0 +1,62 @@
+company:
+  name: Lila Sciences
+  stage: null
+  focus: |-
+    Building autonomous scientific superintelligence for
+    discovery
+position:
+  title: Staff Software Engineer, AI Safety
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds shared software infrastructure — services,
+      libraries, data pipelines, and internal apps — that enable
+      the safety team's evaluations and red-teaming, but the
+      person does not themselves shape model behaviour, design
+      prompts/retrieval, or build the evals/guardrails. Per the
+      edge case, safety oversight and tooling for others' research
+      workflows is ai-support unless they build the evals or
+      guardrails themselves, which this description does not
+      state.
+  responsibilities:
+  - Build reusable services, libraries and model/tool integrations that make evaluations,
+    red-teaming campaigns and mitigation experiments repeatable
+  - Develop applications that help researchers and scientific experts organize evidence,
+    inspect results, review data and investigate failures
+  - Work with safety colleagues to identify shared engineering needs and turn evolving
+    research workflows into maintainable software
+  - Build data pipelines and experiment records preserving datasets, taxonomies, model
+    versions, configurations and results for traceability
+  - Own reliability and usability of shared safety tools through testing, debugging,
+    monitoring, documentation and improvement
+  - Collaborate with core AI and software engineering teams to share tooling and align
+    on infrastructure
+  use_cases:
+  - Safety evaluations of scientific AI models and agents
+  - Red-teaming campaigns for scientific superintelligence
+  - Mitigation experiments to reduce societal risks from scientific AI
+  - Evidence management and failure investigation tools for safety researchers
+  - Traceable experiment records for reproducible safety research
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Databases]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [System Design, Testing, Debugging]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11723563'
+  location: Cambridge, USA
+  locations:
+  - Cambridge, USA
+  - San Francisco, USA
+  - London, GBR
+  extracted_at: '2026-11-06T12:42:55.951030'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

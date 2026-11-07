@@ -1,0 +1,50 @@
+company:
+  name: Daptic
+  stage: null
+  focus: |-
+    AI platform automating product regulatory compliance for
+    manufacturers
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns core LLM/NLP models end-to-end, builds NLP
+      pipelines for regulatory document analysis, selects and
+      works with various LLMs and agentic frameworks, and iterates
+      model versions — clearly shaping model behaviour with LLMs
+      involved.
+  responsibilities:
+  - Lead development of core AI/NLP systems end-to-end
+  - Translate product strategy into iterative, scalable product/model versions for
+    rapid user testing
+  - Lead team in selecting technology stack, frameworks, and tools for experimentation,
+    testing, and tracking
+  - Own architecture and development of working product/models
+  - Strategize tradeoffs between speed and scalability
+  - Collaborate with Product, Go-to-Market, and Data teams and iterate with customers
+  use_cases:
+  - Automated identification of regulations relevant to products in development
+  - NLP analysis of complex legal and regulatory documents
+  - Product regulatory compliance automation for manufacturing (automotive, aerospace,
+    construction, medical)
+  - Accelerating product launches at manufacturing companies
+  skills:
+    genai: [LLMs, Agentic Workflows, OpenAI API, Anthropic API, Gemini]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11462800'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:54:33.508684'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

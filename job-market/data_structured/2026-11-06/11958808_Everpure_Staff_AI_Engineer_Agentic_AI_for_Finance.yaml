@@ -1,0 +1,51 @@
+company:
+  name: Everpure
+  stage: null
+  focus: Enterprise data storage and data platform technology
+position:
+  title: Staff AI Engineer, Agentic AI for Finance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects multi-agent workflows (LangGraph,
+      Bedrock AgentCore), designs MCP servers and retrieval
+      pipelines, and builds evaluation suites and guardrails -
+      directly shaping LLM/agent behavior and output quality.
+      Clear ai-first.
+  responsibilities:
+  - Architect and ship auditable multi-agent workflows using LangGraph and Amazon
+    Bedrock AgentCore for financial processes
+  - Design secure least-privilege MCP servers and Snowflake retrieval pipelines for
+    safe enterprise data access
+  - Build user review portals, admin consoles, and human-in-the-loop governance workflows
+    for data safety and SOX compliance
+  - Establish automated evaluation suites, shadow-mode release gates, and real-time
+    observability for latency, drift, and cost
+  - Provide hands-on technical guidance via pull request reviews, architectural blueprints,
+    and mentorship for internal and partner teams
+  - Translate financial logic into deterministic, review-ready production systems
+  use_cases:
+  - Autonomous financial workflow automation
+  - Human-in-the-loop financial governance and SOX compliance
+  - Secure enterprise data access via MCP and Snowflake retrieval
+  - Automated finance reporting and insights for the CFO organization
+  - AI safety controls including prompt defense and PII masking
+  skills:
+    genai: [LangGraph, MCP, Agentic Workflows, Multi-Agent Systems, LLMs, Guardrails]
+    ml: []
+    web: [FastAPI, GraphQL]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [LLM Evaluation, Observability, Docker, CI/CD]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11958808'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:11:17.389830'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

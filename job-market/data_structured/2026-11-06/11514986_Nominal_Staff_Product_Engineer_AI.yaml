@@ -1,0 +1,53 @@
+company:
+  name: Nominal
+  stage: Backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed
+  focus: |-
+    Connected test and operations platform for advanced hardware
+    engineering
+position:
+  title: Staff Product Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent products and AI-native applications
+      end to end, including setting agent UX patterns, designing
+      agent interactions, and working on Nominal's agents and MCP
+      — directly shaping agent behavior and output. LLM/agent
+      components are central, so ai-first. Using AI coding agents
+      daily is incidental but the primary work is building agent
+      products.
+  responsibilities:
+  - Prototype new agent products and interactions quickly and validate ideas with
+    engineers
+  - 'Take agent product ideas from zero to one: shape, build, and ship end to end'
+  - Obsess over user experience by studying how engineers work with agents and iterating
+  - 'Set patterns for agent UX across Nominal: streaming work, showing steps, citing
+    sources, human takeover'
+  - Turn hardware workflows (reviews, qualification, reporting) into agent-native
+    products
+  - Lead technically across product engineers and partner with design, product, and
+    the agent platform team
+  use_cases:
+  - Agents reasoning over hardware telemetry and test campaigns
+  - Agent-native products for hardware reviews, qualification, and reporting
+  - AI-native applications across the hardware engineering lifecycle
+  - Agent UX with streaming work, reviewable steps, and human takeover for engineers
+  skills:
+    genai: [MCP, AI Agents, Agentic Workflows, Claude Code, Cursor, Codex]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11514986'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:03:24.109584'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Arting Digital
+  stage: null
+  focus: Digital software development and services
+position:
+  title: Python Developer+AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered solutions using LLMs, Generative
+      AI, OpenAI APIs, and LangChain, going beyond merely
+      consuming an API to developing GenAI solutions, which counts
+      as shaping model behavior (prompt/LLM application work). LLM
+      involvement makes it ai-first.
+  responsibilities:
+  - Develop and maintain applications using Python
+  - Work on AI/ML-based projects and application development
+  - Integrate AI models and third-party APIs into applications
+  - Build and maintain REST APIs using Flask or FastAPI
+  - Work with databases such as MySQL, PostgreSQL, or MongoDB
+  - Assist in developing AI-powered solutions using LLMs and Generative AI
+  - Debug, test, and optimize application performance
+  - Collaborate with the development team to deliver scalable solutions
+  use_cases:
+  - AI/ML-based application development
+  - LLM and Generative AI powered solutions
+  - AI model and third-party API integration
+  - REST API backend services
+  skills:
+    genai: [Generative AI, LLMs, OpenAI API, LangChain, LlamaIndex]
+    ml: [Machine Learning]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [MongoDB, MySQL, PostgreSQL]
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12006987'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T14:26:46.640683'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

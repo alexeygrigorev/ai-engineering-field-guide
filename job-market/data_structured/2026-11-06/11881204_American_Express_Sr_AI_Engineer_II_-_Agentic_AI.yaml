@@ -1,0 +1,53 @@
+company:
+  name: American Express
+  stage: null
+  focus: Global financial services and payments company
+position:
+  title: Sr AI Engineer II - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered agentic systems,
+      builds tool-calling agents, architectures RAG pipelines, and
+      contributes to agent orchestration and evaluation tooling —
+      all direct model-behaviour shaping with LLM/agent
+      components.
+  responsibilities:
+  - Design, build, and ship LLM-powered and agentic product features for customers
+    managing finances
+  - Build agentic AI systems that reason over context, invoke tools, take actions,
+    and recover from failure
+  - Architect and implement production-grade RAG pipelines over sensitive financial
+    data
+  - Contribute to shared AI infrastructure including LLM services, agent orchestration
+    frameworks, and evaluation/monitoring tooling
+  - Own systems in production including reliability, latency, cost, and failure modes
+  - Partner with product and design on customer outcomes
+  use_cases:
+  - Customer-facing LLM features for managing finances
+  - Agentic automation of financial workflows
+  - Autonomous decision support for commerce
+  - Internal AI capabilities enabling engineers to build with AI safely
+  - RAG over sensitive financial data with auditability requirements
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, RAG, Function Calling]
+    ml: [Applied ML]
+    web: [REST APIs, gRPC, React]
+    databases: [Vector Databases]
+    data: [Kafka]
+    cloud: [AWS, GCP]
+    ops: [LLM Evaluation, Kubernetes, Monitoring, CircleCI]
+    languages: [Python, Go, TypeScript, Kotlin, SQL]
+    domains: []
+    other: [Event-Driven Architecture, iOS/Swift, Android]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881204'
+  location: Phoenix, USA
+  locations:
+  - Phoenix, USA
+  - New York, USA
+  extracted_at: '2026-11-06T13:29:29.660818'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

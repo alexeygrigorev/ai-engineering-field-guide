@@ -1,0 +1,52 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Lead Software Engineer (AI Platform) - Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role owns and operates cloud/GPU infrastructure,
+      scheduling, CI/CD, and reliability for an AI research
+      platform; it does not shape model behaviour through prompts,
+      retrieval design, or training itself. Partners translate
+      research requirements into platform capabilities, which is
+      plumbing, not shaping.
+  responsibilities:
+  - Own the architecture, roadmap, and engineering of the AI research platform
+  - Design and operate secure, scalable cloud and CPU/GPU infrastructure including
+    clusters, scheduling, storage, and networking
+  - Build reproducible self-service research environments and platform automation
+    with containers, IaC, and CI/CD
+  - Partner with researchers to translate LLM, agentic AI, and evaluation project
+    needs into platform capabilities
+  - Assess and onboard new AI infrastructure technologies and accelerators through
+    benchmarks and pilots
+  - Maintain platform reliability via observability, incident response, patching,
+    and operational controls
+  use_cases:
+  - AI research platform for LLM and agentic AI experimentation
+  - GPU-intensive model training and inference infrastructure
+  - Model evaluation and benchmarking environments
+  - Retrieval pipeline and accelerator benchmarking support
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, CloudFormation, CI/CD, Kubernetes, Docker, Linux, Monitoring,
+      Infrastructure as Code, Distributed Systems]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11469300'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:55:41.389976'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

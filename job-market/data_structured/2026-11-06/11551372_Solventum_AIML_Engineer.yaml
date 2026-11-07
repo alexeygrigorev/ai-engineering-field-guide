@@ -1,0 +1,53 @@
+company:
+  name: Solventum
+  stage: null
+  focus: Healthcare technology and data science solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM, RAG, generative AI, and agentic AI
+      systems, including designing agent orchestration and
+      applying model evaluation frameworks, which directly shapes
+      model behavior and output quality. LLM/agent components are
+      involved, so it is ai-first.
+  responsibilities:
+  - Design, develop, and implement AI/ML solutions from proof of concept through production
+    deployment
+  - Build traditional machine learning models and modern AI techniques including LLMs,
+    generative AI, RAG, and agentic AI systems
+  - Collaborate with engineers, product managers, data scientists, and business stakeholders
+    to define scope and success metrics
+  - Apply model evaluation frameworks to assess performance, generalization, bias,
+    and adversarial resilience
+  - Support transitioning AI prototypes into production-ready systems with deployment
+    and lifecycle management
+  - Contribute to documentation, governance, and compliance processes for regulated
+    healthcare environments
+  use_cases:
+  - AI/ML solutions for healthcare business problems
+  - Generative AI and RAG systems in regulated environments
+  - Agentic AI systems with tool usage and orchestration
+  - Production AI deployment with monitoring and lifecycle management
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, LLMs, Generative AI, LLM
+        Evaluation, AWS Bedrock, Azure AI Foundry, Function Calling]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep Learning, Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11551372'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:10:53.391291'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

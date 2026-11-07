@@ -1,0 +1,54 @@
+company:
+  name: CFC
+  stage: null
+  focus: Specialist insurance provider with AI-driven underwriting
+position:
+  title: Senior Software Engineer (AI & ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI agents:
+      orchestration, durable state, guardrails, tool integrations,
+      and evaluations with ML engineers. This is directly shaping
+      LLM/agent behavior, making it ai-first.
+  responsibilities:
+  - Design, build and run production AI agents that automate multi-step underwriting
+    decisions over unstructured data
+  - Build the agent runtime including orchestration, durable state, retries and long-running
+    workflows that recover from failure
+  - Develop tools, APIs and data services that agents call, with clear contracts and
+    full auditability
+  - Engineer guardrails, human-in-the-loop checkpoints and fallbacks for high-stakes
+    automated decisions
+  - Instrument, monitor and troubleshoot agents in production including tracing, cost,
+    latency and decision logs, turning insights into evaluations
+  - Design and evolve data models and database schemas supporting submissions, agent
+    runs, decisions and audit trails
+  - Provision and manage cloud infrastructure through Terraform
+  - Support other engineers through code reviews, best-practice guidance and knowledge
+    sharing
+  use_cases:
+  - Autonomous multi-step underwriting decisions in insurance
+  - Agents reasoning over unstructured data to assess risk
+  - High-stakes regulated decision automation with human-in-the-loop checkpoints
+  - Auditable, observable agent workflows with tracing and decision logs
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, LangGraph, LangChain, Guardrails]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices]
+    databases: [PostgreSQL, Azure Service Bus]
+    data: [Databricks]
+    cloud: [Azure]
+    ops: [Terraform, Docker, Kubernetes, GKE, ECS, Azure Container Apps, CI/CD, YAML
+        Pipelines, Monitoring, Observability]
+    languages: [Python, Go, Java, C#]
+    domains: []
+    other: [Asynchronous Programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12036556'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:36:40.403735'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Chubb
+  stage: null
+  focus: Global property and casualty insurance
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behaviour: pre-training, fine-
+      tuning, preference alignment, prompt engineering, and
+      building datasets for instruction tuning. LLM involvement
+      makes it ai-first.
+  responsibilities:
+  - Design, build, and serve LLMs to solve complex business challenges using Azure
+    (CPU & GPU environments)
+  - Research and implement state-of-the-art LLM techniques including pre-training,
+    fine-tuning, and preference alignment
+  - Develop novel datasets enabling LLMs to perform new tasks, with tooling/platforming
+    to collect samples at scale
+  - Build reusable pipelines, processes, and tools to streamline LLM and generative
+    AI workflows
+  - Ensure high quality code meeting business objectives and development guidelines
+  - Manage project stakeholder expectations and communicate progress
+  use_cases:
+  - AI-enabled digital solutions for P&C insurance
+  - LLM pre-training, fine-tuning, and alignment for business tasks
+  - Dataset development and collection pipelines for LLM training
+  skills:
+    genai: [LLMs, Fine-Tuning, Prompt Engineering, Generative AI, RLHF]
+    ml: [PyTorch, Transformers, Deepspeed]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Kubernetes, Docker]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957339'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:10:21.884942'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

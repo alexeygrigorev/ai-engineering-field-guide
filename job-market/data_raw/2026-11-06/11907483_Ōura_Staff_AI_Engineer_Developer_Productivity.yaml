@@ -1,0 +1,236 @@
+job_id: 11907483
+title: Staff AI Engineer, Developer Productivity
+company: Ōura
+location: London, GBR
+work_type: FULL_TIME
+company_size: 850 Employees
+description: |
+  Our mission at ŌURA is to empower every person to own their
+  inner potential. Our award-winning products help our global
+  community gain a deeper knowledge of their readiness,
+  activity, and sleep quality by using their Oura Ring and its
+  connected app. We've helped millions of people understand
+  and improve their health by providing daily insights and
+  practical steps to inspire healthy lifestyles.
+
+  Empowering the world starts with living our values and
+  empowering our team. As a quickly growing company focused on
+  helping people live healthier and happier lives, we ensure
+  that our team members have what they need to do their best
+  work — both in and out of the office.
+
+  About the role
+
+  Oura is rebuilding how it builds software. Every engineer
+  has agentic tooling, and our own pipeline already takes a
+  well-formed ticket to a reviewed, tested commit stack. It
+  runs interactively, headless, and on a cloud sandbox fleet,
+  with its own evals and tracing. We are looking for engineers
+  who use AI as a fundamental building block of both the
+  products we ship and the way we build them.
+
+  That is a strong start on one stage of the lifecycle. The
+  next step is the whole loop. As a Staff Engineer on the AI
+  Transformation team, you will architect and own the system
+  that turns agentic development from something power users do
+  into the way hundreds of engineers across iOS, Android,
+  backend and AI services ship every day. That means spec and
+  intake, planning, implementation, review, testing, CI/CD,
+  release, observability and incident follow-up, each with
+  agents doing real work and humans keeping judgment where it
+  matters.
+
+  This is a fast-moving, LLM-forward team. We prioritize rapid
+  prototyping, iterative loops and AI-native development, with
+  the speed of a startup and the reach of a product used by
+  millions of members. You can work hybrid from our UK office
+  in London. You will need the existing right to work in the
+  UK; we are not able to sponsor a visa for this role.
+
+  You will build the pipeline, measure it, and make it
+  trustworthy enough that teams choose it. Success is measured
+  in validated changes reaching members faster and safer: time
+  to a trustworthy signal, escaped defects, cost per merged
+  change, and how many squads run on the paved path because it
+  is better, not because they were told to.
+
+  What you will do
+
+  You don't need to do all of these on day one, but these are
+  the kinds of problems you'll own:
+
+  - Set the technical direction for the agentic pipeline: Make
+    our existing ticket-to-PR pipeline dependable
+    infrastructure. Own its architecture, including agent
+    orchestration, context management and tool calling, and
+    improve its reliability, throughput, cost and developer
+    experience across mobile, backend and web repositories.
+    Run it unattended where the risk allows.
+  - Close the loop across the SDLC: Extend agentic workflows
+    beyond code generation into spec quality checks, test
+    generation, automated review, CI failure triage and
+    repair, release verification, and post-deploy signals, so
+    the system improves from what happens after merge.
+  - Prototype fast, then harden: Get a new workflow running in
+    days, prove it on real tickets with real squads, and turn
+    what holds up into production infrastructure.
+  - Run AI in production properly: Agents in production take
+    more than an API call. Own the eval sets, LLM-as-a-judge
+    grading, versioning, tracing and dashboards that tell us
+    whether a workflow change made things better, including
+    the hardest case: a change that passes CI and is still
+    wrong. Track the numbers that matter (merge rate, rework,
+    time-to-signal, cost per change, escaped defects) and make
+    them visible to engineers and leadership.
+  - Make autonomy safe: Design sandboxing, permissions, human
+    checkpoints and guardrails proportional to risk, with
+    privacy by design as the default. Health data, security
+    and infrastructure changes get stronger controls; low-
+    risk, easily verified work runs hands-off.
+  - Lead AI-native engineering by example: Set the bar for AI-
+    augmented engineering across the organization. Show in
+    your own work what a pipeline-first engineer ships, and
+    raise the craft of the engineers around you.
+  - Drive adoption with the teams: Embed with squads and their
+    AI DRIs, find where the pipeline breaks on real work, fix
+    the system rather than the single output, and turn what
+    works into paved paths, skills, templates and docs other
+    engineers can extend.
+  - Partner cross-functionally: Work with platform, developer
+    productivity, security and privacy, AI infrastructure,
+    mobile and backend squads, product and design, and
+    engineering leadership to make trade-offs explicit and
+    keep everyone moving on one system instead of five
+    parallel ones.
+
+  Requirements
+
+  We'd love to hear from you if you are:
+
+  - An experienced builder: Building and operating production
+    systems that other engineers depend on, including
+    developer tooling, internal platforms, or AI
+    infrastructure at scale. We weigh demonstrated outcomes
+    over years.
+  - Proven with agentic loops in production: You have built and
+    operated agentic coding workflows or autonomous loops in a
+    real engineering organization, beyond demos: background
+    agents producing PRs, automated review, CI repair, test
+    generation, or similar, with adoption and measured
+    results.
+  - A whole-lifecycle thinker: You reason about specification,
+    review, testing, CI/CD, release and operations as one
+    system, and you know where the bottleneck moves when code
+    generation gets cheap.
+  - A technical leader: You set direction across teams you don't
+    manage, write the designs others build on, and are trusted
+    with the hard calls on architecture and risk.
+  - Strong on fundamentals: mobile domain or backend APIs,
+    concurrency, distributed systems, testing, debugging and
+    reliability. You treat AI output as a draft and can show
+    how you verify it.
+  - Technically versatile: Fluency in one domain of backend,
+    iOS, or Android, with a stretch into others. You use the
+    tools available to work across platforms and pick up new
+    stacks quickly.
+  - Security and privacy conscious: You understand the
+    responsibility of handling sensitive personal data and of
+    giving agents access to real systems, and you design for
+    both from the start.
+  - High agency: You thrive in ambiguity and shape the
+    requirements yourself through experimentation.
+  - Collaborative and resilient: You bring teams along, take
+    feedback from engineers who are skeptical, share credit,
+    and keep going when experiments fail or the tooling
+    changes under you. You communicate clearly with engineers,
+    managers and non-engineering partners.
+
+  Would be a benefit
+
+  You don't need all of these, but they're nice signals of
+  fit:
+
+  - Experience with coding agents at depth: skills, MCP servers,
+    hooks, sub-agent orchestration, headless runs.
+  - Built evaluation harnesses or benchmarks for coding agents,
+    or LLM-as-judge grading tied to build and test outcomes.
+  - Experience with sandboxed execution at scale: ephemeral dev
+    environments, VM or container fleets, macOS build
+    infrastructure.
+  - Background in developer productivity measurement (DORA,
+    SPACE, DX Core 4) and in turning metrics into decisions
+    without turning them into targets.
+  - Shipped to mobile apps or other environments with slow,
+    expensive feedback loops.
+  - Experience in digital health, wearables, MedTech, or other
+    privacy-sensitive or regulated products.
+  - Contributions to open-source AI projects, or a portfolio of
+    projects built on the latest agent capabilities.
+  - Mentored engineers or led an engineering community of
+    practice.
+
+  What we offer
+
+  At Oura, we care about you and your well-being. Everyone
+  here at Oura has a ring of their own and we are continually
+  looking to improve employee health and add to our benefits!
+  What we offer:
+
+  - Competitive salary
+  - An Oura Ring of your own + employee discounts for friends &
+    family
+  - Flexible working hours
+  - Amazing culture of collaborative and passionate coworkers
+
+  If this sounds like the next step for you, please send us
+  your application and CV as soon as possible.
+
+  ŌURA is proud to be an equal opportunity workplace. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. Individuals seeking
+  employment at ŌURA are considered without regard to age,
+  ancestry, color, gender (including pregnancy, childbirth, or
+  related medical conditions), gender identity or expression,
+  genetic information, marital status, medical condition,
+  mental or physical disability, national origin, protected
+  family care or medical leave status, race, religion
+  (including beliefs and practices or the absence thereof),
+  sexual orientation, military or veteran status, or any other
+  characteristic protected by federal, state, or local laws.
+  We will not tolerate discrimination or harassment based on
+  any of these characteristics.
+
+  We will work to ensure individuals with disabilities are
+  provided reasonable accommodation to participate in the
+  interview process, to perform essential job functions, and
+  to receive other benefits and privileges of employment.
+
+  Disclaimer: Beware of fake job offers! We’ve been alerted to
+  scammers posing as ŌURA recruiters, especially for remote
+  roles. Please note:
+
+  - Our jobs are listed only on the ŌURA Careers page and
+    trusted job boards.
+  - We will never ask for personal information like ID or
+    payment for equipment upfront.
+  - Official offers are sent through Docusign after a verbal
+    offer, not via text or email.
+
+  Stay cautious and protect your personal details.
+
+  To all recruitment agencies: ŌURA does not accept agency
+  resumes. Please do not forward resumes to our jobs alias,
+  ŌURA employees, or any other organization's location. ŌURA
+  is not responsible for any fees related to unsolicited
+  resumes.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Marketing Tech
+  - Software
+  - Biotech
+  - Design
+posted_date: 2026-10-27
+url: "https://builtin.com/job/staff-ai-engineer-developer-productivity/11907483"
+source: Built In

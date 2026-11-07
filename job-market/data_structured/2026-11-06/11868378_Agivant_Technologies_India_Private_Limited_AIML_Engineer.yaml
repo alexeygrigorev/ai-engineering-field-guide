@@ -1,0 +1,47 @@
+company:
+  name: Agivant Technologies India Private Limited
+  stage: null
+  focus: IT services and consulting building AI/ML solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through prompt engineering,
+      fine-tuning, RAG systems, embeddings, and Agentic AI
+      frameworks (AutoGen, LangGraph, CrewAI), alongside classical
+      ML. With a substantial LLM/agent component, it is ai-first.
+  responsibilities:
+  - Build AI/ML, GenAI, and Agentic AI solutions for customer business problems
+  - Design, develop, and deploy machine learning models and algorithms
+  - Conduct research and stay current with AI/ML, GenAI, and Agentic AI advancements
+  - Lead a team of junior AI engineers, providing direction and support
+  - Deploy ML and GenAI solutions into production environments
+  - Translate business requirements into data science and GenAI solutions
+  use_cases:
+  - Customer business problem solutions using predictive ML, GenAI, and Agentic AI
+  - RAG-based retrieval and search systems
+  - Agentic AI workflows and automation
+  - Production ML model deployment
+  - Large-scale data extraction and ETL flows
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [GCP, AWS, Azure]
+    data: [Pandas, Data Pipelines]
+    ml: [FAISS, NumPy, scikit-learn, TensorFlow, PyTorch, Transformers, Hugging Face,
+      MLlib, Machine Learning, Deep Learning, Model Deployment]
+    databases: [Pinecone, Vector Databases]
+    genai: [Prompt Engineering, Fine-Tuning, LLMs, Embeddings, RAG, AutoGen, LangGraph,
+      CrewAI, Agentforce]
+    ops: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11868378'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:25:48.365881'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

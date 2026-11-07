@@ -1,0 +1,59 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: null
+  focus: Integrated container logistics and global trade services
+position:
+  title: Lead Engineer - Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes designing LLM systems to production
+      (retrieval, tool calling, structured output, guardrails,
+      evaluation) and setting agentic engineering practice
+      including MCP servers and evaluation harnesses, which
+      directly shapes LLM/agent behaviour. Hence ai-first despite
+      heavy data-platform scope.
+  responsibilities:
+  - Own architecture for major data and AI platform components, from storage layer
+    to application and agent layer
+  - Define target architectures and migration paths with attention to open standards
+    and interoperability
+  - Write and deploy production code, personally building difficult components and
+    reference implementations
+  - Make build-vs-buy decisions considering cost, operational load and dependency
+    risk
+  - 'Design platform foundations: data contracts, lineage, schema evolution, access
+    control, cost management'
+  - Set the agentic engineering practice across the group, including internal tooling,
+    MCP servers, reusable skills and evaluation harnesses
+  - Raise the engineering bar through design review, code review and mentoring
+  - Partner with Product, Business stakeholders and Engineering Managers on sequencing
+    and technical risk
+  use_cases:
+  - Data and AI platform powering container logistics operations
+  - Agentic systems built on top of the data platform
+  - Agentic coding tooling and standards for engineering teams
+  - Batch and streaming data ingestion and transformation at scale
+  - Multi-tenant data governance, lineage and data quality
+  skills:
+    genai: [Agentic Workflows, MCP, RAG, Structured Outputs, Function Calling, LLM
+        Evaluation, Guardrails, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Iceberg]
+    data: [Data Pipelines, Data Modeling, Delta Lake, Change Data Capture, dbt, Data
+        Governance, Data Analysis]
+    cloud: []
+    ops: [Model Deployment, Distributed Systems, Observability, Terraform, Kubernetes,
+      Infrastructure as Code, Code Review]
+    languages: [Python, R, SQL]
+    domains: []
+    other: [Hudi, Event-Driven Architecture, Bicep, Open Source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11349891'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T11:34:30.825521'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: TechBlocks
+  stage: null
+  focus: Technology consulting and software development services
+position:
+  title: Senior Data Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-agent orchestration, agent
+      memory, RAG, prompt engineering, and knowledge graphs for
+      LLM-based data analyst agents, directly shaping model
+      behavior and agent flows. LLM/agent components dominate, so
+      it is ai-first.
+  responsibilities:
+  - Build multi-agent orchestration frameworks with memory and caching layers
+  - Design and instrument knowledge graph architectures for agent reasoning
+  - Develop conversational analytics using Gemini Enterprise, Google ADK, and MCP
+  - Configure BigQuery Data Agents and address data quality and deep research issues
+  - Implement end-to-end security and observability for production agents
+  - Build ETL/ELT pipelines and analytics-ready datasets on GCP
+  use_cases:
+  - Conversational data analytics agents
+  - Automated data analysis via multi-agent orchestration
+  - Knowledge graph-backed agent reasoning
+  - Data quality and deep research automation in BigQuery
+  - Analytics-ready data pipelines on GCP
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: [APIs]
+    cloud: [GCP, Vertex AI]
+    data: [Data Pipelines]
+    ml: []
+    databases: [BigQuery, Vector Databases]
+    genai: [LLMs, Multi-Agent Systems, Agentic Workflows, Function Calling, Gemini,
+      OpenAI API, Anthropic API, Google ADK, MCP, RAG, Prompt Engineering, Knowledge
+        Graphs]
+    ops: [Docker, Observability, Monitoring, Distributed Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11742327'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-11-06T12:45:31.206208'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

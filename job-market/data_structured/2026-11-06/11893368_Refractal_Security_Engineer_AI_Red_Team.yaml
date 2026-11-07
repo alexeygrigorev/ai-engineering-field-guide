@@ -1,0 +1,50 @@
+company:
+  name: Refractal
+  stage: null
+  focus: AI security infrastructure against AI-enabled threats
+position:
+  title: Security Engineer (AI Red Team)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role red-teams deployed LLM applications and agents,
+      designing adversarial test cases like indirect prompt
+      injection and tool misuse, and building
+      evaluation/regression suites for model behaviour. Judging
+      model output quality and probing LLM behaviour via prompts
+      and agentic systems is shaping, so it is ai-first.
+  responsibilities:
+  - Design and execute adversarial security assessments of AI applications and agents
+    with realistic attacker goals
+  - Test threats such as indirect prompt injection, misuse of connected tools, sensitive
+    data exposure, and permission boundary crossing
+  - Build reproducible test cases and small testing tools demonstrating security impact
+  - Analyse how model behaviour, application design, identity, and permissions combine
+    to create vulnerabilities
+  - Document findings, recommend mitigations, and retest fixes with responsible engineers
+  - Establish a repeatable assessment methodology and a growing regression test suite
+  use_cases:
+  - Adversarial red-teaming of deployed AI agents and applications
+  - Detection of indirect prompt injection and tool misuse
+  - Prevention of sensitive data exposure and permission boundary violations in AI
+    systems
+  - Regression testing of recurring AI security failure modes
+  skills:
+    genai: [Prompt Injection, AI Agents, Agentic Workflows, LLMs, RAG, LLM Evaluation]
+    ml: []
+    web: [Web Applications, APIs, Authentication, Authorization]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Testing Automation]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893368'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:47:43.118761'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

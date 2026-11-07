@@ -1,0 +1,48 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and audio learning products
+position:
+  title: Software Engineer, AI Data - Nantes, France
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed model training runs owned by AI
+      scientists. It does not itself shape model behaviour (no
+      prompt, eval, fine-tuning, or output-quality work), so it is
+      ai-support per the dataset-pipeline rule.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimized for data quality,
+    throughput, and cost
+  - Build high-quality datasets at petabyte scale
+  - Collaborate with AI scientists to improve training datasets and support next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Text-to-speech model training datasets
+  - Large-scale audio data acquisition and processing
+  - Next-generation AI audio product development
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Data Acquisition, Distributed Systems, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762283'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:00:26.377901'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Professional information services and software solutions
+position:
+  title: Sr. Software Test Automation Engineer – Playwright with TypeScript and Agentic
+    AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM evaluation strategies, prompt
+      evaluation, RAG testing, hallucination detection, rubrics,
+      and golden datasets, plus Agentic AI workflows and MCP
+      integrations for QE. Judging LLM output quality and building
+      evals is shaping model behavior, so it is ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable UI and API automation frameworks using
+    Playwright and TypeScript
+  - Integrate automated tests into CI/CD pipelines and monitor automation effectiveness
+    with quality metrics
+  - Apply Agentic AI and LLM capabilities to test generation, self-healing automation,
+    failure analysis, and intelligent regression selection
+  - Implement AI agents, MCP-based integrations, and AI-assisted QE workflows
+  - Develop evaluation strategies for AI-powered applications including LLM response
+    validation, hallucination detection, prompt evaluation, rubrics, and golden datasets
+  - Define automation architecture, coding standards, and reusable components across
+    teams
+  - Reduce flaky tests through resilient locators, test isolation, and failure diagnostics
+  - Mentor engineers and promote modern automation and quality engineering practices
+  use_cases:
+  - Automated UI, API, integration, and end-to-end test automation
+  - AI-assisted test generation and self-healing automation
+  - LLM application testing and evaluation including hallucination and factuality
+    checks
+  - RAG testing and evaluation
+  - Intelligent regression selection and failure root-cause analysis
+  - Requirements-to-test traceability and coverage analysis
+  skills:
+    languages: [TypeScript, JavaScript]
+    domains: []
+    web: [Playwright, REST, APIs]
+    cloud: [AWS, Azure]
+    data: []
+    ml: []
+    databases: [Vector Databases]
+    genai: [Agentic Workflows, AI Agents, MCP, LLMs, Generative AI, Prompt Engineering,
+      LLM Evaluation, RAG, Embeddings, GitHub Copilot, Anthropic API, ChatGPT]
+    ops: [CI/CD, GitHub Actions, Jenkins, Azure DevOps, GitLab CI, Git, Docker, Kubernetes]
+    other: [Postman, BDD/Gherkin, Selenium, Contract Testing, Performance Testing,
+      JMeter, k6, Jira, qTest, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11500659'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:00:24.648384'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

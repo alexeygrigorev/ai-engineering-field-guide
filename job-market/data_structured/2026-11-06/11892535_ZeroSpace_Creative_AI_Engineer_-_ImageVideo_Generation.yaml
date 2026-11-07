@@ -1,0 +1,51 @@
+company:
+  name: ZeroSpace
+  stage: null
+  focus: |-
+    Digital agency and production studio for virtual production,
+    CG, and immersive experiences
+position:
+  title: Creative AI Engineer - Image/Video Generation
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains and fine-tunes image/video diffusion models
+      (LoRAs, ControlNet, FLUX, Stable Diffusion), which is
+      shaping generative model output. Per the rules, generative
+      models producing images/video are ml-first, not ai-first.
+  responsibilities:
+  - Design and implement AI workflows for creative production using ComfyUI
+  - Collaborate with artists and creative technologists to define workflow requirements
+  - Integrate 3D production outputs as guidance for generative models
+  - Create LoRAs and fine-tunes for image and video diffusion models, including dataset
+    prep
+  - Implement video generation features in ComfyUI such as conditioning controls,
+    noise injection, and video extension
+  - Create utility scripts and nodes for data processing and parameter tweaking
+  - Bridge cutting-edge AI research with practical production applications
+  use_cases:
+  - Style transfer for creative production
+  - ControlNet-guided image generation
+  - Image and video upscaling
+  - Brand-specific fine-tuned generation
+  - AI-augmented narrative storytelling and commercial production
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: []
+    data: []
+    ml: [PyTorch, TensorFlow, Fine-Tuning, Diffusion Models, FLUX, Video Generation
+        Models]
+    databases: []
+    genai: [LoRA, ComfyUI, ControlNet, AI Agents]
+    ops: []
+    other: [Unreal Engine, Computer Graphics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892535'
+  location: Brooklyn, USA
+  extracted_at: '2026-11-06T13:44:41.542947'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

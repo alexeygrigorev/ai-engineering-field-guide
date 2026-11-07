@@ -1,0 +1,54 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology, pharmacy benefits and care services
+position:
+  title: Principal AI or ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role architects and builds the AI lifecycle
+      governance/observability platform (intake, gating, routing,
+      monitoring, containment), not model behaviour. While evals
+      and governance tooling are mentioned, the person builds the
+      plumbing that others use; the deliverable is audit
+      compliance and platform capacity, not shaping model output
+      quality directly.
+  responsibilities:
+  - Architect the end-to-end AI lifecycle governance system linking intake/registration,
+    automated governance gating, request routing, and runtime observability/monitoring
+  - Design integrations connecting pre-production governance with post-production
+    monitoring, alerting, feedback, and containment
+  - Define data flows, interfaces, and contracts between system components for lifecycle
+    traceability
+  - Build core integration components hands-on
+  - Lead and influence senior engineers and architects across teams to align on shared
+    technical direction without formal authority
+  - Identify and close architectural gaps that put enterprise AI audit commitments
+    at risk
+  - Set technical direction and review designs and code for consistency across the
+    integrated system
+  use_cases:
+  - Enterprise AI lifecycle governance and audit compliance
+  - Automated governance gating and request routing for AI systems
+  - Runtime observability and monitoring of production AI systems
+  - Human-in-the-loop review and feedback for AI risk management
+  skills:
+    genai: [LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100259'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T15:00:05.558721'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

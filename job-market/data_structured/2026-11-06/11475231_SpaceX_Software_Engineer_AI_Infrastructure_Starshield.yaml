@@ -1,0 +1,51 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: Space launch and satellite constellation services
+position:
+  title: Software Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, scales, and operates GPU/Kubernetes
+      infrastructure that other AI engineers use; the deliverable
+      is capacity and availability, not model behaviour. No prompt
+      writing, retrieval design, training, or eval work is
+      described.
+  responsibilities:
+  - Manage GPU/CPU infrastructure deployments to Top Secret data centers
+  - Provide GPU-as-a-service support on bare metal and virtualized platforms
+  - Design, validate, and productize AI cluster solutions at 100k+ GPU scale
+  - Develop automation to deploy and manage on-premise Kubernetes/AI clusters and
+    operating systems
+  - Deploy and manage core infrastructure such as databases, monitoring, and distributed
+    storage
+  - Collaborate with AI engineers on scalable, operable, maintainable products
+  - Own the full service lifecycle from design through deployment, operation, and
+    refinement
+  - Implement monitoring and alerting to ensure high system availability
+  use_cases:
+  - GPU-as-a-service for external customers
+  - On-premise AI compute clusters at 100k+ GPU scale
+  - Infrastructure automation for classified national security missions
+  - 'Core infrastructure services: databases, monitoring, and distributed storage'
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Databases]
+    data: [Data Modeling]
+    cloud: [Cloud Virtualization]
+    ops: [Linux, Terraform, Ansible, Kubernetes, Docker, CI/CD, Monitoring, Distributed
+        Systems, NVIDIA GPU Deployment Stacks, OCI Containers]
+    languages: [Bash, Python, C++, Go]
+    domains: []
+    other: [TCP/IP, Bazel, Makefiles]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11475231'
+  location: Hawthorne, USA
+  extracted_at: '2026-11-06T11:56:33.896517'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

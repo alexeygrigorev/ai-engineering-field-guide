@@ -1,0 +1,53 @@
+company:
+  name: EVERSANA
+  stage: null
+  focus: Commercialization services for life sciences and healthcare
+position:
+  title: AI Solutions Engineer (Generative AI & Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and productionizes AI agents, RAG pipelines,
+      prompt templates, and agent evaluation harnesses — directly
+      shaping model behavior. LLMs/agents are central, so ai-
+      first.
+  responsibilities:
+  - Design and build AI agents on Vertex AI Agent Builder, Claude API, and Gemini
+    Enterprise
+  - Productionize AI tooling for Patient Services use cases such as intake automation,
+    adverse-event detection, and chat-with-claims
+  - Build and maintain RAG pipelines, vector stores, embeddings, and retrieval workflows
+  - Implement MCP server integrations and agent tool/function definitions
+  - Integrate AI into Salesforce Health Cloud (Apex, LWC), MuleSoft, and Java SDLC
+    touchpoints
+  - 'Own agent lifecycle: build, deploy, monitor, evaluate, and retire'
+  - Establish evaluation harnesses and monitor agents for drift, cost, latency, and
+    accuracy
+  - Build reusable prompt templates and agent patterns for broader engineering adoption
+  use_cases:
+  - Patient services intake automation
+  - Missing-information workflow
+  - Adverse-event detection
+  - Workload queue intelligence and QNCR automation
+  - Chat-with-claims conversational AI
+  skills:
+    genai: [Anthropic API, Gemini, RAG, Embeddings, MCP, Function Calling, Prompt
+        Engineering, CrewAI, LangChain, LangGraph, Claude Code, LLMs]
+    ml: [Hugging Face]
+    web: [REST APIs, GraphQL]
+    databases: [Vector Databases, BigQuery, PostgreSQL]
+    data: []
+    cloud: [Vertex AI, GCP]
+    ops: [Cursor, GitHub Copilot]
+    languages: [Java, Python, JavaScript, TypeScript]
+    domains: []
+    other: [Salesforce, MuleSoft, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12089930'
+  location: Pune, IND
+  remote: true
+  extracted_at: '2026-11-06T14:55:02.343586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

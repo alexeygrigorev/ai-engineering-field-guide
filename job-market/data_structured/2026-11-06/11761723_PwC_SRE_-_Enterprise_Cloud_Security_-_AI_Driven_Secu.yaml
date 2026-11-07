@@ -1,0 +1,61 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and consulting
+position:
+  title: SRE - Enterprise & Cloud Security - AI Driven Security - Senior Associate
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops ML workflows, data pipelines, and model
+      implementation for AI-driven security using TensorFlow and
+      ML libraries — shaping model behavior, but with no LLM,
+      prompt, or agent component named. Per Step 2, classical ML
+      only means ml-first.
+  responsibilities:
+  - Design and deploy AI-enabled security solutions for enterprise and cloud environments
+  - Develop machine learning workflows, data pipelines, and model implementation processes
+    for security use cases
+  - Apply Python, Java, TensorFlow, and ML libraries to build AI-driven security capabilities
+  - Analyze security and data challenges to identify patterns, risks, and automation
+    opportunities
+  - Evaluate data quality, integration, and modeling approaches for reliable system
+    performance
+  - Support client engagements by translating technical findings into recommendations
+  - Guide junior team members through technical tasks and delivery activities
+  - Contribute to design of scalable security controls across identities, infrastructure,
+    and cloud platforms
+  use_cases:
+  - AI-enabled enterprise and cloud security
+  - Threat and risk pattern detection for security use cases
+  - Automation of security operations
+  - Scalable security controls across identities, infrastructure, and cloud platforms
+  skills:
+    genai: []
+    ml: [TensorFlow, Machine Learning]
+    web: []
+    databases: [Snowflake]
+    data: [Data Pipelines, Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: [Cloud Security, Cybersecurity]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11761723'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Houston, USA
+  - Atlanta, USA
+  - Chicago, USA
+  - New York, USA
+  - Seattle, USA
+  - Boston, USA
+  - San Francisco, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T12:47:07.351694'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

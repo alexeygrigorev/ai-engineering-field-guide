@@ -1,0 +1,179 @@
+job_id: 11893708
+title: Lead Engineer – Agentic AI
+company: QualMinds
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  Lead Engineer – Agentic AIAbout QualMinds
+
+  At QualMinds, we design and develop world-class digital
+  products and custom software solutions for Startups, Scale-
+  ups, and Enterprises. Our engineering teams specialize in
+  Frontend, Backend, Full Stack Development, QA Automation,
+  UI/UX, DevOps, Data Science, Machine Learning, and Agile
+  Delivery. We are passionate about building customer-centric
+  software with the highest standards of quality, scalability,
+  security, performance, and reliability.
+
+  Location: Hyderabad, India
+
+  Experience: 8+ years (2+ years in production LLM/agentic
+  systems, with proven multi-agent architecture experience)
+
+  Job Summary
+
+  We are building multi-agent AI systems for the automotive
+  dealership ecosystem — networks of specialized,
+  collaborating agents spanning customer-facing conversational
+  experiences (voice and chat agents on dealership websites
+  that handle inventory search, payment estimation, trade-in
+  valuation, offers, test drive and service scheduling, and
+  lead capture) and internal business agents (conversational
+  and autonomous operation of campaign management, lead
+  management, offers, payments, reporting, forecasting, and
+  email/SMS marketing — with proactive insights,
+  recommendations, and human-approved actions).
+
+  These are not single-chatbot solutions: you will architect
+  orchestrated teams of agents — planners, retrievers, domain
+  specialists, action executors, and reviewer/critic agents —
+  that coordinate, hand off, and share context to complete
+  complex business workflows reliably. You will own these
+  systems across the entire agentic development lifecycle:
+  use-case scoping, multi-agent architecture and tool design,
+  orchestration, evaluation, guardrails, deployment,
+  observability, and continuous improvement.
+
+  Technical Skills and Experience
+
+  - Bachelor's degree in Computer Science, Engineering, or
+    equivalent practical experience.
+  - Proven experience designing and shipping multi-agent
+    architectures: supervisor/orchestrator patterns,
+    hierarchical and peer-to-peer agent topologies,
+    planner–executor–critic loops, agent handoffs, task
+    decomposition and delegation, shared state/memory design,
+    and failure isolation between agents.
+  - Hands-on with current agent frameworks and SDKs with strong
+    multi-agent support: LangGraph, OpenAI Agents SDK, Google
+    ADK, Anthropic Claude Agent SDK, Microsoft Agent
+    Framework, Pydantic AI, or Vercel AI SDK — including
+    subagents, handoffs, and graph-based orchestration.
+  - Deep experience with frontier model APIs: OpenAI (GPT-5.x,
+    Realtime API), Anthropic (Claude Opus/Sonnet 4.x), Google
+    (Gemini 3.x, Gemini Live); familiarity with open-weight
+    models (Llama, Qwen, DeepSeek, Mistral) for per-agent
+    cost/latency routing (e.g., small fast models for
+    routing/critic agents, frontier models for planning).
+  - Expert in tool/function calling, structured outputs, MCP
+    (Model Context Protocol) — designing and building MCP
+    servers that expose business systems (inventory, CRM,
+    campaigns, payments, reporting) as governed agent tools;
+    working knowledge of A2A (Agent2Agent) for cross-platform
+    agent interoperability.
+  - Realtime voice AI: speech-to-speech pipelines (OpenAI
+    Realtime API, Gemini Live, LiveKit Agents, Pipecat),
+    STT/TTS providers (Deepgram, ElevenLabs, Cartesia), barge-
+    in/interruption handling, sub-second latency optimization,
+    WebRTC and telephony integration — including voice agents
+    that delegate to backend specialist agents mid-
+    conversation.
+  - Production RAG and context engineering: vector stores
+    (pgvector, Qdrant, Vertex AI Search, Pinecone), hybrid
+    retrieval and reranking, context window management across
+    agent hops, shared and per-agent memory (short-term, long-
+    term, episodic), and freshness strategies for fast-
+    changing data (inventory, offers, pricing).
+  - Agent evaluation and observability: LangSmith, Braintrust,
+    Arize Phoenix, Langfuse, or custom harnesses — golden
+    datasets, LLM-as-judge, multi-agent trajectory evals
+    (correct delegation, handoff quality, loop/runaway
+    detection), eval-gated CI/CD; OpenTelemetry GenAI semantic
+    conventions with distributed tracing across agent
+    boundaries.
+  - Guardrails and AI safety: prompt-injection defense,
+    jailbreak resistance, PII redaction, content moderation,
+    inter-agent trust boundaries, human-in-the-loop approval
+    flows for consequential actions (payments, campaign sends,
+    customer messaging), and compliance-aware messaging
+    (TCPA).
+  - Strong Python and TypeScript; modern backend (FastAPI,
+    Node.js) and frontend (React/Next.js) development,
+    including streaming and realtime UX (SSE, WebSockets,
+    WebRTC) and generative UI patterns.
+  - Cloud-native delivery: GCP (Vertex AI, GKE, Pub/Sub, Cloud
+    Run, IAM, Secret Manager) or equivalent on AWS/Azure;
+    Docker, Kubernetes, Terraform; durable execution for long-
+    running agent workflows (e.g., Temporal) is a plus.
+  - Modern engineering workflow: GitHub (Actions, PR reviews),
+    Jira/Linear, prompt and agent versioning, feature-flagged
+    and eval-gated releases.
+  - Effective daily use of AI-assisted development tools (GitHub
+    Copilot, coding agents, Claude Code, Cursor) and the
+    judgment to review their output critically.
+  - PostgreSQL and modern data tooling; event-driven
+    architectures (Pub/Sub, Kafka) for agent-triggered and
+    agent-to-agent workflows.
+  - Strong written and verbal communication, including the
+    ability to present AI risks, trade-offs, and
+    recommendations to senior stakeholders.
+
+  Responsibilities
+
+  - Architect multi-agent systems end-to-end: decompose business
+    workflows into specialized agents (routing, retrieval,
+    domain reasoning, action execution, review/critique),
+    choose the right orchestration topology per use case, and
+    define agent contracts, handoff protocols, and shared
+    memory/state.
+  - Design and build customer-facing voice + chat agent teams
+    covering the full public website capability surface:
+    inventory search and comparison, finance/payment
+    estimation, trade-in valuation, offer discovery,
+    appointment scheduling, and lead capture/qualification —
+    with low-latency realtime voice, streaming chat, graceful
+    fallback, and human handoff.
+  - Ground all agent responses in live business data with strict
+    accuracy guarantees — no hallucinated prices, VINs, or
+    offers — and implement brand-safe guardrails for public
+    surfaces (prompt injection, jailbreaks, off-topic
+    containment, PII handling).
+  - Build internal multi-agent workflows that operate backend
+    business platforms conversationally and autonomously:
+    campaigns, lead management, offers, payments, reporting,
+    forecasting, and email/SMS marketing — following the
+    insight → recommendation → approved action pattern with
+    specialist agents collaborating under an orchestrator.
+  - Expose business capabilities as MCP tools with role-based
+    permissions, audit logging, and approval policies scaled
+    to action risk (read vs. draft vs. send vs. pay); enforce
+    least-privilege tool access per agent.
+  - Build natural-language analytics: NL-to-SQL/semantic-layer
+    querying, automated forecasting summaries, and scheduled
+    executive digests.
+  - Own evaluation end-to-end: golden datasets per use case,
+    offline regression suites, multi-agent trajectory and
+    delegation evals, eval gates in CI/CD, A/B testing, and
+    production quality monitoring (containment, conversion,
+    CSAT).
+  - Establish LLMOps/AgentOps practices: prompt and agent
+    versioning, per-agent model routing and semantic caching
+    for cost control, token/latency budgets across agent
+    chains, and observability dashboards with cross-agent
+    distributed tracing.
+  - Lead root-cause analysis for agent failures (bad tool calls,
+    wrong delegation, runaway loops, hallucinations, unsafe
+    outputs) with durable systemic fixes and new guardrails.
+  - Partner with Product Owners, Architects, and platform teams
+    to translate business workflows into agent capabilities
+    and clear delivery plans; mentor engineers on multi-agent
+    patterns, context engineering, and evaluation discipline;
+    report AI system health, risks, and trends to leadership
+    with supporting data.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/lead-engineer-agentic-ai/11893708"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Marrina Decisions
+  stage: null
+  focus: SaaS platform for content generation and compliance
+position:
+  title: 'REMOTE (INDIA):   AI Engineer- SaaS Platform'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/VLM behavior directly: designing prompt
+      engineering strategies, building feedback loops for model
+      evaluation, fine-tuning, and managing LLM routing for output
+      quality. LLM components dominate, so it is ai-first.
+  responsibilities:
+  - Maintain and optimize LLM- and VLM-powered services for content generation, compliance
+    scoring, and campaign testing
+  - Manage and scale Flask/FastAPI microservices with high uptime and low latency
+  - Maintain Dramatiq queues for async AI workflows and pipeline orchestration
+  - Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in production
+  - Integrate with OpenRouter and LLM routing tools to balance cost, latency, and
+    quality
+  - Design and refine prompt engineering strategies for reliability and compliance
+  - Build feedback pipelines for AI model evaluation including human-in-the-loop scoring
+  - Expose and maintain REST APIs for AI services with secure, versioned endpoints
+  use_cases:
+  - Content generation
+  - Compliance scoring
+  - Campaign testing and generation
+  - Async AI workflow orchestration
+  - LLM/VLM routing with cost, latency, and quality balancing
+  - Human-in-the-loop AI output evaluation
+  skills:
+    genai: [LLMs, Prompt Engineering, Fine-Tuning, LLM Evaluation, OpenAI API]
+    ml: [Model Evaluation]
+    web: [Flask, FastAPI, REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Dramatiq, Celery, RQ, Uvicorn, Gunicorn, OpenRouter]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11710119'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:39:47.428075'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments and financial services technology
+position:
+  title: Senior Software Engineer - Java Full stack with AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Java full-stack enterprise application engineering
+      role where AI/ML appears only as "exposure/familiarity" —
+      consuming pre-built AI services and using AI coding
+      assistants. The person does not shape model behaviour
+      through prompts, retrieval, training, or evaluation, so it
+      is ai-support.
+  responsibilities:
+  - Develop enterprise applications using Java tech stack with Angular/React front
+    ends
+  - Participate in gathering business requirements and align designs with MasterCard
+    enterprise architecture
+  - Design, develop, test, deliver, and monitor scalable, secure cloud architectures
+    on AWS (EC2, ECS, S3)
+  - Ensure zero-downtime delivery, performance engineering, and compliance with PCI,
+    GLBA, Safe Harbor requirements
+  - Work with business partners on product definition, roadmaps, and business cases
+  - Use MasterCard standard development methodologies and ensure projects are documented
+  - Provide functional guidance and training to other application developers
+  - Respond to operational and business concerns for programs, projects, and enhancements
+  use_cases:
+  - Business analytics and reporting solutions for MasterCard customers
+  - Enterprise application development for payments business
+  - Scalable, secure cloud-native enterprise platforms
+  - Big data and ETL processing for business intelligence
+  skills:
+    genai: [GitHub Copilot]
+    ml: [Machine Learning]
+    web: [Spring Boot, React, Angular, REST APIs, jQuery, Microservices]
+    databases: [Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, NoSQL]
+    data: [Databricks, Spark, Data Pipelines, Delta Lake]
+    cloud: [AWS, Azure, GCP, ECS, AWS S3]
+    ops: [CI/CD, Jenkins, Docker, Kubernetes, Maven, Gradle, SonarQube, Chef]
+    languages: [Java, J2EE, SQL, JavaScript, HTML, CSS]
+    domains: []
+    other: [XML, XSLT, Shell Scripting, UNIX, WebSphere, JBoss, Tomcat, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11821703'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:18:52.446684'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

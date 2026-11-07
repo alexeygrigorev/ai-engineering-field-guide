@@ -1,0 +1,62 @@
+company:
+  name: Horizon3.ai
+  stage: null
+  focus: Autonomous pentesting and offensive cybersecurity platform
+position:
+  title: Staff Attack Engineer, AI/LLM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role both attacks and builds LLM/agentic systems: prompt
+      injection design, threat modeling agentic workflows,
+      building LLM-powered applications with prompting and agentic
+      workflows, guardrails, and observability — this directly
+      shapes LLM behavior and quality, making it ai-first.
+  responsibilities:
+  - Break AI and agentic systems and turn research into automated, repeatable attack
+    modules for NodeZero
+  - Design and execute prompt injection and defense evasion attacks with generalized
+    reusable patterns
+  - Conduct tool-use exploitation against LLM agents' access to code, file systems,
+    APIs, and databases
+  - Target AI infrastructure including model serving, training pipelines, vector databases,
+    and GPU/MLOps tooling
+  - Research and apply model and supply chain attacks such as poisoning and adversarial
+    inputs
+  - Perform threat modeling for agentic systems, mapping trust boundaries and attack
+    surfaces
+  - Build LLM-powered applications with prompting, structured output, and agentic
+    workflows
+  - Design microservices that orchestrate LLM tasks and integrate with NodeZero offensive
+    workflows
+  use_cases:
+  - Automated AI/LLM attack modules within an autonomous pentesting platform
+  - Prompt injection and defense evasion testing of AI and agentic systems
+  - Exploiting LLM agent tool access for context poisoning, RCE, data exfiltration,
+    and privilege escalation
+  - Attacking AI infrastructure such as model serving, training pipelines, and vector
+    databases
+  - Model and supply chain attacks including data poisoning and training data extraction
+  - LLM-powered offensive workflows orchestrating automated security testing
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Agentic Workflows, Guardrails,
+      LLMs]
+    ml: [MLOps]
+    web: [Microservices]
+    databases: [Neo4j, Vector Databases]
+    data: []
+    cloud: [Azure OpenAI, Vertex AI, AWS Bedrock]
+    ops: [Observability]
+    languages: [Python]
+    domains: [Penetration Testing]
+    other: [Prompt Injection, OWASP Top 10 for LLMs, MITRE ATLAS, AWS Agent Core,
+      CTF]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885657'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:35:08.500250'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

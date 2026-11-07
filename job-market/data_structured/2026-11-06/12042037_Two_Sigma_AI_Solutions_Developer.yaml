@@ -1,0 +1,49 @@
+company:
+  name: Two Sigma
+  stage: null
+  focus: Quantitative investment management and trading firm
+position:
+  title: AI Solutions Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent-based workflows,
+      orchestration, human-agent interaction patterns, and MCP
+      server integrations — directly shaping agent/LLM behavior.
+      This is clearly ai-first.
+  responsibilities:
+  - Embed with teams across the firm to understand workflows and identify AI augmentation
+    opportunities
+  - Design and build agent-based workflows including orchestration, escalation, and
+    human-agent interaction patterns
+  - 'Develop integrations between AI capabilities and firm infrastructure: MCP servers,
+    APIs, data pipelines, internal tooling'
+  - Build and maintain deployment infrastructure for AI-powered systems including
+    monitoring and observability
+  - Contribute to the definition of Two Sigma's AI platform through production system
+    experience
+  - Scope problems, make architectural decisions, and deliver results autonomously
+  use_cases:
+  - AI augmentation of internal firm workflows
+  - Agentic AI for knowledge and analysis tasks
+  - Integrations between AI capabilities and firm infrastructure
+  - Production AI-powered systems across diverse domains
+  skills:
+    genai: [MCP, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12042037'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:37:14.392149'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

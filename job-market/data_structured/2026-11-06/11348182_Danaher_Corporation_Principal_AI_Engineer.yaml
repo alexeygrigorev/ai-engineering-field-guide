@@ -1,0 +1,59 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: Clinical diagnostics and life sciences instrumentation
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and delivers AI agents, agentic
+      workflows, and RAG solutions, and owns model
+      selection/evaluation and agent orchestration - clearly
+      shaping LLM/agent behavior. It combines hands-on design with
+      IC technical leadership, but the deliverable is model
+      behavior, not just plumbing.
+  responsibilities:
+  - Architect and deliver production-grade AI agents, engineering assistants, and
+    agentic workflows for R&D activities
+  - Design intelligent solutions that accelerate software development, code and test
+    generation, verification, validation, and defect investigation
+  - Develop secure and scalable RAG solutions grounded in engineering documentation,
+    standards, and design history files
+  - Own technical direction for agent architecture, orchestration frameworks, model
+    selection and evaluation, and reusable design patterns
+  - Establish standards for AI governance, validation, security, observability, model
+    risk management, and responsible AI
+  - Partner with R&D, quality, regulatory, security, and technology teams to prioritize
+    use cases and lead technical reviews
+  - Mentor engineering teams and scale solutions that deliver measurable productivity
+    and quality improvements
+  use_cases:
+  - AI agents and engineering assistants for requirements development, systems engineering,
+    and design reviews
+  - Code and test generation, verification and validation, and defect investigation
+    automation
+  - RAG over engineering documentation, standards, and design history files
+  - End-to-end traceability and technical documentation for regulated medical device
+    development
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, OpenAI API, Anthropic API, LLM
+        Evaluation]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: []
+    languages: [Python, C#, Java]
+    domains: []
+    other: [Model-Based Systems Engineering, Responsible AI, Requirements Management,
+      Risk Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11348182'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:33:32.198711'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

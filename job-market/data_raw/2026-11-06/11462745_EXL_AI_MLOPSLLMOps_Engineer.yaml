@@ -1,0 +1,120 @@
+job_id: 11462745
+title: AI MLOPS/LLMOps Engineer
+company: EXL
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 30,246 Employees
+description: |
+  Seeking a strong Data Engineer / AI Engineer with expertise
+  in building and operationalizing large-scale AI and NLP
+  solutions on cloud platforms. The ideal candidate should
+  have hands-on experience integrating AI/LLM models into
+  production workflows, developing scalable data pipelines,
+  and processing large volumes of multilingual unstructured
+  text.
+
+
+
+  Key strengths should include:
+
+
+
+  - Proficiency in Python and SQL with experience deploying
+    AI/NLP solutions such as document classification, entity
+    extraction, NER, PII masking, de-identification, hybrid
+    search, and LLM integrations.
+  - Strong knowledge of Apache Airflow for orchestrating end-to-
+    end data pipelines and automating batch processing
+    workflows.
+  - Experience working with AWS services including S3, Athena,
+    Glue, Fargate, EKS, SQS, and Step Functions.
+  - Capability to design and maintain large-scale document
+    processing systems handling complex JSON structures,
+    embedded documents, and multilingual content.
+  - Familiarity with vector search and retrieval systems,
+    including embeddings, pgvector, PostgreSQL/Aurora, GIN
+    indexes, and full-text search.
+  - Experience with ML lifecycle management using MLflow,
+    Databricks/Azure Databricks, model deployment, monitoring,
+    and evaluation frameworks.
+  - Strong DevOps practices including GitHub-based development,
+    CI/CD pipelines, schema management, and production
+    support.
+
+  Responsibilities
+
+  What You Will Do
+
+  AI Module Integration & Inference Pipelines
+
+  - Integrate and adjust inference pipelines for NLP modules
+    including document classification, entity extraction, de-
+    identification (DEID), and LLM-based early trend detection
+  - Connect DS-coded AI modules into end-to-end production
+    workflows via Airflow DAGs on AWS EKS
+  - Build and tune hybrid search pipelines combining GTE
+    multilingual dense embeddings with GIN lexical search on
+    Aurora PostgreSQL
+  - Integrate with OpenAI-based API platform for multilingual
+    query expansion and LLM-driven trend detection
+
+  Document Processing & Parsing
+
+  - Design and maintain document preprocessing pipelines that
+    parse deeply nested JSON structures (emails with
+    attachments, embedded PDFs) from S3/DataLake
+  - Handle multilingual unstructured text (English, Spanish,
+    Portuguese, German, Dutch, French, Italian) across 300 GB
+    of claim notes and documents
+  - Build chunking strategies and metadata extraction for
+    downstream embedding and retrieval workflows
+
+  Data Pipeline Engineering
+
+  - Author and maintain Airflow DAGs for batch processing
+    (monthly entity refresh, trend detection, DEID pipeline)
+  - Manage data flow across AWS services: S3, Athena, Glue,
+    Fargate, SQS, Step Functions
+  - Scale pipelines to handle 500K+ claims and hundreds of
+    millions of text chunks
+
+  Production Deployment & Quality
+
+  - Deploy and version models using MLflow and Databricks
+  - Manage schema evolution and migrations using Liquibase on
+    Aurora PostgreSQL
+  - Instrument pipelines with logging, monitoring, and
+    evaluation scoring for retrieval quality
+
+  Qualifications
+
+            Area Skills Languages Python (primary), SQL AI /
+  NLP LLM API integration, multilingual embeddings (e.g.,
+  GTE), hybrid search, text classification, entity extraction,
+  NER, PII masking Data Pipelines Apache Airflow, batch
+  orchestration, large-scale unstructured data processing
+  Cloud & Infrastructure AWS (S3, Athena, Glue, Fargate, EKS,
+  SQS, Step Functions) Databases PostgreSQL / Aurora,
+  pgvector, GIN indexes, full-text search ML Platform MLflow,
+  Databricks / Azure Databricks DevOps GitHub, CI/CD pipelines
+
+
+
+  Education
+
+
+
+  - Bachelor's degree in Computer Science, Information
+    Technology, Data Science, Artificial Intelligence,
+    Statistics, Mathematics, or a related field.
+  - Master's degree in Data Science, AI/ML, Computer Science, or
+    Analytics is preferred but not mandatory.
+  - Relevant cloud or data engineering certifications are
+    advantageous.
+industries:
+  - Information Technology
+  - Database
+  - Consulting
+posted_date: 2026-10-01
+url: "https://builtin.com/job/ai-mlops-llmops-engineer/11462745"
+source: Built In

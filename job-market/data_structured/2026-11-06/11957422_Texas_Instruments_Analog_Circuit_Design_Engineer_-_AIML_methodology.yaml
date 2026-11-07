@@ -1,0 +1,55 @@
+company:
+  name: Texas Instruments
+  stage: null
+  focus: Analog and embedded processing semiconductor chips
+position:
+  title: Analog Circuit Design Engineer - AI/ML methodology
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops and deploys ML models (regression,
+      clustering, neural networks) for semiconductor design,
+      yield, and reliability — clearly shaping model behavior via
+      classical ML/DL with no LLM or agent component mentioned.
+  responsibilities:
+  - Develop and deploy machine learning models and analytical solutions for semiconductor
+    development
+  - Define, design, implement, and document data science solutions across the semiconductor
+    development flow
+  - Apply AI/ML techniques to design automation, device modeling, verification, yield
+    enhancement, and reliability prediction
+  - Build physics-informed models using optimization theory, linear algebra, probability,
+    and statistical inference
+  - Drive adoption of data science tools across design, process, test, and manufacturing
+    teams
+  - Develop novel patentable and publishable ideas
+  - Present complex findings to cross-functional engineering teams and mentor junior
+    members
+  use_cases:
+  - Semiconductor design automation and layout optimization
+  - Device modeling and design verification
+  - Manufacturing yield enhancement
+  - Test data analytics and parametric testing
+  - Reliability prediction
+  - Process technology optimization and process control
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Neural Networks, Deep Learning, Machine
+        Learning, Pandas, NumPy, Matplotlib]
+    web: []
+    databases: [SQL, NoSQL]
+    data: [Spark, Hadoop]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [SciPy, Cadence, Synopsys, Design of Experiments, Statistical Inference,
+      Optimization Theory, Linear Algebra]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11957422'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:10:29.120988'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

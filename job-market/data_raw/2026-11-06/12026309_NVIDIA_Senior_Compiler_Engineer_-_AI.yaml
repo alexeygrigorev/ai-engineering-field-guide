@@ -1,0 +1,135 @@
+job_id: 12026309
+title: Senior Compiler Engineer - AI
+company: NVIDIA
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  NVIDIA's invention of the GPU in 1999 sparked the growth of
+  the PC gaming market, redefined modern computer graphics,
+  and revolutionized parallel computing. More recently, GPU
+  deep learning ignited modern AI — the next era of computing
+  — with the GPU acting as the brain of computers, robots, and
+  self-driving cars that can perceive and understand the
+  world. Today, we are increasingly known as "the AI computing
+  company".
+
+  NVIDIA is hiring world class Software Engineers with AI
+  Compiler and distributed systems experience for its Deep
+  Learning Compiler Technology team. The team builds JaxPP,
+  NVIDIA's open-source library for pipeline parallelism in
+  JAX. JaxPP turns a JAX training program into per-stage tasks
+  and runs them across many GPUs. With it, very large models
+  can be trained on NVIDIA GPU clusters using unmodified JAX
+  and XLA. Join the team that is developing advanced compiler
+  and runtime technology for the entire deep learning
+  community.
+
+  What you'll be doing:
+
+  - Design and implement program transformations on JAX programs
+    (jaxpr) for large-scale training, on top of unmodified JAX
+    and XLA: pipeline schedules, placement of tasks across
+    stages, sharding (including JAX explicit sharding), and
+    overlap of communication with computation.
+  - Develop technologies and products involving optimizing
+    compilers and runtime execution frameworks for
+    accelerating deep learning training on large scale
+    distributed systems.
+  - Work on compiling a graph intermediate representation (IR)
+    to target specific code, and build the distributed runtime
+    that dispatches per-stage programs to many GPUs and moves
+    data between stages through communication libraries such
+    as NCCL.
+  - Contribute to advancing the state of the art in compiler
+    technology for delivering high performance on large-scale
+    training workloads, including mixture-of-experts models.
+  - Collaborate with members of the software framework teams
+    (for example JAX and XLA) and the hardware architecture
+    teams to accelerate the next generation of deep learning
+    software, and work on integrating JaxPP into JAX training
+    frameworks, including MaxText.
+  - Be a core contributor to the open-source JaxPP project:
+    keeping it working with new JAX releases, testing,
+    performance tracking, and working with teams who adopt it
+    for their training runs.
+
+  What we need to see:
+
+  - Masters or PhD in Computer Science, Computer Engineering, or
+    related field or equivalent experience.
+  - 6+ years of relevant work or research experience in
+    compilers, distributed systems, or deep learning training.
+  - Compiler design and implementation.
+  - Distributed system design, development, and deployment.
+  - Experience with deep learning frameworks (JAX, PyTorch).
+  - GPU training and inference of deep learning models.
+  - C/C++ and Python programming, with excellent software design
+    skills, including debugging, performance analysis, and
+    test design.
+  - Experience with parallel computing libraries (MPI).
+  - Be able to work independently, define project goals and
+    scope, and lead your own development efforts.
+  - Strong communication skills are required, including working
+    directly with engineers at partner companies to debug and
+    tune large training runs, along with the ability to work
+    in a dynamic product-oriented team.
+
+  Ways to stand out from the crowd:
+
+  - Experience with JAX internals (jaxpr, tracing, sharding,
+    shard_map), or with XLA, StableHLO, or MLIR.
+  - Experience building or tuning large training jobs with
+    pipeline, tensor, expert, and data parallelism, for
+    example in MaxText or Megatron-LM, and debugging their
+    performance on large GPU clusters.
+  - Knowledge of GPU communication libraries such as NCCL,
+    NVSHMEM, or RDMA, and of CPU and/or GPU architecture. CUDA
+    programming experience is a plus.
+  - Contributions to open-source compiler or machine learning
+    projects.
+  - Experience in mentoring early career engineers and interns
+    is a bonus.
+
+  With competitive salaries and a generous benefits package,
+  we are widely considered to be one of the technology world's
+  most desirable employers. We have some of the most forward-
+  thinking and hardworking people in the world working for us
+  and, due to unprecedented growth, our exclusive engineering
+  teams are rapidly growing. If you're a creative and
+  autonomous engineer with a real passion for technology, we
+  want to hear from you.
+
+  Your base salary will be determined based on your location,
+  experience, and other objective job-related factors. The
+  expected base salary range for this position is 184,000 USD
+  – 287,500 USD.
+
+  You will also be eligible for equity and benefits.
+
+  Applications for this job will be accepted at least until
+  November 6, 2026.
+
+  This posting is for an existing vacancy.
+
+  NVIDIA uses AI tools in its recruiting processes.
+
+  NVIDIA is committed to fostering an inclusive work
+  environment and proud to be an equal opportunity employer.
+  As we highly value diversity in our current and future
+  employees, we do not discriminate (including in our hiring
+  and promotion practices) on the basis of race, religion,
+  color, national origin, gender, gender expression, sexual
+  orientation, age, marital status, veteran status, disability
+  status or any other characteristic protected by law.
+
+  #deeplearning
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-11-03
+url: "https://www.builtinla.com/job/senior-compiler-engineer-ai/12026309"
+source: Built In

@@ -1,0 +1,55 @@
+company:
+  name: Salvo Software
+  stage: null
+  focus: Custom software development and engineering solutions
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines (embeddings, chunking,
+      retrieval quality) and MCP integrations connecting LLMs to
+      tools, directly shaping model behaviour and output. It also
+      grows into quantization and GPU tuning of LLMs, confirming
+      an LLM-shaping ai-first role.
+  responsibilities:
+  - Serve and operate open-source LLMs using Ollama and llama.cpp in local and on-prem
+    environments
+  - Build and maintain RAG pipelines including embeddings, vector databases, chunking
+    strategies, and retrieval quality
+  - Develop MCP integrations connecting LLMs to internal tools and data sources
+  - Build Python backend services powering ML inference and AI-driven product features
+  - Parse and process structured and semi-structured data (XML/XSD, Office formats)
+    as pipeline inputs
+  - Build CI/CD pipelines, deploy AI workloads to Azure and AWS, and containerize
+    services with Docker
+  - 'Grow into model optimization: GGUF quantization, GPU/CUDA tuning, and air-gapped
+    deployments'
+  - Support event-driven architectures with Apache Kafka producers and consumers
+  use_cases:
+  - LLM inference in local and on-prem environments
+  - Retrieval-augmented generation over enterprise documents and data
+  - Connecting LLMs to internal tools and data via MCP
+  - AI-driven product features powered by backend services
+  - Air-gapped and offline model deployments
+  skills:
+    genai: [LLMs, RAG, MCP, Embeddings]
+    ml: [Quantization, CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: [Kafka]
+    cloud: [Azure, AWS]
+    ops: [Ollama, llama.cpp, CI/CD, Azure DevOps, GitHub Actions, GitLab CI, Docker,
+      Terraform, Kubernetes, Linux, Git, Prometheus, Grafana, DevSecOps]
+    languages: [Python, Bash, PowerShell, Go, Rust, C++]
+    domains: []
+    other: [SOC 2, ISO 27001]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12099317'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:59:11.319776'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

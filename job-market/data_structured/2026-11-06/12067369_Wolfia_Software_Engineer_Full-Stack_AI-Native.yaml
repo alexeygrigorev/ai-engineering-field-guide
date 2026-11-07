@@ -1,0 +1,51 @@
+company:
+  name: Wolfia
+  stage: Y Combinator and Khosla Ventures-backed startup
+  focus: AI agents for sales enablement
+position:
+  title: Software Engineer (Full-Stack, AI-Native)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires architecting, building, and integrating AI
+      agents for reasoning-based retrieval, knowledge synthesis,
+      and response generation on an LLM-driven product. The
+      engineer shapes agent behaviour directly, so ai-first
+      applies.
+  responsibilities:
+  - Own and lead engineering efforts to build and enhance the AI-driven sales enablement
+    platform
+  - Lead frontend development with Next.js, React, TypeScript, Radix UI, Tailwind,
+    and Shadcn
+  - Lead backend development in Python, Postgres, OpenAI, and FastAPI focused on AI
+    agent capabilities
+  - Engage with customers for feedback and iterate quickly in a fast-paced cycle
+  - Drive technical design of services and features ensuring robust AI integration
+  - Participate in roadmap planning and feature discussions with an AI-first perspective
+  use_cases:
+  - AI agents that answer sales teams' questions using enterprise knowledge
+  - Drafting, validating, and formatting responses to customer questions, security
+    questionnaires, and RFPs
+  - Autonomous agents maintaining up-to-date understanding across knowledge sources
+    (Google Drive, Notion, Slack, email, websites)
+  - Accelerating sales cycles by delivering reliable information in seconds
+  skills:
+    genai: [AI Agents, LLMs, OpenAI API, RAG]
+    ml: []
+    web: [Next.js, React, TypeScript, Radix UI, Tailwind, Shadcn, FastAPI]
+    databases: [PostgreSQL, Supabase]
+    data: []
+    cloud: [AWS, Vercel]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12067369'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:46:46.043365'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

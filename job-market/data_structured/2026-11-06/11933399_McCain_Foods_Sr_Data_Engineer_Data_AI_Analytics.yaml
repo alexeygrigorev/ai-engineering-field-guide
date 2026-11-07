@@ -1,0 +1,49 @@
+company:
+  name: McCain Foods
+  stage: null
+  focus: Global frozen food manufacturer (family-owned)
+position:
+  title: Sr Data Engineer, Data AI Analytics
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates data pipelines on a
+      Lakehouse/EDW platform; it does not shape model behaviour,
+      prompts, retrieval, or training. Supporting data science and
+      ML teams with data is plumbing, so this is ai-support.
+  responsibilities:
+  - Build and maintain scalable data pipelines in the Azure Databricks Lakehouse environment
+  - Transform, cleanse, and aggregate data using Spark SQL and PySpark, optimizing
+    Spark jobs for performance and cost
+  - Automate data ingestion and end-to-end pipelines with CI/CD (Azure DevOps, GitHub
+    Actions)
+  - 'Own EDW architecture: data models, schemas, documentation, performance, and troubleshooting'
+  - Collaborate with analysts, data scientists, and business stakeholders to design
+    data marts and support analytics
+  - Ensure data governance, security, and quality compliance across pipelines
+  - Train counterparts in data pipelining and preparation techniques
+  use_cases:
+  - Enterprise data warehouse and Lakehouse platform for analytics
+  - Scalable data ingestion, transformation, and delivery of high-quality datasets
+  - Data marts and reporting for business decision-making
+  - Supporting data science and machine learning initiatives with prepared data
+  skills:
+    languages: [Spark SQL, R, Python]
+    domains: []
+    web: [APIs]
+    cloud: [Azure]
+    data: [Azure Databricks, Databricks, PySpark, Data Pipelines, Data Modeling, Data
+        Governance]
+    ml: [Machine Learning]
+    databases: [Relational Databases]
+    genai: []
+    ops: [CI/CD, Azure DevOps, GitHub Actions]
+    other: [Power BI, Tableau, Data Mesh, Lakehouse, Medallion Architecture, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11933399'
+  location: Gurugram, IND
+  extracted_at: '2026-11-06T14:01:45.348870'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

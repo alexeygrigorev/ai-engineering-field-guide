@@ -1,0 +1,56 @@
+company:
+  name: Northrop Grumman
+  stage: null
+  focus: Aerospace and defense technology systems
+position:
+  title: AI/DevOps Engineer - Level 4 (AHT)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, sustains, and secures infrastructure
+      hosting AI/ML and LLM applications but does not shape model
+      behaviour — no prompt engineering, RAG design, agent flows,
+      or model training/evals. Preferred mentions of LangChain/MCP
+      are deployment tooling, not design work. The deliverable is
+      capacity, security, and reliability, so it is ai-support.
+  responsibilities:
+  - Deploy, configure, and sustain infrastructure supporting AI/ML and LLM-enabled
+    applications in secure enterprise environments
+  - Administer and troubleshoot Linux-based environments across development, test,
+    and production
+  - Build, deploy, and manage containerized solutions using Podman, Docker, Portainer,
+    and Kubernetes
+  - Develop automation and operational tooling using Bash and Python
+  - Support cloud-based deployments and integrations in AWS and/or Azure environments
+  - Implement and maintain source control and CI/CD workflows using GitHub and GitLab
+  - Configure and troubleshoot enterprise integrations involving proxies, firewalls,
+    SSL certificates, OAuth, SSO, credential and session management
+  - Develop and maintain technical documentation, deployment procedures, and operational
+    runbooks
+  use_cases:
+  - Deployment and sustainment of AI/ML and LLM-enabled tools in secure enterprise
+    environments
+  - Containerized hosting of AI applications on Linux-based infrastructure
+  - Cloud-based AI platform deployments in AWS and Azure
+  - Secure enterprise integration of AI services via proxies, firewalls, OAuth, and
+    SSO
+  skills:
+    languages: [Python, Bash, Java]
+    domains: []
+    web: [OAuth, Microservices, APIs]
+    cloud: [AWS, Azure, SageMaker, Azure AI Foundry]
+    data: [Airflow]
+    ml: [Machine Learning]
+    databases: []
+    genai: [LangChain, Langflow, MCP, LLMs]
+    ops: [Linux, Docker, Podman, Portainer, Kubernetes, CI/CD, GitHub, GitLab CI,
+      Ollama, MLOps, MLflow, Kubeflow]
+    other: [SSO, SSL Certificates, Supergateway, Keycloak]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11624946'
+  location: Redondo Beach, USA
+  extracted_at: '2026-11-06T12:24:15.629601'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

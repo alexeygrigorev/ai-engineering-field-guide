@@ -1,0 +1,49 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-powered applications, RAG
+      data layers, agentic frameworks, and guardrails — directly
+      shaping model behavior and output quality. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Design and implement intelligent agents to automate complex enterprise workflows
+  - Build production LLM-powered Generative AI applications and agentic frameworks
+    in Python
+  - Deploy and manage AI/ML systems in OpenShift containerized environments
+  - Design data layers optimized for AI/ML and RAG workloads
+  - Champion software engineering best practices including testing, code reviews,
+    and CI/CD
+  - Research new Generative AI models, techniques, and frameworks
+  - Implement guardrails and responsible AI practices in AI solutions
+  - Mentor others while contributing hands-on as an individual contributor
+  use_cases:
+  - Automating critical enterprise business processes with intelligent agents
+  - Operational efficiency and risk reduction in global banking operations
+  - Production LLM applications for real business problems
+  - RAG workloads with optimized data layers
+  skills:
+    genai: [LLMs, RAG, LangChain, LangGraph, Google ADK, Generative AI, AI Agents,
+      Agentic Workflows, Guardrails]
+    ml: [Transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [OpenShift, CI/CD, Docker, Responsible AI]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048228'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:39:12.698150'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,64 @@
+company:
+  name: Presidio
+  stage: null
+  focus: |-
+    Digital solutions and services: AI, cloud, security,
+    networking
+position:
+  title: Senior Engineer - AI Implementation Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role deploys and configures Now Assist generative AI
+      features (AI Agents, Virtual Agent, NLU, GenAI) and
+      prototypes AI use cases directly on customer instances,
+      requiring prompt engineering understanding.
+      Deploying/configuring LLM-based features like Now Assist and
+      prompt engineering knowledge qualifies as shaping LLM
+      behavior, making it ai-first; it is also customer-facing
+      implementation work.
+  responsibilities:
+  - Deploy and configure ServiceNow Now Assist capabilities including Generative AI,
+    AI Agents, Virtual Agent, NLU, AI Search, and Document Intelligence
+  - Translate AI Transformation Architect blueprints into working configurations,
+    integrations, and workflows
+  - Rapidly prototype and iterate on AI use cases aligned to customer success metrics
+  - Drive AI adoption outcomes including active user rates, automation coverage, and
+    time-to-value
+  - Facilitate customer workshops, enablement sessions, and hands-on training
+  - Serve as technical SME in customer steering meetings, executive briefings, and
+    QBRs
+  - Identify, debug, and advise on configuration conflicts or architecture issues
+    blocking AI activation
+  - Document customer configurations and AI use case outcomes for the knowledge base
+  use_cases:
+  - Enterprise workflow automation on ServiceNow platform
+  - AI-powered issue auto-resolution and task intelligence
+  - AI Search and Document Intelligence for knowledge retrieval
+  - Virtual Agent conversational assistants for enterprise users
+  - AI adoption and enablement at customer organizations
+  skills:
+    genai: [Generative AI, AI Agents, Prompt Engineering, LLMs, Conversational AI]
+    ml: [NLU, Machine Learning]
+    web: [APIs]
+    databases: [Database Design]
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: [ServiceNow, Flow Designer, Integration Hub, Automated Test Framework,
+      Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11416773'
+  location: Chennai, IND
+  locations:
+  - Chennai, IND
+  - Hyderabad, IND
+  - Coimbatore, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T11:47:10.565987'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

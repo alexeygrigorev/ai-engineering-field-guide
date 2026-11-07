@@ -1,0 +1,51 @@
+company:
+  name: Locality
+  stage: null
+  focus: Software development with AI-augmented workflows
+position:
+  title: Jr. Software Engineer - AI & Prompt Engineering (Contract to Perm)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly designs and refines prompts, and
+      tests/evaluates LLM-generated outputs (code, text) for
+      correctness and reliability with safeguards — that is
+      shaping model behaviour, with clear LLM components, so it is
+      ai-first.
+  responsibilities:
+  - Design and refine prompts for software development, data analysis, and automation
+    workflows
+  - Test, evaluate, and validate AI-generated outputs for correctness, security, and
+    reliability; implement safeguards
+  - Build and maintain services, scripts, and internal tools that integrate AI models
+    via APIs
+  - Write clean, maintainable, well-documented code and contribute to unit and integration
+    testing
+  - Debug issues across the stack including AI-generated outputs and API integrations
+  - Participate in code reviews and system design discussions
+  - Monitor and evaluate AI-driven features in production and suggest improvements
+  - Apply AI safety, hallucination detection, and output evaluation best practices
+  use_cases:
+  - Prompt-driven software development assistance
+  - Data analysis automation
+  - Workflow automation using AI
+  - Validation and safeguarding of AI-generated code and text
+  skills:
+    genai: [Prompt Engineering, LLMs, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python, JavaScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11592352'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:17:45.540493'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

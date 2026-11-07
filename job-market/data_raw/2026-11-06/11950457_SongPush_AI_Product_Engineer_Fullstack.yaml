@@ -1,0 +1,126 @@
+job_id: 11950457
+title: AI Product Engineer (Fullstack)
+company: SongPush
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  We believe talent is everywhere. The chance to live from it
+  isn't. Millions of creators are talented and invisible at
+  the same time. The value they create flows to middlemen,
+  while the brands who want to reach them are stuck in a non-
+  transparent, fragmented market. So we built the tools to fix
+  both sides at once. Creators turn an account into an income:
+  join a campaign in minutes, make something they're proud of,
+  and get paid fairly for creativity, not follower count.
+  Brands brief once, activate hundreds of creators, and see
+  content live within 24 hours. Next year, 10,000 creators
+  will make a living from WePush. When a creator earns, a
+  brand grows. When a brand grows, more creators earn. WePush
+  is the fastest-growing creator marketing platform in Europe,
+  with over 150,000 creators and 500,000+ collaborations
+  powering brands like L'Oréal, ABOUT YOU, Zalando, and Sony
+  Music. Two numbers matter to us: how many people make a
+  living through WePush, and how many millions of people
+  brands reach through them. **Technical Overview: **We run on
+  a real distributed system: Angular and React frontends, a
+  native iOS app, a Node/TypeScript application server
+  handling booking and matching logic, a fleet of
+  independently deployable backend services on Kubernetes, a
+  real-time layer, a ledger that moves actual money, and a
+  small army of scrapers. We're looking for a Fullstack AI
+  Product Engineer who is comfortable moving across all of
+  those layers and who uses AI agent tools as genuine
+  leverage. We use these tools daily to read unfamiliar
+  services, ship changes, and move fast. Tasks What you'll
+  actually work on: * A native iOS app: SwiftUI, rewritten
+  natively * Web Frontend: our marketplace apps are built in
+  Angular, and newer internal tooling is React. * An
+  application server layer: a Node/TypeScript service sitting
+  between the frontend and the backend fleet, handling
+  booking, scheduling/matching logic, invoicing, and PDF
+  generation. * A polyglot microservices fleet, with a
+  shrinking Hack/HHVM legacy core and a growing set of
+  services in Node.js and Go, each independently versioned,
+  containerized, and deployed via Helm to Kubernetes * A real
+  CI/CD pipeline: GitLab CI building images with Kaniko, tag-
+  based semver releases (nightly unstable builds, stable
+  releases promoted through dev to test to a manually gated
+  prod), and cross-service pipeline triggers when a shared
+  dependency publishes * Scheduled workloads at scale: a
+  couple dozen CronJobs per environment (reminders, payout
+  checks, stat rollups, token refreshes, media polling), each
+  independently schedulable, tunable, and killable without
+  redeploying the whole service * Money movement: a ledger
+  service backing real balances and payouts * A scraper fleet:
+  services that scrape platforms which actively fight back
+  (rate limits, bot walls, reshaped responses), running on
+  their own schedule with their own failure modes * A newer
+  AWS/serverless edge: internal tooling and some integrations
+  are moving onto Lambda/API Gateway/DynamoDB. This is where a
+  lot of new, greenfield work is happening What "AI-driven
+  builder" means here: * You use AI tools openly, as your
+  default way of working, to read and understand an unfamiliar
+  service fast, not just to generate new code. Half the job is
+  "what does this cron job actually do and what breaks if I
+  touch it," and AI is how you get that answer in minutes
+  instead of a day * You verify before you trust: you'd catch
+  a plausible but wrong AI suggestion before it ships * You
+  can operate across languages and layers without needing to
+  be a specialist in all of them, including ones you don't
+  know yet * You respect the promotion pipeline. You don't
+  route around dev to test to prod because it's slower The
+  stack you'll touch: Angular and React on the web frontend,
+  native iOS in SwiftUI, a Node/TypeScript application server,
+  Node.js and Go for newer backend services, a legacy
+  Hack/HHVM core we're winding down, Kubernetes, Helm, GitLab
+  CI, Docker, a Formance-based ledger, WebSockets, cron-driven
+  scheduled workloads, and a growing AWS serverless layer
+  (Lambda, API Gateway, DynamoDB, S3/CloudFront) Requirements
+  You're a strong fit if.. * You've operated real distributed
+  systems, not just built a monolith and called it done. *
+  You're just as comfortable tracing a bug from a UI symptom
+  (web or native) down through the application server into the
+  backend that caused it as you are building the fix on either
+  end * You're comfortable being dropped into someone else's
+  code, in a language you may not know, with real production
+  traffic on it, and using AI tools plus your own judgment to
+  figure out how it actually behaves * You're honest about
+  uncertainty. "I don't know, let me check the logs" beats a
+  confident guess, from you or your AI tools Not expected: *
+  Any prior Hack (or R) experience. Nobody on the team learned
+  either on purpose, and we're actively phasing both out * A
+  portfolio of AI-free work. We're not testing whether you can
+  code without tools, we're testing whether you build good
+  software, in a real system Benefits This is a rare
+  opportunity to build at the intersection of AI, creator
+  technology, and consumer products. WePush is backed by
+  experienced operators from companies including Spotify,
+  Google and many more. We’re entering our next phase of
+  growth with the ambition, speed, and ownership of a startup,
+  but with a proven product and strong market traction. As an
+  AI Product Engineer, you won’t be sitting on the sidelines.
+  You’ll work closely with the founders and product team to
+  turn new AI capabilities into products used by brands and
+  creators at scale. What we offer: * Competitive salary and
+  meaningful equity package * High ownership from day one with
+  the freedom to ship, experiment, and influence product
+  direction * Direct access to founders and leadership with
+  fast decisions and minimal bureaucracy * A team of builders:
+  Ambitious, pragmatic, and obsessed with moving fast * An in-
+  person culture in our Berlin office, with flexibility for
+  home office days * Public transport pass, gym membership,
+  recurring team lunches, and other perks * A front-row seat
+  to building a category-defining technology company
+  Regardless of who you are, where you come from, how you
+  look, or what music is playing in your headphones, you are
+  welcome. If you are a builder and move fast, this role is
+  for you.
+industries:
+  - Digital Media
+  - Marketing Tech
+  - Music
+  - Social Media
+posted_date: 2026-10-29
+url: "https://builtin.com/job/ai-product-engineer-fullstack/11950457"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global container shipping and logistics
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, builds, trains, and deploys ML/DL models
+      and pipelines, which is shaping model behavior, but no LLM,
+      prompt, RAG, or agent component is named - NLP appears only
+      as a specialized skill area alongside general ML. Step 2:
+      only classical ML/DL is shaped, so ml-first.
+  responsibilities:
+  - Design, develop, and implement robust, scalable machine learning and deep learning
+    models
+  - Write and integrate automated tests alongside models and code for reproducibility
+    and quality
+  - Implement best practices in security, pipeline automation, and error handling
+  - Identify data-driven approaches to solve ambiguous business problems using data
+    engineering capabilities
+  - Research and integrate new models and technologies into production systems
+  - Manage and optimize data solutions, perform A/B testing, and evaluate system performance
+  - Contribute to design and documentation of AI/ML solutions for cross-team collaboration
+  - Collaborate across teams to deliver high-quality, scalable AI/ML solutions
+  use_cases:
+  - Predictive analytics and data-driven decision making
+  - Automating business processes with ML models
+  - Solving complex business problems across logistics operations
+  - Large-scale data processing and analysis
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Neural Networks, Model Training, Model Deployment]
+    web: []
+    databases: []
+    data: [Hadoop, Spark, Data Engineering, Data Pipelines, Data Modeling, Data Analysis]
+    cloud: []
+    ops: [CI/CD, MLOps]
+    languages: [Python, R, SQL]
+    domains: [NLP]
+    other: [A/B Testing, Statistical Analysis, Technical Documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12028348'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T14:33:45.085078'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

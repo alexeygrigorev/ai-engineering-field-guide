@@ -1,0 +1,61 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, accounting, and compliance information software
+position:
+  title: Staff Platform Engineer - Materia AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds cloud-native platform infrastructure (CI/CD,
+      Kubernetes, observability, developer tooling) that powers
+      agentic workloads; it does not shape model behavior via
+      prompts, retrieval, or fine-tuning. AI experience (LLM
+      evaluation, AI APIs) is listed only as a preferred
+      qualification, so this is ai-support.
+  responsibilities:
+  - Design, develop, and evolve next-generation cloud-native platforms powering agentic
+    AI workloads
+  - Launch backend services into production for generative AI agents and orchestration
+    systems
+  - Build golden-path reference implementations for automated build, test, and deploy
+    workflows
+  - Design and manage reference CI/CD pipelines using GitHub Actions, Playwright,
+    and Snyk
+  - Develop Go command-line tools and services for developer workflows
+  - Establish and improve DORA metrics to optimize delivery velocity and quality
+  - Design scalable, secure, cost-effective production infrastructure using Kubernetes,
+    Vercel, AWS, and GCP
+  - Implement monitoring, logging, and alerting with DataDog and LLM observability
+    tools
+  use_cases:
+  - Platform powering generative AI agents for tax, accounting, and audit professionals
+  - CoCounsel for Tax and Accounting (Materia) AI-native products
+  - Backend orchestration systems for agentic workloads
+  - Developer enablement and automated deployment workflows for 150+ staff
+  skills:
+    genai: [LLM Evaluation, OpenAI API, Anthropic API, Embeddings]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: [Vector Databases, PostgreSQL, Object Storage]
+    data: []
+    cloud: [AWS, GCP, ECS, IAM]
+    ops: [Kubernetes, CI/CD, GitHub Actions, Snyk, Terraform, CUE, Monitoring, Datadog,
+      Infrastructure as Code]
+    languages: [Go, Python, Rust]
+    domains: []
+    other: [Vercel, DNS, TCP/IP, TLS, SOC 2, RPC, DORA Metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11285380'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+  - Ann Arbor, USA
+  extracted_at: '2026-11-06T11:29:20.530019'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

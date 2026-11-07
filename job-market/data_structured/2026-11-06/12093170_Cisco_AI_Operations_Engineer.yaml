@@ -1,0 +1,53 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and IT infrastructure solutions
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates AIOps solutions for IT
+      operations reliability—monitoring, alerting, automation
+      scripts, CI/CD pipelines, and troubleshooting. While ML
+      pipelines and anomaly analysis are mentioned, the
+      deliverable is IT operations efficiency and reliability, not
+      shaping model behaviour or output quality; there is no
+      prompt, RAG, agent, training, or eval work. This is
+      operating and supporting AI-enabled systems.
+  responsibilities:
+  - Build AIOps solutions for specific IT operations domains such as network assurance
+  - Troubleshoot issues in AIOps environments including configuration errors and service
+    disruptions
+  - Analyze network performance data to identify trends and anomalies
+  - Set up monitoring and alerting systems using open-source tools
+  - Develop automation scripts to streamline workflows and tasks
+  - Design and implement large-scale machine learning pipelines
+  - Implement CI/CD pipelines to optimize AIOps processes and workflows
+  - Track KPIs related to AIOps implementations and collaborate with cross-functional
+    teams
+  use_cases:
+  - IT operations automation and risk management
+  - Incident management and root cause analysis
+  - Network assurance and performance monitoring
+  - Anomaly and trend detection in network data
+  - End-to-end lifecycle optimization of AI applications and systems
+  skills:
+    genai: []
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Monitoring, Automation]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12093170'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:56:21.352351'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

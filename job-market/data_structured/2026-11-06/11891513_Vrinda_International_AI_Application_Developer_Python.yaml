@@ -1,0 +1,51 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and digital transformation solutions
+position:
+  title: AI Application Developer – Python
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and maintains AI/ML applications with
+      TensorFlow, PyTorch, and scikit-learn, managing pipelines
+      for model training and inference, which is shaping model
+      output. There is no LLM, prompt, retrieval, or agent
+      component mentioned, so it is ml-first.
+  responsibilities:
+  - Design, develop, and maintain AI and machine learning applications using Python
+    and frameworks such as TensorFlow, PyTorch, and scikit-learn
+  - Architect and implement secure software solutions following best practices in
+    software security and system design
+  - Build and optimize RESTful APIs using Flask, FastAPI, or Django for data exchange
+    and integration
+  - Manage data processing pipelines for handling, transforming, and analyzing large
+    datasets for model training and inference
+  - Deploy and manage applications on cloud platforms using CI/CD pipelines and Git
+  - Collaborate with cross-functional teams using Agile methodologies and JIRA
+  - Contribute to digital twin technologies and support manufacturing engineering
+    through simulation and analytics
+  use_cases:
+  - AI applications for digital twin models
+  - Manufacturing engineering simulation and analytics
+  - Data processing and model training/inference for large datasets
+  - Scalable and secure AI-powered enterprise applications
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [REST APIs, Flask, FastAPI, Django]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Computing]
+    ops: [CI/CD, Git, DevOps]
+    languages: [Python]
+    domains: []
+    other: [Digital Twin, Agile, Jira, Software Architecture, Software Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891513'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:07.227797'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

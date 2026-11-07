@@ -1,0 +1,60 @@
+company:
+  name: Zenoti
+  stage: null
+  focus: Cloud-based software for the beauty and wellness industry
+position:
+  title: Senior Software Engineer - Python, Data Engineering, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role: building ETL/ELT pipelines,
+      lakehouse tables, and ingestion. AI/LLM surfaces (MCP,
+      Pinecone) appear only as a "good to have" for exposing
+      datasets, with no shaping of model behavior, prompts, or
+      retrieval. Per the rules, AI named as a nice-to-have is ai-
+      support.
+  responsibilities:
+  - Design, build, and operate batch and incremental ETL/ELT pipelines in Python (Glue,
+    PySpark, AWS Batch, Lambda)
+  - Model curated and Iceberg tables; tune Trino/Athena SQL; own partitioning, compaction,
+    and lake cost/performance
+  - Build ingestion from external APIs (Salesforce, Adyen, Intercom, Jira) with incremental
+    anchors, retries, and idempotent writes
+  - Extend data-quality and anomaly-detection framework; own alerting and on-call
+    for pipeline health
+  - 'Lead workstreams on the Databricks-on-Azure lakehouse: Delta Lake, Workflows,
+    Unity Catalog, curation migration'
+  - Ship via PRs with tests, infrastructure-as-code (CloudFormation/Terraform), and
+    CI/CD
+  - Partner with Product, Finance, and Customer Success analysts on metric definitions;
+    expose datasets to QuickSight and the AI/MCP layer
+  - Mentor junior engineers and raise the bar on engineering practices
+  use_cases:
+  - Batch and incremental ETL/ELT pipelines for salon and wellness business data
+  - API ingestion from SaaS sources like Salesforce, Adyen, Intercom, and Jira
+  - Cloud lakehouse (Iceberg and Delta Lake) with tuned SQL analytics
+  - Data-quality monitoring and anomaly detection for pipeline health
+  - BI and AI/agent serving of governed datasets to QuickSight and MCP layer
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: [AWS, AWS Lambda, AWS S3, Azure, Unity Catalog, Glue Data Catalog, Azure
+        Data Factory, Azure DevOps]
+    data: [PySpark, Spark, Data Pipelines, Databricks, Delta Lake, Airflow, Dagster,
+      Kafka, Pandas, NumPy, dbt, Data Quality]
+    ml: [Anomaly Detection]
+    databases: [SQL, Apache Iceberg, Trino, Amazon Athena, Parquet, Snowflake, BigQuery,
+      Redshift, Pinecone, MySQL, SQL Server]
+    genai: [MCP, LLMs]
+    ops: [Docker, CI/CD, Terraform, CloudFormation, Kubernetes, GitHub Actions, Step
+        Functions, Git]
+    other: [QuickSight, Power BI, Tableau, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11420474'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:48:05.421284'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

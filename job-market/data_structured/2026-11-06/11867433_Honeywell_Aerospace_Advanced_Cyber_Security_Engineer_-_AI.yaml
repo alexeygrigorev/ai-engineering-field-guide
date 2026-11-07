@@ -1,0 +1,48 @@
+company:
+  name: Honeywell Aerospace
+  stage: null
+  focus: Industrial automation and aerospace technology solutions
+position:
+  title: Advanced Cyber Security Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a cybersecurity architect/engineer with no
+      responsibility for shaping model behavior, prompts,
+      retrieval, or training. AI appears only in the job title
+      with no LLM or ML work described, so it does not pass Step
+      1.
+  responsibilities:
+  - Design and implement advanced cybersecurity solutions to protect digital infrastructure
+    and sensitive data
+  - Collaborate with cross-functional teams and senior leadership on cybersecurity
+    strategy
+  - Conduct risk and vulnerability assessments to identify security threats
+  - Develop and implement incident response plans to mitigate cybersecurity incidents
+  - Lead incident response efforts and conduct digital analysis
+  - Stay up to date with cybersecurity trends, technologies, and best practices
+  use_cases:
+  - Protecting critical digital assets and sensitive data
+  - Securing industrial and aerospace systems
+  - Incident response and threat mitigation
+  - Vulnerability and risk management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Cybersecurity, Risk Assessment, Vulnerability Assessment, Incident Response,
+      CISSP]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11867433'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:25:03.237267'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

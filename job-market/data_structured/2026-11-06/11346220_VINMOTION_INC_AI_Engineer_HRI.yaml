@@ -1,0 +1,50 @@
+company:
+  name: VINMOTION INC
+  stage: null
+  focus: AI and robotics for humanoid robots
+position:
+  title: AI Engineer (HRI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops generative AI models and transformer-based
+      NLP (GPT, BERT, Whisper) for human-like conversation and
+      multimodal interaction in humanoid robots, which is shaping
+      LLM/generative model behavior. Despite vision/speech
+      components, LLM-driven communication makes it ai-first.
+  responsibilities:
+  - Develop Generative AI models for natural, human-like conversations in humanoid
+    robots
+  - Implement speech-to-text (ASR), text-to-speech (TTS), and chatbot functionalities
+  - Optimize transformer-based NLP models (GPT, BERT, Whisper) for real-time execution
+  - Enhance robotic perception with AI Vision for lip-reading, facial expression recognition,
+    and gaze tracking
+  - Combine NLP with gesture recognition and emotion-aware interactions via Physical
+    AI
+  - Fuse speech, vision, and movement with multimodal AI for human-robot interaction
+  - Deploy AI models in edge computing environments for real-time robotic processing
+  use_cases:
+  - Natural human-like conversation for humanoid robots
+  - Real-time speech recognition and synthesis on robots
+  - Robotic perception via lip-reading, facial expression recognition, and gaze tracking
+  - Emotion-aware and gesture-based human-robot interaction
+  - Multimodal fusion of speech, vision, and movement
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [PyTorch, TensorFlow, Transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision, Robotics]
+    other: [OpenCV, Whisper, ASR, TTS, Multimodal AI, Edge Computing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11346220'
+  location: Cypress, USA
+  extracted_at: '2026-11-06T11:32:46.453541'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

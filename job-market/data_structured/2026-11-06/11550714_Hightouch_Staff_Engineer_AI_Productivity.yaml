@@ -1,0 +1,56 @@
+company:
+  name: Hightouch
+  stage: null
+  focus: Data activation and warehouse-native customer data platform
+position:
+  title: Staff Engineer, AI Productivity
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role optimizes the developer workflow around AI coding
+      agents—building cloud dev environments, MCP integrations to
+      internal systems, and agent documentation—rather than
+      shipping agents or prompts as the product. Per the edge case
+      for rolling out AI coding tools so other engineers ship
+      faster, this is ai-support.
+  responsibilities:
+  - 'Own the agentic development environment: enable AI agents to run autonomously
+    in independent cloud-based development environments, execute test suites, and
+    inspect build results'
+  - Build MCP server integrations connecting AI agents to internal systems such as
+    CircleCI, Slack, Datadog, and GitHub
+  - Own the repo-wide agents.md file and maintain a library of agent guidance, skills,
+    and conventions agents can use effectively
+  - Work with engineers to identify where agents struggle and address root causes
+    through better docs and tooling access
+  - Develop tooling for non-engineers to make simple visual updates to the application
+  - Track state-of-the-art AI productivity trends and drive improvements across Hightouch,
+    acting as a 'PM' for internal AI agents
+  - Raise the bar across teams through cross-team leadership on the AI-assisted development
+    experience
+  use_cases:
+  - Enabling AI coding agents to work autonomously in cloud-based development environments
+  - Connecting AI agents to internal engineering systems via MCP integrations
+  - Improving AI agent effectiveness through documentation and context files
+  - Extending AI-assisted development tooling to non-engineers for simple app updates
+  - Internal developer productivity and AI enablement across the engineering organization
+  skills:
+    genai: [MCP, Devin]
+    ml: []
+    web: [GraphQL]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Claude Code, CI/CD, Datadog, GitHub, CircleCI]
+    languages: [TypeScript, JavaScript, Go]
+    domains: []
+    other: [Cursor, GitHub Copilot, Slack, Developer Tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11550714'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:10:26.424548'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

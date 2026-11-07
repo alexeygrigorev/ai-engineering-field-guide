@@ -1,0 +1,52 @@
+company:
+  name: EXL
+  stage: null
+  focus: Analytics and digital operations solutions
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and orchestrates LLM-based workflows with
+      LangChain, prompt engineering, and RAG architectures —
+      directly shaping model behaviour, with an LLM component
+      throughout.
+  responsibilities:
+  - Manage GenAI model production pipelines, debug defects, and provide root cause
+    assessments
+  - Build and orchestrate LLM-based workflows using frameworks like LangChain, including
+    prompt engineering and pipeline design
+  - Implement RAG architectures leveraging vector databases such as Pinecone for semantic
+    search and contextual retrieval
+  - Work with document ingestion and extraction workflows processing unstructured
+    documents (PDFs, scans, forms) using AWS Textract and GenAI-based extraction
+  - Collaborate with cross-functional teams to define data requirements, evaluation
+    metrics, and success criteria
+  - Communicate findings to technical and non-technical audiences via visualizations,
+    reports, and presentations
+  - Mentor junior team members and foster continuous learning
+  use_cases:
+  - Production GenAI pipeline management and debugging
+  - LLM-based workflow orchestration
+  - Semantic search and contextual retrieval over unstructured documents
+  - Document ingestion and extraction from PDFs, scans, and forms
+  skills:
+    genai: [LangChain, Prompt Engineering, RAG, LLMs, Generative AI, Embeddings, Semantic
+        Search, AI Agents]
+    ml: [scikit-learn, TensorFlow, PyTorch, Machine Learning]
+    web: []
+    databases: [Pinecone, Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Document Extraction, Data Science]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11415120'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:47:02.699733'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

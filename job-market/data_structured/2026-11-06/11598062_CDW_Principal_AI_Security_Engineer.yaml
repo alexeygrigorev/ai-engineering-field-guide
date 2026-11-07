@@ -1,0 +1,66 @@
+company:
+  name: CDW
+  stage: Fortune 500
+  focus: Full-stack technology solutions and services provider
+position:
+  title: Principal AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys guardrails, AI red teaming with
+      automated adversarial testing, prompt/response inspection,
+      and detections for prompt injection and jailbreaks on
+      LLM/agent systems — building output-quality and safety
+      controls themselves, which is shaping. All targets are LLMs,
+      agents, and agentic workflows, so it is ai-first.
+  responsibilities:
+  - Own and mature CDW's AI security assessment program, defining criteria and risk
+    tiers to approve, restrict, monitor, or block AI use cases, platforms, vendors,
+    and shadow AI
+  - Lead security assessments of AI systems, agents, and integrations before and after
+    deployment
+  - Evaluate third-party AI vendors and purchased AI capabilities against CDW's AI
+    security requirements
+  - Define methods and tools for AI red teaming, including automated adversarial testing
+  - Define and own CDW's enterprise AI security architecture, standards, and reference
+    architectures aligned to NIST AI RMF, ISO/IEC 42001, OWASP LLM Top 10, and MITRE
+    ATLAS
+  - Design end-to-end security for the AI stack including LLM inference pipelines,
+    AI agents, MCP-based tool orchestration, and agentic workflows
+  - Design and deploy guardrails, sandboxes, runtime controls, and AI gateway capabilities
+    including prompt and response inspection, DLP, rate limiting, and circuit breaking
+  - Build detections, telemetry, and response playbooks for prompt injection, jailbreaks,
+    data leakage, model abuse, and tool misuse; mentor security engineers
+  use_cases:
+  - Enterprise AI risk assessment and governance for AI use cases, platforms, vendors,
+    and shadow AI
+  - Securing LLM inference pipelines, AI agents, and MCP-based tool orchestration
+  - Guardrails, sandboxes, and AI gateway controls (prompt/response inspection, DLP,
+    rate limiting, circuit breaking)
+  - AI red teaming and adversarial testing for prompt injection and jailbreaks
+  - Detection and response for AI security incidents (data leakage, model abuse, tool
+    misuse)
+  - AI identity governance for agents, service principals, and workload identities
+  skills:
+    genai: [Fine-Tuning, RAG, Guardrails, MCP, Agentic Workflows, AI Agents, Function
+        Calling, Copilot Studio, Semantic Kernel, LangChain, OpenAI API, Anthropic
+        API]
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: []
+    domains: []
+    other: [NIST AI RMF, ISO/IEC 42001, OWASP Top 10 for LLM Applications, MITRE ATLAS,
+      Identity and Access Management, Zero Trust, CISSP, Data Loss Prevention]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11598062'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:18:43.403590'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

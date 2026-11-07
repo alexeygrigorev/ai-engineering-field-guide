@@ -1,0 +1,52 @@
+company:
+  name: VAST Data
+  stage: null
+  focus: Enterprise data platform software for AI-era infrastructure
+position:
+  title: Network Engineer - AI Infrastructure, RDMA & Storage
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and validates network fabrics (RDMA,
+      RoCEv2, GPU fabrics) that serve AI infrastructure, but it
+      does not shape model behavior — no prompt work, retrieval
+      design, training, or evals. It's infrastructure/network
+      engineering where models are served, which is ai-support.
+  responsibilities:
+  - Design reference network architectures for VAST deployments including L2/L3 fabrics,
+    BGP, EVPN/VXLAN, RoCEv2 and QoS policy
+  - Build and run lab environments for switch qualification, interoperability testing,
+    performance characterization, and reproducing customer issues
+  - Evaluate and certify new switches, network operating systems, and NICs working
+    with vendors like NVIDIA, Arista, Cisco, and Juniper
+  - Troubleshoot complex issues across GPUs, fabric, and storage including congestion,
+    packet loss, MTU, latency, PFC and ECN behavior
+  - Turn findings into documented best practices, automation, and product feedback
+    to R&D
+  use_cases:
+  - RDMA and lossless Ethernet fabrics for GPU-based AI training and inference clusters
+  - High-performance storage networking at line rate between GPUs and storage
+  - Switch and NIC ecosystem qualification for customer deployments
+  - Reference network architectures for enterprise and AI infrastructure across data
+    center, edge, and cloud
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [RDMA, RoCEv2, BGP, EVPN/VXLAN, QoS Policy, Data Center Networking, Linux
+        Networking, tcpdump, Wireshark, iperf]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11696380'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:38:06.688808'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

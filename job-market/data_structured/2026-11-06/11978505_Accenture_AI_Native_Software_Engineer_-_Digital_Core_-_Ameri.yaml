@@ -1,0 +1,61 @@
+company:
+  name: Accenture
+  stage: null
+  focus: |-
+    Global professional services and AI-native engineering for
+    enterprise clients
+position:
+  title: AI Native Software Engineer - Digital Core - Americas Market
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds agent workflows with tool calling,
+      structured outputs, retrieval, and context engineering, and
+      writes evaluations measuring AI behavior — directly shaping
+      model behaviour in production features, with LLM/agent
+      components.
+  responsibilities:
+  - Build and ship production features end to end across front end, APIs, backend
+    services, integration, and data
+  - Develop, containerize, and deploy services on a major cloud platform with infrastructure
+    as code and observability
+  - Work within automated CI/CD pipelines, writing automated tests and taking changes
+    through to production
+  - Design data access layers across relational and non-relational stores, APIs, object
+    storage, and event platforms
+  - Build retrieval and context layers for AI features including knowledge sources,
+    embeddings, and context management
+  - Integrate commercial and open models using tool calling, structured outputs, retrieval,
+    and context engineering
+  - Build agent workflows with tools, memory, and human checkpoints, and write evaluations
+    measuring accuracy, latency, safety, and cost
+  - Use AI-native development techniques daily (code generation, testing, debugging,
+    documentation) and review agent output
+  use_cases:
+  - AI-enabled features embedded in live enterprise business workflows
+  - Agent workflows with tools, memory, and human checkpoints
+  - Retrieval and context layers powering AI features with privacy and access controls
+  - AI-assisted software development (code generation, test generation, debugging)
+  - Production cloud-native enterprise services for client-embedded teams
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Structured Outputs, RAG,
+      Embeddings, Context Engineering, LLM Evaluation, LangGraph, CrewAI, Anthropic
+        API, OpenAI API]
+    ml: []
+    web: [APIs]
+    databases: [Relational Databases, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform, Helm, CI/CD, Observability, Infrastructure
+        as Code]
+    languages: [Java, Python, Go, TypeScript, JavaScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11978505'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:15:43.812441'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

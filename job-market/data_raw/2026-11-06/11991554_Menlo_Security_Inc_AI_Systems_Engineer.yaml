@@ -1,0 +1,164 @@
+job_id: 11991554
+title: AI Systems Engineer
+company: Menlo Security Inc.
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 312 Employees
+description: |
+  Menlo Security is the leader in Browser Security for human
+  and agentic workforces. Our mission is to enable humans and
+  agents to connect, communicate, and collaborate securely,
+  without compromise. The Menlo Browser Security Platform
+  protects organizations from cyberattacks by stopping threats
+  across the web, documents, and email before they reach the
+  user. With Menlo Agent Runtime Security (MARS), that
+  protection now extends to the AI agents working alongside
+  every employee. Menlo Security is trusted by major global
+  businesses, including Fortune 500 companies and government
+  agencies, to protect their most valuable asset, their data,
+  and is backed by top-tier investors.
+
+  We are seeking an AI Systems Infrastructure Engineer (IC4)
+  to lead the platform and backend architecture powering our
+  real-time security detection services. In this role, you
+  will build and scale low-latency serving infrastructure for
+  Small Language Models (SLM), Prompt Injection (PI) engines,
+  and Content / Intent Classification platforms running across
+  GPU and cloud clusters. We are looking for a strong systems
+  engineer who understands production backend services,
+  microservices, container management, and high-throughput
+  inference optimization. While you will work closely with ML
+  researchers, your primary focus will be engineering robust
+  backend services, GPU replica scaling, guardrails, and
+  automated evaluation infrastructure.
+
+  Outcomes & KPIs Key Outcome(s) Owned:
+
+  - Sub-hundred-millisecond SLM and detection service execution
+    speeds across high-volume tenant workloads.
+  - Highly resilient, auto-scaling GPU inference cluster
+    infrastructure with automated CI/CD and regression gating.
+
+  Success Metrics / KPIs:
+
+  - P95 and P99 detection latency for prompt injection (PI) and
+    classification services.
+  - GPU pod readiness time and cluster auto-scaling efficiency
+    under burst traffic.
+  - Service availability and rate-limiting guardrail enforcement
+    per tenant.
+  - Automated MLOps/LLMops pipeline throughput and deployment
+    turnaround time.
+
+  What You'll Do
+
+  - Architect, build, and optimize production serving pipelines
+    for Small Language Models (SLMs) and traditional ML models
+    using model quantization, batching, and GPU acceleration.
+  - Own and scale backend microservices (e.g., sds-service-
+    prompt-injection, sds-service-ddr) delivering real-time
+    threat detection.
+  - Build consumption-based monitoring, tenant rate-limiting,
+    and runtime guardrail infrastructure.
+  - Manage and optimize GPU cluster replicas (Kubernetes / Pod
+    infrastructure) to minimize cold-start times and manage
+    infrastructure costs.
+  - Build continuous evaluation, automated retraining pipelines,
+    model CI/CD, and automated regression gates to test model
+    detection quality against live benchmarks.
+  - Refactor legacy service boundaries, service-to-service auth
+    flows, and backend database configurations.
+
+  Requirements:
+
+  - 5+ years of software engineering experience building
+    distributed backend systems or high-throughput
+    microservices.
+  - Proven track record in model serving and inference
+    optimization (e.g., TensorRT, vLLM, ONNX Runtime, Triton
+    Inference Server).
+  - Strong programming experience in Python, Go, or C++.
+  - Hands-on expertise with Kubernetes, container orchestration,
+    GPU scheduling, and infrastructure auto-scaling.
+  - Solid understanding of CI/CD pipelines, MLOps/LLMops
+    principles, and cloud infrastructure (AWS/GCP).
+
+  Preferred / Nice to Have:
+
+  - Experience building consumption-based rate limiting or
+    multi-tenant guardrail architectures.
+  - Familiarity with database refactoring, auth protocols, and
+    backend technical debt remediation.
+  - Background in cybersecurity, threat detection engines, or
+    DLP/PII filtering platforms.
+  - Experience benchmarking runtime vs. accuracy trade-offs
+    between local SLMs and cloud LLMs (e.g., Vertex AI).
+  - Experience with AWS, GCP, Terraform, Kubernetes, and Linux.
+
+  Follow us on LinkedIn!
+
+  Why Menlo?
+
+  At Menlo, we don't settle for the status quo — in our
+  technology or our culture. How we think and act is just as
+  important as what we build. Our culture is defined by five
+  core mindsets: Proactive Leadership, Straight Talk, United
+  Impact, Elevated Talent, and Customer-Compelled. We take
+  ownership and drive outcomes without waiting to be told. We
+  communicate directly and seek hard truths. We break down
+  silos and win together. We hold a high bar for ourselves and
+  the people around us. And we treat every customer
+  interaction as mission-critical. If you're someone who sees
+  it, owns it, solves it, and does it — you'll thrive here.
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, sex, color, religion,
+  sexual orientation, gender identity, national origin,
+  protected veteran status, or on the basis of disability.
+
+  TO ALL AGENCIES: Please, no phone calls or emails to any
+  employee of Menlo Security outside of the Talent
+  organization. Menlo Security’s policy is to only accept
+  resumes from agencies via Ashby (ATS). Agencies must have a
+  valid services agreement executed and must have been
+  assigned by the Talent team to a specific requisition. Any
+  resume submitted outside of this process will be deemed the
+  sole property of Menlo Security. In the event a candidate
+  submitted outside of this policy is hired, no fee or payment
+  will be paid.
+industries:
+  - Cloud
+  - Security
+  - Cybersecurity
+posted_date: 2026-10-30
+url: "https://builtin.com/job/ai-systems-engineer/11991554"
+source: Built In

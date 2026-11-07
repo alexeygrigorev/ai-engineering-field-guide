@@ -1,0 +1,58 @@
+company:
+  name: Clinisys
+  stage: null
+  focus: |-
+    Intelligent diagnostic informatics for healthcare and life
+    sciences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds end-to-end AI agents, writes production LLM
+      integration code (prompt construction, tool use, context
+      management), and builds evaluation harnesses and model
+      pipelines — directly shaping LLM behavior. This is clearly
+      ai-first.
+  responsibilities:
+  - Build end-to-end AI agents and workflow automations from use-case scoping through
+    deployment and maintenance
+  - Write production Python code integrating LLM APIs (prompting, response handling,
+    context management, tool use) into internal workflows
+  - Integrate AI tools with enterprise systems (NetSuite, HubSpot, M365, ServiceNow)
+    via APIs with logging and monitoring
+  - Develop evaluation harnesses and model pipelines using AIOps practices for quality
+    scoring and regression detection
+  - Own deployed agent operations including identity management, monitoring, and failure
+    triaging
+  - Optimize inference performance and cost through caching, batching, quantization,
+    and model selection
+  - Partner with Data Engineers on training and validation datasets
+  - Apply responsible AI controls and collaborate with Security/Compliance on regulatory
+    expectations
+  use_cases:
+  - Intelligent automation of internal business workflows
+  - Advanced analytics and decision support
+  - AI agents integrating with enterprise systems (ERP, CRM, ITSM)
+  - Cost- and performance-optimized inference for production AI services
+  - Automated quality scoring and regression detection for models
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, Function Calling,
+      Generative AI, Vector Databases]
+    ml: [PyTorch, TensorFlow, Fine-Tuning, Quantization, Model Evaluation, Model Training]
+    web: [APIs, REST APIs]
+    databases: [NetSuite]
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Monitoring, MLOps, Model Deployment, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [HubSpot, ServiceNow, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12028881'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:34:05.760819'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

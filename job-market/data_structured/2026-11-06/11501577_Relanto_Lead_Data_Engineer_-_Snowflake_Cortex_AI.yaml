@@ -1,0 +1,47 @@
+company:
+  name: Relanto
+  stage: null
+  focus: Digital and data consulting services
+position:
+  title: Lead Data Engineer - Snowflake Cortex AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data engineering role (dbt, Snowflake,
+      Airflow, Fivetran). Cortex AI and Claude appear as
+      tools/services used, not model shaping; no prompt
+      engineering, RAG, evals, or training work described. AI is a
+      peripheral skill, so this is ai-support.
+  responsibilities:
+  - Develop dbt models, transformations, tests, macros, and deployments
+  - Lead Core-to-dbt Cloud migration
+  - Build and manage Snowflake cloud data warehouse solutions
+  - Set up data ingestion/ELT using Fivetran or similar platforms
+  - Orchestrate data pipelines with Apache Airflow
+  - Develop, validate, and troubleshoot data pipelines using Python
+  - Use Cortex AI and Claude-based AI-assisted development capabilities
+  - Manage infrastructure with Terraform and Azure/AWS data services
+  use_cases:
+  - Cloud data warehouse transformations and modeling
+  - Core-to-dbt Cloud migration
+  - Data ingestion and ELT pipelines
+  - Product usage and behavioral analytics
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Fivetran, Airflow, Data Pipelines, PySpark, Data Engineering]
+    cloud: [Cortex AI, Azure, AWS]
+    ops: [Terraform]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11501577'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:01:04.258782'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

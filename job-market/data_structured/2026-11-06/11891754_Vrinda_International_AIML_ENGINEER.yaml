@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and technology solutions
+position:
+  title: AI/ML ENGINEER
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, deploys, and optimizes ML/deep learning
+      models and production monitoring, which is shaping model
+      behaviour. Only classical ML/DL is mentioned with no LLM or
+      agent component, so it is ml-first.
+  responsibilities:
+  - Architect and deploy scalable machine learning models with continuous optimization
+    of efficiency and accuracy
+  - Conduct comprehensive data analysis to extract meaningful patterns and inform
+    strategic decisions
+  - Establish frameworks for monitoring model performance in production environments
+  - Collaborate with cross-functional teams to integrate AI capabilities into business
+    solutions
+  - Apply deep learning methodologies to complex unstructured data challenges
+  - Build, test, and maintain Python codebases for machine learning pipelines
+  use_cases:
+  - Scalable machine learning solutions for IT services
+  - Pattern extraction from complex data for business decision-making
+  - Deep learning solutions for unstructured data challenges
+  - Model performance monitoring in production environments
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Model Deployment, Model Monitoring]
+    web: []
+    databases: []
+    data: [Data Analysis]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891754'
+  location: New Delhi, IND
+  extracted_at: '2026-11-06T13:42:12.081105'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

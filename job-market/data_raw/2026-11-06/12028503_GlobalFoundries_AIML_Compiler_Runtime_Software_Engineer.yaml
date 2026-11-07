@@ -1,0 +1,188 @@
+job_id: 12028503
+title: "AI/ML Compiler & Runtime Software Engineer"
+company: GlobalFoundries
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 12,676 Employees
+description: |
+  Sr Staff Engineer – AI/ML Compiler & Runtime Software
+  Engineer AI SDK Team
+
+  Location: Pune / Bangalore – India
+
+  Join the RISC-V Revolution!
+
+  About GlobalFoundries
+
+  GlobalFoundries is a leading full-service semiconductor
+  foundry providing a unique combination of design,
+  development, and fabrication services to some of the world’s
+  most inspired technology companies. With a global
+  manufacturing footprint spanning three continents,
+  GlobalFoundries makes possible the technologies and systems
+  that transform industries and give customers the power to
+  shape their markets. For more information, visit www.gf.com
+
+  Introduction
+
+  We are seeking a highly skilled Sr Staff Engineer in AI/ML
+  compiler and runtime software to join our Platform Software
+  and AI SDK team. The team is building the foundational
+  software stack to enable Physical AI workloads on next-
+  generation RISC-V IP and SoC platforms.
+
+  This role sits at the intersection of AI compiler
+  technology, edge AI deployment, runtime systems, and
+  hardware acceleration. You will work on IREE-based compiler
+  and runtime flows, LLVM/MLIR infrastructure, custom MLIR
+  dialects and passes, code generation, quantization, and NPU
+  acceleration to enable efficient execution of AI models on
+  edge devices and silicon platforms.
+
+  This is a unique opportunity to contribute across the full
+  silicon-to-software lifecycle, combining compiler
+  engineering, AI runtime development, and hardware-software
+  co-design to deliver high-performance, low-latency, and
+  power-efficient AI execution for real-time edge and Physical
+  AI use cases.
+
+  What You’ll Do
+
+  - Architect, design, and develop AI/ML compiler and runtime
+    software for RISC-V based IP, NPU, and SoC platforms.
+  - Develop and enhance IREE-based compiler flows, including
+    MLIR lowering, code generation, runtime integration, and
+    deployment paths for edge AI workloads.Create and maintain
+    custom MLIR dialects, compiler passes, lowering pipelines,
+    and transformation flows to map AI workloads efficiently
+    to custom NPU and accelerator hardware.
+  - Work across AI framework import paths including PyTorch,
+    ONNX, and TFLite, and enable lowering through torch-mlir,
+    TOSA, Linalg, and related MLIR dialects.
+  - Optimize neural network workloads for edge deployment,
+    including operator fusion, tiling, memory planning,
+    quantization, layout transformation, and accelerator-aware
+    scheduling.
+  - Enable efficient execution of AI models across CPU, vector,
+    matrix, and NPU acceleration paths, balancing latency,
+    throughput, memory footprint, and power efficiency.
+  - Collaborate closely with architecture, hardware, firmware,
+    FPGA, validation, and product teams to bring up AI
+    workloads on simulators, FPGA platforms, emulation
+    environments, and silicon.
+  - Analyze model performance, identify compiler/runtime
+    bottlenecks, and drive optimizations across graph-level,
+    operator-level, and kernel-level execution paths.
+  - Define software architecture and technical direction for AI
+    SDK components, including compiler pipelines, runtime
+    interfaces, model deployment flows, and accelerator
+    integration.
+  - Build test infrastructure, validation flows, benchmark
+    suites, and CI pipelines for AI compiler/runtime
+    correctness, performance, and regression tracking.
+  - Provide technical leadership to engineers working on AI
+    compiler, runtime, model deployment, and edge AI software
+    development.
+  - Work with internal and customer-facing teams to support
+    software enablement, debugging, performance tuning, and
+    deployment of AI workloads on target platforms.
+
+  Ideally, you’ll have
+
+  - 1-4 years of hands-on software engineering experience, with
+    strong experience in compiler, runtime, embedded software,
+    or AI/ML systems.
+  - Strong hands-on experience with IREE, LLVM, and MLIR
+    compiler infrastructure. Experience developing MLIR
+    dialects, compiler passes, lowering pipelines, pattern
+    rewrites, code generation flows, or backend integration
+    for custom hardware.
+  - Good understanding of IREE code generation flow, dispatch
+    formation, executable generation, HAL/runtime concepts,
+    and target-specific lowering.
+  - Strong exposure to AI compiler/runtime stacks used for edge
+    AI or accelerator-backed inference.
+  - Experience with AI model formats and frameworks such as
+    PyTorch, ONNX, TensorFlow Lite/TFLite, and related
+    conversion or import flows.
+  - Working knowledge of torch-mlir, TOSA, Linalg, tensor
+    dialects, bufferization, quantization dialects, and MLIR-
+    based model lowering concepts.
+  - Strong understanding of neural network execution and
+    optimization, including quantization, operator fusion,
+    tensor layouts, memory planning, tiling, vectorization,
+    and kernel selection.
+  - Experience enabling or optimizing workloads for AI
+    accelerators, NPUs, DSPs, vector processors, matrix
+    engines, or custom SoC IP.
+  - Strong C/C++ programming skills, with good Python scripting
+    ability for compiler tooling, testing, automation, and
+    model workflow integration.
+  - Experience working in Linux development environments,
+    including cross-compilation, debugging, profiling, build
+    systems, and runtime bring-up.Strong debugging and
+    problem-solving skills across compiler IR, generated code,
+    runtime behavior, and hardware/software interaction.
+  - Ability to work with architecture and hardware teams to
+    understand accelerator capabilities and translate them
+    into compiler/runtime enablement.
+  - Proven ability to technically lead complex software modules,
+    mentor engineers, and drive execution across cross-
+    functional teams.
+  - You might also have
+  - Experience working on RISC-V, ARM, x86, DSP, GPU, or custom
+    accelerator software stacks.
+  - Familiarity with RISC-V Vector, matrix acceleration
+    concepts, custom instructions, or accelerator-specific
+    code generation.
+  - Experience with edge AI deployment on real devices,
+    development boards, FPGA platforms, emulators, simulators,
+    or early silicon.
+  - Familiarity with FPGA prototyping, Linux bring-up, board-
+    level debugging, or pre-silicon software validation.
+  - Exposure to LLM and edge inference stacks such as llama.cpp,
+    GGML/GGUF, ONNX Runtime, TensorFlow Lite, TVM, XNNPACK, or
+    similar frameworks, with understanding of quantization,
+    memory footprint optimization, kernel performance, and
+    deployment constraints on resource-limited devices.
+  - Experience with AI model benchmarking and optimization for
+    vision, audio, transformers, GenAI, robotics, automotive,
+    industrial, or real-time embedded workloads.
+  - Understanding of hardware-software co-design, memory
+    hierarchy, DMA, scratchpad memory, cache behavior, and
+    accelerator data movement. Experience with runtime
+    systems, kernel libraries, microkernels, custom dispatch
+    flows, or accelerator runtime APIs.
+  - Familiarity with CI/CD and agile tools such as Jenkins, Git,
+    CMake, Bazel, Jira, or similar engineering infrastructure.
+  - Experience working in customer-facing enablement, silicon
+    bring-up, platform software, or SDK delivery environments.
+  - Excellent communication and interpersonal skills, with the
+    ability to explain complex compiler and AI runtime topics
+    clearly to software, hardware, and product stakeholders.
+
+  GlobalFoundries is an equal opportunity employer,
+  cultivating a diverse and inclusive workforce. We believe
+  having a multicultural workplace enhances productivity,
+  efficiency and innovation whilst our employees feel truly
+  respected, valued and heard.
+
+  As an affirmative employer, all qualified applicants are
+  considered for employment regardless of age, ethnicity,
+  marital status, citizenship, race, religion, political
+  affiliation, gender, sexual orientation and medical and/or
+  physical abilities.
+
+  All offers of employment with GlobalFoundries are
+  conditioned upon the successful completion of background
+  checks, medical screenings as applicable and subject to the
+  respective local laws and regulations.
+
+  Information about our benefits you can find here:
+  https://gf.com/about-us/careers/opportunities-asia
+industries:
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-11-03
+url: "https://builtin.com/job/ai-ml-compiler-runtime-software-engineer/12028503"
+source: Built In

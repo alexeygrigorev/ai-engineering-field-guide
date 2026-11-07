@@ -1,0 +1,61 @@
+company:
+  name: TIAA
+  stage: null
+  focus: Financial services and retirement asset management
+position:
+  title: Senior Associate - AI - ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines, designs prompts, fine-tunes
+      LLMs (SFT, RLHF, LoRA), builds evals and observability for
+      LLM output quality, and deploys AI agents - clearly shaping
+      LLM behavior, so ai-first.
+  responsibilities:
+  - Design and implement end-to-end Generative AI solutions with focus on scalability
+    and production readiness
+  - Build and maintain RAG pipelines integrating vector databases with embedding models
+    and LLMs
+  - Develop and optimize prompting strategies, templates, and workflows to maximize
+    LLM accuracy and consistency
+  - Fine-tune foundation models using SFT, RLHF, LoRA, and QLoRA for domain-specific
+    requirements
+  - Establish model evaluation frameworks measuring accuracy, latency, cost, and hallucination
+    rates with A/B testing
+  - Implement observability and monitoring for model behavior, token consumption,
+    and performance drift
+  - Design and deploy production-grade AI agents using low-code platforms and custom
+    implementations
+  - Integrate NLP, computer vision, document intelligence, and traditional ML into
+    multi-modal solutions
+  - Deploy and scale AI/ML systems and model deployment infrastructure in cloud environments
+  - Collaborate with product, engineering, and business stakeholders on scalable AI
+    architectures
+  use_cases:
+  - Knowledge-grounded context-aware question answering via RAG
+  - Domain-specific LLM customization for financial services
+  - Multi-modal document intelligence and document processing
+  - Production AI agents for enterprise workflows
+  - Model selection, evaluation, and monitoring in production
+  skills:
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [Machine Learning, Model Evaluation, Supervised Fine-Tuning, Data Preprocessing,
+      Predictive Modeling]
+    databases: [Pinecone, Weaviate, FAISS, Vector Databases]
+    genai: [RAG, Prompt Engineering, Fine-Tuning, LangChain, LlamaIndex, LLMs, OpenAI
+        API, Anthropic API, Hugging Face, Embeddings, RLHF, LoRA, AI Agents, Copilot
+        Studio]
+    ops: [MLOps, MLflow, Weights & Biases, Monitoring]
+    other: [A/B Testing, Statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11548660'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:09:59.852448'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

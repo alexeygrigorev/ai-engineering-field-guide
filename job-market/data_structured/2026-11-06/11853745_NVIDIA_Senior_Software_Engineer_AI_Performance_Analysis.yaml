@@ -1,0 +1,49 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU hardware and AI computing platforms
+position:
+  title: Senior Software Engineer, AI Performance Analysis
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds performance analysis tooling, profiling
+      integrations, and bottleneck-detection workflows for AI
+      training/inference. It does not shape model behavior via
+      prompts, retrieval, agent design, or training, and does not
+      judge model output quality; it delivers tooling and capacity
+      for other engineers, which is ai-support.
+  responsibilities:
+  - Design and build performance analysis tools and workflows for AI training and
+    inference workloads
+  - Translate performance engineers' needs into scalable, intuitive tooling
+  - Develop integrations between profiling infrastructure and AI frameworks and workflows
+  - Collaborate with performance engineers, hardware architects, and software teams
+    on profiling capabilities
+  - Identify performance bottlenecks in AI workloads and automate their detection
+    and diagnosis
+  use_cases:
+  - Automated performance analysis of AI training workloads
+  - Automated performance analysis of AI inference workloads
+  - Profiling integration with AI frameworks and workflows
+  - Automated detection and diagnosis of performance bottlenecks
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Profiling]
+    languages: [Python, C++]
+    domains: []
+    other: [Developer Tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11853745'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:23:50.027867'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

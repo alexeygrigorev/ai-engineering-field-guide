@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and technology solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications and designs/implements RAG
+      strategies, directly shaping LLM output quality and
+      retrieval architecture. Model serving/monitoring is
+      secondary; the shaping work on LLMs and RAG makes it ai-
+      first.
+  responsibilities:
+  - Architect and implement end-to-end machine learning pipelines using Python, TensorFlow,
+    and Kubeflow
+  - Develop and optimize Large Language Model applications integrating RAG strategies
+  - Containerize applications and manage orchestration workflows with Docker and Kubernetes
+  - Collaborate with cross-functional teams to integrate OpenAI capabilities into
+    production environments
+  - Monitor model performance and infrastructure health for continuous improvement
+  use_cases:
+  - LLM applications with retrieval-augmented generation for improved response accuracy
+  - Scalable AI solutions in enterprise production environments
+  - End-to-end ML pipelines for business-driven AI outcomes
+  skills:
+    genai: [LLMs, RAG, OpenAI API]
+    ml: [TensorFlow]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubeflow, Docker, Kubernetes, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891197'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:40:45.745032'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

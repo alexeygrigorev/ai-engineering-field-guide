@@ -1,0 +1,191 @@
+job_id: 11903880
+title: Cloud Engineer -  4 to 8yrs - Java, Python, AI Tools, Distributed Systems, Docker, Kubernetes
+company: Cisco
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  The AI Agent platform team builds the cloud platform for AI
+  agents that hold natural voice and chat conversations and
+  take actions in business systems through APIs. We build and
+  run the real-time services underneath: low-latency streaming
+  services that hold a live, two-way session with each user,
+  stream audio and messages between services, and integrate
+  with external systems, at enterprise scale across multiple
+  regions.
+
+  What You’ll Do
+
+  - Design, build and operate core real-time services for the AI
+    Agent platform in Java (Java 21, Quarkus) and Python, such
+    as streaming session orchestration, audio and message
+    streaming, integration and callback execution, and usage
+    and quota metering.
+
+  - Lead the technical design of the services and features you
+    own: write the spec (contracts, state model, failure
+    modes, capacity, rollout and rollback), drive its review,
+    split it into deliverable increments and lead the
+    implementation.
+
+  - Raise the bar for spec-driven development: decide when a
+    change needs a spec, review other engineers’ specs, and
+    keep design docs and API/Protobuf contracts accurate as
+    the system evolves.
+
+  - Own the team’s use of AI coding tools: structure specs and
+    repository guidance so the tools produce correct,
+    reviewable changes, and set the review and test standards
+    for AI-generated code.
+
+  - Engineer for real-time scale: sub-second latency, many
+    concurrent long-lived streaming sessions and multi-region
+    deployment, using bounded resources, idempotency,
+    backpressure, circuit breaking and graceful degradation.
+
+  - Integrate third-party and partner services behind clean
+    adapters with failover, and use latency, reliability and
+    cost data to drive provider and design decisions.
+
+  - Define the test and release strategy for your areas:
+    functional, load and uncertainty test gates, plus canary
+    rollout and rollback readiness.
+
+  - Own production health for your services (SLOs, dashboards
+    and alerts), and lead high-severity incident
+    investigations and root-cause analysis through to
+    permanent fixes.
+
+  - Mentor engineers through design and code reviews, and shape
+    roadmap, estimates and cross-team decisions with
+    architects, product management, SRE, security and the
+    product teams that use the platform.
+
+  Minimum Qualifications (Must Have)
+
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering or a related field, or equivalent practical
+    experience, with 4+ years of professional backend software
+    development, including ownership of production services.
+
+  - Strong experience in Java (Java 17 or later): you have
+    designed, built and operated production microservices with
+    Quarkus, Spring Boot or a similar framework, including
+    concurrent and asynchronous code.
+
+  - Hands on experience in Python in production services,
+    tooling or test automation.
+
+  - Experience designing distributed systems: microservices,
+    streaming or event-driven communication (such as gRPC,
+    WebSockets or Kafka), and failure handling with timeouts,
+    retries and idempotency.
+
+  - Strong experience running production workloads with Docker
+    and Kubernetes on a public cloud (AWS, Azure or Google
+    Cloud).
+
+  - Spec-driven development: you have written specs and design
+    docs before implementation, led their review, and can
+    coach other engineers to work this way.
+
+  - AI-assisted development: you use AI tools such as GitHub
+    Copilot, Cursor, ChatGPT or Codex daily, and you can set
+    practical team guidelines for using them safely and
+    productively.
+
+  Preferred Qualifications (Good to Have)
+
+  - Quarkus, gRPC with Protocol Buffers, and long-lived
+    bidirectional streaming.
+
+  - Reactive and concurrent Java at scale: Vert.x, Mutiny or
+    Project Reactor, and virtual threads.
+
+  - Large-scale, multi-tenant, multi-region SaaS, including
+    capacity planning, SLOs and error budgets.
+
+  - Real-time communications and media: WebRTC, SIP, audio
+    streaming and media servers.
+
+  - API gateways, rate limiting, usage metering and quota
+    enforcement.
+
+  - Kafka, Redis, PostgreSQL and MongoDB, including
+    transactional outbox and other event-driven patterns.
+
+  - Helm, Terraform, Argo CD, Jenkins or GitHub Actions, with
+    multifaceted delivery and feature flags.
+
+  - Observability with OpenTelemetry, Prometheus, Grafana,
+    Jaeger or Splunk.
+
+  - Load, endurance and uncertainty testing, including
+    dependency simulators for performance testing.
+
+  - Security for multi-tenant SaaS: OWASP Top 10, OAuth 2.0 and
+    JWT, secrets management and tenant isolation.
+
+  - Experience building shared platforms or APIs used by other
+    product teams.
+
+  - Patents, open-source contributions or conference talks.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Disclaimer
+
+  To ensure that we hire the best talent in the right way, we
+  follow a strict hiring process and recently, Cisco has been
+  made aware of fraudulent recruiters claiming to be from the
+  company. Please be advised that any communication from Cisco
+  about careers will:
+
+  - be in direct response to an application you have submitted
+    through the company career site
+  - begin with screening or an interview
+  - originate from a Cisco email address, and
+  - be conducted across email, phone, or WebEx
+
+  Cisco will never make a job offer without conducting an
+  interview process or ask you for money in any way. If you
+  have been requested to apply for a role or have received an
+  offer from a site other than https://careers.cisco.com or
+  cisco.wd5.myworkday.com, do not provide any personal
+  identifying information, including your Aadhaar or other
+  personal identifying number, birth certificate, banking
+  information, driver's license, or passport.
+
+  If you are the target of a recruiting scam, consider filing
+  a report with your local law enforcement authorities. Cisco
+  bears no responsibility, and cannot be held liable, for any
+  claims, damages, expenses, or other inconvenience resulting
+  from or in any way connected to recruiting scams.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-10-27
+url: "https://builtin.com/job/cloud-engineer-4-8yrs-java-python-ai-tools-distributed-systems-docker-kubernetes/11903880"
+source: Built In

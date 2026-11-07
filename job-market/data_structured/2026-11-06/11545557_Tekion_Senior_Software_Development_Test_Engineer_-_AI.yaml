@@ -1,0 +1,55 @@
+company:
+  name: Tekion
+  stage: null
+  focus: Cloud-native automotive retail software platform
+position:
+  title: Senior Software Development Test Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs evaluation frameworks, eval datasets, LLM-
+      as-judge pipelines, guardrails, and quality monitoring for
+      LLM agents, RAG, and prompt pipelines — this shapes model
+      behaviour and output quality. Because the targets include
+      LLMs and agentic workflows, it is ai-first.
+  responsibilities:
+  - Own end-to-end quality for ML models, AI agents, and AI-powered features shipped
+    by the ML Engineering team
+  - Design and implement automated testing frameworks for model inference, prompt
+    pipelines, agentic workflows, and RAG/retrieval systems
+  - Define and execute evaluation strategies including eval datasets, ground-truth
+    sets, LLM-as-judge, and automated scoring pipelines
+  - Identify hallucinations, unsafe outputs, regressions, and quality drift across
+    model versions and prompt changes
+  - Use AI/LLMs to generate test cases, synthetic test data, and automation scaffolding
+  - Define quality metrics, guardrails, and automated monitoring to detect model degradation
+  - Drive root cause analysis for production model and behavioral issues
+  - Validate integration of ML models and agents into ARC products including end-to-end
+    flows and fallback behavior
+  use_cases:
+  - Quality assurance for AI agents powering the Automotive Retail Cloud (ARC)
+  - Service AI Agents and F&I automation for dealerships
+  - AI-powered Analytics Agent trained on real-time dealership data
+  - Detection of hallucinations, unsafe outputs, and quality regressions in LLM systems
+  - Automated monitoring of model degradation across 1,700+ dealership rooftops
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Embeddings, AI Agents, Agentic Workflows,
+      LLM Evaluation, Guardrails]
+    ml: [Machine Learning, Model Training, Model Evaluation, Model Monitoring]
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, MLflow, Weights & Biases, LangSmith, Ragas, DeepEval, Docker, Kubernetes,
+      Monitoring]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11545557'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:09:07.083786'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

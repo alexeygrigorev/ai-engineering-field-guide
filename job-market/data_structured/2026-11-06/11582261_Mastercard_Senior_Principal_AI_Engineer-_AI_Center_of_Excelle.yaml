@@ -1,0 +1,54 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments technology and services
+position:
+  title: Senior Principal AI Engineer- AI Center of Excellence
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role architects and operates infrastructure (HPC, GPU,
+      networking, storage, Kubernetes) that hosts LLM training and
+      inference built by others. The deliverable is platform
+      capacity, reliability, and security, not shaping model
+      behaviour via prompts, retrieval, or training. Per the edge
+      case rules, serving/hosting models one does not shape is ai-
+      support.
+  responsibilities:
+  - Define technical vision, architecture, and engineering standards for enterprise
+    AI infrastructure and platforms
+  - Lead architecture of HPC, GPU and accelerated compute, rack-scale systems, private
+    and hybrid cloud, Kubernetes, networking, and storage
+  - Design infrastructure supporting LLM training and inferencing, model serving,
+    and agentic AI orchestration
+  - Solve infrastructure, performance, and scalability challenges through hands-on
+    architecture, prototyping, and performance engineering
+  - Establish engineering patterns for reliability, observability, automation, capacity
+    management, and security
+  - Embed security, privacy, Responsible AI, governance, and compliance into AI infrastructure
+    by design
+  - Evaluate emerging AI, HPC, and infrastructure technologies and influence enterprise
+    roadmaps
+  - Lead cross-functional technical initiatives and mentor engineers through architecture
+    reviews and reference designs
+  use_cases: []
+  skills:
+    genai: []
+    ml: [Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS, GCP, Azure, Azure ML, SageMaker, AI21 Labs]
+    ops: [Model Deployment, MLOps, Kubernetes, Terraform, Docker]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11582261'
+  location: Harrison, USA
+  remote: true
+  extracted_at: '2026-11-06T12:15:31.543005'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

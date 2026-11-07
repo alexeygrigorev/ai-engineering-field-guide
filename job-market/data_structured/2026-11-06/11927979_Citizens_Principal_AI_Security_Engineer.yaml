@@ -1,0 +1,59 @@
+company:
+  name: Citizens
+  stage: null
+  focus: Retail and commercial banking services
+position:
+  title: Principal AI Security Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on security engineering: building security
+      controls, IAM, encryption, monitoring, and incident response
+      around AI systems others build. Safeguards against prompt
+      injection and adversarial testing are protective/oversight
+      work, not shaping model behavior through prompts, retrieval,
+      or training. Per the rules, safety/governance of models is
+      ai-support unless the person builds the evals/guardrails
+      themselves as model-behavior shaping — here the deliverables
+      are security controls and infrastructure hardening.
+  responsibilities:
+  - Build and operationalize security controls protecting AI-powered applications,
+    models, prompts, and outputs
+  - Secure the full AI lifecycle from data ingestion and model training to deployment
+    and runtime
+  - Engineer safeguards against prompt injection, data poisoning, model inversion,
+    and data leakage
+  - Strengthen identity and access controls for AI systems, including service identities
+    and API protection
+  - Protect sensitive AI data through encryption, tokenization, and privacy-preserving
+    techniques
+  - Monitor AI systems and agentic behaviors for anomalies and policy violations
+  - Harden cloud infrastructure supporting AI workloads including containers and orchestration
+    platforms
+  - Lead incident response for AI security events and assess third-party AI SaaS risks
+  use_cases:
+  - Securing AI-powered banking applications against misuse and abuse
+  - Protecting AI lifecycle from data ingestion to runtime
+  - Defending against AI threats like prompt injection and data poisoning
+  - Securing AI integrations with enterprise databases, APIs, and SaaS tools
+  - Monitoring agentic AI behaviors for anomalies and malicious activity
+  skills:
+    languages: [Python]
+    domains: []
+    web: [APIs]
+    cloud: [Cloud Computing, Serverless]
+    data: [Data Engineering]
+    ml: []
+    databases: [Database Technologies]
+    genai: []
+    ops: [DevOps, Infrastructure, Docker, Orchestration Platforms]
+    other: [AI/ML, Security, Encryption, Tokenization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11927979'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:59:46.605904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

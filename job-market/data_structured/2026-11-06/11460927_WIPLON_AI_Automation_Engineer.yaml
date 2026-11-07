@@ -1,0 +1,44 @@
+company:
+  name: WIPLON
+  stage: null
+  focus: Automation and integration of business applications
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements practical solutions using LLMs, AI
+      agents, prompt engineering, and RAG to build automations,
+      which is shaping LLM behavior (prompt design, agent flows,
+      retrieval). AI APIs alone would be ai-support, but prompt
+      engineering, RAG, and AI agents are explicitly required.
+  responsibilities:
+  - Identify repetitive or manual processes that can be automated using AI
+  - Integrate existing business applications and create seamless automated workflows
+  - Build and test automations using n8n, Make, Zapier, AI APIs, and Python
+  - Explore and implement practical solutions using LLMs, Generative AI, and AI agents
+  - Develop quick prototypes and convert successful ideas into reliable internal solutions
+  - Continuously explore new AI tools and identify innovative ways to apply them internally
+  use_cases:
+  - Automating repetitive internal business processes
+  - Connecting and integrating existing business applications
+  - Reducing manual effort and improving productivity with AI-powered workflows
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, AI Agents, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [AI Automation, n8n, Zapier, Application Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11460927'
+  location: Jaipur, IND
+  extracted_at: '2026-11-06T11:54:11.842416'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

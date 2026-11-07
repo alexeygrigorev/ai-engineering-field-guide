@@ -1,0 +1,52 @@
+company:
+  name: Applied Systems
+  stage: null
+  focus: Cloud software and AI for the insurance industry
+position:
+  title: Staff Software Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and operates autonomous/semi-
+      autonomous AI agents with orchestration, tool-calling,
+      planning, memory, guardrails, and agent evals - directly
+      shaping LLM/agent behavior. This is clearly ai-first.
+  responsibilities:
+  - Design, build, and run autonomous and semi-autonomous agents that plan, use tools,
+    and take multi-step action over data and platform
+  - Architect agent orchestration patterns including planning, memory, tool-use, and
+    multi-agent coordination
+  - Build evaluation harnesses to measure agent accuracy, reliability, and regressions
+  - Architect and deploy observability, alerting, and guardrail frameworks to monitor
+    agent health, cost, and behavior in production
+  - Define safe failure modes and human-in-the-loop checkpoints for agents acting
+    on production data
+  - Respond to agent-related incidents and drive root cause analyses
+  - Build high-volume batch/streaming data pipelines that feed agent context and retrieval
+  - Mentor engineers and drive adoption of AI-driven development processes
+  use_cases:
+  - Autonomous agents that reason over insurance data and platform systems
+  - Multi-step workflow orchestration with tool calling across the analytics platform
+  - Agent evaluation, guardrails, and production monitoring for insurance SaaS
+  - Data pipelines that feed agent context and retrieval for reporting and analytics
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, Function Calling, LLM
+        Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [Data Pipelines, Data Quality, Data Lineage, Data Migration]
+    cloud: [GCP]
+    ops: [Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Code Review, Software Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11221371'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:27:40.067656'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

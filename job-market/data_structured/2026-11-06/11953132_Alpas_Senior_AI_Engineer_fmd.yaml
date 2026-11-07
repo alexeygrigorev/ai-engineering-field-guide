@@ -1,0 +1,48 @@
+company:
+  name: Alpas
+  stage: Y Combinator portfolio company
+  focus: Agentic sourcing technology for direct procurement
+position:
+  title: Senior AI Engineer (f/m/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates production AI agents with
+      LangGraph, builds RAG pipelines, and evaluates LLM systems —
+      directly shaping model behavior and output quality.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design, build and operate production AI agents with LangGraph including agentic
+    workflow patterns
+  - Build NLP and RAG pipelines with vector databases and retrieval strategies that
+    feed the agents
+  - Integrate agents with backend services and keep agent interfaces scalable
+  - 'Own MLOps for agentic workloads: CI/CD, monitoring, evaluation pipelines, cost
+    control and inference efficiency'
+  - Set and meet quality targets and benchmark models and approaches
+  - Keep the codebase healthy and share knowledge through reviews and documentation
+  use_cases:
+  - Automated supplier search, qualification and enrichment for procurement
+  - Fully-automated supplier analysis for direct procurement
+  - Cost reduction, risk mitigation and resilience for procurement teams
+  - NLP and retrieval pipelines powering sourcing agents
+  skills:
+    languages: [Python]
+    domains: []
+    web: [FastAPI, REST APIs]
+    cloud: [GCP]
+    data: [Pub/Sub]
+    ml: [NLP, PyTorch, Model Training]
+    databases: [Vector Databases]
+    genai: [LangGraph, Agentic Workflows, AI Agents, RAG, LLM Evaluation, LLMs, Prompt
+        Engineering]
+    ops: [CI/CD, MLOps, Docker, Kubernetes, Terraform, ArgoCD, Monitoring]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11953132'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:09:19.117285'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

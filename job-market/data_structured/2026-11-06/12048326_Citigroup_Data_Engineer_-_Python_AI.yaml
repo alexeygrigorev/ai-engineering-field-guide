@@ -1,0 +1,47 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Data Engineer - Python, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and maintains NLP pipelines using Flair,
+      BERT, and LLM-based models and serves model inference
+      through Flask APIs, so the person shapes model behaviour
+      themselves. LLM-based models are named, making it ai-first.
+  responsibilities:
+  - Develop and optimize ETL/data processing jobs using PySpark, Pandas, and PyArrow
+  - Build and maintain NLP pipelines using Flair, BERT, and LLM-based models
+  - Develop scalable ingestion and data transformation pipelines for AI and analytics
+    use cases
+  - Build and maintain Flask-based APIs for model inference and service integrations
+  - Integrate Redis caching and manage ML models with MLflow
+  - Support CI/CD workflows and create Autosys JILs for job scheduling and automation
+  - Monitor system health with ITRS Geneos and write unit tests with PyTest/unittest
+  - Work with REST APIs, microservices, shell scripting, and AWS ECS/boto3 cloud services
+  use_cases:
+  - NLP text processing pipelines for enterprise applications
+  - Large-scale data ingestion and transformation for AI and analytics
+  - Model inference services exposed via APIs
+  - Job scheduling and automation for data workflows
+  skills:
+    languages: [Python, Bash]
+    domains: []
+    web: [Flask, FastAPI, REST APIs, Microservices]
+    cloud: [AWS, ECS, AWS Lambda]
+    data: [PySpark, Pandas, PyArrow, Data Pipelines, Polars, Dask, Airflow, Prefect]
+    ml: [NLP, Transformers, Flair, PyTorch, TensorFlow, Model Training]
+    databases: [Redis]
+    genai: [LLMs]
+    ops: [MLflow, CI/CD, GitHub, Linux, Model Deployment, Docker, Kubernetes]
+    other: [boto3, Autosys, ITRS Geneos]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12048326'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:39:23.533800'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

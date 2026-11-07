@@ -1,0 +1,50 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: AI safety research; building reliable, steerable AI systems
+position:
+  title: Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and
+    Neglected Diseases)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes LLM-powered tools (Claude) for
+      clinical development: drafting protocols, building MCP
+      servers, agent skills, benchmarks, and writing evals —
+      clearly shaping LLM behaviour, so ai-first. It is partner-
+      facing, embedding with external partners' teams.
+  responsibilities:
+  - Work with partners' trial teams to design, review and prioritise clinical trials
+    with Claude, drafting protocols and statistical analysis plans
+  - Flag enrolment and operational risks in clinical trials
+  - Build and validate tools for drug repurposing from literature, omics and patient
+    data
+  - Assemble evidence for partners to decide next programme steps
+  - Build reusable infrastructure such as MCP servers for biomedical data sources,
+    agent skills, and clinical benchmarks
+  - Feed field learnings back to product, engineering and research teams
+  - Advise and embed in partners' teams of engineers, scientists and clinicians
+  use_cases:
+  - Clinical trial design and protocol review for rare and neglected diseases
+  - Drug repurposing evidence assembly from literature, omics and patient data
+  - Risk flagging for trial enrolment and operations
+  - Biomedical data infrastructure reusable across institutions
+  skills:
+    genai: [LLMs, MCP, AI Agents, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Clinical Trials, Drug Repurposing, Biomedical Data]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11712278'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:40:21.424931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

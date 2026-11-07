@@ -1,0 +1,51 @@
+company:
+  name: Ki Insurance
+  stage: null
+  focus: Algorithmic Lloyd's of London insurance carrier
+position:
+  title: Interim Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic AI systems (multi-agent
+      orchestration, tool use, RAG, evaluation harnesses) end-to-
+      end, which is clearly shaping model behavior and LLM-based
+      systems. Classification is ai-first.
+  responsibilities:
+  - Design, build and ship production-grade agentic AI systems for underwriting and
+    portfolio management tasks
+  - Take accountability for delivery from design through to running in production
+  - Build evaluation and observability capabilities including test harnesses, offline/online
+    evaluations, regression suites, tracing and fallbacks
+  - Ensure safety, reliability, cost and latency are measurable and controlled in
+    production
+  - Work directly with underwriters and portfolio managers to translate commercial
+    needs into product and technical decisions
+  - Handle extraction, workflow orchestration, human-in-the-loop review, evaluation
+    and production reliability engineering
+  use_cases:
+  - Agentic AI support for underwriters in real workflows
+  - Data-driven underwriting and portfolio management automation
+  - Document extraction for insurance workflows
+  - Human-in-the-loop review of underwriting decisions
+  - Evaluation and observability of production AI systems
+  skills:
+    genai: [Agentic Workflows, AI Agents, Multi-Agent Systems, Function Calling, RAG,
+      LLM Evaluation, Prompt Engineering]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Deployment]
+    ops: [CI/CD, Observability, System Design]
+    languages: []
+    domains: []
+    other: [SOC 2, ISO 27001, Penetration Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11674133'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:31:45.572928'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: NielsenIQ
+  stage: null
+  focus: Global consumer intelligence and retail analytics
+position:
+  title: Software Engineer (Python AND AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs AI/GenAI solutions at a high level, but no
+      responsibilities name concrete LLM-shaping work (no prompts,
+      RAG, agents, fine-tuning, or evals). The concrete
+      deliverables are Python backend services, APIs, and
+      databases; AI appears as general solution vocabulary, and
+      AI-enabled development workflows are a tool, not the
+      product. Too vague to confirm shaping, but not absent — the
+      software engineering responsibilities clearly dominate, so
+      ai-support.
+  responsibilities:
+  - Design, develop, test, and maintain scalable Python applications
+  - Design and implement AI/ML and Generative AI solutions to solve business problems
+  - Build and integrate APIs, microservices, and backend services
+  - Design database schemas, optimize queries, and ensure data integrity and performance
+  - Drive projects independently from requirement gathering through production deployment
+  - Evaluate new technologies, AI frameworks, and tools to improve engineering efficiency
+  - Troubleshoot production issues and provide timely resolutions
+  - Create technical documentation and participate in architecture discussions
+  use_cases:
+  - Scalable backend applications for consumer and retail data processing
+  - AI/Generative AI solutions solving business problems in consumer intelligence
+  - Microservices and API integrations for mission-critical enterprise systems
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: [FastAPI, Microservices, REST APIs]
+    databases: [PostgreSQL, Relational Databases]
+    data: []
+    cloud: [Azure, GCP]
+    ops: [Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: [OOP, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11980569'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:16:19.246435'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

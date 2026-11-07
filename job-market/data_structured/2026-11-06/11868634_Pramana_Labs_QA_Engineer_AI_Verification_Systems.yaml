@@ -1,0 +1,49 @@
+company:
+  name: Pramana Labs
+  stage: null
+  focus: Frontier AI lab building verification layer for AI
+position:
+  title: QA Engineer, AI Verification Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is QA/SDET testing an AI verification product:
+      raising defects, testing APIs and proof artifacts, and
+      eventually automating tests. This is QA oversight of a model
+      system, not shaping model behaviour through prompts,
+      retrieval, training, or building evals/guardrails for the
+      model itself, so it is ai-support.
+  responsibilities:
+  - Test all stages of the product pipeline, from rule input through formal specs,
+    prover output and proof artifacts to customer-facing APIs and proof viewers
+  - Raise clear, reproducible defects and verify fixes
+  - Cover corner cases and security risks including exceptions, thresholds, conflicting
+    rules, unsatisfiable inputs, malformed or malicious input, and access and data-handling
+    issues
+  - Turn dense rule-based text into precise test cases and write clear bug reports
+  - Automate tests over time so problems are flagged without manual intervention
+  use_cases:
+  - Verification of AI answers over formalized human knowledge (tax codes, legal rules,
+    clinical guidelines, security protocols)
+  - Rules-to-proof pipeline testing from rule input to proof artifacts
+  - Formal specification and proving using a symbolic world model in Lean 4
+  - Security and robustness testing of rule reasoning systems
+  skills:
+    genai: [LLM Evaluation]
+    ml: [Machine Learning, LLMs]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitHub Actions, Jenkins, pytest]
+    languages: [Python]
+    domains: []
+    other: [Property-Based Testing, API Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11868634'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:26:02.261454'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

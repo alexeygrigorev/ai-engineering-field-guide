@@ -1,0 +1,64 @@
+company:
+  name: Félix (felixpago)
+  stage: Series C
+  focus: |-
+    AI-powered cross-border remittances and financial services
+    for Latinos
+position:
+  title: AI Developer Relations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and debugs agents, prompts, retrieval, tool
+      calling, and evaluations directly, shaping LLM behavior.
+      Production systems stay with other engineers, but the hands-
+      on agent/prompt/eval work makes it ai-first.
+  responsibilities:
+  - Build and improve reference agents, tool integrations, and workflows with Python,
+    LLM SDKs, and APIs
+  - Pair with colleagues to scope builds, review code, and debug prompts, retrieval,
+    tool calls, and state
+  - Run technical office hours, triage requests, and escalate complex problems with
+    reproducible examples
+  - Turn shared standards into reusable starter kits, tested agents, and troubleshooting
+    guides
+  - Own technical content and exercises for bootcamps and mentor colleagues through
+    guided builds
+  - Maintain expertise in Maestro and approved AI platforms, testing new capabilities
+    and surfacing gaps
+  - Track adoption, independent task completion, and blocker resolution across teams
+  use_cases:
+  - 'Internal AI enablement: helping colleagues build and maintain their own AI workflows'
+  - In-house AI assistant (Maestro) working across Slack, Notion, Google Workspace,
+    and company data
+  - Reusable agent starter kits, integration patterns, and evaluation guides
+  - Technical training and mentoring for applied AI adoption across teams
+  skills:
+    genai: [OpenAI API, LLMs, Function Calling, Structured Outputs, LLM Evaluation,
+      Agentic Workflows, Prompt Engineering, RAG, Gemini]
+    ml: []
+    web: [APIs, OAuth]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12087460'
+  location: Miami, USA
+  locations:
+  - Miami, USA
+  - Seattle, USA
+  - New York, USA
+  - Guadalajara, MEX
+  - San Francisco, USA
+  - Mexico, MEX
+  - ARG
+  remote: true
+  extracted_at: '2026-11-06T14:52:56.508616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

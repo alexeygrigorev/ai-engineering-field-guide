@@ -1,0 +1,56 @@
+company:
+  name: Mavenir
+  stage: null
+  focus: Cloud-native network software for telecom service providers
+position:
+  title: Senior Test Engineer, IMS & AI Communication Products
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/test engineer role that validates AI products
+      (STT, TTS, voice bots) built by others. The person develops
+      test scenarios and validates AI inference accuracy, but
+      doesn't shape model behavior through prompts, retrieval,
+      training, or eval-building for model improvement—testing for
+      product defects is QA oversight, not model shaping.
+  responsibilities:
+  - Perform functional, integration, system, performance, and regression testing of
+    IMS-based products
+  - Validate end-to-end call flows across IMS network elements and perform interoperability
+    testing
+  - Test AI-powered communication products including Voice Translation, STT, TTS,
+    Conversational AI, and real-time media processing
+  - Validate AI inference accuracy, latency, scalability, and multilingual capabilities
+  - Develop test scenarios for AI model validation and user experience verification
+  - Design and implement automation frameworks and test scripts using Python
+  - Execute testing in Kubernetes/OpenShift environments including deployment, upgrade,
+    and high-availability scenarios
+  - Analyze SIP traces, RTP/SRTP/RTCP media flows, logs, and packet captures to identify
+    defects
+  use_cases:
+  - Voice translation in telecom communication
+  - Speech-to-text and text-to-speech services
+  - Conversational AI and voice bots
+  - Real-time media processing in IMS networks
+  - Cloud-native telecom network reliability and scalability
+  skills:
+    genai: [Conversational AI, Voice Bots]
+    ml: [PyTest, Speech-to-Text, Text-to-Speech]
+    web: [REST APIs, Microservices, API Automation]
+    databases: []
+    data: []
+    cloud: [Kubernetes, OpenShift]
+    ops: [Docker, Helm, Robot Framework, CI/CD, Jenkins, GitLab CI, GitHub Actions,
+      Wireshark, Prometheus, Grafana]
+    languages: [Python]
+    domains: [IMS Architecture, SIP, SDP, RTP, SRTP, RTCP, Diameter, WebRTC, Telecom
+        Network Elements]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11827905'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:19:43.050480'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

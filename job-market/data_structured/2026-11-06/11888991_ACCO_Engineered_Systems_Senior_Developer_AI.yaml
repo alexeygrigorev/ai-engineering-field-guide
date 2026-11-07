@@ -1,0 +1,58 @@
+company:
+  name: ACCO Engineered Systems
+  stage: null
+  focus: |-
+    Mechanical contracting: HVAC, refrigeration, plumbing,
+    building automation
+position:
+  title: Senior Developer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic workflows, LLM
+      integrations, evaluation, and prompt guardrails — directly
+      shaping model behavior and output quality on LLM/agent
+      systems, so it is ai-first.
+  responsibilities:
+  - Design, build, and deploy production AI solutions, AI agents, and RAG pipelines
+    using enterprise data sources
+  - Partner with the Applications Architect to turn business requirements into secure,
+    scalable AI microservices within Azure, Google Cloud, and .NET backends
+  - Establish and enforce LLMOps standards including model evaluation, output validation,
+    hallucination mitigation, latency reduction, and cost optimization
+  - Implement AI security measures, prompt guardrails, and data privacy protocols
+  - Develop automated data preparation, chunking, and embedding pipelines for structured
+    and unstructured business data
+  - Evaluate, benchmark, and integrate open-source and foundation models and orchestration
+    frameworks
+  - Conduct architectural reviews, code reviews, and workshops to upskill team members
+    on AI integration patterns
+  - Monitor runtime performance, usage metrics, and accuracy of deployed AI agents,
+    implementing continuous improvement loops
+  use_cases:
+  - Enterprise AI solutions over business data with RAG pipelines and AI agents
+  - Intelligent system automation across digital infrastructure
+  - Secure LLM integration with enterprise data sources
+  - Automated data preparation and embedding of structured and unstructured business
+    data
+  skills:
+    languages: [Python, C#]
+    domains: []
+    web: [Microservices, .NET]
+    cloud: [Azure, GCP]
+    data: []
+    ml: [Model Evaluation]
+    databases: [Vector Databases, Semantic Search]
+    genai: [RAG, Agentic Workflows, AI Agents, LLMs, LLMOps, Prompt Guardrails, Embeddings,
+      LLM Evaluation, Semantic Kernel, LangChain, LlamaIndex, AutoGen, Gemini, OpenAI
+        API, Anthropic API, Llama]
+    ops: [Model Monitoring]
+    other: [Code Review, OWASP Top 10 for LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888991'
+  location: Pasadena, USA
+  extracted_at: '2026-11-06T13:40:34.414692'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

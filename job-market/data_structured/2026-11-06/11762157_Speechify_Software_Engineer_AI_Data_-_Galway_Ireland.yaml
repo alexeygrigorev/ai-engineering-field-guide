@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Galway, Ireland
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and data-acquisition systems
+      that feed training datasets owned by AI Scientists; it does
+      not shape model behaviour, train, or evaluate models itself.
+      Building datasets and pipelines for someone else's training
+      runs is ai-support.
+  responsibilities:
+  - Discover new audio data sources and build reliable pipelines into training datasets
+  - Build and improve large-scale data-processing systems optimized for quality, throughput,
+    and cost
+  - Collaborate with AI Scientists to improve training datasets for next-generation
+    models
+  - Own engineering projects from problem discovery through implementation and continuous
+    improvement
+  use_cases:
+  - Petabyte-scale dataset construction for TTS model training
+  - Audio data acquisition and ingestion pipelines
+  - Large-scale data processing for AI training efficiency
+  - Text-to-speech products for accessibility and learning differences
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Engineering]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code, Distributed Systems]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762157'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:49:26.985622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

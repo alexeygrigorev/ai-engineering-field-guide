@@ -1,0 +1,46 @@
+company:
+  name: Tabs
+  stage: null
+  focus: AI operating system for revenue and accounting automation
+position:
+  title: Research Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluations, retrieval/reranking, and
+      agentic systems to shape LLM-based AI products, including
+      model choice and output quality - clearly shaping model
+      behaviour with LLM/agent components involved.
+  responsibilities:
+  - Build AI products from messy financial data, starting with simple baselines and
+    adding complexity as needed
+  - Build evaluations reflecting real user outcomes and use error analysis, ablations,
+    and production feedback to improve systems
+  - Make tradeoffs across model quality, cost, latency, determinism, reliability,
+    and maintainability
+  - Partner with product and engineering to ship AI features for finance teams
+  - Own problems from initial exploration through production
+  use_cases:
+  - Automating revenue and accounting workflows for finance teams
+  - Applying accounting logic to customer and contract data
+  - Turning messy financial data into working AI products
+  - Reducing manual revenue workflow management
+  skills:
+    genai: [RAG, LLMs, AI Agents]
+    ml: [Machine Learning, Embeddings, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11420421'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:47:49.419662'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Zscaler
+  stage: null
+  focus: Cloud security; Zero Trust SASE platform
+position:
+  title: Deputy Manager, AI & Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates AI assistants via internal LLM gateways
+      and builds modular skills/services grounded in Finance
+      context, plus RAG architectures, semantic caching, and
+      prompt/context management as preferred qualifications. The
+      person designs LLM-driven retrieval and prompt/context
+      behavior themselves, so this is ai-first.
+  responsibilities:
+  - Architect, build, and own the production-grade AI Platform supporting Finance
+    modules, executive dashboards, and interactive workflows
+  - Implement enterprise-grade security, Okta SSO, RBAC mapping, and clean backend
+    API service boundaries
+  - Manage governed data-serving pipelines, schema design, and caching strategies
+    including semantic caching
+  - Integrate AI assistants via internal LLM gateways and build modular skills grounded
+    in Finance context
+  - Drive CI/CD release automation via GitLab pipelines and maintain production operations,
+    monitoring, and incident response
+  use_cases:
+  - Finance AI platform powering dashboards and workflows
+  - AI-assisted finance insights via LLM assistants
+  - Semantic caching for high-performance data serving
+  - Governed finance data pipelines and analytics
+  skills:
+    genai: [LLMs, OpenAI API, RAG, Prompt Engineering]
+    ml: []
+    web: [FastAPI, OAuth, React, Streamlit]
+    databases: [Snowflake, PostgreSQL, Redis]
+    data: [dbt]
+    cloud: [AWS, IAM]
+    ops: [CI/CD, Docker, GitLab CI, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8859755'
+  location: Mohali, IND
+  extracted_at: '2026-11-06T15:03:33.443558'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

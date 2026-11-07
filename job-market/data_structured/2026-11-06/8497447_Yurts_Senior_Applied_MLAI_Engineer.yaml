@@ -1,0 +1,53 @@
+company:
+  name: Yurts
+  stage: null
+  focus: Secure agentic AI platform for government and enterprise
+position:
+  title: Senior Applied ML/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems including
+      reasoning loops, tool calling, context management, multi-
+      agent orchestration, and fine-tunes/evaluates LLMs, which
+      directly shapes model behavior of LLM-based agents. This
+      makes it ai-first.
+  responsibilities:
+  - Lead design and development of ML and NLP systems powering search, navigation,
+    and agentic AI experiences
+  - Innovate on iterative reasoning, retrieval, and search systems with agentic AI
+  - Develop, fine-tune, evaluate, and optimize ML and language models for production
+    use
+  - Design and build systems involving knowledge graphs, semantic representations,
+    and entity detection/extraction
+  - Own AI/ML solutions end-to-end from design through deployment and iteration
+  - Make technical decisions balancing algorithmic complexity, model performance,
+    latency, and production cost
+  - Support and debug production distributed systems
+  - Communicate technical decisions and tradeoffs to technical and non-technical stakeholders
+  use_cases:
+  - Intelligent search and navigation across the product
+  - Task-oriented agentic AI user experiences
+  - Agentic reasoning, planning, and tool use
+  - Knowledge graph and semantic entity retrieval
+  - Secure mission-critical AI systems for government and enterprise
+  skills:
+    genai: [Agentic Workflows, Function Calling, Fine-Tuning, LLMs, RAG, AI Agents]
+    ml: [Machine Learning, NLP, Model Evaluation]
+    web: []
+    databases: [Knowledge Graphs, Semantic Search]
+    data: []
+    cloud: []
+    ops: [MLOps, Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8497447'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:03:02.172128'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

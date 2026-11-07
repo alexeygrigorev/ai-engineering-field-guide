@@ -1,0 +1,303 @@
+job_id: 11692908
+title: Senior AI Evals Engineer
+company: Rubrik
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 3,000 Employees
+description: |
+  About the Role
+
+  The Senior AI Evals Test Engineer  is a hands-on technical
+  role responsible for defining, developing, and executing
+  robust evaluation frameworks and test strategies for AI
+  agents built using the Google Agent Development Kit (ADK) or
+  similar sort of agentic frameworks. This role bridges AI
+  development and reliable deployment — ensuring our agents
+  are safe, ethical, effective, and meet high-quality
+  performance standards. A significant focus of the role is on
+  Responsible AI and Safety Evals, including adversarial
+  testing, red-teaming, bias detection, and toxicity
+  measurement. The engineer will design scalable evaluation
+  pipelines, build synthetic test environments, and work
+  closely with AI/ML Engineers, Researchers, and policy teams
+  to ensure agents are production-ready and compliant with
+  regulatory and ethical standards. The role is 70% Automation
+  and 30% Manual Testing, and sits within the Applied AI: Test
+  Engineering team as a key technical authority.
+
+  Key Responsibilities
+
+  - Design and build agent evaluation frameworks — create end-
+    to-end infrastructure for evaluating LLM-based agents
+    across correctness, latency, cost, safety, and task
+    completion rate
+  - Build synthetic testing environments and simulation
+    strategies to stress-test AI agents under diverse real-
+    world conditions, with specific focus on agents built on
+    Google ADK and related Google AI/ML services (e.g., Vertex
+    AI, Gemini models)
+  - Build golden datasets and test harnesses — curate domain-
+    specific evaluation sets for Rubrik's product verticals
+    (data security, SaaS protection, cyber recovery,
+    compliance)
+  - Establish eval-as-a-service — build and enhance centralized
+    evaluation platform that any IT team members can self-
+    serve to test their agents against standardized and custom
+    benchmarks
+  - Automate regression and drift detection — implement CI/CD-
+    integrated eval pipelines that catch regressions on every
+    model or prompt change before production deployment
+  - Define eval taxonomies and rubrics — establish structured
+    scoring criteria for agentic workflows (tool use accuracy,
+    multi-step reasoning, hallucination rate, policy
+    adherence, error recovery)
+  - Instrument production observability — build real-time
+    monitoring for agent quality in production: success rates,
+    user corrections, fallback triggers, escalation patterns
+  - Benchmark and select models — run structured model
+    comparisons (cost, quality, latency trade-offs) to inform
+    model selection decisions across agent use cases
+  - Analyze and interpret evaluation results, providing clear,
+    actionable quality and safety reports to stakeholders and
+    development teams, with specific focus on risk metrics,
+    trend analysis, and mitigation recommendations
+  - Define comprehensive end-to-end QA strategies — functional,
+    integration, regression, and user acceptance testing (UAT)
+    — tailored for conversational and goal-oriented AI agents
+    with tool-use, memory, and multi-turn reasoning
+    capabilities
+  - Develop and maintain detailed test artifacts (test plans,
+    test cases, test scenarios, automated test suites)
+    covering agent features, tool invocation, memory
+    persistence, and reasoning accuracy across evolving model
+    versions
+  - Identify, document, prioritize, and track defects,
+    performance regressions, and alignment failures using
+    Jira, collaborating closely with Applied AI Engineers to
+    analyze root causes and validate fixes
+  - Evaluate new technologies and patterns (e.g., new tools for
+    Agent Evals), run proofs-of-concept, and influence the
+    platform roadmap
+  - Partner with policy and legal teams to ensure agent
+    evaluations systematically cover regulatory compliance,
+    fairness objectives, and emerging AI governance
+    requirements
+  - Provide technical leadership to engineers, including
+    solutioning, design reviews, code reviews, pair
+    programming, and mentoring of junior and contract
+    engineers
+  - Collaborate cross-functionally — work closely with ML
+    engineers, product teams, platform engineers, and security
+    to embed eval-driven quality gates into the agent
+    development lifecycle
+
+  Required QualificationsEducation & Experience
+
+  - Bachelor's or Master's degree in Computer Science,
+    Information Systems, Engineering, or equivalent practical
+    experience
+  - 8+ years of overall software Test engineering experience,
+    with 5+ years focused on test engineering, QA automation,
+    or developer tooling, and demonstrated ability to build
+    evaluation systems across multiple AI/ML domains,
+    conversational agents, or Large Language Models (LLMs)
+  - 2+ years working with ML/AI systems, building, testing, or
+    evaluating models in production environments, including
+    hands-on experience with LLM-based applications, prompt
+    engineering, RAG pipelines, or agentic workflows
+  - 2+ years as a senior/lead, owning evaluation strategy,
+    quality frameworks, and technical decisions for complex AI
+    agent systems in an enterprise product environment
+  - 1+ years in designing or operating evaluation frameworks
+    specifically for generative AI / LLM agents, including
+    benchmarking, red-teaming, and production quality
+    monitoring in the AI ADLC model
+
+  Technical Skills
+
+  - Deep hands-on experience with LLM evaluation — familiarity
+    with frameworks and libraries such as LangSmith,
+    DeepEval,LLM as a Judge, Promptfoo, RAGAS, Hugging Face
+    evaluation tooling, custom eval harnesses
+  - Strong understanding of agentic AI patterns — tool use,
+    function calling, multi-step planning, ReAct/CoT reasoning
+    chains, retrieval-augmented generation (RAG)
+  - Production experience with eval pipelines — building
+    automated, CI-integrated evaluation infrastructure (not
+    just notebooks)
+  - Proficiency in Python — strong scripting and tooling skills;
+    experience with pytest, async patterns, and data
+    processing at scale
+  - Familiarity with Google Cloud Platform (GCP) or any Cloud
+    Service relevant to AI/ML (e.g., Vertex AI) and experience
+    integrating testing into MLOps workflows
+  - Statistical literacy — ability to design experiments,
+    interpret eval metrics with appropriate confidence, and
+    avoid common pitfalls (overfitting to benchmarks, metric
+    gaming)
+  - Enterprise product sensibility — understanding of how AI
+    quality translates to customer trust in a B2B/enterprise
+    context (security, compliance, reliability SLAs)
+  - Excellent communication — ability to present eval results
+    and quality trade-offs to engineering leadership,
+    articulate risks and safety findings to non-technical
+    audiences, and drive alignment on ship/no-ship decisions
+  - Hands-on experience with CI/CD pipelines and Git-based
+    workflows, including automated testing, static analysis,
+    deployment automation, and environment configuration for
+    our DevTestOps
+
+  Tech Stack:
+
+  - Languages: Python(Must), TypeScript, Java (Optional)
+  - Test Automation:Selenium, Playwright
+  - LLM Providers: Anthropic Claude, OpenAI, Azure OpenAI, open-
+    source models
+  - Eval Tooling: DeepEvals(Must), LLM as a Judge (Must),
+    Promptfoo/RAGAS/LangSmith/ Custom harnesses
+  - Agent Evals Frameworks/libraries: LangGraph, Claude Agent
+    SDK, custom orchestrators
+  - Infrastructure:DevOps (Basic), Kubernetes, CI/CD
+    (Jenkins/GitHub Actions), observability stacks
+    (Datadog/Grafana)
+
+  Preferred Qualifications
+
+  - Deep Learning/NLP Knowledge: Fundamental understanding of
+    how LLMs work, including concepts like RAG, prompting, and
+    the technical challenges related to alignment
+  - Data Analysis: Experience with data analysis and
+    visualization tools (e.g., Pandas, SQL) for analyzing
+    evaluation and safety results
+  - Policy Background: Familiarity with AI ethics principles and
+    industry standards for responsible AI development
+  - Garbage-in/Garbage-out (GIGO) Tools: Any tool or framework
+    that specializes in testing the model's response to highly
+    ambiguous, misleading, or malformed inputs to test for
+    robustness and safety failures
+  - Experience testing complex APIs, especially for tool-
+    integration and function-calling scenarios in agentic
+    workflows
+  - Experience with prompt injection (Must) and data poisoning
+    skills is a plus
+  - Certifications in AI/ML, cloud platforms (GCP, AWS), AWS
+    Machine Learning Specialty, Google Professional ML
+    Engineer, DeepLearning.AI specializations and software
+    testing methodologies
+
+  Soft Skills
+
+  - Proven ability to lead without direct authority, influencing
+    cross-functional teams and driving technical decisions
+    through clarity and data rather than hierarchy.
+  - Experience working in agile environments, collaborating
+    closely with product owners, scrum teams, and distributed
+    stakeholders across time zones.
+  - Excellent communication and documentation skills,
+    comfortable presenting solutions and trade-offs to
+    engineers, managers, and senior business stakeholders.
+  - Strong architectural thinking and problem-solving skills,
+    including the ability to decompose complex business
+    processes into simple solutions
+
+  Nice to have
+
+  - Experience evaluating agents in cybersecurity, data
+    protection, or infrastructure domains
+  - Familiarity with Rubrik's product portfolio or similar
+    enterprise data management platforms
+  - Hands-on with human-in-the-loop eval workflows (annotation
+    platforms, inter-rater reliability)
+  - Experience with model fine-tuning evaluation (pre/post
+    quality comparison)
+  - Background in building internal developer platforms or
+    tooling teams
+  - Contributions to open-source eval frameworks or published
+    work on AI evaluation methodology
+  - Drive red-teaming and adversarial testing — design
+    adversarial evaluation suites for jailbreak resistance,
+    data leakage prevention, and boundary enforcement in
+    enterprise-grade agents
+
+  Join Us in Securing and Accelerating the World's AI
+  Transformation
+
+  Rubrik (NYSE: RBRK) is the Security and AI Operations
+  Company, delivering one platform built at the intersection
+  of data, identity, and AI. The platform enables agentic
+  cyber resilience and trusted AI operations for enterprises
+  worldwide, built to recover before disruption strikes and
+  stay a step ahead, so security is never the reason ambition
+  stalls.
+
+  Linkedin | X (formerly Twitter) | Instagram | Rubrik.com
+
+  Inclusion @ Rubrik
+
+  At Rubrik, we are dedicated to fostering a culture where
+  people from all backgrounds are valued, feel they belong,
+  and believe they can succeed. Our commitment to inclusion is
+  at the heart of our mission to secure the world’s data.
+
+  Our goal is to hire and promote the best talent, regardless
+  of background. We continually review our hiring practices to
+  ensure fairness and strive to create an environment where
+  every employee has equal access to opportunities for growth
+  and excellence. We believe in empowering everyone to bring
+  their authentic selves to work and achieve their fullest
+  potential.
+
+  Our inclusion strategy focuses on three core areas of our
+  business and culture:
+
+  - Our Company: We are committed to building a merit-based
+    organization that offers equal access to growth and
+    success for all employees globally. Your potential is
+    limitless here.
+  - Our Culture: We strive to create an inclusive atmosphere
+    where individuals from all backgrounds feel a strong sense
+    of belonging, can thrive, and do their best work. Your
+    contributions help us innovate and break boundaries.
+  - Our Communities: We are dedicated to expanding our
+    engagement with the communities we operate in, creating
+    opportunities for underrepresented talent and driving
+    greater innovation for our clients. Your impact extends
+    beyond Rubrik, contributing to safer and stronger
+    communities.
+
+  Equal Opportunity Employer/Veterans/Disabled
+
+  Rubrik is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability, genetic
+  information, protected veteran status, or any other status
+  protected by applicable law. Rubrik provides equal
+  employment opportunities to employees and applicants in all
+  terms and conditions of employment, including recruiting,
+  hiring, promotion, compensation, training, leave, and
+  termination.
+
+  Rubrik provides reasonable accommodations to qualified
+  applicants and employees with disabilities in accordance
+  with applicable law. If you need an accommodation to
+  participate in the application process or to perform your
+  job, please contact hr@rubrik.com. Accommodations may
+  include changes to the application process, documents in an
+  alternate format, a sign language interpreter, or
+  specialized equipment.
+
+  EEO IS THE LAW
+
+  NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR LAWS
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Information Technology
+  - Software
+  - Cybersecurity
+  - Data Privacy
+posted_date: 2026-10-15
+url: "https://builtin.com/job/senior-ai-evals-engineer/11692908"
+source: Built In

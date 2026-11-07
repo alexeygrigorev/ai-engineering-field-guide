@@ -1,0 +1,45 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and learning products
+position:
+  title: Software Engineer, AI Data - Rochester, NY, USA
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines that feed someone else's
+      model training runs — acquiring audio data, scaling
+      processing, and ensuring dataset quality — but does not
+      shape model behavior itself. Building datasets/pipelines for
+      training is explicitly ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimized for quality, throughput,
+    and cost
+  - Collaborate closely with AI Scientists to improve training datasets and support
+    next-generation model development
+  - Take ownership of engineering projects from problem discovery through implementation
+    and continuous improvement
+  - Operate production systems involving data pipelines and large-scale data processing
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [Web Crawlers]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Infrastructure as Code, Terraform]
+    languages: [Python, Bash]
+    domains: []
+    other: [Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762327'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:04:20.543903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: Professional information services and software
+position:
+  title: Enterprise Cloud Software Engineer (Cloud Development, Azure/AWS, Ai Engineering)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is cloud automation/DevOps engineering; AI appears
+      only as consuming API-driven AI services and intelligent
+      runbooks for alert enrichment, with no shaping of model
+      behaviour, prompts, or retrieval. Deliverable is cloud
+      automation, not AI quality.
+  responsibilities:
+  - Design, develop, and maintain cloud automation solutions in Python, PowerShell,
+    Bash, and JavaScript
+  - Build reusable automation frameworks, libraries, and services using cloud SDKs,
+    APIs, and serverless technologies
+  - Lead Infrastructure-as-Code efforts with Terraform, CloudFormation, ARM/Bicep,
+    and Ansible
+  - Develop and maintain CI/CD pipelines using Azure DevOps, GitHub Actions, Jenkins,
+    or GitLab CI
+  - Design and automate solutions across AWS and Azure including provisioning, scaling,
+    backup, and governance
+  - Develop automation for container platforms such as Docker, Kubernetes, AKS, and
+    EKS
+  - Integrate AI-driven automation into CloudOps workflows for alert enrichment and
+    basic remediation
+  - Work within Agile/Scrum teams and partner with Architecture, Security, and Operations
+    teams
+  use_cases:
+  - Automated cloud operations replacing manual IT tasks
+  - Cloud provisioning, scaling, patching, backup, and disaster recovery through code
+  - Cloud governance automation including tagging, security baselines, and cost optimization
+  - AI-augmented alert enrichment, operational insights, and basic remediation for
+    CloudOps
+  - Infrastructure-as-Code across multi-cloud and hybrid environments
+  - Containerized and serverless workload automation
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, AWS Lambda, Azure Functions, CloudFormation, AKS, EKS]
+    ops: [Terraform, Ansible, Azure DevOps, GitHub Actions, Jenkins, GitLab CI, CI/CD,
+      Docker, Kubernetes, Infrastructure as Code, DevOps]
+    languages: [Python, PowerShell, Bash, JavaScript]
+    domains: []
+    other: [Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11904191'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:55:18.165128'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

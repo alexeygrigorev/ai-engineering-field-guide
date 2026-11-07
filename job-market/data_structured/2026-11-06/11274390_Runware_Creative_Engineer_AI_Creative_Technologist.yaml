@@ -1,0 +1,59 @@
+company:
+  name: Runware
+  stage: null
+  focus: Generative AI media inference platform
+position:
+  title: Creative Engineer / AI Creative Technologist
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model output quality through prompting,
+      conditioning, and workflow design for generative image and
+      video models (FLUX, Stable Diffusion, ComfyUI). Per the
+      edge-case rules, generative image/video/speech model work is
+      ml-first since the output is media, not LLM text, and the
+      work is driving and evaluating generative models rather than
+      shaping an LLM via prompts, retrieval, or tools.
+  responsibilities:
+  - Experiment hands-on with new generative image and video models to understand capabilities,
+    limitations, and how to get exceptional results
+  - Build and refine advanced generative-media workflows combining models, prompting
+    techniques, conditioning, automation, and ComfyUI
+  - Create standout model examples, workflows, demos, and visual content for developers
+    and creators
+  - Turn technical experimentation into engaging content for model launches, social
+    media, and guides
+  - Develop repeatable, automated generation workflows for high-quality creative output
+    at scale
+  - Rapidly test new model releases and emerging techniques to identify content opportunities
+  - Work with Growth, Product, and Engineering to surface use cases and support launches
+  use_cases:
+  - Generative image and video creation
+  - Creative content production for model launches and social media
+  - Automated at-scale creative generation pipelines
+  - Developer and creator demonstrations of generative media capabilities
+  skills:
+    languages: []
+    domains: []
+    web: [APIs]
+    cloud: []
+    data: []
+    ml: [Diffusion Models, FLUX, ComfyUI, Image Generation Models, Video Generation
+        Models]
+    databases: []
+    genai: [Generative AI, Prompt Engineering]
+    ops: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11274390'
+  location: ESP
+  locations:
+  - ESP
+  - FRA
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T11:28:50.154055'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

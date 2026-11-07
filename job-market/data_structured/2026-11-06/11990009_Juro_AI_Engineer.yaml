@@ -1,0 +1,46 @@
+company:
+  name: Juro
+  stage: null
+  focus: AI-native contract automation and legal tech
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the agent harness (planning, tool use,
+      context), ships tools connecting an agent to APIs, writes
+      evals, and reviews agent output quality — directly shaping
+      agent/LLM behavior. With LLM/agent components involved, this
+      is ai-first.
+  responsibilities:
+  - Ship new tools that connect Operator, the contract agent, to the Juro app from
+    idea to production
+  - Build evals around shipped work so model, prompt, or library changes can be measured
+  - Own parts of the agent harness including planning, tool use, and context
+  - Review agent-written code and judge what is safe to merge
+  - Build AI foundations that the rest of engineering ships on
+  use_cases:
+  - Agentic automation of legal contract workflows
+  - AI agent operating across contracts inside a contract management platform
+  - Autonomous execution of routine contract work for legal teams
+  - Contract lifecycle management from draft to signature with AI guardrails
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, LLM Evaluation, Guardrails, LiteLLM,
+      Mastra, Prompt Engineering]
+    ml: []
+    web: [React]
+    databases: [MongoDB, Redis, pgvector]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: []
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11990009'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:20:03.938026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

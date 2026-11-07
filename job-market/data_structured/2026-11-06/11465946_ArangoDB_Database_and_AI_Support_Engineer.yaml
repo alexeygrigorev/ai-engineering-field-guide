@@ -1,0 +1,50 @@
+company:
+  name: ArangoDB
+  stage: null
+  focus: Multimodel contextual data platform for AI
+position:
+  title: Database and AI Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a support engineer role troubleshooting and
+      operating a database platform that customers connect to AI
+      applications. The person runs, diagnoses, and supports the
+      platform; they do not shape model behavior or output quality
+      themselves. RAG/prompt knowledge is only "understanding" for
+      support purposes, not design work.
+  responsibilities:
+  - Troubleshoot and diagnose complex database issues across document, graph, key-value,
+    and vector models
+  - Analyze logs, identify root causes, and collaborate with Engineering on product
+    defects
+  - Support deployments on Kubernetes, cloud, and on-prem environments including storage
+    and networking
+  - Assist customers with AI and RAG-related use cases on the platform
+  - Document solutions and contribute to internal knowledge bases
+  - Communicate with technical and non-technical audiences and manage customer expectations
+  use_cases:
+  - Support for multimodel database platform powering AI agents and applications
+  - Enterprise data connected to LLMs, copilots, and AI agents via graph, vector,
+    document, and search
+  - RAG-based enterprise AI systems
+  - Production reliability for customer deployments on cloud and on-prem
+  skills:
+    genai: [LLMs, Embeddings, Vector Search, RAG, Prompt Engineering]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: [ArangoDB, Neo4j, Vector Databases, Data Modeling, Graph Databases]
+    data: []
+    cloud: [AWS, Azure, GCP, AKS, EKS, AWS S3]
+    ops: [Linux, Docker, Kubernetes, Helm, OpenShift]
+    languages: [Python, Bash]
+    domains: []
+    other: [MinIO]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11465946'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:54:50.386057'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

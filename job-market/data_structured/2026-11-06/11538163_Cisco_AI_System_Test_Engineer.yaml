@@ -1,0 +1,54 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and IT infrastructure solutions
+position:
+  title: AI System Test Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a QA/test engineer who uses AI/ML tools to build
+      functional testing frameworks and support network
+      monitoring, automation, and testing. There is no evidence of
+      shaping model behavior (no prompt engineering, RAG design,
+      training, or eval building); AI is used as a tool to support
+      testing and network operations.
+  responsibilities:
+  - Design and develop AI/ML-based tools and frameworks for functional testing of
+    Cisco products simulating customer IIoT environments
+  - Develop, test, and maintain AI-driven solutions for network monitoring, automation,
+    and optimization
+  - Participate in automation initiatives using scripting, AI tools, and modern networking
+    frameworks
+  - Collaborate with senior engineers to design, test, and deploy network and AI-based
+    features
+  - Monitor system performance, investigate anomalies, and contribute to root-cause
+    analysis
+  - Support network engineering activities including configuration validation, troubleshooting,
+    and performance analysis
+  - Support the test team in expanding AI/ML, testing, and networking knowledge
+  - Archive documentation and equipment for department knowledge retention
+  use_cases:
+  - Functional system/solution testing of Cisco networking products
+  - Network monitoring, automation, and optimization
+  - Simulating customer IIoT deployment environments
+  - Automated testing of network configurations and performance
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [TCP/IP, Routing and Switching, Network Protocols]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11538163'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:07:40.538840'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

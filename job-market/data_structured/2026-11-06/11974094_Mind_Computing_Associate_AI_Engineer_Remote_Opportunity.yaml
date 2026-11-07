@@ -1,0 +1,59 @@
+company:
+  name: Mind Computing
+  stage: null
+  focus: Enterprise IT services and federal technology solutions
+position:
+  title: Associate AI Engineer (Remote Opportunity)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role experiments with LLMs, AI agents, and emerging AI
+      frameworks to build AI-powered solutions and prototypes, and
+      evaluates AI-generated code quality — shaping model use
+      through experimentation and evaluation. LLM/agent components
+      are central, so it is ai-first.
+  responsibilities:
+  - Develop, test, and enhance software applications using modern programming languages
+    and AI-assisted development tools such as Claude Code, Cursor, GitHub Copilot,
+    and OpenAI Codex
+  - Design and develop AI-powered prototypes, automation scripts, and lightweight
+    applications to improve developer productivity
+  - Experiment with LLMs, AI agents, APIs, and emerging AI frameworks for enterprise
+    applications and workflows
+  - Evaluate AI-generated code and solutions for accuracy, quality, security, performance,
+    and maintainability
+  - Automate software development activities including code reviews, testing, documentation,
+    and defect analysis
+  - Support business development with technical research, proposal preparation, and
+    responses to RFIs, RFQs, and RFPs
+  - Research emerging AI technologies and recommend potential applications
+  - Document and assess effectiveness of AI-driven solutions and support adoption
+    across teams
+  use_cases:
+  - AI-assisted software development and code automation
+  - Developer productivity automation (code reviews, testing, documentation)
+  - AI-powered prototypes and lightweight enterprise applications
+  - Business development automation (proposal prep, market research, knowledge management)
+  - Federal IT proposal and capture support
+  skills:
+    genai: [Claude Code, Cursor, GitHub Copilot, Codex, LLMs, Generative AI, Prompt
+        Engineering, OpenAI API, Anthropic API, AI Agents, Agentic Workflows, RAG,
+      Embeddings, Vector Databases]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, DevSecOps]
+    languages: [Python, JavaScript, TypeScript, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11974094'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:14:46.256725'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

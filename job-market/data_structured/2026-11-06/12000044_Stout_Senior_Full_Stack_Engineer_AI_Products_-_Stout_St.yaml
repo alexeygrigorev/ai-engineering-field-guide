@@ -1,0 +1,66 @@
+company:
+  name: Stout
+  stage: null
+  focus: Global advisory firm with AI-powered consulting products
+position:
+  title: Senior Full Stack Engineer, AI Products - Stout Strategy
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer works directly on the LLM-backed core
+      (extraction, retrieval, chat, content generation), manages
+      context/orchestration, and builds evals and quality checks
+      to improve LLM output quality — clearly shaping model
+      behaviour, ai-first. AI coding assistants are also part of
+      the workflow, but the role's deliverables include LLM
+      product quality.
+  responsibilities:
+  - Ship features across the full stack from requirements to production
+  - Own areas of the platform such as data pipelines, services, or UI components
+  - Work on the LLM-backed core including extraction, retrieval, chat, and content
+    generation, measuring and improving output quality
+  - Use AI coding agents as a core part of the development workflow, specifying tasks
+    and reviewing agent output
+  - Build tests, evals, and checks that make AI-assisted changes quick to verify and
+    safe to ship
+  - Turn expert consultant judgment into engineering via evals and testable quality
+    checks
+  - Partner with consultants, product, and design to sharpen requirements early
+  use_cases:
+  - Consulting research gathering and analysis automation
+  - Document and data extraction for investment diligence
+  - LLM-backed chat and content generation for consultants
+  - Knowledge-work platform for PE and corporate growth strategy engagements
+  skills:
+    genai: [LLMs, RAG, Structured Outputs, Agentic Workflows, Context Engineering,
+      LLM Evaluation]
+    ml: []
+    web: [React, APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12000044'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Detroit, USA
+  - Denver, USA
+  - Houston, USA
+  - Atlanta, USA
+  - Chicago, USA
+  - New York, USA
+  - Arlington, USA
+  - Boston, USA
+  - Charlotte, USA
+  - Philadelphia, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T14:22:41.034253'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,130 @@
+job_id: 11688559
+title: Frontend Engineer - Agentic AI
+company: Hawk
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Munich, DEU
+work_type: FULL_TIME
+company_size: 88 Employees
+description: |
+  About Us
+
+  Hawk is the leading provider of AI-supported anti-money
+  laundering and fraud detection technology. Banks and payment
+  providers globally are using Hawk’s powerful combination of
+  traditional rules and explainable AI to improve the
+  effectiveness of their AML compliance and fraud prevention
+  by identifying more crime while maximizing efficiency by
+  reducing false positives. With our solution, we are playing
+  a vital role in the global fight against Money Laundering,
+  Fraud, or the financing of terrorism. We offer a culture of
+  mutual trust, support and passion – while providing
+  individuals with opportunities to grow professionally and
+  make a difference in the world.
+
+  Your Mission
+
+  As a Frontend Engineer at Hawk, you will build and maintain
+  the user interface of our agentic AI Investigation Agent.
+  This is the product where compliance analysts configure AI
+  workflows, watch autonomous investigations run, and review,
+  question and act on what the agent concludes.
+
+  The frontend is a modern TypeScript monorepo made of a host
+  application and a growing set of independently deployable
+  microfrontends. These remotes are designed to be built once
+  and used in two places: our new shadcn/ui-based
+  Investigation Agent and our existing Material UI-based Case
+  Manager. Your job is to understand this codebase deeply,
+  keep it healthy, and ship new features with care, from the
+  component level all the way to how it is built and deployed.
+
+  What You'll Work On:
+
+  - Features: Build product features end to end in React and
+    TypeScript, such as workflow graph editors, investigation
+    timelines, data-heavy tables and dashboards that make
+    agentic AI output understandable for analysts.
+
+  - Microfrontends: Develop and maintain Module Federation
+    remotes, keep remote/host contracts stable, and make sure
+    features fit into both the Investigation Agent and the
+    MUI-based Case Manager.
+
+  - Design system and data layer: Contribute to our shared
+    shadcn/ui + Tailwind component library (documented in
+    Storybook), and consume our Python/FastAPI backends
+    through OpenAPI-generated clients with TanStack Query and
+    Router.
+
+  - Build, test and deploy: Work in a pnpm + Turborepo monorepo
+    with GitHub Actions CI, Vitest and Playwright tests, and
+    deployments to AWS including per-PR preview environments.
+
+  - Collaboration: Work closely with Product, UX, backend
+    engineers and Data Science, and use AI coding tools such
+    as Claude Code or Cursor as part of your everyday
+    workflow.
+
+  Your Profile:
+
+  - 3–5 years building and maintaining production React
+    applications, with strong TypeScript and modern React
+    skills (hooks, composition, performance, complex state and
+    forms).
+
+  - Clean frontend architecture: you structure code around
+    features and clear boundaries. You keep UI components
+    presentational and reusable, put data fetching and
+    business logic in hooks and typed API layers, and keep
+    server state separate from local UI state. You prefer
+    composition, small focused components and strict typing,
+    and you treat cross-module contracts as an API.
+
+  - Design-system experience: hands-on work with a component-
+    library approach, ideally shadcn/ui, Radix and Tailwind.
+    Familiarity with Material UI is a strong plus.
+
+  - Microfrontends and delivery: Module Federation or similar
+    runtime composition, shared dependencies and host/remote
+    contracts, plus the build and deployment basics behind
+    them: Vite, monorepos (pnpm workspaces, Turborepo or Nx),
+    CI pipelines (GitHub Actions)
+
+  - Comfort with ambiguity: you're happy working on problems
+    that aren't fully defined yet. You ask the right
+    questions, make sensible assumptions, build a first
+    version and refine it with Product and UX, without waiting
+    for a perfect spec.
+
+  - AI tooling: daily, practical use of AI coding assistants
+    (Claude Code, Cursor, Copilot, etc.).
+
+  - Communication: clear communication in English, and the
+    ability to explain technical decisions to both technical
+    and non-technical colleagues.
+
+  Bonus:
+
+  - Some Python: enough to read a FastAPI endpoint or Pydantic
+    model, run the backend locally, trace a bug across the API
+    boundary, or open a small backend PR. You don't need to be
+    a backend engineer.
+
+  - Infrastructure as code: exposure to Terraform or AWS CDK.
+
+  - Quality tooling: Storybook-driven development, visual
+    regression testing or accessibility testing.
+
+  - Auth: Auth0/OIDC integration in single-page apps.
+
+  - Domain interest: UX for AI products, or previous work in
+    fintech, RegTech or compliance.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-10-14
+url: "https://builtin.com/job/frontend-engineer-agentic-ai/11688559"
+source: Built In

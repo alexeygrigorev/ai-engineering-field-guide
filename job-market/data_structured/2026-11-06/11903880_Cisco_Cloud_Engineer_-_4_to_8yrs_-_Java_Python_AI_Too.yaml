@@ -1,0 +1,57 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and cloud infrastructure solutions
+position:
+  title: Cloud Engineer -  4 to 8yrs - Java, Python, AI Tools, Distributed Systems,
+    Docker, Kubernetes
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend/cloud engineer building real-time
+      streaming infrastructure for an AI agent platform. The role
+      involves no prompting, retrieval design, or model shaping;
+      AI tools (Copilot, Cursor, ChatGPT, Codex) are used as
+      coding assistants. Per the edge cases, AI used as a
+      development tool is ai-support.
+  responsibilities:
+  - Design, build and operate real-time streaming services (session orchestration,
+    audio/message streaming, callbacks, metering) in Java and Python
+  - Lead technical design with specs covering contracts, state models, failure modes,
+    capacity, and rollout
+  - Set team standards for AI coding tools and review of AI-generated code
+  - Engineer for sub-second latency, concurrent long-lived sessions, and multi-region
+    deployment
+  - Integrate third-party and partner services behind adapters with failover
+  - Define test and release strategy including load testing, canary rollout and rollback
+  - 'Own production health: SLOs, dashboards, alerts, and incident response'
+  - Mentor engineers and shape roadmap with architects, PM, SRE and security
+  use_cases:
+  - Real-time voice and chat AI agent conversations
+  - Low-latency audio and message streaming between services
+  - AI agent actions in business systems via API integrations
+  - Usage metering and quota enforcement at enterprise scale
+  - Multi-region enterprise-grade streaming platform
+  skills:
+    genai: [ChatGPT]
+    ml: []
+    web: [Quarkus, Spring Boot, Microservices, gRPC, WebSockets, Protobuf, OAuth,
+      APIs]
+    databases: [Redis, PostgreSQL, MongoDB]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Docker, Kubernetes, GitHub Copilot, Cursor, Codex,
+      Helm, Terraform, ArgoCD, Jenkins, GitHub Actions, OpenTelemetry, Prometheus,
+      Grafana]
+    languages: [Java, Python]
+    domains: []
+    other: [Vert.x, Mutiny, Project Reactor, WebRTC, SIP, Jaeger, Splunk, JWT, OWASP
+        Top 10, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11903880'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:55:10.487592'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

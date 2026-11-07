@@ -1,0 +1,50 @@
+company:
+  name: Future
+  stage: null
+  focus: Personalized health and fitness coaching platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and ships tool-calling LLM agents with
+      structured outputs, designs evaluation harnesses and prompt
+      strategies, and iterates on model output quality — clear LLM
+      shaping work.
+  responsibilities:
+  - Build and ship AI agents serving real users with tool calling, structured output,
+    parallel API orchestration, and streaming
+  - Design evaluation harnesses and quality scoring using Langfuse and rubrics for
+    safety, effectiveness, and personalization
+  - 'Own the full agent lifecycle: prototype, validate with evals, deploy, monitor
+    traces, and iterate'
+  - Improve reliability, latency, and cost via prompt caching, token budgets, retry
+    logic, and observability
+  - 'Write agent tools: API integrations with Pydantic validation, exercise search
+    over local databases, structured workout submission'
+  use_cases:
+  - AI agents that deliver personalized health and fitness guidance to members
+  - Structured workout submission and exercise search over local databases
+  - Agent evaluation for safety, effectiveness, and personalization quality
+  skills:
+    languages: [Python, JSON Schema]
+    domains: []
+    web: [APIs, REST APIs, Webhooks, Pydantic]
+    cloud: [AWS, AWS Bedrock, AWS ECR, AWS CloudFront, AWS S3, AWS Cognito]
+    data: [Pydantic]
+    ml: [Machine Learning]
+    databases: [JSON]
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Structured Outputs,
+      Prompt Engineering, LangChain, LangGraph, LLM Evaluation, Rubrics]
+    ops: [Langfuse, OpenTelemetry, Datadog, Terraform, Infrastructure as Code, AWS
+        CDK]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11770875'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:09:46.655850'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

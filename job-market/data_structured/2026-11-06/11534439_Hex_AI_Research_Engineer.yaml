@@ -1,0 +1,49 @@
+company:
+  name: Hex
+  stage: Has raised over $100M from investors including Sequoia and a16z
+  focus: AI-powered data science and analytics notebook platform
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: fine-tuning models, running
+      experiments on SQL generation quality, using LLMs to
+      evaluate agent threads, and building the agent/context
+      engine for the Notebook Agent. LLM/agent components
+      dominate, so it is ai-first.
+  responsibilities:
+  - Build AI features and experiences from 0 to 1, partnering with product teams
+  - Drive Hex's context engine and expand Notebook Agent capabilities
+  - Run experiments and fine-tune models to improve AI quality
+  - Deploy AI infrastructure and build experimentation tooling
+  - Push frontiers of SQL generation quality and agent evaluation with LLMs
+  - Determine architecture and stack for AI-enabled capabilities
+  use_cases:
+  - Data copilot that writes SQL and Python for analysts
+  - Automated report and visualization building
+  - Natural-language data exploration with trusted context
+  - LLM-based evaluation of agent threads
+  - Agent-driven collaborative data analysis in notebooks
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [Fine-Tuning, Model Evaluation]
+    web: [React, GraphQL]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [MLOps, Kubernetes, CI/CD, Terraform, Helm]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11534439'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:06:53.701256'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

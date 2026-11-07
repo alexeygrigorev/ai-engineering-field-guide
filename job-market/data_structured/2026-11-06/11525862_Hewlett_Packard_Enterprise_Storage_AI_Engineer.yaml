@@ -1,0 +1,54 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and hybrid cloud storage
+position:
+  title: Storage AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates LLM output quality (hallucinations,
+      prompt reliability, bias, safety), builds evaluation
+      metrics, quality rubrics, and automated eval frameworks,
+      which is shaping model behaviour per the judging/evals rule.
+      LLMs and GenAI features are explicit targets, so it is ai-
+      first.
+  responsibilities:
+  - Design, develop, and execute test plans for AI-driven products and features
+  - Evaluate model behavior across real-world scenarios, edge cases, and adversarial
+    inputs
+  - Test prompt flows, agent behaviors, recommendations, summarization, search, classification,
+    and generative outputs
+  - Identify and document issues related to hallucinations, bias, unsafe content,
+    latency, and user experience
+  - Build automated test frameworks for regression testing and continuous quality
+    assurance
+  - Create evaluation metrics and quality rubrics for AI product performance
+  - Monitor production issues, analyze root causes, and drive quality improvements
+  - Maintain test documentation, defect tracking, and stakeholder reporting
+  use_cases:
+  - QA testing of AI-powered storage and hybrid cloud products
+  - Hallucination, bias, and unsafe content detection in LLM outputs
+  - Evaluation of prompt flows and agent behaviors
+  - Testing recommendation, summarization, search, and classification features
+  - Automated regression and quality assurance for AI features
+  skills:
+    genai: [LLMs, Prompt Engineering, Embeddings, RAG, Generative AI, LLM Evaluation,
+      AI Agents]
+    ml: []
+    web: [Selenium, Playwright, Cypress, Postman, API Testing]
+    databases: []
+    data: []
+    cloud: [Cloud Environments]
+    ops: [Git, Docker, Azure DevOps]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Jira, Exploratory Testing, Regression Testing, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11525862'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:05:21.017547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

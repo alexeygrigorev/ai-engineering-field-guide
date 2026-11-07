@@ -1,0 +1,158 @@
+job_id: 11947703
+title: Software Engineer, AI
+company: Ande
+location: New York, USA
+work_type: FULL_TIME
+company_size: 52 Employees
+description: |
+  About Ande
+
+  Ande makes Corporate Entertainment Effortless. Marketing,
+  sales, EAs and workplace teams use Ande’s AI to book client
+  dinners, sports suites, catering, merch and more. Policies,
+  spend and logistics are managed in one place, with one
+  vendor.
+
+  Over 60 enterprises run their entertainment on Ande, with
+  $400 million+ in annual entertainment spend flowing through
+  a network of 93,000 entertainment providers across 90+
+  cities. Ande has raised $52 million+ in seed and Series A
+  funding from Lightspeed Venture Partners, Redpoint Ventures,
+  Duration Ventures and Sierra Ventures, with participation
+  from Bain Capital Ventures.
+
+  About the Role
+
+  You will own the intelligence behind the Ande Agent. That's
+  the concierge and its team of subagents that take a request
+  from one sentence ("dinner for 12 with the Acme team next
+  Thursday, somewhere private") to a confirmed, paid, on-
+  policy booking. Along the way they source venues, compare
+  options, email the venue and negotiate terms, and handle
+  every change after that.
+
+  This is not a chatbot or a demo. The agent acts on real
+  money, on behalf of real executives, with real venues on the
+  other end of the thread. It runs in production today for
+  reservations and private dining. Our strategy depends on
+  carrying more of the work with every request: more kinds of
+  entertainment, more cities, more of the workflow, without
+  growing headcount to match. You will set how we get there.
+
+  What You'll Do
+
+  - Own the agent system. Ande runs on a root concierge agent
+    with specialist subagents for sourcing, comparison, and
+    venue coordination, on a self-hosted agent harness behind
+    queued turn workers. You’ll own its architecture, model
+    choices, and upgrade path, and make sure it holds up under
+    latency budgets, provider failover, and real-world load.
+  - Build tools the agent can trust. The agent has about 75
+    typed capabilities that let it search, hold, book, pay,
+    and message. Each one runs as the acting user and respects
+    who they’re acting for, such as an assistant booking on
+    behalf of an executive. Consequential actions become
+    proposals that the booker confirms. You’ll decide what the
+    agent is allowed to do, and how to make it safe.
+  - Make evals the gate for every change. You’ll build scenario
+    suites, graders, and LLM judges calibrated against human
+    labels. They replay from recorded runs on every PR and run
+    in full nightly. Your goal is evals trustworthy enough
+    that a model upgrade or prompt change can ship on the
+    strength of the number alone, and cheap enough to run all
+    the time.
+  - Power venue correspondence. Our agent negotiates with venues
+    over email. It reads replies, pulls out offers, minimums,
+    deadlines, and payment requests, and knows when to push,
+    when to wait, and when to hand off to a person. You’ll
+    make sure all of it is resistant to anything a third party
+    writes into a thread.
+  - Build memory and the supply learning loop. You’ll shape what
+    the agent remembers about a company, its people, and its
+    venues, with clear rules on what’s shared and what stays
+    private. You’ll also build the loop that turns every venue
+    conversation into structured supply data, like which room
+    actually fits 14 or what a venue will do on a Tuesday, so
+    each recommendation is better than the last.
+  - Ship fast, reliable judgments. You’ll build typed
+    classifiers for consent, triage, ranking, and urgency.
+    Each has labeled thresholds, a timeout, and a fallback,
+    and each rolls out from shadow mode to live.
+  - Set the bar for building with AI. You’ll define how Ande
+    builds with AI: agent behavior as versioned config,
+    product teammates proposing changes through evals, and AI
+    coding agents as the default way the team ships. You’ll
+    mentor engineers and partner closely with our AI product
+    manager.
+
+  What We’re Looking For
+
+  - Education and experience: a degree in Computer Science or
+    Engineering, or equivalent practical experience. You have
+    5+ years building production software, including 2+ years
+    shipping LLM agents to real customers (tool use, multi-
+    step planning, structured outputs, long-running
+    conversations).
+  - Production evals: you’ve owned evals in production, from
+    writing them to finding failure modes in real traffic and
+    improving quality turn by turn.
+  - Systems engineering: strong TypeScript and backend skills,
+    including queues, concurrency, idempotency, and how
+    distributed systems fail.
+  - Sound judgment: you know where a model belongs and where
+    deterministic code does, and you have the discipline to
+    make agent actions safe, auditable, and reversible.
+  - AI-native workflow: you use AI coding agents every day. Our
+    codebase is built to be worked on by them, and we expect
+    you to raise that bar.
+  - Clear communication: you can explain agent behavior and
+    trade-offs to product, operations, and customers.
+
+  Bonus Points
+
+  - You've been a founding or early engineer and know how to
+    balance craft, ownership and speed.
+  - You've built agent harnesses, orchestration layers or tool
+    brokers, not just prompts.
+  - Experience with search, ranking or recommendation systems.
+  - Experience with marketplaces, booking or payments, where a
+    wrong action costs money.
+  - Experience defending agents against prompt injection from
+    untrusted content.
+
+  Why This Role Matters
+
+  The Ande Agent is how we scale. Every request it handles end
+  to end is work we don’t have to hire for, so how far it can
+  take us depends on the person who owns its intelligence.
+
+  The stakes are real. The agent moves real money for
+  executives and negotiates directly with venues, so a mistake
+  costs customers money and costs us venue relationships.
+  Every venue conversation also makes the agent smarter. That
+  learning loop is an advantage competitors can’t easily copy.
+
+  This isn’t an AI feature bolted onto a product. The agent is
+  the product, and you’ll own how it thinks.
+
+  This is an in-office position (4 days/week) in New York City
+
+  Equal Employment Opportunity
+
+  Ande is an equal opportunity employer. We are committed to
+  building a diverse and inclusive team and do not
+  discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity or expression, national
+  origin, age, disability, veteran status, or any other
+  characteristic protected by applicable federal, state, or
+  local law. We welcome applications from all qualified
+  candidates and will consider all applicants for employment
+  without regard to any legally protected status
+industries:
+  - Artificial Intelligence
+  - Events
+  - Productivity
+  - Software
+posted_date: 2026-10-28
+url: "https://builtin.com/job/software-engineer-ai/11947703"
+source: Built In

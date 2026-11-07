@@ -1,0 +1,58 @@
+company:
+  name: GE Healthcare
+  stage: null
+  focus: Healthcare technology and medical imaging
+position:
+  title: Senior Staff AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows (LangGraph, Bedrock AgentCore),
+      instruction/prompt design, function calling, RAG, structured
+      outputs, and builds automated evaluation suites and gates
+      for LLM output quality — squarely shaping LLM behavior, so
+      ai-first. It is an individual contributor platform ownership
+      role, explicitly not management.
+  responsibilities:
+  - Define the architecture and public interfaces of the internal AI engineering platform,
+    including versioning and migration strategy
+  - Design isolation boundaries so third-party technologies like agent frameworks
+    and model providers are replaceable components with automated verification
+  - Lead hands-on development of the agent execution layer, secure data resolution
+    layer, and configuration-driven UI system
+  - Build AI applications end to end (front end, back end, agents) to prove platform
+    capabilities and unblock priority use cases
+  - Establish automated verification including AI quality evaluation as a release
+    gate in CI/CD
+  - Define machine-readable, version-controlled interface specifications with adjacent
+    infrastructure, security, and data teams
+  - Own backward compatibility and migration paths for dozens of dependent applications
+  - Mentor engineers and data scientists and author reference implementations and
+    guidance
+  use_cases:
+  - Internal platform enabling data scientists to ship production-grade AI solutions
+    quickly
+  - AI applications across Commercial, Finance, Supply Chain, Quality, Manufacturing,
+    and Operational Excellence
+  - Automated enforcement of security, compliance, and consistency in AI solutions
+  - Replaceable model providers and agent frameworks without rewriting dependent applications
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, RAG, LangGraph,
+      LangChain, AWS Bedrock, OpenAI API, MCP, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [React, OpenAPI, APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS S3]
+    ops: [CI/CD, GitHub Actions, GitLab CI, Terraform, OpenTelemetry]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11892948'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:45:51.074915'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Atlantic and FoodLabs
+  stage: pre-seed
+  focus: AI infrastructure venture
+position:
+  title: Lead Engineer (gn) @ AI Venture, Berlin
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and improves agentic engineering workflows,
+      including harnesses, multi-agent orchestration, and
+      benchmarking/evaluating agent output, which directly shapes
+      agent behaviour and quality. LLM/agent components are
+      central, so it is ai-first.
+  responsibilities:
+  - Write code daily on core systems, from APIs to cloud infrastructure
+  - Set technical direction with the founding team, including architecture and build-vs-buy
+    decisions
+  - Lead and support a team of 2 engineers through code review and engineering standards
+  - Support technical hiring and shape engineering team growth
+  - 'Build and improve agentic engineering setup: harnesses, workflows, parallel agents,
+    output evaluation and benchmarking'
+  - Build and operate reliable AI infrastructure with security, GDPR and European
+    data residency
+  use_cases:
+  - AI infrastructure platform
+  - Agentic software engineering workflows
+  - Multi-agent orchestration and benchmarking
+  - Secure AI infrastructure with GDPR and EU data residency
+  skills:
+    genai: [LLMs, AI Agents, Claude Code, Agentic Workflows, Multi-Agent Systems,
+      Benchmarking]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: [GDPR, European Data Residency]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12068732'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:48:54.737606'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

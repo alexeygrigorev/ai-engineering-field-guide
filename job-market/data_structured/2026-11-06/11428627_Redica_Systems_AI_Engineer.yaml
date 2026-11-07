@@ -1,0 +1,55 @@
+company:
+  name: Redica Systems
+  stage: null
+  focus: |-
+    Regulatory and quality intelligence platform for life
+    sciences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys LLM-powered applications,
+      conversational systems, agentic workflows, and hybrid
+      retrieval (vector/graph search), directly shaping model
+      behavior through retrieval and agent design. LLM components
+      are central, so it is ai-first.
+  responsibilities:
+  - Build and deploy LLM and generative AI-powered applications in production
+  - Develop conversational systems and intelligent workflows using agentic frameworks
+  - Design and implement backend APIs and microservices with Python and FastAPI to
+    support AI functionality
+  - Implement hybrid search and retrieval workflows using vector and graph databases
+  - Integrate AI models with data pipelines and platform services for scalable inference
+  - Deploy, monitor, and optimize AI systems and troubleshoot production issues
+  - Work with structured and unstructured regulatory datasets to power AI-driven insights
+  - Collaborate with product managers and engineers to translate requirements into
+    AI solutions
+  use_cases:
+  - Extracting insights from regulatory datasets, inspection reports, and government
+    data
+  - Quality and Regulatory Intelligence (QRI) for life sciences
+  - Conversational AI over regulatory and inspection data
+  - Supplier risk management and inspection readiness for pharma and MedTech
+  - Hybrid semantic search and retrieval over regulatory documents
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, OpenAI API, Anthropic API, Gemini, Llama,
+      Mistral, LangChain, LlamaIndex, LangGraph, CrewAI, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [FastAPI, APIs, Microservices, Streamlit, React]
+    databases: [Vector Databases, Pinecone, Graph Databases, Neo4j, SQL, PostgreSQL,
+      Snowflake, DynamoDB, NoSQL, Semantic Search]
+    data: []
+    cloud: [AWS Bedrock, AWS, ECS, EKS, SageMaker]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11428627'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:49:26.271449'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

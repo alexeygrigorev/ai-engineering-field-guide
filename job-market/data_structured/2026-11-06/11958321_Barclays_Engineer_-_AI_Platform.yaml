@@ -1,0 +1,56 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on GenAI/LLM work: prompt
+      building, RAG patterns, embeddings, and building with
+      agentic frameworks (LangGraph/LangChain, Google ADK).
+      Designing retrieval and agent flows is shaping model
+      behaviour, and LLMs are involved, so ai-first.
+  responsibilities:
+  - Design, develop, and improve software providing business, platform, and technology
+    capabilities
+  - Build scalable applications on cloud platforms (AWS/Azure/GCP)
+  - Develop GenAI/LLM features including prompt building, RAG patterns, and embeddings
+    using agentic frameworks
+  - Collaborate cross-functionally with product managers, designers, and engineers
+    to define requirements and solution strategies
+  - Participate in code reviews and promote code quality, secure coding, and unit
+    testing
+  - Maintain observability, access controls, and AI safety practices (prompt injection
+    risks, PII handling, content filtering)
+  - Guide and support team members and act as advisor within area of expertise
+  use_cases:
+  - AI platform capabilities for banking customers and colleagues
+  - LLM-powered applications with RAG and embeddings
+  - Agentic AI workflows built on LangGraph/LangChain or Google ADK
+  - Secure AI services with access control and content filtering
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings, LangGraph, LangChain, Google
+        ADK]
+    ml: []
+    web: [REST APIs, Distributed Tracing]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, OpenTelemetry, Observability, Terraform, CloudFormation,
+      GitOps]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [OPA/Rego, AI Safety]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11958321'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru East, IND
+  extracted_at: '2026-11-06T14:11:10.210981'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,189 @@
+job_id: 11872109
+title: Senior AI Engineer - OCR / VLM
+company: Teleradiology Solutions (TRS)
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 340 Employees
+description: |
+  About Teleradiology Solutions / Daignostix
+
+  Teleradiology Solutions (TRS), founded in 2002 by two Yale-
+  trained physicians and headquartered in Ardmore, PA,
+  provides 24x7 diagnostic radiology reporting to over 150
+  hospitals across 21 countries, through a network of
+  radiologists (US, Indian certified) and technology-driven
+  workflows.
+
+  Daignostix, the AI arm of TRS based in Whitefield,
+  Bengaluru, builds clinical AI for medical imaging and
+  healthcare workflows. TRS also maintains an active academic
+  and research focus, including AI in radiology
+  (www.radguru.net).
+
+  Role Summary:
+
+  Daignostix builds AI for healthcare workflows where scanned
+  pages, PDFs, forms and image-based text must be turned into
+  reliable, structured data that downstream systems can trust
+  at production scale.
+
+  As a Senior AI Engineer - OCR / VLM, you will own OCR, VLM
+  and Document AI systems end to end, from preprocessing and
+  recognition through structured extraction, evaluation,
+  deployment and monitoring, choosing between OCR-first, VLM-
+  first and hybrid architectures based on evidence.
+  Healthcare-document experience is welcome but not required;
+  shipping substantial OCR/VLM systems is.
+
+  Roles and Responsibilities:
+
+  ● Architecture and ownership. Own OCR/Document AI system
+  design: model-versus-rule trade-offs, interfaces, confidence
+  and fallback strategy, performance targets and rollout
+  criteria.
+
+  ● OCR and VLM models. Train, fine-tune and benchmark text
+  detection, recognition and VLM approaches. Choose OCR-first,
+  VLM-first or hybrid pipelines on extraction quality,
+  traceability, hallucination risk, latency and cost.
+
+  ● LLM/VLM fine-tuning and small models. Fine-tune and adapt
+  small language and vision-language models (SFT, LoRA/QLoRA,
+  distillation from larger models) for extraction and domain
+  tasks, and benchmark them against larger and API models on
+  quality, latency, cost and on-prem deployability.
+
+  ● Document understanding. Build pipelines that recover
+  structure (reading order, tables, key-value pairs, fields)
+  with confidence scores, provenance and human-review paths.
+
+  ● Preprocessing. Build robust preprocessing for scanned and
+  camera-captured inputs, including orientation, deskewing,
+  dewarping, denoising and multi-page PDF/TIFF handling,
+  without degrading source quality.
+
+  ● Multimodal RAG and agentic systems. Build multimodal RAG
+  over text, document images and scans with grounded, cited
+  answers, and tool-using agents with skills and tool
+  interfaces (function calling, MCP) and human-in-the-loop
+  checks.
+
+  ● Medical data. Work with DICOM CT and X-ray studies, non-
+  DICOM scans and handwritten technologist sheets, with PHI-
+  safe handling.
+
+  ● Evaluation and data. Define release criteria (CER/WER,
+  field-level and end-to-end accuracy). Own annotation
+  guidelines, golden test sets and error taxonomies, and
+  prevent leakage and duplicate-document contamination.
+
+  ● Harness engineering. Build evaluation and agent harnesses
+  (golden sets, replayable traces, versioned prompts and
+  tools, CI regression gates) so model, prompt or tool changes
+  cannot silently degrade behaviour.
+
+  ● Production engineering. Package pipelines as production
+  services (Python, Docker, FastAPI) with CPU/GPU inference,
+  batching, versioning, logging and profiling. Optimise with
+  ONNX/TensorRT where justified.
+
+  ● Testing and technical leadership. Own unit, regression and
+  end-to-end tests and CI/CD checks so changes cannot silently
+  alter outputs. Review designs and code, and mentor less-
+  experienced engineers.
+
+  Requirements:
+
+  Must-have:
+
+  ● Education. B.Tech/B.E./M.Tech/MS/M.Sc. from an IIT, IISc,
+  IIIT, BITS Pilani or a comparably selective institution, in
+  Computer Science, Electrical/Electronics Engineering, AI,
+  Data Science, Mathematics, Statistics or a related
+  quantitative field, with a strong academic record.
+
+  ● Experience. 5-8 years of hands-on experience in OCR,
+  VLMs/multimodal AI, Document AI or applied computer vision,
+  with ownership of real production systems beyond prototypes.
+
+  ● Proof of building. Personally drove substantial OCR, VLM
+  or Document AI systems into production, and can defend data,
+  architecture, evaluation and deployment trade-offs in depth.
+
+  ● Programming. Production-grade Python, deep PyTorch or
+  TensorFlow/Keras, and strong NumPy and OpenCV.
+
+  ● OCR and VLM depth. Text detection and recognition,
+  transformer OCR, layout analysis and table/field extraction,
+  plus VLM schema-constrained extraction, grounding and
+  hallucination/omission evaluation.
+
+  ● LLM/VLM fine-tuning. Hands-on fine-tuning of small
+  LLMs/VLMs (SFT, LoRA/QLoRA/PEFT), including dataset
+  curation, evaluation against baselines and serving the tuned
+  models.
+
+  ● Multimodal RAG and agents. Hands-on RAG (embeddings,
+  vector search, hybrid retrieval, reranking, grounding and
+  citations) and tool-using LLM/VLM agents (tool calling,
+  skills/MCP, orchestration, guardrails).
+
+  ● Harness engineering. Evaluation and test harnesses for
+  LLM/VLM/agent systems: golden sets, replayable traces,
+  prompt/tool versioning, CI regression gates.
+
+  ● Production engineering. Linux, Git, Docker, FastAPI,
+  pytest, CI/CD, and structured logging and monitoring.
+
+  Good-to-have:
+
+  ● Medical imaging. DICOM CT/X-ray handling (pydicom,
+  pynetdicom, SimpleITK), non-DICOM scan ingestion and
+  handwritten technologist-sheet recognition.
+
+  ● OCR/VLM tooling. PaddleOCR, Tesseract, TrOCR, PARSeq,
+  DBNet/CRAFT, LayoutLM/Donut or Hugging Face multimodal
+  stacks.
+
+  ● Efficient inference. LoRA/PEFT, quantisation and efficient
+  multimodal inference.
+
+  ● Domain. Experience with healthcare documents and clinical
+  vocabulary.
+
+  Key Skills:
+
+  Python | PyTorch | TensorFlow / Keras | OpenCV | OCR / Text
+  Detection & Recognition | Transformer OCR | Vision-Language
+  Models (VLMs) | Hybrid OCR+VLM Pipelines | Structured
+  Extraction | Layout / Table / Key-Value Extraction | Hugging
+  Face | CER / WER | Hallucination / Omission Analysis |
+  Confidence Calibration | Docker | FastAPI | pytest | CI/CD |
+  ONNX / TensorRT | MLflow / Weights & Biases | Multimodal RAG
+  | Vector Databases | Agentic AI / LLM Agents | Tool Calling
+  / MCP | LangChain | LangGraph | Context Engineering | Prompt
+  Engineering | Harness Engineering | LLM Evaluation (Ragas /
+  DeepEval) | LLM Observability (Langfuse) | DICOM / Medical
+  Imaging | Handwritten Text Recognition | LLM / VLM Fine-
+  tuning | Small Language Models (SLMs) | LoRA / QLoRA / PEFT
+
+  Why Join Daignostix:
+
+  ● Real healthcare document intelligence. Build systems that
+  work on imperfect real-world documents and produce traceable
+  outputs downstream workflows can trust.
+
+  ● End-to-end scope. Work across ingestion, preprocessing,
+  OCR, VLM-based understanding, APIs, deployment and
+  monitoring.
+
+  ● Freedom to choose the right approach. Dedicated compute to
+  benchmark OCR-first, VLM-first, hybrid, open-source and
+  custom approaches on measurable quality, latency and cost.
+industries:
+  - Healthtech
+  - Software
+  - Telehealth
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-ai-engineer-ocr-vlm/11872109"
+source: Built In

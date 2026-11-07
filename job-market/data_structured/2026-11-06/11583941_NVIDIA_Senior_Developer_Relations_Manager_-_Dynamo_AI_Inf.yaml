@@ -1,0 +1,59 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPUs and accelerated computing platforms
+position:
+  title: Senior Developer Relations Manager - Dynamo AI Inference
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a developer relations role focused on ecosystem
+      building, docs, demos, and community advocacy around
+      NVIDIA's Dynamo inference framework. The role deploys and
+      operates inference systems rather than shaping model
+      behavior or output quality — no prompt engineering, RAG
+      design, or model training/evaluation. Serving/scaling models
+      others build is explicitly ai-support per the edge cases.
+  responsibilities:
+  - Build the developer ecosystem around NVIDIA Dynamo with projects like vLLM, SGLang,
+    Mooncake, and llm-d through demos, integration guides, upstream contributions,
+    and community programs
+  - Develop runnable demos, sample code, technical documentation, and videos explaining
+    Dynamo's modular ecosystem
+  - Represent developer needs inside NVIDIA by turning feedback into engineering and
+    product requirements
+  - Advocate externally through technical talks, live demos, workshops, and office
+    hours
+  - Help developers troubleshoot real inference deployments and contribute to open-source
+    projects
+  - Track community metrics such as repeat participation, contributor growth, and
+    issues resolved
+  use_cases:
+  - Distributed AI inference serving in data centers
+  - Scaling and operating model-serving deployments with latency and throughput monitoring
+  - Open-source ecosystem interoperability across inference engines (vLLM, SGLang,
+    Dynamo, llm-d)
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning, Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, SGLang, TensorRT-LLM, Kubernetes, Model Deployment, Monitoring, Distributed
+        Systems]
+    languages: []
+    domains: []
+    other: [Open Source]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11583941'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - Santa Clara, USA
+  extracted_at: '2026-11-06T12:15:47.721648'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,157 @@
+job_id: 11720389
+title: AI Engineer
+company: MVF
+location: London, GBR
+work_type: FULL_TIME
+company_size: 500 Employees
+description: |
+  About the role We already run two kinds of agent alongside
+  our teams. AI agents diagnose performance problems and tell
+  people the root cause. Rule-based agents recommend marketing
+  actions to our advertising teams. The quality of their
+  decisions shows up directly in our revenue. Next, both take
+  a greater role in the day-to-day running of our lead
+  generation business, moving from recommending, to acting
+  with a person's approval, to acting on their own where it is
+  safe. We need an engineer to build agents that are
+  dependable in production, measurable, and safe to trust with
+  more. This is a hands-on engineering role. You'll own agents
+  end to end, from understanding the workflow to running them
+  in production, alongside our existing AI engineer, data
+  scientists, product managers and the people who use the
+  agents every day. Today we use Claude and open-weight models
+  such as GLM, chosen per task on quality and cost, on an
+  agent framework we build ourselves. What you'll do Build
+  agents
+
+  - Start from the workflow. Sit with the operators, map how the
+    work is actually done, and build for that, not for the
+    process as documented.
+  - Build on shared rules. Rule-based and LLM agents that call
+    shared, versioned rules and tools, not logic hard-coded
+    inside each agent.
+  - Connect them to the business. Using our data warehouse,
+    internal services, and the APIs into the systems agents
+    act in.
+  - Turn outputs into results people trust. Structured outputs,
+    validation and clear application logic.
+
+  Make them safe to trust
+
+  - Log every decision. Each action records its context, what
+    was chosen, and whether a person accepted or overrode it,
+    so agents can be evaluated and improved.
+  - Build the path to autonomy. Per decision, agents move from
+    recommend, to act with approval, to act alone. Our data
+    scientists propose the bar from agreement and override
+    data and point people in the business sign it off; you
+    build the mechanism that enforces it on our shared agent
+    framework, with permissions and guardrails in the code,
+    not the prompt.
+  - Evaluate behaviour, not just code. Test sets, agreement with
+    expert operators, and evaluation before and after every
+    change.
+  - Run what you ship. Tracing, failure handling, and tracking
+    quality, latency and cost. There's no on-call rota.
+
+  What we're offering you:
+
+  - Summer Fridays
+  - Competitive holiday benefits - 25 days a year paid holiday,
+    plus 8 bank holidays (increases 1 day a year up to 30
+    days)
+  - Hybrid working - 3 days a week in the office
+  - Closed for Christmas holidays - Extra days not taken from
+    your annual holiday allowance.
+  - Work from anywhere for 2 weeks a year
+  - Life Assurance and Income Protection to protect your loved
+    ones
+  - Benefits allowance for health, dental, and vision coverage
+  - Six months paid maternity leave, and one month paid
+    paternity leave (subject to qualifying conditions)
+    inclusive of same-sex and adoptive parents
+  - Defined Contribution Pension and Salary Sacrifice Scheme
+  - Be Well: Our award-winning wellbeing and mental health
+    programme to support all MVFers and their families
+  - Family Forward support for our MVF parents and their mini-
+    mes
+  - 2 charity days a year
+
+  What we're looking for
+
+  - 3+ years of engineering, including at least one LLM
+    application or agent shipped to real users.
+  - Python and TypeScript: production-grade in one and
+    productive in the other, with typed, tested code and clear
+    interfaces. You'll work in both here.
+  - LLM engineering: tool calling, structured outputs, context
+    management, and evaluating agent behaviour on
+    representative test sets.
+  - Integration and operations: SQL, HTTP APIs, containers,
+    CI/CD and a cloud platform, and debugging from logs and
+    traces.
+
+  Nice to have
+
+  - Agents used daily by operators, with a feedback loop.
+  - AWS SageMaker, AWS ECS/Fargate, Terraform and CircleCI.
+  - Snowflake and dbt.
+  - Event logging for analytics or machine learning.
+  - Lead generation or ad tech.
+
+  How you'll work
+
+  - Commercial impact. You understand how the business creates
+    value and use that to make better choices about what gets
+    built, prioritised or stopped. You define the intended
+    impact before starting, consider the cost of the work and
+    evaluate what happened afterwards.
+  - Delivery and ownership. You take responsibility for outcomes
+    and move at a pace matched to the cost of delay. You
+    follow work through until it is delivered, handed over or
+    deliberately stopped, and remain accountable for what
+    happens after delivery.
+  - Candour and communication. You surface important information
+    early, including when it is uncomfortable, with evidence
+    and a view on what to do about it. You communicate what is
+    known, assumed and uncertain in a form the audience can
+    understand and act on.
+  - Making others better. You create lasting improvement in
+    other people's and the team's work through teaching,
+    feedback or challenge, and take challenge on your own work
+    as readily as you give it.
+  - Growth and mastery. You deepen your capability through
+    deliberate practice, feedback and experience, build the
+    skills the work will need next, and change established
+    practices when better approaches become available.
+  - Judgement under ambiguity. You make sound decisions with
+    incomplete information and know when to act, escalate or
+    delegate. You own what you ship regardless of how it was
+    produced, and change position when the evidence changes.
+
+  How you'll build
+
+  - Craft and AI-native delivery. You build robust agents and AI
+    applications, choosing the right approach for the problem,
+    including when deterministic code is enough. You
+    understand and can explain the evidence, assumptions,
+    behaviour and limitations of what you build, and use AI to
+    increase delivery speed without giving up technical
+    ownership.
+  - Architecture and systems design. You design reliable systems
+    that move agents and AI capabilities from a business
+    problem into effective use, deciding what should be
+    probabilistic and what deterministic. You treat data and
+    context, security and governance, monitoring and
+    observability, failure handling and recovery, cost,
+    performance and lifecycle as part of the design rather
+    than concerns added afterwards.
+industries:
+  - AdTech
+  - Digital Media
+  - eCommerce
+  - Marketing Tech
+  - Sales
+posted_date: 2026-10-16
+url: "https://builtin.com/job/ai-engineer/11720389"
+source: Built In

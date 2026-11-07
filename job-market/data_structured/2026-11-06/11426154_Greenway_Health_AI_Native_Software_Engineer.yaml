@@ -1,0 +1,59 @@
+company:
+  name: Greenway Health
+  stage: null
+  focus: Healthcare technology and practice management software
+position:
+  title: AI Native Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is using AI coding assistants (Copilot,
+      Cursor, Claude, ChatGPT) to write software faster and
+      validating their output; the deliverable is production
+      software and developer workflow, not shaping a model's
+      behavior. While they write prompts, these are prompts for
+      code generation by AI tools used as a development
+      accelerator, which per the edge cases is ai-support. Helping
+      other engineers adopt AI-native practices further confirms
+      the developer-workflow focus.
+  responsibilities:
+  - Use AI-assisted development tools to generate, test, document, refactor, and improve
+    software solutions
+  - Convert product and business requirements into technical prompts, implementation
+    plans, and acceptance criteria
+  - Generate 80-90% of initial solution drafts using AI tools, then review, validate,
+    and refine the output
+  - Detect and correct AI hallucinations, inaccurate assumptions, invalid code, and
+    security issues
+  - Create automated tests to verify expected behavior and business outcomes
+  - Build reusable prompt templates and AI-native development workflows for common
+    engineering tasks
+  - Collaborate with product, QA, DevOps, architecture, and security teams to deliver
+    production-ready solutions
+  - Educate and guide other engineers in adopting AI-native software development practices
+  use_cases:
+  - AI-accelerated software development for healthcare technology products
+  - Automated code generation, testing, documentation, and refactoring
+  - Validation and quality assurance of AI-generated code
+  - Prompt templates and AI-native engineering workflow automation
+  skills:
+    languages: [Modern Programming Languages]
+    domains: []
+    web: [APIs]
+    cloud: [Cloud Services]
+    data: []
+    ml: []
+    databases: [Databases]
+    genai: [GitHub Copilot, Cursor, ChatGPT, Anthropic API, Gemini, Amazon Q Developer,
+      Prompt Engineering, LLMs, AI Agents, RAG, Agentic Workflows]
+    ops: [CI/CD, Secure Coding]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11426154'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:48:59.099959'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

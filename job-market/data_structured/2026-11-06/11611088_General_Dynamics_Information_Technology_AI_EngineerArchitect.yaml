@@ -1,0 +1,51 @@
+company:
+  name: General Dynamics Information Technology
+  stage: null
+  focus: Government defense and intelligence technology services
+position:
+  title: AI Engineer/Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads design and architecture of next-gen AI/ML and
+      LLM solutions, including leveraging LLMs and agentic
+      workflows, so the person shapes model-driven system
+      behavior. LLM/agent components are present, making it ai-
+      first.
+  responsibilities:
+  - Lead the design, architecture, and product roadmap of next-gen AI/ML and LLM solutions
+  - Showcase solutions through customer-facing exercises, demos, and pace-setting
+    projects
+  - Collaborate with business development and capture teams to support bids, proposals,
+    and OTA efforts
+  - Partner with on-program teams to deliver AI/ML solutions in mission areas
+  - Grow AI projects from proof of concept to production
+  - Engage stakeholders to identify new opportunities and drive outcome-based value
+    of AI solutions
+  use_cases:
+  - Edge AI and sensing
+  - Autonomous systems
+  - Intelligence analysis
+  - Contested logistics
+  - Training and readiness
+  - AI/ML integration into the battlespace
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: [Model Training, Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Distributed Systems]
+    languages: [Java, Rust, Python]
+    domains: []
+    other: [AI Architecture, Cloud Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11611088'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:20:53.643549'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

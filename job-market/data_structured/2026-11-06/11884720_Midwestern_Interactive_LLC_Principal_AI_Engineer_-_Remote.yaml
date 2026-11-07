@@ -1,0 +1,55 @@
+company:
+  name: Midwestern Interactive, LLC
+  stage: null
+  focus: |-
+    Staffing firm partnering with management consulting product
+    group
+position:
+  title: Principal AI Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour directly: training, fine-
+      tuning, and evaluating models, designing RAG/retrieval and
+      model routing, building evals and LLM-as-judge rubrics, and
+      agent governance. LLMs are central, so it is ai-first.
+  responsibilities:
+  - Build and ship ML and LLM capabilities into existing products and turn early AI
+    use cases into new products
+  - Set AI architecture including reusable service scaffolding, model gateway patterns,
+    and multi-tenant LLM services with enforced data boundaries
+  - 'Own AI security: prompt injection defenses, data classification, model supply
+    chain risk, and agent governance with SOC2/ISO-aligned controls'
+  - 'Build the evaluation and monitoring layer: model evaluation rubrics, regression
+    testing, and production quality monitoring'
+  - Lead major AI decisions through trade-off docs and advise senior stakeholders
+    on AI risk
+  - Mentor 5-7 senior engineers and champion AI-assisted development practices across
+    the engineering org
+  use_cases:
+  - Adding AI features to 30+ internal consulting products
+  - Building new products from emerging AI use cases
+  - Multi-tenant LLM services for consultants with engagement-level data boundaries
+  - Secure AI agents with permissioned tool access and human-in-the-loop controls
+  - Model evaluation and quality monitoring for production AI systems
+  skills:
+    genai: [LLMs, RAG, MCP, LLM Evaluation, Guardrails]
+    ml: [PyTorch, TensorFlow, Hugging Face, Model Training, Fine-Tuning, Model Evaluation,
+      Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, Docker, CI/CD, Model Monitoring, Code Review]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [Agile, SOC 2, ISO 27001]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884720'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-11-06T13:32:45.415544'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

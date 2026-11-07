@@ -1,0 +1,59 @@
+company:
+  name: The Carlyle Group
+  stage: null
+  focus: Global investment and asset management firm
+position:
+  title: Security Engineer, AI Platforms & Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role defines and enforces security guardrails for model
+      inputs, outputs, and tool usage, and pilots new guardrail
+      configurations for AI agent/gateway systems — building
+      guardrails is shaping model behavior, so ai-first. It is a
+      security engineering role, but the person owns the guardrail
+      implementation themselves rather than just overseeing
+      policy.
+  responsibilities:
+  - Secure and operate the AI gateway brokering access between users, agents, and
+    downstream model providers, including authentication, authorization, guardrails,
+    and usage governance
+  - Review and harden AI agent and tool integrations for excessive scope, credential
+    handling, and data-exfiltration risk
+  - Define and enforce security guardrails for model inputs, outputs, and tool usage;
+    pilot new configurations and measure effectiveness
+  - Build security automation using supported APIs and support privileged access management
+  - Secure network paths including SD-WAN, firewall, SASE/ZTNA, and WAF policies for
+    API and platform traffic
+  - Design and build logging and telemetry infrastructure, integrating telemetry pipelines
+    into the SIEM with retention, normalization, and enrichment standards
+  - Build dashboards, alerts, and health checks to monitor security posture and reliability
+  use_cases:
+  - Securing an AI gateway that brokers access between users, agents, and model providers
+  - Guardrail enforcement for model inputs, outputs, and AI tool usage in an enterprise
+    setting
+  - Security review and hardening of AI agent and third-party tool integrations
+  - Security telemetry and SIEM monitoring of AI platform traffic and usage
+  skills:
+    languages: [Python, Bash]
+    domains: []
+    web: [APIs]
+    cloud: [IAM]
+    data: []
+    ml: []
+    databases: []
+    genai: [MCP, Guardrails, AI Agents, Agentic Workflows, Tool Integrations]
+    ops: [Linux, SIEM, Monitoring, Observability, SD-WAN, SASE/ZTNA, WAF, Next-Generation
+        Firewalls, Secrets Management, Privileged Access Management]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11828986'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T13:20:21.381673'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

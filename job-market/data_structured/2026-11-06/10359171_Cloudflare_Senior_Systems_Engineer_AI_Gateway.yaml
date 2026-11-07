@@ -1,0 +1,63 @@
+company:
+  name: Cloudflare
+  stage: null
+  focus: |-
+    Global network and Internet security/performance
+    infrastructure
+position:
+  title: Senior Systems Engineer, AI Gateway
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds gateway infrastructure (routing,
+      observability, reliability, cost controls) for inference
+      traffic across providers — it serves and routes models
+      rather than shaping model behavior via prompts, retrieval,
+      or fine-tuning. Building agent dev tooling for internal
+      productivity is also not shaping a product model. Hence ai-
+      support.
+  responsibilities:
+  - Build core AI Gateway systems handling high-volume inference traffic across providers,
+    models, and Cloudflare's global network
+  - Design and implement APIs, routing primitives, observability features, controls,
+    and developer workflows
+  - Collaborate with Workers AI, Agents, and the Developer Platform to unify Cloudflare's
+    AI offering
+  - Turn ambiguous product and technical ideas into prototypes, design docs, and shipped
+    features
+  - Improve reliability, performance, cost efficiency, and debuggability for latency-sensitive
+    AI workloads
+  - Build agents, tests, harnesses, and internal tooling to accelerate the team's
+    engineering loop
+  - Refine developer experience across SDKs, dashboards, docs, and API details
+  - Mentor engineers through design review, code review, and technical leadership
+  use_cases:
+  - Routing and proxying AI inference traffic across model providers at the network
+    edge
+  - Reliability, cost control, rate limiting, caching, retries, and fallbacks for
+    AI workloads
+  - Developer-facing AI gateway APIs, SDKs, and dashboards
+  - Observability and evaluation for AI inference traffic
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Observability]
+    languages: [TypeScript, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10359171'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:20:02.697518'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

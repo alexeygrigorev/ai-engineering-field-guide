@@ -1,0 +1,50 @@
+company:
+  name: Penn Foster Group
+  stage: null
+  focus: Online education and workforce training for learners
+position:
+  title: Senior Software Engineer, AI Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval pipelines, agentic workflows,
+      evals, and integrates model APIs themselves — directly
+      shaping LLM behavior and output quality. Multiple
+      LLM/generative components involved, so ai-first.
+  responsibilities:
+  - Design, build, and ship full-stack features end-to-end using TypeScript, Vue.js,
+    and Node on Azure
+  - Write evals and observability for LLM features
+  - Use agentic coding tools (Claude Code, Cursor) as primary development environment
+  - Own AI-powered content authoring and management features
+  - Integrate model APIs (Anthropic, OpenAI, others) with attention to cost, latency,
+    and prompt-injection risk
+  - Lead code reviews and mentor engineers on prompting, context engineering, eval
+    design, and agentic workflows
+  - Ensure scalability, security, observability, and unit economics of owned systems
+  use_cases:
+  - AI-powered content authoring and management for online learning programs
+  - Helping learners discover, enroll in, and progress through education programs
+  - Retrieval pipelines for learner-facing AI features
+  - Agentic workflows embedded in education products
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, Context Engineering, Anthropic
+        API, OpenAI API, Claude Code, Cursor, RAG, LLM Evaluation, LLMs]
+    ml: []
+    web: [Vue, Node.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893963'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:50:20.017729'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

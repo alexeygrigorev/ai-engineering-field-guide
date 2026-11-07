@@ -1,0 +1,45 @@
+company:
+  name: Interiors With Art
+  stage: null
+  focus: Luxury interior design and build firm
+position:
+  title: AI & Automation Engineer (Full Stack)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, integrations, and automated
+      workflows themselves, and requires deep knowledge of the AI
+      stack (Copilot, Claude, OpenAI). Designing agent flows is
+      shaping model behaviour, so it is ai-first.
+  responsibilities:
+  - Map business processes and design connecting architecture
+  - Build full-stack products end to end (backend, frontend, cloud)
+  - Build AI agents, integrations and automated workflows
+  - Ship MVPs quickly and iterate with real users
+  - Work with non-technical teams to build practical tools
+  - Structure company data securely with privacy built in
+  - Stay current with new AI models and tools
+  use_cases:
+  - Business process automation for a design and build company
+  - AI agents connecting existing internal tools
+  - Internal tools for designers, site teams and finance
+  - Automated workflows for information flow across teams
+  skills:
+    genai: [AI Agents, OpenAI API, Anthropic API, Microsoft Copilot, Agentic Workflows]
+    ml: []
+    web: [APIs, Full-Stack Development]
+    databases: [Databases]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11574949'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:14:21.144337'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: Space launch vehicles and spacecraft development
+position:
+  title: Software Engineer (AI Data Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI systems, multi-agent workflows,
+      MCP servers, RAG-based search, prompt/context engineering,
+      and LLM evaluations - all direct shaping of LLM/agent
+      behavior. Hence ai-first.
+  responsibilities:
+  - Partner with engineering teams to identify repetitive or error-prone work and
+    build tools that automate it
+  - Build automation processing large engineering data volumes (telemetry, design
+    databases, test records) to review data, flag anomalies, and surface insights
+  - Design agentic AI systems, multi-agent workflows, and MCP servers for querying
+    and acting on data across internal systems
+  - Integrate tools into CI/CD pipelines, mission workflows, and review/sign-off processes
+  - Build internal web dashboards showing mission status and data review results
+  - Prototype rapidly and take tools to production-grade, maintainable state
+  - Evaluate AI outputs against known-good results for trust in flight-critical environments
+  - Prioritize work by ROI and track engineering hours saved
+  use_cases:
+  - Automated review of flight and test telemetry data for launch vehicles
+  - AI agents helping engineers prepare for missions and investigate anomalies
+  - Automation of repetitive engineering work across avionics, propulsion, and structures
+  - Querying and acting on engineering data across internal systems via agents
+  - Accelerating rapid reuse of the Falcon launch vehicle and satellite constellations
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, RAG, Prompt Engineering, Context Engineering,
+      Function Calling, LLM Evaluation, LLMs]
+    ml: []
+    web: [REST APIs, React, FastAPI, Flask]
+    databases: [PostgreSQL, NoSQL, Vector Databases]
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: [Linux, Git, CI/CD, Monitoring, Docker, Kubernetes]
+    languages: [Python, SQL, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11586614'
+  location: Hawthorne, USA
+  extracted_at: '2026-11-06T12:16:05.710902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

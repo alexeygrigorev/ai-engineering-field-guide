@@ -1,0 +1,51 @@
+company:
+  name: Inviso Corporation
+  stage: null
+  focus: Enterprise software and AI platform engineering
+position:
+  title: Applied AI Engineer - USA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-backed systems — agent
+      runtimes, RAG, tool/function calling, guardrails, and
+      evaluation harnesses — directly shaping model behavior and
+      output quality. This is clearly ai-first work.
+  responsibilities:
+  - Build and operate AI capabilities across an enterprise platform including agent
+    runtimes and model routing
+  - Design and implement RAG, tool/function calling, and AI workflow patterns
+  - Build evaluation harnesses, golden sets, regression checks, and quality gates
+  - Implement guardrails and controls for untrusted retrieved content and tool output
+    risk
+  - Monitor production AI behavior and improve systems based on evidence
+  - Manage cost, latency, reliability, and safety as first-class engineering constraints
+  - Partner with product, engineering, and client teams on AI solution decisions
+  use_cases:
+  - Agent runtimes and orchestration for an enterprise platform
+  - Production RAG with grounding and retrieval quality
+  - AI evaluation, monitoring, and quality gates in production
+  - Cost, latency, and reliability optimization for AI systems
+  - Semantic knowledge management with ontologies and knowledge graphs
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [Azure OpenAI]
+    data: []
+    ml: [Distillation]
+    databases: [Knowledge Graphs]
+    genai: [RAG, LLMs, Function Calling, Prompt Engineering, Agentic Workflows, Guardrails,
+      Fine-Tuning, MCP, Multi-Agent Systems, LLM Evaluation, Anthropic API, GPT, Model
+        Routing, AI Agents]
+    ops: []
+    other: [LLM-as-Judge]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12081128'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:52:04.689649'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Enviri Corporation
+  stage: null
+  focus: |-
+    Environmental and industrial services for steel, metals,
+    railways
+position:
+  title: Senior Digital Developer(.NET 8+, ASP.NET Core,AI-Augmented Development)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI tools (GitHub Copilot) to accelerate
+      general software engineering, which per the edge cases is
+      ai-support. While it mentions integrating Azure OpenAI into
+      apps and prompt-writing for Copilot, the core deliverables
+      are enterprise .NET/Angular applications; AI is primarily an
+      engineering accelerator, not the shaped model behavior of
+      the role's responsibilities.
+  responsibilities:
+  - Architect and implement scalable backend services using C#, .NET 8+, ASP.NET Core,
+    and EF Core
+  - Build responsive Angular applications with TypeScript, Angular Material, HTML,
+    and SCSS
+  - Use GitHub Copilot and approved AI tools for scaffolding, refactoring, debugging,
+    test generation, and documentation
+  - Critically review and validate AI-generated code for correctness, security, performance,
+    and standards
+  - Build and support secure Azure cloud solutions including App Service, Azure SQL,
+    Key Vault, and Functions
+  - Design and optimize SQL Server data models, queries, and EF Core migrations
+  - Develop unit, integration, and frontend tests with automation and AI assistance
+  - Manage Git/GitHub workflows and CI/CD automation with GitHub Actions; mentor juniors
+    and lead design discussions
+  use_cases:
+  - Enterprise application modernization for environmental services operations
+  - Shared business services supporting Finance, HR, IT, and Engineering functions
+  - AI-augmented software delivery and code quality validation
+  - Cloud-hosted enterprise web applications for steel and rail industry support
+  skills:
+    genai: [GitHub Copilot, Prompt Engineering]
+    ml: []
+    web: [ASP.NET Core, REST APIs, Angular, CSS, Azure App Service]
+    databases: [SQL Server, EF Core]
+    data: []
+    cloud: [Azure, Azure OpenAI, Azure Functions]
+    ops: [GitHub Actions, CI/CD, Git, GitHub]
+    languages: [C#, TypeScript, HTML]
+    domains: []
+    other: [Responsible AI, Azure Key Vault, Application Insights]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12028208'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:33:29.769354'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

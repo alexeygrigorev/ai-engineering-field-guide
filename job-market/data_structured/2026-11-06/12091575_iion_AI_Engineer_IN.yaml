@@ -1,0 +1,52 @@
+company:
+  name: iion
+  stage: null
+  focus: Global game advertising platform for brand media
+position:
+  title: AI Engineer (IN)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows (ReAct), RAG
+      systems, and LLM-integrated conversational interfaces,
+      directly shaping LLM/agent behavior — ai-first.
+  responsibilities:
+  - Design, build, and deploy scalable RESTful/async backend services using FastAPI
+    and Python
+  - Architect and implement intelligent agent workflows (ReAct) using LangChain, LangGraph,
+    Crew AI, and LlamaIndex
+  - Create conversational analytics and reporting interfaces integrated with LLMs
+  - Deploy efficient RAG systems for actionable insights and automation
+  - Develop autonomous agents for media planning, campaign execution, performance
+    monitoring, and optimization
+  - Implement and monitor ML pipelines to support campaign optimization
+  - Design and interpret A/B tests with statistical rigor
+  - Develop predictive models for decision-making and forecasting
+  use_cases:
+  - Autonomous media planning and budget allocation for game advertising
+  - Campaign execution and continuous optimization
+  - KPI tracking and real-time performance monitoring
+  - Conversational analytics and reporting interfaces
+  - Insight generation via Agentic RAG
+  skills:
+    genai: [AI Agents, LangChain, LangGraph, CrewAI, LlamaIndex, RAG, LLMs]
+    ml: [Predictive Modeling]
+    web: [FastAPI, Flask]
+    databases: [Vector Databases, Chroma, Pinecone]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Python, asyncio]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12091575'
+  location: Uran, IND
+  locations:
+  - Uran, IND
+  - Montargil, PRT
+  extracted_at: '2026-11-06T14:55:33.450068'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

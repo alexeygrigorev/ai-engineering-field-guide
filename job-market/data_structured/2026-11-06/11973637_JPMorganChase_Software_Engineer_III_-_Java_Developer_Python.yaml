@@ -1,0 +1,54 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global investment banking and financial services
+position:
+  title: Software Engineer III - Java Developer + Python + Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and operationalizes AI agents with
+      tool/function calling, structured outputs, and guardrails,
+      plus LLM-enabled workflows with prompt discipline and
+      grounding strategies — directly shaping model behavior. This
+      is not merely using Copilot to write code; the agents are
+      the deliverable.
+  responsibilities:
+  - Design and deliver secure, scalable software solutions within an agile team
+  - Develop high-quality production code primarily in Java/Spring Boot and review
+    others' code
+  - Lead the design and delivery of scalable microservices and APIs within the Spring
+    ecosystem
+  - Build and operationalize AI agents integrated into engineering workflows (PR review
+    assistants, runbook/support agents, remediation assistants) with tool calling,
+    structured outputs, and guardrails
+  - Use AI coding assistants (Copilot/Claude Code) for refactoring, test generation,
+    documentation, and code modernization while ensuring correctness and security
+  - Use Python for AI/agent prototyping, automation, evaluation harnesses, and integrations
+  - Contribute learnings and reusable patterns to improve team engineering effectiveness
+  use_cases:
+  - AI-powered PR review assistants
+  - Runbook and support agents for engineering workflows
+  - Automated remediation assistants
+  - AI-assisted code generation, refactoring, and unit test creation
+  - Engineering productivity automation via agentic workflows
+  skills:
+    genai: [AI Agents, Function Calling, Structured Outputs, Guardrails, Prompt Engineering,
+      LLMs, Claude Code]
+    ml: []
+    web: [Spring Boot, REST APIs, Microservices, Spring MVC, Spring Data, Spring Security]
+    databases: [Elasticsearch]
+    data: []
+    cloud: []
+    ops: [GitHub Copilot, CI/CD, Kubernetes, Observability]
+    languages: [Java, Python]
+    domains: []
+    other: [Agile, Distributed Tracing, Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11973637'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T14:14:38.905239'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

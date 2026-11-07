@@ -1,0 +1,58 @@
+company:
+  name: Humana
+  stage: null
+  focus: US healthcare insurance and health services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications with LLMs and
+      designs agentic AI systems using LangChain, LangGraph,
+      AutoGen, and CrewAI — directly shaping model behavior
+      through agent and LLM application design. LLM components are
+      central, so it's ai-first.
+  responsibilities:
+  - Design and develop AI solutions using Python, AI/ML, and generative models like
+    LLMs with a focus on responsible AI
+  - Build autonomous AI agents using frameworks like LangChain, LangGraph, AutoGen,
+    and CrewAI for healthcare reasoning and decision-making
+  - Embed AI into Humana's enterprise systems and workflows, partnering with business
+    teams to co-create scalable, compliant solutions
+  - Collaborate with MLOps and DevOps teams to deploy and maintain AI models in production
+  - Execute data science initiatives including design, development, and implementation
+  - Develop and maintain advanced AI/ML models and algorithms
+  - Design and implement monitoring capabilities for performance and reliability
+  - Create reports, projections, models, and presentations for business stakeholders
+  use_cases:
+  - Healthcare reasoning and decision-making with autonomous AI agents
+  - Generative AI applications that improve care quality and healthcare outcomes
+  - Enterprise AI solutions embedded across insurance, CenterWell, growth, and corporate
+    segments
+  - Production AI/ML models with monitoring for scalability, reliability, and compliance
+  skills:
+    languages: [Python, SQL]
+    domains: []
+    web: []
+    cloud: []
+    data: [PySpark, Data Pipelines]
+    ml: [Machine Learning, scikit-learn, TensorFlow, PyTorch, Transformers]
+    databases: []
+    genai: [LLMs, Generative AI, LangChain, LangGraph, AutoGen, CrewAI, AI Agents]
+    ops: [MLOps, Monitoring]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11977698'
+  location: Tampa, USA
+  locations:
+  - Tampa, USA
+  - Dallas, USA
+  - New York, USA
+  - Boston, USA
+  - Louisville, USA
+  - Washington, USA
+  extracted_at: '2026-11-06T14:15:34.580948'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

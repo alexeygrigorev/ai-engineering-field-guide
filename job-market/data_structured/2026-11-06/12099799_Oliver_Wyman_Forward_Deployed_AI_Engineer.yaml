@@ -1,0 +1,55 @@
+company:
+  name: Oliver Wyman
+  stage: null
+  focus: Global risk, insurance, and management consulting services
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role partners with engineering on LLM-powered systems
+      including prompts, context design, retrieval, tool use,
+      agents, and defines/runs evaluations for AI features, which
+      is shaping model behavior and output quality. LLM components
+      are central, so it is ai-first.
+  responsibilities:
+  - Own product strategy, roadmap, and execution for applied AI capabilities across
+    product areas
+  - Identify workflows where AI can improve speed, quality, decision-making, automation,
+    or user experience
+  - Translate ambiguous customer problems into product requirements, metrics, prototypes,
+    and release plans
+  - Partner with engineering on LLM-powered systems covering prompts, context design,
+    retrieval, tool use, and agents
+  - Define and run evaluation processes for AI features including rubrics, offline
+    evaluations, regression tests, and human review
+  - Monitor shipped AI experiences for quality, failure modes, adoption, and operational
+    risk
+  - Collaborate with design on AI UX including graceful failure states, transparency,
+    and feedback mechanisms
+  - Work with legal, security, and compliance partners for responsible deployment
+  use_cases:
+  - AI-powered products for risk, insurance, and consulting workflows
+  - Enterprise AI features with evaluation, regression tracking, and human review
+  - AI-assisted automation and decision-making for business workflows
+  - Retrieval and knowledge-grounded AI experiences
+  skills:
+    genai: [Prompt Engineering, Context Engineering, RAG, Function Calling, AI Agents,
+      LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12099799'
+  location: Lower Place, GBR
+  extracted_at: '2026-11-06T14:59:26.455377'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

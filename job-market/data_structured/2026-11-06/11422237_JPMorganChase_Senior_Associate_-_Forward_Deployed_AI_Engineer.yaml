@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Senior Associate - Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer designing AI solutions (copilots,
+      agents, knowledge assistants) with prompt engineering and
+      RAG directly shapes LLM behavior for customers; per edge
+      case, FDEs are ai-first.
+  responsibilities:
+  - Partner with Compliance, Risk, and Operations stakeholders to understand processes,
+    pain points, and regulatory requirements
+  - Conduct business and data analysis, define use cases, and map current- and future-state
+    processes
+  - Assess and recommend combinations of process improvements, data, analytics, automation,
+    and AI capabilities
+  - Design, prototype, test, and validate AI-enabled solutions including copilots,
+    agents, and knowledge assistants
+  - Translate business requirements into solution designs, user stories, and implementation
+    plans
+  - Work with Technology, Data, Architecture, and Control partners to implement within
+    enterprise standards
+  - Support demonstrations, user testing, training, and adoption activities
+  - Define success metrics and ensure deliverables meet regulatory and governance
+    requirements
+  use_cases:
+  - Compliance and Risk function solutions
+  - AI copilots and knowledge assistants
+  - Workflow automation
+  - Decision-support tools
+  - Regulatory compliance and surveillance
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, RAG, AI Agents, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Business Analysis, Data Analysis, Agile, Business Process Reengineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11422237'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-11-06T11:48:12.474198'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

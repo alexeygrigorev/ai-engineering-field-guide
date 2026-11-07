@@ -1,0 +1,48 @@
+company:
+  name: New York Life
+  stage: null
+  focus: Life insurance and financial services
+position:
+  title: Associate - QA Test Engineer (Automation & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA automation role that uses AI-powered testing
+      tools and validates AI model outputs as part of QA
+      oversight, but it does not build evals, guardrails, prompts,
+      or retrieval itself, nor train or fine-tune models.
+      QA/validation oversight of models without building the evals
+      is ai-support.
+  responsibilities:
+  - Develop and maintain automated test scripts for web, API, and backend applications
+  - Execute automated regression suites and analyze test execution results
+  - Support CI/CD integration for automated test execution
+  - Utilize AI-powered testing tools to enhance test generation and execution automation
+  - Analyze AI model outputs for accuracy, bias, reliability, and validation
+  - Create test plans, test scenarios, and test cases from business requirements
+  - Perform functional, regression, integration, system, and smoke testing
+  - Identify, document, track, and retest software defects and report QA metrics
+  use_cases:
+  - Automated testing of web, API, and backend applications
+  - AI-assisted test generation and execution
+  - Validation of AI model outputs for accuracy, bias, and reliability
+  - Regression and functional testing for insurance business applications
+  skills:
+    languages: [SQL]
+    domains: []
+    web: [Selenium, Cypress, Playwright, Rest Assured, API Testing]
+    cloud: []
+    data: []
+    ml: [Machine Learning]
+    databases: []
+    genai: [Generative AI]
+    ops: [Jenkins, TestNG, JUnit, CI/CD]
+    other: [Agile, Jira, PractiTest, AI-Assisted Testing, MABL, STLC, SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11173392'
+  location: New York, USA
+  extracted_at: '2026-11-06T11:25:44.182704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

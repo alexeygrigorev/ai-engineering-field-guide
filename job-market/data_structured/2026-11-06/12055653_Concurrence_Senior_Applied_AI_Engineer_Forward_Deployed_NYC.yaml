@@ -1,0 +1,49 @@
+company:
+  name: Concurrence
+  stage: null
+  focus: |-
+    Platform for healthcare organizations to build clinical AI
+    agents
+position:
+  title: Senior Applied AI Engineer (Forward Deployed) [NYC or SF]
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agent systems (hierarchies of
+      agents and skills) plus evals measuring output quality in
+      production, directly shaping LLM/agent behavior. Forward
+      Deployed Engineer adapting AI at customer sites is ai-first
+      per the edge cases.
+  responsibilities:
+  - Own a customer use case end to end, from deployment brief to production
+  - Design and build multi-agent hierarchies and evals that meet clinical safety gates
+  - Integrate customer EHRs, legacy systems, and data into the platform
+  - Turn field-proven patterns into first-class platform capabilities
+  - Push agent reasoning down into deterministic data lookups for efficiency
+  - Push back early on unvetted specs, unsupported integrations, or scope changes
+  - Mentor engineers and write thorough documentation
+  use_cases:
+  - Clinical AI agents handling patient intake and scheduling
+  - Medication management and clinical decision support
+  - 'Healthcare revenue cycle: reducing denials and faster billing close'
+  - Event-level unified patient health record across health system data
+  - Production agent deployments inside health systems
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation, Voice Agents]
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [EHR Integrations, HL7, FHIR]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12055653'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:42:39.955818'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

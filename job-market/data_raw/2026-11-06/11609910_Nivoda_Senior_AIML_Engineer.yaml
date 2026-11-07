@@ -1,0 +1,229 @@
+job_id: 11609910
+title: Senior AI/ML Engineer
+company: Nivoda
+location: New York, USA
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  Location: US - NYC, Boston
+
+  Salary: $200,000 - $280,000
+
+  💎 About Nivoda
+
+  Nivoda is the operating system for the global jewellery
+  industry. We connect diamond and gemstone suppliers directly
+  with jewellery retailers across more than 70 countries,
+  replacing a slow, offline, relationship-gated way of trading
+  with a single digital marketplace. We're already powering
+  over $300M in annual transactions, inside an industry worth
+  more than $350B globally — and we're still early. Jewellery
+  is one of the last major global industries to go digital,
+  and we're the ones building the rails it will run on.
+
+  🤔 Our Mission
+
+  Diamond and gemstone trading has run for decades on
+  fragmented networks, manual processes, and who-you-know
+  relationships — which locks smaller and newer businesses
+  out, and leaves even the biggest players losing time and
+  margin to inefficiency. We started Nivoda to fix that: to
+  give any jewellery business, wherever it is and whatever
+  size it is, the same access, pricing transparency, and ease
+  of trading as an industry giant. Our mission is to make
+  buying and selling diamonds and gemstones radically simpler,
+  everywhere in the world.
+
+  ⭐️ The Discovery Pod
+
+  You'd be joining the Discovery Pod 🔍 — the team that decides
+  how hundreds of thousands of diamonds and gemstones actually
+  get found. That means ranking, recommendations, and search
+  input: from the core search and filtering experience, to
+  Contextual Search and a planned conversational assistant, to
+  image-upload search that lets a buyer find a match from a
+  photo. The same ranking and recommendation engine you'll
+  build has to serve both Nivoda's own marketplace and the
+  many individually branded storefronts jewellers run through
+  our SAAS products. We're a small, high-ownership team and
+  this pod is building the AI-powered product itself, not just
+  using AI tools to go faster.
+
+  About the Role
+
+  We're hiring a Senior AI/ML Engineer for the Discovery Pod
+  to help build and run the ranking, recommendation, and
+  search systems buyers rely on to find the right stone or
+  piece in seconds. This is real information retrieval and
+  applied ML work on production infrastructure — search
+  systems, embedding-based retrieval, learning-to-rank, LLM-
+  powered contextual and conversational search, image
+  embeddings for photo-based search — not configuring a hosted
+  search widget or calling a model API and moving on. You'll
+  own models end to end, from features and training through
+  evaluation, deployment, and monitoring, and you'll be
+  expected to understand how these probabilistic systems
+  behave and fail, because that understanding is the job, not
+  an adjacent skill.
+
+  Tech Stack
+
+  - Search: OpenSearch, fed via CDC from PostgreSQL plus
+    Spark/EMR/Glue ingestion jobs. No vector database anywhere
+    in production — embedding-based retrieval, the ranking
+    model, and image-embedding search are genuinely new builds
+    for whoever takes the Discovery role.
+  - Core DB / warehouse: PostgreSQL (OLTP) → Snowflake (dbt-
+    modeled, medallion raw/curated/presentation layers)
+  - Backend: TypeScript/Node.js, GraphQL API gateway, Nx
+    monorepo + PNPM
+  - Auth: Keycloak · SSO: Okta
+  - CI/CD: Jenkins (“Nivoda Build”) + GitOps for deploys
+  - Cloud: AWS (EMR, Glue, DMS, Kubernetes-based deploys)
+  - Observability: Grafana for logs/traces
+
+  What would you be doing?
+
+  Core Search Engine
+
+  - Build and operate real search infrastructure —
+    Elasticsearch/OpenSearch, Vespa, or vector-search
+    databases like pgvector, Pinecone, or Weaviate — to power
+    ranking and multi-modal search across Nivoda’s marketplace
+  - Design multi-tenant, configurable ranking and recommendation
+    systems that serve both Nivoda’s own marketplace and many
+    individually branded jeweller storefronts through Feeds,
+    without forking the codebase
+
+  Multi-Modal AI
+
+  - Build and improve Contextual Search and our planned
+    conversational assistant, using prompt design and
+    retrieval-augmented approaches, with zero-result and
+    tradeoff scenarios handled gracefully rather than met with
+    a confident wrong answer
+  - Build image-to-attribute and image-to-product-match
+    pipelines using image embeddings for our image-upload
+    search work
+  - Build the product around the reality that probabilistic
+    systems can be confidently wrong — designing recovery
+    paths and confirmation steps before high-stakes actions,
+    like generating a manufacturing quote from an interpreted
+    image
+
+  Experimentation & Quality
+
+  - Define and run search- and ranking-specific evaluation —
+    offline ranking metrics, interleaving experiments — to
+    tell whether a ranking change is actually better, not just
+    different
+  - Evaluate and stress-test foundation model and LLM output
+    directly as part of the engineering process, rather than
+    trusting it by default
+
+  Production ML
+
+  - Own the full lifecycle of ranking and recommendation models
+    — features, training, evaluation, deployment, and
+    monitoring — using learning-to-rank, embedding-based
+    retrieval, and collaborative filtering techniques
+  - Design and optimize low-latency, real-time model-serving
+    systems that keep search feeling instant under production
+    load
+  - Use AI coding agents to build ML infrastructure and
+    pipelines, paired with rigorous evaluation harnesses that
+    catch ranking and retrieval bugs a system can hide while
+    looking like it’s working
+
+  What do we need from you?
+
+  Years of experience: 5-10 years
+
+  - Information retrieval infrastructure experience — building
+    or operating real search systems
+    (Elasticsearch/OpenSearch, Vespa, or vector-search
+    databases like pgvector, Pinecone, or Weaviate)
+  - Applied ML for ranking and recommendations, end to end —
+    learning-to-rank, embedding-based retrieval, collaborative
+    filtering — with comfort owning features, training,
+    evaluation, deployment, and monitoring, not just calling a
+    model API
+  - NLP and LLM application experience — production experience
+    building on top of language models, including prompt
+    design, retrieval-augmented approaches, and handling zero-
+    result and tradeoff scenarios gracefully
+  - Low-latency serving experience — you've built and optimized
+    real-time model-serving systems under production load, not
+    just trained models in a notebook
+  - Specialized evaluation skills for search and ranking
+    quality, distinct from general growth experimentation —
+    offline ranking metrics, interleaving experiments, and
+    judging whether a ranking change is actually better versus
+    just different
+  - Direct, hands-on experience building with foundation models
+    and LLMs as an engineering material — prompt design,
+    retrieval-augmented approaches, and critically, evaluating
+    and stress-testing model output rather than trusting it by
+    default
+  - Experience designing for graceful failure in probabilistic
+    systems — knowing when a model is confidently wrong and
+    building the product around that reality
+  - Comfort using AI coding agents to build ML infrastructure
+    and pipelines, paired with strong evaluation and testing
+    discipline
+
+  Nice to have
+
+  - Computer vision fundamentals, specifically image embeddings
+    — experience building image-to-attribute or image-to-
+    product-match pipelines
+  - Multi-tenant, configurable system design experience —
+    building systems that behave differently per tenant
+    without forking the codebase
+  - Experience building conversational or assistant-style search
+    products
+  - Background in a marketplace or e-commerce company's search,
+    ranking, or recommendations team
+
+  ⭐️ Our culture and what we offer
+
+  We're a collaborative, high-growth team that believes in
+  empowerment over hierarchy. You'll have real ownership from
+  day one, the chance to work on problems most companies don't
+  even know they have yet, and a culture that takes learning
+  and growth seriously — because we're scaling fast, and we
+  need you to grow with us.
+
+  Our current benefits
+
+  - 🏡 Flexible working hours and a remote-first culture
+  - 📈 Real opportunities for growth and learning
+  - 🌴 Unlimited holiday allowance
+  - 🚀 The chance to join during an exponential expansion phase
+
+  ❤️ Equal Opportunity
+
+  Nivoda is an equal opportunity employer. We're committed to
+  building a diverse and inclusive team, and we welcome
+  applications from people of all backgrounds, regardless of
+  race, gender, age, religion, sexual orientation, disability,
+  or any other characteristic protected by law. Even if it
+  seems you don't meet 100% of our musts, don't let that stop
+  you from applying — we'd still love to hear from you.
+
+  Please submit your CV in English.
+
+  👋 Not quite the right role?
+
+  Join the Nivoda Talent Pool and we'll reach out when
+  something that's a better fit comes up.
+industries:
+  - eCommerce
+  - Fintech
+  - Logistics
+  - Other
+  - Retail
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-11
+url: "https://builtin.com/job/senior-ai-ml-engineer/11609910"
+source: Built In

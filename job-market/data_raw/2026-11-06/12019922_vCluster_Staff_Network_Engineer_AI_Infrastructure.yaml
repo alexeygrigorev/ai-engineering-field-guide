@@ -1,0 +1,166 @@
+job_id: 12019922
+title: Staff Network Engineer (AI Infrastructure)
+company: vCluster
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  As a Staff Network Engineer at vCluster Labs, you aren't
+  just configuring switches; you are building the automation
+  logic that configures them. AI Clouds run on InfiniBand and
+  high-speed Ethernet fabrics that most teams still wire up by
+  hand, one customer at a time. You will build the automation
+  that turns that fabric into repeatable provisioning logic.
+  You start in a small R&D group alongside our CTO and grow
+  into owning this area as it becomes a core part of our
+  platform.
+
+  As a Staff Network Engineer, your role will include:
+
+  - Fabric automation: You will design and build the systems
+    that automatically provision and configure NVIDIA switches
+    and InfiniBand fabrics, including integration with NVIDIA
+    UFM. Manual, per-customer switch setup is the thing you
+    are replacing.
+  - Network config management and sync: You will build the
+    control loop that keeps switch, VLAN, and VXLAN state
+    consistent with what our platform intends, detects drift,
+    and reconciles it safely in production.
+  - NAT gateway and L4 load balancing: You will build the
+    gateway and load balancing layer that tenant clusters
+    depend on for connectivity, with failover designed in from
+    day one rather than bolted on later.
+  - Scale and failure engineering: You will define how our
+    network layer behaves at large scale: BGP route table
+    limits, convergence, failover, and what happens when a
+    link, switch, or gateway dies under real AI workloads.
+  - Customer Zero for AI networking: You will run your
+    automation on real AI Cloud environments, bring back what
+    breaks, and turn hard-won operational lessons into product
+    behavior our customers never have to think about.
+  - Technical direction: You will help decide what we build
+    versus integrate with partner solutions, write the design
+    and requirements docs, and set the standards for how
+    networking works across vCluster products.
+
+  This role could be a fit for you if you bring:
+
+  - You have built network automation, not just operated
+    networks: You have shipped software that configures
+    switches, routers, or load balancers programmatically,
+    ideally as part of a product or internal platform other
+    teams relied on.
+  - NVIDIA networking experience: Hands-on work with NVIDIA UFM,
+    NVIDIA Spectrum or Quantum switches, Cumulus Linux, or
+    NVUE, including programming against their APIs.
+  - Deep fabric fundamentals: Strong command of InfiniBand,
+    VLAN, VXLAN and EVPN, and BGP, including how they behave
+    and fail at production scale.
+  - Production scale scars: You have run networks at real
+    production scale, seen them break, and helped fix the root
+    cause with automation rather than runbooks.
+  - Software engineering ability: You write production code in
+    Go or Python, use version control and code review as a
+    matter of course, and think of network config as code.
+
+  Bonus points for:
+
+  - AI networking depth: Experience tuning fabrics for GPU
+    training or inference workloads, such as RoCEv2,
+    congestion control, rail-optimized topologies, or
+    Spectrum-X.
+  - AI Cloud or hyperscaler background: You helped build network
+    automation at a GPU cloud, hyperscaler, or large CDN.
+  - Load balancer and gateway internals: Experience building L4
+    load balancers or NAT gateways, including with eBPF/XDP or
+    DPDK.
+  - Open source: Contributions to networking or Kubernetes
+    projects such as SONiC, FRRouting, Cilium, or MetalLB.
+
+  About vCluster Labs
+
+  We're the #1 platform for AI infrastructure, trusted by the
+  world's fastest-growing AI cloud builders. We're a venture-
+  backed startup that's raised over $28M from top-tier
+  investors including Khosla Ventures (first investor in
+  OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-
+  growth phase looking for motivated people to join our team.
+  Our headquarters are in San Francisco (Salesforce Tower),
+  but our team is distributed around the globe with a remote-
+  first culture.
+
+  We give AI Cloud providers and AI factories a hyperscaler-
+  like experience on their own GPU infrastructure. Our
+  platform runs the full stack an operator needs, from bare
+  metal provisioning and node lifecycle management up through
+  managed Kubernetes, Slurm, Ray, and inference clusters, so
+  they can turn raw GPUs into cluster products they can sell
+  in days instead of spending 12+ months building it
+  themselves. Today we power over 100,000 GPUs and 1 million
+  CPUs across 50+ AI clouds and Fortune 500 companies, backed
+  by a team of 40+ infrastructure engineers who build
+  alongside our customers rather than just shipping them
+  software.
+
+  We're the company behind vCluster, the open source
+  technology for tenant isolation on Kubernetes, with 11,000+
+  GitHub stars and 40M+ tenant clusters created since 2021.
+  Open source is part of our DNA. At KubeCon North America
+  2025, we launched our Infrastructure Tenancy Platform for
+  AI, a Kubernetes-native framework built for running AI, ML,
+  and GPU-intensive workloads anywhere, with an NVIDIA-
+  validated reference architecture for DGX systems.
+
+  Benefits
+
+  We offer the following benefits:
+
+  - Competitive Salary: We offer a competitive compensation
+    package, including equity.
+  - Premium Insurance: Health, dental, vision, and life
+    Insurance, including plans for you and eligible dependents
+    (benefits vary depending on country).
+  - Flexible Working Schedule:  You have a doctor’s appointment
+    or need to head to the supermarket to get groceries at
+    2pm? We won’t have an issue with that. To us, results
+    matter more than clocking in and out at the same time
+    every day.
+  - Workplace Flexibility:  We’re very flexible about where you
+    work. We know things can change in life and we’re happy to
+    adjust the work environment for you along the way.
+
+  Culture & Values
+
+  At vCluster Labs, we value and stand for:
+
+  - Make it Happen: We have a relentless bias for action and the
+    grit to push through obstacles. We do whatever it takes to
+    figure it out, put in the work, and ruthlessly prioritize
+    the actions that drive measurable impact for the business.
+  - Own the Outcome: We understand that our responsibility
+    doesn't end when a task is checked off; it ends when the
+    value is delivered. We connect our daily individual
+    actions to the broader success of the company and our
+    customers.
+  - Create Wow: We measure success by the experience we
+    generate, both inside and outside the company. For our
+    customers, this means impressive speed and intuitive
+    experiences. For our team, this means going the extra mile
+    to support one another and to continuously drive each
+    other to new heights.
+  - Open Source, Open Mind: We are actively contributing to and
+    maintaining open-source projects. Internally, we foster
+    meritocracy — the strongest ideas win, no matter who or
+    where they come from.
+  - Build Tomorrow’s Standards, Intentionally: We don't just
+    ship software; we define the state-of-the-art of tomorrow.
+    We are fearless in tearing down old approaches to build
+    something better, but we are disciplined in how we do it
+    because we know our users rely on our technology to run
+    mission-critical infrastructure platforms.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-02
+url: "https://www.builtinla.com/job/staff-network-engineer-ai-infrastructure/12019922"
+source: Built In

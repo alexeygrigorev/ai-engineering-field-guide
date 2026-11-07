@@ -1,0 +1,141 @@
+job_id: 12035943
+title: Lead Engineer, AI Accounting
+company: Exponent
+location: New York, USA
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  About Exponent
+
+  Exponent is a financial platform built for franchise and
+  multi-location restaurant operators. We offer three
+  integrated products: financing programs including a charge
+  card, acquisition and build-out loans, and an AI-powered
+  Accountant. Operators get one place to manage spend, get
+  growth capital and automate their financial operations. We
+  have secured significant equity and credit capital, and
+  we're backed by leading institutional investors and family
+  offices who run large franchise portfolios.
+
+  The role
+
+  You'll own core systems in our AI Accountant, built on Ruby
+  on Rails. It pulls in an operator's POS, banking, payroll
+  and processor data, classifies and reconciles it, and
+  automates the monthly close.
+
+  This is a full-stack role with a focus on backend
+  architecture. You'll report to our Head of AI Accounting &
+  Engineering, on a small, experienced team that ships to
+  production multiple times a day. It's hands-on IC work, with
+  a path to leading engineers as the team grows.
+
+  What you'll do
+
+  - Own systems end to end. Design, build, ship and run systems
+    in production, from schema to UI to deploy to on-call. You
+    own what you build after it goes live.
+  - Shape the backend architecture. Make the calls on how the AI
+    Accountant's data, jobs and services fit together as it
+    grows.
+  - Make unreliable data reliable. Integrate with difficult
+    third-party APIs. Build ingestion that is idempotent by
+    default (deduplication, safe replay, historical backfill),
+    so any source can be re-pulled and re-processed without
+    corrupting the ledger.
+  - Keep every account in sync. Own the background job system
+    that keeps thousands of accounts in sync: scheduling,
+    locking, retries, failure handling, and the monitoring
+    that tells us when a sync quietly stopped. A stuck job is
+    a product bug, not an ops chore.
+  - Put LLMs and ML into the product path. Models already do
+    classification and reconciliation in the product, and
+    we're taking it from build to first pilots. That's when
+    the real decisions get made about output validation,
+    confidence thresholds, fallbacks and failure handling.
+    You'll make them, and make a probabilistic component
+    behave inside a system that has to be deterministic where
+    it counts.
+  - Help build the company. Small team, broad scope. Every
+    engineer owns what they ship and uses judgment instead of
+    waiting for direction. You'll learn how our technology
+    helps operators move faster and run better.
+
+  The ideal candidate
+
+  - You ship fast. You've taken a feature from idea to
+    production in a week. You'd rather ship a small thing this
+    week than a big thing next month.
+  - You know when to slow down and focus on the big thing.
+    Ledgers, money movement and anything a customer trusts us
+    with get the time they need.
+  - Thoughtful critique makes you better. You ask for review
+    early, take hard feedback well and give it with care.
+  - You make the people around you smarter. You share what you
+    know, say "I don't know" without hesitating, and work hard
+    at explaining things clearly.
+  - You want to build something new. You'd rather shape a
+    product early than maintain a finished one, and having no
+    playbook appeals to you.
+  - Quality is part of every step. Fast means a smaller scope,
+    not rougher work. Tests, error states and the words an
+    operator reads all count from the start.
+
+  Requirements
+
+  - 5+ years of engineering, with end-to-end ownership of
+    systems in production
+  - Full-stack experience, with depth on the backend
+  - Deep experience in a server-side framework: Rails, Django,
+    Phoenix, TypeScript or similar
+  - Expertise in AI-assisted development: you use AI tools in
+    your daily work and know where they help and where they
+    don't
+  - PostgreSQL: schema design, indexing, transactional
+    correctness
+  - Integrating with unreliable third-party APIs: thin docs, no
+    webhooks, surprise format changes, duplicate or partial
+    data
+  - Idempotent data ingestion (deduplication, replay, backfill)
+    and background job infrastructure (scheduling, locking,
+    retries, failure handling)
+
+  Strongly preferred
+
+  - Fintech experience, or anywhere getting money math right was
+    the job
+  - Ruby on Rails experience. It doesn't need to be recent
+  - POS or restaurant data: Square, Toast, Qu, Revel, delivery
+    platform payouts, processor settlement files
+  - Accounting platforms: QuickBooks Online, Sage Intacct,
+    NetSuite, Restaurant365
+  - Financial data aggregators: Plaid, Rutter, Stripe
+
+  Nice to have
+
+  - Production LLM experience: LLMs in a product path, including
+    output validation and failure handling
+  - Ledger, double-entry or reconciliation system design
+  - Classification models with measurable evaluation
+  - CSV and file-based import pipelines at scale
+
+  The details
+
+  - $160,000–$200,000 base salary, commensurate with experience,
+    plus equity
+  - Hybrid, based at our Flatiron office in New York: at least 2
+    days a week in the office, 3+ preferred. Commuting in from
+    NJ, Westchester, Connecticut, Long Island or Philly works.
+  - Benefits: PTO, healthcare, HSA/FSA, 401(k)
+
+  How to apply
+
+  Email careers@exponentfi.com with a short note on why this
+  role interests you.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Financial Services
+posted_date: 2026-11-03
+url: "https://builtin.com/job/lead-engineer-ai-accounting/12035943"
+source: Built In

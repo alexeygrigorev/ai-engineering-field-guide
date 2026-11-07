@@ -1,0 +1,54 @@
+company:
+  name: Trust Wallet
+  stage: null
+  focus: Self-custody Web3 crypto wallet
+position:
+  title: Lead AI Engineer (LLM & Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns LLM agent workflows including tool
+      calling, RAG, context management, and evaluation of model
+      output quality in production. This is directly shaping model
+      behavior, with LLM/agent components throughout, so ai-first.
+  responsibilities:
+  - Design, build, and maintain multi-turn LLM conversation and agent systems
+  - Build evaluation sets, regression suites, and define success criteria with Product,
+    Design, and QA
+  - Diagnose root causes of failures across model, tools, knowledge, and backend layers
+  - 'Own production reliability: retries, graceful degradation, async jobs, traceability'
+  - Shape product and technical decisions on feasibility, cost, and risk
+  - Track real-world post-launch impact and document handover
+  use_cases:
+  - LLM-powered wallet assistant with multi-turn conversation
+  - Tool calling and knowledge retrieval for crypto asset management
+  - Human handoff in agent conversations
+  - Production LLM feature reliability and monitoring
+  skills:
+    languages: [Go]
+    domains: []
+    web: [APIs]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Agents, Agentic Workflows, Function Calling, RAG, LLMs, Prompt Engineering,
+      LLM Evaluation]
+    ops: [Monitoring]
+    other: [Web3]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11476996'
+  location: CAN
+  locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-11-06T11:56:54.142911'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

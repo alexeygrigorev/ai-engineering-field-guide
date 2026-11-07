@@ -1,0 +1,53 @@
+company:
+  name: Luma Health
+  stage: null
+  focus: Patient engagement and care access platform for healthcare
+position:
+  title: Sales Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and prototypes customized AI agent
+      workflows (conversation flows, escalation paths) for voice
+      and messaging AI agents at customer sites, akin to a Forward
+      Deployed/Presales Engineer adapting agentic systems. Shaping
+      agent flows counts as ai-first.
+  responsibilities:
+  - Deliver live demonstrations of voice and messaging AI agents to clinical, operational,
+    and IT audiences
+  - Run discovery with healthcare organizations to map workflows and connect pain
+    points to value
+  - Design, configure, and prototype customized AI-enabled workflows including conversation
+    flows and escalation paths
+  - Explain integration architecture and concepts such as HL7, FHIR, and webhooks
+    to mixed audiences
+  - Respond to RFPs and RFIs independently
+  - Provide technical guidance to the sales team and help shape the go-to-market story
+    for AI offerings
+  - Partner with Product Development to relay customer feedback and hand off workflow
+    documentation to Delivery
+  use_cases:
+  - AI voice and messaging agents for patient engagement in healthcare
+  - Appointment scheduling and care access automation
+  - Patient messaging and conversation automation with escalation paths
+  - EHR-integrated AI workflows for healthcare organizations
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [HL7, FHIR, EHR Integration, RFP/RFI Response, Workflow Automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11607078'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:19:31.876672'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

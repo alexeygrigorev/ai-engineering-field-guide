@@ -1,0 +1,262 @@
+job_id: 11892618
+title: AI/ML Engineer
+company: Flatworld Solutions
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 4,049 Employees
+description: |
+  Key Responsibilities
+
+  A. LLM & Generative AI Solution Build
+
+  • Design and build LLM-powered components — RAG pipelines,
+  document intelligence, summarisation,
+
+  classification, extraction, and conversational agents —
+  across multiple solution concepts in parallel.
+
+  • Develop agentic workflows using tool calling, multi-step
+  orchestration, and clear guardrails and fallback
+
+  behaviour.
+
+  • Engineer prompts, system instructions, and structured
+  output schemas; version and test them like code.
+
+  • Select the right model for each task across commercial
+  APIs (Anthropic, OpenAI, Google, Azure OpenAI,
+
+  AWS Bedrock) and open-weight models, balancing quality,
+  latency, and cost.
+
+  B. Data, Retrieval & Model Development
+
+  • Build ingestion pipelines for client data: document
+  parsing (PDFs, scans, spreadsheets), chunking
+
+  strategies, embedding generation, and metadata enrichment.
+
+  • Design and tune retrieval — vector search, hybrid (keyword
+  + semantic) search, re-ranking, and query
+
+  rewriting.
+
+  • Build, train, and evaluate classical ML models
+  (classification, forecasting, anomaly detection) where the
+
+  problem calls for them rather than an LLM.
+
+  • Assess client data readiness during discovery and flag
+  quality, volume, or privacy gaps early.
+
+  • Fine-tune or adapt models (e.g. LoRA) only when prompting
+  and retrieval are not enough, backed by a
+
+  clear cost-benefit case.
+
+  C. Evaluation, Quality & Cost Control
+
+  • Build evaluation harnesses for every AI component: golden
+  datasets, automated metrics, LLM-as-judge
+
+  scoring, and human review loops.
+
+  • Measure and reduce hallucinations, retrieval misses, and
+  edge-case failures before anything goes in front
+
+  of a client.
+
+  • Track token usage, latency, and cost per transaction;
+  provide running-cost inputs for solution pricing and
+
+  client ROI models.
+
+  • Implement guardrails: PII redaction, prompt injection
+  defences, content filtering, and output validation.
+
+  D. Deployment, MLOps & Collaboration
+
+  • Package AI services as clean APIs (FastAPI or equivalent)
+  that the Full Stack Engineer can integrate without
+
+  friction.
+
+  • Containerise and deploy AI services to cloud platforms
+  (AWS, Azure, GCP); monitor quality drift, latency,
+
+  and cost in live environments.
+
+  • Support the AI Solutions Lead in pre-sales — assess
+  technical feasibility, answer model and data questions,
+
+  and contribute architecture notes to proposals.
+
+  • Maintain a reusable library of retrieval modules,
+  evaluation scripts, prompt templates, and agent patterns
+
+  so each new engagement starts further along.
+
+  • Document model choices, evaluation results, and known
+  limitations for every build.
+
+  Requirements
+
+  Mandatory Technical Requirements
+
+  The following are non-negotiable for this role:
+
+  • Python: Strong production-grade Python — clean, typed,
+  tested code; async patterns; dependency and
+
+  environment management. [MANDATORY]
+
+  • LLM Application Development: Hands-on experience building
+  on LLM APIs (Anthropic, OpenAI, Google, or
+
+  Azure OpenAI) — prompt design, tool/function calling,
+  structured outputs, streaming, and token and cost
+
+  management. [MANDATORY]
+
+  • RAG & Vector Databases: At least one retrieval-augmented
+  system built end to end — chunking,
+
+  embeddings, vector stores (Pinecone, Qdrant, Chroma,
+  pgvector, or similar), and retrieval tuning.
+
+  [MANDATORY]
+
+  • ML Fundamentals: Solid grounding in supervised learning,
+  evaluation metrics, overfitting, and
+
+  embeddings, with hands-on use of scikit-learn and PyTorch or
+  TensorFlow. [MANDATORY]
+
+  • AI Evaluation: Demonstrated practice of measuring AI
+  output quality with test sets and metrics — not just
+
+  manual spot-checks. [MANDATORY]
+
+  • API Development & Deployment: Ability to expose models as
+  REST APIs, containerise with Docker, and
+
+  deploy to a cloud platform; proficiency with Git.
+  [MANDATORY]
+
+  Strongly Preferred
+
+  • Orchestration Frameworks: LangChain, LangGraph,
+  LlamaIndex, or equivalent; experience with agent
+
+  frameworks and the Model Context Protocol (MCP).
+
+  • Document AI: OCR and document parsing (Azure Document
+  Intelligence, AWS Textract, Unstructured, or
+
+  similar) for messy enterprise documents.
+
+  • Cloud AI Platforms: AWS Bedrock / SageMaker, Azure AI
+  Foundry, or Google Vertex AI.
+
+  • Observability: LLM tracing and evaluation tools such as
+  LangSmith, Langfuse, Arize, or Weights & Biases.
+
+  • Data Engineering: SQL, pandas, and building reliable batch
+  data pipelines.
+
+  Advantageous
+
+  Not required, but a clear differentiator for this role:
+
+  • Voice AI experience — speech-to-text, text-to-speech, and
+  real-time voice agent pipelines with telephony
+
+  integration.
+
+  • Fine-tuning and serving open-weight models (Llama,
+  Mistral, Qwen) with vLLM, TGI, or Ollama.
+
+  • Knowledge graphs, graph-based retrieval, or text-to-SQL
+  systems over enterprise data.
+
+  • Computer vision or multimodal model experience.
+
+  • Awareness of data protection requirements (GDPR, HIPAA,
+  India's DPDP Act) and how they shape AI
+
+  solution design.
+
+  What We Look For (Beyond the Stack)
+
+  • Evidence over enthusiasm — you trust an evaluation score
+  more than a good-looking demo.
+
+  • Pragmatism in model choice: you reach for the simplest
+  approach that works, whether that is a prompt, a
+
+  classifier, or a rule.
+
+  • Cost awareness — you think about what a solution costs to
+  run at 10,000 requests a day, not just whether
+
+  it works once.
+
+  • Ability to explain AI behaviour, limits, and risks in
+  plain language to non-technical colleagues and clients.
+
+  • A GitHub profile, Kaggle record, published work, or side
+  projects that show what you build when nobody
+
+  assigns it.
+
+  Qualifications
+
+  • Bachelor's or Master's degree in Computer Science, Data
+  Science, AI/ML, Statistics, Engineering, or
+
+  equivalent practical experience.
+
+  • 4 – 7 years of hands-on experience in ML or software
+  engineering, including at least 2 years building LLM
+
+  or Generative AI applications.
+
+  • At least one AI solution taken from prototype to live
+  deployment with real users.
+
+  • Prior experience in an AI product company, an IT services
+  AI practice, a startup, or an innovation lab is a
+
+  plus.
+
+  Benefits
+
+  What We Offer
+
+  • Variety — you will build across multiple industries and AI
+  use cases rather than tuning one model forever.
+
+  • Direct line of sight from your models to a real client
+  decision.
+
+  • Access to current commercial and open-weight models, with
+  freedom to pick the right tool for each
+
+  problem.
+
+  • Mentorship from the AI Solutions Lead and exposure to
+  enterprise solutioning and pre-sales.
+
+  • Learning budget for AI/ML upskilling, conferences, and
+  cloud certifications.
+
+  • Competitive compensation with a clear path toward Senior
+  AI Engineer or AI Solution Architect tracks
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-ml-engineer/11892618"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductors and data center AI SoCs
+position:
+  title: GPU Verification Engineer - AI SoC Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is pre-silicon SoC hardware verification (RTL, UVM,
+      emulation) with no shaping of model behavior or output
+      quality. AI appears only as engineering workflow tooling (AI
+      tools, MCP infrastructure) the engineer adopts to work
+      faster, which is explicitly ai-support.
+  responsibilities:
+  - Define and develop scalable and reusable Block/Sub-System/SoC test benches and
+    verification environments
+  - Create and execute SoC verification plans to meet coverage goals and conform to
+    microarchitecture specifications
+  - Run emulation and system simulation models to verify designs, analyze power and
+    performance, and uncover bugs
+  - Replicate, root cause, and debug issues in pre-silicon environments and implement
+    corrective measures
+  - Collaborate with architects, RTL developers, post-silicon, and physical design
+    teams to improve verification
+  - Document test plans and drive technical reviews with design and architecture teams
+  - Mentor and technically lead junior engineers
+  - Drive adoption of AI-assisted engineering workflows using AI tools and MCP infrastructure
+  use_cases:
+  - Pre-silicon functional verification of AI SoCs for Intel data center solutions
+  - System-level design verification of SoC sub-systems and fabric
+  - Power and performance analysis of SoC designs via simulation and emulation
+  - Security verification coverage within test plans
+  skills:
+    genai: [MCP]
+    ml: [Verdi, SystemVerilog, UVM, OVM]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Verilog, Python, Perl]
+    domains: []
+    other: [Make, RTL Design, Computer Architecture, SoC Design, Emulation, VLSI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11983201'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:17:32.564051'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

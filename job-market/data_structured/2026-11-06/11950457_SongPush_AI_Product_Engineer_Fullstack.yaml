@@ -1,0 +1,54 @@
+company:
+  name: SongPush
+  stage: null
+  focus: Creator marketing platform connecting brands and creators
+position:
+  title: AI Product Engineer (Fullstack)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a fullstack product engineer role where AI tools
+      (coding assistants) are used as leverage to read code,
+      understand services, and ship changes across a distributed
+      system. The engineer does not shape any model's behavior —
+      no prompt design, RAG, agent building, or model training is
+      part of the role. Per the edge case rules, using AI coding
+      assistants to do engineering work is ai-support.
+  responsibilities:
+  - Build and maintain the native iOS app in SwiftUI
+  - Develop web frontends in Angular (marketplace) and React (internal tooling)
+  - Work on the Node/TypeScript application server handling booking, scheduling/matching
+    logic, invoicing, and PDF generation
+  - Contribute to a polyglot microservices fleet in Node.js and Go, deployed via Helm
+    to Kubernetes
+  - Operate and improve the CI/CD pipeline with GitLab CI and semver-based releases
+  - Maintain scheduled CronJob workloads such as reminders, payout checks, and stat
+    rollups
+  - Work on the ledger service backing real balances and payouts
+  - Develop the scraper fleet and the growing AWS serverless edge (Lambda, API Gateway,
+    DynamoDB)
+  use_cases:
+  - Creator-brand marketplace with booking, matching, and invoicing
+  - Money movement via a ledger backing real balances and payouts
+  - Platform scraping to gather creator and content data from external platforms
+  - Real-time layer powering marketplace interactions
+  - Internal tooling and integrations on a serverless AWS edge
+  skills:
+    genai: []
+    ml: []
+    web: [Angular, React, Node.js, WebSockets, Microservices]
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS Lambda, API Gateway, AWS S3, AWS]
+    ops: [Kubernetes, Helm, GitLab CI, Docker, Kaniko, CI/CD]
+    languages: [TypeScript, Go, Hack]
+    domains: []
+    other: [SwiftUI, Formance Ledger, Web Scraping]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11950457'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:08:57.370163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

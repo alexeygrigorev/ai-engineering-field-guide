@@ -1,0 +1,44 @@
+company:
+  name: Orion Innovation
+  stage: null
+  focus: Business and technology services and product development
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI models and advances Agentic AI
+      technologies, which involves shaping LLM/agent behavior
+      (agent flows and design), making it ai-first. No classical-
+      only focus is present.
+  responsibilities:
+  - Develop and deploy AI models and algorithms using Python and Azure frameworks
+  - Collaborate within Agile teams to design solutions meeting project requirements
+  - Advance Agentic AI technologies and their practical applications
+  - Optimize data processing workflows to enhance AI performance and accuracy
+  - Conduct testing and validation of AI models for reliability and scalability
+  - Stay updated on AI and cloud technology trends and provide technical insights
+  use_cases:
+  - Agentic AI applications
+  - AI-driven business transformation and product development
+  - AI model deployment for enterprise clients
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11938195'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:03:11.235850'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

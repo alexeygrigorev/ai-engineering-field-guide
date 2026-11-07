@@ -1,0 +1,79 @@
+company:
+  name: Tether.io
+  stage: null
+  focus: Stablecoin and digital finance, plus AI/peer-to-peer data
+position:
+  title: AI Research Engineer (Kernel & Inference Optimization) - 100% Remote Worldwide
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes model internals: writing custom GPU/Metal
+      kernels, quantization, pruning, Flash Attention, KV cache,
+      speculative decoding, and distributed inference techniques.
+      Optimizing a model's own internals is shaping, and LLM
+      components (KV cache, speculative decoding) are named
+      alongside diffusion models, making it ai-first.
+  responsibilities:
+  - Design and deploy model serving architectures delivering high throughput and low
+    latency with optimized memory usage across edge and resource-constrained devices
+  - Build, run, and monitor controlled inference tests in simulated and live production
+    environments, tracking latency, throughput, memory, and error-rate metrics
+  - Identify and prepare high-quality test datasets and simulation scenarios tailored
+    to real-world low-resource deployment challenges
+  - Analyze computational efficiency and diagnose bottlenecks in serving pipelines,
+    addressing batch processing, network delays, and memory usage
+  - Write custom compute shaders and GPU kernels in Metal Shading Language for mobile
+    inference
+  - Design distributed inference systems using Tensor, Pipeline, and Expert Parallelism
+    for massive models on GPU clusters
+  - Collaborate with cross-functional teams to integrate optimized inference frameworks
+    into production edge and on-device pipelines
+  use_cases:
+  - Low-latency, high-throughput inference for AI models on resource-constrained and
+    edge devices
+  - On-device mobile AI inference with custom GPU kernels
+  - Serving multi-modal models integrating text, images, and audio
+  - Distributed inference of massive models on GPU clusters
+  - Memory- and latency-optimized model serving in production environments
+  skills:
+    genai: []
+    ml: [Quantization, PyTorch, NLP, Machine Learning, Neural Networks, Deep Learning,
+      Transformers, Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, Distributed Systems]
+    languages: []
+    domains: [Computer Vision]
+    other: [Metal Shading Language, Flash Attention, KV Cache, Speculative Decoding,
+      Pruning, Tensor Parallelism, Pipeline Parallelism, Expert Parallelism, Diffusion
+        Models, Vision Transformers, GPU Kernel Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11404834'
+  location: Rome, ITA
+  locations:
+  - Rome, ITA
+  - Lisbon, PRT
+  - Milan, ITA
+  - Dublin, IRL
+  - Abu Dhabi, ARE
+  - Lugano, CHE
+  - Bucharest, ROU
+  - Amsterdam, NLD
+  - Barcelona, ESP
+  - Rio de Janeiro, BRA
+  - London, GBR
+  - Andorra la Vella, AND
+  - Warsaw, POL
+  - Madrid, ESP
+  - Brasília, BRA
+  - Bengaluru, IND
+  - ARG
+  - Kuala Lumpur, MYS
+  remote: true
+  extracted_at: '2026-11-06T11:45:20.464363'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

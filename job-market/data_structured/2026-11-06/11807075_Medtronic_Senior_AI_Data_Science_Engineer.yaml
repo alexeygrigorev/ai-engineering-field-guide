@@ -1,0 +1,56 @@
+company:
+  name: Medtronic
+  stage: null
+  focus: Healthcare technology and medical devices
+position:
+  title: Senior AI Data Science Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements prompt engineering
+      strategies and builds AI applications with LLMs, directly
+      shaping model behavior and output quality of LLM-driven
+      features. This makes it ai-first.
+  responsibilities:
+  - Design, develop, and maintain full stack applications using Vue.js, TypeScript,
+    JavaScript, Python, Flask, and REST APIs
+  - Develop and deploy AI-enabled applications using LLMs, prompt engineering, and
+    machine learning models
+  - Design and implement prompt engineering strategies to improve AI feature performance
+    and accuracy
+  - Build enterprise business applications with workflow automation, role-based access
+    controls, and database integrations
+  - Integrate applications with cloud platforms, third-party services, and enterprise
+    systems
+  - Develop and support solutions using PostgreSQL and other relational/non-relational
+    databases
+  - Participate in Agile software development including design, code reviews, testing,
+    CI, and production support
+  - Collaborate with product, engineering, and business stakeholders to deliver scalable
+    solutions
+  use_cases:
+  - Enterprise AI-enabled business applications
+  - Workflow automation solutions
+  - Cloud-integrated enterprise platforms
+  - Operational efficiency improvements for business stakeholders
+  skills:
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    web: [Vue, Flask, REST APIs]
+    cloud: []
+    data: []
+    ml: [Machine Learning]
+    databases: [PostgreSQL, Redis, PostgREST]
+    genai: [LLMs, Prompt Engineering, Generative AI, Anthropic API, Gemini, OpenAI
+        API]
+    ops: [Docker, CI/CD, DevOps]
+    other: [Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11807075'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:16:02.350058'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,298 @@
+job_id: 11600632
+title: Senior AI Engineer
+company: FutureFit AI
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Come join our Data team!
+
+  High velocity, high trust, and high impact with a will to
+  win.
+
+  If that resonates deeply with you, this could be your next
+  career move. We're seeking someone who leads with humility,
+  pursues audacious goals, and is motivated by meaningful
+  impact on people and the world.
+
+  At FutureFit AI, our core mission is to help more people get
+  to better jobs faster and cheaper, with a specific focus on
+  those facing barriers to opportunity. Our work helps resolve
+  the growing issue of economic inequality, ensuring that no
+  one is left behind in the future of work. Our AI-powered
+  platform brings efficiency and insight to workforce
+  development, replacing outdated systems and unlocking human
+  potential at scale.
+
+  Ready to make an impact? Apply today.
+
+  Important note: Data shows that men typically apply when
+  meeting 3/10 requirements, while women often wait until it's
+  10/10. We encourage you to apply if you see a strong (not
+  necessarily perfect) fit.
+
+  Your Role
+
+  We're seeking a Senior AI Engineer to join our team.
+
+  You will build the AI products that sit directly between a
+  job seeker and their next, better job. That means LLM-based
+  systems people actually rely on: chat-based coaching that
+  meets someone where they are, agentic workflows that carry
+  out real steps on a person's behalf (completing an
+  eligibility form, assembling an application), and
+  orchestration that pulls the right context from case
+  management systems and other data sources so those
+  interactions are accurate and grounded.
+
+  The centerpiece of this role is our coaching products. We
+  want to tell a job seeker not just what jobs exist, but
+  which specific next step is most likely to move their life
+  forward, grounded in evidence we can defend: transitions we
+  have observed in labor market data, and interventions we
+  have measured as causally lifting wages and lifetime
+  earnings. You will own both halves: establishing what the
+  evidence supports, and the engineering that turns it into a
+  product a person can use.
+
+  This is a hands-on, high-ownership role on a small team. You
+  will partner closely with Engineering, Product, and the VP
+  of Data & AI, and you will have wide latitude to decide how
+  these systems get built.
+
+  What You'll Own
+
+  - LLM product development: Design, build, and ship LLM-based
+    product experiences end to end: conversational coaching,
+    agentic workflows that complete multi-step tasks for a
+    user, and the tool use and orchestration layers underneath
+    them.
+  - Coaching and pathways, grounded in evidence: Build the
+    products that guide a job seeker to their next best step,
+    and do the analysis that earns those recommendations:
+    observed career transitions, causal impact on wages and
+    lifetime earnings, and an honest assessment of what our
+    data can and cannot claim.
+  - Evaluation and quality: Own how we know our AI is any good.
+    Build the eval harnesses, offline and online quality
+    measurement, regression tracking, and human-in-the-loop
+    review that let us ship fast without shipping something
+    harmful or wrong.
+  - Applied ML beyond LLMs: Build predictive, classification,
+    and ranking models when that is the right tool for the
+    product problem, and have the judgment to know when it is.
+  - Data engineering for AI: Prepare, label, govern, and
+    maintain the pipelines and knowledge sources our AI
+    systems depend on, so retrieval and reasoning are grounded
+    in data we trust.
+  - Integration engineering: Connect our AI systems safely to
+    internal tools, databases, SaaS products, case management
+    systems, and enterprise workflows, with the auth,
+    guardrails, and failure handling our customers'
+    environments demand.
+
+  Where This Role Can Go
+
+  This role carries real influence over how we build. You will
+  help shape the patterns our AI work runs on: how we prompt,
+  how we evaluate, and how we decide what an agent is allowed
+  to do on someone's behalf. You will do it while building
+  brand new products, with room to show technical leadership
+  across the team.
+
+  From there, the path is yours to steer: deeper technical
+  leadership over our AI platform, or broader ownership of the
+  coaching and pathways products themselves. What matters most
+  to us is a willingness to learn, adapt as the product
+  changes, and stay open to unfamiliar work, and we'll build
+  the path with you.
+
+  Required Experience
+
+  - Strong applied ML/AI engineering experience (roughly 5+
+    years), with a track record of shipping systems into real
+    products used by real people
+  - Demonstrated LLM product experience: you have built and
+    shipped LLM-based features to production (not prototypes),
+    including prompt engineering, agentic workflows, tool use
+    and function calling, retrieval, and the orchestration
+    that holds it together
+  - Real evaluation discipline: you know how to measure whether
+    an LLM system is working. You have built evals, defined
+    quality metrics for open-ended output, caught regressions
+    before users did, and can speak concretely about where
+    your systems failed and how you found out
+  - Classical ML depth: solid grounding in machine learning
+    fundamentals, with hands-on experience building and
+    rigorously evaluating predictive or classification models.
+    This is a firm criterion: we need someone who reaches for
+    an LLM because it is right, not because it is the only
+    tool they have
+  - Fluency in Python and SQL, with real comfort in production
+    codebases
+  - Experience building the data and integration foundation your
+    AI depends on: ingestion and transformation pipelines,
+    labeling, knowledge sources, and governance, plus
+    connecting to external and enterprise systems (APIs,
+    databases, SaaS platforms, third-party data providers)
+    despite unreliable delivery, inconsistent quality, and
+    auth complexity
+  - Sound instincts about safety and guardrails in a
+    consequential domain. Our users are navigating benefits,
+    eligibility, and career decisions, and a confidently wrong
+    answer has a real cost
+  - Clear communication: you can explain a model, an agent's
+    behavior, or an evaluation result and its tradeoffs to a
+    non-technical audience
+
+  Bonus Points
+
+  - Experience with AWS and SageMaker, or building and deploying
+    AI systems on AWS more broadly
+  - Experience with jobs-and-skills, HR, or labor market data,
+    or with skills/occupation frameworks such as O*NET or ESCO
+  - Experience integrating with case management systems,
+    government systems, or other public-sector data
+    environments
+  - Experience with recommender systems, ranking, or search at
+    scale
+  - Experience with retrieval-augmented generation at production
+    scale, including retrieval quality evaluation
+  - Experience with labor economics, program evaluation, or
+    measuring the impact of workforce interventions
+  - Publications, talks, blog posts, or open source work showing
+    your depth in AI or ML engineering
+
+  Our Tech Stack for Data & AI
+
+  - Languages: Python, SQL
+  - AI and LLM: modern LLM and agent tooling, including agent
+    orchestration frameworks (for example, LangChain or
+    LangGraph), vector search, and RAG tooling
+  - Machine learning and NLP: scikit-learn, modern NLP and
+    embedding tooling, AWS SageMaker
+  - Orchestration and transformation: Airflow, dbt
+  - Storage and warehousing: PostgreSQL, Redshift, MongoDB
+  - Cloud: AWS
+  - Visualization and reporting: Looker, Quicksight
+
+  Your Education
+
+  Your alma mater isn't our focus. Your grit, hunger, and
+  drive are. If you learn continuously, tackle challenges
+  head-on, and know your strengths and gaps intimately, you're
+  our person.
+
+  Location
+
+  Remote across the US and Canada. We are open to candidates
+  living anywhere in either country, with at least 5 to 6
+  hours of daily overlap with our EST-based team required. For
+  candidates living in Toronto, our office is conveniently
+  located at 325 Front St West (a short walk from Union
+  Station), and you are welcome to drop by, though it is
+  entirely optional and not a hybrid requirement.
+
+  Travel Expectations
+
+  Although this role is remote, you may be expected to travel
+  up to once per quarter for off-sites and team gatherings.
+
+  Compensation
+
+  The base salary range for this role is USD $150,000 to
+  $185,000 for candidates based in the United States and CAD
+  $130,000 to $165,000 for candidates based in Canada,
+  benchmarked to the middle of the market for comparable
+  venture-backed companies. Where you land in the range
+  reflects your applied experience and other criteria
+  established by the hiring committee.
+
+  Hiring Journey
+
+  At FutureFit AI, our hiring process is designed to help you
+  assess whether this role and our culture are the right fit
+  based on your unique skills, mindset, and experiences. We
+  move fast and work with intensity, so we want you to get a
+  real sense of that from the start.
+
+  Each journey includes a mix of interviews and a performance
+  challenge. For this role, that might look like:
+
+  - Online Application
+  - Initial Screen with our Recruiter
+  - Interview with Hiring Manager
+  - Performance Challenge
+  - Final 1:1 Interviews
+  - Final Decision
+
+  Generally, this entire process takes around 6 weeks,
+  although the timing can vary due to specific candidate
+  circumstances.
+
+  Ready to shape the future of work?
+
+  At FutureFit AI, we're not just building a company—we're
+  transforming how talent and opportunity connect. Join our
+  driven team united by a commitment to job seekers and the
+  workforce ecosystems we serve.
+
+  Company Snapshot:
+
+  - Team: 30-50 across US and Canada (hubs in NYC and Toronto)
+  - Customers: Workforce development agencies and
+    intermediaries, government agencies, employers
+  - Industry: SaaS/AI technology
+  - Funding: Bootstrapped 0-1, then raised funding led by JP
+    Morgan
+  - Structure: Growth, Customer Success, Product, Engineering,
+    Data, People & Culture, Finance & Operations
+
+  Our Core Principles
+
+  - Be Curious
+  - Drive to Outcomes
+  - Raise the Bar
+  - Speed Matters
+  - Own It
+  - We Over Me
+
+  Use of AI in Hiring
+
+  At FutureFit, we use artificial intelligence (AI) tools to
+  make our hiring process more efficient, consistent, and
+  equitable—never to replace human judgment. We use AI in the
+  following ways:
+
+  - Screening support: AI may help us compare applications
+    against the skills and experience required for a specific
+    role. These skills are defined by the hiring team for each
+    position. A human reviews each application, with the AI
+    assessment as just one input.
+  - Interview support: In some interviews, we may use an AI
+    notetaker to summarize the discussion so interviewers can
+    focus on being present in the conversation.
+  - Insights, not decisions: AI provides data points to support
+    our team’s evaluation but does not make or recommend final
+    hiring decisions. Every hiring decision is made by people.
+
+  We will ensure that individuals with disabilities are
+  provided reasonable accommodation to participate in the job
+  application or interview process, perform essential job
+  functions, and receive other benefits and privileges of
+  employment. Please contact us to request an accommodation. ©
+  FutureFit AI All rights reserved, we are proud to be an
+  equal opportunity workplace. We celebrate diversity and are
+  committed to creating an inclusive environment for all
+  employees. We do not discriminate on the basis of race,
+  religion, color, gender identity, sexual orientation, age,
+  disability, veteran status, or other applicable legally
+  protected characteristics. We encourage people of different
+  backgrounds, experiences, abilities, and perspectives to
+  apply.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-09
+url: "https://www.builtinla.com/job/senior-ai-engineer/11600632"
+source: Built In

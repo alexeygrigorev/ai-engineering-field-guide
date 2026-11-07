@@ -1,0 +1,65 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Staff AI Engineer (Remote Eligible)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM systems directly: foundation
+      model training, LLM inference, agents and multi-agent
+      workflows, guardrails, model evaluation, and model
+      routing/orchestration. This is shaping model behaviour and
+      output quality of LLM/agent components.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents and multi-agent workflows, similarity search,
+    guardrails, and model evaluation
+  - Invent and introduce state-of-the-art foundation model optimization techniques
+    to improve scalability, cost, latency, and throughput of production AI systems
+  - Own the design and integration of model routing, caching, and orchestration systems
+    for hybrid and multi-model workloads
+  - Set technical direction for enterprise-wide AI architecture, unifying tooling,
+    observability, and deployment standards
+  - Partner with cross-functional teams of engineers, research scientists, TPMs, and
+    PMs to deliver AI-powered products
+  - Champion responsible AI principles across system design, embedding transparency,
+    reproducibility, and fairness-by-design
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  - Drive internal education, mentorship, and best practices through architecture
+    councils and AI guilds
+  use_cases:
+  - AI-powered banking customer experiences, real-time question answering
+  - Fraud detection and informing customers about unusual charges
+  - Foundation model training and LLM inference infrastructure for internal teams
+  - Agent and multi-agent workflow systems for enterprise products
+  - Model routing, caching, and orchestration for multi-model production workloads
+  skills:
+    genai: [Agentic Workflows, LLMs, Guardrails, Model Evaluation]
+    ml: [PyTorch, Hugging Face]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, CUDA, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11486168'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:57:53.959829'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

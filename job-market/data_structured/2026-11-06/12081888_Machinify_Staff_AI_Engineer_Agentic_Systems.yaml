@@ -1,0 +1,57 @@
+company:
+  name: Machinify
+  stage: null
+  focus: |-
+    AI-powered healthcare payment integrity and claims
+    intelligence
+position:
+  title: Staff AI Engineer | Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent architecture, tool/context design, RAG
+      vs direct-context decisions, evals, and production
+      reliability for LLM claim-audit agents — squarely shaping
+      LLM/agent behavior. It involves LLMs and agent systems, not
+      classical ML only.
+  responsibilities:
+  - 'Own the architecture of claim-audit agents: agent loop, tools, context strategy,
+    and evaluation harness'
+  - Set evaluation strategy with clinical and coding experts; build eval infrastructure
+    and prove fixes move metrics
+  - Engineer long, noisy medical record contexts with citation-grounded findings and
+    structured outputs
+  - Lead multi-engineer projects and make model choice, build-vs-buy, and cost/latency/accuracy
+    trade-off calls
+  - 'Run agent systems in production: reliability, observability, and cost control
+    for LLM workloads'
+  - Mentor engineers, review designs and code, and set standards for agent design
+    and evals
+  use_cases:
+  - End-to-end auditing of medical claims using agentic AI
+  - Reasoning over medical coding and clinical guidelines from raw medical records
+  - Producing citation-grounded, defensible findings that withstand clinical and regulatory
+    review
+  - Reliable tool calling and structured outputs on long, noisy healthcare documents
+  skills:
+    genai: [Agentic Workflows, AI Agents, Fine-Tuning, LLM Evaluation, RAG, Prompt
+        Engineering, OpenAI API, Anthropic API, LangGraph, Claude Code, Codex, Structured
+        Outputs, Function Calling, Embeddings, Multi-Agent Systems, LLMs, Gemini]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring, Git]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Pydantic, JSON Schema, OCR, Vision-Language Models, Multimodal Retrieval]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12081888'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:52:23.658673'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

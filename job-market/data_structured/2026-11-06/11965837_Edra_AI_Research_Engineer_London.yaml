@@ -1,0 +1,52 @@
+company:
+  name: Edra
+  stage: Series A
+  focus: AI agents that learn and run enterprise processes
+position:
+  title: AI Research Engineer (London)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: building context-
+      learning libraries, agentic workflows, continuous learning
+      loops that improve prompts, and evaluation frameworks. Clear
+      LLM/agent components make it ai-first.
+  responsibilities:
+  - Build and extend the core context-learning library, turning customer problems
+    into reusable platform capabilities
+  - Design and implement LLM-powered systems and agentic workflows from concept to
+    production
+  - Build agentic features for autonomous knowledge base management
+  - Build continuous learning loops using human corrections and production outcomes
+    to improve knowledge and prompts
+  - 'Build reliability and confidence systems: evaluation frameworks, confidence scoring,
+    escalation logic'
+  - Architect async, scalable systems for complex AI orchestration
+  - Contribute to AI strategy and product direction
+  use_cases:
+  - Reverse-engineering enterprise processes from knowledge bases, tickets, logs,
+    and agent traces
+  - Autonomous knowledge base editing and maintenance
+  - Self-improving agents that learn from human corrections and production outcomes
+  - Confidence scoring for deciding when to automate versus escalate to humans
+  - Running enterprise operations with learned process instructions
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, Context Engineering, Prompt
+        Engineering, LLM Evaluation, AI Agents, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11965837'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:13:20.447288'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

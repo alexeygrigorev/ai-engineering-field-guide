@@ -1,0 +1,54 @@
+company:
+  name: Global Software Solutions Group
+  stage: null
+  focus: Software development for digital banking products
+position:
+  title: Sr. Android Engineer - AI/LLM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer designs LLM-powered features directly:
+      token/context management, MCP-based integrations, agentic
+      workflows, multi-agent orchestration, and AI error handling
+      in production apps. This is shaping LLM behavior, so the
+      role is ai-first.
+  responsibilities:
+  - Design, develop, and maintain large-scale multi-module Android applications for
+    digital banking
+  - Design and optimize complex Gradle build architectures and improve build performance
+  - Develop high-performance UI using Jetpack Compose
+  - Diagnose and resolve memory issues, ANRs, crash, and stability problems including
+    Firebase Crashlytics analysis
+  - Integrate LLM APIs and AI capabilities into production Android applications
+  - Work with MCP frameworks and MCP-based integrations in production environments
+  - Implement token management, context handling, agentic AI workflows, and multi-agent
+    orchestration
+  - Implement AI error recovery and failure-handling strategies
+  use_cases:
+  - Digital and mobile banking applications
+  - LLM-powered mobile features and AI assistant experiences
+  - Agentic AI workflows and multi-agent orchestration on mobile
+  - Production app stability, crash analysis, and performance optimization
+  - Scalable modular Android platforms for financial services
+  skills:
+    genai: [MCP, LLMs, Anthropic API, OpenAI API, Agentic Workflows, Multi-Agent Systems,
+      Token Management]
+    ml: []
+    web: [Protocol Buffers]
+    databases: [Room]
+    data: []
+    cloud: [Firebase Crashlytics]
+    ops: [Gradle]
+    languages: [Kotlin]
+    domains: []
+    other: [Android Development, Jetpack Compose, Hilt, Dagger, Kotlin Coroutines,
+      Kotlin Flow, DataStore, OkHttp, WorkManager, Automated Testing, Memory Profiling,
+      Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11898374'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:53:51.193995'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

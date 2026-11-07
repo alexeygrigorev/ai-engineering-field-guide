@@ -1,0 +1,62 @@
+company:
+  name: CVS Health
+  stage: null
+  focus: Retail pharmacy and healthcare services
+position:
+  title: Principal Engineer, Clinical Data and AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs the platform's LLM and rules engines and
+      requires production experience with LLM systems including
+      retrieval, evaluation, and serving — the person shapes LLM
+      behavior and evals, not just consumes an API. AI-assisted
+      development practices are secondary.
+  responsibilities:
+  - Design the clinical data platform architecture on Google Cloud spanning data acquisition,
+    identity resolution, FHIR harmonization, data products, LLM and rules engines,
+    and customer-facing products
+  - Write production code for the platform's most critical and complex components
+    and turn prototypes into reference implementations
+  - Lead practices for AI coding agents including specifications, guardrails, evaluation
+    and human oversight, running pilots to measure delivery impact
+  - Design AI-assisted operations for incident triage, runbook automation, and capacity
+    and cost management with approval gates and audit trails
+  - Design enterprise control conformance including change management, separation
+    of duties, data lineage, and model and prompt governance
+  - Automate collection of audit evidence in partnership with security, privacy, compliance
+    and AI governance teams
+  - Explain complex systems to engineers, product leaders, executives and customers
+    and present technical business cases
+  use_cases:
+  - Turning clinical, claims and document data into insight for patients, providers
+    and payers
+  - FHIR harmonization of healthcare data across systems
+  - LLM and rules engines powering data-driven healthcare products
+  - AI-assisted incident triage, runbook automation and cost management
+  - AI-assisted software development with governed agent practices in a regulated
+    healthcare environment
+  skills:
+    genai: [LLMs, AI Agents, Guardrails, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [BigQuery, Spanner]
+    data: [Dataflow, Pub/Sub]
+    cloud: [GCP, GKE, Vertex AI, VPC Service Controls]
+    ops: [Distributed Systems, Monitoring, Observability]
+    languages: [Python, Go, Java, C#]
+    domains: []
+    other: [FHIR, HL7v2, C-CDA, X12 Claims, OMOP, CQL, TEFCA, Identity Resolution,
+      Master Patient Index, Zero Trust, Threat Modeling, Architecture as Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12080355'
+  location: USA
+  locations:
+  - USA
+  - Home Junction, USA
+  remote: true
+  extracted_at: '2026-11-06T14:51:37.809275'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

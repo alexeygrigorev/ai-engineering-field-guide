@@ -1,0 +1,48 @@
+company:
+  name: Gallatin AI, Inc.
+  stage: null
+  focus: AI logistics infrastructure for national security missions
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and fine-tunes LLMs, uses LangChain and RAG,
+      and applies prompt engineering plus LLM security work, so
+      the engineer directly shapes LLM behaviour. Though it also
+      includes classical ML pipelines, any LLM component makes it
+      ai-first.
+  responsibilities:
+  - Build, own, and deploy an AI model aligned with core product needs
+  - Validate AI-driven product features through real-world testing with warfighters
+  - Establish scalable MLOps pipelines and real-time inference services for training,
+    deployment, and monitoring
+  - Ensure model reliability and uptime through monitoring
+  - Integrate structured, unstructured, batch, and real-time data sources to improve
+    training data quality
+  - Document and share AI/ML best practices and mentor AI/ML talent
+  use_cases:
+  - AI-driven logistics decision-making for national security missions
+  - Real-time inference for logistics decisions in contested environments
+  - Defense operations and humanitarian disaster response support
+  skills:
+    genai: [LLMs, Llama, Anthropic API, Mistral, LangChain, RAG, Fine-Tuning, Prompt
+        Engineering]
+    ml: [PyTorch, TensorFlow, CUDA, Jupyter Notebooks, Hugging Face, Neural Networks,
+      Deep Learning]
+    web: []
+    databases: []
+    data: [Kafka, Airflow, Pandas, dbt]
+    cloud: [AWS Kinesis]
+    ops: [Model Monitoring, Grafana, Kibana, MLOps]
+    languages: [Python, C++, C]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11605420'
+  location: El Segundo, USA
+  extracted_at: '2026-11-06T12:19:23.800715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

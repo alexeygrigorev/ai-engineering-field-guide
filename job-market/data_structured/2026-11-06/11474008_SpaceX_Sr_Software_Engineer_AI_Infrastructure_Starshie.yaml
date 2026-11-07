@@ -1,0 +1,53 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: |-
+    Space launch and satellite constellation for national
+    security
+position:
+  title: Sr. Software Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role hosts, scales, and operates GPU/compute
+      infrastructure and Kubernetes clusters for AI workloads — it
+      never shapes model behaviour (no prompt work, retrieval
+      design, training, or evals). Serving infrastructure for
+      models others build is ai-support.
+  responsibilities:
+  - Manage GPU/CPU infrastructure deployments to Top Secret data centers
+  - Provide GPU-as-a-service support for external customers on bare metal and virtualized
+    platforms
+  - Design, validate, and productize AI cluster solutions at 100k+ GPU scale
+  - Develop automation to deploy and manage on-premise Kubernetes/AI clusters and
+    operating systems
+  - Deploy and manage core infrastructure including databases, monitoring, and distributed
+    storage
+  - Monitor and alert supporting systems for high availability
+  - Mentor and train junior engineers
+  use_cases:
+  - National security satellite constellation intelligence data access
+  - GPU-as-a-service for external customers
+  - Large-scale AI cluster (100k+ GPU) infrastructure for classified government data
+    centers
+  - On-premise Kubernetes and compute automation for critical missions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Distributed Databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Terraform, Ansible, Linux, Monitoring, CI/CD, Docker, NVIDIA
+        GPU Deployment Stacks]
+    languages: [Python, C++, Go, Bash]
+    domains: []
+    other: [TCP/IP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11474008'
+  location: Hawthorne, USA
+  extracted_at: '2026-11-06T11:56:26.115346'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

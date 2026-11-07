@@ -1,0 +1,53 @@
+company:
+  name: Allstate
+  stage: null
+  focus: Insurance and protection services
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, agent flows, prompts,
+      and fine-tunes LLMs itself — direct model-behaviour shaping
+      with LLM/agent components, so ai-first.
+  responsibilities:
+  - Design, develop, and maintain backend services and APIs using Java Spring Boot,
+    Node.js, or Python FastAPI
+  - Integrate and deploy Generative AI models (OpenAI, Hugging Face, LangChain) into
+    production
+  - Design solutions leveraging LLMs, Generative AI, Agentic AI, and RAG architectures
+  - Fine-tune and optimize LLMs for specific use cases
+  - Develop intelligent automation solutions improving productivity and operational
+    efficiency
+  - Deploy and manage applications on cloud platforms, preferably Azure
+  - Troubleshoot, optimize, and enhance application performance, scalability, and
+    reliability
+  - Collaborate with product managers, architects, and cross-functional teams on technical
+    solutions
+  use_cases:
+  - Legal knowledge management and knowledge discovery
+  - Claims litigation support and legal service delivery
+  - Intelligent automation for legal operations
+  - Enterprise compliance and regulatory programs
+  - AI-powered enterprise business applications
+  skills:
+    genai: [OpenAI API, LangChain, LLMs, Generative AI, RAG, Fine-Tuning, Prompt Engineering,
+      Embeddings, Semantic Kernel, AI Agents]
+    ml: [Hugging Face]
+    web: [FastAPI, REST APIs, Microservices, React, Angular]
+    databases: [Vector Databases, MongoDB, DocumentDB, SQL Server, SQL, NoSQL]
+    data: [Kafka]
+    cloud: [Azure, Azure OpenAI, Azure ML, Azure AI Search, AWS, EKS]
+    ops: [Kubernetes, Docker, CI/CD, Jenkins, MLOps, Model Deployment, Linux]
+    languages: [Python, Java, Spring Boot, Node.js, JavaScript, TypeScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11667568'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:29:37.778101'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

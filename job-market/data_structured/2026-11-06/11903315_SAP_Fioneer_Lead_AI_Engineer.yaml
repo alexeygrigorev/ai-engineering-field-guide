@@ -1,0 +1,53 @@
+company:
+  name: SAP Fioneer
+  stage: null
+  focus: |-
+    Financial services software and cloud solutions for banking
+    and insurance
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, develops, and prototypes AI-powered
+      solutions for banking customers with a strong focus on
+      Generative AI technologies and enterprise AI architectures,
+      meaning the person shapes model behavior and output quality
+      hands-on. Customer-facing delivery aspects don't change the
+      shaping nature of the work.
+  responsibilities:
+  - Design, develop, test, and deploy AI-powered solutions for banking products
+  - Work directly with customers to understand business needs and translate requirements
+    into AI solutions
+  - Drive customer discussions, workshops, demonstrations, and solution reviews throughout
+    the project lifecycle
+  - Coordinate a small team of AI engineers and support planning and execution of
+    development activities
+  - Contribute hands-on to software development, AI implementation, experimentation,
+    and prototyping
+  - Support rollout and adoption of AI capabilities at customer sites
+  - Identify additional AI use cases and help customers maximize value of AI technologies
+  use_cases:
+  - AI-powered solutions for banking products
+  - Customer-specific AI use cases in banking environments
+  - AI implementation and prototyping in regulated financial services
+  - Enterprise AI architecture adoption in banking
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11903315'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:54:39.370173'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

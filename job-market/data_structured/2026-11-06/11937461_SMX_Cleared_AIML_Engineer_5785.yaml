@@ -1,0 +1,46 @@
+company:
+  name: SMX
+  stage: null
+  focus: Technical services and digital transformation for government
+position:
+  title: Cleared AI/ML Engineer (5785)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering
+      LLMs, designing and developing AI Agents with OpenAI LLMs,
+      and building chatbots. It also trains classical ML models,
+      but LLM/agent involvement makes it ai-first.
+  responsibilities:
+  - Design and develop AI Agents to expedite delivery of business capabilities
+  - Research AI capabilities in Databricks and Palantir to standardize developer usage
+  - Prompt engineer LLMs for the development team to speed analysis and coding
+  - Develop chatbots supporting developer and customer interactions
+  - Train machine learning models to predict outcomes from historical data
+  - Integrate AI capabilities into Dev/Ops pipelines
+  use_cases:
+  - AI agents to accelerate capability development
+  - Developer and customer support chatbots
+  - Predictive analytics from historical data
+  - Anomaly detection on production data
+  - LLM-assisted functional analysis and coding
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLMs, OpenAI API, Conversational AI]
+    ml: [Model Training, Machine Learning, Anomaly Detection]
+    web: []
+    databases: [Relational Databases, NoSQL]
+    data: [Databricks]
+    cloud: []
+    ops: [DevOps]
+    languages: []
+    domains: []
+    other: [Palantir, Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11937461'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:02:55.619065'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,128 @@
+job_id: 11894015
+title: Senior Agentic AI Developer
+company: Coretek Services
+location: Kondapur, IND
+work_type: FULL_TIME
+company_size: 147 Employees
+description: |
+  Coretek is looking for an Agentic AI Developer to build
+  production AI agents for our clients. You'll design and ship
+  systems where an LLM plans, calls tools, and acts against
+  real business systems, then you'll make those systems
+  reliable, evaluated, secure, and affordable enough to run in
+  production. This is a hands-on engineering role in a client-
+  facing consulting environment.
+
+  Responsibilities
+
+  - Design, build, and ship agentic AI applications on Azure:
+    multi-step reasoning, tool and function calling,
+    retrieval, memory, and human-in-the-loop checkpoints.
+  - Implement retrieval-augmented generation pipelines,
+    including chunking strategy, embedding and indexing,
+    hybrid and semantic search, reranking, and grounding with
+    citations.
+  - Integrate agents with client systems through APIs,
+    databases, and Model Context Protocol (MCP) servers,
+    writing the tool definitions and schemas the model depends
+    on.
+  - Build evaluation harnesses and golden datasets, and treat
+    accuracy, groundedness, and task completion as measured
+    numbers rather than impressions.
+  - Instrument agents for production: tracing, token and cost
+    telemetry, latency budgets, failure and fallback paths,
+    and alerting on quality regressions.
+  - Implement guardrails and responsible AI controls, covering
+    prompt injection defense, content filtering, PII handling,
+    output validation, and clear boundaries on what an agent
+    is allowed to do without human approval.
+  - Tune cost and latency through model selection, prompt
+    caching, context management, batching, and routing simple
+    work to smaller models.
+  - Apply engineering discipline to AI code: version control,
+    code review, automated testing, CI/CD, and prompt and
+    model versioning.
+  - Containerize and deploy agent services, owning the build,
+    release, scaling, and runtime configuration of what you
+    ship.
+  - Set technical direction on client engagements and mentor
+    junior engineers, establishing patterns and standards the
+    wider team can follow.
+  - Work directly with clients to turn ambiguous business
+    problems into scoped agent use cases, and be honest about
+    what current models can and cannot do reliably.
+  - Partner with Project Managers, data engineers, and
+    application teams to deliver end to end, and document what
+    you build so others can operate it.
+
+  Requirements
+
+  - At least 7 years in a software, data, or ML engineering
+    role, with a minimum of 2 years building LLM-based or
+    agentic applications that reached real users.
+  - Strong hands-on Python development, with real testing,
+    packaging, and code review practice, not scripting alone.
+  - Practical experience with LLM APIs and agent frameworks,
+    such as Microsoft Agent Framework, Azure AI Foundry, Azure
+    OpenAI, or LangGraph.
+  - Working knowledge of agent design patterns: tool and
+    function calling, structured output, planning and
+    reflection loops, multi-agent handoffs, and knowing when a
+    deterministic workflow beats an agent.
+  - Experience building RAG systems with a vector or hybrid
+    search store, such as Azure AI Search, PostgreSQL with
+    pgvector, or Cosmos DB.
+  - Prompt engineering depth, including system prompt design,
+    few-shot strategy, context window management, and
+    systematic iteration against an eval set.
+  - Hands-on experience with Docker and Kubernetes, including
+    writing production images, managing configuration and
+    secrets, and deploying and scaling workloads on AKS or
+    equivalent.
+  - Experience deploying and operating services on Azure, such
+    as AKS, Container Apps, Azure Functions, or App Service.
+  - Solid API and data fundamentals: REST, async programming,
+    SQL, and JSON schema design.
+  - Git-based workflow and experience shipping through CI/CD.
+  - Excellent communication skills, with the ability to
+    articulate complex technical concepts to diverse
+    audiences, including non-technical stakeholders, and to
+    set realistic expectations about AI capability and risk.
+  - Exceptional analytical and debugging skills, including the
+    ability to diagnose why an agent failed when the failure
+    is non-deterministic and the stack trace is clean.
+  - Strong knowledge and experience in working with customers in
+    a consultative approach in a technical environment.
+
+  Additional Qualifications
+
+  - Experience with Model Context Protocol (MCP) server or
+    client development.
+  - Familiarity with LLM observability and evaluation tooling,
+    such as Azure AI Foundry evaluations, LangSmith, or
+    OpenTelemetry-based tracing.
+  - Familiarity with Azure networking, identity, and security
+    requirements, including Managed Identity, Key Vault, and
+    Private Endpoints.
+  - Experience with fine-tuning, distillation, or small language
+    model deployment.
+  - Experience with Microsoft Fabric, Azure Databricks, or Azure
+    Synapse for the data layer behind AI solutions.
+  - Experience with document intelligence and multimodal inputs,
+    such as Azure AI Document Intelligence, vision, or speech.
+  - Experience in a regulated environment (HIPAA, SOC 2, GDPR,
+    DPDP Act) with auditability and data residency
+    requirements.
+  - Infrastructure as code experience (Terraform, Bicep, or
+    Helm).
+  - Proven ability to manage multiple client projects and
+    deliver high-quality results on time.
+  - Experience in Azure DevOps or GitHub for source control and
+    pipelines.
+industries:
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-agentic-ai-developer/11894015"
+source: Built In

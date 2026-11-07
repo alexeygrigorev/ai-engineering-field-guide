@@ -1,0 +1,58 @@
+company:
+  name: Coditude
+  stage: null
+  focus: Software development and AI product engineering services
+position:
+  title: Senior AI Engineer, Knowledge Graph & GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG/GraphRAG systems, agent workflows,
+      embeddings/reranking, and LLM evaluation pipelines, directly
+      shaping LLM behavior and output quality. LLMs and agents are
+      central, so it is ai-first.
+  responsibilities:
+  - Build production-grade RAG and GraphRAG systems combining LLMs, vector search,
+    knowledge graphs and structured data
+  - Develop LLM workflows using LangChain, LangGraph, LlamaIndex or equivalent frameworks
+  - Build AI agents, tool-calling workflows and stateful AI pipelines including embeddings,
+    semantic search, chunking, reranking and hybrid retrieval
+  - Develop text-to-SQL, text-to-Cypher and natural-language query systems
+  - Build LLM evaluation pipelines and optimise accuracy, latency and cost
+  - Design and work with Neo4j knowledge graphs, including graph modelling and Cypher
+    queries, plus semantic enrichment pipelines
+  - Architect multi-tenant SaaS platforms and scalable APIs in Python (FastAPI) and
+    Node.js/TypeScript
+  - Deploy and operate workloads on AWS and GCP with HIPAA-grade security controls
+  - Lead and mentor a small engineering team and act as primary technical contact
+    for clients (nice to have)
+  use_cases:
+  - RAG and GraphRAG question answering over enterprise datasets
+  - Text-to-SQL and text-to-Cypher natural-language query systems
+  - Knowledge graph construction with entity and relationship extraction for healthcare
+    and enterprise software
+  - AI agents with tool calling and stateful pipelines for data platforms
+  - Computer vision applications
+  - HIPAA-compliant multi-tenant AI SaaS platforms
+  skills:
+    languages: [Python, Cypher]
+    domains: []
+    web: [FastAPI, Node.js, TypeScript, Next.js, React]
+    cloud: [AWS, GCP]
+    data: [Airflow, Data Pipelines, Entity Extraction]
+    ml: [PyTorch, TensorFlow, Computer Vision]
+    databases: [Neo4j, Knowledge Graphs, Vector Search, Qdrant, Pinecone, Chroma,
+      pgvector, PostgreSQL, Redis, SQL]
+    genai: [Generative AI, RAG, LLMs, LangChain, LangGraph, LlamaIndex, AI Agents,
+      Embeddings, Semantic Search, LLM Evaluation, OpenAI API, Anthropic API, Fine-Tuning,
+      Cursor, Claude Code]
+    ops: [Docker, CI/CD, Model Registries]
+    other: [HIPAA Compliance, OAuth, KMS, RBAC, Stripe, OpenCV]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11787549'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:12:25.053855'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

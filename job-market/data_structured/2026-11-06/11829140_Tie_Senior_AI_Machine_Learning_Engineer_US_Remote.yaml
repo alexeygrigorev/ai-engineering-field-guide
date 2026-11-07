@@ -1,0 +1,56 @@
+company:
+  name: Tie
+  stage: null
+  focus: |-
+    Identity resolution and cookieless marketing intelligence
+    platform
+position:
+  title: Senior AI / Machine Learning Engineer (US Remote)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behavior via classical ML (XGBoost,
+      logistic regression, feature engineering, training,
+      evaluation) with no LLM/agent component. Training and
+      evaluating models is shaping, and the targets are classical
+      ML systems (identity resolution, propensity scoring), so it
+      is ml-first.
+  responsibilities:
+  - Design and deploy production ML models for identity resolution, propensity scoring,
+    deliverability, and personalization
+  - Build and maintain feature pipelines across batch and real-time systems
+  - Develop classification models with handling of class imbalance and noisy labels
+  - Integrate ML models with graph databases for real-time inference and identity
+    scoring
+  - 'Own model lifecycle: evaluation, monitoring, drift detection, retraining, and
+    reporting'
+  - Expose models via low-latency APIs and scalable services
+  - Contribute to GPU-accelerated and large-scale data processing for graph computation
+  - Shape ML best practices and tooling across the team
+  use_cases:
+  - Identity resolution across devices and channels
+  - Propensity scoring and personalization
+  - Email deliverability prediction and improvement
+  - Real-time identity scoring on graph data
+  - Marketing intelligence and revenue lift for marketing teams
+  skills:
+    genai: []
+    ml: [XGBoost, scikit-learn, Feature Engineering, Model Training, Model Evaluation,
+      RAPIDS, CUDA]
+    web: [FastAPI, REST APIs]
+    databases: [Neo4j, Graph Databases, Cypher, BigQuery]
+    data: [Pandas, Kafka, Spark, Streaming Data]
+    cloud: [GCP, Vertex AI, Cloud Run, Pub/Sub]
+    ops: [Docker, Kubernetes, GitHub Actions, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11829140'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:20:31.693579'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

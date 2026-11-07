@@ -1,0 +1,57 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: null
+position:
+  title: Senior Machine Learning Engineer, AI Safety
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: post-training (SFT,
+      RLHF/RLAIF), building evaluation/benchmark datasets and
+      models for LLM security and agentic safety, and developing
+      safety training recipes. All core work targets LLMs, making
+      it ai-first.
+  responsibilities:
+  - Develop datasets, specialized models, and algorithms to evaluate and benchmark
+    LLMs across safety tracks (LLM Security, Agentic Safety, Content Safety, Hallucinations,
+    ML Fairness)
+  - Develop training datasets and recipes for pre-training, mid-training, and post-training,
+    including RL environments and teacher models
+  - Research and deploy model and system-level safety techniques beyond post-training,
+    such as Instruction Hierarchy and Risk Detection
+  - Address LLM security risks including backdoors, data poisoning, latent malicious
+    behavior, and structural vulnerabilities
+  - Work on agentic safety for autonomous systems including multi-turn tool-calling,
+    orchestration, and execution risks
+  - Build robust, scalable automated evaluation methodologies for conversational multi-turn
+    use cases
+  - Collaborate cross-functionally with engineers, data scientists, and research teams
+    to scale safety solutions
+  use_cases:
+  - 'LLM security: detecting backdoors, data poisoning, and latent malicious behavior'
+  - 'Frontier alignment risks: deception, manipulation, and loss-of-control scenarios'
+  - Agentic safety for autonomous LLM systems with multi-turn tool calling
+  - Content safety, hallucination mitigation, and ML fairness
+  - Automated multi-turn safety evaluation and benchmarking of frontier models
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, Fine-Tuning, RLHF, Model Training, Machine Learning, Deep Learning,
+      Model Evaluation, Embeddings]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10943737'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:23:21.509616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

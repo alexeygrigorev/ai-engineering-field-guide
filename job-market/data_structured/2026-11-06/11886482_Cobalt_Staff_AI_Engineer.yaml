@@ -1,0 +1,58 @@
+company:
+  name: Cobalt
+  stage: null
+  focus: AI-driven penetration testing as a service
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates LLM agent systems:
+      orchestration, tool use, context/memory management,
+      evaluation frameworks, and model selection/benchmarking.
+      This is directly shaping agent behaviour and output quality,
+      so it is ai-first.
+  responsibilities:
+  - Set technical direction for agent systems across teams, including orchestration,
+    tool use, context and memory management, human oversight and failure recovery
+  - 'Design, build and operate shared foundations: evaluation frameworks, agent observability
+    and tracing, execution controls, and model access with routing and failover'
+  - Establish evaluation practices measuring task completion, accuracy, false positives,
+    security and cost, turning production failures into regression tests
+  - Make agent workflows resilient to tool failures, timeouts, rate limits and partial
+    execution with clear retry, runtime and spend limits
+  - Work with security and platform teams on scoped permissions, data isolation, audit
+    trails and safe execution of tools and code
+  - 'Establish engineering standards: evals in CI, prompt and model versioning, regression
+    testing, cost/latency budgets, staged rollouts with rollback'
+  - Lead model selection and cost optimization, benchmarking models against real workloads
+  - Help engineering teams adopt AI coding agents across planning, implementation,
+    review and testing, and mentor engineers through design reviews and pairing
+  use_cases:
+  - Autonomous AI agents that test real customer applications (pentesting)
+  - Agent orchestration with tool use, context/memory management and failure recovery
+  - Agent evaluation and reliability measurement against production workloads
+  - Cost, latency and model selection optimization for agent workloads
+  - Safe agent execution with scoped permissions and data isolation
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Structured Outputs,
+      MCP, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Kubernetes, Distributed Tracing, Distributed Systems, Observability, Regression
+        Testing, CI/CD]
+    languages: [Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886482'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:37:22.872246'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: Signant Health
+  stage: null
+  focus: |-
+    Clinical trial technology and evidence generation for
+    healthcare
+position:
+  title: Senior AI Business Automation Engineer - Technology IT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents, MCP integrations,
+      prompt engineering, RAG, and eval harnesses - directly
+      shaping LLM behavior. It is not merely consuming an AI API;
+      building agents and evals is core to the role.
+  responsibilities:
+  - Embed with business SMEs to identify high-leverage workflows to reinvent with
+    AI-first design
+  - Design, prototype, and deliver custom tools, AI agents, automations, and reusable
+    skills
+  - Develop AI agents leveraging LLMs and MCP integrations, plus end-to-end automations
+    across REST APIs, webhooks, and SaaS
+  - Use AI development tools (Claude Code, Cursor, GitHub Copilot), eval harnesses,
+    and human-in-the-loop checkpoints to validate solutions
+  - Build solutions for handoff with documentation, observability, and runbooks
+  - Ensure automation meets enterprise security, scalability, and compliance standards
+    (SOC 2, ISO 27001)
+  - Coach business users through progressive AI adoption and mentor junior engineers
+  - Participate in end-to-end testing and quality validation prior to production deployment
+  use_cases:
+  - AI-driven business workflow automation across enterprise functions
+  - Enterprise service management and workflow platform extensions
+  - Integration of AI/LLM capabilities into enterprise SaaS workflows (Finance, Legal,
+    HR, Operations)
+  - Workflow discovery and redesign using AI analysis of transaction and ticket data
+  - Clinical trial support operations efficiency
+  skills:
+    genai: [LLMs, MCP, AI Agents, Prompt Engineering, RAG, Anthropic API, OpenAI API,
+      Claude Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [Snowflake]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD]
+    languages: [JavaScript, TypeScript, Python, Groovy]
+    domains: []
+    other: [Boomi, MuleSoft, Workato, UiPath, Salesforce, Jira, SOC 2, ISO 27001]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11640588'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  - Noida, IND
+  extracted_at: '2026-11-06T12:28:13.822056'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: eBay
+  stage: null
+  focus: Global ecommerce marketplace connecting buyers and sellers
+position:
+  title: AI Engineer - AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds intelligent agents and AI/ML
+      solutions end-to-end, which involves designing agent flows
+      and deploying production AI capabilities — this is shaping
+      model behaviour. Agents are involved, so ai-first.
+  responsibilities:
+  - Partner with Finance and cross-functional stakeholders to translate business problems
+    into technical and system designs
+  - Design, build, and deploy production-grade AI, ML, and automation solutions for
+    complex Finance use cases
+  - Develop intelligent agents, web apps, automation workflows, and decision-support
+    tools integrated into business processes
+  - Build and maintain data pipelines, model workflows, and reusable solution components
+  - Evaluate emerging AI technologies and AI-assisted development tools for business
+    value
+  - Monitor, refine, and scale deployed solutions for performance and reliability
+  - Collaborate across Finance, Product, Engineering, and ITSS throughout the solution
+    lifecycle
+  use_cases:
+  - Finance process automation and transformation
+  - Decision-support tools for Finance stakeholders
+  - Intelligent agents embedded in business processes
+  - Scalable AI/ML solutions for enterprise Finance use cases
+  skills:
+    genai: [AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: [Teradata, BigQuery]
+    data: [Data Pipelines, Hadoop]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile, Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11807041'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:15:57.151875'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

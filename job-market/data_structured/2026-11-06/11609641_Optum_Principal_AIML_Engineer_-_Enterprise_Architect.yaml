@@ -1,0 +1,54 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Principal AI/ML Engineer - Enterprise Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, AI agents, prompts, and
+      model evaluation/monitoring for LLM-based systems — direct
+      shaping of model behaviour and output quality with a clear
+      LLM component. Classical ML integration is secondary, so ai-
+      first applies.
+  responsibilities:
+  - Translate business needs into measurable ML tasks, validate data, establish baselines,
+    and integrate suitable models
+  - Integrate generative AI and LLMs using RAG where appropriate, evaluating accuracy,
+    unsupported claims, latency, and cost
+  - Build model-serving interfaces and MLOps workflows for versioning, deployment,
+    monitoring, and rollback
+  - Track data and model performance changes and improve models, prompts, or product
+    design
+  - Apply responsible AI practices including bias and robustness checks, privacy safeguards,
+    and prompt injection defenses
+  - Design and build distributed services, APIs, and reliable data integrations with
+    CI/CD pipelines
+  - Own production readiness and service health through logging, metrics, and traces
+  - Lead cross-team architecture decisions, mentor engineers, and deliver reusable
+    components
+  use_cases:
+  - Workflow automation and decision support in healthcare applications
+  - Retrieval-augmented generation supplying relevant source content to models
+  - AI agents supporting enterprise workflows
+  - Model evaluation, deployment, and monitoring pipelines for production AI
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Prompt Engineering]
+    ml: [Machine Learning, Model Evaluation]
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: [MLOps, CI/CD, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609641'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T12:20:28.253784'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Raydar
+  stage: null
+  focus: AI agents for finance teams and CFO office
+position:
+  title: Senior Data Engineer (AI & Data Products)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds ingestion pipelines, ETL/ELT, and
+      infrastructure feeding an AI platform built by others.
+      Ontology design supports retrieval but the person does not
+      shape prompts, retrieval configs, or model behaviour
+      themselves - they move and structure data into graph/vector
+      stores, which is plumbing per the dataset rule.
+  responsibilities:
+  - Build and operate Python ingestion pipelines into graph databases and vector stores
+  - Integrate data warehouses and business applications into ETL/ELT workflows
+  - Design the data ontology for accurate retrieval and agent reasoning
+  - Own deployment tooling, cloud infrastructure, monitoring and security
+  - Grow from individual contribution toward mentoring and architecture leadership
+  use_cases:
+  - Financial data ingestion for AI-powered retrieval
+  - Agent reasoning across complex business entities
+  - Finance and CFO office automation
+  skills:
+    languages: [Python]
+    domains: []
+    web: []
+    cloud: [GCP]
+    data: [Data Pipelines]
+    ml: []
+    databases: [Graph Databases, Vector Databases, Data Warehouses]
+    genai: []
+    ops: [Infrastructure as Code, CI/CD, Monitoring, Cloud Security]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11693287'
+  location: NLD
+  locations:
+  - NLD
+  - GBR
+  remote: true
+  extracted_at: '2026-11-06T12:36:59.561614'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

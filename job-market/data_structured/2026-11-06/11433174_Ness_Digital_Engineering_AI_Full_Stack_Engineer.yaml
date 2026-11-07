@@ -1,0 +1,54 @@
+company:
+  name: Ness Digital Engineering
+  stage: null
+  focus: |-
+    Digital engineering services building AI-enabled finance
+    applications
+position:
+  title: AI Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI features themselves -
+      prompt orchestration, RAG, embeddings/vector search,
+      document Q&A, copilots, and agentic workflows - directly
+      shaping LLM behavior, making it ai-first despite the full-
+      stack title.
+  responsibilities:
+  - Design, develop, and ship full stack features across UI, APIs, and data access
+    layers
+  - Implement and extend AI-assisted workflows such as chat, retrieval, document Q&A,
+    and copilots using approved enterprise model access
+  - Write clean, tested TypeScript and Python with reusable components
+  - 'Own applications end to end: requirements, solution design, development, testing,
+    deployment, production support, and maintenance'
+  - Perform technical reviews, set engineering standards, and mentor less-experienced
+    developers
+  - Add unit, integration, and regression tests and follow secure SDLC practices
+  - Work directly with business users, testers, architects, InfoSec, and integration
+    teams to drive delivery
+  use_cases:
+  - AI-assisted chat workflows for Finance Technology
+  - Document Q&A over enterprise content
+  - Retrieval-augmented enterprise search
+  - Copilots embedded in finance applications
+  skills:
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    web: [React, Next.js, FastAPI, REST APIs, Node.js, JSON]
+    cloud: [AWS]
+    data: []
+    ml: []
+    databases: [Vector Databases, Vector Search]
+    genai: [LLMs, Prompt Orchestration, RAG, Embeddings, Agentic Workflows, LLM Evaluation,
+      Generative AI, Copilots]
+    ops: [Git, Docker, CI/CD, Monitoring, AI Observability]
+    other: [SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11433174'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:50:01.955528'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

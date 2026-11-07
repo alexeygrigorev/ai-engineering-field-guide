@@ -1,0 +1,52 @@
+company:
+  name: Chubb
+  stage: null
+  focus: Global commercial and personal insurance
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops, validates, and monitors classical ML
+      models (GLM, neural networks) with feature engineering —
+      clearly shaping model behavior. GenAI is mentioned only as a
+      technique name among others with no LLM-specific
+      responsibilities like prompting, RAG, or agents, so the
+      dominant work is classical ML, making it ml-first.
+  responsibilities:
+  - Collaborate with stakeholders to define business problems and translate them into
+    data science projects
+  - Gather, clean, and preprocess data from multiple sources using Python and SQL
+    on Databricks
+  - Conduct exploratory data analysis and engineer features to enhance model performance
+  - Select, develop, and validate machine learning models (GLM, GenAI, neural networks)
+  - Monitor model performance post-implementation for accuracy, stability, and business
+    relevance
+  - Maintain documentation and use GitHub for version control and collaborative development
+  - Present technical findings and recommendations to technical and non-technical
+    audiences
+  - Mentor junior data scientists and lead knowledge sharing sessions
+  use_cases:
+  - Insurance risk and pricing analytics
+  - Predictive modeling for business decision support
+  - Model performance monitoring for insurance use cases
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Neural Networks, GLM, Feature Engineering, TensorFlow,
+      PyTorch, Model Evaluation, Model Monitoring, EDA]
+    web: []
+    databases: []
+    data: [Databricks, Spark, Hadoop]
+    cloud: []
+    ops: [GitHub, Code Review]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11888673'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:40:09.713667'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Proclink
+  stage: null
+  focus: Enterprise AI agent solutions and services
+position:
+  title: Jr. Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows,
+      tool/function calling, RAG, and prompt engineering - clearly
+      shaping LLM/agent behavior, so ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI agents using GitHub Copilot Agent SDK and Microsoft
+    Agent Framework
+  - Build autonomous, multi-agent, and workflow-driven AI solutions for enterprise
+    use cases
+  - Develop agent orchestration, tool-calling, function-calling, and human-in-the-loop
+    workflows
+  - Implement memory management, context handling, and agent communication patterns
+  - Design and develop scalable backend services using Python and FastAPI
+  - Build RAG solutions using vector databases and semantic search techniques
+  - Integrate AI agents with enterprise applications, APIs, databases, and external
+    tools
+  - Design, implement, and maintain CI/CD pipelines for AI agent deployments and monitor
+    agent performance
+  use_cases:
+  - Enterprise autonomous AI agents
+  - Agent-to-agent collaboration and orchestration
+  - Enterprise tool and data source integration via AI agents
+  - RAG-based enterprise knowledge retrieval
+  - Human-in-the-loop agentic workflows
+  skills:
+    genai: [GitHub Copilot, Microsoft Agent Framework, AI Agents, Multi-Agent Systems,
+      Agentic Workflows, LLMs, RAG, Prompt Engineering, Function Calling, MCP, Azure
+        OpenAI, Azure AI Foundry, Prompt Flow, Semantic Search, Embeddings]
+    ml: []
+    web: [FastAPI, APIs]
+    databases: [Vector Databases, Azure AI Search]
+    data: []
+    cloud: [Azure]
+    ops: [CI/CD, Docker, Kubernetes, GitHub Actions, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11828672'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:20:04.063497'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

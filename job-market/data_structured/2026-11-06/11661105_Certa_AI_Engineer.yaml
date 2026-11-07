@@ -1,0 +1,54 @@
+company:
+  name: Certa
+  stage: null
+  focus: AI-native third-party risk management platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent loops, tool/MCP design, context
+      engineering, evals, and model routing for LLM agents —
+      clearly shaping model behavior end to end, so ai-first.
+      Backend work serves the agent harness rather than being pure
+      infrastructure.
+  responsibilities:
+  - 'Own the agent loop: planning, retries, subagents, and parallel tool calls for
+    long multi-step tasks'
+  - Design tools, MCP servers, and skills that agents call safely against customer
+    data
+  - 'Engineer agent context: compaction, memory, and retrieval-as-a-tool for large
+    enterprise records'
+  - Build eval suites (golden sets, regression, trace-based scoring) wired into CI
+    to gate changes
+  - Route across models on capability, latency, and cost; re-tune the harness when
+    new models launch
+  - 'Own backend services end to end: data models, APIs, async pipelines, and performance
+    at scale on multi-tenant AWS'
+  - 'Own services in production: design docs, trade-off decisions, and on-call'
+  use_cases:
+  - Third-party risk assessment agents for enterprise risk and procurement teams
+  - Data Agent answering questions over customer enterprise data
+  - Workflow design studio for vendor onboarding and lifecycle management
+  - Continuous monitoring and offboarding of vendors, suppliers, and partners
+  skills:
+    genai: [LLMs, AI Agents, MCP, RAG, LLM Evaluation, Prompt Engineering, Claude
+        Code, Codex, Cursor, LangGraph]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11661105'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:29:16.393763'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

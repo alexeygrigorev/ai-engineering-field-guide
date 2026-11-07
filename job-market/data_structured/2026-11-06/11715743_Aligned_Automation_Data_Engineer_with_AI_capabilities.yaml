@@ -1,0 +1,57 @@
+company:
+  name: Aligned Automation
+  stage: null
+  focus: Digital transformation and data/AI services for enterprises
+position:
+  title: Data Engineer with AI capabilities
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents and LLM applications using
+      LangGraph, LangChain, MCP, and RAG, and tunes prompts,
+      measures agent quality, and delivers structured outputs —
+      directly shaping LLM behavior. Leadership duties do not
+      change the hands-on model-shaping work.
+  responsibilities:
+  - Own end-to-end architecture of data and AI solutions including UI/UX and backend
+    services
+  - Build AI agents and LLM applications using LangGraph, LangChain, A2A protocol,
+    MCP servers and RAG
+  - Deliver reliable structured output, tune prompts, measure agent quality, and deploy
+    agents at scale using DataRobot
+  - Define data product and data contract standards aligned with data mesh principles
+    (ODPS, ODCS)
+  - Build ontologies, knowledge graphs, glossaries and taxonomies aligned to W3C DCAT
+    and PROV-O
+  - Build data models, pipelines and governance integrations enforcing quality and
+    lineage standards
+  - Diagnose and fix performance and scalability bottlenecks across data and AI pipelines
+    within SLAs
+  - Lead and mentor the delivery team, plan capacity, review designs and code, and
+    own production delivery
+  use_cases:
+  - Making enterprise data trustworthy and usable by AI
+  - AI agent and LLM applications for enterprise operations
+  - Data governance and AI readiness frameworks with scoring and remediation
+  - Semantic layer with ontologies, knowledge graphs, glossaries and taxonomies
+  - Enterprise data pipelines with quality and lineage enforcement
+  skills:
+    genai: [AI Agents, LangGraph, LangChain, MCP, RAG, Prompt Engineering, Structured
+        Outputs, LLM Evaluation, LLMs]
+    ml: []
+    web: []
+    databases: [PostgreSQL, SQL Server, Knowledge Graphs, Ontologies]
+    data: [Data Modeling, Data Pipelines]
+    cloud: [DataRobot]
+    ops: [GitLab CI, CI/CD, HashiCorp Vault, Snyk, SonarQube, Dynatrace]
+    languages: [Python, SQL]
+    domains: []
+    other: [Data Mesh, RDF, DCAT, PROV-O]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11715743'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:41:23.124783'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

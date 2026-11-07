@@ -1,0 +1,58 @@
+company:
+  name: Mirion Technologies
+  stage: null
+  focus: |-
+    Radiation detection and measurement technologies for medical
+    and nuclear industries
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI and LLM-based
+      solutions using LangChain/LangGraph/AutoGen, directly
+      shaping model-driven workflows. It also builds computer
+      vision solutions, making it a mixed LLM+classical ML role,
+      which classifies as ai-first.
+  responsibilities:
+  - Embed within Medical business units to identify AI and automation opportunities
+    in operational workflows
+  - Design, develop, and deploy AI-powered applications across manufacturing, quality,
+    service, and administrative functions
+  - Develop computer vision solutions for visual inspection, defect detection, and
+    image-based quality assurance
+  - Build agentic AI and LLM-based solutions to automate workflows and improve decision-making
+  - Own the full product lifecycle from solution design and prototyping to production
+    deployment and ongoing improvement
+  - Define success measures and monitor KPIs such as cycle time, throughput, quality,
+    and cost savings
+  - Communicate project objectives and outcomes to business stakeholders and drive
+    adoption and change management
+  - Ensure solutions meet quality, validation, documentation, and regulatory requirements
+    in a regulated medical environment
+  use_cases:
+  - Visual inspection, defect detection, and image-based quality assurance in manufacturing
+  - Automating manual, repetitive, error-prone operational workflows
+  - Decision support and operational efficiency improvements in medical business units
+  - Anomaly identification in production and quality processes
+  skills:
+    genai: [AI Agents, LangChain, LangGraph, AutoGen, LLMs, OpenAI API, Anthropic
+        API, AWS Bedrock]
+    ml: [PyTorch, TensorFlow, OpenCV, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP, Azure AI]
+    ops: [DevOps, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11722244'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:42:27.982216'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

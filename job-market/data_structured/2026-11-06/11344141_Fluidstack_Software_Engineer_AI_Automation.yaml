@@ -1,0 +1,57 @@
+company:
+  name: Fluidstack
+  stage: null
+  focus: AI compute infrastructure and data centers
+position:
+  title: Software Engineer, AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds real features on LLM APIs, MCP servers, and
+      agentic frameworks, and turns expert workflows into LLM-
+      driven systems (contract parsing, generated work from
+      structured data), which is designing agent flows and shaping
+      LLM behavior — ai-first.
+  responsibilities:
+  - Build software systems that automate hiring end to end, from synced recruiting
+    systems to automated onboarding
+  - Build financial systems deriving cash demand curves, payment schedules, and spend
+    forecasts from purchase orders and contracts
+  - Build a capital pipeline from budget approval to spent dollars, gated on build
+    milestones with automated proof chains
+  - Parse MSAs, change orders, and side letters into structured obligations, prices,
+    deadlines, penalties, and SLAs
+  - Embed with finance, legal, treasury, and people teams to turn their approvals
+    and workflows into structured data and generated work
+  - Ship production code in Go, Python, or TypeScript with high autonomy and urgency
+  use_cases:
+  - Automating delivery of gigawatt-scale AI data center construction processes from
+    a live knowledge graph
+  - Automating recruiting, hiring, and onboarding workflows
+  - Cash forecasting and capital planning from contracts and construction milestones
+  - LLM extraction of obligations, prices, deadlines, and SLAs from legal documents
+  - Continuous financial close with automated accounting events
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, MCP, Agentic Workflows, Claude Code,
+      Cursor]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, Python, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11344141'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:32:30.740107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

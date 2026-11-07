@@ -1,0 +1,216 @@
+job_id: 11401510
+title: Senior Full-Stack AI Engineer
+company: RealQuant
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 2 Employees
+description: |
+  RealQuant · Remote for now, NYC preferred; hybrid in NYC
+  once our office opens · Full-time
+
+  About RealQuant
+
+  RealQuant builds AI infrastructure for institutional
+  commercial real estate. We deploy governed data,
+  deterministic models and cited, guardrailed AI inside each
+  client's own Azure tenant, for private equity firms, owner-
+  operators and lenders who want to grow AUM without adding
+  headcount. AI never does the math.
+
+  Our founder spent 12+ years on the institutional buy side,
+  with 150+ transactions and $11B+ in deal volume at platforms
+  backed by Blackstone, Ares and Angelo Gordon. We are
+  bootstrapped and growing.
+
+  The role
+
+  This is our first senior engineering hire and a founding-
+  engineer seat. You will set technical direction for
+  RealQuant Labs, where we design, build and run AI
+  infrastructure for our clients, and for the
+  labs.realquant.ai workflow platform and document parsers
+  that power it. We expect you to propose what we build next,
+  not just build what is asked.
+
+  The core of the job is turning client work into product:
+
+  - Build the library. Turn repeatable client workflows into
+    modular, reusable components: universal schemas and data
+    models, prebuilt ETL pipelines, MCP servers and front-end
+    shells.
+  - Deploy it. Lead client projects that assemble those
+    components into production systems in each client's Azure
+    subscription.
+  - Productize it. Package the best of it as off-the-shelf APIs
+    and SaaS, starting with our document parsers and Excel
+    add-in.
+  - Embed when it counts. Take select engagements working
+    directly inside a client's team.
+  - Build the team. Help hire and lead engineers in Latin
+    America and Europe, and grow into a lead role as we add
+    data engineers, data scientists and junior staff.
+
+  What you will build
+
+  - Deal workflows on labs.realquant.ai. Broker listing
+    sourcing, mailbox intake into triage and extraction, buy-
+    box screening and ranking, a deal pipeline synced to
+    Monday.com, lease abstraction, comps and market research,
+    portfolio reporting, a text-to-SQL analyst chat, and
+    generated Excel models, decks and PDF reports.
+  - Data foundations. PostgreSQL and Databricks in client
+    tenants, a CRE data model (properties, deals, leases,
+    comps, funds, debt), and connectors to property systems,
+    data vendors and public data.
+  - Document parsers. Extraction for offering memoranda, rent
+    rolls and T-12 P&Ls, with a citation and confidence score
+    on every field and human review before anything reaches a
+    client.
+  - Accuracy you can prove. Underwriting math in auditable code,
+    deterministic checks (totals foot, NOI ties), cross-
+    document reconciliation, and evals that gate every
+    release.
+  - The AI layer. MCP servers, Claude skills and plugins that
+    let analysts query their own data in plain English, with
+    guardrails, citations and an audit trail.
+  - Web portals. React (Vite and Next.js) apps for data review,
+    QA and map-based comp search, portfolio and debt
+    dashboards, and Entra ID sign-in.
+  - Expert data and evals (secondary). Support our platform
+    where CRE finance experts author underwriting tasks with
+    gold answers, rubrics and graders, packaged as evaluation
+    suites and RL environments (Inspect, Prime Verifiers) for
+    testing frontier models.
+
+  What success looks like
+
+  - 30 days: you have shipped a fix to a live client deployment
+    and traced a deal end to end through labs.realquant.ai.
+  - 90 days: you own a client build and have turned at least one
+    piece of it into a reusable library component.
+  - 6 months: you lead deployments end to end, set our technical
+    roadmap with the founder, and are helping hire the next
+    engineers.
+
+  The stack
+
+  - Languages: TypeScript (strict, Node 20+) and Python
+  - Front end: React (Vite and Next.js), Tailwind, shadcn/Radix,
+    TanStack, AG Grid, Mapbox
+  - Back end: Express and Next.js route handlers in TypeScript,
+    FastAPI in Python, REST / OpenAPI, SSE, Postgres-backed
+    job queues
+  - Data: PostgreSQL on Azure Flexible Server (row-level
+    security, PostGIS, pgvector), raw SQL with hand-written
+    migrations, Databricks (Delta, Unity Catalog) for
+    lakehouse clients, Power BI semantic models
+  - AI: Anthropic Claude (direct and through Azure AI Foundry),
+    Azure OpenAI, Foundry Agent Service, Azure Document
+    Intelligence, Azure AI Search, Model Context Protocol
+    servers, Claude skills and plugins, LangGraph
+  - Evals and RL: deterministic graders, rubric-based LLM
+    judges, golden-replay regression suites, Inspect AI, Prime
+    Verifiers, Label Studio
+  - Microsoft 365: Entra ID, Microsoft Graph (mailbox intake,
+    Teams, SharePoint), Excel (exceljs, Office add-ins, custom
+    functions)
+  - Infrastructure: Azure Container Apps and jobs, Blob Storage,
+    Key Vault, private networking, Bicep, GitHub Actions,
+    Docker
+  - Quality: CI eval gates, Playwright, Vitest, pytest,
+    confidence calibration
+
+  Must-have
+
+  - A track record of building and shipping something from
+    scratch on your own initiative.
+  - Bachelor's degree or higher in computer science,
+    engineering, math or a related field from a top-tier
+    university.
+  - 5+ years of full-stack engineering, shipping production
+    systems end to end.
+  - Strong TypeScript, React, Python and SQL.
+  - Production experience on Microsoft Azure.
+  - You have built MCP servers or agent tools that connect LLMs
+    to real data and systems.
+  - You have shipped LLM features to production and built the
+    evals that prove they work.
+  - You work AI-native: Claude Code or similar agentic coding
+    tools are part of your daily workflow.
+  - You have turned messy PDFs and spreadsheets into clean,
+    structured data.
+  - You communicate clearly with clients and executives.
+  - Based in the US and authorized to work here. NYC area
+    strongly preferred.
+
+  Strong-to-have
+
+  - Experience at a bank, asset manager, investment firm, or
+    proptech or fintech company.
+  - Evals, labeling pipelines, graders or RL environments
+    (Inspect, Verifiers, RLVR-style reward functions),
+    confidence calibration, or familiarity with RL post-
+    training methods such as GRPO and DPO.
+  - Databricks (Delta, Unity Catalog).
+  - Microsoft Graph, Power BI or Excel add-in development.
+  - Hiring or leading engineers, including distributed teams.
+  - OCR and table reconstruction, or geospatial data (PostGIS,
+    Mapbox).
+  - Real estate, private equity or financial analysis knowledge.
+    Learnable; the founder will teach you.
+
+  Who thrives here
+
+  - You have built something from zero on your own initiative: a
+    company, a product or a serious side project.
+  - You think like an owner and a founder, about customers,
+    product and the business as well as code.
+  - You see where AI is going and want to build the category,
+    not a feature.
+  - You ship without being asked and bring the plan with you.
+  - You are comfortable with ambiguity and a small team.
+  - You would rather prove accuracy with an eval than argue
+    about it.
+  - You hold buy-side standards: in financial software, a
+    misplaced decimal is a real-money error.
+  - When a critical client issue lands on a weekend, you fix it.
+
+  How we work
+
+  - Full-time salaried (W-2), minimum 40 hours per week, US
+    Eastern hours.
+  - Remote for now. We are opening a New York office and expect
+    the role to become hybrid in NYC, so candidates in or near
+    New York are strongly preferred.
+  - Occasional travel to client sites, mostly in the New York
+    area.
+  - Pay: $125,000 to $150,000 base salary, plus an annual
+    performance bonus. Final offer depends on experience.
+  - Benefits: Health, dental and vision insurance, and paid time
+    off.
+  - Client work runs on a company-provisioned Microsoft Cloud PC
+    with time-tracking software for client billing. Activity
+    on company systems is monitored.
+  - You report directly to the founder.
+  - Our process: a call with the founder, a technical deep dive
+    on something you have built, a working session on a real
+    problem, and references.
+
+  RealQuant is an equal opportunity employer. We do not
+  discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are unable to sponsor visas for this
+  role.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Real Estate
+  - Software
+  - PropTech
+  - Generative AI
+  - Big Data Analytics
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-full-stack-ai-engineer/11401510"
+source: Built In

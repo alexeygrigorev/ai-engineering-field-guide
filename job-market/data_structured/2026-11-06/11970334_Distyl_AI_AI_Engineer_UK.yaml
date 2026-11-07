@@ -1,0 +1,56 @@
+company:
+  name: Distyl AI
+  stage: null
+  focus: |-
+    Applied AI systems for enterprise mission-critical
+    operations
+position:
+  title: AI Engineer, UK
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and ships LLM-powered production systems,
+      doing prompt engineering, agent workflows, tool use, RAG
+      pipelines, and evaluation frameworks themselves — clearly
+      shaping model behavior and output quality of LLM systems. It
+      is customer-facing Forward Deployed-style work, but the
+      shaping work makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy production AI applications using LLMs, including prompt
+    engineering, agent workflows, tool use, and full-stack AI products
+  - Partner closely with enterprise customers to translate complex problems into impactful
+    AI solutions
+  - Design scalable system architectures balancing performance, reliability, cost,
+    and maintainability
+  - Contribute to Distillery, the internal LLM application platform, building reusable
+    infrastructure, tools, and workflows
+  - Develop evaluation frameworks measuring model performance across accuracy, latency,
+    cost, reliability, and safety
+  - Ensure production systems meet high standards for observability, reliability,
+    security, and maintainability
+  - Improve development workflows, evaluation practices, and deployment strategies
+  use_cases:
+  - Intelligent agents and full-stack AI products for Fortune 500 enterprises
+  - Transformation of mission-critical enterprise workflows with LLMs
+  - Consumer interactions, supply chain transactions, and patient journey operations
+  - Enterprise AI adoption and deployment at scale
+  skills:
+    genai: [LLMs, AI Agents, LangChain, LlamaIndex, Guardrails, MCP, RAG, Prompt Engineering,
+      Function Calling, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LLM Evaluation, Observability, DevOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11970334'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:14:06.583865'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

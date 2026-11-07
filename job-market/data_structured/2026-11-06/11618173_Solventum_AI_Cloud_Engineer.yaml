@@ -1,0 +1,51 @@
+company:
+  name: Solventum
+  stage: null
+  focus: Healthcare technology and materials science solutions
+position:
+  title: AI Cloud Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements RAG, agentic AI, multi-agent
+      orchestration, and prompt orchestration solutions directly -
+      shaping model behavior and LLM application architecture, not
+      just hosting models. Hence ai-first.
+  responsibilities:
+  - Design, develop, and deploy cloud-native AI solutions from proof of concept through
+    production
+  - Build and manage scalable AI application infrastructure on Azure with containerized
+    architectures
+  - Implement Generative AI, RAG, Agentic AI, and AI-powered automation across enterprise
+    business functions
+  - Develop API-driven integrations with Microsoft Graph, SharePoint, Microsoft Fabric,
+    Snowflake, and Power BI
+  - Design and implement CI/CD pipelines, monitoring, and operational best practices
+    for AI workloads
+  - Deploy and manage AI applications using Azure Container Apps and infrastructure
+    automation
+  - Ensure compliance with security, governance, Responsible AI, and regulatory requirements
+  - Contribute to platform standardization, architecture reviews, and cloud engineering
+    best practices
+  use_cases: []
+  skills:
+    genai: [Generative AI, RAG, AI Agents, Multi-Agent Systems, Prompt Engineering,
+      Azure OpenAI, Semantic Search, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure Functions, AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11618173'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T12:22:40.845124'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

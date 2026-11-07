@@ -1,0 +1,60 @@
+company:
+  name: HealthMinds Consulting Private Limited
+  stage: null
+  focus: |-
+    Enterprise executive intelligence platform blending data,
+    workflow automation, and agentic AI
+position:
+  title: Software & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns RAG pipelines (chunking, embedding
+      selection, reranking, retrieval quality metrics), builds
+      multi-step agent graphs with LangGraph, tool calling, and
+      agent evaluation, plus prompt engineering. This is shaping
+      LLM behavior, so it is ai-first.
+  responsibilities:
+  - Own features end-to-end across the full stack, from design doc to production
+  - Build React interfaces and design component hierarchies for complex workflows
+  - Design and ship Python/FastAPI services with auth, background tasks, and tests
+  - Implement and own end-to-end RAG pipelines including chunking, embeddings, vector
+    stores, and reranking with quality metrics
+  - Build agentic AI workflows with multi-step agent graphs, tool calling, and performance
+    evaluation
+  - 'Own the data layer: PostgreSQL schema design, multi-tenancy, query optimization,
+    Redis/DynamoDB where needed'
+  - Deploy and operate services on AWS with Docker, ECS/Lambda, IAM, and CloudWatch
+    monitoring
+  - Implement auth (JWT, OAuth 2.0/OIDC, RBAC) and CI/CD pipelines with GitHub Actions
+  use_cases:
+  - Enterprise decision-making platform blending data, workflow automation, and agentic
+    AI
+  - RAG-based retrieval over enterprise documents for an executive intelligence product
+  - Autonomous agents that plan, call tools, and complete multi-step tasks inside
+    a real product
+  - Multi-tenant enterprise SaaS serving compliance-conscious buyers
+  skills:
+    genai: [Generative AI, RAG, Embeddings, Vector Databases, Pinecone, LangGraph,
+      LangChain, LlamaIndex, OpenAI API, Anthropic API, Function Calling, Agentic
+        Workflows, CrewAI, Prompt Engineering, Structured Outputs, AI Agents, LLM
+        Evaluation]
+    ml: [Fine-Tuning, RAGAS]
+    web: [FastAPI, Pydantic, React, REST APIs, OAuth, HTML, CSS]
+    databases: [pgvector, Weaviate, Qdrant, PostgreSQL, Redis, DynamoDB, Elasticsearch,
+      OpenSearch]
+    data: [Airflow, RAGAS, Data Pipelines]
+    cloud: [AWS Bedrock, AWS, AWS Lambda, ECS, IAM, AWS Glue]
+    ops: [Docker, CloudWatch, CI/CD, GitHub Actions, Terraform, Infrastructure as
+        Code, Celery, LangSmith, Monitoring]
+    languages: [Python, TypeScript, SQL, JavaScript]
+    domains: []
+    other: [JWT, Zustand, Redux, OWASP Top 10, Multi-Tenancy, SOC 2, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11886234'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:36:47.293914'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

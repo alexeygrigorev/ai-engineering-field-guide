@@ -1,0 +1,54 @@
+company:
+  name: V2 Digital (also referred to as V2 AI)
+  stage: backed by $30m in VC funding
+  focus: AI-native consulting for enterprise AI adoption
+position:
+  title: Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and builds AI-powered
+      workflows with Claude Cowork, configures agents and
+      integrates them into enterprise systems, directly shaping
+      LLM behavior and outputs. Customer-facing deployment role
+      with LLM/agent components makes it ai-first per the FDE
+      rule.
+  responsibilities:
+  - Lead rollout, configuration and implementation of Claude Enterprise in a large
+    enterprise environment
+  - Design, build and optimize AI-powered workflows with Claude Cowork to improve
+    productivity
+  - Integrate Claude Enterprise with enterprise systems, tools, data sources and workflows
+  - Design secure, scalable AI solutions aligned with security, compliance and governance
+    requirements
+  - Provide hands-on technical guidance, troubleshooting and support through implementation
+    and adoption
+  - Identify automation opportunities using Claude and agentic AI capabilities
+  - Translate business requirements into practical AI solutions with measurable outcomes
+  - Share technical knowledge and best practices across V2 AI and customer teams
+  use_cases:
+  - Enterprise deployment and adoption of Claude Enterprise in financial services
+  - AI-powered productivity and operational efficiency workflows via Claude Cowork
+  - Automation of manual business processes with agentic AI
+  - Asset management and investment operations workflows
+  - Secure and compliant enterprise AI integration
+  skills:
+    genai: [Claude Code, Anthropic API, LLMs, Agentic Workflows, Workflow Automation,
+      Claude Cowork, Claude Enterprise]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Enterprise Security, Data Privacy, Governance and Compliance, Change Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11678806'
+  location: New Delhi, IND
+  extracted_at: '2026-11-06T12:34:36.649918'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

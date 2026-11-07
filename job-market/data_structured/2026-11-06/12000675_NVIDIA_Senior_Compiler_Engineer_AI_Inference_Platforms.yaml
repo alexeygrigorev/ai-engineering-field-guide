@@ -1,0 +1,50 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and AI computing hardware and software
+position:
+  title: Senior Compiler Engineer, AI Inference Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops compiler optimization algorithms for deep
+      learning networks, including LLM and generative AI
+      workloads, spanning NVIDIA's inference engine. Optimizing a
+      model's own internals (compiler techniques, GPU kernels for
+      AI workloads) is shaping, and with LLM/generative targets
+      involved the classification is ai-first.
+  responsibilities:
+  - Analyze deep learning networks and develop compiler optimization algorithms
+  - Collaborate with deep learning framework teams and GPU architecture teams to accelerate
+    deep learning software
+  - Define public APIs for the compiler
+  - Perform performance optimizations and analysis
+  - Craft and implement compiler techniques for AI workloads and future NVIDIA GPUs
+  - Support Ahead-of-Time and Just-in-Time compilation for inference
+  use_cases:
+  - Fast inference performance for deep learning models
+  - Reduced memory footprints for AI workloads
+  - Large language model inference across data centers, personal devices, automotive,
+    and robotics
+  - Generative AI, recommendation systems, image classification, and speech recognition
+    acceleration
+  skills:
+    genai: [Generative AI]
+    ml: [MLIR, LLVM, XLA, OpenCL, PyTorch, JAX, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, CUDA, Nsight Compute]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12000675'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:22:50.066695'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

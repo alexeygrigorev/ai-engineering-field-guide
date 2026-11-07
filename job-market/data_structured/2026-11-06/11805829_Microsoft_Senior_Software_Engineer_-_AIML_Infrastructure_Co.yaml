@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud computing and AI platform software
+position:
+  title: Senior Software Engineer - AI/ML Infrastructure CoreAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds training, fine-tuning (LoRA), reinforcement
+      learning controls, and evaluations for foundation models and
+      agents on Azure AI Foundry — this directly shapes LLM
+      behavior, making it ai-first. Serving/distributed-scale
+      infrastructure is present, but training and evaluation
+      ownership dominates.
+  responsibilities:
+  - Design and build abstractions, infrastructure, and interfaces for training, testing,
+    validating, and optimizing ML algorithms at massive distributed scale
+  - Implement features including data cleaning, model training, and hyperparameter
+    tuning
+  - Drive incorporation of customer-inspired innovations into the Foundry platform
+  - Lead design and architecture discussions and establish robust, maintainable architecture
+  - Manage feature execution end-to-end with high quality and agility
+  - Collaborate with IDC and US counterparts on design and code reviews and stakeholder
+    alignment
+  - Coach and develop early-career engineers
+  - Improve team response to customer incidents and raise the quality bar
+  use_cases:
+  - Platform for training, customizing, and deploying foundation models at scale
+  - Reinforcement learning for production AI agents
+  - Fine-tuning and distillation of models (including open source reasoning models)
+  - Dynamic model routing and cost-efficient inference for enterprises
+  - Single-click training data generation
+  skills:
+    genai: [AI Agents, LoRA, Function Calling]
+    ml: [Hyperparameter Tuning, Machine Learning, Reinforcement Learning, Fine-Tuning,
+      Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure Functions]
+    ops: [Docker, CI/CD]
+    languages: [.NET, Java, Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11805829'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:15:34.079523'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

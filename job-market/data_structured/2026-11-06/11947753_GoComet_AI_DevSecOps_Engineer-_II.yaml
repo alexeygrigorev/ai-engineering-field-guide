@@ -1,0 +1,48 @@
+company:
+  name: GoComet
+  stage: null
+  focus: Logistics and supply chain SaaS platform
+position:
+  title: AI DevSecOps Engineer- II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform/DevSecOps engineer who uses AI coding
+      assistants as a tool to write and debug infrastructure code;
+      AI is not shaped by the person (no prompts, RAG, agents, or
+      model training). AI named as a tool used to build systems,
+      so per the edge case rules this is ai-support.
+  responsibilities:
+  - Provision and maintain AWS infrastructure with Terraform and Ansible
+  - Build and manage Kubernetes clusters, scaling, upgrades, hardening and Helm packaging
+  - Improve CI/CD and GitOps delivery with GitHub Actions and ArgoCD
+  - Build observability with metrics, logs, dashboards, alerting and SLOs using Prometheus,
+    Grafana and Loki
+  - Automate provisioning, configuration, patching, backups and runbooks
+  - Use AI-assisted tools to build, debug and improve scripts and infrastructure code
+    with human review
+  - Support data stores and messaging systems (PostgreSQL, MongoDB, Redis, queues);
+    participate in on-call and incident response
+  - Apply least-privilege IAM, secrets management, network policies, and monitor cloud
+    cost
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [PostgreSQL, MongoDB, Redis, ClickHouse, Cloud SQL]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS, GCP, IAM, Secret Manager]
+    ops: [Terraform, Ansible, Kubernetes, Helm, CI/CD, GitOps, GitHub Actions, ArgoCD,
+      Prometheus, Grafana, Loki, Linux, Observability]
+    languages: [Bash, Python, Go]
+    domains: []
+    other: [System Design, GitHub]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11947753'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:07:53.513733'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

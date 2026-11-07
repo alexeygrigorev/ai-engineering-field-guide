@@ -1,0 +1,55 @@
+company:
+  name: Capital Technology Group
+  stage: null
+  focus: |-
+    Federal IT consulting, software, data, and cybersecurity
+    services
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds, trains, evaluates, and optimizes ML models
+      for production use cases — that is shaping model behavior.
+      LLM/RAG/agents appear only as nice-to-have, so the core
+      shaping work is classical ML (TensorFlow/PyTorch/SageMaker),
+      making it ml-first.
+  responsibilities:
+  - Lead technical evaluations of emerging AI/ML technologies through prototypes,
+    proofs of concept, and experimentation
+  - Design, develop, and deploy production-ready AI/ML applications within AWS cloud
+    environments
+  - Build, train, evaluate, and optimize machine learning models for production use
+    cases
+  - Support AI/ML application development across development, operations, and security
+    disciplines
+  - Drive enterprise adoption of modern AI technologies and engineering best practices
+  - Mentor engineers and provide technical leadership to cross-functional teams
+  - Collaborate directly with federal clients to deliver mission-critical solutions
+  - Present technical findings and architectural recommendations to leadership and
+    federal customers
+  use_cases:
+  - Production AI/ML applications for federal government missions
+  - Enterprise evaluation and adoption of emerging AI technologies
+  - Cloud-native machine learning model deployment in regulated environments
+  - Data analysis and visualization for experiment results
+  skills:
+    genai: [LLMs, Generative AI, RAG, AI Agents]
+    ml: [TensorFlow, PyTorch, Hugging Face]
+    web: []
+    databases: []
+    data: [Pandas]
+    cloud: [AWS Bedrock, SageMaker, AWS]
+    ops: [Weights & Biases, MLOps, Docker, Kubernetes, CI/CD, DevSecOps]
+    languages: [Python]
+    domains: []
+    other: [Matplotlib]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11597809'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:18:33.896593'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

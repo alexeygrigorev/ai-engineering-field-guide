@@ -1,0 +1,53 @@
+company:
+  name: Crisis24
+  stage: null
+  focus: Global travel risk management and crisis security services
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role manages LLM production in AWS Bedrock/OpenAI,
+      integrates LLM solutions into enterprise workflows, and
+      ensures quality/interpretability of risk detection models,
+      which includes GenAI prompting and model evaluation. LLM
+      components are explicitly central, so this is ai-first.
+  responsibilities:
+  - Build data pipelines combining unstructured and structured data to detect and
+    alert on emerging risks
+  - Manage LLM production in AWS Bedrock and OpenAI, including deployment, scaling,
+    monitoring, and cost optimization
+  - Mentor data scientists, review code, and enforce best practices
+  - Translate business goals into model KPIs and define data science strategy and
+    roadmaps
+  - Design and validate analytical models for risk detection, NLP, and event detection
+  - Integrate LLM solutions into enterprise workflows with reliability and security
+  - Collaborate with engineering, product, and leadership on data-driven opportunities
+  - Ensure compliance with data privacy, security, and ethical standards
+  use_cases:
+  - Emerging risk detection and customer alerting
+  - Travel risk management and critical event management
+  - Event detection and entity recognition from multilingual text
+  - Geospatial risk analysis
+  - Risk intelligence via knowledge graphs and entity linkage
+  - Information retrieval and web data mining for threat intelligence
+  skills:
+    genai: [OpenAI API, Prompt Engineering, LLMs]
+    ml: [Machine Learning, Deep Learning, Model Deployment, Model Evaluation, Statistical
+        Modeling, Model Monitoring]
+    web: []
+    databases: [Vector Databases, Knowledge Graphs]
+    data: [Airflow, Data Pipelines]
+    cloud: [AWS Bedrock, AWS]
+    ops: [MLOps, Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Data Visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11715521'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:41:13.959977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

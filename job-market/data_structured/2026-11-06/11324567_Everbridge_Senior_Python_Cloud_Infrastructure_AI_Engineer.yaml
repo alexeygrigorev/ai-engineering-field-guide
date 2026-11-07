@@ -1,0 +1,45 @@
+company:
+  name: Everbridge
+  stage: null
+  focus: |-
+    Critical event management technology for enterprises and
+    governments
+position:
+  title: Senior Python, Cloud Infrastructure & AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a software/cloud infrastructure engineer; AI
+      appears only as "AI-assisted development tools" used to
+      write code, which is explicitly not shaping model behavior.
+      No prompts, RAG, or model work is done by this person.
+  responsibilities:
+  - Build and maintain Python applications
+  - Manage AWS and Linux cloud environments
+  - Improve CI/CD pipelines and deployment reliability
+  - Provide production support and own solutions end to end
+  - Use AI-assisted development tools to deliver software safely
+  use_cases:
+  - Critical event management software for enterprise and government resilience
+  - Application development and cloud infrastructure supporting critical event alerting
+    and response
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Linux, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11324567'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:30:04.426000'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

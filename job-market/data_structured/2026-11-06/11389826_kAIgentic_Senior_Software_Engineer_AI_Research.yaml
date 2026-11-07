@@ -1,0 +1,62 @@
+company:
+  name: kAIgentic
+  stage: null
+  focus: |-
+    Enterprise AI intelligence layer and knowledge governance
+    platform
+position:
+  title: Senior Software Engineer, AI Research
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior extensively: fine-tuning (SFT,
+      DPO, RFT), grounded extraction with provenance, retrieval-
+      generation pipelines, eval frameworks with LLM-as-judge, and
+      reward modeling for RL environments. LLMs and RAG are
+      central, so it is ai-first.
+  responsibilities:
+  - Own end-to-end design and implementation of the knowledge-graph schema with hierarchy,
+    provenance, versioning, and extensibility
+  - Build grounded-extraction pipelines attaching source evidence and epistemic status
+    to every claim
+  - Design multi-context harnesses managing memory tiers, budget constraints, and
+    compaction for large-scale inference
+  - Deliver cross-boundary knowledge distillation workflows integrating external data
+    sources into the internal ontology
+  - Own consolidation frameworks merging documents, interviews, and event logs into
+    a unified model with conflict resolution
+  - Build model adaptation loops applying SFT, DPO, and RFT
+  - Own RL-environment and curriculum components, defining reward signals and evaluation
+    metrics
+  - Build production-grade retrieval-generation pipelines and evaluation frameworks
+    with LLM-as-judge validation
+  use_cases:
+  - Transforming enterprise process knowledge into a governed, provenance-rich ontology
+  - Grounded extraction with source evidence to prevent hallucinations in regulated
+    environments
+  - Knowledge consolidation from documents, interviews, and event logs with conflict
+    resolution
+  - Safe autonomous operation via RL environments, reward signals, and curricula
+  - Production retrieval-generation meeting quality, latency, and cost budgets
+  - Continuous ontology updates via feedback capture and active learning loops
+  skills:
+    genai: [RAG, LLMs, LLM Evaluation, Context Engineering]
+    ml: [PyTorch, Fine-Tuning, DPO, RLHF, Model Training, Reinforcement Learning,
+      Reward Modeling]
+    web: []
+    databases: [Graph Databases, Knowledge Graphs, Neo4j]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Ontology Engineering, Provenance Tracking, Ablation Studies, Statistical
+        Validation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11389826'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:41:33.651934'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

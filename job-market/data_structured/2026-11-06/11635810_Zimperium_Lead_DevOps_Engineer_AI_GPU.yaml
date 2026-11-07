@@ -1,0 +1,60 @@
+company:
+  name: Zimperium
+  stage: null
+  focus: AI-empowered mobile threat detection and security
+position:
+  title: Lead DevOps Engineer (AI & GPU)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role delivers, serves, routes, and observes AI workloads
+      built by others — CI/CD, model serving on GPUs, cost
+      management, and telemetry. The deliverable is delivery
+      capacity, governance, and observability, not shaping model
+      behavior. LLM evaluation tooling appears only as a nice-to-
+      have supporting the observability stack.
+  responsibilities:
+  - Build and operate CI/CD/CV pipelines that ship AI services, agents, and runtime
+    components with automated build, test, verification, release, and rollback
+  - 'Own governance and discovery for AI assets: registries (Artifactory/Nexus, Harbor),
+    MLflow metadata, HuggingFace/NGC mirrors, Trivy CVE/SBOM scanning, OpenLineage,
+    and license management'
+  - Manage resource and cost controls including quotas, rate limits, and cost attribution
+    (Apptio/OpenCost/Kubecost) per tenant
+  - 'Own the observability stack: Prometheus/Mimir, Loki, Tempo/Jaeger, Grafana, LangSmith/Langfuse,
+    and SLA alerting'
+  - Own the OpenTelemetry collection layer with multi-tenant receivers, Kafka exporters,
+    DCGM GPU telemetry, batching, and dynamic filtering
+  - Automate GitOps-based delivery with embedded quality, integrity, and cost gates
+    for policy-compliant releases
+  - Use telemetry, evaluation, and cost signals to drive deployment decisions, progressive
+    rollout, and automated rollback of AI workloads
+  use_cases:
+  - Model serving and inference runtime for AI services and agents across cloud, on-prem,
+    edge, and air-gapped environments
+  - Cost attribution, quotas, and per-tenant FinOps bounding of AI consumption
+  - End-to-end observability and traceability of AI workloads including GPU telemetry
+  - Governance, discovery, and supply-chain security for AI assets and models
+  - Automated progressive delivery and rollback of AI workloads in regulated environments
+  skills:
+    genai: [Hugging Face]
+    ml: [Model Deployment]
+    web: [REST APIs]
+    databases: [Harbor]
+    data: [Kafka, Ray]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, GitOps, ArgoCD, Helm, GitHub Actions, GitLab CI, Kubernetes,
+      Docker, Ray, vLLM, Triton, NIM, Prometheus, Grafana, OpenTelemetry, MLflow,
+      LangSmith, Langfuse, Monitoring, Trivy, DCGM]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11635810'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T12:27:29.924961'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

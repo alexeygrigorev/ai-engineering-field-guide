@@ -1,0 +1,48 @@
+company:
+  name: Prosus Group
+  stage: null
+  focus: Internal AI agent platform across ecommerce portfolio
+position:
+  title: Senior Backend Engineer, AI Platform (Toqan)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing agent runtimes, orchestrating
+      models and tools, and integrating LLMs/tool-calling into
+      production — shaping agent behaviour directly, so ai-first.
+  responsibilities:
+  - Design new capabilities for the agent runtime powering agentic AI products across
+    Prosus
+  - Orchestrate models and tools, enabling agents to perform long-running asynchronous
+    work
+  - Build secure, observable backend services in Go
+  - Investigate production reliability issues and improve observability foundations
+  - Take integrations from prototype to secure, observable production services
+  - Make architectural decisions and review code with the team
+  - Work with product, platform and AI colleagues to shape requirements and ship end-to-end
+  use_cases:
+  - Internal AI platform for agentic AI products across Prosus group
+  - Secure configurable agent runtimes operating at scale
+  - Long-running asynchronous agent workflows with tool orchestration
+  - Extensible integrations across products and channels
+  - Reliability, observability and cost control for agent infrastructure
+  skills:
+    genai: [LLMs, Function Calling, MCP, A2A, Agentic Workflows, Claude Code, Cursor,
+      GitHub Copilot, Codex]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Observability]
+    languages: [Go, Python]
+    domains: []
+    other: [Automated Testing, Event Sourcing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11395409'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T11:43:38.298718'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

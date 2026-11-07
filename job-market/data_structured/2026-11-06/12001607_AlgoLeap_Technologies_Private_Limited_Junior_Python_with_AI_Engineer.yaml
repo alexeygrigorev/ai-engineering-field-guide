@@ -1,0 +1,49 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: AI solutions and GenAI delivery services
+position:
+  title: Junior Python with AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and tunes prompts and LLM calls, prepares
+      data for RAG, and configures/evaluates LLM-driven voice and
+      document workflows, so the person shapes LLM output behavior
+      directly. Forward-deployed-style client-facing GenAI
+      delivery also supports ai-first.
+  responsibilities:
+  - Develop and test Python modules, APIs and data pipelines for assigned features
+  - Deploy and maintain services on GCP (Cloud Run, Cloud Functions, Cloud Storage)
+  - Build and tune prompts and LLM calls; prepare data for RAG and evaluation
+  - 'Support voice and document workflows: configure speech and OCR services, test
+    outputs, fix edge cases'
+  - Debug issues using logs and traces and raise blockers early
+  - Write documentation, test cases and clear task updates
+  - Join client calls and demos; present own work when asked
+  use_cases:
+  - AI solution modules delivered on GCP for clients
+  - Voice workflows using speech-to-text and text-to-speech services
+  - Document processing with OCR and document extraction
+  - RAG-based document Q&A and evaluation
+  - Chatbots and voice bots from GenAI projects
+  skills:
+    genai: [LLMs, Gemini, OpenAI API, Prompt Engineering, RAG, LLM Evaluation, Generative
+        AI]
+    ml: [Speech-to-Text, Text-to-Speech]
+    web: [APIs, JSON]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, Cloud Run, Cloud Functions, Cloud Storage, IAM]
+    ops: [Git, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: [OCR, Data Structures and Algorithms]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12001607'
+  location: Bhandup East, IND
+  extracted_at: '2026-11-06T14:23:04.142205'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Notion
+  stage: null
+  focus: Collaborative AI workspace for teams and agents
+position:
+  title: Software Engineer, AI Connections (Developer Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds developer platform APIs, MCP tools, and
+      integration infrastructure so customers can connect Notion
+      to external systems. While MCP tools feed agent ecosystems,
+      the engineer is not writing prompts, designing retrieval, or
+      shaping model behavior/output quality; AI tooling
+      familiarity is only a nice-to-have and AI is framed as a
+      tool they use to work smarter.
+  responsibilities:
+  - Build tools, APIs, and platform experiences that make Notion extensible and connected
+  - Evolve Developer Platform capabilities across APIs, MCP tools, and integration
+    infrastructure
+  - Enable developers, admins, and builders to create reliable integrations and automations
+    on top of Notion
+  - Contribute internal platform components that accelerate other Notion engineering
+    teams
+  - Define product strategy with cross-functional partners across product, design,
+    data science, and user research
+  - Improve performance, reliability, and robustness of the Notion platform at scale
+  - Partner with engineering leaders on high-leverage technical investments in core
+    systems
+  use_cases:
+  - Developer platform for building integrations with Notion
+  - Workflow automation across external apps and data sources
+  - MCP tooling for AI agents to interact with Notion
+  - Extensible connected workspace APIs
+  skills:
+    genai: [MCP, LLMs, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10830867'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:22:14.497913'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

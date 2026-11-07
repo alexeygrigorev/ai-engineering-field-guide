@@ -1,0 +1,50 @@
+company:
+  name: loveholidays
+  stage: null
+  focus: Online travel agency offering holiday booking
+position:
+  title: IT Systems & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and iterates on agentic AI workflows, tool-
+      using agents, and RAG with evaluation, directly shaping
+      model behavior via Google ADK and similar frameworks.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Administer and improve SaaS platforms and AI-enabled services including configuration,
+    access, environments, integrations and lifecycle management
+  - Build and maintain applied and agentic AI workflows and automation pipelines connecting
+    models, tools, business data, APIs and SaaS systems
+  - Use Google ADK or similar frameworks to build, test and iterate on tool-using
+    agents and AI-powered automations
+  - Monitor service health, usage, cost and performance; lead testing, evaluation
+    and incident triage
+  - Partner with product, engineering, security, vendors and business teams to translate
+    needs into configurations, integrations and automations
+  - Document configurations, dependencies and runbooks, applying secure change-management
+    and governance practices
+  use_cases:
+  - AI-enabled automation of internal business workflows
+  - Tool-using agents connected to SaaS platforms and business data
+  - Holiday discovery, booking and customer support systems
+  - Operational automation for business verticals
+  skills:
+    genai: [Google ADK, Agentic Workflows, AI Agents, RAG, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: [Data Pipelines, Event-Driven Architecture]
+    cloud: [GCP]
+    ops: [CI/CD, Observability, Incident Management]
+    languages: []
+    domains: []
+    other: [SaaS Administration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11820879'
+  location: London, GBR
+  extracted_at: '2026-11-06T13:18:35.948240'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

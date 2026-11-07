@@ -1,0 +1,54 @@
+company:
+  name: Cloudflare
+  stage: null
+  focus: Global network and cloud security platform
+position:
+  title: Software Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production AI agents: designing agent flows
+      with the Agent SDK, MCP, and function calling, wiring
+      retrieval via Vectorize, and creating evals and guardrails
+      for model output quality. This is directly shaping LLM/agent
+      behavior, so ai-first.
+  responsibilities:
+  - Build production agents on Cloudflare Workers using Durable Objects for state
+    and short-term memory
+  - Wire agent tools using the Agent SDK, MCP, and function calling
+  - Use Vectorize, KV, R2, and D1 for semantic memory, cache, files, and configuration
+  - Run models through Workers AI and AI Gateway, integrating third parties as needed
+  - Create evals, guardrails, and audits; measure, tune, and re-ship quickly
+  - Build observability for distributed AI workflows with structured logging and end-to-end
+    tracing
+  - Architect security boundaries for agent-led operations including secure credential
+    handling and approval gates
+  - Integrate with queues, Pub/Sub, and webhooks; own services end to end including
+    on-call
+  use_cases:
+  - Customer-facing support agents that summarize issues, propose fixes, and escalate
+    to humans
+  - Industrial-scale AI agents serving Cloudflare customers at global edge scale
+  - Semantic memory and recall for agent sessions via vector search
+  - Reducing cost per support case and time to first response
+  - Agent health and metrics exposed in transparent dashboards
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Function Calling, Prompt Engineering,
+      LLM Evaluation, Guardrails, Multi-Agent Systems, Embeddings]
+    ml: [LLMs]
+    web: [Webhooks, HTTP, Agent SDK]
+    databases: [Vectorize, R2, D1, KV, PostgreSQL]
+    data: [Queues, Pub/Sub]
+    cloud: [Cloudflare Workers, Workers AI, AI Gateway, Durable Objects]
+    ops: [Observability, Distributed Systems]
+    languages: [TypeScript, Rust]
+    domains: []
+    other: [Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11667878'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:29:45.475609'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

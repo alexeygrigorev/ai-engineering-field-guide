@@ -1,0 +1,50 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank building agentic AI for credit risk modeling
+position:
+  title: Senior Platform Engineer (Python/AI) - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds an agentic AI platform end-to-end, including
+      orchestration pipelines, RAG systems, LLM integrations, and
+      MCP tool interfaces - directly shaping LLM/agent behavior.
+      Hence ai-first.
+  responsibilities:
+  - Take end-to-end ownership of discrete platform modules and drive them to completion
+    independently
+  - Build proofs-of-concept and prototypes to validate technical approaches early
+  - Design, develop, and ship production-grade Python components for the agentic AI
+    platform (orchestration pipelines, RAG systems, LLM integrations, MCP tool interfaces)
+  - Champion engineering best practices including clean code, automated testing, CI/CD,
+    logging, and monitoring
+  - Build and maintain secure integrations with internal data sources, external APIs,
+    and LLM providers
+  - Keep pace with the evolving GenAI and LLM landscape and bring emerging tools to
+    the team
+  - Collaborate with quantitative analysts and stakeholders to shape high-impact use
+    cases
+  use_cases:
+  - Agentic AI platform to augment quantitative modelers in credit risk model development
+  - Automating the end-to-end credit risk model development lifecycle
+  - Enhancing model governance and accelerating delivery of risk models
+  skills:
+    genai: [LLMs, RAG, MCP, Google ADK, Generative AI]
+    ml: []
+    web: [REST APIs]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring, Docker]
+    languages: [Python, SQL, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11534543'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:07:05.018707'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

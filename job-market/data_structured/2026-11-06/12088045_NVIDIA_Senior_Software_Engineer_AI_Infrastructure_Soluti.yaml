@@ -1,0 +1,57 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: Accelerated computing, GPUs, and AI hardware/software
+position:
+  title: Senior Software Engineer, AI Infrastructure Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows, multi-
+      agent orchestration, RAG, tool calling, prompt engineering,
+      and LLM evaluation - directly shaping LLM/agent behavior.
+      Serving and infrastructure work is secondary to the shaping
+      responsibilities.
+  responsibilities:
+  - Design, build, and operate AI infrastructure powering LLM applications and autonomous
+    agents
+  - Develop agentic AI workflows and multi-agent systems with tool calling, planning,
+    memory, RAG, and orchestration
+  - Integrate and serve LLMs via APIs and inference endpoints, optimizing latency,
+    throughput, cost, and reliability
+  - Containerize with Docker and deploy on Kubernetes with Helm, autoscaling, and
+    GPU workloads
+  - Own L3 production readiness, troubleshooting, root-cause analysis, and performance
+    tuning
+  - Define observability for AI systems including monitoring of agent behavior and
+    LLM quality
+  - Build CI/CD pipelines for AI applications and infrastructure
+  - Develop backend services and REST APIs in Python/.NET Core exposing AI capabilities
+  use_cases:
+  - Enterprise LLM-based applications
+  - Autonomous agent solutions
+  - Multi-agent orchestration with tool calling and planning
+  - Retrieval-augmented generation systems
+  - GPU-accelerated AI inference serving
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, Function Calling, RAG, LangChain,
+      LangGraph, Hugging Face, Prompt Engineering, MCP, Guardrails, LLM Evaluation,
+      OpenAI API]
+    ml: [Model Evaluation, NeMo]
+    web: [REST APIs, ASP.NET Core]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, CI/CD, GitHub Actions, Azure DevOps, GitLab CI,
+      Jenkins, Git, Observability, Triton, NVIDIA NIM]
+    languages: [Python, C#]
+    domains: []
+    other: [NVIDIA AI Enterprise]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088045'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:53:27.295557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

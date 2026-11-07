@@ -1,0 +1,47 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage semiconductor solutions
+position:
+  title: Staff AI Engineer, SMAI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack software engineer for manufacturing
+      applications; AI appears only as AI-assisted development
+      tools (Copilot, Claude Code) used for productivity, which is
+      explicitly ai-support per the edge cases. No shaping of
+      model behavior or output.
+  responsibilities:
+  - Configure, develop, maintain and support Micron and third-party applications for
+    the MFG Application Development Team
+  - Apply software engineering principles across the full development lifecycle including
+    requirements analysis, design, documentation, and support
+  - Build quality software and participate in quality improvement efforts to minimize
+    defects, downtime, and performance degradation
+  - Develop across multiple technologies including full-stack desktop, web, and cloud
+    environments
+  - Use AI-assisted development tools to improve productivity, code quality, and problem
+    solving
+  - Collaborate with stakeholders and customers in a fast-paced Agile environment
+  use_cases: []
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: [WebAPI, REST APIs, Microservices]
+    databases: [SQL Server, MySQL]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Git, DevOps, TFS, Docker, OpenShift]
+    languages: [C#, C++, .NET, Python, Perl, PowerShell]
+    domains: []
+    other: [Design Patterns, Agile, GitHub Copilot, WPF, ADO.NET, IIS, Linux, Apache
+        Web Server]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034047'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:35:31.639936'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

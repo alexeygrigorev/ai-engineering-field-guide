@@ -1,0 +1,59 @@
+company:
+  name: Félix (felixpago)
+  stage: Series C
+  focus: |-
+    AI-powered cross-border remittances and financial services
+    for US Latinos
+position:
+  title: AI Engineer (Enterprise)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and scales autonomous multi-agent
+      systems, RAG pipelines, evaluation pipelines (LLM-as-a-
+      judge), and prompt/model routing — directly shaping LLM
+      behavior. Clear ai-first.
+  responsibilities:
+  - Architect, develop, and maintain scalable, stateful AI agents in production using
+    Python and frameworks like Google ADK, LangGraph, and CrewAI
+  - Establish LLMOps monitoring, tracing, and observability for agentic workflows
+    using tools like LangSmith, Arize Phoenix, or Weights & Biases
+  - Lead end-to-end integration of AI agents into core product infrastructure (Payments,
+    Fraud) from containerization to CI/CD deployment
+  - Design automated evaluation pipelines using LLM-as-a-judge, semantic similarity
+    testing, and adversarial benchmarking
+  - Optimize RAG pipelines and agent loops with caching, prompt compression, and model
+    routing to balance cost and performance
+  - Mentor junior engineers and drive best practices in async programming, error handling,
+    and structured data validation
+  use_cases:
+  - WhatsApp-based conversational AI for financial services
+  - Multi-agent system for reasoning and executing multi-step tasks across loans,
+    payments, and fraud
+  - AI-powered cross-border remittances for US Latino users
+  - Production agent safety and groundedness evaluation before releases
+  skills:
+    genai: [Google ADK, LangGraph, CrewAI, LangChain, OpenAI API, RAG, AI Agents,
+      Agentic Workflows, LLMs, Generative AI, Function Calling]
+    ml: [Model Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [LLMOps, LangSmith, Arize, Weights & Biases, Docker, Kubernetes, CI/CD, Monitoring,
+      Observability, Git, GitHub]
+    languages: [Python]
+    domains: []
+    other: [Pydantic]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11314209'
+  location: Miami, USA
+  locations:
+  - Miami, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T11:29:46.093079'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

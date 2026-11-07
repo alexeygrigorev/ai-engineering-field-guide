@@ -1,0 +1,73 @@
+company:
+  name: Codat
+  stage: null
+  focus: Advisory intelligence for commercial banking
+position:
+  title: Senior Software Engineer (AI/Data)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds the systems an LLM reasons over: MCP
+      servers, agent tools, semantic layer with definitions the
+      model uses, and evals that catch the model quoting wrong
+      numbers. This is shaping model behaviour via
+      retrieval/grounding and evals, with LLM components
+      throughout.
+  responsibilities:
+  - Build and grow the semantic layer of measures, dimensions and definitions the
+    LLM uses
+  - Design and build the signal layer detecting changes for bank clients
+  - Own the calculations and definitions the reasoning-layer LLM relies on
+  - Build agents and MCP servers behind the banking assistant, including tool design
+    and evals
+  - Build data pipelines, services and data models from raw source data to the numbers
+    the assistant quotes
+  - Add testing, observability and guard-rails to prove outputs and stop unsupported
+    claims
+  use_cases:
+  - Client intelligence for commercial bankers delivered inside Microsoft Copilot
+  - Answering banker questions from clients' real financial books
+  - Proactively surfacing what changed for a client and why it matters
+  - Turning client signals into actionable banking advice via an LLM reasoning layer
+  - Consistent, definition-backed metrics and calculations as ground truth for the
+    assistant
+  skills:
+    genai: [MCP, AI Agents, LLMs, RAG, LLM Evaluation, Embeddings, Prompt Engineering,
+      Semantic Search, Vector Databases, Azure OpenAI]
+    ml: [Fine-Tuning, RLHF, Model Evaluation, Machine Learning, Deep Learning, Neural
+        Networks, Model Training, Feature Engineering, XGBoost, TensorFlow, PyTorch,
+      Transformers, scikit-learn, Pandas, NumPy, JAX, CUDA, Quantization, Hugging
+        Face, Keras, Anomaly Detection, Reinforcement Learning, NLP]
+    web: [FastAPI, REST APIs, GraphQL, gRPC, Microservices, APIs, WebSockets, React,
+      Node.js, Flask, Django, Streamlit, Playwright, OAuth, JSON, Next.js, Vue, Angular,
+      HTML, CSS, Full-Stack Development, Webhooks, REST, Spring Boot, Ruby on Rails,
+      Protobuf]
+    databases: [SQL, PostgreSQL, Delta Lake, Databricks, Snowflake, BigQuery, MySQL,
+      MongoDB, Redis, NoSQL, Vector Databases, Pinecone, Weaviate, Chroma, Qdrant,
+      Milvus, FAISS, pgvector, Elasticsearch, OpenSearch, ClickHouse, Redshift, DynamoDB,
+      Neo4j, Knowledge Graphs, Graph Databases, Relational Databases, SQL Server,
+      Oracle, Cassandra]
+    data: [Spark, Databricks, Delta Lake, Dagster, Airflow, Temporal, dbt, Data Pipelines,
+      Data Engineering, Kafka, PySpark, Ray, Data Modeling, Data Governance, Prefect,
+      Hadoop, Flink, RabbitMQ]
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure ML, Azure Functions, AKS,
+      AWS, GCP, Vertex AI, SageMaker, AWS Bedrock, AWS Lambda, AWS S3, EKS, IAM, ECS,
+      API Gateway, CloudFormation]
+    ops: [Docker, Kubernetes, CI/CD, MLflow, LangSmith, Observability, Monitoring,
+      MLOps, LLMOps, Model Deployment, Terraform, Infrastructure as Code, GitHub Actions,
+      GitLab CI, Jenkins, Git, Linux, Datadog, Prometheus, Grafana, OpenTelemetry,
+      DevOps, Helm, GitOps, ArgoCD, Weights & Biases, Model Monitoring, Kubeflow,
+      Distributed Systems, vLLM, Triton, TensorRT, GitHub, Langfuse, CloudWatch, ELK
+        Stack, GitHub Copilot, Azure DevOps, Ansible, DevSecOps]
+    languages: [C#, Python, SQL, TypeScript, Java, Go, Rust, C++, JavaScript, Bash,
+      Scala, asyncio, .NET, Node.js]
+    domains: [NLP]
+    other: [Microsoft Copilot, Fintech, Banking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11945540'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:07:38.352518'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

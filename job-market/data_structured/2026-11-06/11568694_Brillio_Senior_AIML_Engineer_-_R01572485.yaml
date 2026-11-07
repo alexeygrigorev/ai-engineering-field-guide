@@ -1,0 +1,51 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and enterprise AI solutions
+position:
+  title: Senior AI/ML Engineer - R01572485
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs GenAI architectures and enterprise AI
+      platforms, and establishes technical guardrails, model
+      validation, and lifecycle frameworks - shaping model
+      behaviour and output quality. GenAI/LLM and agent components
+      are explicitly named, making it ai-first.
+  responsibilities:
+  - Lead design and architecture of enterprise-scale AI platforms with scalability,
+    security, and operational readiness
+  - Define frameworks for model lifecycle management, MLOps/LLMOps, and AI observability
+  - Establish Responsible AI principles, governance frameworks, and technical guardrails
+    across AI solutions
+  - Drive platform-level technical decisions and define reusable architecture patterns
+    for AI and GenAI solutions
+  - Collaborate with business, data, and technology teams to deliver production-ready
+    AI capabilities
+  - Evaluate emerging AI technologies for enterprise applicability
+  - Maintain AI model governance, version control, and documentation
+  use_cases:
+  - Enterprise-scale AI platform architecture and operationalization
+  - Model lifecycle management and AI governance
+  - GenAI solutions with LLMs and AI agents
+  - Model validation and monitoring for production ML
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, RAG]
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, MXNet, Decision Trees, SVM, Regression
+        Analysis, Evidently AI, Statistical Analysis]
+    web: []
+    databases: [Vector Databases]
+    data: [PySpark, Great Expectations]
+    cloud: [Cloud AI Platforms]
+    ops: [MLOps, LLMOps, Kubeflow, BentoML, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11568694'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:12:27.299526'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

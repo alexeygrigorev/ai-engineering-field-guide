@@ -1,0 +1,195 @@
+job_id: 11829157
+title: Lead Platform Engineer, AI-Native (US Remote)
+company: Tie
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Lead Platform Engineer, AI-Native — Full-Stack + Data/ML
+  Pipelines + DevOps
+
+  Company: Revenue Roll Inc. / Tie
+
+  Location: Fully remote, US-based
+
+  Compensation: $135,000 USD/year
+
+  Employment Type: Full-time, W-2
+
+  Benefits: Health, vision, and dental insurance + equity
+  options
+
+  Reports to: CTO / Co-Founder
+
+  About Tie
+
+  Tie builds high-scale data infrastructure for digital
+  commerce: identity resolution, customer intelligence,
+  marketing analytics, and the activation systems that turn
+  anonymous traffic into revenue for 200+ brands. Our platform
+  spans customer-facing SaaS, real-time data and ML pipelines,
+  multi-cloud infrastructure, and automation-heavy internal
+  tooling. We're a Series A company heading into a Series B,
+  and our engineering org is deliberately small, deeply
+  automated, and ships like a team three times its size.
+
+  About the Role
+
+  We're hiring one Lead Platform Engineer to operate as a
+  hybrid force multiplier across product engineering, data/ML
+  pipelines, infrastructure, and AI-assisted development. This
+  single hire consolidates work currently spread across
+  contractors and vendors into one high-agency, US-based
+  engineering owner.
+
+  You should be senior enough to own production end to end,
+  fluent enough in data and streaming systems to own the
+  pipelines that the business runs on, pragmatic enough to
+  ship application code, and AI-native enough to dramatically
+  increase throughput using tools like Claude Code, Cursor,
+  and agentic workflows. This is a hands-on technical
+  leadership role, not a management role.
+
+  You Can Credibly Say Yes to All Five
+
+  - This is the bar. If any one of these is a "no," the role
+    isn't a fit:
+  - I can ship React/Node/Mongo product features and build the
+    data/ML pipelines (Kafka, ClickHouse) myself.
+  - I can own Terraform/Kubernetes/GCP/AWS/CI-CD without leaning
+    on a vendor.
+  - I've debugged production systems under pressure.
+  - I use AI coding tools every day and can walk through my
+    workflow.
+  - I want startup equity upside enough to take broad ownership.
+
+  What You'll Own
+
+  - Data & ML Pipelines (core) Own the systems the business runs
+    on: real-time event ingestion and streaming through Kafka,
+    analytical and feature data in ClickHouse, and the
+    transformation and ML workflows on top. You'll design,
+    operate, debug, and scale these pipelines — partitioning,
+    retention, schema evolution, backfills, and the
+    reliability of data moving end to end.
+  - Platform Engineering Build, refactor, and scale core product
+    surfaces — React frontends, Node/Express/Nest-style
+    services, and MongoDB-backed APIs — plus the integrations,
+    onboarding, billing, and customer-facing analytics that
+    sit on top.
+  - Infrastructure & DevOps Take ownership of CI/CD (GitHub
+    Actions), Terraform, Kubernetes, AWS/GCP infrastructure,
+    secrets management, deployment reliability, and
+    environment automation. You own the path from commit to
+    production, and the cost and reliability of what runs
+    there.
+  - AI-Native Engineering Use AI aggressively and responsibly to
+    accelerate delivery — scaffolds, tests, migrations, code
+    review, observability queries, runbooks, Terraform
+    modules, and data-debugging workflows — while applying
+    senior engineering judgment, security discipline, and
+    production rigor.
+  - Security, Compliance & Reliability Own practical SOC 2
+    readiness, audit-friendly CI/CD, secrets rotation, IAM
+    hygiene, observability (OpenTelemetry, Sumo Logic), and
+    incident response.
+
+  What You'll Do in the First 90 Days
+
+  - Map the current platform, repos, environments, pipelines,
+    cloud resources, and deployment paths.
+  - Take over day-to-day ownership of the data/ML pipelines
+    (Kafka, ClickHouse) and high-priority full-stack tickets.
+  - Harden CI/CD for critical services: tests, build validation,
+    deployment controls, and rollback procedures.
+  - Establish an AI-assisted engineering workflow the rest of
+    the team can use — repeatable prompts, review workflows,
+    test generation, and infra/debugging agents.
+  - Improve production and pipeline observability across
+    services, containers, and data flows.
+  - Replace vendor-dependent infrastructure with durable,
+    internally-owned Terraform/Kubernetes automation.
+
+  Required Background
+
+  - 7+ years of software engineering experience, including
+    production ownership.
+  - Hands-on ownership of data/streaming pipelines — Kafka and
+    ClickHouse (or directly comparable) in production,
+    including the operational side (throughput, retention,
+    schema, backfills, reliability).
+  - Strong full-stack experience with TypeScript/JavaScript,
+    React, Node.js, Express and/or NestJS, and MongoDB.
+  - Real cloud infrastructure depth: AWS and/or GCP, Terraform,
+    Kubernetes, Docker, CI/CD (GitHub Actions), secrets
+    management, deployment automation — owned as your
+    responsibility, not handed to a separate ops team.
+  - Proven experience operating production systems with logs,
+    metrics, traces, alerts, and incident response under
+    pressure.
+  - Demonstrably AI-native: real work where AI tooling
+    multiplied what you shipped, and a workflow you can walk
+    through. Strong architectural judgment — can design
+    systems, simplify them, and explain tradeoffs.
+  - Comfort in a lean startup environment with high ownership,
+    incomplete documentation, and shifting priorities.
+
+  Strong Plus
+
+  - ML/feature pipelines, model serving, or data-quality tooling
+    at scale
+  - Snowplow/SnowcatCloud, BigQuery, dbt, Neo4j, RisingWave,
+    Airbyte
+  - OpenTelemetry, Sumo Logic, Grafana, Prometheus
+  - Auth0, 1Password CLI, SOC 2, GitGuardian, TruffleHog,
+    security automation
+  - Experience modernizing contractor- or vendor-built systems
+    into durable internal infrastructure
+  - Prior founding engineer, staff engineer, DevOps lead, or
+    architect experience
+  - Martech, adtech, e-commerce, customer data platforms,
+    identity graphs, billing, or fintech workflows
+
+  What "Great" Looks Like
+
+  A senior IC who can lead without a team beneath them. Full-
+  stack enough to ship product, pipeline-literate enough to
+  own the data the business depends on, infrastructure-
+  literate enough to own production. AI-native but not
+  reckless. Comfortable replacing vendor dependency with
+  internal leverage. Fast, opinionated, pragmatic, and able to
+  debug across frontend, backend, data pipeline, cloud, and
+  deployment layers.
+
+  Interview Process
+
+  - Because the role is multifaceted, the loop is tailored to
+    each candidate rather than a fixed gauntlet: a CTO screen,
+    a technical deep dive, a short AI-assisted practical (work
+    through part of a repo with AI, propose a change, add
+    tests, explain the risks), and a domain session matched to
+    your strengths — a Kafka/ClickHouse pipeline design for
+    data-heavy candidates, a React/Node build for product-
+    heavy ones — plus an infra/incident scenario, and a final
+    founder working session.
+
+  Compensation
+
+  Compensation: $135,000 USD/year (full-time, W-2)
+
+  Equity: Meaningful early-stage equity, commensurate with
+  seniority and ownership scope (standard 4-year vest, 1-year
+  cliff)
+
+  Benefits: Health, vision, and dental insurance
+
+  Revenue Roll Inc. (DBA Tie) is an equal opportunity
+  employer.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Analytics
+posted_date: 2026-10-23
+url: "https://www.builtinla.com/job/lead-platform-engineer-ai-native-us-remote/11829157"
+source: Built In

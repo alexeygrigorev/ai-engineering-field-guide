@@ -1,0 +1,49 @@
+company:
+  name: Traba
+  stage: null
+  focus: AI operating system for industrial supply chain staffing
+position:
+  title: Staff Software Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role wires frontier models and AI agents into real
+      product across the stack, architecting autonomous vetting
+      pipelines powered by ML and agents—shaping agent behavior in
+      production, even if a separate team owns the orchestration
+      internals. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Wire frontier models and existing agents into the staffing marketplace product
+    across the stack
+  - Automate the pipeline that sources, vets, matches, and places workers on millions
+    of shifts
+  - Architect and lead core systems including real-time matching and autonomous vetting
+    pipelines
+  - Own backend platform architecture and drive performance, reliability, and scale
+  - Partner with the CTO on key architectural decisions and roadmap iteration
+  - Set the standard for how the team builds with AI-assisted tooling
+  use_cases:
+  - Automating worker sourcing, vetting, matching, and shift placement
+  - Autonomous vetting pipelines for temporary industrial workers
+  - Real-time matching of workers to shifts at scale
+  - Automation of manual logistics and manufacturing workflows
+  - Decision intelligence and insights from industrial data streams
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL]
+    data: [Kafka, RabbitMQ]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12008248'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:27:24.676700'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

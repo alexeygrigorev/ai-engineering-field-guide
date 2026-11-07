@@ -1,0 +1,226 @@
+job_id: 11937820
+title: Sr AI Architect/Engineer
+company: Transaction Network Services
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  An extraordinarily talented group of individuals work
+  together every day to drive TNS' success, from both
+  professional and personal perspectives.  Come join the
+  excellence!
+
+  Overview
+
+  Researches, designs, develops, and operates secure,
+  production AI platform capabilities by translating business
+  objectives and departmental requirements into deployed AI
+  solutions. Work typically includes assessing lines of
+  business’ automation needs, building the data connectivity,
+  security, and cost-management infrastructure that lets AI
+  work safely against company data, and engineering the model
+  hosting, orchestration, and monitoring systems that deliver
+  measurable application value.
+
+  Responsibilities
+
+  Why this role exists
+
+  TNS is moving from AI governance and foundations into
+  execution. The platform building blocks are in place or
+  underway — Microsoft 365, Copilot, Entra ID, SharePoint, and
+  Anthropic's Claude models via AWS Bedrock. What we don't yet
+  have is a dedicated person who can both build and operate
+  the secure, production-grade AI platform that lets AI work
+  safely against our data and embed with our lines of business
+  to turn that capability into measurable value.
+
+  This role does both. You'll be the technical engine and the
+  on-the-ground partner who makes AI a productive, trusted
+  tool across the enterprise — and who multiplies that impact
+  by enabling others to build, not just building yourself.
+
+  What you'll do
+
+  Your time will span two connected halves.
+
+  Build and operate the AI platform
+
+  Model platform and private hosting. Own our Claude
+  deployment on AWS Bedrock end to end — model access and
+  versioning, region and data-residency decisions, provisioned
+  throughput vs. on-demand, and the private, VPC-isolated
+  hosting posture that keeps our data inside our boundary and
+  out of third-party training. Evaluate and manage additional
+  models where they fit, and maintain a routing layer so
+  applications aren't hard-wired to a single model or
+  provider.
+
+  Harness and orchestration management. Build and maintain the
+  application harness that sits between our users and the
+  models: prompt and context management, tool and function
+  calling, agent orchestration, retrieval pipelines,
+  guardrails and content filtering, caching, and fallback
+  behavior. Own the evaluation harness too — regression
+  suites, quality benchmarks, and the release process that
+  lets us upgrade models without breaking what's in
+  production.
+
+  Data connectivity. Design and build secure, governed
+  connections between AI systems and TNS data — Microsoft 365
+  and Graph, SharePoint, databases, data warehouses, APIs, and
+  line-of-business systems. Own the retrieval architecture,
+  indexing and freshness strategy, and the permission-trimming
+  that ensures every user sees only what they're entitled to
+  see, with no leakage across boundaries.
+
+  Security and access control. Architect least-privilege
+  access across identity, network, and data layers — IAM and
+  Entra ID, private networking, encryption and key management,
+  secrets handling, and tenant isolation. Defend against AI-
+  specific threats: prompt injection, data exfiltration
+  through model outputs, insecure tool use, and over-
+  permissioned agents. Partner with security and governance so
+  every deployment is auditable and compliant by design, with
+  a full audit trail of prompts, outputs, and data access.
+
+  Monitoring and observability. Instrument the platform for
+  production operations — latency, error rates, throughput and
+  quota headroom, output quality and drift, guardrail trips,
+  and anomalous usage. Build the dashboards and alerting that
+  let us find problems before users do, and the usage
+  telemetry that tells us which solutions are actually
+  delivering value.
+
+  Cost management. Own AI spend as a first-class engineering
+  concern: token-level cost attribution by application and
+  line of business, budgets and alerting, model right-sizing
+  (using the cheapest model that meets the quality bar),
+  prompt caching and context optimization, batch processing
+  where latency allows, and provisioned-throughput decisions.
+  Produce the chargeback and unit-economics reporting
+  leadership needs to fund the portfolio with confidence.
+
+  Reusable foundations. Turn all of the above into patterns,
+  templates, and guardrails so each new use case is faster,
+  cheaper, and safer to build than the last.
+
+  Ship value with the business (forward-deployed engineering)
+
+  - Embed directly with teams across our lines of business
+    (Communications, Waypoint, Payments, Corporate/Shared) to
+    identify high-value AI and automation opportunities.
+  - Prototype quickly, validate with real users, and take the
+    strongest ideas to production.
+  - Drive adoption — measure whether solutions are actually used
+    and delivering value, and iterate until they are.
+  - Enable others: seed and support a network of "AI champions"
+    in each line of business, equipping non-specialists to
+    build their own automations on your patterns and under
+    appropriate oversight.
+
+  What you'll accomplish in your first year
+
+  - Stand up a secure, monitored, cost-managed AI platform on
+    AWS Bedrock with governed connectivity to TNS data.
+  - Ship a portfolio of production use cases with documented,
+    measurable value — reduced cost to serve, shorter cycle
+    times, and volume absorbed without added headcount.
+  - Establish a use-case intake and prioritization process so
+    demand is triaged by value rather than by who asks
+    loudest.
+  - Deliver AI cost transparency and attribution by application
+    and line of business.
+  - Enable at least one capable AI champion in each line of
+    business.
+
+  What you bring (required)
+
+  - Strong software / solutions engineering background with
+    hands-on experience building and deploying production
+    AI/LLM applications — RAG, agents, tool use,
+    orchestration, and evaluation.
+  - Direct experience with a managed model platform in
+    production; AWS Bedrock strongly preferred, along with the
+    surrounding AWS estate (IAM, VPC, KMS, CloudWatch,
+    PrivateLink).
+  - Demonstrated ability to build and operate data connectivity
+    to enterprise systems with permission-aware retrieval.
+  - Working command of enterprise security and data governance:
+    identity and access, data protection, encryption and key
+    management, and AI-specific threat models.
+  - Production operations instincts — you instrument what you
+    build, and you've owned the monitoring and on-call reality
+    of a live system.
+  - Cost discipline: you treat inference spend as an engineering
+    constraint and can show where the money goes.
+  - Genuine business fluency and communication skills — you're
+    comfortable sitting with finance, operations, or sales,
+    understanding their problems, and translating them into
+    solutions.
+  - A demonstrated bias toward shipping and adoption, not just
+    building demos.
+
+  Nice to have
+
+  - Depth in the Microsoft / Azure ecosystem alongside AWS
+    (Azure AI, Copilot Studio, Power Platform, Entra ID,
+    SharePoint / Graph) — our environment spans both.
+  - Experience in a regulated or security-sensitive industry —
+    payments, telecom, or financial data.
+  - Self-hosted or fine-tuned model experience, and a clear view
+    of when it beats a managed API.
+  - Infrastructure-as-code and CI/CD for AI systems (Terraform,
+    pipelines, automated evals in the release path).
+  - Change-management or internal-consulting experience.
+  - Prior forward-deployed or customer-facing engineering
+    experience.
+
+  Qualifications
+
+  Who you are
+
+  The rare blend of builder and partner. You carry the
+  technical depth of a staff engineer and the people instincts
+  of an internal consultant. You're energized by variety — a
+  private-networking and key-management problem in the
+  morning, a finance-team workflow in the afternoon. You
+  measure yourself by value delivered and adopted, not lines
+  of code. You teach and multiply rather than hoard knowledge.
+  And you operate with ownership: when a deployment is
+  struggling or a cost-line spikes, you own the fix.
+
+  How your success is measured
+
+  In short: reduced cost to serve on named processes, use
+  cases shipped and sustained in production, adoption across
+  lines of business, champions enabled, platform reliability
+  and cost-per-unit-of-value, and a clean security and
+  governance record.
+
+  For this role, we anticipate paying $150,000 - $250,000
+  annually. Any compensation range provided for a role is an
+  estimate determined by available market data. The actual
+  amount may be higher or lower than the range provided
+  considering each candidate’s knowledge, skills, abilities,
+  and geographic location. TNS offers a competitive benefit
+  package including medical and dental coverage, life
+  insurance, paid holidays and vacations, and a 401K plan with
+  company match.
+
+  If you are passionate about technology, love personal growth
+  and opportunity, come see what TNS is all about!
+
+  TNS is an equal opportunity employer. TNS evaluates
+  qualified applicants without regard to race, color,
+  religion, gender, national origin, age, sexual orientation,
+  gender identity or expression, protected veteran status,
+  disability/handicap status or any other legally protected
+  characteristic.
+industries:
+  - Big Data
+  - Information Technology
+  - Other
+posted_date: 2026-10-28
+url: "https://www.builtinla.com/job/sr-ai-architect-engineer/11937820"
+source: Built In

@@ -1,0 +1,48 @@
+company:
+  name: Private Equity Insights
+  stage: null
+  focus: Private equity community, media, and conferences
+position:
+  title: AI Value Creation Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The role is a growth/marketing position that uses AI
+      workflows as a tool to scale copywriting and outreach, but
+      the description never details model-shaping work (no
+      prompts, retrieval, agents, or evals described). It gestures
+      at "AI workflows" and "deploy AI" without responsibilities
+      specific enough to classify as ai-first or ai-support, so
+      the classification is unknown.
+  responsibilities:
+  - Identify, target, and convert private equity funds into the community with well-timed
+    messaging
+  - Own and execute marketing channels that drive revenue
+  - Write persuasive copy for emails, landing pages, and posts, leveraging AI to scale
+    it
+  - Run and measure experiments on offers, copy, pricing, and pages
+  - Build repeatable playbooks and AI workflows instead of one-off efforts
+  - Support conferences and other operational tasks as needed
+  use_cases:
+  - Scaling copywriting and outreach with AI workflows
+  - Audience growth and investor community building
+  - Marketing channel and revenue experimentation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Copywriting, Conversion Optimisation, A/B Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11999665'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:22:33.036017'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

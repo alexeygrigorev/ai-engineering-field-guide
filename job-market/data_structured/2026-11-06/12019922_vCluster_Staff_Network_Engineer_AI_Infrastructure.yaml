@@ -1,0 +1,55 @@
+company:
+  name: vCluster
+  stage: Venture-backed startup, raised over $28M
+  focus: AI infrastructure and GPU cloud platform
+position:
+  title: Staff Network Engineer (AI Infrastructure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds network automation, provisioning, and load
+      balancing infrastructure for AI clouds. It never shapes
+      model behavior (no prompts, RAG, training, or evals); it
+      runs and scales the network fabric that AI workloads ride
+      on, which is infrastructure/serving work. AI appears only as
+      the workload domain, so this is ai-support.
+  responsibilities:
+  - Design and build systems that automatically provision and configure NVIDIA switches
+    and InfiniBand fabrics, integrating with NVIDIA UFM
+  - Build control loops that keep switch, VLAN, and VXLAN state consistent, detecting
+    and reconciling drift in production
+  - Build NAT gateway and L4 load balancing layer for tenant cluster connectivity
+    with failover designed in
+  - Define network layer behavior at scale including BGP route table limits, convergence,
+    and failover behavior
+  - Run automation on real AI Cloud environments as Customer Zero and turn operational
+    lessons into product behavior
+  - Set technical direction, decide build-vs-integrate tradeoffs, and write design
+    and requirements docs for networking across vCluster products
+  use_cases:
+  - Automated provisioning of NVIDIA switches and InfiniBand fabrics for AI clouds
+  - Network config state sync and drift reconciliation for tenant clusters
+  - NAT gateway and L4 load balancing connectivity for tenant clusters
+  - Scalable, failure-tolerant networking for real AI training and inference workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Kubernetes]
+    ops: [Network Automation, Cumulus Linux, Code Review, Git]
+    languages: [Go, Python]
+    domains: []
+    other: [InfiniBand, NVIDIA UFM, NVIDIA Spectrum Switches, NVUE, VXLAN, EVPN, BGP,
+      L4 Load Balancing, NAT Gateway, RoCEv2, Spectrum-X, eBPF/XDP, DPDK, SONiC, FRRouting,
+      Cilium, MetalLB, Congestion Control, Linux]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12019922'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:30:23.416600'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

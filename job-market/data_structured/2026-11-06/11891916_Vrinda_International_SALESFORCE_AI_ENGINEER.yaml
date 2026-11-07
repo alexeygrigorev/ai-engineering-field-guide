@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and enterprise Salesforce implementations
+position:
+  title: SALESFORCE AI ENGINEER
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role centers on Salesforce development (Apex, Triggers,
+      integrations) with AI used as developer tooling (Copado AI,
+      GitHub Copilot, Cursor, Claude) and configuring Agentforce
+      workflows. No evidence of shaping LLM behaviour via prompts,
+      retrieval, evals, or training; AI adoption is tooling and
+      configuration, so ai-support.
+  responsibilities:
+  - Architect and execute Salesforce integrations and large-scale enterprise implementations
+  - Design and develop custom solutions using Apex, Triggers, and core Salesforce
+    development tools
+  - Lead adoption and configuration of AI-powered development environments (Copado
+    AI, GitHub Copilot, Cursor, Claude)
+  - Implement and manage Agentforce capabilities to automate workflows
+  - Conduct unit and integration testing for system reliability and performance
+  - Collaborate within Agile/Scrum teams to deliver software solutions
+  - Optimize existing Salesforce architectures to incorporate emerging AI features
+  use_cases:
+  - Salesforce enterprise implementations with AI-enhanced tooling
+  - Workflow automation via Agentforce in the Salesforce ecosystem
+  - Salesforce system integrations for enterprise IT services
+  skills:
+    genai: []
+    ml: []
+    web: [Salesforce]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Apex, Salesforce Integrations, Copado AI, GitHub Copilot, Cursor, Claude,
+      Agentforce, Unit Testing, Integration Testing, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891916'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:42:39.381639'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

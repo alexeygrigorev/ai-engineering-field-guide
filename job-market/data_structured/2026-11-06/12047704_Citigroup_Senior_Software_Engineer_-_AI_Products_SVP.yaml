@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior Software Engineer - AI Products (SVP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimises prompts, evaluates models and
+      architectures, and builds production Generative AI solutions
+      (LLM-based document processing, classification,
+      translation). This is direct shaping of LLM behaviour, so
+      ai-first.
+  responsibilities:
+  - Design, build and support production-grade AI software and services that scale
+    across the organisation
+  - Own technical solutions end-to-end, from experimentation through deployment and
+    ongoing improvement
+  - Evaluate and experiment with AI models, prompts and architectures, productionising
+    the most effective approaches
+  - Lead technical design and architecture of AI products ensuring resilience, scalability,
+    explainability and auditability
+  - Develop Generative AI solutions for document processing, data extraction, classification,
+    translation and fraud detection
+  - Work with Product, Risk, Engineering and AI platform teams to meet business and
+    regulatory requirements
+  - Provide technical leadership, guidance and mentorship to other engineers
+  - Drive engineering practices through design reviews, code reviews, automated testing
+    and CI/CD
+  use_cases:
+  - Intelligent document processing and data extraction from unstructured documents
+  - Content classification and routing
+  - Cross-language machine translation
+  - Fraud and document-tampering detection
+  - Workflow optimisation across business processes
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, Agentic Workflows, Agent Development
+        Kit]
+    ml: [Model Evaluation, MLflow, NLP]
+    web: []
+    databases: [PostgreSQL, Oracle]
+    data: []
+    cloud: []
+    ops: [MLflow, Kubernetes, OpenShift, CI/CD, Jenkins, Tekton, Harness]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12047704'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:38:59.371589'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

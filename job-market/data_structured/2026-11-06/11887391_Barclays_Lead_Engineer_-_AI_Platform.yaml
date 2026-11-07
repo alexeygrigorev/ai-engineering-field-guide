@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Lead Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires GenAI/Agentic AI skills including
+      LangGraph/LangChain, Google ADK, MCP, RAG pipelines, and LLM
+      integration, plus AI safety controls like guardrails and
+      prompt injection defence — directly shaping model behaviour
+      and agent flows, so it is ai-first.
+  responsibilities:
+  - Design, develop and improve software providing business, platform and technology
+    capabilities
+  - Build cloud-native distributed systems and own platform subsystems end-to-end
+  - Develop production APIs and microservices using Python, Go or Java
+  - Integrate GenAI/Agentic AI capabilities including RAG pipelines and LLM integrations
+  - Implement AI safety controls such as guardrails and content filtering
+  - Collaborate cross-functionally to define requirements and ensure alignment with
+    business objectives
+  - Perform code reviews and promote code quality, secure coding and unit testing
+    practices
+  - Advise on complex issues, mitigate risk and contribute to policy and governance
+  use_cases:
+  - Internal AI platform enabling LLM and agent capabilities for the bank
+  - Enterprise GenAI integration via Bedrock with RAG pipelines
+  - API gateway and platform services for AI workloads
+  - AI safety enforcement across platform usage
+  skills:
+    genai: [LangGraph, LangChain, Google ADK, MCP, RAG, LLMs, Guardrails, Agentic
+        Workflows]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices, OAuth]
+    databases: [AWS RDS]
+    data: []
+    cloud: [AWS, EKS, AWS Bedrock, IAM, EntraID]
+    ops: [Distributed Systems, Kubernetes, HPA, API Gateway]
+    languages: [Python, asyncio, Go, Java]
+    domains: []
+    other: [A2A, Prompt Injection Defence, Content Filtering, Envoy Proxy, OPA, Rego,
+      Zero Trust]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887391'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru East, IND
+  extracted_at: '2026-11-06T13:38:52.541156'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

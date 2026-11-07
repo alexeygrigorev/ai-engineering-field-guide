@@ -1,0 +1,51 @@
+company:
+  name: Meeru AI Inc
+  stage: null
+  focus: AI-native financial intelligence platform for finance teams
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes both LLM output (grounded NLG with
+      guardrails, structured outputs, agentic orchestration via
+      LangGraph) and classical ML models (anomaly detection,
+      gradient boosting). Since an LLM/agentic component is
+      involved and behavior is shaped directly, this is ai-first.
+  responsibilities:
+  - Build per-customer ML models detecting anomalies in time-series and operational
+    data
+  - Build a template-first natural-language generation layer grounded in verified
+    data with guardrails and structured output
+  - Implement agentic orchestration with verification and human-confirmation checkpoints
+  - Integrate managed LLMs in customer clouds (AWS Bedrock, Vertex AI, Azure OpenAI)
+  - Partner with evaluation engineer to gate grounding, hallucination, and faithfulness
+    checks in CI
+  - Turn user feedback into durable model and system improvements
+  - Ship production Python services with SQL/warehouse access in containerized customer-hosted
+    deployments
+  use_cases:
+  - Anomaly detection in enterprise financial and operational time-series data
+  - Grounded natural-language reporting for CFOs, controllers, and FP&A leaders
+  - Auditable financial intelligence built from ERP, CRM, billing, and HRIS data
+  - Agentic workflows with verification checkpoints for finance operations
+  - Hallucination and grounding evaluation for financially sensitive AI output
+  skills:
+    genai: [Guardrails, Structured Outputs, LangGraph, Agentic Workflows, LLMs]
+    ml: [LightGBM, XGBoost, Anomaly Detection, SHAP]
+    web: []
+    databases: [Snowflake, PostgreSQL]
+    data: []
+    cloud: [AWS Bedrock, Vertex AI, Azure OpenAI, AWS, Azure, GCP]
+    ops: [CI/CD, Docker, LLM Evaluation]
+    languages: [Python, SQL]
+    domains: []
+    other: [Time-Series Modeling, Human-in-the-Loop]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11630136'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:25:51.786846'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

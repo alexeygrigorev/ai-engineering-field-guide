@@ -1,0 +1,50 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Tax, accounting, legal, and compliance information software
+position:
+  title: Senior Software Engineer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, applies domain
+      adaptation of LLMs, and works with RAG architectures,
+      directly shaping model behavior and generative application
+      quality. LLM/agent components are explicitly central, making
+      it ai-first.
+  responsibilities:
+  - Lead technical execution of AI initiatives including architecture design and delivery
+    oversight
+  - Design, develop, and deploy scalable AI/ML solutions using MLOps and LLMOps best
+    practices
+  - Optimize AI model performance including domain adaptation of third-party models
+  - Build AI-powered applications including AI agents and intelligent automation
+  - Design monitoring frameworks for application performance and product insights
+  - Collaborate with cross-functional teams to translate business requirements into
+    AI solutions
+  - Contribute to architecture discussions and influence engineering direction as
+    a technical thought leader
+  use_cases:
+  - AI agents and intelligent automation for tax and accounting workflows
+  - Intelligent document processing and document analysis
+  - Computer vision and NLP solutions
+  - AI-powered enterprise applications for tax, accounting, audit, and practice management
+  skills:
+    genai: [AI Agents, LLMs, Generative AI, RAG]
+    ml: [NumPy, scikit-learn, TensorFlow, PyTorch, Machine Learning]
+    web: [FastAPI]
+    databases: []
+    data: [Pandas]
+    cloud: [Azure]
+    ops: [MLOps, LLMOps, CI/CD, DevOps]
+    languages: [Python, .NET, C#]
+    domains: [Computer Vision, NLP]
+    other: [Matplotlib, Intelligent Document Processing, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10953071'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:23:31.062612'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

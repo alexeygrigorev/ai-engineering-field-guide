@@ -1,0 +1,46 @@
+company:
+  name: Speechify
+  stage: null
+  focus: Text-to-speech reading and accessibility products
+position:
+  title: Software Engineer, AI Data - Gurgaon, India
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines and large-scale data-
+      processing systems that feed someone else's model training
+      runs. Moving, cleaning, and acquiring data is plumbing, not
+      shaping model behavior, so it is ai-support.
+  responsibilities:
+  - Discover new sources of audio data and build reliable pipelines to bring them
+    into training datasets
+  - Build and improve large-scale data-processing systems optimizing for data quality,
+    throughput, and cost
+  - Collaborate closely with AI Scientists to improve training datasets and support
+    next-generation model development
+  - Own engineering projects end to end from problem discovery through implementation
+    and continuous improvement
+  use_cases:
+  - Text-to-speech audio reading products for PDFs, books, documents, and websites
+  - Accessibility for people with learning differences like dyslexia and ADD
+  - Petabyte-scale high-quality dataset building for AI model training
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP]
+    ops: [Linux, Terraform, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: [Web Crawlers, Audio Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11762254'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:57:54.985351'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

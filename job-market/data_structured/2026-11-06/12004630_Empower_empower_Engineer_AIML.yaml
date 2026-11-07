@@ -1,0 +1,47 @@
+company:
+  name: Empower (empower)
+  stage: null
+  focus: Financial services and personal finance products
+position:
+  title: Engineer AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and optimizes models within a Generative AI
+      Platform, experimenting with generative AI techniques and
+      optimizing model behaviour and performance, which is
+      shaping. Since generative AI/LLM components are involved
+      rather than only classical ML, it classifies as ai-first.
+  responsibilities:
+  - Build and deploy machine learning models using Python and relevant AI/ML libraries
+  - Optimize models for performance, scalability, and security
+  - Collaborate with data engineers to design data pipelines for model training and
+    inference
+  - Validate and preprocess datasets to ensure model accuracy and reliability
+  - Experiment with novel generative AI techniques and recommend platform enhancements
+  - Collaborate with product managers, data engineers, and QA teams
+  - Interface with external vendors for AI tools and recommend new AI/ML tools for
+    adoption
+  use_cases:
+  - Generative AI platform for financial services
+  - Scalable machine learning models supporting business objectives
+  - Model training and inference pipelines for financial applications
+  skills:
+    genai: [Generative AI]
+    ml: [TensorFlow, PyTorch, scikit-learn, Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12004630'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:24:21.252419'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

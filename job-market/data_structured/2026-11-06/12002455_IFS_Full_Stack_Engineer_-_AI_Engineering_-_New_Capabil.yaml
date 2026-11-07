@@ -1,0 +1,54 @@
+company:
+  name: IFS
+  stage: null
+  focus: |-
+    Enterprise software for asset, operations and scheduling
+    optimization
+position:
+  title: Full Stack Engineer - AI Engineering - New Capabilities
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is modeling scheduling/optimization problems
+      and extending a .NET/Angular optimization platform embedded
+      with customers. AI is mentioned only as AI-assisted and
+      agentic workflows the engineer uses to ship faster
+      (developer workflow), and the description explicitly
+      distinguishes building AI-powered products from using AI
+      tools - but no responsibility here involves shaping LLM
+      behavior, prompts, or retrieval. The deliverable is
+      optimization solutions, not model behavior.
+  responsibilities:
+  - Partner directly with customers to translate real-world scheduling and planning
+    problems into optimization models
+  - Configure, extend, and debug the core scheduling engine against live customer
+    datasets
+  - Build and iterate on new solutions with customer teams under tight deadlines
+  - Diagnose and resolve optimizer performance and quality issues
+  - Feed field learnings back to core product and engineering teams
+  - Use AI-assisted and agentic workflows to model problems and ship solutions faster
+  use_cases:
+  - Enterprise resource planning and scheduling optimization
+  - Manufacturing scheduling at scale
+  - Workforce and resource scheduling
+  - Optimization modeling against live customer datasets
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [Angular]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, Automated Testing, DevOps]
+    languages: [C#, .NET, TypeScript]
+    domains: []
+    other: [Constraint Programming, Mathematical Programming, Linear Programming,
+      Algorithm Development, Heuristics, Data Modeling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12002455'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:23:23.448374'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Perforce Software
+  stage: null
+  focus: DevOps and software development tools
+position:
+  title: Principal Software Engineer (AI Prism)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt orchestration, multi-turn
+      orchestration, agent orchestration patterns, model
+      selection, and context management for an internal LLM
+      platform (Prism), which is shaping model behaviour. All
+      shaping work targets LLM/agent systems, so it is ai-first.
+  responsibilities:
+  - Own and operate the backend architecture of Perforce Prism internal AI platform,
+    including AI standard protocols and the AI services layer
+  - Lead technical development strategy, translating business requirements into scalable,
+    secure AI platform designs
+  - Establish patterns for AI pipelines, agent orchestration, and services for internal
+    engineers and AI consumers
+  - Drive AI efficiency and cost management across inference cost, token usage, caching,
+    model selection, and prompt orchestration
+  - Implement AI governance frameworks aligned with SOX, SOC 2, PCI, PII, and data
+    residency requirements
+  - Evaluate emerging AI models, frameworks, and tooling to build a prioritized platform
+    roadmap
+  - Provide technical guidance and lead technical reviews to raise AI capability across
+    support teams
+  use_cases:
+  - Internal enterprise AI platform (Perforce Prism) for embedding AI into business
+    workflows
+  - AI knowledge retrieval using vector/embedding storage and aggregation pipelines
+  - Agent orchestration and tool registration for internal AI consumers
+  - Cost and efficiency optimization of LLM inference across the enterprise
+  skills:
+    languages: [JavaScript, TypeScript, Node.js]
+    domains: []
+    web: [REST APIs]
+    cloud: []
+    data: [Data Pipelines]
+    ml: []
+    databases: [MongoDB]
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, Multi-Turn Orchestration,
+      MCP, Embeddings, AI Agents]
+    ops: []
+    other: [Responsible AI, Model Routing, Inference Optimization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11955789'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:10:10.274188'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

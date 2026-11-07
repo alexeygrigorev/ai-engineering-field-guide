@@ -1,0 +1,50 @@
+company:
+  name: Redhorse
+  stage: null
+  focus: |-
+    Data insights and technology solutions for government
+    missions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops sensor-based failure prediction models and
+      equipment health indicators for predictive
+      maintenance—classical ML on sensor data with no LLM or agent
+      component. The person trains and evaluates these models,
+      which is shaping model behavior, so it is ml-first.
+  responsibilities:
+  - Serve as key architect in the CBM+ ecosystem for aircraft sustainment
+  - Translate predictive models into production-grade systems within cross-functional
+    Agile teams
+  - Develop sensor-based failure prediction models and equipment health indicators
+  - Conduct Monte Carlo simulations and calculate statistical confidence intervals
+  - Build end-to-end data pipelines including UI/UX integration
+  - Optimize maintenance and logistics operations for the United States Air Force
+  use_cases:
+  - Condition-Based Maintenance Plus (CBM+) for aircraft sustainment
+  - Predictive maintenance and failure prediction for USAF fleets
+  - Optimization of defense maintenance and logistics
+  - Equipment health monitoring via sensor data
+  - Improving fleet readiness for national defense
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [MLOps]
+    languages: []
+    domains: [Predictive Maintenance]
+    other: [Monte Carlo Simulations, Agile, UI/UX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11999171'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T14:21:47.139377'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Prodlane GmbH
+  stage: null
+  focus: GenAI platform for enterprise knowledge search and agents
+position:
+  title: (Senior) AI Engineer (m/f/d) – Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agent workflows, tool
+      calling, and builds evals to improve model answers and
+      agents — all directly shaping LLM behavior. It's an AI
+      platform company and the engineer shapes LLM-based product
+      behavior, so it's ai-first.
+  responsibilities:
+  - Own features from prototype through continuous improvement with product management
+  - Build chat and agent experiences completing multi-step tasks with traceable, verifiable
+    results
+  - Connect external systems and make knowledge across many file formats searchable
+    with source-backed answers respecting access rights
+  - Integrate and compare language models on quality, cost, and speed; build evals
+    to detect errors and improve answers and agents
+  - Build isolated execution environments for code and tools and improve response
+    times and data processing
+  - Write reviewable plans and critically review coding agent output
+  use_cases:
+  - Enterprise internal knowledge search with source-cited answers
+  - Agent-based multi-step task automation embedded in company processes
+  - Connecting external systems and unifying knowledge across file formats
+  - Access-right-aware retrieval over large complex datasets
+  - Model selection balancing quality, cost, and speed
+  skills:
+    languages: [TypeScript, Python, Go]
+    domains: []
+    web: [APIs, Asynchronous Processing]
+    cloud: []
+    data: []
+    ml: []
+    databases: []
+    genai: [LLMs, RAG, Embeddings, Vector Search, Function Calling, AI Agents, Prompt
+        Chains, LLM Evaluation, Agentic Workflows, Coding Agents]
+    ops: [Model Monitoring]
+    other: [Tenant Isolation, Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12004810'
+  location: Berlin, DEU
+  remote: true
+  extracted_at: '2026-11-06T14:24:32.560821'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

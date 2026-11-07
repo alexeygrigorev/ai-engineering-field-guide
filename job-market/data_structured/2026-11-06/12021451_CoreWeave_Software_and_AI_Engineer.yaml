@@ -1,0 +1,59 @@
+company:
+  name: CoreWeave
+  stage: 'publicly traded (Nasdaq: CRWV)'
+  focus: Cloud infrastructure and GPU compute platform for AI
+position:
+  title: Software and AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, copilots, and agentic
+      workflows using LLM frameworks (LangChain, LangGraph,
+      OpenAI, Gemini, Cohere, Glean), shaping model behaviour
+      directly. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Develop AI agents and copilots for internal teams such as Finance, Billing, and
+    Supply Chain using LangChain, LangGraph, Cohere, OpenAI, Gemini, and Glean
+  - Design and build first-party web and mobile applications using React and TypeScript
+  - Develop scalable backend services in Node.js and Go for data processing, orchestration,
+    and automation
+  - Integrate enterprise systems (ERP, HRIS, MRP, PDM, DCIM, data warehouses) via
+    native integrations or iPaaS platforms like Workato or Boomi
+  - Build APIs and microservices supporting modular, event-driven application architectures
+  - Use GenAI development tools such as Cursor, Claude, Copilot, and ChatGPT Codex
+    to accelerate implementation, testing, and documentation
+  - Build observability, maintainability, and security into applications across the
+    stack
+  - Partner with stakeholders in Finance, Accounting, Security, and Engineering to
+    design user-centered workflows
+  use_cases:
+  - AI agents and copilots for Finance, Billing, and Supply Chain workflows
+  - Internal workflow automation and orchestration across enterprise platforms
+  - First-party web and mobile applications for employee productivity
+  - Enterprise system integration (ERP, HRIS, MRP, PDM, DCIM) via iPaaS
+  skills:
+    languages: [TypeScript, Python, Go, C++, C#, Java, Bash]
+    domains: []
+    web: [React, Node.js, FastAPI, Next.js, gRPC, REST APIs, Microservices]
+    cloud: [AWS, Azure, GCP]
+    data: [Kafka, Ray, Spark]
+    ml: [Machine Learning]
+    databases: []
+    genai: [AI Agents, LangChain, LangGraph, OpenAI API, Gemini, Glean, Agentic Workflows,
+      Cursor, Anthropic API, GitHub Copilot, Codex, LLMs]
+    ops: [CI/CD, DevOps, Docker, Kubernetes, Container Orchestration]
+    other: [Workato, Boomi, Event-Driven Architecture, Kestrel]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12021451'
+  location: Bellevue, USA
+  locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T14:30:37.901306'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

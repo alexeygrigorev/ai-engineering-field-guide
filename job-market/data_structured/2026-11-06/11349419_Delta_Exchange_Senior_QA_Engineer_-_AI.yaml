@@ -1,0 +1,53 @@
+company:
+  name: Delta Exchange
+  stage: null
+  focus: Cryptocurrency derivatives trading exchange
+position:
+  title: Senior QA Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The system under test is AI (chatbot, API Copilot, MCP
+      server), and the role designs layered scoring, model-graded
+      evaluation, golden datasets, and release gates for LLM
+      output quality. Judging and evaluating model output quality
+      is shaping, and the targets are LLM/agent products, so this
+      is ai-first.
+  responsibilities:
+  - Build and maintain golden datasets for AI products, traced from production or
+    generated and verified against a source of truth
+  - 'Design layered scoring for AI outputs: deterministic rules and model-graded evaluation'
+  - Manage evaluation runs end to end against release candidates, compare with baselines,
+    and triage failures
+  - Own and operate the release gate approving prompt or model changes for production
+  - Identify failure modes such as hallucination, incorrect tool selection, context
+    loss, and PII exposure
+  - Investigate production traces to distinguish retrieval, generation, and tool failures
+  - Convert findings into engineering evidence and permanent regression coverage
+  - Define and report quality metrics for AI surfaces and drive improvement
+  use_cases:
+  - Customer support chatbot quality assurance
+  - API Copilot that generates and executes trading scripts
+  - MCP server for trading
+  - Release gating for prompt and model changes
+  - 'Failure mode detection: hallucination, tool selection, context loss, PII exposure'
+  skills:
+    genai: [Prompt Engineering, Function Calling, LLM Evaluation]
+    ml: []
+    web: [API Testing]
+    databases: []
+    data: []
+    cloud: []
+    ops: [DeepEval, RAGAS, Promptfoo, Langfuse, LangSmith, Opik]
+    languages: [Python]
+    domains: [Trading]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11349419'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T11:34:14.659091'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

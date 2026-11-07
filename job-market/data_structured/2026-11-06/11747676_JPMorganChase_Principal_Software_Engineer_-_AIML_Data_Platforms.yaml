@@ -1,0 +1,56 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Principal Software Engineer - AI/ML Data Platforms - Executive Director
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role architects agentic AI-enabled developer workflows
+      (AI PR review, test generation, incident triage) to improve
+      engineering delivery — the deliverable is developer
+      workflow, not shaping a model that is the product. It
+      consumes enterprise-authorized AI tools and defines
+      governance guardrails rather than building prompts,
+      retrieval, or model behaviour itself. Per the edge case for
+      rolling out AI coding tools, this is ai-support.
+  responsibilities:
+  - Advise on strategy and development of multiple products, applications, and technologies
+    across a portfolio
+  - Architect and govern agentic AI-enabled engineering workflows such as AI-driven
+    PR review, test generation, and incident triage at scale
+  - Define guardrails for validation, security, resiliency, and reuse of AI-assisted
+    development across teams
+  - Create novel code solutions and durable, reusable software frameworks leveraged
+    across teams
+  - Build and operate 24x7 tier-1 online services
+  - Translate complex technical issues to leadership to inform strategic technology
+    decisions
+  - Influence across business, product, and technology teams and manage senior stakeholder
+    relationships
+  use_cases:
+  - AI-assisted code review and test generation for engineering teams
+  - Release readiness checks and incident triage acceleration
+  - Governance and safe scaling of AI-enabled developer workflows
+  - 24x7 tier-1 online service delivery in financial services
+  - OLAP/data platform engineering
+  skills:
+    genai: [Agentic Workflows, Guardrails]
+    ml: []
+    web: []
+    databases: [DuckDB]
+    data: [Apache DataFusion, Apache Arrow Flight SQL]
+    cloud: [Cloud Native]
+    ops: []
+    languages: [Rust, Java, Go, C++]
+    domains: []
+    other: [Responsible AI, Human-in-the-Loop Validation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11747676'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:45:50.256596'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: CodeRoad
+  stage: null
+  focus: Technology execution and AI engineering services
+position:
+  title: Lead Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent orchestration with LangGraph,
+      builds MCP connectors, optimizes LLM routing across model
+      tiers, and builds eval harnesses — directly shaping
+      LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Architect stateful multi-agent orchestration systems with LangGraph or custom
+    DAG loops
+  - Build MCP servers and connectors exposing Salesforce tools and enterprise context
+    to agents
+  - Optimize reasoning, latency, and token spend via multi-tiered LLM routing strategies
+  - Implement automated evaluation pipelines (Promptfoo, Ragas, DeepEval) in CI/CD
+  - Enforce security and observability with LangSmith/Langfuse, PII scrubbing, and
+    FLS compliance
+  - Lead technical strategy, specification-driven development, and architecture standards
+    with clients and C-suite
+  use_cases:
+  - Multi-agent orchestration for enterprise task automation
+  - Autonomous Salesforce agents via MCP tool connectors
+  - Enterprise RAG with context grounding and hallucination resistance
+  - LLM cost/latency optimization through model-tier routing
+  - Agent observability, security, and PII compliance in production
+  skills:
+    genai: [LangGraph, LangChain, MCP, Anthropic API, Function Calling, Prompt Caching,
+      Claude Code, RAG, Promptfoo, LLM Evaluation, AI Agents, Multi-Agent Systems,
+      LLMs]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [Salesforce Data Cloud]
+    ops: [LangSmith, Langfuse, OpenTelemetry, CI/CD]
+    languages: [Python, TypeScript, Node.js, Java, Apex]
+    domains: []
+    other: [Salesforce, SOQL/SOSL, Agentforce, Spec-Driven Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11551121'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:10:38.375309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

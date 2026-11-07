@@ -1,0 +1,57 @@
+company:
+  name: OneMagnify
+  stage: null
+  focus: Marketing and analytics services provider
+position:
+  title: AI Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM evaluation, prompt/model versioning, and
+      output-quality monitoring (drift, hallucination mitigation)
+      for GenAI applications, which is building evals and
+      guardrails for LLMs and therefore shaping model behavior. An
+      LLM component is central, so ai-first.
+  responsibilities:
+  - Architect and operate highly available multi-service cloud AI infrastructure across
+    compute, storage, networking, and security
+  - Establish MLOps and LLMOps pipelines covering model deployment, prompt and artifact
+    tracking, automated evaluation, and monitoring for drift and hallucination mitigation
+  - Design and maintain CI/CD pipelines for full-stack AI applications across front-end,
+    back-end, and AI components
+  - Manage cloud infrastructure with Infrastructure as Code (Terraform, Cloud Build,
+    Kubernetes manifests)
+  - Build and operate containerized microservices on Docker/Kubernetes with scaling,
+    rolling deployments, and resilience management
+  - Implement monitoring, logging, tracing, alerting, and SRE practices for AI applications
+    in production
+  - Embed security across the platform including IAM, secrets management, network
+    policies, and compliance with Ford data privacy standards
+  - Provide self-service tooling and automated workflows for AI engineers and modelers
+  use_cases:
+  - Production platform powering Ford Credit Generative AI applications
+  - End-to-end LLMOps lifecycle for GenAI tools including evaluation and hallucination
+    monitoring
+  - Scalable, secure cloud infrastructure for AI and quantitative analytics workloads
+  - CI/CD and developer enablement for full-stack AI application delivery
+  - Compliant AI operations for credit and financial services analytics
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering]
+    ml: [Machine Learning, Feature Engineering]
+    web: [Microservices, Full-Stack Development]
+    databases: []
+    data: [Data Engineering]
+    cloud: [GCP, BigQuery, IAM, GKE]
+    ops: [CI/CD, MLOps, LLMOps, Docker, Kubernetes, Terraform, GitOps, Model Deployment,
+      Monitoring, Observability, LLM Evaluation]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12027740'
+  location: Chennai, IND
+  extracted_at: '2026-11-06T14:32:46.477235'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

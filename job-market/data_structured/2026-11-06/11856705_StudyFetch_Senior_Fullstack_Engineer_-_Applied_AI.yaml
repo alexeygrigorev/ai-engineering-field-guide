@@ -1,0 +1,43 @@
+company:
+  name: StudyFetch
+  stage: null
+  focus: AI-native personalized learning platform for students
+position:
+  title: Senior Fullstack Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience implementing and
+      optimizing LLM applications, prompt engineering, and AI
+      workflows directly into the product, which is shaping model
+      behavior. LLM involvement makes it ai-first.
+  responsibilities:
+  - Design and implement scalable full-stack solutions integrating AI/LLM technologies
+    into the learning platform for mobile and web
+  - Experiment with emerging AI technologies to improve platform capabilities
+  - Build features across frontend, backend, and mobile surfaces
+  - Work closely with product, design, sales, and marketing teams to deliver features
+    for students and educators
+  use_cases:
+  - AI-powered personalized learning for students
+  - Integrating LLM capabilities into an education platform across web and mobile
+  - Improving learning outcomes for millions of students and educators
+  skills:
+    genai: [LLMs, Prompt Engineering]
+    ml: []
+    web: [Next.js, React, Node.js, Express, REST APIs, React Native]
+    databases: [MongoDB, PostgreSQL, Vector Databases]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS S3, AWS Lambda]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Vercel, Tailwind CSS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11856705'
+  location: Beverly Hills, USA
+  extracted_at: '2026-11-06T13:24:19.940104'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

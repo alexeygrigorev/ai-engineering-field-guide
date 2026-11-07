@@ -1,0 +1,288 @@
+job_id: 11873044
+title: Senior Staff AI Engineer
+company: Productboard
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Prague, CZE
+  - Brno, CZE
+remote: true
+work_type: FULL_TIME
+company_size: 246 Employees
+description: |
+  Location: Prague, Czechia (hybrid). Brno or remote within
+  the EU is possible. Relocation support is available.
+
+  Only the best engineers are being built here.
+
+  At Productboard, we are defining AI-first Product
+  Engineering. Not as a one-time achievement, but as a
+  baseline we raise every time we reach it. We remove every
+  bottleneck as it surfaces and rebuild how product teams work
+  from first principles, not just adding AI to existing
+  workflows.
+
+  AI tools are everywhere now. Agents can write code. That’s
+  today’s baseline.What we're building is the environment
+  where the baseline makes you better: focused on outcomes,
+  writing specs that agents build from, leveling up with every
+  feature you ship.
+
+  We are defining what AI-native product development becomes.
+  We're all in.
+
+  What you will build
+
+  You'd lead the architectural work that makes our codebase
+  AI-native. Specifically:
+
+  - Agent-native architecture standards. Clear API contracts,
+    semantic naming, well-defined module boundaries. The
+    patterns that keep AI effective as our systems grow.
+  - A context infrastructure layer. Repo-versioned guidance that
+    AI tools load automatically — improving the output of
+    Cursor, Claude Code, and Codex simultaneously.
+  - Self-healing workflows for incidents. Agents that triage
+    alerts, pull logs, surface relevant history, suggest
+    remediation. Humans intervene where judgment matters.
+  - Agent workflows that go beyond chat. Multi-step reasoning,
+    tool use, autonomous task execution with human-gated
+    checkpoints — for product features, not internal demos.
+  - Systematic optimization of AI code review. Earlier detection
+    of correctness, security, and maintainability issues, with
+    the noise filtered out before it reaches a human reviewer.
+
+  The problem
+
+  Product managers (PMs) get more customer feedback than they
+  can read. Today AI processes only part of it. Insights can
+  arrive weeks after the customer spoke, and PMs still link
+  each need to strategy by hand.
+
+  We want AI to process all customer feedback and tell each PM
+  what customers need, why it matters, and how it connects to
+  strategy.
+
+  When it works, a PM opens Productboard and sees: "'Slow
+  dashboard loading' emerged across 23 customers (USD 1.4M
+  ARR). Maps to Objective 'Improve Performance'. Competitor X
+  shipped performance improvements last week." The PM accepts
+  the insight and asks Spark, our AI agent for product teams,
+  to draft a spec.
+
+  You will own the AI architecture that produces that insight,
+  and set the AI patterns that other domains at Productboard
+  follow.
+
+  The outcomes we measure
+
+  - Feedback informs decisions automatically. Themes map to
+    objectives, initiatives, and the product hierarchy. PMs
+    accept, reject, or refine them.
+  - PMs prioritise by business impact. Each theme shows annual
+    recurring revenue (ARR), open deals at risk, and links to
+    customer churn.
+  - Competitor moves show up next to feedback. When a competitor
+    ships something, PMs see which feedback themes it touches.
+  - Insights makes Spark smarter. Spark's answers are only as
+    good as Insights data.
+
+  Targets: PMs accept more than 80% of AI insights, more than
+  90% of feedback connects to a feature, objective, or
+  initiative, and nobody processes feedback by hand. We have
+  not reached these numbers yet. Reaching them is the job.
+
+  What makes this hard
+
+  - Changes travel. Insights data feeds Spark, so a change in
+    how we group feedback changes what Spark tells PMs. You
+    weigh those effects across domains before a change ships.
+  - Messy ground truth. Often there is no single right answer to
+    "which theme does this note belong to?" Two good PMs may
+    disagree. You decide how we measure quality honestly.
+  - Cost. Every AI call has a price, and customers pay for AI
+    usage. As usage grows, you decide where a smaller model,
+    caching, or skipping work keeps quality and protects
+    margin.
+  - Influence without authority. Most teams you guide do not
+    report to you, and some are new to building with AI. You
+    lead through clear arguments and clear documents.
+
+  What you will do
+
+  - Own the Insights AI architecture and its technical
+    direction: what context each step gets, which tools agents
+    may call, and how we know an output is good.
+  - Set the quality bar for AI in Insights, and make evals the
+    gate every change passes before it ships.
+  - Lead AI architecture decisions that span Insights, Spark,
+    and the platform. Bring teams with different priorities to
+    one written decision, such as the agent conventions every
+    domain follows.
+  - Drive the largest Insights initiatives as the named driver.
+    Take a new AI feature to customer beta: set the milestones
+    and acceptance criteria, agree scope with the PM, and
+    decide what ships.
+  - Write production code on the hardest parts, every week.
+  - Grow the engineers around you. Your docs and reviews let any
+    engineer pick up an AI workflow and change it safely,
+    without waiting for you.
+
+  How we work
+
+  Productboard runs AI-first product engineering. Coding
+  agents write much of the code; engineers own design, review,
+  and results. Each initiative has one named driver and starts
+  from a one-page pre-read. We ship to internal users first,
+  then beta, then everyone. We commit the roadmap about a
+  month ahead, and PMs and designers ship to production too.
+
+  AI layer: Python, Pydantic AI, Vespa, Braintrust, Temporal,
+  LaunchDarkly, Datadog, and Anthropic models.
+
+  Around it: Kotlin (some legacy Ruby), TypeScript, React,
+  GraphQL, PostgreSQL, MongoDB, Elastic, Redis, Snowflake,
+  AWS, Kubernetes, and Terraform.
+
+  What you need
+
+  - Typically 10+ years building production systems, with strong
+    backend skills
+  - You have designed LLM systems that customers use, measured
+    their quality with evals, and made the trade-offs between
+    quality, latency, cost, and reliability.
+  - Hands-on experience with search, retrieval, clustering, or
+    entity matching over large text collections.
+  - Deep experience with distributed systems and long-running
+    workflows.
+  - A record of setting technical direction across several teams
+    or domains, including teams that did not report to you.
+  - Clear written English. You can explain a technical decision
+    on one page, starting from the customer problem.
+  - The right to work in the EU.
+
+  Nice to have
+
+  - You built an AI platform or shared AI standards that several
+    product teams adopted.
+  - Founder or founding engineer experience: you took an AI
+    product from idea to paying customers.
+  - Experience with product management, analytics, or customer
+    feedback tools.
+
+  If you meet most of the must-have list, please apply.
+
+  Our Compensation
+
+  Salary range: 3,185,000–4,775,000 CZK annually
+
+  Our Benefits Include
+
+  - Stock options
+  - MacBook + 34″ monitor
+  - Work from home stipend to support your home office setup
+  - 5 weeks of vacation + 9 sick days
+  - Flexible working hours and home office
+  - Budget for online courses, books, and conferences
+  - 2 weeks of fully paid parental leave
+  - Fertility & Family-Building Support with Carrot
+  - Mental Wellness Program with Soulmio to support your well-
+    being and self-care
+  - 1 Volunteer Day per year to support causes close to your
+    heart, plus donation matching from Productboard
+  - Free snacks, drinks, and yummy catered lunches from White
+    Circus at the office every day
+  - Free MultiSport card
+  - On-site bouldering wall, boxing bag, and workout mats
+  - Team events, such as happy hours, off-sites, and retreats
+  - Free year-round access to Prague Zoo
+
+  Relocation Opportunities
+
+  If joining us means making a move, we're here to help make
+  that transition easier.
+
+  Candidates must have the legal right to work in the EU.
+  While we are unable to provide visa sponsorship for this
+  role, we're happy to support relocation to Prague for
+  candidates already authorized to work in the EU.
+
+  Relocation Support
+
+  We offer a one-time relocation bonus ranging from $6,000 to
+  $13,000 USD, depending on your personal situation, whether
+  you're moving on your own or with a partner or family.
+
+  This bonus is intended to help offset moving expenses and
+  support your transition into your new city. While it may not
+  cover every cost, it provides meaningful financial support
+  as you get settled.
+
+  If you're thinking about relocating and want to explore what
+  this could look like for you, we'd be happy to have that
+  conversation.
+
+  About Productboard
+
+  Productboard is the leading intelligent product management
+  platform, used by 6,000+ companies including Salesforce,
+  SAP, Autodesk, and Kroger. Headquartered in San Francisco,
+  with engineering hubs in Prague and Brno. Backed by Index
+  Ventures, Kleiner Perkins, Sequoia Capital, Bessemer, Tiger
+  Global, and Dragoneer.
+
+  We've spent the last decade building the foundation for how
+  product teams work. We're now in our 0-to-1 moment again,
+  building Productboard Spark — the AI-first, agentic
+  experience that turns raw feedback and signals into clear
+  problems, strong specs, and faster execution. Spark is what
+  powers everything you'd be working on.
+
+  Are you building with us?
+
+  If the work above is what you want to spend the next chapter
+  of your career on, apply below!
+
+  Equal Opportunity
+
+  Productboard is an equal opportunity employer. We are
+  committed to an inclusive hiring process and consider all
+  qualified applicants without discrimination based on
+  characteristics protected by applicable law.
+
+  By applying you agree to Productboard's Global Candidate
+  Privacy Policy
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Productivity
+  - Software
+  - Analytics
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-staff-ai-engineer/11873044"
+source: Built In

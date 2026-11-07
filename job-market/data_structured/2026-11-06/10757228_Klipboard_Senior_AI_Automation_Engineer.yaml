@@ -1,0 +1,55 @@
+company:
+  name: Klipboard
+  stage: null
+  focus: ERP/SaaS trading and business management solutions
+position:
+  title: Senior AI & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly designs and delivers domain-specific AI
+      agents and LLM-assisted tooling, which is shaping agent
+      behavior and output quality. This AI work is part of the
+      core responsibilities, not a nice-to-have, so it classifies
+      as ai-first despite the heavy automation/infrastructure
+      duties.
+  responsibilities:
+  - Lead design and delivery of automation, Infrastructure as Code, and AI-powered
+    solutions across Azure and OCI
+  - Design domain-specific AI agents and AI/LLM-assisted tooling for Cloud Operations
+  - Develop reusable automation frameworks, standards, and engineering patterns
+  - Build and enhance CI/CD pipelines for automated, compliant deployments
+  - Embed security, identity, access controls, and secrets management by default
+  - Automate provisioning, reduce toil, and improve resilience and recovery times
+  - Implement FinOps and cost-optimisation practices in cloud provisioning
+  - Mentor engineers and lead knowledge-sharing to drive AI-first adoption
+  use_cases:
+  - Automating cloud provisioning and reducing operational toil
+  - Infrastructure as Code for Azure and OCI environments
+  - Domain-specific AI agents for cloud operations support
+  - Improving system resilience, DR, and recovery (RTO/RPO)
+  - Secure, compliant automated deployments
+  skills:
+    genai: [AI Agents, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Oracle Cloud Infrastructure]
+    ops: [Infrastructure as Code, Terraform, Bicep, CI/CD, IAM, DevSecOps, FinOps]
+    languages: []
+    domains: []
+    other: [GDPR, ISO 27001, SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10757228'
+  location: Eton, GBR
+  locations:
+  - Eton, GBR
+  - Nottingham, GBR
+  - Newcastle upon Tyne, GBR
+  - Barnsley, GBR
+  extracted_at: '2026-11-06T11:21:35.163763'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

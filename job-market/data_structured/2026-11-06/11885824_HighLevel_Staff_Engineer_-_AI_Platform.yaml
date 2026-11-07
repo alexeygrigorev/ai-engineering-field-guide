@@ -1,0 +1,53 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered business operating system for agencies and SMBs
+position:
+  title: Staff Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic systems with orchestration,
+      planning, memory, and human-in-the-loop controls, plus eval
+      harnesses and guardrail-like safety metrics — clearly
+      shaping LLM/agent behavior, so ai-first.
+  responsibilities:
+  - Build production-grade agentic systems with orchestration, planning, memory, context
+    management, and human-in-the-loop controls
+  - Build a shared AI platform with reusable agent frameworks, tool and MCP integrations,
+    an LLM gateway, and prompt/model versioning
+  - Build evaluation and observability for AI systems including eval harnesses, tracing,
+    and quality/latency/cost/safety metrics
+  - Drive AI-driven engineering practices and agentic developer workflows to improve
+    velocity and automate operational toil
+  - Manage cloud infrastructure for AI workloads across GCP/AWS including provisioning,
+    scaling, security, and cost governance
+  - Ensure agents run reliably in production with regressions caught by evals and
+    observability before customers see them
+  use_cases:
+  - Platform automation via multi-step tool-using agents
+  - Internal engineering workflows automated by agents
+  - Reusable AI platform for product teams (agent frameworks, LLM gateway)
+  - Quality, latency, cost, and safety evaluation of AI systems
+  - AI-assisted developer tooling and velocity improvement
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Prompt Engineering, LLM Evaluation,
+      LLMs]
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Observability, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11885824'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T13:35:31.253388'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

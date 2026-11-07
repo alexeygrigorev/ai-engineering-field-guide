@@ -1,0 +1,54 @@
+company:
+  name: Guidehouse
+  stage: null
+  focus: Consulting for regulated and government sectors
+position:
+  title: Senior Data Engineer (Analytics & Applied AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core deliverables are data platforms, cloud pipelines,
+      and data modeling; AI appears only as optional nice-to-haves
+      (RAG, embeddings) and as agentic coding assistants used as a
+      tool, which is explicitly ai-support. The role may grow into
+      applied AI/ML but the described responsibilities don't shape
+      model behavior.
+  responsibilities:
+  - Own production data platforms end to end from ingestion to analytics and application
+    layers
+  - Write production-quality Python services, APIs, and tooling
+  - Design and orchestrate cloud data pipelines on AWS with scheduling, retries, and
+    data-quality gates
+  - Model data for analytics and application serving (dimensional modeling, SCD, idempotent
+    recompute)
+  - Implement data-quality and reconciliation checks that gate pipeline publication
+  - Drive architecture and technical decisions independently
+  - Use agentic coding assistants to accelerate delivery while maintaining quality
+  - Grow into applied AI/ML work such as entity resolution and LLM-assisted analytics
+  use_cases:
+  - Turning large complex datasets into reliable analytics and applications
+  - Data platform ingestion, transformation, and publication with quality gating
+  - Entity resolution and record linkage
+  - LLM-assisted analytics over structured and unstructured data
+  - Anomaly and risk scoring
+  skills:
+    genai: [RAG, Embeddings, Structured Outputs, Multi-Agent Systems, AWS Bedrock]
+    ml: []
+    web: [FastAPI]
+    databases: [Redshift, DuckDB, Aurora, Relational Databases]
+    data: [Data Modeling, Data Pipelines]
+    cloud: [AWS, AWS Glue, AWS Step Functions, AWS S3, AWS Lambda, Amazon EventBridge,
+      ECS, IAM]
+    ops: [CI/CD, Terraform, Infrastructure as Code, Code Review]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11790064'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:13:05.625136'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

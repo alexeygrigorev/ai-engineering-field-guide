@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: FX Risk Lead Java Developer + AI (VP)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Java lead building FX risk systems. AI tools
+      (Copilot, Devin.AI, Stylus, Prompt Engineering) are used as
+      development accelerators, not as the product; the
+      deliverable is the FX risk application, not model behaviour.
+      Per the edge case rules, AI coding tooling to ship faster is
+      ai-support.
+  responsibilities:
+  - Lead end-to-end delivery of high-performance Java applications for real-time FX
+    risk management
+  - Architect scalable, low-latency solutions processing real-time risk data at scale
+  - Drive technical direction, system design, and engineering standards across the
+    team
+  - Translate business requirements into robust code with quantitative analysts and
+    traders
+  - Use AI-powered coding tools (GitHub Copilot, Devin.AI, Stylus) to accelerate delivery
+  - Participate in cross-team code reviews supported by Citi Squad AI reviewers
+  - Own L3 production support, release activities, and long-term remediation
+  - Write TDD-first code and support weekly release cycles in a Scrum environment
+  use_cases:
+  - Real-time FX risk management for global markets
+  - Low-latency processing of real-time risk data at scale
+  - Greenfield strategic risk platform with 10+ year commitment
+  - Event streaming and messaging for enterprise risk systems
+  - Cloud adoption for risk technology APIs
+  skills:
+    languages: [Java]
+    domains: []
+    web: [APIs]
+    cloud: [AWS, Azure]
+    data: [Kafka, Solace, Flink]
+    ml: []
+    databases: [Apache Ignite, MongoDB, Oracle, SQL]
+    genai: [GitHub Copilot, Devin.AI, Prompt Engineering, LLMs, Gemini, OpenAI API,
+      Anthropic API, Llama]
+    ops: [JVM Performance Optimisation, Distributed Systems, Linux, CI/CD, GitHub,
+      Harness, Artifactory, Docker, Kubernetes, OpenShift]
+    other: [Multithreading, Test-Driven Development, Jira, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11732953'
+  location: London, GBR
+  extracted_at: '2026-11-06T12:44:39.825097'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

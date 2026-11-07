@@ -1,0 +1,54 @@
+company:
+  name: Ōura
+  stage: null
+  focus: Health wearables and sleep tracking ring
+position:
+  title: Staff AI Engineer - Developer Productivity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic pipeline infrastructure
+      including orchestration, context management, tool calling,
+      and LLM-as-a-judge evaluation harnesses — directly shaping
+      model/agent behavior and output quality. These agentic
+      systems are the product of the role itself, not merely a
+      developer tool the engineer consumes, so it is ai-first.
+  responsibilities:
+  - Architect, scale, and maintain the agentic pipeline infrastructure with focus
+    on orchestration, context management, tool calling, and cloud sandboxing
+  - Extend agentic workflows across the SDLC including spec verification, test creation,
+    automated code review, CI failure triage, and release verification
+  - Rapidly prototype new agentic workflows against real engineering challenges and
+    harden validated experiments into production-grade platform tooling
+  - Design and operate evaluation harnesses, LLM-as-a-judge grading systems, tracing,
+    and observability dashboards for pipeline health
+  - Establish sandboxing, permissions, and human-in-the-loop checkpoints with privacy-by-design
+    standards
+  - Partner with engineering squads and AI DRIs to drive voluntary adoption, resolve
+    tooling blockers, and establish reusable paved paths and templates
+  use_cases:
+  - Autonomous code generation across mobile, backend, and web repositories
+  - Automated specification quality verification and test creation
+  - Automated code review and CI failure triage
+  - Release verification and post-deploy signal analysis
+  - Developer productivity acceleration for hundreds of engineers
+  skills:
+    genai: [Agentic Workflows, Function Calling, LLM Evaluation, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Distributed Systems]
+    languages: [Python, TypeScript, Go, Kotlin, Swift]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11814401'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:17:32.828180'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

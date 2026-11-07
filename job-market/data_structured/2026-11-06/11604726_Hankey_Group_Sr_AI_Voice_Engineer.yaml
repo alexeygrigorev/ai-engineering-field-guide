@@ -1,0 +1,48 @@
+company:
+  name: Hankey Group
+  stage: null
+  focus: Diversified automotive finance and business group
+position:
+  title: Sr. AI Voice Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behaviour: building conversational
+      AI agents with LLMs, tool calling, conversation memory, and
+      RAG workflows. Speech components are driven by LLM/agent
+      orchestration, so this is ai-first rather than ml-first TTS
+      work.
+  responsibilities:
+  - Design and develop real-time voice-to-voice AI agents
+  - Build conversational AI systems using LLMs and agent frameworks
+  - Integrate Speech-to-Text and Text-to-Speech technologies into production applications
+  - Optimize latency and streaming performance for natural conversations
+  - Develop backend services and APIs using Python and C#/.NET
+  - Integrate with telephony, voice streaming, and communication platforms
+  - Implement conversation memory, tool calling, and RAG workflows
+  - Evaluate emerging AI models, speech technologies, and voice platforms
+  use_cases:
+  - Voice AI agents for customer service
+  - Voice-enabled sales and finance automation
+  - Real-time voice-to-voice conversational agents
+  - Telephony and voice platform automation
+  skills:
+    genai: [LLMs, Agentic Workflows, Conversational AI, Function Calling, RAG, AI
+        Agents]
+    ml: [Speech Recognition, Text-to-Speech, Voice Streaming]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: [Python, C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11604726'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T12:19:16.234776'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

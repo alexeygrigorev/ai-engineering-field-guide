@@ -1,0 +1,57 @@
+company:
+  name: ABC Fitness Solutions
+  stage: null
+  focus: Software platform for fitness club and member management
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds the LLM gateway, retrieval/agent
+      systems, evaluation frameworks, and inline guardrails - all
+      directly shaping model behavior and output quality. This is
+      shaping LLM-based systems, so ai-first, even though it
+      explicitly is not a model-training role.
+  responsibilities:
+  - Own an AI platform deliverable end to end from problem definition through production
+    launch, adoption, and ongoing operation
+  - Design, build, and operate platform capabilities such as LLM gateways, retrieval
+    systems, agents, evaluation frameworks, and inline guardrails
+  - Define success criteria, SLOs, observability, and failure handling for platform
+    systems
+  - Build retrieval and agent systems with separate evaluation of retrieval quality
+    and answer quality
+  - Design secure AI execution with least-privilege access, multi-tenant isolation,
+    permissioning, and auditability
+  - Develop clean interfaces, migration paths, and documentation to ease platform
+    adoption
+  - Use coding agents and AI development tools while validating their output through
+    testing and review
+  - Participate in on-call rotation, incident response, and post-incident improvement
+  use_cases:
+  - LLM gateway for routing and policy execution in AI request paths
+  - Retrieval and agent systems powering production AI features
+  - Evaluation frameworks measuring retrieval quality, answer quality, and agent reliability
+  - Inline guardrails for safe AI execution
+  - Developer tooling and platform services enabling engineering teams to build AI
+    experiences
+  - Fitness industry products with AI embedded in workflows and decision points
+  skills:
+    genai: [LLM Gateways, AI Agents, RAG, LLM Evaluation, Guardrails, Coding Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Observability, OpenTelemetry, Monitoring, SLOs]
+    languages: []
+    domains: []
+    other: [FinOps, Multi-Tenant Infrastructure]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11961085'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:11:37.984769'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

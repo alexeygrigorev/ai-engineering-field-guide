@@ -1,0 +1,207 @@
+job_id: 12068625
+title: Fullstack AI Engineer (Senior) - IFS Logistics
+company: IFS
+location: London, GBR
+work_type: FULL_TIME
+company_size: 6,788 Employees
+description: |
+  Company Description
+
+  IFS is a billion-dollar revenue company with 7000+ employees
+  on all continents. Our leading AI technology is the backbone
+  of our award-winning enterprise software solutions, enabling
+  our customers to be their best when it really matters–at the
+  Moment of Service™. Our commitment to internal AI adoption
+  has allowed us to stay at the forefront of technological
+  advancements, ensuring our colleagues can unlock their
+  creativity and productivity, and our solutions are always
+  cutting-edge.
+
+  At IFS, we’re flexible, we’re innovative, and we’re focused
+  not only on how we can engage with our customers but on how
+  we can make a real change and have a worldwide impact. We
+  help solve some of society’s greatest challenges, fostering
+  a better future through our agility, collaboration, and
+  trust.
+
+  We celebrate diversity and understand our responsibility to
+  reflect the diverse world we work in. We are committed to
+  promoting an inclusive workforce that fully represents the
+  many different cultures, backgrounds, and viewpoints of our
+  customers, our partners, and our communities. As a truly
+  international company serving people from around the globe,
+  we realize that our success is tantamount to the respect we
+  have for those different points of view.
+
+  By joining our team, you will have the opportunity to be
+  part of a global, diverse environment; you will be joining a
+  winning team with a commitment to sustainability; and a
+  company where we get things done so that you can make a
+  positive impact on the world.
+
+  We’re looking for innovative and original thinkers to work
+  in an environment where you can #MakeYourMoment so that we
+  can help others make theirs. With the power of our AI-driven
+  solutions, we empower our team to change the status quo and
+  make a real difference.
+
+  If you want to change the status quo, we’ll help you make
+  your moment. Join Team Purple. Join IFS.
+
+  Job Description
+
+  About IFS Logistics
+
+  IFS Logistics (built and launched as 7bridges, now part of
+  IFS) is an AI-native enterprise logistics platform. We unify
+  transport data, optimise carrier spend, and automate
+  execution for enterprise shippers and logistics companies.
+  We're a small, dedicated team inside IFS, reporting into the
+  commercial organisation rather than central R&D. Pure SaaS,
+  zero consultancy.
+
+  The role
+
+  This is not a traditional "add AI to an existing system"
+  role. You will own the product surface of our transport
+  execution product end to end: how a customer books freight,
+  sets up their carriers, configures their own rules and gets
+  the documents they need to move a shipment.
+
+  Transport Execution & Automation is our commercial anchor,
+  because every enterprise shipper needs it. A senior lead
+  engineer leads engineering in the squad and brings the
+  backend depth; you bring the product surface. You will set
+  the approach for it, work directly with the squad's Product
+  Lead and Designer, and be the second technical voice in the
+  squad. You will also be a day-to-day mentor for the
+  engineers earlier in their career joining the squad. That is
+  part of the job, not an extra.
+
+  Your depth is frontend and product engineering. Every
+  engineer here is expected to be genuinely fullstack; the
+  profile describes where your depth is, not a boundary you
+  stay inside. You will write Django, design the API contract
+  you consume, and understand what the data layer is doing
+  underneath your screens.
+
+  What you'll work on
+
+  - Freight booking across road, sea and rail, including spot
+    quoting, and multi-leg and consolidated movements built on
+    our new shipment data model.
+  - Carrier integration, including self-serve carrier setup that
+    customers do themselves, without us.
+  - Self-serve configuration for fulfilment rules, packaging
+    types, products and SKUs. "Customers configure and manage
+    it, not IFS" is a product principle, not an aspiration.
+  - Shipping and customs document generation.
+  - New operational areas as the product grows: consolidation
+    and load optimisation, dock scheduling, transport
+    scheduling and own fleet.
+  - The Django endpoints, data contracts and validation behind
+    all of it.
+  - Where the agent sits in each of these flows, where a human
+    reviews at minimal, meaningful points, and the guardrails
+    that make that safe when real freight is moving.
+
+  Qualifications
+
+  What we're looking for
+
+  - Around five to eight years building and shipping production
+    software, with real depth in React, TypeScript, state and
+    interaction design for complex, multi-step workflows.
+  - You have owned a product surface end to end including the
+    ambiguity in it — you closed the open questions rather
+    than waiting for someone to close them for you.
+  - Genuinely fullstack: you write the Python/Django side, you
+    argue about the API contract, and you know when a client-
+    side answer is the wrong answer.
+  - Strong on correctness under failure in the interface:
+    validation, partial failure, retries, and knowing what the
+    user sees when something goes wrong halfway.
+  - You build human-in-the-loop interfaces and treat
+    traceability as a feature, not logging.
+  - You raise the bar on other people's work. Review, pairing
+    and direct feedback are things you do by default, and you
+    are happy mentoring an engineer earlier in their career.
+  - AI-native in practice: Cursor and Claude daily, good at
+    giving an agent the right context, better at spotting when
+    its output is confidently wrong.
+  - You form and state a view. Ambiguity is the job, not a
+    blocker.
+
+  Nice to have
+
+  - Design-system ownership, or working shoulder to shoulder
+    with a designer on a complex data surface.
+  - Django REST, BigQuery, dbt, Cube Cloud, GCP.
+  - LLM agents, RAG or evals in production.
+  - Shipped an agent that does real work, like agentic audit or
+    fulfilment-rule automation, and the instinct to build a
+    simulation to prove the logic first.
+  - Logistics, supply chain, freight, or any finance-adjacent
+    domain where being wrong costs money.
+
+  Tech stack
+
+  - Frontend: React, TypeScript.
+  - Backend & APIs: Python, Django REST Framework.
+  - Data & analytics: BigQuery, dbt, Cube Cloud, Superset.
+  - Streaming & ingestion: Pub/Sub, Datastream.
+  - Cloud & infrastructure: GCP, Kubernetes, Terraform, GitLab
+    CI/CD.
+  - AI: LLMs, RAG, agent frameworks, evals.
+  - Developer tooling: Cursor + Claude, Notion (SDD Central),
+    Jira.
+
+  What success looks like — first 6 months
+
+  - You own the booking and carrier-setup surface end to end,
+    and the open questions in it get closed by you.
+  - Self-serve carrier setup is in production, and customers use
+    it without us.
+  - Booking and configuration flows hold up when things fail: no
+    silent errors, and a customer always knows what state
+    their shipment is in.
+  - The engineers earlier in their career in the squad are
+    productive and shipping reviewed work independently, and
+    can say what they learned from you.
+  - Quality standards in the squad are visibly higher: code
+    review on all merge requests, no direct-to-prod,
+    acceptance criteria per ticket — real, not aspirational.
+
+  Why this role exists now
+
+  Transport Execution & Automation is the commercial anchor of
+  the product, and it is where customers see whether the
+  platform actually runs their freight. The senior lead
+  engineer holds the backend and leads engineering in the
+  squad, but cannot also be the only person setting the
+  approach on the product side. We are shifting from feature-
+  driven engineering to agent-led product architecture, and
+  this is one of the surfaces where that shift has to actually
+  land.
+
+  Additional Information
+
+  You'll need to be based in either the UK or the Netherlands
+  - we're a remote team with clusters of people in London and
+  Amsterdam.
+
+
+
+  We embrace flexibility and hybrid work opportunities to
+  support diverse needs and lifestyles, while also valuing
+  inclusive workplace experiences. By fostering a sense of
+  community, we drive innovation, strengthen connections, and
+  nurture belonging. Our commitment ensures you can work in a
+  way that suits you best, while also engaging with colleagues
+  to share ideas and build meaningful relationships.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-04
+url: "https://builtin.com/job/fullstack-ai-engineer-senior-ifs-logistics/12068625"
+source: Built In

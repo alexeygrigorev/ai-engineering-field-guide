@@ -1,0 +1,56 @@
+company:
+  name: Securonix
+  stage: null
+  focus: Cybersecurity SIEM and threat detection platform
+position:
+  title: Senior Software Engineer - Back-End & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, prototyping, and integrating AI
+      agents and intelligent services into products, plus guiding
+      prompt engineering and evaluating AI-driven features — this
+      is shaping agent and LLM behaviour, making it ai-first. Core
+      backend work supports the same agentic SIEM platform.
+  responsibilities:
+  - Design, develop, and maintain the ThreatQ Threat Intelligence Platform with a
+    focus on performance, scalability, and maintainability
+  - Design, prototype, and integrate AI agents and intelligent services into internal
+    systems and customer-facing products
+  - Collaborate with product managers, security analysts, and other stakeholders to
+    translate requirements into technical specifications
+  - Mentor and oversee a team of software developers, providing technical guidance
+    and fostering continuous improvement
+  - Participate in code reviews and maintain high-quality code and coding standards
+  - Mentor engineers on effective use of AI tools, prompt engineering, and evaluation
+    of AI-driven features in production
+  - Contribute to technical documentation including design specs, user guides, and
+    API documentation
+  - Stay current with emerging cybersecurity technologies and integrate new tools
+    into development
+  use_cases:
+  - Threat intelligence platform for cybersecurity operations
+  - Agentic AI capabilities in a SIEM platform for threat detection, investigation,
+    and response
+  - AI agent integration into internal systems and customer-facing security products
+  - Workflow automation to improve engineering productivity
+  skills:
+    languages: [PHP, Python, JavaScript, TypeScript]
+    domains: []
+    web: [Laravel, React, HTML, CSS, REST APIs, JSON, Microservices]
+    cloud: [AWS, EKS]
+    data: [RabbitMQ]
+    ml: []
+    databases: [SQL, MariaDB, MongoDB, Redis, Solr]
+    genai: [AI Agents, Prompt Engineering]
+    ops: [CI/CD, Git, GitHub, Bitbucket, GitLab CI, Docker, Kubernetes, Terraform,
+      Helm, RKE2]
+    other: [PHPUnit, pytest, Jest, Agile, Event-Driven Architecture, SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11390413'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:42:08.216038'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

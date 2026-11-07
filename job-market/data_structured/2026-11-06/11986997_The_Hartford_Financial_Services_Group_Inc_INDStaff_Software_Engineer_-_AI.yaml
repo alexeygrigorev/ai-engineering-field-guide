@@ -1,0 +1,61 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: null
+  focus: Insurance and financial services
+position:
+  title: INDStaff Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic workflows, prompt
+      engineering, fine-tuning, and AI evaluation frameworks
+      themselves, shaping LLM behavior. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Design, build, and deploy production AI systems including RAG pipelines, agentic
+    workflows, multi-model orchestration, and intelligent automation
+  - Integrate LLM APIs and AI/ML services into enterprise applications on GCP Vertex
+    AI
+  - Implement prompt engineering, fine-tuning pipelines, embeddings, and vector search
+    solutions
+  - Build AI orchestration workflows using frameworks such as LangChain, Semantic
+    Kernel, AutoGen, CrewAI, or LlamaIndex
+  - Establish evaluation frameworks measuring accuracy, latency, cost, hallucination
+    rates, and business outcomes
+  - Build end-to-end AI applications spanning frontend, backend, APIs, and data layers
+  - Design MLOps/LLMOps pipelines, CI/CD, observability, and resilient cloud-native
+    AI infrastructure
+  - Evangelize AI-first development practices, mentor team members, and establish
+    guardrails for responsible AI usage
+  use_cases:
+  - Enterprise AI systems with RAG and multi-model orchestration for insurance business
+    problems
+  - Intelligent automation of business workflows via custom AI agents and autonomous
+    workflows
+  - AI-powered enterprise applications integrating LLM APIs and ML services
+  - AI-augmented developer tooling and internal platforms to accelerate engineering
+  - Production AI system monitoring and evaluation including hallucination and cost
+    metrics
+  skills:
+    genai: [RAG, Agentic Workflows, Prompt Engineering, Fine-Tuning, Embeddings, Vector
+        Search, LangChain, Semantic Kernel, AutoGen, CrewAI, LlamaIndex, AI Agents,
+      LLMs, OpenAI API, Anthropic API, AWS Bedrock, Guardrails, LLM Evaluation, LoRA,
+      RLHF, GitHub Copilot, Cursor, Claude Code]
+    ml: [Machine Learning, Model Evaluation]
+    web: [FastAPI, Django, Node.js, REST APIs, GraphQL, React, Angular, Vue, gRPC]
+    databases: [SQL, NoSQL, Pinecone, Weaviate, pgvector, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [GCP, Vertex AI, AWS, Azure]
+    ops: [MLOps, LLMOps, CI/CD, Docker, Kubernetes, Jenkins, GitHub Actions, Monitoring,
+      Observability]
+    languages: [Python, Java, TypeScript, C#, .NET]
+    domains: []
+    other: [Code Review, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11986997'
+  location: Manikonda, IND
+  extracted_at: '2026-11-06T14:19:34.533928'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

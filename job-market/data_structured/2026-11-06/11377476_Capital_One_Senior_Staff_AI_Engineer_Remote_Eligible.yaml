@@ -1,0 +1,59 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI-powered experiences
+position:
+  title: Senior Staff AI Engineer (Remote Eligible)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM systems directly: foundation
+      model training, LLM inference, agents and multi-agent
+      workflows, guardrails, model evaluation. Shaping both LLM
+      and classical components makes it ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, multi-agent workflows, guardrails, and model
+    evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Define the technical AI architecture vision and integrate research breakthroughs
+    into production
+  - Establish AI performance, safety, and transparency standards company-wide
+  - Drive multi-year platform initiatives unifying data, compute, and model lifecycle
+    management
+  - Mentor senior technical leaders across research, data, and engineering
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Foundation model training and large-scale LLM inference infrastructure
+  - Agents and multi-agent workflows for associate and customer products
+  - Similarity search and retrieval for AI-powered products
+  - Responsible AI governance, safety, and observability at enterprise scale
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails]
+    ml: [Model Training, Model Evaluation, Hugging Face, PyTorch, CUDA]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability, Model Deployment]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11377476'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  remote: true
+  extracted_at: '2026-11-06T11:38:12.155863'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: Simform
+  stage: null
+  focus: 'Digital engineering services: Cloud, Data, AI/ML'
+position:
+  title: Sr AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, builds RAG pipelines with
+      embeddings and reranking, develops AI agents with
+      LangGraph/LangChain and MCP, and implements LLM evaluation
+      frameworks - directly shaping LLM behavior, making it ai-
+      first despite supporting traditional ML work.
+  responsibilities:
+  - Design and develop Generative AI applications using LLMs, prompt engineering,
+    and structured outputs
+  - Build advanced RAG pipelines using embeddings, hybrid search, reranking, and vector
+    databases
+  - Develop AI agents and workflows using LangGraph, LangChain, tool calling, and
+    MCP
+  - Develop and deploy enterprise applications using Azure AI services
+  - Implement AI evaluation frameworks, automated regression testing, and quality
+    metrics
+  - Apply traditional ML techniques for classification, regression, predictive analytics,
+    and NLP
+  - Build data preprocessing, feature engineering, model training, and evaluation
+    pipelines
+  - Integrate AI solutions into production systems via APIs with security, monitoring,
+    and observability
+  use_cases:
+  - Generative AI application development
+  - Enterprise knowledge retrieval via RAG pipelines
+  - AI agent and workflow automation
+  - Classification, regression, and predictive analytics
+  - NLP applications
+  - Production AI systems with evaluation and monitoring
+  skills:
+    genai: [LLMs, Prompt Engineering, Structured Outputs, RAG, Embeddings, Hybrid
+        Search, Vector Databases, AI Agents, Agentic Workflows, LangGraph, LangChain,
+      Function Calling, MCP, LLM Evaluation, Fine-Tuning, LoRA, GraphRAG, Multi-Agent
+        Systems, Generative AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Machine Learning, Model Evaluation, Feature
+        Engineering, Model Training, Pandas, NumPy, RAGAS, DeepEval]
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Git, Docker, Kubernetes, MLflow, Langfuse, LangSmith, Arize Phoenix,
+      MLOps, LLMOps]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11869230'
+  location: Ahmedabad, IND
+  extracted_at: '2026-11-06T13:26:22.622704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

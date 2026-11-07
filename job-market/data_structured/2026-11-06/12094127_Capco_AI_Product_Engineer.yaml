@@ -1,0 +1,53 @@
+company:
+  name: Capco
+  stage: null
+  focus: Management and technology consulting for financial services
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and prototypes AI-powered products using
+      LLMs, RAG, prompt engineering, and AI agents directly — this
+      is shaping model behavior and output quality. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Partner with clients and business stakeholders to redesign workflows using Generative
+    AI, intelligent automation, and agentic solutions
+  - Identify, evaluate, and prioritize AI use cases based on business value, feasibility,
+    UX, and complexity
+  - Design and prototype AI-powered products using LLMs, RAG, AI agents, Python, SQL,
+    and APIs
+  - Collaborate with AI engineers, developers, designers, and business teams across
+    the product lifecycle
+  - Facilitate client workshops, gather requirements, test solutions, and support
+    implementation
+  - Evaluate product performance, gather user feedback, and recommend improvements
+    to usability, accuracy, and business impact
+  use_cases:
+  - Business process redesign and workflow automation using AI
+  - AI-powered product prototyping to demonstrate business value
+  - Intelligent automation of enterprise workflows
+  - AI use case discovery and prioritization for client transformation
+  - Enterprise knowledge management with RAG architectures
+  skills:
+    genai: [Generative AI, LLMs, RAG, Prompt Engineering, AI Agents, OpenAI API, Anthropic
+        API, Gemini, Azure OpenAI, LangChain, LangGraph, CrewAI, Copilot Studio, Vector
+        Databases, Semantic Search]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Power Automate]
+    languages: [Python, SQL]
+    domains: []
+    other: [n8n, Zapier, Jira, Agile, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12094127'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:57:20.413839'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Nivoda
+  stage: null
+  focus: Digital marketplace for diamond and gemstone trading
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behaviour via prompt design,
+      retrieval-augmented contextual/conversational search, and
+      evaluating/stress-testing LLM output, alongside classical
+      ranking ML. Since LLM components are involved, ai-first
+      applies per Step 2.
+  responsibilities:
+  - Build and operate search infrastructure (OpenSearch, Vespa, vector databases)
+    powering ranking and multi-modal search across the marketplace
+  - Design multi-tenant, configurable ranking and recommendation systems serving the
+    marketplace and branded jeweller storefronts
+  - Build Contextual Search and a conversational assistant using prompt design and
+    retrieval-augmented approaches
+  - Build image-to-attribute and image-to-product-match pipelines using image embeddings
+    for photo-based search
+  - Define and run search and ranking evaluation including offline ranking metrics
+    and interleaving experiments
+  - Own the full lifecycle of ranking and recommendation models - features, training,
+    evaluation, deployment, and monitoring
+  - Design low-latency, real-time model-serving systems under production load
+  - Design graceful failure paths and confirmation steps for probabilistic systems
+  use_cases:
+  - Ranking and recommendations for diamond and gemstone discovery on a marketplace
+  - Contextual and conversational search for jewellery buyers
+  - Image-upload search matching a photo to products via image embeddings
+  - Multi-tenant search serving individually branded jeweller storefronts
+  - Generating manufacturing quotes from interpreted images
+  skills:
+    genai: [RAG, Prompt Engineering, LLMs, Embeddings]
+    ml: [Learning to Rank, Collaborative Filtering, Model Training, Model Evaluation,
+      NLP]
+    web: [GraphQL]
+    databases: [OpenSearch, Elasticsearch, Vespa, pgvector, Pinecone, Weaviate, Vector
+        Search, PostgreSQL, Snowflake]
+    data: [Spark, dbt, Data Pipelines]
+    cloud: [AWS, AWS S3]
+    ops: [CI/CD, Jenkins, GitOps, Kubernetes, Grafana]
+    languages: [TypeScript, Node.js]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11609910'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:20:36.293740'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

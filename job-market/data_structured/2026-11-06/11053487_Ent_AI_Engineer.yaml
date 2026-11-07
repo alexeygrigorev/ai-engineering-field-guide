@@ -1,0 +1,57 @@
+company:
+  name: Ent
+  stage: backed by Decibel, Sequoia, Crosspoint Capital, Craft Ventures, Shield Capital,
+    Felicis, and In-Q-Tel
+  focus: Intent-aware workspace security for humans and AI agents
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer makes research models production-grade with
+      quantization, distillation, training, and evaluation gates —
+      that is shaping model behavior and output quality. The
+      systems span endpoint models and cloud LLM/agentic reasoning
+      models, and a role shaping both LLM and classical ML is ai-
+      first.
+  responsibilities:
+  - Take models and algorithms from research scientists into production, reimplementing
+    them correctly (e.g., Python to C++ or Java) and verifying parity
+  - Own models after launch including retraining, monitoring, and evaluation
+  - Design evaluation and release gates deciding when a model is safe to ship and
+    diagnosing regressions
+  - Build production monitoring for model quality including drift detection, retrain
+    triggers, and ground-truth strategies
+  - Run inference within tight latency, memory, CPU, and power budgets on the endpoint
+    and at scale in the cloud using quantization, distillation, batching, and caching
+  - Build pipelines connecting endpoint and cloud layers so behavioral baselines flow
+    back to endpoints
+  - Build training and experimentation infrastructure (datasets, reproducible training,
+    CI/CD for models)
+  use_cases:
+  - Real-time endpoint security monitoring of human and AI agent behavior
+  - Millisecond behavioral decision-making by small on-device models
+  - Cloud-based deep investigation and response using reasoning models and agents
+  - Detecting security risks from intent before incidents occur
+  - Retraining and evaluation pipelines for behavioral security models
+  skills:
+    genai: [LLMs, Agentic Workflows, MCP]
+    ml: [Model Training, Model Evaluation, Quantization, Distillation, Fine-Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, Model Monitoring, Drift Detection, ONNX Runtime, llama.cpp,
+      TensorRT, Core ML, OpenVINO, CI/CD]
+    languages: [Python, C++, Java, Rust, Go]
+    domains: []
+    other: [Endpoint Detection, Data Loss Prevention, Behavioral Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11053487'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:24:15.703594'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

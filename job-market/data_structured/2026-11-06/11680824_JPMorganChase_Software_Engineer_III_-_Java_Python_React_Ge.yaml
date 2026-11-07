@@ -1,0 +1,54 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Commercial & Investment Bank technology
+position:
+  title: Software Engineer III - Java + Python + React + Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes engaging in prompt engineering
+      for LLMs and requires hands-on experience with RAG,
+      LangChain, LangGraph, AI agents, and LLMs, meaning the
+      engineer shapes LLM behaviour themselves, not just consuming
+      an API or using coding assistants. AI coding tools like
+      GitHub Copilot are secondary productivity tools.
+  responsibilities:
+  - Design, develop, and maintain scalable applications using Java, Spring Boot, and
+    React
+  - Implement cloud-native solutions on AWS ensuring high availability, scalability,
+    and security
+  - Engage in prompt engineering for LLMs and write Python scripts
+  - Utilize AI tools such as GitHub Copilot and MCP servers to enhance productivity
+    and code quality
+  - Lead effective use of AI-assisted software development tools and set team expectations
+    for validating AI outputs
+  - Participate in code reviews and provide constructive feedback to peers
+  - Troubleshoot and resolve complex technical issues across the application stack
+  - Automate remediation of recurring issues to improve operational stability
+  use_cases:
+  - Full-stack application development for Commercial & Investment Bank business functions
+  - Cloud-native scalable application delivery on AWS
+  - LLM-based features using RAG, agents, and prompt engineering
+  - AI-assisted software development for code quality and productivity
+  - Syndicated deals platform engineering
+  skills:
+    genai: [Prompt Engineering, LLMs, MCP, Generative AI, AI Agents, LangChain, LangGraph,
+      RAG]
+    ml: []
+    web: [Spring Boot, React, REST, jQuery]
+    databases: [JDBC]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [GitHub Copilot, CI/CD, Docker, Kubernetes, Git]
+    languages: [Java, Python, HTML, SQL]
+    domains: []
+    other: [Spring Framework, Hibernate, JUnit, Mockito, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11680824'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:35:03.717753'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: RhythmX AI
+  stage: null
+  focus: |-
+    AI-native precision care and patient engagement for health
+    systems
+position:
+  title: Senior AI QA Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds automated evaluation systems
+      (semantic similarity, BERTScore/ROUGE, hallucination
+      detection, faithfulness scoring, eval rubrics) for LLM-based
+      clinical pipeline outputs, which is shaping model output
+      quality and building evals — ai-first. Using AI coding tools
+      for velocity is secondary.
+  responsibilities:
+  - Architect multi-layered validation frameworks combining deterministic checks,
+    semantic similarity metrics, and model-based evaluations
+  - Develop automated model grading systems for faithfulness, safety, and hallucination
+    detection in clinical pipeline outputs
+  - Use agentic AI tools to prototype test harnesses, red-team clinical logic, and
+    build validation utilities
+  - Execute integration and regression tests for data-heavy backend processes ensuring
+    medical data consistency
+  - Define ground truth datasets and clinical evaluation rubrics with Data Scientists
+    and Product Managers
+  - Perform root cause analysis on system failures to distinguish code, data drift,
+    or model behavior issues
+  - Serve as SME on test process development for large-scale systems
+  use_cases:
+  - Validating accuracy and safety of AI-generated clinical insights
+  - Hallucination and faithfulness detection in medical LLM outputs
+  - Data integrity validation from medical data ingestion to insight generation
+  - Automated grading of non-deterministic clinical pipeline outputs
+  - Healthcare precision care and patient engagement platform
+  skills:
+    genai: [AI Agents]
+    ml: [NLP, Model Evaluation, Semantic Similarity, BERTScore, ROUGE]
+    web: []
+    databases: [NoSQL]
+    data: []
+    cloud: []
+    ops: [LangSmith, Arize, MLflow]
+    languages: [Python, SQL]
+    domains: []
+    other: [Cursor, Claude Code, Windsurf, PyTest, Playwright, Cypress, Selenium,
+      Postman, RestAssured, FHIR, HL7, SNOMED CT, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11670432'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:30:40.811752'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

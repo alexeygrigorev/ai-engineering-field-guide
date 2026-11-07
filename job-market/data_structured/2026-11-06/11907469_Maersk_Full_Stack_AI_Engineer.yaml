@@ -1,0 +1,51 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global logistics and supply chain services
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI applications and
+      intelligent workflows using AI agents, which is shaping
+      agent behavior - an LLM/agent component is involved, so ai-
+      first. Data engineering and backend work support these AI
+      applications but the agent-building responsibility is
+      explicit.
+  responsibilities:
+  - Design and build AI-powered and agentic AI applications using modern frameworks
+    and enterprise AI platforms
+  - Develop intelligent workflows using AI agents to automate business processes and
+    decision-making
+  - Build scalable data pipelines and data products to support AI and analytics use
+    cases
+  - Enable self-service data access and reporting with governed data consumption
+  - Develop scalable, secure backend services and APIs for AI and data applications
+  - Support integrations across SAP and non-SAP ecosystems
+  - Monitor, troubleshoot, and improve platform performance with automation and observability
+  use_cases:
+  - Automating business processes and decision-making with AI agents
+  - Self-service analytics and reporting across the enterprise
+  - AI-driven decision-making for global logistics
+  - End-to-end supply chain visibility through integrated data foundations
+  - Governed, reliable data consumption for enterprise use cases
+  skills:
+    languages: [Python, Java, SQL]
+    domains: []
+    web: [APIs, Microservices]
+    cloud: [Azure]
+    data: [Data Pipelines, Data Engineering]
+    ml: [Machine Learning]
+    databases: []
+    genai: [AI Agents, Agentic Workflows]
+    ops: [CI/CD, DevOps, Observability, Distributed Systems]
+    other: [SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11907469'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:56:39.720949'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

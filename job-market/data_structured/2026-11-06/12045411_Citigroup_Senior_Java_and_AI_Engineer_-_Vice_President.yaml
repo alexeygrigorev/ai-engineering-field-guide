@@ -1,0 +1,50 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services, FX technology
+position:
+  title: Senior Java and AI Engineer - Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a senior Java engineering role for FX Prime
+      Brokerage systems; no LLM/ML model shaping (no prompts, RAG,
+      training, or evals) is described. AI appears only as coding
+      assistants (Devin, Claude Code, Codex) used to write code
+      faster, which is explicitly ai-support.
+  responsibilities:
+  - Implement Prime Brokerage solutions across FX and Equities using cloud-native
+    technologies and CI/CD workflows
+  - Drive system architecture design and development, working with end-users to enhance
+    deliverable quality
+  - Design, develop, and test new application features
+  - Collaborate with FX Prime Brokerage trading, Quants, and Product teams to deliver
+    data-driven solutions
+  - Provide 3rd line production support and improve the software development lifecycle
+  - Mentor junior team members and define best practices for the department
+  use_cases:
+  - FX and Equities Prime Brokerage platform development
+  - Replacement and modernization of legacy trading systems
+  - Production support and scalability of trading applications
+  skills:
+    languages: [Java, SQL]
+    domains: []
+    web: [Spring Boot]
+    cloud: []
+    data: [Kafka]
+    ml: []
+    databases: [KDB]
+    genai: [Claude Code, Codex, Devin]
+    ops: [CI/CD, Kubernetes, OpenShift]
+    other: [Ultra-Low-Latency Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12045411'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-11-06T14:38:32.580692'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

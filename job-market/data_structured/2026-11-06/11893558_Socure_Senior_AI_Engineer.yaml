@@ -1,0 +1,51 @@
+company:
+  name: Socure
+  stage: null
+  focus: Identity verification and fraud prevention infrastructure
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic workflows (planner-
+      executor, reflection, human-in-the-loop, tool calling) and
+      evaluates their output quality, which is directly shaping
+      LLM behavior. This is clearly ai-first.
+  responsibilities:
+  - Partner with business teams to catalog and prioritize high-impact manual workflows
+    for automation
+  - Build multi-step, tool-augmented agent workflows with planner-executor and reflection-based
+    architectures
+  - Design stateful agent systems with human-in-the-loop controls, approval gates,
+    and escalation mechanisms
+  - Integrate with the Agentic AI Foundations platform (runtime, orchestration, memory,
+    tools, guardrails, observability)
+  - Contribute reusable agent design patterns back to platform paved paths
+  - Use evaluation harness and tracing for continuous performance assessment and failure-mode
+    analysis
+  use_cases:
+  - Internal intelligent automation for sales, marketing, revenue ops, finance, talent,
+    and legal
+  - Multi-step tool-augmented agents for business workflow execution
+  - Enterprise transformation into AI-native operations
+  - Agentic solutions with evaluation, tracing, and failure-mode analysis
+  skills:
+    genai: [LLMs, LangGraph, CrewAI, AutoGen, Agentic Workflows, Multi-Agent Systems,
+      RAG, Vector Databases, Knowledge Graphs, MCP, Function Calling, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS Bedrock, AWS Lambda, SageMaker]
+    ops: [LangSmith, Weights & Biases, Arize, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11893558'
+  location: New York, USA
+  extracted_at: '2026-11-06T13:48:07.235128'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

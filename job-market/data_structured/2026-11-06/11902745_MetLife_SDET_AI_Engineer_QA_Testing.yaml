@@ -1,0 +1,55 @@
+company:
+  name: MetLife
+  stage: null
+  focus: Insurance, annuities, employee benefits and asset management
+position:
+  title: SDET AI Engineer QA Testing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and executes evaluation strategies,
+      benchmark datasets, and automated evaluation pipelines for
+      LLM, RAG, and Agentic AI systems, validating metrics like
+      groundedness, faithfulness, and hallucination detection.
+      Building evals for LLM output quality is shaping model
+      behaviour, so the LLM component makes it ai-first.
+  responsibilities:
+  - Understand application architecture, APIs, databases, authentication flows, cloud
+    integrations, and business workflows
+  - Design, execute, and maintain test plans and validation strategies across unit,
+    functional, integration, API, and regression testing
+  - Develop and maintain reusable automation frameworks and test suites for UI, API,
+    backend, and integration testing
+  - Design and execute evaluation strategies for Generative AI, LLM, RAG, and Agentic
+    AI systems, including benchmark datasets and automated evaluation pipelines
+  - Validate AI quality metrics such as accuracy, groundedness, faithfulness, hallucination
+    detection, and latency
+  - Test RAG workflows including ingestion, chunking, indexing, retrieval, ranking,
+    prompt quality, agents, and orchestration frameworks
+  - Identify, document, track, and verify defects to protect existing functionality
+  use_cases:
+  - Quality assurance and test automation for cloud-native enterprise applications
+  - Evaluation and validation of Generative AI and LLM applications
+  - Testing of RAG pipelines and Agentic AI workflows
+  - Automated regression and release validation across API, UI, and backend systems
+  skills:
+    genai: [Generative AI, LLMs, RAG, LangChain, LangGraph, Semantic Kernel, Prompt
+        Engineering, AI Agents, Agentic Workflows, LLM Evaluation, Azure OpenAI]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices, Playwright]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure]
+    ops: [Azure DevOps, Docker, Jenkins, CI/CD, Selenium, Monitoring, JMeter]
+    languages: [Java, TypeScript, JavaScript, Python]
+    domains: []
+    other: [Selenium, Cypress, TestNG, Cucumber, REST Assured, PyTest, Postman, TDD/BDD,
+      Agile, BlazeMeter]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11902745'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:54:32.720946'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Encord
+  stage: null
+  focus: |-
+    Data infrastructure and tooling for physical AI and robotics
+    teams
+position:
+  title: Quant Developer in AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds distributed data systems and APIs serving
+      AI/robotics data (petabytes, LIDAR, video), but does not
+      shape any model's behavior — no prompts, RAG, training, or
+      evals. It explicitly says AI/ML experience is not required.
+      Moving and serving data to others' ML workloads is ai-
+      support.
+  responsibilities:
+  - Design, build, deploy and own data systems processing petabytes across billions
+    of items, from architecture to deployment and monitoring
+  - Build robust distributed systems and reason about their failure modes and behavior
+    under load
+  - Design performant protocols and APIs for data-intensive robotics workloads (3D
+    scenes, long videos, LIDAR point clouds, ML inference)
+  - Own services in production and improve quality through code reviews, testing,
+    rollout and monitoring
+  - Contribute knowledge and help level up a high-performing team
+  use_cases:
+  - Data platform for frontier robotics labs to generate, understand, train on, and
+    test massive robotics data
+  - Handling large 3D scenes, hour-long videos, and LIDAR point clouds at scale
+  - Petabyte-scale data systems for physical AI and enterprise AI teams
+  skills:
+    genai: []
+    ml: [ML Inference]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Code Review, Distributed Systems]
+    languages: [Python, TypeScript, Rust, C++, Java, Go]
+    domains: []
+    other: [Data Structures and Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11459308'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:54:06.191514'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

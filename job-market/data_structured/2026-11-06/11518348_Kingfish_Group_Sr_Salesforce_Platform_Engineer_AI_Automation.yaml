@@ -1,0 +1,44 @@
+company:
+  name: Kingfish Group
+  stage: null
+  focus: Strategic advisor and investment partner to private equity
+position:
+  title: Sr. Salesforce Platform Engineer — AI & Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Salesforce platform engineer and multi-system
+      integrator. AI (Claude, Claude Code) is used as a tool to
+      drive automation across the SDLC, not to shape model
+      behaviour — no prompt design, RAG, evals, or fine-tuning of
+      the model itself. Per the edge cases, AI used as a coding
+      assistant is ai-support.
+  responsibilities:
+  - Design, build, integrate, and own Salesforce platform solutions end-to-end
+  - Own integration architecture across the full technology environment, not just
+    Salesforce
+  - Act as a foundational member of the Systems team building in-house platform engineering
+    capability
+  - Use Claude and Claude Code to drive automation across the SDLC
+  - Serve as a Salesforce expert and multi-system integrator connecting enterprise
+    systems
+  use_cases: []
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Salesforce, SDLC Automation, System Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11518348'
+  location: Pune, IND
+  extracted_at: '2026-11-06T12:04:24.986625'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

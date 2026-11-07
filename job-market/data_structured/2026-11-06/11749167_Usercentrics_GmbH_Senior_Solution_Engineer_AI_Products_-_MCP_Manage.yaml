@@ -1,0 +1,56 @@
+company:
+  name: Usercentrics GmbH
+  stage: null
+  focus: Consent management and AI agent governance
+position:
+  title: Senior Solution Engineer, AI Products - MCP Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a customer-facing sales/solution engineer for an
+      MCP governance product: demos, PoCs, security reviews, and
+      troubleshooting. They configure and support a platform
+      someone else builds, and use AI coding assistants (Claude
+      Code) merely as tools to debug customer issues — no shaping
+      of model behavior, prompts, or retrieval. AI agents are the
+      product domain, not the deliverable, so this is ai-support.
+  responsibilities:
+  - Lead technical discovery, demos, and compatibility checks for MCP Manager evaluations
+    with prospects' AI stacks
+  - Scope and support proofs of concept, resolving technical blockers like MCP server/client
+    compatibility, workspace access, and identity setup
+  - Lead security questionnaires, architecture reviews, and vendor due diligence with
+    CISOs and compliance teams
+  - Build and maintain demo environments, solution plans, reference architectures,
+    and technical documentation
+  - Provide post-sales engineering support and customer onboarding alongside the Customer
+    Success Manager
+  - Investigate and resolve prospect and customer technical issues using AI coding
+    assistants before escalating to engineering
+  - Log field feedback, technical objections, and competitive signals and work with
+    Product to prioritize customer needs
+  use_cases:
+  - Governance and access control for AI agent connections to business systems
+  - Security, audit, and compliance oversight of MCP-based agent integrations
+  - Authentication, data flow, and logging controls for AI agents in production
+  - Enterprise rollout of AI agents from experiments to production
+  skills:
+    genai: [AI Agents, MCP]
+    ml: []
+    web: [APIs, OAuth, SSO]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Claude Code, GitHub]
+    languages: []
+    domains: []
+    other: [SaaS Configuration, AI Gateways, SOC 2, HIPAA Compliance, Sales Engineering,
+      Identity Providers, Salesforce, Confluence, Slack]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11749167'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:46:06.114513'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

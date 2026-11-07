@@ -1,0 +1,51 @@
+company:
+  name: Parallel Wireless
+  stage: null
+  focus: Open RAN software and network infrastructure
+position:
+  title: Senior/Principal Local LLM & Generative AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and operates a local LLM platform:
+      selecting/optimizing open-weight models, building
+      permission-aware retrieval (RAG), prompt engineering,
+      evaluation and guardrails. This is directly shaping model
+      behavior and output quality on an LLM product, so ai-first.
+  responsibilities:
+  - Build and operate a secure local LLM platform for internal engineering and business
+    teams
+  - Select and optimize open-weight models for internal use cases
+  - Build permission-aware retrieval and trustworthy source grounding
+  - Create reusable APIs and tools and integrate with engineering workflows
+  - Establish objective evaluation of quality, safety, latency, and capacity
+  - Make build-versus-buy decisions across search, RAG, prompting, and model adaptation
+  - Maintain observable production services and keep data, indexes, models, and prompts
+    current
+  use_cases:
+  - Engineering knowledge discovery
+  - Source-code understanding
+  - Troubleshooting assistance
+  - Technical-document Q&A and summarization
+  - Test and log analysis
+  - Drafting structured engineering artifacts
+  skills:
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887284'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:38:34.379517'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

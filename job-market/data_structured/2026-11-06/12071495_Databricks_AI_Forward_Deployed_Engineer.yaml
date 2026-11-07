@@ -1,0 +1,50 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Unified Data and AI platform and services
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and productionizes GenAI applications
+      including RAG, multi-agent systems, and fine-tuning, which
+      is directly shaping LLM behavior and output. Forward
+      Deployed Engineers adapting and deploying AI solutions at
+      customer sites are ai-first per the edge cases.
+  responsibilities:
+  - Develop cutting-edge GenAI solutions incorporating Databricks AI research techniques
+    to solve customer problems
+  - Own production rollouts of consumer and internally facing GenAI applications
+  - Serve as a trusted technical advisor to customers across a variety of domains
+  - Present at conferences such as Data + AI Summit as a thought leader
+  - Collaborate cross-functionally with product and engineering teams to shape the
+    product roadmap
+  - Deliver professional services engagements to help customers productionize AI applications
+  use_cases:
+  - Customer GenAI applications built and productionized as professional services
+  - RAG and multi-agent systems for enterprise customers
+  - Text2SQL natural language data access
+  - Fine-tuned LLM applications
+  - Production machine learning deployments on cloud platforms
+  skills:
+    languages: []
+    domains: []
+    web: []
+    cloud: [AWS, Azure, GCP]
+    data: [Pandas, Spark, Databricks]
+    ml: [Hugging Face, scikit-learn, PyTorch, Machine Learning]
+    databases: []
+    genai: [RAG, Multi-Agent Systems, Text2SQL, Fine-Tuning, LangChain, DSPy, Generative
+        AI]
+    ops: [LLMOps]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '12071495'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:49:52.193065'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

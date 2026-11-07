@@ -1,0 +1,48 @@
+company:
+  name: Celonis
+  stage: null
+  focus: Process mining and enterprise AI platform
+position:
+  title: Applied Value Engineer - AI and Pre-Sales Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design and prototyping of
+      LLM/agent systems with RAG, tools, guardrails, prompt
+      engineering, and agentic orchestration, which is shaping
+      model behaviour. Forward-deployed-style pre-sales
+      engineering with AI solution development makes it ai-first.
+  responsibilities:
+  - Run technical discovery with strategic global accounts to identify operational
+    pain points
+  - Prototype and build bespoke AI solutions on the Celonis platform
+  - Deliver end-to-end Proof-of-Value projects with secure, scalable LLM/agent systems
+  - Demonstrate business impact to C-suite executives and drive value realization
+  - Integrate AI solutions with enterprise data, identity, and compliance frameworks
+  - Codify industry-specific solutions into reusable methodology and assets
+  use_cases:
+  - AI-driven process intelligence and enterprise process mining
+  - Industry-specific operational use cases (e.g., supply chain, finance)
+  - Agentic AI solutions for enterprise workflows
+  - Proof-of-Value projects demonstrating AI business impact
+  skills:
+    genai: [LLMs, Agentic Workflows, Function Calling, RAG, AI Agents, Prompt Engineering,
+      Guardrails]
+    ml: [PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers, Hugging Face, Reinforcement
+        Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure, Vertex AI]
+    ops: [MLOps, LLMOps, Model Deployment, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11957454'
+  location: London, GBR
+  extracted_at: '2026-11-06T14:10:37.101593'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

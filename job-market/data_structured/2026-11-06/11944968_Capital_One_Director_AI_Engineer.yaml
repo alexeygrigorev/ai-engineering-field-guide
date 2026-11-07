@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML
+position:
+  title: Director AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role oversees design and development of LLM inference,
+      guardrails, model evaluation, foundation model training, and
+      agentic AI systems — directly shaping model behaviour and
+      output quality, with LLM components clearly involved.
+      Leadership oversight of this work counts as shaping.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for customers
+    and associates
+  - Oversee design, development, deployment and support of AI software components
+    including foundation model training, LLM inference, similarity search, guardrails,
+    and model evaluation
+  - Make build-vs-buy decisions across open source and SaaS AI technologies
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Attract and retain AI talent, foster a culture of learning and mentoring
+  - Translate enterprise AI strategy into portfolio-level execution plans across product
+    areas
+  - Establish enterprise standards for Responsible AI including fairness metrics,
+    evaluation protocols, and audit readiness
+  - Scale AI engineering practices through shared infrastructure, reusable components,
+    and unified observability and governance
+  use_cases: []
+  skills:
+    genai: [LLMs, Guardrails, Agentic Workflows, AI Agents]
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, CUDA,
+      Machine Learning]
+    web: []
+    databases: [Vector Search, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, C++, C#, Java, Go]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11944968'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T14:04:53.966216'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

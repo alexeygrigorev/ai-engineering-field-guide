@@ -1,0 +1,59 @@
+company:
+  name: Jefferies
+  stage: null
+  focus: Global investment banking and capital markets firm
+position:
+  title: AVP- Fullstack AI Engineer- HR Tech
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and extends agent workflows, prompts,
+      guardrails, evals, and RAG knowledge graphs for an LLM-based
+      agentic HR platform, which is shaping model behavior.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - 'Own production operations of the platform: monitoring, incident response, patching,
+    upgrades, and SLA adherence'
+  - Design, build, and ship new features across the React frontend and FastAPI backend
+  - 'Maintain and extend agentic AI workflows: agent nodes, prompts, guardrails, tool
+    bindings, and human-in-the-loop approval gates'
+  - Operate and extend enterprise integrations with Oracle ORC, PeopleSoft, DocuSign,
+    Exchange/Graph API, ServiceNow, and background-check vendors
+  - Maintain sourcing-channel ingestion pipelines (LinkedIn RSC, Indeed, Naukri) feeding
+    the Sourcing Agent
+  - Manage data models and pipelines in MongoDB/DocumentDB ensuring quality, sync
+    integrity, and auditability
+  - Own AWS infrastructure via IaC and CI/CD, including environments, releases, security,
+    and cost
+  - Maintain the RAG knowledge graph and ontology so agents reason against current
+    ground-truth data
+  use_cases:
+  - Agentic AI operating model for HR/recruiting workflows
+  - Automated candidate sourcing, scoring, and shortlisting
+  - Offer generation, candidate triage, and scheduling automation
+  - Enterprise HRIS/ITSM integrations (Oracle ORC, PeopleSoft, ServiceNow, DocuSign)
+  - RAG knowledge base for compliance policies, visa regulations, and compensation
+    data
+  - PII data masking and algorithmic bias/regulatory auditing of AI outputs
+  skills:
+    genai: [LangGraph, LangChain, LLMs, Prompt Engineering, LLM Evaluation, RAG, Guardrails,
+      Agentic Workflows, Human-in-the-Loop]
+    ml: []
+    web: [React, Vite, Tailwind CSS, React Router, FastAPI, Server-Sent Events, REST
+        APIs, GraphQL, OAuth]
+    databases: [MongoDB, Amazon DocumentDB, MongoDB Motor]
+    data: []
+    cloud: [AWS Bedrock, AWS, Microsoft Graph API]
+    ops: [Docker, Infrastructure as Code, CI/CD, Terraform, CloudFormation, Observability]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Pydantic, Oracle ORC, PeopleSoft, DocuSign, ServiceNow, LinkedIn Recruiter
+        System Connect, Indeed Retrieve Candidates API, Naukri ATS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11440358'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:51:20.765591'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

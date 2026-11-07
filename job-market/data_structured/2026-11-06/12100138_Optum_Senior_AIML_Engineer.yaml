@@ -1,0 +1,58 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare delivery, pharmacy benefits, and care technology
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes LLM agents end-to-end: designing
+      RAG pipelines, agent orchestration, prompt engineering,
+      guardrails, and evaluation pipelines, with fine-tuning where
+      warranted. This is direct shaping of LLM behavior, so it is
+      ai-first.
+  responsibilities:
+  - Build and deploy production LLM agents that automate detection, triage, and remediation
+    of platform and application issues
+  - Design and tune RAG pipelines over runbooks, incident history, logs, code, and
+    internal documentation
+  - Implement agent orchestration including tool/function calling, multi-step planning,
+    multi-agent handoffs, memory, and state management
+  - Integrate agents with observability and security platforms through APIs and MCP-style
+    tool interfaces
+  - Build guardrails, human-in-the-loop approval paths, and fallback behavior for
+    agents
+  - Own model and prompt engineering including model selection, context optimization,
+    and cost/latency tuning
+  - Build evaluation pipelines and define quality metrics for agent and RAG behavior
+  - Ship agent capabilities into EVA and partner with SRE, InfoSec, and platform teams
+    to scope safe automation
+  use_cases:
+  - Automated detection, triage, and remediation of platform and application issues
+  - Incident response and operations automation via LLM agents
+  - Retrieval over runbooks, incident history, logs, code, and internal documentation
+  - Security and vulnerability triage with human-in-the-loop review
+  - Developer workflow automation through the EVA platform
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings, Vector Search, Hybrid Search,
+      Semantic Search, Reranking, Function Calling, Agentic Workflows, Multi-Agent
+        Systems, MCP, Guardrails, Fine-Tuning, LLM Evaluation, LangGraph, LangChain,
+      LlamaIndex, Semantic Kernel, CrewAI, AI Agents]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Milvus, pgvector, FAISS]
+    data: []
+    cloud: [Azure AI Search, Azure, AWS, GCP]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12100138'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:59:43.653942'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Onit
+  stage: null
+  focus: Legal workflow automation software with agentic AI
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic LLM systems: tool-using
+      agents, multi-agent workflows, RAG, context engineering,
+      evals, and guardrails — all direct shaping of LLM behavior.
+      No model training, purely LLM/agent work, so ai-first.
+  responsibilities:
+  - Build and integrate AI-driven features using LLM APIs
+  - Design and implement tool-using agents with structured function calling, validation,
+    retries, and fallbacks
+  - Build multi-agent workflows (planner/worker, reviewer/critic, specialist routing)
+  - 'Own context engineering: dynamic context assembly, budgeting, compression, and
+    grounding strategies'
+  - Implement RAG and search workflows using vector stores and embedding services
+  - Establish evaluation frameworks with golden datasets, regression tests, and automated
+    eval pipelines
+  - Define and monitor online metrics (task success, override rate, safety flags,
+    latency, cost)
+  - Develop scalable backend services and APIs incorporating AI functionality, with
+    observability and guardrails
+  use_cases:
+  - Document understanding and extraction
+  - Reasoning over evidence
+  - Task automation for complex workflows end-to-end
+  - Multi-step decision support
+  - Enterprise AI features with permissions, auditability, and compliance
+  skills:
+    genai: [LLMs, OpenAI API, Azure OpenAI, Anthropic API, Gemini, Function Calling,
+      Agentic Workflows, Multi-Agent Systems, Context Engineering, RAG, Vector Databases,
+      Embeddings, LLM Evaluation, Guardrails, Prompt Engineering, AI Agents]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: [Airflow]
+    cloud: [Vertex AI, AWS, GCP]
+    ops: [CI/CD, OpenTelemetry, Langfuse, Datadog, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [A/B Testing, Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11894044'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:50:54.830448'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

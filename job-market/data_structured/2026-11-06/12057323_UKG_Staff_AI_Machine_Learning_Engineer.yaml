@@ -1,0 +1,56 @@
+company:
+  name: UKG
+  stage: null
+  focus: HCM workforce operating platform with HR AI products
+position:
+  title: Staff AI & Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns GenAI initiatives end-to-end, including model
+      selection, fine-tuning, evaluation, and building agentic
+      systems with LangChain/LangGraph/MCP, which is directly
+      shaping LLM behavior. Multiple LLM/agent components are
+      involved, so it is ai-first.
+  responsibilities:
+  - Lead architecture and delivery of cloud micro-services in Python with LangChain,
+    LangGraph, ADK, MCP, A2A and web-first frameworks
+  - 'Own GenAI initiatives end-to-end: data strategy, model selection or fine-tuning,
+    evaluation, deployment, and continuous optimization'
+  - Build capabilities for structured reasoning, autonomous planning, image/video
+    generation, and real-time live-mode interactions
+  - Set engineering standards for reliability, security, performance, CI/CD, and observability
+    through code reviews and mentoring
+  - Drive cross-functional execution with product, scope epics, align roadmaps, and
+    deliver features
+  - 'Champion production excellence: define SLOs, monitor telemetry, lead incident
+    response'
+  - Mentor engineers and foster a culture of continuous learning
+  - Document decisions through design docs and architecture reviews
+  use_cases:
+  - Generative AI products for the HR/HCM industry
+  - Structured reasoning and autonomous planning agents
+  - Image and video generation
+  - Real-time live-mode conversational interactions
+  - Enterprise SaaS workforce management solutions
+  skills:
+    genai: [LangChain, LangGraph, MCP, Agentic Workflows, Fine-Tuning, LLM Evaluation,
+      Generative AI, GitHub Copilot, Cursor, Claude Code, Google ADK]
+    ml: []
+    web: [FastAPI, Streamlit, Gradio, FastHTML]
+    databases: [BigQuery, Vector Databases, SQL, NoSQL]
+    data: []
+    cloud: [GCP, AWS, Azure, Vertex AI, GKE]
+    ops: [CI/CD, Observability, Code Review, Docker, Kubernetes, Kubeflow, Terraform,
+      GitHub Actions, Distributed Systems, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12057323'
+  location: Noida, IND
+  extracted_at: '2026-11-06T14:43:31.680727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

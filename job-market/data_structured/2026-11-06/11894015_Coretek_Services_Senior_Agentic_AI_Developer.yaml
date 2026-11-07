@@ -1,0 +1,60 @@
+company:
+  name: Coretek Services
+  stage: null
+  focus: Cloud consulting services delivering AI solutions
+position:
+  title: Senior Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic LLM systems: agent flows,
+      tool calling, RAG design, evals, guardrails, and prompt
+      engineering — clearly shaping model behaviour. LLM/agent
+      components dominate, so ai-first.
+  responsibilities:
+  - Design, build, and ship agentic AI applications on Azure with multi-step reasoning,
+    tool calling, retrieval, memory, and human-in-the-loop checkpoints
+  - Implement RAG pipelines including chunking, embeddings, hybrid/semantic search,
+    reranking, and grounded citations
+  - Integrate agents with client systems via APIs, databases, and MCP servers, writing
+    tool definitions and schemas
+  - Build evaluation harnesses and golden datasets measuring accuracy, groundedness,
+    and task completion
+  - 'Instrument agents for production: tracing, cost/latency telemetry, fallback paths,
+    and quality regression alerting'
+  - Implement guardrails and responsible AI controls including prompt injection defense,
+    PII handling, and output validation
+  - Tune cost and latency via model selection, prompt caching, context management,
+    and routing
+  - Containerize and deploy agent services, owning build, release, scaling, and runtime
+    configuration
+  use_cases:
+  - Production AI agents that plan, call tools, and act on real client business systems
+  - Retrieval-augmented question answering grounded in client documents with citations
+  - Agent integration with enterprise APIs, databases, and MCP servers
+  - Agentic automation with human-in-the-loop checkpoints and guardrails
+  - Cost- and latency-tuned agent workloads running in production on Azure
+  skills:
+    genai: [Agentic Workflows, Function Calling, RAG, Embeddings, Semantic Search,
+      MCP, LLM Evaluation, Guardrails, Prompt Engineering, Structured Outputs, Multi-Agent
+        Systems, LLMs, Microsoft Agent Framework, LangGraph, Fine-Tuning]
+    ml: [Model Training, Distillation, Small Language Models]
+    web: [REST APIs, JSON]
+    databases: [pgvector, PostgreSQL, Cosmos DB, Azure AI Search]
+    data: [Microsoft Fabric, Azure Databricks, Azure Synapse]
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry, Azure Functions, AKS, Container
+        Apps, Azure Key Vault, Managed Identity, Private Endpoints]
+    ops: [Docker, Kubernetes, CI/CD, Git, Terraform, Helm, LangSmith, OpenTelemetry,
+      Azure DevOps, GitHub]
+    languages: [Python, SQL, asyncio]
+    domains: []
+    other: [Azure AI Document Intelligence, HIPAA Compliance, GDPR, SOC 2, Responsible
+        AI, Infrastructure as Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11894015'
+  location: Kondapur, IND
+  extracted_at: '2026-11-06T13:50:33.613848'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

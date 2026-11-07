@@ -1,0 +1,54 @@
+company:
+  name: Ericsson
+  stage: null
+  focus: Telecommunications and networking
+position:
+  title: Senior AI DevOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG solutions with embeddings, vector
+      databases, semantic search, AI agents, tool calling, and MCP
+      integrations — directly shaping model behavior and
+      retrieval, which makes it ai-first.
+  responsibilities:
+  - Develop and integrate AI/ML and Generative AI applications using Python and LLM
+    frameworks
+  - Build RAG solutions using embeddings, vector databases, semantic search and AI
+    agents
+  - Implement tool calling, MCP integrations and controls for reliable AI applications
+  - Create and maintain automated CI/CD pipelines for testing, security checks and
+    deployment
+  - Automate infrastructure provisioning and configuration with Ansible, Python and
+    Bash
+  - Deploy and manage cloud-native applications with Docker, Kubernetes and cloud
+    platforms
+  - Apply security controls, access management, secrets handling and responsible AI
+    practices
+  - Improve monitoring, logging, performance and reliability across environments
+  use_cases:
+  - Enterprise AI applications using LLMs
+  - RAG-based knowledge retrieval with semantic search
+  - Agentic AI applications with tool calling and MCP
+  - Automated deployment and operations of AI services
+  - Secure, monitored production AI environments
+  skills:
+    languages: [Python, Bash]
+    domains: []
+    web: [JSON]
+    cloud: [AWS, Azure, GCP]
+    data: []
+    ml: [PyTorch, TensorFlow]
+    databases: [Vector Databases]
+    genai: [Generative AI, LLMs, RAG, Embeddings, Semantic Search, AI Agents, Function
+        Calling, MCP, Prompt Engineering]
+    ops: [CI/CD, Ansible, Docker, Kubernetes, Git, GitLab CI, Linux]
+    other: [SonarQube, SAST, Ubuntu, Red Hat Enterprise Linux]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11788424'
+  location: Kolkata, IND
+  extracted_at: '2026-11-06T13:12:49.818686'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and enterprise AI solutions
+position:
+  title: Forward Deployed AI Engineer-Anthropic-US East
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs prompts, RAG, agentic
+      workflows, tool calling, and evals directly for customers.
+      LLM-centric work on Claude, so ai-first per the FDE edge
+      case.
+  responsibilities:
+  - Deploy and operationalize agentic AI workflows, AI assistants, and automations
+    in client ServiceNow environments
+  - Translate customer business requirements into technical architectures and production-ready
+    AI solutions
+  - Build enterprise AI applications using Claude and the Anthropic API with prompt/context
+    engineering, structured outputs, and tool use
+  - Design and implement RAG solutions grounded in authorized enterprise data sources
+  - Develop evaluation approaches and safeguards including test cases, citation patterns,
+    and human-in-the-loop workflows
+  - Build secure integrations between ServiceNow, enterprise systems, APIs, and AI
+    services
+  - Build demos, prototypes, and proof-of-concept implementations for customer use
+    cases
+  - Contribute reusable assets, prompt patterns, and feedback to NewRocket AI platforms
+    and Agent Packs
+  use_cases:
+  - Enterprise agentic AI workflow automation in ServiceNow environments
+  - AI assistants and intelligent automations for enterprise business processes
+  - RAG-based enterprise knowledge grounding and document analysis
+  - AI-powered enterprise integrations across APIs, data platforms, and identity systems
+  - Workflow automation and decision support for enterprise customers
+  skills:
+    genai: [Prompt Engineering, Context Engineering, RAG, Agentic Workflows, Structured
+        Outputs, Function Calling, Anthropic API, MCP, Claude Code, LangChain, LangGraph,
+      LlamaIndex, Semantic Kernel, Embeddings, Vector Search, Semantic Search, Responsible
+        AI, LLM Evaluation]
+    ml: [LLMs]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Git, Infrastructure as Code, Monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [ServiceNow, Conversational AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11893359'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:47:36.534131'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

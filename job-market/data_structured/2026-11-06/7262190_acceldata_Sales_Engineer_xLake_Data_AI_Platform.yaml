@@ -1,0 +1,53 @@
+company:
+  name: acceldata
+  stage: null
+  focus: Data observability and cross-lake data platform
+position:
+  title: 'Sales Engineer  | xLake: Data & AI Platform'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a sales engineering role for a data observability
+      platform. The person demos, designs solutions, and runs POCs
+      for customers; they never shape model behavior, train
+      models, or build AI systems. AI is incidental to the product
+      platform.
+  responsibilities:
+  - Develop and conduct tailored technical presentations and product demonstrations
+    to prospective customers
+  - Partner with Enterprise and Strategic Accounts teams to identify prospect environments
+    and technical requirements for sales strategies
+  - Work with customers to design solutions tailored to their data environments and
+    technical requirements
+  - Develop technical proposals and assist with statements of work (SOWs)
+  - Lead POC implementations in customer environments and present value-oriented results
+  - Provide internal support to sales, presales, marketing, partner, and product teams
+    including training and demo assets
+  - Educate the sales team on technical aspects of data observability solutions
+  - Develop and maintain technical documentation including product guides and knowledge
+    base articles
+  use_cases:
+  - Data observability and data quality monitoring
+  - Data integration across data lakes and warehouses
+  - Enterprise data platform demonstrations and POCs
+  - Customer data environment analysis and observability strategy
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, Data Analytics]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [SQL, Python, R]
+    domains: []
+    other: [Data Visualization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7262190'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T15:02:42.684919'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

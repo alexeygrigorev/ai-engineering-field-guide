@@ -1,0 +1,60 @@
+company:
+  name: Keeper Security, Inc.
+  stage: null
+  focus: |-
+    Zero-trust cybersecurity, password and privileged access
+    management
+position:
+  title: Senior Software Development Test Engineer (SDET), AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs test harnesses and evaluation workflows for
+      prompts, models, agents, and tool-calling, and defines
+      evaluation criteria, tolerances, and quality thresholds for
+      LLM-driven functionality — i.e., building evals and judging
+      model output quality, which is shaping LLM behaviour. Hence
+      ai-first.
+  responsibilities:
+  - Partner with AI engineers, software engineers and product managers to define test
+    strategy, acceptance criteria and automation requirements
+  - Design and maintain automated testing frameworks for AI-powered applications,
+    backend services and APIs
+  - Develop deterministic and probabilistic testing strategies for non-deterministic
+    AI/ML outputs
+  - Define measurable evaluation criteria, tolerances and quality thresholds for LLM-driven
+    functionality
+  - Build test harnesses and evaluation workflows for prompts, models, agents and
+    tool-calling workflows
+  - Integrate automated validation and quality gates into CI/CD pipelines
+  - Analyze model and application failures to distinguish defects from expected model
+    variability
+  - Use AI-assisted tools such as Claude, ChatGPT and GitHub Copilot to improve automation
+    and test generation
+  use_cases:
+  - Quality assurance for AI-powered cybersecurity products and services
+  - Evaluation and validation of non-deterministic LLM and agent outputs
+  - Testing prompts, models, agents and tool-calling workflows
+  - Automated regression, integration, API and end-to-end testing of AI features
+  - Continuous quality engineering for security-sensitive, FedRAMP-compliant systems
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, Function Calling, RAG, LLM Evaluation,
+      ChatGPT, Claude Code, GitHub Copilot]
+    ml: [Machine Learning]
+    web: [Playwright, REST APIs, Pytest, Postman]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitHub Actions, Jenkins, GitLab CI, Docker, Kubernetes, Git]
+    languages: [Python, Java, TypeScript, Rust]
+    domains: []
+    other: [TestRail, REST Assured, Agile, Code Review, FedRAMP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11581119'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:15:11.272231'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

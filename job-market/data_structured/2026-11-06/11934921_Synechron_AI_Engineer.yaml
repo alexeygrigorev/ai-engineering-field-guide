@@ -1,0 +1,53 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, builds agentic workflows and
+      autonomous AI agents, develops MCP servers, and applies
+      prompt design and model evaluation — all direct shaping of
+      LLM behavior. This is squarely ai-first.
+  responsibilities:
+  - Build and implement AI agents and AI architecture within CI/CD workflows on AWS
+  - Design, implement, and maintain RAG pipelines using SageMaker, Lambda, vector
+    databases, embeddings, and retrieval components
+  - Develop MCP servers and integrate tools, APIs, services, and enterprise data sources
+  - Build agentic workflows and autonomous AI agents supporting task planning, tool
+    use, and response validation
+  - Support LLM-based code generation, code analysis, and code remediation workflows
+  - Integrate AI solutions with CI/CD workflows, security tools, testing, and deployment
+    pipelines
+  - Apply application security principles to AI architecture, prompts, tools, and
+    generated code
+  - Document AI architecture, data flows, security controls, and operational procedures
+  use_cases:
+  - AI-driven automation within CI/CD workflows
+  - LLM-based code generation, code fixing, and software remediation
+  - Improving software engineering productivity and delivery speed
+  - Secure retrieval-augmented responses from approved enterprise data sources
+  - Autonomous agents for task planning and tool use in cloud environments
+  skills:
+    genai: [LLMs, Generative AI, OpenAI API, AWS Bedrock, RAG, MCP, Agentic Workflows,
+      AI Agents, Embeddings, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Vector Databases, Vector Search, NoSQL, Relational Databases]
+    data: []
+    cloud: [AWS, AWS Lambda, SageMaker, AWS S3, API Gateway, ECS, EKS]
+    ops: [CI/CD, GitHub, Jenkins, Harness, Docker, Kubernetes, DevSecOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Snyk, SonarQube, Application Security, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11934921'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:02:20.040547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

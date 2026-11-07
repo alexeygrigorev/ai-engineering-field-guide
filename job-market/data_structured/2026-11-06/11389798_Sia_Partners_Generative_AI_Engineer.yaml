@@ -1,0 +1,56 @@
+company:
+  name: Sia Partners
+  stage: null
+  focus: |-
+    Global management consulting firm blending strategy and data
+    science
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG pipelines, and agent flows,
+      benchmarks and evaluates LLMs, and evaluates fine-tuning
+      strategies (PEFT, LoRA, RLHF) — all directly shaping LLM
+      behavior, so it is ai-first. Customer-facing consulting
+      delivery of GenAI solutions.
+  responsibilities:
+  - Build LLM-powered applications using LangChain, LlamaIndex, and GenAI frameworks
+  - Implement RAG pipelines with vector databases to ground LLM responses in internal
+    knowledge
+  - Develop multimodal AI solutions and autonomous agents where relevant
+  - Design reusable prompt templates using CoT, ReAct, Graph-of-Thought, and agent
+    flows
+  - Deploy GenAI models on AWS/GCP/Azure via SageMaker, Bedrock, Vertex AI
+  - Benchmark open-source and commercial LLMs for use-case fit and cost-performance
+    tradeoffs
+  - Evaluate fine-tuning strategies (PEFT, LoRA, RLHF) for proprietary use cases
+  - Drive MLOps excellence with CI/CD, drift detection, and canary releases
+  use_cases:
+  - Customer consulting on GenAI solution design across industries
+  - Grounding LLM responses in enterprise internal knowledge via RAG
+  - Multimodal AI applications (text, audio, image)
+  - Autonomous agent workflows for business use cases
+  - Enterprise-grade PoCs and GenAI application rollouts
+  skills:
+    languages: [Python]
+    domains: [NLP]
+    web: [FastAPI, Flask, Microservices]
+    cloud: [AWS, GCP, Azure, SageMaker, AWS Bedrock, Vertex AI]
+    data: []
+    ml: [PyTorch, Hugging Face, Machine Learning, NLP]
+    databases: [Vector Databases, Pinecone, FAISS, pgvector, Chroma, Qdrant, Milvus,
+      Weaviate]
+    genai: [LLMs, OpenAI API, Anthropic API, Mistral, LangChain, LlamaIndex, RAG,
+      AI Agents, Prompt Engineering, Fine-Tuning, LoRA, RLHF, Embeddings, Generative
+        AI]
+    ops: [MLOps, CI/CD, Guardrails]
+    other: [GDPR, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11389798'
+  location: Mumbai, IND
+  extracted_at: '2026-11-06T11:41:26.531675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

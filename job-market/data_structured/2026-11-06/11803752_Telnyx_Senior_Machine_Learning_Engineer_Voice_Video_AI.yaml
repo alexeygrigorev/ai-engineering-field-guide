@@ -1,0 +1,57 @@
+company:
+  name: Telnyx
+  stage: null
+  focus: Global IP network and real-time communications APIs
+position:
+  title: Senior Machine Learning Engineer (Voice & Video AI)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behavior through evaluation, fine-
+      tuning, and adaptation of speech-to-speech, full-duplex
+      video, and multimodal generative models. Per the edge cases,
+      generative speech/video models are ml-first; there is no
+      evidence of LLM prompt, retrieval, or agent-flow shaping.
+  responsibilities:
+  - Evaluate, adapt, and deploy real-time speech-to-speech and full-duplex video models,
+    including expressive avatars
+  - Track emerging research and open-source releases, benchmark approaches, and fine-tune
+    models for languages, accents, and specialized domains
+  - Build data and evaluation pipelines demonstrating improvements in realistic conversations
+  - Train and deploy models on GPU hardware across global infrastructure, optimizing
+    streaming inference, latency, and cost
+  - Own features end-to-end from model experiments through backend services, APIs,
+    and customer portal interfaces
+  - Use coding agents and development harnesses to implement, test, debug, and review
+    changes across the stack
+  use_cases:
+  - Real-time conversational voice and video AI agents
+  - Full-duplex audiovisual interaction with expressive avatars
+  - Multilingual and accent-adapted speech models
+  - Domain-specific adaptation such as medical terminology
+  - Streaming low-latency inference for natural turn-taking and interruption handling
+  skills:
+    genai: []
+    ml: [PyTorch, Fine-Tuning, Model Training, Model Evaluation, Distributed Training]
+    web: [APIs]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Model Deployment, Inference Optimization]
+    languages: [Python]
+    domains: [Speech Generation, Multimodal Models, Audio and Video Processing, Video
+        Generation]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11803752'
+  location: Dublin, IRL
+  locations:
+  - Dublin, IRL
+  - Amsterdam, NLD
+  - Kraków, POL
+  remote: true
+  extracted_at: '2026-11-06T13:15:06.766269'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

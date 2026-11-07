@@ -1,0 +1,60 @@
+company:
+  name: Newfold Digital
+  stage: null
+  focus: Web presence and hosting technology company
+position:
+  title: Software Development Engineer in Test - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM evaluation frameworks, prompt regression
+      testing, guardrail validation, and validates RAG/agent
+      architectures—directly shaping model behavior and output
+      quality, with LLMs throughout, so it is ai-first.
+  responsibilities:
+  - Design testing strategies for AI applications, copilots, chatbots, RAG pipelines,
+    and autonomous agents
+  - Develop AI evaluation frameworks covering hallucination, groundedness, toxicity/bias,
+    prompt regression, and safety guardrails
+  - Build automated validation pipelines for LLM outputs using structured assertions,
+    semantic scoring, and embeddings
+  - Validate RAG architectures including chunking, embedding quality, retrieval accuracy,
+    and vector search relevance
+  - Test multi-agent orchestration workflows, agent memory, and MCP integrations
+  - Develop scalable UI/API automation frameworks in Python and integrate with CI/CD
+    pipelines
+  - Validate reliability, observability, latency, and cost of AI systems across cloud
+    platforms
+  use_cases:
+  - Quality assurance and evaluation of LLM-driven copilots, chatbots, and AI agents
+  - Hallucination, safety, bias, and guardrail validation for generative AI systems
+  - RAG pipeline accuracy and retrieval relevance testing
+  - Multi-agent orchestration and tool interoperability validation
+  - UI/API test automation for web hosting and digital presence products
+  - AI system observability, cost, and latency monitoring
+  skills:
+    genai: [RAG, Prompt Engineering, Context Engineering, LLMs, AI Agents, Agentic
+        Workflows, MCP, Function Calling, LangChain, LangGraph, CrewAI, AutoGen, Semantic
+        Kernel, OpenAI API, Embeddings, Structured Outputs, Guardrails, LLM Evaluation,
+      LlamaIndex, Gemini, Claude Code, GitHub Copilot, Semantic Search]
+    ml: [RLHF, Reinforcement Learning, MLOps]
+    web: [REST APIs, GraphQL, Webhooks, Microservices, Playwright, Selenium, Cypress,
+      Streamlit]
+    databases: [Pinecone, Weaviate, Chroma, Qdrant, FAISS, Vector Databases, Knowledge
+        Graphs, SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, GitHub Actions, Jenkins, GitLab CI, Azure DevOps, Docker, Kubernetes,
+      Distributed Systems, Observability, Monitoring, Chaos Testing]
+    languages: [Python, Robot Framework]
+    domains: []
+    other: [Agile, Accessibility Testing, AI Red Teaming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005134'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:24:59.217385'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

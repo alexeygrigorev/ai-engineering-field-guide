@@ -1,0 +1,43 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and quality assurance
+position:
+  title: AI Quality Assurance Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role tests and validates AI/ML applications through
+      functional, regression, and API testing. There is no
+      evidence of shaping model behavior via prompts, retrieval,
+      agent design, or building model evals/guardrails themselves
+      - it is QA oversight of systems others build, which is ai-
+      support.
+  responsibilities:
+  - Develop test automation frameworks tailored for AI and ML systems
+  - Conduct functional and regression testing across scenarios
+  - Create and maintain detailed test documentation and reports
+  - Perform root cause analysis to identify and resolve defects in AI applications
+  - Design and execute AI/ML-specific test cases
+  - Validate system interfaces and data exchanges through API testing
+  - Execute test plans to ensure components meet quality benchmarks
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [API Testing]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Test Automation]
+    languages: []
+    domains: []
+    other: [Regression Testing, Test Documentation, Root Cause Analysis]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891658'
+  location: New Delhi, IND
+  extracted_at: '2026-11-06T13:41:32.540757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

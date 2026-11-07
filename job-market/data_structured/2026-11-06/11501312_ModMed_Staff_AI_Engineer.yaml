@@ -1,0 +1,56 @@
+company:
+  name: ModMed
+  stage: null
+  focus: Specialty-specific cloud healthcare software (EHR)
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM, Generative AI, and Agentic
+      AI systems including RAG pipelines, prompt engineering,
+      evaluation, and guardrails — directly shaping model
+      behavior. LLM components are central, so it is ai-first.
+  responsibilities:
+  - Architect and build production-grade LLM, Generative AI, and Agentic AI solutions
+    for healthcare workflows
+  - Lead architecture and implementation of RAG pipelines, AI agents, orchestration,
+    tool calling, and document intelligence from prototype to production
+  - Establish LLM evaluation, grounding, guardrails, observability, security, latency,
+    and cost optimization practices
+  - Apply prompt engineering, model selection, fine-tuning, and retrieval strategies
+    to specialty-specific healthcare challenges
+  - Define reusable AI engineering patterns and architecture standards across ModMed's
+    AI initiatives
+  - Mentor senior and junior engineers and conduct technical design reviews
+  - Ensure AI solutions are secure, explainable, and compliant for healthcare
+  use_cases:
+  - Healthcare workflow automation for medical practices
+  - Clinical documentation and document intelligence (OCR, extraction, classification)
+  - Specialty-specific EHR AI capabilities
+  - Revenue cycle management, billing, and claims processing
+  - Intelligent automation of medical-practice workflows
+  skills:
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering, Embeddings, AI Agents, Agentic
+        Workflows, LangChain, LangGraph, LlamaIndex, Function Calling, Fine-Tuning,
+      OpenAI API, Anthropic API, Llama, Mistral, LLM Evaluation, Guardrails]
+    ml: [PyTorch, Hugging Face, Machine Learning, Multi-Agent Systems, Model Deployment,
+      Model Evaluation, Deep Learning, Model Training, Quantization, Transformers,
+      Pandas, NumPy]
+    web: [APIs]
+    databases: [Vector Search]
+    data: [Databricks]
+    cloud: [AWS, SageMaker]
+    ops: [Distributed Systems, CI/CD, Observability, MLflow, Monitoring, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, HIPAA Compliance, OCR, Document Intelligence, Multimodal
+        AI, FHIR, HL7, X12/EDI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11501312'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T12:00:59.052406'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

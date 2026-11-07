@@ -1,0 +1,61 @@
+company:
+  name: Money Forward, Inc.
+  stage: null
+  focus: Fintech and back-office SaaS shifting to AI
+position:
+  title: Lead AI Engineer (Chennai / Pune)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic security workflows:
+      agent decision rules, guardrails, context engineering,
+      evals, and orchestration — clearly shaping LLM/agent
+      behaviour. This is ai-first.
+  responsibilities:
+  - Design end-to-end agentic security workflows for SDLC validation, patch management,
+    proactive testing, risk reporting, and release gates
+  - Own the product security context model covering architecture, data sensitivity,
+    authentication/RBAC, PII handling, and critical flows
+  - Define agent decision rules including human-review requirements, release-blocking
+    criteria, and escalation paths
+  - Design and implement agent guardrails such as least-privilege access, prompt-injection
+    handling, safe tool execution, and kill-switch mechanisms
+  - Build and maintain AI agent workflows using LLMs, context engineering, tool integrations,
+    orchestration, and evaluation pipelines
+  - Validate agent outputs with security experts and own false-positive tuning and
+    continuous quality improvement
+  - Lead application engineers across divisions and translate designs into implementation
+    patterns
+  - Work with SRE/PRE on CI/CD integration, Datadog checks, staging safeguards, and
+    release-gate mechanics
+  use_cases:
+  - Multi-agent security workflow supporting the full software development lifecycle
+  - Automated SDLC validation including secure coding and security testing
+  - Release risk assessment and release-gate decisioning
+  - Patch management and proactive security testing
+  - Production feedback loops and continuous agent quality improvement
+  - Secure AI-assisted development adoption across product teams
+  skills:
+    genai: [LLMs, AI Agents, RAG, LLM Evaluation, Context Engineering, Prompt Engineering,
+      LangGraph, LangChain, OpenAI Agents SDK, Guardrails]
+    ml: []
+    web: [React, Vue]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring, Observability, GitHub, CircleCI, Datadog]
+    languages: [Python, JavaScript, Ruby, Java, Go]
+    domains: []
+    other: [Application Security, Threat Modeling, OWASP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11884685'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  remote: true
+  extracted_at: '2026-11-06T13:32:32.181010'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,68 @@
+job_id: 11892093
+title: "Engineer II - Quality Engg & AI"
+company: Anblicks
+location: Ahmedabad, IND
+locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+work_type: FULL_TIME
+company_size: 568 Employees
+description: |
+  Key Responsibilities
+
+  - Design and implement a NUnit based automation framework to
+    drive test execution against simulator
+  - Build reusable service-layer components: TCP/socket
+    connection handling, XML message construction and parsing,
+    database state verification (polling Rx status/reason
+    against expected values within timeout), and structured
+    logging
+  - Automate test cases
+  - Implement fault-injection scenarios for Resilience & Chaos
+    suites (connection drops, malformed/oversized messages,
+    duplicate ACKs, timeout/watchdog behavior) and validate
+    structured log output as a pass/fail criterion
+  - Integrate the automated suite into a CI/CD pipeline (GitHub
+    Actions) with phase-gated execution
+  - Maintain a requirement-to-test-case traceability matrix
+  - Flag and document the small set of manual-only cases that
+    fall outside automation scope
+  - Work within a compressed timeline — prioritize a working,
+    CI-gated regression suite over exhaustive tooling polish
+
+  Required Skills
+
+  - 4+ years hands-on test automation experience, with strong C#
+    and NUnit 3 (or equivalent xUnit-family framework)
+    expertise
+  - Solid experience with TCP/socket-level programming and XML
+    message-based integration testing (not just REST/HTTP)
+  - Experience building or extending a layered/service-oriented
+    automation framework (not just writing flat test scripts)
+    — comfortable with concepts like connection/auth
+    abstraction, database verification services, and fault-
+    injection harnesses
+  - Working knowledge of CI/CD pipelines, ideally GitHub Actions
+  - Familiarity with database validation (SQL queries, polling
+    for state transitions with timeout logic)
+  - Comfortable working against a fixed, aggressive delivery
+    timeline with minimal ramp-up time
+
+  Nice to Have
+
+  - Prior experience testing hardware-integrated or device-
+    simulator-driven systems (pharmacy automation, IoT,
+    industrial control, or similar domains)
+  - Familiarity with chaos engineering principles (steady-state
+    verification, fault injection, recovery validation)
+  - Healthcare/pharmacy domain exposure, including PHI-awareness
+    in logging and data handling
+  - Experience with resilience/reliability testing patterns
+    (retry logic, watchdog timers, connection recovery)
+industries:
+  - Cloud
+  - Analytics
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/engineer-ii-quality-engg-ai/11892093"
+source: Built In

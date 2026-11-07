@@ -1,0 +1,54 @@
+company:
+  name: Spotter AI
+  stage: null
+  focus: AI- and algorithm-driven product systems startup
+position:
+  title: Remote Backend Django Engineer – AI & Algorithmic Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role implements algorithmic/AI logic like scoring,
+      ranking, routing and decision rules in a Django backend, but
+      there's no evidence of shaping model behavior (no prompts,
+      RAG, training, evals, or model selection). AI/algorithmic
+      logic here means conventional business logic, so the role is
+      ai-support.
+  responsibilities:
+  - Design and implement backend services and APIs using Python and Django
+  - Model and evolve the domain database with clean schemas and relationships
+  - Implement algorithmic/AI logic such as scoring, ranking, routing, and decision
+    rules
+  - Optimize correctness and performance with efficient queries, indexing, and caching
+  - Turn product ideas into technical designs and endpoints
+  - Help shape engineering patterns, conventions, and shipping practices
+  use_cases:
+  - Scoring and ranking logic in backend systems
+  - Routing and decision-rule services
+  - Optimization and data-heavy business logic
+  - Product-facing RESTful backend services
+  skills:
+    genai: []
+    ml: []
+    web: [Django, Django REST Framework, REST APIs]
+    databases: [PostgreSQL, Relational Databases, Redis]
+    data: []
+    cloud: [GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11387881'
+  location: Lahore, PAK
+  locations:
+  - Lahore, PAK
+  - Medellín, COL
+  - Guadalajara, MEX
+  - Bengaluru, IND
+  - Buenos Aires, ARG
+  remote: true
+  extracted_at: '2026-11-06T11:39:27.220380'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

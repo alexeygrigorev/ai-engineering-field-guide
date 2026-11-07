@@ -1,0 +1,45 @@
+company:
+  name: Blue Machines AI
+  stage: null
+  focus: AI and voice automation integration platform
+position:
+  title: Forward Deployed Engineer (AI Integration + Design) - Gen AI & Voice AI -
+    US
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role adapting and
+      deploying AI solutions at client sites, which is explicitly
+      ai-first. The role involves designing integrations with
+      AI/LLM frameworks, LangChain-style orchestration, and prompt
+      design, shaping how AI behaves at client deployments.
+  responsibilities:
+  - Develop and maintain integrations using REST APIs, WebSockets, and webhooks
+  - Build and deploy solutions on cloud platforms (GCP/AWS/Azure)
+  - Integrate with AI/LLM frameworks such as LangChain and OpenAI SDKs
+  - Collaborate with client and internal teams for deployment, debugging, and optimization
+  - Automate, document, and maintain integration workflows and observability
+  use_cases:
+  - Client-facing AI platform integrations
+  - Voice AI and telephony solutions
+  - Intelligent production-grade integrations between platform and client systems
+  - Real-time communication integrations
+  skills:
+    genai: [LangChain, LLMs, OpenAI API, Prompt Engineering]
+    ml: []
+    web: [REST APIs, WebSockets, Webhooks, OAuth]
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [CI/CD, Observability]
+    languages: [Python, Java]
+    domains: []
+    other: [JWT, SIP, WebRTC, Twilio]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11682142'
+  location: New York, USA
+  extracted_at: '2026-11-06T12:35:36.532764'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

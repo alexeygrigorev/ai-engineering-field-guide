@@ -1,0 +1,63 @@
+company:
+  name: Truvio
+  stage: null
+  focus: Global SaaS solutions for Microsoft Dynamics 365 ERP
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM gateway, prompt/tool
+      registries, retrieval, agent orchestration, and evaluation
+      infrastructure - directly shaping LLM behavior, so ai-first.
+      Individual contributor, internal platform serving other
+      engineers, not customer-facing or management.
+  responsibilities:
+  - 'Design and run core platform services: LLM gateway, model routing, prompt and
+    tool registries, retrieval, and agent orchestration'
+  - Build evaluation and testing infrastructure with offline evals, regression suites,
+    and production quality signals
+  - 'Make AI safe in customer ERP tenants: tenant isolation, data residency, PII handling,
+    cost controls, audit trails, human-in-the-loop hooks'
+  - 'Own observability for AI workloads: tracing, latency, token cost, and quality
+    dashboards'
+  - Ship SDKs, templates, and docs enabling product teams to build agents quickly
+  - Evaluate new models and frameworks for production readiness
+  use_cases:
+  - Agent features embedded in Microsoft Dynamics 365 ERP
+  - Tenant-isolated AI safe to run in customer ERP environments
+  - Retrieval over a context graph for agent grounding
+  - AI feature quality and cost observability per customer and feature
+  - Internal developer platform for shipping AI agents quickly
+  skills:
+    genai: [LLM Gateway, Prompt Registries, Tool Registries, Retrieval, AI Agents,
+      LLM Evaluation, Guardrails, Embeddings, MCP, Semantic Kernel, LangGraph, Function
+        Calling]
+    ml: [LLMs]
+    web: [APIs]
+    databases: [Vector Databases, Graph Databases, Knowledge Graphs]
+    data: []
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry, AKS, Azure Functions, Azure Key
+        Vault]
+    ops: [Observability, Distributed Systems, Infrastructure as Code, CI/CD, Terraform,
+      GitHub Actions, Azure DevOps]
+    languages: [Python, C#, .NET]
+    domains: []
+    other: [Microsoft Dynamics 365, Dataverse, GDPR, SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12034460'
+  location: DEU
+  locations:
+  - DEU
+  - Venlo, NLD
+  - Berlin, DEU
+  - DNK
+  - Solna, SWE
+  - København, DNK
+  - Richmond, GBR
+  remote: true
+  extracted_at: '2026-11-06T14:36:09.653558'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

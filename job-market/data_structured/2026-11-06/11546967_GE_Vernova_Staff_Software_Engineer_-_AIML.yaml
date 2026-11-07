@@ -1,0 +1,49 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Grid software and energy electrification services
+position:
+  title: Staff Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships RAG, multimodal LLM features, and
+      agentic workflows themselves, directly shaping model
+      behavior and output quality. LLM components are central, so
+      ai-first.
+  responsibilities:
+  - Lead enterprise full-stack and AI platform architecture at scale
+  - Build RAG and multimodal LLM features
+  - Design agentic workflows for autonomous tasks
+  - Ship resilient REST APIs and microservices
+  - Identify and deliver reusable AI components for forward-deployed engineers
+  - Set standards for AI-assisted development
+  - Mentor engineers and guide contractors and partners
+  - Make end-to-end technical decisions balancing reliability, performance, and cloud
+    cost for AI systems
+  use_cases:
+  - Enterprise AI platform for grid software services
+  - Multimodal LLM features at scale
+  - Enterprise RAG and semantic search for large user bases
+  - Autonomous agentic task execution
+  - Reusable AI components for forward-deployed engineers
+  skills:
+    genai: [RAG, LLMs, Agentic Workflows, Embeddings, LangChain, LlamaIndex, Semantic
+        Search]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices, SOAP]
+    databases: [Milvus, Pinecone, Weaviate, pgvector, Vector Databases]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, Code Review]
+    languages: [Python, Java, Go, JavaScript, TypeScript]
+    domains: []
+    other: [MuleSoft]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11546967'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T12:09:37.908565'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: TAC
+  stage: Stealth startup (Atlantic portfolio company)
+  focus: |-
+    AI software turning industrial machine data into production
+    insights
+position:
+  title: Industrial Data & Solutions Engineer (gn) @ Stealth AI Venture, Berlin
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys and validates an AI product at customer
+      sites, onboarding data and building analytical workflows
+      (KPIs, features, anomaly signals) in Python and SQL, but
+      never shapes model behaviour — no prompting, RAG, fine-
+      tuning, or model evaluation is described. The deliverable is
+      working deployments and data pipelines feeding the platform.
+  responsibilities:
+  - 'Own customer deployments end to end: use-case definition, data onboarding, validation,
+    rollout, training, and adoption'
+  - Turn messy production problems into clear data, analytics, and solution requirements
+  - Onboard and validate machine, process, quality, and maintenance data from industrial
+    systems
+  - Build and validate KPIs, features, anomaly signals, calibration methods, and analytical
+    workflows in Python and SQL
+  - 'Run projects with customers and the commercial lead: plans, workshops, validation
+    sessions, success criteria'
+  - Identify and expand to new machines, lines, data sources, and use cases
+  - Feed field learnings back into the product and help write the delivery playbook
+  use_cases:
+  - Diagnosing why production lines slow down
+  - Identifying causes of scrap in manufacturing
+  - Recommending what to fix next on the shop floor
+  - Anomaly detection and root-cause analysis on machine and process data
+  - Production KPI monitoring for engineers and operators
+  skills:
+    genai: []
+    ml: [Anomaly Detection]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Time-Series Analysis, Statistics, Root-Cause Analysis, PLC, SCADA, MES,
+      Historians, OPC UA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11904870'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T13:55:45.934374'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

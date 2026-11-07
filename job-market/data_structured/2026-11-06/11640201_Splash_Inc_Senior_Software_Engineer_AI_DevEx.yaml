@@ -1,0 +1,57 @@
+company:
+  name: Splash Inc.
+  stage: null
+  focus: Gamified fantasy sports and live event competitions
+position:
+  title: Senior Software Engineer, AI DevEx
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds the autonomous coding agents
+      themselves: choosing agents, wiring triggers, building
+      guardrails, and creating feedback loops/evals that shape
+      agent output quality. Per the edge case, when the agents are
+      the product (not just a developer workflow tool), the role
+      is ai-first.
+  responsibilities:
+  - Build cloud coding environments reproducible from fresh checkout for engineers
+    and agents
+  - Build and integrate autonomous coding agents that take tickets end-to-end to reviewed
+    pull requests
+  - Wire agents into triggers like Slack, Jira, GitHub, and Datadog, including SRE-driven
+    fix PRs from production alerts
+  - Design guardrails controlling agent data access, secrets/PII handling, and human
+    review requirements
+  - Run feedback loops to diagnose and fix root causes where agents struggle in the
+    codebase
+  - Provide an agent platform that non-engineering teams can run agents on
+  - Contribute directly to TypeScript/Node services
+  - Measure impact via PR cycle time and agent share of authored/reviewed PRs
+  use_cases:
+  - 'Autonomous software development: tickets, bug reports, and support chats become
+    reviewed pull requests'
+  - Automated production incident response with Datadog alerts triggering fix PRs
+  - Cloud-based reproducible coding and testing environments for engineers and agents
+  - Internal agent platform enabling non-engineering teams to run guarded agents
+  - Guardrailed agent access to secrets and PII in a regulated real-money gaming business
+  skills:
+    genai: [Claude Code, Codex, Cursor, AI Agents, Multi-Agent Systems, MCP, LLM Evaluation]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, ECS, AWS Lambda, IAM]
+    ops: [Infrastructure as Code, Terraform, CloudFormation, Docker, Kubernetes, CI/CD,
+      Datadog, OpenTelemetry]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: [Jira, Nix, PII Handling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11640201'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:27:49.873997'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

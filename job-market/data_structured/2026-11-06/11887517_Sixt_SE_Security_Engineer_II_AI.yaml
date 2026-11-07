@@ -1,0 +1,53 @@
+company:
+  name: Sixt SE
+  stage: null
+  focus: |-
+    Global mobility services: car rental, sharing, ride,
+    subscription
+position:
+  title: Security Engineer II (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds detections, guardrails, and automated
+      controls specifically for LLM/AI behaviour (prompt injection
+      defences, agentic tool-use risk controls, AI governance
+      automation), which is building guardrails for model
+      behaviour — shaping per the rules. The targets are LLMs, RAG
+      systems, and agentic workflows, so it is ai-first.
+  responsibilities:
+  - Assess AI tooling and AI-built applications across SIXT, derive security risks,
+    and present actionable findings to stakeholders
+  - Author and automate enforcement of remediation policies that keep AI usage within
+    agreed boundaries
+  - Partner with teams building AI-powered tools to steer them toward secure approaches
+    and acceptable-use decisions
+  - Define the baseline of healthy AI usage and track risk reduction through KPIs
+  - Respond to and contain AI-related security incidents
+  - Collaborate with Security, Legal, and Data Protection to align AI usage with the
+    EU AI Act and GDPR
+  use_cases:
+  - Securing enterprise AI adoption across the organisation
+  - Detecting and preventing prompt injection and agentic tool-use threats
+  - Automated enforcement of AI usage policies and governance controls
+  - Security risk assessment and incident response for AI systems
+  skills:
+    genai: [LLMs, RAG, AI Agents, Function Calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: [Security Engineering, Prompt Injection, CVSS, Regular Expressions, GDPR,
+      EU AI Act]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11887517'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:39:07.965376'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

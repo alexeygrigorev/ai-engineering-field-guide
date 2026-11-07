@@ -1,0 +1,51 @@
+company:
+  name: Enjins
+  stage: null
+  focus: |-
+    Production-grade ML systems, data infrastructure, and
+    agentic AI consulting
+position:
+  title: Senior Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer building client-specific agentic
+      AI workflows on top of multi-agent systems with LangGraph-
+      like orchestration — the person directly shapes agent
+      behaviour and output quality. Per the edge cases, FDEs
+      adapting and deploying AI solutions at client sites are ai-
+      first; customer-facing never implies ai-support.
+  responsibilities:
+  - Translate ambiguous client requirements into architectural choices and working
+    AI solutions
+  - Build and launch client-specific workflows and agents on top of core multi-agent
+    systems
+  - Lead client relationships as senior technical contact from day one
+  - Track new AI developments and apply them to deployed workflows
+  - Share deployment insights with AI Engineers to shape scalable platform features
+  - Mentor peers on-site and refine deployment standards
+  use_cases:
+  - Client-specific agentic AI workflows deployed into production environments
+  - Energy and climate scale-up AI transformation
+  - AI-native solutions for VC/PE investors
+  - Integrating AI with legacy systems and messy client data
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows, LangGraph, LLMs, Claude Code,
+      ChatGPT]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: []
+    ops: [MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10233087'
+  location: Amsterdam, NLD
+  extracted_at: '2026-11-06T11:19:29.778673'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

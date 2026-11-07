@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: 'AI Engineer 5 (Gen AI Platform Services: Agentic Systems)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents and multi-agent workflows,
+      guardrails, model evaluation, and multi-model orchestration
+      integrating LLMs - all shaping LLM behavior and output
+      quality. Foundation model training/optimization is also
+      present, which is ai-first given LLM targets.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, guardrails, model evaluation, and observability
+  - Design, implement and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Establish cost-performance governance across AI systems, tracking GPU utilization,
+    throughput, and inference cost efficiency
+  - Lead design councils and design review boards for technical consistency and AI
+    engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Partner with cross-functional teams to deliver AI-powered products
+  use_cases:
+  - AI-powered banking products changing how customers interact with Capital One
+  - Real-time personalized customer experiences in banking
+  - Agentic systems and multi-agent workflows for associates and customers
+  - Fraud and unusual-charge detection and customer notifications
+  skills:
+    languages: [Python, Go, Scala, CUDA, Java, C++, C#]
+    domains: []
+    web: []
+    cloud: [AWS, GCP, Azure]
+    data: []
+    ml: [PyTorch, Hugging Face, Model Training, Fine-Tuning, Quantization]
+    databases: [Vector Databases, Vector Search]
+    genai: [LLMs, Agentic Workflows, Guardrails, RAG, Model Evaluation]
+    ops: [Model Deployment]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11552226'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:11:07.721616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

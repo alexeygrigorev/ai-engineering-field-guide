@@ -1,0 +1,52 @@
+company:
+  name: New York Life
+  stage: null
+  focus: Insurance and financial services provider
+position:
+  title: Senior Associate - Full-Stack AI & Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a full-stack application and data
+      engineering role for investment technology. GenAI is
+      mentioned as a tool to "leverage... to increase
+      productivity" and to stay current with, with AI/LLM skills
+      (Bedrock, Claude, OpenAI, MCP) listed as requirements, but
+      the responsibilities describe no prompt engineering, RAG
+      design, fine-tuning, or eval work — the person consumes
+      rather than shapes model behaviour.
+  responsibilities:
+  - Design, develop, and maintain scalable, high-performance applications for the
+    investment business
+  - Build and maintain data flows between Trading, Accounting, and Data Warehouse
+    platforms
+  - Conduct proofs of concept and develop prototypes to evaluate new technologies
+  - Design and develop reusable components, frameworks, and modern capabilities
+  - Leverage Generative AI to increase productivity and streamline processes for investment
+    business groups
+  - Collaborate with cross-functional teams including product, architecture, engineering,
+    and offshore partners
+  use_cases:
+  - Investment business applications for a life insurance company
+  - Data flows between Trading, Accounting, and Data Warehouse platforms
+  - Productivity and process streamlining for investment business groups using Generative
+    AI
+  skills:
+    languages: [Python, C#, .NET, TypeScript, SQL]
+    domains: []
+    web: [Angular, APIs]
+    cloud: [AWS Bedrock, AWS, Azure, GCP]
+    data: [Data Pipelines]
+    ml: []
+    databases: []
+    genai: [Anthropic API, OpenAI API, MCP, Generative AI, LLMs]
+    ops: [CI/CD, Jenkins, Harness, Git, Team Foundation Server]
+    other: [Jira, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12003373'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:23:55.480311'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

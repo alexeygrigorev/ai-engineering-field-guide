@@ -1,0 +1,46 @@
+company:
+  name: Vanguard
+  stage: null
+  focus: Investment management and retirement services
+position:
+  title: Lead Full-Stack Software Engineer, Cloud & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack/cloud engineering leadership role; AI
+      appears only as preferred exposure to GenAI platforms and
+      agent-based solutions to "evaluate and adopt," with no
+      evidence the person shapes model behavior. AI is a nice-to-
+      have, so it is ai-support.
+  responsibilities:
+  - Lead the design and delivery of full-stack software solutions
+  - Define architecture and technical solution strategies
+  - Guide engineering teams on design patterns, scalability, and best practices
+  - Lead technical reviews, code reviews, and solution evaluations
+  - Provide technical direction across frontend, backend, APIs, and cloud platforms
+  - Partner with business and technology stakeholders to define solutions
+  - Mentor and develop engineering talent
+  - Evaluate and adopt emerging technologies, including AI-enabled solutions
+  use_cases:
+  - Cloud-based applications for investment management
+  - Intelligent digital experiences for clients
+  - AI-enabled solutions for business outcomes
+  skills:
+    genai: [Generative AI, Conversational AI, AI Agents]
+    ml: []
+    web: [Angular, APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [GitHub, CI/CD]
+    languages: [JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12068168'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T14:48:02.208677'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,234 @@
+job_id: 11545624
+title: Staff Software Engineer - AI Engineer
+company: Tekion
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 1,858 Employees
+description: |
+  About Tekion:
+
+  Positively disrupting an industry that has not seen any
+  innovation in over 50 years, Tekion has challenged the
+  paradigm with the first and fastest cloud-native automotive
+  platform that includes the revolutionary Automotive Retail
+  Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC)
+  for manufacturers and other large automotive enterprises and
+  Automotive Partner Cloud (APC) for technology and industry
+  partners. Tekion connects the entire spectrum of the
+  automotive retail ecosystem through one seamless platform.
+  The transformative platform uses cutting-edge technology,
+  big data, machine learning, and AI to seamlessly bring
+  together OEMs, retailers/dealers and consumers. With its
+  highly configurable integration and greater customer
+  engagement capabilities, Tekion is enabling the best
+  automotive retail experiences ever. Tekion employs close to
+  3,000 people across North America, Asia and Europe.
+
+  About Tekion:
+
+  Positively disrupting an industry that has not seen any
+  innovation in over 50 years, Tekion has challenged the
+  paradigm with the first and fastest cloud-native automotive
+  platform that includes the revolutionary Automotive Retail
+  Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC)
+  for manufacturers and other large automotive enterprises and
+  Automotive Partner Cloud (APC) for technology and industry
+  partners. Tekion connects the entire spectrum of the
+  automotive retail ecosystem through one seamless platform.
+  The transformative platform uses cutting-edge technology,
+  big data, machine learning, and AI to seamlessly bring
+  together OEMs, retailers/dealers and consumers. With its
+  highly configurable integration and greater customer
+  engagement capabilities, Tekion is enabling the best
+  automotive retail experiences ever. Tekion employs close to
+  3,000 people across North America, Asia and Europe.
+
+  Why This Role Matters
+
+  This role powers Tekion’s AI‑native, end‑to‑end automotive
+  platform by turning unified dealership data across DMS, CRM,
+  Digital Retail, Service, and Payments into real‑time
+  intelligence. You’ll operationalize a graph‑based contextual
+  ecosystem so agents can retrieve the right context, enforce
+  policy, and personalize experiences that drive measurable
+  dealer outcomes. You’ll also build the resilient control
+  layer - MCP and the LLM Gateway - that enables safe,
+  cost‑efficient, multi‑provider LLM usage. Finally, you’ll
+  define the standards for building, evaluating, deploying,
+  and governing agentic systems so product teams can ship AI
+  features quickly, safely, and at scale. In addition to
+  enabling agentic systems powered by LLMs, this role also
+  drives building the platform for classical ML models driving
+  optimization across dealership operations.
+
+  What Makes This Opportunity Unique
+
+  This role offers direct, measurable impact on dealer
+  outcomes and consumer experiences across Tekion’s Automotive
+  Retail Cloud and Automotive Enterprise Cloud, with
+  end‑to‑end ownership of an LLM control plane and gateway
+  that serve multi‑tenant workloads under SLAs and, quality
+  and cost guardrails. You’ll leverage a rich vertical dataset
+  and domain graph spanning sales, service, parts, F&I,
+  accounting, and consumer touchpoints to power context‑aware
+  agents and retrieval‑augmented generation. You’ll also shape
+  core levers - agent orchestration patterns, evaluation
+  frameworks, and safety guardrails - so improvements in
+  latency, reliability, evaluation quality, and safety
+  translate into dealer KPIs like upsell, cycle time, CSAT,
+  and service revenue.  You’ll also maintain and enhance the
+  platform to support classical supervised and unsupervised ML
+  models .
+
+  Responsibilities
+
+  - Build and run the LLM control plane/gateway: smart routing,
+    rate limits/quotas, failover, and token/cost tracking.
+
+  - Ship a unified API and SDKs (REST/gRPC) with normalized
+    schemas, structured outputs, caching, and full
+    observability (traces/logs/metrics).
+
+  - Enforce safety and privacy by default: content filtering,
+    prompt/response validation, and PII redaction.
+
+  - Enable multi‑model, multi‑vendor use LLMs with automated
+    canarying and versioning.
+
+  - Own the agent runtime: tool registry, permissions, function
+    calling, grounding, and retrieval.
+
+  - Design orchestration patterns (sequential, planner‑executor,
+    streaming) and manage agent state and long‑running
+    workflows.
+
+  - Enabling platform components for training and scoring
+    pipelines for classical ML (e.g.,
+    XGBoost/LightGBM/linear/trees) and deep models;
+    standardize experiment tracking and packaging.
+
+  - Create components to Monitor model and data drift,
+    retraining and tuning models as needed to maintain
+    accuracy and relevance.
+
+  - Add human‑in‑the‑loop review and safe‑actioning before
+    agents touch dealer systems.
+
+  - Evolve the domain graph and entity resolution; build
+    reliable data ingestion pipelines.
+
+  - Serve real‑time context to agents (profiles, inventory,
+    pricing, appointments, service history) with access
+    controls and lineage.
+
+  - Power retrieval with hybrid search (graph + vector +
+    keyword) and smart cache/TTL to balance accuracy, latency,
+    and cost.
+
+  - Run continuous offline/online evaluations for quality,
+    factuality, bias, and safety for the platform sanity.
+
+  - Define SLOs for latency (p50/p95), uptime, and cost view
+    capabilities; enable autoscaling and spend controls.
+
+  - Maintain a model/agent registry, versioning, approvals,
+    audit trails, and reproducibility; support compliances
+    where needed.
+
+  - Provide templates/CLIs, sandboxes, and docs so product teams
+    can build and ship fast; mentor engineers and champion
+    MLOps and AI safety best practices.
+
+  Desired Skills & Experience
+
+  - 8+ years building large‑scale data/ML or platform systems;
+    strong software engineering fundamentals (Abstracted API
+    design, concurrency, distributed systems).
+
+  - Production experience with Python plus one of Java/Scala/Go;
+    microservices and API design.
+
+  - MLOps at scale: pipelines (Airflow/Kubeflow),
+    tracking/registry (MLflow), CI/CD for models, A/B testing,
+    shadow/canary, and online feature computation
+    (Spark/Flink/Kafka).
+
+  - Cloud and containers: AWS (preferred), plus
+    Docker/Kubernetes; performance, reliability, and cost
+    engineering in multi‑tenant SaaS.
+
+  - Practical ML knowledge (feature engineering, training,
+    evaluation, drift detection); experience deploying models
+    that power user‑facing workflows.
+
+  - Built or operated an LLM gateway/control plane: provider
+    adapters, routing/policies, caching, quota/rate‑limit,
+    cost and token accounting.
+
+  - Agentic systems: tool use/function calling, orchestration
+    frameworks, human‑in‑the‑loop, safety/guardrails, and
+    online evaluation/telemetry.
+
+  - Graph and retrieval: knowledge graphs (e.g.,
+    Neo4j/Neptune/TigerGraph), GraphQL, vector search (e.g.,
+    pgvector/Qdrant/Milvus), hybrid retrieval patterns.
+
+  Preferred Mindset
+
+  - Platform‑as‑product: obsess over developer experience, paved
+    roads, and clear SLAs.
+
+  - Thinks in systems - observability, fallback, access control
+    are core, not afterthoughts.
+
+  - Passionate about AI - enjoys enabling real-world LLM and
+    agentic use cases.
+
+  - Cost‑aware builder: you treat latency and dollars as
+    first‑class metrics and design for graceful degradation.
+
+  - Vendor‑agnostic thinker: choose the right model/provider per
+    use case; build for portability and resilience.
+
+  - Documentation and teaching: you make complex systems
+    understandable; you uplevel teams.
+
+  Current Tekion Employees: Please apply via the Internal Job
+  Board in Ashby.
+
+  Note: Tekion recently transitioned to a new recruiting tool
+  and we appreciate your patience and feedback as we adjust to
+  our new system!
+
+  Tekion is proud to be an Equal Employment Opportunity
+  employer. We do not discriminate based upon race, religion,
+  color, national origin, gender (including pregnancy,
+  childbirth, or related medical conditions), sexual
+  orientation, gender identity, gender expression, age, status
+  as a protected veteran, status as an individual with a
+  disability, victim of violence or having a family member who
+  is a victim of violence, the intersectionality of two or
+  more protected categories, or other applicable legally
+  protected characteristics.
+
+  For more information on our privacy practices, please refer
+  to our Applicant Privacy Notice here.
+
+  Important: Tekion will only contact candidates from an
+  @tekion.com email address or through our applicant tracking
+  system (no-reply@ashbyhq.com). We may also work with
+  authorized recruiting partners from time to time. Tekion and
+  its recruiting partners will never ask you to pay fees or
+  send money for applications, interviews, training, or
+  onboarding. If you receive a message that seems suspicious,
+  please do not respond or share personal or financial
+  information.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Machine Learning
+  - Retail
+  - Software
+posted_date: 2026-10-07
+url: "https://builtin.com/job/staff-software-engineer-ai-engineer/11545624"
+source: Built In

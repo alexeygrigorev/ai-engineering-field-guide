@@ -1,0 +1,61 @@
+company:
+  name: Lila Sciences
+  stage: null
+  focus: |-
+    Autonomous scientific discovery via AI models and lab
+    automation
+position:
+  title: Staff / Principal Research Engineer, AI Safety Mitigations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements safety mitigations that
+      directly shape model behavior: safety post-training, model-
+      level classifiers, runtime safeguards, and safety
+      evaluations for frontier LLM-based scientific AI agents.
+      Building guardrails, evals, and safety interventions is
+      shaping, applied to LLM/agent systems, so ai-first.
+  responsibilities:
+  - Translate risk assessments, policy boundaries, and evaluation findings into concrete
+    mitigation designs and testable requirements
+  - Develop and implement safeguards spanning model training, classifiers, monitoring,
+    access controls, and runtime interventions
+  - Build experiments measuring risk reduction, robustness, and impact on legitimate
+    scientific use
+  - Use adversarial findings and observed failures to iteratively improve safeguards
+    with safety and evaluation researchers
+  - Integrate mitigations into model development, release evaluation, and large-scale
+    serving systems with instrumentation and reproducible testing
+  - Investigate regressions, distribution shifts, and emerging misuse patterns to
+    guide further development
+  - Develop a bespoke technical safety strategy for Lila's scientific superintelligence
+    systems
+  use_cases:
+  - Safety mitigations for closed-loop scientific AI systems
+  - Dual-use risk reduction in autonomous scientific discovery
+  - Oversight of tool-using scientific agents and lab-connected workflows
+  - Misuse monitoring and enforcement in model-serving platforms
+  - Safety evaluation and release gating for frontier scientific models
+  skills:
+    genai: []
+    ml: [Fine-Tuning, Model Training, Model Evaluation, Classifiers]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Model Deployment, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11723553'
+  location: Cambridge, USA
+  locations:
+  - Cambridge, USA
+  - San Francisco, USA
+  - London, GBR
+  extracted_at: '2026-11-06T12:42:46.617746'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

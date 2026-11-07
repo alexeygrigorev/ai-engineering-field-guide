@@ -1,0 +1,47 @@
+company:
+  name: HYCU
+  stage: null
+  focus: AI-powered data protection and backup recovery platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG, agent orchestration, and
+      guardrails directly, shaping LLM behavior in production AI
+      products. Clear ai-first.
+  responsibilities:
+  - Design and build AI-driven workflows for data analysis, summarization, and recommendations
+  - Develop and orchestrate AI agents that reason across multiple tools and data sources
+  - Integrate Generative AI capabilities into applications, dashboards, and APIs
+  - Validate AI outputs against business requirements and iterate based on feedback
+    and metrics
+  - Build reliable and scalable AI workflows for production use
+  - Collaborate with LLM, data, and knowledge engineers to improve solution quality
+  - Troubleshoot and improve AI behavior in production environments
+  - Translate business and data problems into AI-driven solutions
+  use_cases:
+  - Enterprise data analysis, summarization, and recommendations
+  - AI agents reasoning across tools and data sources for insights
+  - Actionable data insights embedded in applications and dashboards
+  - Decision support from enterprise data platforms
+  skills:
+    genai: [RAG, OpenAI API, Anthropic API, Prompt Engineering, Guardrails, LangChain,
+      LlamaIndex, Embeddings, LLMs, Generative AI, AI Agents]
+    ml: [PyTorch, Ragas]
+    web: [APIs]
+    databases: [Vector Search, OpenSearch]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12005731'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:26:01.893383'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

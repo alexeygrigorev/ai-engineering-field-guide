@@ -1,0 +1,48 @@
+company:
+  name: Zensar Technologies
+  stage: null
+  focus: |-
+    Digital solutions and experience engineering services for
+    enterprises
+position:
+  title: UI Engineer + AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a UI engineer who integrates AI/GenAI
+      capabilities built elsewhere into web applications; there is
+      no mention of writing prompts, designing retrieval, or
+      shaping model behaviour. Integration of existing AI/ML
+      solutions is consuming, not shaping, so it is ai-support.
+  responsibilities:
+  - Build intelligent, user-centric web applications powered by AI/GenAI capabilities
+  - Integrate AI/ML and Generative AI solutions into modern digital products
+  - Collaborate with Product Managers, UX Designers, Data Scientists, and Backend
+    Engineers
+  - Create next-generation AI-driven user experiences
+  use_cases:
+  - AI-driven user experiences in web applications
+  - Intelligent digital products enhanced with GenAI capabilities
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12011961'
+  location: IND
+  locations:
+  - IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-11-06T14:29:02.101226'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

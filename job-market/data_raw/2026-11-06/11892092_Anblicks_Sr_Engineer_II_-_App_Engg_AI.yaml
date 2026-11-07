@@ -1,0 +1,116 @@
+job_id: 11892092
+title: "Sr. Engineer II - App Engg & AI"
+company: Anblicks
+location: Ahmedabad, IND
+locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+work_type: FULL_TIME
+company_size: 568 Employees
+description: |
+  About the Role
+
+  Senior engineer owning the API and data-serving layer of a
+  customer-facing metrics and reporting platform — a React
+  application, module-federated into a wider micro-frontend
+  shell, backed by a FastAPI service over a curated analytics
+  data layer. Because this is a reporting product, its value
+  rests first on the metrics being correct and second on the
+  experience that surfaces them; this role owns the first.
+
+  This is a full-stack position with a backend centre of
+  gravity. You will spend the majority of your time in Python,
+  FastAPI, and PostgreSQL, and you are expected to be
+  productive in the React and TypeScript codebase as well —
+  picking up frontend stories, reviewing frontend pull
+  requests, and shipping a feature end to end when delivery
+  requires it.
+
+  This cross-capability is a requirement of the role, not a
+  preference. The team is deliberately structured so that no
+  layer has a single owner, with every engineer able to take a
+  feature through end-to-end development and support it in
+  production. If you would prefer to stay within a single
+  layer, this is not the right role.
+
+  Key Responsibilities
+
+  - Own the metrics API — a FastAPI service exposing tenant-
+    scoped metrics over curated KPI data, including
+    aggregation logic, query performance, and schema evolution
+  - Enforce multi-tenant isolation — tenant and billing-entity
+    scoping implemented structurally in the data access layer,
+    not left to individual queries
+  - Design and evolve the data model — SQLModel entities and
+    Alembic migrations run safely against live data, with
+    validation queries accompanying every schema change
+  - Own the API contract — Pydantic models on the server matched
+    by Zod schemas on the client, with no silent drift between
+    the two
+  - Guarantee metric parity — reconcile what the platform
+    reports against the existing trusted BI numbers, and be
+    able to prove and explain any figure that is questioned
+  - Tune performance — caching strategy and invalidation, rate
+    limiting, pagination over large result sets, and query
+    plan analysis
+  - Implement authentication and authorization — OAuth2 / OIDC
+    integration, JWT validation, scopes and claims
+  - Build and review frontend work — deliver React and
+    TypeScript features to the team standard, review frontend
+    pull requests, and take end-to-end ownership of a slice
+    when the work calls for it
+  - Own quality — pytest coverage on all logic that computes or
+    scopes a number, plus tracing and structured logging
+    sufficient to diagnose issues in production
+  - Support the application in production — triage and resolve
+    customer-raised issues across the stack, working from
+    logs, traces, and metrics rather than guesswork
+  - Partner with data and analytics — work with the data
+    engineering and BI functions on metric definitions, mart
+    design, and reconciliation
+
+  Qualifications
+
+  - 6+ years building production backend services; 3+ years with
+    Python in a modern async stack
+  - Working proficiency in TypeScript and React (required) —
+    able to build and review frontend features to the team
+    standard.
+  - Deep FastAPI experience — async request handling, dependency
+    injection, background tasks
+  - Strong PostgreSQL: async access via asyncpg, connection
+    pooling, indexing, and the ability to read and fix a query
+    plan
+  - Advanced SQL for analytics — window functions, CTEs, time-
+    bucketed rollups, and correct handling of late-arriving
+    and duplicate data
+  - SQLModel or SQLAlchemy, and Pydantic for modelling and
+    validation
+  - Alembic migrations, including reversible migrations applied
+    to live production data
+  - Multi-tenant application experience with row- or entity-
+    level scoping and isolation guarantees
+  - OAuth2 / OIDC, JWT, and API authorization patterns
+  - Caching, rate limiting, and API performance tuning under
+    real load
+  - pytest, async test patterns, fixtures, and testing against a
+    real database rather than mocks
+  - Familiarity with reporting or analytics products, and
+    comfort reasoning about whether a number is correct
+  - Git-based workflow, code review discipline, and CI/CD
+  - Cloud platform experience (Azure preferred),
+    containerization, and production observability such as
+    OpenTelemetry, Prometheus, or Loki is a plus
+  - Exposure to dbt, Snowflake, or warehouse-to-application data
+    modelling is a plus
+  - Power BI or DAX literacy — enough to read a metric
+    definition and reconcile against it — is a plus
+  - Strong written communication and the ability to work within
+    defined overlap hours across time zones
+industries:
+  - Cloud
+  - Analytics
+  - Consulting
+posted_date: 2026-10-26
+url: "https://builtin.com/job/sr-engineer-ii-app-engg-ai/11892092"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: Coditude
+  stage: null
+  focus: Software consulting building AI agents and LLM products
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and operates AI agents and LLM-powered
+      products (copilots, workflow agents, extraction pipelines),
+      with bonus production LLM work including evals, guardrails,
+      multi-agent, and MCP. They shape agent behavior and validate
+      outputs, so it is ai-first.
+  responsibilities:
+  - Build and operate AI agents and LLM-powered products including copilots, workflow
+    agents, extraction pipelines, and internal tools
+  - Own problems end to end from client conversation through design, code, deploy,
+    and production support
+  - Validate AI tool output and own quality of shipped code
+  - 'Participate in client and partner conversations: discovery, live demos, pilot
+    support'
+  - Write proposals and design docs; decisions move through documents and PRs
+  - Run a lane end to end within a small, async-first team
+  - Write tests for agent behaviour and money paths
+  - 'Apply AI security basics: prompt injection defense, least-privilege tool permissions,
+    secrets hygiene'
+  use_cases:
+  - AI copilots
+  - Workflow agents
+  - Extraction pipelines
+  - Internal AI-powered tools
+  - Client-facing AI products with demos and pilots
+  skills:
+    genai: [Claude Code, Anthropic API, OpenAI API, LLMs, AI Agents, Guardrails, Multi-Agent
+        Systems, MCP, LLM Evaluation]
+    ml: [OCR]
+    web: [FastAPI, Next.js, React]
+    databases: [PostgreSQL, Redis, Typesense]
+    data: [Airflow, Data Pipelines]
+    cloud: [AWS]
+    ops: [GitHub Actions, Datadog]
+    languages: [Python, asyncio, TypeScript]
+    domains: []
+    other: [Browser Automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11892911'
+  location: Pune, IND
+  extracted_at: '2026-11-06T13:45:35.619897'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

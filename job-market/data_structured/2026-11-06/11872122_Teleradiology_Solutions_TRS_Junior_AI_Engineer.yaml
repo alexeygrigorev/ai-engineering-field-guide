@@ -1,0 +1,53 @@
+company:
+  name: Teleradiology Solutions (TRS)
+  stage: null
+  focus: Teleradiology services and clinical AI for medical imaging
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, fine-tunes, and evaluates CNN/vision-
+      transformer models for medical imaging (CT, MR, X-ray,
+      ultrasound). This is hands-on shaping of classical CV/DL
+      models with no LLM or agent component — LLMs are only a
+      nice-to-have.
+  responsibilities:
+  - Train, fine-tune and evaluate CNN- and transformer-based models for classification,
+    detection and segmentation
+  - Own a defined model workstream from dataset preparation through training, validation,
+    documentation and hand-off
+  - Build and maintain DICOM pipelines for ingestion, de-identification, pre-processing,
+    augmentation and dataset versioning
+  - Report clinical metrics (sensitivity, specificity, ROC-AUC/PR-AUC) and perform
+    error and failure analysis by subgroup
+  - Collaborate with radiologists to define labels and turn clinical feedback into
+    model improvements
+  - Contribute to packaging validated models as tested inference services (Python,
+    Docker, FastAPI) with unit and regression tests
+  use_cases:
+  - Clinical AI for CT, MR, X-ray and ultrasound medical imaging
+  - Detection of neuro/stroke, pulmonary embolism, aortic pathology and spine/rib
+    fractures
+  - Classification, detection and segmentation of radiological findings
+  - Decision support for radiologists in 24x7 diagnostic reporting
+  skills:
+    genai: [LLMs, Embeddings, RAG]
+    ml: [PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, CNNs, Vision Transformers,
+      Model Evaluation, Transfer Learning]
+    web: [FastAPI]
+    databases: []
+    data: [NumPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [Linux, Git, Docker, pytest, CI/CD, MLflow, Weights & Biases, TensorRT]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [DICOM, NIfTI, MONAI, nnU-Net, ONNX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11872122'
+  location: Yelahanka, IND
+  extracted_at: '2026-11-06T13:27:47.728962'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

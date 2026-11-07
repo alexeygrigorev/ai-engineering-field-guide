@@ -1,0 +1,55 @@
+company:
+  name: Cummins
+  stage: null
+  focus: Engine and power solutions manufacturer
+position:
+  title: AI Data Engineer - Senior
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role: building data pipelines,
+      ETL/ELT, data platforms, and governance. AI/ML appears only
+      as "understanding" and using Copilot/AI tools to improve
+      productivity, not shaping any model's behavior. No prompt,
+      RAG, fine-tuning, or eval work is described.
+  responsibilities:
+  - Design and automate distributed systems for ingesting and transforming data from
+    relational, event-based, and unstructured sources
+  - Build and operate reliable, scalable data pipelines with monitoring and alerting
+    using ETL/ELT tools
+  - Design physical data models and optimize database performance through indexing
+    and table relationships
+  - Implement data governance processes for metadata, access, and retention management
+  - Develop large-scale data storage and processing solutions on distributed and cloud
+    platforms
+  - Automate repeatable data preparation and integration tasks to reduce manual work
+  - Own developed data pipelines, providing support for enhancements and performance
+    optimization
+  - Coach and develop less experienced team members
+  use_cases:
+  - Data ingestion and transformation from relational, event-based, and unstructured
+    sources
+  - Analytics and data science platform supporting analysts and data consumers
+  - Data quality and integrity monitoring for enterprise data
+  - Large-scale data storage and processing on cloud and distributed platforms
+  - Self-service data engineering capabilities for end users
+  skills:
+    languages: [Scala, Java, SQL, Python]
+    domains: []
+    web: []
+    cloud: []
+    data: [Spark, Map-Reduce, Hive, Kafka, PySpark, Hadoop, Data Pipelines, Data Governance,
+      Data Modeling]
+    ml: [Machine Learning, Regression, Clustering, Time-Series Analysis, Data Science]
+    databases: [HBase, Snowflake, Neo4j, MongoDB, Cassandra, DynamoDB, TigerGraph]
+    genai: []
+    ops: [DevOps, CI/CD, Infrastructure as Code, DevSecOps, Model Deployment]
+    other: [Agile, Palantir, Azure Purview, Alation, Graph Data Modeling, IoT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11464236'
+  location: Pune, IND
+  extracted_at: '2026-11-06T11:54:42.805037'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

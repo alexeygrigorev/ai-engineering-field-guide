@@ -1,0 +1,49 @@
+company:
+  name: Hexaware Technologies
+  stage: null
+  focus: IT services and consulting
+position:
+  title: Java Full Stack Developer with AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a Java full-stack enterprise
+      developer; AI is listed only as "highly valuable" experience
+      with LangChain/LangGraph, with no responsibility to shape
+      model behaviour, prompts, retrieval, or agents as the
+      product. Per the edge case rules, AI named as a bonus is ai-
+      support.
+  responsibilities:
+  - Design, develop, and deploy enterprise applications using Java, microservices,
+    cloud, and front-end technologies
+  - Build microservices using Spring Boot and REST APIs
+  - Develop UI components using Angular or ReactJS
+  - Design and implement cloud-based solutions across AWS services
+  - Work with RDBMS/PostgreSQL data layers via JPA/Hibernate
+  - Apply DevOps toolchain for build and deployment processes
+  - Help deploy applications in target environments and participate in design discussions
+  use_cases:
+  - Enterprise application development
+  - Microservices-based backend systems
+  - Cloud migration and deployment on AWS
+  - Enterprise AI-driven solutions (secondary)
+  skills:
+    genai: [LangChain, LangGraph]
+    ml: []
+    web: [Spring Boot, REST APIs, Angular, React, OAuth]
+    databases: [PostgreSQL, Relational Databases, Elasticsearch, MongoDB, NoSQL]
+    data: []
+    cloud: [AWS, IAM, AWS Lambda, AWS S3]
+    ops: [Docker, Kubernetes, Jenkins, Git, DevOps, Maven]
+    languages: [Java, Python, Bash]
+    domains: []
+    other: [Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11529582'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:06:15.823727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

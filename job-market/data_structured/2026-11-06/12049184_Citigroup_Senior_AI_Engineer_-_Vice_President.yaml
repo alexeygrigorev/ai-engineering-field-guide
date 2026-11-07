@@ -1,0 +1,56 @@
+company:
+  name: Citigroup
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Senior AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and orchestrates multi-agent systems, RAG
+      architectures, and prompt/context engineering for LLM-based
+      agents in funds transfer pricing and financial hedging. This
+      is direct shaping of LLM/agent behavior, making it ai-first.
+  responsibilities:
+  - Design and orchestrate complex multi-agent systems where autonomous agents collaborate,
+    negotiate, and delegate tasks to solve business problems
+  - Design planning and reasoning capabilities using knowledge graphs, rule-based/symbolic
+    reasoning, and planning/search algorithms
+  - Develop resilient agent architectures with feedback-driven improvement, error
+    recovery, self-correction, and dynamic replanning
+  - Integrate LLMs, predictive models, and reasoning frameworks to expand agent capabilities
+    and improve decision quality
+  - Design and optimize RAG architectures including embedding strategies, vector databases,
+    retrieval pipelines, reranking, and context management
+  - Develop APIs, tools, and microservices integrating AI capabilities with enterprise
+    applications and business platforms
+  - Optimize AI systems for low latency and high throughput using response streaming,
+    caching, and token usage optimization
+  - Drive AI technical strategy for Funds Transfer Pricing and Financial Hedging domains
+    and mentor junior engineers
+  use_cases:
+  - Automating complex funds transfer pricing workflows
+  - AI agents for financial hedging decision support
+  - Agentic automation of complex multi-step business workflows
+  - Enterprise knowledge retrieval for financial domains
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, LLMs, RAG, Embeddings, Prompt
+        Engineering, Context Engineering, MCP, LangChain, LlamaIndex, Google ADK,
+      LangGraph, AutoGen, CrewAI]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL, Java]
+    domains: []
+    other: [Financial Services]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12049184'
+  location: Pune, IND
+  extracted_at: '2026-11-06T14:40:53.673877'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

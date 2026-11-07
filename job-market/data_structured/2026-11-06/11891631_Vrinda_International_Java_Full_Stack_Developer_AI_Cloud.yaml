@@ -1,0 +1,50 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services with AI and cloud solutions
+position:
+  title: Java Full Stack Developer – AI & Cloud
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly applies prompt engineering and works
+      with LLMs to enhance application intelligence, which is
+      shaping model behavior/output quality. Since LLMs are
+      involved, it is ai-first, though the bulk of the role is
+      full-stack engineering.
+  responsibilities:
+  - Design, develop, and maintain high-performance applications using Java, .NET,
+    or Python within microservices and event-driven architecture
+  - Implement and manage CI/CD pipelines with infrastructure-as-code tools like Terraform
+    or CloudFormation
+  - Containerize applications and orchestrate deployments with Docker and Kubernetes
+  - Engineer and optimize real-time data streaming solutions using Kafka and message
+    queues
+  - Develop and integrate REST and GraphQL APIs for data exchange across services
+  - Apply prompt engineering techniques and work with LLMs to enhance application
+    intelligence and user interaction
+  - Collaborate with cross-functional teams to define technical requirements and deliver
+    secure, efficient software
+  use_cases:
+  - Intelligent, data-driven applications enhanced with LLM capabilities
+  - Real-time data streaming across microservices
+  - Scalable cloud-deployed enterprise software
+  skills:
+    genai: [Prompt Engineering, LLMs]
+    ml: []
+    web: [Microservices, REST APIs, GraphQL]
+    databases: []
+    data: [Kafka]
+    cloud: []
+    ops: [CI/CD, Terraform, CloudFormation, Docker, Kubernetes]
+    languages: [Java, .NET, Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11891631'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T13:41:28.699565'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

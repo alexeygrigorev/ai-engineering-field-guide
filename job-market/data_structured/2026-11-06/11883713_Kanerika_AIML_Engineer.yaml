@@ -1,0 +1,54 @@
+company:
+  name: Kanerika
+  stage: null
+  focus: Data analytics, data governance, and AI services firm
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent workflows (LangChain/LangGraph, tool
+      calling, orchestration), designs RAG pipelines, prompt
+      templates, evaluation harnesses, and implements guardrails —
+      all directly shaping LLM behavior and output quality.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Build agent-based features using LLM frameworks including tool calling, orchestration
+    and memory
+  - Develop AI asset discovery for models, agents, prompts and AI services across
+    cloud platforms
+  - Implement guardrail signals and enforcement including PII detection, toxicity
+    moderation, and prompt-injection detection
+  - Build RAG pipelines, prompt templates and evaluation harnesses
+  - Evaluate and benchmark models and guardrail classifiers for accuracy, latency
+    and cost
+  - Take new AI features from prototype to production
+  - Integrate AI services with backend microservices through APIs
+  - Add observability, logging and monitoring to AI components
+  use_cases:
+  - AI governance and data privacy for an enterprise SaaS platform
+  - Agent-based workflow automation
+  - AI asset discovery across models, agents, prompts and AI services
+  - 'AI guardrails: PII detection/redaction, toxicity and content moderation, prompt-injection
+    and jailbreak detection'
+  - RAG-driven enterprise features with evaluation and benchmarking
+  skills:
+    genai: [Prompt Engineering, RAG, Embeddings, LangChain, LangGraph, Semantic Kernel,
+      MCP, Guardrails, LLM Evaluation, LLMs, Agentic Workflows]
+    ml: [Hugging Face, Transformers, Machine Learning, NLP, Fine-Tuning]
+    web: [FastAPI, Flask, Spring Boot]
+    databases: [Vector Databases, pgvector, OpenSearch, Pinecone]
+    data: []
+    cloud: [Azure AI Search, AWS Bedrock, SageMaker, Azure OpenAI, Azure AI Foundry]
+    ops: [Git, Docker, CI/CD, MLOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Presidio, NIST AI RMF, EU AI Act]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11883713'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T13:31:23.582632'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

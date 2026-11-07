@@ -1,0 +1,53 @@
+company:
+  name: Sift Stack
+  stage: null
+  focus: |-
+    Data infrastructure platform for hardware engineering
+    telemetry
+position:
+  title: Software Engineer, Developer Experience (AI Infrastructure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds developer and test infrastructure so
+      engineers and AI coding agents can test and validate code
+      faster — the deliverable is developer workflow and
+      environments, not model behaviour. The person doesn't shape
+      prompts, retrieval, or agent logic; they provide sandboxed
+      environments agents interact with, which is ai-support.
+  responsibilities:
+  - Design and build infrastructure that provisions isolated, production-like testing
+    environments on demand
+  - Build and optimize CI/CD pipelines, build systems, and deployment automation
+  - Develop infrastructure supporting integration, correctness, load, and performance
+    testing
+  - Build tooling for realistic data generation and user behavior simulation
+  - Enable AI coding agents to interact with testing environments and validate code
+    changes autonomously
+  - Partner with engineering teams to eliminate bottlenecks and improve development
+    velocity
+  use_cases:
+  - On-demand production-like testing environments for engineers
+  - Autonomous testing and validation by AI coding agents
+  - Realistic telemetry data generation and workload simulation for hardware systems
+  - Fast, reliable CI/CD and deployment automation
+  skills:
+    genai: []
+    ml: []
+    web: [gRPC, React, Redux, ECharts]
+    databases: [PostgreSQL]
+    data: [Flink]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Playwright, Cypress, ArgoCD, GitHub Actions,
+      Grafana, Prometheus, Terragrunt, Linux, Kustomize]
+    languages: [Go, Python, Protobuf, TypeScript, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11802424'
+  location: Marina del Rey, USA
+  extracted_at: '2026-11-06T13:14:39.975796'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

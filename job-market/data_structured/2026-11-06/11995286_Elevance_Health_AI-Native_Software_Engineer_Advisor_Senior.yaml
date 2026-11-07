@@ -1,0 +1,55 @@
+company:
+  name: Elevance Health
+  stage: null
+  focus: Health insurance and healthcare services
+position:
+  title: AI-Native Software Engineer Advisor Senior
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and integrates AI agents, tool/function
+      calling, RAG, memory, model routing, guardrails, and
+      evaluations - directly shaping LLM behavior and output
+      quality. Although it also uses AI coding assistants across
+      the SDLC, the substantive responsibility is building agentic
+      AI systems.
+  responsibilities:
+  - Develop agentic AI engineering technology using AI agents and coding assistants
+    across the SDLC
+  - Perform model evaluation and quality measurement
+  - Maintain customer relationships, lead requirements gathering, and review designs
+    with the business
+  - Own the change request process and coordinate across teams
+  - Perform technical design reviews and code reviews, including reviewing and hardening
+    AI-generated code
+  - Coordinate on-call support and own system monitoring processes
+  - Lead multiple large projects and facilitate JAD sessions; lead vendor evaluation
+  - Define application scope and objectives and supervise preparation of technical/functional
+    specifications
+  use_cases:
+  - Agentic AI software development in healthcare enterprise systems
+  - AI-assisted planning, implementation, testing, and code review across the SDLC
+  - Evaluation and quality measurement of AI models
+  - Secure handling of sensitive healthcare data (HIPAA/PHI)
+  - Requirements gathering and design for payer/claims/clinical applications
+  skills:
+    languages: []
+    domains: []
+    web: [APIs, Microservices]
+    cloud: [Cloud-Native Development]
+    data: []
+    ml: []
+    databases: []
+    genai: [AI Agents, GitHub Copilot, Cursor, Claude Code, ChatGPT, Codex, Model
+        Evaluation, LLM Evaluation, Responsible AI, Function Calling, RAG, Guardrails,
+      Model Routing, LLMs, AWS Bedrock, Amazon Bedrock AgentCore]
+    ops: [CI/CD, Automated Testing, Observability, Secure SDLC, Production Support]
+    other: [HIPAA Compliance, PHI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11995286'
+  location: Los Angeles, USA
+  extracted_at: '2026-11-06T14:21:08.046643'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

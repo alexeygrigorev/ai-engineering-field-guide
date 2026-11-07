@@ -1,0 +1,62 @@
+company:
+  name: Allegion
+  stage: null
+  focus: Security products and access solutions around the doorway
+position:
+  title: Senior AI Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates, deploys, and hosts AI platforms and
+      models that Data Science teams build; the deliverable is
+      capacity, availability, and governed access, not model
+      behaviour. There is no prompt design, retrieval design,
+      fine-tuning, or output-quality shaping by this person.
+      Hosting/serving models others build is ai-support per the
+      edge cases.
+  responsibilities:
+  - Operate and maintain enterprise AI platforms (Azure OpenAI, Azure AI Foundry,
+    Azure Machine Learning) across development, test, and production environments
+  - Deploy and operationalize AI and Generative AI workloads including copilots, chatbots,
+    agentic applications, and RAG services
+  - Operate the governed model-access gateway spanning Azure OpenAI, AWS Bedrock,
+    and Google Vertex AI, managing routing, quotas, rate limits, and token/cost monitoring
+  - Support containerized AI workloads with Docker and Kubernetes, including Azure
+    Kubernetes Service environments, cluster health, and autoscaling
+  - Implement monitoring, observability, and incident management for AI platforms
+    using Azure Monitor, Application Insights, and OpenTelemetry
+  - Develop Infrastructure as Code with Terraform and build CI/CD pipelines with Azure
+    DevOps and GitHub Actions
+  - Implement security and identity controls including managed identities, RBAC, Key
+    Vault secret management, and private networking
+  - Build reusable platform modules and self-service golden paths for consuming engineering
+    teams
+  use_cases:
+  - Enterprise AI platform operations for security products company
+  - Copilots, AI assistants, and chatbots in production
+  - Agentic applications and RAG services
+  - Governed multi-provider model access gateway
+  - ML model and endpoint deployment for Data Science teams
+  skills:
+    genai: [RAG, AI Agents, Prompt Engineering, LLMs, Generative AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Azure AI Search]
+    data: []
+    cloud: [Azure OpenAI, Azure AI Foundry, Azure ML, Azure App Service, Azure Functions,
+      Azure Container Apps, AKS, AWS Bedrock, Vertex AI, Azure API Management, Azure
+        Monitor, Application Insights, Azure Key Vault]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Azure DevOps, GitHub Actions, Infrastructure
+        as Code, OpenTelemetry, MLOps, Monitoring, Helm, ArgoCD, Prometheus, Grafana,
+      GitOps, LiteLLM, Git, Linux]
+    languages: [Python, Bash, PowerShell, TypeScript]
+    domains: []
+    other: [RBAC, Log Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11453414'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:52:51.574620'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

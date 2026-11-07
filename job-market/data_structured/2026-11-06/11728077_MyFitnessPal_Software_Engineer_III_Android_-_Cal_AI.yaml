@@ -1,0 +1,53 @@
+company:
+  name: MyFitnessPal
+  stage: null
+  focus: Health and fitness nutrition tracking app
+position:
+  title: Software Engineer III, Android - Cal AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a native Android engineering role on an AI product
+      (Cal AI food logging), but the responsibilities cover only
+      mobile UI, data storage, and network optimization. There is
+      no work shaping model behaviour, prompts, retrieval, or
+      evals - the AI features are consumed, not built. Therefore
+      ai-support.
+  responsibilities:
+  - Implement native Android interfaces with the design and UI team following Android
+    Human Interface Guidelines
+  - Improve user experience by optimizing UI, data storage, and network communications
+  - Independently build and deliver high-quality features and improvements
+  - Research and implement technical solutions to meet business goals for a growing
+    user base
+  - Provide thought leadership on best practices for design, testing, security, and
+    deployment
+  - Coach and mentor team members
+  - Collaborate with cross-functional product engineering team to solve problems
+  use_cases:
+  - AI-powered food and nutrition logging via meal scanning
+  - Smart food suggestions and personalized nutrition insights
+  - Mobile health and fitness tracking for daily users
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [Firebase]
+    ops: [Unit Testing, Git, CI/CD, GitHub Actions]
+    languages: [Kotlin]
+    domains: []
+    other: [Android Development, Agile, JUnit, MockK, Kotlin Coroutines, Kotlin Flow,
+      Retrofit, OkHttp, Room, Gradle, Dependency Injection, Hilt, Bitrise, Jetpack
+        Compose, Jetpack Navigation, CameraX, Health Connect, Google Play Billing,
+      Superwall, Multi-Module Android Projects]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11728077'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:43:47.471730'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

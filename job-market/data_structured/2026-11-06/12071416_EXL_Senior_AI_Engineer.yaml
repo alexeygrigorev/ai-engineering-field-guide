@@ -1,0 +1,42 @@
+company:
+  name: EXL
+  stage: null
+  focus: Analytics and digital operations solutions provider
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, develops, and optimizes machine learning
+      models with no mention of LLMs, prompts, retrieval, or agent
+      work, so Step 2 yields ml-first. Model development and
+      optimization clearly counts as shaping model behavior.
+  responsibilities:
+  - Design, develop, and deploy machine learning models and algorithms
+  - Collaborate with data scientists and software engineers to integrate models into
+    production systems
+  - Analyze large, complex datasets to extract actionable insights
+  - Optimize AI and ML solutions for performance and accuracy
+  - Stay updated with latest advancements in AI and ML technologies
+  - Document and maintain AI/ML models, experiments, and processes
+  use_cases: []
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12071416'
+  location: IND
+  remote: true
+  extracted_at: '2026-11-06T14:49:45.722554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

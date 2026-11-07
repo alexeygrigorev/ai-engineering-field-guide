@@ -1,0 +1,57 @@
+company:
+  name: American Express
+  stage: null
+  focus: |-
+    Global commercial payments and financial services for
+    businesses
+position:
+  title: Sr AI Engineer II - Global Commercial Services Technology
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool use,
+      RAG/embedding pipelines, prompt gating via evals, and
+      guardrails — clearly shaping LLM behavior end to end. AI
+      Agents are the product, with TypeScript/Go services around
+      them.
+  responsibilities:
+  - Lead the technical design of new agent capabilities from ambiguous product intent
+    to shipped system
+  - Build and operate agentic AI services end to end, from event trigger through LLM
+    reasoning to persisted results
+  - 'Extend and shape the shared agent framework: orchestration, tool use, structured
+    generation, and observability'
+  - Design and tune RAG and embedding pipelines on vector search in the operational
+    database
+  - Design evals for agent behaviors and gate prompt changes on them
+  - 'Own production reliability: failure classification, idempotency, DLQ handling,
+    and rollout safety'
+  - Set design/code review standards and mentor engineers on the AI stack
+  - Evaluate emerging models and techniques and fold them into the platform
+  use_cases:
+  - Real-time agents automating business spend management
+  - 'Document understanding: extracting structured values from messy real-world documents'
+  - Policy-aware value proposals so users review instead of type
+  - Shared internal AI platform with reusable agent framework, evals, and guardrails
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, Embeddings, Vector Search, Prompt Engineering,
+      LLM Evaluation, Guardrails, LLMs, Structured Outputs]
+    ml: [Model Evaluation]
+    web: [tRPC, gRPC]
+    databases: [Vector Databases]
+    data: [Kafka, Event-Driven Architecture]
+    cloud: [AWS, AWS Lambda, EKS]
+    ops: [Docker, Datadog, Observability, Infrastructure as Code, Distributed Systems,
+      Model Deployment]
+    languages: [TypeScript, Go]
+    domains: []
+    other: [Temporal]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11881423'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:30:53.183674'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

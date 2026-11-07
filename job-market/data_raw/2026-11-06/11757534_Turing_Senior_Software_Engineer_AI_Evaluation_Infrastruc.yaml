@@ -1,0 +1,179 @@
+job_id: 11757534
+title: Senior Software Engineer, AI Evaluation Infrastructure
+company: Turing
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Turing
+
+  Turing’s mission is to accelerate superintelligence to drive
+  real economic progress. Headquartered in San Francisco,
+  Turing works with frontier AI labs to generate high-quality
+  datasets, reinforcement learning environments, and frontier
+  research benchmarks that improve model capabilities in
+  software engineering, enterprise knowledge work, and
+  advanced STEM reasoning. In software engineering, Turing is
+  the largest and longest-running data provider in the
+  category. Turing also works with Fortune 500 enterprises
+  across financial services, life sciences, healthcare,
+  retail, automotive, and CPG to build and deploy end-to-end
+  agentic AI systems inside mission-critical workflows. By
+  operating on both sides, Turing closes the loop between
+  frontier research and enterprise deployment, turning real-
+  world deployment signals into better data, evaluations, and
+  more capable models. Learn more at www.turing.com.
+
+
+
+  Senior Software Engineer, AI Evaluation Infrastructure
+
+  We build the infrastructure that frontier AI labs use to
+  evaluate coding agents and language models: benchmark
+  datasets, agent evaluation runs at scale, and automated task
+  quality checks. You would own features across the stack,
+  from the data model and background jobs to the screens our
+  users work in every day.
+
+  This is a role for an experienced engineer who works
+  independently, makes sound tradeoffs, and turns a loosely
+  defined request into something shipped, tested, and safe to
+  leave alone.
+
+  What you will do
+
+  - Design and ship features end to end: data model, API,
+    background workers, and the UI when the change needs it.
+  - Build and improve how agents and models are evaluated:
+    running trials in sandboxed environments, scoring results,
+    and turning thousands of runs into results people can
+    trust.
+  - Improve how benchmark tasks are quality-checked: verifiers,
+    rubric-based and LLM-as-a-judge grading, and deciding
+    whether a task is clear, solvable, and fair to score.
+  - Integrate new models, agents, and benchmarks in a way that
+    generalizes, without a special case for each one.
+  - Keep the system fast and reliable as usage grows: efficient
+    queries, safe migrations, and concurrency that holds up
+    under load.
+  - Review teammates’ pull requests against our engineering
+    guidelines and help keep the codebase consistent.
+
+  What you bring
+
+  - 5+ years building and operating production backend systems,
+    with ownership of at least one service from design through
+    on-call.
+  - Bachelor’s degree or higher in Software Engineering,
+    Computer Science, or a related field.
+  - Strong Python and experience with Django (or a similar
+    framework), PostgreSQL, and a task queue such as Celery.
+    What matters most is having run a real system, not knowing
+    a particular framework.
+  - Hands-on experience in LLM evaluation, beyond calling a
+    model API. You understand how a benchmark task is built,
+    how an agent trial is scored, and how results are
+    aggregated and compared. Experience with Harbor, Terminal-
+    Bench, SWE-bench, Inspect, or a similar harness is a
+    strong plus.
+  - Judgment about task quality. You can spot ambiguous
+    instructions, weak or gameable verifiers, leaked answers,
+    and checks that pass for the wrong reason.
+  - Good tradeoffs. You reach for the smallest design that
+    solves the problem, extend what already exists before
+    adding something new, and can explain what you chose not
+    to build.
+  - Ownership. You take a fuzzy request, find the relevant code,
+    ask questions only when the answer changes the design, and
+    finish the job, including migrations, tests, and edge
+    cases users will hit.
+  - Quick adoption of team conventions. You read the written
+    guidelines and your first pull requests already match them
+    in naming, structure, tests, and error handling.
+  - Comfort with a TypeScript and React frontend when a change
+    is visible there. You don’t need to be a frontend
+    specialist.
+  - Clear writing. Your pull request descriptions and design
+    notes explain why, not just what.
+
+  Nice to have
+
+  - Experience running agents in sandboxed or containerized
+    environments (Docker, Kubernetes, or cloud sandboxes such
+    as Modal or Daytona).
+  - Experience with LLM-as-a-judge or rubric-based grading, and
+    with reducing judge bias and noise.
+  - Familiarity with coding agents such as Claude Code, Codex,
+    or OpenHands, and with MCP.
+  - Experience with distributed job scheduling, concurrency
+    limits, or database locking at scale.
+  - Contributions to open-source evaluation or infrastructure
+    projects.
+
+  How we work
+
+  - Written engineering guidelines, applied consistently, with
+    the same review bar for everyone.
+  - Business logic lives in services. Hot paths stay cheap. Lint
+    and tests pass before a pull request is ready.
+  - The same vocabulary in the code, the API, and the UI.
+  - We prefer deleting code to adding it, and simple designs to
+    clever ones.
+
+  A strong first month looks like several changes merged with
+  light review, and one area of the system you can change
+  confidently without a guide.
+
+  Compensation: $170,000 - $200,000 Base Salary + Equity
+
+  #LI-VC1
+
+  Values
+
+  - We are client first: We put our clients at the center of
+    everything we do, because their success is the ultimate
+    measure of our value.
+  - We work at Start-Up Speed: We move fast, stay agile and
+    favor action because momentum is the foundation of
+    perfection
+  - We are AI forward: We help our clients build the future of
+    Al and implement it in our own roles and workflow to
+    amplify productivity.
+
+  Advantages of joining Turing
+
+  - Work at the frontier of AI, helping the world’s leading AI
+    labs improve their most advanced models by building expert
+    datasets, RL environments, and first-of-a-kind benchmarks.
+  - Contribute to leading-edge AI research and showcase your
+    work at top conferences such as ICLR, ICML, and NeurIPS.
+  - Bring frontier AI innovation to the enterprise, applying
+    lessons learned from leading AI labs to solve real-world
+    business challenges.
+  - Collaborate with and learn from exceptional colleagues with
+    deep AI experience from Google, Meta, Amazon, and other
+    leading technology companies.
+  - Move at the pace of AI innovation, with the speed,
+    ownership, and impact of a startup.
+
+  Turing is proud to be an equal opportunity employer. We do
+  not discriminate on the basis of race, religion, color,
+  national origin, gender, gender identity, sexual
+  orientation, age, marital status, disability, protected
+  veteran status, or any other legally protected
+  characteristics. At Turing we are dedicated to building a
+  diverse, inclusive and authentic workplace  and celebrate
+  authenticity, so if you’re excited about this role but your
+  past experience doesn’t align perfectly with every
+  qualification in the job description, we encourage you to
+  apply anyways. You may be just the right candidate for this
+  or other roles.
+
+  For applicants from the European Union, please review
+  Turing's GDPR notice here.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-27
+url: "https://www.builtinla.com/job/senior-software-engineer-ai-evaluation-infrastructure/11757534"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: R1 RCM
+  stage: null
+  focus: Healthcare revenue cycle management and AI automation
+position:
+  title: Applied AI Engineer (R37)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI systems, retrieval, prompts,
+      evaluation loops, and fine-tuning feedback for LLM-based
+      healthcare agents — clearly shaping model behavior.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design, build, and iterate on agentic AI systems for healthcare workflows including
+    documentation, coding, denial management, appeals, and revenue cycle automation
+  - Develop long-horizon agent behavior across context construction, retrieval, tool
+    use, memory, routing, verification, escalation, and human-in-the-loop review
+  - Define success criteria for clinical agents, translating expert workflows into
+    specifications, rubrics, gold standards, and test cases
+  - Build evaluation and feedback loops using expert review, production logs, model
+    outputs, and benchmarks
+  - Prototype new AI capabilities from 0 to 1 and harden them into reliable, explainable,
+    auditable production systems
+  - Partner with research and ML engineering teams on model selection, fine-tuning,
+    reward modeling, distillation, synthetic data, and post-training
+  use_cases:
+  - 'Pre-bill healthcare workflow automation: authorization, utilization management,
+    documentation and coding'
+  - Denial prevention and appeals management
+  - Revenue cycle automation for hospitals and health systems
+  - Clinical documentation and coding agents
+  skills:
+    genai: [LLMs, AI Agents, RAG, Prompt Engineering, Function Calling, Structured
+        Outputs, Fine-Tuning, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11586019'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T12:15:57.770721'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

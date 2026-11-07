@@ -1,0 +1,148 @@
+job_id: 11894044
+title: AI Engineer
+company: Onit
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 302 Employees
+description: |
+  We’re seeking a AI Engineer to design and ship production-
+  grade agentic AI systems that automate complex workflows
+  end-to-end. This is a hands-on role with significant
+  technical ownership. You’ll work closely with the Chief
+  Architect, product, engineering, and domain experts to
+  translate ambiguous, high-impact problems into reliable AI-
+  driven user experiences.
+
+  What success looks like:
+
+  Ship AI capabilities that measurably improve user outcomes
+  (quality, time saved, throughput)
+
+  Build systems that are reliable by design: evals,
+  observability, safety, and cost/latency controls from day
+  one
+
+  Iterate quickly using a tight loop of instrument → evaluate
+  → improve → deploy
+
+  What You’ll Do
+
+  - Build and integrate AI-driven features using LLM APIs
+    (OpenAI / Azure OpenAI, Anthropic, Gemini on Vertex AI)
+  - Design and implement tool-using agents (structured function
+    calling, schema validation, retries, fallbacks)
+  - Build multi-agent workflows when appropriate (e.g.,
+    planner/worker, reviewer/critic, specialist routing) and
+    know when a simpler architecture is better
+  - Create agentic workflows such as document understanding,
+    extraction, reasoning over evidence, task automation, and
+    multi-step decision support
+  - Own context engineering end-to-end:
+  - dynamic context assembly (retrieval + state + tool outputs)
+  - context budgeting and compression/summarization
+  - grounding strategies to reduce hallucinations and improve
+    consistency
+  - Implement retrieval-augmented generation (RAG) and search
+    workflows using off-the-shelf vector stores and embedding
+    services
+  - Establish evaluation frameworks for accuracy, reliability,
+    and output quality
+  - Build task-specific eval suites: golden datasets,
+    adversarial cases, regression tests, and rubric-based
+    scoring
+  - Set up automated evaluation pipelines and release gates
+    (CI/CD-friendly) tied to prompt/model/version changes
+  - Define and monitor online metrics (e.g., task success rate,
+    human override rate, safety flags, latency, cost) and run
+    experiments/A-B tests where appropriate
+  - Use LLM-as-judge responsibly: calibrate, validate, and pair
+    with human labels when needed
+  - Develop scalable backend services and APIs that incorporate
+    AI functionality
+  - Integrate AI pipelines into existing cloud, microservices,
+    and event-driven architectures
+  - Implement observability and analytics for all AI features
+    (tracing, evaluations, prompt versioning, cost tracking)
+    Example tooling: Langfuse (and/or OpenTelemetry-compatible
+    stacks)
+  - Ensure reliability, uptime, performance, and security of AI
+    services
+  - Build internal tooling for evaluation, testing,
+    prompt/version management, and safe deployment
+  - Partner with product managers, designers, the Chief
+    Architect, and domain SMEs to shape AI-first solutions
+  - Rapidly prototype concepts and iterate based on user
+    feedback and measurable eval results
+  - Translate business problems into well-structured AI
+    workflows without requiring ML model training
+  - Document system behavior, known failure modes, and
+    operational playbooks
+  - Implement guardrails, checks, and fallback logic for safe
+    and predictable AI behavior
+  - Help define and follow compliance, privacy, and responsible
+    AI guidelines
+  - Design for safe tool execution (bounded actions,
+    permissions, escalation paths, human-in the-loop review
+
+  What You Bring
+
+  - Strong software engineering background (Python preferred)
+    and experience shipping backend services
+  - Deep hands-on experience building agentic LLM systems from
+    first principles: agent loops, tool interfaces,
+    planning/replanning, memory/state, and failure handling
+  - Strong context engineering ability: retrieval strategies,
+    routing, grounding, context budgeting, and long-context
+    tradeoffs
+  - Strong evaluation discipline: golden datasets, regression
+    gating, automated eval pipelines, and online monitoring
+  - Practical experience with LLM APIs (OpenAI/Azure
+    OpenAI/Anthropic/Gemini) and AI orchestration frameworks
+  - Excellent debugging, systems thinking, and problem
+    decomposition skills
+  - Comfortable operating in fast-paced, ambiguous environments
+    with high ownership
+  - You’ve shipped an LLM/agent system in production and can
+    clearly explain:
+  - the failure modes you discovered
+  - the evals you built to catch regressions
+  - how you improved cost/latency while increasing quality
+  - how you monitored and iterated safely over time
+  - You keep up with industry developments (model releases,
+    frameworks, best practices) and can translate them into
+    pragmatic improvement
+  - Experience with cloud platforms (AWS and/or GCP),
+    microservices, and event-driven systems
+  - Experience with observability stacks (OpenTelemetry,
+    Datadog, Honeycomb) and AI-specific tooling (e.g.,
+    Langfuse, Braintrust, HumanLoop, W&B Weave)
+  - Experience with workflow orchestration for long-running jobs
+    (Temporal, Celery, Airflow)
+  - Experience building enterprise AI features (permissions,
+    auditability, compliance constraints)
+  - Experience with safety/policy layers (PII handling, prompt
+    injection defenses, sandboxed tool execution)
+
+  Why Join Us
+
+  - Build core AI capabilities that directly impact users and
+    product strategy
+  - Work on cutting-edge, real-world agentic systems—focused on
+    applied engineering (no model training required)
+  - High ownership, fast iteration cycles, and strong cross-
+    functional collaboration
+  - Competitive compensation and opportunities for rapid
+    advancement
+
+  What Your First 90 Days Could Look Like
+
+  - tracing + observability
+  - an offline eval suite with regression gates
+  - cost/latency targets and monitoring
+  - documented failure modes and fallback path
+industries:
+  - Software
+  - Business Intelligence
+posted_date: 2026-10-26
+url: "https://builtin.com/job/ai-engineer/11894044"
+source: Built In

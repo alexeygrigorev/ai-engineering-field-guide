@@ -1,0 +1,55 @@
+company:
+  name: Calliere
+  stage: null
+  focus: |-
+    AI engineering partner building production digital teammates
+    for enterprises
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG setups, agentic workflows, prompt/fine-
+      tuning work, and AI evals/guardrails — directly shaping LLM
+      behaviour end-to-end. LLM components are central, so ai-
+      first.
+  responsibilities:
+  - Design, implement, and deploy AI/ML systems end-to-end from prototypes to production
+    services
+  - Build data pipelines, retrieval layers, and training/inference workflows supporting
+    LLMs and other model types
+  - Develop and evolve RAG setups including chunking, embedding selection, and vector
+    search design
+  - Implement and tune agentic multi-step workflows orchestrating tools, APIs, and
+    models
+  - 'Add AI observability: evaluations, logging, metrics, and guardrails for quality,
+    drift, and failures'
+  - Integrate models with application backends and APIs
+  - Optimize AI systems for performance and cost (token usage, caching, model routing)
+  use_cases:
+  - AI-powered digital teammates embedded in enterprise workflows
+  - Retrieval-augmented generation over enterprise data
+  - Agentic multi-step task automation via tools and APIs
+  - 'AI behavior monitoring: quality, drift, and failure detection'
+  - Cost-optimized LLM serving with caching and model routing
+  skills:
+    genai: [LLMs, Generative AI, RAG, Prompt Engineering, Fine-Tuning, Agentic Workflows,
+      Embeddings, Vector Search, Guardrails, LLM Evaluation]
+    ml: [Model Training, Quantization, Model Evaluation]
+    web: [REST APIs, gRPC]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11884243'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T13:32:05.458134'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

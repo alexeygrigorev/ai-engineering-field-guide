@@ -1,0 +1,51 @@
+company:
+  name: Turing
+  stage: null
+  focus: AI data services and enterprise agentic AI deployment
+position:
+  title: Forward-Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward-Deployed Engineer who architects production
+      LLM/agent systems themselves — orchestration, tool use,
+      context engineering, RAG, guardrails, evaluation. Per the
+      edge case rules, FDEs adapting and deploying AI at customer
+      sites are ai-first, and the responsibilities clearly involve
+      shaping model behavior.
+  responsibilities:
+  - Work directly with customers to uncover high-value opportunities and translate
+    business needs into technical direction
+  - Architect and build production AI systems including multi-agent workflows, orchestration,
+    and tool use
+  - Design retrieval, context engineering, memory and state, and RAG components
+  - Build APIs, data pipelines, integrations, and distributed systems to support AI
+    solutions at scale
+  - Own solutions end to end from discovery through deployment and measurable impact
+  - Own evaluation, observability, security, reliability, latency, scalability, and
+    cost of deployed systems
+  use_cases:
+  - Enterprise agentic AI systems embedded in mission-critical workflows
+  - Production retrieval and RAG for enterprise knowledge work
+  - Multi-agent workflow automation for large institutions
+  - End-to-end generative AI solutions driving measurable ROI for Fortune 500 enterprises
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Context Engineering,
+      RAG, Embeddings, Guardrails, Generative AI]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: [Databases, Vector Search]
+    data: [Data Pipelines]
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems, Observability, Retrieval Evaluation]
+    languages: [Python]
+    domains: [System Design]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11351254'
+  location: Hyderabad, IND
+  extracted_at: '2026-11-06T11:34:40.929302'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

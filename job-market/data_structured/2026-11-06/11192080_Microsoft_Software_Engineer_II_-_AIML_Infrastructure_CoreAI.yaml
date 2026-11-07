@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud computing and AI platform services
+position:
+  title: Software Engineer II - AI/ML Infrastructure CoreAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds Azure AI Foundry customization
+      infrastructure covering pre-training, mid-training, post-
+      training, fine-tuning (LoRA), RL controls, evaluations, and
+      dynamic model routing for frontier LLMs — directly shaping
+      model behaviour and output quality. LLM/generative targets
+      dominate, so it is ai-first.
+  responsibilities:
+  - Design abstractions, infrastructure, and interfaces to train, test, validate,
+    scale, and optimize ML algorithms at massive distributed scale
+  - Implement features for data cleaning, model training, and hyperparameter tuning
+  - Incorporate customer-inspired innovations into the platform software
+  - Build pre-training, mid-training, and post-training solutions including LoRA deployment
+    and large-scale inference
+  - Deliver services, pipelines, ML recipes, evaluations, and integrations
+  - Create extensible, maintainable feature code with test strategies, telemetry,
+    and debugging tools
+  - Automate production deployment toward zero-touch operations
+  - Apply security best practices across product features
+  use_cases:
+  - Customizing and fine-tuning foundation models for enterprise workloads on Azure
+    AI Foundry
+  - Pre-training, mid-training, and post-training of frontier models at scale
+  - Reinforcement learning for production AI agents
+  - Distillation and efficient deployment of open-source reasoning models
+  - Dynamic model routing and cost-efficient large-scale inference
+  skills:
+    genai: [AI Agents, LLMs, LLM Evaluation]
+    ml: [Fine-Tuning, LoRA, Reinforcement Learning, Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, Azure ML]
+    ops: [Distributed Systems, MLOps]
+    languages: [C#, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11192080'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T11:26:08.217819'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Candid Health
+  stage: null
+  focus: Healthcare billing and revenue cycle automation
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: designing and scaling AI/ML
+      systems, deciding between LLM and deterministic approaches,
+      and establishing model training, testing, and monitoring
+      processes for prototypes taken to production. LLM-based
+      solutions are explicitly named, making it ai-first.
+  responsibilities:
+  - Build AI features into Candid's platform delivering outcomes for internal teams
+    and external customers
+  - Drive the technical AI strategy and decide which AI/ML techniques deliver business
+    value
+  - Translate initial prototypes into a foundational, scalable set of AI/ML use cases
+  - Automate and scale complex products and workflows such as claim submission, resubmission,
+    and workflow optimization
+  - Architect AI infrastructure across the product and structure data to support AI
+    development
+  - Establish processes for model training, testing, and monitoring with high security
+    standards
+  use_cases:
+  - Automating medical billing and revenue cycle management
+  - Claim submission and resubmission automation
+  - Workflow optimization for RCM operations
+  - AI-driven features across a healthcare automation platform
+  skills:
+    genai: [LLMs]
+    ml: [NLP, Machine Learning]
+    web: []
+    databases: [BigQuery, PostgreSQL]
+    data: []
+    cloud: [GCP]
+    ops: [Terraform]
+    languages: [Python]
+    domains: []
+    other: [Metabase]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11527504'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-11-06T12:05:42.408737'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

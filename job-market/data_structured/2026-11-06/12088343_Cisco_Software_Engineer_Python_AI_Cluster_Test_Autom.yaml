@@ -1,0 +1,53 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking and AI infrastructure validation solutions
+position:
+  title: Software Engineer | Python, AI Cluster, Test Automation | 4-8 years
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs Jenkins-driven test automation and release
+      qualification for AI cluster infrastructure; it never shapes
+      model behaviour (no prompts, retrieval, training, or evals).
+      It validates and releases clusters others build, which is
+      release/test engineering on AI infrastructure, so ai-support
+      applies.
+  responsibilities:
+  - Own the release lifecycle for CVIS/NVIS software across AI clusters, from integration
+    through automated testing to final readiness
+  - Enforce release gates in Jenkins pipelines covering GPU, NCCL, network-fabric,
+    and workload validation
+  - Turn AI cluster system requirements into measurable tests, acceptance criteria,
+    and release gates
+  - Catch and help resolve critical AI cluster regressions early in the Jenkins pipeline
+    with actionable evidence
+  - Keep release status and results transparent and traceable to specific Jenkins
+    builds for engineering, support, and customer readiness
+  - Track AI cluster feature readiness across releases using Jenkins build and test
+    results
+  use_cases:
+  - Validation of large AI cluster performance before customer handover
+  - Automated end-to-end testing of AI cluster deployments (GPU, NCCL, network fabric,
+    workloads)
+  - Release qualification and readiness certification for AI cluster software
+  - Early detection and resolution of AI cluster regressions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Jenkins, CI/CD, Linux, Test Automation]
+    languages: [Python]
+    domains: []
+    other: [GPU, NCCL]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12088343'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:53:54.988657'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

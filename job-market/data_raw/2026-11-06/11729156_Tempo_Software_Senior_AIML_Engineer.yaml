@@ -1,0 +1,213 @@
+job_id: 11729156
+title: Senior AI/ML Engineer
+company: Tempo Software
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  With over 30,000 customers, including a third of Fortune 500
+  companies, Tempo is trusted by organizations across the
+  globe to make their workflows work better.
+
+  We create a suite of integrated solutions for time
+  management, resource planning, budget management,
+  roadmapping, program management, reporting and more. We
+  create the tech that enables the modern team to deliver –
+  for every step from first vision to value.
+
+  Since our beginning in 2007 as a project to make a time-
+  tracking tool to help a client – Tempo has expanded to
+  become the #1 time management add-on for Jira, and we have
+  developed and acquired a multitude of tools to become one of
+  the most trusted names in the Atlassian ecosystem.
+
+  We want everyone to work better – but we also want to be a
+  tech company with a heart. Join us as we continuously
+  innovate our award-winning products, create new solutions,
+  and help the world work smarter, not harder.
+
+  About the role:
+
+  We’re looking for a Senior AI/ML Engineer who will be
+  working at the intersection of LLMs, real-time signal
+  processing, and enterprise decision-making. This is not a
+  research role or an isolated AI team position. You’ll sit
+  alongside domain engineers as you ship production AI systems
+  to enterprise customers.
+
+  This is not the typical AI/ML engineering role. We’re
+  looking for someone who uses AI heavily in their own daily
+  work, has built and shipped features powered by LLMs and
+  autonomous agents, and has strong opinions on what good AI
+  product engineering actually looks like. If your go-to move
+  when facing a complex problem is to reach for an agent
+  pipeline rather than a static script, you’re the kind of
+  engineer we have in mind.
+
+  You’ll initially pair with our external AI partners to
+  absorb their work and establish the patterns the broader
+  engineering team will follow. Over time, you become the
+  internal anchor for AI engineering — the person the rest
+  turn to for prompt design, evaluation strategy, model
+  selection, and agent architecture decisions.
+
+  What you’ll do:
+
+  Signal detection and anomaly detection
+
+  Statistical and ML-based detectors that identify meaningful
+  patterns in portfolio signals — velocity changes, capacity
+  saturation, dependency risks — from CDC event streams and
+  external tool integrations. Not simple threshold alerts;
+  intelligent pattern recognition that knows the difference
+  between noise and a real problem.
+
+  Insight synthesis engine
+
+  An LLM-powered correlation engine that takes raw signals and
+  produces actionable insights with root causes, confidence
+  scores, and evidence chains. Not just “something is wrong” —
+  but “why it’s wrong, what it means, and what you should do
+  about it.”
+
+  Planning Rules compiler
+
+  A translation layer between natural language planning rules
+  (written by portfolio managers) and the structured
+  parameters that drive our Monte Carlo scheduling engine. The
+  LLM interprets intent; the deterministic engine computes
+  schedules. You’ll design how these two layers communicate
+  reliably.
+
+  Evaluation and testing frameworks
+
+  The pipelines that ensure AI outputs are reliable,
+  consistent, and improving over time. Regression suites for
+  prompt changes, A/B testing infrastructure for model
+  updates, confidence calibration — because vibes-based
+  testing doesn’t scale at enterprise scale.
+
+  MCP tool definitions
+
+  LLM-ready tool specs for domain capabilities (Item Store
+  queries, capacity lookups, scenario simulations) that Tempo
+  AI can discover and invoke at runtime within a hub-and-spoke
+  MCP architecture already in production.
+
+  Who you are:
+
+  Must Have
+
+  - A track record of shipping LLM-powered features or products
+    — prototypes don’t count; we want to see things that real
+    users have relied on.
+  - Hands-on experience orchestrating agents — multi-step
+    reasoning, tool use, autonomous action with guardrails.
+    Frameworks like LangChain, LlamaIndex, CrewAI, AutoGen, or
+    equivalent (including rolling your own).
+  - Deep LLM engineering fundamentals: prompt engineering, RAG
+    architectures, function calling / tool use, context
+    management, evaluation-driven development.
+  - Production-quality engineering practices — you write code
+    with tests, participate in code review, care about CI/CD
+    and observability. You build systems that run reliably in
+    production, not notebook prototypes.
+  - Experience with event-driven or streaming data systems — CDC
+    events, real-time pipelines, and the patterns that come
+    with them.
+  - 5+ years in software engineering, with 3+ years focused on
+    AI/ML in production systems.
+  - Ability to work embedded in a product team — collaborating
+    daily with domain engineers, product managers, and
+    designers, not just other AI specialists.
+
+  Strongly Preferred
+
+  - AWS Bedrock, Azure OpenAI, or GCP Vertex AI — we’re running
+    on Bedrock with Claude today.
+  - MCP (Model Context Protocol) or similar tool-use / agentic
+    frameworks.
+  - Anomaly detection, time-series analysis, or statistical
+    signal processing.
+  - Building confidence scoring or calibration systems for AI
+    outputs.
+  - A track record of absorbing work from external partners and
+    making it your own — you know how to inherit an
+    architecture, evaluate its decisions, and improve what you
+    find.
+  - Proficiency in Kotlin or TypeScript alongside Python — our
+    product platform is Kotlin/TypeScript; our AI platform is
+    Python. You’ll work across both.
+
+  Nice to Have
+
+  - Monte Carlo simulation, optimization algorithms, or
+    scheduling systems.
+  - Background in portfolio management, project management, or
+    resource planning.
+  - Experience in enterprise SaaS — multi-tenancy, compliance,
+    audit trails.
+  - Contributions to open-source AI/ML projects.
+
+  Mindset
+
+  - You use AI tools heavily in your own daily work — not as a
+    novelty, but because they make you meaningfully more
+    effective.
+  - You have strong opinions (loosely held) about what makes AI
+    products trustworthy versus impressive-but-fragile.
+  - You’re energized by a space that’s moving fast, and you
+    track model releases, emerging agent frameworks, and new
+    patterns as they happen.
+  - You’re as comfortable writing an Architecture Decision
+    Record as you are writing a prompt.
+
+  Why Join Tempo?
+
+  - Impact: Work on meaningful products that empower enterprise
+    users and improve productivity.
+  - Innovation: Be part of a culture that values creativity and
+    innovation, with opportunities to make a real impact.
+  - Collaboration: Join a supportive, collaborative UX team that
+    values openness, communication, and a continuous learning
+    environment.
+  - Growth: Opportunities for professional development,
+    including conferences, courses, and mentorship.
+
+  What's In It For You (Org-wide)
+
+  - Remote First work environment
+  - Unlimited vacation in most of our locations!!
+  - Great benefits including health, dental, vision and savings
+    plan.
+  - Perks such as training reimbursement, WFH reimbursement, and
+    more.
+  - Diverse and dynamic teams with challenging and exciting
+    work.
+  - An opportunity to have a real impact on our business.
+  - A great range of social activities (both in person and
+    virtual).
+  - Optional in person meet-ups and the ability to travel to our
+    international offices
+  - Employee referral program
+  - And so much more!
+
+  Note: As our hiring teams are global, please submit your
+  resume in English only
+
+  Apply today to join the Tempo team and help shape the future
+  of enterprise productivity software.
+
+  Join us at Tempo Software, where we proudly foster an equal
+  opportunity workplace. We are committed to creating an
+  inclusive culture where all qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, gender, gender identity or expression,
+  sexual orientation, national origin, genetics, disability,
+  age, or veteran status.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-10-30
+url: "https://www.builtinla.com/job/senior-ai-ml-engineer/11729156"
+source: Built In

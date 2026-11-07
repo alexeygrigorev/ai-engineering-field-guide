@@ -1,0 +1,56 @@
+company:
+  name: Clariness
+  stage: null
+  focus: Accelerating access to clinical trials for patients
+position:
+  title: Senior AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond oversight: it designs and validates
+      guardrails, sandboxing, and secure tool use for AI agents,
+      and performs adversarial red-teaming of LLM/agent systems,
+      which is building safety mechanisms and judging model
+      behaviour directly (Step 1, Step 2: LLM/agentic targets →
+      ai-first).
+  responsibilities:
+  - Define security engineering strategy and roadmap and build the security function
+    across application, cloud, AI/LLM security, and vulnerability management
+  - Work with engineering teams on secure system design, threat modelling, penetration
+    testing, and vulnerability remediation embedded in CI/CD pipelines
+  - Own AI security and governance for LLM features, RAG systems, and agentic pipelines,
+    including OWASP LLM Top 10 risk mitigation
+  - 'Design and validate safeguards for AI agents: sandboxing, privilege controls,
+    secure tool use, and adversarial red teaming'
+  - Deploy and improve AI-powered security automation such as autonomous vulnerability
+    triage and LLM-powered alert analysis
+  - Assess security tools and build custom solutions where needed
+  - Manage IT security compliance (SOC 2, EU AI Act, GDPR Art. 32, GxP) and serve
+    as liaison for auditors and regulators
+  use_cases:
+  - AI/LLM security and governance for LLM-powered product features
+  - Securing RAG systems and agentic pipelines against adversarial risks
+  - 'AI-powered security automation: autonomous vulnerability triage and alert analysis'
+  - Compliance programme management for clinical research / healthtech environment
+  - Secure development lifecycle embedding security controls in CI/CD
+  skills:
+    genai: [RAG, Agentic Workflows, LLMs, Guardrails, AI Agents]
+    ml: [Adversarial Testing]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [Threat Modelling, Penetration Testing, Vulnerability Management, Application
+        Security, Cloud Security, SOC 2, EU AI Act, GDPR, GxP, OWASP Top 10 for LLM
+        Applications]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11949703'
+  location: Berlin, DEU
+  extracted_at: '2026-11-06T14:08:48.828339'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

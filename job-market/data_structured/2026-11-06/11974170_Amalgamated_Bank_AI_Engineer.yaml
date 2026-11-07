@@ -1,0 +1,52 @@
+company:
+  name: Amalgamated Bank
+  stage: null
+  focus: Banking and financial services with Data & AI strategy
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through prompt engineering, RAG
+      design, agent orchestration, and building evaluation
+      frameworks and guardrails for AI agents and copilots. LLMs
+      are central, so it is ai-first.
+  responsibilities:
+  - Design, develop, test, and support AI-powered applications, copilots, and agent-based
+    solutions
+  - Build RAG solutions, workflow automations, and multi-agent architectures
+  - Develop integrations between AI solutions and enterprise systems, databases, and
+    APIs
+  - Participate in prompt engineering, context management, tool integration, and agent
+    orchestration
+  - Support evaluation frameworks, test datasets, and benchmarking to measure AI performance
+  - Monitor model quality, accuracy, safety, latency, and cost efficiency
+  - Prepare and validate structured and unstructured data for AI applications and
+    maintain vectorized knowledge repositories
+  - Support AI governance, model reviews, audits, and regulatory compliance documentation
+  use_cases:
+  - Enterprise AI copilots and agent-based solutions for banking operations
+  - Retrieval-augmented generation over enterprise knowledge repositories
+  - Workflow automation and multi-agent architectures for business processes
+  - AI monitoring and evaluation for regulated financial services
+  - Governance and audit support for AI models
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Multi-Agent Systems, LangGraph,
+      LlamaIndex, Semantic Kernel, Vector Databases]
+    ml: [Model Evaluation, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure]
+    ops: [Git, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11974170'
+  location: New York, USA
+  extracted_at: '2026-11-06T14:14:52.880728'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

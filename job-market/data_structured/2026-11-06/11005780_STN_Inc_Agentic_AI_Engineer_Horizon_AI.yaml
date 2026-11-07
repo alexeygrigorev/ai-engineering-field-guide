@@ -1,0 +1,45 @@
+company:
+  name: STN Inc
+  stage: null
+  focus: Agentic AI for fleet operations and infrastructure
+position:
+  title: Agentic AI Engineer (Horizon AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent behavior, tool/function-calling
+      surfaces, and evaluation fixtures for LLM agents, directly
+      shaping model output quality. This is clearly LLM/agent
+      work, making it ai-first.
+  responsibilities:
+  - Extend and maintain the tool surface across infrastructure and business systems
+  - Implement agents that diagnose fleet conditions and recommend actions with visible
+    reasoning
+  - Translate operator runbooks and tacit knowledge into agent behaviour
+  - Build evaluation fixtures from real historical incidents and measure agent performance
+  - Rotate through Systems and SRE embeds
+  use_cases:
+  - Fleet condition diagnosis and recommended actions with visible reasoning
+  - Encoding operator runbooks and tacit knowledge into agent behavior
+  - Agent evaluation against historical incident fixtures
+  - Structured agent access to infrastructure and business systems
+  skills:
+    genai: [LLMs, Function Calling, RAG, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [OpenTelemetry]
+    languages: [Python, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005780'
+  location: USA
+  remote: true
+  extracted_at: '2026-11-06T11:23:45.701494'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

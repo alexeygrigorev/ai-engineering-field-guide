@@ -1,0 +1,52 @@
+company:
+  name: Salesforce
+  stage: null
+  focus: AI CRM and enterprise customer success software
+position:
+  title: Full-Stack Developer — AI-Native Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The developer builds web tiers with embedded Claude plugin
+      agents, implements MCP-based cross-system data bridges, and
+      works with LLM APIs and agentic plugins — directly designing
+      agent flows and tool calling, which is shaping model
+      behaviour.
+  responsibilities:
+  - Rapidly build functional POCs and prototypes from stakeholder requirements alongside
+    the Technical Architect
+  - Convert low-level designs into modular, maintainable code using modern JavaScript
+    frameworks
+  - Develop web tiers with embedded Claude plugin agents and MCP-based cross-system
+    data bridges for secure context retrieval
+  - Develop and consume RESTful services with OAuth authentication workflows (Username-Password,
+    Web Server, JWT flows)
+  - Design, optimize, and maintain relational database structures for scoping configurations
+    and computation states
+  - Maintain CI/CD pipelines with Git and Jenkins, deploying to SaaS platforms like
+    Heroku
+  - Write and execute unit, integration, and user-acceptance tests
+  use_cases:
+  - Pre-sales scoping and estimation tooling
+  - Embedded AI agents that reason over enterprise data
+  - Secure cross-system data retrieval for background reasoning loops
+  - Rapid prototyping of multi-tier web applications
+  skills:
+    genai: [MCP, AI Agents, LLMs, Claude Code, Cursor]
+    ml: []
+    web: [REST APIs, OAuth, React, Node.js]
+    databases: [Relational Databases]
+    data: []
+    cloud: [Heroku]
+    ops: [CI/CD, Git, Jenkins]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [Apex, Lightning Web Components, Data Cloud, Markdown]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '12089462'
+  location: Bengaluru, IND
+  extracted_at: '2026-11-06T14:54:16.286026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

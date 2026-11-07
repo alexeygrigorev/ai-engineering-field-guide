@@ -1,0 +1,53 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: Building safe, steerable, interpretable AI systems
+position:
+  title: Applied AI Engineer, Startups
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role advises on and directly builds LLM applications on
+      the Claude platform: prompting, context engineering, agent
+      design, evaluation frameworks, and architecture. That is
+      shaping model behaviour and output quality on LLMs, so ai-
+      first. It is also a Forward Deployed-style role, explicitly
+      customer-facing.
+  responsibilities:
+  - Serve as a deep technical advisor to high-growth, tech-forward companies building
+    on the Claude Developer Platform
+  - Work hands-on with customer engineering teams through pair programming, architecture
+    reviews, and code contributions
+  - Develop prototypes, evaluation suites, and technical documentation to help customers
+    build and scale with Claude
+  - Collaborate with Applied AI Architects, Account Executives, and internal Product
+    and Engineering teams
+  - Identify patterns across engagements and feed insights back to Product and Engineering
+  - Create technical content for developers including tutorials and sample code
+  - Foster community engagement via hackathons, webinars, and developer events
+  - Travel to customer sites for workshops and implementation support
+  use_cases:
+  - Custom LLM-powered applications built on the Claude Developer Platform
+  - Agent-based product architectures for startup customers
+  - Evaluation frameworks for LLM applications
+  - Scalable AI architectures across industries like healthcare and fintech
+  skills:
+    genai: [Prompting, Context Engineering, Agentic Workflows, LLM Evaluation, Agent
+        Architectures, Anthropic API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11326002'
+  location: London, GBR
+  extracted_at: '2026-11-06T11:30:29.247644'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2
