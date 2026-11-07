@@ -411,7 +411,7 @@ def yaml_quote(s):
     if not s:
         return ''
     s = sanitize_yaml_text(s)
-    if any(c in s for c in [':', '[', ']', '{', '}', '|', '>', '#', '&']):
+    if s[0] in ("'", '"') or any(c in s for c in [':', '[', ']', '{', '}', '|', '>', '#', '&']):
         # Use double quotes and escape internal quotes/backslashes
         quoted = s.replace('\\', '\\\\').replace('"', '\\"')
         return f'"{quoted}"'
