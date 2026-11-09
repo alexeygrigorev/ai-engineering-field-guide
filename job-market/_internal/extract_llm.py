@@ -603,6 +603,9 @@ def main():
     parser.add_argument('--limit', type=int, help='Limit number of files to process')
     parser.add_argument('--shard-count', type=int, default=1, help='Split work into this many deterministic shards')
     parser.add_argument('--shard-index', type=int, default=0, help='Zero-based shard to process')
+    parser.add_argument('--out-dir', type=str, default=None,
+                        help='Staging output root (dated subdirs, same layout as data_structured). '
+                             'Use for model/prompt trials - never extract trials over data_structured/')
     args = parser.parse_args()
 
     if args.shard_count < 1:
@@ -613,6 +616,12 @@ def main():
     if not os.getenv("ZAI_API_KEY"):
         print("Error: ZAI_API_KEY environment variable not set")
         return
+
+    if args.out_dir:
+        global OUTPUT_DIR
+        OUTPUT_DIR = Path(args.out_dir)
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        print(f"Staging output root: {OUTPUT_DIR}")
 
     # Load CSV filter if provided
     csv_ids = None
