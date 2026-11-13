@@ -48,6 +48,7 @@ This is the list of resources I used while researching content for the [AI Engin
 - [LLM Interview Questions (Lovable App)](https://llm-interview-questions.lovable.app/) - theory questions referenced by AI engineer interview candidates
 - [GitHub: RAG Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub) - 100+ RAG questions with answers, 391 stars
 - [GitHub: 60 Gen AI Questions](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/interview_prep/60_gen_ai_questions.md) - curated generative AI interview questions from awesome-generative-ai-guide repo
+- [GitHub: Awesome AI Engineer Interview](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer questions with answers, 10 worked system designs, 12 company loop guides, 34 stars
 
 
 ## AI System Design Guides and Frameworks
