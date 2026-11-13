@@ -20,11 +20,11 @@ Start with five candidate domains.
 
 The [use-case analysis](../role/04-use-cases.md#domains-served) shows these domains most often:
 
-- finance: 2,321 mentions
-- healthcare: 1,783 mentions
-- legal / regulatory: 1,094 mentions
-- cybersecurity: 1,028 mentions
-- education: 571 mentions
+- finance: 3,877 mentions
+- healthcare: 2,380 mentions
+- legal / regulatory: 1,798 mentions
+- education: 1,349 mentions
+- cybersecurity: 1,317 mentions
 
 These aren't the only good domains. They're a practical starting set based on the data in this repo.
 

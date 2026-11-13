@@ -10,7 +10,7 @@ Start from a real domain, real companies, and real problems; choose the technolo
 
 The seven-step workflow ([portfolio/02](../../portfolio/02-how-to-pick-a-project.md), six-step in the [webinar 5](../summaries/webinars.md) version):
 
-1. Pick five candidate domains - the data-backed starting set is finance, healthcare, legal, cybersecurity, education (the top domains in 24,502 extracted use cases)
+1. Pick five candidate domains - the data-backed starting set is finance, healthcare, legal, education, cybersecurity (the top domains in 43,822 extracted use cases)
 2. Select one domain - check companies are hiring, publishing, and buildable-with-public-data
 3. Pick 5-10 companies
 4. Analyze their job descriptions and engineering blogs - JDs show what teams want; blogs show what teams actually do

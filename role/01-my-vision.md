@@ -2,7 +2,7 @@
 
 Based on [What Is an AI Engineer? Alexey Grigorev's Experience-Based Definition](https://aishippinglabs.com/blog/what-is-an-ai-engineer-alexey-grigorev-perspective).
 
-This is my personal vision of the role. To see how it compares with what companies actually look for, I analyzed 895 job descriptions - the rest of this [role section](README.md) is based on that research.
+This is my personal vision of the role. To see how it compares with what companies actually look for, I analyzed 9,760 job descriptions - the rest of this [role section](README.md) is based on that research.
 
 
 ## Core Responsibility

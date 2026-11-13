@@ -43,8 +43,8 @@ Use them to show:
 
 The repo's [role analysis](../role/README.md) and [job-market dataset](../job-market/README.md) show that:
 
-- 93.1% of roles need skills beyond GenAI
-- 50.2% of AI-first roles require production or operations skills
+- 86.9% of AI-First roles need skills beyond GenAI
+- 71.0% of AI-First roles require production or operations skills
 
 So a role-targeted AI engineering project should show that you can build, evaluate, deploy, or operate a small AI system.
 
