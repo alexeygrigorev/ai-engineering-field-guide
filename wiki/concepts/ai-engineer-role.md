@@ -8,29 +8,29 @@ An AI engineer integrates AI into the product. The model already exists - work h
 
 ## The three role types under one title
 
-From 6,964 postings, Feb-Aug 2026 ([role/02-skills.md](../../role/02-skills.md)):
+From 9,760 postings, Feb-Nov 2026 ([role/02-skills.md](../../role/02-skills.md)):
 
-- AI-First - 70.0%: works ON AI (RAG systems, agents, LLM features)
-- AI-Support - 24.2%: works NEAR AI (platforms, infrastructure, tooling, UIs for AI products)
-- ML - 4.9%: traditional ML rebranded with the AI title
+- AI-First - 68.9%: works ON AI (RAG systems, agents, LLM features)
+- AI-Support - 25.7%: works NEAR AI (platforms, infrastructure, tooling, UIs for AI products)
+- ML - 4.5%: traditional ML rebranded with the AI title
 
 The test: does the role work on AI systems or near them? Titles are unreliable - "AI Engineer" is the most trustworthy title (92% AI-First) while "AI Platform Engineer" is a coin flip. Candidate reports confirm the confusion from the other side ([role/05-reality-vs-postings.md](../../role/05-reality-vs-postings.md)).
 
 ## Full-stack and applied
 
-- 86.8% of AI-First roles need skills beyond GenAI; 70.6% combine GenAI with production/ops (Docker, Kubernetes, CI/CD); only 3.9% expect pure GenAI work
-- 97.1% of roles are applied/production, not research
-- Python is mandatory (70.8%); one cloud (AWS 40.3% > Azure 29.6% > GCP 27.4%) is the norm
+- 86.9% of AI-First roles need skills beyond GenAI; 71.0% combine GenAI with production/ops (Docker, Kubernetes, CI/CD); only 4.0% expect pure GenAI work
+- 97.4% of roles are applied/production, not research
+- Python is mandatory (71.6%); one cloud (AWS 39.3% > Azure 29.7% > GCP 29.1%) is the norm
 
 ## What the work actually is
 
-- RAG (39.8% of all jobs) and agents (55.4%) are the two dominant patterns, usually asked together
-- The #1 use case is automating manual workflows (23.9% of mentions, 69.0% of jobs) - unglamorous reduction of repetitive work at scale; enterprise internal operations is #2
-- Five role archetypes from clustering ([role/07-trends.md](../../role/07-trends.md)): agent builder 28.6%, RAG app builder 25.3%, cloud/ML platform 18.0%, DevOps/full-stack 13.3%, ML trainer/researcher 8.2%
+- RAG (40.1% of all jobs) and agents (56.2%) are the two dominant patterns, usually asked together
+- The #1 use case is automating manual workflows (58.8% of jobs) and internal operational efficiency (22.5% of mentions) - unglamorous reduction of repetitive work at scale
+- Five role archetypes from clustering ([role/07-trends.md](../../role/07-trends.md)): agent builder 29.9%, RAG app builder 26.6%, DevOps/full-stack 16.9%, cloud/ML platform 14.1%, ML trainer/researcher 6.3%
 
 ## The directional shift
 
-The strongest signal in the dataset (Feb -> Aug 2026): within AI-First roles the integrator stack (RAG/agents/APIs) rose from 80.0% to 88.0% while the trainer stack (PyTorch/TensorFlow/fine-tuning/CUDA) fell from 37.5% to 30.4%. Fine-tuning is a specialization, not core: 84.6% of AI-First roles never mention it. The dedicated "AI infra engineer" has not emerged - inference/serving work halved and stays inside platform roles. Meanwhile the FDE variant - customer-facing production deployers - is the fastest-growing title (4.2x in six months).
+The strongest signal in the dataset (Feb -> Nov 2026): within AI-First roles the integrator stack (RAG/agents/APIs) rose from 80.0% to 91.7% while the trainer stack (PyTorch/TensorFlow/fine-tuning/CUDA) fell from 37.5% to 27.2%. Fine-tuning is a specialization, not core: 86.0% of AI-First roles never mention it in responsibilities. The dedicated "AI infra engineer" has not emerged - inference/serving work fell to 13.5% and stays inside platform roles. Meanwhile the FDE variant - customer-facing production deployers - grew 5.9x across the 10 scrapes.
 
 ## Comparison with adjacent roles
 
@@ -41,4 +41,4 @@ The strongest signal in the dataset (Feb -> Aug 2026): within AI-First roles the
 ## Inference (my synthesis, not a source claim)
 
 - Reading the repo together: the role is consolidating around "software engineer who ships reliable LLM systems" - every section independently converges on evaluation plus production skills as what separates candidates, while model-training skills fade
-- The junior market being pinned near 1% of postings all eight months, combined with full-stack expectations, suggests the role is hired as a second specialization, not an entry point - consistent with the [learning paths](../summaries/learning-paths.md) premise that you transition from an adjacent role
+- The junior market being pinned near 1% of postings all 10 scrapes, combined with full-stack expectations, suggests the role is hired as a second specialization, not an entry point - consistent with the [learning paths](../summaries/learning-paths.md) premise that you transition from an adjacent role

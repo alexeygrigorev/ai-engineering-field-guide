@@ -6,7 +6,7 @@ The wiki's first corpus is the repo itself: the [AI Engineering Field Guide](../
 
 ## Main threads
 
-- Defining the AI engineer role - the data-driven answer: an integrator role (RAG, agents, orchestration via provider APIs), 70.0% AI-First, full-stack, applied; fine-tuning niche; five role archetypes; the integrator-vs-trainer shift is the strongest trend. See [AI engineer role](concepts/ai-engineer-role.md) and the [role summary](summaries/role.md)
+- Defining the AI engineer role - the data-driven answer: an integrator role (RAG, agents, orchestration via provider APIs), 68.9% AI-First, full-stack, applied; fine-tuning niche; five role archetypes; the integrator-vs-trainer shift is the strongest trend. See [AI engineer role](concepts/ai-engineer-role.md) and the [role summary](summaries/role.md)
 - Getting hired - a non-standardized interview process converging on consistent signals: evaluation thinking, ownership narratives, production awareness; take-homes as the de facto practical exam; a domain-first portfolio method. See [interview process](concepts/interview-process.md), [take-home assignments](concepts/take-home-assignments.md), [portfolio projects](concepts/portfolio-projects.md)
 - Evaluation as the differentiator - the claim every section of the repo makes independently; collected in one page: [evaluation as the differentiator](concepts/evaluation-differentiator.md)
 - Transitions - the role is entered from adjacent roles (ML engineer easiest, then backend, data engineer, data scientist, frontend), all converging on the same shortlist: LLM APIs, RAG, agents, evaluation. See [learning paths](summaries/learning-paths.md)
@@ -16,7 +16,7 @@ The wiki's first corpus is the repo itself: the [AI Engineering Field Guide](../
 
 ## Current synthesis
 
-The repo's sections agree on a single picture of the 2026 market: AI engineering has consolidated into a software-engineering specialization - build reliable systems on top of pre-trained models for enterprise automation use cases. Hiring (interviews, take-homes, portfolios) selects for the ability to measure and operate such systems, not to train models. The demand data (59.7% of AI-First roles requiring evaluation skills; junior postings pinned near 1%) says the role is a second specialization layered on engineering experience, and the learning paths are built exactly for that reader.
+The repo's sections agree on a single picture of the 2026 market: AI engineering has consolidated into a software-engineering specialization - build reliable systems on top of pre-trained models for enterprise automation use cases. Hiring (interviews, take-homes, portfolios) selects for the ability to measure and operate such systems, not to train models. The demand data (61.8% of AI-First roles requiring evaluation skills; junior postings pinned near 1%) says the role is a second specialization layered on engineering experience, and the learning paths are built exactly for that reader.
 
 ## Open questions
 

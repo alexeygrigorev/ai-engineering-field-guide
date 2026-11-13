@@ -1,46 +1,48 @@
 # AI Engineering Responsibilities Analysis
 
-Based on 33,957 responsibilities extracted from 4,894 job descriptions across six monthly scrapes (Feb-Jun 2026).
+Based on 69,498 responsibilities extracted from 9,760 job descriptions across 10 monthly scrapes (Feb-Nov 2026).
 
 Methodology note: I collected all responsibilities into a single file and used AI (Claude) to analyze and categorize them. This is not a quantitative analysis like the [skills analysis](02-skills.md) (see the [analysis notebook](../job-market/analysis.ipynb) for that) - it's based on the questions I asked and the patterns Claude identified in the data. The prevalence numbers (percent of jobs) come from keyword matching, so a single responsibility can count toward more than one category. It may be less precise than a strict statistical analysis, but I believe it's still representative of what's happening in the market.
 
-Across all 33,957 responsibilities:
+Across all 69,498 responsibilities:
 
-- AI-First roles: 24,905 responsibilities (73.4%)
-- AI-Support roles: 8,254 responsibilities (24.3%)
-- ML-First and unclassified roles: 798 responsibilities (2.4%)
+- AI-First roles: 48,793 responsibilities (70.2%)
+- AI-Support roles: 17,293 responsibilities (24.9%)
+- ML-First and unclassified roles: 3,412 responsibilities (4.9%)
 
 
-## Feb vs Jun: How the Market Shifted
+## Feb vs Nov: How the Market Shifted
 
-Comparing the first scrape (Feb 2026, 895 jobs) with the latest (Jun 2026, 888 jobs) shows a clear direction. Postings got denser - 6.4 to 7.3 responsibilities per job - and tilted more AI-First, from 69.4% to 75.9% of roles.
+Comparing the first scrape (Feb 2026, 895 jobs) with the latest (Nov 2026, 1,709 jobs) shows a clear direction. Postings averaged 7.1 responsibilities per job in February and 6.7 in November, while AI-Support roles grew from 22.2% to 32.9% of listings.
 
-The role is becoming more agentic and more operational, and less exploratory. Agents crossed into the majority of jobs, while research dropped sharply.
+The role is becoming more agentic and more evaluation-focused, and much less exploratory. Agents crossed into the majority of jobs, while research and experimentation dropped sharply.
 
 Biggest movers (change is in percentage points of jobs):
 
-| Area | Feb | Jun | Change |
+| Area | Feb | Nov | Change |
 |------|-----|-----|--------|
-| Agents and Agentic Workflows | 41.8% | 54.8% | +13.1 |
-| Security, Safety and Compliance | 35.5% | 44.9% | +9.4 |
-| Monitoring and Maintenance | 61.6% | 70.6% | +9.0 |
-| Data and Pipelines | 42.6% | 50.0% | +7.4 |
-| Integrating APIs and Services | 60.4% | 66.6% | +6.1 |
-| Research and Experimentation | 43.1% | 30.1% | -13.1 |
-| Customer and Client Work | 33.5% | 26.7% | -6.8 |
-| Fine-tuning and Training | 15.4% | 12.0% | -3.4 |
+| Agents and Agentic Workflows | 45.7% | 55.8% | +10.1 |
+| Data and Pipelines | 19.7% | 29.7% | +10.0 |
+| Evaluation and Testing | 69.4% | 79.0% | +9.6 |
+| Prompt Engineering | 15.3% | 22.8% | +7.5 |
+| Security, Safety and Compliance | 33.4% | 37.5% | +4.1 |
+| Research and Experimentation | 35.8% | 13.7% | -22.1 |
+| Deploy and Production | 83.7% | 66.5% | -17.2 |
+| Infrastructure and Platform | 68.4% | 51.4% | -17.0 |
+| Customer and Client Work | 43.0% | 28.0% | -15.0 |
+| Fine-tuning and Training | 13.7% | 7.3% | -6.5 |
 
 What this tells me:
 
-- Agents went from a common responsibility to a majority one in five months. 54.8% of AI Engineer postings now describe agentic work.
-- Production concerns grew - monitoring and security both rose around 9 points, reinforcing that the work is maturing from prototypes toward reliable, governed systems.
-- Research fell the most (-13.1 points). Fewer roles are framed around exploration and prototyping; more are framed around shipping and operating.
-- Customer-facing and fine-tuning responsibilities continued to decline, consistent with the broader pattern that the core job is building and running systems rather than client services or model training.
+- Agents went from under half of jobs to a clear majority (55.8%).
+- Evaluation and testing climbed +9.6 points to 79.0% of jobs, while prompt engineering rose +7.5 points to 22.8%.
+- Research and experimentation fell the most (-22.1 points, down to 13.7%). Fewer roles are framed around exploration and prototyping; more are framed around shipping and evaluating systems.
+- Fine-tuning and training responsibilities also declined (-6.5 points to 7.3%), consistent with the broader pattern that the core job is building and evaluating applications rather than training models.
 
 
 ## Frequency Guide
 
-I measured each responsibility area by how many of the 4,894 job descriptions it appears in, not just raw mention counts. A responsibility in 98.1% of jobs is genuinely universal; one in 2.5% is niche.
+I measured each responsibility area by how many of the 9,760 job descriptions it appears in, not just raw mention counts. A responsibility in 96.0% of jobs is genuinely universal; one in 11.0% is specialized.
 
 | Prevalence | Meaning |
 |------------|---------|
@@ -56,20 +58,20 @@ AI Engineers work under various titles. The job title alone does not reliably in
 
 The most common titles in the dataset:
 
-- AI Engineer - 222 postings; of all titles containing "AI Engineer", 91.9% are AI-First
-- Senior AI Engineer - 161 postings
-- Applied AI Engineer - 62 postings
-- AI/ML Engineer - 53 postings
-- Staff AI Engineer - 45 postings
-- Lead AI Engineer - 45 postings
-- Senior AI/ML Engineer - 40 postings
-- Principal AI Engineer - 39 postings
-- AI Product Engineer - 21 postings
-- Forward Deployed AI Engineer - 19 postings
+- AI Engineer - 458 postings; of all titles containing "AI Engineer", 91.6% of normalized base `AI Engineer` roles are AI-First
+- Senior AI Engineer - 280 postings
+- Applied AI Engineer - 105 postings
+- AI/ML Engineer - 103 postings
+- Lead AI Engineer - 90 postings
+- Staff AI Engineer - 70 postings
+- Senior AI/ML Engineer - 66 postings
+- Principal AI Engineer - 64 postings
+- Senior Applied AI Engineer - 41 postings
+- AI Product Engineer - 40 postings
 
 AI-First titles (working ON AI):
 
-- AI Engineer - Most common, 91.9% are AI-First
+- AI Engineer - Most common, 91.6% are AI-First
 - Senior AI Engineer / Lead AI Engineer / Staff / Principal AI Engineer
 - Applied AI Engineer
 - AI/ML Engineer
@@ -92,7 +94,7 @@ ML-First titles (traditional ML):
 - ML Engineer
 - Data Scientist (when doing model training, not GenAI)
 
-Overall, 72.9% of all 4,894 roles classify as AI-First, 24.5% as AI-Support, and only 1.9% as ML-First.
+Overall, 68.9% of all 9,760 roles classify as AI-First, 25.7% as AI-Support, and only 4.5% as ML-First.
 
 
 ## Problems AI Engineers Solve
@@ -104,7 +106,7 @@ Organized by the problem they address, not the technology. Grouped by how widesp
 
 ### Building AI Systems
 
-Appears in 98.1% of jobs (16,812 responsibilities).
+Appears in 96.0% of jobs (27,893 mentions).
 
 Problem: Organizations need AI systems built to solve specific business problems.
 

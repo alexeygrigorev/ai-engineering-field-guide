@@ -33,3 +33,9 @@ Append-only record of wiki operations. Each entry starts with `## [YYYY-MM-DD] <
 - The generated market wiki moved out of this repo into the AISL wiki repo ([AI-Shipping-Labs/wiki](https://github.com/AI-Shipping-Labs/wiki), `market-wiki/`) so all member-facing wiki material sits in one place
 - This repo keeps the dataset (`job-market/data_structured/`) and the synthesis (`wiki/`); the generator now runs from the wiki repo (`uv run python market-wiki/generate.py`) against this repo's dataset
 - Removed `market-wiki/` and updated the live references in [overview](overview.md), [index](index.md), [repo-content-map](answers/repo-content-map.md), and `serve_wiki.py`; the 2026-09-09 create entry above stays as history
+
+## [2026-11-13] update | refresh analyses from 9,760-job corpus (through 2026-11-06)
+
+- Re-ran `job-market/analysis.ipynb`, `charts.py`, `trends.py`, `deep_trends.py`, `deep_trends2.py`, `extract_responsibilities.py`, `extract_use_cases.py`, and supporting analysis scripts across all 10 scrapes (Feb 4 - Nov 6, 2026, 9,760 postings)
+- Updated `README.md`, `job-market/README.md`, `role/README.md`, `role/02-skills.md`, `role/03-responsibilities.md`, `role/04-use-cases.md`, `role/05-reality-vs-postings.md`, `role/06-fde.md`, `role/07-trends.md`, `role/08-trends-appendix.md`, and regenerated `job-market/images/*.png`
+- Synced wiki pages ([overview](overview.md), [index](index.md), [AGENTS.md](AGENTS.md), [summaries/role](summaries/role.md), [summaries/job-market](summaries/job-market.md), [summaries/field-guide-readme](summaries/field-guide-readme.md), [concepts/ai-engineer-role](concepts/ai-engineer-role.md), [concepts/evaluation-differentiator](concepts/evaluation-differentiator.md), [entities/alexey-grigorev](entities/alexey-grigorev.md))

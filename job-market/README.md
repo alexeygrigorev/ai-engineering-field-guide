@@ -1,6 +1,6 @@
 # Job Market Data
 
-6,964 AI Engineer job descriptions from builtin.com (February - August 2026, 8 monthly scrapes) covering LA (Global), New York, London, Amsterdam, Berlin, and India.
+9,760 AI Engineer job descriptions from builtin.com (February - November 2026, 10 monthly scrapes) covering LA (Global), New York, London, Amsterdam, Berlin, and India.
 
 For analysis and insights based on this data, see [role/](../role/).
 
@@ -14,17 +14,17 @@ For analysis and insights based on this data, see [role/](../role/).
 
 ## Highlights
 
-- 4,874 jobs (70.0%) are AI-First (RAG, agents, LLMs)
-- 1,685 jobs (24.2%) are AI-Support (platforms, infrastructure, tooling)
-- 340 jobs (4.9%) are traditional ML rebranded as "AI Engineer"
-- 2,499 unique companies, led by Capital One (120), Citi (98), Optum (90)
+- 6,721 jobs (68.9%) are AI-First (RAG, agents, LLMs)
+- 2,504 jobs (25.7%) are AI-Support (platforms, infrastructure, tooling)
+- 442 jobs (4.5%) are traditional ML rebranded as "AI Engineer"
+- 3,112 unique companies, led by Speechify (248), Capital One (195), Citi (123)
 
 Top skills:
 
-- Python (70.8%), TypeScript (19.5%), Java (17.7%)
-- RAG (39.8%), prompt engineering (34.7%), CI/CD (36.8%)
-- AWS (40.3%), Docker (24.4%), Kubernetes (24.0%)
-- LangChain (22.0%), SQL (19.1%), PyTorch (18.2%)
+- Python (71.6%), TypeScript (19.0%), Java (17.3%)
+- RAG (40.1%), prompt engineering (34.8%), CI/CD (36.9%)
+- AWS (39.3%), Docker (24.2%), Kubernetes (23.6%)
+- LangChain (21.1%), SQL (14.6%), PyTorch (17.0%)
 
 Umbrella terms like "LLMs" and "Machine Learning" are excluded from this list - the extraction prompt tags them so broadly (any GenAI-adjacent posting) that their share reflects wording, not what the job actually needs. See [_internal/analysis/common.py](_internal/analysis/common.py) for the full skill taxonomy.
 

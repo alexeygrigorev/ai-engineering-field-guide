@@ -25,7 +25,7 @@ The repo's own documents are sources too - the primary ones. They stay where the
 
 - Authored content gets summarized: root docs, `role/`, `interview/` (including `questions/`), `portfolio/`, `learning-paths/`, `webinars/`, and the `job-market/` README plus pipeline docs.
 - Data and code directories are raw research material: `job-market/data_raw/`, `job-market/data_structured/`, `job-market/_internal` scripts, `interview/data/`, `portfolio/_internal/`, `_work-in-progress/`, `.tmp/`. Reference them; never summarize them page by page. The summaries cover the documents that interpret them.
-- Numbers extracted from the job-market dataset are tied to a scrape window (Feb 4 - Aug 25, 2026, eight monthly scrapes of builtin.com) - cite the window and the analysis file, since each monthly scrape is a fresh cross-section of the market.
+- Numbers extracted from the job-market dataset are tied to a scrape window (Feb 4 - Nov 6, 2026, 10 monthly scrapes of builtin.com) - cite the window and the analysis file, since each monthly scrape is a fresh cross-section of the market.
 
 ## Rules
 
