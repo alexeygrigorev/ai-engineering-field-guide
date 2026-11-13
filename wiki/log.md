@@ -39,3 +39,9 @@ Append-only record of wiki operations. Each entry starts with `## [YYYY-MM-DD] <
 - Re-ran `job-market/analysis.ipynb`, `charts.py`, `trends.py`, `deep_trends.py`, `deep_trends2.py`, `extract_responsibilities.py`, `extract_use_cases.py`, and supporting analysis scripts across all 10 scrapes (Feb 4 - Nov 6, 2026, 9,760 postings)
 - Updated `README.md`, `job-market/README.md`, `role/README.md`, `role/02-skills.md`, `role/03-responsibilities.md`, `role/04-use-cases.md`, `role/05-reality-vs-postings.md`, `role/06-fde.md`, `role/07-trends.md`, `role/08-trends-appendix.md`, and regenerated `job-market/images/*.png`
 - Synced wiki pages ([overview](overview.md), [index](index.md), [AGENTS.md](AGENTS.md), [summaries/role](summaries/role.md), [summaries/job-market](summaries/job-market.md), [summaries/field-guide-readme](summaries/field-guide-readme.md), [concepts/ai-engineer-role](concepts/ai-engineer-role.md), [concepts/evaluation-differentiator](concepts/evaluation-differentiator.md), [entities/alexey-grigorev](entities/alexey-grigorev.md))
+
+## [2026-11-13] lint | complete 9,760-job refresh across remaining role, learning-paths, portfolio, and wiki pages
+
+- Completed the remaining category, domain, and word-count updates in `role/03-responsibilities.md` (all 17 responsibility categories, Key Insights, and top words) and `role/04-use-cases.md` (remaining 8 use-case categories, 7 domains served, Key Insights, and top words)
+- Restored the 8-bullet FDE responsibility breakdown for the 277 unique FDE roles in `role/06-fde.md` and documented the 277 vs 287 pattern difference with `role/07-trends.md` / `role/08-trends-appendix.md`
+- Updated stale 895-job and 4,894-job figures in `role/01-my-vision.md`, `role/05-reality-vs-postings.md`, `learning-paths/README.md`, `portfolio/01-types-of-projects.md`, `portfolio/02-how-to-pick-a-project.md`, [concepts/portfolio-projects](concepts/portfolio-projects.md), and [summaries/portfolio](summaries/portfolio.md)

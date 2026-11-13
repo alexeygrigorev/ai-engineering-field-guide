@@ -122,7 +122,7 @@ Concrete examples:
 
 ### Making Decisions from Data
 
-3,300 mentions (13.5%); appears in 43.0% of jobs.
+4,716 mentions (10.8%); appears in 33.0% of jobs.
 
 Problem: Companies have data but cannot extract insights or make data-driven decisions quickly enough.
 
@@ -140,7 +140,7 @@ Concrete examples:
 
 ### Finding Information in Company Data
 
-3,089 mentions (12.6%); appears in 43.8% of jobs.
+3,899 mentions (8.9%); appears in 32.5% of jobs.
 
 Problem: Companies have massive amounts of documents, knowledge bases, and data. Employees cannot find what they need. Keyword search is not enough.
 
@@ -158,7 +158,7 @@ Concrete examples:
 
 ### Answering Customer Questions at Scale
 
-2,754 mentions (11.2%); appears in 36.4% of jobs.
+6,026 mentions (13.8%); appears in 41.3% of jobs.
 
 Problem: Companies have too many customer inquiries for human support teams. Customers expect instant, 24/7, personalized responses.
 
@@ -176,7 +176,7 @@ Concrete examples:
 
 ### Creating Content at Scale
 
-2,281 mentions (9.3%); appears in 33.4% of jobs.
+4,802 mentions (11.0%); appears in 34.6% of jobs.
 
 Problem: Marketing, education, and content teams need to produce large amounts of text, images, audio, and video.
 
@@ -193,7 +193,7 @@ Concrete examples:
 
 ### Ensuring AI Quality and Safety
 
-1,298 mentions (5.3%); appears in 20.0% of jobs.
+4,305 mentions (9.8%); appears in 31.4% of jobs.
 
 Problem: AI systems can hallucinate, produce unsafe content, or behave unpredictably. Companies need to ensure quality and safety.
 
@@ -210,7 +210,7 @@ Concrete examples:
 
 ### Personalizing User Experiences
 
-717 mentions (2.9%); appears in 12.0% of jobs.
+877 mentions (2.0%); appears in 8.0% of jobs.
 
 Problem: Users want relevant recommendations, not generic content. One-size-fits-all doesn't work.
 
@@ -227,7 +227,7 @@ Concrete examples:
 
 ### Helping Developers Write Code
 
-575 mentions (2.3%); appears in 9.5% of jobs.
+1,641 mentions (3.7%); appears in 11.1% of jobs.
 
 Problem: Developer productivity is limited by repetitive coding tasks, debugging, and learning new APIs.
 
@@ -244,7 +244,7 @@ Concrete examples:
 
 ### Handling Specialized Domain Knowledge
 
-250 mentions (1.0%); appears in 5.0% of jobs.
+402 mentions (0.9%); appears in 4.0% of jobs.
 
 Problem: Generic models don't understand industry-specific language, regulations, or knowledge.
 
@@ -263,7 +263,7 @@ Concrete examples:
 
 Based on the use cases, AI is being applied across virtually all industries. Counts below are use cases that mention each domain.
 
-### Finance (2,321 mentions, 9.5%)
+### Finance (3,877 mentions, 8.8%)
 
 - Fraud detection
 - Risk assessment and underwriting
@@ -271,7 +271,7 @@ Based on the use cases, AI is being applied across virtually all industries. Cou
 - Claims processing automation
 - Revenue operations and lead management
 
-### Healthcare (1,783 mentions, 7.3%)
+### Healthcare (2,380 mentions, 5.4%)
 
 - Clinical decision support for physicians
 - Medical literature search over millions of articles
@@ -279,7 +279,7 @@ Based on the use cases, AI is being applied across virtually all industries. Cou
 - Medical documentation and note generation
 - Patient engagement and follow-up care
 
-### Legal / Regulatory (1,094 mentions, 4.5%)
+### Legal / Regulatory (1,798 mentions, 4.1%)
 
 - Contract review and analysis
 - Legal document processing
@@ -287,23 +287,7 @@ Based on the use cases, AI is being applied across virtually all industries. Cou
 - Legal research assistance
 - Regulatory document intelligence
 
-### Cybersecurity (1,028 mentions, 4.2%)
-
-- Threat detection and analysis
-- Alert summarization for security defenders
-- Malware classification
-- Automated security reasoning
-- Attack prevention
-
-### Education (571 mentions, 2.3%)
-
-- Personalized learning recommendations
-- Automated grading and feedback
-- Educational content generation
-- Student engagement systems
-- Course recommendation
-
-### Manufacturing / Industrial (533 mentions, 2.2%)
+### Manufacturing / Industrial (1,490 mentions, 3.4%)
 
 - Robotics and automation
 - Supply chain optimization
@@ -311,7 +295,23 @@ Based on the use cases, AI is being applied across virtually all industries. Cou
 - Predictive maintenance
 - Process automation
 
-### Retail / E-commerce (226 mentions, 0.9%)
+### Education (1,349 mentions, 3.1%)
+
+- Personalized learning recommendations
+- Automated grading and feedback
+- Educational content generation
+- Student engagement systems
+- Course recommendation
+
+### Cybersecurity (1,317 mentions, 3.0%)
+
+- Threat detection and analysis
+- Alert summarization for security defenders
+- Malware classification
+- Automated security reasoning
+- Attack prevention
+
+### Retail / E-commerce (665 mentions, 1.5%)
 
 - Product recommendations
 - Semantic search for products
@@ -324,15 +324,15 @@ Based on the use cases, AI is being applied across virtually all industries. Cou
 
 ### 1. Automation is the Primary Use Case
 
-The most common problem AI solves is automating manual workflows - 5,848 mentions (23.9%), appearing in 69.0% of jobs. This is not glamorous; it's about reducing repetitive work, coordinating processes, and handling scale.
+The most common problem AI solves is automating manual workflows - 9,056 mentions (20.7%), appearing in 58.8% of jobs. This is not glamorous; it's about reducing repetitive work, coordinating processes, and handling scale.
 
 ### 2. Enterprise Operations Are Nearly as Large
 
-Internal operational efficiency is the second biggest category at 21.3% - risk, compliance, revenue operations, fraud, and claims. Enterprise AI is a dominant theme, not a niche.
+Internal operational efficiency is the largest category by mentions at 9,866 (22.5%), appearing in 57.5% of jobs - risk, compliance, revenue operations, fraud, and claims. Enterprise AI is a dominant theme, not a niche.
 
 ### 3. Agents Went Mainstream
 
-Agentic systems account for 15.5% of use cases and appear in 49.4% of jobs. Roughly half of all postings now describe multi-agent, tool-using systems - a clear shift from the earlier "single LLM call" pattern.
+Agentic systems account for 17.7% of use cases (7,749 mentions) and appear in 49.9% of jobs. Roughly half of all postings now describe multi-agent, tool-using systems - a clear shift from the earlier "single LLM call" pattern.
 
 ### 4. Knowledge Access is Universal
 
@@ -340,34 +340,34 @@ Every domain has the same problem: too much information, cannot find what's need
 
 ### 5. Customer Support is a Major Driver
 
-Customer-facing solutions are 11.2% of use cases because they directly impact revenue and customer satisfaction. The ROI is clear: reduce support costs while improving response times.
+Customer-facing solutions are 13.8% of use cases (6,026 mentions, 41.3% of jobs) because they directly impact revenue and customer satisfaction. The ROI is clear: reduce support costs while improving response times.
 
 ### 6. Production is Hard
 
-13.7% of use cases focus on deployment infrastructure. This reflects the real challenge of getting AI models from notebooks to production reliably.
+11.4% of use cases (4,993 mentions, 37.5% of jobs) focus on deploying AI to production reliably. This reflects the real challenge of getting AI models from notebooks to production.
 
 ### 7. Domain Specialization is Niche but High-Value
 
-Only 1.0% of use cases involve fine-tuned models for specific domains (insurance, legal, cybersecurity, fintech). Few in number, but they represent high-value applications where generic models are insufficient.
+Only 0.9% of use cases (402 mentions, 4.0% of jobs) involve fine-tuned models for specific domains (insurance, legal, cybersecurity, fintech). Few in number, but they represent high-value applications where generic models are insufficient.
 
 
 ## Most Common Words in Use Cases
 
-- data: 2,866 mentions
-- systems: 2,514 mentions
-- automation: 2,499 mentions
-- enterprise: 2,283 mentions
-- workflows: 1,957 mentions
-- ai-powered: 1,548 mentions
-- applications: 1,518 mentions
-- business: 1,393 mentions
-- agents: 1,093 mentions
-- solutions: 1,090 mentions
-- customer: 1,051 mentions
-- agentic: 1,042 mentions
-- platform: 1,017 mentions
-- operations: 956 mentions
-- intelligent: 898 mentions
-- financial: 885 mentions
+- data: 5,555 mentions
+- enterprise: 4,576 mentions
+- workflows: 3,668 mentions
+- automation: 3,483 mentions
+- systems: 2,961 mentions
+- agents: 2,717 mentions
+- business: 2,613 mentions
+- applications: 2,574 mentions
+- platform: 2,495 mentions
+- agentic: 2,137 mentions
+- production: 1,970 mentions
+- customer: 1,780 mentions
+- internal: 1,729 mentions
+- solutions: 1,676 mentions
+- agent: 1,557 mentions
+- model: 1,541 mentions
 
 The language emphasizes practical value: systems, automation, workflows, business outcomes - not just technology.

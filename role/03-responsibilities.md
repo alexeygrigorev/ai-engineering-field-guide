@@ -129,9 +129,33 @@ Sub-patterns:
 Core challenge: Translating business problems into working AI systems that are reliable, scalable, and maintainable.
 
 
+### Collaboration and Communication
+
+Appears in 81.0% of jobs (14,455 mentions).
+
+Problem: AI Engineers cannot work in isolation. They must collaborate with product, data, engineering, and business teams.
+
+What AI Engineers do:
+
+- Collaborate with engineers and product managers to formulate hypotheses, solutions, and desired outcomes
+- Collaborate with business teams to identify automation opportunities and translate requirements into technical work
+- Partner with algorithms team on integration with signal processing and computer vision pipelines
+- Synthesize stakeholder input, visualize results, and communicate findings to leadership
+
+Sub-patterns:
+
+- Cross-Functional Collaboration - Work with engineers, researchers, product managers, domain experts
+- Stakeholder Management - Elicit requirements, manage expectations, prioritize requests
+- Technical Leadership - Mentorship, code reviews, raising technical bar, knowledge sharing
+- Documentation - Maintain docs for models, processes, workflows, best practices
+- Client Communication - Technical sales cycles, solution architecture, customer feedback
+
+Core challenge: Bridging technical and non-technical communication while managing competing priorities.
+
+
 ### Productionizing AI
 
-Deploy/production in 78.3% of jobs; monitoring/maintenance in 64.3%.
+Deploy/production in 77.8% of jobs (14,574 mentions); monitoring/maintenance in 63.8% (10,052 mentions).
 
 Problem: AI that works in notebooks often fails in production. Reliability, scalability, and monitoring are hard.
 
@@ -156,7 +180,7 @@ Core challenge: Making probabilistic AI systems reliable enough for production u
 
 ### Evaluation and Quality
 
-Appears in 68.5% of jobs (5,959 responsibilities).
+Appears in 71.3% of jobs (12,132 mentions).
 
 Problem: AI systems can hallucinate, produce biased outputs, or fail unexpectedly. Quality assurance is critical.
 
@@ -204,7 +228,7 @@ Core challenge: Building reliable applications on top of third-party APIs and in
 
 ### Infrastructure and Platforms
 
-Appears in 69.2% of jobs (6,076 responsibilities).
+Appears in 64.6% of jobs (10,917 mentions).
 
 Problem: AI requires specialized infrastructure - GPU clusters, MLOps tooling, scalable platforms.
 
@@ -227,33 +251,9 @@ Sub-patterns:
 Core challenge: Building flexible platforms that accommodate diverse use cases while maintaining stability amid rapid AI evolution.
 
 
-### Collaboration and Communication
-
-Appears in 68.2% of jobs (4,184 responsibilities).
-
-Problem: AI Engineers cannot work in isolation. They must collaborate with product, data, engineering, and business teams.
-
-What AI Engineers do:
-
-- Collaborate with engineers and product managers to formulate hypotheses, solutions, and desired outcomes
-- Collaborate with business teams to identify automation opportunities and translate requirements into technical work
-- Partner with algorithms team on integration with signal processing and computer vision pipelines
-- Synthesize stakeholder input, visualize results, and communicate findings to leadership
-
-Sub-patterns:
-
-- Cross-Functional Collaboration - Work with engineers, researchers, product managers, domain experts
-- Stakeholder Management - Elicit requirements, manage expectations, prioritize requests
-- Technical Leadership - Mentorship, code reviews, raising technical bar, knowledge sharing
-- Documentation - Maintain docs for models, processes, workflows, best practices
-- Client Communication - Technical sales cycles, solution architecture, customer feedback
-
-Core challenge: Bridging technical and non-technical communication while managing competing priorities.
-
-
 ### Performance Optimization
 
-Appears in 57.2% of jobs (4,280 responsibilities).
+Appears in 63.9% of jobs (9,843 mentions).
 
 Problem: AI systems can be slow, expensive, or unreliable. Optimization is necessary for production use.
 
@@ -274,34 +274,9 @@ Sub-patterns:
 Core challenge: Reducing latency while maintaining quality, managing compute costs, and optimizing for different deployment environments.
 
 
-## Common
-
-### Data Processing
-
-Appears in 49.0% of jobs (3,667 responsibilities).
-
-Problem: AI systems need clean, well-structured data. Data processing is foundational work.
-
-What AI Engineers do:
-
-- Design and implement scalable ML/AI systems and pipelines
-- Implement data processing pipelines for cleaning, transformation, chunking, and embedding generation
-- Work with large spans of datasets including image, video, audio, text, and structured data
-- Work with large datasets of IT operational data including data cleaning and feature engineering
-
-Sub-patterns:
-
-- Data Ingestion - Build pipelines for ingesting diverse data types and sources
-- Data Transformation - Preprocess, clean, and transform raw data for AI applications
-- Dataset Management - Curate, version, and maintain datasets for training and evaluation
-- Data Quality - Implement validation, cleaning, and quality checks
-
-Core challenge: Ensuring data quality at scale while handling diverse formats and maintaining pipeline reliability.
-
-
 ### Agents and Agentic Workflows
 
-Appears in 48.4% of jobs (4,630 responsibilities).
+Appears in 53.3% of jobs (10,274 mentions).
 
 Problem: Companies want AI that can take actions, not just generate text. Agents need orchestration, memory, and tools.
 
@@ -316,9 +291,11 @@ What AI Engineers do:
 Core challenge: Designing agents that can reliably plan multi-step tasks, maintain coherent context, handle failures gracefully, and coordinate between multiple specialized agents.
 
 
+## Common
+
 ### RAG and Retrieval
 
-Appears in 42.0% of jobs (2,704 responsibilities).
+Appears in 41.1% of jobs (5,214 mentions).
 
 Problem: Companies need AI that can access their proprietary data. Keyword search is not enough.
 
@@ -343,7 +320,7 @@ Core challenge: Achieving accurate semantic retrieval at scale while handling do
 
 ### Security and Compliance
 
-Appears in 40.1% of jobs (2,777 responsibilities).
+Appears in 38.8% of jobs (5,552 mentions).
 
 Problem: AI systems can pose security, privacy, and compliance risks. These must be addressed.
 
@@ -364,25 +341,9 @@ Sub-patterns:
 Core challenge: Balancing security with usability, ensuring compliance across jurisdictions, and protecting against AI-specific threats.
 
 
-### Research and Experimentation
-
-Appears in 34.9% of jobs (2,377 responsibilities).
-
-Problem: AI technology evolves rapidly. Companies need to experiment with new techniques and stay current.
-
-What AI Engineers do:
-
-- Continuously research AI advancements, multi-agent orchestration, and agentic autonomy
-- Collaborate with ML Scientists and Data Scientists to transition prototypes and models into production
-- Design, develop, and test AI/ML prototypes to address business needs
-- Build infrastructure for managing experiments, simulations, and results
-
-Core challenge: Balancing experimental innovation with production reliability while keeping pace with rapid technological change.
-
-
 ### Working with Customers
 
-Appears in 26.8% of jobs (2,328 responsibilities).
+Appears in 35.4% of jobs (5,791 mentions).
 
 Problem: AI solutions must be delivered to actual customers. This requires understanding their needs and ensuring success.
 
@@ -398,9 +359,64 @@ Core challenge: Translating technical concepts for business audiences, managing 
 
 ## Uncommon
 
+### Data Processing
+
+Appears in 23.2% of jobs (3,161 mentions).
+
+Problem: AI systems need clean, well-structured data. Data processing is foundational work.
+
+What AI Engineers do:
+
+- Design and implement scalable ML/AI systems and pipelines
+- Implement data processing pipelines for cleaning, transformation, chunking, and embedding generation
+- Work with large spans of datasets including image, video, audio, text, and structured data
+- Work with large datasets of IT operational data including data cleaning and feature engineering
+
+Sub-patterns:
+
+- Data Ingestion - Build pipelines for ingesting diverse data types and sources
+- Data Transformation - Preprocess, clean, and transform raw data for AI applications
+- Dataset Management - Curate, version, and maintain datasets for training and evaluation
+- Data Quality - Implement validation, cleaning, and quality checks
+
+Core challenge: Ensuring data quality at scale while handling diverse formats and maintaining pipeline reliability.
+
+
+### Prompt Engineering
+
+Appears in 21.5% of jobs (2,566 mentions).
+
+Problem: Getting reliable behavior from LLMs requires deliberate prompt design, treated as an engineering discipline rather than ad hoc writing.
+
+What AI Engineers do:
+
+- Develop and maintain prompt engineering frameworks, evaluation pipelines, and feedback loops
+- Own prompt engineering and evaluation, treating evals and prompts as code
+- Implement prompt engineering patterns, RAG pipelines, and tool-augmented agents using established frameworks
+- Optimize prompt engineering strategies and model interactions for accuracy and performance
+
+Core challenge: Making prompts reproducible, versioned, and testable rather than fragile one-off strings.
+
+
+### Research and Experimentation
+
+Appears in 21.4% of jobs (2,920 mentions).
+
+Problem: AI technology evolves rapidly. Companies need to experiment with new techniques and stay current.
+
+What AI Engineers do:
+
+- Continuously research AI advancements, multi-agent orchestration, and agentic autonomy
+- Collaborate with ML Scientists and Data Scientists to transition prototypes and models into production
+- Design, develop, and test AI/ML prototypes to address business needs
+- Build infrastructure for managing experiments, simulations, and results
+
+Core challenge: Balancing experimental innovation with production reliability while keeping pace with rapid technological change.
+
+
 ### Frontend and User Interfaces
 
-Appears in 17.1% of jobs (1,112 responsibilities).
+Appears in 16.4% of jobs (2,112 mentions).
 
 Problem: AI capabilities need user-friendly interfaces. Chatbots, dashboards, and web applications are how users interact with AI.
 
@@ -418,7 +434,7 @@ Core challenge: Making AI capabilities accessible through intuitive interfaces w
 
 ### Fine-tuning Models
 
-Appears in 13.8% of jobs (769 responsibilities).
+Appears in 11.0% of jobs (1,144 mentions).
 
 Problem: Generic models do not always work for specialized use cases. Fine-tuning can improve performance on specific tasks.
 
@@ -432,25 +448,9 @@ What AI Engineers do:
 Core challenge: Acquiring quality training data, avoiding catastrophic forgetting, and measuring improvement effectively.
 
 
-### Prompt Engineering
-
-Appears in 10.0% of jobs (501 responsibilities).
-
-Problem: Getting reliable behavior from LLMs requires deliberate prompt design, treated as an engineering discipline rather than ad hoc writing.
-
-What AI Engineers do:
-
-- Develop and maintain prompt engineering frameworks, evaluation pipelines, and feedback loops
-- Own prompt engineering and evaluation, treating evals and prompts as code
-- Implement prompt engineering patterns, RAG pipelines, and tool-augmented agents using established frameworks
-- Optimize prompt engineering strategies and model interactions for accuracy and performance
-
-Core challenge: Making prompts reproducible, versioned, and testable rather than fragile one-off strings.
-
-
 ### Self-Hosting Models
 
-Appears in 2.5% of jobs (134 responsibilities).
+Appears in 3.1% of jobs (338 mentions).
 
 Problem: Some companies cannot use provider APIs due to privacy, cost, or latency requirements.
 
@@ -480,44 +480,46 @@ When self-hosting is necessary:
 
 ### 1. Building is the Primary Responsibility
 
-Building systems appears in 98.1% of jobs. AI Engineers are builders first and foremost.
+Building systems appears in 96.0% of jobs. AI Engineers are builders first and foremost.
 
 ### 2. Production is a Major Responsibility
 
-When you combine deployment (78.3%), monitoring (64.3%), and infrastructure (69.2%), productionizing AI is most of the work - much larger than initially apparent.
+When you combine deployment (77.8%), monitoring (63.8%), and infrastructure (64.6%), productionizing AI is most of the work - much larger than initially apparent.
 
 ### 3. Quality is Not Optional
 
-Evaluation and quality appear in 68.5% of jobs. AI Engineers are expected to build systems that work reliably and safely.
+Evaluation and quality appear in 71.3% of jobs. AI Engineers are expected to build systems that work reliably and safely.
 
 ### 4. APIs and Integration Dominate Over Self-Hosting
 
-Integrating APIs and services appears in 62.4% of jobs, while self-hosting models appears in only 2.5%. The market overwhelmingly uses provider APIs rather than running its own inference infrastructure.
+Integrating APIs and services appears in 55.8% of jobs, while self-hosting models appears in only 3.1%. The market overwhelmingly uses provider APIs rather than running its own inference infrastructure.
 
 ### 5. RAG and Agents are Mainstream
 
-RAG/retrieval (42.0%) and agents (48.4%) are now standard responsibilities, not niche. Roughly half of all AI Engineers work on agentic systems.
+RAG/retrieval (41.1%) and agents (53.3%) are now standard responsibilities, not niche. Over half of all AI Engineers work on agentic systems.
 
 ### 6. Fine-tuning is Uncommon
 
-Despite the hype, fine-tuning appears in only 13.8% of jobs and prompt engineering in 10.0%. Most roles use existing models with RAG, prompting, and integration rather than training or tuning.
+Despite the hype, fine-tuning appears in only 11.0% of jobs and prompt engineering in 21.5%. Most roles use existing models with RAG, prompting, and integration rather than training or tuning.
 
 
 ## Most Common Words in Responsibilities
 
-- data: 4,740 mentions
-- build: 4,281 mentions
-- systems: 3,853 mentions
-- design: 3,764 mentions
-- implement: 2,780 mentions
-- teams: 2,660 mentions
-- develop: 2,582 mentions
-- workflows: 2,351 mentions
-- models: 2,185 mentions
-- product: 2,159 mentions
-- collaborate: 2,115 mentions
-- pipelines: 2,026 mentions
-- maintain: 1,879 mentions
-- production: 1,819 mentions
+- build: 10,028 mentions
+- data: 9,591 mentions
+- design: 7,448 mentions
+- systems: 6,689 mentions
+- technical: 5,403 mentions
+- solutions: 5,351 mentions
+- develop: 4,880 mentions
+- workflows: 4,537 mentions
+- teams: 4,514 mentions
+- engineering: 4,403 mentions
+- product: 4,239 mentions
+- implement: 4,238 mentions
+- model: 4,234 mentions
+- production: 4,127 mentions
+- models: 4,045 mentions
+- pipelines: 4,009 mentions
 
 The language emphasizes action: build, design, implement, collaborate, deploy.

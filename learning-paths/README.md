@@ -1,6 +1,6 @@
 # Learning Path for AI Engineers
 
-What to learn and in what order, based on skill demand from 895 job descriptions and the [AI Engineering Buildcamp](https://maven.com/alexey-grigorev/from-rag-to-agents) curriculum.
+What to learn and in what order, based on skill demand from 9,760 job descriptions and the [AI Engineering Buildcamp](https://maven.com/alexey-grigorev/from-rag-to-agents) curriculum.
 
 
 ## Core Skills
@@ -71,7 +71,7 @@ Based on the [job market research](../role/02-skills.md). These are not covered 
 
 ### Python and Software Engineering
 
-- Python is mandatory - used in 82.5% of jobs
+- Python is mandatory - used in 71.6% of jobs
 - Testing, CI/CD, code quality - expected of every engineer
 - Git workflows and code review
 
@@ -95,7 +95,7 @@ Based on the [job market research](../role/02-skills.md). These are not covered 
 
 ### ML Fundamentals
 
-- PyTorch basics - 22.0% of AI-First roles
+- PyTorch basics - 18.8% of AI-First roles
 - Embeddings - understanding vector representations
 - Fine-tuning - when API-based models are not enough
 - Model evaluation - traditional ML metrics

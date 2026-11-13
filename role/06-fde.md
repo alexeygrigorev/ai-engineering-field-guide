@@ -55,7 +55,16 @@ The other employers cover many sectors. We found the title at model companies an
 
 ## Customer work plus production ownership
 
-We extracted and classified the responsibilities in every matched posting.
+We extracted and classified the responsibilities in every matched posting:
+
+- 275 postings, or 99%, mention building or deploying production systems
+- 251, or 91%, mention working directly with customers or clients
+- 232, or 84%, mention integrating systems, APIs, or data
+- 192, or 69%, mention scoping requirements or running discovery
+- 183, or 66%, mention evaluation, testing, or monitoring
+- 175, or 63%, mention feeding field lessons into the product
+- 112, or 40%, mention prototypes, proofs of concept, or demos
+- 69, or 25%, mention travel or onsite work
 
 The combination is more revealing than any individual responsibility. An FDE doesn't just demo a product or advise a customer. Employers expect the engineer to discover the problem, integrate the customer's systems, write production code, and stay responsible for whether the result works.
 
@@ -114,6 +123,6 @@ AI companies need engineers who can bridge the gap between a working demo and a 
 
 We analyzed the 10 scrape snapshots in [`job-market/_internal/data/scrapes`](../job-market/_internal/data/scrapes/) from February 4 through November 6, 2026.
 
-For the trend, we matched titles containing `FDE` or `forward deploy`, without case sensitivity. We calculated the role profile from the 277 matching job IDs in the [deduplicated dataset](../job-market/_internal/data/all_jobs_dedup.csv) and their latest available records in [`job-market/data_structured`](../job-market/data_structured/).
+For the trend, we matched titles containing `FDE` or `forward deploy`, without case sensitivity. We calculated the role profile from the 277 matching job IDs in the [deduplicated dataset](../job-market/_internal/data/all_jobs_dedup.csv) and their latest available records in [`job-market/data_structured`](../job-market/data_structured/). (Note: [trends](07-trends.md) and the [trends appendix](08-trends-appendix.md) also match hyphenated `forward-deployed` titles, which brings the total to 287 postings.)
 
-The customer-facing and management figures come from the structured classifications produced by the Field Guide pipeline.
+The responsibility figures use keyword groups across the structured responsibility bullets. The customer-facing and management figures come from the structured classifications produced by the Field Guide pipeline.
