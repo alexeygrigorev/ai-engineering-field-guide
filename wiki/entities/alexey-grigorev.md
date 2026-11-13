@@ -7,7 +7,7 @@ Author and maintainer of the AI Engineering Field Guide and every document in it
 
 ## Roles and channels
 
-- Author of the field guide: designed and runs the [job-market pipeline](../summaries/job-market.md) (6,964 postings over eight scrapes), and wrote the role, interview, portfolio, and learning-path analyses from it
+- Author of the field guide: designed and runs the [job-market pipeline](../summaries/job-market.md) (9,760 postings over 10 scrapes), and wrote the role, interview, portfolio, and learning-path analyses from it
 - Instructor: [AI Engineering Buildcamp: From RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents) (Maven, 9 weeks) - the curriculum the [portfolio bar](../concepts/portfolio-projects.md) is grounded in
 - Community: founder of [AI Shipping Labs](https://aishippinglabs.com/); newsletter at [AI Shipping Blog](https://aishippinglabs.com/); connected to DataTalks.Club (LLM Zoomcamp)
 - Host of the five webinars summarized in [webinars](../summaries/webinars.md) (Feb-Jun 2026)

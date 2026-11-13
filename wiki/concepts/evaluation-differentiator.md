@@ -4,10 +4,10 @@ The single most repeated claim across the repo: anyone can build a chatbot; comp
 
 ## The demand side (job market)
 
-- 59.7% of AI-First roles explicitly require evaluation-related skills - the majority all eight scrapes of 2026, peaking at 65.2% in July ([role/02-skills.md](../../role/02-skills.md))
-- "Evaluat" appears in 3,309 of 50,326 extracted responsibilities - broader demand than skill lists show
-- Evaluation and quality is a very-common responsibility category: 68.5% of jobs ([role/03-responsibilities.md](../../role/03-responsibilities.md))
-- Eval tooling is migrating from classic MLOps (MLflow, Kubeflow, declining) to LLM-native (LangSmith, Langfuse, Guardrails, rising 26.7% to 30.1%) ([role/07-trends.md](../../role/07-trends.md))
+- 61.8% of AI-First roles explicitly require evaluation-related skills - the majority all 10 scrapes of 2026, climbing to 69.3% in November ([role/02-skills.md](../../role/02-skills.md))
+- "Evaluat" appears in 4,797 of 69,498 extracted responsibilities - broader demand than skill lists show
+- Evaluation and testing is a very-common responsibility category: 71.3% of jobs ([role/03-responsibilities.md](../../role/03-responsibilities.md))
+- Eval tooling is migrating from classic MLOps (MLflow, Kubeflow, declining) to LLM-native (LangSmith, Langfuse, Guardrails, rising 26.7% to 34.5%) ([role/07-trends.md](../../role/07-trends.md))
 
 ## The hiring side
 

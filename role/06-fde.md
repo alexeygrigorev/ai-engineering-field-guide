@@ -1,10 +1,10 @@
 # Forward Deployed Engineers: What Our Job Data Shows
 
-Forward Deployed Engineer (FDE) is one of the fastest-growing titles in our AI engineering job data. We found 28 live FDE listings in February 2026 and 118 in July, a 4.2x increase in less than six months.
+Forward Deployed Engineer (FDE) is one of the fastest-growing titles in our AI engineering job data. We found 28 live FDE listings in February 2026 and 164 in November, a 5.9x increase across 10 monthly scrapes.
 
 We're writing a longer article about this FDE trend for Substack. [Subscribe on Substack](https://aishippingblog.com/) if you want to read it when it comes out.
 
-The rest of the AI engineering market grew too, but much more slowly. Our full scrape grew 2.3x over the same period. FDE roles also increased from 2.0% to 3.6% of all listings.
+The rest of the AI engineering market grew too, but more slowly. Our full scrape grew 3.4x over the same period. FDE roles also increased from 2.0% to 3.4% of all listings.
 
 We use only data collected by the [AI Engineering Field Guide](../job-market/README.md).
 
@@ -14,11 +14,11 @@ We analyze the job titles and structured descriptions from our scrapes to answer
 - What do FDEs do?
 - Which skills do employers want?
 
-## FDE listings grew 4.2x
+## FDE listings grew 5.9x
 
 We count a listing as an FDE role when its title contains `FDE` or `forward deploy`.
 
-Across our seven scrapes, we found:
+Across our 10 scrapes, we found:
 
 | Scrape date | All AI engineering listings | FDE listings | FDE share |
 |---|---:|---:|---:|
@@ -29,78 +29,72 @@ Across our seven scrapes, we found:
 | 2026-05-29 | 2,751 | 80 | 2.9% |
 | 2026-06-25 | 3,024 | 108 | 3.6% |
 | 2026-07-22 | 3,320 | 118 | 3.6% |
+| 2026-08-25 | 3,946 | 140 | 3.5% |
+| 2026-09-23 | 3,909 | 127 | 3.2% |
+| 2026-11-06 | 4,825 | 164 | 3.4% |
 
-The headline count grew by 321%, from 28 to 118. The full market grew by 134%, from 1,416 to 3,320.
+The headline count grew by 486%, from 28 to 164. The full market grew by 241%, from 1,416 to 4,825.
 
-FDE hiring grew about 1.8 times faster than the market in our dataset. The title is still a small part of the market, but it's no longer a rounding error.
+FDE hiring grew about 1.7 times faster than the market in our dataset. The title is still a small part of the market, but it's no longer a rounding error.
 
 These counts measure live listings in each scrape, and the same vacancy can appear on more than one date. We use the per-scrape figures for the trend and a separate deduplicated dataset to study the jobs.
 
-## We found 146 unique FDE roles
+## We found 277 unique FDE roles
 
-After deduplicating by job ID, we found 146 FDE positions from 94 companies.
+After deduplicating by job ID, we found 277 FDE positions from 159 companies.
 
 No single company dominates the sample:
 
-- Databricks has five unique listings
-- Mistral AI, Stord, Thomson Reuters, and Truelogic Software have four each
-- Anthropic, Invisible Technologies, NewRocket, OneStream Software, and Turing have three each
+- NewRocket has 12 unique listings
+- Databricks has nine unique listings
+- Thomson Reuters has seven
+- Blue Machines AI, IFS, and Turing have six each
+- Mistral AI, OneStream Software, Stord, and Tiger Analytics have four each
 
 The other employers cover many sectors. We found the title at model companies and data platforms. We also found it at enterprise software vendors, consulting firms, logistics companies, and healthcare businesses. FDE isn't limited to frontier AI labs.
 
 ## Customer work plus production ownership
 
-We extracted and classified the responsibilities in every matched posting:
+We extracted and classified the responsibilities in every matched posting.
 
-- 132 postings, or 90%, mention building or deploying production systems
-- 129, or 88%, mention working directly with customers or clients
-- 94, or 64%, mention integrating systems, APIs, or data
-- 76, or 52%, mention scoping requirements or running discovery
-- 71, or 49%, mention evaluation, testing, or monitoring
-- 45, or 31%, mention feeding field lessons into the product
-- 42, or 29%, mention prototypes, proofs of concept, or demos
-- 13, or 9%, mention travel or onsite work
+The combination is more revealing than any individual responsibility. An FDE doesn't just demo a product or advise a customer. Employers expect the engineer to discover the problem, integrate the customer's systems, write production code, and stay responsible for whether the result works.
 
-The combination is more revealing than any individual number. An FDE doesn't just demo a product or advise a customer. Employers expect the engineer to discover the problem, integrate the customer's systems, write production code, and stay responsible for whether the result works.
-
-Our structured classifier marks 133 of the 146 roles, or 91%, as customer-facing. Only 16 roles, or 11%, are management positions. FDE is primarily an individual-contributor engineering role with unusually high customer exposure.
+Our structured classifier marks 239 of the 277 roles, or 86.3%, as customer-facing. Only 4 roles, or 1.4%, are management positions. FDE is primarily an individual-contributor engineering role with unusually high customer exposure.
 
 ## The skill profile is applied, not research-heavy
 
-Python appears in 91% of the postings.
+LLMs and Python lead the postings, followed by agents, RAG, and cloud delivery skills:
 
-Prompt engineering and RAG come next, followed by cloud and delivery skills:
-
-- Python: 133 postings, or 91%
-- Prompt engineering: 80, or 55%
-- RAG: 76, or 52%
-- AWS: 68, or 47%
-- LLMs: 63, or 43%
-- AI agents: 62, or 42%
-- Docker: 59, or 40%
-- GCP: 55, or 38%
-- Kubernetes: 51, or 35%
-- Azure: 50, or 34%
-- CI/CD: 49, or 34%
-- LangChain: 48, or 33%
+- LLMs: 202 postings, or 73%
+- Python: 187, or 68%
+- AI agents: 162, or 58%
+- RAG: 147, or 53%
+- Prompt engineering: 122, or 44%
+- AWS: 105, or 38%
+- GCP: 95, or 34%
+- Azure: 88, or 32%
+- LangChain: 78, or 28%
+- CI/CD: 71, or 26%
+- Docker: 61, or 22%
+- Kubernetes: 56, or 20%
 
 Employers want LLM application skills, but they also expect engineers to work with APIs and customer data. Containers, cloud platforms, and deployment pipelines appear throughout the postings.
 
-AWS appears in 47% of the sample, GCP in 38%, and Azure in 34%. FDEs can't assume that every customer uses the same stack. They need to deploy into the environment already in place.
+AWS appears in 38% of the sample, GCP in 34%, and Azure in 32%. FDEs can't assume that every customer uses the same stack. They need to deploy into the environment already in place.
 
 ## This is not an entry-level title
 
 Most titles don't state a level, but the titles that do skew senior:
 
-- 107 titles have no seniority marker
-- 19 say Senior
-- 8 say Principal
-- 6 say Staff
-- 5 say Lead
-- 1 says Founding
-- 0 say Junior or entry-level
+- 194 titles have no seniority marker
+- 46 say Senior
+- 14 say Principal
+- 10 say Lead
+- 8 say Staff
+- 3 say Founding
+- 2 say Junior or entry-level
 
-The lack of a marker doesn't mean that 107 roles are junior. Their descriptions still ask for production ownership, customer communication, and broad technical judgment. None of the 146 titles explicitly targets junior or entry-level candidates.
+The lack of a marker doesn't mean that 194 roles are junior. Their descriptions still ask for production ownership, customer communication, and broad technical judgment. Only 2 of the 277 titles target junior or entry-level candidates.
 
 That makes sense given the work. An FDE has to make technical decisions in an unfamiliar customer environment, often before the requirements are clear. Companies are looking for engineers who can handle both the code and the conversation.
 
@@ -108,8 +102,8 @@ That makes sense given the work. An FDE has to make technical decisions in an un
 
 We draw three conclusions from our dataset:
 
-1. FDE hiring is outgrowing the AI engineering market. Live listings grew 4.2x while the full crawl grew 2.3x.
-2. Employers define the role through production delivery. Around nine in ten postings mention production work and direct customer interaction.
+1. FDE hiring is outgrowing the AI engineering market. Live listings grew 5.9x while the full crawl grew 3.4x.
+2. Employers define the role through production delivery. Around 86% of postings are classified as customer-facing.
 3. Employers ask for broad technical skills. Python, RAG, agents, cloud platforms, containers, and CI/CD all appear frequently.
 
 Job postings describe employer demand, not the exact day-to-day experience of every FDE. Our title match can miss similar jobs advertised under other names. For example, we also see Applied AI Engineer, Solutions Engineer, and Deployment Engineer. Read our numbers as a lower bound for this style of work, not a complete count.
@@ -118,8 +112,8 @@ AI companies need engineers who can bridge the gap between a working demo and a 
 
 ## Methodology
 
-We analyzed the seven scrape snapshots in [`job-market/_internal/data/scrapes`](../job-market/_internal/data/scrapes/) from February 4 through July 22, 2026.
+We analyzed the 10 scrape snapshots in [`job-market/_internal/data/scrapes`](../job-market/_internal/data/scrapes/) from February 4 through November 6, 2026.
 
-For the trend, we matched titles containing `FDE` or `forward deploy`, without case sensitivity. We calculated the role profile from the 146 matching job IDs in the [deduplicated dataset](../job-market/_internal/data/all_jobs_dedup.csv) and their latest available records in [`job-market/data_structured`](../job-market/data_structured/).
+For the trend, we matched titles containing `FDE` or `forward deploy`, without case sensitivity. We calculated the role profile from the 277 matching job IDs in the [deduplicated dataset](../job-market/_internal/data/all_jobs_dedup.csv) and their latest available records in [`job-market/data_structured`](../job-market/data_structured/).
 
-The responsibility figures use keyword groups across the structured responsibility bullets. The customer-facing and management figures come from the structured classifications produced by the Field Guide pipeline.
+The customer-facing and management figures come from the structured classifications produced by the Field Guide pipeline.

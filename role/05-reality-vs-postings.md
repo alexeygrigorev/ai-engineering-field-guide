@@ -70,10 +70,10 @@ Real challenges people report:
 
 | Dimension | Job Postings Say | People Actually Experience |
 |-----------|------------------|---------------------------|
-| RAG | Core skill (35.9% mention it) | Assumed baseline—evaluations matter more |
+| RAG | Core skill (40.1% mention it) | Assumed baseline—evaluations matter more |
 | Fine-tuning | Often mentioned | Rarely tested directly unless role-specific |
-| ML knowledge | 64% require some ML | Often lighter weight than production skills |
-| Full-stack | 93% require beyond-GenAI | Confirmed—end-to-end delivery expected |
+| ML knowledge | 63.5% require some ML | Often lighter weight than production skills |
+| Full-stack | 86.9% require beyond-GenAI | Confirmed—end-to-end delivery expected |
 | AI tools | Not usually mentioned | Increasingly tested (or ironically banned in interviews) |
 
 

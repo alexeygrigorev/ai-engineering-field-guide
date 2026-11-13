@@ -2,7 +2,7 @@
 
 Data-driven field guide to AI engineering roles, skills, and interviews. AI Engineering Field Guide is **the** go-to resource for AI engineering.
 
-Everything here is based on real data: 6,964 actual job descriptions, real interview experiences, and real stories from practitioners. This is not AI-generated filler dumped into a repo - every insight comes from analyzing actual data and synthesizing patterns from it.
+Everything here is based on real data: 9,760 actual job descriptions, real interview experiences, and real stories from practitioners. This is not AI-generated filler dumped into a repo - every insight comes from analyzing actual data and synthesizing patterns from it.
 
 Star this repo to keep an eye on updates. To get notified about new content, subscribe to my newsletter: [AI Shipping Blog](https://aishippingblog.com/).
 
@@ -11,11 +11,11 @@ Star this repo to keep an eye on updates. To get notified about new content, sub
 
 - [My vision of the role](role/01-my-vision.md) - how I see AI engineering, comparison with DS/ML/DE roles, CRISP-DM for AI
 - [Skills analysis](role/02-skills.md) - top skills, job types, cloud platforms, frameworks
-- [Responsibilities](role/03-responsibilities.md) - patterns extracted from 5,694+ job responsibilities
-- [Use cases](role/04-use-cases.md) - 4,525 real use cases showing what companies build with AI
+- [Responsibilities](role/03-responsibilities.md) - patterns extracted from 69,498 job responsibilities
+- [Use cases](role/04-use-cases.md) - 43,822 real use cases showing what companies build with AI
 - [Reality vs. job postings](role/05-reality-vs-postings.md) - what candidates experience vs. what's advertised
-- [Forward Deployed Engineers](role/06-fde.md) - growth, responsibilities, and skills from 146 FDE job postings
-- [Job market trends](role/07-trends.md) - month-over-month analysis of role archetypes, skill stacks, and trajectories across 8 scrapes
+- [Forward Deployed Engineers](role/06-fde.md) - growth, responsibilities, and skills from 277 FDE job postings
+- [Job market trends](role/07-trends.md) - month-over-month analysis of role archetypes, skill stacks, and trajectories across 10 scrapes
 
 
 ## Interview Preparation
@@ -52,7 +52,7 @@ Star this repo to keep an eye on updates. To get notified about new content, sub
 
 ## Job Market Data
 
-6,964 job descriptions scraped from builtin.com covering LA, NY, London, Amsterdam, Berlin, and India.
+9,760 job descriptions scraped from builtin.com covering LA, NY, London, Amsterdam, Berlin, and India.
 
 - [Structured job descriptions](job-market/data_structured/) - YAML files grouped by scrape date
 - [Raw extracted postings](job-market/data_raw/) - original extracted data grouped by scrape date

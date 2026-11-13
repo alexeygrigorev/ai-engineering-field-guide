@@ -1,45 +1,46 @@
 # AI Use Cases Analysis
 
-Based on 24,502 extracted use cases from 4,894 job descriptions across six monthly scrapes (Feb-Jun 2026).
+Based on 43,822 extracted use cases from 9,760 job descriptions across 10 monthly scrapes (Feb-Nov 2026).
 
-Methodology note: I collected all use cases into a single file and used AI (Claude) to analyze and categorize them. This is not a quantitative analysis like the [skills analysis](02-skills.md) (see the [analysis notebook](../job-market/analysis.ipynb) for that) - it's based on the questions I asked and the patterns Claude identified in the data. The category counts come from keyword matching, so a single use case can count toward more than one category, and the percentages below are mentions divided by the 24,502 total. It may be less precise than a strict statistical analysis, but I believe it's still representative of what's happening in the market.
+Methodology note: I collected all use cases into a single file and used AI (Claude) to analyze and categorize them. This is not a quantitative analysis like the [skills analysis](02-skills.md) (see the [analysis notebook](../job-market/analysis.ipynb) for that) - it's based on the questions I asked and the patterns Claude identified in the data. The category counts come from keyword matching, so a single use case can count toward more than one category, and the percentages below are mentions divided by the 43,822 total. It may be less precise than a strict statistical analysis, but I believe it's still representative of what's happening in the market.
 
 ## Summary
 
 The use cases reveal what companies are actually building with AI today. This is the real-world application landscape that AI Engineers work on daily.
 
-Total use cases extracted: 24,502
+Total use cases extracted: 43,822
 
-- AI-First roles: 18,167 use cases (74.1%)
-- AI-Support roles: 5,799 use cases (23.7%)
-- ML-First and unclassified roles: 536 use cases (2.2%)
+- AI-First roles: 31,537 use cases (72.0%)
+- AI-Support roles: 10,210 use cases (23.3%)
+- ML-First and unclassified roles: 2,075 use cases (4.7%)
 
 
-## Feb vs Jun: How the Market Shifted
+## Feb vs Nov: How the Market Shifted
 
-Comparing the first scrape (Feb 2026, 895 jobs, 4,525 use cases) with the latest (Jun 2026, 888 jobs, 4,292 use cases) shows what companies are shifting toward. The AI-First share rose from 69.4% to 75.9%.
+Comparing the first scrape (Feb 2026, 895 jobs) with the latest (Nov 2026, 1,709 jobs) shows what companies are shifting toward.
 
-Automation, enterprise operations, and retrieval pulled further ahead, while personalization and customer-facing Q&A declined.
+Agentic systems, retrieval, and document processing grew, while customer-facing Q&A and personalization declined.
 
 Biggest movers (change is in percentage points of jobs):
 
-| Use case | Feb | Jun | Change |
+| Use case | Feb | Nov | Change |
 |----------|-----|-----|--------|
-| Internal and Enterprise Operations | 50.6% | 64.2% | +13.6 |
-| Automating Manual Workflows | 62.2% | 72.9% | +10.6 |
-| Finding Information (RAG/Search) | 39.4% | 49.4% | +10.0 |
-| Agentic Systems | 48.5% | 55.3% | +6.8 |
-| Deploying AI to Production | 42.3% | 49.1% | +6.8 |
-| Personalizing Experiences | 18.0% | 8.6% | -9.4 |
-| Answering Customer Questions | 40.1% | 32.4% | -7.7 |
-| Creating Content at Scale | 38.9% | 36.3% | -2.6 |
+| Agentic Systems | 44.1% | 50.7% | +6.6 |
+| Finding Information (RAG/Search) | 28.3% | 31.7% | +3.4 |
+| Document Processing | 13.3% | 16.0% | +2.7 |
+| Internal Operational Efficiency | 50.7% | 51.4% | +0.6 |
+| Automating Manual Workflows | 52.7% | 52.1% | -0.6 |
+| Answering Customer Questions | 44.7% | 30.9% | -13.8 |
+| Personalizing Experiences | 14.9% | 6.3% | -8.6 |
+| Deploying AI to Production | 38.5% | 31.7% | -6.8 |
+| Data Analysis and Insights | 19.9% | 13.8% | -6.1 |
+| Creating Content at Scale | 33.5% | 27.6% | -6.0 |
 
 What this tells me:
 
-- The top three use cases all grew by double digits. Automation is now in 72.9% of jobs, and internal enterprise operations - risk, compliance, fraud, claims - is close behind at 64.2%.
-- Retrieval crossed toward half of all jobs (49.4%). Connecting LLMs to proprietary data is now standard, not niche.
-- Agentic systems became a majority use case (55.3%), matching the rise of agents in responsibilities.
-- Personalization fell the most (-9.4 points) and customer-facing Q&A declined too. The center of gravity is moving from consumer-facing features toward internal automation and enterprise operations.
+- Agentic systems became a majority use case (50.7% in November, up +6.6 points), matching the rise of agents in responsibilities.
+- Automation (52.1%) and internal enterprise operations (51.4%) remain the steady core of what companies build.
+- Customer-facing Q&A (-13.8 points) and personalization (-8.6 points) fell the most. The center of gravity continues to move from consumer-facing features toward internal automation, agentic workflows, and enterprise operations.
 
 
 ## Problems AI Solves Today
@@ -49,7 +50,7 @@ Organized by the user problem, not the technology. Ordered by frequency.
 
 ### Automating Manual Workflows
 
-5,848 mentions (23.9%); appears in 69.0% of jobs.
+9,056 mentions (20.7%); appears in 58.8% of jobs.
 
 Problem: Employees spend time on repetitive tasks that could be automated - data entry, document processing, workflow coordination, monitoring and alerting.
 
@@ -67,7 +68,7 @@ Concrete examples:
 
 ### Internal Operational Efficiency
 
-5,230 mentions (21.3%); appears in 60.6% of jobs.
+9,866 mentions (22.5%); appears in 57.5% of jobs.
 
 Problem: Enterprises have complex operations - risk management, compliance, regulatory reporting, revenue operations, fraud detection. These require specialized AI solutions.
 
@@ -85,7 +86,7 @@ Concrete examples:
 
 ### Agentic Systems
 
-3,797 mentions (15.5%); appears in 49.4% of jobs.
+7,749 mentions (17.7%); appears in 49.9% of jobs.
 
 Problem: Companies want AI that can take coordinated action across multiple steps, tools, and roles rather than answering a single prompt.
 
@@ -103,7 +104,7 @@ Concrete examples:
 
 ### Deploying AI to Production Reliably
 
-3,360 mentions (13.7%); appears in 46.1% of jobs.
+4,993 mentions (11.4%); appears in 37.5% of jobs.
 
 Problem: AI models work in notebooks but fail in production. Latency, scalability, reliability, and cost are major challenges.
 

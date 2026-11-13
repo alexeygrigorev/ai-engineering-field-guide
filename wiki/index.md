@@ -15,7 +15,7 @@ Catalog of every page in the wiki. Read this first when answering queries; updat
 ### Repo corpus (ingested 2026-09-09)
 
 - [Field guide overview](summaries/field-guide-readme.md) - README plus repo-meta files (CLAUDE.md, STYLING.md): what the repo is and its conventions
-- [Role section](summaries/role.md) - the AI engineer role from 6,964 job descriptions: role types, skills, responsibilities, use cases, FDE, trends
+- [Role section](summaries/role.md) - the AI engineer role from 9,760 job descriptions: role types, skills, responsibilities, use cases, FDE, trends
 - [Interview section](summaries/interview.md) - process structure, question bank (six categories), getting hired, after the interview, 2026 trends
 - [Portfolio section](summaries/portfolio.md) - the seven-step project method: types, selection, start, polish, present, mistakes, worked ideas
 - [Learning paths](summaries/learning-paths.md) - the core curriculum and five role-to-role transition guides
